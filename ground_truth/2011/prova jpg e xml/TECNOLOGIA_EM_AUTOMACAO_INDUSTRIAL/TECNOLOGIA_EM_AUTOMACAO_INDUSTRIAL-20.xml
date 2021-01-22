@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:02:51</Created>
+	<LastChange>2020-10-30T18:55:49</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-20.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="79,1294 1538,1294 1538,1352 1058,1352 1058,1818 656,1818 656,2013 129,2013 129,2009 81,2009 81,1353 79,1353"/>
+	<ImageRegion id="r1">
+	<Coords points="334,1373 334,1789 1284,1789 1284,1373"/></ImageRegion>
+	<TextEquiv conf="0.94807">
+	<Unicode>QUESTÃO 25
+A figura a seguir mostra os sinais de saída (s3s2s1s0) de um circuito lógico sequencial, bem como o sinal de clock
+aplicado. Antes do primeiro pulso de clock todos os flip-flops foram carregados com 0.
+s3
+Pela análise dos sinais na saída do circuito sequencial, conclui-se que ele é um
+contador de decádico.
+contador em anel torcido.
+contador em binário simples.
+contador em código de Gray.
+contador em BCD (Binary Coded Decimal).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1534,254 1534,347 1235,347 1235,1163 1411,1163 1411,1187 81,1187 81,1059 80,1059 80,348 79,348 79,254 96,254"/>
+	<ImageRegion id="r3">
+	<Coords points="147,371 147,839 1465,839 1465,371"/></ImageRegion>
+	<TextEquiv conf="0.96490">
+	<Unicode>QUESTÃO 24
+A NBR ISO 9001 — Sistema de Gestão da Qualidade dedica um item ao tratamento do não-conforme no processo
+produtivo. Para atender a esse requisito a equipe de qualidade coletou dados da produção para tomada de ações.
+A figura a seguir representa os dados da amostragem realizada durante o processo de produção de chapas.
+un
+Considerando as informações apresentadas, analise as seguintes afirmações.
+|. A probabilidade de encontrar espessuras acima de 5,20 mm é de 0,14%.
+Il. Existe a probabilidade de 68,26% de encontrar espessuras entre 4,90 e 5,10 mm.
+Ill. A maior probabilidade de reprovação está em espessuras maiores que o especificado.
+IV. A probabilidade de encontrar peças fora da tolerância é de 16,01%.
+E correto apenas o que se afirma em
+o. o. O lelv. O llelll. O lelvV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

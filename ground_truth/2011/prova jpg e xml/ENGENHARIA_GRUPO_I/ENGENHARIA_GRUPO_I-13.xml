@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:08:22</Created>
+	<LastChange>2020-10-29T23:29:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-13.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1533,254 1533,337 1536,337 1536,492 1355,492 1355,493 1173,493 1173,494 991,494 991,495 809,495 809,496 80,496 80,337 81,337 81,256 82,256 82,255 96,255"/>
+	<TextEquiv conf="0.96877">
+	<Unicode>QUESTÃO 18
+Em uma situação hipotética de implantação de uma obra de construção civil, foram solicitadas a um engenheiro júnior,
+pelo gerente do empreendimento, várias tarefas, destacando-se as relacionadas com as instalações elétricas.
+Como primeira tarefa, o gerente do empreendimento solicitou que o engenheiro fizesse a distribuição elétrica da
+iluminação de uma das salas do escritório da obra, que se encontra com suas tubulações secas (eletrodutos e caixas
+sem fiação) já distribuídas e que não poderão sofrer alteração alguma ou acréscimo. O circuito é único e monofásico.
+Considerando essas informações e a simbologia da norma ABNT NBR 5410, qual dos esquemas abaixo seria correto
+o engenheiro apresentar para o gerente, como a solução para a instalação solicitada?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="55,542 55,981 681,981 681,542"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="821,528 821,967 1447,967 1447,528"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="847,1033 847,1472 1473,1472 1473,1033"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="71,1038 71,1477 697,1477 697,1038"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="76,1533 76,1972 702,1972 702,1533"/></ImageRegion></Page></PcGts>

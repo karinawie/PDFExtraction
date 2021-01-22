@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T17:46:47</Created>
+	<LastChange>2020-09-23T17:46:55</LastChange></Metadata>
+	<Page imageFilename="biomedicina_2010-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,287 826,2097 831,2097 827,287"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="865,731 865,1317 1554,1317 1554,731"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="100,280 307,280 307,347 786,347 786,795 787,795 787,1445 553,1445 553,1501 228,1501 228,1720 100,1720 100,1470 156,1470 156,1144 163,1144 163,969 171,969 171,765 99,765 99,641 98,641 98,347 100,347"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 18
+As citocinas são proteínas regulatórias produzidas
+e secretadas por vários tipos celulares. Entre elas,
+destacam-se os interferons (IFN-a, IFN-B e IFN-y).
+A clonagem dos genes que codificam os três tipos
+de interferons possibilitou a produção dessas
+citocinas pelas indústrias de biotecnologia, o que
+reduziu substancialmente os custos de produção e
+tem possibilitado o uso clínico dessas citocinas em
+várias doenças.
+Considerando as células produtoras, as ações dos
+interferons e as possibilidades de uso clínico dessas
+citocinas, avalie as afirmativas a seguir.
+|. Os interferons são produzidos por macrófagos,
+induzem a diminuição da expressão de moléculas
+de MHC | e MCH Il, aumentam a atividade das
+células NK e podem ser empregados como
+tratamento das hepatites.
+II. IFN-0, IFN-B e IFN-y são secretados por
+macrófagos e células Th1, induzem o estado
+antiviral em células nucleadas e podem
+ser usados clinicamente nas doenças
+granulomatosas crônicas.
+II. IFN-a0, IFN-B e IFN-y são secretados por
+diferentes tipos celulares e aumentam a
+expressão de moléculas de MHC |, sendo que
+IFN-a pode ser utilizado para o tratamento de
+vários tipos de neoplasias malignas.
+IV. O IFN-y é secretado por células Th1, melhora a
+capacidade das células fagocíticas na eliminação
+de patógenos e pode ser utilizado no tratamento
+da doença granulomatosa crônica.
+É correto apenas o que se afirma em
+O lei.
+O lei.
+O lelv.
+O llelv.
+O lNelv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="867,280 1075,280 1075,351 1554,351 1554,522 1553,522 1553,691 1243,691 1243,1393 1553,1393 1553,1491 1554,1491 1554,2101 1212,2101 1212,2102 869,2102 869,2103 868,2103 868,1493 867,1493 867,693 866,693 866,352 867,352"/>
+	<TextEquiv conf="0.55751">
+	<Unicode>QUESTÃO 19
+A compreensão da fisiologia da excreção da bilirrubina
+pelo fígado e a utilização de alguns testes simples
+tornam possível o diagnóstico diferencial das icterícias.
+As causas de icterícia podem ser pré-hepáticas, intra-
+hepáticas e pós-hepáticas.
+O quadro a seguir contém dados acerca das alterações
+dos níveis de bilirrubina no plasma sanguíneo e da
+presença ou ausência de bilirrubina e urobilinogênio na
+urina dos indivíduos 1, 2 e 3 ictéricos.
+(N) valores normais (1) valores aumentados
+Os resultados apresentados no quadro acima permitem
+concluir, em relação à causa da icterícia, que
+O o indivíduo 3 apresenta causa intra-hepática, pois
+o urobilinogênio não está sendo sintetizado no
+fígado.
+O o indivíduo 1 apresenta causa intra-hepática, pois
+o fígado não produz bilirrubina para ser excretada
+na urina.
+O oindivíduo 2 apresenta causa pós-hepática, pois
+a bilirrubina e o urobilinogênio estão presentes
+na urina.
+O o indivíduo 3 apresenta causa pós-hepática, pois a
+bilirrubina conjugada está aumentada, o que indica
+que não é excretada na bile.
+O o indivíduo 2 apresenta causa pré-hepática,
+pois a bilirrubina conjugada está aumentada e o
+urobilinogênio é sintetizado no fígado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

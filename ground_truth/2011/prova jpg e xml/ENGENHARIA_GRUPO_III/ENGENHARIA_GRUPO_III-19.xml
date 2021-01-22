@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:36:12</Created>
+	<LastChange>2020-10-30T00:52:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-19.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="841,192 1015,192 1015,263 1535,263 1535,668 1512,668 1512,878 1469,878 1469,898 1385,898 1385,1123 1535,1123 1535,2002 826,2002 826,1534 824,1534 824,1508 825,1508 825,1123 826,1123 826,1065 834,1065 834,669 825,669 825,579 824,579 824,264 825,264 825,263 841,263"/>
+	<ImageRegion id="r1">
+	<Coords points="844,681 844,1050 1513,1050 1513,681"/></ImageRegion>
+	<TextEquiv conf="0.96778">
+	<Unicode>QUESTÃO 34
+A laminação de metais, conforme figura, é um processo
+unitário de conformação mecânica no qual um material
+(peça), durante sua passagem entre rolos ou cilindros
+(ferramentas), é
+compressivas, ao mesmo tempo em que sofre tensões
+cisalhantes superficiais
+os rolos e o material. As forças de fricção geradas são
+também
+submetido a elevadas tensões
+resultantes da fricção entre
+responsáveis pela tração e movimentação
+do material, pois, durante a operação, os rolos giram à
+mesma velocidade periférica, mas em sentido contrário.
+ESPESSURA ESPESSURA
+INICIAL FINAL
+ho Li
+Nesse contexto, avalie as asserções a seguir.
+Esse processo é preferivelmente empregado na fabricação
+de roscas em elementos de fixação, como parafusos, em
+comparação ao processo de usinagem de roscas.
+PORQUE
+Roscas laminadas apresentam, via de regra, alta
+produtividade, economia de material, melhor acabamento
+superficial, redução da
+sensibilidade ao entalhe e maior resistência à fadiga.
+maior resistência no flanco,
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1124 270,1124 270,1186 790,1186 790,1530 789,1530 789,1667 230,1667 230,1719 229,1719 229,1980 176,1980 176,1998 81,1998 81,1695 82,1695 82,1530 78,1530 78,1426 80,1426 80,1186 96,1186"/>
+	<TextEquiv conf="0.96659">
+	<Unicode>QUESTÃO 33
+Os modelos mais precisos de sistemas físicos são não
+lineares. Exemplo disso é o sistema de um pêndulo simples,
+definido como uma partícula de massa m (desprezível),
+suspenso por um fio inextensível de comprimento L,
+cuja equação diferencial que descreve o movimento do
+pêndulo é
+A resolução da equação é simplificada por linearização
+(em função da amplitude) resultando em
+Isso ocorre quando se supõe aproximadamente igual a
+A 0 rad.
+B p rad. 6
+C p rad. 4
+D p rad. 3
+E p rad. 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,254 790,254 790,877 556,877 556,902 257,902 257,1085 105,1085 105,1087 81,1087 81,902 80,902 80,254 96,254"/>
+	<ImageRegion id="r6">
+	<Coords points="171,421 171,742 692,742 692,421"/></ImageRegion>
+	<TextEquiv conf="0.93952">
+	<Unicode>QUESTÃO 32
+O rotor principal de uma máquina apresentou vibração
+excessiva causada pelo desbalanceamento das massas
+que giram conjuntamente. Na figura, tem-se uma
+representação desse rotor rígido e das três massas, que
+giram a uma velocidade angular w constante.
+Se as cotas da figura estão em mm e as massas pesam
+m1 = 20 N, m2 = 30 N e m3 = 15 N, com r1 = 100 mm,
+r2
+ = 80 mm e r3
+ = 80 mm, qual o valor da distância axial “a”,
+medida a partir da posição axial da massa m2
+, que deve
+ser adiconada à massa balanceadora?
+A 42,86 mm.
+B 75 mm.
+C 90 mm.
+D 150 mm.
+E 300 mm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

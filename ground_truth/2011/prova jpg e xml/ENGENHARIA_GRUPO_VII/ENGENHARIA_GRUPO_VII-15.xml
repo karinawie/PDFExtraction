@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T05:47:47</Created>
+	<LastChange>2020-11-16T03:16:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-15.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="119,192 270,192 270,264 1536,264 1536,461 1535,461 1535,685 1354,685 1354,686 1172,686 1172,687 990,687 990,688 808,688 808,689 80,689 80,556 81,556 81,408 80,408 80,264 119,264"/>
+	<TextEquiv conf="0.94260">
+	<Unicode>QUESTÃO 23
+O balanço de massa de qualquer elemento é a contabilização das massas de entrada e de saída em um volume de
+controle (VC), além das reações e acumulações de massa no interior do sistema. A equação abaixo expressa o balanço
+de massa do elemento água, em termos de volume, em um modelo físico de reservatório em escala reduzida.
+Na equação a seguir, a variação do volume de água ao longo do tempo no VC é igual ao somatório dos volumes de
+entrada subtraído dos de saída, ambos expressos em m?/d.
+dv ;
+— = 10 — (11 +1,21)
+dt
+Considerando o volume inicial do reservatório de 1 000 m? e a equação diferencial apresentada acima, é possível
+calcular a variação do volume de água ao longo do tempo. Qual dos gráficos a seguir representa adequadamente o
+comportamento dos volumes de água no VC ao longo do tempo?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="73,734 73,1094 718,1094 718,734"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="828,733 828,1093 1473,1093 1473,733"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="820,1180 820,1540 1465,1540 1465,1180"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="59,1183 59,1543 704,1543 704,1183"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="78,1614 78,1974 723,1974 723,1614"/></ImageRegion></Page></PcGts>

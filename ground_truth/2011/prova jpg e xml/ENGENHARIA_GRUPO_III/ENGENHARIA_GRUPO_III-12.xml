@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:37:48</Created>
+	<LastChange>2020-10-30T00:58:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-12.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,192 1015,192 1015,256 1535,256 1535,257 1536,257 1536,752 910,752 910,1504 1284,1504 1284,1608 1456,1608 1456,1660 1535,1660 1535,1794 1161,1794 1161,1885 1146,1885 1146,1926 1138,1926 1138,2008 875,2008 875,2005 826,2005 826,1794 825,1794 825,1582 824,1582 824,1504 826,1504 826,752 824,752 824,256 841,256"/>
+	<TextEquiv conf="0.96789">
+	<Unicode>QUESTÃO 18
+O petróleo é retirado das jazidas por meio de perfurações
+na crosta terrestre, através das quais se atinge o poço
+petrolífero. Inicialmente, o petróleo jorra espontaneamente,
+em razão da grande pressão de seus gases. Uma empresa
+especializada em perfurar poços foi contratada para
+pesquisar a existência de petróleo em uma região. Durante
+o processo de perfuração, verificou-se que, ao atingir 100 m
+de profundidade, o poço jorra petróleo espontaneamente a
+uma altura h = 18 m acima do solo. A empresa pede para
+um especialista fazer uma análise desse problema clássico.
+Após esquematizar o problema conforme figura abaixo, ele
+considera razoável admitir que as perdas por atrito com o
+ar são em torno de 10% da carga total do jato de petróleo
+na saída do poço.
+Dados:
+Aceleração da gravidade g = 10 m/sº.
+Área da seção do poço = 5 cm?.
+Perda de carga no trecho 2-3 é equivalente a 50 m.
+Considerando os resultados obtidos pelo especialista, a
+partir de uma análise quantitativa, conclui-se que a vazão
+volumétrica na saída do poço de petróleo e a pressão P2
+na entrada do poço são, respectivamente, iguais a
+0,1 mê/s e -4,0 kgf/cm?.
+0,1 mê/s e 12,0 kgf/cm?.
+0,1 mê/s e 8,0 kgf/cm?.
+1 mº/s e 4,0 kgf/cm?.
+1 mê/s e 12,0 kgf/cm?.
+cCogGoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="847,768 847,1431 1510,1431 1510,768"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,263 790,263 790,264 791,264 791,796 790,796 790,2002 81,2002 81,796 79,796 79,263 96,263"/>
+	<ImageRegion id="r4">
+	<Coords points="81,818 81,1486 786,1486 786,818"/></ImageRegion>
+	<TextEquiv conf="0.96335">
+	<Unicode>QUESTÃO 17
+A segunda lei da termodinâmica pode ser usada para
+avaliar propostas de construção de equipamentos e
+verificar se o projeto é factível, ou seja, se é possível de
+ser construído. Considere a situação em que um inventor
+alega ter desenvolvido um equipamento que trabalha
+segundo o ciclo termodinâmico de potência mostrado na
+figura. O equipamento retira 800 kJ de energia, na forma
+de calor, de um dado local que se encontra na temperatura
+de 1000 K, desenvolve uma dada quantidade líquida de
+trabalho para a elevação de um peso e descarta 300 kJ
+de energia, na forma de calor, para outro local que se
+encontra a 500 K de temperatura. A eficiência térmica do
+ciclo é dada pela equação fornecida.
+Nessa situação, a alegação do inventor é
+O correta, pois a eficiência de seu equipamento é de
+50% e é menor que a eficiência teórica máxima.
+O incorreta, pois a eficiência de seu equipamento é de
+50% e é maior do que a eficiência teórica máxima.
+O correta, pois a eficiência de seu equipamento é de
+62,5% e é menor do que a eficiência teórica máxima.
+O incorreta, pois a eficiência de seu equipamento é de
+62,5% e é maior do que a eficiência teórica máxima.
+O incorreta, pois a eficiência de seu equipamento é de
+62,5% e é menor do que a eficiência teórica máxima.</Unicode></TextEquiv></TextRegion></Page></PcGts>

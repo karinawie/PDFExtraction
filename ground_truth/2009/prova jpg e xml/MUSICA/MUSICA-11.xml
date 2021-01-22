@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T21:34:56</Created>
+	<LastChange>2021-01-19T19:03:50</LastChange></Metadata>
+	<Page imageFilename="MUSICA-11.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r3">
+	<Coords points="817,295 818,944 821,944 820,295"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="129,1559 129,1824 1435,1824 1435,1559"/></ImageRegion>
+	<TextRegion id="r78" type="paragraph">
+	<Coords points="869,297 1069,297 1069,372 1527,372 1527,450 1450,450 1450,631 1465,631 1465,657 1307,657 1307,706 919,706 919,707 896,707 896,709 870,709 870,555 868,555 868,486 869,486"/>
+	<TextEquiv conf="0.92313">
+	<Unicode>QUESTÃO 12:
+Os instrumentos harpa, triângulo e timpano
+classificam-se, respectivamente, como
+A) aerofone, metalofone e aerofone.
+B) aerofone, metalofone e membranofone.
+C) cordofone, idiofone e membranofone.
+D) cordofone, metalofone e membranofone.
+E) idiofone, aerofone e idiofone.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="145,413 145,543 737,543 737,413"/></ImageRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords points="112,297 311,297 311,372 505,372 505,583 768,583 768,612 348,612 348,831 291,831 291,880 260,880 260,929 112,929 112,705 111,705 111,704 112,704"/>
+	<TextEquiv conf="0.93702">
+	<Unicode>QUESTÃO 11:
+Considere o ritmo a seguir:
+Esse ritmo caracteriza qual gênero musical
+brasileiro?
+A) Baião.
+B) Coco de roda.
+C) Frevo.
+D) Maracatu.
+E) Samba.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="112,1048 311,1048 311,1127 1180,1127 1180,1156 565,1156 565,1288 644,1288 644,1387 787,1387 787,1415 113,1415 113,1416 112,1416 112,1212 111,1212 111,1128 112,1128"/>
+	<TextEquiv conf="0.93135">
+	<Unicode>QUESTÃO 13:
+A metodologia de solfejo, denominada Dó Móvel, tem como característica
+A) a flexibilidade de afinação.
+B) a transposição para Dó Maior.
+C) a utilização obrigatória do diapasão.
+D) o emprego do metrônomo.
+E) o uso de nomes fixos para os graus da escala.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r103" type="heading">
+	<Coords points="112,1443 311,1443 311,1519 1016,1519 1016,1851 1277,1851 1277,1879 1115,1879 1115,1985 900,1985 900,1880 347,1880 347,2040 111,2040 111,1898 112,1898"/>
+	<TextEquiv conf="0.96622">
+	<Unicode>QUESTÃO 14:
+Considere este trecho musical, da Fantasia KV 397, de Mozart:
+Os números indicados sob os compassos representam a progressão harmônica
+A)I=N=Vi-l
+B)i-iv—Vi-i
+C)i-Vi-Vi-i
+D)i-=V-viiç-i
+E) ls=V-V-lk</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:14:58</Created>
+	<LastChange>2020-10-30T03:24:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VIII-11.jpg" imageWidth="1616" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="807,194 807,2005 808,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="884,982 1015,982 1015,1033 1535,1033 1535,1305 1536,1305 1536,1784 1279,1784 1279,1811 956,1811 956,2002 849,2002 849,2004 826,2004 826,1785 832,1785 832,1778 919,1778 919,1545 920,1545 920,1421 919,1421 919,1333 874,1333 874,1285 825,1285 825,1179 824,1179 824,1033 884,1033"/>
+	<TextEquiv conf="0.09410">
+	<Unicode>QUESTÃO 16
+A fiel aplicação do Código Florestal Brasileiro é ainda
+um grande desafio. A Resolução CONAMA 303/2002
+estabelece a largura da faixa de proteção ao longo
+dos cursos d'água em função da largura da planície de
+inundação, atingida por ocasião da cheia sazonal.
+Considerando o uso do sensoriamento remoto orbital
+para apoiar a delimitação das APPs ao longo dos cursos
+d'água, avalie as afirmações que se seguem.
+|. A resolução radiométrica dos radares orbitais
+atualmente em operação não permite detectar
+cursos d'água com a largura mínima especificada
+no Código Florestal em vigor.
+Por não sofrerem interferência de nuvens nem
+dependerem da energia emitida pelo sol, as
+imagens produzidas por radares são preferíveis
+àquelas produzidas por sensores óticos.
+As imagens Landsat 7/ETM+ possuem resolução
+espacial adequada ao mapeamento das planícies
+de inundação.
+Devido à presença de nuvens durante o período
+chuvoso, a utilização de imagens produzidas por
+sensores óticos orbitais deverá ser restrita ao
+conjunto daquelas produzidas durante a época
+, das secas.
+É correto apenas o que se afirma em
+l.
+WU.
+lei.
+Nelv.
+Weliv.
+cCoçGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,194 1015,194 1015,240 1533,240 1533,286 1535,286 1535,372 1534,372 1534,560 1535,560 1535,960 873,960 873,956 826,956 826,690 824,690 824,625 825,625 825,372 824,372 824,240 841,240"/>
+	<TextEquiv conf="0.74567">
+	<Unicode>QUESTÃO 15
+Avalie as asserções a seguir e a relação proposta entre elas.
+A amostragem sistemática com múltiplos inícios aleatórios
+é mais precisa do que aquela com início aleatório para
+populações com correlação serial.
+PORQUE
+O aumento do número de inícios aleatórios faz a
+distribuição das unidades aproximar-se de uma amostra
+aleatória, reduzindo a variância da média e aumentando a
+eficiência da amostragem sistemática.
+PÉLLICO NETTO, S., BRENA, D.A. Inventário florestal.) Curitiba: [s.e.], 1993.
+248p. (com adaptações
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+As duas asserções são proposições falsas.
+o ooo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="139,189 270,189 270,241 791,241 791,535 790,535 790,1112 534,1112 534,1160 234,1160 234,1372 130,1372 130,1371 81,1371 81,1130 175,1130 175,892 174,892 174,779 129,779 129,658 80,658 80,535 79,535 79,241 139,241"/>
+	<TextEquiv conf="0.95994">
+	<Unicode>QUESTÃO 14
+A altura total de uma árvore pode ser obtida por
+medição ou estimação. É uma variável empregada para
+estimar o volume do fuste, em equações de volume, bem
+como para determinar a capacidade produtiva de terrenos
+florestais. Com relação aos instrumentos para medir a
+altura de árvores indiretamente (hipsômetros), todos,
+sem exceção, têm sua construção baseada nos princípios
+geométricos ou trigonométricos.
+MACHADO, S., FIGUEIREDO FILHO, A. Dendrometria. 2 ed. Guarapuava:
+UNICENTRO, 2009. 316p. (com adaptações)
+Sobre os hipsômetros, avalie as afirmações que se seguem.
+I. Os hipsômetros geométricos são graduados
+com base em relações angulares de triângulos
+retângulos.
+II. Os hipsômetros trigonométricos são mais precisos
+do que os construídos com base no princípio
+geométrico.
+III. Os hipsômetros geométricos têm a vantagem
+de não necessitar de medidas de distâncias do
+operador à árvore.
+IV. Os hipsômetros trigonométricos são graduados
+com base em relações angulares de triângulos
+semelhantes.
+É correto apenas o que se afirma em
+A I e II.
+B II e III.
+C III e IV.
+D I, II e IV.
+E I, III e IV. </Unicode></TextEquiv></TextRegion></Page></PcGts>

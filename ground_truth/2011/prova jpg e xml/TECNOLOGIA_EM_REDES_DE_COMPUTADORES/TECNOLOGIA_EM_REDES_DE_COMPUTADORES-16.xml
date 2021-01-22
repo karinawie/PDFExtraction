@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T22:48:33</Created>
+	<LastChange>2021-01-20T12:45:17</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-16.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,192 1015,192 1015,257 1535,257 1535,1316 1536,1316 1536,1484 872,1484 872,1316 873,1316 873,1181 872,1181 872,1015 873,1015 873,883 826,883 826,689 825,689 825,530 824,530 824,257 841,257"/>
+	<TextEquiv conf="0.96841">
+	<Unicode>QUESTÃO 26
+Na transmissão de dados em uma rede WAN
+a comunicação normalmente se dá mediante a
+transmissão de dados da origem ao destino por uma
+rede de nós de comutação intermediários. Os nós de
+comutação não se ocupam do conteúdo dos dados,
+em vez disso, sua finalidade é fornecer um recurso de
+comutação que moverá os dados de nó para nó até que
+alcancem seu destino.
+STALLINGS, W. Redes e sistemas de comunicação de dados: teoria e
+aplicações corporativas. 5. ed. Rio de Janeiro: Elsevier, 2005. p. 249-266.
+Sobre a diferença entre as técnicas de comutação de
+circuito e comutação de pacote, assinale a opção correta.
+O Quando o tráfego se torna pesado em uma rede de
+comutação de circuitos, algumas chamadas são
+bloqueadas até que se diminua a carga, enquanto
+na rede de comutação de pacotes, esses ainda são
+aceitos, mas o retardo de entrega aumenta.
+Na rede de comutação de circuitos, a conexão entre
+dois nós pode ser variada, já em comutação de
+pacotes, a velocidade entre dois nós é constante.
+Na comunicação em comutação de circuitos, existe
+uma fase para o estabelecimento de conexão,
+enquanto na comutação de pacotes há três fases:
+estabelecimento de conexão, transferência de
+dados, desconexão.
+A comutação de circuitos é a tecnologia dominante
+na comunicação de dados, enquanto a comutação de
+pacotes é dominante na transmissão de voz.
+Na comutação de circuitos, a eficiência na utilização
+da linha é maior, já que um único enlace de nó para
+nó pode ser compartilhado, enquanto na comutação
+de pacotes, a eficiência da utilização da linha é menor
+devido a um enlace de nó para nó ser pré-alocado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,255 791,255 791,469 792,469 792,563 790,563 790,1235 534,1235 534,1276 211,1276 211,1485 104,1485 104,1487 81,1487 81,1246 174,1246 174,935 175,935 175,739 129,739 129,563 80,563 80,447 79,447 79,255 96,255"/>
+	<TextEquiv conf="0.90046">
+	<Unicode>QUESTÃO 25
+No projeto de uma rede de computadores, o gerente do
+sistema deve ser capaz de depurar problemas, controlar
+o roteamento e localizar dispositivos que apresentam
+comportamento fora da especificação. Uma das
+ferramentas utilizadas para suportar essas ações é o
+protocolo de gerência de redes.
+Considerando a utilização do protocolo SNMP (Simple
+Network Management Protocol), versão 3, avalie as
+afirmações que se seguem.
+I. AMIB (Management Information Base) padrão
+(mib-ll) contém informações que permitem à
+aplicação gerente recuperar a tabela de rotas de
+um dispositivo IP, possibilitando a descoberta de
+erros de roteamento.
+II.Para a investigação de defeitos em uma rede,
+através do SNMP, é necessário que todos os
+dispositivos gerenciados sejam desligados para
+iniciar seus contadores. Depois, esses dispositivos
+devem ser ligados simultaneamente.
+III.Qualquer dispositivo gerenciado via SNMP pode
+fornecer dados sobre erros e tráfego de suas
+interfaces, permitindo o acompanhamento de
+problemas e o monitoramento de desempenho
+das mesmas.
+IV.AMIB (Management Information Base) padrão (mib-ll)
+possui entradas para a ativação de procedimentos de
+teste, tais como a medição do tempo de resposta de
+uma aplicação Cliente/Servidor.
+É correto apenas o que se afirma em
+A I
+B II
+C IeIII
+D IIeIV
+E IIIeIV</Unicode></TextEquiv></TextRegion></Page></PcGts>

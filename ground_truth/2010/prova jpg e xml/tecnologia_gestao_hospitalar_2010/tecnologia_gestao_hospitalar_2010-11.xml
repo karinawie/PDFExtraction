@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T14:47:42</Created>
+	<LastChange>2020-10-27T14:56:46</LastChange></Metadata>
+	<Page imageFilename="tecnologia_gestao_hospitalar_2010-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="826,287 824,2097 827,2097 829,287"/></SeparatorRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="867,1235 1075,1235 1075,1303 1553,1303 1553,1491 1554,1491 1554,1804 1553,1804 1553,1894 987,1894 987,2098 867,2098 867,1894 866,1894 866,1834 924,1834 924,1711 932,1711 932,1601 939,1601 939,1465 867,1465"/>
+	<TextEquiv conf="0.53737">
+	<Unicode>QUESTÃO 20
+O gestor de uma rede de hospitais afirmou, em reunião
+administrativa, que a crise econômica mundial não
+provocou impactos significativos nas finanças dos
+hospitais da rede no ano de 2009. Para justificar sua
+análise, elencou três ações realizadas em sua gestão.
+l. Estudo — prévio da funcionalidade dos
+equipamentos e do custo/benefício de novas
+aquisições.
+Il. Aquisição de novos equipamentos, em
+substituição àqueles atualmente sem custo de
+manutenção.
+Ill. Centralização das compras junto a poucos
+fornecedores, ampliando o poder de negociação
+da rede.
+Quanto à melhoria do processo de compras nessa rede
+de hospitais, é correto apenas o que se afirma em
+o.
+o
+(CCANIIR
+O lei.
+O lei.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="867,280 1075,280 1075,351 1556,351 1556,632 1555,632 1555,633 1554,633 1554,1207 867,1207 867,633 866,633 866,351 867,351"/>
+	<TextEquiv conf="0.56128">
+	<Unicode>QUESTÃO 19
+Os estoques das farmácias hospitalares abrigam
+grande diversidade de produtos, e cada medicamento
+possui “características gerenciais específicas. A
+demanda por esses produtos é caracterizada por sua
+alta imprevisibilidade, combinada com o fato de alguns
+medicamentos serem imprescindíveis, o que torna o
+gerenciamento desse tipo de estoque uma operação
+complexa. Nesse contexto, o gestor hospitalar pode
+O manteros estoques em nível máximo de consumo,
+de forma a minimizar problemas com a falta de
+medicamentos críticos.
+O recorrer a procedimentos de compra adotando a
+gestão justin time, com o objetivo de manter estoque
+zero e baixar os custos.
+O manter os estoques em nível mínimo de consumo
+para todos os medicamentos, para garantir a melhor
+gestão dos custos.
+O realizar a padronização dos medicamentos em
+grupos, levando em conta o custo e a natureza do
+consumo, com base na gestão activity based cost.
+O recorrer à especialização do estoque segundo
+a gestão supply chain management, já que os
+medicamentos não são padronizáveis.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r10">
+	<Coords points="91,1091 91,1577 791,1577 791,1091"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="100,280 308,280 308,351 786,351 786,488 522,488 522,708 146,708 146,705 100,705 100,487 99,487 99,351 100,351"/>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO 17
+No que se refere à gestão e ao acompanhamento
+de contratos, assinale a alternativa que apresenta
+o instrumento utilizado para controle das atividades
+planejadas e realizadas.
+plano de trabalho
+contrato orçamentário
+planejamento de pessoal
+compromisso de execução
+contrato registrado em cartório</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="100,739 307,739 307,811 786,811 786,1826 788,1826 788,1930 787,1930 787,2101 100,2101 100,1669 99,1669 99,1070 98,1070 98,811 100,811"/>
+	<TextEquiv conf="0.96434">
+	<Unicode>QUESTÃO 18
+O gráfico abaixo mostra os custos médios de
+três modelos diferentes de atendimento de certa
+especialidade, propostos por uma empresa de
+consultoria em gestão hospitalar. As curvas de custo
+médio apresentam comportamento linear em função do
+tempo de atendimento (u.m. - unidades de moeda;
+u.t. - unidades de tempo).
+Como base nos dados apresentados no gráfico, assinale
+a opção correta.
+O O custo médio do modelo B é de 6 u.m. por u.t.
+O O custo médio do atendimento por unidade de tempo
+no modelo C, em u.m. por u.t., é igual a 10.
+O Em t= 2 ut, o custo médio do atendimento por
+unidade de tempo do modelo A é 4 vezes maior do
+que o do modelo C.
+O Emt=7 ut. os modelos apresentam o mesmo custo
+médio por unidade de tempo.
+O Em t=4 ut, o custo médio do atendimento do
+modelo A é dez vezes maior que o do modelo B.</Unicode></TextEquiv></TextRegion></Page></PcGts>

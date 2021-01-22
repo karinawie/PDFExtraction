@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T22:30:21</Created>
+	<LastChange>2020-11-16T02:08:50</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-09.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="826,473 826,1039 1560,1039 1560,473"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,252 790,252 790,423 791,423 791,815 534,815 534,884 242,884 242,1086 130,1086 130,1084 81,1084 81,855 174,855 174,709 152,709 152,452 129,452 129,402 80,402"/>
+	<TextEquiv conf="0.94701">
+	<Unicode>QUESTÃO 9
+O levantamento de requisitos é uma etapa fundamental do
+projeto de sistemas. Dependendo da situação encontrada,
+uma ou mais técnicas podem ser utilizadas para a
+elicitação dos requisitos. A respeito dessas técnicas,
+analise as afirmações a seguir.
+|. Workshop de requisitos consiste na realização
+de reuniões estruturadas e delimitadas entre os
+analistas de requisitos do projeto e representantes
+do cliente.
+Cenário consiste na observação das ações do
+funcionário na realização de uma determinada
+tarefa, para verificar os passos necessários para
+sua conclusão.
+. As entrevistas são realizadas com os stakeholders
+e podem ser abertas ou fechadas.
+A prototipagem é uma versão inicial do sistema,
+baseado em requisitos levantados em outros
+sistemas da organização.
+É correto apenas o que se afirma em
+leill.
+lei.
+Nelv.
+LINeilv.
+1, Meilv.
+cCoçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,1179 789,1179 789,1436 790,1436 790,1492 789,1492 789,1614 790,1614 790,2006 126,2006 126,1716 127,1716 127,1637 81,1637 81,1492 79,1492 79,1436 80,1436"/>
+	<TextEquiv conf="0.95435">
+	<Unicode>QUESTÃO 10
+Várias técnicas relacionadas à programação
+extrema (XP) são diretamente ligadas ao código,
+incluindo a refatoração, programação em pares e
+integração contínua. A programação em pares é a
+prática preferida dos desenvolvedores XP trabalhando
+em pares em um computador.
+SCOTT, K. O Processo Unificado Explicado. Porto Alegre: Artmed, 2002.
+BECK, K. Programação Extrema (XP) Explicada. Porto Alegre: Artmed, 2000.
+A programação em pares auxilia no desenvolvimento de
+código de melhor qualidade quando os pares
+O elaboram e utilizam padrões de codificação
+conjuntamente, os quais, quando utilizados corretamente
+e apropriadamente, reduzem problemas individuais.
+estão acostumados ao desenvolvimento e à propriedade
+coletiva, limitando-se a fazer pequenas mudanças na
+ocorrência de erros em tempo de execução.
+minimizam os riscos de insucesso no projeto através
+da utilização de ferramentas para a geração automática
+de testes funcionais e protótipos de interface.
+escrevemtestes em separado e discutem os resultados
+posteriormente, o que dá a eles a chance de se
+sintonizarem antes de começarem a implementação.
+trabalham em projetos complexos onde a codificação
+seja desenvolvida de forma conjunta, minimizando erros
+e agregando valor onde quer que o sistema necessite.
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 1009,192 1009,260 1535,260 1535,1110 1536,1110 1536,1496 1535,1496 1535,2011 873,2011 873,1697 826,1697 826,1553 824,1553 824,1110 825,1110 825,260 841,260"/>
+	<TextEquiv conf="0.96724">
+	<Unicode>QUESTÃO 11
+O conjunto de casos de uso representa as possíveis
+interações que serão representadas nos requisitos do
+sistema. A figura a seguir desenvolve um exemplo de
+biblioteca e mostra outros casos de uso (use-cases) nesse
+ambiente.
+Com relação ao tema, analise as asserções a seguir.
+Afigura também ilustra os pontos essenciais da notação de
+casos de uso. Os agentes no processo são representados
+por bonecos e cada tipo de interação é representada por
+uma elipse com um nome
+PORQUE
+a UML é um padrão para a modelagem orientada a objetos
+e, assim, os casos de uso e a obtenção de requisitos com
+base em casos de uso são cada vez mais utilizados para
+obter requisitos.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

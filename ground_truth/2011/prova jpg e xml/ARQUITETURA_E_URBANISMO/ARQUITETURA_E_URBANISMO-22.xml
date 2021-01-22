@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:36:03</Created>
+	<LastChange>2020-09-23T20:36:35</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_E_URBANISMO-22.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1534,254 1534,411 1535,411 1535,469 81,469 81,470 80,470 80,347 79,347 79,254 96,254"/>
+	<TextEquiv conf="0.96338">
+	<Unicode>QUESTÃO 29
+A maneira mais lógica de analisar a relação entre projeto e estrutura é começar pelo vínculo entre estrutura e forma
+edificada. Esse vínculo é determinado pelo grau com que a forma edificada satisfaz a função básica da estrutura: a
+transmissão das cargas até o solo.
+LEUPEN, B. et al. Proyecto y análisis: Evolución de los princípios en arquitectura. Barcelona, Gustavo Gili, 1999.
+Considerando o princípio definido no texto — vínculo entre estrutura e forma -—, assinale a opção que apresenta a
+edificação em que esse princípio é mais evidente.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="173,492 173,1021 747,1021 747,492"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="986,492 986,1023 1486,1023 1486,492"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="873,1081 873,1544 1478,1544 1478,1081"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="194,1055 194,1489 752,1489 752,1055"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="205,1539 205,1976 765,1976 765,1539"/></ImageRegion></Page></PcGts>

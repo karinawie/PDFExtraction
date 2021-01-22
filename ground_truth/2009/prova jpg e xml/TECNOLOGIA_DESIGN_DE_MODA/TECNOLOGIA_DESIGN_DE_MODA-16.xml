@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T00:30:22</Created>
+	<LastChange>2020-10-27T00:37:34</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESIGN_DE_MODA-16.jpg" imageWidth="1637" imageHeight="2188">
+	<ImageRegion id="r4">
+	<Coords points="936,1226 937,1683 1109,1683 1108,1226"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="189,1197 189,1718 570,1718 570,1197"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="112,885 311,885 311,1011 1527,1011 1527,1145 583,1145 583,1771 1307,1771 1307,1807 1330,1807 1330,1912 1492,1912 1492,1941 113,1941 113,1906 112,1906 112,1800 111,1800 111,1771 112,1771 112,1146 111,1146 111,1011 112,1011"/>
+	<TextEquiv conf="0.40196">
+	<Unicode>QUESTÃO 27:
+Leia o texto:
+As formas de representação da figura humana possibilitam o aprendizado da anatomia e o
+estudo dos diferentes movimentos e posturas. O aluno pode testar diversos meios e técnicas de
+representação, incluindo lápis grafite, pastel, pintura e colagem. Trabalhar com modelo vivo
+facilita a representação de formas, volumes e o uso de linhas e sombras. A partir das imagens
+indicadas, pode-se concluir que:
+A) afigura Il indica que a técnica da colagem dificulta a representação gráfica da figura.
+B) atécnica da colagem permite uma representação das ideias de tecidos e movimentos.
+C) o desenho é essencial para a técnica da colagem na representação do corpo humano.
+D) o uso de aquarela e pastel dificulta a representação das cores e o estudo volumétrico.
+E) a colagem utiliza elementos bidimensionais e tridimensionais, alterando a grafia da figura humana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="112,205 311,205 311,282 1526,282 1526,311 841,311 841,346 388,346 388,500 602,500 602,602 632,602 632,673 265,673 265,821 276,821 276,848 112,848 112,849 112,673 111,673 111,571 99,571 99,485 98,485 98,457 110,457 110,414 112,414 112,312 111,312 111,283 112,283"/>
+	<TextEquiv conf="0.93850">
+	<Unicode>QUESTÃO 26:
+A ergonomia aplicada ao vestuário vem sendo explorada nas roupas esportivas. Em uma
+bermuda ciclista, a ergonomia está aplicada no (a)
+I. cor do tecido;
+II. rigidez do tecido;
+III. modelagem;
+IV. acolchoamento nas entrepernas;
+V. largura da bainha.
+Estão CORRETOS somente os itens
+A) Ie.
+B) IelV.
+Cc) Mell.
+D) MelV.
+E) MelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

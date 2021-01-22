@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:49:44</Created>
+	<LastChange>2020-10-30T20:22:41</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-10.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r2">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 1015,192 1015,262 1535,262 1535,263 1536,263 1536,538 1535,538 1535,726 1536,726 1536,877 1534,877 1534,1056 1535,1056 1535,1398 826,1398 826,1034 824,1034 824,909 825,909 825,632 824,632 824,262 841,262"/>
+	<TextEquiv conf="0.96725">
+	<Unicode>QUESTÃO 15
+A técnica de multiplexação surgiu a partir da necessidade
+de compartilhamento do meio físico nas redes de
+telecomunicações. Os esquemas de multiplexação podem
+ser divididos em duas categorias básicas: a multiplexação
+por divisão de tempo e a multiplexação por divisão
+de frequência. Com relação a esse tema, analise as
+asserções que se seguem e a relação proposta entre elas.
+A multiplexação por divisão de tempo tornou-se a mais
+difundida nos últimos anos.
+PORQUE
+Como a multiplexação por divisão de tempo é baseada
+no compartilhamento do meio físico no domínio do tempo,
+ela pode ser utilizada tanto por dados digitais como por
+dados analógicos.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira como a segunda asserção são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="96,1272 270,1272 270,1333 793,1333 793,1738 790,1738 790,1837 236,1837 236,1971 230,1971 230,2002 104,2002 104,2005 81,2005 81,1837 80,1837 80,1334 79,1334 79,1333 96,1333"/>
+	<TextEquiv conf="0.96301">
+	<Unicode>QUESTÃO 14
+A arquitetura de Serviços Diferenciados (Diffser) é
+composta por elementos funcionais implementados
+nos nós da rede, incluindo opções de comportamento
+de encaminhamento por nó (perhop forwarding
+behaviors — PHB), funções de classificação e funções de
+condicionamento de tráfego. Há várias propostas para
+tipos de PHB para a arquitetura de Serviços Diferenciados.
+Porém, há basicamente dois tipos normatizados:
+Encaminhamento Expresso (Expedited Forwarding — EF)
+e Encaminhamento Assegurado (Assured Forwarding —
+AF). Além desses dois, há o PHB BE (Best-Effort) para o
+comportamento de encaminhamento de tráfego de melhor
+esforço da Internet.
+Considerando a utilização para o serviço de voz e para o
+serviço de World Wide Web - WWW, os respectivos PHB
+indicados são
+AF e BE.
+AF e EF.
+BE e AF.
+EF e BE.
+EF e AF.
+cooçooo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 270,191 270,251 791,251 791,367 789,367 789,748 790,748 790,836 789,836 789,978 790,978 790,1247 129,1247 129,1248 128,1248 128,1214 81,1214 81,885 79,885 79,748 80,748 80,505 79,505 79,448 80,448 80,251 96,251"/>
+	<TextEquiv conf="0.96483">
+	<Unicode>QUESTÃO 13
+No nível mais amplo, podem-se distinguir mecanismos
+de controle de congestionamento conforme a camada de
+rede ofereça ou não assistência explícita à camada de
+transporte com finalidade de controle de congestionamento.
+KUROSE, J. F. Redes de computadores e a internet. 5 ed.
+São Paulo: Addison Wesley, 2010, p. 201.
+Arespeito desse tema, avalie as asserções que se seguem
+e a relação proposta entre elas.
+O protocolo de controle de transmissão (TCP) deve
+necessariamente adotar o método não assistido, no
+qual a camada de rede não fornece nenhum suporte
+explícito à camada de transporte com a finalidade de
+controle de congestionamento.
+PORQUE
+A camada de rede /nternet Protocol (IP) não fornece
+realimentação de informações aos sistemas finais quanto
+ao congestionamento da rede.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

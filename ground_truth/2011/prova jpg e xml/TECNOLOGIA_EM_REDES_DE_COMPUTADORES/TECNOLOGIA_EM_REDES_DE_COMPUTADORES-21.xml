@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:47:25</Created>
+	<LastChange>2020-10-30T20:13:29</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-21.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,192 430,192 430,254 1534,254 1534,345 1535,345 1535,756 808,756 808,757 81,757 81,758 80,758 80,689 145,689 145,346 144,346 144,313 81,313 81,255 82,255 82,254 96,254"/>
+	<TextEquiv conf="0.96570">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Uma empresa de desenvolvimento de soluções Web precisa atender a algumas demandas em sua
+rede de computadores:
+* Construir um servidor Web e colocar este servidor no ar em um serviço de hospedagem.
+* Configurar a rede local para receber a configuração de conectividade do protocolo TCP/IP automaticamente.
+* Acessar remotamente um servidor UNIX/Linux em uma filial para ter acesso à sua interface de linha de comando.
+* Configurar um serviço de tradução de nomes na Internet.
+* Configurar todos os serviços de envio e recebimento de e-mails.
+TANEMBAUM, A. Redes de Computadores. 5. ed. Cap. 7, p. 384 — 475. (com adaptações)
+Determine todos os serviços, protocolos e portas de comunicação que devem ser usadas para atender às demandas
+solicitadas. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

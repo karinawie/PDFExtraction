@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:38</Created>
+	<LastChange>2020-11-16T04:04:41</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-24.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,260 790,260 790,552 791,552 791,730 790,730 790,1240 789,1240 789,1365 790,1365 790,1686 611,1686 611,2008 104,2008 104,2010 81,2010 81,1700 129,1700 129,1661 155,1661 155,1660 175,1660 175,1548 174,1548 174,1385 129,1385 129,1335 80,1335 80,730 79,730 79,552 80,552"/>
+	<TextEquiv conf="0.96158">
+	<Unicode>QUESTÃO 36
+O problema P versus NP é um problema ainda não
+resolvido e um dos mais estudados em Computação.
+Em linhas gerais, deseja-se saber se todo problema
+cuja solução pode ser eficientemente verificada por um
+computador, também pode ser eficientemente obtida
+por um computador. Por “eficientemente” ou “eficiente”
+significa “em tempo polinomial”.
+A classe dos problemas cujas soluções podem ser
+eficientemente obtidas por um computador é chamada de
+classe P. Os algoritmos que solucionam os problemas
+dessa classe têm complexidade de pior caso polinomial
+no tamanho das suas entradas.
+Para alguns problemas computacionais, não se conhece
+solução eficiente, isto é, não se conhece algoritmo eficiente
+para resolvê-los. No entanto, se para uma dada solução
+de um problema é possível verificá-la eficientemente,
+então o problema é dito estar em NP. Dessa forma, a
+classe de problemas para os quais suas soluções podem
+ser eficientemente verificadas é chamada de classe NP.
+Um problema é dito ser NP-completo se pertence à
+classe NP e, além disso, se qualquer outro problema na
+classe NP pode ser eficientemente transformado nesse
+problema. Essa transformação eficiente envolve as
+entradas e saídas dos problemas.
+Considerando as noções de complexidade computacional
+apresentadas acima, analise as afirmações que se seguem.
+|. Existem problemas na classe P que não estão na
+classe NP.
+Se o problema A pode ser eficientemente
+transformado no problema B e B está na classe P,
+então A está na classe P.
+Se P = NP, então um problema NP-completo pode
+ser solucionado eficientemente.
+IV. Se P é diferente de NP, então existem problemas
+na classe P que são NP-completos.
+É correto apenas o que se afirma em
+l.
+IV.
+lei.
+Nell.
+Ielv.
+CoOoçgÇGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="824,256 1536,256 1536,602 1535,602 1535,992 1533,992 1533,1099 1536,1099 1536,1539 1535,1539 1535,1751 1279,1751 1279,1792 893,1792 893,1900 940,1900 940,1942 947,1942 947,1983 971,1983 971,2007 875,2007 875,2005 826,2005 826,1761 919,1761 919,1119 874,1119 874,1075 824,1075 824,1015 825,1015 825,602 824,602"/>
+	<TextEquiv conf="0.96147">
+	<Unicode>QUESTÃO 37
+Escopo dinâmico: para as linguagens com escopo
+dinâmico, a vinculação das variáveis ao escopo é realizada
+em tempo de execução. (...) Se uma variável é local ao
+bloco, então o uso da dada variável no bloco será sempre
+vinculado àquela local. Contudo, se a variável for não-
+local, a sua vinculação depende da ordem de execução,
+a última vinculada na execução. A consequência disso é
+que, em um mesmo bloco de comandos, um identificador
+pode ter significados diferentes, e o programador precisa
+ter a ideia precisa de qual variável está sendo usada.
+de MELO, A. C. V.; da SILVA, F. S. C. Princípios de Linguagens de
+Programação. São Paulo: Edgard Blúcher, 2003. p.65.
+Suponha que uma linguagem de programação tenha sido
+projetada com vinculação e verificação estáticas para tipos
+de variáveis, além de passagem de parâmetros por valor.
+Também é exigido pela especificação da linguagem que
+programas sejam compilados integralmente e que não é
+permitido compilar bibliotecas separadamente. Durante
+uma revisão da especificação da linguagem, alguém
+propôs que seja adicionado um mecanismo para suporte
+a variáveis com escopo dinâmico.
+A respeito da proposta de modificação da linguagem,
+analise as seguintes afirmações.
+|. As variáveis com escopo dinâmico podem ser
+tratadas como se fossem parâmetros para
+os subprogramas que as utilizam, sem que o
+programador tenha que especificá-las ou declarar
+seu tipo (o compilador fará isso). Assim, elimina-
+se a necessidade de polimorfismo e é possível
+verificar tipos em tempo de compilação.
+Como diferentes subprogramas podem declarar
+variáveis com o mesmo nome mas com tipos
+diferentes, se as variáveis com escopo dinâmico
+não forem declaradas no escopo onde são
+referenciadas, será necessário que a linguagem
+suporte polimorfismo de tipos.
+Se as variáveis dinâmicas forem declaradas
+tanto nos escopos onde são criadas como
+nos subprogramas em que são referenciadas,
+marcadas como tendo escopo dinâmico, será
+possível identificar todos os erros de tipo em
+tempo de compilação.
+É correto apenas o que se afirma em
+l.
+W.
+lei.
+Nell.
+Lie.
+CoOÇGoos</Unicode></TextEquiv></TextRegion></Page></PcGts>

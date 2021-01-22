@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:10:14</Created>
+	<LastChange>2020-10-30T01:35:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-12.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="807,197 806,2097 809,2097 810,197"/></SeparatorRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="841,192 955,192 955,254 1536,254 1536,540 1535,540 1535,1756 1279,1756 1279,1798 956,1798 956,2006 849,2006 849,2008 826,2008 826,1767 919,1767 919,682 874,682 874,629 825,629 825,541 824,541 824,254 841,254"/>
+	<TextEquiv conf="0.67922">
+	<Unicode>QUESTÃO 16
+A fluidizaçção é uma operação de contato sólido-
+fluido, que pode ser utilizada em processos que requerem
+elevados coeficientes de transferência de massa e calor,
+como no craqueamento catalítico de naftas e outras
+frações de petróleo. Além da indústria de petróleo, o
+processo de fluidização pode ser também empregado na
+indústria química, petroquímica e metalúrgica, devido,
+principalmente, às excelentes características obtidas do
+contato entre as fases sólida e fluida.
+Considerando o processo de fluidização, analise as
+afirmações abaixo.
+|. Em leitos rasos e com diâmetro elevado, pode
+haver a passagem do gás sob a forma de bolhas,
+que, devido ao fenômeno da coalescência,
+ocasiona a formação de bolhas maiores, dando
+origem ao que se conhece como s/ugging, que
+deve ser evitado na prática. O uso de partículas
+grandes e pesadas ajuda a diminuir a ocorrência
+de slugging.
+Em um sistema líquido-sólido, um aumento no
+fluxo de líquido acima da condição de mínima
+fluidização, resulta em expansão progressiva do
+leito. As instabilidades decorrentes do aumento
+da vazão de líquido são pequenas, e regiões com
+elevadas porosidades ou heterogeneidade do leito
+são comuns. O leito nessa condição recebe o
+nome de leito fluidizado incipiente.
+Quando partículas pequenas são fluidizadas
+auma vazão de gás suficientemente elevada,
+a velocidade terminal dos sólidos é excedida,
+a superfície do leito desaparece e suspensões ou
+mistura de partículas tornam-se evidentes, dando
+origem ao movimento intenso de porções de
+partículas e bolhas de gás de vários tamanhos,
+caracterizando o que se conhece como leito
+fluidizado turbulento.
+Além das altas taxas de transferência de calor e
+massa entre o fluido e as partículas sólidas, entre
+as vantagens obtidas pelo uso da fluidização,
+destacam-se a eficiência do processo de mistura,
+a capacidade do leito, a obtenção de condições
+praticamente isotérmicas no leito e a possibilidade
+de circulação das partículas entre duas ou mais
+unidades de fluidização.
+É correto apenas o que se afirma em
+l.
+W.
+lei.
+Nelv.
+Weliv.
+CoOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,239 791,239 791,647 789,647 789,754 791,754 791,1047 534,1047 534,1113 195,1113 195,1219 203,1219 203,1253 211,1253 211,1277 81,1277 81,1083 129,1083 129,988 175,988 175,841 174,841 174,821 175,821 175,613 81,613 81,498 79,498 79,239 96,239"/>
+	<TextEquiv conf="0.94124">
+	<Unicode>QUESTÃO 15
+A operação de secagem envolve a aplicação de calor
+para remover parte da água presente em um alimento.
+Considerando que o custo do combustível para aquecer
+o ar é o principal fator econômico que afeta a operação
+de secagem nos secadores a ar quente, algumas
+características podem ser projetadas para reduzir a perda
+de calor, economizar energia e aumentar a eficiência do
+processo de secagem.
+Nesse sentido, avalie se as afirmativas a seguir
+representam características para reduzir a perda de calor.
+I. Recirculação do ar de exaustão através da
+câmara, desde que a alta temperatura de saída
+seja tolerada pelo produto e que a redução na
+capacidade evaporativa seja aceitável.
+II. Redução na velocidade de circulação do ar da
+câmara, porque aumenta a taxa de remoção
+do vapor d´água e aumenta o coeficiente de
+transferência de calor.
+III. Recuperação do calor do ar de exaustão para
+aquecer o ar de entrada, utilizando trocadores de
+calor ou rodas térmicas, ou para pré-aquecer o
+material na entrada.
+IV. Utilização do escoamento de ar de secagem em
+paralelo em vez do escoamento de ar perpendicular
+ao material.
+É correto apenas o que se afirma em
+A I.
+B II.
+C I e III.
+D II e IV.
+E III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

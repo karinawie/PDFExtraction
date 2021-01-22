@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:52:27</Created>
+	<LastChange>2021-01-19T18:20:57</LastChange></Metadata>
+	<Page imageFilename="CIENCIAS_ECONOMICAS-16.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r7">
+	<Coords points="818,168 816,2031 820,2031 822,168"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="878,1124 878,1516 1164,1516 1164,1124"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1208,1140 1208,1500 1505,1500 1505,1140"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="112,169 311,169 311,254 770,254 770,420 722,420 722,544 768,544 768,666 324,666 324,790 768,790 768,1160 769,1160 769,1483 770,1483 770,1604 471,1604 471,1715 719,1715 719,1739 303,1739 303,2011 111,2011 111,1784 112,1784 112,1715 175,1715 175,1459 114,1459 114,1437 174,1437 174,1183 112,1183 112,1151 174,1151 174,998 125,998 125,975 138,975 138,748 112,748 112,665 111,665 111,544 158,544 158,420 112,420 112,419 111,419 111,254 112,254"/>
+	<TextEquiv conf="0.93325">
+	<Unicode>QUESTÃO 25:
+Considere o modelo de regressão linear
+múltipla, dependente y e
+variáveis explicativas x1, X2, ..., X., que pode
+ser expresso como
+com variável
+Yi=Bi+BoXn+B3Xat+t... +BrXute
+em que «:, significa o fator de erro e
+t=1,2,..., no índice relativo às observações
+amostrais.
+Nesse modelo,
+I. o alto grau de multicolinearidade torna
+imprecisas as estimativas dos parâmetros
+populacionais baseadas no método de
+mínimos quadrados.
+II. o erro de especificação por inclusão de
+variável — explicativa — irrelevante — torna
+tendencioso o estimador de mínimos
+quadrados dos parâmetros populacionais.
+III. satisfeitas as hipóteses do modelo clássico
+de regressão linear, segue-se que oOS
+estimadores de mínimos quadrados são
+consistentes e têm mínima variância entre
+todos os estimadores lineares não
+tendenciosos.
+IV. ao se incluir uma variável explicativa
+irrelevante num modelo de regressão linear
+múltipla, o valor de rºº ajustado não se
+elevará de forma significativa, mesmo que
+aumente o valor de r?.
+Estão CORRETAS somente as afirmativas
+A) Te UM.
+B) LH elV.
+Cc) LH em.
+D) LM elV.
+E) Nem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="869,170 1069,170 1069,233 1237,233 1237,270 1530,270 1530,724 1529,724 1529,725 1467,725 1467,813 1389,813 1389,852 1007,852 1007,890 870,890 870,813 868,813 868,742 904,742 904,543 844,543 844,520 904,520 904,400 858,400 858,377 870,377 870,198 869,198"/>
+	<TextEquiv conf="0.30570">
+	<Unicode>QUESTÃO 26:
+Considere as afirmativas:
+I. Segundo a função consumo keynesiana, os
+gastos em consumo dependem diretamente
+do comportamento da renda corrente.
+II.De acordo com o princípio da equivalência
+ricardiana, um aumento do déficit orçamentário
+corrente do governo promove uma elevação
+no nível de atividade econômica.
+III.Para a teoria da renda permanente
+(Friedman), os consumidores maximizam sua
+utilidade, ao manter um padrão estável de
+consumo e, portanto, não ajustam seus
+gastos em consumo, quando ocorrem
+alterações consideradas transitórias na renda.
+É CORRETO somente o que se afirma em
+AJ L D) Nell.
+B) Iell. E) LITe IL.
+C) Ie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="869,928 1069,928 1069,993 1526,993 1526,1546 1527,1546 1527,2030 1526,2030 1526,2031 869,2031"/>
+	<TextEquiv conf="0.93683">
+	<Unicode>QUESTÃO 27:
+Caso o investimento agregado se torne mais
+sensível a flutuações na taxa de juros,
+haverá alteração na inclinação da curva |S,
+conforme ilustrado nestes gráficos:
+Gráfico (1): Gráfico (2):
+Menor sensibilidade Maior sensibilidade
+r r
+Com o auxílio do modelo IS/LM, quais as
+consequências de tal alteração quanto à
+eficácia das políticas fiscal e monetária para
+afetar o produto?
+A) A eficácia das políticas fica inalterada, pois
+elas independem do investimento agregado.
+B) A política fiscal e a política monetária
+tornam-se mais eficazes.
+C) A política fiscal e a política monetária
+tornam-se menos eficazes.
+D) A política fiscal torna-se mais eficaz, e a
+política monetária torna-se menos eficaz.
+E) A política monetária torna-se mais eficaz, e
+a política fiscal torna-se menos eficaz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

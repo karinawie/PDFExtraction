@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:47:46</Created>
+	<LastChange>2020-10-30T02:13:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-10.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r8">
+	<Coords points="803,194 807,2005 812,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="841,189 1015,189 1015,251 1535,251 1535,1211 1537,1211 1537,1438 1536,1438 1536,1802 956,1802 956,2002 850,2002 850,2004 826,2004 826,444 825,444 825,251 841,251"/>
+	<ImageRegion id="r3">
+	<Coords points="826,450 826,1155 1531,1155 1531,450"/></ImageRegion>
+	<TextEquiv conf="0.96554">
+	<Unicode>QUESTÃO 13
+Os diagramas de fases são mapas termodinâmicos em
+que se podem prever quais são as fases que coexistem
+em condições de equilíbrio termodinâmico. Esses
+diagramas também auxiliam na previsão dos mecanismos
+de endurecimento permitidos. A figura a seguir apresenta
+o diagrama de fases em equilíbrio do sistema Cu-Ni.
+De acordo com esse diagrama de fases,
+existe a possibilidade de se aumentar a resistência
+mecânica da liga com 10% em peso de níquel por
+meio de um mecanismo de envelhecimento.
+não existe a possibilidade de se aumentar
+a resistência mecânica da liga com 10% em
+peso de níquel por meio de um mecanismo de
+envelhecimento.
+. não existe a possibilidade de se aumentar a
+resistência mecânica da liga com 10% em peso de
+níquel por meio de um mecanismo de refino de grão.
+existe a possibilidade de se aumentar a resistência
+mecânica da liga com 10% em peso de níquel por
+meio de um mecanismo de refino de grão.
+existe a possibilidade de se aumentar a resistência
+mecânica da liga com 10% em peso de níquel
+por meio de um mecanismo de refino de grão e
+observa-se o surgimento de uma segunda fase.
+lei.
+Ielv.
+Weliv.
+CoOoçGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,160 399,160 399,252 790,252 790,1300 792,1300 792,1416 791,1416 791,1892 789,1892 789,2005 129,2005 129,2006 128,2006 128,1893 127,1893 127,1417 82,1417 82,1301 81,1301 81,1260 80,1260 80,313 79,313 79,252 80,252"/>
+	<ImageRegion id="r2">
+	<Coords points="92,344 92,1157 792,1157 792,344"/></ImageRegion>
+	<TextEquiv conf="0.93664">
+	<Unicode>EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 12
+O diagrama de fases do sistema Cu-Ni é apresentado na
+figura abaixo.
+Considerando o resfriamento em condições de equilíbrio
+de uma liga Cu-40%p Ni no estado líquido, conclui-se que
+O o primeiro sólido terá composição em massa maior
+que 40%p Ni e o último sólido terá composição maior
+que 40%p Ni.
+o primeiro sólido terá composição em massa menor
+que 40%p Ni e o último sólido terá composição maior
+que 40%p Ni.
+o primeiro sólido terá composição em massa maior
+que 40%p Ni e o último sólido terá composição de
+40%p Ni.
+o primeiro sólido terá composição em massa menor
+que 40%P Ni e o último sólido terá composição menor
+que 40%p Ni.
+o primeiro e o último sólido terão composição em
+massa de 40%p Ni.</Unicode></TextEquiv></TextRegion></Page></PcGts>

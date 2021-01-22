@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:40:12</Created>
+	<LastChange>2020-09-23T19:40:12</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-20.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,192 1176,192 1176,279 1051,279 1051,280 664,280 664,389 880,389 880,449 862,449 862,533 796,533 796,572 729,572 729,782 862,782 862,848 802,848 802,926 678,926 678,965 599,965 599,1073 1406,1073 1406,1148 144,1148 144,1099 143,1099 143,1073 397,1073 397,645 395,645 395,280 80,280"/>
+	<TextEquiv conf="0.96131">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Considerando a execução do algoritmo abaixo, responda ao que se pede nos itens a e b.
+01 algoritmo Vetores
+02 variaveis
+o3 vetA[1..10], vetB[1..10], i: inteiro
+04 inicio
+o5 para i &lt;- 1 ate 10 passo 1 faca
+o6 vetB[i] &lt;- O
+o7 se resto(i,2) = O entao
+o8 vetA[i] &lt;- i
+o9 senão
+10 vetA[i] &lt;- 2*i
+111 fimse
+12 fimpara
+13 para i &lt;- 1 ate 10 passo 1 faca
+14 enquanto(vetA[i] &gt; i)
+15 vetB[i] &lt;- vetA|[i]
+16 vetA[i] &lt;- vetA[i] — 1
+17 fimenquanto
+18 fimpara
+19 fimalgoritmo
+a) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 12. (valor: 5,0 pontos)
+b) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 19. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

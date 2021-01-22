@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:08:49</Created>
+	<LastChange>2020-10-30T17:11:02</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-13.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="820,596 820,1192 1540,1192 1540,596"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="841,192 1015,192 1015,255 1535,255 1535,1774 1279,1774 1279,1822 956,1822 956,2010 826,2010 826,1327 825,1327 825,255 841,255"/>
+	<TextEquiv conf="0.96410">
+	<Unicode>QUESTÃO 14
+Na história das lâmpadas, avanços na compreensão
+da estrutura atômica dos elementos químicos e de
+suas ligações permitiram identificar novas tecnologias
+que fazem uso de fontes modernas de luz, incluindo os
+diodos emissores de luz (LED). Os LED são exemplo
+dos chamados “dispositivos no estado sólido”, em que as
+propriedades funcionais importantes são determinadas
+pela composição química desse material. Em um LED,
+geralmente a luz emitida é monocromática. A figura a
+seguir representa um projeto padrão de um LED.
+Disponível em: &lt;http://static.hsw.com.br/gif/nasdag-1.jpg&gt;.
+Considerando essas informações, analise as afirmações
+que se seguem.
+|. A cor da luz emitida independe da composição
+química do semicondutor, e um ajuste na composição
+do sólido pode alterar a cor da luz emitida.
+Cada LED emite luz de uma cor específica e,
+consequentemente, os LED fornecem um meio
+fácil de produção de luz colorida.
+Os terminais metálicos permitem a passagem de
+corrente elétrica através de um semicondutor para
+a emissão de luz.
+No LED, a luz é composta de cores variadas, o
+que significa que ela possui vários comprimentos
+de onda.
+É correto apenas o que se afirma em
+o.
+o:
+O lelv
+O ll el.
+O lelv.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords points="102,805 102,1294 771,1294 771,805"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,265 790,265 790,1345 789,1345 789,1635 488,1635 488,1692 435,1692 435,1744 317,1744 317,1958 265,1958 265,2008 130,2008 130,2007 81,2007 81,1539 80,1539 80,265 96,265"/>
+	<TextEquiv conf="0.91083">
+	<Unicode>QUESTÃO 13
+Na teoria do campo cristalino, grande parte da
+interação do íon metálico com os ligantes circundantes
+deve-se à forças eletrostáticas entre a carga positiva
+no metal e as cargas negativas no ligante. Essa teoria
+baseia-se no desdobramento dos orbitais d em grupos
+com energias diferentes e usa esse desdobramento
+para justificar e correlacionar o espectro óptico,
+a estabilidade termodinâmica e as propriedades
+magnéticas dos complexos.
+Na figura abaixo, são apresentados (fora de escala)
+os orbitais d de determinado íon metálico em quatro
+situações, representadas pelas letras X, Y Ze W.
+Com base nessas informações, avalie as associações
+apresentadas a seguir.
+|. X representa íon em campo elétrico de simetria
+tetraédrica.
+Il. Y representa íon em campo elétrico esférico.
+Ill. Z representa íon em campo elétrico de simetria
+octaédrica.
+IV. W representa íon isolado.
+É correto o que se afirma em
+O lell, apenas.
+l e Ill, apenas.
+Il e IV, apenas.
+Ill e IV, apenas.
+LINE,</Unicode></TextEquiv></TextRegion></Page></PcGts>

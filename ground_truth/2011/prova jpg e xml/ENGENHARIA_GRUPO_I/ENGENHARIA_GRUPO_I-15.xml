@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:08:05</Created>
+	<LastChange>2020-10-29T23:26:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-15.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,254 1302,254 1302,1760 1535,1760 1535,1816 249,1816 249,2011 130,2011 130,2009 81,2009 81,1816 80,1816 80,280 79,280"/>
+	<ImageRegion id="r1">
+	<Coords points="450,297 450,739 1165,739 1165,297"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="163,807 163,1268 726,1268 726,807"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="876,1278 876,1736 1457,1736 1457,1278"/></ImageRegion>
+	<TextEquiv conf="0.93586">
+	<Unicode>QUESTÃO 20
+A ilustração abaixo representa um esquema simplificado de um sistema de abastecimento de água.
+Considerando as imagens, assinale a alternativa que apresenta a ordem correta de operações do sistema de
+abastecimento de água.
+O LILIL IV.
+UI, LAVA.
+1,1, 1V, 10.
+LL AL AV.
+IV, 11,1, 111</Unicode></TextEquiv></TextRegion></Page></PcGts>

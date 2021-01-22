@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:22:00</Created>
+	<LastChange>2020-10-30T02:35:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-17.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="96,189 270,189 270,251 1470,251 1470,448 1535,448 1535,540 1534,540 1534,803 1184,803 1184,1703 1299,1703 1299,1817 1368,1817 1368,1858 1459,1858 1459,1926 1194,1926 1194,1967 987,1967 987,2007 794,2007 794,2008 129,2008 129,2009 128,2009 128,2004 81,2004 81,1795 79,1795 79,1556 80,1556 80,540 79,540 79,448 81,448 81,252 82,252 82,251 96,251"/>
+	<ImageRegion id="r2">
+	<Coords points="260,842 260,1515 1315,1515 1315,842"/></ImageRegion>
+	<TextEquiv conf="0.96244">
+	<Unicode>QUESTÃO 20
+Um trecho de 45 km de uma rodovia apresenta alto índice de acidentes, com ocorrências definidas da seguinte forma:
+* — 50% dos acidentes ocorrem uniformemente entre o km 0 e o km 15;
+* —20% dos acidentes ocorrem uniformemente entre o km 15 e o km 30;
+* —30% dos acidentes ocorrem uniformemente entre o km 30 e o km 45.
+A equipe de resgate conta com uma única viatura para atendimento de emergência e uma base sediada no meio do
+trecho. O grupo busca definir a opção que melhor atende a maior parte das ocorrências em até cinco minutos — tempo
+considerado decisivo entre a vida e a morte para vítimas graves —, e estabeleceu as seguintes opções.
+Opção 1: viatura permanece na base aguardando chamados de ocorrências.
+Opção 2: viatura transita por toda a extensão do trecho, aguardando chamados de ocorrências.
+Opção 3: viatura transita em um raio de 22,5 km da base, aguardando chamados de ocorrências.
+Os custos operacionais das 3 opções não são considerados relevantes quando o assunto é salvar vidas. O gráfico a
+seguir, resultado de simulações de Monte Carlo, apresenta as funções de probabilidades acumuladas do tempo de
+viagem até as ocorrências para as 3 opções, considerando-se a velocidade média da viatura igual a 100 km/h.
+A partir dessas informações, avalie as asserções a seguir e a relação proposta entre elas.
+A opção 1 é a melhor para atender vítimas de acidentes graves.
+PORQUE
+O tempo de viagem da viatura até o local do acidente é menor que 15 min na opção 1.
+Acerca dessas asserções, assinale a opção correta.
+As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.
+CoOoGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

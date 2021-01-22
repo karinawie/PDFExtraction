@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T21:02:40</Created>
+	<LastChange>2020-11-16T02:07:12</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-21.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="808,163 1529,163 1529,254 1534,254 1534,1992 833,1992 833,1993 131,1993 131,1994 105,1994 105,1996 81,1996 81,1775 80,1775 80,308 79,308 79,254 96,254 96,164 808,164"/>
+	<ImageRegion id="r1">
+	<Coords points="81,339 81,1107 1518,1107 1518,339"/></ImageRegion>
+	<TextEquiv conf="0.87425">
+	<Unicode>QUESTÃO 26
+Afigura abaixo representa um sistema com um microcontrolador 8031, seu sistema de memória de dados e de programa
+e circuitos auxiliares.
+Considerando esse sistema, analise as afimações a seguir.
+|. O sistema possui 64kB de memória de programa.
+Il. O sistema possui 512kB de memória de dados divididos em 3 bancos.
+Ill. O sistema não é reinicializado quando o interruptor de pressão S1 é pressionado, mas sim quando ele é liberado.
+IV. Para acessar o último byte da memória de dados é necessário executar a sequência de instruções
+MOV A,PO
+ORL A,t07H
+MOV PO0,A
+MOV DPTR,t0FFFFH
+MOVX A,QDPTR
+ou outras equivalentes que implementem o mesmo algoritmo.
+É correto apenas o que se afirma em
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

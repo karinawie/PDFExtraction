@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:48:55</Created>
+	<LastChange>2020-10-30T20:19:38</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-14.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1535,254 1535,1357 1191,1357 1191,1570 660,1570 660,1571 129,1571 129,1572 128,1572 128,1568 81,1568 81,1357 79,1357 79,1298 80,1298 80,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="86,360 86,1242 1531,1242 1531,360"/></ImageRegion>
+	<TextEquiv conf="0.96528">
+	<Unicode>QUESTÃO 22
+Uma universidade em expansão pretende instalar uma rede de médio porte para atender às necessidades de acesso
+das suas diversas redes heterogêneas. O Departamento de Tecnologia da Informação projetou o seguinte modelo:
+A camada de mais alto nível desse modelo é conhecida como camada core ou camada de núcleo. Os roteadores que
+a compõem têm a função de
+filtrar a camada MAC e segmentar a rede.
+otimizar a vazão dos pacotes e controlar o acesso aos recursos.
+prover um transporte mais rápido entre os sites e conectar usuários.
+resumir rotas de camada de acesso e delimitar os domínios de broadcast.
+garantir o tráfego de alto desempenho, bem como centralizar o acesso à rede externa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

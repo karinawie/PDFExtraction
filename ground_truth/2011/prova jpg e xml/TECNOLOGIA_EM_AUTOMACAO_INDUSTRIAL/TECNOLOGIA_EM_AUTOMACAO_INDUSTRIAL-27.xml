@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:01:46</Created>
+	<LastChange>2020-10-30T18:09:41</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-27.jpg" imageWidth="1613" imageHeight="2165">
+	<TableRegion id="r0">
+	<Coords points="71,1160 71,1484 1539,1484 1539,1160"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="68,1502 68,1747 1542,1747 1542,1502"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,254 1535,254 1535,313 1385,313 1385,559 1248,559 1248,560 1194,560 1194,1765 1332,1765 1332,1841 892,1841 892,2004 883,2004 883,2005 129,2005 129,2002 81,2002 81,1806 79,1806 79,329 81,329"/>
+	<ImageRegion id="r3">
+	<Coords points="413,576 413,1100 1534,1100 1534,576"/></ImageRegion>
+	<TextEquiv conf="0.94942">
+	<Unicode>QUESTÃO 33
+Um profissional que atua na área de automação industrial foi contratado para automatizar um forno industrial utilizando
+um Controlador Lógico Programável (PLC) e termopares.
+As características do Forno são:
+Aplicação: Fusão de Metais não Ferrosos;
+Temperatura de Operação Média:+ 900 ºC
+Número de pontos de medição (entradas analógicas): 4
+Número saídas do CLP: 3
+A figura abaixo mostra a característica (Temperatura x Tensão) dos termopares que poderão ser utilizados
+As tabelas abaixo indicam a cotação do preço e as especificações dos sensores e do CLP.
+Assinale quais são os modelos que não atendem às características mínimas para o controle do forno.
+CLP — MODELOS (A e C) e os TERMOPARES Tipo (B, K, S).
+CLP — MODELO (C ) e os TERMOPARES Tipo (R, S, N).
+CLP — MODELO (A) e os TERMOPARES Tipo ( E, J, B).
+CLP — MODELOS (B e D) e os TERMOPARES Tipo (E, J, T).
+CLP — MODELOS (A e E) e os TERMOPARES Tipo ( K, R, N).</Unicode></TextEquiv></TextRegion></Page></PcGts>

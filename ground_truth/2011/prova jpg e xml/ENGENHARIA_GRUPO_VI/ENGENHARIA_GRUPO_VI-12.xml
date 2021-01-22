@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T05:23:03</Created>
+	<LastChange>2020-11-16T03:48:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-12.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,163 399,163 399,258 1535,258 1535,703 1536,703 1536,765 1525,765 1525,1244 1536,1244 1536,1307 439,1307 439,1494 423,1494 423,1538 130,1538 130,1539 129,1539 129,1537 81,1537 81,1220 80,1220 80,704 79,704 79,703 80,703"/>
+	<TableRegion id="r1">
+	<Coords points="84,392 84,663 1536,663 1536,392"/></TableRegion>
+	<TextEquiv conf="0.90730">
+	<Unicode>QUESTÃO 14
+Uma indústria que trabalha sob encomenda quer definir a política ótima de produção para os próximos quatro trimestres.
+Os pedidos colocados em carteira (demanda) bem como os custos fixos de setup (K) e os custos unitários de produção
+(c) e estoques (h) são apresentados na tabela a seguir.
+A política ótima de produção pode ser determinada pelo algoritmo de Wagner-Whitin e Zangwill (JOHNSON e
+MONTGOMERY, 1974), que objetiva minimizar os custos totais período a período, de acordo com a fórmula:
+Ci=. min (Cj +Ki +oj(h +n4u +o+r)+|biGa + +r)+hiaa(Ghio + +rn)+o hi) |
+jabi+l,.
+com j= períodos à frente, incluindo o atual
+em que
+C, = custo total do período |;
+K, = custo de setup (fixo) do período i;
+c, = custo unitário de produção no período |;
+h, = custo unitário de estoque no período |;
+r = demanda no período |.
+Na situação descrita, considerando que a indústria dispõe de capacidade para produzir, no máximo, 150 itens por
+período, e que o custo total no período 5 é nulo, a política ótima é produzir, nos períodos 1,2,3,4, respectivamente,
+50, 100, O e 50 unidades.
+50, 50, 100 e O unidades.
+50, 50, 50 e 50 unidades.
+50, 100, 50 e O unidades.
+50, 150, O e O unidades.
+CoOoçgGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:38:20</Created>
+	<LastChange>2020-09-23T19:38:27</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-17.jpg" imageWidth="1613" imageHeight="2165">
+	<TableRegion id="r0">
+	<Coords points="73,626 73,850 1536,850 1536,626"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="73,1023 73,1231 1531,1231 1531,1023"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="78,1397 78,1618 1523,1618 1523,1397"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,270 1536,270 1536,394 1535,394 1535,565 1245,565 1245,566 1172,566 1172,1255 1177,1255 1177,1640 1349,1640 1349,1696 1534,1696 1534,1763 280,1763 280,1865 241,1865 241,2011 129,2011 129,2012 128,2012 128,2009 81,2009 81,1763 79,1763 79,1697 80,1697 80,1640 81,1640 81,570 80,570 80,270 96,270"/>
+	<TextEquiv conf="0.94622">
+	<Unicode>QUESTÃO 33
+Métricas de confiabilidade de software dizem respeito à probabilidade de um componente de software produzir uma
+saída incorreta. Originalmente as métricas de confiabilidade foram criadas para componentes de hardware, consistindo
+em desgaste mecânico, aquecimento elétrico e fatores físicos relacionados aos componentes. Não há desgaste em
+componentes de software, que podem, inclusive, continuar operando mesmo após a produção de um resultado incorreto.
+Observe os quadros a seguir, a fim de identificar algumas métricas de confiabilidade e disponibilidade de um dado
+sistema SIST.
+Em que S indica que SIST estava disponível no instante de tempo (InstX) de número X e
+N indica que o SIST não estava disponível no instante de tempo (InstX) de número X.
+Em que F indica que SIST falhou quando se fez a ele a solicitação (SoliX) de número X e
+N indica que o SIST não falhou quando se fez a ele a solicitação (SoliX) de número X.
+O valor indica o instante, em uma dada unidade de tempo, em que ocorreu a falha (FalX) de número X.
+Assinale a alternativa que corresponde, respectivamente, aos valores das métricas disponibilidade (em porcentagem),
+taxa de ocorrência de falha (em porcentagem) e tempo médio entre falhas (em unidade de tempo).
+40; 30; 27,7.
+60; 30; 27,7.
+60; 70; 4.
+40; 30; 4.
+40; 70; 4.
+CoOoçÇoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

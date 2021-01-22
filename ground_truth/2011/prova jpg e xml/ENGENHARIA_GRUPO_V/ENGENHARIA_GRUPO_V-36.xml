@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:43:00</Created>
+	<LastChange>2020-10-30T01:56:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-36.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="97,189 270,189 270,256 1535,256 1535,892 1536,892 1536,1010 1535,1010 1535,1377 1184,1377 1184,1378 832,1378 832,1379 480,1379 480,1380 129,1380 129,1381 128,1381 128,1302 81,1302 81,893 80,893 80,256 96,256 96,190 97,190"/>
+	<ImageRegion id="r1">
+	<Coords points="278,415 278,850 1334,850 1334,415"/></ImageRegion>
+	<TextEquiv conf="0.92253">
+	<Unicode>QUESTÃO 46
+Estudos reológicos são importantes no processamento de materiais poliméricos. Uma das propriedades medidas na
+deformação de fluidos é a viscosidade, definida como a resistência ao movimento de escoar de um material. Processos
+de extrusão e injeção de polímeros apresentam grande dependência com a variação da viscosidade. Nesse sentido,
+considere os dois reogramas a seguir.
+Com base no texto e nos gráficos acima, é correto afirmar que o material representado pela
+O curva A, no reograma |, tem comportamento de fluxo pseudoplástico, que ocorre com frequência para massas de
+polímeros fundidos, estando relacionado com a viscosidade representada pela curva 3 do reograma |l.
+O curva B do reograma | tem comportamento de fluxo newtoniano, onde a viscosidade aumenta com a taxa ou tensão
+de cisalhamento, como mostrado na curva 1 do reograma |l.
+curva C do reograma | tem comportamento de fluxo dilatante, comuns a sistemas onde uma das fases dispersas
+apresenta partículas assimétricas, a viscosidade para esse sistema segue a curva 2 do reograma |l.
+o
+O curva 2 do reograma || tem comportamento de fluxo não-newtoniano, esse comportamento pode ser encontrado em
+líquidos como a água, estando relacionado com a curva C do reograma |.
+o
+curva 1 do reograma |l tem comportamento de viscoplasticidade, evidenciada em sistemas concentrados onde a
+interação partícula-partícula tem papel fundamental, o comportamento viscoso é representado no primeiro reograma
+pela curva B.</Unicode></TextEquiv></TextRegion></Page></PcGts>

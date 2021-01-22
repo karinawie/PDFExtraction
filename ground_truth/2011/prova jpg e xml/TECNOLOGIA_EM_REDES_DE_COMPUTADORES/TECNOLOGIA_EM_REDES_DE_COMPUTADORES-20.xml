@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:47:41</Created>
+	<LastChange>2020-10-30T20:14:22</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-20.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,588 1536,588 1536,867 1535,867 1535,1757 1279,1757 1279,1799 956,1799 956,2007 849,2007 849,2009 826,2009 826,1768 874,1768 874,563 825,563 825,254 841,254"/>
+	<TextEquiv conf="0.96483">
+	<Unicode>QUESTÃO 35
+Os protocolos da camada de aplicação que utilizam,
+na camada de transporte, o protocolo TCP, para o
+estabelecimento de conexões, fazem uso de portas
+específicas por padrão. Além disso, o funcionamento
+destes protocolos pode variar no estabelecimento e
+manutenção dessas conexões, bem como na troca de
+dados entre cliente e servidor.
+Considerando o funcionamento desses protocolos, analise
+as afirmações que se seguem.
+|. O protocolo HTTP utiliza, por padrão, para
+conexão do cliente ao servidor, a porta 80/TCP.
+O estabelecimento de conexões HTTP tem início
+com a solicitação por parte do cliente (browser) ao
+servidor web. Após o estabelecimento da conexão,
+o socket permanece ativo até que o cliente finalize
+a conexão enviando um segmento TCP ao servidor
+com a flag FIN ativada.
+Il. O protocolo FTP utiliza, por padrão, para conexão
+do cliente ao servidor, a porta 21/TCP. Após o
+estabelecimento de conexões FTP, além da porta
+21/TCP, utilizada para o controle da conexão, as
+portas TCP utilizadas para a troca de dados entre
+cliente e servidor podem variar de acordo com o
+modo configurado no servidor (ativo ou passivo).
+Ill. O protocolo SMTP utiliza, por padrão, para
+conexão do cliente ao servidor, a porta 25/TCP. O
+uso deste protocolo é parte do serviço de correio
+eletrônico, uma vez que é responsável pelo envio
+de e-mails. Para o acesso às caixas de mensagens
+e recebimento desses e-mails, utilizam-se os
+protocolos POP ou SSH, que usam, por padrão,
+respectivamente, as portas 110/TCP e 22/TCP.
+IV. O protocolo DNS utiliza, por padrão, para conexão
+do cliente ao servidor, a porta 53/TCP. Através
+desta porta, o cliente, após estabelecida a conexão,
+pode fazer consultas a hosts definidos nos mapas
+de zona do servidor autoritativo. A consulta a
+nomes atribuídos aos hosts tem como respostas
+os endereços |P a eles atribuídos enquanto a
+consulta aos endereços |P (quando configurado
+o DNS reverso) resultam nos respectivos nomes.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,163 399,163 399,258 793,258 793,775 790,775 790,956 791,956 791,1141 793,1141 793,1238 790,1238 790,1525 789,1525 789,1751 534,1751 534,1839 195,1839 195,1944 203,1944 203,1986 211,1986 211,2006 104,2006 104,2008 81,2008 81,1764 129,1764 129,930 79,930 79,868 80,868"/>
+	<TextEquiv conf="0.96620">
+	<Unicode>QUESTÃO 34
+As medidas de segurança de rede são necessárias para
+proteger os dados durante sua transmissão e para garantir
+que as transmissões de dados sejam autênticas. São
+desejáveis em uma comunicação segura as propriedades
+de privacidade, integridade, disponibilidade e autenticidade.
+O protocolo LDAP (Lightweight Directory Access Protocol)
+é um padrão aberto que proporciona, de forma flexível,
+o gerenciamento de grandes volumes de informações
+de usuários, definindo um método-padrão de acesso e
+atualização de informações dentro de um diretório. Já o
+protocolo RADIUS (Remote Authentication Dial-in User
+Service) é capaz de centralizar e facilitar a administração
+dessas informações. Esses protocolos procuram garantir
+as propriedades de uma comunicação segura.
+STALLINGS, W. Redes e sistemas de comunicação de dados: teoria e
+aplicações corporativas. 5. ed. Rio de Janeiro:Elsevier, 2005. 379-407.
+A respeito desses protocolos, avalie as afirmações que
+se seguem.
+|. As mensagens entre um cliente e um servidor
+RADIUS são criptografadas por meio do uso de
+um segredo compartilhado, o qual nunca é enviado
+pela rede. A arquitetura RADIUS utiliza o conceito
+de chaves simétricas.
+Il. O servidor RADIUS suporta um único método
+de autenticação, PPP PAP (Password
+Authentication Protocol).
+Ill. O protocolo LDAP é um protocolo destinado à
+comunicação entre servidores e clientes LDAP.
+Servidores LDAP armazenam informação em
+diretórios no formato hierárquico. O modelo de
+segurança do LDAP é composto por um protocolo
+que criptografa a comunicação entre o cliente e o
+servidor e por um método de autenticação seguro
+entre o cliente e o servidor.
+IV. O protocolo LDAP foi projetado para ser um diretório
+de propósito geral, com mecanismo de criptografia
+e segurança centralizados. Dessa forma, um
+dos pontos fracos do LDAP está relacionado à
+replicação de dados, pois o LDAP não permite
+replicar parcialmente sua estrutura de diretório.
+É correto apenas o que se afirma em
+l.
+.
+Tel.
+Ielv.
+Welv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

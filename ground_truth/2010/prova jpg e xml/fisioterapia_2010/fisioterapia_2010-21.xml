@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T10:46:26</Created>
+	<LastChange>2020-10-27T10:46:26</LastChange></Metadata>
+	<Page imageFilename="fisioterapia_2010-21.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="97,245 97,246 1231,246 1231,245"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="97,285 97,286 1552,286 1552,285"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="97,340 97,341 1552,341 1552,340"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="97,395 97,396 1552,396 1552,395"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="97,450 97,451 1552,451 1552,450"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="97,505 97,506 1552,506 1552,505"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="97,560 97,561 1552,561 1552,560"/></SeparatorRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="99,615 99,617 1552,617 1552,615"/></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="97,671 97,672 1552,672 1552,671"/></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="97,726 97,727 1552,727 1552,726"/></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords points="97,781 97,782 1552,782 1552,781"/></SeparatorRegion>
+	<SeparatorRegion id="r11">
+	<Coords points="97,836 97,837 1552,837 1552,836"/></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords points="97,891 97,892 1552,892 1552,891"/></SeparatorRegion>
+	<SeparatorRegion id="r13">
+	<Coords points="97,946 97,947 1552,947 1552,946"/></SeparatorRegion>
+	<SeparatorRegion id="r14">
+	<Coords points="97,1001 97,1002 1552,1002 1552,1001"/></SeparatorRegion>
+	<SeparatorRegion id="r15">
+	<Coords points="97,1056 97,1057 1552,1057 1552,1056"/></SeparatorRegion>
+	<SeparatorRegion id="r16">
+	<Coords points="99,1111 99,1113 1552,1113 1552,1111"/></SeparatorRegion>
+	<SeparatorRegion id="r17">
+	<Coords points="96,285 97,1168 99,1168 98,285"/></SeparatorRegion>
+	<SeparatorRegion id="r18">
+	<Coords points="1550,285 1551,1168 1553,1168 1552,285"/></SeparatorRegion>
+	<SeparatorRegion id="r19">
+	<Coords points="142,340 143,1168 145,1168 144,340"/></SeparatorRegion>
+	<SeparatorRegion id="r20">
+	<Coords points="97,1167 97,1168 1552,1168 1552,1167"/></SeparatorRegion>
+	<SeparatorRegion id="r21">
+	<Coords points="97,2135 97,2136 1554,2136 1554,2135"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="1559,167 1559,214 1233,214 1233,167"/>
+	<TextEquiv conf="0.91819">
+	<Unicode>ENADE 2010</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="1553,252 1553,262 1233,262 1233,252"/>
+	<TextEquiv conf="0.95009">
+	<Unicode>EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="469,297 469,325 110,325 110,297"/>
+	<TextEquiv conf="0.94742">
+	<Unicode>RASCUNHO - QUESTÃO 39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="122,361 122,362 123,362 123,375 117,375 117,361"/>
+	<TextEquiv conf="0.96624">
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="125,416 125,431 115,431 115,416"/>
+	<TextEquiv conf="0.96793">
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="125,471 125,486 116,486 116,471"/>
+	<TextEquiv conf="0.96854">
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="296,1231 296,1263 97,1263 97,1231"/>
+	<TextEquiv conf="0.96415">
+	<Unicode>ÁREA LIVRE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="1549,2152 1549,2171 742,2171 742,2152"/>
+	<TextEquiv conf="0.96362">
+	<Unicode>FISIOTERAPIA 21</Unicode></TextEquiv></TextRegion></Page></PcGts>

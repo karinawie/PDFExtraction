@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:48:55</Created>
+	<LastChange>2020-11-16T02:44:36</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-25.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="75,536 83,1541 1234,1535 1225,530"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1051,163 1529,163 1529,245 1536,245 1536,494 1375,494 1375,495 1213,495 1213,1597 1449,1597 1449,1707 1535,1707 1535,1904 1534,1904 1534,1989 1373,1989 1373,1990 1212,1990 1212,1991 1050,1991 1050,1992 889,1992 889,1993 727,1993 727,1994 566,1994 566,1995 404,1995 404,1996 243,1996 243,1997 82,1997 82,1998 81,1998 81,1623 79,1623 79,1597 80,1597 80,336 79,336 79,245 96,245 96,169 241,169 241,168 403,168 403,167 565,167 565,166 727,166 727,165 889,165 889,164 1051,164"/>
+	<TextEquiv conf="0.82720">
+	<Unicode>QUESTÃO 33
+Para introduzir conceitos relativos a cilindros, um professor de matemática do ensino médio pediu a seus alunos
+que fizessem uma pesquisa sobre situações práticas que envolvessem essas figuras geométricas. Dois estudantes
+trouxeram para a sala de aula as seguintes aplicações:
+Situação |
+O raio hidráulico é um parâmetro importante no dimensionamento de canais, tubos, dutos e outros componentes das
+obras hidráulicas. Ele é definido como a razão entre a área da seção transversal molhada e o perímetro molhado. Para
+a seção semicircular de raio rilustrada abaixo, qual é o valor do raio hidráulico?
+Ao analisar as duas situações como possibilidades de recursos didáticos, seria correto o professor concluir que
+O a situação | é inadequada porque induz os estudantes à apreensão equivocada do conceito de cilindro.
+O a situação | é adequada porque permite a discussão de que todas as interseções do cilindro com planos são
+semicircunferências.
+O a situação || é inadequada porque induz os estudantes à apreensão equivocada do conceito de volume do cilindro.
+O a situação |l é adequada porque permite mostrar que o volume do cilindro é igual à quantidade de jabuticabas
+multiplicada pela média dos volumes das jabuticabas.
+O as situações | e |l são adequadas e permitem que sejam explorados os conceitos de seção transversal, área da
+superfície cilindrica e volume do cilindro.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

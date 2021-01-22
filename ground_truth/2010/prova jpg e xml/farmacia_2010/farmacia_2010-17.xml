@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T21:59:04</Created>
+	<LastChange>2020-10-27T02:59:02</LastChange></Metadata>
+	<Page imageFilename="farmacia_2010-17.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="832,279 832,2089 833,2089 833,279"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="868,1068 868,1302 1565,1302 1565,1068"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,342 793,342 793,586 792,586 792,1047 517,1047 517,1092 265,1092 265,1261 106,1261 106,1092 105,1092 105,1066 158,1066 158,934 162,934 162,832 168,832 168,700 176,700 176,586 104,586"/>
+	<TextEquiv conf="0.93385">
+	<Unicode>QUESTÃO 30
+Uma indústria farmacêutica implantou um sistema de
+gestão da qualidade e identificou um lote inteiro de
+comprimidos com uma dosagem 25% menor que o valor
+estabelecido em seu projeto. Esse fato se caracteriza
+como uma não conformidade e assume importância
+fundamental na relação da organização com o cliente.
+Diante desse problema, o farmacêutico que atua como
+gerente de qualidade deverá
+|. realizar análises críticas do caso para
+identificar a origem de uma não conformidade
+com esta gravidade.
+Il. gerar registros de acompanhamento do
+produto não conforme, sem segregá-lo, para
+evitar instabilidade desnecessária na indústria
+e em sua imagem comercial.
+Ill. trabalhar o produto não conforme, por ações
+corretivas, tentando adequá-lo às especificações
+de seu projeto.
+IV. conservar o produto não conforme segregado
+na empresa, mesmo que as ações corretivas
+aplicadas não consigam resolver sua não
+conformidade.
+São corretas apenas as condutas
+O el.
+O lelll.
+O llelv.
+O Lev
+O ILeilv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="105,1347 792,1347 792,2095 153,2095 153,2030 106,2030 106,1622 105,1622"/>
+	<TextEquiv conf="0.93838">
+	<Unicode>QUESTÃO 31
+Um paciente usuário de glibenclamida, uma semana
+após entrar em tratamento para tuberculose com
+esquema RIP (rifampicinatisoniazida+pirazinamida),
+começa a apresentar um quadro clínico típico de altas
+concentrações de glicose no sangue. Suspeita-se de
+que esse seja um caso de interação medicamentosa,
+pois a glibenclamida é substrato de CYP3AM4 e a
+rifampicina é indutor do CYP3A4. Uma análise completa
+dessa situação leva à conclusão de que
+O o sistema RIP pode induzir a produção de glicose
+mantida sob reserva no fígado.
+O as enzimas dos sistemas CYP são passíveis de
+indução enzimática promovida por fármacos.
+O a administração da glibenclamida no mesmo horário
+da medicação RIP deve ser evitada para esse
+paciente.
+O o esquema RIP promove interações apenas no
+tratamento da síndrome de imunodeficiência
+adquirida (SIDA ou AIDS).
+O a hipótese de interação não tem fundamento, pois os
+processos enzimáticos são imediatos e, no caso, se
+manifestaram uma semana após o início do tratamento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="872,350 1560,350 1560,954 1503,954 1503,1324 1560,1324 1560,2003 1559,2003 1559,2084 920,2084 920,2003 874,2003 874,1496 886,1496 886,1044 873,1044 873,954 872,954"/>
+	<TextEquiv conf="0.95846">
+	<Unicode>QUESTÃO 32
+A análise do mel de abelhas é regulamentada pela
+Instrução Normativa n.º 11, de 20 de outubro de 2000,
+que aprova o Regulamento Técnico de Identidade e
+Qualidade do Mel. Esse regulamento estabelece a
+quantidade máxima de hidroximetilfurfural (HMF) em
+6 mg/100 g de mel, sendo esse um produto formado
+a partir da degradação dos açúcares. AZEREDO
+e colaboradores (1999) dosaram a quantidade de
+hidroximetilfurfural em amostras de mel acondicionadas
+em frascos de vidro com exposição à luminosidade
+ambiente, frascos de plástico com exposição à
+luminosidade ambiente e frasco de plástico com proteção
+contra a luminosidade. Os dados são apresentados na
+tabela a seguir.
+Teores de HMF, em mg/100g', em amostras de mel
+submetidas a diferentes condições de estocagem
+1 Valores médios de 60 amostras, após 5 repetições de cada amostra.
+? Vidro: estocado à luz ambiente; Poli 1: frasco de polipropileno estocado à luz
+ambiente; Poli 2: frasco de polipropileno estocado ao abrigo da luz.
+AZEREDO, M. A. A.; AZEREDO, L. C.; DAMASCENO, J. C. Características
+físico-químicas dos méis do município de São Fidelis-RJ.
+Ciênc. Tecnol. Aliment. vol.19, n.1, 1999.
+Pela análise dos dados da tabela, infere-se que
+O oacondicionamento do mel em embalagens de vidro
+com exposição à luz é mais adequado.
+O o acondicionamento do mel em embalagens
+plásticas com exposição à luz é mais adequado.
+O o acondicionamento do mel em embalagens de vidro
+com proteção contra a luz é mais adequado.
+O oacondicionamento do mel em embalagens plásticas
+com proteção contra a luz é mais adequado.
+O não existem diferenças significativas dos teores de
+HMF quando se utilizam embalagens de vidro ou
+plástico nem se as amostras são submetidas a alta
+ou baixa luminosidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

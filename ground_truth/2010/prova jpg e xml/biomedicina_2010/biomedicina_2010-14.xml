@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:48:46</Created>
+	<LastChange>2020-10-27T02:48:41</LastChange></Metadata>
+	<Page imageFilename="biomedicina_2010-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r13">
+	<Coords points="827,287 827,2172 829,2172 829,287"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="99,1422 308,1422 308,1488 787,1488 787,1803 786,1803 786,1915 388,1915 388,2042 454,2042 454,2076 678,2076 678,2102 145,2102 145,2099 100,2099 100,1915 99,1915"/>
+	<TextEquiv conf="0.92880">
+	<Unicode>QUESTÃO 24
+Fungos do gênero Malassezia estão relacionados ao
+desenvolvimento de dermatomicose caracterizada pelo
+aparecimento de manchas de coloração variável, bem
+delimitadas, localizadas principalmente na parte superior
+do tórax e braços (pitiríase versicolor). Antigamente, as
+leveduras do gênero Malassezia não eram cultiváveis em
+meios de cultura artificiais. Atualmente, sabe-se que esses
+microrganismos são dependentes nutricionais de um su-
+plemento que deve ser adicionado à formulação de meios
+de cultura convencionais.
+Nesse sentido, para o cultivo de uma amostra biológica
+com suspeita de Malassezia SP, o meio de cultura deve
+ser suplementado com
+fonte lipídica.
+fonte de nitrogênio.
+sangue de carneiro.
+proteínas a base de soja.
+fator V e fator X derivados da hemoglobina.
+cooOoçÇgoos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="866,809 1553,809 1553,1428 1554,1428 1554,1522 867,1522 867,1008 866,1008"/>
+	<TextEquiv conf="0.95317">
+	<Unicode>QUESTÃO 25
+O gráfico acima mostra a curva concentração-resposta de
+um agonista (Agonista) e a curva concentração-resposta
+do mesmo agonista na presença de um antagonista
+(Agonista + Antagonista), referente a comportamentos
+observados em condições ideais, em um mesmo tecido.
+Nessa situação, o antagonismo é do tipo
+O não competitivo reversível, pois, com o aumento da
+concentração do agonista, obtém-se o efeito máximo.
+O não competitivo irreversível, pois, com o aumento da
+concentração do agonista, obtém-se o efeito máximo.
+O competitivo reversível, pois, com o aumento da
+concentração do agonista, obtém-se o efeito máximo.
+O competitivo irreversível, pois, mesmo com o au-
+mento da concentração do agonista, não se obtém
+o efeito máximo.
+O não competitivo reversível, pois, mesmo com o au-
+mento da concentração do agonista, não se obtém
+o efeito máximo.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="848,340 848,762 1562,762 1562,340"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="82,580 82,982 805,982 805,580"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="99,347 786,347 786,634 785,634 785,1297 786,1297 786,1408 98,1408 98,1297 101,1297 101,634 99,634"/>
+	<TextEquiv conf="0.95921">
+	<Unicode>QUESTÃO 23
+Uma ferramenta importante para o controle interno
+de qualidade em um laboratório clínico é a construção
+de gráficos de Levey-Jennings. A interpretação
+desses gráficos pode ser realizada a partir das regras
+múltiplas de Westgard, que permitem a detecção de
+erros aleatórios e sistemáticos, conforme algoritmo
+apresentado a seguir.
+Disponível em: &lt;http://www.control-lab.com.br/es/pdf/westgard o que sao.pdf&gt;.
+Acesso em: 21 ago. 2010.
+A partir da violação da regra de aviso 1,, os erros
+sistemáticos e aleatórios podem ser detectados,
+respectivamente, pela violação dos pares de regras</Unicode></TextEquiv></TextRegion></Page></PcGts>

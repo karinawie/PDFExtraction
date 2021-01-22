@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:05:41</Created>
+	<LastChange>2020-10-29T23:11:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-28.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r46" type="heading">
+	<Coords points="96,192 430,192 430,263 550,263 550,662 551,662 551,1103 1535,1103 1535,1162 80,1162 80,1103 81,1103 81,663 80,663 80,263 96,263"/>
+	<TextEquiv conf="0.96069">
+	<Unicode>QUESTÃO DISCURSIVA 5
+O expressivo aumento da demanda
+anual de passageiros no setor aéreo
+associado ao fato de o Brasil ter sido
+escolhido como sede da Copa do
+Mundo de Futebol de 2014 e dos Jogos
+Olímpicos de 2016 têm provocado amplo
+debate sobre a construção de novos
+aeroportos e reforma nos já existentes.
+Um dos desafios dos engenheiros
+é o dimensionamento de espaços
+localizados nas áreas de embarque e
+desembarque em função do número de
+passageiros e do nível de serviço exigido.
+Considere um terminal de passageiros
+(TPS) que será construído em um
+aeroporto internacional visando atender
+demanda prevista de 2 milhões de
+passageiros “por ano (embarque
++ desembarque). Ao lado, são
+apresentadas tabelas com informações
+referentes ao índice de concentração
+(razão entre o número de passageiros
+na hora-pico e a demanda prevista
+de passageiros por ano) e ao índice
+de dimensionamento de área por
+passageiro, obtidos junto à Agência
+Nacional de Aviação Civil (ANAC).
+Com base nas informações apresentadas no texto e nas tabelas acima, calcule a área total do TPS a ser construído
+para um nível de serviço “bom”. Apresente o procedimento de cálculo utilizado na sua resolução. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="589,252 589,652 1523,652 1523,252"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="589,673 589,1076 1523,1076 1523,673"/></TableRegion></Page></PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:45:58</Created>
+	<LastChange>2020-10-30T02:07:05</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-19.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r1">
+	<Coords points="805,194 807,2005 810,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="791,662 791,810 79,810 79,662"/>
+	<TextEquiv conf="0.96348">
+	<Unicode>Considerando que a peça não pode sofrer modificações
+em suas características físicas, qual medida deveria ser
+feita para que seja possível discriminar o material que está
+sendo testado?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="791,1001 791,1063 129,1063 129,1064 128,1064 128,1001"/>
+	<TextEquiv conf="0.95842">
+	<Unicode>Aplicar um potencial e medir a corrente para determinar
+a faixa resistividade elétrica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="96,1205 270,1205 270,1277 790,1277 790,1913 789,1913 789,2007 82,2007 82,2008 81,2008 81,1531 80,1531 80,1277 96,1277"/>
+	<TextEquiv conf="0.96730">
+	<Unicode>QUESTÃO 28
+Em uma indústria de produtos cerâmicos, na linha de
+produção de um produto processado via colagem, está
+ocorrendo aumento da viscosidade da barbotina e aumento
+da redução da espessura das paredes dos produtos.
+Entre os fatores que colaboram com o aumento da
+viscosidade, incluem-se
+O o aumento do tamanho das partículas, o aumento de
+ligantes e o aumento da temperatura.
+O o aumento do tamanho das partículas, o aumento de
+ligantes e a redução da temperatura.
+O o aumento do tamanho das partículas, a redução de
+ligantes e a redução da temperatura.
+O a redução do tamanho das partículas, o aumento de
+ligantes e o aumento da temperatura.
+O a redução do tamanho das partículas, a redução de
+ligantes e o aumento da temperatura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,189 270,189 270,261 789,261 789,628 729,628 729,950 758,950 758,1094 789,1094 789,1162 129,1162 129,1163 128,1163 128,1116 81,1116 81,629 80,629 80,261 96,261"/>
+	<TextEquiv conf="0.39445">
+	<Unicode>QUESTÃO 27
+Em um reservatório de uma usina de reciclagem de
+materiais, estão misturadas peças de três materiais
+diferentes: cobre, aço e poli(cloreto de vinila) (PVC),
+com dimensões de 12,0 mm de diâmetro e 5,0 mm de
+comprimento. Deseja-se separá-las por um processo e
+propõe-se que apenas um ensaio possa ser feito, tendo
+como resultado uma única propriedade desse material.
+Todas as peças do reservatório são testadas uma única
+vez por meio de um ensaio não destrutivo.
+O Aquecer até obter o ponto de fusão.
+Alongar até obter o limite de resistência à tração.
+Aquecer a 100ºC e medir a emissão no ultravioleta.
+oeoçeo
+o
+Iluminar com infravermelho para obter a transmitância
+nesta faixa de comprimento de onda.</Unicode></TextEquiv></TextRegion></Page></PcGts>

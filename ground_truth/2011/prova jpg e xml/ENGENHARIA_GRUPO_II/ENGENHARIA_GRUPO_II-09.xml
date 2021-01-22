@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:49:42</Created>
+	<LastChange>2020-10-30T00:05:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-09.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 254,192 254,268 1535,268 1535,387 1521,387 1521,1492 1534,1492 1534,1518 1497,1518 1497,1815 862,1815 862,1816 234,1816 234,2008 130,2008 130,2006 81,2006 81,389 79,389 79,268 96,268"/>
+	<ImageRegion id="r1">
+	<Coords points="131,415 131,1147 1515,1147 1515,415"/></ImageRegion>
+	<TextEquiv conf="0.96447">
+	<Unicode>QUESTÃO 9
+Ao pesquisar os efeitos da temperatura na saída de um dado sistema, um engenheiro obteve a relação mostrada no
+gráfico abaixo. O modelo que descreve matematicamente essa relação é importante para que o engenheiro consiga
+desenvolver um sistema de compensação da temperatura e, com isso, minimizar os seus efeitos.
+De posse do resultado apresentado, analise as afirmações que se seguem.
+|. O efeito da temperatura na saída do sistema pode ser representado aproximadamente por uma função linear.
+Il. O efeito da temperatura na saída do sistema apresenta derivada predominantemente positiva e constante.
+Ill. O efeito da temperatura na saída do sistema pode ser representado por uma função do tipo f(x) = ax + b.
+IV. O efeito da temperatura pode ser representado por uma expressão analítica, em que seus parâmetros podem
+ser estimados pelo método dos mínimos quadrados, utilizando-se apenas dois pontos quaisquer do gráfico.
+É correto apenas o que se afirma em
+O lell.
+O llelv
+O lelv
+O Lille.
+o
+Lei.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:29</Created>
+	<LastChange>2020-11-16T04:04:27</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-25.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r0">
+	<Coords points="807,197 805,2008 808,2008 810,197"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="907,1255 907,1626 1452,1626 1452,1255"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,250 792,250 792,599 791,599 791,600 790,600 790,1431 788,1431 788,1661 790,1661 790,2011 129,2011 129,2010 128,2010 128,1974 81,1974 81,1640 79,1640 79,619 80,619"/>
+	<TextEquiv conf="0.51854">
+	<Unicode>QUESTÃO 38
+E comum que linguagens de programação permitam
+a descrição textual de constantes em hexadecimal,
+além de descrições na base dez. O compilador para
+uma linguagem que suporte constantes inteiras em
+hexadecimal precisa diferenciar inteiros em base dez dos
+números hexadecimais que não usam os dígitos de À a
+F. Por exemplo, a sequência de caracteres 12 pode ser
+interpretada como doze em base dez ou como dezoito em
+hexadecimal. Uma maneira de resolver esse problema
+é exigindo que as constantes em hexadecimal terminem
+com o caracter “7”. Assim, não há ambiguidade, por
+exemplo, no tratamento das sequências 12 e 127 .
+A gramática a seguir descreve números inteiros,
+possivelmente com o símbolo “x ” após os dígitos. Os não
+terminais são M, V, Ee osterminais são 7 ed, em que
+d representa um dígito.
+ME
+M—&gt;N
+E— NT
+N— Nd
+N—&gt;d
+Durante a construção de um autômato LR para essa
+gramática, os seguintes estados são definidos:
+A respeito dessa gramática, analise as seguintes
+asserções e a relação proposta entre elas.
+A gramática descrita é do tipo LR(0).
+PORQUE
+É possível construir um autômato LR(0), determinístico,
+cujos estados incluem ene e, acima descritos.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o oo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="825,254 1535,254 1535,370 1536,370 1536,711 1535,711 1535,712 1534,712 1534,814 1518,814 1518,914 826,914 826,838 874,838 874,711 875,711 875,347 825,347"/>
+	<TextEquiv conf="0.96211">
+	<Unicode>QUESTÃO 39
+O conceito de Tipo de Dados Abstrato (TDA) é popular em
+linguagens de programação. Nesse contexto, analise as
+afirmativas a seguir.
+|. A especificação de um TDA é composta das
+operações aplicáveis a ele, da sua representação
+interna, e das implementações das operações.
+Il. Dois mecanismos utilizáveis na implementação de
+um TDA em programas orientados a objetos são a
+composição e a herança.
+Ill. Se S é um subtipo de outro T, então entidades do
+tipo S em um programa podem ser substituídas
+por entidades do tipo T, sem alterar a corretude
+desse programa.
+IV. Oencapsulamento em linguagens de programação
+orientadas a objetos é um efeito positivo do uso
+de TDA.
+É correto apenas o que se afirma em
+o. o. Olel. OlelV O 1lelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="825,1016 1535,1016 1535,1662 1536,1662 1536,1955 1456,1955 1456,2000 826,2000 826,1955 825,1955"/>
+	<TextEquiv conf="0.96392">
+	<Unicode>QUESTÃO 40
+Considere que a figura abaixo corresponde ao cenário de
+um jogo de computador. Esse cenário é dividido em 24
+quadrados e a movimentação de um personagem entre
+cada quadrado tem custo 1, sendo permitida apenas na
+horizontal ou na vertical. Os quadrados marcados em preto
+correspondem a regiões para as quais os personagens
+não podem se mover.
+Nesse cenário, o algoritmo A* vai ser usado para determinar
+o caminho de custo mínimo pelo qual um personagem
+deve se mover desde o quadrado verde até o quadrado
+vermelho. Considere que, no A*, o custo f(x) = g(x) + h(x)
+de determinado nó x é computado somando-se o custo
+real g(x) ao custo da função heurística h(x) e que a função
+heurística utilizada é a distância de Manhattan (soma das
+distâncias horizontal e vertical de x até o objetivo). Desse
+modo, o custo f(x) do quadrado verde é igual a
+o2?. o:. o. O 7. Os:</Unicode></TextEquiv></TextRegion></Page></PcGts>

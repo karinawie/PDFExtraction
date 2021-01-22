@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:01:18</Created>
+	<LastChange>2020-10-30T11:37:49</LastChange></Metadata>
+	<Page imageFilename="FISICA-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="809,197 808,2097 811,2097 812,197"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="841,192 1015,192 1015,243 1535,243 1535,960 1536,960 1536,1078 1535,1078 1535,1844 1534,1844 1534,1913 1530,1913 1530,1999 826,1999 826,1576 825,1576 825,522 824,522 824,404 825,404 825,243 841,243"/>
+	<ImageRegion id="r1">
+	<Coords points="889,563 889,950 1486,950 1486,563"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="852,1086 852,1515 1531,1515 1531,1086"/></ImageRegion>
+	<TextEquiv conf="0.96716">
+	<Unicode>QUESTÃO 15
+Com o objetivo de estudar o comportamento da resistência
+elétrica dos materiais em função da temperatura e da
+iluminação, realizou-se experimentos de medidas de
+resistência elétrica utilizando-se um ohmímetro, como
+descrito a seguir.
+1. As pontas de prova do ohmímetro foram ligadas a um
+filamento de tungstênio de uma lâmpada, cujo bulbo foi
+retirado. Em seguida, o filamento foi aquecido até tornar-
+se incandescente, passando a emitir luz (Figura |).
+2. As pontas de prova do ohmímetro foram ligadas a um
+LDR (Light Dependent Resistor) feito do semicondutor
+sulfeto de cádmio (CdS). Em seguida, o LDR foi iluminado
+com uma lâmpada incandescente (Figura |l).
+Com base no experimento descrito, analise as seguintes
+afirmações.
+|. O ohmímetro indicará alteração na resistência
+elétrica do filamento e do LDR .
+A resistência do filamento diminui devido ao
+aquecimento e à consequente redução das
+vibrações da rede cristalina do metal.
+O ohmímetro indica uma redução da resistência
+do LDR, resultante do aumento da população de
+elétrons livres na banda de condução.
+Aresistência do LDR diminui devido à diminuição da
+largura da banda proibida do material semicondutor.
+É correto apenas o que se afirma em
+Olell. Olelll. GQ INeIlV O LilelV.
+IV.
+O, Ieilv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="96,1129 270,1129 270,1189 790,1189 790,1756 791,1756 791,2006 129,2006 129,2005 128,2005 128,1778 81,1778 81,1566 80,1566 80,1489 79,1489 79,1188 96,1188"/>
+	<TextEquiv conf="0.96285">
+	<Unicode>QUESTÃO 14
+Quando a radiação eletromagnética interage com a
+matéria, pode ocorrer a transferência da energia do
+fóton, ou de parte dela, para as partículas que compõem
+o meio material. Alguns dos principais tipos de interação
+da radiação eletromagnética com a matéria são: efeito
+fotoelétrico; espalhamento Compton e produção de pares,
+que se diferenciam entre si pelas características do meio
+material; energia do fóton incidente; energia transferida
+e situação do fóton após a interação (absorção total ou
+espalhamento com perda de energia do fóton).
+Entre os mecanismos de interação da radiação
+eletromagnética com a matéria, o efeito fotoelétrico ocorre
+O quando o fóton incidente interage com o núcleo
+atômico do átomo do material atenuador, cedendo
+toda a sua energia e originando um par de partículas.
+quando o fóton incidente é totalmente absorvido por um
+elétron livre de um metal e este é ejetado do material.
+quando o fóton de raios X ou gama é desviado por
+um elétron das camadas mais externas, transferindo a
+esse elétron parte de sua energia.
+mais predominantemente quando a energia do fóton
+incidente é muito maior que a energia transferida às
+partículas produzidas na interação.
+independentemente da energia do fóton incidente e do
+número atômico do meio.
+o
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,252 790,252 790,431 789,431 789,574 790,574 790,899 309,899 309,1096 130,1096 130,1095 81,1095 81,868 174,868 174,602 129,602 129,554 81,554 81,553 80,553 80,430 79,430 79,252 96,252"/>
+	<TextEquiv conf="0.96576">
+	<Unicode>QUESTÃO 13
+Em um experimento de eletromagnetismo, os terminais
+de um solenoide são conectados aos de uma lâmpada
+formando um circuito fechado, colocado próximo a um
+imã. Podemos movimentar tanto o ímã quanto o solenoide
+e, como resultado dessa ação, observa-se variação da
+luminosidade da lâmpada.
+Simulador Laboratório de Eletromagnetismo de Faraday. Disponível em:
+&lt; http://phet.colorado.edu/pt BR/get-phet/one-at-a-time&gt;. Acesso em: 23 de ago 2011.Com base nessa situação, avalie as seguintes afirmações.
+|. A luminosidade da lâmpada será tanto maior quanto
+maior for a velocidade do ímã, correspondendo a uma
+maior variação do fluxo magnético através do circuito.
+A corrente induzida devido ao movimento do ímã
+em relação ao solenoide pode ser explicada pela
+força de Lorentz sobre os elétrons livres da espira.
+O ato de empurrar o ímã na direção do solenoide
+produz uma corrente induzida no solenoide cujo
+campo magnético atrai o ímã.
+É correto o que se afirma em
+|, apenas.
+Ill, apenas.
+l ell, apenas.
+Il e Ill, apenas.
+Lie,
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:48:32</Created>
+	<LastChange>2020-10-30T14:28:46</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-27.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="841,953 1015,953 1015,1000 1533,1000 1533,1064 1534,1064 1534,1235 1535,1235 1535,1410 1383,1410 1383,1560 1428,1560 1428,1613 1501,1613 1501,1660 1534,1660 1534,1734 1535,1734 1535,2011 874,2011 874,2012 873,2012 873,1974 826,1974 826,1639 824,1639 824,1613 934,1613 934,1560 976,1560 976,1442 826,1442 826,1443 825,1443 825,1234 832,1234 832,1132 825,1132 825,1003 826,1003 826,1002 841,1002"/>
+	<TextEquiv conf="0.96799">
+	<Unicode>QUESTÃO 38
+a b
+cd
+com a operação usual de produto de matrizes, forma um
+grupo, em que o elemento neutro é a matriz identidade
+O conjunto G = í | : a,b,c,d € Z, ad — bc] = 1),
+I= | " ó | .Dado um elemento À E G , define-se a
+ordem de À como sendo o menor inteiro positivo m tal
+que A” = [,caso m exista. Se não existir, diz-se que
+A tem ordem infinita.
+—-1 0
+| e B= | 01
+—1 —l
+1 0
+O elemento AB tem ordem seis.
+A tem ordem três e B tem ordem dois.
+Considerando À = | , avalie
+as asserções a seguir.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+oo
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 1015,192 1015,237 1535,237 1535,920 827,920 827,921 826,921 826,591 827,591 827,590 874,590 874,509 919,509 919,375 874,375 874,330 825,330 825,238 826,238 826,237 841,237"/>
+	<TextEquiv conf="0.96434">
+	<Unicode>QUESTÃO 37
+Para resolver a equação x? = cos x, utiliza-se a fórmula de
+Taylor da função cos x. Considerando essa observação,
+analise as afirmações a seguir.
+|. As raízes dessa equação, obtidas com uma
+aproximação de segunda ordem na fórmula de
+2, 2 vV6
+Taylor, são +
+Ill. O erro de truncamento de uma aproximação de
+à dies |
+segunda ordem para cos x é limitado por —
+6
+Ill. Ao usar aproximações de quarta ordem em vez de
+aproximações de segunda ordem para cos x, os
+erros de truncamento são reduzidos em 25%.
+É correto apenas o que se afirma em
+o.
+o.
+o Il.
+O lell.
+O llelll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="98,192 272,192 272,250 793,250 793,420 442,420 442,554 791,554 791,725 793,725 793,751 791,751 791,824 789,824 789,1003 792,1003 792,1096 793,1096 793,1419 500,1419 500,1467 336,1467 336,1632 792,1632 792,1694 536,1694 536,1749 213,1749 213,2002 106,2002 106,2004 83,2004 83,1719 185,1719 185,1632 186,1632 186,1467 131,1467 131,1066 82,1066 82,976 81,976 81,834 82,834 82,725 83,725 83,554 130,554 130,420 82,420 82,250 98,250"/>
+	<TextEquiv conf="0.82352">
+	<Unicode>QUESTÃO 36
+Seja A um conjunto e seja — uma relação entre pares
+de elementos de A. Diz-se que — é uma relação de
+equivalência entre pares de elementos de A, se as
+seguintes propriedades são verificadas, para quaisquer
+elementos a, a e "de A:
+(i)a-a;
+(li) se a - 2, então a - a;
+(li) se a- ad ea-a,entãoca- a.
+Uma classe de equivalência do elemento a de A com
+respeito à relação — é o conjunto
+a=fíreA:rt+$—a)
+O conjunto quociente de A pela relação de equivalência —
+é o conjunto de todas as classes de equivalência relativa-
+mente à relação —, definido e denotado como a seguir:
+A/. =fa:a E AJ).
+A função nt: A — A/. é chamada projeção canônica e
+é definida como T(a) = a, Va E À.
+Considerando as definições acima, analise as afirmações
+a seguir.
+|. A relação de equivalência — no conjunto A
+particiona o conjunto A em subconjuntos disjuntos,
+as classes de equivalência.
+Il. Aunião das classes de equivalência da relação de
+equivalência — no conjunto A resulta no conjunto
+das partes de A.
+Ill. Qualquer relação de equivalência no conjunto A é
+proveniente de sua projeção canônica.
+IV. As três relações seguintes
+= (mod n)
+IV
+são relações de equivalência no conjunto dos
+números inteiros Z.
+É correto apenas o que se afirma em
+o.
+WU.
+lei.
+Ielv.
+Welv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:48:15</Created>
+	<LastChange>2020-10-30T00:07:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-15.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,268 1535,268 1535,315 1537,315 1537,528 1535,528 1535,734 1534,734 1534,844 1222,844 1222,1586 1536,1586 1536,1701 245,1701 245,1985 82,1985 82,1986 81,1986 81,1587 80,1587 80,845 79,845 79,269 80,269 80,268 96,268"/>
+	<ImageRegion id="r1">
+	<Coords points="800,918 800,1536 1510,1536 1510,918"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="81,905 81,1557 786,1557 786,905"/></TableRegion>
+	<TextEquiv conf="0.96604">
+	<Unicode>QUESTÃO 27
+As condições gerais de fornecimento de energia elétrica que estabelecem as disposições a serem observadas pelas
+distribuidoras de energia elétrica e pelos consumidores encontram-se consolidadas na Resolução nº. 414 da ANEEL —
+Agência Nacional de Energia Elétrica, em vigor desde 15/09/2010. Essa regulamentação estabelece, para as unidades
+consumidoras do Grupo A e com modalidade tarifária convencional, a obrigatoriedade de contratação de valor único
+de demanda (kW) na vigência do contrato e aplicação de tarifa única no faturamento desse item. A regulamentação
+anterior permitia contratação de valores distintos para cada mês.
+A Resolução determina, ainda, que o montante a ser faturado do consumidor, com exceção de algumas classes
+especiais, é o maior valor entre a demanda contratada e a demanda medida. Estabelece também que, se a demanda
+medida ultrapassar em mais de 5% a demanda contratada, será cobrado um acréscimo na tarifa (cerca de 3 vezes o
+valor normal) sobre o montante excedente (ultrapassagem de demanda).
+Atabela e o gráfico a seguir apresentam a evolução das demandas contratadas e medidas de uma unidade consumidora do
+Grupo A e tarifa convencional, anteriores à entrada em vigor da nova legislação. Verifica-se que é necessária a atualização
+do contrato com a concessionária de energia, com a contratação de valor único para a demanda.
+Avaliando os dados apresentados, qual o valor aproximado a ser recomendado para contratação de demanda, mantidas
+as condições de consumo apresentadas no gráfico, de forma a se garantir que não haverá cobrança de ultrapassagem
+de demanda dessa unidade consumidora?
+O 4400 kW
+O 5000 kW
+O 6000 kW
+O 6300 kW
+Q 6600 kW</Unicode></TextEquiv></TextRegion></Page></PcGts>

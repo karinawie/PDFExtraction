@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T15:01:02</Created>
+	<LastChange>2020-10-27T15:06:31</LastChange></Metadata>
+	<Page imageFilename="tecnologia_radiologia_2010-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="514,420 514,814 1165,814 1165,420"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="101,281 309,281 309,348 1554,348 1554,832 1555,832 1555,967 1286,967 1286,1025 726,1025 726,1024 165,1024 165,1023 164,1023 164,967 101,967 101,408 100,408 100,348 101,348"/>
+	<TextEquiv conf="0.53341">
+	<Unicode>QUESTÃO 38
+Na figura seguinte, tem-se um exemplo típico de um espectro de fótons de raios X. Esse espectro apresenta a possível
+distribuição de energia dos fótons de raios X.
+BITELLI, T. Física e dosimetria das radiações. 2º ed. São Paulo: Editora Atheneu; Centro Universitário São Camilo: 2006, p. 134 (adaptado).
+Com base nos dados da figura e considerando o fenômeno de produção de raios X, responda às perguntas que se seguem.
+a) Qual o tipo de radiação indicada pelo número 1? Justifique sua resposta. (valor: 5,0 pontos)
+b) Qual o tipo de radiação indicada pelo número 2? Justifique sua resposta. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

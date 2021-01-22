@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:36:47</Created>
+	<LastChange>2020-09-23T19:37:16</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-16.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r0">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="841,1404 1015,1404 1015,1469 1535,1469 1535,1671 1440,1671 1440,1785 1535,1785 1535,2007 873,2007 873,1968 826,1968 826,1671 825,1671 825,1469 841,1469"/>
+	<TextEquiv conf="0.96389">
+	<Unicode>QUESTÃO 32
+O MPS.BR (Melhoria de Processos do Software Brasileiro)
+é, ao mesmo tempo, um movimento para melhoria da
+qualidade e um modelo de qualidade de processo.
+Guia MPS.BR (SOFTEX)
+Com relação às suas características, o MPS.BR
+possui 5 níveis de maturidade.
+possui representação contínua e por estágios.
+está em conformidade com as normas ISO/IEC 12207
+e 15504.
+considera 3 dimensões: pessoas, ferramentas e
+procedimentos.
+divide-se em 3 modelos: desenvolvimento, aquisição
+e serviços.
+o oO Doo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="841,192 1011,192 1011,257 1536,257 1536,716 1535,716 1535,1052 1533,1052 1533,1140 956,1140 956,1363 849,1363 849,1365 826,1365 826,1066 874,1066 874,804 825,804 825,768 824,768 824,743 825,743 825,257 841,257"/>
+	<TextEquiv conf="0.96549">
+	<Unicode>QUESTÃO 31
+Em um determinado momento, uma rede recebe uma
+quantidade de requisições de operações, vindas de
+números |Ps distintos, muito acima das condições
+operacionais previstas para os seus recursos e “trava”, isto
+é, OS seus serviços são interrompidos. Muitas empresas
+e entidades governamentais sofrem esse tipo de ataque
+hacker. Para realizá-lo, um atacante precisa distribuir
+um código, em vários computadores, normalmente sem
+o consentimento dos destinatários, que se tornam seus
+“zumbis”. Em um momento, o atacante ativa os “zumbis”
+que fazem muitos acessos a um determinado alvo,
+acabando por esgotar seus recursos e derrubando o
+sistema de informações.
+A respeito desse analise as
+afirmações abaixo.
+tipo de ataque,
+|. É um ataque de negação de serviço distribuído
+(Distributed Denial Of Service).
+ll. É um ataque que ameaça o atributo da
+disponibilidade do sistema.
+Ill. É um ataque em que os zumbis roubam as senhas
+dos usuários, para poder enviar requisições.
+IV. É um ataque não detectável por sistemas de antivírus.
+Está correto apenas o que se afirma em
+l.
+.
+lell.
+Ieilv.
+Welv.
+CoOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 790,254 790,380 789,380 789,424 747,424 747,535 788,535 788,594 336,594 336,679 320,679 320,805 336,805 336,933 789,933 789,993 390,993 390,1026 224,1026 224,1200 81,1200 81,993 79,993 79,933 174,933 174,594 80,594 80,535 81,535 81,380 79,380 79,254 96,254"/>
+	<TextEquiv conf="0.93836">
+	<Unicode>QUESTÃO 29
+A pilha é uma estrutura de dados que permite a inserção/
+remoção de itens dinamicamente seguindo a norma de
+último a entrar, primeiro a sair. Suponha que para uma
+estrutura de dados, tipo pilha, são definidos os comandos:
+* — PUSH(p,n): Empilha um número “hn” em uma estrutura
+de dados do tipo pilha “p”;
+* — POP (p): Desempilha o elemento no topo da pilha.
+Considere que, em uma estrutura de dados tipo pilha “p”,
+inicialmente vazia, sejam executados os seguintes comandos:
+PUSH (p, 10)
+PUSH (p, 5)
+PUSH (p, 3)
+PUSH (p, 40)
+POP (p)
+Após a execução dos comandos, o elemento no topo da
+pilha “p” e a soma dos elementos armazenados na pilha
+p” são, respectivamente,
+O 11e29.
+O 11e8o.
+O 4e 80.
+O 7e29.
+O 7e40.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1227 270,1227 270,1287 790,1287 790,1375 789,1375 789,1544 790,1544 790,2008 128,2008 128,1972 81,1972 81,1648 79,1648 79,1623 80,1623 80,1375 79,1375 79,1287 96,1287"/>
+	<TextEquiv conf="0.96595">
+	<Unicode>QUESTÃO 30
+As revisões técnicas formais são um meio efetivo de
+melhorar a qualidade do software. Com relação a esse
+tipo de revisão, analise as seguintes asserções.
+Nas revisões, os produtos de trabalho de um indivíduo ou
+equipe são revisados por técnicos ou gerentes
+PORQUE
+as revisões fornecem informações sobre defeitos,
+aumentando e permitindo o controle da qualidade do
+produto final.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o o 6ooc</Unicode></TextEquiv></TextRegion></Page></PcGts>

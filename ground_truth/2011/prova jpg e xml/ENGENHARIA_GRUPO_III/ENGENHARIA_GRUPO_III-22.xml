@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:35:26</Created>
+	<LastChange>2020-10-30T00:46:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-22.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,192 431,192 431,254 1535,254 1535,346 1533,346 1533,1108 1534,1108 1534,1166 839,1166 839,1167 144,1167 144,1168 143,1168 143,987 79,987 79,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="376,357 376,886 1231,886 1231,357"/></ImageRegion>
+	<TextEquiv conf="0.96490">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Uma barra circular maciça, feita de aço ABNT 1020, de 500 mm de comprimento, está apoiada nos pontos A e B.
+A barra recebe cargas de 800 N e 200 N, distantes, respectivamente, 120 mm e 420 mm do ponto A, conforme
+mostrado na figura a seguir.
+Considerando o peso da barra desprezível e que o efeito da tensão normal é muito superior ao da tensão cisalhante,
+faça o que se pede nos itens a seguir.
+a) Esboce, para a situação da figura, o gráfico do esforço cortante; (valor: 3,0 pontos)
+b) Esboce, para a situação da figura, o gráfico do momento fletor; (valor: 3,0 pontos)
+c) Admitindo fator de segurança igual a 1, escreva a expressão algébrica que permite obter o diâmetro da barra
+em função do momento fletor e de outras grandezas pertinentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

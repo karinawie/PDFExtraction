@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T02:02:16</Created>
+	<LastChange>2020-10-27T02:09:44</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_PROCESSOS_GERENCIAIS-19.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r6">
+	<Coords points="818,168 818,2011 820,2011 820,168"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="1267,127 1536,127 1536,198 1488,198 1488,831 1263,831 1263,981 1488,981 1488,1203 1487,1203 1487,1285 1350,1285 1350,1393 1527,1393 1527,1866 871,1866 871,1773 870,1773 870,1526 868,1526 868,1497 869,1497 869,1393 909,1393 909,1234 908,1234 908,981 1134,981 1134,831 908,831 908,198 870,198 870,152 1267,152"/>
+	<TextEquiv conf="0.87682">
+	<Unicode>QUESTÃO 31:
+Você está ocupando temporariamente a
+gerência de operações de uma empresa.
+Percebe, então, que o setor de vendas —
+responsável pela elaboração das previsões
+— não acompanha formalmente os erros de
+previsão, pois a gerência de vendas parece
+não ver muita utilidade nisso e resiste à sua
+solicitação de começar a acompanhar os
+erros. Você, para justificar a importância
+desse acompanhamento, argumenta que é
+importante saber não só quanto se espera
+ter de demanda, mas também qual é o erro
+esperado para essa previsão.
+PORQUE
+Do acompanhamento dos erros derivarão
+importantes decisões sobre os “colchões”
+de segurança que serão dimensionados
+para a rede de suprimento (na forma de
+estoques, tempos ou capacidade extra) de
+forma a fazer frente às incertezas
+decorrentes dos erros, mantendo níveis
+desejados de serviço aos clientes.
+Considerando-se essas frases, é CORRETO
+afirmar que
+A) os dois argumentos são falsos.
+B) os dois argumentos são verdadeiros, e o
+segundo justifica o primeiro.
+C) os dois argumentos são verdadeiros, e o
+primeiro é causa do segundo.
+D) o primeiro argumento é falso, e o segundo é
+verdadeiro.
+E) o primeiro argumento é verdadeiro, e o
+segundo é falso.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="54,624 54,1072 783,1072 783,624"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="40,1105 40,1562 789,1562 789,1105"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="112,169 311,169 311,225 769,225 769,538 768,538 768,1583 769,1583 769,1746 733,1746 733,1940 711,1940 711,2011 112,2011 112,1870 111,1870 111,225 112,225"/>
+	<TextEquiv conf="0.92977">
+	<Unicode>QUESTÃO 30:
+Existem três tipos básicos de modelos de
+gestão de estoque para itens de demanda
+constante: Modelos de Revisão Contínua (ou
+Lote Fixo), Modelos de Reposição Periódica
+e Modelos Híbridos.
+A principal diferença entre eles é que, nos
+modelos de Revisão Contínua, o gatilho para
+realizar as compras é um evento, enquanto
+nos de Reposição Periódica é o tempo,
+conforme exemplificado nos gráficos.
+Qual dos apresentados — é
+considerado indicado para os itens A
+(elevado giro e/ou custo de compra) e com
+elevado custo de falta, visando à redução do
+custo total?
+Modelo
+A) Híbrido.
+B) de Reposição Periódica de duas semanas.
+C) de Reposição Periódica e o Híbrido.
+D) de Reposição Periódica de uma semana.
+E) de Revisão Contínua.</Unicode></TextEquiv></TextRegion></Page></PcGts>

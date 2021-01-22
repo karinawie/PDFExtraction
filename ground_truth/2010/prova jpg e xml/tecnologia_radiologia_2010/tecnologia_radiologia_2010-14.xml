@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T18:01:43</Created>
+	<LastChange>2020-11-16T15:22:14</LastChange></Metadata>
+	<Page imageFilename="tecnologia_radiologia_2010-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="826,287 827,2097 829,2097 828,287"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="869,1037 1077,1037 1077,1112 1556,1112 1556,1346 1475,1346 1475,1453 1555,1453 1555,2101 870,2101 870,2102 869,2102 869,1414 868,1414 868,1112 869,1112"/>
+	<TextEquiv conf="0.47878">
+	<Unicode>QUESTÃO 30
+A venipuntura, utilizada na realização de urografias,
+consiste na punção de uma veia para a injeção do
+meio de contraste adequado para o exame. Para
+realizar exames contrastados do sistema urinário, o
+tecnólogo em radiologia deve conhecer o suprimento
+sanguíneo desse sistema.
+Acerca desse tema, assinale a afirmação correta.
+O O sangue arterial é recebido pelos rins a partir da
+artéria aorta torácica, por intermédio das artérias
+abdominais esquerda e direita.
+O O sangue arterial é recebido pelos rins a partir da
+artéria aorta abdominal, por intermédio das artérias
+renais direita e esquerda.
+O O sangue venoso é recebido pelos rins a partir da
+veia cava inferior, por intermédio das veias renais de
+grande calibre.
+O O sangue venoso é recebido pelos rins a partir da
+veia cava inferior, por intermédio das veias renais de
+médio calibre.
+O O sangue arterial emerge dos rins a partir da artéria
+torácica, por intermédio das artérias abdominais
+esquerda e direita.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="869,280 1077,280 1077,356 1555,356 1555,738 1554,738 1554,953 1552,953 1552,1001 917,1001 917,1002 916,1002 916,998 869,998 869,633 868,633 868,356 869,356"/>
+	<TextEquiv conf="0.54359">
+	<Unicode>QUESTÃO 29
+O contraste em ressonância magnética (RM) é oresultado
+da interação de diferentes fatores, incluindo a densidade
+dos prótons do átomo de hidrogênio, a susceptibilidade
+magnética e o fluxo dos líquidos corporais. A RM tem
+vantagens em outras áreas, mas com respeito às partes
+moles, a relação entre a densidade de prótons e a
+densidade de elétrons varia na ordem de apenas 10%.
+Para melhorar a imagem em RM, utilizam-se contrastes
+compostos de substâncias
+diamagnéticas, paramagnéticas e ferromagnéticas.
+iodomagnéticas, submagnéticas e paramagnéticas.
+paramagnéticas, iodomagnéticas e bariomagnéticas.
+ferromagnéticas, bariomagnéticas e submagnéticas.
+CoOogÇGoo
+subparamagnéticas, ferromagnéticas, iodomagnéticas.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="91,342 91,948 800,948 800,342"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="101,286 309,286 309,980 788,980 788,1818 555,1818 555,1877 222,1877 222,2095 125,2095 125,2097 101,2097 101,1913 102,1913 102,1847 157,1847 157,1677 159,1677 159,1562 165,1562 165,1409 173,1409 173,1220 100,1220 100,980 101,980"/>
+	<TextEquiv conf="0.95671">
+	<Unicode>QUESTÃO 28
+No processo de formação de imagem na ressonância
+magnética, são definidas duas constantes: T1 e T2.
+Na figura acima, pode-se observar uma imagem turbo
+spin eco ponderada em T2 e uma ampliação em que a
+resolução de contraste foi obtida devido às diferenças nos
+tempos T2 entre os tecidos envolvidos. Considerando as
+constantes citadas, avalie as afirmações a seguir.
+|. A constante T1 está relacionada ao tempo
+de retorno da magnetização para o eixo
+longitudinal e é influenciada pela interação dos
+Sspins com a rede.
+Il. A constante T1 está relacionada com o tempo de
+relaxação do momento magnético dos núcleos
+dos átomos de carbono para o primeiro pulso de
+radiofrequência.
+II. A constante T2 faz referência à redução da
+magnetização no plano transversal e é influenciada
+pela interação spin-spin (dipolo-dipolo).
+IV. A constante T2 está relacionada com o tempo de
+relaxação do momento magnético dos núcleos
+dos átomos de carbono para o segundo pulso de
+radiofrequência.
+É correto apenas o que se afirma em
+leill.
+lei.
+lelv.
+Nell.
+INelv.
+cCoçÇgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:15</Created>
+	<LastChange>2020-11-16T04:03:49</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-27.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="307,365 307,934 1292,934 1292,365"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="278,266 1337,266 1337,999 1338,999 1338,1410 1414,1410 1414,1464 1533,1464 1533,1563 1536,1563 1536,1673 435,1673 435,1795 294,1795 294,1927 309,1927 309,1955 226,1955 226,2006 81,2006 81,1703 129,1703 129,1376 80,1376 80,1294 277,1294 277,999 278,999"/>
+	<TextEquiv conf="0.93588">
+	<Unicode>QUESTÃO 43
+O razor é uma arquitetura para desempenho better-than-worst-case que usa um
+registrador especializado, mostrado na figura, que mede e avalia os erros.
+O registrador do sistema mantém o valor chaveado e é comandado por um
+clock de sistema better-than-worst-case. Um registrador adicional é comandado
+separadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os
+resultados armazenados nos dois registradores são diferentes, então um erro ocorreu,
+provavelmente devido à temporização. A porta XOR detecta o erro e faz com que este
+valor seja substituído por aquele no registrador do sistema.
+Wolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007
+Considerando essas informações, analise as afirmações a seguir.
+|. Sistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.
+Il. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros,
+permitindo que o circuito possa operar com uma frequência maior.
+Ill. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam
+armazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior
+caso.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lIlelll, apenas.
+O Lilel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

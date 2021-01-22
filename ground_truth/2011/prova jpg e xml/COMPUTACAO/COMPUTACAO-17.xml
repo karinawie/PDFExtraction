@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:13</Created>
+	<LastChange>2020-11-16T04:06:05</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-17.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,259 792,259 792,260 793,260 793,451 791,451 791,674 789,674 789,848 790,848 790,890 791,890 791,1006 534,1006 534,1115 195,1115 195,1260 203,1260 203,1280 104,1280 104,1282 81,1282 81,1042 153,1042 153,868 129,868 129,675 80,675"/>
+	<TextEquiv conf="0.92686">
+	<Unicode>QUESTÃO 29
+Uma antiga empresa de desenvolvimento de software
+resolveu atualizar toda sua infraestrutura computacional
+adquirindo um sistema operacional multitarefa,
+processadores multi-core (múltiplos núcleos) e o uso de
+uma linguagem de programação com suporte a threads.
+O sistema operacional multitarefa de um computador
+é capaz de executar vários processos (programas) em
+paralelo. Considerando esses processos implementados
+com mais de uma thread (multi-threads), analise as
+afirmações abaixo.
+|. “Osciclos de vida de processos e threads são idênticos.
+Il. Threads de diferentes processos compartilham
+memória.
+Ill. Somente processadores multi-core são capazes
+de executar programas multi-threads.
+. Em sistemas operacionais multitarefa, threads
+podem migrar de um processo para outro.
+É correto apenas o que se afirma em
+LL
+.
+lei.
+lelv.
+INelv.
+CoOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="825,254 1535,254 1535,255 1536,255 1536,441 1332,441 1332,552 1334,552 1334,576 1332,576 1332,828 956,828 956,875 849,875 849,877 826,877 826,594 874,594 874,441 825,441"/>
+	<TextEquiv conf="0.96359">
+	<Unicode>QUESTÃO 30
+Suponha que se queira pesquisar a chave 287 em uma
+árvore binária de pesquisa com chaves entre 1 e 1 000.
+Durante uma pesquisa como essa, uma sequência de
+chaves é examinada. Cada sequência abaixo é uma
+suposta sequência de chaves examinadas em uma busca
+da chave 287.
+|. 7,342,199,201,310, 258, 287
+Il. 110, 132, 133, 156, 289, 288, 287
+Ill. 252, 266, 271, 294, 295, 289, 287
+IV. 715, 112, 530, 249, 406, 234, 287
+É válido apenas o que se apresenta em
+o.
+WI.
+leill.
+Ielv.
+Welv.
+[MENONORO)</Unicode></TextEquiv></TextRegion></Page></PcGts>

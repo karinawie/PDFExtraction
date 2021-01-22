@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:59:50</Created>
+	<LastChange>2020-10-30T11:32:16</LastChange></Metadata>
+	<Page imageFilename="FISICA-18.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="96,192 431,192 431,1038 1535,1038 1535,1227 79,1227 79,1038 96,1038"/>
+	<ImageRegion id="r1">
+	<Coords points="97,234 97,1031 726,1031 726,234"/></ImageRegion>
+	<TextEquiv conf="0.95539">
+	<Unicode>QUESTÃO DISCURSIVA 4
+As figuras acima representam resultados de experimentos de interferência de feixes de fótons (a) e de elétrons (b) de
+baixíssima intensidade. Verifica-se que a incidência de poucos fótons ou de poucos elétrons resulta em marcas na tela de
+detecção como se fosse produzida por objetos individuais. Por outro lado, a incidência de muitos fótons ou de muitos elétrons
+resulta na formação de um padrão de interferência na tela de detecção, similar ao produzido no experimento de fendas duplas.
+A partir dessas informações, redija um texto dissertativo acerca da possibilidade de conciliação entre esses resultados
+experimentais e os conceitos clássicos e mutuamente excludentes de onda e partícula. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="850,244 850,1028 1534,1028 1534,244"/></ImageRegion></Page></PcGts>

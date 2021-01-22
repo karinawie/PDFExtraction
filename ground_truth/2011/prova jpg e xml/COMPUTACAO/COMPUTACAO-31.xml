@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:28:57</Created>
+	<LastChange>2020-11-16T04:03:06</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-31.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r9">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="826,273 1536,273 1536,836 1090,836 1090,883 964,883 964,1191 849,1191 849,1193 826,1193 826,836 825,836 825,663 826,663"/>
+	<TextEquiv conf="0.95743">
+	<Unicode>QUESTÃO 50
+Uma empresa vem desenvolvendo um programa de
+melhoria de seus processos de software utilizando o
+modelo de qualidade CMMI. O programa envolveu a
+definição de todos os processos padrão da organização,
+implementação de técnicas de controle estatístico de
+processos e métodos de melhoria contínua. Após a
+avaliação SCAMPI, classe A, foi detectado que a área
+de processo de PP - Project Planning (Planejamento de
+Projeto) não estava aderente ao modelo.
+Nesse contexto, considerando a representação por
+estágios do CMMI, a empresa seria classificada em que
+nível de maturidade?
+O Nível 1.
+Nível 2.
+Nível 3.
+Nível 4.
+Ooo
+Nível 5.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="65,363 65,947 792,947 792,363"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,255 789,255 789,1440 128,1440 128,1401 81,1401 81,351 80,351"/>
+	<TextEquiv conf="0.96324">
+	<Unicode>QUESTÃO 48
+No desenvolvimento de um software para um sistema
+de venda de produtos nacionais e importados, o analista
+gerou o diagrama de casos de uso a seguir.
+Da análise do diagrama, conclui-se que
+o
+a execução do caso de uso “Consultar estoque' incorpora
+opcionalmente o caso de uso “Liberar desconto”.
+a execução do caso de uso “Liberar desconto' incorpora
+opcionalmente o caso de uso “Realizar venda”.
+a execução do caso de uso “Realizar venda' incorpora
+obrigatoriamente o caso de uso “Consultar estoque”.
+a execução do caso de uso “Realizar venda de
+produto nacional' incorpora obrigatoriamente o caso
+de uso Liberar desconto”.
+um Gerente pode interagir com o caso de uso
+“Realizar venda”, pois ele é um Usuário.
+o
+o
+o
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="80,1539 789,1539 789,1695 790,1695 790,1785 247,1785 247,1836 246,1836 246,1950 260,1950 260,1970 201,1970 201,2007 104,2007 104,2009 81,2009 81,1785 80,1785"/>
+	<TextEquiv conf="0.96200">
+	<Unicode>QUESTÃO 49
+Considerando o conceito de sistema, trazido
+pela Teoria Geral de Sistemas, um projeto de
+desenvolvimento de software poderia ser considerado
+como um sistema aberto.
+Nessa perspectiva, solicitações de mudanças originadas
+de um stakeholder externo e que afetam o projeto podem
+ser consideradas como
+ambiente.
+entrada.
+feedback.
+processos.
+saída.
+CoçÇoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:47:51</Created>
+	<LastChange>2020-10-30T14:25:59</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-30.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="841,192 1015,192 1015,253 1536,253 1536,436 1534,436 1534,990 1301,990 1301,1188 827,1188 827,1189 826,1189 826,436 824,436 824,254 825,254 825,253 841,253"/>
+	<ImageRegion id="r2">
+	<Coords points="826,444 826,802 1539,802 1539,444"/></ImageRegion>
+	<TextEquiv conf="0.96706">
+	<Unicode>QUESTÃO 45
+A aplicação (9: Si, &gt; S, ilustrada na figura abaixo é
+uma isometria entre a faixa plana S, e o cilindro circular
+reto S,. A isometria leva o segmento de reta r, em um arco
+de circunferência em S, e o segmento de reta r, em um
+segmento de reta de S,.
+Nessa situação, a imagem do segmento de reta r, pela
+isometria q é uma
+O espiral da superfície S,.
+O curva plana contida em S,.
+O geodésica da superfície S,.
+O linha assintótica da superfície S,.
+O linha de curvatura da superfície S,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,163 399,163 399,259 791,259 791,662 750,662 750,1036 751,1036 751,1065 750,1065 750,1254 790,1254 790,1322 228,1322 228,1559 81,1559 81,1322 80,1322 80,1220 119,1220 119,1091 123,1091 123,974 119,974 119,662 80,662"/>
+	<TextEquiv conf="0.95951">
+	<Unicode>QUESTÃO 44
+Um dos problemas mais antigos da Matemática é encontrar
+raízes de equações polinomiais. Quando se fala de variáveis
+complexas, sabe-se que toda equação polinomial de grau
+n possui exatamente n zeros. No entanto, um problema
+que surge nesse ponto é que nem sempre conseguimos
+dizer quem são essas n raízes. Como corolário do Princípio
+do Argumento, um dos principais resultados da Análise
+Complexa e particularmente da Teoria dos Resíduos, tem-
+se o Teorema de Rouché, que possibilita, em algumas
+situações, localizar os zeros de equações polinomiais.
+Segue abaixo o enunciado desse teorema.
+Considere f e g funções que são meromorfas
+(holomorfas a menos de um conjunto discreto de
+polos) em um subconjunto não vazio, aberto e
+conexo U/ C € doconjunto dos números complexos
+e7gy:lI—-C uma curva fechada simples (sem
+autointerseções), cujo interior R esteja contido em
+U . Se 7(I) não contém polos de f e nem zeros de
+ge |f(2)) &gt; |g(2)|, para todo 2 E 7(1), então
+Z(fS+9,R)— P(f+9,R)=2Z(f,R)— P(S,R)
+em que Z(h, A) e P(h, A) denotam, respectivamente,
+o número de zeros e o número de polos de uma
+função hem A.
+Considerando o teorema acima e a equação
+2º —227º +5=0, conclui-se que existem raízes dessa
+equação que satisfazem à condição
+CoOoçgGoo
+WAL IA
+&gt;
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

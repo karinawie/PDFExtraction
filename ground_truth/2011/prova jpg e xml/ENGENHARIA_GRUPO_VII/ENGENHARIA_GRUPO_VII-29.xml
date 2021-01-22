@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:44:57</Created>
+	<LastChange>2020-10-30T02:53:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-29.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="96,1413 270,1413 270,1485 1535,1485 1535,1593 1533,1593 1533,1723 1534,1723 1534,1889 1428,1889 1428,2056 980,2056 980,2057 81,2057 81,1920 129,1920 129,1596 80,1596 80,1486 81,1486 81,1485 96,1485"/>
+	<TextEquiv conf="0.96498">
+	<Unicode>QUESTÃO 40
+Para a recuperação de petróleo em poços que perderam a surgência, uma das técnicas de elevação
+artificial amplamente difundida é o sistema de injeção de gás (gas-lift). A respeito dessa técnica analise as
+afirmações abaixo.
+|. "Possui grande versatilidade em relação à classe de óleo (API - American Petroleum Institute) a ser produzido,
+podendo ser empregado, sem restrições, na elevação artificial de óleos leves, médios, pesados e extrapesados.
+Ill. O sistema é apto a operar em amplas faixas de produção de óleo e de profundidade, o que torna o sistema
+atrativo tanto para operações onshore (em terra) quanto offshore (marítimas).
+Ill. A completação para este sistema é relativamente simples quando comparado às outras técnicas, destacando a
+acessibilidade ao interior do poço por não apresentar obstrução da coluna de produção (tubing).
+É correto apenas o que se afirma em
+o. o. O lei. O llell. O Lilell.
+29</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,191 270,191 270,253 1536,253 1536,311 1535,311 1535,1164 1050,1164 1050,1165 565,1165 565,1166 321,1166 321,1287 258,1287 258,1325 243,1325 243,1362 82,1362 82,1363 81,1363 81,1167 79,1167 79,1106 80,1106 80,253 96,253"/>
+	<ImageRegion id="r2">
+	<Coords points="250,371 250,1055 1300,1055 1300,371"/></ImageRegion>
+	<TextEquiv conf="0.95893">
+	<Unicode>QUESTÃO 39
+Os fluidos não-newtonianos possuem destaque em diversas aplicações para a indústria do petróleo, como, por
+exemplo, no uso de fluidos de perfuração e de completação.
+Analise o gráfico que apresenta o comportamento da tensão cisalhante em função da taxa de deformação, e assinale
+a opção que representa sua definição de fluido não-newtoniano.
+O Pseudoplástico.
+O Viscoplástico.
+O Tixotrópico.
+O Reopético.
+O Dilatante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

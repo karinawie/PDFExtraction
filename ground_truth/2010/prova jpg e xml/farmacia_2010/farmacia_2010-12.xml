@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T21:55:07</Created>
+	<LastChange>2020-10-27T03:00:18</LastChange></Metadata>
+	<Page imageFilename="farmacia_2010-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="830,279 832,2088 835,2088 833,279"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,345 793,345 793,1070 792,1070 792,1659 793,1659 793,2082 107,2082 107,2083 106,2083 106,1861 107,1861 107,1660 106,1660 106,1134 105,1134 105,1071 104,1071"/>
+	<TextEquiv conf="0.93029">
+	<Unicode>QUESTÃO 18
+Fenilcetonúria (FNC) é um erro inato do metabolismo,
+de herança autossômica recessiva, cujo defeito incide
+no metabolismo de aminoácido. Esta aminoacidopatia
+é uma doença grave que, se não for diagnosticada e
+tratada precocemente, leva a um profundo e progressivo
+atraso mental e psicomotor. Uma criança de 4 meses, do
+sexo masculino, filha de pais morenos e saudáveis, tinha
+cabelos amarelados, pele clara e extremamente seca.
+Deu entrada no setor de emergência pediátrica com
+quadro convulsivo sem etiologia definida. A mãe relata
+que o filho chora muito, fica constantemente irritado
+e vem apresentando uma urina de odor acentuado,
+semelhante a “cheiro de rato”. Após exame clínico, ficou
+constatado que a criança apresentava retardamento
+mental. Exames laboratoriais de sangue revelaram que
+a dosagem sérica de fenilalanina era superior a 10 mg/
+dL (valor normal: 1,2 mg/dL a 3,4 mg/dL) e que a urina
+apresentava forte cheiro cetônico e reagia com cloreto
+férrico adquirindo cor azul-esverdeada.
+Com base nesse texto, é correto concluir que
+O o odor forte da urina deve-se à formação de corpos
+cetônicos, como o fenilacetato, que é produzido pela
+descarboxilação do fenilpiruvato.
+O o processo patológico é causado pela elevada
+concentração de fenilalanina, que está correlacionada
+com o aumento da atividade da enzima fenilalanina
+hidroxilase.
+O o nível elevado de fenilalanina direciona o
+metabolismo deste aminoácido para a formação
+de alanina por ação da enzima aminotransferase,
+usando o piruvato proveniente do ciclo de Krebs, o
+que leva à formação de fenilpiruvato.
+O o excesso de fenilalanina ativa competitivamente
+a enzima tirosina hidroxilase, acarretando a
+diminuição da conversão de tirosina em melanina,
+o que explicaria a despigmentação de pele e cabelo
+observada na criança.
+O o nível reduzido de conversão de fenilalanina em
+tirosina pela enzima fenilalanina hidroxilase resulta
+no comprometimento da conversão de tirosina
+(DOPA) pela enzima tirosina hidroxilase, que, por
+sua vez, diminui a formação de dopamina, o que
+explicaria o quadro neurológico apresentado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="872,349 1560,349 1560,350 1561,350 1561,722 1275,722 1275,830 1561,830 1561,1420 1532,1420 1532,1527 1560,1527 1560,1800 1558,1800 1558,1953 1560,1953 1560,2026 1483,2026 1483,2094 874,2094 874,1841 875,1841 875,1685 874,1685 874,1487 872,1487 872,1461 873,1461 873,830 1158,830 1158,722 873,722 873,350 872,350"/>
+	<TextEquiv conf="0.96465">
+	<Unicode>QUESTÃO 19
+A Assistência Farmacêutica (AF) representa um
+dos mais importantes setores nos Sistemas de
+Saúde Estaduais e Municipais. Tendo em vista que
+as necessidades de medicamentos da população
+vêm crescendo no Brasil, o papel do farmacêutico
+é fundamental para que exista um gerenciamento
+eficaz que garanta medicamentos disponíveis em
+quantidade, qualidade e velocidade de distribuição
+adequadas às necessidades da população.
+PORQUE
+O gerenciamento farmacêutico deve estar alicerçado
+nas pessoas envolvidas, já que comumente o
+setor possui recursos limitados. As experiências,
+as habilidades e as atitudes são fundamentais no
+planejamento e na capacidade de reorganizar a
+estrutura e o conjunto de ações que podem aperfeiçoar
+esses serviços. Entre as atividades que podem ser
+desenvolvidas no aprimoramento da AF, destacam-
+se a capacitação de todos os envolvidos nesse setor,
+o estabelecimento das relações de medicamentos
+essenciais, com base na Relação Nacional de
+Medicamentos Essenciais (RENAME) ou em protocolos
+homologados, nas esferas municipais e estaduais, e a
+integralidade dos serviços em saúde.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras,
+e a segunda é uma justificativa correta da
+primeira.
+O As duas asserções são proposições verdadeiras,
+mas a segunda não é uma justificativa correta da
+primeira.
+O Aprimeira asserção é uma proposição verdadeira,
+e a segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+O As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

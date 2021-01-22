@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:35:36</Created>
+	<LastChange>2020-10-30T00:47:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-21.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,192 430,192 430,254 1536,254 1536,379 1448,379 1448,1108 1536,1108 1536,1166 1173,1166 1173,1167 81,1167 81,1094 80,1094 80,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="371,392 371,923 1176,923 1176,392"/></ImageRegion>
+	<TextEquiv conf="0.96475">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Muitas centrais de potência operam segundo o ciclo de Rankine, representado na figura abaixo. A maior parte da
+energia elétrica consumida no mundo é gerada em usinas de potência a vapor, o que exige dos responsáveis pela sua
+produção, do ponto de vista estratégico, identificar e implementar meios que viabilizem melhorias no rendimento desse
+ciclo. Sabe-se que incrementos de eficiência térmica podem representar forte redução no consumo de combustível.
+Com o objetivo de aumentar a eficiência térmica de um ciclo de Rankine, três maneiras são propostas a seguir:
+|. “redução da pressão na carga de descarga da turbina;
+Il. aumento da pressão no fornecimento de calor na caldeira; e
+Ill. superaquecimento do vapor na caldeira.
+Na situação apresentada, explique como cada proposta provoca o aumento da eficiência térmica, comentando as
+respectivas dificuldades técnicas de sua implementação, se houver. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

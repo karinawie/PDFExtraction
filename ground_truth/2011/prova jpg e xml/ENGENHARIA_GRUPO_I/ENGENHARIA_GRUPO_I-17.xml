@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:07:46</Created>
+	<LastChange>2020-10-29T23:23:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-17.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1536,254 1536,411 1535,411 1535,558 1534,558 1534,1630 1536,1630 1536,1684 1534,1684 1534,1750 534,1750 534,1830 533,1830 533,2000 130,2000 130,1997 81,1997 81,1756 129,1756 129,770 80,770 80,769 79,769 79,433 80,433 80,410 81,410 81,254 96,254"/>
+	<TableRegion id="r1">
+	<Coords points="76,784 76,1513 1544,1513 1544,784"/></TableRegion>
+	<TextEquiv conf="0.96714">
+	<Unicode>QUESTÃO 24
+Devido aos problemas causados pela geração desordenada dos resíduos nos grandes centros urbanos, o Conselho
+Nacional do Meio Ambiente (CONAMA) criou, no ano de 2002, a Resolução n.º 307, que responsabiliza o gerador pelo
+destino a ser dado ao seu resíduo. Uma empresa, preocupada com a destinação correta dos Resíduos de Construção
+e Demolição (RCD) gerados, encomendou um estudo para investigar se os RCDs podem ser empregados em camadas
+granulares de pavimentos asfálticos.
+A equipe contratada investigou a viabilidade técnica, econômica e ambiental do uso desse material na área da
+pavimentação. Ao fazer a classificação do RCD, verificou que o mesmo foi classificado como não perigoso e inerte. Ao
+verificar os valores de aquisição e transporte do RCD, descobriu que seus custos eram inferiores quando comparados
+aos dos agregados graníticos convencionalmente usados em obras rodoviárias locais.
+Para realizar a análise técnica do resíduo, a empresa sugeriu ensaiar dois tipos de misturas: uma identificada como
+M1, constituída de uma mistura estabilizada de solo com brita convencional, e a outra identificada como M2, constituída
+de uma mistura do mesmo solo com RCD. A equipe resolveu estudar a viabilidade do emprego das duas misturas em
+camadas granulares de pavimentos à luz de métodos de dimensionamento empírico (com base nos resultados do
+Índice de Suporte Califórnia) e mecanístico-empírico (com base nos resultados do ensaio de Módulo de Resiliência).
+A tabela abaixo mostra os resultados de alguns ensaios realizados com as misturas investigadas.
+Considerando os resultados do programa experimental para aplicação no dimensionamento de um pavimento, analise
+as afirmações abaixo.
+I. O comportamento resiliente das misturas testadas é melhor explicado pela tensão desvio.
+II. Os resultados do CBR e da expansão da mistura 2 (M2) revelam que ela pode ser usada em camada de
+sub-base de pavimento.
+III. Os resultados do CBR e da expansão da mistura 1 (M1) e da mistura 2 (M2) revelam que elas podem ser
+usadas em camadas de base de pavimento.
+IV. No dimensionamento mecanístico-empírico, deve-se utilizar o modelo do módulo de resiliência em função da
+tensão de confinamento para as misturas M1 e M2.
+É correto apenas o que se afirma em
+A I.
+B II.
+C III.
+D II e IV.
+E I, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

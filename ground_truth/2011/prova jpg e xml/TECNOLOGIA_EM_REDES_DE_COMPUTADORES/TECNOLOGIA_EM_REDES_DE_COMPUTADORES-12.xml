@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:49:21</Created>
+	<LastChange>2020-10-30T20:21:21</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-12.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r3">
+	<Coords points="804,197 807,2008 811,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="841,192 1015,192 1015,262 1536,262 1536,372 1535,372 1535,586 1538,586 1538,695 1535,695 1535,1203 1279,1203 1279,1258 956,1258 956,1510 826,1510 826,1227 874,1227 874,836 825,836 825,726 826,726 826,550 825,550 825,262 841,262"/>
+	<TextEquiv conf="0.96531">
+	<Unicode>QUESTÃO 18
+O cabo par trançado é um meio de transmissão formado por
+dois fios de cobre entrelaçados em forma de trança, com o
+objetivo de evitar a interferência magnética entre eles.
+Esse tipo de cabo é muito utilizado hoje em equipamentos
+para a Internet, devido principalmente ao seu baixo custo e
+ao baixo custo de manutenção da rede, se comparado
+com outros meios de transmissão.
+Existem três tipos de cabos par trançado: UTP (Unshielded
+Twisted Pair), STP (Shield Twisted Pair) e ScTP (Screened
+Twisted Pair).
+Considerando a padronização do par trançado tipo UTP
+pelas normas da EIA/TIA-568-B, avalie as afirmações que
+se seguem.
+|. O cabo UTP categoria 1 é recomendado pelas
+normas da EIA/TIA-568-B.
+Il. O cabo UTP categoria 3 é recomendado pelas
+normas da EIA/TIA-568-B.
+Ill. O cabo UTP categoria 4 é recomendado pelas
+normas da EIA/TIA-568-B.
+IV. O cabo UTP categoria Se. é recomendado pelas
+normas da EIA/TIA-568-B.
+É correto apenas o que se afirma em
+o.
+o.
+O lei.
+O llelv.
+O lNelv.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="68,731 68,1044 794,1044 794,731"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,163 399,163 399,258 791,258 791,1106 794,1106 794,1243 791,1243 791,1729 534,1729 534,1775 211,1775 211,2002 105,2002 105,2004 81,2004 81,1244 80,1244"/>
+	<TextEquiv conf="0.91422">
+	<Unicode>QUESTÃO 17
+No projeto da camada de rede, os algoritmos de roteamento
+são responsáveis pela decisão sobre qual interface de
+saída deve ser utilizada no encaminhamento de pacotes.
+Esses algoritmos são divididos em estáticos e dinâmicos.
+Em geral, os algoritmos de roteamento dinâmico são
+preferidos, pois computadores respondem a falhas mais
+rapidamente que humanos e são menos propensos a
+erros. A figura abaixo apresenta dois sistemas autônomos
+interligados por roteadores da Internet. Além disso, cada
+sistema autônomo é responsável pela definição de rotas e
+configuração de seus roteadores.
+Em relação aos algoritmos de roteamento dinâmico RIP
+(Routing Information Protoco/), OSPF (Open Shortest
+Path First) e BGP (Border Gateway Protocol) em sistemas
+autônomos (SA), analise as afirmações que se seguem.
+|. Um roteamento entre o SA 1 e o SA 2 utiliza dois
+algoritmos diferentes: RIP nos roteadores internos
+do SA e BGP entre os SAs.
+Il. O algoritmo BGP implementado no SA 1 utiliza
+tanto vetor de distância quanto estado de enlace
+para anunciar informações de rotas.
+Ill. O OSPF implementado no SA 2 utiliza o endereço
+de destino do cabeçalho IP para tomada de
+decisão e escolha da melhor rota.
+IV. O problema da convergência lenta ocorre com
+algoritmos de roteamento que implementam vetor
+de distância, ou seja, BGP e OSPF.
+É correto apenas o que se afirma em
+l.
+WU.
+lei.
+Nelv.
+Welv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

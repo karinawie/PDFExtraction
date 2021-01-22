@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:43</Created>
+	<LastChange>2020-11-16T04:07:18</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-12.jpg" imageWidth="1613" imageHeight="2165">
+	<TableRegion id="r0">
+	<Coords points="252,313 252,881 1360,881 1360,313"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="384,981 384,1600 1257,1600 1257,981"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,254 1123,254 1123,280 642,280 642,1652 906,1652 906,1744 876,1744 876,1867 760,1867 760,1988 522,1988 522,1989 167,1989 167,1990 166,1990 166,1985 81,1985 81,1653 80,1653 80,956 79,956 79,255 80,255"/>
+	<TextEquiv conf="0.96323">
+	<Unicode>QUESTÃO 17
+A tabela a seguir apresenta a relação de mintermos e maxtermos para três variáveis.
+Analise o circuito de quatro variáveis a seguir.
+Considerando esse circuito, as funções f e g são, respectivamente,
+o &gt;2m(0,1,2,3,6,7,8,9) e &gt;m(2,3,6,7,10,14).
+o 2mM(4,5,10,11,12,13,14,15) e &gt;M(0,1,4,5,8,9,11,12,13,15).
+o TIM(0,1,2,3,6,7,8,9) e [TM(0,1,4,5,8,9,11,12,13,15).
+o TIM(4,5,10,11,12,13,14,15) e &gt;m(2,3,6,7,10,14).
+e TIM(4,5,10,11,12,13,14,15) e [TM(2,3,6,7,10,14).</Unicode></TextEquiv></TextRegion></Page></PcGts>

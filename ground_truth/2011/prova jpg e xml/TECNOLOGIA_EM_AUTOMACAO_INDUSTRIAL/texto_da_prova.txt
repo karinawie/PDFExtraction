@@ -1,0 +1,547 @@
+QUESTÃO 11
+Em certo processo de fundição de latão, a temperatura
+deve ser mantida em 1150 ºC, pois a temperatura é
+uma variável importante para a qualidade das peças
+produzidas. Ao observar um aumento de peças
+defeituosas, o setor de manutenção foi chamado para
+avaliar a medição da temperatura, onde se constatou
+problema no sensor. Foi sugerida a substituição do
+sensor termopar tipo K por um sensor RTD (Resistence
+Temperature Detector) tipo Pt100, cuja faixa de utilização
+vai de -200 “ºC a +850 ºC. Considerando a sugestão de
+troca do sensor a partir do gráfico apresentado abaixo,
+avalie as afirmações que se seguem.
+|. O sensor Pt100 apresenta melhor resposta linear.
+Il. A faixa de utilização do Pt100 atende ao processo
+de fundição de latão.
+. A substituição do termopar implica na adequação
+do circuito controlador de temperatura.
+A medição da temperatura pelo termopar se
+dá pela variação da corrente na junção do par
+de metais.
+É correto apenas o que se afirma em
+L.
+.
+le.
+Ielv.
+Weilv.
+CGOÇGoo
+
+QUESTÃO 9
+Um quadro de distribuição é alimentado por um circuito
+trifásico, equilibrado com neutro, conforme a figura
+abaixo. Por meio da utilização de um analisador de
+qualidade de energia elétrica nas três fases, obtem-se
+as sequintes ordens harmônicas de correntes (valores
+eficazes): 1º (fundamental), 3º e 5º, com valores
+respectivos de 10A,4A,2A.
+Considerando a presença das harmônicas, qual é a
+corrente no neutro? Considere f, = 1,19, conforme as
+especificações da NBR 5410.
+4,8 A.
+5,3 A.
+10A.
+12,6 A.
+13A.
+
+QUESTÃO 10
+O circuito a seguir é encontrado em uma máquina com a
+finalidade de se obter uma tensão de referência por meio
+da medição da tensão sobre o resistor R1.
+Em determinado momento, foi necessário mudar a tensão
+de referência para 2 V. Considerando que os componentes
+são ideais para se obter uma tensão de 2 V no voltímetro
+do circuito anterior, mantendo-se a mesma corrente no
+amperímetro do circuito, é necessário substituir
+a fonte por uma de 4 V e o resistor R1 por um de
+400 O e R2 e R3 por resistores de 200 O.
+o resistor R1 por um resistor de 200 OQ e R2 por um
+de 800 O.
+o resistor R1 por um de 400 0 e R2 por um de 1600 O.
+o resistor R1 por um de 1 k O.
+a fonte por uma de 4 V.
+
+QUESTÃO 12
+O 555 é um CI bastante utilizado e é encontrado em diversas aplicações na indústria, sendo empregado principalmente
+como temporizador ou multivibrador. Durante a manutenção de um circuito de controle de uma máquina, observou-se
+que um dos resistores do circuito composto pelo 555 foi queimado, necessitando trocá-lo. Entretanto, não foi possível
+identificar visualmente o valor desse resistor. Antes de o problema ocorrer, porém, foi observado por meio de um
+osciloscópio, o sinal na saída do resistor trocado mostrado no gráfico abaixo.
+Parte da folha de dados (datasheet) do LM555 é apresentada abaixo:
+Para que o circuito volte a funcionar, gerando o mesmo sinal no osciloscópio, é necessário trocar o resistor danificado
+por um de
+O 38kQO.
+44 k O.
+50kO.
+144 MO.
+150 MQ.
+
+QUESTÃO 14
+Uma das funções das metodologias de planejamento da manutenção é estabelecer uma comunicação clara entre os
+funcionários e a equipe de gestão. Para isso, normalmente, são utilizados recursos gráficos, como o apresentado na
+figura abaixo.
+A partir da figura, analise as seguintes afirmações.
+|. Afigura representa o diagrama de Gantt.
+Il. O caminho crítico é definido pela atividade U.
+Ill. De acordo com o método representado, a duração do evento O ao evento 5 é de 13 horas.
+IV. O caminho crítico permite identificar as atividades que não podem sofrer atrasos, permitindo controle eficaz dos
+prazos.
+É correto apenas o que se afirma em
+o. o: O lei. O llelv. O lelvV
+
+QUESTÃO 13
+Durante o desenvolvimento de uma nova máquina para furação de peças em uma indústria, verificou-se a necessidade
+de utilização de uma válvula eletropneumática proporcional de vazão. Um dos manuais dos modelos analisados possui
+o diagrama a seguir com parte de seu circuito e de seu sistema de controle, bem como a sua curva característica.
+Analisando o circuito e o gráfico anterior avalie as afirmações a seguir.
+|. A válvula pneumática do circuito apresentado possui 3 vias e 5 estados.
+Il. Os números 1, 3 e 5 representam as vias de utilização.
+Ill. As vias de pressão são representadas pelos números 2 e 4.
+IV. Quando a tensão na entrada é 5 volts a vazão é mínima.
+É correto apenas o que se afirma em
+o. o. o Iv. O llelll. O lllelv.
+
+QUESTÃO 15
+O circuito apresentado abaixo é encontrado em uma fonte de alimentação de uma máquina industrial a qual está sujeita
+à análise no setor de manutenção.
+O gráfico a seguir apresenta os sinais medidos por meio de osciloscópio nos pontos indicados.
+Com base no exposto, analise as afirmações a seguir.
+|. O capacitor C1 é cerâmico e possibilita retificar o sinal.
+Il. Atensão de pico no secundário do transformador é 22 V.
+Ill. O diodo D6 possui como função regular a tensão na carga.
+IV. A ponte formada pelos diodos D1, D2, D3 e D4 convertem CA em CC.
+É correto apenas o que se afirma em
+O lell.
+el.
+Welv.
+LIVeilv
+Lei.
+
+QUESTÃO 16
+Os diagramas a seguir representam a instalação de um circuito para partida estrela-triângulo de motores de
+corrente alternada.
+Em relação ao circuito de comando, é correto afirmar que
+quando o relé de tempo K6 é energizado, os contatos 15-18 e 25-28 são acionados ao mesmo tempo.
+durante a partida do motor K3 é acionado simultaneamente com K1.
+os contatores K2 e K3 são acionados simultaneamente.
+F7 é um fusível de sobrecarga.
+o botão SO aciona o circuito.
+
+QUESTÃO 17
+Considere que um microcontrolador possui uma estrutura interna de registradores, como a apresentada no diagrama
+a seguir, e que seu programa principal está representado no fluxograma abaixo. Pelo diagrama, observa-se que o
+microcontrolador possui um registrador que armazena os valores presentes em sua entrada (A), um registrador de saída
+(B) e mais dois registradores internos (X e Z).
+Para o valor de entrada igual a FF, a resultante na saída B, em hexadecimal, é igual a
+O 35. O FF. O 255. O oo. o 55.
+
+QUESTÃO 18
+Considere um robô manipulador planar movendo-se no plano do Á
+papel, como representado na figura. Cada elo desse robô tem
+um comprimento de 0,3m e os sistemas de coordenadas foram
+atribuídos de forma que o eixo Z de cada sistema está apontando
+para dentro do papel. Na configuração mostrada, todas as
+variáveis de junta estão com seu valor em 0. Cada junta do robô
+é acionada por um motor de passo com passo de 1,8 grau.
+A partir da posição inicial do robô, mostrada na figura, o motor da junta 1 foi acionado 50 passos no sentido positivo
+da variável de junta, o motor da junta 2 foi acionado 50 passos no sentido negativo da variável de junta, e o motor da
+junta 3 foi acionado 50 passos no sentido positivo da variável de junta.
+A posição e orientação final da garra do robô (x, Y, À) após o movimento será
+O r=0,3m,y=-0,6m,é = —90º.
+O r=0,3m,y=0,6m,éó = — 90º.
+O 1=0,3m,y =0,6m,é = 90º.
+O r=-0,3,y=0,0=-—90º,
+O xr=-0,3,y=0,0= 90º.
+
+QUESTÃO 19
+O conversor de frequência é um dos equipamentos empregados na indústria para o controle de velocidade de motores
+de indução assíncronos. Entretanto, alguns cuidados devem ser tomados para que sua instalação proporcione
+um funcionamento adequado ao equipamento. A figura abaixo mostra um diagrama esquemático do conversor de
+frequência e suas proteções.
+Considere as seguintes afirmativas em relação às características de instalação do conversor de frequência.
+As reatâncias (reatores) de entrada são empregados para minimizar sobretensões transitórias na rede de
+alimentação e reduzir harmônicas, melhorando desta forma, a vida útil dos capacitores do circuito intermediário.
+A reatância (reator) de saída é indicada para reduzir o efeito da corrente de fuga, por efeito capacitivo, que
+depende do comprimento do cabo entre o conversor e o motor.
+Os conversores de frequência possuem um parâmetro que permite selecionar a frequência de chaveamento.
+A seleção da frequência de chaveamento do PWM do inversor é de suma importância, pois, com frequências
+de chaveamento altas, as perdas no motor são elevadas devido ao fato de que a forma de onda de saída ficará
+menos próxima do formato senoidal.
+É correto apenas o que se afirma em
+!.
+leill.
+lei.
+el.
+
+QUESTÃO 20
+Um sistema de controle industrial de produção de água sanitária é apresentado na figura.
+Sistema de controle industrial de produção de água sanitária
+Considere que esse sistema possui a seguinte instrumentação:
+- Sensor nível de NaOH diluído (NNaOH)
+- Sensor de concentração de NaOH (CNaOH)
+- Sensor de vazão de NaOH (VNaOH)
+- Sensor de nível de água sanitária (NAS)
+Um tecnólogo em automação industrial foi contratado para implementar uma lógica de um sistema de segurança com
+um controlador lógico programável (CLP). O sistema de segurança deve soar um alarme (AL) nas seguintes condições:
+- Nível de NaOH diluído (NNaOH) e concentração de NaOH (CNaOH) baixas.
+- Vazão de NaOH (VNaOH) e nível de água sanitária (NAS) baixas.
+- Concentração de NaOH (CNaOH), nível de NaOH diluído (NNaOH), vazão de NaOH (VNaOH) e nível de água
+sanitária (NAS) altos.
+
+O programa em linguagem ladder pode ser representado por
+
+QUESTÃO 22
+Em ambientes industriais, quando é necessário medir
+sinais de baixa amplitude (da ordem de mV), são comuns
+dois problemas: a) dificuldade de se ter um instrumento
+adequado devido à baixa amplitude do sinal e b) distorção
+do sinal por ruído, gerado tanto pela rede elétrica de 60Hz
+quanto por máquinas que operam nas proximidades.
+Para contornar esses problemas, pode-se utilizar um filtro
+passa-baixas ativo, como mostrado na figura, que permite
+tanto a amplificação quanto a atenuação de sinais de
+frequências acima de um valor desejado.
+Considerando as informações apresentadas, os valores
+adequados dos resistores e do capacitor para que Oo
+filtro mostrado na figura tenha um módulo do ganho em
+corrente contínua de 1000 e uma frequência de corte de
+200 rad/s, são
+RR; = 10k9N., Ra = 10M9,C, = 500pF.
+R, = 100k9, R3 = 500k9N, Cy, = 10nF.
+o
+RR, = 500k9, R7 = 100k9N, C, = 50pF.
+o
+R, = 10M9, R27 = 10k9, 0, = 500nF.
+o
+RR; = 5MQ9, Ra = 5k1,C, = InF.
+
+QUESTÃO 21
+A preocupação com questões de segurança é crescente
+nas indústrias modernas. Uma empresa que possui
+baixos índices de acidente, tem como grande benefício,
+a disponibilidade de sua força de trabalho, boa imagem
+junto à sociedade e aos órgãos fiscalizadores e
+consequentemente melhor avaliação do mercado.
+Os departamentos de operação e manutenção são os que
+possuem maior risco devido ao grande efetivo, alteração
+constante da natureza dos trabalhos e o próprio local onde
+a atividade laboral é desenvolvida.
+A Análise Preliminar de Risco (APR) é uma ferramenta
+simples e extremamente útil para que os aspectos de
+segurança de uma atividade sejam conhecidos pelos
+envolvidos. Considerando a aplicação da APR para a
+manutenção de um sistema eletroidráulico realizado
+por equipe mista (própria e terceirizada), analise as
+afirmações abaixo.
+|. Somente participa da elaboração da APR, um
+dos seguintes envolvidos: o encarregado ou
+executante da empresa terceirizada, ou o técnico
+de segurança da equipe de manutenção.
+Il. AAPR deve conter, no mínimo, informações sobre
+descrição do evento indesejado ou perigoso,
+causa, consequência, categoria de risco, medidas
+de controle e área responsável pela ação.
+Ill. AAPRé um documento formal, que pode ser realizado
+pela equipe terceirizada sem o conhecimento e
+aprovação da equipe de manutenção própria local.
+IV. A APR pode ser utilizada em eventos emergenciais.
+É correto apenas o que se afirma em
+o.
+WI.
+lei.
+Nelv.
+Melv.
+
+QUESTÃO 23
+ANBR ISO 10012 — sistema de gestão da medição define que as características metrológicas devem estar de acordo
+com o uso pretendido. Considere que uma empresa definiu que a resolução dos instrumentos deve ser, no mínimo,
+de 1/10 da tolerância.
+A figura abaixo representa a medição do diâmetro externo de 30 peças retificadas, realizada durante a produção.
+De acordo com as informações apresentadas, analise as afirmações abaixo.
+|. Oinstrumento utilizado possui resolução de 0,10 mm.
+Il. Um paquímetro com resolução de 0,02 mm atende aos requisitos da empresa.
+Ill. A dispersão das medidas indica que o instrumento deve ser trocado.
+IV. A retífica não é o processo adequado, o que justifica o índice de reprovação.
+É correto apenas o que se afirma em
+O le.
+lei.
+lelv.
+elv.
+Melv.
+
+QUESTÃO 25
+A figura a seguir mostra os sinais de saída (s3s2s1s0) de um circuito lógico sequencial, bem como o sinal de clock
+aplicado. Antes do primeiro pulso de clock todos os flip-flops foram carregados com 0.
+s3
+Pela análise dos sinais na saída do circuito sequencial, conclui-se que ele é um
+contador de decádico.
+contador em anel torcido.
+contador em binário simples.
+contador em código de Gray.
+contador em BCD (Binary Coded Decimal).
+
+QUESTÃO 24
+A NBR ISO 9001 — Sistema de Gestão da Qualidade dedica um item ao tratamento do não-conforme no processo
+produtivo. Para atender a esse requisito a equipe de qualidade coletou dados da produção para tomada de ações.
+A figura a seguir representa os dados da amostragem realizada durante o processo de produção de chapas.
+un
+Considerando as informações apresentadas, analise as seguintes afirmações.
+|. A probabilidade de encontrar espessuras acima de 5,20 mm é de 0,14%.
+Il. Existe a probabilidade de 68,26% de encontrar espessuras entre 4,90 e 5,10 mm.
+Ill. A maior probabilidade de reprovação está em espessuras maiores que o especificado.
+IV. A probabilidade de encontrar peças fora da tolerância é de 16,01%.
+E correto apenas o que se afirma em
+o. o. O lelv. O llelll. O lelvV.
+
+QUESTÃO 26
+Afigura abaixo representa um sistema com um microcontrolador 8031, seu sistema de memória de dados e de programa
+e circuitos auxiliares.
+Considerando esse sistema, analise as afimações a seguir.
+|. O sistema possui 64kB de memória de programa.
+Il. O sistema possui 512kB de memória de dados divididos em 3 bancos.
+Ill. O sistema não é reinicializado quando o interruptor de pressão S1 é pressionado, mas sim quando ele é liberado.
+IV. Para acessar o último byte da memória de dados é necessário executar a sequência de instruções
+MOV A,PO
+ORL A,t07H
+MOV PO0,A
+MOV DPTR,t0FFFFH
+MOVX A,QDPTR
+ou outras equivalentes que implementem o mesmo algoritmo.
+É correto apenas o que se afirma em
+
+
+QUESTÃO 27
+Numa empresa, o tempo de acionamento de um dispositivo é determinado por um circuito RC, como em um circuito
+monoestável. Através de diagramas de blocos é possível representar sistemas complexos a partir de blocos simples,
+realizando as devidas equivalências quando necessário. Para o projeto de um controlador é necessário representar
+graficamente a função de transferência do circuito RC, como mostra a figura.
+Considerando as informações acima, a correta representação da função de transferência da fi gura em diagrama de
+bloco é dada por
+
+QUESTÃO 28
+A norma IEC-61131-3 define cinco linguagens para programação de Controladores Lógicos Programáveis (CLPs):
+lista de instruções, diagrama ladder, diagrama de blocos funcionais, texto estruturado e carta de sequência de funções,
+como exemplificadas na figura abaixo.
+Considerando as linguagens da norma IEC-61131-3, analise as afirmativas abaixo.
+|. Não é possível combinar mais de uma dessas linguagens em um único programa.
+Il. Cada dispositivo físico implementa um único bloco funcional, que corresponde a sua função na malha de controle.
+Ill. As conexões entre os blocos funcionais são implementadas em software, na configuração do sistema de controle.
+IV. Essas linguangens são adequadas para representar tanto controladores discretos quanto controladores contínuos.
+É correto apenas o que se afirma em
+
+
+QUESTÃO 29
+O alto desempenho e o baixo custo popularizaram o uso de transmissores de pressão em sistemas hidráulicos.
+Para monitorar a pressão em local de difícil acesso, um transmissor foi instalado para que a medição fosse realizada
+remotamente.
+Com base no gráfico de calibração e no circuito de ligação interna típico do transdutor representados na figura acima,
+avalie as afirmações que se seguem.
+|. A curva de calibração indica que o transdutor não é adequado para aplicação.
+Il. O funcionamento do transdutor é baseado em sensores do tipo strain gage.
+Ill. O range de medição é de O a 5.000 mm H,O e a faixa de trabalho (span) é de 500 a 3000 mm H,O.
+IV. A diferença entre a curva de calibração e a curva teórica é chamada de desvio de span.
+É correto apenas o que se afirma em
+o.
+.
+lelv.
+Nell.
+Meilv.
+
+QUESTÃO 30
+Embora pareça operar como uma rede unificada, uma rede industrial não é composta de uma única tecnologia, pois
+nenhuma tecnologia isolada é suficiente para todos os usos. Em vez disso, o hardware de rede é projetado para situações
+e orçamentos específicos. Alguns grupos precisam de redes de alta velocidade para conectar dispositivos em um único
+espaço físico. Como o hardware de baixo custo, que funciona bem dentro desse espaço, não pode espalhar-se a grandes
+distâncias geográficas, é preciso usar uma alternativa para conectar dispositivos a milhares de quilômetros uma da outra.
+COMER, D. Interligação de redes com TCP/IP: princípios, protocolos e arquitetura. Vol. 1. Rio de Janeiro: Elsevier, 2006 (com adaptações).
+Esquema de interligação entre diversos equipamentos em uma rede industrial
+Considerando o padrão Ethernet, em que as aplicações de rede de uma determinada estação interagem com as
+aplicações de rede da estação indicada, e tendo como base a figura acima, analise as afirmações a seguir.
+|. Aestação | conversa com as estações 3, 4,6 e7.
+Ill. A estação 2 conversa com as estações 3 e 5.
+Ill. A estação 3 conversa com as estações 1,2,4,5,6e7.
+IV. A estação 4 conversa com as estações 3, 6 e 7.
+É correto apenas o que se afirma em
+o.
+o.
+O lei.
+O lleilv.
+O lllelv.
+
+QUESTÃO 32
+Sabendo que a soldagem é uma das tecnologias
+imprescindíveis no meio industrial, principalmente nos
+processos de fabricação mecânica, um empresário do
+setor metal mecânico, irá investir neste segmento e
+escolheu trabalhar com dois tipos de ligas metálicas: o
+alumínio e o aço inoxidável. Após estudar os diversos
+processos de solda, o empresário resolveu adquirir os
+equipamentos de Soldagem a Tungsten Inert Gas (TIG),
+mas durante a aquisição dos equipamentos surgiram
+algumas dúvidas, tais como:
+|. O processo TIG pode ser aplicado na soldagem de
+ligas de alumínio e ligas de aço inoxidável;
+Il. O processo TIG não pode ser aplicado na
+soldagem de ligas de aço inoxidável;
+O processo TIG não pode ser aplicado na
+soldagem de ligas de alumínio;
+IV. O processo TIG pode ser automatizado.
+Considerando as afirmações acima, é correto apenas o
+que se afirma em:
+o.
+O lelv.
+G llelll.
+O llelV.
+O ILIMeIV.
+
+QUESTÃO 31
+Necessitando controlar a temperatura, a sala de metrologia
+de uma empresa está projetando um sistema de controle
+que atuará no aparelho de ar condicionado. A figura abaixo
+indica a resposta esperada em relação ao sistema, com
+controlador à entrada degrau.
+Qual é o diagrama de blocos que representa a curva
+característica do controlador?
+
+QUESTÃO 33
+Um profissional que atua na área de automação industrial foi contratado para automatizar um forno industrial utilizando
+um Controlador Lógico Programável (PLC) e termopares.
+As características do Forno são:
+Aplicação: Fusão de Metais não Ferrosos;
+Temperatura de Operação Média:+ 900 ºC
+Número de pontos de medição (entradas analógicas): 4
+Número saídas do CLP: 3
+A figura abaixo mostra a característica (Temperatura x Tensão) dos termopares que poderão ser utilizados
+As tabelas abaixo indicam a cotação do preço e as especificações dos sensores e do CLP.
+Assinale quais são os modelos que não atendem às características mínimas para o controle do forno.
+CLP — MODELOS (A e C) e os TERMOPARES Tipo (B, K, S).
+CLP — MODELO (C ) e os TERMOPARES Tipo (R, S, N).
+CLP — MODELO (A) e os TERMOPARES Tipo ( E, J, B).
+CLP — MODELOS (B e D) e os TERMOPARES Tipo (E, J, T).
+CLP — MODELOS (A e E) e os TERMOPARES Tipo ( K, R, N).
+
+QUESTÃO 35
+Uma fábrica do setor metal mecânico tem como meta entregar
+lotes de 300 engrenagens para uma montadora de veículos.
+Durante uma inspeção do controle de qualidade, observou-se
+que a máquina do OPERADOR A gerava mais refugo que as
+outras duas, conforme a tabela abaixo.
+Durante a inspeção para encontrar a origem do
+problema, ficou constatado que as máquinas têm a
+mesma capacidade e mesmo ajuste para a produção das
+engrenagens, contudo, um detalhe chamou a atenção
+da equipe responsável por detectar o problema: o
+OPERADOR A, com certa periodicidade, tirava os óculos
+de proteção para executar o trabalho e utilizava a própria
+mão para evitar que algum componente da usinagem
+atingisse os seus olhos, com isso, ele perdia alguns
+detalhes de medição durante a produção da engrenagem,
+fazendo com que algumas delas fossem descartadas. Ao
+realizar entrevista, observou-se que o OPERADOR A não
+sabe qual é a finalidade dos óculos como Equipamento
+de Proteção Individual (EPI) no processo de usinagem
+das engrenagens. Diante disso, a equipe de Segurança
+do Trabalho realizará um treinamento aos operadores,
+pontuando as características de proteção dos óculos no
+torneamento de peças.
+Considerando essas características, avalie as afirmações
+que se seguem.
+|. “Proteger os olhos contra impactos de estilhaços e
+cavacos de operações de rebarbação e usinagem.
+Il. Aumentar as letras e números dos instrumentos
+de medição e da máquina.
+Ill. Proteger os olhos contra poeiras provenientes de
+operações industriais ou impelidas pelo vento.
+IV. Proteger os olhos contra a radiação solar nos
+ambientes abertos.
+Analisando as caracteristicas dos óculos de proteção é
+correto apenas o que se afirma em
+.
+WI.
+lei.
+lelv.
+lNelv.
+cCoçgoo
+
+QUESTÃO 34
+Durante a interrupção programada na produção de
+uma indústria o gerente de manutenção, resolveu
+fazer a manutenção preventiva na rede elétrica da
+empresa. Sabendo que a mesma tem uma subestação
+que recebe 15 KiloVolts, uma rede de distribuição de
+330 Volts, e uma equipe de manutenção composta por
+5 funcionários para realizar a manutenção preventiva,
+foi feita a seguinte divisão: Equipe A (2 funcionários) e
+Equipe B (3 funcionários).
+A Equipe A ficou responsável pela análise da subestação;
+e a Equipe B, pela análise da rede de distribuição de
+330 Volts.
+De acordo com a NR10, os equipamentos de proteção
+individual (EPIs) e equipamentos de proteção coletiva (EPCs)
+obrigatórios para realizar manutenção preventiva são
+O capacete de obra; crachás de identificação; extintor de
+incendio; gaiola de faraday; disjuntores de BT e AT;
+meia bota isolada; óculos de segurança incolor; luvas
+de borracha isolantes BT e AT.
+O as luvas de borracha isolantes BT e AT; capacete de
+obra; sapato de borracha; extintor de incêndio; barras
+de aterramento; extintor de incêndio; gaiola de faraday.
+O os óculos de segurança incolor; placas de sinalização;
+fita
+segurança incolor; luvas de borracha isolantes BT e
+isolante; extintor de incêndio; óculos de
+AT; roupa de linho.
+O barras de aterramento; fita isolante; disjuntores de
+BT e AT; luvas de pelica para proteção das luvas
+de borracha; detector de tensão; cones e placas
+de sinalização.
+O capacete de segurança com isolamento para
+eletricidade; meia bota isolada; óculos de segurança
+incolor; luvas de borracha isolantes BT e AT; luvas de
+pelica para proteção das luvas de borracha e detector
+de tensão.
+
+QUESTÃO DISCURSIVA 3
+Devido a problemas meteorológicos, a subestação de determinada indústria
+teve parte de seus dispositivos de proteção danificados. Esses dispositivos
+trabalhavam em alta tensão e para realizar a manutenção, o único funcionário
+que estava presente no local efetuou contato com o encarregado do setor. À
+orientação fornecida era para que o próprio funcionário realizasse o reparo,
+utilizando os EPIs e EPCs obrigatórios, contudo, mesmo possuindo os
+equipamentos e treinamentos necessários, optou por não realizar o reparo,
+preferindo aguardar a chegada de seus colegas e do próprio encarregado.
+Observando o texto apresentado, nota-se que alguns termos e pontos das Normas Regulamentadoras foram citados,
+especialmente os da NR-10 Segurança em Instalações e Serviços em Eletricidade. Tendo como base essas normas,
+faça o que se pede nos itens abaixo.
+a) Defina e diferencie citando ao menos um exemplo, os EPCs e EPIs utilizados durante a execução de serviços
+em eletricidade. (valor 5,0 pontos)
+b) O texto faz referência a alta tensão (AT). Pela NR-10, acima de qual tensão, entre fases ou entre fase e terra,
+em corrente alternada a tensão é considerada alta? (valor 2,0 pontos)
+c) Em relação à situação apresentada no texto, comente a orientação dada pelo encarregado ao único funcionário
+presente no local. (valor 3,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Um dos equipamentos mais comuns na automação industrial é o inversor de frequência. Com as novas tecnologias
+de processadores digitais de alta velocidade e com o advento dos transistores IGBTs, os acionamentos de motores
+elétricos em corrente alternada ocupam mais de 80% dos sistemas de controle de motores elétricos. (...) Já os motores
+CC e seus acionamentos são considerados obsoletos, e destinados a aplicações muito restritas.
+CAPELLI, Alexandre. Automação Industrial: Controle do Movimento e Processos Contínuos . 2º ed. São Paulo: Érica, 2007.
+Nesse contexto, resolva os itens a seguir.
+a) O texto se refere aos motores elétricos encontrados na indústria. Dessa forma diferencie os motores de CC
+e de CA por indução. (valor 3,0 pontos)
+b) Ainda sobre os motores elétricos, apresente vantagens e desvantagens (ao menos duas de cada) do motor CC
+em relação ao CA por indução. (valor 3,0 pontos)
+c) O diagrama a seguir exibe os principais blocos de um inversor de frequência. Defina e descreva a função de
+cada bloco indicado. (valor 4,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Considerando um sistema de aquecimento de uma fornalha a gás natural, como mostra a figura.
+Deseja-se controlar a temperatura no interior de fornalha por meio da abertura de uma válvula proporcional de gás,
+sendo a temperatura medida por um sensor de temperatura. Alterações na temperatura ambiente e na vazão do gás
+podem alterar significativamente a temperatura da fornalha.
+Em relação ao tema, faça o que se pede nos itens a seguir.
+a) Identifique a variável: de processo, manipulada e as variáveis de perturbação que possam existir. (valor 2,0 pontos)
+b) Desenhe um diagrama de blocos representando o sistema de controle em malha fechada. (valor 4,0 pontos)
+c) Para controlar uma temperatura média de 500 º Celsius, especifique o melhor tipo de sensor, justificando sua
+resposta. (valor 4,0 pontos)
+

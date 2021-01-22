@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:10:56</Created>
+	<LastChange>2020-10-30T01:37:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-09.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2097 809,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="841,192 1009,192 1009,267 1400,267 1400,266 1534,266 1534,312 1535,312 1535,1623 1279,1623 1279,1892 956,1892 956,1999 849,1999 849,2001 826,2001 826,1643 919,1643 919,1200 874,1200 874,1180 919,1180 919,916 874,916 874,718 825,718 825,312 826,312 826,267 841,267"/>
+	<TextEquiv conf="0.96719">
+	<Unicode>QUESTÃO 11
+Muitas operações de processamento na indústria
+química, farmacêutica e de alimentos utilizam a
+agitação como etapa importante para a suspensão
+de sólidos em líquidos, mistura de líquidos miscíveis
+e dispersão de um gás em um líquido na forma de
+pequenas bolhas, entre outras funções. Por definição,
+agitação refere-se ao movimento induzido de um
+material de um modo específico.
+Considerando um tanque com agitador, a ser utilizado
+para a mistura de líquidos, analise as afirmações abaixo.
+|. A potência requerida pelo agitador no tanque é
+função do diâmetro do agitador, do número de
+rotações do agitador por unidade de tempo, da
+viscosidade do líquido e da densidade do líquido.
+A componente axial ou longitudinal da velocidade
+de um líquido, que gera correntes paralelas
+ao eixo de um agitador disposto no centro do
+tanque, pode causar vórtices prejudiciais ao
+processo de agitação.
+Ill. Em tanques agitados, o grupo adimensional
+de
+adimensionais Número de Reynolds e Número
+Número Potência é função dos
+de Froude e das relações geométricas entre as
+dimensões do tanque e do agitador.
+A baixos números de Reynolds (menores que
+300), as curvas para o número de potência de
+tanques agitados, com ou sem chicanas ou
+defletores, divergem bastante entre si. Já a
+altos números de Reynolds, essas curvas são
+praticamente idênticas.
+É correto apenas o que se afirma em
+o.
+.
+lei.
+Ieilv.
+CGoOoçoeo
+Welv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,967 270,967 270,1024 790,1024 790,2013 128,2013 128,1974 81,1974 81,1610 80,1610 80,1024 96,1024"/>
+	<TextEquiv conf="0.95605">
+	<Unicode>QUESTÃO 10
+Os processos de coagulação e floculação baseiam-se na
+desestabilização das partículas, ou seja, potencial zeta
+igual a zero. Para isso, utilizam-se produtos (coagulantes
+e floculantes) em diferentes concentrações. Este sistema
+pode ser aplicado ao tratamento físico-químico de águas
+para abastecimento e de efluentes de forma similar. Nesse
+contexto, analise as afirmações abaixo.
+Otratamento físico-químico de efluentes industriais através
+da coagulação e da floculação é otimizado quando nesses
+processos se utilizam diferentes gradientes de velocidade.
+PORQUE
+Os processos de coagulação e floculação, embora sejam
+conceitualmente diferentes, são complementares e
+necessitam de graus de mistura diferentes.
+Com relação a essas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O oO O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 254,192 254,256 790,256 790,939 129,939 129,936 81,936 81,727 80,727 80,256 96,256"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 9
+Até hoje não se sabe a altitude exata do Everest.
+Isso porque medir as montanhas ainda é um desafio
+para os geógrafos. (...) O Pico da Neblina perdeu 20
+metros de altitude, já que o uso do GPS em 2004
+mostrou erros nas medições anteriores, feitas por meio
+de pressão atmosférica.
+Veja, edição 2 229, 10 ago. 2011, p.90-1.
+Considere que, pelas medidas feitas com base na
+pressão atmosférica, o Pico da Neblina tinha 3 014 metros.
+Sabendo-se que a pressão atmosférica ao nível do mar é
+igual a 101 000 Pa e que o peso específico do ar é igual a
+10,0 N/m3, conclui-se que a pressão atmosférica no topo
+do pico é
+de 21 a 40% menor do que ao nível do mar.
+de 1 a 20% menor do que ao nível do mar.
+invariável em relação ao nível do mar.
+de 1 a 20% maior do que ao nível do mar.
+de 21 a 40% maior do que ao nível do mar.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T00:46:16</Created>
+	<LastChange>2020-10-27T00:53:06</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_GASTRONOMIA-19.jpg" imageWidth="1637" imageHeight="2188">
+	<TableRegion id="r0">
+	<Coords points="105,345 105,627 1540,627 1540,345"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="112,169 311,169 311,235 1527,235 1527,298 1526,298 1526,1329 113,1329 113,1259 112,1259 112,1048 111,1048 111,690 112,690"/>
+	<TextEquiv conf="0.53292">
+	<Unicode>QUESTÃO 30:
+O estoquista de um restaurante pediu arroz, quando o estoque atingiu 30kg. Para fazer esse
+pedido, ele considerou a seguinte ficha técnica:
+Considere que o restaurante vende somente uma preparação que utiliza essa matéria-prima e
+que vendeu, em 30 dias, 100 porções. Considere, também, que o período de reposição de
+emergência para esse local é de um dia e que o prazo de entrega do fornecedor para essa
+matéria-prima é de 3 dias.
+Para fazer o pedido de compra, o estoquista precisou desenvolver quais raciocínios?
+A) Calcular o consumo médio diário da matéria-prima, multiplicar pelo prazo de entrega e somar ao
+estoque mínimo (que está associado ao prazo de reposição de emergência), para saber se o ponto
+de pedido está correto.
+B) Calcular o ponto de pedido não pode ser uma ação realizável porque não existe o valor do estoque
+mínimo, e esse é importante para a definição do ponto de pedido.
+C) Calcular o ponto de pedido, para estipular o consumo médio diário e, dessa forma, verificar qual o
+volume de matéria-prima a ser comprado.
+D) Identificar o valor médio comprado nos últimos meses; multiplicar pelo valor médio por porção e,
+então, multiplicar pelo prazo de entrega.
+E) Multiplicar o valor da quantidade bruta pelo total de porções, para identificar a quantidade usada;
+depois multiplicar pelo consumo médio diário e, então, obter o volume de compras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="112,1363 311,1363 311,1428 1528,1428 1528,1492 1526,1492 1526,1645 1528,1645 1528,1738 1526,1738 1526,2060 113,2060 113,1990 112,1990 112,1738 111,1738 111,1524 112,1524"/>
+	<TextEquiv conf="0.93330">
+	<Unicode>QUESTÃO 31:
+O chefe de cozinha de um restaurante de luxo em uma grande cidade do Brasil desenvolveu um novo
+prato com camu-camu e preparou uma ficha técnica que indicava um custo de R$ 3,50 por porção.
+O gerente do restaurante, considerando um CMV (Custo de Mercadoria Vendida) de 30% e um
+ICMS no Estado de 18%, calculou o preço de venda teórico em R$ 14,23; entretanto, não colocou
+esse preço no cardápio, pois, no processo de formação de preço, ainda falta
+A) aumentar o CMV para 40%, uma vez que o custo primário médio é de 60%; assim, pode-se melhorar
+a margem de lucro desse prato e, por se tratar de um prato novo, existe a possibilidade de maior
+volume de vendas.
+B) aumentar o preço de venda, pois se trata de um restaurante de luxo e esse preço é baixo, e a
+sensibilidade do cliente sobre o preço de venda é alta; dessa forma, pode-se melhorar a margem de
+lucro.
+C) considerar os preços aplicados pelos concorrentes, avaliar os preços dos concorrentes e, por fim,
+avaliar o grupo de vendas no qual está inserido, para verificar se não é muito díspar.
+D) reduzir o CMV, que representa o percentual da receita gerada com a venda, comprometido com os
+custos de matérias-primas. Assim, pode-se melhorar a margem de lucro.
+E) verificar se o preço de custo pode ser reduzido, para que se aumente a margem de lucro; verificar se
+a ficha técnica está correta e aumentar o CMV para 35%, a fim de aumentar a margem de lucro.</Unicode></TextEquiv></TextRegion></Page></PcGts>

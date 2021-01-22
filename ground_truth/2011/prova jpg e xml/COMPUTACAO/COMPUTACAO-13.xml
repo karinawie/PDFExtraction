@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:40</Created>
+	<LastChange>2020-11-16T04:07:09</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-13.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r0">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="825,1192 1535,1192 1535,1810 1113,1810 1113,2007 849,2007 849,2009 826,2009 826,1811 825,1811 825,1700 824,1700 824,1408 825,1408"/>
+	<TextEquiv conf="0.96204">
+	<Unicode>QUESTÃO 21
+No desenvolvimento de um software que analisa bases de
+DNA, representadas pelas letras A, C, G, T, utilizou-se as
+estruturas de dados: pilha e fila. Considere que, se uma
+sequência representa uma pilha, o topo é o elemento mais
+à esquerda; e se uma sequência representa uma fila, a
+sua frente é o elemento mais à esquerda.
+Analise o seguinte cenário: “a sequência inicial ficou
+armazenada na primeira estrutura de dados na seguinte
+ordem: (A,G,T,C,A,G,I,T). Cada elemento foi retirado
+da primeira estrutura de dados e inserido na segunda
+estrutura de dados, e a sequência ficou armazenada na
+seguinte ordem: (TT.GA,C,T,G,A). Finalmente, cada
+elemento foi retirado da segunda estrutura de dados e
+inserido na terceira estrutura de dados e a sequência ficou
+armazenada na seguinte ordem: (T,T,.G,A,C,T,G,A)”.
+Qual a única sequência de estruturas de dados
+apresentadas a seguir pode ter sido usada no cenário
+descrito acima?
+Fila - Pilha - Fila.
+Fila - Fila - Pilha.
+Fila - Pilha - Pilha.
+Pilha - Fila - Pilha.
+Pilha - Pilha - Pilha.
+cCogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="825,254 1535,254 1535,412 1521,412 1521,506 1402,506 1402,560 1287,560 1287,690 1465,690 1465,737 1535,737 1535,1095 874,1095 874,1096 873,1096 873,1059 826,1059 826,716 824,716 824,690 1067,690 1067,560 826,560 826,413 825,413"/>
+	<TextEquiv conf="0.95391">
+	<Unicode>QUESTÃO 20
+Considere que G é um grafo qualquer e que V e E são os
+conjuntos de vértices e de arestas de G, respectivamente.
+Considere também que grau (v) é o grau de um vértice
+v pertencente ao conjunto V. Nesse contexto, analise as
+seguintes asserções.
+Em G, a quantidade de vértices com grau ímpar é ímpar.
+PORQUE
+Para G, vale a identidade dada pela expressão
+DN grau(o) =2|E)|
+vEeV
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O o o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,263 791,263 791,720 790,720 790,919 791,919 791,987 790,987 790,1078 435,1078 435,1127 294,1127 294,1258 333,1258 333,1381 130,1381 130,1379 81,1379 81,1097 129,1097 129,663 80,663"/>
+	<TextEquiv conf="0.96552">
+	<Unicode>QUESTÃO 18
+Um vendedor de artigos de pesca obteve com um amigo
+o código executável (já compilado) de um programa que
+gerencia vendas e faz o controle de estoque, com o intuito
+de usá-lo em sua loja. Segundo o seu amigo, o referido
+programa foi compilado em seu sistema computacional
+pessoal (sistema A) e funciona corretamente. O vendedor
+constatou que o programa excecutável também funciona
+corretamente no sistema computacional de sua loja
+(sistema B). Considerando a situação relatada, analise as
+afirmações a seguir.
+|. Os computadores poderiam ter
+diferentes de núcleos (cores).
+quantidades
+Il. As chamadas ao sistema (system cal/) do sistema
+operacional no sistema A devem ser compatíveis
+com as do sistema B.
+Ill. O conjunto de instruções do sistema A poderia ser
+diferente do conjunto de instruções do sistema B.
+IV. Se os registradores do sistema A forem de 64 bits, os
+registradores do sistema B poderiam ser de 32 bits.
+É correto o que se afirma em
+Ill, apenas.
+l ell, apenas.
+Ill e IV, apenas.
+|, Il e IV, apenas.
+LIL MEeIV.
+CGoOÇGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,1496 790,1496 790,1740 252,1740 252,1876 378,1876 378,1926 389,1926 389,1975 392,1975 392,2001 129,2001 129,1997 81,1997 81,1740 80,1740"/>
+	<TextEquiv conf="0.96088">
+	<Unicode>QUESTÃO 19
+Uma equipe está realizando testes com base nos
+códigos-fonte de um sistema. Os testes envolvem a
+verificação de diversos componentes individualmente,
+bem como das interfaces entre os componentes.
+No contexto apresentado, essa equipe está realizando
+testes em nível de
+O unidade.
+O aceitação.
+sistema e aceitação.
+integração e sistema.
+Soo
+unidade e integração.</Unicode></TextEquiv></TextRegion></Page></PcGts>

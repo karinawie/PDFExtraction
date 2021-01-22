@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T10:49:03</Created>
+	<LastChange>2020-10-27T10:59:31</LastChange></Metadata>
+	<Page imageFilename="fisioterapia_2010-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="74,522 74,1025 814,1025 814,522"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="64,1140 64,1643 804,1643 804,1140"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="841,1129 841,1632 1581,1632 1581,1129"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="844,531 844,1034 1584,1034 1584,531"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="99,279 307,279 307,352 1421,352 1421,353 1553,353 1553,457 1138,457 1138,1858 228,1858 228,2090 227,2090 227,2091 122,2091 122,2092 99,2092 99,1858 97,1858 97,1832 98,1832 98,456 99,456"/>
+	<TextEquiv conf="0.96526">
+	<Unicode>QUESTÃO 14
+Nas figuras estão apresentados quatro gráficos que representam diferentes formas de ondas elétricas utilizadas como
+recurso fisioterapêutico. Dependendo da forma de onda, a quantidade de carga elétrica que se movimenta em cada
+direção pode ser igual (equilibrada) ou desigual (desequilibrada).
+Apresentam carga movimentada equilibrada apenas as ondas expressas nas figuras
+leill.
+lei.
+Nell.
+Nelv.
+Meilv.
+COGoos</Unicode></TextEquiv></TextRegion></Page></PcGts>

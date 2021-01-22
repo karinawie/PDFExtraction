@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:49:15</Created>
+	<LastChange>2020-10-30T00:04:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="810,197 809,2097 812,2097 813,197"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="841,192 1015,192 1015,261 1536,261 1536,568 1535,568 1535,786 1536,786 1536,1132 1537,1132 1537,1254 1536,1254 1536,1522 1534,1522 1534,1648 1073,1648 1073,1794 1152,1794 1152,1968 1165,1968 1165,1993 849,1993 849,1994 826,1994 826,1569 825,1569 825,569 824,569 824,261 841,261"/>
+	<TextEquiv conf="0.96090">
+	<Unicode>QUESTÃO 16
+Alguns aquecedores solares usam uma bomba para
+forçar a circulação da água. Nesses aquecedores, há
+dois sensores de temperatura: um localizado no interior
+de uma das placas e outro localizado no interior do boiler
+(reservatório de água quente). Um circuito lógico que
+controla o acionamento da bomba recebe quatro sinais
+nesse tipo de sistema:
+A
+da placa estiver abaixo de 4 ºC, servindo para evitar o
+sinal : será nível ALTO sempre que a temperatura
+congelamento;
+sinal BD: será nível ALTO sempre que a temperatura
+das placas estiver acima de 70 ºC, servindo para evitar
+sobreaquecimento;
+sinal CC: será nível ALTO sempre que a diferença de
+temperatura entre a água das placas e a do boiler estiver
+acima de 5 ºC, servindo para forçar a circulação;
+sinal M : será nível BAIXO sempre que o sistema estiver
+operando em modo automático e será nível ALTO se
+estiver operando em modo manual.
+O circuito lógico citado deverá enviar um sinal nível ALTO
+para o sistema de acionamento da bomba sempre que o
+sinal M estiver em modo automático, e ocorrer pelo menos
+um dos seguintes eventos: a temperatura das placas for
+inferior a 4 ºC; a temperatura das placas for superior a
+70ºC; a diferença entre ambas for superior a 5 ºC.
+Nessa situação, qual é a equação lógica do sinal de saída
+Y do circuito lógico?
+O Y=ABCM
+= ABC+ M
+(A+ B+ C)M
+(A+ B+ C)M
+Y=A+B+C+M
+Y
+Y
+Y
+GOçÇGoeo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="96,1440 270,1440 270,1504 790,1504 790,1705 789,1705 789,1791 196,1791 196,1944 212,1944 212,2008 104,2008 104,2010 81,2010 81,1791 80,1791 80,1504 96,1504"/>
+	<TextEquiv conf="0.96541">
+	<Unicode>QUESTÃO 15
+Uma câmera fotográfica utiliza o formato RGB (rea, green,
+blue) para informação de cores nos pixels, no qual cada
+cor é representada por 8 bits. Deseja-se comprar um único
+cartão de memória para essa máquina de forma tal que
+seja possível armazenar 1 024 fotos com resolução de
+1024 x 1 024 pixels.
+Qual deve ser, em gigabytes (GB), a capacidade mínima
+do cartão de memória a ser comprado?
+1 GB.
+3 GB.
+8 GB.
+24 GB.
+64 GB.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 791,254 791,665 788,665 788,795 790,795 790,906 789,906 789,1062 788,1062 788,1140 534,1140 534,1183 242,1183 242,1403 130,1403 130,1402 81,1402 81,1152 129,1152 129,1080 175,1080 175,901 129,901 129,855 79,855 79,769 80,769 80,254 96,254"/>
+	<TextEquiv conf="0.96377">
+	<Unicode>QUESTÃO 14
+Para Galileu, a pesquisa científi ca acontece por dois
+momentos: um analítico e outro sintético. O momento
+analítico consiste na observação do fenômeno. Durante
+a análise, o cientista é levado a propor hipóteses que
+tentem explicar os elementos que constituem o fenômeno.
+O momento sintético manda “reproduzir o fenômeno” por
+meio da experimentação: e, se a hipótese for confi rmada,
+vai virar lei.
+RAMPAZZO, L. Metodologia científi ca. São Paulo: Loyola, 2005. 3.ª ed. p.31
+(com adaptações).
+Considere o seguinte experimento: Uma barra de cobre
+de 1 m de comprimento, 3 cm de largura e 1 cm de altura é
+aquecida. Hipótese: O cobre, quando aquecido, se dilata.
+Após o aquecimento, medem-se as dimensões da barra.
+Verifi ca-se que a hipótese é verdadeira.
+A respeito desse experimento, analise as seguintes
+afi rmações.
+I. O experimento gera outra hipótese: todo metal se
+dilata quando aquecido.
+II. O método científi co utilizado é hipotético-dedutivo.
+III. O método científi co utilizado sofre infl uência direta
+da percepção dos sentidos humanos.
+IV. A tese desse experimento pode ser generalizada,
+por indução, para líquidos e gases.
+É correto apenas o que se afi rma em
+A I e II.
+B I e III.
+C III e IV.
+D I, II e IV.
+E II, III e IV. </Unicode></TextEquiv></TextRegion></Page></PcGts>

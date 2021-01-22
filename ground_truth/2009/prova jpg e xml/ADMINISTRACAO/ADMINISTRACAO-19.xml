@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T05:35:15</Created>
+	<LastChange>2020-11-16T23:27:40</LastChange></Metadata>
+	<Page imageFilename="ADMINISTRACAO-19.jpg" imageWidth="1637" imageHeight="2188">
+	<ImageRegion id="r5">
+	<Coords points="198,429 197,842 1499,845 1500,432"/></ImageRegion>
+	<TableRegion id="r0">
+	<Coords points="221,1343 221,1635 1418,1635 1418,1343"/></TableRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="112,170 311,170 311,244 1526,244 1526,985 1039,985 1039,1065 248,1065 248,1101 112,1101 112,407 111,407 111,244 112,244"/>
+	<TextEquiv conf="0.36782">
+	<Unicode>QUESTÃO 28:
+A Brás Eletrônicos Ltda. monta computadores pessoais. Uma das peças utilizadas na montagem é a
+placa de memória RAM. No gráfico abaixo são mostradas as quantidades dessas placas em estoque ao
+final de cada dia, nos últimos 30 dias, e o nível de ressuprimento. Ao final do dia, o administrador de
+compras verifica a necessidade de realizar um pedido de peças e, quando necessário, realiza-o
+imediatamente no sistema on-line do fornecedor.
+Sabendo-se que o lead time é o tempo entre o pedido de suprimento e sua entrada no estoque da
+empresa (considere que não existe perda de tempo entre a entrega e a entrada em estoque),
+conclui-se que o lead time médio no período é de
+A) 1 dia. D) 9 dias.
+B) 2 dias. E) 10 dias.
+C) 3 dias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="112,1147 311,1147 311,1202 1174,1202 1174,1203 1527,1203 1527,1336 1526,1336 1526,1786 1114,1786 1114,1929 993,1929 993,2000 112,2000 112,1929 111,1929 111,1785 112,1785 112,1335 111,1335 111,1334 112,1334"/>
+	<TextEquiv conf="0.89174">
+	<Unicode>QUESTÃO 29
+Os parâmetros fundamentais do MRP (Material Resource Planning) são o tamanho de lote de pedido, o
+estoque de segurança e o prazo de entrega (lead time). O departamento de produção de uma empresa
+tem uma previsão de utilização de parafusos, no processo de manufatura, apresentada na tabela
+abaixo, ainda incompleta:
+Os parafusos são vendidos pelos fornecedores de material em lotes de 500 unidades, isto é, podemos
+apenas comprar múltiplos desse valor (500, 1000, 1500, etc.). O prazo de lead time é de duas semanas,
+o estoque de segurança é de 200 unidades, o estoque inicial é de 400 unidades, e não houve nenhum
+pedido feito nas duas últimas semanas.
+Qual é o estoque médio projetado para as cinco semanas seguintes?
+A) 500. D) 200.
+B) 400. E) 120.
+C) 300.</Unicode></TextEquiv></TextRegion></Page></PcGts>

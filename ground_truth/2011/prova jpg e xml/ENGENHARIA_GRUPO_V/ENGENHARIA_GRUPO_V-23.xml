@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:45:16</Created>
+	<LastChange>2020-10-30T02:04:00</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-23.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,189 430,189 430,268 1218,268 1218,317 1220,317 1220,705 1139,705 1139,817 1233,817 1233,1123 1277,1123 1277,1149 143,1149 143,1092 79,1092 79,817 395,817 395,585 394,585 394,216 96,216"/>
+	<TextEquiv conf="0.96445">
+	<Unicode>QUESTÃO DISCURSIVA 3
+A soldagem é um importante método de fabricação mecânica.
+Dependendo da complexidade geométrica de alguns componentes
+metálicos, estes só podem ser fabricados por soldagem. A classificação
+dos vários tipos de técnicas de soldagem geralmente diz respeito ao
+tipo de energia de soldagem e do modo de transferência do metal
+fundido para o metal base, como, por exemplo, eletrodo revestido,
+MIG/MAG e TIG.
+Um dos grandes desafios da soldagem, além do controle de se
+evitarem defeitos estruturais, como trincas e porosidades, é o
+controle da microestrutura da zona afetada pelo calor (ZAC).
+Considerando as ideias expostas acima, redija um texto dissertativo acerca do seguinte tema:
+Processos de Soldagem: controle da ZAC.
+Aborde, em seu texto, os seguintes aspectos:
+a) influência dos diferentes processos de soldagem; (valor: 3,0 pontos)
+b) tipo de proteção da poça de fusão; (valor: 3,0 pontos)
+c) análise macro e microestrutural da junta soldada de um metal de base. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

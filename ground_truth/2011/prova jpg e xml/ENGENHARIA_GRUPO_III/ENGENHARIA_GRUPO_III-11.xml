@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:38:00</Created>
+	<LastChange>2020-10-30T00:59:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r7">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,480 1534,480 1534,1168 1535,1168 1535,1362 1534,1362 1534,1627 869,1627 869,1621 826,1621 826,1363 825,1363 825,479 824,479 824,254 841,254"/>
+	<ImageRegion id="r1">
+	<Coords points="826,494 826,918 1531,918 1531,494"/></ImageRegion>
+	<TextEquiv conf="0.96237">
+	<Unicode>QUESTÃO 16
+Em um ensaio de resposta em frequência de uma
+suspensão veicular, foi realizada uma varredura em
+frequência, tendo sido o sistema excitado com uma força
+do tipo F = F,.cos(wt). Para cada frequência com que
+se excitou a estrutura, mediu-se o deslocamento x(uw),
+resultando no gráfico de resposta de frequência mostrado
+a seguir.
+Modelando a suspensão como um sistema massa-mola
+de um grau de liberdade, a equação matemática para a
+resposta em frequência é
+1/(k = mo?) + (co)?
+em que k, c e m são os parâmetros que caracterizam a
+estrutura, a saber, constante elástica, amortecimento
+e massa, respectivamente. Analisando-se o gráfico e
+usando a equação da resposta em frequência, é possível
+identificar o valor da frequência de ressonância da
+estrutura (wW,) e calcular os parâmetros k, c, e m.
+|H(0)| =
+Nessa situação, quais os valores corretos desses parâmetros?
+ww, =11 rad/s; k= 500 N/m; m =4,132 kg e c= 56,82 Ns/m.
+w,=11 rad/s; k= 500 N/m; m = 41,32 kg e c = 5,20 Ns/m.
+w,=11 rad/s; k= 5 000 N/m; m =41,32 kg e c= 56,82 Ns/m.
+w,=12rad/s; k= 5 000 N/m; m =34,72 kg e c = 5,20 Ns/m.
+w,=12rad/s; k=5 000 N/m; m=34,72kge c=52,08 Ns/m.
+cCoGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,268 791,268 791,436 789,436 789,1557 790,1557 790,1619 789,1619 789,1673 435,1673 435,1762 309,1762 309,2010 130,2010 130,2009 81,2009 81,1439 80,1439 80,436 79,436 79,268 96,268"/>
+	<ImageRegion id="r3">
+	<Coords points="94,494 94,1357 794,1357 794,494"/></ImageRegion>
+	<TextEquiv conf="0.96146">
+	<Unicode>QUESTÃO 15
+A figura abaixo representa um sistema de refrigeração por
+compressão de vapor com seus principais componentes e
+seu respectivo ciclo teórico, construído sobre um diagrama
+de Mollier (P-h).
+Observando os processos termodinâmicos que constituem
+o ciclo teórico, analise as afirmações que se seguem.
+|. 1—2é um processo adiabático e reversível com
+aumento de temperatura e pressão.
+2—3 é um processo isotérmico com pressão
+constante.
+Ill. 3 — 4 é um processo isentálpico com expansão
+reversível.
+É correto o que se afirma em
+|, apenas.
+Il, apenas.
+| e Ill, apenas.
+Il e Ill, apenas.
+Lie,
+CGOgGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

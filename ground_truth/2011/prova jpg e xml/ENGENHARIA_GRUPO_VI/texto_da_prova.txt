@@ -1,0 +1,965 @@
+QUESTÃO 10
+As várias consequências do trabalho repetitivo
+levaram, nos últimos anos, ao desenvolvimento de
+diferentes formas de organizar e reestruturar o trabalho
+de montagem e outros trabalhos seriais similares. Essas
+tentativas foram feitas na indústria, por intermédio de
+intervenções ergonômicas, conforme exemplificam as
+situações de trabalho abaixo.
+Exemplo 1: A montagem completa de calculadoras
+eletrônicas era feita em torno de uma bancada redonda,
+com oito postos, mas apenas com seis operadores, de
+forma que havia sempre dois postos vazios. A resultante
+acumulação dos componentes forçava os operadores a
+trocarem de lugar frequentemente.
+Exemplo 2: Um componente eletrônico era originalmente
+montado em uma linha de montagem de seis postos
+sucessivos, ocupados por seis trabalhadores. No
+novo plano, um operador desempenhava, sozinho, as
+seis operações e era responsável pela qualidade da
+montagem inteira.
+KROEMER, K. H. E.; GRANDJEAN, E. Manual de ergonomia: adaptando o trabalho
+ao homem. Porto Alegre: Bookman, 2005. 5. ed. p.180 (com adaptações).
+Acerca do tema acima, avalie as asserções a seguir e a
+relação proposta entre elas.
+O principal objetivo das mudanças exemplificadas é
+dar ao operador mais liberdade de ação, reduzindo o
+tédio e tornando o trabalho mais gratificante, permitindo
+a ele desenvolver todo o seu potencial, o que pode ser
+constatado com maior êxito no exemplo 1.
+PORQUE
+No exemplo 1, a rotação de trabalhadores entre diferentes
+atividades de operação de montagem reduziu o risco
+de tédio, adequando a dificuldade do trabalho com as
+capacidades do trabalhador, enquanto, no exemplo
+2, o trabalhador passou a atuar em uma sucessão de
+atividades diferentes, cada uma solicitando dele diferentes
+habilidades e maior responsabilidade.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras e a
+segunda é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o O o O
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 9
+Uma empresa fabrica produtos de limpeza doméstica
+biodegradáveis e está revendo sua política de gestão de
+estoques para a linha principal de produtos devido aos
+altos custos incorridos com a manutenção dos estoques de
+matérias-primas. Para a linha de detergentes, a empresa
+decidiu seguir uma política de revisão contínua, em que o
+estoque será continuamente acompanhado e um pedido
+para um lote ótimo de compra será feito quando o
+estoque cair a determinado nível. O tamanho ótimo do
+lote é obtido pela equação: em que D é
+a demanda do produto por unidade de tempo, S é o custo
+fi xo por pedido e H é o custo de manter uma unidade do
+produto no estoque por um período de tempo especifi cado.
+Uma das principais matérias-primas utilizadas nos
+detergentes biodegradáveis é o Alquilbenzeno Sulfonato
+Linear (LAS), comprado de um único fornecedor. A
+linha de produção dos detergentes opera o ano todo e a
+utilização mensal do LAS é de 75 toneladas. A empresa
+incorre em um custo fi xo de R$ 50,00 para a preparação
+do pedido; o transporte e o recebimento do produto
+ocorrem toda vez em que um pedido é feito ao fornecedor,
+independentemente da quantidade solicitada. A empresa
+calcula que cada tonelada do LAS custa R$ 1,00 ao ano
+para a manutenção em estoque.
+Nessa situação, qual o tamanho ótimo de lote de
+Alquilbenzeno Sulfonato Linear (LAS), em toneladas, que
+a empresa deverá indicar em cada pedido de compra ao
+seu fornecedor?
+A 10,0
+B 75,0
+C 86,6
+D 300,0
+E 900,0
+
+QUESTÃO 11
+Um engenheiro de produção, responsável pelo planejamento e controle da qualidade da linha de produção de tubos e
+conexões em PVC, está sendo questionado pelos altos custos de retrabalho que o novo item AO5 vêm gerando desde
+que se iniciou a sua produção há cinco meses. O item é enviado para retrabalho quando seu diâmetro excede o limite
+superior de especificação. O processo de produção deste item é controlado por meio de gráficos de controle da média
+e da amplitude (gráficos de Shewart) que monitoram o diâmetro dos tubos produzidos. Os limites de especificação
+definidos pela engenharia do produto para o diâmetro do tubo AO5 é 0,90+0,20 cm. O engenheiro e sua equipe
+analisaram os gráficos de controle (da média e da amplitude) desde o início da produção do tubo e observaram que
+O processo sempre esteve dentro dos limites superior e inferior de controle dos gráficos e, portanto, o processo está
+no estado de controle estatístico apresentando apenas sua variabilidade natural (aleatória). Concluíram, então, que
+a causa do alto índice de retrabalho é devida às especificações do projeto e (ou) à própria variabilidade natural do
+processo de produção. A equipe sabe que a variável de controle “diâmetro” é normalmente distribuída com média do
+processo igual a ,,= 1,00 cm e desvio-padrão do processo igual a q =0,05 em.
+Utilizando a tabela de distribuição normal padrão acumulada, qual é a porcentagem de itens AO5 que são enviados para
+retrabalho nesse processo de produção e que vem gerando alto custo?
+O 18,406
+O 2,275 O 13,567
+O 86,433 Q 97,725
+
+QUESTÃO 13
+Uma reclamação comum na prática de gestão de
+estoques é a falta de aderência do modelo do Lote
+Econômico (EOQ) à realidade das organizações. Um
+gerente industrial reclama que a política ótima do EOQ,
+representado pelo gráfico dente de serra abaixo, não
+funciona em sua empresa, mesmo afirmando que a
+demanda é determinística. Ele executa pedidos de compra
+de 100 unidades de um produto a cada 10 dias.
+20
+d
+Sabe-se que o lote econômico é a quantidade comprada
+Q que minimiza a função custo total por unidade de tempo,
+CT(Q), dada por
+CT(Q) = (cQ + K + hOQ/2d)/t, em que
+c é o custo unitário do produto;
+K é custo fixo de realizar o pedido;
+h é o custo unitário de estocagem;
+Q é a quantidade comprada;
+d é a demanda;
+té a duração dos ciclos.
+Os dados utilizados pelo gerente para o cálculo do
+lote econômico são: demanda d = 10 itens/dia; custo
+fixo do pedido K = R$ 50 /pedido; custo unitário do
+produto c = R$ 2 /item; custo unitário de estocagem
+do produto h = R$ 0,10 /item dia; lead-time de entrega
+do fornecedor L = 15 dias (exatamente).
+De acordo com essas informações, a política não funciona
+nessa empresa, pois
+o
+a quantidade ótima a ser comprada está incorreta,
+apesar do ponto de ressuprimento estar correto.
+a quantidade ótima a ser comprada e o ponto de
+colocação dos pedidos não estão corretos.
+a quantidade ótima a ser comprada está correta, mas
+o pedido deveria ser colocado quando o estoque cair
+a zero.
+
+QUESTÃO 12
+Considera-se uma concepção sustentável quando
+o produto é concebido levando-se em consideração
+os recursos naturais locais e as necessidades também
+locais, e é projetado para uso por uma ou mais pessoas,
+com tempo de vida o mais longo possível. Se ainda ele
+é projetado para reassumir outra forma ou outra função
+como um novo produto, e quanto mais este ciclo se repetir,
+mais sustentável é o projeto.
+GUIMARÃES, L. B. M. A Ecologia no projeto de Produto: design sustentável,
+design verde, ecodesign. Ergonomia de Produto. Porto Alegre:
+FEENG/UFRGS, 2006, v. 2, p. 5-35.
+Ressalta-se, portanto, na concepção explicitada acima,
+que o produto só pode ressurgir como outro produto
+sustentável se ele for pensado para ser facilmente
+desmontável e montável em um sistema produtivo que
+A use um mínimo de recursos, não gere resíduos e não
+imponha dano aos seres humanos envolvidos na sua
+produção e uso.
+B considere apenas os recursos naturais locais com vida
+útil o mais longa possível e não imponha dano aos
+seres humanos envolvidos na sua produção e uso.
+C use os recursos necessários à concepção de projetos
+para uso por uma ou mais pessoas e não imponha
+dano aos seres humanos envolvidos na sua produção
+e uso.
+D considere apenas os recursos naturais locais e
+necessidades para uso por uma ou mais pessoas e
+não imponha dano aos seres humanos envolvidos na
+sua produção e uso.
+E use os recursos necessários à implementação de
+projetos com tempo de vida o mais longo possível e
+não imponha dano aos seres humanos envolvidos na
+sua produção e uso.
+
+QUESTÃO 14
+Uma indústria que trabalha sob encomenda quer definir a política ótima de produção para os próximos quatro trimestres.
+Os pedidos colocados em carteira (demanda) bem como os custos fixos de setup (K) e os custos unitários de produção
+(c) e estoques (h) são apresentados na tabela a seguir.
+A política ótima de produção pode ser determinada pelo algoritmo de Wagner-Whitin e Zangwill (JOHNSON e
+MONTGOMERY, 1974), que objetiva minimizar os custos totais período a período, de acordo com a fórmula:
+Ci=. min (Cj +Ki +oj(h +n4u +o+r)+|biGa + +r)+hiaa(Ghio + +rn)+o hi) |
+jabi+l,.
+com j= períodos à frente, incluindo o atual
+em que
+C, = custo total do período |;
+K, = custo de setup (fixo) do período i;
+c, = custo unitário de produção no período |;
+h, = custo unitário de estoque no período |;
+r = demanda no período |.
+Na situação descrita, considerando que a indústria dispõe de capacidade para produzir, no máximo, 150 itens por
+período, e que o custo total no período 5 é nulo, a política ótima é produzir, nos períodos 1,2,3,4, respectivamente,
+50, 100, O e 50 unidades.
+50, 50, 100 e O unidades.
+50, 50, 50 e 50 unidades.
+50, 100, 50 e O unidades.
+50, 150, O e O unidades.
+CoOoçgGoo
+
+QUESTÃO 15
+A qualidade dos serviços apresenta suas peculiaridades em relação à qualidade dos bens. Clientes insatisfeitos com
+prestadores de serviços essenciais podem usufruir da portabilidade (opção de troca imediata de empresa levando
+algumas especifi cidades do serviço previamente contratado), quando houver outras opções de fornecedores. Quanto
+às empresas de planos de saúde, existe uma regra que amplia a portabilidade para os benefi ciários, que poderão
+mudar de plano de saúde sem cumprimento de novos prazos de carência.
+Preocupado com inúmeras saídas de seus clientes, o gerente de uma das três empresas de plano de saúde de uma
+cidade encomendou uma pesquisa de satisfação com os clientes sobre a intenção de trocar o prestador de serviço.
+Como resultado da pesquisa, obteve:
+• Dos 1 000 clientes da empresa A, 50 não a trocariam, 450 mudariam para a empresa B e 500 para a empresa C;
+• Dos 1 000 clientes da empresa B, 400 não a trocariam, 100 mudariam para a empresa A e 500 para a empresa C;
+• Dos 1 000 clientes da empresa C, 500 não a trocariam, 100 mudariam para a empresa A e 400 para a empresa B.
+Considerando estável a população de clientes, e se nada for feito pelas empresas de planos de saúde para reter
+seus clientes, a tendência é que a empresa A fi que com média aproximada de 286 clientes, a empresa B fi que com
+média aproximada de 1 214 clientes e a C com média aproximada de 1 500 clientes. Nessa situação, avalie as
+asserções a seguir.
+A situação apresentada é estocástica, regida por um processo Markoviano com estados
+exaustivos e mutuamente exclusivos.
+PORQUE
+As probabilidades de transição entre os estados pode ser representada pela notação matricial
+Pe as condições finais a” (número de clientes em cada empresa) após n transições (n > O)
+podem ser obtidas pela equação
+a? = 20 pr
+em que a“ representa as condições iniciais (número de clientes em cada empresa) e
+0,05 0,45 0,50
+P= [0,10 0,40 0,50
+0,10 0,40 0,50
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.
+
+QUESTÃO 16
+Uma rede de fast-food 24 h definiu a seguinte estratégia de venda para seu serviço de drive-thru: “se você encontrar
+mais que três clientes no sistema (fila + atendimento) receberá uma sobremesa como cortesia”. O custo desta política
+é de R$ 2,00 por cliente vitimado. Na condição atual, os clientes chegam aleatoriamente segundo um processo de
+Poisson a uma taxa de 18 por hora. O atendimento é realizado por um único empregado e segue uma distribuição
+exponencial com média 2,5 minutos. Contudo, o gerente estima que conseguirá por meio de melhorias no processo de
+montagem dos pedidos, reduzir o tempo médio de atendimento para 2,0 minutos.
+O gráfico abaixo apresenta as funções probabilidades acumuladas de haver n clientes no drive-thru (fila + atendimento)
+para dois tempos médios de atendimento (TA), em minutos.
+Com base na análise dos dados apresentados, conclui-se que
+o
+o
+o custo médio da estratégia atual da empresa pode ser obtido por CME = 18 clientes/h x 24 h/dia x 2 (R$/cliente vitimado) x p,
+para n>23.
+é melhor para a empresa modificar a estratégia para que o cliente não encontre mais de quatro clientes no sistema,
+mantendo seu tempo médio de atendimento em 2,5 min do que apenas reduzir seu tempo médio de atendimento
+para 2 min, mantendo a estratégia atual.
+a estratégia “se você encontrar mais que três clientes no sistema (fila + atendimento) receberá uma sobremesa
+como cortesia” equivale à estratégia: “se você encontrar mais que dois clientes em fila, aguardando atendimento,
+receberá uma sobremesa como cortesia”.
+a probabilidade de haver mais de quatro clientes em fila, para um tempo médio de atendimento de 2 min, é
+de 7,78%.
+o drive-thru não trabalha em condição de equilíbrio, o que inviabiliza a adoção de outra estratégia de atendimento
+dos clientes.
+
+QUESTÃO 17
+Suponha que a taxa de quebra de caminhões de uma transportadora pode ser descrita como um processo de
+Poisson com média 2 caminhões/dia. Para prover manutenção à frota, a transportadora pode optar por contratos de
+exclusividade entre duas empresas: a oficina A, cuja taxa de reparos obedece à distribuição exponencial com taxa de
+3 caminhões/dia e a oficina B, cuja a taxa de reparos obedece à distribuição exponencial com taxa de 4 caminhões
+por dia. A empresa A cobra R$ 2 000,00 por dia durante a vigência do contrato e a empresa B, R$ 4 000,00 por dia,
+também durante a vigência do contrato. Ambos os contratos são remunerados diariamente, independentemente das
+respectivas ociosidades.
+O gráfico a seguir apresenta o número médio de caminhões parados em função de diversas taxas médias de utilização.
+Sabendo que o custo diário por caminhão parado é de R$ 2 400,00, analise as seguintes afirmações.
+I. O custo médio total de contratar B é maior que o custo médio total de contratar A.
+II. A transportadora deve contratar a oficina A, pois sua taxa de utilização será maior.
+III. O custo médio total de contratar A é de R$ 6 800,00 por dia.
+IV. A oficina B tem maior ociosidade que a oficina A.
+É correto apenas o que se afirma em
+A I.
+B II.
+C I e III.
+D II e IV.
+E III e IV.
+
+QUESTÃO 19
+Uma empresa do segmento de linha branca de
+eletrodomésticos apresenta três projetos de melhorias da
+qualidade para reduzir o retrabalho no setor de pintura.
+Os projetos são mutuamente exclusivos e a empresa
+utiliza uma TMA (Taxa Mínima de Atratividade) de 12% em
+suas análises. A seguir, são apresentados alguns dados
+sobre os projetos.
+Com relação à viabilidade econômica, considerando
+apenas os dados apresentados, conclui-se que o melhor
+dos três projetos é o
+o
+X, pois apresenta retorno em menos tempo que os
+demais.
+X, pois é o que apresenta maior TIR.
+Y, pois é o que apresenta maior VPL.
+Z, pois fornece R$ 11 000,00 de retorno além do
+investimento.
+Z, pois apresenta a maior redução anual de custo.
+o ooo
+
+QUESTÃO 18
+Uma ferramenta de design que considera as
+questões ecológicas é o ecodesign, proposta pela UNEP
+(United Nations Environment Programme-Industry and
+Environment). A técnica ecodesign, descrita pela norma
+ISO TR 14062, auxilia no desenvolvimento de produto e
+na antecipação das ameaças potenciais para alavancar
+vantagens competitivas e suas oportunidades. A seguir é
+apresentada parte resultante da aplicação do ecodesign no
+reprojeto de medidores de energia elétrica de uma fábrica.
+Os medidores monofásicos modelo antigo possuem
+base separada do bloco, que é feito de uma liga de alumínio
+e silício. Com a mudança para os novos medidores, a base
+e o bloco tornaram-se uma peça única e houve a troca
+da liga de alumínio do bloco pelo plástico de engenharia
+(Noryl), material de fácil reaproveitamento ou reciclagem.
+Nos medidores antigos, a tampa era de vidro e, nos novos
+modelos, o material usado foi o policarbonato cristal,
+com anti UV, material que facilita a reciclagem e reduz o
+consumo de energia elétrica no seu processo de fabricação.
+A utilização de materiais mais leves facilita o manuseio
+durante as atividades de montagem, pois a redução de
+peso torna o manuseio mais ágil e menos desgastante.
+GUIMARÃES, L. B. M. A Ecologia no projeto de Produto: design sustentável, design
+verde, ecodesign. Ergonomia de Produto. Porto Alegre: FEENG/UFRGS,
+2006, v. 2, p. 5-23.
+As mudanças incorporadas tanto no processo quanto
+no produto visam à eficiência na produção, bem como
+facilitar a obtenção desse produto. Para tanto, quais
+das seguintes afirmações constituem mudanças sociais
+externas de grande influência no desenvolvimento do
+negócio da organização?
+|. Preocupação com a qualidade do produto e
+redução de custo do produto.
+Informações relacionadas ao impacto ambiental
+de produtos e processos.
+. Responsabilidade pelo resíduo, propiciando a
+redução, reutilização e reciclagem.
+Custo de energia relacionado a processos produtivos
+e ao comportamento de usuários dos produtos.
+Estratégia de logística para o novo produto a fim
+de se estabelecerem vantagens como rapidez na
+produção e estocagem.
+Estão corretas apenas as afirmações
+LleV,
+LINE.
+L,IVeV.
+1, Meilv.
+Ih,Mev.
+CoOçGoos
+
+QUESTÃO 20
+Um trecho de 45 km de uma rodovia apresenta alto índice de acidentes, com ocorrências definidas da seguinte forma:
+* — 50% dos acidentes ocorrem uniformemente entre o km 0 e o km 15;
+* —20% dos acidentes ocorrem uniformemente entre o km 15 e o km 30;
+* —30% dos acidentes ocorrem uniformemente entre o km 30 e o km 45.
+A equipe de resgate conta com uma única viatura para atendimento de emergência e uma base sediada no meio do
+trecho. O grupo busca definir a opção que melhor atende a maior parte das ocorrências em até cinco minutos — tempo
+considerado decisivo entre a vida e a morte para vítimas graves —, e estabeleceu as seguintes opções.
+Opção 1: viatura permanece na base aguardando chamados de ocorrências.
+Opção 2: viatura transita por toda a extensão do trecho, aguardando chamados de ocorrências.
+Opção 3: viatura transita em um raio de 22,5 km da base, aguardando chamados de ocorrências.
+Os custos operacionais das 3 opções não são considerados relevantes quando o assunto é salvar vidas. O gráfico a
+seguir, resultado de simulações de Monte Carlo, apresenta as funções de probabilidades acumuladas do tempo de
+viagem até as ocorrências para as 3 opções, considerando-se a velocidade média da viatura igual a 100 km/h.
+A partir dessas informações, avalie as asserções a seguir e a relação proposta entre elas.
+A opção 1 é a melhor para atender vítimas de acidentes graves.
+PORQUE
+O tempo de viagem da viatura até o local do acidente é menor que 15 min na opção 1.
+Acerca dessas asserções, assinale a opção correta.
+As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.
+CoOoGoo
+
+QUESTÃO 21
+Um empreendedor deseja implementar uma empresa envasadora de água mineral em determinado estado da federação.
+Para isso, está montando um anteprojeto. Foram feitos diversos estudos, entre eles o de mercado, do qual se obteve
+uma previsão de vendas no estado para os próximos 10 anos, em milhares de litros, conforme mostrado no gráfico |,
+intitulado Previsão de Vendas.
+O atual desafio do empreendedor é decidir qual o tamanho da fábrica, isto é, decidir qual será a capacidade instalada
+da fábrica. O segundo gráfico mostra o Valor Presente Líquido (VPL) para diferentes tamanhos, em milhares de litros,
+de acordo com informações repassadas pelos fabricantes de equipamentos. Há cinco opções de tamanho da fábrica,
+sendo o lucro/litro para cada tamanho em 9, 11, 12, 13 e 14 centavos por litro, da menor capacidade para a maior.
+Quanto maior a capacidade, maior o investimento financeiro, e, para cada nível de capacidade, presume-se que a
+fábrica possa “abocanhar” uma fatia do mercado, de acordo com a previsão do gráfico |.
+Com base nos dados apresentados, analise as afirmações a seguir.
+I. A fábrica deve ser dimensionada para 4 200 mil litros, pois, para essa capacidade, apresenta o maior lucro por
+litro e há tendência de crescimento no mercado.
+II. A fábrica deve ser dimensionada para 3 400 mil litros, pois, para essa capacidade, apresenta o maior VPL.
+III. A fábrica deve ser dimensionada para 850 mil litros, pois, para essa capacidade, requer menores investimentos.
+IV. A fábrica não deve ser dimensionada para 1 700 mil litros, por apresentar baixo VPL e também por existir risco
+de inviabilidade para vendas menores do que as previstas.
+É correto apenas o que se afirma em
+A I.
+B II.
+C III.
+D I e IV.
+E II e IV.
+
+QUESTÃO 22
+Um processo vem sendo monitorado por meio de Gráficos de Controle para Variáveis. Para essa situação, analise os
+gráficos a seguir.
+Indicam processo sob controle estatístico apenas os gráficos representados em
+A I e III.
+B I e IV.
+C II e IV.
+D II e V.
+E III e V.
+
+QUESTÃO 24
+Uma empresa que produz tubos e conexões em PVC
+está desenvolvendo um novo produto mais resistente
+devido à demanda de mercado. A empresa pretende usar
+uma linha de produção já existente para a manufatura
+do novo produto. O engenheiro Davi, responsável pela
+linha de produção, sabe que o diâmetro médio dos tubos
+produzidos pela linha de produção é 105 mm e o desvio-
+padrão é 5 mm. Esses dados foram obtidos por meio de
+uma série histórica quando o processo se encontrava em
+estado de controle estatístico. Os dados seguem uma
+distribuição normal de probabilidade.
+A equipe de engenharia do produto enviou para Davi as
+especificações do diâmetro do novo produto. O limite
+superior de especificação (LSE) é 105 mm e o Limite
+Inferior de Especificação (LIE) é 95 mm. Qualquer tubo
+produzido com diâmetro inferior ao LIE ou superior ao LSE
+é considerado refugo.
+Na situação descrita, se Davi puder ajustar a média do
+processo da linha de produção, em qual valor ele deve
+ajustá-la para obter uma porcentagem mínima de refugo?
+95 mm
+100 mm
+105 mm
+110 mm
+120 mm
+GCOçÇQGoo
+
+QUESTÃO 23
+Um gerente de projetos atua no lançamento de novos
+produtos em uma empresa fabricante de telefones e
+outros dispositivos eletrônicos. Essa empresa utiliza
+estrutura organizacional tipicamente funcional.
+A empresa apresenta um grande volume de produção
+e cada lançamento de um novo produto significa, entre
+outras coisas, capacitar os operários de chão de fábrica
+para que possam realizar as novas operações, correr
+o risco de parar a linha de montagem, compartilhar
+recursos humanos de outras áreas da empresa, e ter
+que lidar com cronogramas apertados.
+Com relação ao perfil desse gerente de projetos, analise
+as seguintes asserções e a relação proposta entre elas.
+O profissional deve, além de conhecer profundamente os
+processos específicos da empresa, apresentar algumas
+competências como liderança, negociação, sociabilidade,
+capacidade de conciliar interesses e voluntariedade.
+PORQUE
+O desenvolvimento de projetos em empresas de produção
+em massa submete seus colaboradores a atividades
+repetitivas, o que gera resistências a mudanças, uma vez
+que os recursos humanos alocados hierarquicamente às
+funções usuais da empresa dificulta a atuação deles em
+projetos transversais às linhas de produção.
+ Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira
+E Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 26
+Problemas de engenharia de produção foram estudados
+em um polo com mais de 80 empresas produtoras de
+objetos fundidos — móveis, adornos e objetos decorativos
+e utensílios de cocção. O principal problema relatado
+pelos empresários referia-se à Gestão e Desenvolvimento
+de Produtos (GDP), tais como perda de participação no
+mercado e a não formação de uma identidade socialmente
+percebida. Essas atividades eram descoordenadas ou
+realizadas sem metodologias eficientes. Um projeto
+recente buscou aplicar ferramentas de GDP, já validadas
+em grandes organizações, nas empresas de pequeno
+porte integrantes do polo. Por exemplo, o Processo de
+Desenvolvimento de Produtos Orientado ao Cliente (PDP-
+OC), um método aplicável em conjunto com o método Quality
+Function Deployment (QFD), e o Computer Aided Design
+(CAD). Desenvolveram-se 70 produtos e capacitaram-se
+20 equipes, de empresários e funcionários das empresas,
+na aplicação de ferramentas de gestão orientadas aos
+seus negócios, conciliando o desenvolvimento de produtos
+às diferentes capacidades dos processos produtivos e aos
+nichos de mercado estudados. Os antigos produtos, muitas
+vezes copiados de concorrentes, eram pouco ergonômicos
+e com design desatualizado. Os novos produtos têm design
+contemporâneo, agregam valor simbólico e são viáveis com
+os processos de produção disponíveis.
+MIRANDA, C.A.S., MELO FILHO, L.D.R., OLIVEIRA, R.D. Projeto
+multidisciplinar: integração entre design e engenharia de produção no PDP
+para empresas industriais de pequeno porte. São Carlos, out./2010. XXX
+Encontro Nacional de Engenharia de Produção. (com adaptações).
+Diante do exposto, analise as afirmações seguintes.
+|. Considerando a oferta existente no mercado
+de mobiliários fundidos nacionais quanto às
+características de design, os novos produtos
+desenvolvidos pelas empresas do polo estudado
+passaram ater qualidade potencialmente melhorada.
+O planejamento sistematizado de produtos
+utilizando-setécnicas de GDP pode levara soluções
+com maior valor agregado e o direcionamento de
+novos produtos a nichos de mercado específicos.
+A difusão de técnicas de GDP para as pequenas
+empresas pode viabilizar o direcionamento de
+seus produtos a nichos de mercado específicos,
+de maior potencial de rentabilidade.
+O redirecionamento de linhas de produtos a nichos
+de maior rentabilidade, mantida a capacidade
+máxima de produção das empresas, compromete a
+escala de produção de produtos a preços populares.
+É correto o que se afirma em
+1, Il e Ill, apenas.
+|, Il e IV, apenas.
+|, Il e IV, apenas.
+Il, Ill e IV, apenas.
+LIL EeIV.
+CoOgGoo
+
+QUESTÃO 25
+Uma empresa no setor de energia mantém diversas
+parcerias com universidades para o desenvolvimento de
+tecnologia. Essas parcerias são feitas por meio de projetos
+de pesquisa em que o gerente responsável pelas parcerias
+tem de gerir diversos projetos e pesquisadores externos
+à própria instituição. Para racionalizar o seu trabalho, o
+gerente está selecionando um software de gerenciamento
+de projetos. Embora esta seja uma atividade muito
+importante, a diretoria não está disposta a alocar muito
+recurso na aquisição dessa ferramenta. Nesse contexto,
+avalie as asserções a seguir.
+Os softwares de gerenciamento de projetos mais
+atualizados fazem uso simultâneo de tecnologia da
+informação (TI) aplicada e de suporte e requerem grandes
+investimentos financeiros.
+PORQUE
+A TI pode ser aplicada ao gerenciamento de projetos
+tanto nos algoritmos de sequenciamento e alocação dos
+recursos às atividades, quanto no suporte, via web, da
+comunicação e interação do gerente dos projetos com os
+demais participantes, praticamente em tempo real.
+ Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras e a
+segunda é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+E Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 27
+No projeto de unidades produtivas agroindustriais, a “Análise do Ciclo de Vida” é um dos principais métodos utilizados
+para avaliação dos impactos ambientais de diferentes processos de trabalho. Uma análise simplificada do ciclo de vida
+da cachaça comparou casos de produtores industriais e de produtores artesanais. A análise contemplou as seguintes
+etapas: colheita da cana-de-açúcar, moagem, fermentação, destilação e homogeneização até a etapa em que o produto
+está pronto para distribuição. No produtor industrial, a cachaça destilada é transportada desde várias áreas para um
+ocal central, para a homogeneização. Os dados relativos às emissões de CO, e de material particulado estão listados
+na tabela seguinte.
+Considerando a situação descrita, avalie as seguintes afirmativas.
+|. Oimpacto gerado por tonelada produzida entre pequenos produtores é menor que nos grandes produtores.
+Il. Quanto maior o volume de produção de um insumo ou produto, maior o impacto gerado ao ambiente.
+Ill. A comparação entre impactos ambientais gerados em processos industriais e artesanais varia de acordo com
+suas especificidades.
+IV. O aumento da necessidade de transporte entre as unidades da cadeia de produção e consumo agrava o
+impacto ambiental.
+É correto apenas o que se afirma em
+O lell.
+lei.
+Ielv.
+Lei.
+WI, Meilv.
+[MENCENORNO)
+
+QUESTÃO 29
+Em uma empresa, visando atender a uma demanda
+crescente por determinada família de produtos, deseja-se
+expandir suas instalações adquirindo novos equipamentos.
+A partir de estudos realizados, verificou-se que o capital
+necessário para essa expansão é de R$ 120 000,00. Ao
+buscar financiamento, a empresa encontrou as seguintes
+alternativas:
+Banco A — Taxa de juros de 15% a.a., capitalizados
+mensalmente;
+Banco B - Taxa de juros de 14,5% a.a., capitalizados
+trimestralmente.
+Possibilidades de Amortização: Tabela Price e
+Sistema de Amortização Constante (SAC).
+Tempo de Financiamento: 120 meses.
+O financiamento não será quitado antecipadamente.
+Nesse contexto, analise as asserções seguintes.
+A melhor opção de financiamento é pelo Banco B,
+utilizando-se o sistema de amortização constante.
+PORQUE
+O Banco B oferece menor taxa de juros efetivos e, no
+sistema de amortização constante, o valor pago de juros é
+menor que na Tabela Price.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 28
+Um projeto de reformulação da organização do trabalho
+em uma unidade produtiva em funcionamento requer
+a análise do trabalho real. Em uma oficina responsável
+pela manutenção preventiva quadrimestral de uma frota
+com 90 equipamentos ferroviários, foi comparado o fluxo
+prescrito com o fluxo realmente executado. Constatou-se
+o não atendimento das metas de produção e a insatisfação
+dos funcionários devido à elevada carga de trabalho.
+A programação da revisão se fazia após uma inspeção
+prévia, mas ocorriam atrasos no encaminhamento do
+equipamento ferroviário para a oficina e não se realizava
+nova inspeção e reprogramação do equipamento. Essa
+inspeção identificaria novas pendências no equipamento
+e possibilitaria reprogramar com rigor o uso dos recursos
+materiais e de mão-de-obra, evitando-se desgastes e
+esperas por material não disponível. Daí, a demanda por
+Homens-Hora passou de 200 para 280, pois as pendências
+reais corrigidas na revisão se mostraram maiores que
+as identificadas na inspeção preventiva. Essa situação
+acontecia reiteradamente. Registrou-se, então, alta
+frequência de trabalhadores em turnos que faziam horas
+extras e que dobravam o turno de trabalho.
+CAMPOS, G. F., SILVA, L. M., BARCELOS, B. F. Análise da organização do
+trabalho: um estudo no setor de manutenção mecânica de equipamentos
+ferroviários de uma empresa de grande porte. In: São Carlos, out./ 2010.
+XXX Encontro Nacional de Engenharia de Produção. (com adaptações).
+A análise relatada identificou problemas de projeto do
+trabalho e problemas de gestão. Qual foi o principal
+problema de projeto do processo de trabalho no setor
+de manutenção?
+A O cumprimento da programação, pois quando ela
+não é seguida gera-se aumento do desgaste dos
+empregados na execução da atividade.
+B Uma avaliação da variabilidade da atividade a ser
+executada sugere uma demanda por uma organização
+do trabalho mais flexível.
+C O número de funcionários era insuficiente para atender
+a demanda no conserto das máquinas.
+D A empresa faz a programação sem considerar
+possíveis imprevistos que poderiam ocorrer na
+atividade desenvolvida.
+E A empresa não determina a repetição da inspeção se o
+equipamento não chegar na oficina na data combinada.
+
+
+QUESTÃO 31
+A ergonomia pode trazer contribuições importantes ao
+processo de desenvolvimento de produtos destinados ao
+consumo de massa, na medida em que possibilita integrar
+a visão dos usuários ao projeto. Estudos de casos em
+fabricantes de veículos automotivos e de carrocerias de
+ônibus mostraram que, na etapa de projeto de produtos,
+ocorria o uso rotineiro de ferramentas como bancos
+de dados antropométricos, softwares para simulação,
+manequins e mapeamento de pressão. A ergonomia
+era empregada em fases tardias desse processo, para
+correção, e a integração de aspectos ergonômicos
+restringia-se a questões relacionadas à antropometria.
+Registraram-se erros conceituais, por exemplo, no
+dimensionamento da altura dos assentos fixos. Estes
+dimensionamentos partem de amostras aleatórias da
+altura popliteal em usuários reais, em diferentes percentis
+antropométricos. Mas, na fase de testes, as empresas
+pesquisadas utilizavam como elementos da amostra
+apenas profissionais da própria empresa. Considere o
+critério de não-compressão de tecidos moles e as medidas
+a seguir, utilizadas para dimensionar a altura de assentos,
+presumindo que as distribuições sejam normais.
+GREGHI, M. F., ROSSI, T. N., SOUZA, J. B. G., MONTEDO, U. B.; MENEGON,
+N. L. A integração de aspectos ergonômicos no processo de desenvolvimento de
+produtos de empresas brasileiras do setor de transporte. São Carlos, out./2010.
+XXX Encontro Nacional de Engenharia de Produção.
+Com base nas informações acima, avalie as afirmações
+a seguir.
+|. Aalturado assento pode ser dimensionada em 45
+cm, valor da mediana para a altura popliteal dos
+profissionais da empresa e da população.
+Considerando-se uma folga de 0,50 desvio-
+padrão entre a referência de altura popliteal para
+dimensionamento da altura do assento em cadeira
+fixa, essa altura será aceita como adequada se
+tiver o valor de 37 cm.
+Um dimensionamento adequado da altura do
+assento em cadeira fixa para a grande maioria dos
+profissionais da empresa será inadequado para a
+população usuária.
+É correto apenas o que se afirma em
+l.
+WU.
+UI.
+Tell.
+lei.
+cCoOoGoos
+
+QUESTÃO 30
+O EDI, abreviação de Electronic Data Interchange, ou,
+em português, Intercâmbio Eletrônico de Dados, “é um
+meio de transferência eletrônica de dados entre empresas,
+de computador para computador, em formatos padrão”, ou
+ainda (...) “é a transferência eletrônica de dados entre os
+computadores das empresas participantes, dados esses
+estruturados dentro de padrões previamente acordados
+entre as partes.” (...) o EDI foi primeiramente adotado nos
+Estados Unidos, na década de 1980, pelos setores de
+varejo e de transportes, expandindo-se mais tarde para os
+setores automotivo e farmacêutico, entre outros
+O processo de implantação da troca eletrônica de
+dados via EDI na Empresa X teve início entre os anos
+de 1993 e 1994. Na unidade pesquisada, esse processo
+ocorreu no ano de 1996, logo após sua fundação. Naquela
+época, o processo ocorreu sem grandes problemas, pois
+só havia um cliente conectado com a Empresa X via EDI.
+No decorrer dos anos, novos clientes passaram também
+a adotar o EDI como forma de comunicação com a
+Empresa X e, atualmente, a maioria dos clientes utiliza
+esta ferramenta para a troca eletrônica com a empresa.
+Antes da utilização do EDI, a empresa utilizava
+principalmente o telefone e o fax em envio de relatórios
+para a comunicação com os clientes e fornecedores. O
+processo de adoção do EDI na Empresa X originou-se,
+principalmente, devido à exigência de algumas montadoras,
+que definiram que seus fornecedores deveriam implantar
+o EDI, se quisessem fornecer diretamente para elas.
+Além das atividades de envio da necessidade de
+produção pelos clientes, pedido de compra encaminhado
+aos fornecedores e emissão de envio de embarque e
+nota fiscal, o EDI é utilizado para visualizar a demanda
+acumulada, o que já foi entregue pela empresa, o que está
+em atraso e os nomes dos clientes que estão esperando
+para serem atendidos. Ele é usado também em atividades
+como programação de entregas, alteração de pedido,
+extrato de conta-corrente, pagamentos etc.
+FERREIRA, K.; RIBEIRO, P. Tecnologia da Informação e Logística: os impactos
+do EDI nas operações logísticas de uma empresa do setor automobilístico.
+In. Anais do XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, 2003 .
+Segundo o que explicita estritamente o texto, uma
+vantagem relevante do EDI é
+O acesso rápido a fornecedores.
+redução do emprego de papel.
+utilização de tecnologia de ponta.
+suporte ilimitado de comunicação.
+(MENCENOREO)
+diminuição da importância dos vendedores.
+
+QUESTÃO 33
+Na distribuição de garrafões de 20 litros de água
+mineral, uma empresa utiliza chapas de compensados
+de madeira para auxiliar seu transporte, em carrinhos
+com prateleiras e também nos caminhões de entrega.
+Essas chapas de madeira se deterioram em um mês
+devido à umidade. A empresa gasta R$ 57 600,00
+comprando 2 400 chapas por ano. Ao mesmo tempo,
+descarta garrafões de polipropileno, tanto por força
+da lei que lhes atribui vida útil máxima de três anos,
+como por trincas, fissuras, mau cheiro e sujeiras. O
+polipropileno demora 240 anos para se degradar na
+Natureza. Produzido a partir do petróleo, é um polímero
+termoplástico que amolece a partir de 127ºC, funde a
+175ºC e, ao resfriar, readquire a rigidez. Transformar
+os garrafões descartados (resíduos) em placas para
+substituir as chapas de madeira apresenta-se como
+uma solução para o destino dos resíduos. A empresa
+dispõe de um moinho industrial para a transformação
+do garrafão em material granulado. A partir deste
+material foram moldadas placas para testes em escala
+reduzida. O molde permaneceu durante 1 h e 10 min
+ao fogo, na temperatura de 160ºC. Não houve perda
+de peso do material durante o processo. A placa
+de polipropileno, com dimensões equivalentes à de
+madeira, teve avaliação melhor em resistência à flexão,
+durabilidade, sustentabilidade e custo. Pesa um pouco
+mais, porém a diferença foi considerada aceitável pelos
+trabalhadores. Se danificada, a chapa de polipropileno
+pode ser novamente reciclada e transformada em uma
+placa. A solução é viável se comparada ao custo de
+armazenar e transportar resíduos, e é ambientalmente
+mais adequada pois destina os resíduos criando um
+novo produto substituto à madeira, mais durável,
+reciclável e remanufaturável na mesma unidade
+produtiva que o consome.
+CARVALHO NETO, E.M., FOLHA, A.C.V., BRAGA JUNIOR, A.E. Desenvolvimento
+de um produto a partir do refugo de garrafões de polipropileno para
+substituição do uso de madeirite. São Carlos, out./2010. XXX Encontro
+Nacional de Engenharia de Produção.
+Na situação descrita, qual das seguintes alternativas de
+uso do polipropileno ao final da vida útil do produto, se
+viável tecnicamente, teria o menor impacto ambiental?
+O Arecuperação de resinas.
+A transformação energética.
+A transformação em novos materiais.
+A recuperação e reutilização das embalagens.
+Coco
+A transformação em produtos substitutos usados na
+mesma unidade.
+
+QUESTÃO 32
+O planejamento da empresa busca a minimização do
+impacto das frotas de caminhões ao meio ambiente,
+utilizando a tecnologia para aumentar a eficiência do
+transporte de matérias-primas, insumos e produtos,
+reduzindo o consumo de óleo diesel e a emissão de CO2
+.
+Para diminuir o número de veículos circulando pelo país,
+a Empresa lançou o Programa de Compartilhamento da
+Frota. Caminhões que antes retornavam vazios, depois
+do abastecimento de fábricas, centros de distribuição e
+pontos de venda, passaram a transportar carregamentos
+de empresas parceiras. A adoção do projeto já resultou
+em uma economia de 1 430 000 litros de combustível e a
+emissão de 3 922 toneladas de CO2
+ a menos.
+Com o bom resultado da iniciativa, a Empresa decidiu
+implantar o transporte colaborativo em toda a sua cadeia.
+A operação é viabilizada pelos softwares Tracking e
+TMS (Transportation Management System). O Tracking
+visualiza, em tempo real, o trajeto dos veículos e corrige
+eventuais problemas de rotas. Já o TMS analisa a
+possibilidade do Compartilhamento da Frota com as
+empresas parceiras.
+Infere-se que o Programa de Compartilhamento da Frota
+da Empresa foi implementado como parte do investimento
+da empresa
+A na ISO 9001.
+B em logística verde.
+C na OHSAS 18001.
+D em logística reversa.
+E em Warehouse Managment System (WMS).
+
+QUESTÃO 35
+O que proporciona a oportunidade para o novo e
+diferente é a mudança — a inovação sistemática consiste,
+portanto, na busca deliberada e organizada de mudanças,
+assim como na análise sistemática das oportunidades
+que tais mudanças podem oferecer para a inovação
+econômica e social.
+DRUCKER apud BARBIERI, J. C. Organizações inovadoras: estudos e casos
+brasileiros. Rio de Janeiro: FGV Editora, 2003, p. 18 (com adaptações).
+A partir dessa observação, avalie as asserções a seguir.
+A inovação é um conceito mais limitado do que a invenção
+PORQUE
+a invenção é o processo pelo qual uma nova ideia é
+descoberta ou criada, enquanto a inovação inclui o
+processo de desenvolver e implantar a nova ideia.
+Arespeito dessas asserções, assinale a alternativa correta.
+o
+As duas asserções são proposições verdadeiras e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 34
+O gráfico ilustrado na figura a seguir tem por objetivo
+analisar a influência do nível de estoque de produtos
+intermediários (Work in Process - WIP) na velocidade do
+processo de produção, bem como identificar possíveis
+melhorias do nível de serviço prestado aos clientes
+pelas empresas manutfatureiras. Esse modelo tem como
+base as teorias de manufatura enxuta e visa identificar
+as necessidades de estoques para diferentes tipos de
+processos produtivos, tais como Projeto, Jobbing, Lotes,
+Batelada (em massa) e Contínuos.
+Os Sistemas de manufatura situados na posição | do
+modelo caracterizam-se pela ausência de estoque
+intermediário e velocidade de processo elevada.
+Utiliza(m)-se desse expediente o(s) processo(s) tipo
+Arranjo Celular e em Linha de Montagem.
+Projeto e Job Shop.
+Batelada (lote).
+Contínuo.
+Massa.
+
+QUESTÃO DISCURSIVA 3
+A busca pela sustentabilidade, ou seja, assegurar às gerações futuras o direito a um
+meio ambiente equilibrado com as mesmas condições (naturais, sociais e econômicas)
+disponíveis para as gerações atuais, colocou as discussões relativas ao projeto de
+produtos em outra perspectiva, em um patamar mais elevado no âmbito das questões
+das sociedades atuais.
+Aintrodução do conceito de desenvolvimento sustentável como elemento de ordem
+na concepção de novos produtos trouxe aos projetistas a consciência de seu papel em
+uma grande cadeia de intervenções, diretas e indiretas, sobre o meio ambiente.
+BARBOSA FILHO, A. N. Projeto e desenvolvimento de produtos. São Paulo: Atlas, 2009. p. 94-95.
+Considerando as ideias centrais desenvolvidas no texto, redija um texto dissertativo abordando de que forma o tripé de
+sustentabilidade deve orientar as decisões das empresas, contemplando os aspectos ambiental, social e econômico.
+(valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Uma empresa de engenharia está fazendo o planejamento financeiro do projeto
+de uma unidade de tratamento de efluentes para uma determinada localidade para
+concorrer a uma licitação. Essas instalações devem atender a aproximadamente
+30 mil pessoas, tratando 60 mº/ano por habitante. Serão necessários investimentos
+da ordem de R$ 10 milhões em equipamentos e, ainda, R$ 15 milhões em redes
+coletoras e demais instalações, enquanto os gastos com Operação e Manutenção
+(O&M) totalizam R$ 2 milhões por ano. A depreciação anual dos equipamentos fica
+em 10%, enquanto, para os demais investimentos, deve ser utilizada a taxa anual de
+4%. O retorno do investimento é obtido pela cobrança de uma tarifa de 5 R$/mº? de
+efluentes tratados. A taxa de mínima de atratividade (TMA) foi definida em 15% a.a.
+e tais instalações poderão ser operadas durante 10 anos, sendo devolvidas ao poder
+concedente ao final desse período sem nenhum ressarcimento (valor residual nulo).
+Considerando apenas os dados fornecidos, faça o que se pede nos itens a seguir, apresentando os cálculos utilizados
+na sua resolução.
+a) Calcule o investimento total, as receitas anuais, a depreciação anual dos equipamentos e dos demais
+investimentos. (valor: 3,0 pontos)
+b) Apresente a projeção do fluxo de caixa para os 3 primeiros anos desse empreendimento no formato de uma
+planilha. (valor: 7,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Antes de seguir para expedição, produtos
+acabados oriundos de três linhas de produção
+de uma indústria passam por uma máquina de
+embalagem, cujo tempo de processamento
+é de 1 min. O diretor industrial afirma que há
+períodos de sobrecarga da máquina iguais ao
+representado pelo gráfico ao lado e solicitou um
+relatório contendo indicadores de desempenho
+do setor para justificar a aquisição de um novo
+equipamento (para dobrar a capacidade).
+A partir dos dados do problema, faça o que se pede nos itens a seguir.
+a) As chegadas de produtos acabados e o tempo de processamento da embalagem são aleatórios ou
+determinísticos? Justifique sua resposta. (valor: 4,0 pontos)
+b) Descreva como são obtidos os indicadores de desempenho abaixo relacionados para o setor de embalagem,
+indicando se os valores calculados a partir do gráfico justificariam ou não o aumento em sua capacidade
+produtiva. (valor: 6,0 pontos)
+i) taxa média de utilização no setor;
+ii) tempos máximo, mínimo e médio de permanência de produtos acabados no setor;
+iii) tempos máximo, mínimo e médio de espera em fila no setor;
+iv)número médio de produtos acabados no setor.
+

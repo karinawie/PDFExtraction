@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:40:36</Created>
+	<LastChange>2020-09-23T20:08:33</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-21.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="512,628 513,894 1103,894 1102,628"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,192 430,192 430,260 1299,260 1299,937 1533,937 1533,1146 839,1146 839,1147 145,1147 145,1148 144,1148 144,1055 143,1055 143,963 80,963 80,937 316,937 316,218 96,218"/>
+	<TextEquiv conf="0.96082">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Jogos de tabuleiro são atividades comuns de entretenimento na vida cotidiana das
+pessoas. Uma de suas características é a necessidade do uso de um tabuleiro
+com localizações bem definidas para o posicionamento de peças, podendo indicar
+também as fases do jogo. No livro O Homem que Calculava, de Malba Tahan
+(São Paulo: Record, 2002, p. 120), há uma história na qual um rei deveria efetuar
+o pagamento pelos serviços de um de seus conselheiros, dando-lhe uma certa
+quantidade de grãos de trigo a ser calculada da seguinte forma: coloca-se 1 grão
+de trigo na primeira casa do tabuleiro, 2 na segunda casa, 4 na terceira casa, 8 na
+quarta casa e assim dobrando-se sucessivamente até a última casa.
+Considerando o tabuleiro 4 x 4 ilustrado acima, contendo a indicação da ordem das casas, construa um único algoritmo que:
+a) calcule, armazene em uma estrutura e escreva em ordem a quantidade de grãos de trigo em cada casa do tabuleiro;
+(valor: 8,0 pontos)
+b) calcule, armazene em uma variável e escreva a quantidade total de grãos de trigo presentes no tabuleiro.
+(valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:00:40</Created>
+	<LastChange>2020-10-30T11:35:29</LastChange></Metadata>
+	<Page imageFilename="FISICA-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r12">
+	<Coords points="809,197 806,2097 811,2097 814,197"/></SeparatorRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="841,1034 1011,1034 1011,1085 1535,1085 1535,1227 1534,1227 1534,1228 1302,1228 1302,1330 1440,1330 1440,1376 1535,1376 1535,1791 1053,1791 1053,2005 1052,2005 1052,2006 875,2006 875,2005 874,2005 874,2004 826,2004 826,1790 825,1790 825,1228 824,1228 824,1085 841,1085"/>
+	<TextEquiv conf="0.96519">
+	<Unicode>QUESTÃO 21
+Alei de resfriamento de Newton diz que a taxa de variação
+temporal da temperatura de um corpo em resfriamento é
+proporcional à diferença entre a temperatura do corpo T e
+a temperatura constante T, do meio ambiente, isto é,
+ar
+= = —k(T— Ty),
+dE (T —-Tnm)
+em que k é uma constante de proporcionalidade.
+Com o auxílio dessas informações, analise a seguinte
+situação-problema:
+Um bolo é retirado do forno à temperatura de 160 ºC.
+Transcorridos três minutos, a temperatura do bolo passa
+para 90 ºC. Com uma temperatura ambiente de 20 ºC
+determina-se o tempo necessário para que o bolo esteja a
+uma temperatura adequada para ser saboreado, ou seja,
+para atingir 25 ºC, após ser retirado do forno. Considerando
+In(1/2) = -0,69 e In(28) = 3,33, o tempo transcorrido desde
+a retirada do forno até atingir a temperatura ideal é de,
+aproximadamente,
+5,37 minutos.
+5,27 minutos
+7,17 minutos.
+10,57 minutos.
+14,47 minutos.
+cCoOogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 1015,192 1015,251 1535,251 1535,507 1534,507 1534,508 1056,508 1056,641 1092,641 1092,719 1044,719 1044,807 1033,807 1033,932 1076,932 1076,975 1096,975 1096,999 975,999 975,1005 910,1005 910,973 826,973 826,949 910,949 910,901 901,901 901,812 900,812 900,750 911,750 911,586 826,586 826,508 825,508 825,250 841,250"/>
+	<TextEquiv conf="0.96674">
+	<Unicode>QUESTÃO 20
+Uma partícula de carga q e massa m penetra em um
+campo magnético uniforme de intensidade B, de maneira
+que o ângulo entre o vetor velocidade da partícula e o
+vetor campo magnético é de 7/3 rad. Represente por vo
+módulo da velocidade (constante) da partícula.
+Nesse caso, o raio re a frequência ciclotrônica fdatrajetória
+helicoidal da partícula são dados, respectivamente, por
+27 f e 27m
+qB
+V3mv : 4mr
+2gB vv”
+qB
+2nm
+o
+v
+mv
+e
+qB
+aBQ vu
+2nr
+mu
+VB mv e gB
+2gB
+o
+2mm</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="96,192 270,192 270,261 791,261 791,815 790,815 790,1677 791,1677 791,2005 790,2005 790,2006 128,2006 128,1699 81,1699 81,816 79,816 79,261 96,261"/>
+	<ImageRegion id="r3">
+	<Coords points="86,821 86,1515 797,1515 797,821"/></ImageRegion>
+	<TextEquiv conf="0.96204">
+	<Unicode>QUESTÃO 19
+A segunda lei da termodinâmica pode ser usada para
+avaliar propostas de construção de equipamentos e
+verificar se o projeto é factível, ou seja, se é realmente
+possível de ser construído. Considere a situação em
+que um inventor alega ter desenvolvido um equipamento
+que trabalha segundo o ciclo termodinâmico de potência
+mostrado na figura. O equipamento retira 800 kJ de
+energia, na forma de calor, de um dado local que se
+encontra na temperatura de 1000 K, desenvolve uma
+dada quantidade líquida de trabalho para a elevação
+de um peso e descarta 300 kJ de energia, na forma
+de calor, para outro local que se encontra a 500 K de
+temperatura. A eficiência térmica do ciclo é dada pela
+equação fornecida.
+Nessa situação, a alegação do inventor é
+o
+correta, pois a eficiência de seu equipamento é de
+50% e é menor do que a eficiência teórica máxima.
+o
+incorreta, pois a eficiência de seu equipamento é de
+50% e é maior do que a eficiência teórica máxima.
+correta, pois a eficiência de seu equipamento é de
+62,5% e é menor do que a eficiência teórica máxima.
+incorreta, pois a eficiência de seu equipamento é de
+62,5% e é maior do que a eficiência teórica máxima.
+incorreta, pois a eficiência de seu equipamento é de
+62,5% e é menor do que a eficiência teórica máxima.</Unicode></TextEquiv></TextRegion></Page></PcGts>

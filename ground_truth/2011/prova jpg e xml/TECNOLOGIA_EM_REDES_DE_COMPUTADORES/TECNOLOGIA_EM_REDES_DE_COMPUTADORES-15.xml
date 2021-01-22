@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:48:46</Created>
+	<LastChange>2020-10-30T20:18:53</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-15.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,192 1015,192 1015,266 1535,266 1535,356 1538,356 1538,562 1535,562 1535,806 1533,806 1533,948 1535,948 1535,1324 1536,1324 1536,1479 1535,1479 1535,1667 1279,1667 1279,1725 956,1725 956,2005 826,2005 826,1695 874,1695 874,913 825,913 825,527 824,527 824,389 826,389 826,266 841,266"/>
+	<TextEquiv conf="0.96482">
+	<Unicode>QUESTÃO 24
+A comutação com protocolo IP (Internet Protocol)
+pode utilizar tecnologias de transmissão referenciadas
+no paradigma orientado à conexão, fornecendo
+encaminhamento mais eficiente de pacotes, agregando
+informações de rotas e permitindo gerenciamento de
+fluxos por demanda. O IETF (The Internet Engineering
+(Muilti-Protoco!l
+Label Switching) como alternativa para atender essa
+Task Force) criou o padrão MPLS
+necessidade, descrevendo tal tecnologia na RFC 3031.
+Outras denominações dessa tecnologia são: comutação
+de tags, comutação layer 3 e comutação de rótulos.
+COMER, D. E. Interligação de Redes com TCP/IP. Volume 1.
+Rio de Janeiro: Campus, 2006. (com adaptações)
+Considerando a utilização do MPLS para comutação |P,
+avalie as afirmações que se seguem.
+|. Um datagrama que chega no núcleo do MPLS
+é encaminhado por um roteador MPLS sem
+nenhuma alteração no cabeçalho do datagrama.
+Il. Nainterface dos roteadores MPLS que se conectam
+ao usuário final é utilizado o encaminhamento
+convencional, enquanto nos roteadores MPLS de
+núcleo é utilizada apenas a comutação baseada
+em rótulos.
+Ill. O MPLS exige o uso de uma tecnologia de rede
+orientada a conexão, ou seja, a conexão física
+entre um par de roteadores MPLS deve consistir
+de um circuito dedicado.
+IV. Um rótulo MPLS é utilizado como índice para
+uma tabela e permite descoberta mais rápida da
+interface de saída se comparada a endereços de
+destino convencionais.
+É correto apenas o que se afirma em
+o.
+o.
+O le.
+O llelv.
+O lIlelv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,269 790,269 790,746 494,746 494,896 789,896 789,1176 790,1176 790,1203 789,1203 789,1489 790,1489 790,1517 362,1517 362,1565 128,1565 128,1517 81,1517 81,1147 79,1147 79,1009 80,1009 80,896 81,896 81,746 79,746 79,269 96,269"/>
+	<TextEquiv conf="0.87179">
+	<Unicode>QUESTÃO 23
+Alberto comprou um netbook e, ao usá-lo em casa,
+percebeu que alguém mais compartilhava sua rede
+wireless sem permissão, pois estavam utilizando seu
+roteador como elemento de conexão à rede. Uma das
+soluções sugeridas pelos amigos de Alberto foi a troca de
+seu roteador por um que possuísse a tecnologia WPA2
+como meio de segurança. Com relação a esse tema,
+analise as seguintes asserções.
+A troca do roteador foi necessária uma vez que
+o padrão WPA2 exige um co-processador para o
+processo de criptografia.
+PORQUE
+O padrão WPA2 utiliza os algoritmos de criptografia AES
+(Advanced Encryptation Standart) junto com o RC4.
+Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+E Tanto a primeira como a segunda asserção são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

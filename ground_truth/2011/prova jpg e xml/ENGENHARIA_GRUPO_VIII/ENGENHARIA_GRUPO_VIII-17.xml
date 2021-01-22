@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T06:13:29</Created>
+	<LastChange>2020-11-16T03:14:54</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VIII-17.jpg" imageWidth="1616" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="807,194 807,2005 808,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="841,194 1015,194 1015,251 1535,251 1535,896 1536,896 1536,1092 1286,1092 1286,1187 940,1187 940,1296 948,1296 948,1339 956,1339 956,1359 849,1359 849,1361 826,1361 826,1112 919,1112 919,765 874,765 874,745 919,745 919,570 874,570 874,452 825,452 825,251 841,251"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 32
+Para gerenciar florestas, é necessário compreender os
+processos de crescimento e de produção, considerando
+que o manejo tem que ser decidido, em grande parte, pela
+prognose de produções futuras a partir de informações
+correntes. Quanto ao crescimento e produção de florestas
+plantadas, avalie as afirmações que se seguem.
+|. Incremento, mortalidade, ingresso e corte são
+componentes do crescimento e produção de
+povoamentos florestais equiâneos.
+A produção bruta de um povoamento florestal
+consiste na produção ocorrida num período,
+incluindo as colheitas parciais por desbaste e
+também a mortalidade ocorrida no período.
+Ill. A produção de um povoamento pode ser expressa
+por uma equação de produção em função da idade
+e, matematicamente, o crescimento é obtido ao se
+dividir a produção pela idade.
+Quando a produção de um povoamento for
+máxima, o incremento médio anual (IMA) é
+zero. O decréscimo da curva de produção além
+desse máximo implica senilidade do povoamento
+florestal, ocorrendo mortalidade mais acentuada
+de árvores, que pode ser causada por competição.
+É correto apenas o que se afirma em:
+l.
+.
+lei.
+Ielv.
+Weilv.
+CoOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,189 254,189 254,251 790,251 790,974 789,974 789,1121 790,1121 790,1254 789,1254 789,1329 658,1329 658,1370 128,1370 128,1367 81,1367 81,1035 79,1035 79,997 80,997 80,776 79,776 79,634 80,634 80,251 96,251"/>
+	<TextEquiv conf="0.95840">
+	<Unicode>QUESTÃO 31
+Quando a madeira de uma árvore recém-abatida é
+exposta ao meio ambiente, a água localizada nos
+vasos, nos canais e no lúmen das células, denominada
+água de capilaridade ou água livre, evapora-se. A água
+localizada no interior das paredes celulares, chamada
+de água de adesão ou higroscópica, permanece na
+madeira. A umidade correspondente a esse estado é
+denominada umidade de saturação ao ar (USA) ou ponto
+de saturação de fibras (PSF). Com relação à perda de
+água da madeira sob processo de secagem, analise as
+asserções que se seguem.
+Avalie as asserções a seguir e a relação proposta entre elas.
+Abaixo do ponto de saturação das fibras ocorre a retração
+devido à dessorção da água de adesão ou higroscópica
+nas paredes celulares.
+PORQUE
+Com a secagem da madeira no nível higroscópico ocorrerá
+uma aproximação dos elementos celulares e um rearranjo
+dos constituintes químicos da madeira, como a celulose e
+a lignina, provocando a retração.
+Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira
+C A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+E As duas asserções são proposições falsas. </Unicode></TextEquiv></TextRegion></Page></PcGts>

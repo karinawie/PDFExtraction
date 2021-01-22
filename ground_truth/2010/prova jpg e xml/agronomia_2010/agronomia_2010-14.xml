@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:21:58</Created>
+	<LastChange>2020-10-27T02:44:55</LastChange></Metadata>
+	<Page imageFilename="agronomia_2010-14.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="100,1426 308,1426 308,1488 1553,1488 1553,1851 553,1851 553,1896 251,1896 251,2074 259,2074 259,2097 100,2097 100,1865 156,1865 156,1646 99,1646 99,1488 100,1488"/>
+	<TextEquiv conf="0.96737">
+	<Unicode>QUESTÃO 23
+O melhoramento de uma espécie autógama por meio do retrocruzamento é conhecido como um método corretivo, no
+qual se corrige o defeito de um cultivar já melhorado, como, por exemplo, a incorporação de resistência a doenças.
+Nesse método, tem-se um cultivar doador de resistência e um cultivar suscetível a ser melhorado, que são utilizados
+em um esquema de cruzamentos entre si.
+Considerando as características desse método, avalie as afirmativas a seguir.
+|. O retrocruzamento é usado principalmente para transferir aos cultivares suscetíveis características controladas
+por poucos genes.
+Il. O cultivar doador é utilizado várias vezes nos cruzamentos de incorporação da resistência.
+Ill. O retrocruzamento é efetivo para a incorporação de genes dominantes e recessivos.
+IV. A incorporação de resistência a doenças diminui o custo de produção da cultura, além de diminuir o uso de
+defensivos agrícolas.
+É correto apenas o que se afirma em
+lelv.
+el.
+Ielv.
+Lie.
+LNeilv.
+cocos</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="88,491 88,1054 1568,1054 1568,491"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="99,346 1553,346 1553,1398 146,1398 146,1358 100,1358 100,1102 99,1102"/>
+	<TextEquiv conf="0.96384">
+	<Unicode>QUESTÃO 22
+Plantas de cobertura de inverno e sua época de manejo afetam a infestação de plantas daninhas na cultura de milho
+quando semeado em sucessão. Um ensaio foi realizado para avaliar a produtividade de grãos de milho, em plantio
+direto, cultivado em competição com plantas daninhas, em culturas de coberturas (isoladas e consorciadas) do solo e
+em épocas de manejo antes da semeadura do milho. Os resultados são mostrados na tabela abaixo.
+Considerando os dados e sua forma de apresentação, a análise estatística permite concluir que
+o teste estatístico usado é pouco rigoroso na separação de médias.
+o manejo intermediário (10 dias antes da semeadura) das plantas de cobertura apresentou a maior produtividade do milho.
+a interação entre os fatores avaliados (tipo de planta de cobertura e época de manejo das plantas de cobertura)
+não foi significativa.
+o manejo tardio (1 dia antes da semeadura) apresentou diferença estatística na produtividade de milho entre as
+plantas de cobertura.
+o manejo antecipado (25 dias antes da semeadura) proporcionou as menores produtividades de milho, em quatro
+dos seis tratamentos com plantas de cobertura.
+o O DOS</Unicode></TextEquiv></TextRegion></Page></PcGts>

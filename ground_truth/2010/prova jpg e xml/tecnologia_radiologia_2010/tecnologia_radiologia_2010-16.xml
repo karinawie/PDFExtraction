@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T15:01:14</Created>
+	<LastChange>2020-10-27T15:07:03</LastChange></Metadata>
+	<Page imageFilename="tecnologia_radiologia_2010-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="826,287 827,2097 829,2097 828,287"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="869,280 1077,280 1077,350 1555,350 1555,652 1142,652 1142,800 1554,800 1554,860 1555,860 1555,1026 870,1026 870,1027 869,1027 869,558 868,558 868,350 869,350"/>
+	<TextEquiv conf="0.64851">
+	<Unicode>QUESTÃO 37
+A resolução do Conselho Federal de Medicina n.º 1890/09
+define e normaliza a telerradiologia para os níveis:
+1 - radiologia geral não contrastada; 2 - radiologia
+especializada ou contrastada; 3 - ultrassonografia,
+tomografia computadorizada, ressonância magnética,
+medicina nuclear; e 4 - mamografia digital (CR ou DR) .
+Segundo essa resolução, para casos do nível 2, os
+arquivos devem ser transmitidos em formato
+O JPEG, apenas.
+O DICOM 3, apenas.
+O JPEG ou DICOM 3, sem limite mínimo de resolução.
+o
+JPEG com resolução mínima de 4 megapixels ou
+DICOM 3.
+OQ JPEG ou DICOM 3 com resolução mínima de 4
+megapixels.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="101,1266 310,1266 310,1332 787,1332 787,1487 786,1487 786,1607 787,1607 787,1843 456,1843 456,1899 274,1899 274,2002 328,2002 328,2096 149,2096 149,2095 101,2095 101,1930 102,1930 102,1868 158,1868 158,1782 165,1782 165,1677 173,1677 173,1575 101,1575"/>
+	<TextEquiv conf="0.51369">
+	<Unicode>QUESTÃO 36
+De acordo com o Ministério da Saúde, os serviços
+de saúde devem ser organizados em níveis de
+complexidade tecnológica crescente, dispostos em uma
+área geográfica delimitada e segundo a definição da
+população a ser atendida.
+Considerando as orientações do Ministério da Saúde,
+avalie as afirmações que se seguem.
+|. Os serviços de radiodiagnóstico estão incluídos
+no nível atenção básica do SUS.
+Il. Os serviços de radiodiagnóstico com tomografia
+computadorizada estão incluídos no nível de
+média complexidade do SUS.
+Ill. Os serviços de radioterapia estão incluídos no
+nível de alta complexidade do SUS.
+É correto o que se afirma em
+|, apenas.
+Il, apenas.
+l e ll, apenas.
+Il e Ill, apenas.
+Lille.
+coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,253 420,253 420,350 787,350 787,515 789,515 789,516 790,516 790,910 787,910 787,1240 102,1240 102,516 101,516"/>
+	<TextEquiv conf="0.89775">
+	<Unicode>QUESTÃO 35
+Qual dos itens a seguir está em desacordo com o código
+de ética dos profissionais das técnicas radiológicas, no
+que diz respeito às responsabilidades e aos deveres
+profissionais?
+O Assumir, civil e penalmente, responsabilidade por
+atos profissionais danosos ao cliente/paciente
+que tenham como causa imperícia, imprudência,
+negligência ou omissão.
+O Ao desempenhar as atividades profissionais, deixar
+à escolha do cliente/paciente a utilização dos
+equipamentos de proteção contra radiações ionizantes.
+O Preservar, em sua conduta, a honra, a nobreza e
+a dignidade da profissão, zelando por seu caráter
+de essencialidade e indispensabilidade, por sua
+reputação pessoal e profissional.
+O Assumir a responsabilidade profissional de seus
+atos, não atribuindo injustamente seus insucessos
+a terceiros ou a circunstâncias ocasionais, devendo
+primar pela qualidade do trabalho.
+OQ Reconhecer possibilidades e limitações no
+desempenho de suas funções profissionais e só
+executar técnicas radiológicas, radioterápicas,
+nuclear e industria mediante requisição ou
+solicitação de especialista.</Unicode></TextEquiv></TextRegion></Page></PcGts>

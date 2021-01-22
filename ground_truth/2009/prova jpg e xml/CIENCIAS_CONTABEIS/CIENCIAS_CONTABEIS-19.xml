@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:55:22</Created>
+	<LastChange>2021-01-19T18:03:51</LastChange></Metadata>
+	<Page imageFilename="CIENCIAS_CONTABEIS-19.jpg" imageWidth="1637" imageHeight="2188">
+	<TableRegion id="r0">
+	<Coords points="394,548 394,872 1216,872 1216,548"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="102,170 302,170 302,225 1518,225 1518,358 1517,358 1517,464 1164,464 1164,966 1470,966 1470,999 1129,999 1129,1000 868,1000 868,1253 836,1253 836,1289 103,1289 103,1255 102,1255 102,1121 101,1121 101,1069 102,1069 102,359 101,359 101,226 102,226"/>
+	<TextEquiv conf="0.89876">
+	<Unicode>QUESTÃO 29
+A Indústria de Sorvetes Polo Norte avalia o desempenho de seus três negócios (Pecuária,
+Lacticínio e Sorveteria), considerados centros de resultados. Para esse fim, utiliza o Preço de
+Transferência nas transações internas. Para a determinação do Preço de Transferência, a
+empresa considera o quanto pagaria no mercado para adquirir prontos seus produtos
+intermediários.
+Considerando-se os dados a seguir, o controller pretende identificar se todos os negócios da
+empresa são lucrativos.
+Outras Informações:
+e O produto da pecuária (Leite) não tem matéria-prima.
+e Os produtos da Pecuária e do Lacticínio são, respectivamente, matérias-primas do Lacticínio e da Sorveteria.
+e O produto da Sorveteria é vendido no mercado.
+Após analisar os dados, o controller conclui que
+A) a Pecuária e a Sorveteria são negócios lucrativos.
+B) a Pecuária e o Lacticínio são negócios lucrativos.
+C) a Pecuária, a Sorveteria e o Lacticínio são lucrativos.
+D) a Sorveteria é lucrativa e a Pecuária não é lucrativa.
+E) o Lacticínio e a Sorveteria são negócios lucrativos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="102,1327 302,1327 302,1382 382,1382 382,1434 1479,1434 1479,1578 1145,1578 1145,1579 874,1579 874,1712 1478,1712 1478,1782 1101,1782 1101,1783 963,1783 963,1871 897,1871 897,1999 1449,1999 1449,2061 1125,2061 1125,2062 132,2062 132,2063 124,2063 124,2056 103,2056 103,1922 101,1922 101,1893 102,1893 102,1842 141,1842 141,1713 142,1713 142,1406 103,1406 103,1355 102,1355"/>
+	<TextEquiv conf="0.92536">
+	<Unicode>QUESTÃO 30
+Leia as afirmativas:
+Diretores Financeiros são responsáveis por decisões acerca de como investir os recursos de uma
+empresa para expandir seus negócios e sobre como obter tais recursos. Investidores são instituições
+financeiras ou indivíduos que financiam os investimentos feitos pelas empresas e governos. Assim,
+decisões de investimento tomadas por Diretores Financeiros e Investidores são, normalmente,
+semelhantes.
+PORQUE
+As decisões de investimento dos Diretores Financeiros focalizam os ativos financeiros (ações e
+títulos de dívidas), enquanto as decisões de investimento dos Investidores focalizam ativos reais
+(edificações, máquinas, computadores etc.).
+Com base na leitura dessas frases,é CORRETO afirmar que
+A) a primeira afirmação é falsa, e a segunda é verdadeira.
+B) a primeira afirmação é verdadeira, e a segunda é falsa.
+C) as duas afirmações são falsas.
+D) as duas afirmações são verdadeiras, e a segunda é uma justificativa correta da primeira.
+E) as duas afirmações são verdadeiras, mas a segunda não é uma justificativa correta da primeira</Unicode></TextEquiv></TextRegion></Page></PcGts>

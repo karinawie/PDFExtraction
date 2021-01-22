@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:58:47</Created>
+	<LastChange>2020-10-30T11:28:32</LastChange></Metadata>
+	<Page imageFilename="FISICA-24.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,191 1015,191 1015,256 1535,256 1535,535 1534,535 1534,649 1535,649 1535,1731 1180,1731 1180,1780 1062,1780 1062,2006 826,2006 826,1750 874,1750 874,1191 826,1191 826,1165 888,1165 888,809 890,809 890,623 824,623 824,561 825,561 825,256 841,256"/>
+	<TextEquiv conf="0.96734">
+	<Unicode>QUESTÃO 32
+O tratamento de assuntos de Física Moderna e
+Contemporânea no currículo escolar do ensino médio
+sugerido em diversos documentos oficiais para essa etapa
+da escolaridade (Parâmetros Curriculares Nacionais para
+o Ensino Médio - PCN e PCN*) induziu, nos últimos anos,
+o aparecimento desses assuntos em obras didáticas
+voltadas para a Física Escolar, com a correspondente
+proposição de questões para os alunos resolverem.
+Alguns exemplos dessas questões, e que podem ser encon-
+tradas nessas obras didáticas, são apresentados a seguir.
+1) Suponha que a massa de um pão de 50 g, em
+repouso, seja convertida em energia elétrica para
+acender uma lâmpada de 100 W. Quanto tempo
+essa lâmpada ficaria acesa?
+2) Determine o comprimento de onda de um próton
+(m = 1,7 x 10? kg) com velocidade v = 5 x 10º m/s;
+faça o mesmo para um automóvel (m = 1000 kg)
+com velocidade v = 50 m/s.
+3) Uma bola de futebol, de massa igual a 0,4 kg,
+atinge o gol com velocidade de 20 m/s. Qual a
+incerteza que se comete ao medir a posição dessa
+bola, supondo que a quantidade de movimento é
+determinada com uma incerteza de 5%?
+Uma obra didática que inclua os exemplos listados acima
+|. incorre em equívoco conceitual, tratado em
+diversos estudos presentes na literatura específica
+da área de pesquisa em Ensino de Física.
+Il. traz, para o tratamento de assuntos de Física
+Moderna, os mesmos equívocos, em termos
+metodológicos e curriculares, que já foram apontados
+em diversos estudos sobre o Ensino da Física.
+Ill. exige apenas a utilização imediata de fórmulas
+matemáticas, reduzindo as aprendizagens
+possíveis a aspectos simplesmente memorísticos.
+IV. não permite obter indicadores confiáveis de
+avaliação sobre a compreensão de aspectos
+conceituais próprios das elaborações teóricas da
+chamada Física Moderna.
+É correto o que se afirma em
+O lell, apenas.
+O lelV, apenas.
+O llelll, apenas.
+O lllelV, apenas.
+O LILUIEI,</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="60,1281 60,1957 731,1957 731,1281"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 266,192 266,270 790,270 790,356 789,356 789,563 790,563 790,1195 776,1195 776,1244 81,1244 81,1195 79,1195 79,872 80,872 80,270 96,270"/>
+	<TextEquiv conf="0.93087">
+	<Unicode>QUESTÃO 31
+No Brasil, desde a década de 1980, principalmente,
+professores e pesquisadores da área de ensino
+de Ciências têm buscado diferentes abordagens
+epistemológicas e metodológicas visando contribuir para
+a melhoria do ensino nessa área, como, por exemplo,
+a exploração de concepções prévias dos estudantes.
+Na Física, especificamente no caso da mecânica
+newtoniana, pesquisas usando atividades que exploram
+concepções prévias indicam que os estudantes de
+Ensino Médio tendem dar explicações para situações
+envolvendo a relação entre força e movimento que
+remetem à concepção aristotélica.
+Acerca do tema, considere um corpo lançado verticalmente
+para cima, no instante em que a altura não é a máxima. Com
+base nas informações do texto e usando a legenda abaixo,
+assinale a alternativa que mostra a representação correta
+da direção e sentido dos vetores força (F) e velocidade (v)
+no sistema, sob a óptica do estudante (considerada, nesta
+questão, aristotélica) (F, e v,) e da mecânica newtoniana
+(F, e V,), respectivamente. Despreze a resistência do ar.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,178 807,1994 810,1994 810,178"/></SeparatorRegion></Page></PcGts>

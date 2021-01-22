@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:57:54</Created>
+	<LastChange>2020-10-30T11:24:31</LastChange></Metadata>
+	<Page imageFilename="FISICA-28.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="841,1334 1011,1334 1011,1385 1530,1385 1530,1463 1535,1463 1535,1752 1279,1752 1279,1837 932,1837 932,1975 947,1975 947,1994 876,1994 876,1995 849,1995 849,1997 826,1997 826,1766 874,1766 874,1438 824,1438 824,1385 841,1385"/>
+	<TextEquiv conf="0.94157">
+	<Unicode>QUESTÃO 41
+Avalie as seguintes proposições no contexto da Teoria da
+Relatividade Restrita.
+|. A magnitude da velocidade da luz independe do
+movimento relativo entre a fonte emissora e o
+observador.
+Il. Eventos simultâneos em um referencial S serão
+sempre simultâneos em outro referencial S', que se
+move com velocidade constante em relação a S.
+Ill. As leis da física dependem do referencial inercial
+adotado, já que, pela Teoria da Relatividade, tudo
+é relativo.
+É correto apenas o que se afirma em
+l.
+.
+L.
+lell.
+el.
+cCcoçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="841,192 1015,192 1015,243 1535,243 1535,364 1392,364 1392,498 1535,498 1535,696 1120,696 1120,815 969,815 969,919 1214,919 1214,1286 826,1286 826,697 825,697 825,499 826,499 826,498 942,498 942,364 825,364 825,365 824,365 824,243 841,243"/>
+	<TextEquiv conf="0.96240">
+	<Unicode>QUESTÃO 40
+A distribuição de Maxwell-Boltemann unidimensional
+determina a probabilidade de encontrar uma partícula de
+gás monoatômico ideal com velocidade entre v e v+dv.
+Essa distribuição é dada por
+(9) = (2H Palm?
+PSA m PÁ 26T
+em que m = massa da partícula, k = constante de
+Boltzmann, T = temperatura do sistema.
+Considerando uma partícula de gás monoatômico
+ideal, é correto afirmar que sua velocidade média e
+a probabilidade de se encontrar essa partícula com
+velocidade positiva são dadas, respectivamente, por
+TA
+O oe (=)
+m
+O Oe-
+e (27 1
+m 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,191 450,191 450,300 564,300 564,409 790,409 790,715 387,715 387,1033 314,1033 314,1105 146,1105 146,1100 81,1100 81,715 80,715 80,409 293,409 293,277 79,277"/>
+	<TextEquiv conf="0.95498">
+	<Unicode>QUESTÃO 38
+A Lei de Biot-Savart, dada por
+uno ids x Tr
+4 3
+pode ser utilizada para calcular o campo magnético
+gerado no centro de um anel de raio r, percorrido por uma
+corrente |.
+daB =
+Suponha que um disco fino de material não-condutor e
+de raio R possui uma carga gq uniformemente distribuída
+ao longo de sua superfície. O disco gira em torno do seu
+eixo com velocidade angular constante ww. Nessa situação,
+a expressão algébrica que fornece o módulo do campo
+magnético no centro do disco é
+o noqu/(27R)
+o unoqw/(47ºR)
+o noquR/(27)
+o now? /(4rRº)
+e
+noq/(27 R)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="79,1210 790,1210 790,1581 791,1581 791,1640 790,1640 790,1743 571,1743 571,1837 203,1837 203,1941 226,1941 226,1982 245,1982 245,2006 130,2006 130,2004 81,2004 81,1770 127,1770 127,1656 129,1656 129,1265 79,1265"/>
+	<TextEquiv conf="0.96484">
+	<Unicode>QUESTÃO 39
+Avalie as seguintes afirmações envolvendo as origens e
+fundamentos da Física Quântica.
+|. A explicação do efeito Compton baseia-se
+unicamente nas Leis de Newton.
+Il. O ato de fazer uma medida não influencia o
+sistema.
+Ill. O modelo de Bohr consegue prever raios de
+órbitas e energia relacionadas a essas órbitas
+para elétrons em átomos do tipo hidrogenóides
+(1 elétron e número qualquer de prótons no núcleo)
+IV. O corpo negro é assim chamado por não emitir
+nenhuma radiação.
+V. As hipóteses de Louis de Broglie foram verificadas
+diretamente por meio da observação de padrões
+de interferência com feixes de elétrons.
+Está correto apenas o que se afirma em
+lei.
+elv.
+IMev
+LI elv.
+IM, IVeV.
+cCoçgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

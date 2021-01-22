@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:31:13</Created>
+	<LastChange>2020-09-23T19:31:29</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-10.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r0">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="876,363 876,1215 1502,1215 1502,363"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 270,191 270,254 789,254 789,339 790,339 790,485 791,485 791,973 534,973 534,1024 242,1024 242,1241 130,1241 130,1240 81,1240 81,994 175,994 175,829 174,829 174,468 129,468 129,315 79,315 79,254 96,254"/>
+	<TextEquiv conf="0.94095">
+	<Unicode>QUESTÃO 12
+Analise as seguintes afirmações sobre a UML (Linguagem
+de Modelagem Unificada).
+|. AUMLé uma metodologia para o desenvolvimento
+de software orientado a objetos, uma vez que
+fornece um conjunto de representações gráficas
+e sua semântica para a modelagem de software.
+O diagrama de casos de uso procura, por
+meio de uma linguagem simples, demonstrar
+o comportamento externo do sistema. Esse
+diagrama apresenta o sistema sob a perspectiva
+do usuário, e é dentre todos da UML, o mais
+abstrato, flexível e informal.
+Um relacionamento de extensão de um caso de
+uso “A” para um caso de uso “B” significa que
+toda vez que “A” for executado ele incorporará o
+comportamento definido em “B”.
+Os diagramas de comportamento da UML
+demonstram “como ocorrem as trocas de
+mensagens entre os objetos do sistema para se
+atingir um determinado objetivo.
+É correto apenas o que se afirma em
+leill.
+Nelv.
+Weiv.
+Lie.
+1, Meilv.
+MECNONCEU)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="96,1278 270,1278 270,1342 792,1342 792,1505 789,1505 789,1607 791,1607 791,1743 534,1743 534,1831 156,1831 156,1938 187,1938 187,1980 202,1980 202,2000 104,2000 104,2002 81,2002 81,1756 174,1756 174,1585 129,1585 129,1506 80,1506 80,1343 79,1343 79,1342 96,1342"/>
+	<TextEquiv conf="0.96222">
+	<Unicode>QUESTÃO 13
+A linguagem gráfica EPC/ARIS é utilizada para modelar
+processos de negócios. Para isso, utiliza diversos recursos
+para descrever, representar ou indicar, por exemplo,
+atividades, funções, processos e fluxos. Nesse contexto,
+avalie as afirmações a seguir.
+|. A ligação entre dois processos é indicada por um
+conector.
+A descrição de um processo deve iniciar e terminar
+em um evento.
+As funções, ou atividades, são representadas por
+um retângulo com bordas arredondadas.
+É correto apenas o que se afirma em
+LL.
+.
+WI.
+Tell.
+Neil.
+cCoOgGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,347 1534,347 1534,1416 1535,1416 1535,1417 1536,1417 1536,1650 1535,1650 1535,1752 1242,1752 1242,1799 979,1799 979,2011 875,2011 875,2009 826,2009 826,1318 825,1318 825,254 841,254"/>
+	<TextEquiv conf="0.96410">
+	<Unicode>QUESTÃO 14
+O diagrama de atividades é um dos diagramas disponíveis
+na UML (Linguagem de Modelagem Unificada) para a
+modelagem de aspectos dinâmicos de sistemas.
+Com relação ao diagrama de atividades apresentado,
+avalie as afirmações a seguir.
+|. “Aatividade 05 será executada se a atividade 03 ou
+a atividade 04 for concluída.
+A ramificação sequencial existente após a
+atividade 02 significa que, caso o fluxo seja [não],
+é necessário que sejam executadas novamente as
+atividades 01 e 02.
+As atividades 03 e 04 vão ter início ao mesmo
+tempo, entretanto, não significa que terminarão ao
+mesmo tempo.
+Caso o fluxo da ramificação sequencial existente
+após a atividade 02 tenha o fluxo [sim], a atividade
+02 não será mais executada.
+É correto apenas o que afirma em
+leill.
+el.
+Welv.
+LVelv,
+LUNeilv.
+CoOoçGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

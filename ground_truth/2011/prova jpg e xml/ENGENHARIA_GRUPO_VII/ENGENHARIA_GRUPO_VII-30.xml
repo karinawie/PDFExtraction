@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:44:46</Created>
+	<LastChange>2020-10-30T02:53:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-30.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="96,192 266,192 266,254 1535,254 1535,311 1534,311 1534,1286 1535,1286 1535,1350 1366,1350 1366,1418 81,1418 81,1352 79,1352 79,657 80,657 80,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="357,717 357,1223 1257,1223 1257,717"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="76,326 76,628 1547,628 1547,326"/></TableRegion>
+	<TextEquiv conf="0.92845">
+	<Unicode>QUESTÃO 41
+O histórico de produção apresentado a seguir se refere a um reservatório de gás com pressão inicial de
+129,6 kgí/cm? e temperatura de 70 ºC.
+A partir do histórico de produção apresentado foi possível obter o gráfico p/Z versus Gp, que mostra o declínio da
+pressão com a produção acumulada de gás.
+Analisando os dados acima e admitindo que para uma pressão de abandono de 36 kgf/cm?, o fator de compressibilidade
+do gás é 0,90, assinale a alternativa que apresenta o valor atual da reserva de gás, em 10º mº std.
+O 100. O 30. QG o. O 4. Q 20.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,1435 1535,1435 1535,1912 1405,1912 1405,2056 744,2056 744,2057 82,2057 82,2058 81,2058 81,1929 129,1929 129,1657 80,1657"/>
+	<TextEquiv conf="0.96415">
+	<Unicode>QUESTÃO 42
+Os métodos especiais de recuperação secundária visam a obtenção do óleo residual deixado após a aplicação dos
+métodos convencionais de recuperação secundária. Após uma operação de injeção de água, por exemplo, o óleo
+residual pode representar até 90% de todo o óleo remanescente no reservatório, sendo de grande importância a sua
+recuperação. Nesse contexto, analise as afirmações abaixo.
+|. O método de injeção de gás enriquecido possui a habilidade de reduzir as forças capilares e interfaciais que, do
+contrário, causariam a retenção do óleo no reservatório.
+Il. O método de injeção de polímeros está relacionado com o aumento da eficiência de varrido pela redução da
+razão de mobilidades.
+Ill. O método de injeção de vapor torna-se mais eficiente à medida que o poço é mais profundo, pois minimiza as
+perdas de calor.
+É correto apenas o que se afirma em
+o. o: O lell. O lell. Oo llell.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

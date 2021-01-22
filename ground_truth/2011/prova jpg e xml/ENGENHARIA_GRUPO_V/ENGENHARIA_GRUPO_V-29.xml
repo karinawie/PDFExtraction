@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:44:16</Created>
+	<LastChange>2020-10-30T02:01:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-29.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,188 270,188 270,253 1535,253 1535,344 1374,344 1374,345 1212,345 1212,346 1051,346 1051,347 943,347 943,401 885,401 885,1896 988,1896 988,1939 997,1939 997,1982 1166,1982 1166,2007 1018,2007 1018,2008 129,2008 129,2004 81,2004 81,401 80,401 80,253 96,253"/>
+	<ImageRegion id="r2">
+	<Coords points="228,473 228,1710 1323,1710 1323,473"/></ImageRegion>
+	<TextEquiv conf="0.94842">
+	<Unicode>QUESTÃO 36
+O aço ABNT D?2 é utilizado para fabricação de matrizes de estampagem, por ser um aço ferramenta para trabalho a frio.
+Um problema típico desse aço é que ele possui grande possibilidade de ocorrência de austenita retida, o que o torna
+suscetível a pontos de fragilização, pela presença de microestruturas menos resistentes.
+O diagrama TTT para o aço ABNT D?2 está ilustrado na figura a seguir.
+Para minimizar o problema de austenita retida, sugere-se realizar
+têmpera subzero e revenimentos múltiplos.
+revenimento em altas temperaturas e revenimentos múltiplos.
+revenimento subzero ou revenimento em tempos superiores a um dia.
+revenimento em tempos superiores a um dia e revenimentos múltiplos.
+revenimento em tempos superiores a um dia ou revenimento em altas temperaturas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

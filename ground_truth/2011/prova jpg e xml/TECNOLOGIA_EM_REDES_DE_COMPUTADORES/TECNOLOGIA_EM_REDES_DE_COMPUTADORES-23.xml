@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:47:08</Created>
+	<LastChange>2020-10-30T20:12:35</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-23.jpg" imageWidth="1613" imageHeight="2162">
+	<ImageRegion id="r2">
+	<Coords points="823,246 824,1021 1537,1019 1536,244"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,192 430,192 430,295 792,295 792,784 791,784 791,1061 1535,1061 1535,1152 1051,1152 1051,1153 80,1153 80,785 79,785 79,295 96,295"/>
+	<TextEquiv conf="0.96455">
+	<Unicode>QUESTÃO DISCURSIVA 5
+A Rede Local Virtual (Virtual Local Area Network — VLAN)
+pode ser definida como um grupo de dispositivos em
+diferentes segmentos de LAN física, que podem se
+comunicar uns com os outros, formando uma segmentação
+lógica. Para a implementação de VLAN é necessário o uso
+de comutadores (switch) nível 3. Também é necessário
+o uso de dispositivo de camada 3, como um roteador,
+porque a comunicação entre VLAN é realizada por
+esse dispositivo.
+Uma possível forma de se implementar VLAN é a
+configuração de diversas VLAN em um mesmo switch,
+e conectá-las à um roteador, como apresentado na
+figura abaixo.
+Observe essa forma de configuração em um cenário
+atendendo dezenas de VLAN: é necessário o uso de
+dezenas de interfaces no roteador, além de dezenas
+de portas no switch. Essa implementação não permite
+crescimento, pois são necessárias dezenas de portas nos
+Switch e no roteador para simplesmente interconectá-los.
+Para um cenário que necessite de dezenas ou mais VLANs, descreva uma solução de implementação para a
+segmentação de redes, sem que se torne necessário, para interconexão dos dispositivos, o uso de tantas interfaces no
+roteador e portas no switch quantas forem o número de VLANs implementadas. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

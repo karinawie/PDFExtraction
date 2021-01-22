@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:38:15</Created>
+	<LastChange>2020-10-30T01:00:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-10.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="841,192 1015,192 1015,251 1535,251 1535,1293 1536,1293 1536,1468 1535,1468 1535,1769 1279,1769 1279,1849 987,1849 987,2004 875,2004 875,2003 826,2003 826,1779 874,1779 874,1108 825,1108 825,430 824,430 824,251 841,251"/>
+	<ImageRegion id="r1">
+	<Coords points="834,447 834,976 1521,976 1521,447"/></ImageRegion>
+	<TextEquiv conf="0.96243">
+	<Unicode>QUESTÃO 14
+As usinas termelétricas geram eletricidade a partir de
+turbinas movidas a vapor. O ciclo de Rankine é um ciclo
+termodinâmico ideal que pode ser utilizado para modelar,
+de forma simplificada, uma usina termelétrica. A figura
+abaixo mostra de forma esquemática os elementos
+básicos de um ciclo de Rankine simples ideal.
+Considerando que algumas usinas termelétricas que
+utilizam turbinas a vapor podem ser encontradas próximas
+a grandes reservatórios de água, como rios e lagos,
+analise as seguintes afirmações.
+|. O ciclo de Rankine simples mostrado na figura
+não prevê a reutilização da energia que é rejeitada
+no condensador e, por isso, tem um rendimento
+comparável ao de um ciclo de Carnot que opera
+entre as mesmas temperaturas.
+Historicamente, a instalação de algumas
+usinas próximas a grandes rios se dá devido
+à necessidade de remover calor do ciclo, por
+intermédio da transferência de calor que ocorre
+no condensador, porém com implicações ao meio
+ambiente.
+Em usinas que utilizam combustíveis fósseis, o
+vapor gerado na caldeira é contaminado pelos
+gases da combustão e não é reaproveitado no
+ciclo, sendo mais econômico rejeitá-lo, causando
+impacto ambiental.
+Entre as termelétricas, as usinas nucleares são
+as únicas que não causam impacto ambiental,
+exceto pela necessidade de se armazenar o lixo
+nuclear gerado.
+É correto apenas o que se afirma em
+L.
+.
+Tell.
+Ilelv.
+1, Meilv,
+[EONONCN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 231,191 231,253 790,253 790,762 788,762 788,865 789,865 789,866 790,866 790,1424 128,1424 128,1208 127,1208 127,896 81,896 81,843 80,843 80,762 79,762 79,435 80,435 80,253 96,253"/>
+	<TextEquiv conf="0.96474">
+	<Unicode>QUESTÃO 13
+O coeficiente de arrasto de um disco com um escoamento
+normal a uma de suas faces é Cd = 1,17, para valores do
+número de Reynolds maiores do que 1000.
+FOX, R. W., MCDONALD, A. T., PRITCHARD, P. Introduction to Fluid Mechanics.
+6. ed. New York: Willey International, 2004. p. 787 (com adaptações)
+Em um experimento tem-se água escoando normal à
+face de um disco. A força de arraste da água no disco é
+de alguma forma determinada. Repete-se o experimento
+com duas modificações, utiliza-se ar como fluido e altera-
+se a velocidade do escoamento para garantir que nos
+dois experimentos o número de Reynolds seja o mesmo
+e superior a 1000. A força de arraste da ar no disco é,
+também, de alguma forma determinada. Considere que a
+água com p = 1000 kg/mº e 1, = 0,001 Pa.s, e considere
+o ar com p= 1 kg/mºe =0,00001 Pa.s.
+Com relação às forças que atuam nesse experimento,
+é correto afirmar que
+O aforça de arrasto será a mesma nos dois experimentos,
+pois o número de Reynolds e o coeficiente de arrasto
+são os mesmos; e a força de empuxo será maior no
+experimento com água.
+a força de arrasto será maior no experimento com
+água, no qual a velocidade do fluido é menor; e a força
+de empuxo é maior no experimento com água.
+a força de arrasto será maior no experimento com
+água, no qual a velocidade do fluido é menor; e a força
+de empuxo será menor no experimento com água.
+a força de arrasto será maior no experimento com
+água, no qual a velocidade do fluido é maior; e a força
+de empuxo será maior no experimento com água.
+a força de arrasto será menor no experimento com
+água, no qual a velocidade do fluido é maior; e a força
+de empuxo será menor no experimento com água.</Unicode></TextEquiv></TextRegion></Page></PcGts>

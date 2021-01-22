@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:09:45</Created>
+	<LastChange>2020-10-30T01:32:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="807,197 807,2097 809,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="841,1031 1015,1031 1015,1084 1535,1084 1535,1411 1536,1411 1536,1800 1188,1800 1188,1840 1047,1840 1047,1950 1093,1950 1093,1976 1010,1976 1010,2006 875,2006 875,2004 826,2004 826,1809 919,1809 919,1441 874,1441 874,1397 825,1397 825,1084 841,1084"/>
+	<TextEquiv conf="0.96794">
+	<Unicode>QUESTÃO 23
+Espera-se que o engenheiro químico seja capaz de,
+para um determinado processo, escolher entre as
+várias possíveis configurações de reatores, a fim de
+otimizar a produção de um componente. A simulação é
+uma ferramenta que pode assisti-lo nessa decisão, mas
+que requer um profundo conhecimento dos fenômenos
+de transferência de quantidade de movimento, calor e
+massa que ocorrem nestes equipamentos. A respeito da
+modelagem e do comportamento de reatores, avalie as
+seguintes afirmações.
+|. Em certas situações, o termo de acúmulo pode ser
+desprezado no reator tipo batelada.
+Um conjunto de reatores de mistura perfeita
+(CSTR) em série pode ser aproximado, para
+efeitos de modelagem, a um reator tubular ideal.
+Em um reator tubular com leito empacotado,
+esperam-se taxas de transferência de calor
+elevadas na região próxima ao empacotamento.
+Em um reator do tipo leito fluidizado, a vazão de
+mínima de fluidização resulta de um balanço entre
+o empuxo exercido pelo fluido, a força de arraste e
+a força peso das partículas do leito.
+É correto o que se afirma em:
+|, apenas.
+Il, apenas.
+| e IV, apenas.
+Il, Ill e IV, apenas.
+LIL MW EeIV.
+coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="841,192 1015,192 1015,247 1535,247 1535,401 1534,401 1534,534 1535,534 1535,592 1534,592 1534,734 1535,734 1535,1006 873,1006 873,971 826,971 826,640 824,640 824,423 825,423 825,247 841,247"/>
+	<TextEquiv conf="0.96885">
+	<Unicode>QUESTÃO 22
+Suponha que a superfície de um lago parado está em
+equilíbrio termodinâmico com o ar estagnado, que este
+lago seja sulfuroso e que SO, se difunda do fundo do lago
+até a superfície, migrando para o ar atmosférico. Nessa
+situação, avalie as asserções a seguir.
+A fração molar de SO, é igual em ambos os lados da
+interface líquido/gás.
+PORQUE
+A temperatura é igual em ambos os lados da interface
+líquido/gás.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O o6o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1002 266,1002 266,1082 790,1082 790,1571 791,1571 791,1649 789,1649 789,1700 216,1700 216,1988 803,1988 803,2056 797,2056 797,2026 129,2026 129,2010 81,2010 81,1700 80,1700 80,1470 79,1470 79,1082 96,1082"/>
+	<TextEquiv conf="0.96575">
+	<Unicode>QUESTÃO 21
+A produção de enzimas, via fermentação em estado
+sólido por fungos filamentosos, requer condições de
+umidade que não excedam a capacidade de absorção
+da matriz e que, ainda assim, sejam compatíveis com as
+necessidades do microrganismo em relação à atividade
+de água. Deseja-se preparar um meio para produção de
+lipases por Penicilium sp., sendo que esse meio será
+composto por 80% de farelo de soja (10% de umidade)
+e 20% de casca de soja (5% de umidade).
+Considerando-se uma massa inicial de 400 kg da mistura
+de farelo e casca de soja, que massa de água deverá ser
+adicionada para que a umidade final do meio seja de 60%?
+O 364Kkg.
+510 kg.
+546 kg.
+600 kg.
+GC OGeo
+910 kg.
+1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,249 791,249 791,378 788,378 788,537 790,537 790,787 789,787 789,898 570,898 570,950 127,950 127,924 128,924 128,672 81,672 81,378 79,378 79,249 96,249"/>
+	<TextEquiv conf="0.92690">
+	<Unicode>QUESTÃO 20
+A respeito das propriedades termodinâmicas de um fluido
+de trabalho nas suas formas de líquido saturado, vapor
+saturado e mistura de líquido e vapor saturados em um
+processo que ocorre a pressão constante, conclui-se que
+A o título representa o percentual de líquido em uma mistura.
+B a energia interna específica do sistema aumenta
+durante a vaporização.
+C a entalpia específica da mistura é constante ao longo
+da vaporização.
+D a temperatura da mistura aumenta durante a mudança
+de fase.
+E o volume específico do líquido saturado, diminui com
+o aumento da pressão de operação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:45:57</Created>
+	<LastChange>2020-11-16T03:55:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-27.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="841,163 1529,163 1529,244 1535,244 1535,1666 1536,1666 1536,1749 1279,1749 1279,2011 876,2011 876,2010 875,2010 875,2009 826,2009 826,1436 825,1436 825,1435 824,1435 824,1346 825,1346 825,243 841,243"/>
+	<ImageRegion id="r3">
+	<Coords points="826,386 826,947 1536,947 1536,386"/></ImageRegion>
+	<TextEquiv conf="0.90930">
+	<Unicode>QUESTÃO 43
+Considere o processo de controle de uma cancela
+na saída do estacionamento de um shopping center.
+O diagrama de lógica ladder e o diagrama de interligação
+são ilustrados na figura seguinte.
+Para controle do sistema, considere que: o sensor SO
+indica presença de veículo, o sensor S1 indica que o
+cartão foi inserido (fica acionado durante 12 segundos
+após a inserção do cartão), o sensor S2 indica cancela
+aberta e o sensor S3 indica cancela fechada. Para as
+saídas, considere que: L1 é uma lâmpada de sinalização,
+C1 é a saída para acionamento do fechamento da cancela
+e C2 é a saída para acionamento da abertura da cancela,
+cujo tempo de abertura é sempre inferior a 6 segundos.
+Os temporizados são do tipo temporizado na ligação e
+não retentivo.
+Supondo que, inicialmente, o sistema está com a cancela
+fechada, sem presença de veículo e sem inserção de
+cartão, analise as seguintes afirmações.
+|. A lâmpada de sinalização indica que o veículo
+pode passar.
+Uma vez aberta, o fechamento da cancela iniciará
+4 segundos depois da saída do carro.
+. A abertura da cancela iniciará 4 segundos após a
+presença do veículo e a inserção do cartão.
+Após a presença do veículo e a inserção do cartão,
+o motorista terá, no máximo, 14 segundos para sair
+com o veículo.
+É correto apenas o que se afirma em
+leill.
+lelv.
+Neil.
+Lev.
+I, NM eilv
+cCoOogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="119,191 270,191 270,254 791,254 791,596 789,596 789,720 790,720 790,1430 128,1430 128,1393 81,1393 81,1039 79,1039 79,859 80,859 80,674 118,674 118,556 80,556 80,254 119,254"/>
+	<TextEquiv conf="0.01603">
+	<Unicode>QUESTÃO 42
+Uma situação comum na prática, ocorre quando os
+dados são medidos e disponibilizados sequencialmente.
+Ou seja, a cada período de amostragem, um sistema
+qualquer de coleta de dados fornece medições
+correspondentes àquele instante. Obviamente, os dados
+poderiam ser armazenados até se ter um número suficiente
+para resolver o problema em batelada. Mas será que é
+possível utilizar os dados sequencialmente para atualizar
+o vetor de parâmetros de um determinado modelo?
+AGUIRRE, L. A. Introdução à identificação de sistemas: técnicas lineares e
+não-lineares aplicadas a sistemas reais. 3. ed. rev. e ampl. p. 35,
+Belo Horizonte: Editora UFMG, 2007.
+Com base no texto, analise as seguintes asserções.
+É possível a estimação dos parâmetros com dados
+sequenciais, utilizando-se estimadores recursivos.
+PORQUE
+Além de serem úteis quando os dados são disponibilizados
+sequencialmente, os estimadores recursivos também têm
+utilidade para a resolução de problemas numéricos cuja
+solução em batelada seria difícil.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O o 6</Unicode></TextEquiv></TextRegion></Page></PcGts>

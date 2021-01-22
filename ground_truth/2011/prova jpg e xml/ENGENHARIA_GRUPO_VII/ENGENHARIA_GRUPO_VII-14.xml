@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:48:01</Created>
+	<LastChange>2020-10-30T03:03:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r14">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="841,1000 1015,1000 1015,1065 1536,1065 1536,1302 1535,1302 1535,1403 1525,1403 1525,1459 1330,1459 1330,1572 1487,1572 1487,1616 1538,1616 1538,1723 1279,1723 1279,1767 971,1767 971,1881 1013,1881 1013,1925 1021,1925 1021,1968 1044,1968 1044,1992 875,1992 875,1991 826,1991 826,1736 898,1736 898,1616 921,1616 921,1510 874,1510 874,1459 825,1459 825,1433 843,1433 843,1302 825,1302 825,1065 841,1065"/>
+	<TextEquiv conf="0.96858">
+	<Unicode>QUESTÃO 22
+A Avaliação de Impactos Ambientais é um instrumento
+de gestão ambiental que auxilia nas tomadas de decisões
+da viabilizaçção de empreendimentos ou atividades
+potencialmente poluidoras ou degradadoras do meio
+ambiente. É um instrumento que possibilita identificar
+impactos das diversas atividades da engenharia no
+contexto social e ambiental.
+MOREIRA, |. V. D. Origem e síntese dos principais métodos de avaliação de
+impacto ambiental (AIA). /n: Manual de avaliação de impactos ambientais -
+MAIA, 1. ed.. Curitiba: SUREHMA-GTZ, 1993.
+Constitui método de avaliação de impactos ambientais o
+|. Método de Matrizes de Interação.
+Método da Árvore de Causas.
+Método da Listagem de Controle — Check List.
+. Método das Redes de Interação — NETWORKS.
+Método da Superposição de Cartas — Overlay
+mapping.
+É correto apenas o que se afirma em
+Lille.
+LIlelv
+LU, IVEeV.
+I,M,IVEeV.
+LIL, IVEV,
+GOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="841,192 1011,192 1011,249 1535,249 1535,753 1008,753 1008,900 1039,900 1039,964 875,964 875,963 826,963 826,714 920,714 920,467 826,467 826,413 825,413 825,249 841,249"/>
+	<TextEquiv conf="0.96503">
+	<Unicode>QUESTÃO 21
+É comum a associação de baterias para a obtenção
+de tensões e correntes apropriadas a um determinado
+circuito elétrico. Considerando o uso de duas baterias de
+6 Volts e uma de 12 V para alimentar um circuito resistivo,
+avalie as afirmações que se seguem.
+LL É possível alimentar o circuito com 18 V de tensão,
+usando as três baterias.
+É possível alimentar o circuito com 12 V de tensão,
+usando as três baterias.
+São possíveis duas configurações distintas de
+alimentação do circuito com 6 V, sendo que uma
+delas terá uma maior capacidade de fornecimento
+de corrente elétrica.
+É correto apenas o que se afirma em
+|, apenas.
+Il, apenas.
+Ill, apenas.
+l ell, apenas.
+Lie.
+CoOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="96,192 270,192 270,254 790,254 790,1228 789,1228 789,1334 788,1334 788,1672 789,1672 789,1765 420,1765 420,2010 128,2010 128,2009 81,2009 81,1765 80,1765 80,1375 79,1375 79,461 80,461 80,254 96,254"/>
+	<TableRegion id="r3">
+	<Coords points="68,1392 68,1626 784,1626 784,1392"/></TableRegion>
+	<TextEquiv conf="0.96787">
+	<Unicode>QUESTÃO 20
+O professor da turma de engenharia anotava em seu diário
+de classe o número da matrícula de todos os seus alunos,
+suas respectivas notas e médias. Para facilitar o trabalho
+do professor, o departamento de informática da instituição
+desenvolveu o seguinte programa em Linguagem C:
+int c, mat[1000], auxi;
+float media[1000], auxr;
+int main()(
+for(int i=0;i&lt;=999;i++) (
+printf(n Matrícula do aluno %d:", i+1);
+scanf(“%d”, &amp;mat[i]);
+printf(n Média: *);
+scanf(“%f”, &amp;medial[i]);
+for(int i=0;i&lt;=998;i++) (
+for(int c=i+1;c&lt;=999;c++)(
+ifímedia[i] &lt; media[c])(
+auxr=medial[i];
+media[il=medial[c];
+media[c]=auxr;
+auxi=matli];
+mat[il=matlc];
+mat[c]=auxi; 3)
+for(int i=z0;i&lt;=999;i++) (
+printf(An Matricula: %d e Média %f”, mat[i]l, medial[i]); 3)
+O programa (software) desenvolvido imprime uma listagem
+que contém a matrícula dos alunos e sua média.
+Atabela a seguir apresenta notas de alguns alunos da turma.
+Considerando que os valores contidos na tabela acima
+representam os dados que alimentaram o programa, qual
+será a ordem das matrículas impressas pelo programa?
+678, 667, 456, 323, 298
+323, 678, 456, 667, 298
+323, 456, 298, 678, 667
+298, 323, 456, 667, 678
+298, 667, 456, 678, 323
+CGoOçÇGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

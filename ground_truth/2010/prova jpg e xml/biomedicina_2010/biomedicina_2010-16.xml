@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T17:50:31</Created>
+	<LastChange>2020-09-23T17:50:38</LastChange></Metadata>
+	<Page imageFilename="biomedicina_2010-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="826,287 827,2172 830,2172 829,287"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="867,1249 1075,1249 1075,1306 1553,1306 1553,2057 1443,2057 1443,2100 868,2100 868,2101 867,2101 867,1770 866,1770 866,1306 867,1306"/>
+	<TextEquiv conf="0.48960">
+	<Unicode>QUESTÃO 30
+A hemoglobina glicada é um conjunto de substâncias
+formado a partir de reações entre a hemoglobina “A”
+(HbA) e alguns açúcares, sendo que a fração Alíc,
+ligada especificamente com a glicose, representa 80%
+da hemoglobina A1 total.
+PORQUE
+A quantidade de glicose ligada à hemoglobina é
+diretamente proporcional à concentração média de
+glicose no sangue que permanece associada de forma
+irreversível à cadeia alfa da hemoglobina, por meio de
+reação mediada por um sistema enzimático, permitindo
+uma avaliação do controle glicêmico médio no período
+entre 90 a 120 dias que precedem o exame.
+Acerca dessas asserções, assinale a opção correta.
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+O Asduas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e
+a segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+OQ As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="100,280 307,280 307,332 786,332 786,562 704,562 704,766 786,766 786,1019 785,1019 785,1275 786,1275 786,1488 100,1488 100,893 99,893 99,332 100,332"/>
+	<TextEquiv conf="0.96069">
+	<Unicode>QUESTÃO 28
+Considere que um biomédico seja responsável pela
+elaboração dos Procedimentos Operacionais Padrão
+(POP) do setor de parasitologia de seu laboratório.
+Observando as diversas técnicas usadas para triagem de
+enteroparasitas e o perfil epidemiológico da população
+que usufrui os serviços do laboratório, ele chegou aos
+seguintes dados:
+* — alta prevalência de Ascaris lumbricóides;
+* — alta prevalência de Schistosoma mansoni;
+* — baixa prevalência de Enterobius vermicularis.
+Levando em conta a característica das formas imaturas
+desses helmintos observadas nas fezes, por qual método
+o biomédico deve optar para aumentar a sensibilidade
+dos exames parasitológicos fecais em seu laboratório?
+O Técnica de Faust, que se baseia na flutuação
+em sulfato de zinco de formas imaturas leves de
+alguns parasitas.
+O Técnica de Hoffman, Pons e Janer, também conhecida
+como técnica de Lutz, que se baseia no processo de
+sedimentação de ovos pesados.
+O Exame direto que é feito a fresco e indicado para
+pesquisa de formas imaturas em fezes diarreicas ou
+desintéricas de forma rápida e fácil.
+O Método de Baermann-Moraes, que utiliza o princípio
+do termotropismo em cálice de sedimentação para
+detecção de formas imaturas larvais.
+O Coloração das amostras de fezes por hematoxilina
+férrica, que é usada para detalhar a morfologia de
+trofozoitos e cistos de protozoários intestinais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="867,280 1075,280 1075,330 1553,330 1553,902 1555,902 1555,1024 1553,1024 1553,1231 868,1231 868,1232 867,1232 867,1037 868,1037 868,903 867,903 867,673 866,673 866,330 867,330"/>
+	<TextEquiv conf="0.51853">
+	<Unicode>QUESTÃO 29
+Segundo dados de 2008 da Organização Mundial de
+Saúde, as anemias carenciais constituem um problema
+mundial de saúde pública. São frequentes em países em
+desenvolvimento, onde a alimentação é inadequada e
+caracterizada pela falta de nutrientes e vitaminas essenciais.
+Por meio da análise do esfregaço de sangue corado, é
+possível obter informações acerca da morfologia, do tamanho
+e da coloração dos eritrócitos, sendo o comprometimento
+dos mesmos indicado como consequência da falta desses
+nutrientes. Dessa forma, a anemia carencial mais prevalente
+nos dias atuais é causada pela deficiência de
+O ferro, e pode ser diagnosticada pela presença de
+hemácias microcíticas e hipocrômicas no esfregaço
+de sangue.
+O folatos, e pode ser diagnosticada pela presença
+de hemácias macrocíticas e normocrômicas no
+esfregaço de sangue.
+O glicose-6-fosfato-desidrogenase, e pode ser
+diagnosticada por meio do esfregaço sanguíneo
+corado pela presença de hemácias normocíticas,
+hipocrômicas, além do corpúsculo de Heinz.
+O vitamina B-12, e pode ser diagnosticada por meio do
+esfregaço sanguíneo, pela presença de hemácias
+macrocíticas e hipocrômicas.
+O vitamina C, que compromete a absorção de diversos
+nutrientes, resultando na presença de hemácias
+macrocíticas e hipocrômicas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

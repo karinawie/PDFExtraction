@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T22:04:00</Created>
+	<LastChange>2020-10-27T02:57:59</LastChange></Metadata>
+	<Page imageFilename="farmacia_2010-22.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1560,339 1560,464 1439,464 1439,465 105,465 105,339"/>
+	<TextEquiv conf="0.95984">
+	<Unicode>QUESTÃO 40
+O processo de desenvolvimento de fármacos envolve várias etapas e uma equipe multiprofissional. Inicia-se com a
+identificação do alvo terapêutico e a seleção do composto protótipo, seguindo para a síntese de análogos estruturais,
+os estudos de relação estrutura-atividade, a modelagem molecular, a otimização da interação com o receptor, os
+bioensaios, os estudos de biodisponibilidade e os estudos de toxicidade. O esquema abaixo resume essas etapas.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="300,491 300,2071 1571,2071 1571,491"/></ImageRegion></Page></PcGts>

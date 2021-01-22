@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:32:49</Created>
+	<LastChange>2020-09-23T20:32:49</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_E_URBANISMO-18.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="96,192 270,192 270,268 1172,268 1172,269 1535,269 1535,388 1534,388 1534,497 1212,497 1212,577 82,577 82,576 81,576 81,551 543,551 543,437 81,437 81,436 80,436 80,388 79,388 79,268 96,268"/>
+	<TextEquiv conf="0.96276">
+	<Unicode>QUESTÃO 25
+Existem relações favoráveis entre balanços e vãos, que resultam em valores mínimos de momentos na viga.
+Essas relações são econômicas por apresentarem momentos negativos iguais aos positivos, portanto, mínimos.
+As relações da figura a seguir são obtidas a partir de vigas com carregamento uniformemente distribuído. As medidas
+estão apresentadas em centímetros.
+REBELLO, Y. C. P. A. Concepção estrutural e a Arquitetura. São Paulo: Zigurate, 2001. p. 99. (com adaptações).
+Nesse contexto, qual das vigas representadas nos esquemas a seguir é a mais econômica?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="71,655 71,960 739,960 739,655"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="857,655 857,952 1526,952 1526,655"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="71,1157 71,1471 731,1471 731,1157"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="860,1144 860,1465 1531,1465 1531,1144"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="52,1657 52,2013 752,2013 752,1657"/></ImageRegion></Page></PcGts>

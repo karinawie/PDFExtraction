@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:50:06</Created>
+	<LastChange>2020-11-16T02:45:57</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-16.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1534,254 1534,344 1533,344 1533,382 1378,382 1378,532 1460,532 1460,577 1469,577 1469,603 1278,603 1278,611 1081,611 1081,713 1180,713 1180,743 1046,743 1046,971 971,971 971,1025 827,1025 827,1024 826,1024 826,712 921,712 921,580 920,580 920,494 875,494 875,493 874,493 874,427 827,427 827,426 826,426 826,375 825,375 825,254 841,254"/>
+	<TextEquiv conf="0.96435">
+	<Unicode>QUESTÃO 25
+Considere F : Rº — R uma função diferenciável e suponha
+que F(r,y,2z) = O define implicitamente funções não nulas
+(x,y), y = g9(x,2)
+Nessa situação, analise as afirmações abaixo.
+im SE+Ary) Sly)
+im
+Axo Ar
+e diferenciáveis er=h(y,2).
+| 92x
+Ox
+s F.(r,Y,2)
+Se F.(x,y,2)
+Dz
+F.(x,y,2) £ O, então É =
+Or
+Oz
+xr Oy dz
+Or dy "
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Lilell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,163 399,163 399,256 790,256 790,1099 708,1099 708,1252 699,1252 699,1351 81,1351 81,911 80,911"/>
+	<ImageRegion id="r2">
+	<Coords points="139,418 139,621 726,621 726,418"/></ImageRegion>
+	<TextEquiv conf="0.96167">
+	<Unicode>QUESTÃO 24
+Um instrumento de desenho é constituído de três hastes
+rígidas AB, AC e BD, articuladas no ponto A, mas fixas em
+B. A figura a seguir é um esquema desse instrumento, em
+que as hastes foram substituídas por segmentos de reta.
+Na extremidade C, foi colocado um grafite que permite
+desenhar, sobre uma folha de papel, uma curva y ao se
+girar AC em torno de A, mantendo-se fixos AB e BD, que
+são lados do ângulo a.
+Nessa situação, qualquer que seja o ângulo agudo qa, a
+curva y interceptará a semirreta de origem B e que passa
+por D em
+o
+dois pontos E e F distintos, e os triângulos BAE e BAF
+são congruentes.
+o
+dois pontos E e F distintos, e os triângulos BAE e BAF
+são semelhantes, mas não congruentes.
+o
+um único ponto se, e somente se,
+Cc
+AB” sena
+O um único ponto se, e somente se,
+&gt; sena.
+C
+AB
+O nenhum ponto se, e somente se, oo &lt; sena -</Unicode></TextEquiv></TextRegion></Page></PcGts>

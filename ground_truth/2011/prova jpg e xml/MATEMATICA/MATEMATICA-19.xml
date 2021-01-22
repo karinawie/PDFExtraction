@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:49:50</Created>
+	<LastChange>2020-10-30T14:33:41</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-19.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="96,192 430,192 430,254 1534,254 1534,346 1425,346 1425,476 1535,476 1535,683 840,683 840,684 144,684 144,685 143,685 143,592 175,592 175,454 143,454 143,348 80,348 80,254 96,254"/>
+	<TextEquiv conf="0.96008">
+	<Unicode>QUESTÃO DISCURSIVA 5
+O Teorema do Valor Intermediário é uma proposição muito importante da análise matemática, com inúmeras aplicações
+teóricas e práticas. Uma demonstração analítica desse teorema foi feita pelo matemático Bernard Bolzano [1781 — 1848].
+Nesse contexto, faça o que se pede nos itens a seguir:
+a) Enuncie o Teorema do Valor Intermediário para funções reais de uma variável real; (valor: 2,0 pontos)
+b) Resolva a seguinte situação-problema.
+O vencedor da corrida de São Silvestre-2010 foi o brasileiro Mailson Gomes dos Santos, que fez o percurso
+de 15 km em 44 min e 7 seg. Prove que, em pelo menos dois momentos distintos da corrida, a velocidade
+instantânea de Mailson era de 5 metros por segundo. (valor: 4,0 pontos)
+c) Descreva uma situação real que pode ser modelada por meio de uma função contínua f, definida em um
+intervalo [a , b], relacionando duas grandezas x e y, tal que existe k E (a, b) com f(x) É f[(k), para todo
+x E (a, b), x* k. Justifique sua resposta. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

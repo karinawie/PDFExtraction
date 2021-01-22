@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:46:33</Created>
+	<LastChange>2020-10-30T02:09:45</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-16.jpg" imageWidth="1613" imageHeight="2162">
+	<TableRegion id="r0">
+	<Coords points="78,1302 78,1497 1528,1497 1528,1302"/></TableRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords points="96,1071 270,1071 270,1139 1535,1139 1535,1283 1514,1283 1514,1580 1535,1580 1535,1906 1402,1906 1402,2003 1330,2003 1330,2005 381,2005 381,1953 148,1953 148,2005 81,2005 81,1922 129,1922 129,1841 152,1841 152,1753 174,1753 174,1552 81,1552 81,1139 96,1139"/>
+	<TextEquiv conf="0.96467">
+	<Unicode>QUESTÃO 24
+Uma empresa de fundição utiliza o aço ABNT 1018, cuja composição química é dada na tabela abaixo, como matéria
+prima para fabricação de peças fundidas, utilizando o processo de fundição em molde permanente. Um dos ensaios
+realizados nas peças é a análise metalográfica, onde foi observado que as peças fundidas apresentam microestrutura
+perlítica mais ferrita proeutetóide, que são as desejadas para o produto.
+Utilizando o diagrama de fases do sistema ferro—carbono ilustrado na figura |, analise as afirmações que se seguem.
+WV.
+A 800 ºC, a energia livre da fase alfa é menor que as energias livres das fases gama e carboneto de ferro, o que
+faz com que apenas essa fase esteja presente nesta temperatura.
+A 800 ºC, a energia livre da fase carboneto de ferro é menor que as energias livres das fases gama e alfa, o que
+faz com que apenas essa fase esteja presente nesta temperatura.
+. A600”“C, a energia livre das fases gama e carboneto de ferro são menores que a energia livre da fase alfa, o
+que faz com que essas duas fases coexistam na microestrutura final das peças fundidas.
+A 600 ºC, a energia livre das fases alfa e carboneto de ferro são menores que a energia livre da fase gama, o
+que faz com que essas duas fases coexistam na microestrutura final das peças fundidas.
+É correto apenas o que se afirma em
+o.
+o Iv O lei. o
+lelv. O llell.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="213,192 213,1047 1392,1047 1392,192"/></ImageRegion></Page></PcGts>

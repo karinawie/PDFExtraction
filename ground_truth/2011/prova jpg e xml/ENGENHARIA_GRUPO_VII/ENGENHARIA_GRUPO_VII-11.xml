@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T05:48:48</Created>
+	<LastChange>2020-11-16T03:23:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r13">
+	<Coords points="807,197 805,2008 808,2008 810,197"/></SeparatorRegion>
+	<TextRegion id="r36" type="heading">
+	<Coords points="825,200 1361,200 1361,235 1300,235 1300,632 1475,632 1475,1003 1521,1003 1521,1255 1475,1255 1475,1691 1489,1691 1489,1964 876,1964 876,1711 826,1711 826,1689 876,1689 876,1375 826,1375 826,1353 876,1353 876,1026 826,1026 826,1002 876,1002 876,655 826,655 826,630 876,630 876,319 826,319 826,235 825,235"/>
+	<TextEquiv conf="0.74979">
+	<Unicode>C que calcula corretamente o valor de e“?
+int main() (
+double e x=1,x=10, fatorial = 1;
+inti;
+for(i=1;i&lt;30;ir+)([
+fatorial = fatorial * i;
+ex=e x+x/fatorial;
+x=X*x)
+int main() (
+double e x=1,x=10,x potencia = x, fatorial = 1;
+inti;
+for(i=1;i&lt;30;ir+)([
+fatorial = fatorial *i;
+for (i=1;i&lt;30;i++)(
+ex=ex+(x potencia / fatorial);
+x potencia = x potencia * x; |)
+int main() (
+double e x=1,x=10, fatorial = 1;
+inti;
+for (i=1;i&lt;30;i++)([
+fatorial = fatorial *i;
+ex=1+x+ Cóx)fatorial + Ex*x)/fatorial +
+(XXX x)/fatorial; ))
+int main() (
+double e x=1,x=10,x potencia = x, fatorial = 1;
+inti;
+for(i=1;i&lt;30;ir+)([
+fatorial = fatorial * i;
+ex=exx+x potencia / fatorial;
+x potencia = x potencia * x;))
+int main() (
+double e x=1,x=10,x potencia = x, fatorial = 30;
+inti;
+for (i=29;i&gt;1;i-)(
+fatorial = fatorial *i;
+for(i=2;i&lt;30;ir+)([
+e x=(x potencia / fatorial );
+x potencia = x potencia * x; ))</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="96,192 270,192 270,268 790,268 790,1051 789,1051 789,2007 81,2007 81,2006 80,2006 80,1366 79,1366 79,268 96,268"/>
+	<TableRegion id="r2">
+	<Coords points="73,1402 73,1923 786,1923 786,1402"/></TableRegion>
+	<TextEquiv conf="0.96106">
+	<Unicode>QUESTÃO 14
+As aplicações financeiras que os bancos oferecem
+atualmente conferem rendimentos cumulativos sobre
+um capital inicialmente investido. O regime de juros
+compostos pode ser expresso por meio da taxa de
+juros continuamente composta. A fórmula da taxa de
+juros continuamente composta pode ser escrita da
+seguinte maneira:
+VF=C.e""
+Em que
+* VFéovalor futuro;
+* Céocapital inicial aplicado;
+* réotaxade juros continuamente composta;
+* néonúmero de períodos;
+* eé o número de Euler, aproximadamente igual
+2,718281828459045235360287...
+Essa fórmula leva ao cálculo de uma expressão do tipo
+exponencial e” , que pode ser calculada pela série abaixo.
+rº 3 7º
+E — paia Ro fi ia ar
+estiraraOA+o
+A tabela abaixo mostra os valores de e”, para x = 1, ou
+seja, o valor do próprio número de Euler, calculado por 3,
+4,5, 10,15 e 20 primeiros termos da série acima.
+Qual é a opção que apresenta um programa em linguagem</Unicode></TextEquiv></TextRegion></Page></PcGts>

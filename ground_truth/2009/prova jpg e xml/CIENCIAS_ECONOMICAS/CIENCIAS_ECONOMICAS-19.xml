@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:49:01</Created>
+	<LastChange>2021-01-19T18:15:19</LastChange></Metadata>
+	<Page imageFilename="CIENCIAS_ECONOMICAS-19.jpg" imageWidth="1637" imageHeight="2188">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="112,1323 311,1323 311,1401 1527,1401 1527,1710 1475,1710 1475,1942 112,1942 112,1773 111,1773 111,1638 112,1638"/>
+	<TextEquiv conf="0.93857">
+	<Unicode>QUESTÃO 36:
+Um dos mais famosos modelos explicativos do comércio internacional foi desenvolvido por Eli
+Filip Heckscher (1879-1952) e seu aluno, Bertil Ohlin (1899-1979), conhecido como modelo
+Heckscher-Ohlin. O teorema de Heckscher-Ohlin, inicialmente construído para dois países que
+produzem os mesmos bens e utilizam dois fatores de produção (capital e trabalho), baseia-se em
+hipóteses fundamentais diversas.
+Dentre as hipóteses enumeradas, assinale aquela INCOMPATÍVEL com os resultados desse
+teorema.
+A) A tecnologia à disposição dos dois países é idêntica.
+B) Prevalece a concorrência perfeita, tanto no mercado doméstico quanto no mercado internacional.
+C) Prevalece a livre mobilidade dos fatores no país e internacionalmente.
+D) Prevalecem rendimentos marginais decrescentes.
+E) Todos os consumidores de cada país têm preferências idênticas.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="521,618 521,802 1108,802 1108,618"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="112,169 311,169 311,252 1528,252 1528,492 746,492 746,843 953,843 953,884 1528,884 1528,1133 1527,1133 1527,1185 1115,1185 1115,1239 113,1239 113,1185 111,1185 111,884 112,884 112,575 111,575 111,251 112,251"/>
+	<TextEquiv conf="0.63419">
+	<Unicode>QUESTÃO 35:
+Dois indivíduos planejaram almoçar juntos para realizar uma negociação, sem saber ao certo se
+iriam se encontrar no restaurante A ou B. Caso eles se encontrem no restaurante A, poderão
+aproveitar o bom ambiente proporcionado pelo restaurante e fechar um bom negócio. Por outro
+lado, o restaurante B não proporciona um bom ambiente e compromete, de certo modo, a
+negociação. O problema é que eles não estão conseguindo se comunicar para acertar o local do
+encontro e, caso esse encontro não ocorra, não poderão fechar o negócio.
+A situação é descrita e ilustrada neste jogo:
+Com respeito ao(s) equilíbrio(s) desse jogo, verifica(m)-se
+A) ao todo, três Equilíbrios de Nash, sendo um deles em estratégias mistas, em que cada jogador
+escolhe com maior probabilidade o restaurante À.
+B) ao todo, três Equilíbrios de Nash, sendo um deles em estratégias mistas, em que cada jogador
+escolhe tanto 4 quanto B com a mesma probabilidade.
+C) ao todo, três Equilíbrios de Nash, sendo um deles em estratégias mistas, nas quais cada jogador
+escolhe com maior probabilidade o restaurante B.
+D) apenas Equilíbrios de Nash em estratégias puras, dados por (4,4) e (B,B).
+E) apenas um Equilíbrio de Nash em estratégias puras e dado por (4, A).</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:24:39</Created>
+	<LastChange>2020-11-16T23:10:16</LastChange></Metadata>
+	<Page imageFilename="CIENCIAS_CONTABEIS-16.jpg" imageWidth="1637" imageHeight="2188">
+	<TableRegion id="r0">
+	<Coords points="200,370 200,864 1416,864 1416,370"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="278,1416 278,1729 1343,1729 1343,1416"/></TableRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="102,170 302,170 302,241 1437,241 1437,952 1448,952 1448,1016 1065,1016 1065,1068 1064,1068 1064,1103 277,1103 277,1136 103,1136 103,1137 103,1068 102,1068 102,300 101,300 101,241 102,241"/>
+	<TextEquiv conf="0.91590">
+	<Unicode>QUESTÃO 23
+Analise as informações a seguir, referentes ao Balanço Patrimonial da Cia. MMS, relativo ao
+exercício financeiro de X8.
+Com base nessas informações, quais são, respectivamente, o índice de liquidez corrente e o
+índice de composição do endividamento?
+A) 1,5 e 40% D) 1,1 e 33%
+B) 1,1 e 114% E) 1,0 e 33%
+C) 1,1 e 40%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="102,1175 302,1175 302,1269 1402,1269 1402,1332 919,1332 919,1859 1205,1859 1205,1930 1286,1930 1286,1993 1249,1993 1249,2028 694,2028 694,2029 103,2029 103,1888 101,1888 101,1859 102,1859"/>
+	<TextEquiv conf="0.93717">
+	<Unicode>QUESTÃO 24
+Os indicadores de rentabilidade e de prazos médios da empresa ABC S.A,, referentes aos
+exercícios de X1 e X2, foram os seguintes:
+Com base nessas informações, é CORRETO afirmar que
+A) a capacidade de pagamento melhorou, devido ao aumento do ciclo financeiro.
+B) a empresa ganhou R$ 15,20 para cada R$ 100,00 investidos no ativo em X1.
+C) a empresa passou a conceder, em média, um prazo maior em suas vendas a prazo.
+D) a remuneração do capital próprio reduziu durante o período sob análise.
+E) a rentabilidade do ativo aumentou em X2, devido ao aumento da margem líquida.</Unicode></TextEquiv></TextRegion></Page></PcGts>

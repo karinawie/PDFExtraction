@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:04:47</Created>
+	<LastChange>2020-10-30T16:45:21</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-34.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="96,191 270,191 270,253 1534,253 1534,1533 808,1533 808,1534 582,1534 582,2003 131,2003 131,2004 105,2004 105,2006 81,2006 81,1535 80,1535 80,313 79,313 79,253 96,253"/>
+	<ImageRegion id="r1">
+	<Coords points="284,347 284,1460 1539,1460 1539,347"/></ImageRegion>
+	<TextEquiv conf="0.94745">
+	<Unicode>QUESTÃO 45
+A figura a seguir é uma representação do diagrama de Ellingham, no qual são apresentadas as variações de energia
+livre associadas à formação de óxidos, normalizadas para o consumo de 1 mol de oxigênio.
+Com base no diagrama, é termodinamicamente possível obter-se manganês na temperatura de 800 ºC a partir da
+reação de MnO com
+I. Al e Cu.
+II. Ca e Mg.
+III. Co e Ni.
+IV. Si e Ti.
+É correto apenas o que se apresenta em
+A I.
+B III.
+C I e III.
+D II e IV.
+E III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

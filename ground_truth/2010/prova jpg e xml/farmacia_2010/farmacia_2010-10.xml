@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T21:53:15</Created>
+	<LastChange>2020-10-27T03:01:04</LastChange></Metadata>
+	<Page imageFilename="farmacia_2010-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="825,280 832,2088 840,2088 833,280"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="865,888 865,1280 1562,1280 1562,888"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="88,625 88,1160 805,1160 805,625"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="105,337 793,337 793,612 792,612 792,1859 560,1859 560,1899 336,1899 336,1900 265,1900 265,2086 154,2086 154,2085 106,2085 106,1869 162,1869 162,1632 163,1632 163,1495 170,1495 170,1358 178,1358 178,612 105,612"/>
+	<TextEquiv conf="0.95782">
+	<Unicode>QUESTÃO 13
+Em uma rotina diária de controle de qualidade interno
+de um laboratório de análises clínicas, o farmacêutico
+constatou, por meio do diagrama de Levey-Jennings,
+apresentado a seguir, que o padrão de glicose para
+avaliações em espectrofotometria de absorção, cuja
+concentração era de 80 mg/dL com um desvio-padrão
+de 4 mg/dL, entrou na faixa de resultados do segundo
+desvio padrão, antecedida por uma tendência crescente
+de resultados a partir do nono dia de avaliação.
+|. despreocupar-se, pois resultados obtidos dentro
+da segunda faixa de desvio-padrão ainda
+correspondem a valores aceitáveis para os
+padrões do controle interno.
+Il. considerar a tendência constatada como uma
+demanda de ação corretiva, apesar de contida
+na primeira faixa aceitável de um desvio-padrão
+acima da média.
+Ill. refazer a calibração do equipamento, pois
+a tendência constatada evidencia perda de
+linearidade ligada ao funcionamento instrumental
+do processo analítico.
+IV. realizar manutenção preventiva no equipamento,
+pois a tendência constatada evidencia diminuição
+da intensidade de luz que chega aos detectores.
+V. ficar em alerta e aguardar as dosagens nos dias
+seguintes, pois a tendência constatada ainda
+está dentro dos limites aceitáveis do controle de
+qualidade.
+É correto apenas o que se afirma em
+Lille.
+L,Wev
+I,IVeV.
+1, Meilv.
+I,IVeV.
+coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="872,342 1560,342 1560,2035 1449,2035 1449,2093 1162,2093 1162,2094 875,2094 875,2095 874,2095 874,1636 872,1636 872,1570 873,1570 873,1380 874,1380 874,866 873,866 873,606 872,606"/>
+	<TextEquiv conf="0.95585">
+	<Unicode>QUESTÃO 14
+No desenvolvimento de métodos analíticos, a etapa
+de validação requer a investigação da faixa de
+linearidade de acordo com o objetivo da análise.
+Além da linearidade, são determinadas a precisão, a
+exatidão, a especificidade/sensibilidade, a estabilidade
+das amostras nas condições de análise e a guarda
+e robustez. No desenvolvimento de um método de
+cromatografia líquida com detecção no ultravioleta
+(CLAE-UV), destinado à análise de resíduos, foram
+investigadas diferentes condições cromatográficas
+(cond 1, cond 2 e cond 3). Réplicas de amostras
+com concentrações conhecidas foram submetidas às
+análises nessas diferentes condições. Os valores de
+absorção no UV versus as concentrações nominais
+(conhecidas) estão apresentadas no gráfico seguinte.
+Na condição cromatográfica 2, existe uma faixa de
+inearidade, mas essa condição não deve ser empregada
+em análises de resíduos.
+PORQUE
+Não se consegue detectar baixas concentrações do
+analito por esse método, apesar da linearidade aceitável.
+Analisando a relação proposta entre as duas
+asserções acima, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O Asduas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e
+a segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é a uma proposição verdadeira.
+O As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:08:32</Created>
+	<LastChange>2020-10-30T01:28:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-19.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,192 431,192 431,277 1220,277 1220,473 1142,473 1142,628 1220,628 1220,675 856,675 856,679 829,679 829,828 1383,828 1383,902 1534,902 1534,928 1139,928 1139,1036 1535,1036 1535,1121 1533,1121 1533,1179 176,1179 176,1180 175,1180 175,1122 144,1122 144,1036 175,1036 175,929 143,929 143,854 80,854 80,828 395,828 395,218 96,218"/>
+	<TextEquiv conf="0.96472">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Um tanque industrial cilíndrico com 1,0 m de raio, preenchido
+com óleo viscoso até um nível situado a uma altura h da sua
+base, deve ser drenado através de um tubo com 0,2 m de raio e
+comprimento L, conectado à sua base. O perfil de velocidade do
+óleo no tubo de drenagem pode ser descrito pela equação:
+v=v.11-=(WR)A
+máx
+em que v é a velocidade do óleo, v é a = velocidade máxima do
+max
+óleo, ré o raio e Ré o raio do tubo.
+Considerando essa situação problema, faça o que se pede nos itens a seguir, justificando suas respostas.
+a) Qual o volume, em litros, de óleo retirado do tanque após 10 segundos, se a velocidade máxima de descarga
+do óleo alcançar 0,35 m/s? Dados: mr = 22/7; 1 m?º = 1 000 L (valor: 7,0 pontos)
+b) Mantida a mesma velocidade média, se, em vez do óleo, o tanque estivesse preenchido com água, quais
+modificações seriam esperadas no processo? Dados: massa específica do óleo = 800 kKg/m?, massa específica
+da água = 1 000 kg/m?, viscosidade do óleo = 0,056 Pa.s e viscosidade da água = 0,001 Pa.s (valor: 3,0 pontos).</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:19</Created>
+	<LastChange>2020-11-16T04:06:19</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-16.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="804,197 807,2008 811,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="824,262 1536,262 1536,538 1535,538 1535,668 1536,668 1536,1035 1535,1035 1535,1079 1534,1079 1534,1233 1535,1233 1535,1343 1279,1343 1279,1392 956,1392 956,1644 826,1644 826,1361 874,1361 874,1233 920,1233 920,1128 874,1128 874,637 825,637 825,263 824,263"/>
+	<TextEquiv conf="0.96064">
+	<Unicode>QUESTÃO 28
+Algoritmos criados para resolver um mesmo problema
+podem diferir de forma drástica quanto a sua eficiência.
+Para evitar este fato, são utilizadas técnicas algorítmicas,
+isto é, conjunto de técnicas que compreendem os métodos
+de codificação de algoritmos de forma a salientar sua
+complexidade, levando-se em conta a forma pela qual
+determinado algoritmo chega à solução desejada.
+Considerando os diferentes paradigmas e técnicas de
+projeto de algoritmos, analise as afirmações abaixo.
+|. Atécnica de tentativa e erro (backtracking) efetua
+uma escolha ótima local, na esperança de obter
+uma solução ótima global.
+Il. Atécnica de divisão e conquista pode ser dividida
+em três etapas: dividir a instância do problema
+em duas ou mais instâncias menores; resolver
+as instâncias menores recursivamente; obter a
+solução para as instâncias originais (maiores) por
+meio da combinação dessas soluções.
+ML. A programação
+decompõe o processo em um número finito de
+técnica de dinâmica
+subtarefas parciais que devem ser exploradas
+exaustivamente.
+IV. O uso de heurísticas (ou algoritmos aproximados)
+é caracterizado pela ação de um procedimento
+chamar a si próprio, direta ou indiretamente.
+É correto apenas o que se afirma em
+o.
+o!
+O lelv.
+O Ile.
+O lelv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,257 790,257 790,466 353,466 353,627 381,627 381,663 544,663 544,689 134,689 134,690 133,690 133,813 790,813 790,1708 435,1708 435,1768 333,1768 333,1885 348,1885 348,1996 131,1996 131,1997 130,1997 130,1996 81,1996 81,1738 129,1738 129,1149 80,1149 80,1123 79,1123 79,1122 80,1122 80,653 79,653 79,627 80,627 80,553 81,553 81,259 80,259 80,258 81,258"/>
+	<TextEquiv conf="0.85057">
+	<Unicode>QUESTÃO 27
+Um dos problemas clássicos da computação científica é a
+multiplicação de matrizes. Assuma que foram declaradas
+e inicializadas três matrizes quadradas de ponto flutuante,
+a, be c, cujos índices variam entre 0 e n - 1. O seguinte
+trecho de código pode ser usado para multiplicar matrizes
+de forma sequencial:
+1. for [i=Oton-1](
+2. forl[i=O0ton-1)(
+3 cfi, j] = 0.0;
+4. for [k= 0 to n - 1]
+5 eli, j] = eli, j] + ali, kK] * blk, jl;
+6
+7
+O objetivo é paralelizar esse código para que o tempo de
+execução seja reduzido em uma máquina com múltiplos
+processadores e memória compartilhada. Suponha que
+o comando “co” seja usado para definição de comandos
+concorrentes, da seguinte forma: “co [| = 0 to n- 1] (cy; z:Y'
+cria n processos concorrentes, cada um executando
+sequencialmente uma instância dos comandos x, y, z
+contidos no bloco.
+Avalie as seguintes afirmações sobre o problema.
+|. Esse problema é exemplo do que se chama
+“embaraçosamente paralelo”, porque pode
+ser decomposto em um conjunto de várias
+operações menores que podem ser executadas
+independentemente.
+Il. O programa produziria resultados corretos e em
+tempo menor do que o sequencial, trocando-se o
+“for” na linha 1 por um “co”.
+Ill. O programa produziria resultados corretos e em
+tempo menor do que o sequencial, trocando-se o
+“for” na linha 2 por um “co”.
+IV. O programa produziria resultados corretos e em
+tempo menor do que o sequencial, trocando-se
+ambos “for”, nas linhas 1 e 2, por “co”.
+É correto o que se afirma em
+1, Il e Ill, apenas.
+|, Il e IV, apenas.
+|, Il e IV, apenas.
+Il, Ill e IV, apenas.
+1,11, LV.
+cCoOoçgGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T10:46:44</Created>
+	<LastChange>2020-10-27T10:51:51</LastChange></Metadata>
+	<Page imageFilename="fisioterapia_2010-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="277,491 277,1065 1380,1065 1380,491"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="99,279 306,279 306,346 1553,346 1553,472 1552,472 1552,1181 99,1181 99,1118 97,1118 97,346 99,346"/>
+	<TextEquiv conf="0.96766">
+	<Unicode>QUESTÃO 38
+A diferença no comportamento de diversos tipos de fibras nervosas diante de um estímulo elétrico externo pode ser
+observada em um gráfico de intensidade-duração do pulso elétrico. A figura apresentada a seguir mostra um gráfico
+de intensidade-duração em que se explicita a voltagem necessária para se produzir determinada resposta (dolorosa,
+motora ou sensorial), ao serem utilizados pulsos elétricos de diferentes durações.
+A partir dessas informações, elabore um texto, com até 15 linhas, justificando as razões para as diferenças entre os
+imiares para as respostas dolorosa, motora e sensorial, mostradas no gráfico, independentemente da duração de
+pulso. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

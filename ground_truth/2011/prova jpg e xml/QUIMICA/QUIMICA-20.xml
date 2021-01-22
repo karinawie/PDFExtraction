@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:07:31</Created>
+	<LastChange>2020-11-16T02:19:01</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-20.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r3">
+	<Coords points="89,703 89,1305 778,1304 778,702"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,505 1536,505 1536,645 1535,645 1535,1272 873,1272 873,1236 826,1236 826,945 824,945 824,867 825,867 825,717 826,717 826,505 825,505 825,480 824,480 824,254 841,254"/>
+	<TextEquiv conf="0.96457">
+	<Unicode>QUESTÃO 25
+A análise da água a ser usada em uma caldeira de uma
+indústria mostrou elevado teor de hidrogenocarbonato de
+cálcio. O químico responsável pelo tratamento da água
+nessa indústria recomendou tratá-la com hidróxido de
+cálcio, usando cal extinta. Seu supervisor questionou a
+proposta, alegando que esse tratamento aumentaria a
+concentração de cálcio.
+Nessa situação, avalie a seguinte explicação dada pelo
+químico.
+Este processo permite a remoção do cálcio inicialmente
+presente e também do cálcio adicionado
+PORQUE
+Os íons hidróxido reagem com os íons hidogenocarbonato,
+convertendo-os em carbonato, que, por sua vez, reagem
+com o cálcio, produzindo carbonato de cálcio, que é pouco
+solúvel em água.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o Oo o o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,163 399,163 399,256 790,256 790,257 791,257 791,672 789,672 789,1404 790,1404 790,2007 129,2007 129,2008 128,2008 128,1972 81,1972 81,1628 80,1628 80,673 79,673 79,256 80,256"/>
+	<TextEquiv conf="0.92374">
+	<Unicode>QUESTÃO 24
+A variação de pH e de temperatura fazem com que as
+enzimas sofram os mesmos efeitos estruturais observados
+em proteínas globulares. Mudanças extremas de pH podem
+alterar a estrutura da enzima devido à repulsão de cargas
+ou podem interferir quando existirem grupos ionizáveis no
+sítio ativo afetando a ligação de substratos e a catálise.
+É possível determinar o pK desses grupos ionizáveis que
+afetam a catálise, analisando-se o gráfico da velocidade
+inicial de reação (V,) em função do pH. A seguir, é mostrado
+um gráfico de uma enzima cujo valor de pK, do resíduo
+é 7,1, tendo o resíduo apenas um grupo ionizável na sua
+forma ativa desprotonada.
+Com relação à influencia das alterações dos valores de pH
+na atividade dessa enzima, analise as seguintes asserções.
+O gráfico mostra que a enzima tem sua atividade
+dependente dos valores de pH.
+PORQUE
+Quando os valores de pH são menores que o pKa do
+resíduo, o grupo ionizável que afeta a catálise está em
+sua forma desprotonada.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

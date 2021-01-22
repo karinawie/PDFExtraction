@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:47:33</Created>
+	<LastChange>2020-10-30T02:13:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-11.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r1">
+	<Coords points="807,194 806,2005 808,2005 809,194"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,1020 1015,1020 1015,1091 1533,1091 1533,1133 1535,1133 1535,1657 1370,1657 1370,1999 849,1999 849,2000 826,2000 826,1672 874,1672 874,1631 897,1631 897,1539 919,1539 919,1349 874,1349 874,1285 825,1285 825,1284 824,1284 824,1133 825,1133 825,1091 841,1091"/>
+	<TextEquiv conf="0.96747">
+	<Unicode>QUESTÃO 16
+O Brasil possui a 3º maior reserva mundial de bauxita,
+alcançando 3,5 bilhões de toneladas desse minério.
+A transformação da bauxita em Al metálico é realizada
+através de várias etapas de processamento. Com relação
+à produção de Al metálico, analise as afirmações abaixo.
+|. A transformação de bauxita em alumina envolve
+etapas de dissolução com hidróxido de sódio,
+precipitação e calcinação.
+A obtenção de alumina gera um resíduo ácido
+contendo óxidos de ferro e aluminossilicatos.
+. A obtenção do Al metálico é realizada através de
+uma eletrólise em sais fundidos.
+IV. A transformação da alumina em Al metálico é
+realizada através da redução com C.
+É correto apenas o que se afirma em
+o.
+WU.
+lei.
+Nelv.
+Welv.
+[MENCENORNO)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="841,160 1529,160 1529,259 1534,259 1534,328 1043,328 1043,473 1057,473 1057,531 1535,531 1535,724 1029,724 1029,952 1097,952 1097,978 1096,978 1096,979 874,979 874,975 826,975 826,724 825,724 825,723 824,723 824,358 825,358 825,259 841,259"/>
+	<TextEquiv conf="0.94712">
+	<Unicode>EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 15
+Com o objetivo de conhecer o funcionamento de uma
+reação química, o seguinte mecanismo foi proposto:
+A+A&gt;2A* ki
+A+B—&gt;SB* k
+B+BSC k3
+Assumindo a primeira etapa como limitante no mecanismo,
+isto é, k1 &lt;&lt; k2 e k3, qual a expressão que representa a
+velocidade de formação de C em termos das velocidades
+específicas (k1, k2 e k3) e das concentrações dos
+reagentes (A e B)?
+O kI[AR
+k1[AJ/Kk2
+k3.[B*].[B]
+k1.[A]2/K3.[B]
+k1.[AJ? — k2[A*].[B]
+CGOoOoçÇ eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,189 270,189 270,264 790,264 790,771 791,771 791,1227 790,1227 790,1655 534,1655 534,1724 237,1724 237,1981 241,1981 241,2005 130,2005 130,2003 81,2003 81,1693 174,1693 174,1310 175,1310 175,1095 129,1095 129,1075 175,1075 175,1034 176,1034 176,885 129,885 129,736 81,736 81,710 117,710 117,608 80,608 80,264 96,264"/>
+	<TextEquiv conf="0.95333">
+	<Unicode>QUESTÃO 14
+Ocasionalmente, para o pesar de um engenheiro de
+projetos, o comportamento de um material à degradação
+para uma dada aplicação é ignorado, com consequências
+adversas. Em maior ou menor grau, a maioria dos materiais
+apresenta algum tipo de interação com um grande número
+de ambientes diferentes. Com frequência, tais interações
+comprometem a utilidade de um material como resultado
+da deterioração de suas propriedades.
+CALLISTER JR, W. D. Ciência e engenharia de materiais: uma introdução.
+7. ed. Rio de Janeiro: LTC, 2008. P. 456.
+Nesse contexto, avalie as afirmações a seguir.
+I. Nos metais, há perda de material, seja por
+dissolução (corrosão) ou pela formação de
+uma camada não metálica (oxidação).
+II. Materiais poliméricos são mais susceptíveis
+à degradação quando irradiados com luz
+infravermelha do que com luz ultravioleta.
+III. Pode haver dissolução dos polímeros quando
+são expostos a um solvente líquido, ou eles
+podem absorver o solvente e inchar; além disso, a
+radiação eletromagnética e o calor podem causar
+alterações nas suas estruturas moleculares.
+IV. A proteção catódica é um método eficiente para
+proteger um material metálico da corrosão e
+consiste em manter o potencial de equilíbrio
+(Ecorr) do metal na região passiva.
+V. Os materiais cerâmicos são resistentes à
+deterioração, a qual ocorre geralmente sob
+temperaturas elevadas ou em ambientes
+agressivos.
+É correto apenas o que se afirma em
+A I, II e III.
+B I, II e IV.
+C I, III e V.
+D II, IV e V.
+E III, IV e V</Unicode></TextEquiv></TextRegion></Page></PcGts>

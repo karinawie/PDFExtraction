@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:06:53</Created>
+	<LastChange>2020-10-29T23:18:25</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-21.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 266,192 266,259 1537,259 1537,473 1174,473 1174,474 1124,474 1124,561 923,561 923,562 824,562 824,790 1203,790 1203,882 1535,882 1535,992 1417,992 1417,1991 1096,1991 1096,1992 774,1992 774,1993 452,1993 452,1994 130,1994 130,1995 129,1995 129,1994 81,1994 81,930 93,930 93,648 81,648 81,627 171,627 171,679 497,679 497,476 82,476 82,477 81,477 81,261 80,261 80,260 81,260 81,259 96,259"/>
+	<TableRegion id="r3">
+	<Coords points="576,1018 576,1692 1036,1692 1036,1018"/></TableRegion>
+	<TextEquiv conf="0.56022">
+	<Unicode>QUESTÃO 31
+A amostragem do concreto para ensaios de resistência à compressão deve ser feita dividindo-se a estrutura em lotes.
+De cada lote, deve ser retirada uma amostra, com número de exemplares de acordo com o tipo de controle. Cada
+exemplar é constituído por dois corpos-de-prova da mesma amassada. Toma-se como resistência do exemplar o maior
+dos dois valores obtidos no ensaio do exemplar. Para lotes com números de exemplares entre 6 e 20, o valor estimado
+da resistência característica à compressão (fr..), na idade especificada, considerando controle por amostragem
+parcial, é dado por
+ff +LlL+o tin
+=2
+Íexest m=t
+— fm &gt;0,97f,
+em que
+n
+MM =7 (Despreza-se o valor mais alto de n, se for ímpar.),
+fitfa+.. +fm são valores das resistências dos exemplares, em ordem crescente.
+NBR 12655 (2006). Concreto: Preparo, controle e recebimento. Rio de Janeiro, ABNT.
+Na tabela abaixo, estão apresentados os resultados da resistência à compressão obtidos a partir do ensaio à compressão
+simples realizados aos 28 dias nos exemplares de um lote de concreto.
+Considerando os dados e o critério apresentado, qual é a resistência característica à compressão estimada?
+28,0
+28,1
+29,0
+30,8
+34,5
+CGoOGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

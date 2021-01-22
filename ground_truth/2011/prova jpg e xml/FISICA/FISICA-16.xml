@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:00:10</Created>
+	<LastChange>2020-10-30T11:33:35</LastChange></Metadata>
+	<Page imageFilename="FISICA-16.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r8">
+	<Coords points="809,197 809,2097 811,2097 811,197"/></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="841,192 1015,192 1015,265 1535,265 1535,378 1534,378 1534,603 1535,603 1535,807 1279,807 1279,865 987,865 987,1129 875,1129 875,1128 826,1128 826,834 920,834 920,624 874,624 874,604 900,604 900,603 919,603 919,481 874,481 874,378 824,378 824,265 841,265"/>
+	<TextEquiv conf="0.96468">
+	<Unicode>QUESTÃO 25
+A respeito dos resultados experimentais, que culminaram
+com a descrição do efeito fotoelétrico por Einstein, avalie
+as afirmações a seguir.
+|. A energia dos elétrons emitidos depende da
+intensidade da radiação incidente.
+A energia dos elétrons emitidos é proporcional à
+frequência da radiação incidente.
+Ill. O potencial de corte para um dado metal depende
+da intensidade da radiação incidente.
+O resultado da relação carga-massa (e/m) das
+partículas emitidas é o mesmo que para os
+elétrons associados aos raios catódicos.
+É correto apenas o que se afirma em
+o
+o
+o
+o
+(E)
+leill.
+lei.
+Nelv.
+LNeiv.
+1, Meilv,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,1023 270,1023 270,1091 793,1091 793,1424 310,1424 310,1574 319,1574 319,1685 367,1685 367,1798 403,1798 403,1837 387,1837 387,1865 378,1865 378,1951 355,1951 355,1978 211,1978 211,1955 157,1955 157,1865 156,1865 156,1753 155,1753 155,1685 156,1685 156,1574 157,1574 157,1503 81,1503 81,1424 80,1424 80,1091 96,1091"/>
+	<TextEquiv conf="0.96701">
+	<Unicode>QUESTÃO 24
+Considere uma esfera de raio R carregada com uma
+densidade volumétrica de carga elétrica dada por
+o(r) = Arº, em que A é uma constante positiva e r
+é a coordenada radial. Sabendo-se que o elemento
+de volume, em coordenadas esféricas, satisfaz a
+condição, dV = 47rºdr, então a carga total da esfera
+e o módulo do campo elétrico produzido pela esfera a
+uma distância b&gt; R do centro da esfera são dados,
+respectivamente, por
+1 A
+47, b?
+o
+Ae
+AR, 1 A
+3
+47, b?
+AR? e 1 ARº
+3 12ne bb?
+AR 1 AR
+e
+47
+5 20nec bb?
+an, 1 AR
+5 5eg b?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,259 789,259 789,352 790,352 790,661 788,661 788,746 263,746 263,867 309,867 309,983 130,983 130,981 81,981 81,674 129,674 129,636 175,636 175,384 129,384 129,318 79,318 79,259 96,259"/>
+	<TextEquiv conf="0.96895">
+	<Unicode>QUESTÃO 23
+Analise as afirmações abaixo acerca do modelo atômico
+de Bohr.
+|. Valendo-se dos experimentos de Geiger e
+Marsden, Bohr modificou o modelo de Rutherford,
+por meio de postulados.
+Bohr postulou que o elétron poderia mover-se
+em certas órbitas (estados estacionários) e que a
+emissão de radiação só ocorreria quando o elétron
+mudasse de um estado estacionário para outro.
+Ill. O modelo de Bohr só fornecia uma descrição
+qualitativa, e não quantitativa, do átomo de hidrogênio.
+É correto o que se afirma em
+|, apenas.
+Ill, apenas.
+l ell, apenas.
+Il e Ill, apenas.
+Lie.
+CoOGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

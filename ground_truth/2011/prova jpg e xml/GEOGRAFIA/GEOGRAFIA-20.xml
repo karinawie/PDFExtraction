@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T14:47:18</Created>
+	<LastChange>2020-11-16T02:58:31</LastChange></Metadata>
+	<Page imageFilename="GEOGRAFIA-20.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,203 408,203 408,279 1299,279 1299,605 1533,605 1533,734 317,734 317,781 81,781 81,734 80,734 80,605 316,605 316,537 317,537 317,229 96,229"/>
+	<TextEquiv conf="0.96480">
+	<Unicode>QUESTÃO DISCURSIVA 5
+As contribuições da geografia crítica ao geoprocessamento aparecem no
+campo conceitual, devido à dificuldade dos SIGs (Sistemas de Informações
+Geográficas) atuais em representar a informação de natureza dinâmica.
+Devido ao fato dos SIGs atuais utilizarem técnicas de análise espacial,
+baseadas nos conceitos de proximidade, o conceito de espaços de geometria
+variável expõe mais uma limitação desses sistemas.
+Ferreira, J.S.A. e Vieira, S. G. Geoprocessamento e as Correntes do Pensamento Geográfico.
+Disponível em &lt;www.ufpel.edu.br/cic/2005&gt;. Acesso: em 20 ago. 2011.
+Com base no exposto acima, redija um texto dissertativo sobre geoprocessamento e as correntes geográficas atuais,
+enfocando os principais problemas ou dificuldades em modelar tais conceitos na prática computacional dos sistemas.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

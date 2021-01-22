@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:01:00</Created>
+	<LastChange>2020-10-30T11:36:42</LastChange></Metadata>
+	<Page imageFilename="FISICA-12.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r6">
+	<Coords points="806,197 809,2097 814,2097 811,197"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="841,192 1015,192 1015,270 1536,270 1536,491 1310,491 1310,633 1535,633 1535,669 1329,669 1329,811 1531,811 1531,848 965,848 965,1134 851,1134 851,1136 826,1136 826,670 824,670 824,514 825,514 825,270 841,270"/>
+	<TextEquiv conf="0.96337">
+	<Unicode>QUESTÃO 17
+Os modelos mais precisos de sistemas físicos são não
+lineares. Exemplo disso é o sistema de um pêndulo simples,
+definido como uma partícula de massa m (desprezível),
+suspenso por um fio inextensível de comprimento L,
+cuja equação diferencial que descreve o movimento do
+pêndulo é
+L 920 (t)
+q oe
+A resolução da equação é simplificada por linearização
+= — send (t)
+(em função da amplitude), resultando em
+PO(t) q
+—A(t) = 0
+ox? + L (8)
+Isso ocorre quando se supõe 6d igual a aproximadamente
+O orad.
+o
+o
+o
+o
+7/6 rad.
+7/4 rad.
+7/3 rad.
+7/2 rad.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,280 790,280 790,655 500,655 500,762 790,762 790,788 211,788 211,894 789,894 789,917 494,917 494,1100 790,1100 790,1301 321,1301 321,1408 719,1408 719,1480 789,1480 789,1607 790,1607 790,1939 658,1939 658,2006 129,2006 129,2007 128,2007 128,2003 81,2003 81,1979 128,1979 128,1566 81,1566 81,1434 79,1434 79,1408 80,1408 80,918 79,918 79,894 80,894 80,762 81,762 81,656 79,656 79,280 96,280"/>
+	<TextEquiv conf="0.96078">
+	<Unicode>QUESTÃO 16
+Em um experimento, dois projéteis de mesma massa,
+um de metal e o outro de borracha, são disparados,
+sucessivamente, com a mesma velocidade e atingem
+um grande bloco de madeira no mesmo local, em colisão
+frontal. Verifica-se que o corpo metálico fica encrustado no
+bloco, fazendo-o inclinar ao atingi-lo. O objeto de borracha
+ricocheteia no bloco, retornando com aproximadamente a
+mesma velocidade e o faz tombar.
+Com base nessas informações, analise as seguintes
+asserções.
+Ao ricochetear, a bala de borracha é mais efetiva em
+derrubar o bloco de madeira.
+PORQUE
+Na colisão elástica entre a bala de borracha e o
+bloco de madeira, o impulso transmitido ao bloco é,
+aproximadamente, duas vezes maior que o impulso
+resultante da colisão inelástica entre o projétil de metal e
+o bloco de madeira.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+(E)
+As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

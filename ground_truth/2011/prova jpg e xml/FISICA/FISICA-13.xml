@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:00:49</Created>
+	<LastChange>2020-10-30T11:36:08</LastChange></Metadata>
+	<Page imageFilename="FISICA-13.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1117,254 1117,255 1324,255 1324,256 1531,256 1531,463 1530,463 1530,1279 227,1279 227,1490 226,1490 226,1491 130,1491 130,1490 81,1490 81,1279 80,1279 80,1039 81,1039 81,375 80,375 80,374 81,374 81,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="73,502 73,1000 528,1000 528,502"/></ImageRegion>
+	<TextEquiv conf="0.93846">
+	<Unicode>QUESTÃO 18
+Sistemas termodinâmicos que utilizam gases que movem cilindros estão presentes no cotidiano das pessoas em
+dispositivos tais como motores de combustão interna, motores a vapor, compressores de geladeiras e condicionadores
+de ar, entre outros. Durante seu funcionamento, todos esses dispositivos passam por várias fases, em ciclos que
+mudam seus estados termodinâmicos.
+Imagine um mesmo gás, ideal, em três dispositivos dessa natureza, que vão de um estado 1 para um estado 2 por três
+processos diferentes, representados nas figuras |, Il e Ill a seguir.
+Considerando esse sistema, analise as afirmações abaixo.
+|. Em todos os três processos, o trabalho é realizado pelo gás.
+Il. Em todos os três processos, a temperatura final do gás é mais baixa do que a sua temperatura inicial.
+Ill. A variação da energia interna do gás foi maior quando o sistema percorreu o caminho apresentado na figura |.
+IV. O trabalho realizado em cada um dos processos é diferente, sendo máximo no processo representado na figura |.
+É correto apenas o que se afirma em
+lei.
+Ielv.
+Welv.
+Lie.
+LIVelv.
+cGoOogGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

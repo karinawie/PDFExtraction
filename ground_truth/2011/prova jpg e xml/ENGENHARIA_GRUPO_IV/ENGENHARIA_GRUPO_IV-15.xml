@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:09:30</Created>
+	<LastChange>2020-10-30T01:31:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-15.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r19">
+	<Coords points="807,197 806,2097 809,2097 810,197"/></SeparatorRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="841,192 1015,192 1015,261 1536,261 1536,521 1535,521 1535,850 1533,850 1533,977 1535,977 1535,1661 1507,1661 1507,1707 1279,1707 1279,1755 948,1755 948,1998 826,1998 826,1724 874,1724 874,1641 919,1641 919,1413 874,1413 874,1393 896,1393 896,1010 874,1010 874,947 825,947 825,261 841,261"/>
+	<TextEquiv conf="0.96438">
+	<Unicode>QUESTÃO 25
+A transferência de massa desempenha papel muito
+importante em muitos processos industriais, como, por
+exemplo, a remoção de poluentes de um sistema de
+descarte por absorção, o stripping de gases de águas
+residuárias, a difusão de substâncias adsorvidas nos
+poros de um adsorvente e a extração líquido-líquido,
+entre outros.
+O mecanismo de transferência de massa depende da
+dinâmica do sistema no qual esta ocorre. O entendimento
+dos mecanismos de transferência de massa é muito
+importante no projeto, otimização e resolução de problemas
+envolvendo processos de transferência de massa, como
+OS processos de separação.
+WELTY, J.R., WICKS, C.E., WILSON, R.E., Fundamentals of Momentum, Heat,
+and Mass Transfer , 3rd Ed., New York: John Wiley and Sons, 1984.
+Lembrando dos conceitos de transferência de massa,
+analise as afirmações apresentadas a seguir.
+|. A Primeira Lei de Fick afirma que a transferência
+de partículas de uma região para outra é
+proporcional ao gradiente de concentração.
+A constante de proporcionalidade é o coeficiente
+de difusão e é característico do soluto que está
+se difundindo. A Segunda Lei de Fick refere-se
+à difusão em estado não estacionário.
+. Os números adimensionais Le (Lewis),
+Sc (Schmidt) e Sh (Sherwood) são importantes
+na análise da transferência de massa convectiva.
+Ill. A convecção é o mecanismo de transferência de
+massa através de um fluido em movimento que
+ocorre apenas de forma forçada. A velocidade de
+transferência de massa de um soluto é resultado do
+movimento convectivo (movimento do fluido) e do
+movimento difusivo (diferença de concentração).
+IV. A Lei de Fick associa o coeficiente de difusão ao
+inverso da resistência a ser vencida pelo soluto.
+É correto apenas o que se afirma em
+o.
+o !.
+G lleil.
+O lelv.
+O lleilv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="96,192 270,192 270,255 791,255 791,596 789,596 789,1545 790,1545 790,1910 783,1910 783,2001 81,2001 81,1604 80,1604 80,889 79,889 79,735 80,735 80,255 96,255"/>
+	<TableRegion id="r2">
+	<Coords points="76,926 76,1489 794,1489 794,926"/></TableRegion>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 24
+Para o desenvolvimento de um bom projeto de
+engenharia envolvendo materiais particulados, entender
+as características desses sólidos é muito importante.
+Vários processos de interesse para a sociedade atual
+envolvem materiais particulados, tais como tratamento de
+efluentes gasosos e produção de alimentos. A supervisão,
+manutenção e avaliação da operação desses processos
+para garantir a eficiência e confiabilidade de sua operação
+envolvem a análise granulométrica dos materiais
+particulados envolvidos nesses processos.
+FOUST, A. S. et al, Principios das Operacoes Unitarias, 2 Ed.,
+Rio de Janeiro: Guanabara Dois, 1982.
+MCCABE, W.L., SMITH, J.C. Unit Operations of Chemical Engineering,
+3 ed., New York: McGraw-Hill, 1976.
+A tabela apresenta a análise granulométrica de uma
+amostra de sólidos particulados. A massa total da amostra
+analisada é de 250 g. A abertura da peneira refere-se à
+peneira de menor abertura entre as duas indicadas em
+cada linha da tabela.
+Considerando os dados acima, ana
+a seguir.
+ise as afirmações
+|. 70% (em massa) da amostra analisada passa pela
+peneira de 35 mesh.
+40% (em massa) da amostra analisada é formada
+por partículas com diâmetro menor que 0,42 mm.
+. Amassa retida na peneira de 100 mesh foi de 12,59.
+Na tabela, - 10 + 14 significa partículas que
+ficaram retidas na peneira de 10 mesh e passaram
+pela peneira de 14 mesh.
+É correto apenas o que se afirma em
+o. ON Qlelv O lei. OQ 1elv</Unicode></TextEquiv></TextRegion></Page></PcGts>

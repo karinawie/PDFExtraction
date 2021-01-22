@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:02:23</Created>
+	<LastChange>2020-10-30T18:51:56</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-23.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1533,254 1533,1754 534,1754 534,1795 211,1795 211,2003 131,2003 131,2004 104,2004 104,2006 81,2006 81,1582 80,1582 80,347 79,347 79,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="273,407 273,1497 1402,1497 1402,407"/></ImageRegion>
+	<TextEquiv conf="0.95770">
+	<Unicode>QUESTÃO 28
+A norma IEC-61131-3 define cinco linguagens para programação de Controladores Lógicos Programáveis (CLPs):
+lista de instruções, diagrama ladder, diagrama de blocos funcionais, texto estruturado e carta de sequência de funções,
+como exemplificadas na figura abaixo.
+Considerando as linguagens da norma IEC-61131-3, analise as afirmativas abaixo.
+|. Não é possível combinar mais de uma dessas linguagens em um único programa.
+Il. Cada dispositivo físico implementa um único bloco funcional, que corresponde a sua função na malha de controle.
+Ill. As conexões entre os blocos funcionais são implementadas em software, na configuração do sistema de controle.
+IV. Essas linguangens são adequadas para representar tanto controladores discretos quanto controladores contínuos.
+É correto apenas o que se afirma em
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

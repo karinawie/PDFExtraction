@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-06T00:31:02</Created>
+	<LastChange>2020-11-16T04:08:01</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-09.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r9">
+	<Coords points="804,197 807,2008 811,2008 808,197"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="815,476 815,676 1536,676 1536,476"/></TableRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="825,255 1534,255 1534,823 954,823 954,1293 912,1293 912,1275 837,1275 837,824 824,824 824,697 825,697"/>
+	<TextEquiv conf="0.96023">
+	<Unicode>QUESTÃO 10
+Em determinado período letivo, cada estudante de um
+curso universitário tem aulas com um de três professores,
+esses identificados pelas letras X, Y e Z. As quantidades
+de estudantes (homens e mulheres) que têm aulas com
+cada professor é apresentada na tabela de contingência
+abaixo.
+A partir do grupo de estudantes desse curso universitário,
+escolhe-se um estudante ao acaso. Qual é a probabilidade
+de que esse estudante seja mulher, dado que ele tem
+aulas apenas com o professor X?
+61
+78
+61
+155
+67
+155
+22
+112
+67
+112
+o
+o
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,254 790,254 790,429 455,429 455,550 567,550 567,608 789,608 789,930 790,930 790,1323 502,1323 502,1524 790,1524 790,1646 648,1646 648,1679 534,1679 534,1750 195,1750 195,1984 203,1984 203,2004 105,2004 105,2006 81,2006 81,1719 129,1719 129,1621 155,1621 155,1620 175,1620 175,1524 361,1524 361,1373 175,1373 175,1374 174,1374 174,1367 129,1367 129,1347 174,1347 174,1209 129,1209 129,1092 80,1092 80,1001 79,1001 79,930 80,930 80,707 81,707 81,608 128,608 128,430 80,430"/>
+	<TextEquiv conf="0.93332">
+	<Unicode>QUESTÃO 9
+Seja A um conjunto e seja — uma relação entre pares de
+elementos de A.
+Diz-se que — é uma relação de equivalência entre pares
+de elementos de A se as seguintes propriedades são
+verificadas, para quaisquer elementos a, a e ' de A:
+()
+(ii) sea- a, então a -a;
+ara,
+(iii) sea- a ea-&gt;-a,entãoa-a.
+Uma classe de equivalência do elemento a de A com
+respeito à relação — é o conjunto a = ([r € A: ta).
+O conjunto quociente de A pela relação de
+equivalência — é o conjunto de todas as classes de
+equivalência relativamente à relação -, definido e
+denotado como a seguir:
+A/. =fa:a € A).
+Afunção 7: À — A/. échamada projeção canônica e é
+definida como 7(a) = a, Ya E A.
+Considerando as definições acima, analise as afirmações
+a seguir.
+|. A relação de equivalência — no conjunto A
+particiona o conjunto A em subconjuntos disjuntos:
+as classes de equivalência.
+Aunião das classes de equivalência da relação de
+equivalência — no conjunto A resulta no conjunto
+das partes de A.
+Ill. As três relações seguintes
+(mod n)
+IV
+são relações de equivalência no conjunto dos
+números inteiros Z .
+IV. Qualquer relação de equivalência no conjunto A é
+proveniente de sua projeção canônica.
+É correto apenas o que se afirma em
+o.
+W.
+lei.
+lelv.
+Ielv.
+[MENCENOREC)</Unicode></TextEquiv></TextRegion></Page></PcGts>

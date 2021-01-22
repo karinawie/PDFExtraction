@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:47:45</Created>
+	<LastChange>2020-10-29T23:58:36</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-18.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="809,197 810,2097 813,2097 812,197"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1054 266,1054 266,1123 790,1123 790,1355 791,1355 791,1541 789,1541 789,1712 790,1712 790,1780 789,1780 789,1956 788,1956 788,2004 81,2004 81,1692 79,1692 79,1571 80,1571 80,1123 96,1123"/>
+	<TextEquiv conf="0.96131">
+	<Unicode>QUESTÃO 31
+No processo de fabricação de capacitores, podem
+aparecer bolhas de ar no interior do material usado como
+dielétrico. A ocorrência de bolhas no interior do dielétrico
+limita a máxima tensão de utilização do dispositivo.
+PORQUE
+O campo elétrico que surge quando o capacitor é submetido
+a uma diferença de potencial em seus terminais é maior
+no interior da bolha do que no interior do dielétrico e a
+ruptura dielétrica pode ocorrer para tensões mais baixas
+do que na situação de ausência de bolhas de ar.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira quanto a segunda são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,261 790,261 790,262 791,262 791,767 368,767 368,1008 105,1008 105,1010 81,1010 81,767 80,767 80,261 96,261"/>
+	<TextEquiv conf="0.96614">
+	<Unicode>QUESTÃO 30
+No projeto de um sistema de radiocomunicação, uma
+premissa básica para se evitarem possíveis interferências
+é utilizar diferentes frequências de operação quando as
+estações estiverem próximas umas das outras. Considere
+o projeto de um sistema que deve operar nas proximidades
+de uma outra estação radiodifusora e que, para isso, é
+necessário saber a faixa de frequência em que opera a
+estação já em funcionamento. Suponha que a estação
+opera em um canal de 10 kHz, emitindo sinais com
+modulação AM-DSB, e que a frequência da portadora é
+de 600 kHz. Nesse caso, as frequências de sinal mínima e
+máxima geradas por essa estação são, respectivamente,
+iguais a
+600 kHz e 610 kHz.
+600 kHz e 620 kHz.
+590 kHz e 600 kHz.
+590 kHz e 610 kHz.
+580 kHz e 620 kHz.
+CoOçÇGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

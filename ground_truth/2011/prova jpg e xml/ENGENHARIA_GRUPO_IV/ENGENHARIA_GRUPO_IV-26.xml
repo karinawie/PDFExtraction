@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:07:05</Created>
+	<LastChange>2020-10-30T01:22:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-26.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="104,1818 104,2007 81,2007 81,1818"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>Coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="841,192 1015,192 1015,255 1535,255 1535,881 1534,881 1534,993 1286,993 1286,1032 956,1032 956,1240 849,1240 849,1242 826,1242 826,1001 874,1001 874,704 826,704 826,569 825,569 825,547 824,547 824,255 841,255"/>
+	<TextEquiv conf="0.96403">
+	<Unicode>QUESTÃO 37
+A crescente preocupação com a qualidade do ar e com
+o meio ambiente levou à adoção de regulamentações
+mais rigorosas para controlar a emissão dos gases de
+combustão provenientes de automóveis e de motores
+estacionários, em diversos países no mundo. Os óxidos
+de nitrogênio, NO,, são as principais causas da poluição
+do ar devido à formação de fumaça fotoquímica e da
+chuva ácida. A reação de decomposição do óxido de
+nitrogênio é mostrada a seguir:
+2 N,O, — 4NO, + O,
+Com relação a essa reação, avalie as afirmações a seguir.
+|. A velocidade de formação de NO, é duas vezes a
+velocidade de decomposição de N,O,.
+Il. A velocidade de formação de O, é a metade da
+velocidade de decomposição de N,O,.
+Ill. A velocidade de decomposição do reagente é
+constante com o tempo.
+IV. Não se pode medir a quantidade de O, produzida
+e relacioná-la estequiometricamente com a
+quantidade de N,O, consumida.
+É correto apenas o que se afirma em:
+l.
+WI.
+leill.
+Weiv.
+Nelv.
+cCoOogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 790,254 790,413 789,413 789,584 791,584 791,842 789,842 789,959 747,959 747,1129 787,1129 787,1155 663,1155 663,1276 732,1276 732,1302 410,1302 410,1443 483,1443 483,1528 789,1528 789,1601 595,1601 595,1704 791,1704 791,1840 376,1840 376,1923 356,1923 356,1964 333,1964 333,2004 130,2004 130,2005 130,1923 129,1923 129,1809 80,1809 80,1704 274,1704 274,1601 81,1601 81,1602 80,1602 80,1528 81,1528 81,1357 80,1357 80,584 83,584 83,414 79,414 79,254 96,254"/>
+	<TextEquiv conf="0.86199">
+	<Unicode>QUESTÃO 36
+O etilenoglicol é um produto de interesse para a
+indústria química. Suas principais aplicações são como
+anticongelante e como matéria-prima na produção de
+fi bras de poliéster. O etilenoglicol é produzido pela hidrólise
+do óxido de etileno, segundo a reação:
+ C2
+H4
+O (A) + H2
+O (B) → C2
+H4
+(OH)2
+ (C)
+Óxido de etileno Etilenoglicol
+FOGLER, H. S. Elementos de engenharia das reações químicas, 3 e., LTC, 2002.
+Uma empresa produz etilenoglicol em um reator, que
+opera a 60 o
+C, por meio da reação de hidrólise do óxido
+de etileno catalisado por ácido sulfúrico, com excesso
+de água no meio reacional. Sabe-se que a reação é de
+primeira ordem em relação ao óxido de etileno e que
+a conversão do óxido de etileno é de 70%. A vazão de
+alimentação do reator é 1 000 L/min e a velocidade
+específi ca da reação (k) é 0,3 min-1.
+No reator usado para esta reação, a concentração de um
+dado componente não varia com o tempo e também não
+varia no espaço (em função da posição dentro do reator).
+Dados:
+FAo = vazão molar de A na entrada do reator (mol/min);
+XA = conversão de A;
+CAo = concentração molar de A na entrada do reator (mol/L);
+(-rA) = equação da velocidade da reação = k.CA;
+V = volume do reator (L);
+v0
+ = vazão volumétrica na entrada do reator (L/min);
+FA,0= CA,0 . v0;
+Reator CSTR: ;
+Reator PFR: .
+Se for necessário calcular ln (y), use a equação apresentada
+e aproxime truncando no segundo termo da série:
+Com os dados apresentados, conclui-se que o tipo de reator
+usado por essa empresa para produzir o etilenoglicol e o
+volume aproximado desse reator são, respectivamente,
+A PFR e V = 3 150 L
+B CSTR e V = 7 778 L
+C CSTR e V = 3 333 L
+D PFR e V = 1 150 L
+E PFR e V = 945 L</Unicode></TextEquiv></TextRegion></Page></PcGts>

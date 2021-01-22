@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:46:21</Created>
+	<LastChange>2020-10-30T02:08:45</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-17.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,189 270,189 270,255 1535,255 1535,299 1536,299 1536,451 1183,451 1183,1729 1535,1729 1535,1788 553,1788 553,2008 129,2008 129,2009 128,2009 128,2004 81,2004 81,807 79,807 79,737 80,737 80,300 81,300 81,255 96,255"/>
+	<ImageRegion id="r1">
+	<Coords points="426,776 426,1713 1181,1713 1181,776"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="76,478 76,702 1550,702 1550,478"/></TableRegion>
+	<TextEquiv conf="0.96442">
+	<Unicode>QUESTÃO 25
+Uma barra de aço ABNT 4340, cuja composição química encontra-se na tabela a seguir, será utilizada para fabricação
+de virabrequins automotivos. Esse aço é fornecido pelos fabricantes e tratado termicamente com dureza de 363 HB
+e tamanho médio de grão 6, segundo a norma ASTM. Para tal aplicação, este aço foi submetido a uma austempera —
+homogenização a 870 ºC seguido de imersão em banho a 350 ºC — ocorrendo todo o tratamento térmico em 3,5 h,
+a fim de conferir alta resistência mecânica — acima de 1350 MPa.
+A figura |l a seguir ilustra o diagrama de transformação isotérmica para o aço ABNT 4340.
+800
+Utilizando o diagrama de fases da Figura | e o diagrama de transformação isotérmica da Figura Il, conclui-se que a
+microestrutura final do aço após tratamento térmico é composta apenas de
+bainita.
+ferrita e perlita.
+martensita e bainita.
+ferrita, martensita e bainita.
+Coçgcoo
+ferrita, perlita, martensita e bainita.</Unicode></TextEquiv></TextRegion></Page></PcGts>

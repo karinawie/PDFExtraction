@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T06:33:07</Created>
+	<LastChange>2020-10-30T03:53:30</LastChange></Metadata>
+	<Page imageFilename="FILOSOFIA-09.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1395,254 1395,1360 1535,1360 1535,1680 1450,1680 1450,1767 956,1767 956,1996 849,1996 849,1998 826,1998 826,1470 824,1470 824,1360 964,1360 964,219 841,219"/>
+	<TableRegion id="r2">
+	<Coords points="989,300 989,781 1392,781 1392,300"/></TableRegion>
+	<TextEquiv conf="0.96416">
+	<Unicode>QUESTÃO 10
+Considere as tabelas | e || a seguir.
+A partir das tabelas, analise as afirmações abaixo.
+|. Será verdadeira a disjunção que tem os dois
+membros verdadeiros.
+Em uma disjunção falsa, os disjuntos podem
+assumir valores lógicos diferentes.
+. Basta que um conjunto seja verdadeiro para que a
+conjunção seja verdadeira.
+IV. As duas tabelas de verdade assumem os mesmos
+valores em todas as possibilidades lógicas.
+É correto apenas o que se afirma em
+l.
+.
+lei.
+Ieilv.
+Meilv.
+cCoOogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 254,192 254,254 788,254 788,304 790,304 790,429 789,429 789,696 790,696 790,837 791,837 791,889 790,889 790,1143 534,1143 534,1245 237,1245 237,1387 245,1387 245,1409 131,1409 131,1410 130,1410 130,1409 81,1409 81,1170 174,1170 174,680 129,680 129,600 79,600 79,507 80,507 80,304 96,304"/>
+	<TextEquiv conf="0.96638">
+	<Unicode>QUESTÃO 9
+No que toca à justiça e à injustiça, devemos considerar:
+1. com que espécie de ações se relacionam elas;
+2. que espécie de meio-termo é a justiça; e 3. entre que
+extremos o ato justo é intermediário. Nossa investigação se
+processará dentro das mesmas linhas que as anteriores.
+ARISTÓTELES. Ética a Nicômaco, livro V, 1129 a.
+Considerando a justiça como uma das virtudes
+fundamentais da ética aristotélica, avalie as afirmações
+a seguir.
+|. A noção de justiça presume a proporcionalidade,
+a equidade e a reciprocidade entre os cidadãos.
+Aristóteles compreende a justiça como uma
+disposição de caráter para desejar o que é
+agradável para a alma.
+A justiça distributiva trata da distribuição igualitária
+dos bens entre cidadãos de uma cidade-Estado
+democrática.
+A justiça corretiva trata dos casos relacionados às
+trocas comerciais entre os cidadãos, intermediados
+por um juiz ou árbitro.
+As relações entre justiça e injustiça se relacionam
+ao agente voluntário, que conhece tanto a pessoa
+a quem atinge com o seu ato como o instrumento
+que usa.
+É correto apenas o que se afirma em
+Lille.
+L,IleV
+Lei.
+I,IVeV.
+M,IVEeV.
+coçgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

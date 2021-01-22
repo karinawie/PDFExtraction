@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:05:11</Created>
+	<LastChange>2020-10-30T16:47:29</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-32.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,254 790,254 790,570 791,570 791,829 790,829 790,1255 457,1255 457,1431 450,1431 450,1472 130,1472 130,1473 129,1473 129,1466 81,1466 81,1255 80,1255 80,1196 81,1196 81,571 80,571 80,547 79,547 79,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="186,852 186,1184 650,1184 650,852"/></ImageRegion>
+	<TextEquiv conf="0.76169">
+	<Unicode>QUESTÃO 40
+As diferentes teorias de ligações químicas (Teoria dos
+Orbitais Híbridos, Teoria dos Orbitais Moleculares (TOM),
+Teoria de Lewis) são especialmente úteis na explicação
+das propriedades dos compostos químicos tais como
+geometria molecular e caráter magnético, podendo,
+às vezes, serem empregadas simultaneamente. Um
+exemplo pode ser aplicado ao hidreto de berílio (BeH,),
+um composto molecular com geometria linear (hibridação sp)
+e diamagnético.
+Preencha o diagrama da TOM para o (BeH,) abaixo,
+que foi construído com os orbitais de valência de
+cada átomo considerando que o composto foi formado
+pela ligação entre os dois orbitais híbridos vazios (sp)
+do ,Be?* (orbitais sp), que atuam como receptores de
+elétrons (ácido de Lewis), e os orbitais 1s totalmente
+preenchidos de cada hidreto (,H), que atuam como
+uma base de Lewis, doando um par de elétrons.
+Qual aconfiguração eletrônica obtida após o preenchimento
+correto do diagrama TOM?
+BeH, = (s2) (s2) (s*2) (s*2)
+BeH,=(s2) (s2) (s*1) (s*1)
+BeH,= (s2) (s2) (s*2) (s*O)
+BeH, = (s2) (s2) (s*0) (s*O)
+BeH,= (s2) (s0) (s*2) (s*O)</Unicode></TextEquiv></TextRegion></Page></PcGts>

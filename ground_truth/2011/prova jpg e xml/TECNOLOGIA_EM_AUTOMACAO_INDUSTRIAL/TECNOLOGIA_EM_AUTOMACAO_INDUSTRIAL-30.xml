@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:01:10</Created>
+	<LastChange>2020-10-30T18:06:35</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-30.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="397,731 397,1173 1221,1173 1221,731"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,162 422,162 422,251 1535,251 1535,377 1534,377 1534,654 1535,654 1535,714 144,714 144,715 143,715 143,654 144,654 144,550 143,550 143,467 81,467 81,378 80,378"/>
+	<TextEquiv conf="0.96391">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Um dos equipamentos mais comuns na automação industrial é o inversor de frequência. Com as novas tecnologias
+de processadores digitais de alta velocidade e com o advento dos transistores IGBTs, os acionamentos de motores
+elétricos em corrente alternada ocupam mais de 80% dos sistemas de controle de motores elétricos. (...) Já os motores
+CC e seus acionamentos são considerados obsoletos, e destinados a aplicações muito restritas.
+CAPELLI, Alexandre. Automação Industrial: Controle do Movimento e Processos Contínuos . 2º ed. São Paulo: Érica, 2007.
+Nesse contexto, resolva os itens a seguir.
+a) O texto se refere aos motores elétricos encontrados na indústria. Dessa forma diferencie os motores de CC
+e de CA por indução. (valor 3,0 pontos)
+b) Ainda sobre os motores elétricos, apresente vantagens e desvantagens (ao menos duas de cada) do motor CC
+em relação ao CA por indução. (valor 3,0 pontos)
+c) O diagrama a seguir exibe os principais blocos de um inversor de frequência. Defina e descreva a função de
+cada bloco indicado. (valor 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

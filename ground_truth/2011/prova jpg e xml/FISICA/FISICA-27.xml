@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:58:06</Created>
+	<LastChange>2020-10-30T11:26:22</LastChange></Metadata>
+	<Page imageFilename="FISICA-27.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r3">
+	<Coords points="838,757 839,1354 839,1401 1291,1401 1519,1400 1519,1354 1158,1355 1158,1354 1520,1353 1519,756"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="850,1491 850,1515 826,1515 826,1491"/>
+	<TextEquiv conf="0.88833">
+	<Unicode>o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="841,192 1015,192 1015,272 1535,272 1535,698 1291,698 1291,1493 1535,1493 1535,1556 1534,1556 1534,2003 873,2003 873,2004 872,2004 872,1962 826,1962 826,1426 1158,1426 1158,699 825,699 825,272 841,272"/>
+	<TextEquiv conf="0.96429">
+	<Unicode>QUESTÃO 37
+Sistemas descritos por osciladores estão presentes na
+vida cotidiana nas mais variadas formas, dos cristais de
+nossos relógios digitais até os antigos relógios de pêndulos
+e circuitos de rádios. Os osciladores do tipo harmônicos
+amortecidos obedecem a uma equação do tipo
+X+2bx+oêx=0
+Suponha que, ao resolver um problema de um
+oscilador harmônico amortecido e solucionar a equação
+correspondente, um estudante obteve três soluções
+possíveis, representadas pelas curvas A, B e C na Figura |.
+Figura |
+Na situação descrita, o estudante
+estava correto na solução do problema, pois as três
+curvas representam, de fato, soluções da equação.
+O estava parcialmente correto na solução do problema,
+pois apenas as curvas A e B representam, de fato,
+soluções da equação.
+estava parcialmente correto na solução do problema,
+pois apenas as curvas A e C representam, de fato,
+soluções da equação.
+estava parcialmente correto na solução do problema,
+pois apenas as curvas B e C representam, de fato,
+soluções da equação.
+O cometeu um erro ao resolver o problema, pois nenhuma
+das três curvas representa uma solução da equação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,251 790,251 790,352 720,352 720,521 709,521 709,647 564,647 564,1515 790,1515 790,1591 789,1591 789,1640 645,1640 645,1689 582,1689 582,2003 128,2003 128,1996 81,1996 81,1689 80,1689 80,804 79,804 79,396 80,396 80,251 96,251"/>
+	<ImageRegion id="r2">
+	<Coords points="78,834 78,1447 800,1447 800,834"/></ImageRegion>
+	<TextEquiv conf="0.93281">
+	<Unicode>QUESTÃO 36
+O decaimento das fontes radioativas apresenta um
+comportamento exponencial decrescente em função do
+tempo [ A(t) = A(0) exp(- t) ], em que
+A(t) = atividade da fonte em um instante de tempo t;
+A(0) = atividade da fonte no instante inicial t = 0
+(início das contagens);
+exp = função exponencial;
+= constante de decaimento da fonte radioativa
+( = 0,693/T1/2);
+T1/2 = meia-vida do elemento radioativo;
+t = tempo de decaimento.
+Com base no gráfi co acima, que ilustra as medidas de
+decaimento de uma fonte radioativa, assinale a opção
+que expressa a meia-vida (T1/2) do elemento radioativo e a
+atividade da fonte após 10,5 anos [A (10,5 a)].
+A T1/2= 5,25 anos e A(10,5 a) = 375 Ci.
+B T1/2= 5,50 anos e A(10,5 a) = 399 Ci.
+C T1/2= 5,75 anos e A(10,5 a) = 399 Ci.
+D T1/2 = 6,25 anos e A(10,5 a) = 375 Ci.
+E T1/2 = 7,00 anos e A(10,5 a) = 399 Ci.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:46:55</Created>
+	<LastChange>2020-11-16T03:56:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-23.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="841,840 1015,840 1015,886 1537,886 1537,1200 1536,1200 1536,1201 1535,1201 1535,1450 1536,1450 1536,1647 1535,1647 1535,1997 825,1997 826,1997 826,1688 824,1688 824,1663 825,1663 825,1545 824,1545 824,1450 825,1450 825,1199 826,1199 826,885 841,885"/>
+	<TextEquiv conf="0.77678">
+	<Unicode>QUESTÃO 35
+Um gerador síncrono na operação em paralelo com a rede
+(barramento infinito) pode dividir com esta a demanda de
+potência solicitada pela carga, sem que haja necessidade
+de interrupção momentânea do fornecimento de energia à
+carga. A quantidade de potência a ser gerada pelo gerador
+síncrono pode ser controlada pelo sistema de controle
+de velocidade da máquina primária. Outra característica
+importante é a possibilidade de controlar o fluxo de
+potência reativa entre a máquina síncrona e a rede por
+meio da sua corrente de excitação. Compete ao operador
+do gerador carregá-lo conforme lhe seja mais interessante.
+Considere um gerador síncrono que foi sincronizado com um
+sistema elétrico de grande porte, que mantém constantes
+em seus terminais a tensão, V, e a frequência, f. Considere,
+ainda, que, em um primeiro momento, o gerador encontra-
+se flutuando em relação a esse sistema, ou seja, não
+recebe e nem envia potências ativa e reativa. Em relação
+ao fluxo de potência reativa entre a máquina e a rede,
+analise as seguintes asserções.
+Aumentando-se a corrente de excitação do gerador
+síncrono, verifica-se aumento da corrente de armadura.
+PORQUE
+Um acréscimo na corrente de excitação de gerador
+síncrono faz com que o mesmo absorva potência reativa
+da rede elétrica onde está conectado.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda justifica a primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não justifica a primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="841,192 1015,192 1015,234 1535,234 1535,433 1534,433 1534,522 1460,522 1460,527 1424,527 1424,586 1180,586 1180,622 1062,622 1062,812 826,812 826,592 874,592 874,433 824,433 824,234 841,234"/>
+	<TextEquiv conf="0.96761">
+	<Unicode>QUESTÃO 34
+Um dos principais componentes de um sistema de
+distribuição de energia elétrica é a subestação. Ela exige
+constantes cuidados com segurança e manutenção, de
+forma a evitar interrupções no fornecimento de energia com
+consequentes prejuízos às unidades consumidoras dela
+dependentes. Entre os elementos a serem observados em
+uma vistoria do estado da subestação externa, inclui-se o(a)
+|. iluminação no pátio da subestação.
+Ill. aterramento de cercas do pátio da subestação.
+Ill. verificação de vazamentos de óleo
+transformadores.
+IV. altura do solo de elementos energizados.
+É correto o que se afirma em
+em
+O lell, apenas.
+O lelll, apenas.
+O llelV, apenas.
+O lllelV, apenas.
+O LILUEI.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,1130 270,1130 270,1192 789,1192 789,1341 790,1341 790,1733 534,1733 534,1775 203,1775 203,1983 104,1983 104,1985 81,1985 81,1745 129,1745 129,1318 80,1318 80,1192 96,1192"/>
+	<TextEquiv conf="0.96589">
+	<Unicode>QUESTÃO 33
+Uma instalação elétrica possui motor de indução trifásico
+(60Hz) com 6 polos e com escorregamento nominal de 0,05.
+Considerando que esse motor é alimentado na sua tensão
+e frequência nominais, analise as afirmações abaixo.
+|. Esse motor em vazio (sem carga mecânica no seu
+eixo) gira a, aproximadamente, 1 800 rpm.
+Ill. Esse motor com carga mecânica nominal
+colocada no seu eixo gira com velocidade de,
+aproximadamente, 1 140 rpm.
+Ill. A frequência das correntes que circulam nos
+enrolamentos do rotor, na condição de operação
+nominal, é, aproximadamente, igual a 3Hz.
+IV. Se esse motor, alimentado inicialmente na
+sequência de fases A, B, C, for alimentado na
+sequência de fases C, A, B, terá o sentido de
+rotação do seu rotor invertido.
+É correto apenas o que se afirma em
+l.
+W.
+lelv.
+el.
+Nelv.
+CoOoçGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="119,192 270,192 270,254 790,254 790,824 534,824 534,926 211,926 211,1030 226,1030 226,1071 234,1071 234,1094 130,1094 130,1093 81,1093 81,854 129,854 129,511 80,511 80,254 119,254"/>
+	<TextEquiv conf="0.95868">
+	<Unicode>QUESTÃO 32
+O fluxo de carga é uma das ferramentas matemáticas
+mais importantes e utilizadas pelos engenheiros
+eletricistas que projetam, analisam e operam o sistema
+elétrico de potência. Atualmente, existe uma diversidade
+de programas que executam o cálculo de fluxo de carga
+e que são utilizados para o sistema de alta tensão ou de
+distribuição. O cálculo do fluxo de carga estático em um
+sistema elétrico consiste, essencialmente, na
+|. determinação das tensões e ângulos de fases
+para cada barra do sistema.
+Il. determinação da distribuição dos fluxos de
+potências ativa e reativa que fluem pelo sistema.
+Ill. solução de um conjunto de equações diferenciais
+que descrevem o comportamento das máquinas
+síncronas (simulação de transitórios).
+IV. solução de um conjunto de equações pelo método
+de Gauss-Jordan.
+É correto apenas o que se afirma em
+lell.
+Ielv.
+Welv.
+Lille.
+LUI eilv.
+coçGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

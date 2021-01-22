@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:36:51</Created>
+	<LastChange>2020-10-30T00:55:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-16.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,255 1536,255 1536,547 1535,547 1535,1048 1077,1048 1077,1588 826,1588 826,1048 825,1048 825,254 841,254"/>
+	<ImageRegion id="r1">
+	<Coords points="826,563 826,931 1536,931 1536,563"/></ImageRegion>
+	<TextEquiv conf="0.96178">
+	<Unicode>QUESTÃO 27
+Um acoplamento rígido tipo flange, conforme mostrado
+na figura, será usado para acoplar um motor elétrico
+de 135 kW e 900 rpm a um redutor de engrenagens do
+sistema de tração de uma esteira de transporte de calcário
+moído. Cada um dos flanges é fixado à respectiva ponta
+de eixo por meio de chaveta e o acoplamento é realizado
+utilizando-se oito parafusos igualmente espaçados,
+distribuídos segundo um círculo de diâmetro d = 300 mm,
+conforme mostrado na figura a seguir.
+Nessa configuração, qual é a força cisalhante agindo
+sobre cada parafuso?
+o 30,0 kN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="96,1055 270,1055 270,1118 790,1118 790,1551 789,1551 789,1736 606,1736 606,1850 744,1850 744,1891 788,1891 788,2002 81,2002 81,1736 79,1736 79,1575 80,1575 80,1118 96,1118"/>
+	<TextEquiv conf="0.96640">
+	<Unicode>QUESTÃO 26
+O engenheiro de processos sabe da importância do
+conhecimento prévio da potência de corte para que possa
+otimizar o processo com base nas restrições dos recursos
+das máquina e das ferramentas disponíveis. No entanto,
+nem sempre estão disponíveis de antemão os dados
+de cálculo necessários para verificar se os parâmetros
+de usinagem planejados estão adequados em relação
+à potência disponível na máquina, como é o caso da
+pressão específica de corte do material da peça (k) e o
+rendimento da máquina (h). Também não é pertinente que
+o setor fabril de uma empresa disponha de equipamentos
+sofisticados de medição de forças como dinamômetros/
+torquímetros, próprios de laboratórios.
+Nesse contexto, o engenheiro interessado em
+otimizar o processo pode recorrer a um procedimento
+alternativo rápido e barato, cujo resultado possibilita
+fazer o cálculo tanto da potência de corte quanto do
+rendimento da máquina.
+Esse procedimento consiste em medir o(a)
+O rotação do eixo-árvore da máquina.
+O deflexão elástica na ponta de corte da ferramenta.
+O tensão elétrica no cabo de fase do motor da máquina.
+O corrente elétrica no cabo de fase do motor da máquina.
+O tempo de corte para um comprimento fixo de usinagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,192 270,192 270,255 791,255 791,256 792,256 792,552 790,552 790,1021 127,1021 127,984 81,984 81,669 80,669 80,255 96,255"/>
+	<TextEquiv conf="0.96384">
+	<Unicode>QUESTÃO 25
+Mancais de rolamento são elementos de máquinas
+utilizados para apoiar eixos e árvores em transmissões
+mecânicas, fornecendo sustentação quando cargas
+diversas são aplicadas ao sistema mecânico. Tendo por
+base um sistema de coordenadas xyz e considerando
+a linha de centro do componente como sendo o eixo
+coordenado x, os esforços transmitidos aos mancais de
+rolamento podem ser radiais, na direção perpendicular ao
+eixo, e/ou axiais, na direção longitudinal do eixo.
+Considerando essas informações, que parâmetros o
+engenheiro deve calcular para especificar um mancal de
+rolamento a partir de um catálogo do fabricante?
+Reação global no apoio e carga estática.
+Capacidade de carga dinâmica de projeto e reação
+global no apoio.
+Capacidade de carga estática de projeto e capacidade
+de carga dinâmica de projeto.
+Momentos torçores que atuam no eixo e capacidade
+de carga dinâmica de projeto.
+Capacidade de carga dinâmica de projeto e momentos
+fletores que atuam no eixo.
+o O o OO</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:48:01</Created>
+	<LastChange>2020-10-30T00:00:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-16.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1535,254 1535,900 81,900 81,901 80,901 80,255 81,255 81,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="373,426 373,807 1268,807 1268,426"/></ImageRegion>
+	<TextEquiv conf="0.96586">
+	<Unicode>QUESTÃO 28
+Uma das maiores e mais importantes aplicações para o diodo Zener é servir como regulador de tensão, proporcionando
+tensões estáveis para uso em fontes de alimentação, voltímetros e outros instrumentos. O circuito da figura abaixo é
+implementado com o uso de diodos Zener, e a tensão aplicada na entrada do circuito é senoidal , cujos valores máximos
+positivo e negativo variam entre +20 V e -20 V. Após passar pelos diodos Zener, a tensão na saída foi limitada e varia
+entre +9,1 V(positivo) até -5,1 V(negativo), conforme ilustrada a figura a seguir.
+Em face do exposto, admitindo-se que todos os diodos são ideais, o circuito com diodo Zener entre os pontos X e Y (no
+espaço marcado com o ponto de interrogação) que deve ser inserido nessa posição é</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="55,905 55,1281 465,1281 465,905"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="773,904 773,1280 1183,1280 1183,904"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="773,1283 773,1659 1183,1659 1183,1283"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="45,1283 45,1659 455,1659 455,1283"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="50,1648 50,2024 460,2024 460,1648"/></ImageRegion></Page></PcGts>

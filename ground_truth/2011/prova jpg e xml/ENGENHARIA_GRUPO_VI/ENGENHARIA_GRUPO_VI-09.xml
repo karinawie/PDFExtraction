@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T05:23:52</Created>
+	<LastChange>2020-11-16T03:48:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-09.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2097 810,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="841,163 1529,163 1529,251 1535,251 1535,722 1536,722 1536,1230 1535,1230 1535,2010 874,2010 874,2011 873,2011 873,1970 826,1970 826,1587 824,1587 824,1561 825,1561 825,1231 824,1231 824,1070 825,1070 825,723 824,723 824,251 841,251"/>
+	<TextEquiv conf="0.95079">
+	<Unicode>QUESTÃO 10
+As várias consequências do trabalho repetitivo
+levaram, nos últimos anos, ao desenvolvimento de
+diferentes formas de organizar e reestruturar o trabalho
+de montagem e outros trabalhos seriais similares. Essas
+tentativas foram feitas na indústria, por intermédio de
+intervenções ergonômicas, conforme exemplificam as
+situações de trabalho abaixo.
+Exemplo 1: A montagem completa de calculadoras
+eletrônicas era feita em torno de uma bancada redonda,
+com oito postos, mas apenas com seis operadores, de
+forma que havia sempre dois postos vazios. A resultante
+acumulação dos componentes forçava os operadores a
+trocarem de lugar frequentemente.
+Exemplo 2: Um componente eletrônico era originalmente
+montado em uma linha de montagem de seis postos
+sucessivos, ocupados por seis trabalhadores. No
+novo plano, um operador desempenhava, sozinho, as
+seis operações e era responsável pela qualidade da
+montagem inteira.
+KROEMER, K. H. E.; GRANDJEAN, E. Manual de ergonomia: adaptando o trabalho
+ao homem. Porto Alegre: Bookman, 2005. 5. ed. p.180 (com adaptações).
+Acerca do tema acima, avalie as asserções a seguir e a
+relação proposta entre elas.
+O principal objetivo das mudanças exemplificadas é
+dar ao operador mais liberdade de ação, reduzindo o
+tédio e tornando o trabalho mais gratificante, permitindo
+a ele desenvolver todo o seu potencial, o que pode ser
+constatado com maior êxito no exemplo 1.
+PORQUE
+No exemplo 1, a rotação de trabalhadores entre diferentes
+atividades de operação de montagem reduziu o risco
+de tédio, adequando a dificuldade do trabalho com as
+capacidades do trabalhador, enquanto, no exemplo
+2, o trabalhador passou a atuar em uma sucessão de
+atividades diferentes, cada uma solicitando dele diferentes
+habilidades e maior responsabilidade.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras e a
+segunda é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o O o O
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,188 254,188 254,272 790,272 790,1108 792,1108 792,1464 790,1464 790,1711 181,1711 181,1928 196,1928 196,2009 129,2009 129,2008 81,2008 81,1711 79,1711 79,1549 80,1549 80,915 79,915 79,817 80,817 80,272 96,272"/>
+	<TextEquiv conf="0.77835">
+	<Unicode>QUESTÃO 9
+Uma empresa fabrica produtos de limpeza doméstica
+biodegradáveis e está revendo sua política de gestão de
+estoques para a linha principal de produtos devido aos
+altos custos incorridos com a manutenção dos estoques de
+matérias-primas. Para a linha de detergentes, a empresa
+decidiu seguir uma política de revisão contínua, em que o
+estoque será continuamente acompanhado e um pedido
+para um lote ótimo de compra será feito quando o
+estoque cair a determinado nível. O tamanho ótimo do
+lote é obtido pela equação: em que D é
+a demanda do produto por unidade de tempo, S é o custo
+fi xo por pedido e H é o custo de manter uma unidade do
+produto no estoque por um período de tempo especifi cado.
+Uma das principais matérias-primas utilizadas nos
+detergentes biodegradáveis é o Alquilbenzeno Sulfonato
+Linear (LAS), comprado de um único fornecedor. A
+linha de produção dos detergentes opera o ano todo e a
+utilização mensal do LAS é de 75 toneladas. A empresa
+incorre em um custo fi xo de R$ 50,00 para a preparação
+do pedido; o transporte e o recebimento do produto
+ocorrem toda vez em que um pedido é feito ao fornecedor,
+independentemente da quantidade solicitada. A empresa
+calcula que cada tonelada do LAS custa R$ 1,00 ao ano
+para a manutenção em estoque.
+Nessa situação, qual o tamanho ótimo de lote de
+Alquilbenzeno Sulfonato Linear (LAS), em toneladas, que
+a empresa deverá indicar em cada pedido de compra ao
+seu fornecedor?
+A 10,0
+B 75,0
+C 86,6
+D 300,0
+E 900,0</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:02:29</Created>
+	<LastChange>2020-10-30T18:53:29</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-22.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1536,254 1536,838 809,838 809,843 81,843 81,848 80,848 80,258 81,258 81,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="418,381 418,742 1147,742 1147,381"/></ImageRegion>
+	<TextEquiv conf="0.96461">
+	<Unicode>QUESTÃO 27
+Numa empresa, o tempo de acionamento de um dispositivo é determinado por um circuito RC, como em um circuito
+monoestável. Através de diagramas de blocos é possível representar sistemas complexos a partir de blocos simples,
+realizando as devidas equivalências quando necessário. Para o projeto de um controlador é necessário representar
+graficamente a função de transferência do circuito RC, como mostra a figura.
+Considerando as informações acima, a correta representação da função de transferência da fi gura em diagrama de
+bloco é dada por</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="71,865 71,1060 857,1060 857,865"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="70,1110 70,1305 856,1305 856,1110"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="62,1342 62,1537 848,1537 848,1342"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="62,1597 62,1792 848,1792 848,1597"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="67,1824 67,2019 853,2019 853,1824"/></ImageRegion></Page></PcGts>

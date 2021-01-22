@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:07:38</Created>
+	<LastChange>2020-10-30T01:25:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-24.jpg" imageWidth="1613" imageHeight="2165">
+	<TableRegion id="r0">
+	<Coords points="936,234 936,768 1515,768 1515,234"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="292,586 292,747 836,747 836,586"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="86,771 86,1628 1534,1628 1534,771"/></TableRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords points="78,188 866,188 866,1639 1535,1639 1535,1706 1534,1706 1534,1766 1147,1766 1147,1856 1104,1856 1104,2010 129,2010 129,2011 128,2011 128,2007 81,2007 81,1768 80,1768 80,557 78,557"/>
+	<TextEquiv conf="0.96468">
+	<Unicode>QUESTÃO 34
+Os planos de amostragem por atributos são amplamente
+utilizados na indústria de alimentos na recepção de suas
+matérias-primas, e, de acordo com a Sociedade Brasileira de
+Ciência e Tecnologia de Alimentos (SBCTA, 2000), estabeleceu-se
+o nível geral de inspeção II como o padrão de referência para
+a codificação de amostragem nas indústrias de alimentos.
+A seguir, são apresentadas a tabela de classificação do
+NQA, a tabela de codificação de amostragem e o plano de
+amostragem simples-normal.Suponha que, uma indústria de chocolate implantou o sistema de amostragem por atributos para recepção de suas
+matérias-primas, de acordo com a SBCTA (2000). Um lote de 140 unidades foi recebido e pretendia-se fazer uma
+amostragem para se definir o tamanho da amostra e o número para rejeição. O manual de qualidade da empresa
+estabelece que, para o referido produto / atributo, o Nível de Qualidade Aceitável deverá ser 0,4.
+De acordo com o plano de amostragem normal, a amostra a ser inspecionada deve ter
+3 unidades e, se uma unidade apresentar defeito, o lote deverá ser rejeitado.
+20 unidades e, se uma unidade apresentar defeito, o lote deverá ser rejeitado.
+32 unidades e, se uma unidade apresentar defeito, o lote deverá ser rejeitado.
+20 unidades e, se 3 unidades apresentarem defeito, o lote deverá ser rejeitado.
+140 unidades e, se uma unidade apresentar defeito, o lote deverá ser rejeitado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

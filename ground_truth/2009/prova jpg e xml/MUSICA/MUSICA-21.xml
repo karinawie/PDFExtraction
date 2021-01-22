@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T21:33:22</Created>
+	<LastChange>2020-11-16T22:25:03</LastChange></Metadata>
+	<Page imageFilename="MUSICA-21.jpg" imageWidth="1637" imageHeight="2188">
+	<ImageRegion id="r25">
+	<Coords points="106,329 107,1380 1374,1380 1373,329"/></ImageRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="112,205 311,205 311,279 812,279 812,1430 1526,1430 1526,1458 664,1458 664,1640 633,1640 633,1746 625,1746 625,1799 112,1799 112,1640 111,1640 111,1482 112,1482"/>
+	<TextEquiv conf="0.45889">
+	<Unicode>QUESTÃO 34
+Considere estes três trechos de obras musicais:
+Com base nesses trechos, é CORRETO afirmar que essas obras pertencem, respectivamente,
+aos períodos
+A) Barroco, Renascentista e Romântico.
+B) Clássico, Barroco e Romântico.
+C) Clássico, Renascentista e Barroco.
+D) Clássico, Romântico e Barroco.
+E) Romântico, Clássico e Romântico.</Unicode></TextEquiv></TextRegion></Page></PcGts>

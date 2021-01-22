@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:37:35</Created>
+	<LastChange>2020-10-30T00:58:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-13.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,255 1534,255 1534,473 1535,473 1535,536 1172,536 1172,537 813,537 813,1372 1535,1372 1535,1482 1536,1482 1536,1607 1535,1607 1535,1751 1184,1751 1184,1752 833,1752 833,1753 436,1753 436,1844 309,1844 309,1970 226,1970 226,2008 131,2008 131,2009 130,2009 130,2008 81,2008 81,1349 80,1349 80,537 79,537 79,473 80,473 80,255 96,255"/>
+	<TextEquiv conf="0.92205">
+	<Unicode>QUESTÃO 19
+Instalações de potência com turbinas a gás tendem a ser mais leves e compactas se comparadas a instalações de
+potência a vapor. Adicionalmente, apresentam uma relação favorável entre potência de saída e peso nas turbinas
+a gás, o que as tornam atrativas para aplicações em transporte, podendo-se citar, como exemplo, a propulsão de
+aeronaves e embarcações.
+MORAN, M. J., SHAPIRO, H. N. Princípios de Termodinâmica para Engenharia.
+Rio de Janeiro: LTC S.A,, 6.º ed., 2009.
+Considere uma turbina a gás, que opera em modo fechado, analisada por meio do ciclo de ar-padrão Brayton, conforme
+figura a seguir acompanhada do diagrama T x s (temperatura versus entropia específica) correspondente.
+Sob essas condições, avalie as afirmações que se seguem.
+|. De acordo com as hipóteses de uma análise de ar-padrão, o aumento de temperatura que seria obtido no
+processo de combustão é alcançado por transferência de calor de uma fonte externa para o fluido de trabalho.
+Esse fluido de trabalho é considerado o ar como gás ideal.
+Ill. O ar, ao passar pela turbina, sairia para a atmosfera em uma condição de temperatura mais alta do que
+quando foi admitido ao compressor. No ciclo de ar-padrão Brayton, idealiza-se um trocador de calor entre a
+turbina e o compressor, para rejeição de calor, a fim de reduzir a temperatura na saída da turbina aos níveis
+da entrada no compressor.
+Ill. Um ciclo de ar-padrão Brayton é composto por quatro equipamentos: um compressor que eleva a pressão do
+ar para sua entrada na turbina, um trocador de calor que é responsável pelo aumento da temperatura para
+a entrada do ar na turbina, uma turbina e outro trocador de calor que reduz a temperatura do ar na saída da
+turbina, aos mesmos níveis de sua entrada no compressor.
+É correto o que se afirma em
+|, apenas.
+Il, apenas.
+| e Ill, apenas.
+Il e Ill, apenas.
+Lie,
+cCoOoGoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="89,565 89,1307 1539,1307 1539,565"/></ImageRegion></Page></PcGts>

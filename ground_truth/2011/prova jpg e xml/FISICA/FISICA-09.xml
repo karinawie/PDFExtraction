@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T07:01:42</Created>
+	<LastChange>2020-11-16T03:02:15</LastChange></Metadata>
+	<Page imageFilename="FISICA-09.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="74,760 75,1186 795,1185 794,759"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="841,571 842,1135 1521,1134 1520,570"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="806,197 809,2097 814,2097 811,197"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,163 1529,163 1529,256 1536,256 1536,1286 997,1286 997,1420 980,1420 980,1505 875,1505 875,1506 874,1506 874,1505 826,1505 826,1286 825,1286 825,556 824,556 824,256 841,256"/>
+	<TextEquiv conf="0.94226">
+	<Unicode>QUESTÃO 10
+Para estimar a frequência de um forno microondas, foi
+preparada uma placa de isopor do tamanho do forno
+coberta com papel toalha umedecido. Em seguida, com
+papel termossensível como aqueles utilizados em fax,
+o conjunto foi colocado no forno utilizando um suporte
+para não girar por alguns segundos. A figura apresenta
+as regiões escuras e claras formadas no papel
+termossensível. A régua na figura tem o comprimento
+de 20 cm.
+Supondo que as ondas eletromagnéticas no interior
+do forno sejam todas estacionárias e que a régua está
+colocada em uma posição onde há claros representando
+Os vales dessas ondas, qual a frequência estimada?
+0,3 MHz.
+15,0 MHz.
+30,0 MHz.
+1,5 GHz.
+3,0 GHz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,192 254,192 254,254 792,254 792,255 793,255 793,712 791,712 791,1295 216,1295 216,1506 129,1506 129,1507 129,1505 81,1505 81,1295 79,1295 79,1203 80,1203 80,256 79,256 79,255 80,255 80,254 96,254"/>
+	<TextEquiv conf="0.95924">
+	<Unicode>QUESTÃO 9
+A maior parte dos tsunamis é gerada devido ao movimento
+relativo das placas tectônicas em um oceano. Esse
+movimento origina uma perturbação na superfície livre
+da água que se propaga em todas as direções para
+longe do local de geração sob a forma de ondas. Em
+oceano aberto, onde a profundidade média é de 4 km, os
+tsunamis têm comprimento de onda da ordem de 200 km
+e velocidades superiores a 700 km/h. Quando um tsunami
+atinge a costa, a profundidade do oceano diminui, e, em
+consequência, a sua velocidade de propagação decresce,
+assim como seu comprimento de onda. Suponha que aqui
+se aplica o modelo de ondas rasas, em que a velocidade
+da onda é proporcional à raíz quadrada da profundidade
+em que a onda se encontra.
+Analisando-se os dados apresentados na figura, o valor
+do comprimento de onda para uma profundidade de 5 m é
+aproximadamente igual a
+2,1 km.
+4,1 km.
+5,3 km.
+7,5 km.
+8,4 km.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

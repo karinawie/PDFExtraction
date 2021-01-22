@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T15:02:48</Created>
+	<LastChange>2020-10-27T15:12:56</LastChange></Metadata>
+	<Page imageFilename="tecnologia_radiologia_2010-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="828,355 826,2097 829,2097 831,355"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="869,1443 1077,1443 1077,1515 1556,1515 1556,2057 1555,2057 1555,2102 869,2102 869,1765 868,1765 868,1515 869,1515"/>
+	<TextEquiv conf="0.67821">
+	<Unicode>QUESTÃO 13
+De acordo com a Agência Internacional de Energia
+Atômica (AIEA), há um único efeito do uso de radiações
+ionizantes durante exame diagnóstico que não pode ser
+descartado: o risco aumentado de câncer radioinduzido.
+Dessa forma, não há um limiar mínimo de dose de
+radiação ionizante. Nesse contexto, o risco de câncer
+radioinduzido aumenta com
+O a magnitude da dose e o número de exames.
+O a temperatura do corpo do paciente e a magnitude
+da dose.
+O a abertura do campo de radiação e a intensidade do
+feixe de raios X utilizado.
+O a temperatura do corpo do paciente e a intensidade
+do feixe de raios X utilizado.
+O onúmero de exames e a temperatura do corpo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="869,349 1077,349 1077,420 1556,420 1556,739 1555,739 1555,981 1557,981 1557,1087 1556,1087 1556,1128 1360,1128 1360,1188 990,1188 990,1406 893,1406 893,1408 869,1408 869,1224 870,1224 870,1162 926,1162 926,981 933,981 933,861 941,861 941,739 869,739 869,738 868,738 868,420 869,420"/>
+	<TextEquiv conf="0.76991">
+	<Unicode>QUESTÃO 12
+Entre os anos de 1895 e 1896, o professor Wilhelm
+Conrad Rôentgen, da Universidade de Wúurzburg, na
+Alemanha, revolucionou a física e a medicina ao perceber
+os efeitos produzidos pelos seus recém-descobertos
+raios X. Apesar de seu empenho, o professor não obteve
+sucesso em suas tentativas de descobrir a natureza dos
+raios X, descoberta que acabou por ocorrer somente em
+1912. Avalie as afirmativas seguintes quanto à produção
+dos raios X.
+|. Quando produzidos, os raios X de freamento
+apresentam um espectro contínuo de energia.
+II. A produção dos raios X corresponde a um
+processo espontâneo realizado por núcleos de
+certos elementos na natureza.
+Ill. Quando produzidos, os raios X característicos
+apresentam um espectro discreto de energia.
+IV. Raios X de qualquer energia podem ser
+produzidos artificialmente.
+Está correto o que se afirma apenas em
+Tell.
+lei.
+lelv.
+ei.
+INelv.
+cCcoçgoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="71,894 71,1342 791,1342 791,894"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="101,349 304,349 304,422 789,422 789,844 788,844 788,1478 787,1478 787,1680 667,1680 667,1820 556,1820 556,1874 555,1874 555,1875 225,1875 225,2096 125,2096 125,2098 101,2098 101,1905 102,1905 102,1524 101,1524 101,1477 100,1477 100,422 101,422"/>
+	<TextEquiv conf="0.93789">
+	<Unicode>QUESTÃO 11
+As experiências em física nuclear dependem
+praticamente da detecção das radiações nucleares.
+Nos detectores tipo pulso, quando uma partícula alfa,
+por exemplo, interage com o gás no interior do detector,
+ocorre ionização no interior e, consequentemente,
+a formação de pares de íons. Uma tensão aplicada
+no sistema pode produzir um pulso elétrico e, por
+consequência, a corrente será medida. O gráfico abaixo
+apresenta as regiões de operação para detectores a
+gás usados em controle de qualidade e em física das
+radiações em geral.
+Considerando as características dos detectores
+de radiação e as informações do gráfico, avalie as
+afirmações que se seguem.
+|. O contador proporcional funciona na região 3.
+Il. O detector Geiger-Múller funciona na região 1.
+Ill. A câmara de ionização utiliza faixa de tensão na
+região 2.
+IV. Ocorre descarga contínua na região 4.
+V. A região 2 é a de recombinação.
+É correto apenas o que se afirma em
+lei.
+lelv.
+Nell.
+lev.
+IVev.
+cCogGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:08:59</Created>
+	<LastChange>2020-10-30T01:29:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-17.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="806,197 807,2097 810,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,192 1015,192 1015,255 1536,255 1536,406 1535,406 1535,658 1534,658 1534,870 1535,870 1535,953 1536,953 1536,1312 1279,1312 1279,1354 893,1354 893,1461 948,1461 948,1544 956,1544 956,1563 876,1563 876,1564 849,1564 849,1566 826,1566 826,1323 920,1323 920,974 919,974 919,973 874,973 874,946 901,946 901,945 920,945 920,779 874,779 874,722 825,722 825,255 841,255"/>
+	<TextEquiv conf="0.96701">
+	<Unicode>QUESTÃO 30
+Em sistemas de escoamento de fluidos (gases ou líquidos) é
+muito comum ser necessário adicionar-se energia para manter
+o escoamento. Bombas e compressores são exemplos de
+equipamentos que fornecem energia aos fluidos.
+Suponha que, em uma estação de tratamento de efluentes
+que opera em uma indústria, uma das bombas centrífugas
+usadas para garantir o escoamento do efluente está
+apresentando cavitação. O fabricante da bomba forneceu
+a curva da bomba e o NPSH característico para a operação
+dessa bomba.
+Tendo em vista essa situação, analise as afirmações a seguir.
+|. Se há cavitação, significa que o NPSH do sistema
+nas condições de operação é superior ao NPSH
+indicado pelo fabricante.
+Pode-se solucionar o problema de cavitação
+aumentando-se a rotação da bomba ou a vazão.
+Ill. O NPSH pode ser definido como a diferença entre
+a carga estática na entrada da sucção e a carga
+correspondente à pressão de vapor do líquido na
+entrada da bomba.
+Cavitação é a formação de regiões de baixa pressão,
+que ocorre quando a pressão fica abaixo da pressão
+de vapor do líquido e ocorre a vaporização nesses
+pontos. As bolhas deslocam-se para regiões de maior
+pressão e colapsam.
+É correto apenas o que se afirma em
+l.
+W.
+lNelv.
+lei.
+Weliv.
+CoOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="96,1311 270,1311 270,1372 790,1372 790,1806 212,1806 212,2008 129,2008 129,2006 81,2006 81,1806 80,1806 80,1372 96,1372"/>
+	<TextEquiv conf="0.96823">
+	<Unicode>QUESTÃO 29
+Uma etapa de um processo consiste na mistura de duas
+correntes de solução de água contendo NaCl. O sistema
+é formado por 2 misturadores e a saída do primeiro é
+uma das correntes de entrada do segundo. A primeira
+corrente (corrente 1) é formada por uma solução 5% de
+sal em água e tem vazão mássica de 500 g/min. Essa
+corrente se mistura com uma corrente 2, formada
+apenas por água. A corrente 2 tem vazão mássica
+de 200 g/min. A mistura das correntes 1 e 2 produz a
+corrente 3, que entra em um misturador junto com uma
+corrente 4, formada por solução aquosa contendo 10% de
+NaCl e vazão mássica de 1 000 g/min. Desse misturador,
+sai uma solução aquosa com concentração de NaCl
+igual a
+3,6%.
+10%.
+5%.
+7,4%.
+12,5%.
+CoçGoos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 790,254 790,921 789,921 789,997 653,997 653,1076 263,1076 263,1215 294,1215 294,1278 130,1278 130,1276 81,1276 81,1011 129,1011 129,786 80,786 80,478 79,478 79,254 96,254"/>
+	<TextEquiv conf="0.92988">
+	<Unicode>QUESTÃO 28
+As Normas Regulamentadoras (NR), relativas à segurança
+e medicina do trabalho são de observância obrigatória pelas
+empresas privadas e públicas e pelos órgãos públicos da
+administração direta e indireta, bem como pelos órgãos dos
+Poderes Legislativo e Judiciário, que possuam empregados
+regidos pela Consolidação das Leis do Trabalho (Portaria
+SSMT n.º 06/1983).
+Especificamente, a NR-6 estabelece as condições e os
+procedimentos para fabricação, comercialização e utilização
+dos Equipamentos de Proteção Individual (EPI). Segundo a
+NR-6, o empregador é obrigado a fornecer aos empregados,
+gratuitamente, EPI adequado ao risco, em perfeito estado
+de conservação e funcionamento, em determinadas
+circunstâncias (Portaria SIT-MTE n.º 25/2001).
+Com base nessas informações, o empregador é obrigado
+a fornecer EPI
+I. sempre que as medidas de ordem geral não
+ofereçam completa proteção contra os riscos de
+acidentes do trabalho ou de doenças profissionais
+e do trabalho.
+II. enquanto as medidas de proteção coletiva
+estiverem sendo implantadas.
+III. para atender situações de emergência.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C III, apenas.
+D I e II, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

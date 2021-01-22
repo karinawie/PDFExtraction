@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:20:24</Created>
+	<LastChange>2020-10-30T02:30:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-24.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r14">
+	<Coords points="804,197 807,2097 812,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="841,192 1011,192 1011,242 1537,242 1537,909 1535,909 1535,1658 1536,1658 1536,1775 1279,1775 1279,1814 940,1814 940,2007 876,2007 876,2008 849,2008 849,2010 826,2010 826,1832 827,1832 827,1385 825,1385 825,243 824,243 824,242 841,242"/>
+	<TableRegion id="r2">
+	<Coords points="828,931 828,1313 1531,1313 1531,931"/></TableRegion>
+	<TextEquiv conf="0.96527">
+	<Unicode>QUESTÃO 31
+A ergonomia pode trazer contribuições importantes ao
+processo de desenvolvimento de produtos destinados ao
+consumo de massa, na medida em que possibilita integrar
+a visão dos usuários ao projeto. Estudos de casos em
+fabricantes de veículos automotivos e de carrocerias de
+ônibus mostraram que, na etapa de projeto de produtos,
+ocorria o uso rotineiro de ferramentas como bancos
+de dados antropométricos, softwares para simulação,
+manequins e mapeamento de pressão. A ergonomia
+era empregada em fases tardias desse processo, para
+correção, e a integração de aspectos ergonômicos
+restringia-se a questões relacionadas à antropometria.
+Registraram-se erros conceituais, por exemplo, no
+dimensionamento da altura dos assentos fixos. Estes
+dimensionamentos partem de amostras aleatórias da
+altura popliteal em usuários reais, em diferentes percentis
+antropométricos. Mas, na fase de testes, as empresas
+pesquisadas utilizavam como elementos da amostra
+apenas profissionais da própria empresa. Considere o
+critério de não-compressão de tecidos moles e as medidas
+a seguir, utilizadas para dimensionar a altura de assentos,
+presumindo que as distribuições sejam normais.
+GREGHI, M. F., ROSSI, T. N., SOUZA, J. B. G., MONTEDO, U. B.; MENEGON,
+N. L. A integração de aspectos ergonômicos no processo de desenvolvimento de
+produtos de empresas brasileiras do setor de transporte. São Carlos, out./2010.
+XXX Encontro Nacional de Engenharia de Produção.
+Com base nas informações acima, avalie as afirmações
+a seguir.
+|. Aalturado assento pode ser dimensionada em 45
+cm, valor da mediana para a altura popliteal dos
+profissionais da empresa e da população.
+Considerando-se uma folga de 0,50 desvio-
+padrão entre a referência de altura popliteal para
+dimensionamento da altura do assento em cadeira
+fixa, essa altura será aceita como adequada se
+tiver o valor de 37 cm.
+Um dimensionamento adequado da altura do
+assento em cadeira fixa para a grande maioria dos
+profissionais da empresa será inadequado para a
+população usuária.
+É correto apenas o que se afirma em
+l.
+WU.
+UI.
+Tell.
+lei.
+cCoOoGoos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,192 270,192 270,254 791,254 791,611 790,611 790,986 791,986 791,1212 790,1212 790,1566 789,1566 789,1726 538,1726 538,1928 545,1928 545,1982 661,1982 661,2007 130,2007 130,2008 129,2008 129,2004 81,2004 81,1727 80,1727 80,254 96,254"/>
+	<TextEquiv conf="0.96731">
+	<Unicode>QUESTÃO 30
+O EDI, abreviação de Electronic Data Interchange, ou,
+em português, Intercâmbio Eletrônico de Dados, “é um
+meio de transferência eletrônica de dados entre empresas,
+de computador para computador, em formatos padrão”, ou
+ainda (...) “é a transferência eletrônica de dados entre os
+computadores das empresas participantes, dados esses
+estruturados dentro de padrões previamente acordados
+entre as partes.” (...) o EDI foi primeiramente adotado nos
+Estados Unidos, na década de 1980, pelos setores de
+varejo e de transportes, expandindo-se mais tarde para os
+setores automotivo e farmacêutico, entre outros
+O processo de implantação da troca eletrônica de
+dados via EDI na Empresa X teve início entre os anos
+de 1993 e 1994. Na unidade pesquisada, esse processo
+ocorreu no ano de 1996, logo após sua fundação. Naquela
+época, o processo ocorreu sem grandes problemas, pois
+só havia um cliente conectado com a Empresa X via EDI.
+No decorrer dos anos, novos clientes passaram também
+a adotar o EDI como forma de comunicação com a
+Empresa X e, atualmente, a maioria dos clientes utiliza
+esta ferramenta para a troca eletrônica com a empresa.
+Antes da utilização do EDI, a empresa utilizava
+principalmente o telefone e o fax em envio de relatórios
+para a comunicação com os clientes e fornecedores. O
+processo de adoção do EDI na Empresa X originou-se,
+principalmente, devido à exigência de algumas montadoras,
+que definiram que seus fornecedores deveriam implantar
+o EDI, se quisessem fornecer diretamente para elas.
+Além das atividades de envio da necessidade de
+produção pelos clientes, pedido de compra encaminhado
+aos fornecedores e emissão de envio de embarque e
+nota fiscal, o EDI é utilizado para visualizar a demanda
+acumulada, o que já foi entregue pela empresa, o que está
+em atraso e os nomes dos clientes que estão esperando
+para serem atendidos. Ele é usado também em atividades
+como programação de entregas, alteração de pedido,
+extrato de conta-corrente, pagamentos etc.
+FERREIRA, K.; RIBEIRO, P. Tecnologia da Informação e Logística: os impactos
+do EDI nas operações logísticas de uma empresa do setor automobilístico.
+In. Anais do XXIII Encontro Nac. de Eng. de Produção - Ouro Preto, 2003 .
+Segundo o que explicita estritamente o texto, uma
+vantagem relevante do EDI é
+O acesso rápido a fornecedores.
+redução do emprego de papel.
+utilização de tecnologia de ponta.
+suporte ilimitado de comunicação.
+(MENCENOREO)
+diminuição da importância dos vendedores.</Unicode></TextEquiv></TextRegion></Page></PcGts>

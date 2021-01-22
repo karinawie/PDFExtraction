@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:06:23</Created>
+	<LastChange>2020-10-29T23:15:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-24.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1535,254 1535,413 1278,413 1278,842 81,842 81,413 80,413 80,255 81,255 81,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="278,471 278,707 1328,707 1328,471"/></ImageRegion>
+	<TextEquiv conf="0.96750">
+	<Unicode>QUESTÃO 34
+Em termos de esquematização estrutural de edifícios, um erro bastante comum está em considerar as condições de
+engastamento, total ou parcial, das lajes e vigas, que podem ser agravadas no caso de edifícios altos ou com peças
+de inércia muito diferentes entre si. Para o engastamento parcial de vigas, deve-se considerar o que recomenda o item
+3.2.3, da ABNT NBR 6118, para apoios extremos. Falhas na adoção do modelo estrutural correto poderão levar ao
+surgimento de trincas nas vigas, alvenarias e revestimentos, sendo necessária a sua manutenção.
+Para a viga apresentada acima, qual o sistema estrutural correto a ser adotado para seu cálculo?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="57,881 57,1057 1150,1057 1150,881"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="67,1133 67,1309 1160,1309 1160,1133"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="61,1354 61,1530 1154,1530 1154,1354"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="61,1585 61,1761 1154,1761 1154,1585"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="64,1798 64,1974 1157,1974 1157,1798"/></ImageRegion></Page></PcGts>

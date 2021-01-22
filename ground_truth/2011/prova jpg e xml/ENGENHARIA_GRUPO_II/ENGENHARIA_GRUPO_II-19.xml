@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:47:34</Created>
+	<LastChange>2020-10-29T23:58:00</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-19.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,192 430,192 430,244 1535,244 1535,528 1051,528 1051,529 873,529 873,804 941,804 941,867 1537,867 1537,971 1534,971 1534,1152 1071,1152 1071,1153 608,1153 608,1154 145,1154 145,1155 144,1155 144,868 143,868 143,830 80,830 80,804 174,804 174,531 80,531 80,244 96,244"/>
+	<TextEquiv conf="0.96471">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Quando da sua implantação para suprirem energia elétrica ao sistema produtivo, as indústrias dimensionam a subestação
+de acordo com a potência instalada. No momento da expansão, conforme a nova demanda de potência, torna-se
+necessária a ampliação da subestação, utilizando o procedimento de operação em paralelo de transformadores.
+Na situação em que uma subestação foi projetada inicialmente com um transformador de 750 kVA, 13,8/0,38 kV, Dy-1,
+Z%7=A4,5 e que foi necessário ampliar a potência entregue para 1 100 kVA, decidiu-se utilizar o paralelismo como forma
+de suprir a carga. Um fornecedor ofereceu quatro transformadores para suprir a expansão da carga, com as seguintes
+especificações:
+Transformador 1 - 500 kVA, 13,8/0,22 kV, Dy-1, Z%=4,5 ;
+Transformador 2 - 500 kVA, 13,8/0,38 kV, Dy-1, Z%7=A4,5;
+Transformador 3 - 500 kVA, 13,8/0,38 kV, Dy-1, Z%=5,0;
+Transformador 4 - 500 kVA, 13,8/0,38 kV, Dy-5, Z%7=A4,0.
+Com base na situação descrita, faça o que se pede nos itens a seguir.
+a) Para entender as condições de otimização a serem impostas na escolha do transformador a ser colocado em
+paralelo com o transformador de 750 kVA, qual dos transformadores oferecidos pelo fornecedor deveria ser
+escolhido? Justifique sua resposta. (valor: 2,0 pontos)
+b) Após a escolha feita no item anterior e considerando a operação em regime permanente do novo sistema
+(operação em paralelo), determine a distribuição de carga percentual em relação à potência nominal de cada
+um dos transformadores em paralelo, apresentando o desenvolvimento algébrico utilizado para a solução.
+(valor: 8,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

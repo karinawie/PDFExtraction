@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T14:26:08</Created>
+	<LastChange>2020-10-27T14:39:42</LastChange></Metadata>
+	<Page imageFilename="tecnologia_gestao_ambiental_2010-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r1">
+	<Coords points="280,625 280,1008 1374,1008 1374,625"/></TableRegion>
+	<ImageRegion id="r2">
+	<Coords points="331,1171 331,1674 1268,1674 1268,1171"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="100,280 308,280 308,340 1554,340 1554,469 1553,469 1553,2100 1202,2100 1202,2101 850,2101 850,2102 498,2102 498,2103 147,2103 147,2104 146,2104 146,2030 100,2030 100,1168 99,1168 99,340 100,340"/>
+	<TextEquiv conf="0.96449">
+	<Unicode>QUESTÃO 17
+O relatório da qualidade do ar elaborado pelo Instituto Estadual de Meio Ambiente e Recursos Hídricos do Estado do
+Espírito Santo com referência à região da Grande Vitória no ano de 2006, utiliza um índice de qualidade do ar (IQA) que
+contempla os seguintes parâmetros: dióxido de enxofre (SO,), dióxido de nitrogênio (NO,), monóxido de carbono (CO),
+ozônio (O), partículas inaláveis (PM10) e partículas totais em suspensão (PTS).
+O IQA é uma função linear segmentada (por faixa de classificação) e adimensional da concentração dos poluentes,
+cujos pontos de inflexão são os padrões limitantes de qualidade apresentados na tabela a seguir. Para cada poluente,
+é calculado um valor de IQA. Desse modo, concentrações de NO, iguais a 50 ug/m? e a 150 pg/m? correspondem,
+respectivamente, a valores de IQA iguais a 25 e 62 para esse poluente.
+Nota: Valores em vermelho são os padrões primários estabelecidos pela Resolução CONAMA nº 3, de 28/06/1990.
+ESPÍRITO SANTO. Relatório da Qualidade do Ar na Região da Grande Vitória 2006. Cariacica: Instituto Estadual de Meio Ambiente e Recursos Hídricos, 2007. (adaptado).
+Considerando as informações no texto e na tabela acima, suponha que o responsável por uma estação de monitoramento
+de poluição atmosférica tenha reportado uma evolução para o IQA das PTS, no ano de 2009, conforme mostrado no
+gráfico da figura a seguir.
+Nessa situação e com base nos dados apresentados, conclui-se que,
+O noprimeiro semestre de 2009, a qualidade do ar na estação, em relação às partículas totais em suspensão, foi considerada
+predominantemente regular, especialmente no mês de junho, com valores de PTS sempre inferiores a 175 ug/m?.
+no primeiro semestre de 2009, a qualidade do ar na estação, em relação às partículas totais em suspensão, foi considerada
+predominantemente boa, em especial no mês de junho, com alguns valores de PTS superiores a 175 ug/mº? no semestre.
+no segundo semestre de 2009, a qualidade do ar foi predominantemente boa, com alguns eventos de qualidade
+regular. Esse fato se deveu a uma menor produção industrial no período.
+em 2009, a qualidade do ar é predominantemente boa, ocorrendo somente alguns eventos de concentrações de
+PTS acima do padrão primário determinado pela Resolução CONAMA n.º 3, de 28/06/1990.
+em 2009, a qualidade do ar é melhor no segundo semestre, com a ocorrência de alguns eventos no primeiro
+semestre em que as concentrações de PTS foram superiores a 150 ug/m?, embora sempre inferiores ao do padrão
+primário estabelecido pela Resolução CONAMA n.º 3, de 28/06/1990.
+o oO çooeo</Unicode></TextEquiv></TextRegion></Page></PcGts>

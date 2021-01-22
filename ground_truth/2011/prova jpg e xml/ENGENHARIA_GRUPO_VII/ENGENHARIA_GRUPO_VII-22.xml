@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:46:32</Created>
+	<LastChange>2020-10-30T02:58:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-22.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,192 270,192 270,256 1172,256 1172,257 1535,257 1535,1486 1534,1486 1534,1683 534,1683 534,1736 202,1736 202,1996 201,1996 201,1997 129,1997 129,1998 81,1998 81,1396 80,1396 80,256 96,256"/>
+	<ImageRegion id="r1">
+	<Coords points="244,507 244,1218 1376,1218 1376,507"/></ImageRegion>
+	<TextEquiv conf="0.95086">
+	<Unicode>QUESTÃO 28
+Os conflitos existentes entre disponibilidades hídricas e demandas envolvem não somente a questão da quantidade,
+mas também da qualidade dos recursos hídricos. A ocorrência de longos períodos de estiagem associada ao contínuo
+lançamento de efluentes em corpos hídricos superficiais causa eventos extremos de poluição. O conhecimento dos
+padrões de variação da vazão dos rios pode contribuir para a definição de diretrizes de uso desses recursos.
+Uma análise estatística utilizada em hidrologia para essa finalidade é o desenvolvimento da curva de permanência,
+que expressa a relação entre vazão e frequência com que esta é igualada ou superada. A figura abaixo apresenta
+uma curva de permanência de um rio, obtida a partir de vazões diárias de uma série histórica de 40 anos.
+Considerando a curva de permanência apresentada na figura acima e a sua aplicação para o conhecimento das vazões
+de um rio, avalie as afirmações que se seguem.
+|. Orio apresenta vazões aproximadamente constantes.
+Il. A construção de um reservatório a montante do ponto analisado tornará a curva de permanência mais
+horizontalizada.
+Ill. A vazão que ocorre no intervalo entre 2,0 mº/s e 3,0 m?/s é igualada ou superada em 90% do tempo e, portanto,
+é denominada de Q,,.
+IV. As vazões que ocorrem em menos de 10% do tempo são as vazões mais críticas para eventos de poluição em
+períodos de estiagem.
+É correto apenas o que se afirma em
+o:
+O Iv.
+E le.
+O llell.
+O lelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

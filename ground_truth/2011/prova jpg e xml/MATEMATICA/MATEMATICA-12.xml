@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:50:34</Created>
+	<LastChange>2020-10-30T14:38:07</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-12.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r0">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1324 270,1324 270,1400 792,1400 792,1520 790,1520 790,1687 789,1687 789,1892 760,1892 760,1953 578,1953 578,2009 81,2009 81,1688 80,1688 80,1400 96,1400"/>
+	<TextEquiv conf="0.96700">
+	<Unicode>QUESTÃO 18
+Duas grandezas x e y são ditas comensuráveis se existe
+um número racional q tal que a medida de x é igual a q
+vezes a medida de y.
+Com base nesse conceito, são grandezas comensuráveis
+O a aresta de um cubo de volume Ve a aresta de um
+cubo de volume 2V.
+O aáreae o perímetro de um círculo, quando o raio é um
+número racional.
+O aáreaeodiâmetro de um círculo, quando o raio é um
+número racional.
+O o comprimento e o diâmetro de uma circunferência.
+O adiagonal e o lado de um quadrado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,276 632,276 632,387 790,387 790,413 787,413 787,468 182,468 182,597 406,597 406,1248 81,1248 81,525 80,525 80,276 96,276"/>
+	<TextEquiv conf="0.95216">
+	<Unicode>QUESTÃO 17
+Considere a função f : R— IR definida por
+y=f(r1)=2"-522+4,
+para cada x E RR. A área da região limitada pelo gráfico
+da função y = f(T), o eixo Or easretas rt =0exr=2
+é igual a
+o 16 unidades de área.
+15
+o 38 unidades de área.
+15
+o 4 unidades de área.
+15
+o 6o unidades de área.
+15
+o 7ô unidades de área.
+15</Unicode></TextEquiv></TextRegion></Page></PcGts>

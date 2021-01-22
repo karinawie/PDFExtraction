@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:50:29</Created>
+	<LastChange>2020-10-30T14:37:29</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-13.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="96,1028 270,1028 270,1121 791,1121 791,1858 203,1858 203,1983 211,1983 211,2003 104,2003 104,2005 81,2005 81,1122 80,1122 80,1121 96,1121"/>
+	<TextEquiv conf="0.96767">
+	<Unicode>QUESTÃO 20
+Considerando a, be c pertencentes ao conjunto dos
+números naturais e representando por ajb a relação
+“a divide 5”, analise as proposições abaixo.
+|. Sealb+c), então a/bou afc.
+Il. Se a/bce mdce(a,b) =1, então afjc.
+Ill. Se a não é primo e a/bc, então a/b ou ajc.
+IV. Se a/be mde(b,c) = 1, então mdce(a,c) = 1.
+É correto apenas o que se afirma em
+o.
+o.
+lei.
+elv.
+o oo
+Weiv,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,285 788,285 788,508 791,508 791,592 212,592 212,722 226,722 226,961 81,961 81,592 80,592 80,285 96,285"/>
+	<TextEquiv conf="0.61324">
+	<Unicode>QUESTÃO 19
+Sob certas condições, o número de colônias de bactérias,
+t horas após ser preparada a cultura, é dada pela função
+B(t) = 9 -2x3'+3, t&gt;O.
+O tempo mínimo necessário para esse número ultrapassar
+6 colônias é de
+O 1 hora.
+O 2horas.
+O 3horas.
+O 4 horas.
+O 6 horas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

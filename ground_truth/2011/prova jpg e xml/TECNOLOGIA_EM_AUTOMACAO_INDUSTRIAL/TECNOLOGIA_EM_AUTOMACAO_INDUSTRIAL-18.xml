@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:03:11</Created>
+	<LastChange>2020-10-30T18:57:45</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-18.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="841,192 1015,192 1015,265 1536,265 1536,692 1535,692 1535,1613 1472,1613 1472,1838 1471,1838 1471,1910 1408,1910 1408,1985 893,1985 893,1984 892,1984 892,1977 826,1977 826,1613 825,1613 825,1612 824,1612 824,265 841,265"/>
+	<ImageRegion id="r1">
+	<Coords points="865,734 865,1363 1484,1363 1484,734"/></ImageRegion>
+	<TextEquiv conf="0.96886">
+	<Unicode>QUESTÃO 22
+Em ambientes industriais, quando é necessário medir
+sinais de baixa amplitude (da ordem de mV), são comuns
+dois problemas: a) dificuldade de se ter um instrumento
+adequado devido à baixa amplitude do sinal e b) distorção
+do sinal por ruído, gerado tanto pela rede elétrica de 60Hz
+quanto por máquinas que operam nas proximidades.
+Para contornar esses problemas, pode-se utilizar um filtro
+passa-baixas ativo, como mostrado na figura, que permite
+tanto a amplificação quanto a atenuação de sinais de
+frequências acima de um valor desejado.
+Considerando as informações apresentadas, os valores
+adequados dos resistores e do capacitor para que Oo
+filtro mostrado na figura tenha um módulo do ganho em
+corrente contínua de 1000 e uma frequência de corte de
+200 rad/s, são
+RR; = 10k9N., Ra = 10M9,C, = 500pF.
+R, = 100k9, R3 = 500k9N, Cy, = 10nF.
+o
+RR, = 500k9, R7 = 100k9N, C, = 50pF.
+o
+R, = 10M9, R27 = 10k9, 0, = 500nF.
+o
+RR; = 5MQ9, Ra = 5k1,C, = InF.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 266,192 266,267 790,267 790,766 791,766 791,1070 790,1070 790,1616 782,1616 782,2001 104,2001 104,2003 81,2003 81,1645 175,1645 175,1523 174,1523 174,1518 129,1518 129,1498 153,1498 153,1497 175,1497 175,1328 174,1328 174,1323 129,1323 129,1071 79,1071 79,766 80,766 80,527 78,527 78,267 96,267"/>
+	<TextEquiv conf="0.95026">
+	<Unicode>QUESTÃO 21
+A preocupação com questões de segurança é crescente
+nas indústrias modernas. Uma empresa que possui
+baixos índices de acidente, tem como grande benefício,
+a disponibilidade de sua força de trabalho, boa imagem
+junto à sociedade e aos órgãos fiscalizadores e
+consequentemente melhor avaliação do mercado.
+Os departamentos de operação e manutenção são os que
+possuem maior risco devido ao grande efetivo, alteração
+constante da natureza dos trabalhos e o próprio local onde
+a atividade laboral é desenvolvida.
+A Análise Preliminar de Risco (APR) é uma ferramenta
+simples e extremamente útil para que os aspectos de
+segurança de uma atividade sejam conhecidos pelos
+envolvidos. Considerando a aplicação da APR para a
+manutenção de um sistema eletroidráulico realizado
+por equipe mista (própria e terceirizada), analise as
+afirmações abaixo.
+|. Somente participa da elaboração da APR, um
+dos seguintes envolvidos: o encarregado ou
+executante da empresa terceirizada, ou o técnico
+de segurança da equipe de manutenção.
+Il. AAPR deve conter, no mínimo, informações sobre
+descrição do evento indesejado ou perigoso,
+causa, consequência, categoria de risco, medidas
+de controle e área responsável pela ação.
+Ill. AAPRé um documento formal, que pode ser realizado
+pela equipe terceirizada sem o conhecimento e
+aprovação da equipe de manutenção própria local.
+IV. A APR pode ser utilizada em eventos emergenciais.
+É correto apenas o que se afirma em
+o.
+WI.
+lei.
+Nelv.
+Melv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

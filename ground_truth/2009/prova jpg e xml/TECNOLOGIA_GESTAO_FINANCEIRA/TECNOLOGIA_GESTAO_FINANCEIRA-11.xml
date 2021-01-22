@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T04:32:07</Created>
+	<LastChange>2020-11-16T22:15:55</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_GESTAO_FINANCEIRA-11.jpg" imageWidth="1637" imageHeight="2188">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="112,1653 311,1653 311,1715 1526,1715 1526,1773 1224,1773 1224,1869 302,1869 302,2051 112,2051 112,1869 111,1869 111,1795 112,1795"/>
+	<TextEquiv conf="0.40389">
+	<Unicode>QUESTÃO 12:
+Com base nas informações acima, determine o valor do Lucro do Período da Cia. BSB-CNF, em
+31/12/2009.
+Note que, neste caso, Lucro do Período = Lucro antes do IR = Lucro Líquido.
+A) 80.750,00.
+B) 40.750,00.
+C) 40.150,00.
+D) 26.150,00.
+E) 19.750,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="112,1246 311,1246 311,1308 1526,1308 1526,1366 302,1366 302,1604 112,1604 112,1606 112,1423 111,1423 111,1394 112,1394"/>
+	<TextEquiv conf="0.93643">
+	<Unicode>QUESTÃO 11:
+Com base nas informações acima, determine o valor do Ativo Circulante da Cia. BSB-CNF, em
+31/12/2009.
+A) 45.450,00.
+B) 31.450,00.
+C) 26.450,00.
+D) 19.000,00.
+E) 14.000,00.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="348,540 348,1178 1245,1178 1245,540"/></TableRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="112,276 1090,276 1090,346 1527,346 1527,516 111,516 111,346 112,346"/>
+	<TextEquiv conf="0.96478">
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

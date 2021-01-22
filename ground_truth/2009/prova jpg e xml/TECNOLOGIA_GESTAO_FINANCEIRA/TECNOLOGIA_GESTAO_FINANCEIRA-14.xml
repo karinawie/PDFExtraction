@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T04:31:33</Created>
+	<LastChange>2020-11-16T22:06:25</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_GESTAO_FINANCEIRA-14.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r12">
+	<Coords points="818,168 817,2055 820,2055 821,168"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="845,524 845,1129 1545,1129 1545,524"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="112,169 311,169 311,243 768,243 768,294 770,294 770,567 769,567 769,568 330,568 330,617 322,617 322,705 483,705 483,764 367,764 367,936 307,936 307,1032 140,1032 140,1034 133,1034 133,1028 112,1028 112,880 111,880 111,809 119,809 119,617 112,617 112,568 109,568 109,567 110,567 110,294 112,294"/>
+	<TextEquiv conf="0.93419">
+	<Unicode>QUESTÃO 20:
+Um apartamento no valor de R$ 120.000,00
+foi financiado pelo Sistema Price de
+Amortização, em 120 prestações mensais
+postecipadas. Sabendo-se que a taxa de
+juros efetiva do financiamento é de 1% ao
+mês, qual é o valor amortizado por ocasião
+do pagamento da primeira prestação?
+Considere que:
+(14+1%)*” x1%
+: =0,014347
+(14+1%)” —1
+A) R$ 119.478,40.
+B) R$1.721,64.
+C) R$ 1.200,00.
+) R$833,33.
+)
+R$ 521,64.
+D
+E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="112,1085 311,1085 311,1160 769,1160 769,1533 716,1533 716,1626 350,1626 350,1924 367,1924 367,1952 140,1952 140,1955 112,1955 112,1697 111,1697 111,1675 112,1675 112,1674 116,1674 116,1533 111,1533 111,1160 112,1160"/>
+	<TextEquiv conf="0.36088">
+	<Unicode>QUESTÃO 21:
+Qual é o valor presente líquido de um projeto
+caracterizado por um investimento inicial na
+data de hoje de R$ 18.000,00 por duas
+entradas de caixa anuais, postecipadas e
+sucessivas de valores R$ 10.000,00 e R$
+20.000,00 respectivamente, e por uma taxa
+mínima de atratividade igual a 15% ao ano?
+Considere que:
+(1,15) =0,869565e (1,15)? =0,756144
+A) R$ 12.000,00.
+R$ 7.695,00.
+R$ 5.818,53.
+—R$ 5.818,53.
+—R$ 12.000,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="869,169 1069,169 1069,244 1528,244 1528,430 1527,430 1527,431 954,431 954,1163 1527,1163 1527,1680 1526,1680 1526,1844 1027,1844 1027,1896 920,1896 920,1844 870,1844 870,1329 868,1329 868,1288 869,1288"/>
+	<TextEquiv conf="0.92203">
+	<Unicode>QUESTÃO 22:
+No gráfico a seguir, apresenta-se o valor
+presente líquido (VPL), em reais, de um
+projeto de investimento em função da taxa
+mínima de atratividade (TMA), em unidade
+anual.
+É CORRETO afirmar que o projeto em
+análise
+A) é atrativo para uma taxa mínima de
+atratividade igual a 26% ao ano.
+é atrativo para uma taxa mínima de
+atratividade igual a 18% ao ano.
+é mais atrativo para uma taxa mínima de
+atratividade de 10% ao ano do que para
+uma taxa mínima de atratividade de 8% ao
+ano.
+D
+=
+não é atrativo para uma taxa mínima de
+atratividade igual a 8% ao ano.
+Li
+possui apenas uma taxa interna de retorno
+positiva.</Unicode></TextEquiv></TextRegion></Page></PcGts>

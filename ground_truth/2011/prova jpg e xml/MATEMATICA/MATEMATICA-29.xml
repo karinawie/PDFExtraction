@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:48:05</Created>
+	<LastChange>2020-10-30T14:27:09</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-29.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="841,1010 1015,1010 1015,1071 1194,1071 1194,1061 1348,1061 1348,1089 1535,1089 1535,1110 1533,1110 1533,1244 1535,1244 1535,1718 1180,1718 1180,1771 1008,1771 1008,1888 1046,1888 1046,2000 875,2000 875,1999 826,1999 826,1741 920,1741 920,1581 874,1581 874,1556 920,1556 920,1312 874,1312 874,1229 825,1229 825,1071 841,1071"/>
+	<TextEquiv conf="0.96366">
+	<Unicode>QUESTÃO 43
+(T,Y,2)
+T+ yYº + 22)
+elétrico criado por uma carga q localizada na origem,
+Considerando E(r, y,2) =q o campo
+analise as afirmações abaixo.
+|. O campo elétrico É criado pela carga q é de
+classe C' em R?.
+Independe do raio da superfície esférica o fluxo do
+campo É através de uma superfície esférica de
+raio r, centrada na origem, cuja normal 77 aponta
+para fora da esfera.
+Ill. É sempre um número maior que 4 o fluxo do
+campo É através de uma superfície esférica de
+raio r, centrada na origem, cuja normal 7i aponta
+para fora da esfera.
+É correto o que se afirma em
+Il, apenas.
+Ill, apenas.
+| e ll, apenas.
+l e Ill, apenas.
+Lie.
+CoOçGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="841,192 1015,192 1015,252 1535,252 1535,353 1533,353 1533,452 1501,452 1501,588 1534,588 1534,669 1535,669 1535,974 873,974 873,935 826,935 826,560 824,560 824,535 825,535 825,252 841,252"/>
+	<TextEquiv conf="0.96557">
+	<Unicode>QUESTÃO 42
+Considere a transformação linear T : IR? — IR? definida
+por T(r,y) = (2x + 6y,6r + 2y).Com relação a esse
+operador, analise as asserções a seguir.
+O núcleo de Té um subespaço vetorial de /R? de dimensão 1.
+PORQUE
+Té um operador normal.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o oO o 6
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="81,1076 790,1076 790,1182 784,1182 784,1401 787,1401 787,1477 317,1477 317,1888 309,1888 309,1988 81,1988 81,1477 80,1477 80,1282 81,1282"/>
+	<TextEquiv conf="0.96610">
+	<Unicode>QUESTÃO 41
+Um peso atado a uma mola move-se verticalmente
+para cima e para baixo de tal modo que a equação do
+movimento é dada por
+sS"(t) + 16s(t) = O,
+em que s(4) é a deformação da mola no tempo £.
+Sabe-se que s(t) = 2 e s(t) =1,parat—=O0,
+Para a função deformação s(t), tem-se que s(t) = O
+quando £ é igual a
+1
+O -arctan(8).
+4
+1 1
+o zactan (5).
+4 8
+o arctantdod.
+2
+o Taretan(s).
+1
+o ã arctan(—8).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,263 790,263 790,378 650,378 650,488 757,488 757,514 712,514 712,586 534,586 534,664 141,664 141,775 187,775 187,955 195,955 195,975 105,975 105,977 81,977 81,634 129,634 129,378 80,378 80,263 96,263"/>
+	<TextEquiv conf="0.94859">
+	<Unicode>QUESTÃO 40
+Considerando E um espaço métrico, A C E um conjunto
+aberto e (x) — E uma sequência convergente para p E A,
+analise as afirmações abaixo.
+|. O complementar de A é fechado em E.
+Il. Toda vizinhança aberta de p está contida em A.
+Ill. x, E A, para todo n suficientemente grande.
+É correto apenas o que se afirma em
+W.
+WI.
+leill.
+lei.</Unicode></TextEquiv></TextRegion></Page></PcGts>

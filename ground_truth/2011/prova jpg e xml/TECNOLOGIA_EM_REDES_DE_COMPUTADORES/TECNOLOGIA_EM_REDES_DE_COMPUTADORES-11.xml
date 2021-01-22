@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:49:30</Created>
+	<LastChange>2020-10-30T20:21:48</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-11.jpg" imageWidth="1613" imageHeight="2162">
+	<ImageRegion id="r3">
+	<Coords points="75,613 77,975 77,1023 833,1021 833,1024 77,1026 77,1216 502,1215 504,1700 1017,1698 1015,1213 1540,1212 1540,974 691,976 691,973 1542,971 1540,609"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="97,192 270,192 270,268 1535,268 1535,483 1533,483 1533,530 928,530 928,1636 563,1636 563,1637 414,1637 414,1819 463,1819 463,1984 484,1984 484,2010 131,2010 131,2011 130,2011 130,2007 81,2007 81,530 80,530 80,268 96,268 96,193 97,193"/>
+	<TextEquiv conf="0.96275">
+	<Unicode>QUESTÃO 16
+O diretor de uma empresa do ramo de construção civil designou à sua equipe de gestão de redes a elaboração do projeto
+de uma rede de computadores para uma nova filial que será aberta em breve. Na estrutura da filial, há um escritório
+central onde se localizam a Engenharia, o Departamento de Compras e o Departamento de Planejamento. O escritório
+central comunica-se com as obras por meio da Internet. O diagrama abaixo apresenta a solução proposta. Sabendo-se
+que os equipamentos disponíveis no almoxarifado são Hubs, Roteadores, Repetidores e Pontes, complete o diagrama
+abaixo colocando o equipamento adequado para cada posição, considerando os equipamentos: Equipamento 1,
+Equipamento 2, Equipamento 3 e Equipamento 4, respectivamente.
+PC PC
+Departamento de Planejamento
+Ponte, Hub, Hub e Hub
+Hub, Roteador, Hub e Hub
+Hub, Hub, Roteador e Hub
+Hub, Repetidor, Hub e Hub
+cGOgÇGoeo
+Hub, Hub, Ponte e Repetidor</Unicode></TextEquiv></TextRegion></Page></PcGts>

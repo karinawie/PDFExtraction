@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:37:08</Created>
+	<LastChange>2020-10-30T00:56:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-15.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="841,192 1015,192 1015,253 1537,253 1537,1118 1536,1118 1536,1119 1535,1119 1535,1765 1180,1765 1180,1803 987,1803 987,2006 875,2006 875,2004 826,2004 826,1772 920,1772 920,1634 919,1634 919,1489 920,1489 920,1359 919,1359 919,1268 874,1268 874,1228 826,1228 826,1227 825,1227 825,1119 824,1119 824,252 841,252"/>
+	<TextEquiv conf="0.96492">
+	<Unicode>QUESTÃO 24
+Na montagem de plataformas de petróleo submersas e
+apoiadas no fundo do mar, são utilizadas uniões parafusadas
+com parafusos de porca na fixação das longarinas estruturais.
+Após a instalação da plataforma, elas ficam sujeitas à ação
+da pressão de coluna d'água e do desgaste por corrosão
+salina. Os efeitos causados pela pressão da coluna d'água
+e pela movimentação das correntes marinhas geram
+solicitações na estrutura que suporta a plataforma, que,
+apesar de aleatórias, podem ser consideradas periódicas e
+harmônicas ao longo do tempo, caracterizando um modelo
+matemático aproximado, que permite o dimensionamento
+estrutural. Por outro lado, o desgaste por corrosão, causado
+pela ação do salito, atua nas superfícies das longarinas,
+nas regiões das uniões parafusadas, ou seja, entre peças
+fixadas, parafusos, porcas e arruelas, se infiltrando nas
+superfícies de contato entre esses elementos. Essa
+corrosão pode levar à perda de função da união parafusada,
+comprometendo a sustentação da plataforma. Das funções
+realizadas pelos componentes de uma união parafusada, as
+dos filetes das roscas do parafusos e das roscas das porcas
+são destacadas. As solicitações no filete de rosca triangular
+de parafuso e porca são caracterizadas por um estado de
+tensões tridimensional, decorrentes da presença de tensões
+normais e de cisalhamento, causadas, respectivamente, por
+esforços axiais na direção do eixo de simetria do parafuso
+(carregamento externo) e pela ação do torque inicial (pré-
+carga, carregamento interno) necessário ao aperto das
+partes envolvidas.
+Em relação ao projeto mecânico estrutural da base
+submersa de uma plataforma de extração de petróleo,
+avalie as seguintes afirmações.
+|. As uniões parafusadas usadas nas fixações das
+longarinas estruturais da base de uma plataforma
+submersa estão submetidas constantemente às
+solicitações dinâmicas.
+Se a estrutura submersa fosse instalada em uma
+região sem movimentação de correntes marinhas,
+as solicitações nas uniões parafusadas seriam,
+principalmente, estáticas.
+O desgaste superficial nas longarinas e nas
+uniões parafusadas submersas compromete a
+estabilidade de toda estrutura e depende apenas
+das solicitações causadas pela movimentação das
+correntes marinhas.
+O cumprimento da função global de uma união
+parafusada na montagem de estruturas mecânicas
+independe do valor da pré-carga administrada ao
+parafuso no momento de sua fixação.
+É correto o que se afirma em
+leill.
+lelv.
+Weliv.
+Lie.
+1, Meilv.
+cCoçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="119,192 270,192 270,264 790,264 790,637 789,637 789,859 790,859 790,1689 534,1689 534,1740 148,1740 148,1876 211,1876 211,1998 105,1998 105,2000 81,2000 81,1709 174,1709 174,1285 129,1285 129,1265 174,1265 174,1058 129,1058 129,826 80,826 80,637 79,637 79,264 119,264"/>
+	<TextEquiv conf="0.95313">
+	<Unicode>QUESTÃO 23
+Atualmente, as indústrias vêm utilizando, em suas linhas
+de produção, equipamentos cada vez mais sofisticados,
+com modernos sistemas mecânicos e eletroeletrônicos,
+de maior grau de complexidade, elevados custos e
+muitas exigências quanto ao nível da manutenção. Dessa
+forma, estruturar bem o planejamento, programação e
+controle tem papel fundamental na execução dos serviços
+de manutenção, pois representa um alto potencial de
+contribuição para o aumento da produtividade.
+Considerando a importância da escolha de um sistema
+de manutenção para assegurar um estado satisfatório,
+previamente especificado, de equipamentos e instalações,
+avalie as afirmações que se seguem.
+I. A manutenção produtiva total é uma filosofia
+de organização em que a execução dos
+serviços de manutenção é feita por equipes
+especializadas, destacadamente as equipes
+de manutenção e produção.
+II. A manutenção preditiva ocorre nas situações em que
+o equipamento apresenta um desempenho abaixo
+do esperado, diagnosticado pelo monitoramento do
+mesmo, ou quando ocorre sua falha.
+III. A manutenção preventiva consiste na substituição
+de peças em intervalos predeterminados, ou
+de acordo com critérios prescritos, destinada a
+reduzir a probabilidade de falha ou a degradação
+do funcionamento de um item.
+IV. A manutenção preditiva deve ser adotada na
+organização quando o equipamento permite algum
+tipo de monitoramento e as falhas são originadas
+de causas que possam ser monitoras e ter sua
+progressão acompanhada.
+É correto apenas o que se afirma em
+A I.
+B II.
+C I e III.
+D II e IV.
+E III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

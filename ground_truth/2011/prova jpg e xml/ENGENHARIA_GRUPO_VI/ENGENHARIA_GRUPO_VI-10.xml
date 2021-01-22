@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:23:36</Created>
+	<LastChange>2020-10-30T02:40:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-10.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r57" type="heading">
+	<Coords points="96,188 264,188 264,235 1535,235 1535,632 1534,632 1534,1957 1386,1957 1386,1997 92,1997 92,1957 81,1957 81,632 80,632 80,235 96,235"/>
+	<TableRegion id="r1">
+	<Coords points="355,734 355,1892 1263,1892 1263,734"/></TableRegion>
+	<TextEquiv conf="0.95460">
+	<Unicode>QUESTÃO 11
+Um engenheiro de produção, responsável pelo planejamento e controle da qualidade da linha de produção de tubos e
+conexões em PVC, está sendo questionado pelos altos custos de retrabalho que o novo item AO5 vêm gerando desde
+que se iniciou a sua produção há cinco meses. O item é enviado para retrabalho quando seu diâmetro excede o limite
+superior de especificação. O processo de produção deste item é controlado por meio de gráficos de controle da média
+e da amplitude (gráficos de Shewart) que monitoram o diâmetro dos tubos produzidos. Os limites de especificação
+definidos pela engenharia do produto para o diâmetro do tubo AO5 é 0,90+0,20 cm. O engenheiro e sua equipe
+analisaram os gráficos de controle (da média e da amplitude) desde o início da produção do tubo e observaram que
+O processo sempre esteve dentro dos limites superior e inferior de controle dos gráficos e, portanto, o processo está
+no estado de controle estatístico apresentando apenas sua variabilidade natural (aleatória). Concluíram, então, que
+a causa do alto índice de retrabalho é devida às especificações do projeto e (ou) à própria variabilidade natural do
+processo de produção. A equipe sabe que a variável de controle “diâmetro” é normalmente distribuída com média do
+processo igual a ,,= 1,00 cm e desvio-padrão do processo igual a q =0,05 em.
+Utilizando a tabela de distribuição normal padrão acumulada, qual é a porcentagem de itens AO5 que são enviados para
+retrabalho nesse processo de produção e que vem gerando alto custo?
+O 18,406
+O 2,275 O 13,567
+O 86,433 Q 97,725</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T17:21:40</Created>
+	<LastChange>2021-01-19T18:44:01</LastChange></Metadata>
+	<Page imageFilename="COMUNICACAO_SOCIAL-31.jpg" imageWidth="1637" imageHeight="2188">
+	<ImageRegion id="r0">
+	<Coords points="324,394 324,1551 1270,1551 1270,394"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="112,274 311,274 311,341 1417,341 1417,371 877,371 877,1616 1526,1616 1526,1754 1357,1754 1357,1789 575,1789 575,2060 113,2060 113,2053 112,2053"/>
+	<TextEquiv conf="0.93002">
+	<Unicode>QUESTÃO 26:
+Leia o organograma que representa um planejamento de campanha de marketing político:
+Com base na leitura dessa figura, leia as afirmativas:
+I. O planejamento do marketing político é semelhante ao planejamento do marketing de produto.
+Il. O marketing político é um conjunto de técnicas e de procedimentos, cujo objetivo é avaliar a
+disposição da sociedade para votar em determinado candidato.
+III. As estratégias do marketing político fundamentam-se em pesquisas qualitativas e quantitativas
+para definir a postura do candidato, os temas, as propostas e a forma de apresentá-las.
+É CORRETO o que se afirma em
+A) IIeIII
+B) II
+C) IeIII
+D) III
+E) IeII</Unicode></TextEquiv></TextRegion></Page></PcGts>

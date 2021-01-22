@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:36:23</Created>
+	<LastChange>2020-10-30T00:53:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-18.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,192 266,192 266,262 1536,262 1536,662 1534,662 1534,1446 1536,1446 1536,1551 1535,1551 1535,1696 1459,1696 1459,1910 1194,1910 1194,1960 987,1960 987,2009 129,2009 129,2010 128,2010 128,2006 81,2006 81,1754 79,1754 79,1728 80,1728 80,262 96,262"/>
+	<ImageRegion id="r1">
+	<Coords points="307,684 307,1368 1547,1368 1547,684"/></ImageRegion>
+	<TextEquiv conf="0.94400">
+	<Unicode>QUESTÃO 31
+Um fabricante de discos de freio desenvolveu um novo material para essas peças e não dispunha de parâmetros de
+usinagem de referência para operação de faceamento dos discos nos seus tornos frontais, especialmente adquiridos
+para essa finalidade, com faixa de rotações escalonadas por caixa de engrenagens de 100 a 6 500 rotações por
+minuto (rpm). O faceamento deverá ser feito a partir do diâmetro de 25 mm até o diâmetro de 150 mm do disco, que,
+associado à faixa de rpm da máquina, é possível realizar velocidades de corte desde 7 até 3 063 m/min. Considerando
+que a decisão do melhor material de ferramenta, juntamente com seus parâmetros de corte, deve estar embasada
+nos resultados de ensaios de usinabilidade e nos custos de produção dos discos, especialmente nos custos do tempo
+de troca de ferramentas, dos salários e das máquinas, a empresa realizou esses ensaios com o material dos discos
+e com três tipos de materiais de ferramenta: aço-rápido, metal duro e cerâmica. O resultado dos experimentos está
+apresentado na figura abaixo, na forma de curvas de vida de ferramentas.
+KALPAKJIAN, S. Manufacturing engineering and technology. 3. ed. Massachusetts: Addison-Wesley, 1995. p. 1269 (com adaptações).
+Considerando a situação descrita, analise as seguintes asserções.
+Dos três materiais de ferramentas experimentados, o aço-rápido proporcionará o menor custo de produção dos discos
+de freio.
+PORQUE
+Com ferramenta de aço-rápido e a inevitável condição do aumento da velocidade de corte, ao facear cada disco de freio
+no percurso de avanço da ferramenta desde o diâmetro 25 mm até 150 mm, tem-se a menor taxa de redução da vida
+útil da ferramenta e a possibilidade de menores tempos de produção.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+cGOoOoçÇ eo
+Tanto a primeira quanto a segunda asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

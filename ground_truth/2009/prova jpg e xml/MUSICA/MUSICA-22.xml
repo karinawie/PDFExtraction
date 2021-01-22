@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T21:33:15</Created>
+	<LastChange>2020-11-16T22:19:23</LastChange></Metadata>
+	<Page imageFilename="MUSICA-22.jpg" imageWidth="1637" imageHeight="2188">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="112,1495 311,1495 311,1569 1526,1569 1526,2029 113,2029 113,1965 112,1965 112,1819 111,1819 111,1569 112,1569"/>
+	<TextEquiv conf="0.40468">
+	<Unicode>QUESTÃO 36
+A partir da primeira metade do século XX, importantes metodologias de educação musical ativas,
+como as de Emile Jaques-Dalcroze, Carl Orff, Zoltán Kodály, Shinichi Suzuki e Edgar Willems,
+foram difundidas no Brasil.
+Em relação a essas escolas de educação musical, é INCORRETO afirmar que
+A) a abordagem proposta por Orff enfatiza o movimento corporal, a rítmica, a criação e a linguagem
+falada e cantada.
+B) a metodologia Kodály incorpora avanços tecnológicos e promove a “livre expressão”.
+C) a metodologia Willems se fundamenta na psicologia da natureza do ser humano.
+D) a proposta metodológica de Suzuki trabalha com a educação do talento por meio do repertório
+europeu.
+E) o princípio básico do método Dalcroze é a integração entre movimento, tempo, espaço, equilíbrio e
+escuta musical.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="154,300 154,1145 1400,1145 1400,300"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1267,127 1536,127 1536,286 1526,286 1526,1234 947,1234 947,1441 133,1441 133,1435 112,1435 112,1331 111,1331 111,1234 110,1234 110,1171 112,1171 112,152 1267,152"/>
+	<TextEquiv conf="0.96307">
+	<Unicode>QUESTÃO 35
+Observe os exemplos a seguir:
+Assinale a alternativa em que é apresentada a classificação dos tipos de notas melódicas
+presentes nos exemplos dados.
+A) antecipação — bordadura — apogiatura — nota de passagem
+B) bordadura — nota de passagem — antecipação — apogiatura
+bordadura — antecipação — apogiatura — nota de passagem
+nota de passagem — antecipação — apogiatura — bordadura
+nota de passagem — bordadura — apogiatura — antecipação
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

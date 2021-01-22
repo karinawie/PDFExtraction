@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:35:53</Created>
+	<LastChange>2020-10-30T00:49:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-20.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,163 399,163 399,254 1535,254 1535,412 1187,412 1187,1063 1457,1063 1457,1407 1535,1407 1535,1768 1459,1768 1459,1930 1194,1930 1194,1971 987,1971 987,2011 794,2011 794,2012 129,2012 129,2013 128,2013 128,2009 81,2009 81,1806 79,1806 79,1591 80,1591 80,1407 81,1407 81,414 79,414 79,255 80,255"/>
+	<ImageRegion id="r1">
+	<Coords points="423,442 423,989 1189,989 1189,442"/></ImageRegion>
+	<TextEquiv conf="0.95450">
+	<Unicode>QUESTÃO 35
+A análise das condições econômicas de usinagem leva em consideração, direta ou indiretamente, todas as informações
+técnicas e econômicas envolvidos no processo, sobretudo os tempos, os custos e a usinabilidade dos materiais, esta
+última representada pelas constantes K e x da equação de Taylor (T = K . vc
+-x ). Depois de processadas tais informações,
+obtém-se, para cada situação particular de usinagem, o comportamento dos tempos e dos respectivos custos em
+função da velocidade de corte, conforme modelo apresentado no gráfico de custos abaixo.
+No gráfico, emprega-se a seguinte notação:
+C1: parcela de custo relativa aos tempos de preparação da tarefa (setup de máquina, material, ferramentas,
+fixações) e improdutivos independentes da velocidade de corte (fixar /soltar peça, aproximar/afastar
+ferramenta, controle de qualidade).
+C2: parcela de custo relativa aos tempos de efetivo corte, incluindo as despesas com mão de obra (salários)
+e com máquina (depreciação, energia consumida, manutenção, espaço ocupado).
+C3: parcela de custo relativa à ferramenta (aquisição e troca).
+Kp: custo total de usinagem por peça.
+VC (m/min): Velocidade econômica de corte.
+Considerando os fatores da usinagem influentes nos custos de produção por peça e o comportamento das linhas de
+custos (curvas e reta) que compõem o gráfico-modelo acima, analise as seguintes asserções.
+Na conjuntura competitiva atual do setor industrial metal-mecânico que pratica altos custos produtivos, a necessária
+efetivação do menor custo de usinagem por peça (Min. Custo Û Vcmin) implica a necessária disponibilidade de máquinas
+com altas rotações e de ferramentas de alto desempenho.
+PORQUE
+Com o uso de máquinas de baixas rotações que possibilitam apenas baixas velocidades de corte, o custo relativo ao
+tempo efetivo de corte (C2
+) será elevado, assim como a adoção de ferramentas de baixa resistência ao desgaste e de
+baixo desempenho técnico operacional fará aumentar o custo de ferramentas, principalmente devido às paradas de
+máquina para suas trocas (C3
+).
+Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+E Tanto a primeira quanto a segunda asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

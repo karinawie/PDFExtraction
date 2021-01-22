@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:03</Created>
+	<LastChange>2020-11-16T04:03:19</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-30.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="825,259 1536,259 1536,544 1535,544 1535,1107 1537,1107 1537,1322 1180,1322 1180,1368 1055,1368 1055,1601 876,1601 876,1602 875,1602 875,1600 826,1600 826,1337 875,1337 875,753 874,753 874,604 826,604 826,545 825,545"/>
+	<TextEquiv conf="0.96341">
+	<Unicode>QUESTÃO 47
+Uma empresa de natureza estritamente operacional
+deseja implantar um setor de suporte ao processo
+de tomada de decisão, já que os resultados que vem
+apresentando demonstram contínua queda da margem
+de lucro e aumento do custo operacional. Para isso, os
+executivos de alto escalão da empresa decidiram investir
+na aquisição de uma ferramenta OLAP acoplada a uma
+data warehouse.
+Nessa situação, avalie as afirmações a seguir.
+|. No que tange ao tipo de suporte propiciado, os
+sistemas OLAP podem ser classificados como
+sistemas de trabalhadores do conhecimento.
+Il. Ferramentas OLAP apresentam foco orientado a
+assunto, em contraposição a sistemas OLTP, que
+são orientados a aplicação.
+Ill. Tendo em vista que data marts são construídos
+utilizando-se os sistemas legados da empresa,
+sem a utilização de dados externos, o processo
+de extração, transformação e carga envolve a
+integração de dados, suprimindo-se a tarefa de
+limpeza.
+IV. O projeto de um data warehouse define a forma
+com que a base de dados será construída. Uma
+das opções é a abordagem data mart, em que os
+diversos data marts são integrados, até que se
+obtenha, ao final do processo, um data warehouse
+da empresa.
+É correto o que se afirma em
+l e Ill, apenas.
+| e IV, apenas.
+Il e Ill, apenas.
+Il e IV, apenas.
+LIL EV.
+CoOoçÇgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,255 790,255 790,345 570,345 570,452 725,452 725,549 790,549 790,641 541,641 541,1024 533,1024 533,1262 775,1262 775,1263 776,1263 776,1356 575,1356 575,1555 81,1555 81,641 80,641 80,452 81,452 81,345 80,345"/>
+	<TextEquiv conf="0.88970">
+	<Unicode>QUESTÃO 46
+Em um modelo de dados que descreve a publicação
+acadêmica de pesquisadores de diferentes instituições
+em eventos acadêmicos, considere as tabelas abaixo.
+DEPARTAMENTO (tCodDepartamento,
+NomeDepartamento)
+EMPREGADO (tCodEmpregado, NomeEmpregado,
+CodDepartamento, Salario)
+Na linguagem SQL, o comando mais simples para
+recuperar os códigos dos departamentos cuja média
+salarial seja maior que 2000 é
+(A) SELECT CodDepartamento
+FROM EMPREGADO
+GROUP BY CodDepartamento
+HAVING AVG (Salario) &gt; 2000
+O SELECT CodDepartamento
+FROM EMPREGADO
+WHERE AVG (Salario) &gt; 2000
+GROUP BY CodDepartamento
+O SELECT CodDepartamento
+FROM EMPREGADO
+WHERE AVG (Salario) &gt; 2000
+(D) SELECT CodDepartamento, AVG (Salario) &gt; 2000
+FROM EMPREGADO
+GROUP BY CodDepartamento
+e SELECT CodDepartamento
+FROM EMPREGADO
+GROUP BY CodDepartamento
+ORDER BY AVG (Salario) &gt; 2000</Unicode></TextEquiv></TextRegion></Page></PcGts>

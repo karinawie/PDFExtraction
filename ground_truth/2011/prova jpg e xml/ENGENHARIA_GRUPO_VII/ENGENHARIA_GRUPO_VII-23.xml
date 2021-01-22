@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:46:21</Created>
+	<LastChange>2020-10-30T02:58:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-23.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="119,191 270,191 270,251 1536,251 1536,1779 1535,1779 1535,1847 1534,1847 1534,1917 1369,1917 1369,2000 1112,2000 1112,2001 81,2001 81,1780 80,1780 80,1640 79,1640 79,1639 80,1639 80,251 119,251"/>
+	<ImageRegion id="r1">
+	<Coords points="186,563 186,1628 1536,1628 1536,563"/></ImageRegion>
+	<TextEquiv conf="0.95374">
+	<Unicode>QUESTÃO 29
+O modelo AERMOD, que se baseia no modelo gaussiano de dispersão da poluição atmosférica, foi empregado para
+estimar a distribuição espacial do mercúrio elementar (Hg,) oriunda de uma caldeira alimentada a carvão mineral.
+O elemento mercúrio foi escolhido para a simulação pelos seus efeitos neurológicos e sobre a reprodução,
+que podem acarretar riscos elevados para a população próxima à caldeira. Quatro simulações, utilizando dados
+meteorológicos coletados durante um período de seis anos, foram realizadas para dois tipos de terreno (planos e
+ondulados), e para duas alturas de chaminé (20 m e 55 m), e, ainda, para uma distância máxima de 1 350 m a partir da
+linha de centro da chaminé. O modelo estimou as concentrações de mercúrio a uma distância padrão de 2,0 m acima do
+nível do solo. As figuras | (a) e | (b) apresentam os resultados das simulações para relevo ondulado, e as figuras |l (a) e
+Il (b) apresentam os resultados das simulações para terrenos planos, ambas para cada altura de chaminé modeladas.
+Sabe-se que NE = Nordeste, NW = Noroeste, SE = Sudeste, SW = Sudoeste.
+A partir desses dados, avalie as afirmações que se seguem.
+|. Ainfluência da altura da chaminé é mais significativa do que a influência do tipo de relevo, no que se refere à
+ocorrência dos maiores picos de concentrações.
+Il. Achaminé com altura de 20 m propicia, em relevo plano, menores picos de concentrações do que a chaminé de 55 m.
+Ill. Para a chaminé de 20 m, o relevo ondulado ocasiona concentrações mais elevadas, já que esse tipo de relevo
+reduz a velocidade do vento e dificulta a dispersão dos poluentes.
+IV. Para a chaminé de 55 m, observa-se uma mudança na forma do pico, sendo que, para o terreno ondulado esse pico
+é mais achatado, resultando na manutenção dos valores das concentrações por uma extensão maior de terreno.
+É correto apenas o que se afirma em
+Oo. oe. Olelv O llelll. O llelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

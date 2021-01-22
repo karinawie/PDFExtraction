@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:11</Created>
+	<LastChange>2020-11-16T04:03:35</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-28.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r4">
+	<Coords points="381,442 382,1097 1238,1096 1237,441"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,225 1536,225 1536,384 1534,384 1534,1285 1274,1285 1274,1376 937,1376 937,1504 1535,1504 1535,2009 832,2009 832,2010 128,2010 128,2011 128,1974 81,1974 81,1625 80,1625 80,386 79,386 79,226 80,226"/>
+	<TextEquiv conf="0.95635">
+	<Unicode>QUESTÃO 44
+A utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu
+desempenho, uma vez que o sinal de vai-um final deve propagar por todos os somadores, desde as entradas dos bits menos
+significativos. Esse caminho crítico insere um atraso no sistema que compromete o projeto de ULAs rápidas. Para reduzir
+esse atraso, mecanismos de predição de vai-um podem ser usados. Um esquema bem simples de predição de vai-um para
+um somador de 8 bits é apresentado na figura a seguir.
+Os 4 bits mais significativos são somados de forma redundante, considerando o vem-um O no primeiro somador e vem-um
+igual a 1 no segundo somador. A saída dos somadores é selecionada a partir de um multiplexador, que é acionado pelo
+vai-um resultado da soma dos 4 bits menos significativos. Como os 3 somadores podem realizar as operações ao mesmo
+tempo, o multiplexador pode entregar o resultado mais rapidamente.
+Considere as seguintes equações dos somadores:
+S=A&amp;BEVemUm eg Vailm=AB+VemUm.A+ VemUm.B
+Considere, ainda, a equação dos multiplexadores a seguir:
+S = Sel.I0 + Sel.11
+Suponha que o somador de 8 bits tem predição de vai-um baseada na duplicação da soma dos 4 bits mais significativos
+e que 7 ns é o tempo de atraso de propagação por nível de porta AND, OR e XOR. Desconsiderando os inversores,
+o aumento do número de portas e a redução do tempo de propagação podem ser expressos, em porcentagem, como
+aumento de
+O 26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47%
+do tempo para a execução da soma.
+20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47%
+do tempo para a execução da soma.
+26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50%
+do tempo para a execução da soma.
+20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50%
+do tempo para a execução da soma.
+26 portas, representando 65% de acréscimo no número de portas. Não há redução no tempo de atraso de
+propagação para a execução da soma.
+o O o 6o</Unicode></TextEquiv></TextRegion></Page></PcGts>

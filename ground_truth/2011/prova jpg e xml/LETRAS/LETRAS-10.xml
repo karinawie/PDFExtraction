@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:53:21</Created>
+	<LastChange>2020-10-30T14:24:16</LastChange></Metadata>
+	<Page imageFilename="LETRAS-10.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r3">
+	<Coords points="88,283 90,917 1526,911 1524,278"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="97,191 265,191 265,963 1536,963 1536,1402 1535,1402 1535,1504 1245,1504 1245,1505 954,1505 954,1506 663,1506 663,1507 372,1507 372,1508 82,1508 82,1509 81,1509 81,1083 80,1083 80,964 79,964 79,963 96,963 96,192 97,192"/>
+	<TextEquiv conf="0.95707">
+	<Unicode>QUESTÃO 11
+A conjunção é um fator indicativo da natureza das relações entre orações. Quando se trata de conjunções coordenadas,
+pode-se, então, falar não só de uma classificação sintática, mas de um valor semântico subjacente que estabelece o
+vínculo das orações. Dessa forma, é correto afirmar que a conjunção coordenativa presente no quadrinho
+O funciona com valor de explicação e justifica o sentido tanto da primeira quanto da segunda oração.
+O tem valor semântico de soma, pois agrega duas orações sem estabelecer relações semânticas entre elas.
+O funciona com valor adversativo nas ideias expressas na sentença e poderia ser substituída por uma conjunção
+dessa natureza.
+O funciona com valor expletivo e pode ser extraída das sentenças sem alteração no modo de conexão sintática e
+semântica do período.
+O funciona como elo conclusivo entre as ideias contidas nas orações e expressa a conclusão a que chegou um dos
+personagens do quadrinho.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

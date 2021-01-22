@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:47:03</Created>
+	<LastChange>2020-10-29T23:47:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-22.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="149,110 148,620 1603,624 1604,114"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="401,1000 401,1004 1248,1006 1248,1002"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="401,1082 401,1086 1248,1088 1248,1084"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="401,1137 401,1141 1248,1143 1248,1139"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="401,1193 401,1196 1248,1198 1248,1195"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="401,1248 401,1251 1248,1253 1248,1250"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="400,1002 399,1306 401,1306 402,1002"/></SeparatorRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="1018,1002 1017,1306 1020,1306 1021,1002"/></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="401,1303 401,1306 1248,1308 1248,1305"/></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="1247,1002 1246,1306 1248,1306 1249,1002"/></SeparatorRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="808,740 808,741 1145,741 1145,807 808,807 808,806 470,806 470,805 469,805 469,740"/>
+	<TextEquiv conf="0.96636">
+	<Unicode>Prezado(a) estudante,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1416,885 1416,911 200,911 200,910 199,910 199,885"/>
+	<TextEquiv conf="0.95675">
+	<Unicode>1- Aseguir, serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="764,932 764,933 1279,933 1279,958 247,958 247,932"/>
+	<TextEquiv conf="0.89457">
+	<Unicode>Específico Profissionalizante dos cursos de Engenharia Grupo Il, assim distribuídas:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="976,1034 976,1061 418,1061 418,1060 417,1060 417,1034"/>
+	<TextEquiv conf="0.90061">
+	<Unicode>Componente Específico Profissionalizante</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="1056,1019 1056,1020 1212,1020 1212,1074 1211,1074 1211,1075 1055,1075 1055,1019"/>
+	<TextEquiv conf="0.96709">
+	<Unicode>Número das
+questões</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="506,1103 506,1123 418,1123 418,1103"/>
+	<TextEquiv conf="0.96652">
+	<Unicode>Elétrica</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="1178,1103 1178,1124 1089,1124 1089,1123 1088,1123 1088,1103"/>
+	<TextEquiv conf="0.88394">
+	<Unicode>32a35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="537,1158 537,1178 418,1178 418,1158"/>
+	<TextEquiv conf="0.96538">
+	<Unicode>Eletrônica</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="1178,1158 1178,1179 1089,1179 1089,1178 1088,1178 1088,1158"/>
+	<TextEquiv conf="0.96570">
+	<Unicode>36 a 39</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="418,1213 418,1214 676,1214 676,1239 418,1239 418,1238 417,1238 417,1213"/>
+	<TextEquiv conf="0.96136">
+	<Unicode>Controle e Automação</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="1178,1213 1178,1234 1088,1234 1088,1233 1087,1233 1087,1213"/>
+	<TextEquiv conf="0.96182">
+	<Unicode>40 a 43</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="643,1268 643,1293 416,1293 416,1268"/>
+	<TextEquiv conf="0.96513">
+	<Unicode>Telecomunicações</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="1178,1268 1178,1289 1088,1289 1088,1288 1087,1288 1087,1268"/>
+	<TextEquiv conf="0.94957">
+	<Unicode>44 a 47</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="1011,1365 1011,1366 1416,1366 1416,1486 199,1486 199,1485 198,1485 198,1365"/>
+	<TextEquiv conf="0.96193">
+	<Unicode>2- Desse conjunto, você deverá escolher APENAS 4 (quatro) questões para responder. Você
+deverá responder às 4 (quatro) questões que desejar, independente de qual seja o seu curso,
+deixando as demais sem resposta. Se você responder a mais de 4 (quatro) questões, somente</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="742,1507 742,1534 247,1534 247,1533 246,1533 246,1532 247,1532 247,1507"/>
+	<TextEquiv conf="0.96553">
+	<Unicode>serão corrigidas as 4 (quatro) primeiras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="1011,1593 1011,1594 1416,1594 1416,1620 1011,1620 1011,1619 605,1619 605,1618 199,1618 199,1617 198,1617 198,1593"/>
+	<TextEquiv conf="0.96029">
+	<Unicode>3- Observe atentamente os números das questões escolhidas para assinalar corretamente no</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="534,1641 534,1667 246,1667 246,1641"/>
+	<TextEquiv conf="0.96257">
+	<Unicode>Caderno de Respostas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="361,2117 361,2128 370,2128 370,2117 370,2128 80,2128 89,2128 89,2117"/>
+	<TextEquiv conf="0.68651">
+	<Unicode>* A O 2 2 011 2 2*</Unicode></TextEquiv></TextRegion></Page></PcGts>

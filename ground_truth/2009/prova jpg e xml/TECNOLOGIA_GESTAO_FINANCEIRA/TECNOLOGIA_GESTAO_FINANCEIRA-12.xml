@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T04:31:56</Created>
+	<LastChange>2020-11-16T22:15:47</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_GESTAO_FINANCEIRA-12.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r4">
+	<Coords points="818,1137 816,2060 820,2060 822,1137"/></SeparatorRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords points="1526,174 1526,208 1163,208 1163,207 799,207 799,237 798,237 798,238 112,238 112,174"/>
+	<TextEquiv conf="0.96513">
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords points="869,1139 1069,1139 1069,1223 1526,1223 1526,1276 1528,1276 1528,1304 1526,1304 1526,1553 1528,1553 1528,1635 1525,1635 1525,1794 1168,1794 1168,1845 919,1845 919,1794 871,1794 871,1793 870,1793 870,1476 869,1476 869,1276 870,1276 870,1168 869,1168"/>
+	<TextEquiv conf="0.92412">
+	<Unicode>QUESTÃO 14:
+Com base nas demonstrações contábeis
+acima, apure os indicadores relativos ao ano
+2:
+A) A empresa é mais financiada por recursos
+próprios que por recursos de terceiros.
+B) A empresa não tem dívidas onerosas.
+C) A liquidez corrente é maior que a liquidez
+geral.
+D) À
+aproximadamente.
+lucratividade operacional é de 33%,
+E) O retorno do patrimônio líquido é de 5%,
+aproximadamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="112,1139 311,1139 311,1223 768,1223 768,1773 525,1773 525,1776 372,1776 372,1826 162,1826 162,1825 161,1825 161,1462 112,1462 112,1357 111,1357 111,1223 112,1223"/>
+	<TextEquiv conf="0.93494">
+	<Unicode>QUESTÃO 13:
+Com base nas demonstrações contábeis
+acima, apure os indicadores:
+A) Pela análise horizontal, o lucro do período
+aumentou 10%.
+B) Pela análise vertical, o lucro do período
+aumentou 50%.
+Pela análise horizontal, a receita bruta
+diminuiu 20%.
+Pela análise horizontal, a receita bruta
+aumentou 20%.
+receita bruta
+Pela análise vertical, a
+aumentou 20%.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="113,264 113,1070 1540,1070 1540,264"/></TableRegion></Page></PcGts>

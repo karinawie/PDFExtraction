@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:47:23</Created>
+	<LastChange>2020-10-29T23:57:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-20.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="281,378 281,957 676,957 676,378"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="868,386 868,957 1452,957 1452,386"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="96,192 431,192 431,243 1535,243 1535,312 1537,312 1537,369 1533,369 1533,1079 1534,1079 1534,1174 144,1174 144,1175 143,1175 143,999 80,999 80,312 81,312 81,243 96,243"/>
+	<TextEquiv conf="0.96393">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Um forno com aquecimento resistivo tem um controle de temperatura do tipo liga-desliga (figura |). Esse comando é
+realizado a partir de um sensor de temperatura, cujo comportamento é ilustrado no gráfico da figura Il.
+Quando a temperatura atinge 100 ºC, a alimentação do forno é interrompida. Quando se reduz a 90ºC, o forno é ligado. À
+resistência Rx é um termistor, ou seja, o valor de sua resistência varia com a temperatura de acordo com o gráfico da figura |l.
+Com base nessa situação, faça o que se pede nos itens a seguir.
+a) Determine o valor da tensão Vs que corresponde ao limite inferior de temperatura de operação do forno.
+(valor: 3,0 pontos)
+b) Determine a corrente fornecida pela fonte Vcc, quando a temperatura é máxima. (valor: 3,0 pontos)
+c) Se a tensão Vcc tiver que ser substituída por uma bateria de 9 V, qual o novo valor de R para que a temperatura
+máxima do forno não seja alterada? Justifique sua resposta. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

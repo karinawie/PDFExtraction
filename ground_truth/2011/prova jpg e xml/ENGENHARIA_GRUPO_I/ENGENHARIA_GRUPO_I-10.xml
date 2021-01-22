@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:08:58</Created>
+	<LastChange>2020-10-29T23:38:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-10.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="87,445 88,859 796,858 795,444"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 270,191 270,270 790,270 790,1200 505,1200 505,1492 497,1492 497,1550 104,1550 104,1553 81,1553 81,1274 80,1274 80,346 79,346 79,270 96,270"/>
+	<TextEquiv conf="0.93781">
+	<Unicode>QUESTÃO 10
+O muro de arrimo representado no desenho abaixo
+teve sua seção transversal pré-dimensionada conforme
+indicado na figura.
+Suponha que o empuxo de terra ativo de magnitude 50 kN
+atua perpendicularmente ao paramento do muro à 0,9 m de
+sua base e que o muro de concreto ciclópico pesa 30 kN, com
+resultante localizada a 0,5 m do ponto A. Se o momento de
+tombamento (Mt) é aquele provocado apenas pelo empuxo
+de terra (E) e o momento resistente (Mr) é proveniente
+apenas do peso do muro (W), então
+Mt = 12 kN.m e Mr = 15 kN.m.
+Mt = 12 kN.m e Mr = 30 kN.m.
+Mt = 15 kN.m e Mr = 12 kN.m.
+Mt = 32 kN.m e Mr = 12 kN.m.
+GOGoo
+Mt = 32 kN.m e Mr = 15 kN.m.</Unicode></TextEquiv></TextRegion></Page></PcGts>

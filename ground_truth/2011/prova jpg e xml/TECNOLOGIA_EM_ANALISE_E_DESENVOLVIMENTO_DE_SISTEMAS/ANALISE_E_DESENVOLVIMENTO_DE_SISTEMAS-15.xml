@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:36:01</Created>
+	<LastChange>2020-09-23T19:36:19</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-15.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r14">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="841,192 1015,192 1015,250 1535,250 1535,1074 873,1074 873,1008 826,1008 826,738 824,738 824,712 825,712 825,250 841,250"/>
+	<TextEquiv conf="0.96030">
+	<Unicode>QUESTÃO 27
+Modelos de ciclo de vida de processo de software são
+descrições abstratas do processo de desenvolvimento,
+mostrando as principais atividades e informações usadas
+na produção e manutenção de software, bem como a
+ordem em que as atividades devem ser executadas.
+Com relação aos modelos de ciclo de vida de processo de
+software, analise as seguintes asserções.
+O modelo de desenvolvimento em cascata acrescenta
+aspectos gerenciais (planejamento, controle e tomada de
+decisão) ao processo de desenvolvimento de software
+PORQUE
+considera que o processo é composto por várias etapas
+que são executadas de forma sistemática e sequencial.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords points="841,1103 1259,1103 1259,1161 1536,1161 1536,1302 1535,1302 1535,1375 1534,1375 1534,1489 1535,1489 1535,1762 1287,1762 1287,1853 948,1853 948,1984 956,1984 956,2005 849,2005 849,2007 826,2007 826,1832 834,1832 834,1776 874,1776 874,1375 825,1375 825,1302 824,1302 824,1161 841,1161"/>
+	<TextEquiv conf="0.96439">
+	<Unicode>QUESTÃO 28 ITEM 2489
+A virtualização permite que um único computador
+hospede múltiplas máquinas virtuais, cada uma com seu
+próprio sistema operacional. Essa técnica tem ganhado
+importância nos dias atuais e vem sendo utilizada para
+resolver diversos tipos de problemas.
+Considerando os diversos aspectos a serem considerados
+na utilização da virtualização, avalie as afirmações abaixo.
+|. Um sistema operacional sendo executado em uma
+máquina virtual utiliza um subconjunto da memória
+disponível na máquina real.
+Il. Uma das aplicações da virtualização é a
+disponibilização de múltiplos sistemas operacionais
+para teste de software.
+Ill. A virtualização só pode ser utilizada em sistemas
+operacionais Linux.
+IV. Um sistema operacional executado em uma
+máquina virtual! apresenta um desempenho
+superior ao que alcançaria quando executado
+diretamente na mesma máquina real.
+É correto apenas o que se afirma em
+l.
+WI.
+lell.
+Ieilv.
+Welv.
+cogGoos</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="71,760 71,1342 792,1342 792,760"/></TableRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,192 270,192 270,264 790,264 790,1580 788,1580 788,1688 541,1688 541,1739 226,1739 226,2001 130,2001 130,2000 81,2000 81,1483 80,1483 80,739 79,739 79,264 96,264"/>
+	<TextEquiv conf="0.96848">
+	<Unicode>QUESTÃO 26
+Um engenheiro de software planejou o desenvolvimento
+de um novo projeto, com prazo máximo de 220 dias, em
+seis fases: comunicação, planejamento, modelagem,
+construção, documentação e implantação. As fases seriam
+realizadas na sequência em que foram listadas. Exceção
+foi feita para as fases de construção e a documentação,
+que poderiam ocorrer em paralelo. Entretanto, a fase de
+implantação só poderia ocorrer se tanto construção quanto
+documentação estivessem encerradas.
+A tabela a seguir apresenta a duração de cada fase do
+plano de desenvolvimento proposto.
+Considerando o uso do Método do Caminho Crítico, e que
+o projeto tem prazo máximo de 220 dias, com início no dia 1,
+avalie as seguintes afirmações.
+|. Adata mínima para o início da fase de implantação
+é o dia 191.
+Il. O projeto possui um caminho crítico, que é 1-2-3-5-6.
+Ill. Afolga livre da atividade documentação é de 60 dias.
+É correto apenas o que se afirma em:
+o.
+lell.
+lei.
+Neil.
+Lie,
+[MENCENORNO)</Unicode></TextEquiv></TextRegion></Page></PcGts>

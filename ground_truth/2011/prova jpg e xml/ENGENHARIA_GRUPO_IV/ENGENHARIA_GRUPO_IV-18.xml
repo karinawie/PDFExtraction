@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:08:43</Created>
+	<LastChange>2020-10-30T01:28:29</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-18.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="96,192 438,192 438,254 1535,254 1535,529 1015,529 1015,661 1330,661 1330,908 1533,908 1533,990 1535,990 1535,1082 1424,1082 1424,1132 1160,1132 1160,1181 143,1181 143,967 80,967 80,254 96,254"/>
+	<TextEquiv conf="0.96453">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Uma operação importante na indústria de cerâmica é o tratamento térmico que deve ocorrer em fornos a altas
+temperaturas. Para avaliar e supervisionar de maneira eficiente a operação desses fornos é importante conhecer como
+acontece a transferência de calor nesses equipamentos, em suas diferentes formas, como a condução e a convecção.
+Suponha que uma fábrica de materiais cerâmicos tem como parte de seu processo um forno retangular que é isolado
+do meio externo por 2 camadas, que formam a sua parede. A primeira camada de espessura L, está em contato com
+o material que está dentro do forno e é constituída de material refratário especial (k = 0,50 W/m"ºC). A segunda camada
+é constituída de um material isolante (Kk = 0,1 W/mºC) e tem espessura L,. A temperatura na face interna do forno (T,,)
+é igual a 925ºC e a temperatura ambiente (T ,) é igual a 25ºC. O fluxo de calor através da parede do forno (Q)
+amb:
+é constante e igual a 1000 W/m? e a espessura total da parede é de 0,30 m.
+São dadas as seguintes expressões matemáticas:
+7 Fte Rognveccao = A. Ry= h.
+em que:
+k é a condutividade térmica;
+h é o coeficiente de transferência térmica (h = 10 W/m?ºC para o ar);
+R é a resistência a transferência de calor;
+Com base na situação-problema acima e considerando que a área A é igual a 1 m?, faça o que se pede nos itens a seguir.
+a) Esboce um desenho que represente o circuito térmico equivalente, ou seja, o circuito formado pela resistência
+à transferência de calor entre a parte interna do forno e o meio externo, usando analogia com resistências
+elétricas. (valor: 2,0 pontos)
+b) Determine a espessura de cada uma das camadas que formam a parede do forno. (valor: 5,0 pontos)
+c) Determine a temperatura da superfície externa das camadas. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

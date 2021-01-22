@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T19:44:52</Created>
+	<LastChange>2020-11-16T15:28:33</LastChange></Metadata>
+	<Page imageFilename="zootecnia_2010-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="825,287 825,2097 826,2097 826,287"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="99,1293 306,1293 306,1362 785,1362 785,1874 472,1874 472,2090 145,2090 145,1874 98,1874 98,1362 99,1362"/>
+	<TextEquiv conf="0.96571">
+	<Unicode>QUESTÃO 18
+Um lote de vacas leiteiras com peso corporal (PC) médio
+de 500 kg apresenta um consumo estimado de 3,0%
+do PC em matéria seca (MS). Considerando apenas
+os nutrientes digestíveis totais (NDT) e a proteína
+bruta (PB), a exigência nutricional desses animais é de
+12,0 kg e 2,4 kg, respectivamente. Os animais estão
+consumindo 40% de sua dieta total em silagem de milho,
+que apresenta um teor de PB de 10% e de NDT de 80%
+(valores expressos na MS). Além do volumoso, esses
+animais vão receber um concentrado que irá compor a
+dieta total.
+Qual deve ser a porcentagem de PB e de NDT presentes
+no concentrado para atender às exigências das vacas
+leiteiras?
+12% de PB e 48% de NDT
+18% de PB e 72% de NDT
+18% de PB e 80% de NDT
+20% de PB e 48% de NDT
+20% de PB e 80% de NDT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="99,280 307,280 307,350 785,350 785,933 654,933 654,1044 786,1044 786,1186 784,1186 784,1225 783,1225 783,1263 146,1263 146,1222 99,1222 99,933 98,933 98,350 99,350"/>
+	<TextEquiv conf="0.96308">
+	<Unicode>QUESTÃO 17
+Para formulação correta de dietas para diferentes
+espécies animais, é necessário o conhecimento de
+suas exigências nutricionais e a composição dos
+alimentos a serem fornecidos. Existem, basicamente,
+duas formas de se obter a composição química dos
+alimentos: adotar os valores encontrados em tabelas
+publicadas ou solicitar análise química em um
+laboratório de bromatologia. Para formular uma dieta,
+um zootecnista utilizou a composição química das
+matérias-primas presentes em uma tabela. Entretanto,
+após encaminhar os ingredientes para análise química,
+verificou que os valores analisados no laboratório eram
+maiores do que os encontrados na tabela de alimento.
+Nessa situação, se a dieta fosse formulada com a
+composição indicada pela análise laboratorial, é correto
+afirmar que poderia haver
+O falta de nutrientes na dieta.
+O desempenho animal inferior ao esperado.
+O necessidade de inclusão de alimentos de melhor
+qualidade.
+O diminuição no custo total da dieta, pela utilização de
+menor quantidade de alimento.
+OQ utilização de maior quantidade de alimento que a
+necessária para obter o mesmo desempenho animal.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r14">
+	<Coords points="857,642 857,931 1557,931 1557,642"/></TableRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="866,254 1554,254 1554,622 1552,622 1552,1103 1464,1103 1464,1294 866,1294 866,1103 865,1103 865,1045 866,1045 866,948 886,948 886,501 865,501 865,347 866,347"/>
+	<TextEquiv conf="0.81017">
+	<Unicode>QUESTÃO 19
+De acordo com estudos recentes publicados na
+Austrália e no Canadá, cada 1% de acréscimo de
+gordura na dieta de ruminantes pode reduzir em até 6%
+a quantidade de metano produzido por kg de matéria
+seca consumida.
+GRAINGER, C. GIA methane: increasing fat can reduce methane emissions.
+GIA Letters. Dept. of Primary Industries, march 2008 apud ABDALLA, A. L. et al.
+Utilização de subprodutos da indústria de biodiesel na alimentação de ruminantes
+Revista Brasileira de Zootecnia v. 37, sup. esp. Viçosa, p. 260-268, 2008.
+Com base na tabela e considerando apenas oO
+consumo de matéria seca, qual grupo genético e qual
+nível de consumo mais contribuirá para diminuição da
+quantidade de metano, se todos forem alimentados com
+dieta formulada com acréscimo de 1% de gordura?
+O Nelore com consumo médio de 8,4 kg MS.
+O Mestiço com consumo de 12,74 kg MS.
+O Nelore com consumo de 10,78 kg MS.
+O Mestiço com consumo médio de 5,25 kg MS.
+O Mestiço com consumo médio de 8,6 kg MS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="866,1320 1074,1320 1074,1386 1553,1386 1553,2102 865,2102 865,1386 866,1386"/>
+	<TextEquiv conf="0.51421">
+	<Unicode>QUESTÃO 20
+Em geral, o controle de qualidade da matéria-prima
+inicia-se no momento da compra, dando prioridade a
+fornecedores conhecidos e confiáveis. O zootecnista
+deve estar atento a determinadas características físicas
+e químicas dos ingredientes, além de adotar vários
+procedimentos de análise para adquirir produtos que
+irão permitir a elaboração de dietas com qualidade. Para
+o zootecnista atingir esse objetivo, está correto utilizar
+O a análise rotineira de ingredientes para observar o
+nível mínimo permitido de agentes biológicos, como
+a salmonela.
+O ogrão de soja sem restrição, processado ou não, pois é
+um alimento que possui proteína de alto valor biológico.
+O ofarelo de algodão, pois ele mantém o mesmo nível de
+proteína bruta, independente de conter ou não casca.
+O o milho grão triturado, com teor de umidade acima
+de 15%, em situações em que a colheita ocorreu no
+período chuvoso.
+O produtos de origem animal isentos de toxidez
+e de germes patológicos, sem indício de ranço,
+fermentações ou putrefações.</Unicode></TextEquiv></TextRegion></Page></PcGts>

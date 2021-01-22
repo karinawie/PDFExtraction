@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:03:26</Created>
+	<LastChange>2020-10-30T19:02:14</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-16.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="81,192 1215,192 1215,1274 1535,1274 1535,1507 1534,1507 1534,1978 1071,1978 1071,1979 607,1979 607,1980 144,1980 144,1981 143,1981 143,1716 81,1716 81,1509 80,1509 80,1279 81,1279"/>
+	<ImageRegion id="r1">
+	<Coords points="84,381 84,1265 1544,1265 1544,381"/></ImageRegion>
+	<TextEquiv conf="0.89276">
+	<Unicode>QUESTÃO 20
+Um sistema de controle industrial de produção de água sanitária é apresentado na figura.
+Sistema de controle industrial de produção de água sanitária
+Considere que esse sistema possui a seguinte instrumentação:
+- Sensor nível de NaOH diluído (NNaOH)
+- Sensor de concentração de NaOH (CNaOH)
+- Sensor de vazão de NaOH (VNaOH)
+- Sensor de nível de água sanitária (NAS)
+Um tecnólogo em automação industrial foi contratado para implementar uma lógica de um sistema de segurança com
+um controlador lógico programável (CLP). O sistema de segurança deve soar um alarme (AL) nas seguintes condições:
+- Nível de NaOH diluído (NNaOH) e concentração de NaOH (CNaOH) baixas.
+- Vazão de NaOH (VNaOH) e nível de água sanitária (NAS) baixas.
+- Concentração de NaOH (CNaOH), nível de NaOH diluído (NNaOH), vazão de NaOH (VNaOH) e nível de água
+sanitária (NAS) altos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

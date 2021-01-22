@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:49:00</Created>
+	<LastChange>2020-10-30T00:03:25</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-12.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r4">
+	<Coords points="94,1272 94,1643 775,1643 775,1272"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="820,420 820,842 1542,842 1542,420"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="824,862 824,1248 1538,1248 1538,862"/></ImageRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="810,197 810,2097 812,2097 812,197"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,1696 1456,1696 1456,1729 1190,1729 1190,1774 1180,1774 1180,1852 1054,1852 1054,1973 971,1973 971,2011 875,2011 875,2009 826,2009 826,1618 825,1618 825,1543 824,1543 824,1443 825,1443 825,254 841,254"/>
+	<TextEquiv conf="0.96792">
+	<Unicode>QUESTÃO 19
+Uma célula fotovoltaica apresenta uma curva característica
+| x V conforme mostra a figura 1, na qual também é
+representada a evolução da potência sobre a carga. Essas
+curvas são obtidas alterando-se a resistência de carga
+(R .), indicada no circuito equivalente mostrado na figura 2.
+load
+Os valores indicados como |,,, € Vy., correspondem ao
+ponto de máxima potência sobre a carga, nesse caso,
+3,5A€e 0,5 V. O valor V,, é a tensão de circuito aberto (0,6 V)
+e |. é a corrente de curto-circuito (4 A). Suponha que a
+corrente |, é constante, assim como a tensão V,.
+Define-se rendimento do circuito como a relação entre
+a potência sobre a resistência de carga e a potência
+fornecida pela fonte de corrente |,.
+Com base nessas informações, avalie as seguintes
+afirmações.
+|. No ponto de máxima potência, o rendimento do
+circuito é de 50%.
+Il. O rendimento máximo do circuito é de 50%.
+Ill. Acorrente |, vale 4 A.
+É correto o que se afirma em
+|, apenas.
+Ill, apenas.
+l ell, apenas.
+Il e Ill, apenas.
+Lie.
+cCoçÇGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,885 270,885 270,952 791,952 791,1208 788,1208 788,1767 273,1767 273,2000 104,2000 104,2002 81,2002 81,1767 79,1767 79,952 96,952"/>
+	<TextEquiv conf="0.96896">
+	<Unicode>QUESTÃO 18
+No seu primeiro dia de trabalho em uma fábrica de papel,
+um engenheiro é convocado para substituir o sistema de
+controle analógico do motor principal da bobinadora por
+um digital. Entre os diagramas elétricos que o fabricante
+forneceu, na época da compra do equipamento, o
+engenheiro encontrou o detalhe do controlador, mostrado
+na figura abaixo.
+Trata-se de um controlador Proporcional-Integral,
+cujos ganhos K, (proporcional) e K (integral) são,
+respectivamente, iguais a
+10e1.
+10 e 10.
+10º e1.
+-10 e -10?.
+-10? e -10º.
+CGOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,163 399,163 399,259 790,259 790,428 791,428 791,608 343,608 343,844 130,844 130,843 81,843 81,608 80,608"/>
+	<TextEquiv conf="0.90953">
+	<Unicode>QUESTÃO 17
+Um transformador possui as seguintes características
+nominais: 1,2 kVA, 300 V:150 V, 60 Hz. Devido a uma
+emergência, esse transformador será usado em um
+sistema de 50 Hz.
+Se a densidade de fluxo no núcleo do transformador
+deve ser mantida igual àquela para 60 Hz e 300 V,
+então a potência aparente do transformador e a tensão
+a ser aplicada no lado de alta tensão serão iguais,
+respectivamente, a
+1,40 kVA e 350 V.
+1,20 kVA e 350 V.
+1,20 kVA e 250 V.
+1,00 kVA e 250 V.
+1,00 kVA e 150 V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

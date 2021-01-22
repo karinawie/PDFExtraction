@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T22:49:09</Created>
+	<LastChange>2021-01-20T12:43:36</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-13.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="841,1010 1011,1010 1011,1072 1536,1072 1536,1331 1535,1331 1535,1751 1279,1751 1279,1796 956,1796 956,2008 827,2008 827,2007 826,2007 826,1766 874,1766 874,1663 920,1663 920,1583 919,1583 919,1458 874,1458 874,1406 826,1406 826,1405 825,1405 825,1331 824,1331 824,1330 825,1330 825,1072 841,1072"/>
+	<TextEquiv conf="0.96467">
+	<Unicode>QUESTÃO 21
+Um arquivo confidencial precisa ser enviado de uma
+empresa A para uma empresa B por meio da Internet.
+Existe uma preocupação com a possibilidade de
+interceptação e alteração do documento durante a sua
+transmissão. Para reduzir a possibilidade de que um
+hacker tenha acesso ao conteúdo da mensagem, foi
+adotado um procedimento de criptografia de chave
+pública e assinatura digital.
+Considerando a utilização dessas tecnologias para a
+codificação dos dados, avalie as afirmações que se seguem.
+|. Para o procedimento de cifragem do documento, é
+utilizada a chave pública do destinatário.
+Para o procedimento de assinatura digital do
+documento, é utilizada a chave pública do
+destinatário.
+Para o procedimento de decifragem do documento,
+é utilizada a chave privada do remetente.
+Para o procedimento de verificação da assinatura
+digital do documento, é utilizada a chave pública
+do remetente.
+É correto apenas o que se afirma em
+o.
+o.
+O lelv.
+O llell.
+O lllelv,
+W.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1536,254 1536,487 1535,487 1535,730 1279,730 1279,770 956,770 956,980 849,980 849,981 826,981 826,740 874,740 874,487 825,487 825,486 824,486 824,395 825,395 825,254 841,254"/>
+	<TextEquiv conf="0.96627">
+	<Unicode>QUESTÃO 20
+O padrão X.25 foi desenvolvido com o objetivo de oferecer
+interface entre redes públicas de comutação de pacotes
+e seus clientes e, apesar de ter sido desenvolvido na
+década de 70, ainda hoje é usado.
+Considerando que o padrão X.25 estabelece circuitos de
+forma que a entrega dos pacotes seja feita ordenadamente
+e com confiabilidade, analise as afirmações abaixo.
+I. O padrão X25 aceita circuitos virtuais
+semipermanentes.
+II. O padrão X.25  aceita circuitos virtuais
+permanentes.
+Il. O padrão X.25 aceita circuitos semivirtuais
+comutados.
+IV. O padrão X.25 aceita circuitos virtuais comutados.
+É correto apenas o que se afirma em
+l.
+II.
+leIII.
+IIeIV.
+IIIeIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,257 793,257 793,536 789,536 789,686 790,686 790,1143 791,1143 791,1276 790,1276 790,1277 534,1277 534,1321 211,1321 211,1543 104,1543 104,1545 81,1545 81,1290 175,1290 175,1011 129,1011 129,991 155,991 155,990 174,990 174,717 129,717 129,660 80,660 80,257 96,257"/>
+	<TextEquiv conf="0.96171">
+	<Unicode>QUESTÃO 19
+Uma empresa opta por modernizar o seu sistema de
+telefonia, substituindo a central PABX analógica existente
+por uma solução que utiliza a tecnologia VoIP (Voice over
+Internet Protocol). É definida a utilização de um IP PBX
+Virtual, com base em software que permita a utilização
+de conexões digitais de telefonia El com operadoras
+de telefonia fixa e a conexão com operadoras de VolP,
+utilizando o protocolo SIP (Session Initiated Protocol).
+Considerando a utilização dessas tecnologias para a
+conexão do IP PBX Virtual com a rede de telefonia pública,
+analise as afirmações que se seguem.
+|. O protocolo SIP é usado para o registro dos
+ramais IP e pelo fluxo de mídia que passa pelo IP
+PBX e utiliza a porta 4569 UDP para realizar as
+duas funções.
+O entroncamento E1 é uma conexão digital de
+telefonia que possui 32 canais de 64 kbps, sendo
+trinta canais de telefonia, um canal de sinalização
+e um canal de sincronismo.
+Ill. O protocolo SIP trabalha em conjunto com o
+protocolo RTP (Real Time Protocol), sendo que o
+SIP é o responsável pelo registro dos ramais e o
+RTP pelo fluxo de mídia pelo IP PBX.
+O protocolo H.323 é o único que pode ser usado
+pelos Adaptadores para Telefones Analógicos
+(ATAs) e pelos Telefones IPs em soluções de IP
+PBX que utilizam o protocolo SIP.
+É correto apenas o que se afirma em
+leill.
+lelv.
+el.
+elv.
+Welv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

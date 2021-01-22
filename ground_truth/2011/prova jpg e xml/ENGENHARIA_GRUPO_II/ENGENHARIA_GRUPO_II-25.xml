@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:46:24</Created>
+	<LastChange>2020-11-16T03:55:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-25.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="841,152 1529,152 1529,279 1536,279 1536,726 1533,726 1533,1339 1534,1339 1534,1402 981,1402 981,1609 873,1609 873,1608 826,1608 826,1402 825,1402 825,1339 826,1339 826,726 825,726 825,588 824,588 824,411 825,411 825,279 841,279"/>
+	<ImageRegion id="r1">
+	<Coords points="831,836 831,1331 1539,1331 1539,836"/></ImageRegion>
+	<TextEquiv conf="0.92154">
+	<Unicode>QUESTÃO 39
+Deseja-se utilizar um amplificador somador para fazer a
+conversão analógico-digital (A/D). O circuito deve aceitar
+AA
+uma entrada de 3 bits com palavra binária A,A,A,,
+em que
+A, A, e A, podem assumir os valores O ou 1, fornecendo
+uma tensão de saída analógica V, proporcional ao valor
+de entrada. Cada um dos bits da palavra de entrada
+controla as chaves correspondentemente numeradas.
+Por exemplo, se A, é 0, então a chave S, conecta o resistor
+de 10 k6) ao terra; caso contrário, a chave S, conecta o
+resistor de 10 k$) ao terminal +5 V da fonte de alimentação.
+Na situação apresentada, o valor de R, para que a saída
+V, do conversor varie de 0 a -7 V é igual a
+4109.
+5,6 kO.
+8,0 kO.
+98,0 kf2.
+245,0 O.
+CoOçGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="96,192 270,192 270,264 790,264 790,375 594,375 594,586 342,586 342,636 129,636 129,633 81,633 81,375 80,375 80,264 96,264"/>
+	<TextEquiv conf="0.96244">
+	<Unicode>QUESTÃO 37
+Um conversor A/D de aproximações sucessivas de 10 bits
+aceita como entrada valores de tensão entre -10 Ve +10 V.
+Nesse caso, a resolução do conversor é
+menor que 10 mV.
+maior que 10 mV e menor que 30 mV.
+maior que 30 mV e menor que 50 mV.
+maior que 50 mV e menor que 70 mV.
+cCoOoçGoo
+maior que 70 mV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="96,679 270,679 270,751 790,751 790,1119 789,1119 789,1311 790,1311 790,1999 128,1999 128,1673 81,1673 81,1524 79,1524 79,1499 80,1499 80,1119 79,1119 79,751 96,751"/>
+	<TextEquiv conf="0.96811">
+	<Unicode>QUESTÃO 38
+As técnicas de compressão de áudio e vídeo visam
+reduzir o número de bits que representam um sinal. Tais
+técnicas preservam a informação essencial e removem
+a informação não essencial, aquela que, normalmente,
+não é percebida pelo olho e ouvido humano. Formatos
+como MP3 e JPEG são exemplos do resultado da
+operação de compressão de sinais. Com relação às
+técnicas de compressão de áudio e vídeo, analise as
+seguintes asserções.
+Para determinar o que é informação não essencial, pode
+ser aplicada ao sinal a Transformada Discreta do Cosseno.
+PORQUE
+Os coeficientes mais significativos do vetor de dados
+representativo do sinal se acumulam no início do vetor. O
+restante do vetor fica com valores muito pequenos e com
+pouca informação, portanto, pode se descartado.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

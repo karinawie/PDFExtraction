@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:47:18</Created>
+	<LastChange>2020-10-30T20:13:03</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-22.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r22" type="heading">
+	<Coords points="96,192 431,192 431,272 793,272 793,1002 923,1002 923,1051 1534,1051 1534,1126 1535,1126 1535,1185 144,1185 144,1186 143,1186 143,1029 80,1029 80,931 79,931 79,272 96,272"/>
+	<TextEquiv conf="0.96423">
+	<Unicode>QUESTÃO DISCURSIVA 4
+A rede de uma empresa, cujo esquema está ilustrado
+na figura |, é composta por sub-redes IP. A sub-rede da
+Filial 1 possui 80 pontos de rede. A sub-rede da Filial 2
+possui 50 pontos de rede. A Matriz possui uma sub-rede
+com 200 pontos de rede e outra sub-rede em uma Zona
+desmilitarizada — DMZ. Todos os pontos de rede em cada
+sub-rede estão conectados em pilhas de switches nível 2.
+As sub-redes das filiais são interligadas por uma Wide
+Area Network - WAN utilizando-se de um protocolo de
+enlace orientado à conexão que permite conexão ponto-
+mutiponto. A empresa possui uma conexão à Internet
+via um provedor que fornece um intervalo de endereços
+IP válidos: 200.20.10.0; máscara 255.255.255.240.
+O roteador que realiza a função de Translação de
+Endereços de Rede (NAT) utiliza para acesso à Internet o
+endereço IP 200.10.10.0/30. Os dispositivos conectados
+em cada ponto de rede são numerados com endereços
+IP da rede 172.16.0.0. Um firewall protege a rede no
+acesso à Internet. A partir de qualquer máquina na rede,
+pode-se acessar a Internet simultaneamente.
+Considerando o correto funcionamento da rede da referida empresa,
+a) atribua endereços para as sub-redes da Filial 1; Filial 2; Matriz e DMZ. Atribua os endereços de forma sequencial
+utilizando a quantidade definida de pontos em cada sub-rede. (valor: 8,0 pontos)
+b) qual deveria ser o endereço de rede, dado à empresa pelo provedor, se o roteador de entrada não implementasse
+NAT? Considere a forma de endereçamento Classless Inter-Domain Routing (CIDR). (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="847,242 847,971 1536,971 1536,242"/></ImageRegion></Page></PcGts>

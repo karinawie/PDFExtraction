@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T05:35:53</Created>
+	<LastChange>2020-11-16T23:27:31</LastChange></Metadata>
+	<Page imageFilename="ADMINISTRACAO-20.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r3">
+	<Coords points="818,168 818,1300 820,1300 820,168"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="112,170 311,170 311,198 308,198 308,319 690,319 690,539 500,539 500,667 690,667 690,833 719,833 719,955 733,955 733,1166 765,1166 765,1195 577,1195 577,1264 113,1264 113,1159 112,1159 112,1018 111,1018 111,833 182,833 182,667 372,667 372,539 182,539 182,267 113,267 113,198 112,198"/>
+	<TextEquiv conf="0.95249">
+	<Unicode>QUESTÃO 30
+Leia o trecho:
+As vendas de uma concessionária de
+carros nos últimos cinco meses foram
+de 450, 750, 450, 400 e 350. À
+previsão para o próximo mês,
+utilizando o método de média móvel
+trimestral, é 400 unidades.
+PORQUE
+A média móvel trimestral é a média
+de todos os elementos de uma série
+temporal durante um ano.
+A respeito dessas duas afirmações,
+CORRETO afirmar que
+A) as duas afirmações são verdadeiras, e
+segunda não justifica a primeira.
+B) as duas afirmações são verdadeiras, e
+segunda justifica a primeira.
+C) a primeira afirmação é verdadeira, e
+segunda é falsa.
+D) a primeira afirmação é falsa, e a segunda é
+verdadeira.
+E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="869,170 1069,170 1069,244 1527,244 1527,589 1526,589 1526,724 1474,724 1474,998 1476,998 1476,1021 1033,1021 1033,1259 868,1259 868,1078 870,1078 870,724 868,724 868,244 869,244"/>
+	<TextEquiv conf="0.92518">
+	<Unicode>QUESTÃO 31
+Você é consultor e estuda o mercado de
+esmagamento de soja no Brasil. Os produtos
+comercializados nesse mercado são farelo de
+soja e óleo vegetal. As plantações de soja estão
+espalhadas por todo o interior do país. A
+margem de lucro dos produtos é muito pequena,
+e a logística é um custo significativo da
+operação. O transporte é feito via modal
+rodoviário e o volume de soja colhida é muito
+superior ao volume somado de farelo e óleo.
+Para ter um desempenho sustentável em
+longo prazo, é necessário que as empresas
+tenham:
+I. grande volume de esmagamento;
+II. proximidade de centros de plantação de
+soja;
+III. frota de transporte próprio;
+IV. localização perto de uma grande capital
+metropolitana.
+Estão CORRETAS somente as afirmativas
+A) Tell.
+B) Mell.
+C) Tell.
+D) HM elV.
+E) IelV.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="97,1597 97,2032 775,2032 775,1597"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="112,1324 311,1324 311,1389 1527,1389 1527,1625 1544,1625 1544,1717 1002,1717 1002,1928 843,1928 843,1762 844,1762 844,1523 112,1523"/>
+	<TextEquiv conf="0.93393">
+	<Unicode>QUESTÃO 32
+Uma empresa metal-mecânica produz um tipo especial de motor. A quantidade em estoque desse
+motor segue uma distribuição normal com média de 200 unidades e desvio-padrão de 20. O gráfico
+abaixo representa a distribuição normal padrão (média igual a O e desvio-padrão igual a 1), em que as
+percentagens representam as probabilidades entre os valores de desvio-padrão.
+Qual é a probabilidade de, em um dado
+momento, o estoque da empresa apresentar
+mais de 220 unidades?
+A) 84,13%.
+B) 68,26%.
+C) 34,13%.
+D) 15,87%.
+E) 13,60%.</Unicode></TextEquiv></TextRegion></Page></PcGts>

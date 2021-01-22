@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:20:41</Created>
+	<LastChange>2020-10-30T02:31:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-23.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 806,2097 809,2097 810,197"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="841,192 1015,192 1015,266 1535,266 1535,557 1495,557 1495,792 1430,792 1430,967 1493,967 1493,993 1422,993 1422,1135 1533,1135 1533,1206 1239,1206 1239,1314 1535,1314 1535,1431 1464,1431 1464,1550 1534,1550 1534,1647 1535,1647 1535,2012 873,2012 873,1914 872,1914 872,1843 873,1843 873,1669 826,1669 826,1514 825,1514 825,1513 824,1513 824,1489 825,1489 825,1314 1122,1314 1122,1206 825,1206 825,1205 824,1205 824,1135 826,1135 826,1052 865,1052 865,948 864,948 864,922 865,922 865,791 864,791 864,726 865,726 865,557 825,557 825,556 824,556 824,266 841,266"/>
+	<TextEquiv conf="0.96801">
+	<Unicode>QUESTÃO 29
+Em uma empresa, visando atender a uma demanda
+crescente por determinada família de produtos, deseja-se
+expandir suas instalações adquirindo novos equipamentos.
+A partir de estudos realizados, verificou-se que o capital
+necessário para essa expansão é de R$ 120 000,00. Ao
+buscar financiamento, a empresa encontrou as seguintes
+alternativas:
+Banco A — Taxa de juros de 15% a.a., capitalizados
+mensalmente;
+Banco B - Taxa de juros de 14,5% a.a., capitalizados
+trimestralmente.
+Possibilidades de Amortização: Tabela Price e
+Sistema de Amortização Constante (SAC).
+Tempo de Financiamento: 120 meses.
+O financiamento não será quitado antecipadamente.
+Nesse contexto, analise as asserções seguintes.
+A melhor opção de financiamento é pelo Banco B,
+utilizando-se o sistema de amortização constante.
+PORQUE
+O Banco B oferece menor taxa de juros efetivos e, no
+sistema de amortização constante, o valor pago de juros é
+menor que na Tabela Price.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="119,192 270,192 270,262 791,262 791,1227 789,1227 789,1388 791,1388 791,1452 790,1452 790,1608 791,1608 791,1920 790,1920 790,2013 127,2013 127,1948 128,1948 128,1587 81,1587 81,1452 80,1452 80,1334 79,1334 79,1308 155,1308 155,1203 121,1203 121,1163 79,1163 79,262 119,262"/>
+	<TextEquiv conf="0.96305">
+	<Unicode>QUESTÃO 28
+Um projeto de reformulação da organização do trabalho
+em uma unidade produtiva em funcionamento requer
+a análise do trabalho real. Em uma oficina responsável
+pela manutenção preventiva quadrimestral de uma frota
+com 90 equipamentos ferroviários, foi comparado o fluxo
+prescrito com o fluxo realmente executado. Constatou-se
+o não atendimento das metas de produção e a insatisfação
+dos funcionários devido à elevada carga de trabalho.
+A programação da revisão se fazia após uma inspeção
+prévia, mas ocorriam atrasos no encaminhamento do
+equipamento ferroviário para a oficina e não se realizava
+nova inspeção e reprogramação do equipamento. Essa
+inspeção identificaria novas pendências no equipamento
+e possibilitaria reprogramar com rigor o uso dos recursos
+materiais e de mão-de-obra, evitando-se desgastes e
+esperas por material não disponível. Daí, a demanda por
+Homens-Hora passou de 200 para 280, pois as pendências
+reais corrigidas na revisão se mostraram maiores que
+as identificadas na inspeção preventiva. Essa situação
+acontecia reiteradamente. Registrou-se, então, alta
+frequência de trabalhadores em turnos que faziam horas
+extras e que dobravam o turno de trabalho.
+CAMPOS, G. F., SILVA, L. M., BARCELOS, B. F. Análise da organização do
+trabalho: um estudo no setor de manutenção mecânica de equipamentos
+ferroviários de uma empresa de grande porte. In: São Carlos, out./ 2010.
+XXX Encontro Nacional de Engenharia de Produção. (com adaptações).
+A análise relatada identificou problemas de projeto do
+trabalho e problemas de gestão. Qual foi o principal
+problema de projeto do processo de trabalho no setor
+de manutenção?
+A O cumprimento da programação, pois quando ela
+não é seguida gera-se aumento do desgaste dos
+empregados na execução da atividade.
+B Uma avaliação da variabilidade da atividade a ser
+executada sugere uma demanda por uma organização
+do trabalho mais flexível.
+C O número de funcionários era insuficiente para atender
+a demanda no conserto das máquinas.
+D A empresa faz a programação sem considerar
+possíveis imprevistos que poderiam ocorrer na
+atividade desenvolvida.
+E A empresa não determina a repetição da inspeção se o
+equipamento não chegar na oficina na data combinada.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

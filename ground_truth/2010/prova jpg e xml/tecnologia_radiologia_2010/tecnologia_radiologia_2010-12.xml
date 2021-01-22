@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T15:02:06</Created>
+	<LastChange>2020-10-27T15:10:18</LastChange></Metadata>
+	<Page imageFilename="tecnologia_radiologia_2010-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="827,287 827,2097 828,2097 828,287"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="101,1069 310,1069 310,1136 789,1136 789,1395 493,1395 493,1501 786,1501 786,1600 149,1600 149,1597 101,1597 101,1395 100,1395 100,1136 101,1136"/>
+	<TextEquiv conf="0.93246">
+	<Unicode>QUESTÃO 24
+Uma dificuldade referente ao uso da medicina nuclear
+é a logística na distribuição dos radionuclídeos pelos
+fabricantes, já que esses materiais devem apresentar
+meia-vida apropriada para serem entregues de forma
+comercial em hospitais e clínicas que realizam exames.
+Para amenizar essa dificuldade, utilizam os chamados
+geradores de radionuclídeos (RN) portáteis. O RN mais
+apropriado para a medicina nuclear é aquele com
+meia-vida do RN pai curta.
+meia-vida do RN filho longa.
+meia-vida do RN filho curta e do RN pai longa.
+meias-vidas curtas tanto do RN pai quanto do RN filho.
+meias-vidas longas tanto do RN pai quanto do RN filho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="869,1496 1077,1496 1077,1570 1555,1570 1555,1876 1003,1876 1003,2095 869,2095 869,1876 868,1876 868,1570 869,1570"/>
+	<TextEquiv conf="0.60143">
+	<Unicode>QUESTÃO 26
+Segundo a Portaria n.º 453/1998 da ANVISA, todo
+equipamento emissor de radiação X usado em
+diagnósticos deve manter seus padrões de desempenho
+e qualidade. Dessa forma, os níveis de radiação de fuga
+são definidos a 1,0 m do foco, fora do feixe primário. Cada
+ponto de medida, no campo de radiação, é calculado pelo
+valor médio obtido em uma área de medição de 100 cm?,
+com dimensão linear que não ultrapasse
+O 5cm.
+O 1ocm.
+O i5cm.
+O 20cm.
+O 25cm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,280 309,280 309,347 787,347 787,744 530,744 530,780 457,780 457,832 313,832 313,944 328,944 328,1039 149,1039 149,1038 101,1038 101,870 102,870 102,811 158,811 158,646 173,646 173,541 100,541 100,347 101,347"/>
+	<TextEquiv conf="0.95685">
+	<Unicode>QUESTÃO 23
+O exame de tomografia computadorizada de crânio
+fornece informações detalhadas sobre traumas ósseos,
+acidentes vasculares cerebrais, tumores de cérebro
+e alterações no sistema vascular. Acerca do protocolo
+de exame de tomografia computadorizada para crânio,
+avalie as afirmações que se seguem.
+|. Os limites são definidos pelo forame magno até
+o limite superior do crânio.
+1. Os pacientes devem ser posicionados em
+decúbito ventral e o gantry deve ser inclinado.
+Ill. O campo de visão (FOV) deve ser definido em
+aproximadamente 250 mm.
+Estão corretas as afirmativas
+|, apenas.
+l ell, apenas.
+l e Ill, apenas.
+Il e Ill, apenas.
+Lie.
+cocos</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="865,522 865,1082 1462,1082 1462,522"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="869,280 1077,280 1077,347 1555,347 1555,1278 1102,1278 1102,1463 915,1463 915,1465 869,1465 869,507 868,507 868,347 869,347"/>
+	<TextEquiv conf="0.66800">
+	<Unicode>QUESTÃO 25
+A figura abaixo mostra a porcentagem de dose
+profunda (PDP) em função da profundidade para dois
+aceleradores lineares de energias de fótons diferentes.
+A figura mostra que para o acelerador de 68MV a PDP
+não é máxima na pele, mas a aproximadamente 2,5cm.
+Nos protocolos e procedimentos radioterapêuticos,
+utiliza-se um acessório colocado na pele do paciente para
+que a dose máxima não fique na profundidade de 2,5 cm,
+mas na superfície da pele do paciente. Esse acessório é
+conhecido por
+O filtro.
+O bólus.
+O colimador.
+O filtro em cunha.
+O filtro achatador.</Unicode></TextEquiv></TextRegion></Page></PcGts>

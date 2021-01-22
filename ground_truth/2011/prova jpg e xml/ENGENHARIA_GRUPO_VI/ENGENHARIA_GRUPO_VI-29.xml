@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T05:19:13</Created>
+	<LastChange>2020-11-16T03:46:19</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-29.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="781,255 781,789 1526,789 1526,255"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="119,193 408,193 408,275 681,275 681,313 841,313 841,404 681,404 681,680 1522,680 1522,693 857,693 857,694 856,694 856,807 946,807 946,845 1534,845 1534,914 1535,914 1535,1000 1288,1000 1288,1109 848,1109 848,1145 768,1145 768,1146 247,1146 247,1147 246,1147 246,1002 144,1002 144,903 143,903 143,834 79,834 79,807 80,807 80,405 79,405 79,275 119,275"/>
+	<TextEquiv conf="0.94050">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Antes de seguir para expedição, produtos
+acabados oriundos de três linhas de produção
+de uma indústria passam por uma máquina de
+embalagem, cujo tempo de processamento
+é de 1 min. O diretor industrial afirma que há
+períodos de sobrecarga da máquina iguais ao
+representado pelo gráfico ao lado e solicitou um
+relatório contendo indicadores de desempenho
+do setor para justificar a aquisição de um novo
+equipamento (para dobrar a capacidade).
+A partir dos dados do problema, faça o que se pede nos itens a seguir.
+a) As chegadas de produtos acabados e o tempo de processamento da embalagem são aleatórios ou
+determinísticos? Justifique sua resposta. (valor: 4,0 pontos)
+b) Descreva como são obtidos os indicadores de desempenho abaixo relacionados para o setor de embalagem,
+indicando se os valores calculados a partir do gráfico justificariam ou não o aumento em sua capacidade
+produtiva. (valor: 6,0 pontos)
+i) taxa média de utilização no setor;
+ii) tempos máximo, mínimo e médio de permanência de produtos acabados no setor;
+iii) tempos máximo, mínimo e médio de espera em fila no setor;
+iv)número médio de produtos acabados no setor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:03:46</Created>
+	<LastChange>2020-10-30T19:04:25</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-14.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1534,254 1534,379 1364,379 1364,1064 82,1064 82,1065 81,1065 81,381 80,381 80,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="331,376 331,957 1268,957 1268,376"/></ImageRegion>
+	<TextEquiv conf="0.96159">
+	<Unicode>QUESTÃO 17
+Considere que um microcontrolador possui uma estrutura interna de registradores, como a apresentada no diagrama
+a seguir, e que seu programa principal está representado no fluxograma abaixo. Pelo diagrama, observa-se que o
+microcontrolador possui um registrador que armazena os valores presentes em sua entrada (A), um registrador de saída
+(B) e mais dois registradores internos (X e Z).
+Para o valor de entrada igual a FF, a resultante na saída B, em hexadecimal, é igual a
+O 35. O FF. O 255. O oo. o 55.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="96,1106 270,1106 270,1159 988,1159 988,1209 880,1209 880,1501 1535,1501 1535,1611 1068,1611 1068,1664 658,1664 658,1741 630,1741 630,1927 534,1927 534,1993 149,1993 149,1994 148,1994 148,1986 81,1986 81,1664 79,1664 79,1503 78,1503 78,1502 79,1502 79,1501 80,1501 80,1160 81,1160 81,1159 96,1159"/>
+	<TextEquiv conf="0.96615">
+	<Unicode>QUESTÃO 18
+Considere um robô manipulador planar movendo-se no plano do Á
+papel, como representado na figura. Cada elo desse robô tem
+um comprimento de 0,3m e os sistemas de coordenadas foram
+atribuídos de forma que o eixo Z de cada sistema está apontando
+para dentro do papel. Na configuração mostrada, todas as
+variáveis de junta estão com seu valor em 0. Cada junta do robô
+é acionada por um motor de passo com passo de 1,8 grau.
+A partir da posição inicial do robô, mostrada na figura, o motor da junta 1 foi acionado 50 passos no sentido positivo
+da variável de junta, o motor da junta 2 foi acionado 50 passos no sentido negativo da variável de junta, e o motor da
+junta 3 foi acionado 50 passos no sentido positivo da variável de junta.
+A posição e orientação final da garra do robô (x, Y, À) após o movimento será
+O r=0,3m,y=-0,6m,é = —90º.
+O r=0,3m,y=0,6m,éó = — 90º.
+O 1=0,3m,y =0,6m,é = 90º.
+O r=-0,3,y=0,0=-—90º,
+O xr=-0,3,y=0,0= 90º.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="897,1144 897,1471 1505,1471 1505,1144"/></ImageRegion></Page></PcGts>

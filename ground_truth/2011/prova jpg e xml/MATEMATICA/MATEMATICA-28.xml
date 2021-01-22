@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:48:12</Created>
+	<LastChange>2020-10-30T14:27:54</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-28.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r2">
+	<Coords points="127,500 128,1176 744,1175 743,499"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="804,197 807,2008 811,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 270,191 270,243 789,243 789,269 716,269 716,385 231,385 231,1232 739,1232 739,1509 789,1509 789,1631 790,1631 790,1656 535,1656 535,1775 252,1775 252,2006 130,2006 130,2004 81,2004 81,1259 79,1259 79,1232 81,1232 81,314 80,314 80,243 96,243"/>
+	<TextEquiv conf="0.80595">
+	<Unicode>QUESTÃO 39
+O gráfico abaixo representa o traço da curva parametrizada
+diferenciável plana
+a(t) = (esentt) — 2 cos(4t) )(cost, sent),
+para tE R.
+A respeito dessa curva, avalie as afirmações a seguir.
+|. aéinjetiva no intervalo (0, 27).
+Il. a tem curvatura constante.
+Il. a(t+ 2n) = o(t) paratodo t E R.
+IV. a tem vetor tangente unitário em t = O, com
+a(0)=(1,0).
+V. O traço de a está contido em um círculo de raio
+r&lt;(e+2).
+É correto apenas o que se afirma em
+W.
+leill.
+lelv.
+WMev
+M,IVEeV.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

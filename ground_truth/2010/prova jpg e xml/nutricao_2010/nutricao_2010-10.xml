@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T12:04:18</Created>
+	<LastChange>2020-10-27T12:17:22</LastChange></Metadata>
+	<Page imageFilename="nutricao_2010-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="823,286 824,2096 826,2096 825,286"/></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="98,1258 306,1258 306,1326 784,1326 784,1520 785,1520 785,2098 98,2098 98,1487 97,1487 97,1326 98,1326"/>
+	<TextEquiv conf="0.80387">
+	<Unicode>QUESTÃO 16
+Um homem de 55 anos de idade, com alto risco para
+doença arterial coronariana, compareceu ao ambulatório
+de nutrição para consulta. Para que sejam observadas as
+recomendações nutricionais para redução do colesterol
+plasmático total, esse paciente deve ser orientado a
+O reduzir o consumo de gorduras totais e de
+açúcares simples e aumentar a ingestão de leite
+integral e frutas.
+O aumentar o consumo de ácidos graxos
+monoinsaturados e de proteína vegetal e manter a
+ingestão de laticínios integrais.
+O substituir as carnes por alimentos e laticínios
+integrais, aumentar o aporte de fibra dietética e
+reduzir a quantidade de frituras.
+O retirar a gordura aparente das carnes, substituir
+os laticínios integrais por desnatados e reduzir a
+ingestão de gorduras vegetais hidrogenadas.
+O aumentar a ingestão de alimentos que são fontes de
+ácidos graxos poli-insaturados, reduzir a quantidade
+de açúcares simples e diminuir o número de
+refeições por dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="98,279 306,279 306,346 784,346 784,1194 674,1194 674,1230 98,1230 98,840 96,840 96,814 97,814 97,566 96,566 96,472 97,472 97,346 98,346"/>
+	<TextEquiv conf="0.95939">
+	<Unicode>QUESTÃO 15
+Com relação ao tratamento dietoterápico para pacientes
+portadores de pancreatite crônica, avalie as asserções
+a seguir.
+A substituição de óleo de soja pelo triglicerídeo de cadeia
+média (TCM) é uma conduta adequada para pacientes
+portadores de pancreatite crônica.
+PORQUE
+Os triacilgliceróis de cadeia longa (TCL) presentes no
+óleo de soja, ao contrário do TOM, requerem as lipases
+pancreáticas para serem desdobrados e absorvidos no
+intestino delgado.
+Acerca das asserções acima, assinale a opção correta.
+O Asduas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras,
+mas a segunda não é uma justificativa correta da
+primeira.
+O Aprimeira asserção é uma proposição verdadeira, e
+a segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+O As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="862,805 862,1305 1548,1305 1548,805"/></TableRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="866,279 1073,279 1073,351 1553,351 1553,684 1552,684 1552,783 1331,783 1331,1399 1552,1399 1552,1795 1320,1795 1320,1857 1017,1857 1017,2099 913,2099 913,2097 866,2097 866,1361 865,1361 865,784 864,784 864,351 866,351"/>
+	<TextEquiv conf="0.96527">
+	<Unicode>QUESTÃO 17
+A cirurgia bariátrica tem sido utilizada como alternativa
+para o tratamento da obesidade mórbida e de
+enfermidades a ela associadas. Entretanto, a menor
+capacidade gástrica, consequente desse tipo de cirurgia,
+reduz a quantidade de nutrientes absorvidos e exige
+monitoramento do estado nutricional do paciente. Esse
+monitoramento deve ser realizado por meio de exames
+bioquímicos, para diagnóstico nutricional precoce e para
+a conduta nutricional mais adequada.
+Atabela a seguir apresenta os dados bioquímicos de um
+paciente gastrectomizado.
+Os dados acima são compatíveis com
+|. deficiência proteica aguda, que é detectada pela
+proteína ligadora de retinol.
+Il. deficiência de vitamina A, que é detectada pela
+proteína ligadora de retinol.
+Ill. anemia por deficiência de ferro, que é detectada
+pela hemoglobina e ferritina.
+IV. anemia por deficiência de ácido fólico, que é
+detectada pela hemoglobina e pela albumina.
+V. anemia por deficiência de vitamina B12, que é
+detectada pela hemoglobina e pela transferrina.
+É correto apenas o que se afirma em
+O le.
+O llelv.
+O IVev
+O Lilelll.
+O l,ilev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:13:55</Created>
+	<LastChange>2020-10-30T03:21:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VIII-15.jpg" imageWidth="1616" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="805,194 807,2005 810,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="841,160 1529,160 1529,255 1535,255 1535,354 1422,354 1422,960 1535,960 1535,1601 874,1601 874,1602 873,1602 873,995 826,995 826,930 825,930 825,255 841,255"/>
+	<ImageRegion id="r3">
+	<Coords points="826,378 826,855 1536,855 1536,378"/></ImageRegion>
+	<TextEquiv conf="0.90033">
+	<Unicode>QUESTÃO 27
+O gráfico abaixo representa a demanda (D) e a oferta (S)
+de móveis de madeira num dado mercado competitivo e
+os respectivos preço (Pe) e quantidade de equilíbrio (Qe).
+Com base na figura apresentada, conclui-se que
+O o aumento dos custos de produção de móveis de
+madeira desloca a demanda D para a esquerda e o
+novo preço de equilíbrio diminui.
+a melhoria na tecnologia de produção de móveis de
+madeira desloca a oferta S para a esquerda e o preço
+de equilíbrio aumenta.
+o aumento da renda dos consumidores desloca
+a demanda D para a direita e o novo preço de
+equilíbrio aumenta.
+o aumento dos custos de produção de móveis de
+madeira desloca a oferta S para a esquerda, mas o
+novo preço de equilíbrio não altera.
+o aumento do preço do substituto (móveis de plástico)
+desloca a demanda D para a direita e o preço de
+equilíbrio permanece constante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,189 270,189 270,251 790,251 790,857 791,857 791,1358 534,1358 534,1443 156,1443 156,1546 187,1546 187,1588 202,1588 202,1607 131,1607 131,1608 104,1608 104,1610 81,1610 81,1369 174,1369 174,1359 175,1359 175,1117 174,1117 174,857 175,857 175,670 129,670 129,626 80,626 80,251 96,251"/>
+	<TextEquiv conf="0.96140">
+	<Unicode>QUESTÃO 26
+Em 1934, foi aprovado o primeiro Código Florestal
+Brasileiro no intuito de regular o uso das florestas e
+garantir a sua conservação. Posteriormente, em 1965,
+a Lei n.º 4.771/65 instituiu o então denominado Novo
+Código Florestal, que ainda está em vigência, e cuja
+proposta de alteração (Projeto de Lei n.º 1.876/99) foi
+aprovada, por ampla maioria, pela Câmara dos Deputados,
+em 24 de maio de 2011. O projeto aguarda votação no
+Senado Federal, o que deverá ocorrer até o final de 2011.
+Considerando o exposto acima, avalie as afirmações que
+se seguem.
+I. O projeto do novo Código Florestal tem gerado
+controvérsias. Um dos dispositivos mais polêmicos
+é o que reduz a faixa mínima de vegetação ao
+longo dos rios, de 30 para 15 metros, e estabelece
+a medição a partir do ponto de menor vazão do rio
+e não do maior.
+II. Nos termos do Código Florestal (Lei n.º 4.771/65),
+atualmente em vigor, consideram-se de
+preservação permanente as florestas e demais
+formas de vegetação natural situadas ao longo
+dos rios ou de qualquer curso d’água, desde o
+seu nível mais alto, em faixa marginal, cuja largura
+mínima será de 30 metros para os cursos d’água
+de menos de 10 metros de largura.
+III. O texto do novo Código Florestal, aprovado
+pela Câmara dos Deputados, estabelece
+como obrigatório, a partir de 2030, o replantio
+de florestas em propriedades dedicadas ao
+agronegócio com área superior a 200 ha,
+sempre que a área de floresta nativa for menor
+que 30% da área total da propriedade.
+É correto apenas o que se afirma em
+A I.
+B II.
+C III.
+D I e II.
+E II e III. </Unicode></TextEquiv></TextRegion></Page></PcGts>

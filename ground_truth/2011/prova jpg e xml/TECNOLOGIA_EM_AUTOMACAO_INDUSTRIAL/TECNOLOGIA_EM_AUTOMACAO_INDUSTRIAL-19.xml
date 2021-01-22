@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:02:59</Created>
+	<LastChange>2020-10-30T18:56:44</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-19.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r4">
+	<Coords points="225,563 225,1337 1414,1336 1414,562"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,268 1536,268 1536,382 1469,382 1469,451 1139,451 1139,2001 131,2001 131,2002 104,2002 104,2004 81,2004 81,452 79,452 79,268 96,268"/>
+	<TextEquiv conf="0.95847">
+	<Unicode>QUESTÃO 23
+ANBR ISO 10012 — sistema de gestão da medição define que as características metrológicas devem estar de acordo
+com o uso pretendido. Considere que uma empresa definiu que a resolução dos instrumentos deve ser, no mínimo,
+de 1/10 da tolerância.
+A figura abaixo representa a medição do diâmetro externo de 30 peças retificadas, realizada durante a produção.
+De acordo com as informações apresentadas, analise as afirmações abaixo.
+|. Oinstrumento utilizado possui resolução de 0,10 mm.
+Il. Um paquímetro com resolução de 0,02 mm atende aos requisitos da empresa.
+Ill. A dispersão das medidas indica que o instrumento deve ser trocado.
+IV. A retífica não é o processo adequado, o que justifica o índice de reprovação.
+É correto apenas o que se afirma em
+O le.
+lei.
+lelv.
+elv.
+Melv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

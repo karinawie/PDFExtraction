@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:07:58</Created>
+	<LastChange>2020-10-29T23:25:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-16.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="88,1360 88,1698 792,1698 792,1360"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,480 1534,480 1534,1178 963,1178 963,1389 874,1389 874,1388 826,1388 826,1178 825,1178 825,480 824,480 824,254 841,254"/>
+	<ImageRegion id="r3">
+	<Coords points="836,505 836,1102 1534,1102 1534,505"/></ImageRegion>
+	<TextEquiv conf="0.96893">
+	<Unicode>QUESTÃO 23
+A figura abaixo mostra uma rede de fluxo, solução gráfica
+do problema de fluxo permanente 2D, ao redor de uma
+cortina impermeável em uma camada de solo isotrópico
+e homogêneo. A rede é constituída por 5 linhas de fluxo e
+10 linhas equipotenciais, com o nível de referência (NR)
+coincidindo com a posição da linha equipotencial mínima
+(nível d'água NA2).
+Qual o valor da carga hidráulica h no ponto A situado na
+profundidade 1,40 m abaixo do NR?
+0,20 m.
+0,36 m.
+1,40 m.
+1,76 m.
+5,76 m.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="96,1120 270,1120 270,1182 790,1182 790,1308 789,1308 789,1796 218,1796 218,2008 129,2008 129,2007 81,2007 81,1796 80,1796 80,1182 96,1182"/>
+	<TextEquiv conf="0.96734">
+	<Unicode>QUESTÃO 22
+O raio hidráulico é um parâmetro importante no
+dimensionamento de canais, tubos, dutos e outros
+componentes das obras hidráulicas. Ele é igual à razão entre
+a área da seção transversal molhada e o perímetro molhado.
+Para a seção de canal trapezoidal ilustrada na figura
+acima, qual é o valor do raio hidráulico?
+0,92 m.
+0,83 m.
+0,78 m.
+0,65 m.
+0,50 m.
+coOogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 266,192 266,254 790,254 790,413 786,413 786,916 298,916 298,1081 104,1081 104,1083 81,1083 81,884 80,884 80,254 96,254"/>
+	<ImageRegion id="r6">
+	<Coords points="78,426 78,813 731,813 731,426"/></ImageRegion>
+	<TextEquiv conf="0.95545">
+	<Unicode>QUESTÃO 21
+Um cabo de aço segura um recipiente que contém cimento,
+como mostra a figura abaixo. A deformação específica
+normal medida na extremidade superior do aço é de 0,1 %
+quando a tensão normal é de 200 MPa, como mostra o
+diagrama tensão x deformação do cabo de aço.
+O módulo de elasticidade longitudinal desse aço é igual a
+20 MPa.
+200 MPa.
+2.000 MPa.
+20.000 MPa.
+200.000 MPa.
+cogGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

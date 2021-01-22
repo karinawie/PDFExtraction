@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:10:31</Created>
+	<LastChange>2020-10-30T01:36:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r14">
+	<Coords points="806,197 807,2097 810,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="864,191 1015,191 1015,247 1535,247 1535,616 1533,616 1533,1141 1535,1141 1535,1142 1536,1142 1536,1440 1535,1440 1535,1914 1533,1914 1533,2002 827,2002 827,2003 826,2003 826,1926 875,1926 875,1143 874,1143 874,1125 825,1125 825,617 824,617 824,247 864,247"/>
+	<ImageRegion id="r1">
+	<Coords points="878,642 878,1060 1494,1060 1494,642"/></ImageRegion>
+	<TextEquiv conf="0.93997">
+	<Unicode>QUESTÃO 14
+A extração sólido-líquido é uma operação empregada
+nas indústrias de alimentos, química, metalúrgica e
+farmacêutica. O processo consiste na extração de um
+soluto, contido em uma fase sólida, mediante a ação de
+um solvente líquido. O solvente difunde através do sólido e
+solubiliza o soluto, formando uma nova fase. A figura abaixo
+é uma representação gráfica das vazões e concentrações
+de entrada e saída das fases leve (V) e pesada (L) de um
+processo multiestágio em contracorrente, em que Né o
+número teórico de estágios para extração de óleo vegetal,
+empregando hexano como solvente.
+Com base nessas informações, analise as afirmações abaixo.
+|. Em diagramas para o cálculo do número de
+estágios, como o mostrado na figura acima, as
+linhas que caracterizam os estágios teóricos são
+verticais e ligam a saída da vazão da fase pesada
+com a saída da vazão da fase leve. Quando não
+se apresentam como linhas verticais, indicam que
+pode ter havido tempo de contato insuficiente entre
+o soluto e o solvente ou adsorção do soluto no
+sólido ou, ainda, solubilidade do soluto no sólido.
+Nas condições apresentadas no diagrama, são
+requeridos entre um e dois estágios teóricos de
+extração para o processo.
+O ponto V,., com coordenadas (x,,, O), que
++1 . N+1,
+representa a vazão de entrada do solvente
+no processo, não está localizado no ponto de
+coordenadas (0; O), pois o hexano está levemente
+contaminado com óleo.
+A linha tracejada sobre a qual se localiza o ponto
+relacionado à vazão de saída L,, com coordenadas
+(Yw N,), é conhecida nesse tipo de diagrama como
+linha de overflow, e representa as composições
+das vazões da fase pesada.
+É correto apenas o que se afirma em
+o. o. Oilell. O llelv, O lllelv,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="119,192 270,192 270,247 792,247 792,539 790,539 790,897 791,897 791,1782 534,1782 534,1823 226,1823 226,2011 130,2011 130,2010 81,2010 81,1793 174,1793 174,1121 173,1121 173,1120 129,1120 129,1082 80,1082 80,956 87,956 87,613 79,613 79,555 80,555 80,247 119,247"/>
+	<TableRegion id="r3">
+	<Coords points="76,628 76,868 792,868 792,628"/></TableRegion>
+	<TextEquiv conf="0.94156">
+	<Unicode>QUESTÃO 13
+A necessidade premente de substituição da matriz
+energética baseada no uso de recursos fósseis traz como
+alternativa a obtenção de bioetanol a partir de matérias-
+primas açucaradas, amiláceas, lignocelulósicas e também
+de microalgas. A sacarificação enzimática da fonte de
+carbono é, por vezes, necessária, a fim de serem produzidos
+açúcares fermentescíveis que serão convertidos em
+etanol por leveduras como a Saccharomyces cerevisiae
+em processos fermentativos.
+A tabela a seguir apresenta a produtividade em etanol de
+algumas matérias-primas.
+MUSSATTO et al. Technological trends, global market, and challenges of bio-ethanol
+production. Biotechnology Advances, v. 28, p. 817-830, 2010.
+Considerando os dados da tabela e as características dos
+processos de sacarificação necessários para produção de
+bioetanol em função da matéria-prima utilizada, analise as
+afirmações a seguir.
+|. O trigo, a mandioca e o milho são matérias-primas
+amiláceas e a sacarificação pode ser conduzida
+utilizando enzimas como alfa-amilases, beta-
+amilases e amiloglicosidase.
+A utilização de matérias-primas lignocelulósicas,
+como é o caso do bagaço de cana, depende de
+um pré-tratamento anterior à sacarificação, para
+deslignificação e rompimento da cristalinidade
+da celulose, sendo esse processo baseado em
+tratamentos químicos e térmicos.
+As matérias-primas amiláceas, da mesma forma
+que as lignocelulósicas, necessitam de pré-
+tratamento drástico (como a gelatinização) antes
+da sacarificação, a fim de diminuir a cristalinidade
+ocasionada pela capacidade de ligação de cadeias
+lineares subjacentes através de pontes de hidrogênio.
+As microalgas podem ser cultivadas em tanques,
+com maiores produtividades por área em
+comparação com as matérias-primas amiláceas
+e a cana-de-açúcar, o que justifica as maiores
+produtividades em etanol.
+É correto apenas o que se afirma em
+lei.
+Ieilv.
+Meilv.
+Lie.
+LIVelv.
+cCoçgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

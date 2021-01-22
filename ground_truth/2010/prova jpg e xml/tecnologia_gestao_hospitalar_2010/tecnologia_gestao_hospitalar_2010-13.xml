@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T14:47:14</Created>
+	<LastChange>2020-10-27T14:55:10</LastChange></Metadata>
+	<Page imageFilename="tecnologia_gestao_hospitalar_2010-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="88,1109 89,1632 804,1632 802,1109"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="825,287 826,2097 828,2097 827,287"/></SeparatorRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="867,254 1555,254 1555,312 1553,312 1553,440 1554,440 1554,1225 1321,1225 1321,1282 1012,1282 1012,1484 916,1484 916,1485 915,1485 915,1483 867,1483 867,1314 868,1314 868,1251 929,1251 929,1045 923,1045 923,729 931,729 931,585 939,585 939,408 867,408"/>
+	<TextEquiv conf="0.91201">
+	<Unicode>QUESTÃO 27
+Com relação à Norma Operacional Básica NOB-SUS
+01/1996, avalie as afirmativas que se seguem.
+1. Os estabelecimentos ligados ao subsistema
+municipal não precisam ser obrigatoriamente
+de propriedade da prefeitura nem ter sede no
+território do município.
+Il. O exercício do papel de gestor requer sistema
+de apoio logístico e atuação estratégica, o
+que inclui financiamento, desenvolvimento de
+recursos humanos e dados informatizados.
+III. A comissão de intergestores tripartite (CIT),
+que integra município, estado e federação,
+juntamente com a comissão bipartite (CIB), tem
+por função a aquisição integrada de materiais e
+medicamentos para o sistema.
+IV. A gerência corresponde à administração de
+unidade de saúde municipal, estadual ou
+nacional, e tem funções de coordenação,
+negociação, planejamento e acompanhamento.
+V. Os médicos responsáveis e enfermeiros-chefes
+de todas as unidades de saúde ligadas aos
+municípios, ao Distrito Federal, aos estados
+e órgãos e às autarquias federais são, por
+competência, os gerentes do sistema.
+É correto apenas o que se afirma em
+LILV.
+LIL AV.
+1, 11, IV.
+1, UML, V.
+UML, IV, V.
+cocos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="100,1060 308,1060 308,1659 785,1659 785,1750 786,1750 786,2066 439,2066 439,2097 147,2097 147,2066 146,2066 146,2063 100,2063 100,1718 98,1718 98,1659 100,1659"/>
+	<TextEquiv conf="0.96371">
+	<Unicode>QUESTÃO 26
+A charge de Amarildo destaca um direito do consumidor do
+sistema de saúde que está relacionado à possibilidade de
+O obter atendimento ambulatorial e exames em tempo
+razoável.
+O ser identificado pelo nome e não de modo genérico
+ou desrespeitoso.
+tomar decisões relacionadas à sua saúde com base
+em informações adequadas.
+escolher o profissional ou o serviço para promoção e
+recuperação da saúde.
+acessar gratuitamente medicamentos para tratar e
+restabelecer sua saúde.
+o oo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="100,280 308,280 308,347 788,347 788,540 786,540 786,997 669,997 669,1033 147,1033 147,997 145,997 145,994 100,994 100,656 99,656 99,347 100,347"/>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 25
+Um gestor propôs à sua unidade de saúde um quadro
+de indicadores de desempenho como forma de melhorar
+a qualidade dos atendimentos a médio e longo prazo. À
+área de internação foi escolhida para início dos trabalhos
+e o tempo de atendimento ao paciente foi eleito como
+parâmetro privilegiado.
+Nesse contexto, os indicadores mais adequados para
+avaliação do parâmetro tempo de atendimento do
+paciente são
+O tempo de atendimento total, tempo de atendimento
+médio e tempo de atendimento ponderado.
+O tempo de atendimento total, tempo de guichê e
+tempo de espera para atendimento.
+tempo de espera na fila, tempo de atendimento no
+guichê e tempo de saída da unidade.
+tempo de atendimento atual, tempo de atendimento
+desejável e tempo de atendimento ideal.
+tempo de transporte do paciente, tempo de espera
+na fila e tempo de maca até o ambulatório.
+o oco</Unicode></TextEquiv></TextRegion></Page></PcGts>

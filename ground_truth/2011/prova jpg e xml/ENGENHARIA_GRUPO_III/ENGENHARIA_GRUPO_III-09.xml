@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:38:30</Created>
+	<LastChange>2020-10-30T01:01:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-09.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="841,1161 1015,1161 1015,1226 1536,1226 1536,1576 1535,1576 1535,1701 1511,1701 1511,1805 1535,1805 1535,2010 873,2010 873,1974 826,1974 826,1701 825,1701 825,1577 824,1577 824,1226 841,1226"/>
+	<TextEquiv conf="0.96763">
+	<Unicode>QUESTÃO 12
+Uma empresa produz diariamente 650 buchas de ferro
+fundido cinzento da classe FE-45012, com dureza de
+191 HB, utilizando o processo de torneamento. São
+normalmente realizadas as operações de desbaste,
+acabamento e faceamento nas peças. As ferramentas de
+usinagem estão com baixa produtividade, apresentando
+desgastes de flanco prematuros. No processo, foi
+verificado que estão sendo utilizadas ferramentas da
+Classe ISO P40, sem cobertura, sendo que os parâmetros
+de corte estão de acordo com o catálogo do fornecedor.
+Nessas condições de trabalho, a melhor estratégia para
+aumentar a produtividade do processo e minimizar o
+desgaste das ferramentas é
+O utilizar fluido de corte emulsionável.
+usar ferramenta da Classe ISO K40, sem cobertura.
+usar ferramenta da Classe ISO K10, com revestimento
+de TiN.
+usar ferramenta da classe ISO M40, sem cobertura
+de TiN.
+diminuir os parâmetros de corte (velocidade de corte
+e avanço).
+o
+o
+o
+o</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="828,250 828,550 1528,550 1528,250"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,192 1009,192 1009,563 1536,563 1536,905 934,905 934,1120 849,1120 849,1121 826,1121 826,905 825,905 825,563 841,563"/>
+	<TextEquiv conf="0.96707">
+	<Unicode>QUESTÃO 11
+Uma bomba de água é movida por um motor elétrico de
+18 kW, cuja eficiência é de 90%. A vazão é de 40 litros por
+segundo. O diâmetro na tubulação é constante, a diferença
+das cotas entre os pontos (1) e (2) é desprezível e a perda de
+carga entre esses pontos corresponde a 5 m. As pressões
+manométricas na entrada e na saída são, respectivamente,
+de 150 kPa e 400 kPa.
+Considerando o peso específico da água 5 = 10 000 N/mº
+e a aceleração da gravidade g = 10 m/s?, conclui-se que a
+eficiência da bomba é de
+40%.
+50%.
+62%.
+74%.
+90%.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,1295 270,1295 270,1358 792,1358 792,1650 791,1650 791,1651 790,1651 790,1799 380,1799 380,1987 395,1987 395,2012 790,2012 790,1987 790,2012 131,2012 131,2009 81,2009 81,1799 80,1799 80,1650 79,1650 79,1649 80,1649 80,1357 96,1357"/>
+	<TextEquiv conf="0.96658">
+	<Unicode>QUESTÃO 10
+Um centro de pesquisas está projetando um tanque
+cúbico para armazenar 4,76 kg de uma mistura
+saturada de líquido-vapor a 169,6 ºC com um título de
+85% e cujo volume específico, nessas condições, é de,
+aproximadamente, 210 dmº/kg. A transferência de calor
+para o tanque desde o estado inicial, no qual a pressão da
+mistura líquido-vapor saturada é 0,50 kgf/cm?, até o estado
+final desejado, se dá a uma razão de 60 W. Necessita-se
+dimensionar a altura do tanque cúbico a ser construído.
+Considerando que o calor total transferido para o tanque
+durante o aquecimento foi de 9117 kJ, concluiu-se
+que a altura do tanque e o tempo do processo são,
+respectivamente, iguais a
+1,0 m e 42,2 horas.
+1,0 m e 152,0 horas.
+1,0 m e 422,0 horas.
+10,0 m e 42,2 horas.
+10,0 m e 152,0 horas.
+cCoçgGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 254,192 254,256 790,256 790,868 534,868 534,1047 202,1047 202,1256 104,1256 104,1258 81,1258 81,868 80,868 80,867 79,867 79,256 96,256"/>
+	<TextEquiv conf="0.40747">
+	<Unicode>QUESTÃO 9
+Uma empresa prestadora de serviços de limpeza de
+tubos e tanques da indústria petrolífera utiliza uma bomba
+hidráulica de alta vazão, acionada por um motor diesel de
+400 Hp. O acoplamento entre o motor e a bomba é feito
+por um sistema de corrente, no qual o diâmetro primitivo da
+polia acoplada ao motor é d,, o da polia acoplada ao eixo da
+bomba é d, e a distância entre os centros do conjunto é H.
+Preocupado com os problemas causados pela aplicação
+desse sistema, o gerente da empresa solicitou um estudo
+da viabilidade de substituir a transmissão de corrente
+por um par de engrenagens, sem alterar a montagem do
+conjunto. O engenheiro encarregado iniciou o estudo de
+viabilidade pela definição das exigências da cinemática
+do engrenamento, envolvendo o número de dentes da
+engrenagem que seria acoplada ao eixo do motor (Z,), o
+número de dentes da engrenagem que seria acoplada
+ao eixo da bomba (Z,) e o módulo a ser selecionado (m).
+Ele escreveu as seguintes relações:
+LL 47/Z=d/d,
+1. di=mZ eda=m.Z,a
+Mm. H =(m.(Z7,+%Z2))/2
+É correto apenas o que se afirma em
+o.
+WU.
+leill.
+lei.
+el.</Unicode></TextEquiv></TextRegion></Page></PcGts>

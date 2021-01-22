@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:44:06</Created>
+	<LastChange>2020-10-30T02:00:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-30.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r3">
+	<Coords points="806,194 807,2005 809,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="841,188 1015,188 1015,251 1535,251 1535,533 1536,533 1536,1216 1279,1216 1279,1257 987,1257 987,1469 875,1469 875,1468 826,1468 826,1227 874,1227 874,510 825,510 825,251 841,251"/>
+	<TextEquiv conf="0.96606">
+	<Unicode>QUESTÃO 39
+Solicitações mecânicas onde ocorrem elevadas taxas de
+deformação são aquelas observadas sob impactos. Nessa
+situação, o material é submetido a condições de solicitações
+extremas, ou seja, o material é submetido a tensões elevadas
+em um espaço de tempo muito curto. A resposta do material
+a esse tipo de situação mostra seu comportamento mecânico
+sob impacto. Considerando essas informações, analise as
+seguintes afirmações.
+|. A resistência ao impacto não é uma propriedade
+intrínseca dos materiais, dependendo de um
+número significativo de variáveis: temperatura
+do ensaio, velocidade do ensaio durante o teste,
+sensibilidade a entalhes padronizados, geometria
+do corpo de prova e condições de fabricação do
+corpo de prova.
+Il. A maioria dos ensaios sob impacto é realizado
+utilizando corpos de prova com entalhe, ou
+seja, um corte padronizado no corpo de prova e
+observa-se qual a energia necessária para fazer
+com que esse corte (entalhe) se propague através
+do corpo de prova até a ruptura.
+Ill. A habilidade de um material absorver energia
+apenas na zona elástica, sem sofrer ruptura, é
+definida como tenacidade — resistência ao impacto.
+IV. A energia de impacto depende da massa do dardo
+ou martelo, da altura de onde o dardo é deixado
+cair sob a ação da gravidade e da velocidade de
+propagação da luz.
+É correto apenas o que se afirma em
+leill.
+lelv.
+el.
+LUNeilv.
+1, Meilv,
+coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1237 270,1237 270,1299 790,1299 790,1300 791,1300 791,1624 790,1624 790,1706 788,1706 788,1872 790,1872 790,2005 129,2005 129,2006 128,2006 128,1969 81,1969 81,1625 80,1625 80,1299 96,1299"/>
+	<TextEquiv conf="0.96723">
+	<Unicode>QUESTÃO 38
+João vive em uma praia do litoral brasileiro. Ele está
+construindo a sua casa e precisa comprar dobradiças
+para as portas e janelas. No comércio local, ele encontrou
+dobradiças de aço galvanizado e de aço niquelado. Na
+dúvida, João comprou 50% de dobradiças galvanizadas e
+50% de niqueladas. No momento da instalação, algumas
+dobradiças, de ambos os tipos, sofreram avarias (riscos e
+impactos) que danificaram o seu revestimento, expondo
+o substrato de aço. Nesse contexto, as dobradiças com o
+revestimento avariado do tipo
+O niqueladas irão sofrer corrosão mais acelerada, pois o
+revestimento catódico foi rompido.
+galvanizadas irão sofrer corrosão mais acelerada,
+pois o revestimento anódico foi rompido.
+galvanizadas irão sofrer corrosão mais acelerada,
+pois o revestimento catódico foi rompido.
+galvanizadas irão sofrer corrosão mais lenta, pois o
+revestimento catódico foi rompido.
+niqueladas irão sofrer corrosão mais lenta, pois o
+revestimento anódico foi rompido.
+o Oo o eo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="96,189 270,189 270,251 791,251 791,476 790,476 790,566 789,566 789,633 788,633 788,1024 769,1024 769,1211 128,1211 128,1208 81,1208 81,1025 80,1025 80,567 79,567 79,498 80,498 80,251 96,251"/>
+	<ImageRegion id="r4">
+	<Coords points="131,657 131,928 723,928 723,657"/></ImageRegion>
+	<TextEquiv conf="0.81547">
+	<Unicode>QUESTÃO 37
+Os diferentes perfis de velocidade formados durante o
+preenchimento do molde geram significativas diferenças
+de orientação molecular ao longo da espessura da peça.
+No processo de extrusão, muitas vezes, é desejável
+essa orientação molecular, mas, em peças injetadas,
+e dependendo da direção de orientação, pode causar
+redução nas propriedades desejadas.
+MANRICH, S. Processamento de Termoplásticos. 1 ed., São Carlos: Artliber, 2005.
+A figura a seguir ilustra a distribuição do fluxo polimérico
+e sua influência na orientação molecular ao longo da
+espessura da peça nos pontos 1, 2 e 3, respectivamente.
+Com base na ilustração, conclui-se que o polímero está,
+respectivamente, nos pontos 1,2 e3,
+pouco orientado, muito pouco orientado e orientado.
+pouco orientado, orientado e muito pouco orientado.
+muito pouco orientado, pouco orientado e orientado.
+orientado, pouco orientado e muito pouco orientado.
+orientado, muito pouco orientado e pouco orientado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

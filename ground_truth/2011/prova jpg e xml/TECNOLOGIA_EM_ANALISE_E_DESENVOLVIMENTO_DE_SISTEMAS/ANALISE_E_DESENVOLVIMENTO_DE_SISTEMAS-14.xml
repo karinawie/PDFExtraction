@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:34:56</Created>
+	<LastChange>2020-09-23T19:35:18</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r22">
+	<Coords points="804,197 807,2008 811,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="105,1772 105,1796 81,1796 81,1772"/>
+	<TextEquiv conf="0.88741">
+	<Unicode>o</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="71,878 71,1555 797,1555 797,878"/></ImageRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="96,192 270,192 270,265 790,265 790,1727 148,1727 148,2007 81,2007 81,1728 79,1728 79,1614 128,1614 128,527 80,527 80,266 79,266 79,265 96,265"/>
+	<TextEquiv conf="0.96884">
+	<Unicode>QUESTÃO 23
+Considere o diagrama de entidades e relacionamentos
+a seguir, onde as chaves primárias de cada entidade se
+encontram na parte superior dos retângulos. As entidades
+fortes são representadas por retângulos e as entidades fracas
+são representadas por retângulos com cantos arredondados.
+O diagrama atende as seguintes restrições:
+(i) entre Ent1 e Ent2, tem-se um relacionamento
+muitos para muitos;
+(ii) entre as Entidades Ent2 e Ent3, tem-se um
+relacionamento de um para nenhum, um ou muitos;
+(ili) entre Ent1 e Ent5, tem-se um relacionamento de
+zero ou um para zero, um ou muitos; e
+(iv) entre Ent3ô e Ent4, tem-se um relacionamento de
+muitos para muitos.
+Aplicando a terceira forma normal ao modelo, qual será o
+total de colunas que deve ser criado para representar as
+chaves estrangeiras?
+Cor eo
+e o NOo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="841,192 1015,192 1015,257 1534,257 1534,418 1536,418 1536,1083 1280,1083 1280,1132 971,1132 971,1358 875,1358 875,1357 826,1357 826,1102 919,1102 919,634 874,634 874,613 919,613 919,365 874,365 874,320 825,320 825,257 841,257"/>
+	<TextEquiv conf="0.96428">
+	<Unicode>QUESTÃO 24
+No que diz respeito aos baselines (linhas base) da
+gerência de configuração, avalie as seguintes afirmações.
+|. As baselines representam conjuntos de itens de
+configuração formalmente aprovados que servem de
+base para as etapas seguintes de desenvolvimento.
+As baselines são definidas e podem ocorrer
+ao final de cada uma das fases do processo de
+desenvolvimento de software, ou de algum outro
+modo definido pela gerência.
+Ill. Um item de configuração de software “baselined'
+pode ser alterado a qualquer momento durante o
+desenvolvimento de software independentemente
+de um procedimento formal.
+Ao término de uma etapa do desenvolvimento, e
+após sua aceitação formal, a baseline na qual a
+etapa se baseou pode ser descartada pois já se
+encontra representada nos artefatos gerados.
+Uma das funções da tarefa “Identificação da
+Configuração”, envolve a definição de uma
+nomenclatura que possibilite a identificação
+inequívoca dos itens de configuração, baselines
+e releases.
+É correto apenas o que se afirma em
+Mev
+Weiv.
+Lie,
+LIVelv,
+Lev
+CoOGoos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="841,1397 1015,1397 1015,1463 1535,1463 1535,1599 1534,1599 1534,1786 1535,1786 1535,1787 1536,1787 1536,1850 1534,1850 1534,1931 1533,1931 1533,1972 1000,1972 1000,2011 874,2011 874,2012 873,2012 873,1972 826,1972 826,1600 824,1600 824,1463 841,1463"/>
+	<TextEquiv conf="0.96150">
+	<Unicode>QUESTÃO 25
+Em projetos de desenvolvimento de software, vários tipos de
+testes podem ser empregados para garantia da qualidade
+do produto. Um dos tipos comumente empregados é o
+teste de regressão, o qual tem como objetivo
+o
+identificar defeitos através da verificação do
+código-fonte.
+o
+identificar defeitos através da execução do sistema ou
+parte dele.
+O identificar defeitos no sistema em situação de
+sobrecarga.
+O verificar a existência de defeitos após alterações em
+um sistema (ou parte dele) já testado.
+OQ verificar a existência de defeitos em um sistema ou
+parte dele.</Unicode></TextEquiv></TextRegion></Page></PcGts>

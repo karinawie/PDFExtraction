@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:46:06</Created>
+	<LastChange>2020-10-30T02:57:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-24.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="841,192 1011,192 1011,255 1535,255 1535,1139 1534,1139 1534,1686 1535,1686 1535,1807 1074,1807 1074,2007 849,2007 849,2009 826,2009 826,1807 825,1807 825,1260 824,1260 824,1165 825,1165 825,653 824,653 824,255 841,255"/>
+	<TableRegion id="r1">
+	<Coords points="823,1281 823,1673 1539,1673 1539,1281"/></TableRegion>
+	<TextEquiv conf="0.96537">
+	<Unicode>QUESTÃO 31
+A definição do ponto de captação da água para a cidade de
+Cambuí deverá levar em consideração as características
+quantitativas e qualitativas dos rios Doria e Bia. Esses
+cursos d'água, pertencentes a bacias hidrográficas
+distintas, localizam-se em uma região com vazão
+específica mínima de estiagem de 6,0 L/s.km?. A geografia
+da bacia hidrográfica do rio Doria possibilita dois pontos
+de captação (Doria 1 e Doria 2) pertencentes a áreas de
+drenagem de 6 km? e 30 km?, respectivamente. Já a bacia
+hidrográfica do rio Bia possibilita dois pontos de captação
+(Bia 1 e Bia 2) pertencentes a áreas de drenagem de 5 m?
+e 15 km?, respectivamente.
+O sistema de captação deverá considerar que
+|. a vazão de captação é inferior a 50% da vazão
+específica mínima de estiagem;
+a cidade Cambuí possui população a ser atendida
+de 7.200 habitantes com per capita de 150L/hab/dia;
+Kk1(coeficiente do dia de maior consumo) igual à 1,20 e
+k2 (coeficiente da hora de maior consumo) igual a
+1,50. A cidade está ligada à rede de distribuição,
+que é alimentada por um reservatório;
+o sistema produtivo da ETA ( Estação de Tratamento
+de Água) convencional funciona por 21 horas diárias;
+a ETA convencional utiliza 5% da vazão aduzida
+ao sistema a título de consumo operacional;
+IV.
+A qualidade da água nos rios é apresentada na tabela
+abaixo, bem como os padrões estabelecidos pela
+Resolução 357/2005.
+Na situação apresentada, o(s) ponto(s) de captação capaz
+de atender a demanda do sistema de abastecimento
+de água da cidade de Cambuí, considerando aspectos
+qualitativos e quantitativos, são:
+Bia 1, apenas.
+Bia 2, apenas.
+Doria 1, apenas.
+Doria 2, apenas.
+Doria 1 e Bia 1.
+coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="96,192 270,192 270,265 790,265 790,896 791,896 791,1136 790,1136 790,1684 541,1684 541,1736 203,1736 203,1977 211,1977 211,1997 104,1997 104,1999 81,1999 81,1706 175,1706 175,1188 129,1188 129,1168 155,1168 155,1167 174,1167 174,896 175,896 175,734 129,734 129,679 80,679 80,265 96,265"/>
+	<TextEquiv conf="0.96743">
+	<Unicode>QUESTÃO 30
+Segundo Schianetz (1999, p. 160), existem três
+processos de remediação quando classificados de acordo
+com o local onde serão realizadas as ações corretivas
+no meio, sendo os processos in-site (sem remoção de
+material), os processos off-site (tratamento fora do local),
+e os processos on-site (tratamento no local).
+SCHIANETZ, B. Passivos ambientais: levantamento histórico avaliação da
+periculosidade ações de recuperação. Curitiba: SENAI, 1999. P. 205.
+Considerando os processos de remediação, avalie as
+afirmações que se seguem.
+|. In-site é um processo de baixo custo, porém o
+êxito da recuperação não pode ser constatado
+com confiabilidade. Técnicas classificadas nesse
+processo são biorremediação e fitorremediação.
+Off-site é um processo em que o meio impactado
+pode ser reutilizado imediatamente, porém pode
+ocorrer a transferência do passivo, caso não
+ocorra a descontaminação. Uma das técnicas
+classificadas nesse processo é a aspiração do ar
+do solo contaminado.
+Il. On-site é um processo em que o êxito da
+recuperação é de fácil repetibilidade, porem
+as técnicas geralmente são mais caras que os
+processos in-site e de riscos ao meio ambiente e
+ao homem. Uma das técnicas que classificadas
+nesse processo é a destruição térmica.
+Em áreas de contaminação inorgânica do solo
+quando utilizada técnicas de remediação com
+lavagem do solo, o local de processo é on-site ou
+off-site, porém, nas áreas de contaminação orgânica
+do solo quando utilizadas técnicas de remediação
+com lavagem do solo, o processo é in-site.
+É correto apenas o que se afirma em:
+o.
+W.
+lei.
+elv.
+Weliv.
+Coco</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:43:31</Created>
+	<LastChange>2020-10-30T01:58:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-33.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r16" type="heading">
+	<Coords points="82,194 1535,194 1535,220 727,220 727,272 654,272 654,1685 1533,1685 1533,1760 1535,1760 1535,1875 1536,1875 1536,1923 1534,1923 1534,1975 1359,1975 1359,1976 128,1976 128,1972 81,1972 81,1662 80,1662 80,1637 81,1637 81,195 82,195"/>
+	<TextEquiv conf="0.96214">
+	<Unicode>Em seguida, esses materiais foram caracterizados quanto à sua condutividade elétrica e microdureza para esses
+mesmos três estados, conforme os gráficos a seguir.
+Com base nessas informações, conclui-se que
+o
+o
+o
+o
+o
+os pontos 4, 5 e 6 identificados no gráfico microdureza versus pureza, correspondem às micrografias ((h), (f) e (c),
+respectivamente.
+os pontos 1, 2 e 3 identificados no gráfico condutividade elétrica versus pureza, correspondem às micrografias
+(i), (e), (a), respectivamente.
+maior será a variação da microdureza após o recozimento quanto maior for a pureza do material.
+a dureza do material é decrescente à medida que se aumenta a quantidade total de solutos, mesmo quando
+submetido ao recozimento.
+o recozimento elimina as diferenças de condutividade elétrica entre os materiais, não importando a quantidade total</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="381,305 381,1615 1242,1615 1242,305"/></ImageRegion></Page></PcGts>

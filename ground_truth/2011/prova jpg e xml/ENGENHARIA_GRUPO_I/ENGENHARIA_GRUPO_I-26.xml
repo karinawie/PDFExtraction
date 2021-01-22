@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:06:03</Created>
+	<LastChange>2020-10-29T23:13:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-26.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="96,192 430,192 430,250 1535,250 1535,394 1534,394 1534,667 1414,667 1414,1007 1534,1007 1534,1082 1535,1082 1535,1167 144,1167 144,1063 143,1063 143,988 80,988 80,394 79,394 79,250 96,250"/>
+	<ImageRegion id="r1">
+	<Coords points="486,397 486,597 1071,597 1071,397"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="81,736 81,944 1531,944 1531,736"/></TableRegion>
+	<TextEquiv conf="0.96388">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Atualmente, observa-se grande crescimento da construção civil devido ao aquecimento da economia. Os materiais mais
+utilizados são o concreto e o aço. A figura a seguir mostra uma viga prismática biapoiada. Considere a situação |, em que
+a viga foi dimensionada em concreto armado C30, produzido in loco, com uma viga de seção retangular 20 cm x 50 cm;
+e a situação Il, em que a viga foi dimensionada em um perfil | 200 x 30, com área da seção transversal de 38 cm? ; o aço
+utilizado nesse perfil foi o MR 250 (ASTM A36).
+Dados: Peso específico do concreto = 25 kN/mº? e peso específico do aço = 78,5 kN/mºe a tabela a seguir da
+NBR 8800 (2008), que mostra os coeficientes de ponderação para o aço estrutural e para o concreto produzido in loco.
+Tabela: Valores dos coeficientes de ponderação das resistências 7,
+Vai
+Normais 1,10 1,35 1,40 1,15
+Com relação ao uso desses dois materiais em projetos estruturais, faça o que se pede nos itens a seguir.
+a) Calcule a carga uniformemente distribuída g, em kN/m, devido ao peso próprio da viga para cada material
+(concreto e aço). (valor: 5,0 pontos).
+b) Qual o valor da resistência de cálculo à compressão do concreto e o valor da resistência de cálculo ao
+escoamento do aço que o engenheiro deve usar no seu projeto, considerando a combinação última normal?
+(valor: 5,0 pontos).</Unicode></TextEquiv></TextRegion></Page></PcGts>

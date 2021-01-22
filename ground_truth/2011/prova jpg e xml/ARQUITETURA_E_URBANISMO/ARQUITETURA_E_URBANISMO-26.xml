@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T02:40:29</Created>
+	<LastChange>2021-01-19T22:37:53</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_E_URBANISMO-26.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r2">
+	<Coords points="81,332 82,1131 1042,1128 1042,1095 1512,1095 1511,331 1036,331 1036,330"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,254 1535,254 1535,311 1529,311 1529,1350 1534,1350 1534,1407 832,1407 832,1408 129,1408 129,1409 128,1409 128,1373 81,1373 81,1162 80,1162"/>
+	<TextEquiv conf="0.96570">
+	<Unicode>QUESTÃO 33
+Os desenhos a seguir foram realizados durante a etapa de levantamento de dados para a execução de um projeto de
+regularização fundiária sustentável de área urbana.
+Considerando os desenhos apresentados e as informações apresentadas nas legendas, assinale a opção correta.
+A rua 1 apresenta declividades mais suaves do que a rua 2 e o lote A está mais alto que o lote B.
+A rua 1 apresenta declividades mais suaves do que a rua 2 e o lote A apresenta maior insolação que o lote B.
+A rua 2 apresenta declividades mais suaves do que a rua 1 e o lote B está mais alto que o lote A.
+A rua 2 apresenta declividades mais suaves do que a rua 1 e o lote A apresenta maior insolação que o lote B.
+As ruas 1 e 2 apresentam a mesma declividade. O lote A apresenta menor insolação que o lote B que está em uma
+altitude menor que o lote A.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="96,1443 270,1443 270,1505 1535,1505 1535,1831 1391,1831 1391,1982 1428,1982 1428,2056 755,2056 755,2057 82,2057 82,2058 81,2058 81,1852 129,1852 129,1680 79,1680 79,1505 96,1505"/>
+	<TextEquiv conf="0.96655">
+	<Unicode>QUESTÃO 34
+As barreiras acústicas têm o objetivo principal de criar um anteparo físico para amortecer e reduzir o som proveniente de uma
+fonte como por exemplo ruído de veículos automotores. Essas reduzem, por exemplo, esse tipo de barulho para receptores
+que vivem às margens das pistas de rolamento de veículos, minimizando, assim, o impacto acústico nessas regiões.
+A partir das informações apresentadas e considerando a utilização das barreiras acústicas, avalie as afirmações que
+se seguem.
+|. Aincidência do vento sobre a barreira acústica pode reduzir sua eficiência pela penetração do som na região
+de sombra acústica.
+Il. O revestimento asfáltico utilizado nas pistas de rolamento das rodovias é irrelevante no desempenho das
+barreiras acústicas.
+Ill. Arelação geométrica entre a fonte, o meio e o receptor influi na proteção acústica de uma barreira.
+IV. A barreira, quanto mais próxima da fonte ou do receptor, melhor será o seu desempenho acústico.
+É correto apenas o que se afirma em
+O lell. O llelv. O llelv. O Lilell. O LINeEIV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

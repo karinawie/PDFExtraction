@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:04:20</Created>
+	<LastChange>2020-10-30T19:07:23</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-10.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 270,191 270,268 1535,268 1535,484 934,484 934,1680 1535,1680 1535,1749 239,1749 239,2006 104,2006 104,2009 81,2009 81,485 80,485 80,268 96,268"/>
+	<ImageRegion id="r1">
+	<Coords points="218,500 218,871 1376,871 1376,500"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="115,971 115,1623 1515,1623 1515,971"/></ImageRegion>
+	<TextEquiv conf="0.95849">
+	<Unicode>QUESTÃO 12
+O 555 é um CI bastante utilizado e é encontrado em diversas aplicações na indústria, sendo empregado principalmente
+como temporizador ou multivibrador. Durante a manutenção de um circuito de controle de uma máquina, observou-se
+que um dos resistores do circuito composto pelo 555 foi queimado, necessitando trocá-lo. Entretanto, não foi possível
+identificar visualmente o valor desse resistor. Antes de o problema ocorrer, porém, foi observado por meio de um
+osciloscópio, o sinal na saída do resistor trocado mostrado no gráfico abaixo.
+Parte da folha de dados (datasheet) do LM555 é apresentada abaixo:
+Para que o circuito volte a funcionar, gerando o mesmo sinal no osciloscópio, é necessário trocar o resistor danificado
+por um de
+O 38kQO.
+44 k O.
+50kO.
+144 MO.
+150 MQ.</Unicode></TextEquiv></TextRegion></Page></PcGts>

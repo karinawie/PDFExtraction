@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:08</Created>
+	<LastChange>2020-11-16T04:05:50</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-18.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="395,323 1219,323 1219,489 955,489 955,677 1535,677 1535,702 1410,702 1410,754 81,754 81,755 80,755 80,728 81,728 81,678 82,678 82,677 661,677 661,489 396,489 396,490 395,490"/>
+	<TextEquiv conf="0.96243">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Os números de Fibonacci correspondem à uma sequência infinita na
+qual os dois primeiros termos são O e 1. Cada termo da sequência,
+à exceção dos dois primeiros, é igual à soma dos dois anteriores,
+conforme a relação de recorrência abaixo.
+f = Ín1 + Ín=2
+Desenvolva dois algoritmos, um iterativo e outro recursivo, que, dado um número natural n &gt; O, retorna o n-ésimo termo
+da sequência de Fibonacci. Apresente as vantagens e desvantagens de cada algoritmo. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

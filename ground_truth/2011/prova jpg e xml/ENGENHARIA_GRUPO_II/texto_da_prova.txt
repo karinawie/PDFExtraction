@@ -1,0 +1,1012 @@
+QUESTÃO 9
+Ao pesquisar os efeitos da temperatura na saída de um dado sistema, um engenheiro obteve a relação mostrada no
+gráfico abaixo. O modelo que descreve matematicamente essa relação é importante para que o engenheiro consiga
+desenvolver um sistema de compensação da temperatura e, com isso, minimizar os seus efeitos.
+De posse do resultado apresentado, analise as afirmações que se seguem.
+|. O efeito da temperatura na saída do sistema pode ser representado aproximadamente por uma função linear.
+Il. O efeito da temperatura na saída do sistema apresenta derivada predominantemente positiva e constante.
+Ill. O efeito da temperatura na saída do sistema pode ser representado por uma função do tipo f(x) = ax + b.
+IV. O efeito da temperatura pode ser representado por uma expressão analítica, em que seus parâmetros podem
+ser estimados pelo método dos mínimos quadrados, utilizando-se apenas dois pontos quaisquer do gráfico.
+É correto apenas o que se afirma em
+O lell.
+O llelv
+O lelv
+O Lille.
+o
+Lei.
+
+QUESTÃO 13
+Considere um sistema de modulação em que o sinal de
+entrada 11(t) (modulante) é multiplicado pelo sinal de uma
+portadora ev(t) = Epcoswot , em que E, é a amplitude de
+pico da portadora, sendo sua frequência muito maior que
+a frequência da modulante. O sinal modulado na saída é
+s(t) = m(t) - Epcosw.t .
+Esse sistema pode ser classificado como
+causal e instável.
+não linear e estável.
+linear e variante no tempo.
+não causal e sem memória.
+Coçgoo
+com memória e invariante no tempo.
+
+QUESTÃO 12
+Um aparelho celular é composto de vários circuitos:
+transceptor de rádio, tela de LCD, receptor de rádio FM,
+telefone e outros. Cada parte do aparelho é utilizada em
+momentos distintos. O consumo de energia depende
+de quais circuitos estão sendo utilizados. O transceptor
+de rádio dissipa mais energia no momento em que o
+usuário está em conversação. Além disso, vários sinais,
+com frequências distintas, estão presentes: áudio,
+radiofrequência e sinais de controle. Todos os circuitos
+são alimentados pela bateria.
+Admitindo o momento em que o celular está em
+conversação, a figura a seguir mostra um modelo elétrico
+do celular com três circuitos. Cada circuito é representado
+por uma impedância em sua forma complexa expressa
+em kO. De acordo com o teorema da superposição, o
+circuito mostra apenas uma fonte.
+A corrente de consumo da bateria, em mA, vale
+36,0.
+22,5.
+12,7.
+12,6.
+12,6-j1,8.
+CGOoOçÇGoo
+
+QUESTÃO 11
+Um microprocessador precisa verificar o estado de um
+dispositivo de saída a cada 20 ms. Isto é feito por meio
+de um timer que alerta o processador a cada 20 ms. À
+interface do dispositivo inclui duas portas: uma para
+estado e uma para saída de dados. O microprocessador
+utiliza uma instrução para verificar o estado do dispositivo,
+e outra para examinar o seu conteúdo. Se o dispositivo
+estiver pronto, é necessária mais uma instrução para
+enviar os dados ao dispositivo. O microprocessador possui
+uma taxa de clock de 8 MHz e todos os ciclos de instrução
+pertinentes são de 12 ciclos de clock.
+STALLINGS, W. Arquitetura e Organização de Computadores, 8 ed.,
+Pearson Prentice Hall, 2010.
+Quanto tempo é necessário para se verificar e atender o
+dispositivo?
+0,060 us.
+0,375 us.
+1,5 us.
+3,0 us.
+4,5 us.
+coçcoo
+
+QUESTÃO 10
+Os materials magnéticos podem ser classificados
+emferromagnéticos (permeabilidade magnética
+relativa muito alta), diamagnéticos (permeabilidade
+magnética relativa aproximadamente menor que um) e
+paramagnéticos (permeabilidade magnética relativa
+aproximadamente maior que um). Duas das razões
+fundamentais para o aproveitamento das propriedades
+magnéticas dos materiais ferromagnéticos é a elevada
+permeabilidade e baixas perdas, que permite a realização
+de circuitos magnéticos de baixa relutância nos quais se
+pode estabelecer um fluxo apreciável à custa de uma
+força magnetomotriz — FMM relativamente baixa.
+A esse respeito, analise as seguintes asserções.
+Em relação aos materiais ferromagnéticos, o ferro silício
+é o mais utilizado nas mais diversas aplicações que
+envolvam núcleos em circuitos magnéticos.
+PORQUE
+O ferro silício é composto de ferro com dopagem de silício,
+que promove o aumento da resistividade do material,
+reduzindo as perdas de correntes de Foucault no núcleo.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são verdadeiras, e a segunda é
+uma justificativa da primeira.
+As duas asserções são verdadeiras, mas a segunda
+não é uma justificativa da primeira.
+A primeira asserção é verdadeira, e a segunda é falsa.
+A primeira asserção é falsa, e a segunda é verdadeira.
+As duas asserções são proposições falsas.
+ooo eo
+
+QUESTÃO 16
+Alguns aquecedores solares usam uma bomba para
+forçar a circulação da água. Nesses aquecedores, há
+dois sensores de temperatura: um localizado no interior
+de uma das placas e outro localizado no interior do boiler
+(reservatório de água quente). Um circuito lógico que
+controla o acionamento da bomba recebe quatro sinais
+nesse tipo de sistema:
+A
+da placa estiver abaixo de 4 ºC, servindo para evitar o
+sinal : será nível ALTO sempre que a temperatura
+congelamento;
+sinal BD: será nível ALTO sempre que a temperatura
+das placas estiver acima de 70 ºC, servindo para evitar
+sobreaquecimento;
+sinal CC: será nível ALTO sempre que a diferença de
+temperatura entre a água das placas e a do boiler estiver
+acima de 5 ºC, servindo para forçar a circulação;
+sinal M : será nível BAIXO sempre que o sistema estiver
+operando em modo automático e será nível ALTO se
+estiver operando em modo manual.
+O circuito lógico citado deverá enviar um sinal nível ALTO
+para o sistema de acionamento da bomba sempre que o
+sinal M estiver em modo automático, e ocorrer pelo menos
+um dos seguintes eventos: a temperatura das placas for
+inferior a 4 ºC; a temperatura das placas for superior a
+70ºC; a diferença entre ambas for superior a 5 ºC.
+Nessa situação, qual é a equação lógica do sinal de saída
+Y do circuito lógico?
+O Y=ABCM
+= ABC+ M
+(A+ B+ C)M
+(A+ B+ C)M
+Y=A+B+C+M
+Y
+Y
+Y
+GOçÇGoeo
+
+QUESTÃO 15
+Uma câmera fotográfica utiliza o formato RGB (rea, green,
+blue) para informação de cores nos pixels, no qual cada
+cor é representada por 8 bits. Deseja-se comprar um único
+cartão de memória para essa máquina de forma tal que
+seja possível armazenar 1 024 fotos com resolução de
+1024 x 1 024 pixels.
+Qual deve ser, em gigabytes (GB), a capacidade mínima
+do cartão de memória a ser comprado?
+1 GB.
+3 GB.
+8 GB.
+24 GB.
+64 GB.
+
+QUESTÃO 14
+Para Galileu, a pesquisa científi ca acontece por dois
+momentos: um analítico e outro sintético. O momento
+analítico consiste na observação do fenômeno. Durante
+a análise, o cientista é levado a propor hipóteses que
+tentem explicar os elementos que constituem o fenômeno.
+O momento sintético manda “reproduzir o fenômeno” por
+meio da experimentação: e, se a hipótese for confi rmada,
+vai virar lei.
+RAMPAZZO, L. Metodologia científi ca. São Paulo: Loyola, 2005. 3.ª ed. p.31
+(com adaptações).
+Considere o seguinte experimento: Uma barra de cobre
+de 1 m de comprimento, 3 cm de largura e 1 cm de altura é
+aquecida. Hipótese: O cobre, quando aquecido, se dilata.
+Após o aquecimento, medem-se as dimensões da barra.
+Verifi ca-se que a hipótese é verdadeira.
+A respeito desse experimento, analise as seguintes
+afi rmações.
+I. O experimento gera outra hipótese: todo metal se
+dilata quando aquecido.
+II. O método científi co utilizado é hipotético-dedutivo.
+III. O método científi co utilizado sofre infl uência direta
+da percepção dos sentidos humanos.
+IV. A tese desse experimento pode ser generalizada,
+por indução, para líquidos e gases.
+É correto apenas o que se afi rma em
+A I e II.
+B I e III.
+C III e IV.
+D I, II e IV.
+E II, III e IV. 
+
+QUESTÃO 19
+Uma célula fotovoltaica apresenta uma curva característica
+| x V conforme mostra a figura 1, na qual também é
+representada a evolução da potência sobre a carga. Essas
+curvas são obtidas alterando-se a resistência de carga
+(R .), indicada no circuito equivalente mostrado na figura 2.
+load
+Os valores indicados como |,,, € Vy., correspondem ao
+ponto de máxima potência sobre a carga, nesse caso,
+3,5A€e 0,5 V. O valor V,, é a tensão de circuito aberto (0,6 V)
+e |. é a corrente de curto-circuito (4 A). Suponha que a
+corrente |, é constante, assim como a tensão V,.
+Define-se rendimento do circuito como a relação entre
+a potência sobre a resistência de carga e a potência
+fornecida pela fonte de corrente |,.
+Com base nessas informações, avalie as seguintes
+afirmações.
+|. No ponto de máxima potência, o rendimento do
+circuito é de 50%.
+Il. O rendimento máximo do circuito é de 50%.
+Ill. Acorrente |, vale 4 A.
+É correto o que se afirma em
+|, apenas.
+Ill, apenas.
+l ell, apenas.
+Il e Ill, apenas.
+Lie.
+cCoçÇGoo
+
+QUESTÃO 18
+No seu primeiro dia de trabalho em uma fábrica de papel,
+um engenheiro é convocado para substituir o sistema de
+controle analógico do motor principal da bobinadora por
+um digital. Entre os diagramas elétricos que o fabricante
+forneceu, na época da compra do equipamento, o
+engenheiro encontrou o detalhe do controlador, mostrado
+na figura abaixo.
+Trata-se de um controlador Proporcional-Integral,
+cujos ganhos K, (proporcional) e K (integral) são,
+respectivamente, iguais a
+10e1.
+10 e 10.
+10º e1.
+-10 e -10?.
+-10? e -10º.
+CGOGoo
+
+QUESTÃO 17
+Um transformador possui as seguintes características
+nominais: 1,2 kVA, 300 V:150 V, 60 Hz. Devido a uma
+emergência, esse transformador será usado em um
+sistema de 50 Hz.
+Se a densidade de fluxo no núcleo do transformador
+deve ser mantida igual àquela para 60 Hz e 300 V,
+então a potência aparente do transformador e a tensão
+a ser aplicada no lado de alta tensão serão iguais,
+respectivamente, a
+1,40 kVA e 350 V.
+1,20 kVA e 350 V.
+1,20 kVA e 250 V.
+1,00 kVA e 250 V.
+1,00 kVA e 150 V.
+
+QUESTÃO 22
+Os projetos de infraestrutura para geração de energia
+elétrica são desenvolvidos e construídos para benefício da
+sociedade. Entretanto, também podem causar impactos
+negativos no meio ambiente e nas comunidades da região.
+Diante disso, em um planejamento de construção de uma
+usina hidrelétrica, é necessário um Estudo de Impacto
+Ambiental para avaliação da viabilidade ambiental da
+obra. Uma das preocupações nesse estudo é o impacto da
+não remoção prévia da vegetação da região a ser alagada
+para construção da barragem. Poderia ser consequência
+do afogamento dessa vegetação a
+|. proliferação de algas.
+Il. produção de gás sulfídrico.
+Ill. diminuição de macrófitas aquáticas.
+IV. diminuição da biodiversidade local.
+É correto apenas o que se afirma em
+lell.
+lei.
+Welv.
+LIelv
+1, Meilv.
+cCoOGoos
+
+QUESTÃO 21
+Em uma indústria de produtos químicos, foi observado
+que os transformadores dos instrumentos de medição
+apresentam constantemente defeitos de operação.
+Após analisar as possíveis causas dos defeitos, concluiu-se
+que, devido à corrosão proporcionada pelo ambiente
+da indústria, esta provocava o desgaste acelerado dos
+núcleos dos transformadores. A indústria resolveu, então,
+trocar os núcleos de aço silício por metal amorfo, devido à
+sua alta resistência à corrosão.
+Devido a quais das seguintes características, o material
+amorfo é superior ao aço silício?
+|. Espessura das lâminas menores.
+Il. Grau de dureza maior.
+Ill. Fator de empilhamento baixo.
+IV. Corrente de excitação menor.
+É correto apenas o que se afirma em
+leill.
+lelv.
+Weilv.
+Lie.
+1, Meilv.
+CoOoçGoo
+
+QUESTÃO 20
+O chuveiro elétrico tem sido apontado como um dos
+principais aparelhos consumidores de energia em
+ambiente doméstico. Para minimizar tal demanda de
+eletricidade, um inventor amador pensou em implementar
+um sistema de geração de energia próprio, que lhe permita
+manter o conforto de seu banho, sem demandar energia
+elétrica da rede.
+Já que reside no último andar de um edifício de 60
+metros de altura, sua ideia é a de construir um sistema
+de geração no qual a descida de uma massa de 10 kg
+atue sobre um gerador e que a energia elétrica produzida
+seja armazenada em um banco de baterias para posterior
+aproveitamento na alimentação do chuveiro, de acordo
+com o desenho esquematizado a seguir.
+Considere que a potência do chuveiro é de 6 kW, a duração
+pretendida do banho é de 10 minutos, a aceleração da
+gravidade é igual a 10 m/S? e que a conversão da energia
+potencial da massa de 10 kg em eletricidade, a acumulação
+dessa energia nas baterias e sua posterior utilização para
+alimentar o chuveiro se dão sem perdas.
+Sob essas condições, para que se produza a energia
+elétrica necessária para o banho, o procedimento deve
+ser repetido, no mínimo,
+10 vezes.
+60 vezes.
+100 vezes.
+360 vezes.
+600 vezes.
+
+QUESTÃO 26
+Apesardoscuidados adotados naestocagemde vergalhões
+de aço em aciarias, a fim de se evitar a imantação desse
+material pelo campo magnético terrestre, não é incomum a
+ocorrência de uma magnetização residual em vergalhões
+após algum tempo de armazenamento. Essa imantação
+pode ocasionar problemas em processos de manufatura.
+Na fabricação de parafusos e pregos, por exemplo,
+a atração magnética entre as peças manufaturadas
+pode provocar aglomerações que comprometem o bom
+funcionamento de uma máquina automatizada utilizada
+para a obtenção dessas peças.
+Para o engenheiro responsável pelo recebimento
+de matéria-prima em uma metalúrgica que fabrique
+parafusos e utilize vergalhões de aço, qual a alternativa
+que representa a estratégia de solução mais adequada
+para desmagnetizar esses vergalhões, supondo-se que,
+por questões de custo, o processo de desmagnetização
+deva ser a frio?
+O Tratamento térmico do vergalhão de aço por meio
+de têmpera.
+O Usinagem mecânica do vergalhão de aço por meio de
+torneamento mecânico a frio.
+Aplicação de campo magnético alternado e amortecido
+ao longo do vergalhão.
+Aplicação de campo elétrico alternado e amortecido
+ao longo do vergalhão.
+Combinação de tratamento térmico, seguido de
+usinagem a frio e aplicação de campo eletromagnético
+ao longo do vergalhão.
+o oco
+
+QUESTÃO 25
+Um engenheiro eletricista foi contratado para implantar um
+programa de conservação de energia em uma empresa.
+Para isso, avalie a pertinência das seguintes medidas a
+serem adotadas por ele.
+|. Fazerlevantamento de faturas de energia elétrica,
+equipamentos e relatórios de produção.
+Implantar o Programa Interno de Conservação
+de Energia, com apoio da administração
+superior da empresa.
+Revisar o programa periodicamente e alterar o
+contrato de fornecimento de energia elétrica a
+cada 2 anos.
+Orientar e subsidiar as comissões de licitações
+para que as aquisições sejam feitas considerando
+economicidade do uso, avaliado pelo cálculo do
+custo-benefício ao longo da vida útil.
+Determinar que cada uma das ações do programa
+seja controlada por todos do setor, para que ele
+se restrinja a orientar empregados da empresa
+, que não são terceirizados.
+É correto apenas o que se afirma em
+Le.
+Veil.
+,IVeV.
+W,WMev
+M,IVEeV.
+coçgoo
+
+QUESTÃO 24
+Com um amplificador operacional ideal, polarizado
+adequadamente, tem-se o circuito eletrônico abaixo,
+em que as entradas são representadas pelas fontes de
+tensão contínuas V, e V,, a saída é dada pela tensão V, e
+os símbolos V+ e V- indicam as entradas não inversora e
+inversora, respectivamente.
+o
+o circuito tem a função de amplificar a soma entre
+suas entradas.
+à medida que a temperatura ambiente aumentar, a
+tensão de saída V, decresce.
+o amplificador operacional estará em saturação, se
+as tensões V, e V, forem iguais.
+a tensão na saída V, será menor que zero e vice-
+versa, se a diferença V,- V, for maior que zero.
+a tensão de saída V, será de -15 V, se o ganho A do
+amplificador operacional for igual a 100 000.
+o O oe6co
+
+QUESTÃO 23
+Em uma planta industrial, deseja-se implementar um
+controle da vazão de gás combustível que alimenta um
+sistema de combustão de uma caldeira. Entre as opções
+de equipamentos a seguir, selecione aquela adequada
+para a implementação desse controle em malha fechada
+e com ação PID.
+O Placa de orifício, transmissor de pressão diferencial,
+controlador com algoritmo PID e válvula pneumática
+com conversor corrente-pressão.
+Medidor de vazão eletromagnético, transmissor de
+pressão diferencial, controlador com algoritmo PID e
+válvula pneumática com conversor corrente-pressão.
+Placa de orifício, transmissor de pressão diferencial,
+controlador com algoritmo PID e válvula solenoide.
+Medidor de vazão eletromagnético, transmissor de
+pressão diferencial, controlador com algoritmo PID e
+válvula solenoide.
+Medidor de vazão eletromagnético, transmissor de vazão,
+controlador com algoritmo PID e válvula solenoide.
+o
+o
+
+QUESTÃO 27
+As condições gerais de fornecimento de energia elétrica que estabelecem as disposições a serem observadas pelas
+distribuidoras de energia elétrica e pelos consumidores encontram-se consolidadas na Resolução nº. 414 da ANEEL —
+Agência Nacional de Energia Elétrica, em vigor desde 15/09/2010. Essa regulamentação estabelece, para as unidades
+consumidoras do Grupo A e com modalidade tarifária convencional, a obrigatoriedade de contratação de valor único
+de demanda (kW) na vigência do contrato e aplicação de tarifa única no faturamento desse item. A regulamentação
+anterior permitia contratação de valores distintos para cada mês.
+A Resolução determina, ainda, que o montante a ser faturado do consumidor, com exceção de algumas classes
+especiais, é o maior valor entre a demanda contratada e a demanda medida. Estabelece também que, se a demanda
+medida ultrapassar em mais de 5% a demanda contratada, será cobrado um acréscimo na tarifa (cerca de 3 vezes o
+valor normal) sobre o montante excedente (ultrapassagem de demanda).
+Atabela e o gráfico a seguir apresentam a evolução das demandas contratadas e medidas de uma unidade consumidora do
+Grupo A e tarifa convencional, anteriores à entrada em vigor da nova legislação. Verifica-se que é necessária a atualização
+do contrato com a concessionária de energia, com a contratação de valor único para a demanda.
+Avaliando os dados apresentados, qual o valor aproximado a ser recomendado para contratação de demanda, mantidas
+as condições de consumo apresentadas no gráfico, de forma a se garantir que não haverá cobrança de ultrapassagem
+de demanda dessa unidade consumidora?
+O 4400 kW
+O 5000 kW
+O 6000 kW
+O 6300 kW
+Q 6600 kW
+
+QUESTÃO 28
+Uma das maiores e mais importantes aplicações para o diodo Zener é servir como regulador de tensão, proporcionando
+tensões estáveis para uso em fontes de alimentação, voltímetros e outros instrumentos. O circuito da figura abaixo é
+implementado com o uso de diodos Zener, e a tensão aplicada na entrada do circuito é senoidal , cujos valores máximos
+positivo e negativo variam entre +20 V e -20 V. Após passar pelos diodos Zener, a tensão na saída foi limitada e varia
+entre +9,1 V(positivo) até -5,1 V(negativo), conforme ilustrada a figura a seguir.
+Em face do exposto, admitindo-se que todos os diodos são ideais, o circuito com diodo Zener entre os pontos X e Y (no
+espaço marcado com o ponto de interrogação) que deve ser inserido nessa posição é
+
+QUESTÃO 29
+No Laboratório de Acionamentos Eletroeletrônicos, o motor de indução trifásico é conectado da forma ilustrada na figura
+a seguir e interligado à rede trifásica de 220 V (eficaz). O circuito do motor é representado por uma resistência de 6 )
+e uma reatância indutiva de 8 O).
+Nessa situação, o módulo das correntes de fase (I,,) e de linha (I,) são, respectivamente,
+O 1,=744Ae|,=66A.
+O 1,=22Ae|,=44A.
+OQ 1,=22Ae|,=38,1A.
+O 1,=36,67 Ae |, = 44 A.
+O 1,=36,67Ae|,=73,33A.
+
+QUESTÃO 31
+No processo de fabricação de capacitores, podem
+aparecer bolhas de ar no interior do material usado como
+dielétrico. A ocorrência de bolhas no interior do dielétrico
+limita a máxima tensão de utilização do dispositivo.
+PORQUE
+O campo elétrico que surge quando o capacitor é submetido
+a uma diferença de potencial em seus terminais é maior
+no interior da bolha do que no interior do dielétrico e a
+ruptura dielétrica pode ocorrer para tensões mais baixas
+do que na situação de ausência de bolhas de ar.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira quanto a segunda são proposições falsas.
+
+QUESTÃO 30
+No projeto de um sistema de radiocomunicação, uma
+premissa básica para se evitarem possíveis interferências
+é utilizar diferentes frequências de operação quando as
+estações estiverem próximas umas das outras. Considere
+o projeto de um sistema que deve operar nas proximidades
+de uma outra estação radiodifusora e que, para isso, é
+necessário saber a faixa de frequência em que opera a
+estação já em funcionamento. Suponha que a estação
+opera em um canal de 10 kHz, emitindo sinais com
+modulação AM-DSB, e que a frequência da portadora é
+de 600 kHz. Nesse caso, as frequências de sinal mínima e
+máxima geradas por essa estação são, respectivamente,
+iguais a
+600 kHz e 610 kHz.
+600 kHz e 620 kHz.
+590 kHz e 600 kHz.
+590 kHz e 610 kHz.
+580 kHz e 620 kHz.
+CoOçÇGoo
+
+QUESTÃO DISCURSIVA 3
+Quando da sua implantação para suprirem energia elétrica ao sistema produtivo, as indústrias dimensionam a subestação
+de acordo com a potência instalada. No momento da expansão, conforme a nova demanda de potência, torna-se
+necessária a ampliação da subestação, utilizando o procedimento de operação em paralelo de transformadores.
+Na situação em que uma subestação foi projetada inicialmente com um transformador de 750 kVA, 13,8/0,38 kV, Dy-1,
+Z%7=A4,5 e que foi necessário ampliar a potência entregue para 1 100 kVA, decidiu-se utilizar o paralelismo como forma
+de suprir a carga. Um fornecedor ofereceu quatro transformadores para suprir a expansão da carga, com as seguintes
+especificações:
+Transformador 1 - 500 kVA, 13,8/0,22 kV, Dy-1, Z%=4,5 ;
+Transformador 2 - 500 kVA, 13,8/0,38 kV, Dy-1, Z%7=A4,5;
+Transformador 3 - 500 kVA, 13,8/0,38 kV, Dy-1, Z%=5,0;
+Transformador 4 - 500 kVA, 13,8/0,38 kV, Dy-5, Z%7=A4,0.
+Com base na situação descrita, faça o que se pede nos itens a seguir.
+a) Para entender as condições de otimização a serem impostas na escolha do transformador a ser colocado em
+paralelo com o transformador de 750 kVA, qual dos transformadores oferecidos pelo fornecedor deveria ser
+escolhido? Justifique sua resposta. (valor: 2,0 pontos)
+b) Após a escolha feita no item anterior e considerando a operação em regime permanente do novo sistema
+(operação em paralelo), determine a distribuição de carga percentual em relação à potência nominal de cada
+um dos transformadores em paralelo, apresentando o desenvolvimento algébrico utilizado para a solução.
+(valor: 8,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Um forno com aquecimento resistivo tem um controle de temperatura do tipo liga-desliga (figura |). Esse comando é
+realizado a partir de um sensor de temperatura, cujo comportamento é ilustrado no gráfico da figura Il.
+Quando a temperatura atinge 100 ºC, a alimentação do forno é interrompida. Quando se reduz a 90ºC, o forno é ligado. À
+resistência Rx é um termistor, ou seja, o valor de sua resistência varia com a temperatura de acordo com o gráfico da figura |l.
+Com base nessa situação, faça o que se pede nos itens a seguir.
+a) Determine o valor da tensão Vs que corresponde ao limite inferior de temperatura de operação do forno.
+(valor: 3,0 pontos)
+b) Determine a corrente fornecida pela fonte Vcc, quando a temperatura é máxima. (valor: 3,0 pontos)
+c) Se a tensão Vcc tiver que ser substituída por uma bateria de 9 V, qual o novo valor de R para que a temperatura
+máxima do forno não seja alterada? Justifique sua resposta. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Os sinais, de uma forma ou de outra, constituem ingrediente básico de nossa vida diária.
+Por exemplo, uma forma comum de comunicação humana se desenvolve com o do uso de
+sinais da fala, seja na conversação frente a frente ou por um canal telefônico. Outra forma
+comum de comunicação é visual por natureza, com os sinais assumindo a forma de imagens
+de pessoas ou objetos que nos cercam. Há também o correio eletrônico pela Internet. À
+Internet constitui poderoso meio para pesquisar informações de interesse geral, publicidade,
+educação e jogos.
+Em um sistema de comunicação, o sinal de entrada poderia ser um sinal de fala ou dados
+de computador, o sistema em si é composto da combinação de um transmissor, canal e
+receptor, e o sinal de saída é uma estimativa do sinal da mensagem original.
+HAYKIN , S.; VEEN, B. V. Sinais e sistemas. São Paulo: Bookman, 2001. p. 21-22 (com adaptações).
+Considerando as ideias do texto acima, redija um texto dissertativo acerca do seguinte tema:
+Sistemas de Comunicação: a digitalização da informação.
+Aborde, em seu texto, os seguintes aspectos:
+a) sinal analógico e sinal digital; (valor: 3,0 pontos)
+b) digitalização de sinais, conversão analógico-digital, nodem ADSL, processamento da informação e comunicação
+à distância; (valor: 4,0 pontos)
+c) tipos de canal: canal telefônico, canal de rádio, canal óptico. (valor: 3,0 pontos)
+
+QUESTÃO 35
+Um gerador síncrono na operação em paralelo com a rede
+(barramento infinito) pode dividir com esta a demanda de
+potência solicitada pela carga, sem que haja necessidade
+de interrupção momentânea do fornecimento de energia à
+carga. A quantidade de potência a ser gerada pelo gerador
+síncrono pode ser controlada pelo sistema de controle
+de velocidade da máquina primária. Outra característica
+importante é a possibilidade de controlar o fluxo de
+potência reativa entre a máquina síncrona e a rede por
+meio da sua corrente de excitação. Compete ao operador
+do gerador carregá-lo conforme lhe seja mais interessante.
+Considere um gerador síncrono que foi sincronizado com um
+sistema elétrico de grande porte, que mantém constantes
+em seus terminais a tensão, V, e a frequência, f. Considere,
+ainda, que, em um primeiro momento, o gerador encontra-
+se flutuando em relação a esse sistema, ou seja, não
+recebe e nem envia potências ativa e reativa. Em relação
+ao fluxo de potência reativa entre a máquina e a rede,
+analise as seguintes asserções.
+Aumentando-se a corrente de excitação do gerador
+síncrono, verifica-se aumento da corrente de armadura.
+PORQUE
+Um acréscimo na corrente de excitação de gerador
+síncrono faz com que o mesmo absorva potência reativa
+da rede elétrica onde está conectado.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda justifica a primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não justifica a primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O As duas asserções são proposições falsas.
+
+QUESTÃO 34
+Um dos principais componentes de um sistema de
+distribuição de energia elétrica é a subestação. Ela exige
+constantes cuidados com segurança e manutenção, de
+forma a evitar interrupções no fornecimento de energia com
+consequentes prejuízos às unidades consumidoras dela
+dependentes. Entre os elementos a serem observados em
+uma vistoria do estado da subestação externa, inclui-se o(a)
+|. iluminação no pátio da subestação.
+Ill. aterramento de cercas do pátio da subestação.
+Ill. verificação de vazamentos de óleo
+transformadores.
+IV. altura do solo de elementos energizados.
+É correto o que se afirma em
+em
+O lell, apenas.
+O lelll, apenas.
+O llelV, apenas.
+O lllelV, apenas.
+O LILUEI.
+
+QUESTÃO 33
+Uma instalação elétrica possui motor de indução trifásico
+(60Hz) com 6 polos e com escorregamento nominal de 0,05.
+Considerando que esse motor é alimentado na sua tensão
+e frequência nominais, analise as afirmações abaixo.
+|. Esse motor em vazio (sem carga mecânica no seu
+eixo) gira a, aproximadamente, 1 800 rpm.
+Ill. Esse motor com carga mecânica nominal
+colocada no seu eixo gira com velocidade de,
+aproximadamente, 1 140 rpm.
+Ill. A frequência das correntes que circulam nos
+enrolamentos do rotor, na condição de operação
+nominal, é, aproximadamente, igual a 3Hz.
+IV. Se esse motor, alimentado inicialmente na
+sequência de fases A, B, C, for alimentado na
+sequência de fases C, A, B, terá o sentido de
+rotação do seu rotor invertido.
+É correto apenas o que se afirma em
+l.
+W.
+lelv.
+el.
+Nelv.
+CoOoçGoo
+
+QUESTÃO 32
+O fluxo de carga é uma das ferramentas matemáticas
+mais importantes e utilizadas pelos engenheiros
+eletricistas que projetam, analisam e operam o sistema
+elétrico de potência. Atualmente, existe uma diversidade
+de programas que executam o cálculo de fluxo de carga
+e que são utilizados para o sistema de alta tensão ou de
+distribuição. O cálculo do fluxo de carga estático em um
+sistema elétrico consiste, essencialmente, na
+|. determinação das tensões e ângulos de fases
+para cada barra do sistema.
+Il. determinação da distribuição dos fluxos de
+potências ativa e reativa que fluem pelo sistema.
+Ill. solução de um conjunto de equações diferenciais
+que descrevem o comportamento das máquinas
+síncronas (simulação de transitórios).
+IV. solução de um conjunto de equações pelo método
+de Gauss-Jordan.
+É correto apenas o que se afirma em
+lell.
+Ielv.
+Welv.
+Lille.
+LUI eilv.
+coçGoo
+
+QUESTÃO 36
+Há algum tempo, para se ter um controle preciso de velocidade, eram utilizados os motores de corrente contínua.
+Entretanto, o emprego dessas máquinas acarretava elevados custos de manutenção e problemas nos comutadores
+e escovas. Com a evolução da eletrônica de potência, aliada à necessidade de aumento de produção e redução
+no consumo de energia elétrica, os conversores com operação de seis (6) pulsos e com modulação por largura de
+pulsos (PWM) senoidal se tornaram uma prática comum na indústria no acionamento de motores de indução. Isso
+principalmente nas aplicações em que o motor opera com velocidades estacionárias por longos períodos de tempo,
+ou seja, não é necessário um desempenho dinâmico ótimo. Inicialmente, como não havia chaves semicondutoras que
+operavam em alta frequência, surgiram os inversores de seis (6) pulsos. Nesses conversores, a tensão contínua de
+entrada é controlada pelo retificador de forma a variar a amplitude da tensão de saída. Assim, o inversor controla somente
+a frequência da tensão de saída. Posteriormente, surgiram os inversores com modulação por largura de pulsos (PWM),
+que operam com frequências elevadas e proporcionam controle simultâneo da amplitude e da frequência das tensões
+aplicadas à máquina. A evolução dos tradicionais conversores de 6 pulsos para os PWM senoidais trouxe alguns
+benefícios, podendo-se destacar: redução do conteúdo harmônico das tensões e correntes; redução das oscilações de
+conjugado; diminuição das perdas do motor.
+Considerando a utilização dessas duas formas de acionamento do motor de indução trifásico (6 pulsos e PWM senoidal),
+analise os seguintes sinais de tensão e corrente para uma das fases ilustrados abaixo.
+Considerando essas formas de onda, é correto afirmar que os verdadeiros sinais de tensão e corrente, característicos
+do acionamento dos motores de indução trifásicos pelos conversores de 6 pulsos e PWM senoidal, são apenas aqueles
+apresentados nas figuras
+O ilel. Ole. O lelv O Lillelv, O, IMeilv
+
+QUESTÃO 39
+Deseja-se utilizar um amplificador somador para fazer a
+conversão analógico-digital (A/D). O circuito deve aceitar
+AA
+uma entrada de 3 bits com palavra binária A,A,A,,
+em que
+A, A, e A, podem assumir os valores O ou 1, fornecendo
+uma tensão de saída analógica V, proporcional ao valor
+de entrada. Cada um dos bits da palavra de entrada
+controla as chaves correspondentemente numeradas.
+Por exemplo, se A, é 0, então a chave S, conecta o resistor
+de 10 k6) ao terra; caso contrário, a chave S, conecta o
+resistor de 10 k$) ao terminal +5 V da fonte de alimentação.
+Na situação apresentada, o valor de R, para que a saída
+V, do conversor varie de 0 a -7 V é igual a
+4109.
+5,6 kO.
+8,0 kO.
+98,0 kf2.
+245,0 O.
+CoOçGoo
+
+QUESTÃO 37
+Um conversor A/D de aproximações sucessivas de 10 bits
+aceita como entrada valores de tensão entre -10 Ve +10 V.
+Nesse caso, a resolução do conversor é
+menor que 10 mV.
+maior que 10 mV e menor que 30 mV.
+maior que 30 mV e menor que 50 mV.
+maior que 50 mV e menor que 70 mV.
+cCoOoçGoo
+maior que 70 mV.
+
+QUESTÃO 38
+As técnicas de compressão de áudio e vídeo visam
+reduzir o número de bits que representam um sinal. Tais
+técnicas preservam a informação essencial e removem
+a informação não essencial, aquela que, normalmente,
+não é percebida pelo olho e ouvido humano. Formatos
+como MP3 e JPEG são exemplos do resultado da
+operação de compressão de sinais. Com relação às
+técnicas de compressão de áudio e vídeo, analise as
+seguintes asserções.
+Para determinar o que é informação não essencial, pode
+ser aplicada ao sinal a Transformada Discreta do Cosseno.
+PORQUE
+Os coeficientes mais significativos do vetor de dados
+representativo do sinal se acumulam no início do vetor. O
+restante do vetor fica com valores muito pequenos e com
+pouca informação, portanto, pode se descartado.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 41
+Em uma fábrica de automóveis, foi solicitado a um
+Engenheiro de Controle e Automação a especificação de
+robôs manipuladores para uma célula de produção, onde
+seriam feitas montagens e soldagens em partes internas
+e externas de veículos. Após a análise do problema, o
+engenheiro especificou robôs manipuladores com 6 (seis)
+graus de liberdade do tipo articulado (antropomorfo)
+com punho do tipo esférico, e com a opção de controle
+de impedância para salvaguardar a destruição de peças
+durante as etapas de montagens e soldagem.
+Na solução adotada pelo Engenheiro para o problema,
+|. seis é o número mínimo de graus de liberdade
+que possibilita um robô manipulador alcançar um
+conjunto posição + orientação, especificado em
+uma tarefa de montagem ou soldagem.
+Ill. a estrutura dos graus de liberdade de
+posicionamento é de três juntas revolucionárias
+(RRR), enquanto a estrutura de orientação é de
+uma junta revolucionária e duas prismáticas (RPP).
+Ill. o controle de impedância faz uso do conceito de
+impedância mecânica para controlar a força de
+contato aplicada pelo robô manipulador.
+IV. os graus de liberdade estão divididos em três
+graus para o posicionamento e três graus para
+a orientação.
+É correto apenas o que se afirma em
+leill.
+Nell.
+NI elv.
+LNeilv.
+LVelv.
+CoOoçgGoo
+
+QUESTÃO 40
+A força F gerada por um eletroímã, ilustrado na figura
+abaixo, pode ser modelada pela função não-linear da forma:
+2
+1º
+F(1,9) = k—'
+II
+em que / representa a corrente elétrica imposta na sua
+bobina, em Ampeêres, g é o entreferro formado pelo núcleo
+do eletroímã e a peça móvel, medido em metros, e k é um
+parâmetro que depende do número de espiras da bobina,
+do material do núcleo e das suas dimensões.
+Para manter o entreferro constante, o projeto de
+um sistema de controle de posicionamento requer a
+linearização da função força em torno do ponto de
+operação /, = 1 Ae g,= 10º m. Após esse procedimento,
+uma nova função força pode ser definida:
+S=ki+ kar,
+em que
+f=F(I,9)— F(Io,9o.)i=1I—- 1 /er=9-9Go
+Considerando k = 10º N.m?/A?, as constantes k, e k,
+valem, respectivamente,
+2x10º N/A e -2x10º N/m.
+-2xX10? N/A e 2x10º N/m.
+2x10º N/A e -2x10º N/m.
+-2xX10º N/A e 2x10º N/m.
+2x10? N/A e -2x10º N/m.
+CoçgÇoo
+
+QUESTÃO 43
+Considere o processo de controle de uma cancela
+na saída do estacionamento de um shopping center.
+O diagrama de lógica ladder e o diagrama de interligação
+são ilustrados na figura seguinte.
+Para controle do sistema, considere que: o sensor SO
+indica presença de veículo, o sensor S1 indica que o
+cartão foi inserido (fica acionado durante 12 segundos
+após a inserção do cartão), o sensor S2 indica cancela
+aberta e o sensor S3 indica cancela fechada. Para as
+saídas, considere que: L1 é uma lâmpada de sinalização,
+C1 é a saída para acionamento do fechamento da cancela
+e C2 é a saída para acionamento da abertura da cancela,
+cujo tempo de abertura é sempre inferior a 6 segundos.
+Os temporizados são do tipo temporizado na ligação e
+não retentivo.
+Supondo que, inicialmente, o sistema está com a cancela
+fechada, sem presença de veículo e sem inserção de
+cartão, analise as seguintes afirmações.
+|. A lâmpada de sinalização indica que o veículo
+pode passar.
+Uma vez aberta, o fechamento da cancela iniciará
+4 segundos depois da saída do carro.
+. A abertura da cancela iniciará 4 segundos após a
+presença do veículo e a inserção do cartão.
+Após a presença do veículo e a inserção do cartão,
+o motorista terá, no máximo, 14 segundos para sair
+com o veículo.
+É correto apenas o que se afirma em
+leill.
+lelv.
+Neil.
+Lev.
+I, NM eilv
+cCoOogGoo
+
+QUESTÃO 42
+Uma situação comum na prática, ocorre quando os
+dados são medidos e disponibilizados sequencialmente.
+Ou seja, a cada período de amostragem, um sistema
+qualquer de coleta de dados fornece medições
+correspondentes àquele instante. Obviamente, os dados
+poderiam ser armazenados até se ter um número suficiente
+para resolver o problema em batelada. Mas será que é
+possível utilizar os dados sequencialmente para atualizar
+o vetor de parâmetros de um determinado modelo?
+AGUIRRE, L. A. Introdução à identificação de sistemas: técnicas lineares e
+não-lineares aplicadas a sistemas reais. 3. ed. rev. e ampl. p. 35,
+Belo Horizonte: Editora UFMG, 2007.
+Com base no texto, analise as seguintes asserções.
+É possível a estimação dos parâmetros com dados
+sequenciais, utilizando-se estimadores recursivos.
+PORQUE
+Além de serem úteis quando os dados são disponibilizados
+sequencialmente, os estimadores recursivos também têm
+utilidade para a resolução de problemas numéricos cuja
+solução em batelada seria difícil.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O o 6
+
+QUESTÃO 47
+Multiplexação consiste na transmissão simultânea
+de informação de várias fontes a mais de um destino,
+possibilitando a otimização dos meios de transmissão,
+normalmente de capacidade limitada, com a alocação de
+diversos sinais de forma simultânea no sistema.
+Citam-se como técnicas demultiplexação:
+FDM - Multiplexação por Divisão de Frequência,
+TDM — Multiplexação por Divisão de Tempo, CDM
+— Multiplexação por Divisão de Código e WDM -—
+Multiplexação por Divisão de Comprimento de Onda.
+ALENCAR, M. S. Telefonia digital. São Paulo: Érica, 2002.
+Sobre multiplexação, avalie as seguintes afirmações.
+|. Na rede móvel celular GSM, para transmissão de
+voz e dados, são utilizadas as técnicas FDM e TDM.
+Il. Atécnica WDM é utilizada em comunicação óptica.
+Ill. Asredes celulares de terceira geração (3G) não usam
+a técnica FDM por ser esta uma técnica ultrapassada.
+IV. A multiplexação usada em um enlace PCM
+(Modulação por Código de Pulso) é a CDM.
+É correto apenas o que se afirma em
+leill.
+el.
+Welv.
+LIVelv.
+LUME.
+CoOoGoo
+
+QUESTÃO 46
+Um radioenlace, operando em 1 GHz, é projetado para a
+comunicação entre dois pontos distantes 10 km entre si.
+Supondo-se que, nessa frequência de operação, o enlace
+se dá em “espaço livre”, é correto afirmar que a atenuação
+do sinal no trajeto entre transmissor e receptor, medida
+pela razão entre a potência do sinal recebido e a potência
+do sinal irradiado, ocorre devido
+O à variação na condutividade do terreno ao longo do
+trajeto do radioenlace entre o transmissor e o receptor.
+O à área superficial da antena receptora ser inferior à
+área da frente de onda que atinge o ponto de recepção.
+O às perdas decorrentes da absorção de parcela do
+sinal transmitido em obstáculos que se encontram ao
+longo do radioenlace.
+O às perdas ôhmicas no ar que surgem na medida em
+que o sinal irradiado se propaga entre o transmissor e
+o receptor.
+O àdiminuição da densidade de potência nos pontos da
+frente de onda, na medida em que o sinal se afasta do
+ponto transmissor.
+
+QUESTÃO 45
+Um engenheiro projetou um sistema de telefonia móvel
+celular, no qual cada célula possui 12 canais e o tráfego
+medido em cada canal é de 0,81 Erl na HMM (Hora de
+Maior Movimento). Cada estação móvel (EM) atendida
+por esse sistema gera, em média e na mesma HMM, um
+tráfego de 0,03 Erl com chamadas originadas e de 0,06 Erl
+com chamadas recebidas.
+No projeto descrito acima, o engenheiro especificou que o
+número de estações móveis que podem ser atendidas em
+cada célula do sistema é
+Oo.o.
+o 27.
+O 108.
+O 162.
+o 32.
+
+QUESTÃO 44
+O teorema da amostragem de Nyquist estabelece
+que um sinal analógico limitado em Banda pode ser
+completamente representado por amostras desse sinal,
+obtidas em intervalos iguais de tempo, se a frequência
+de amostragem é maior ou igual à sua largura de Banda.
+Esse teorema é fundamental para os processos de
+digitalização de sinais. Com relação a esse tema, avalie
+as seguintes asserções.
+Para enunciar o seu teorema, Nyquist considerou que o
+sinal analógico ocupava Banda finita, ou seja, Nyquist
+valeu-se do conhecimento dos sinais de informação
+utilizados à época: áudio e vídeo. A Transformada de
+Fourier foi aplicada ao sinal analógico e ao sinal amostrado.
+PORQUE
+O estudo de Nyquist teve por objetivo comparar o
+sinal analógico e o sinal amostrado no domínio da
+frequência. Tratava-se, portanto, da análise espectral
+desses sinais. A análise espectral foi feita utilizando-se
+a Transformada de Fourier.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O o eo
+

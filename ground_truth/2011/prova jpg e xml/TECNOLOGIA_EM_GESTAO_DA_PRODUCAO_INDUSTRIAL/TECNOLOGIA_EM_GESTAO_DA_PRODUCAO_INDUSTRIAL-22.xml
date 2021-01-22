@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T22:17:20</Created>
+	<LastChange>2020-10-30T19:35:03</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_GESTAO_DA_PRODUCAO_INDUSTRIAL-22.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="96,191 430,191 430,251 1535,251 1535,395 906,395 906,998 1536,998 1536,1192 82,1192 82,1193 81,1193 81,396 80,396 80,252 81,252 81,251 96,251"/>
+	<ImageRegion id="r1">
+	<Coords points="260,436 260,923 1323,923 1323,436"/></ImageRegion>
+	<TextEquiv conf="0.95663">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Os sistemas de produção tradicionalmente baseiam-se no modelo ENTRADA ----&gt; TRANSFORMAÇÃO ---&gt; SAÍDA.
+A partir desse conceito, e em função da análise que se faz, são várias as maneiras de classificá-los. Uma técnica
+utilizada para a gestão de projetos vale-se do método PERT - CPM (Program Evaluation and Review Technique -
+Critical Method Path). As datas de início e término de atividades estão relacionadas ao tempo esperado das mesmas,
+assim como às suas folgas.
+Com base na rede apresentada no diagrama acima, identifique as atividades que fazem parte do Caminho Crítico;
+a Primeira Data de Início (PDI) nas atividades B e C; a Última Data de Início (UDI) nas atividades B e D; e a Última Data
+de Término (UDT) nas atividades E e F, considerando que o tempo de duração do projeto coincide com a Última Data
+de Término da atividade F. Explique, ainda, qual fator foi utilizado para indicar as atividades que pertencem ao Caminho
+Crítico. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

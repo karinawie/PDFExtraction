@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:09:18</Created>
+	<LastChange>2020-10-30T17:14:00</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-10.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="88,970 78,2013 1509,2031 1520,988"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,191 184,191 184,192 270,192 270,258 1537,258 1537,372 1536,372 1536,473 304,473 304,888 1445,888 1445,889 1535,889 1535,952 82,952 82,951 81,951 81,510 80,510 80,472 79,472 79,258 96,258"/>
+	<TextEquiv conf="0.95864">
+	<Unicode>QUESTÃO 10
+A cânfora tem conhecidas aplicações antisséptica e anestésica local, sendo identificada facilmente por seu odor
+característico. Por se tratar de uma cetona, geralmente é sintetizada a partir do norboneol usando-se reagentes
+oxidantes à base de cromo. Com o objetivo de estimular a preocupação com o meio ambiente e a busca por uma opção
+de reagente economicamente mais viável e associado ao cotidiano, um professor propôs que seus alunos do curso de
+graduação em Química testassem o uso de água sanitária (um produto comercial obtido pela diluição de hipoclorito
+de sódio em água, estabilizado pela adição de cloreto de sódio) na oxidação do borneol a cânfora, como mostra o
+esquema a seguir.
+Uma das técnicas utilizadas para caracterizar o produto foi a espectroscopia de infravermelho (IV), usando pastilha de
+KBr. Os espectros realizados para o borneol e a cânfora deram os resultados mostrados a seguir.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="334,507 334,842 1271,842 1271,507"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:48:19</Created>
+	<LastChange>2020-10-30T03:03:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VII-13.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="96,1315 270,1315 270,1359 1535,1359 1535,1598 1534,1598 1534,1727 1535,1727 1535,1789 1368,1789 1368,1891 1459,1891 1459,1949 1209,1949 1209,1981 987,1981 987,2012 794,2012 794,2013 129,2013 129,2014 128,2014 128,2009 81,2009 81,1839 80,1839 80,1813 79,1813 79,1812 81,1812 81,1706 80,1706 80,1359 96,1359"/>
+	<TextEquiv conf="0.95972">
+	<Unicode>QUESTÃO 19
+Uma empresa planeja lançar, como produto, uma mistura asfáltica sob a alcunha de ecológica, devido à adição
+triturada de 100 pneus usados a cada metro quadrado de pavimento. Para comprovar a eficiência operacional, a
+empresa pavimentou dois trechos de uma rodovia, idênticos com relação à compactação do solo e quaisquer outras
+características, sendo a única diferença a mistura asfáltica padrão em um trecho e a ecológica em outro. Após um
+período em que ambos os trechos foram submetidos ao mesmo tráfego intenso de caminhões carregados, constatou-
+se o surgimento de deformações irreversíveis na forma de sulcos, formados a partir das trilhas das rodas dos veículos
+no pavimento padrão. Já na pista coberta com a mistura asfáltica ecológica não houve esse tipo de deformação. Nessa
+situação, avalie as asserções a seguir.
+O asfalto ecológico, ao evitar o surgimento de deformações irreversíveis causados pelas rodas dos veículos, apresentou
+maior resistência às deformações elásticas.
+PORQUE
+É característico das deformações elásticas o rompimento permanente das ligações intermoleculares, tornando
+permanentes as deformações provenientes.
+Acerca dessas asserções, assinale a opção correta.
+As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda é uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.
+coooo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="96,915 270,915 270,960 1534,960 1534,1080 1028,1080 1028,1196 1184,1196 1184,1230 1421,1230 1421,1290 128,1290 128,1286 81,1286 81,1115 79,1115 79,1088 80,1088 80,960 96,960"/>
+	<TextEquiv conf="0.96607">
+	<Unicode>QUESTÃO 18
+Na produção de produtos usando espumas flexíveis de Poliuretanos (PU), o fabricante, para determinar a garantia
+do produto, efetua os testes de durabilidade para avaliação dos materiais após longo tempo de uso. Eles incluem:
+escoamento (creep), taxa de compressão e tração, fadiga dinâmica (NBR 9176, ISO 2439, ASTM D 3574).
+Disponível em: &lt;www.poliuretanos.com.br/Cap8/813durabilidade.htm&gt;.
+A justificativa para o teste de escoamento (creep) é a de que
+quando o polímero é pouco cristalino, há maior escoamento (creep).
+o material PU, se for muito cristalino, não resiste a maiores deformações.
+o material não apresenta variação de dimensão quando ultrapassado o limite elástico.
+as macromoléculas do material não tendem a escoar quando submetidas à atuação de forças externas.
+o escoamento ocorrido ao longo do uso de um material não pode ser testado por medida de deformação.
+cCoçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,253 1533,253 1533,647 1535,647 1535,704 1367,704 1367,889 81,889 81,706 80,706 80,253 96,253"/>
+	<TableRegion id="r3">
+	<Coords points="86,326 86,631 1542,631 1542,326"/></TableRegion>
+	<TextEquiv conf="0.96232">
+	<Unicode>QUESTÃO 17
+O técnico de inserção automática de componentes de uma empresa eletroeletrônica, ao reprogramar uma das máquinas,
+verificou a necessidade de usar operadores lógicos e relacionais, conforme mostrado na tabela abaixo.
+Na linguagem C, qual ideia de verdadeiro ou falso atende às expressões que usam operadores relacionais ou lógicos
+como base de conceito para orientar o técnico na reprogramação da máquina?
+O Verificar a expressão que apresenta para falso valor: &gt;= 1 ; e para verdadeiro valor: &lt; 1
+O Verificar a expressão que apresenta para falso valor: &lt;= 0 ; e para verdadeiro valor: != O
+O Verificar a expressão que apresenta para falso valor: == 0 ; e para verdadeiro valor: |= O
+O Identificar a expressão que apresenta verdadeiro para valor: &lt;1 ; O (menor que um ; igual a zero)
+O Identificar a expressão que apresenta verdadeiro para valor: &gt; 1 ; == 0 (maior que um ; igual a zero)</Unicode></TextEquiv></TextRegion></Page></PcGts>

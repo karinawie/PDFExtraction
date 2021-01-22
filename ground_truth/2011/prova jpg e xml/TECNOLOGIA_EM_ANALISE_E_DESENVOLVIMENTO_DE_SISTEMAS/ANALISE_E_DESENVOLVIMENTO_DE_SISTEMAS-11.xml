@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T22:31:55</Created>
+	<LastChange>2020-11-16T02:09:09</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="841,1496 1015,1496 1015,1561 1535,1561 1535,1827 1174,1827 1174,1871 1153,1871 1153,1915 1145,1915 1145,1959 1133,1959 1133,2002 875,2002 875,2003 874,2003 874,2000 826,2000 826,1827 825,1827 825,1561 841,1561"/>
+	<TextEquiv conf="0.96139">
+	<Unicode>QUESTÃO 17
+Os processos de negócio aumentam o entendimento do “o
+que precisa ser feito” e do “como precisa ser feito” dentro
+de uma organização.
+(BALDAM, R. 2009, ed.2 , p. 25)
+Sabendo disso, a fase da gestão de processos de negócio
+que evita a estagnação dos processos organizacionais é
+O afase de gerenciamento.
+a fase de planejamento .
+a fase de monitoração.
+a fase de modelagem.
+a fase de otimização.
+[MEONORNO)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="119,192 231,192 231,264 791,264 791,631 789,631 789,786 790,786 790,1472 789,1472 789,1652 790,1652 790,2012 128,2012 128,1674 81,1674 81,1528 79,1528 79,1503 80,1503 80,734 156,734 156,631 80,631 80,264 119,264"/>
+	<TextEquiv conf="0.95913">
+	<Unicode>QUESTÃO 15
+Os mapas de navegação enfocam como as pessoas
+se movimentam por um site ou aplicação. Cada página
+do site ou local da aplicação é representado com uma
+caixa ou cabeçalho e todas as páginas que puderem ser
+acessadas a partir dela devem usá-la como referência.
+Uma técnica bastante utilizada é colocar todos os fluxos
+possíveis no mapa de navegação, já que isso destacará
+seções onde há necessidade de uma revisão no projeto
+da interface.
+BENYON, D. Interação humano-computador. 2.ed. São Paulo: Pearson
+Prentice Hall, 2011.
+Com relação ao tema, analise as asserções a seguir.
+Os mapas de navegação são redesenhados muitas vezes
+no decorrer do ciclo de vida do projeto
+PORQUE
+a interface deve ser projetada para atender pessoas
+(capacidades limitações — motoras,
+cognitivas, etc.), atividades que as pessoas querem
+realizar (questões temporais, com ou sem cooperação,
+se são críticas em termos de segurança ,etc.), contextos
+nos quais a interação acontece (ambiente físico, contexto
+social ou organizacional ,etc.), e ater-se às tecnologias
+empregadas (hardware, plataformas, normas, linguagens
+de programação, políticas de acesso em ambientes de
+trabalho e residencial, etc.). As combinações desses
+elementos são muito diferentes, por exemplo, em um
+quiosque público, em um sistema de agenda compartilhada,
+em uma cabine de avião ou em um telefone celular.
+e neurológicas,
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,191 1015,191 1015,256 1535,256 1535,605 1537,605 1537,703 1535,703 1535,1459 874,1459 874,1460 873,1460 873,1420 826,1420 826,1051 824,1051 824,1026 825,1026 825,757 826,757 826,606 825,606 825,256 841,256"/>
+	<TextEquiv conf="0.95937">
+	<Unicode>QUESTÃO 16
+Eclipse, Netbeans, Jdeveloper são exemplos de
+ambientes integrados de desenvolvimento, chamados de
+IDE, que têm por objetivo facilitar o desenvolvimento de
+softwares, provendo maior produtividade e gerenciamento
+de projetos. A especificação JavaBeans foi criada para
+ser um padrão de desenvolvimento de componentes que
+possam ser facilmente usados por outros desenvolvedores
+em diferentes IDE.
+Com relação ao tema, analise as asserções a seguir.
+Seja para o Netbeans ou para o Eclipse, é possível adquirir
+componentes de terceiros que facilitem a implementação
+do seu projeto
+PORQUE
+como o código desses componentes está em linguagem
+intermediária, ou seja, independente da arquitetura de um
+computador real, só é necessário que a máquina virtual
+esteja instalada no computador onde o aplicativo será
+executado e a máquina virtual será a responsável pela
+interpretação do código para a linguagem de máquina do
+computador em execução.
+Acerca dessas asserções, assinale a alternativa correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o O o O
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:48:33</Created>
+	<LastChange>2020-10-30T00:01:16</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="810,197 810,2097 812,2097 812,197"/></SeparatorRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="841,1067 1016,1067 1016,1121 1535,1121 1535,2013 873,2013 873,1943 826,1943 826,1650 825,1650 825,1441 824,1441 824,1121 841,1121"/>
+	<TextEquiv conf="0.85852">
+	<Unicode>QUESTÃO 26
+Apesardoscuidados adotados naestocagemde vergalhões
+de aço em aciarias, a fim de se evitar a imantação desse
+material pelo campo magnético terrestre, não é incomum a
+ocorrência de uma magnetização residual em vergalhões
+após algum tempo de armazenamento. Essa imantação
+pode ocasionar problemas em processos de manufatura.
+Na fabricação de parafusos e pregos, por exemplo,
+a atração magnética entre as peças manufaturadas
+pode provocar aglomerações que comprometem o bom
+funcionamento de uma máquina automatizada utilizada
+para a obtenção dessas peças.
+Para o engenheiro responsável pelo recebimento
+de matéria-prima em uma metalúrgica que fabrique
+parafusos e utilize vergalhões de aço, qual a alternativa
+que representa a estratégia de solução mais adequada
+para desmagnetizar esses vergalhões, supondo-se que,
+por questões de custo, o processo de desmagnetização
+deva ser a frio?
+O Tratamento térmico do vergalhão de aço por meio
+de têmpera.
+O Usinagem mecânica do vergalhão de aço por meio de
+torneamento mecânico a frio.
+Aplicação de campo magnético alternado e amortecido
+ao longo do vergalhão.
+Aplicação de campo elétrico alternado e amortecido
+ao longo do vergalhão.
+Combinação de tratamento térmico, seguido de
+usinagem a frio e aplicação de campo eletromagnético
+ao longo do vergalhão.
+o oco</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="841,192 1016,192 1016,250 1534,250 1534,376 1535,376 1535,846 1284,846 1284,873 992,873 992,1039 876,1039 876,1038 826,1038 826,847 832,847 832,844 920,844 920,404 874,404 874,365 825,365 825,250 841,250"/>
+	<TextEquiv conf="0.96286">
+	<Unicode>QUESTÃO 25
+Um engenheiro eletricista foi contratado para implantar um
+programa de conservação de energia em uma empresa.
+Para isso, avalie a pertinência das seguintes medidas a
+serem adotadas por ele.
+|. Fazerlevantamento de faturas de energia elétrica,
+equipamentos e relatórios de produção.
+Implantar o Programa Interno de Conservação
+de Energia, com apoio da administração
+superior da empresa.
+Revisar o programa periodicamente e alterar o
+contrato de fornecimento de energia elétrica a
+cada 2 anos.
+Orientar e subsidiar as comissões de licitações
+para que as aquisições sejam feitas considerando
+economicidade do uso, avaliado pelo cálculo do
+custo-benefício ao longo da vida útil.
+Determinar que cada uma das ações do programa
+seja controlada por todos do setor, para que ele
+se restrinja a orientar empregados da empresa
+, que não são terceirizados.
+É correto apenas o que se afirma em
+Le.
+Veil.
+,IVeV.
+W,WMev
+M,IVEeV.
+coçgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="96,961 270,961 270,1021 790,1021 790,2014 128,2014 128,1979 81,1979 81,1206 80,1206 80,1021 96,1021"/>
+	<ImageRegion id="r3">
+	<Coords points="118,1223 118,1605 750,1605 750,1223"/></ImageRegion>
+	<TextEquiv conf="0.96416">
+	<Unicode>QUESTÃO 24
+Com um amplificador operacional ideal, polarizado
+adequadamente, tem-se o circuito eletrônico abaixo,
+em que as entradas são representadas pelas fontes de
+tensão contínuas V, e V,, a saída é dada pela tensão V, e
+os símbolos V+ e V- indicam as entradas não inversora e
+inversora, respectivamente.
+o
+o circuito tem a função de amplificar a soma entre
+suas entradas.
+à medida que a temperatura ambiente aumentar, a
+tensão de saída V, decresce.
+o amplificador operacional estará em saturação, se
+as tensões V, e V, forem iguais.
+a tensão na saída V, será menor que zero e vice-
+versa, se a diferença V,- V, for maior que zero.
+a tensão de saída V, será de -15 V, se o ganho A do
+amplificador operacional for igual a 100 000.
+o O oe6co</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,255 790,255 790,446 789,446 789,578 790,578 790,847 788,847 788,927 127,927 127,890 81,890 81,866 127,866 127,600 81,600 81,446 80,446 80,255 96,255"/>
+	<TextEquiv conf="0.94442">
+	<Unicode>QUESTÃO 23
+Em uma planta industrial, deseja-se implementar um
+controle da vazão de gás combustível que alimenta um
+sistema de combustão de uma caldeira. Entre as opções
+de equipamentos a seguir, selecione aquela adequada
+para a implementação desse controle em malha fechada
+e com ação PID.
+O Placa de orifício, transmissor de pressão diferencial,
+controlador com algoritmo PID e válvula pneumática
+com conversor corrente-pressão.
+Medidor de vazão eletromagnético, transmissor de
+pressão diferencial, controlador com algoritmo PID e
+válvula pneumática com conversor corrente-pressão.
+Placa de orifício, transmissor de pressão diferencial,
+controlador com algoritmo PID e válvula solenoide.
+Medidor de vazão eletromagnético, transmissor de
+pressão diferencial, controlador com algoritmo PID e
+válvula solenoide.
+Medidor de vazão eletromagnético, transmissor de vazão,
+controlador com algoritmo PID e válvula solenoide.
+o
+o</Unicode></TextEquiv></TextRegion></Page></PcGts>

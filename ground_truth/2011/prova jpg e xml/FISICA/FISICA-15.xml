@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:00:26</Created>
+	<LastChange>2020-10-30T11:34:40</LastChange></Metadata>
+	<Page imageFilename="FISICA-15.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="78,692 78,1221 815,1221 815,692"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="823,692 823,1223 1515,1223 1515,692"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1534,254 1534,550 1535,550 1535,676 1487,676 1487,1289 1535,1289 1535,2017 81,2017 81,1268 80,1268 80,524 79,524 79,254 96,254"/>
+	<TextEquiv conf="0.92711">
+	<Unicode>QUESTÃO 22
+Um circuito do tipo R-C possui os componentes: fonte de tensão elétrica, resistor e capacitor, todos ligados em série.
+Tanto a carga do capacitor como a corrente elétrica / são funções que variam exponencialmente com o tempo.
+A constante de tempo ou tempo de relaxação do circuito R-C representa o intervalo de tempo no qual a corrente no
+circuito R-C cai a um valor 1/e vezes o seu valor inicial.
+Um circuito do tipo R-L é constituído de: fonte de tensão elétrica, resistor e indutor, sendo que esses dois últimos
+estão ligados em série. A existência de um indutor L no circuito mantém mais estável a corrente elétrica no circuito.
+A constante de tempo do circuito R-L dá uma medida do tempo no qual a corrente i atinge cerca de 63% do seu
+valor final.
+Em um experimento para se analisar o comportamento da corrente elétrica / em função do tempo em dois circuitos
+distintos, um do tipo R-C e outro do tipo R-L, utilizou-se uma fonte de tensão elétrica E = 10 V, um capacitor com
+capacitância igual a C = 1x10%º F e um indutor de indutância L = 0,1 MH. A resistência utilizada nos dois circuitos foi a
+mesma. Os gráficos | e Il a seguir ilustram o comportamento da corrente elétrica i' em função do tempo.
+Com base, nas informações acima, é correto afirmar que
+O o gráfico | ilustra a variação da corrente elétrica i em função do tempo para um circuito R-C em carga,
+enquanto o gráfico Il ilustra a variação de | em função do tempo para um circuito R-L. A resistência dos
+circuitos vale: R = 1,0x107 Ohms. A constante de tempo do circuito R-L vale: t = 0,10 s. O tempo de relaxação
+do circuito R-C vale: t, = 1,0 s.
+O o gráfico | ilustra a variação da corrente elétrica i em função do tempo para um circuito R-C em carga,
+enquanto o gráfico Il ilustra a variação de | em função do tempo para um circuito R-L. A resistência dos
+circuitos vale: R = 10 Ohms. A constante de tempo do circuito R-L vale: t, = 0,10x10º s. O tempo de relaxação
+do R-C capacitor vale: t. = 1,0x10%s.
+O o gráfico | ilustra a variação da corrente elétrica i em função do tempo para um circuito R-L, enquanto o
+gráfico || ilustra a variação de ij em função do tempo para um circuito R-C em carga. A resistência dos circuitos
+vale: R = 1,0x107 ohms. A constante de tempo do circuito R-L vale:t, =0,010 s. O tempo de relaxação do
+circuito R-C vale:t, = 10 s.
+O ográfico | ilustra a variação da corrente elétrica i' em função do tempo para um circuito R-L, enquanto o gráfico
+Il ilustra a variação de j em função do tempo para um circuito R-C em carga. A resistência dos circuitos vale:
+R = 10 ohms. A constante de tempo do circuito R-L vale: t, = 1,0x10º s. O tempo de relaxação do circuito
+R-C vale: t, = 1,0x10ºs.
+O o gráfico | ilustra a variação da corrente elétrica ij em função do tempo para um circuito R-C em carga,
+enquanto o gráfico Il ilustra a variação de | em função do tempo para um circuito R-L. A resistência dos
+circuitos vale: R = 1,0x107 ohms. A constante de tempo do circuito R-L vale: t = 3,5 s. O tempo de relaxação
+do circuito R-C vale: t, = 0,45 s.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:06:42</Created>
+	<LastChange>2020-10-29T23:16:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-22.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="97,192 270,192 270,254 1535,254 1535,346 1172,346 1172,347 284,347 284,1772 937,1772 937,1821 1095,1821 1095,2012 129,2012 129,2009 81,2009 81,1798 79,1798 79,1772 80,1772 80,347 79,347 79,254 96,254 96,193 97,193"/>
+	<TextEquiv conf="0.96003">
+	<Unicode>QUESTÃO 32
+Um engenheiro fiscal realizou um levantamento de patologias (defeitos) em 10 km de rodovias de baixo volume de
+tráfego revestidas com tratamento superficial duplo, identificando as causas das suas ocorrências. No quadro abaixo,
+apresentam-se as fotos de 4 das principais patologias identificadas e as causas mais prováveis da ocorrência de
+cada uma delas.
+As patologias de | a IV identificadas no quadro, são, respectivamente,
+penteadura, exsudação, rejeição excessiva de agregado e desgaste de borda.
+penteadura, bombeamento de finos, rejeição excessiva de agregado e erosão.
+afundamento de trilhas de roda, fluidez, polimento do agregado e segregação.
+afundamento plástico, exsudação, agregados polidos e desgaste de borda.
+corrugação, fluidez, rejeição excessiva de agregado e desagregação.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="271,394 271,1728 1334,1728 1334,394"/></TableRegion></Page></PcGts>

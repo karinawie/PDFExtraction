@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:03:35</Created>
+	<LastChange>2020-10-30T19:03:41</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-15.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="heading">
+	<Coords points="96,192 270,192 270,254 1534,254 1534,373 1353,373 1353,374 1171,374 1171,375 989,375 989,376 807,376 807,377 625,377 625,378 443,378 443,379 261,379 261,380 80,380 80,882 1401,882 1401,931 1535,931 1535,1199 1365,1199 1365,1200 1195,1200 1195,1201 1025,1201 1025,1202 855,1202 855,1203 685,1203 685,1204 534,1204 534,1246 308,1246 308,1247 202,1247 202,1456 105,1456 105,1458 81,1458 81,1459 80,1459 81,1459 81,908 80,908 80,381 79,381 79,254 96,254"/>
+	<TextEquiv conf="0.96224">
+	<Unicode>QUESTÃO 19
+O conversor de frequência é um dos equipamentos empregados na indústria para o controle de velocidade de motores
+de indução assíncronos. Entretanto, alguns cuidados devem ser tomados para que sua instalação proporcione
+um funcionamento adequado ao equipamento. A figura abaixo mostra um diagrama esquemático do conversor de
+frequência e suas proteções.
+Considere as seguintes afirmativas em relação às características de instalação do conversor de frequência.
+As reatâncias (reatores) de entrada são empregados para minimizar sobretensões transitórias na rede de
+alimentação e reduzir harmônicas, melhorando desta forma, a vida útil dos capacitores do circuito intermediário.
+A reatância (reator) de saída é indicada para reduzir o efeito da corrente de fuga, por efeito capacitivo, que
+depende do comprimento do cabo entre o conversor e o motor.
+Os conversores de frequência possuem um parâmetro que permite selecionar a frequência de chaveamento.
+A seleção da frequência de chaveamento do PWM do inversor é de suma importância, pois, com frequências
+de chaveamento altas, as perdas no motor são elevadas devido ao fato de que a forma de onda de saída ficará
+menos próxima do formato senoidal.
+É correto apenas o que se afirma em
+!.
+leill.
+lei.
+el.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="213,394 213,871 1547,871 1547,394"/></ImageRegion></Page></PcGts>

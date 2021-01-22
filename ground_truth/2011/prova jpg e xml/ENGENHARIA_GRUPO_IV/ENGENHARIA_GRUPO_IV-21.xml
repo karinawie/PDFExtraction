@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:08:09</Created>
+	<LastChange>2020-10-30T01:08:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-21.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="146,118 148,620 1606,616 1604,114"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="360,1026 360,1029 1254,1027 1254,1024"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="361,1181 361,1184 1254,1182 1254,1179"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="360,1026 361,1252 363,1252 362,1026"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="902,1026 903,1252 906,1252 905,1026"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="1252,1026 1253,1252 1255,1252 1254,1026"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="360,1251 360,1254 1254,1252 1254,1249"/></SeparatorRegion>
+	<TextRegion id="r7" type="caption">
+	<Coords points="1145,740 1145,805 808,805 808,806 470,806 470,807 469,807 469,741 470,741 470,740"/>
+	<TextEquiv conf="0.96644">
+	<Unicode>Prezado(a) estudante,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="heading">
+	<Coords points="1417,893 1417,918 1019,918 1019,919 221,919 221,894 222,894 222,893"/>
+	<TextEquiv conf="0.95844">
+	<Unicode>- Aseguir serão apresentadas questões de múltipla escolha (objetivas) relativas aos Componentes</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="heading">
+	<Coords points="1076,940 1076,965 248,965 248,966 247,966 247,940"/>
+	<TextEquiv conf="0.88758">
+	<Unicode>Específicos dos cursos de Engenharia Grupo IV, assim distribuídas:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="471,1059 471,1080 378,1080 378,1059"/>
+	<TextEquiv conf="0.96862">
+	<Unicode>Cursos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="684,1137 684,1162 380,1162 380,1163 379,1163 379,1137"/>
+	<TextEquiv conf="0.96466">
+	<Unicode>Engenharia de Alimentos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1223,1058 1223,1084 936,1084 936,1085 935,1085 935,1058"/>
+	<TextEquiv conf="0.96680">
+	<Unicode>Número das questões</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1124,1137 1124,1157 1034,1157 1034,1137"/>
+	<TextEquiv conf="0.91911">
+	<Unicode>31a35</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="628,1206 628,1232 379,1232 379,1206"/>
+	<TextEquiv conf="0.96567">
+	<Unicode>Engenharia Química</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1124,1207 1124,1227 1034,1227 1034,1207"/>
+	<TextEquiv conf="0.95951">
+	<Unicode>36 a 40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords points="1415,1326 1415,1351 1018,1351 1018,1352 222,1352 222,1327 223,1327 223,1326"/>
+	<TextEquiv conf="0.96380">
+	<Unicode>- Você deverá responder APENAS às questões referentes ao curso no qual você está inscrito,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="791,1373 791,1398 247,1398 247,1399 246,1399 246,1373"/>
+	<TextEquiv conf="0.96617">
+	<Unicode>conforme consta no Caderno de Respostas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="heading">
+	<Coords points="1416,1452 1416,1478 221,1478 221,1453 222,1453 222,1452"/>
+	<TextEquiv conf="0.96301">
+	<Unicode>- Observe atentamente os números das questões de múltipla escolha correspondentes ao curso</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords points="1247,1499 1247,1525 246,1525 246,1499"/>
+	<TextEquiv conf="0.96507">
+	<Unicode>no qual você está inscrito para assinalar corretamente no Caderno de Respostas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="1525,2117 1525,2127 1253,2127 1253,2117"/>
+	<TextEquiv conf="0.54960">
+	<Unicode>* A DO 4 2 0/1121 %*</Unicode></TextEquiv></TextRegion></Page></PcGts>

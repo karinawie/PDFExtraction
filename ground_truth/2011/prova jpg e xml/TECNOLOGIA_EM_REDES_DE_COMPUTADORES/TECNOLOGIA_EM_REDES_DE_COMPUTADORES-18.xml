@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:48:06</Created>
+	<LastChange>2020-10-30T20:16:15</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-18.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="841,1362 1011,1362 1011,1433 1536,1433 1536,1755 1187,1755 1187,1935 1497,1935 1497,1985 1533,1985 1533,2013 826,2013 826,1755 824,1755 824,1552 825,1552 825,1433 841,1433"/>
+	<TextEquiv conf="0.96563">
+	<Unicode>QUESTÃO 31
+Os protocolos TLS (Transport Layer Security) e SSL
+(Secure Sockets Layer) utilizam algoritmos criptográficos
+entre outros objetivos, fornecer recursos de
+segurança aos protocolos comumente utilizados na
+Internet, originalmente concebidos sem a preocupação
+com a segurança nos processos de autenticação e/ou
+transferência de dados. Observada a pilha de protocolos
+TCP/IP, esses protocolos atuam
+para,
+O na camada de rede.
+O na camada de aplicação.
+O na camada de transporte.
+O entre a camada de transporte e a camada de rede.
+O entre acamada de aplicação e a camada de transporte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="841,192 1015,192 1015,260 1535,260 1535,1320 872,1320 872,1114 871,1114 871,427 826,427 826,360 825,360 825,260 841,260"/>
+	<TextEquiv conf="0.96658">
+	<Unicode>QUESTÃO 30
+O SNMP (Simple Network Management Protocol) é o
+protocolo padrão de gerenciamento de redes TCP/IP.
+O SNMP
+O define, como estratégia de segurança, que todas
+as variáveis MIB (Management Information Base)
+precisam ser definidas e referenciadas usando a
+Abstract Syntax Notation 1 (ASN.1) da ISO. Isso
+significa que a notação utilizada permite que nomes
+sejam repetidos e não possam ser lidos sem a
+utilização de um sistema de criptografia complexo.
+especifica que as operações mais complexas sejam
+executadas em etapas, cada qual marcada por uma
+mensagem de retorno sobre o status da operação. Em
+caso de erro, permite que as operações não realizadas
+sejam reenviadas em uma próxima mensagem.
+possui campos fixos e de tamanho único para suas
+mensagens, assim como a maioria dos protocolos TCP/IP.
+foi projetado inicialmente para controlar as redes,
+de forma que as capacidades de segurança
+e administração estiveram presentes desde a
+primeira versão.
+distribui todas as suas operações em um modelo de
+buscar (get), armazenar (set) e notificar (trap), em
+vez de definir um grande conjunto de comandos.
+As demais operações do SNMP são definidas como
+resultados das duas primeiras operações.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,267 791,267 791,488 790,488 790,1129 792,1129 792,1572 788,1572 788,1678 791,1678 534,1678 534,1731 234,1731 234,1930 249,1930 249,1953 234,1953 234,2007 130,2007 130,2006 81,2006 81,1701 174,1701 174,1678 175,1678 175,1572 174,1572 174,1149 129,1149 129,1129 153,1129 153,1128 175,1128 175,824 174,824 174,770 129,770 129,616 80,616 80,523 79,523 79,267 96,267"/>
+	<TextEquiv conf="0.96995">
+	<Unicode>QUESTÃO 29
+Os aspectos funcionais para o gerenciamento de redes
+foram organizados pela ISO (International Organization
+for Standardization) em cinco áreas principais, compondo
+um modelo denominado FCAPS (acrônimo formado
+pelas iniciais em inglês de cada área funcional: Fault,
+Configuration, Accounting, Performance e Security).
+Considerando o modelo FCAPS, analise as afirmações
+que se seguem.
+|. Na gerência de segurança são abordados
+aspectos relacionados ao acesso à rede e ao uso
+incorreto por parte de seus usuários.
+A gerência desempenho aborda a
+das informações sobre aspectos de desempenho
+dos serviços de rede. Esses dados são utilizados
+para a análise de tendências e para garantir que a
+rede opere em conformidade com a qualidade de
+serviço acordado com os usuários.
+Ill. A gerência de contabilidade tem como objetivo
+permitir que o administrador de rede saiba quais
+dispositivos fazem parte da rede administrada e quais
+são suas configurações de hardware e software.
+Com a gerência de configuração, o administrador
+da rede especifica, registra e controla o acesso
+de usuários e dispositivos aos recursos da rede,
+permitindo quotas de utilização, cobrança por
+utilização e alocação de acesso privilegiado a
+recursos.
+O objetivo da gerência de falhas é registrar,
+detectar e reagir às condições de falha da rede.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion></Page></PcGts>

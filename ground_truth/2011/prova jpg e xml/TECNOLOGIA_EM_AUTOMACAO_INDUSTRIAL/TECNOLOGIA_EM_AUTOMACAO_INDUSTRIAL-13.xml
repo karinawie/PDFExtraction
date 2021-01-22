@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:03:53</Created>
+	<LastChange>2020-10-30T19:05:11</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-13.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1534,254 1534,1235 1535,1235 1535,1362 812,1362 812,1444 476,1444 476,1481 104,1481 104,1482 81,1482 81,308 80,308 80,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="89,328 89,1228 1542,1228 1542,328"/></ImageRegion>
+	<TextEquiv conf="0.94031">
+	<Unicode>QUESTÃO 16
+Os diagramas a seguir representam a instalação de um circuito para partida estrela-triângulo de motores de
+corrente alternada.
+Em relação ao circuito de comando, é correto afirmar que
+quando o relé de tempo K6 é energizado, os contatos 15-18 e 25-28 são acionados ao mesmo tempo.
+durante a partida do motor K3 é acionado simultaneamente com K1.
+os contatores K2 e K3 são acionados simultaneamente.
+F7 é um fusível de sobrecarga.
+o botão SO aciona o circuito.</Unicode></TextEquiv></TextRegion></Page></PcGts>

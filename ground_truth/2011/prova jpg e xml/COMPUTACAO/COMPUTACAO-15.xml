@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:27</Created>
+	<LastChange>2020-11-16T04:06:36</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-15.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r3">
+	<Coords points="841,1236 841,1423 1516,1424 1516,1237"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,266 791,266 791,748 790,748 790,1032 791,1032 791,1623 571,1623 571,1730 226,1730 226,1987 234,1987 234,2011 131,2011 131,2009 81,2009 81,1704 175,1704 175,1524 174,1524 174,1498 175,1498 175,1382 129,1382 129,1361 175,1361 175,1152 174,1152 174,1053 129,1053 129,900 80,900 80,748 79,748"/>
+	<TextEquiv conf="0.96265">
+	<Unicode>QUESTÃO 24
+As filas de prioridades (heaps) são estruturas de dados
+importantes no projeto de algoritmos. Em especial, heaps
+podem ser utilizados na recuperação de informação
+em grandes bases de dados constituídos por textos.
+Basicamente, para se exibir o resultado de uma consulta,
+os documentos recuperados são ordenados de acordo
+com a relevância presumida para o usuário. Uma consulta
+pode recuperar milhões de documentos que certamente
+não serão todos examinados. Na verdade, o usuário
+examina os primeiros m documentos dos n recuperados,
+em que m é da ordem de algumas dezenas.
+Considerando as características dos heaps e sua
+aplicação no problema descrito acima, avalie as
+seguintes afirmações.
+l. Uma vez que o heap é implementado como
+uma árvore binária de pesquisa essencialmente
+completa, o custo computacional para sua
+construção é O(n log n).
+A implementação de heaps utilizando-se vetores
+é eficiente em tempo de execução e em espaço
+de armazenamento, pois o pai de um elemento
+armazenado na posição i se encontra armazenado
+na posição 2i+1.
+Il. O custo computacional para se recuperar
+de forma ordenada os m documentos mais
+relevantes armazenados em um heap de
+tamanho n é O(m log n).
+Determinar o documento com maior valor de
+relevância armazenado em um heap tem custo
+computacional O(1).
+Está correto apenas o que se afirma em
+O lei.
+Neil.
+WeilV.
+LIVelv.
+LU eiv
+(MENCENOREO)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="825,243 1535,243 1535,562 1536,562 1536,650 1535,650 1535,792 1536,792 1536,910 1279,910 1279,989 947,989 947,1123 956,1123 956,1144 1279,1144 1279,1123 1279,1144 849,1144 849,1145 826,1145 826,918 920,918 920,650 875,650 875,649 874,649 874,505 826,505 826,504 825,504"/>
+	<TextEquiv conf="0.95428">
+	<Unicode>QUESTÃO 25
+Um Padrão de Projeto nomeia, abstrai e identifica
+os aspectos-chave de uma estrutura de projeto comum
+para torná-la útil para a criação de um projeto orientado a
+objetos reutilizáveis.
+GAMMA, E., HELM, R., JOHNSON, R., VLISSIDES, J. Padrões de Projeto-Soluções
+Reutilizáveis de Software Orientado a Objetos. Porto Alegre: Bookman, 2000.
+Em relação a Padrões de Projeto, analise as afirmações
+a seguir.
+|. "Prototype é um tipo de padrão estrutural.
+Il. Singleton tem por objetivos garantir que uma
+classe tenha ao menos uma instância e fornecer
+um ponto global de acesso para ela.
+Template Method tem por objetivo definir o
+esqueleto de um algoritmo em uma operação,
+postergando a definição de alguns passos para
+subclasses.
+lterator fornece uma maneira de acessar
+sequencialmente os elementos de um objeto
+agregado sem expor sua representação
+subjacente.
+É correto apenas o que se afirma em
+l.
+.
+lelv.
+Ieill.
+Meilv
+cCoOogGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="824,1464 1536,1464 1536,1729 1534,1729 1534,1805 924,1805 924,1908 940,1908 940,2006 1534,2006 1534,1985 1534,2006 849,2006 849,2007 826,2007 826,1805 825,1805 825,1728 824,1728"/>
+	<TextEquiv conf="0.94914">
+	<Unicode>QUESTÃO 26
+Um baralho tem 52 cartas, organizadas em 4 naipes,
+com 13 valores diferentes para cada naipe.
+Os valores possíveis são: Às, 2, 3, ..., 10, J, Q, K.
+No jogo de poker, uma das combinações de 5 cartas
+mais valiosas é o full house, que é formado por
+três cartas de mesmo valor e outras duas cartas de
+mesmo valor. São exemplos de full houses: i) três
+cartas K e duas 10 (como visto na figura) ou ii) três
+cartas 4 e duas Ás.
+Quantas possibilidades para full house existem em um
+baralho de 52 cartas?
+156.
+624.
+1872.
+3744.
+7488.
+cCoOGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

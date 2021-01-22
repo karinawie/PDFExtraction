@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:23:17</Created>
+	<LastChange>2020-10-30T02:39:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 806,2097 809,2097 810,197"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,513 1325,513 1325,820 1534,820 1534,1219 1535,1219 1535,1600 1536,1600 1536,2011 872,2011 872,1622 826,1622 826,1411 824,1411 824,1170 825,1170 825,820 1300,820 1300,513 824,513 824,254 841,254"/>
+	<TextEquiv conf="0.96465">
+	<Unicode>QUESTÃO 13
+Uma reclamação comum na prática de gestão de
+estoques é a falta de aderência do modelo do Lote
+Econômico (EOQ) à realidade das organizações. Um
+gerente industrial reclama que a política ótima do EOQ,
+representado pelo gráfico dente de serra abaixo, não
+funciona em sua empresa, mesmo afirmando que a
+demanda é determinística. Ele executa pedidos de compra
+de 100 unidades de um produto a cada 10 dias.
+20
+d
+Sabe-se que o lote econômico é a quantidade comprada
+Q que minimiza a função custo total por unidade de tempo,
+CT(Q), dada por
+CT(Q) = (cQ + K + hOQ/2d)/t, em que
+c é o custo unitário do produto;
+K é custo fixo de realizar o pedido;
+h é o custo unitário de estocagem;
+Q é a quantidade comprada;
+d é a demanda;
+té a duração dos ciclos.
+Os dados utilizados pelo gerente para o cálculo do
+lote econômico são: demanda d = 10 itens/dia; custo
+fixo do pedido K = R$ 50 /pedido; custo unitário do
+produto c = R$ 2 /item; custo unitário de estocagem
+do produto h = R$ 0,10 /item dia; lead-time de entrega
+do fornecedor L = 15 dias (exatamente).
+De acordo com essas informações, a política não funciona
+nessa empresa, pois
+o
+a quantidade ótima a ser comprada está incorreta,
+apesar do ponto de ressuprimento estar correto.
+a quantidade ótima a ser comprada e o ponto de
+colocação dos pedidos não estão corretos.
+a quantidade ótima a ser comprada está correta, mas
+o pedido deveria ser colocado quando o estoque cair
+a zero.
+o
+a quantidade ótima a ser comprada está correta mas
+o pedido deveria ser colocado quando o estoque cair
+para 50 unidades.
+a quantidade ótima a ser comprada está correta mas
+o pedido deveria ser colocado quando o estoque cair
+para 100 unidades.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="831,528 831,802 1542,802 1542,528"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="119,192 270,192 270,254 790,254 790,1399 789,1399 789,1400 128,1400 128,907 81,907 81,753 80,753 80,254 119,254"/>
+	<TextEquiv conf="0.96411">
+	<Unicode>QUESTÃO 12
+Considera-se uma concepção sustentável quando
+o produto é concebido levando-se em consideração
+os recursos naturais locais e as necessidades também
+locais, e é projetado para uso por uma ou mais pessoas,
+com tempo de vida o mais longo possível. Se ainda ele
+é projetado para reassumir outra forma ou outra função
+como um novo produto, e quanto mais este ciclo se repetir,
+mais sustentável é o projeto.
+GUIMARÃES, L. B. M. A Ecologia no projeto de Produto: design sustentável,
+design verde, ecodesign. Ergonomia de Produto. Porto Alegre:
+FEENG/UFRGS, 2006, v. 2, p. 5-35.
+Ressalta-se, portanto, na concepção explicitada acima,
+que o produto só pode ressurgir como outro produto
+sustentável se ele for pensado para ser facilmente
+desmontável e montável em um sistema produtivo que
+A use um mínimo de recursos, não gere resíduos e não
+imponha dano aos seres humanos envolvidos na sua
+produção e uso.
+B considere apenas os recursos naturais locais com vida
+útil o mais longa possível e não imponha dano aos
+seres humanos envolvidos na sua produção e uso.
+C use os recursos necessários à concepção de projetos
+para uso por uma ou mais pessoas e não imponha
+dano aos seres humanos envolvidos na sua produção
+e uso.
+D considere apenas os recursos naturais locais e
+necessidades para uso por uma ou mais pessoas e
+não imponha dano aos seres humanos envolvidos na
+sua produção e uso.
+E use os recursos necessários à implementação de
+projetos com tempo de vida o mais longo possível e
+não imponha dano aos seres humanos envolvidos na
+sua produção e uso.</Unicode></TextEquiv></TextRegion></Page></PcGts>

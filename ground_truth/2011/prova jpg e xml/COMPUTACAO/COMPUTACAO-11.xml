@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:48</Created>
+	<LastChange>2020-11-16T04:07:34</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-11.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="71,342 71,955 789,955 789,342"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,284 551,284 551,1033 789,1033 789,1200 399,1200 399,1489 163,1489 163,1419 81,1419 81,1139 79,1139 79,1033 80,1033"/>
+	<TextEquiv conf="0.35067">
+	<Unicode>QUESTÃO 14
+Observe o diagrama de Venn a seguir.
+A função representada em azul no diagrama também
+poderia ser expressa pela função lógica /(tv,y,2) =
+(r+2)y+IYZ
+(r+2)yY+TYZ
+(r+2)Y+TYZ
+o o 6eooeo
+(r+2)Y+IYZ
+(r+2)Y+TYZ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="827,260 1538,260 1538,570 1536,570 1536,707 1252,707 1252,834 1321,834 1321,883 1386,883 1386,931 1429,931 1429,957 877,957 877,954 828,954 828,707 827,707"/>
+	<TextEquiv conf="0.94611">
+	<Unicode>QUESTÃO 15
+Suponha que seja necessário desenvolver uma ferramenta
+que apresente o endereço IP dos múltiplos roteadores,
+salto a salto, que compõem o caminho do hospedeiro em
+que a ferramenta é executada até um determinado destino
+(segundo seu endereço IP), assim como o round-trip time
+até cada roteador. Tal ferramenta precisa funcionar na
+Internet atual, sem demandar mudanças em roteadores
+nem a introdução de novos protocolos.
+Considerando o problema acima, qual dos seguintes
+protocolos representaria a melhor (mais simples e
+eficiente) solução?
+IP: Internet Protocol.
+UDP: User Datagram Protocol.
+TCP: Transmission Control Protocol.
+ICMP: Internet Control Message Protocol.
+CGOgÇGoo
+DHCP: Dynamic Host Configuration Protocol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="827,1068 1536,1068 1536,1749 1405,1749 1405,1852 1404,1852 1404,1997 828,1997 828,1749 827,1749 827,1642 875,1642 875,1418 827,1418"/>
+	<TextEquiv conf="0.94717">
+	<Unicode>QUESTÃO 16
+Um navegador Web executa em um hospedeiro A, em
+uma rede de uma organização, e acessa uma página
+localizada de um servidor Web em um hospedeiro B,
+situado em outra rede na Internet. A rede em que A se
+situa conta com um servidor DNS local. Um profissional
+deseja fazer uma lista com a sequência de protocolos
+empregados e comparar com o resultado apresentado
+por uma ferramenta de monitoramento executada no
+hospedeiro A. A lista assume que
+i) todas as tabelas com informações temporárias e
+caches estão vazias;
+ii) o hospedeiro cliente está configurado com o
+endereço IP do servidor DNS local.
+Qual das sequências a seguir representa a ordem em que
+mensagens, segmentos e pacotes serão observados em
+um meio físico ao serem enviados pelo hospedeiro A?
+O ARP, DNS/UDP/IP, TCP/IP e HTTP/TCP/IP.
+O ARP, DNS/UDP/IP, HTTP/TCP/IP e TCP/IP.
+O DNS/UDP/IP, ARP, HTTP/TCP/IP e TCP/IP.
+O DNS/UDP/IP, ARP, TCP/IP e HTTP/TCP/IP.
+O HTTP/TCP/IP, TCP/IP, DNS/UDP/IP e ARP.</Unicode></TextEquiv></TextRegion></Page></PcGts>

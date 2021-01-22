@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:05:37</Created>
+	<LastChange>2020-10-30T16:55:54</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-30.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r14" type="heading">
+	<Coords points="96,192 270,192 270,259 1536,259 1536,401 1534,401 1534,451 1533,451 1533,1101 1535,1101 1535,1708 535,1708 535,1758 534,1758 534,1759 203,1759 203,2004 81,2004 81,1169 80,1169 80,514 79,514 79,488 80,488 80,259 96,259"/>
+	<ImageRegion id="r1">
+	<Coords points="192,550 192,1073 1528,1073 1528,550"/></ImageRegion>
+	<TextEquiv conf="0.95888">
+	<Unicode>QUESTÃO 36
+Considerada uma técnica analítica bem-sucedida, a espectrometria de absorção atômica (AAS - Atomic Absorption
+Spectrometry) é uma das técnicas mais utilizadas na determinação de elementos em baixas concentrações, que estão
+presentes em uma variedade de amostras, sejam líquidas, sólidas, em suspensão, e até mesmo gasosas, podendo
+estar associada a sistemas de análise em fluxo e permitir estudos de especiação.
+AMORIM, F. A. C. et al. Espectrometria de absorção atômica: o caminho para determinações multi-elementares. /n: Química Nova, São Paulo, v. 31, n. 7, 2008.
+A figura a seguir mostra um esquema dos caminhos ópticos em um espectrofotômetro de absorção atômica de duplo feixe.
+Considerando os componentes básicos de um equipamento de espectrometria de absorção atômica, analise as
+afirmações a seguir.
+A fonte de radiação mais útil para a espectrometria de absorção atômica é a lâmpada de cátodo oco. Esta
+consiste de um ânodo de tungstênio e de um cátodo cilíndrico selado em um tubo de vidro, contendo um gás
+inerte, como o gás acetileno, a pressões de 1 a 5 torr.
+Em uma medida de absorção atômica, é necessário discriminar entre a radiação das lâmpadas de cátodo
+oco ou de descarga sem eletrodos e a radiação proveniente do atomizador, pois a maior parte dessa última é
+eliminada pelo monocromador.
+A temperatura da chama determina a eficiência da atomização, isto é, a fração do solvente que é dessolvatada,
+vaporizada e convertida em átomos livres ou íons, ou ambos. A temperatura da chama também determina o
+número relativo de átomos excitados e não excitados na chama.
+Para a detecção, a radiação isolada pelo monocromador é convertida em sinais elétricos por um único transdutor,
+por múltiplos transdutores ou por um arranjo de detectores. Esses sinais elétricos são, então, processados e
+supridos como entrada para o sistema computacional.
+É correto apenas o que se afirma em
+o.
+o !.
+O lelv.
+O llelll.
+O llelVv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

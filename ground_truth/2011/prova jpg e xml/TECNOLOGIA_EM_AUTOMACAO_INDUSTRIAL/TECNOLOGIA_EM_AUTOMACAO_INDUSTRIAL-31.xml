@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:01:01</Created>
+	<LastChange>2020-10-30T18:06:02</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-31.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,192 430,192 430,254 1266,254 1266,805 1535,805 1535,1064 1534,1064 1534,1145 144,1145 144,1146 143,1146 143,1065 80,1065 80,254 96,254"/>
+	<ImageRegion id="r1">
+	<Coords points="315,318 315,773 1250,773 1250,318"/></ImageRegion>
+	<TextEquiv conf="0.96656">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Considerando um sistema de aquecimento de uma fornalha a gás natural, como mostra a figura.
+Deseja-se controlar a temperatura no interior de fornalha por meio da abertura de uma válvula proporcional de gás,
+sendo a temperatura medida por um sensor de temperatura. Alterações na temperatura ambiente e na vazão do gás
+podem alterar significativamente a temperatura da fornalha.
+Em relação ao tema, faça o que se pede nos itens a seguir.
+a) Identifique a variável: de processo, manipulada e as variáveis de perturbação que possam existir. (valor 2,0 pontos)
+b) Desenhe um diagrama de blocos representando o sistema de controle em malha fechada. (valor 4,0 pontos)
+c) Para controlar uma temperatura média de 500 º Celsius, especifique o melhor tipo de sensor, justificando sua
+resposta. (valor 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:53:18</Created>
+	<LastChange>2021-01-19T18:12:51</LastChange></Metadata>
+	<Page imageFilename="CIENCIAS_ECONOMICAS-15.jpg" imageWidth="1637" imageHeight="2188">
+	<SeparatorRegion id="r6">
+	<Coords points="818,168 818,2045 820,2045 820,168"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="112,170 311,170 311,265 770,265 770,631 769,631 769,797 550,797 550,935 111,935 111,265 112,265"/>
+	<TextEquiv conf="0.93280">
+	<Unicode>QUESTÃO 21:
+Carlos está iniciando a apresentação de seu
+novo projeto para sua equipe e dispõe de 10
+CDs novos, sendo que apenas um deles
+contém o arquivo preparado no dia anterior.
+Como Carlos se esqueceu de assinalar o CD
+que contém o arquivo, ele precisa escolher
+aleatoriamente o CD para iniciar a
+apresentação. Carlos deixou cair o primeiro
+CD escolhido, inutilizando-o para leitura.
+Qual é a probabilidade de que o arquivo
+esteja contido no segundo CD escolhido
+aleatoriamente por Carlos?
+A) 1/9 D) 1/20
+B) 1/10 E) 2/11
+C) 11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="112,994 311,994 311,1091 769,1091 769,1970 112,1970 112,1408 111,1408 111,1293 112,1293"/>
+	<TextEquiv conf="0.41275">
+	<Unicode>QUESTÃO 22:
+Dados três eventos aleatórios 4 = fo preço
+da gasolina subir), B = (o real desvalorizar) e
+C = fa taxa Selic subir), a interpretação da
+igualdade entre tais elementos é:
+A) AUBUC= ANBAMC estabelece que a
+ocorrência de qualquer um desses eventos
+implica a ocorrência dos demais.
+B) AUBUC=AUB estabelece que o preço
+da gasolina não sobe quando a taxa Selic
+sobe.
+C) ANBMC=A estabelece que o preço da
+gasolina não sobe quando o real desvaloriza
+e a taxa Selic sobe.
+D) AUBUC=A estabelece que o preço da
+gasolina nunca sobe quando ocorre uma
+desvalorização do real ou uma alta da taxa
+Selic.
+E) An BM C= MO estabelece que uma subida
+no preço da gasolina e uma desvalorização
+do real não podem ocorrer conjuntamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="869,1009 1069,1009 1069,1084 1528,1084 1528,1218 1480,1218 1480,1332 1526,1332 1526,1475 1527,1475 1527,1579 1526,1579 1526,1787 1525,1787 1525,1907 1526,1907 1526,2004 870,2004 870,1665 869,1665 869,1332 916,1332 916,1218 869,1218"/>
+	<TextEquiv conf="0.93277">
+	<Unicode>QUESTÃO 24:
+Considere o modelo de regressão linear
+múltipla, com variável dependente y e
+variáveis explicativas X1, X2, ..., Xx., que pode
+ser expresso como
+yi=Bi+BaXa+B3X3a+...+BrXute
+no qual e, significa o fator de erro e
+t=1,2,..., no índice relativo às observações
+amostrais.
+É CORRETO afirmar que o modelo clássico
+de regressão linear ou modelo de Gauss de
+regressão linear supõe que
+A) a relação linear entre pelo menos duas
+variáveis explicativas seja exata.
+B) a variância dos erros varie na amostra:
+E(£,) 2 E(£º,) para t £ z.
+C) o valor esperado do fator de erro seja
+diferente de zero: E(e.) £ O.
+D)os erros não sejam
+E(e'e7) = O para t É z.
+E) os valores das variáveis explicativas,
+X2, X3,.., Xx Variem de amostra para
+amostra.
+correlacionados:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="869,170 1069,170 1069,242 1525,242 1525,292 1526,292 1526,503 1528,503 1528,567 1526,567 1526,889 1527,889 1527,911 1461,911 1461,920 1195,920 1195,960 862,960 862,774 861,774 861,743 862,743 862,638 860,638 860,607 869,607 869,281 868,281 868,242 869,242"/>
+	<TextEquiv conf="0.92655">
+	<Unicode>QUESTÃO 23:
+A função logarítmica f(x)=Inx, para x&gt;O,
+pode descrever uma série de fenômenos em
+economia, como, por exemplo, a relação
+entre insumo e produto em uma tecnologia
+que empregue o insumo em quantias
+maiores que um.
+Quanto às propriedades apresentadas por
+essa função, é CORRETO afirmar que
+A) a derivada de / é uma função crescente.
+B)a função / nunca atinge um ponto de
+máximo no intervalo [1,100].
+C) a inversa de / é uma função côncava.
+D) o valor /(100) é a área por baixo da curva
+1/x no intervalo [1,100].
+E)vale a igualdade
+e=2,71828...
+[nxdx=e", onde</Unicode></TextEquiv></TextRegion></Page></PcGts>

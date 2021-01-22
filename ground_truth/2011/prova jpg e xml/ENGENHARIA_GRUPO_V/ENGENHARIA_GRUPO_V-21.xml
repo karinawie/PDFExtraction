@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:45:37</Created>
+	<LastChange>2020-10-30T02:05:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-21.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r1">
+	<Coords points="806,194 807,2005 809,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,194 790,194 790,312 791,312 791,571 790,571 790,919 792,919 792,1569 534,1569 534,1645 105,1645 105,1760 157,1760 157,1830 195,1830 195,1971 202,1971 202,1991 104,1991 104,1993 81,1993 81,1615 175,1615 175,1295 129,1295 129,1269 174,1269 174,939 129,939 129,919 174,919 174,267 80,267"/>
+	<TextEquiv conf="0.94953">
+	<Unicode>Com base nessas informações e resultados, analise as
+afirmações abaixo.
+I. A alumina A possui tamanho médio de partículas
+em torno de 1,0 mm, com uma distribuição maior
+de pós finos que de pós grosseiros, colaborando
+para que os resultados de resistência à flexão e
+microdureza Vickers sejam menores a 1 450 °C do
+que os resultados destes a 1 550 °C.
+II. A alumina A possui tamanho médio de partículas
+em torno de 1,0 mm, com uma distribuição
+homogênea de pós finos, médios e grosseiros,
+colaborando para que os resultados de resistência
+à flexão e microdureza Vickers sejam menores a
+1 450 °C do que os resultados destes a 1 550 °C.
+III. A alumina B possui tamanho médio de partículas
+menores que 1,0 mm, com uma distribuição
+maior de pós finos do que de pós grosseiros,
+colaborando para que os resultados de resistência
+mecânica e microdureza Vickers sejam maiores
+que os resultados apresentados para a alumina A
+sinterizada a 1 450 °C e 1 550 °C.
+IV. A alumina B possui tamanho médio de partículas
+menores que 1,0 mm, com uma distribuição
+homogênea de pós finos, médios e grosseiros,
+colaborando para que os resultados de resistência
+mecânica e microdureza Vickers sejam maiores
+que os resultados apresentados para a alumina A
+sinterizada a 1 450 °C e 1 550°C.
+É correto apenas o que se afirma em
+A II.
+B IV.
+C I e III.
+D I e IV.
+E II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

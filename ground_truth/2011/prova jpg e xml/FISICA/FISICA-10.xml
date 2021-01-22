@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T04:01:31</Created>
+	<LastChange>2020-10-30T11:38:29</LastChange></Metadata>
+	<Page imageFilename="FISICA-10.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="808,197 809,2097 812,2097 811,197"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,1902 1504,1902 1504,1998 826,1998 826,1920 874,1920 874,1205 825,1205 825,447 824,447 824,254 841,254"/>
+	<ImageRegion id="r2">
+	<Coords points="821,463 821,1026 1531,1026 1531,463"/></ImageRegion>
+	<TextEquiv conf="0.96692">
+	<Unicode>QUESTÃO 12
+As usinas termelétricas geram eletricidade a partir de
+turbinas movidas a vapor. O ciclo de Rankine é um ciclo
+termodinâmico ideal que pode ser utilizado para modelar,
+de forma simplificada, uma usina termelétrica. A figura
+abaixo mostra de forma esquemática os elementos
+básicos de um ciclo de Rankine simples ideal.
+Considerando que algumas usinas termelétricas que
+utilizam turbinas a vapor podem ser encontradas próximas
+a grandes reservatórios de água, como rios e lagos,
+analise as seguintes afirmações.
+|. O ciclo de Rankine simples mostrado na figura
+não prevê a reutilização da energia que é rejeitada
+no condensador e, por isso, tem rendimento
+comparável ao de um ciclo de Carnot que opera
+entre as mesmas temperaturas.
+Historicamente, a instalação de algumas usinas
+próximas a grandes rios se dá devido à necessidade
+de remover calor do ciclo, por intermédio da
+transferência de calor que ocorre no condensador,
+porém, com implicações ao meio ambiente.
+Ill. Em usinas que utilizam combustíveis fósseis,
+o vapor gerado na caldeira é contaminado pelos
+gases da combustão e não é reaproveitado no
+ciclo, sendo mais econômico rejeitá-lo, causando
+impacto ambiental.
+Entre as termelétricas, as usinas nucleares são
+as únicas que não causam impacto ambiental,
+exceto pela necessidade de se armazenar o lixo
+nuclear gerado.
+É correto apenas o que se afirma em
+OL Ol. QGQlell Olelv O1lelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 265,192 265,254 790,254 790,1275 129,1275 129,1276 128,1276 128,849 81,849 81,690 79,690 79,254 96,254"/>
+	<TextEquiv conf="0.96311">
+	<Unicode>QUESTÃO 11
+Ao final do século XIX, alguns físicos pensavam que
+a Física estava praticamente completa. Lord Kelvin
+chegou a recomendar que os jovens não se dedicassem
+à Física, pois só faltavam alguns poucos detalhes de
+interesse, como, por exemplo, o refinamento de medidas.
+No entanto, ele mencionou que havia “duas pequenas
+nuvens” no horizonte da Física. Essas pequenas nuvens
+se tornariam grandes tempestades, pois a interpretação
+desses dois fenômenos levaria a uma reformulação da
+nossa visão de mundo, até então dominada pelo sucesso
+da mecânica newtoniana.
+Essas “pequenas nuvens” mencionadas por Kelvin ao
+final do século XIX eram
+O os resultados do experimento de Compton e
+a assimetria nas equações de Maxwell para a
+Eletricidade e o Magnetismo.
+as dificuldades em explicar a distribuição de energia
+na radiação de um corpo aquecido e o princípio da
+complementaridade.
+os resultados negativos do experimento de Michelson
+e Morley e a assimetria nas equações de Maxwell para
+a Eletricidade e o Magnetismo.
+os resultados negativos do experimento de Michelson
+e Morley e as dificuldades em explicar a distribuição
+de energia na radiação de um corpo aquecido.
+as dificuldades em explicar a distribuição de
+energia na radiação de um corpo aquecido e
+a assimetria nas equações de Maxwell para a
+Eletricidade e o Magnetismo.
+o</Unicode></TextEquiv></TextRegion></Page></PcGts>

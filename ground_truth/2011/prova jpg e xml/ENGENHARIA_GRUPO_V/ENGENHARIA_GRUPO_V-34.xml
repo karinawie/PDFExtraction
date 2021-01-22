@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:43:21</Created>
+	<LastChange>2020-10-30T01:58:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-34.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="96,189 270,189 270,250 1536,250 1536,338 1535,338 1535,470 1433,470 1433,869 80,869 80,250 96,250"/>
+	<ImageRegion id="r1">
+	<Coords points="444,478 444,821 1042,821 1042,478"/></ImageRegion>
+	<TextEquiv conf="0.95936">
+	<Unicode>QUESTÃO 43
+Um material pode ser considerado viscoelástico ou anelástico. Materias viscoelásticos quando submetidos a
+ensaios de resistência mecânica apresentam resposta com características dos materiais viscosos e elásticos. O termo
+anelástico é normalmente usado para os metais com comportamento anelástico, já o termo viscoelástico costuma ser
+associado a materiais poliméricos.
+ASKELAND, D. R., PHULÉ P. P. Ciência e Engenharia dos Materiais. São Paulo: Cencage Learning, 2008.
+Considere que, em um ensaio de resistência mecânica, foi aplicado ao corpo de prova um ciclo de tensão conforme
+representado no gráfico abaixo.
+Qual dos seguintes gráficos corresponde à resposta de deformação esperada para um material viscoelástico?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="52,884 52,1247 789,1247 789,884"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="66,1255 66,1618 803,1618 803,1255"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="63,1621 63,1984 800,1984 800,1621"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="810,1255 810,1618 1547,1618 1547,1255"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="810,892 810,1255 1547,1255 1547,892"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:47:06</Created>
+	<LastChange>2020-10-30T02:11:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-13.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r1">
+	<Coords points="806,194 807,2005 809,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="841,189 1015,189 1015,251 1535,251 1535,756 1367,756 1367,862 1519,862 1519,928 1293,928 1293,970 875,970 875,971 874,971 874,967 826,967 826,756 824,756 824,566 825,566 825,412 824,412 824,252 825,252 825,251 841,251"/>
+	<TextEquiv conf="0.96804">
+	<Unicode>QUESTÃO 22
+Elementos de máquinas, tais como, as engrenagens de aço
+baixo carbono, podem ter a superfície endurecida por um
+tratamento termoquímico de cementação. Normalmente,
+esse tipo de tratamento é realizado para temperaturas
+acima da temperatura de austenitização do material.
+Considerando que o cálculo do coeficiente de difusão D
+segue o modelo de Arrhenius, obtém-se
+D = D, exp (- O/RT).
+A solução para a cementação, com base na segunda lei
+de Fick, satisfaz à seguinte relação:
+[(Cx — Co) / (Cs — Co)] = 1 — erf /(2YDt)]
+Desse modo, a utilização de uma temperatura maior do
+tratamento produz
+uma camada de carbono mais uniforme.
+um aumento na resistência à corrosão.
+uma distribuição do tamanho de grão mais uniforme.
+um tempo menor de cementação.
+cGoOogGoo
+a economia do agente carburante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,189 266,189 266,254 790,254 790,978 791,978 791,1095 789,1095 789,1348 790,1348 790,1718 534,1718 534,1772 226,1772 226,1884 229,1884 229,1928 242,1928 242,1971 245,1971 245,1995 130,1995 130,1993 81,1993 81,1741 174,1741 174,1596 175,1596 175,1287 129,1287 129,1267 175,1267 175,1015 174,1015 174,1014 129,1014 129,942 80,942 80,254 96,254"/>
+	<TextEquiv conf="0.89447">
+	<Unicode>QUESTÃO 21
+Defeitos na estrutura cristalina são imperfeições ou
+“erros” no arranjo periódico dos átomos em um cristal.
+Podem envolver irregularidades na posição dos átomos
+ou na natureza dos mesmos. O tipo e a quantidade de
+defeitos dependem do material, do meio ambiente e das
+circunstâncias sob as quais o material é processado.
+PADILHA, F. A. Materiais de engenharia microestrutura e propriedades,
+Ed. Humus, 2000.
+Os defeitos cristalinos podem ser classificados em
+puntiformes (lacunas ou vacâncias, substitucionais e
+intersticiais), lineares (discordâncias ou deslocações) e
+bidimensionais (defeitos de empilhamento, contornos
+de macla, contornos de sub-grão, contornos de grão,
+contornos de antifase e interfaces entre fases diferentes).
+Com base nas características dos defeitos, avalie as
+seguintes afirmações.
+I. Os defeitos puntiformes mencionados acima
+causam distorções na rede cristalina, mas não
+influenciam as propriedades do material.
+II. Ao contrário dos sólidos iônicos, os metais não têm
+sua neutralidade elétrica alterada pela presença
+de defeitos cristalinos.
+III. Os átomos de soluto dissolvidos no metal
+desempenham um papel importante na
+deformação plástica, causando o endurecimento
+por solução sólida.
+IV. Denomina-se lacuna ou vacância uma posição
+desocupada do reticulado. Ela desempenha papel
+muito importante na difusão.
+V. Átomos estranhos, de impurezas ou adicionados
+intencionalmente, não são considerados defeitos
+puntiformes.
+É correto apenas o que se afirma em
+A I, II e III.
+B I, II e V.
+C I, IV e V.
+D II, III e IV.
+E III, IV e V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

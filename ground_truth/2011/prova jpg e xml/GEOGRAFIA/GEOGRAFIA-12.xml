@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T11:48:56</Created>
+	<LastChange>2020-10-30T12:07:07</LastChange></Metadata>
+	<Page imageFilename="GEOGRAFIA-12.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r2">
+	<Coords points="74,228 74,658 1536,658 1536,228"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1178 270,1178 270,1229 1536,1229 1536,1492 1535,1492 1535,1920 1364,1920 1364,2003 81,2003 81,1931 127,1931 127,1864 129,1864 129,1564 79,1564 79,1229 96,1229"/>
+	<TextEquiv conf="0.96568">
+	<Unicode>QUESTÃO 17
+A Agência Nacional de Energia Elétrica (ANEEL) define uma Pequena Central Hidrelétrica (PCH) como “toda usina
+hidrelétrica de pequeno porte cuja capacidade instalada seja superior a 1.000 kW e inferior a 30.000 kW e a área
+do reservatório seja inferior a 3 km?” (Resolução n.º 394, de 4 de dezembro de 1998, da ANEEL). Esse tipo
+de aproveitamento hidroelétrico apresenta custo de produção de eletricidade superior ao das grandes usinas
+hidroelétricas, pois o reservatório não permite a regularização da vazão do rio ao longo do ano, de forma que, nos
+períodos de estiagem, parte das turbinas ficam ociosas. Por outro lado, nos períodos de maior precipitação e maior
+vazão, parte da água passa pelo vertedouro, não gerando eletricidade. Mesmo com essas limitações, as PCHs
+apresentam vantagens em relação às grandes barragens, principalmente quanto a aspectos ambientais, em especial
+relacionados ao tamanho do reservatório e à área de inundação.
+Acerca desse assunto, julgue os fatores apresentados a seguir, relacionados a aspectos ambientais envolvidos na
+produção de hidroeletricidade a partir de PCHs.
+|. O reservatório reduzido diminui os custos relativos à indenização de propriedades e reduz a área inundada no
+local onde será instalada uma PCH.
+Ill. A área inundada pelo reservatório da PCH constitui um problema ambiental, pois a matéria orgânica em
+decomposição na água diminui o oxigênio dissolvido.
+Ill. As PCHs podem ser instaladas próximas ao mercado consumidor, o que diminui os custos com transmissão de
+energia elétrica e os impactos ambientais.
+IV. A produção de hidroeletricidade é maximizada, pois o reservatório reduzido apresenta maior potencial de
+geração de energia elétrica.
+V. O aproveitamento de desníveis significativos do rio resulta em um problema para a piracema da região, o que
+reduz a capacidade de produção de energia elétrica.
+É correto apenas o que se afirma em
+O lel. O lei. O llelv. O lllev. O IWVev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,188 270,188 270,667 1535,667 1535,1157 128,1157 128,1124 81,1124 81,818 80,818 80,667 96,667"/>
+	<TextEquiv conf="0.96095">
+	<Unicode>QUESTÃO 16
+Existem diferenças fundamentais no processo de urbanização de países desenvolvidos e subdesenvolvidos.
+Um dos exemplos de cidade de país desenvolvido é Frankfurt, na Alemanha, e um outro exemplo de cidade em país
+subdesenvolvido é Cabul, no Afeganistão.
+Com base no enunciado e nas figuras acima, assinale a opção que expressa características de urbanização em países
+desenvolvidos e subdesenvolvidos, respectivamente.
+O Formação de rede urbana mais recente, ligada à Primeira Revolução Industrial; existência de rede urbana bastante
+simples, mas completa na maioria dos países.
+Formação de rede urbana mais aberta e inconsolidada; existência de rede urbana mais antiga, em especial após a
+Primeira Guerra Mundial.
+Formação de rede urbana mais antiga, ligada à Segunda Revolução Industrial; existência de rede urbana mais
+recente, em especial após a Segunda Guerra Mundial.
+Formação de rede urbana mais densa e interligada; existência de rede urbana bastante rarefeita e incompleta na
+maoiria dos países.
+Formação de rede urbana acelerada e direcionada para um número reduzido de cidades; existência de rede urbana
+moderna, mas inacabada na maioria dos países.</Unicode></TextEquiv></TextRegion></Page></PcGts>

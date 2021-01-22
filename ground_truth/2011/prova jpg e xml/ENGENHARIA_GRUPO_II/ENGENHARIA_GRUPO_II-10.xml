@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:49:31</Created>
+	<LastChange>2020-10-30T00:05:22</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-10.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r9">
+	<Coords points="809,197 810,2097 813,2097 812,197"/></SeparatorRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="841,1432 1015,1432 1015,1499 1535,1499 1535,1712 1331,1712 1331,1767 1199,1767 1199,1932 1211,1932 1211,1978 1321,1978 1321,2004 875,2004 875,2005 874,2005 874,2000 826,2000 826,1713 825,1713 825,1499 841,1499"/>
+	<TextEquiv conf="0.96019">
+	<Unicode>QUESTÃO 13
+Considere um sistema de modulação em que o sinal de
+entrada 11(t) (modulante) é multiplicado pelo sinal de uma
+portadora ev(t) = Epcoswot , em que E, é a amplitude de
+pico da portadora, sendo sua frequência muito maior que
+a frequência da modulante. O sinal modulado na saída é
+s(t) = m(t) - Epcosw.t .
+Esse sistema pode ser classificado como
+causal e instável.
+não linear e estável.
+linear e variante no tempo.
+não causal e sem memória.
+Coçgoo
+com memória e invariante no tempo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="841,192 1015,192 1015,259 1536,259 1536,630 1535,630 1535,876 1410,876 1410,1156 1001,1156 1001,1393 874,1393 874,1394 873,1394 873,1391 826,1391 826,1157 824,1157 824,260 825,260 825,259 841,259"/>
+	<ImageRegion id="r2">
+	<Coords points="836,897 836,1086 1526,1086 1526,897"/></ImageRegion>
+	<TextEquiv conf="0.96667">
+	<Unicode>QUESTÃO 12
+Um aparelho celular é composto de vários circuitos:
+transceptor de rádio, tela de LCD, receptor de rádio FM,
+telefone e outros. Cada parte do aparelho é utilizada em
+momentos distintos. O consumo de energia depende
+de quais circuitos estão sendo utilizados. O transceptor
+de rádio dissipa mais energia no momento em que o
+usuário está em conversação. Além disso, vários sinais,
+com frequências distintas, estão presentes: áudio,
+radiofrequência e sinais de controle. Todos os circuitos
+são alimentados pela bateria.
+Admitindo o momento em que o celular está em
+conversação, a figura a seguir mostra um modelo elétrico
+do celular com três circuitos. Cada circuito é representado
+por uma impedância em sua forma complexa expressa
+em kO. De acordo com o teorema da superposição, o
+circuito mostra apenas uma fonte.
+A corrente de consumo da bateria, em mA, vale
+36,0.
+22,5.
+12,7.
+12,6.
+12,6-j1,8.
+CGOoOçÇGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="96,1269 265,1269 265,1329 792,1329 792,1666 790,1666 790,1805 240,1805 240,1891 209,1891 209,2010 128,2010 128,2007 81,2007 81,1805 80,1805 80,1329 96,1329"/>
+	<TextEquiv conf="0.96565">
+	<Unicode>QUESTÃO 11
+Um microprocessador precisa verificar o estado de um
+dispositivo de saída a cada 20 ms. Isto é feito por meio
+de um timer que alerta o processador a cada 20 ms. À
+interface do dispositivo inclui duas portas: uma para
+estado e uma para saída de dados. O microprocessador
+utiliza uma instrução para verificar o estado do dispositivo,
+e outra para examinar o seu conteúdo. Se o dispositivo
+estiver pronto, é necessária mais uma instrução para
+enviar os dados ao dispositivo. O microprocessador possui
+uma taxa de clock de 8 MHz e todos os ciclos de instrução
+pertinentes são de 12 ciclos de clock.
+STALLINGS, W. Arquitetura e Organização de Computadores, 8 ed.,
+Pearson Prentice Hall, 2010.
+Quanto tempo é necessário para se verificar e atender o
+dispositivo?
+0,060 us.
+0,375 us.
+1,5 us.
+3,0 us.
+4,5 us.
+coçcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="96,191 270,191 270,251 790,251 790,775 788,775 788,994 790,994 790,1050 789,1050 789,1237 128,1237 128,1234 81,1234 81,972 79,972 79,947 80,947 80,666 79,666 79,251 96,251"/>
+	<TextEquiv conf="0.96545">
+	<Unicode>QUESTÃO 10
+Os materials magnéticos podem ser classificados
+emferromagnéticos (permeabilidade magnética
+relativa muito alta), diamagnéticos (permeabilidade
+magnética relativa aproximadamente menor que um) e
+paramagnéticos (permeabilidade magnética relativa
+aproximadamente maior que um). Duas das razões
+fundamentais para o aproveitamento das propriedades
+magnéticas dos materiais ferromagnéticos é a elevada
+permeabilidade e baixas perdas, que permite a realização
+de circuitos magnéticos de baixa relutância nos quais se
+pode estabelecer um fluxo apreciável à custa de uma
+força magnetomotriz — FMM relativamente baixa.
+A esse respeito, analise as seguintes asserções.
+Em relação aos materiais ferromagnéticos, o ferro silício
+é o mais utilizado nas mais diversas aplicações que
+envolvam núcleos em circuitos magnéticos.
+PORQUE
+O ferro silício é composto de ferro com dopagem de silício,
+que promove o aumento da resistividade do material,
+reduzindo as perdas de correntes de Foucault no núcleo.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são verdadeiras, e a segunda é
+uma justificativa da primeira.
+As duas asserções são verdadeiras, mas a segunda
+não é uma justificativa da primeira.
+A primeira asserção é verdadeira, e a segunda é falsa.
+A primeira asserção é falsa, e a segunda é verdadeira.
+As duas asserções são proposições falsas.
+ooo eo</Unicode></TextEquiv></TextRegion></Page></PcGts>

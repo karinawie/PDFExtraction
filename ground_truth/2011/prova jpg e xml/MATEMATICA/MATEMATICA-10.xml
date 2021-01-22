@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:50:55</Created>
+	<LastChange>2020-10-30T14:39:42</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-10.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r7">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="841,192 955,192 955,255 1535,255 1535,590 1534,590 1534,721 1535,721 1535,842 1522,842 1522,885 1180,885 1180,946 1000,946 1000,1053 1054,1053 1054,1160 876,1160 876,1161 875,1161 875,1159 826,1159 826,915 920,915 920,742 874,742 874,721 920,721 920,590 919,590 919,503 826,503 826,349 825,349 825,255 841,255"/>
+	<TextEquiv conf="0.68358">
+	<Unicode>QUESTÃO 13
+O conjunto dos números complexos pode ser representado
+geometricamente no plano cartesiano de coordenadas
+TOy por meio da seguinte identificação:
+z=r+iyo P=(x,y).
+Nesse contexto, analise as afirmações a seguir.
+|. As soluções da equação 2º = 1 são vértices de
+um quadrado de lado 1.
+A
+complexos 2 tais que |2| = 1 é uma circunferência
+representação — geométrica dos números
+com centro na origem e raio 1.
+A
+complexos
+1. representação — geométrica dos números
+tais que Re(z) + Im(2)=1 é
+uma reta que tem coeficiente angular igual a 37
+; 4
+radianos.
+É correto o que se afirma em
+|, apenas.
+Il, apenas.
+| e Ill, apenas.
+Il e Ill, apenas.
+Lie.
+CGOGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,191 231,191 231,261 791,261 791,647 790,647 790,1432 791,1432 791,1502 790,1502 790,2013 128,2013 128,1698 81,1698 81,1555 79,1555 79,1279 80,1279 80,261 96,261"/>
+	<ImageRegion id="r2">
+	<Coords points="78,681 78,1152 402,1152 402,681"/></ImageRegion>
+	<TextEquiv conf="0.96753">
+	<Unicode>QUESTÃO 12
+O matemático grego Hipócrates de Chios (470 a. C.-410a.C.)
+é conhecido como um excelente geômetra. Ele calculou
+a área de várias regiões do plano conhecidas como
+lúnulas, que são limitadas por arcos de circunferência,
+com centros e raios diferentes. As figuras | e |l a seguir
+mostram, respectivamente, as lúnulas L, e L,, limitadas
+por um arco de circunferência de centro O e raio r e por
+semicircunferências cujos diâmetros são o lado de um
+hexágono regular e o lado de um quadrado inscritos na
+circunferência de raio re centro O.
+Considerando r um número racional, avalie as asserções
+a seguir.
+A razão entre as áreas A, e A, das lúnulas L, e L, é um
+número racional.
+PORQUE
+A, e A, podem ser, respectivamente, representadas por
+TXq eq, emque gq, eg, são números racionais.
+A respeito dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:08:13</Created>
+	<LastChange>2020-10-29T23:28:25</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="802,197 808,2008 814,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="96,192 270,192 270,275 790,275 790,1500 791,1500 791,1691 228,1691 228,2010 130,2010 130,2011 129,2011 129,2009 81,2009 81,1691 80,1691 80,1501 79,1501 79,1500 80,1500 80,276 81,276 81,275 96,275"/>
+	<ImageRegion id="r3">
+	<Coords points="81,526 81,1434 786,1434 786,526"/></ImageRegion>
+	<TextEquiv conf="0.95693">
+	<Unicode>QUESTÃO 19
+Foi executada uma prova de carga em placa (é = 0,8m)
+de acordo com a NBR 6489 (1984) em um terreno onde
+será executado um prédio em fundação direta (sapata).
+O resultado do ensaio é apresentado na figura abaixo.
+Analisando-se o resultado do ensaio apresentado na
+figura, qual é a área de uma sapata quadrada isolada cuja
+carga do pilar é de 1 000 kN, considerando o peso próprio
+da sapata como 5% da carga do pilar?
+O 4,67 m?.
+4,20 m?.
+2,63 m?.
+2,33 m?.
+2,10 m?.</Unicode></TextEquiv></TextRegion></Page></PcGts>

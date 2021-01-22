@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:57:33</Created>
+	<LastChange>2020-10-30T04:06:24</LastChange></Metadata>
+	<Page imageFilename="FISICA-30.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="841,192 1015,192 1015,258 1535,258 1535,408 1321,408 1321,605 1535,605 1535,932 1304,932 1304,1049 1535,1049 1535,1196 1536,1196 1536,1540 1534,1540 1534,1734 1279,1734 1279,1827 971,1827 971,1963 987,1963 987,1985 876,1985 876,1986 875,1986 875,1985 826,1985 826,1757 920,1757 920,1340 919,1340 919,1145 874,1145 874,1106 825,1106 825,1049 1049,1049 1049,932 826,932 826,933 825,933 825,258 841,258"/>
+	<TextEquiv conf="0.96855">
+	<Unicode>QUESTÃO 45
+Um próton (íon de hidrogênio) é submetido a um campo
+magnético externo na direção z. Devido ao seu spin,
+o próton tem um momento magnético que interage
+com esse campo. Na ausência de outras interações,
+a hamiltoniana do sistema pode ser escrita como
+— pntBÊB:Ç,
+Ho =&gt; Ss Th 5;
+ou simplesmente,
+= “&lt;
+Ho =&lt;S,
+Nesse caso, o sistema, quando isolado, terá dois estados
+estacionários caracterizados por X+ € X-, em que o
+sinal + significa componente z do spin para cima e o
+sinal -, para baixo. Admite-se que, inicialmente, o sistema
+está em um estado estacionário da hamiltoniana H .
+Se uma onda eletromagnética incidir sobre o próton, criará,
+devido ao campo magnético uma interação dependente
+do tempo. Suponha que o feixe incida de tal forma que o
+campo magnético seja ortogonal à direção z. Nesse caso,
+pode-se descrever a interação dependente do tempo como
+U(t)=aB,(t)S,
+Considerando a situação descrita, avalie as afirmações
+a seguir.
+|. Quando o próton está isolado, ele ocupa estados
+estacionários isto é, um estado X+ ou um estado X- .
+Enquanto o feixe passa pelo sistema , o campo
+externo U age e faz com que o próton oscile entre
+os dois estados, isto é, o próton ocupa um estado
+de superposição que é uma combinação linear dos
+estados X+ e X- .
+Se o estado inicial X+ for o estado de maior
+energia, é correto afirmar que se o feixe for um pulso
+de curta duração, após a sua passagem, o próton
+permanecerá no estado X+, sem absorver ou
+perder energia, ou o próton transitará para o estado
+X-,de menor energia, emitindo um foton .
+Se o estado inicial X- for o estado de menor energia,
+é correto afirmar que se o feixe for um pulso de curta
+duração, após a sua passagem, o próton ou estará
+em um estado X+, se absorver energia do feixe, ou
+permanecerá no estado X- em que se encontrava,
+sem absorver energia do campo.
+É correto apenas o que se afirma em
+lell.
+le.
+Weiv.
+LIVelv.
+1, Meilv,
+cCoOoGoos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="96,1168 270,1168 270,1224 790,1224 790,1225 791,1225 791,1502 373,1502 373,1570 312,1570 312,1687 380,1687 380,1738 402,1738 402,1841 403,1841 403,1865 385,1865 385,1975 366,1975 366,1991 221,1991 221,1972 165,1972 165,1650 81,1650 81,1502 80,1502 80,1224 96,1224"/>
+	<TextEquiv conf="0.96835">
+	<Unicode>QUESTÃO 44
+Considere uma carga pontual q imersa em um meio
+dielétrico, de constante dielétrica K. Os vetores campos
+elétrico, E/, o vetor deslocamento elétrico, D , e o vetor
+polarização, P , são calculados e constata-se que, nesse
+caso, o campo elétrico encontra-se reduzido, quando
+comparado ao caso do vácuo. Isso se deve à carga de
+polarização Q,, que aparece por causa do meio dielétrico,
+cujo módulo é dado por
+o Qr=(K+1)g
+1
+K
+(K—-1)
+K q
+K
+(K—1)
+o Qr 1
+Qr
+Qr= q
+" (K+1)
+- K
+Qr q</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,257 790,257 790,906 148,906 148,951 147,951 147,1128 81,1128 81,906 80,906 80,680 79,680 79,257 96,257"/>
+	<TextEquiv conf="0.91304">
+	<Unicode>QUESTÃO 43
+Em 1896, Pieter Zeeman mostrou que um forte campo
+magnético amplia, e até duplica, a raia amarela intensa
+emitida por vapores de sódio, revelando um fenômeno
+geral de desdobramento das raias, o efeito Zeeman.
+Lorentz encontrou então, uma explicação para esse
+fenômeno: a luz é emitida por partículas em movimento
+no seio dos átomos e o campo magnético perturba este
+movimento. As partículas em questão têm uma carga
+negativa e a relação da sua carga com a sua massa
+revelou-se duas mil vezes mais elevada do que Lorentz
+esperava. O efeito Zeeman foi, no século XX, uma das
+vias de acesso privilegiadas à estrutura dos átomos.
+LA COTARDIÈRE, P. História das Ciências. Editora Texto e Grafia, p. 77, 2011.
+Sabendo que um estado atômico é caracterizado pelo
+número quântico de momento angular j = 2 , conclui-se
+que o número de linhas do espectro de emissão desse
+átomo devido ao efeito Zeeman é igual a
+A 2.
+B 3.
+C 4.
+D 5.
+E 6.</Unicode></TextEquiv></TextRegion></Page></PcGts>

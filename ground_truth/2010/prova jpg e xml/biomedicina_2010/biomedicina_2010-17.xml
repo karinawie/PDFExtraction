@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:52:33</Created>
+	<LastChange>2020-10-27T02:47:57</LastChange></Metadata>
+	<Page imageFilename="biomedicina_2010-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="850,544 851,984 1526,982 1525,542"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="122,537 122,980 802,980 802,537"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="125,1117 125,1565 797,1565 797,1117"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="851,1120 851,1562 1514,1562 1514,1120"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="99,361 1554,361 1554,1976 1203,1976 1203,1977 988,1977 988,2098 147,2098 147,2097 100,2097 100,362 99,362"/>
+	<TextEquiv conf="0.95713">
+	<Unicode>QUESTÃO 31
+O exame microscópico do sedimento urinário pode contribuir para o diagnóstico de várias doenças do trato genitourinário
+e sua realização requer habilidades específicas resultantes da formação e do exercício profissional do analista
+laboratorial. As imagens nas figuras a seguir representam a visão microscópica do sedimento urinário.
+STRASINGER, S.K. Urinálise e fluidos corporais. Livraria Médica Paulista, 5º ed. 2009.
+Em ordem crescente e de acordo com a indicação das setas, as figuras de 1 a 4 correspondem a
+O hemácias, cristais de ácido úrico, células tubulares, leucócitos.
+hemácias, cristais de ácido úrico, células epiteliais, leucócitos.
+leucócitos, cristais de ácido úrico, células epiteliais, hemácias.
+hemácias, cristais de oxalato de cálcio, células tubulares, leucócitos.
+[MENCENOCESC)
+leucócitos, cristais de oxalato de cálcio, células tubulares, hemácias.</Unicode></TextEquiv></TextRegion></Page></PcGts>

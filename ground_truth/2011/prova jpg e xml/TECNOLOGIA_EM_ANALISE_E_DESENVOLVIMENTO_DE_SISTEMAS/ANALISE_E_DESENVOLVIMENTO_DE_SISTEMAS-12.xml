@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T19:33:09</Created>
+	<LastChange>2020-09-23T19:33:51</LastChange></Metadata>
+	<Page imageFilename="ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS-12.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="96,1489 270,1489 270,1552 788,1552 788,1578 568,1578 568,1999 131,1999 131,2000 104,2000 104,2002 81,2002 81,1579 80,1579 80,1552 96,1552"/>
+	<TextEquiv conf="0.96701">
+	<Unicode>QUESTÃO 19
+Com relação ao valor lógico, avalie as afirmações a seguir.
+|. (pia)
+Il. p&gt;(q&gt;p)
+Il. (pvrg)&gt;7p
+IV. (pra)v(7pi=a)
+É tautologia apenas o que se afirma em
+l.
+W.
+lei.
+INeilv.
+IWelv.
+CoçgÇoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="841,1280 1011,1280 1011,1339 1535,1339 1535,1394 1534,1394 1534,1555 1535,1555 1535,1556 1536,1556 1536,1773 1279,1773 1279,1853 947,1853 947,1984 948,1984 948,2004 849,2004 849,2006 826,2006 826,1780 874,1780 874,1719 897,1719 897,1651 920,1651 920,1544 874,1544 874,1469 825,1469 825,1339 841,1339"/>
+	<TextEquiv conf="0.95963">
+	<Unicode>QUESTÃO 21
+O paradigma de programação orientado a objetos tem sido
+largamente utilizado no desenvolvimento de sistemas.
+Considerando o conceito de herança, avalie as afirma-
+ções abaixo.
+|. Herança é uma propriedade que facilita a
+implementação de reuso.
+Quando uma subclasse é criada, essa herda todas
+as características da superclasse, não podendo
+possuir propriedades e métodos próprios.
+. Herança múltipla é uma propriedade na qual uma
+superclasse possui diversas subclasses.
+Extensão é uma das formas de se implementar
+herança.
+É correto apenas o que se afirma em
+o.
+UI
+lelv.
+Neil.
+INeilv.
+A
+[MEORKORO)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 791,254 791,579 790,579 790,641 789,641 789,751 790,751 790,1108 791,1108 791,1199 534,1199 534,1286 195,1286 195,1389 203,1389 203,1431 211,1431 211,1451 104,1451 104,1453 81,1453 81,1212 175,1212 175,988 129,988 129,968 155,968 155,967 175,967 175,845 129,845 129,729 80,729 80,254 96,254"/>
+	<TextEquiv conf="0.93149">
+	<Unicode>QUESTÃO 18
+A Norma ISO/IEC FDIS 14764 (2006) estabelece
+definições de vários tipos de manutenção e fornece um
+guia para gerenciar o processo de manutenção, que pode
+ser aplicado no planejamento, execução e controle, revisão
+e avaliação, e fechamento do processo de manutenção.
+Segundo essa Norma, solicitações de modificação são
+classificadas como corretiva, preventiva, adaptativa ou
+perfectiva. Os detalhes de como implementar ou realizar as
+atividades e tarefas de manutenção não são especificadas
+pela Norma, sendo de responsabilidade do mantenedor.
+ISO/IEC FDIS 14764. Software Engineering — Software Life Cycle Processes -
+Maintenance. 2006.
+Considerando os tipos de manutenção e as atividades de
+implementação do processo, avalie as afirmações a seguir.
+|. O mantenedor deve desenvolver, documentar e
+executar planos e procedimentos para realizar as
+atividades e tarefas do processo de manutenção.
+O mantenedor deve alterar a configuração do
+sistema para corrigir erros identificados pelos
+usuários usando a manutenção perfectiva.
+Ill. O mantenedor deve estabelecer procedimentos
+para receber, registrar e rastrear solicitações de
+modificação/registro de problemas dos usuários,
+e também prover realimentação para os usuários.
+O mantenedor deve documentar a estratégia a ser
+usada para melhorar a manutebilidade futura do
+sistema, usando a manutenção corretiva.
+É correto apenas o que se afirma em
+l.
+.
+lei.
+Ilelv.
+Weilv.
+coçgGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="841,192 1015,192 1015,250 1537,250 1537,251 1538,251 1538,688 1535,688 1535,908 1536,908 1536,1149 1535,1149 1535,1246 873,1246 873,930 826,930 826,792 825,792 825,250 841,250"/>
+	<TextEquiv conf="0.96626">
+	<Unicode>QUESTÃO 20
+Padrões de criação (creational patterns) abstraem
+a forma como objetos são criados, tornando o sistema
+independente de como os objetos são criados, compostos
+e representados. Um padrão de criação de classe
+usa a herança para variar a classe que é instanciada,
+enquanto que um padrão de criação de objeto delegará
+a instanciação para outro objeto. Há dois temas
+recorrentes nesses padrões. Primeiro, todos encapsulam
+conhecimento sobre quais classes concretas são usadas
+pelo sistema. Segundo, ocultam o modo como essas
+classes são criadas e montadas. Tudo que o sistema
+sabe no geral sobre os objetos é que suas classes são
+definidas por classes abstratas. Os padrões de criação
+são classificados em Abstract Factory, Builder, Factory
+Methoa, Prototype e Singleton.
+GAMMA, E. et al. Design Patterns: Elements of Reusable Object-Oriented
+Software. Reading, MA: Addison-Wesley, 1994.(adaptado)
+O padrão Abstract Factory é usado quando
+O o sistema deve ser independente da maneira
+como seus produtos são criados, relacionados e
+representados.
+o algoritmo de criação de um objeto deve ser
+independente das suas partes e da maneira como ele
+é montado.
+houver uma única instância de uma classe e esta for
+acessada a partir de um ponto de acesso conhecido.
+classes delegam responsabilidade a alguma das
+subclasses, e deseja-se localizar qual é a subclasse
+acessada.
+as classes utilizadas para instanciação são
+especificadas em tempo de execução ou carregadas
+dinamicamente.
+o</Unicode></TextEquiv></TextRegion></Page></PcGts>

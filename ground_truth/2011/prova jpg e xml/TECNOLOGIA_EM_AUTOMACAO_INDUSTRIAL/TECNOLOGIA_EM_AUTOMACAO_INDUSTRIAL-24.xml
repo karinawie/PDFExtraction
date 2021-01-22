@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:02:14</Created>
+	<LastChange>2020-10-30T18:12:27</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-24.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,188 97,188 97,189 270,189 270,250 808,250 808,251 1171,251 1171,252 1534,252 1534,338 1533,338 1533,1060 1395,1060 1395,1195 1252,1195 1252,1232 534,1232 534,1499 104,1499 104,1500 81,1500 81,1060 80,1060 80,250 96,250"/>
+	<ImageRegion id="r1">
+	<Coords points="89,355 89,907 1531,907 1531,355"/></ImageRegion>
+	<TextEquiv conf="0.96019">
+	<Unicode>QUESTÃO 29
+O alto desempenho e o baixo custo popularizaram o uso de transmissores de pressão em sistemas hidráulicos.
+Para monitorar a pressão em local de difícil acesso, um transmissor foi instalado para que a medição fosse realizada
+remotamente.
+Com base no gráfico de calibração e no circuito de ligação interna típico do transdutor representados na figura acima,
+avalie as afirmações que se seguem.
+|. A curva de calibração indica que o transdutor não é adequado para aplicação.
+Il. O funcionamento do transdutor é baseado em sensores do tipo strain gage.
+Ill. O range de medição é de O a 5.000 mm H,O e a faixa de trabalho (span) é de 500 a 3000 mm H,O.
+IV. A diferença entre a curva de calibração e a curva teórica é chamada de desvio de span.
+É correto apenas o que se afirma em
+o.
+.
+lelv.
+Nell.
+Meilv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

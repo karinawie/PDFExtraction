@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T00:36:36</Created>
+	<LastChange>2020-10-30T00:54:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_III-17.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="841,978 1015,978 1015,1025 1536,1025 1536,1150 826,1150 826,1151 825,1151 825,1025 841,1025"/>
+	<TextEquiv conf="0.96564">
+	<Unicode>QUESTÃO 30
+Na figura a seguir, tem-se a representação de uma viga
+submetida a um carregamento distribuído W e a um momento
+extemo m. A partir dessa representação, é possível determinar
+os diagramas do esforço cortante e do momento fletor.
+Assinale a opção que representa o diagrama do esforço
+cortante e momento fletor, respectivamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,262 790,262 790,663 789,663 789,968 790,968 790,1227 791,1227 791,1677 534,1677 534,1739 226,1739 226,1988 242,1988 242,2012 130,2012 130,2010 81,2010 81,1708 174,1708 174,1247 129,1247 129,1227 154,1227 154,1226 174,1226 174,968 175,968 175,773 129,773 129,721 80,721 80,262 96,262"/>
+	<TextEquiv conf="0.96634">
+	<Unicode>QUESTÃO 28
+Os ensaios mecânicos fornecem informações sobre
+as propriedades mecânicas dos materiais, quando
+submetidos a esforços externos, expressos na forma de
+tensões e deformações. Basicamente, o comportamento
+mecânico dos materiais depende da composição química,
+da microestrutura, da temperatura e das condições
+de carregamento. Tais informações são fundamentais
+para que o engenheiro projetista possa selecionar os
+materiais que contemplem as especificações mecânicas
+estabelecidas no projeto.
+Considerando o exposto, analise as afirmações a seguir
+I. O módulo de tenacidade é uma medida
+da energia requerida para a ruptura de um
+material, enquanto a tenacidade à fratura é uma
+propriedade do material de suportar tensão na
+ponta de uma trinca.
+II. Um corpo-de-prova de material ferro fundido
+cinzento, quando submetido a um ensaio de torção,
+falha por cisalhamento. Esse fato é observado
+pelo rompimento do corpo de prova ao longo da
+superfície que forma um ângulo de 45° em relação
+ao eixo longitudinal.
+III. O ensaio de impacto permite a caracterização do
+comportamento dúctil-frágil do material por meio
+da medição da energia absorvida pelo material até
+a fratura em função da temperatura. Os ensaios
+mais conhecidos são denominados Charpy e Izod.
+IV. A partir do limite de escoamento do material,
+o material entra em colapso e deforma-se
+permanentemente. Isso se deve à redução do
+módulo de elasticidade do material que causa
+o escoamento, seguido do endurecimento por
+deformação até atingir o limite de resistência.
+É correto apenas o que se afirma em
+A I e IV.
+B I e III.
+C II e III.
+D I, II e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="841,192 1015,192 1015,255 1535,255 1535,546 1534,546 1534,652 1535,652 1535,745 1534,745 1534,951 873,951 873,952 872,952 872,916 826,916 826,746 825,746 825,547 824,547 824,255 841,255"/>
+	<TextEquiv conf="0.96788">
+	<Unicode>QUESTÃO 29
+Uma empresa produz eixos de componentes automobi-
+lísticos em aço SAE 8620 com dureza de 46 HRC pelo
+processo de torneamento, utilizando ferramentas de metal
+duro com revestimento. O cliente exige que a rugosidade
+máxima dos eixos esteja abaixo de 0,002 micrometros.
+As ferramentas de torneamento disponíveis na empresa
+têm raios de ponta (r.) de 0,4 mm e 0,8 mm, e os valores
+de avanço mínimo e máximo (f) que podem ser empregados
+no processo são 0,1 mm e 0,2 mm.
+O valor teórico de rugosidade máxima é definido pela
+equação R,,,=fº/8r..
+Qual deve ser o par de variáveis, avanço/raio de ponta
+da ferramenta empregado para atender aos requisitos de
+rugosidade mínima exigidos pelo cliente?
+cCogoo
+Avanço de 0,1 mm/rot e raio de ponta de 0,4 mm.
+Avanço de 0,1 mm/rot e raio de ponta de 0,8 mm.
+Avanço de 0,2 mm/rot e raio de ponta de 0,8 mm.
+Avanço de 0,2 mm/rot e raio de ponta de 0,4 mm.
+Avanço intermediário de 0,15 mm/rot e raio de ponta
+de 0,8 mm.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="915,1155 915,1315 1455,1315 1455,1155"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="826,1400 826,2002 1073,2002 1073,1400"/></ImageRegion></Page></PcGts>

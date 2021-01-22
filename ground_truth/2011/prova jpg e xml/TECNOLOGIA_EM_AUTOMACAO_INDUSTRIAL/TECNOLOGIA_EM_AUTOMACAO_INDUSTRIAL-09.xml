@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:04:32</Created>
+	<LastChange>2020-10-30T19:08:37</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-09.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="155,1280 154,1581 722,1583 723,1282"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 801,2008 808,2008 814,197"/></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="841,192 1009,192 1009,253 1064,253 1064,254 1301,254 1301,255 1537,255 1537,491 1536,491 1536,726 1535,726 1535,1604 1536,1604 1536,1704 1279,1704 1279,1809 1278,1809 1278,2004 849,2004 849,2005 848,2005 848,2006 825,2006 826,2006 826,1728 874,1728 874,726 825,726 825,725 824,725 824,724 825,724 825,488 826,488 826,253 841,253"/>
+	<ImageRegion id="r3">
+	<Coords points="826,760 826,1331 1531,1331 1531,760"/></ImageRegion>
+	<TextEquiv conf="0.96681">
+	<Unicode>QUESTÃO 11
+Em certo processo de fundição de latão, a temperatura
+deve ser mantida em 1150 ºC, pois a temperatura é
+uma variável importante para a qualidade das peças
+produzidas. Ao observar um aumento de peças
+defeituosas, o setor de manutenção foi chamado para
+avaliar a medição da temperatura, onde se constatou
+problema no sensor. Foi sugerida a substituição do
+sensor termopar tipo K por um sensor RTD (Resistence
+Temperature Detector) tipo Pt100, cuja faixa de utilização
+vai de -200 “ºC a +850 ºC. Considerando a sugestão de
+troca do sensor a partir do gráfico apresentado abaixo,
+avalie as afirmações que se seguem.
+|. O sensor Pt100 apresenta melhor resposta linear.
+Il. A faixa de utilização do Pt100 atende ao processo
+de fundição de latão.
+. A substituição do termopar implica na adequação
+do circuito controlador de temperatura.
+A medição da temperatura pelo termopar se
+dá pela variação da corrente na junção do par
+de metais.
+É correto apenas o que se afirma em
+L.
+.
+le.
+Ielv.
+Weilv.
+CGOÇGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 254,192 254,252 436,252 436,253 791,253 791,468 790,468 790,888 212,888 212,1052 189,1052 189,1088 105,1088 105,1089 104,1089 104,1090 81,1090 81,888 80,888 80,252 96,252"/>
+	<ImageRegion id="r5">
+	<Coords points="68,489 68,776 789,776 789,489"/></ImageRegion>
+	<TextEquiv conf="0.96073">
+	<Unicode>QUESTÃO 9
+Um quadro de distribuição é alimentado por um circuito
+trifásico, equilibrado com neutro, conforme a figura
+abaixo. Por meio da utilização de um analisador de
+qualidade de energia elétrica nas três fases, obtem-se
+as sequintes ordens harmônicas de correntes (valores
+eficazes): 1º (fundamental), 3º e 5º, com valores
+respectivos de 10A,4A,2A.
+Considerando a presença das harmônicas, qual é a
+corrente no neutro? Considere f, = 1,19, conforme as
+especificações da NBR 5410.
+4,8 A.
+5,3 A.
+10A.
+12,6 A.
+13A.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,1125 270,1125 270,1186 790,1186 790,1594 791,1594 791,1746 790,1746 790,1969 414,1969 414,2006 413,2006 413,2007 129,2007 129,2006 128,2006 128,2004 81,2004 81,1746 80,1746 80,1274 79,1274 79,1186 96,1186"/>
+	<TextEquiv conf="0.96400">
+	<Unicode>QUESTÃO 10
+O circuito a seguir é encontrado em uma máquina com a
+finalidade de se obter uma tensão de referência por meio
+da medição da tensão sobre o resistor R1.
+Em determinado momento, foi necessário mudar a tensão
+de referência para 2 V. Considerando que os componentes
+são ideais para se obter uma tensão de 2 V no voltímetro
+do circuito anterior, mantendo-se a mesma corrente no
+amperímetro do circuito, é necessário substituir
+a fonte por uma de 4 V e o resistor R1 por um de
+400 O e R2 e R3 por resistores de 200 O.
+o resistor R1 por um resistor de 200 OQ e R2 por um
+de 800 O.
+o resistor R1 por um de 400 0 e R2 por um de 1600 O.
+o resistor R1 por um de 1 k O.
+a fonte por uma de 4 V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

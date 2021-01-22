@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:22:52</Created>
+	<LastChange>2020-10-30T02:38:24</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-13.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,268 1535,268 1535,656 1533,656 1533,882 1536,882 1536,1047 1377,1047 1377,1113 866,1113 866,1261 1378,1261 1378,1369 891,1369 891,1471 1286,1471 1286,1497 587,1497 587,1691 719,1691 719,1753 1460,1753 1460,1892 1194,1892 1194,1950 987,1950 987,2005 558,2005 558,2006 129,2006 129,2007 128,2007 128,2002 81,2002 81,1718 79,1718 79,1691 248,1691 248,1497 238,1497 238,1262 237,1262 237,1261 749,1261 749,1154 239,1154 239,1155 238,1155 238,1113 237,1113 237,1049 81,1049 81,1050 80,1050 80,882 81,882 81,521 80,521 80,484 79,484 79,269 80,269 80,268 96,268"/>
+	<TextEquiv conf="0.94952">
+	<Unicode>QUESTÃO 15
+A qualidade dos serviços apresenta suas peculiaridades em relação à qualidade dos bens. Clientes insatisfeitos com
+prestadores de serviços essenciais podem usufruir da portabilidade (opção de troca imediata de empresa levando
+algumas especifi cidades do serviço previamente contratado), quando houver outras opções de fornecedores. Quanto
+às empresas de planos de saúde, existe uma regra que amplia a portabilidade para os benefi ciários, que poderão
+mudar de plano de saúde sem cumprimento de novos prazos de carência.
+Preocupado com inúmeras saídas de seus clientes, o gerente de uma das três empresas de plano de saúde de uma
+cidade encomendou uma pesquisa de satisfação com os clientes sobre a intenção de trocar o prestador de serviço.
+Como resultado da pesquisa, obteve:
+• Dos 1 000 clientes da empresa A, 50 não a trocariam, 450 mudariam para a empresa B e 500 para a empresa C;
+• Dos 1 000 clientes da empresa B, 400 não a trocariam, 100 mudariam para a empresa A e 500 para a empresa C;
+• Dos 1 000 clientes da empresa C, 500 não a trocariam, 100 mudariam para a empresa A e 400 para a empresa B.
+Considerando estável a população de clientes, e se nada for feito pelas empresas de planos de saúde para reter
+seus clientes, a tendência é que a empresa A fi que com média aproximada de 286 clientes, a empresa B fi que com
+média aproximada de 1 214 clientes e a C com média aproximada de 1 500 clientes. Nessa situação, avalie as
+asserções a seguir.
+A situação apresentada é estocástica, regida por um processo Markoviano com estados
+exaustivos e mutuamente exclusivos.
+PORQUE
+As probabilidades de transição entre os estados pode ser representada pela notação matricial
+Pe as condições finais a” (número de clientes em cada empresa) após n transições (n &gt; O)
+podem ser obtidas pela equação
+a? = 20 pr
+em que a“ representa as condições iniciais (número de clientes em cada empresa) e
+0,05 0,45 0,50
+P= [0,10 0,40 0,50
+0,10 0,40 0,50
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

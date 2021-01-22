@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:04:11</Created>
+	<LastChange>2020-10-30T19:06:37</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-11.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r1">
+	<Coords points="252,374 250,781 958,784 958,766 1369,768 1371,362 880,360 880,377"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="449,1409 448,1644 1166,1647 1167,1412"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="96,1240 270,1240 270,1303 1328,1303 1328,1304 1535,1304 1535,1396 699,1396 699,1730 706,1730 706,1731 913,1731 913,1732 1121,1732 1121,1733 1329,1733 1329,1734 1536,1734 1536,1954 1411,1954 1411,2000 81,2000 81,1707 79,1707 79,1303 96,1303"/>
+	<TextEquiv conf="0.96282">
+	<Unicode>QUESTÃO 14
+Uma das funções das metodologias de planejamento da manutenção é estabelecer uma comunicação clara entre os
+funcionários e a equipe de gestão. Para isso, normalmente, são utilizados recursos gráficos, como o apresentado na
+figura abaixo.
+A partir da figura, analise as seguintes afirmações.
+|. Afigura representa o diagrama de Gantt.
+Il. O caminho crítico é definido pela atividade U.
+Ill. De acordo com o método representado, a duração do evento O ao evento 5 é de 13 horas.
+IV. O caminho crítico permite identificar as atividades que não podem sofrer atrasos, permitindo controle eficaz dos
+prazos.
+É correto apenas o que se afirma em
+o. o: O lei. O llelv. O lelvV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1327,254 1327,255 1534,255 1534,347 946,347 946,975 1057,975 1057,1099 1411,1099 1411,1211 81,1211 81,952 80,952 80,345 81,345 81,254 96,254"/>
+	<TextEquiv conf="0.96215">
+	<Unicode>QUESTÃO 13
+Durante o desenvolvimento de uma nova máquina para furação de peças em uma indústria, verificou-se a necessidade
+de utilização de uma válvula eletropneumática proporcional de vazão. Um dos manuais dos modelos analisados possui
+o diagrama a seguir com parte de seu circuito e de seu sistema de controle, bem como a sua curva característica.
+Analisando o circuito e o gráfico anterior avalie as afirmações a seguir.
+|. A válvula pneumática do circuito apresentado possui 3 vias e 5 estados.
+Il. Os números 1, 3 e 5 representam as vias de utilização.
+Ill. As vias de pressão são representadas pelos números 2 e 4.
+IV. Quando a tensão na entrada é 5 volts a vazão é mínima.
+É correto apenas o que se afirma em
+o. o. o Iv. O llelll. O lllelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

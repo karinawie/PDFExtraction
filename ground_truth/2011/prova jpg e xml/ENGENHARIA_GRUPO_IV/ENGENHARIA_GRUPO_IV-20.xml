@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:08:22</Created>
+	<LastChange>2020-10-30T01:27:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-20.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="96,192 430,192 430,254 1535,254 1535,1183 81,1183 81,1184 80,1184 80,614 79,614 79,254 96,254"/>
+	<TableRegion id="r1">
+	<Coords points="78,634 78,971 1531,971 1531,634"/></TableRegion>
+	<TextEquiv conf="0.96066">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Os abatedouros avícolas caracterizam-se pelo alto consumo de água e produção de efluentes. O processo de tratamento
+com floculação e flotação é uma tecnologia eficiente para remoção de DBO (Demanda Bioquímica de Oxigênio),
+podendo atingir 95% de eficiência. A floculação do efluente pode ser feita com a adição de diferentes coagulantes
+como cloreto férrico, sulfato ferroso, sulfato de alumínio e, mais recentemente, o policloreto de alumínio. As indústrias
+que utilizam os sais derivados do ferro têm encontrado problemas de aumento da acidez do lodo, sendo necessária
+sua correção, enquanto as indústrias que utilizam sais de alumínio têm despesas para dispor o lodo corretamente.
+Suponha que os gerentes de um abatedouro solicitaram ao setor de engenharia um estudo de viabilidade técnica e
+financeira para substituição do coagulante cloreto férrico (R$ 1,00/L de coagulante diluído pronto) por policloreto de
+alumínio (R$ 1,20/L de coagulante diluído pronto). Foram realizados ensaios de floculação com 1 000 mL de efluente
+para cada teste. A tabela a seguir apresenta os principais resultados do ensaio de floculação. Os resultados médios
+foram estatisticamente iguais e as dosagens ótimas do ensaio de floculação foram de 0,2 mL para os dois coagulantes.
+Com base nessa situação, avalie a viabilidade técnica (em relação à eficiência de tratamento e atendimento
+à legislação) e financeira da substituição do coagulante cloreto férrico pelo policloreto de alumínio considerando uma
+vazão de efluente de 250 m?/h e de lodo de 1 m?/h. Suponha que, os custos para a disposição do lodo no processo
+com policloreto de alumínio são R$ 200,00/m?, enquanto os custos com a correção da acidez do lodo no processo com
+cloreto férrico são de R$ 150,00/mº. Em sua resposta, apresente os cálculos do custo do tratamento e descreva as
+análises de viabilidade técnica e financeira. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

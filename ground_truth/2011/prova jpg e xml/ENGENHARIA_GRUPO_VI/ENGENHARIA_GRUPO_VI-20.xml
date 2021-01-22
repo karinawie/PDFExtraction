@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:21:26</Created>
+	<LastChange>2020-10-30T02:33:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-20.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="806,197 807,2097 810,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="841,192 1015,192 1015,262 1536,262 1536,705 1535,705 1535,1004 1536,1004 1536,1164 971,1164 971,1362 850,1362 850,1364 826,1364 826,1128 825,1128 825,971 824,971 824,737 825,737 825,262 841,262"/>
+	<TextEquiv conf="0.96480">
+	<Unicode>QUESTÃO 24
+Uma empresa que produz tubos e conexões em PVC
+está desenvolvendo um novo produto mais resistente
+devido à demanda de mercado. A empresa pretende usar
+uma linha de produção já existente para a manufatura
+do novo produto. O engenheiro Davi, responsável pela
+linha de produção, sabe que o diâmetro médio dos tubos
+produzidos pela linha de produção é 105 mm e o desvio-
+padrão é 5 mm. Esses dados foram obtidos por meio de
+uma série histórica quando o processo se encontrava em
+estado de controle estatístico. Os dados seguem uma
+distribuição normal de probabilidade.
+A equipe de engenharia do produto enviou para Davi as
+especificações do diâmetro do novo produto. O limite
+superior de especificação (LSE) é 105 mm e o Limite
+Inferior de Especificação (LIE) é 95 mm. Qualquer tubo
+produzido com diâmetro inferior ao LIE ou superior ao LSE
+é considerado refugo.
+Na situação descrita, se Davi puder ajustar a média do
+processo da linha de produção, em qual valor ele deve
+ajustá-la para obter uma porcentagem mínima de refugo?
+95 mm
+100 mm
+105 mm
+110 mm
+120 mm
+GCOçÇQGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,267 790,267 790,468 791,468 791,770 790,770 790,1177 791,1177 791,1432 789,1432 789,1631 790,1631 790,2002 128,2002 128,1653 81,1653 81,1432 79,1432 79,1176 80,1176 80,770 79,770 79,468 80,468 80,267 96,267"/>
+	<TextEquiv conf="0.96093">
+	<Unicode>QUESTÃO 23
+Um gerente de projetos atua no lançamento de novos
+produtos em uma empresa fabricante de telefones e
+outros dispositivos eletrônicos. Essa empresa utiliza
+estrutura organizacional tipicamente funcional.
+A empresa apresenta um grande volume de produção
+e cada lançamento de um novo produto significa, entre
+outras coisas, capacitar os operários de chão de fábrica
+para que possam realizar as novas operações, correr
+o risco de parar a linha de montagem, compartilhar
+recursos humanos de outras áreas da empresa, e ter
+que lidar com cronogramas apertados.
+Com relação ao perfil desse gerente de projetos, analise
+as seguintes asserções e a relação proposta entre elas.
+O profissional deve, além de conhecer profundamente os
+processos específicos da empresa, apresentar algumas
+competências como liderança, negociação, sociabilidade,
+capacidade de conciliar interesses e voluntariedade.
+PORQUE
+O desenvolvimento de projetos em empresas de produção
+em massa submete seus colaboradores a atividades
+repetitivas, o que gera resistências a mudanças, uma vez
+que os recursos humanos alocados hierarquicamente às
+funções usuais da empresa dificulta a atuação deles em
+projetos transversais às linhas de produção.
+ Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira
+E Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

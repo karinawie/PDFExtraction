@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:46:10</Created>
+	<LastChange>2020-10-29T23:53:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-26.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="841,192 1011,192 1011,254 1535,254 1535,1166 1279,1166 1279,1265 956,1265 956,1368 979,1368 979,1392 971,1392 971,1433 875,1433 875,1432 826,1432 826,1193 874,1193 874,629 826,629 826,580 825,580 825,254 841,254"/>
+	<TextEquiv conf="0.95065">
+	<Unicode>QUESTÃO 41
+Em uma fábrica de automóveis, foi solicitado a um
+Engenheiro de Controle e Automação a especificação de
+robôs manipuladores para uma célula de produção, onde
+seriam feitas montagens e soldagens em partes internas
+e externas de veículos. Após a análise do problema, o
+engenheiro especificou robôs manipuladores com 6 (seis)
+graus de liberdade do tipo articulado (antropomorfo)
+com punho do tipo esférico, e com a opção de controle
+de impedância para salvaguardar a destruição de peças
+durante as etapas de montagens e soldagem.
+Na solução adotada pelo Engenheiro para o problema,
+|. seis é o número mínimo de graus de liberdade
+que possibilita um robô manipulador alcançar um
+conjunto posição + orientação, especificado em
+uma tarefa de montagem ou soldagem.
+Ill. a estrutura dos graus de liberdade de
+posicionamento é de três juntas revolucionárias
+(RRR), enquanto a estrutura de orientação é de
+uma junta revolucionária e duas prismáticas (RPP).
+Ill. o controle de impedância faz uso do conceito de
+impedância mecânica para controlar a força de
+contato aplicada pelo robô manipulador.
+IV. os graus de liberdade estão divididos em três
+graus para o posicionamento e três graus para
+a orientação.
+É correto apenas o que se afirma em
+leill.
+Nell.
+NI elv.
+LNeilv.
+LVelv.
+CoOoçgGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,273 789,273 789,497 790,497 790,1619 792,1619 792,1777 438,1777 438,2007 104,2007 104,2009 81,2009 81,1777 80,1777 80,299 79,299 79,273 96,273"/>
+	<ImageRegion id="r5">
+	<Coords points="118,752 118,1189 734,1189 734,752"/></ImageRegion>
+	<TextEquiv conf="0.55860">
+	<Unicode>QUESTÃO 40
+A força F gerada por um eletroímã, ilustrado na figura
+abaixo, pode ser modelada pela função não-linear da forma:
+2
+1º
+F(1,9) = k—'
+II
+em que / representa a corrente elétrica imposta na sua
+bobina, em Ampeêres, g é o entreferro formado pelo núcleo
+do eletroímã e a peça móvel, medido em metros, e k é um
+parâmetro que depende do número de espiras da bobina,
+do material do núcleo e das suas dimensões.
+Para manter o entreferro constante, o projeto de
+um sistema de controle de posicionamento requer a
+linearização da função força em torno do ponto de
+operação /, = 1 Ae g,= 10º m. Após esse procedimento,
+uma nova função força pode ser definida:
+S=ki+ kar,
+em que
+f=F(I,9)— F(Io,9o.)i=1I—- 1 /er=9-9Go
+Considerando k = 10º N.m?/A?, as constantes k, e k,
+valem, respectivamente,
+2x10º N/A e -2x10º N/m.
+-2xX10? N/A e 2x10º N/m.
+2x10º N/A e -2x10º N/m.
+-2xX10º N/A e 2x10º N/m.
+2x10? N/A e -2x10º N/m.
+CoçgÇoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

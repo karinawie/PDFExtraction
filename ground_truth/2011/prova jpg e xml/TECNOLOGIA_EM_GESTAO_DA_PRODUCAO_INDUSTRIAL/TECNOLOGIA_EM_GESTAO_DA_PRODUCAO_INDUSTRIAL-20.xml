@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T22:17:40</Created>
+	<LastChange>2020-10-30T19:36:18</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_GESTAO_DA_PRODUCAO_INDUSTRIAL-20.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="96,192 431,192 431,254 1535,254 1535,404 1536,404 1536,745 1535,745 1535,809 500,809 500,745 80,745 80,404 81,404 81,254 96,254"/>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO DISCURSIVA 4
+No TQC (Controle da Qualidade Total), todas as decisões são tomadas com base em análise de fatos e dados.
+Para se conseguir melhor aproveitamento desses dados, são utilizadas algumas técnicas e ferramentas adequadas.
+O objetivo principal é identificar os maiores problemas de uma prestação de serviços e, por meio de análise
+adequada, buscar a melhor solução.
+As sete ferramentas da qualidade de Ishikawa são um conjunto de ferramentas estatísticas de uso consagrado
+para a melhoria da qualidade de produtos, serviços e processos. A estatística desempenha um papel fundamental no
+gerenciamento da qualidade e da produtividade, por uma razão muito simples: não existem dois produtos exatamente
+iguais ou dois serviços prestados da mesma maneira, com as mesmas características. Tudo varia e obedece a uma
+distribuição estatística. É necessário, então, ter um domínio sobre essas variações. A estatística oferece o suporte
+necessário para coletar, tabular, analisar e apresentar os dados dessas variações.
+As sete ferramentas da qualidade fazem parte de um grupo de métodos estatísticos elementares. É indicado que
+esses métodos sejam de conhecimento de todas as pessoas em uma empresa e façam parte do programa básico de
+treinamento da qualidade. No contexto do TQC, essas sete ferramentas encontram utilização sistemática na Metodologia
+de Análise e Soluções de Problemas (MASP).
+FIATES, G. G. S. A utilização do QFD como suporte a implementação do TQC em empresas do setor de serviços.
+Dissertção de Mestrado: PPGEP/UFSC, 1995, Cap. 3 (com adaptações).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="76,831 76,1410 905,1410 905,831"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1021,818 1021,1500 1544,1500 1544,818"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="84,1500 84,1978 1126,1978 1126,1500"/></ImageRegion></Page></PcGts>

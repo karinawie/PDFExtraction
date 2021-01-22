@@ -1,0 +1,781 @@
+QUESTÃO 9
+O levantamento de requisitos é uma etapa fundamental do
+projeto de sistemas. Dependendo da situação encontrada,
+uma ou mais técnicas podem ser utilizadas para a
+elicitação dos requisitos. A respeito dessas técnicas,
+analise as afirmações a seguir.
+|. Workshop de requisitos consiste na realização
+de reuniões estruturadas e delimitadas entre os
+analistas de requisitos do projeto e representantes
+do cliente.
+Cenário consiste na observação das ações do
+funcionário na realização de uma determinada
+tarefa, para verificar os passos necessários para
+sua conclusão.
+. As entrevistas são realizadas com os stakeholders
+e podem ser abertas ou fechadas.
+A prototipagem é uma versão inicial do sistema,
+baseado em requisitos levantados em outros
+sistemas da organização.
+É correto apenas o que se afirma em
+leill.
+lei.
+Nelv.
+LINeilv.
+1, Meilv.
+cCoçgoo
+
+QUESTÃO 10
+Várias técnicas relacionadas à programação
+extrema (XP) são diretamente ligadas ao código,
+incluindo a refatoração, programação em pares e
+integração contínua. A programação em pares é a
+prática preferida dos desenvolvedores XP trabalhando
+em pares em um computador.
+SCOTT, K. O Processo Unificado Explicado. Porto Alegre: Artmed, 2002.
+BECK, K. Programação Extrema (XP) Explicada. Porto Alegre: Artmed, 2000.
+A programação em pares auxilia no desenvolvimento de
+código de melhor qualidade quando os pares
+O elaboram e utilizam padrões de codificação
+conjuntamente, os quais, quando utilizados corretamente
+e apropriadamente, reduzem problemas individuais.
+estão acostumados ao desenvolvimento e à propriedade
+coletiva, limitando-se a fazer pequenas mudanças na
+ocorrência de erros em tempo de execução.
+minimizam os riscos de insucesso no projeto através
+da utilização de ferramentas para a geração automática
+de testes funcionais e protótipos de interface.
+escrevemtestes em separado e discutem os resultados
+posteriormente, o que dá a eles a chance de se
+sintonizarem antes de começarem a implementação.
+trabalham em projetos complexos onde a codificação
+seja desenvolvida de forma conjunta, minimizando erros
+e agregando valor onde quer que o sistema necessite.
+o
+
+QUESTÃO 11
+O conjunto de casos de uso representa as possíveis
+interações que serão representadas nos requisitos do
+sistema. A figura a seguir desenvolve um exemplo de
+biblioteca e mostra outros casos de uso (use-cases) nesse
+ambiente.
+Com relação ao tema, analise as asserções a seguir.
+Afigura também ilustra os pontos essenciais da notação de
+casos de uso. Os agentes no processo são representados
+por bonecos e cada tipo de interação é representada por
+uma elipse com um nome
+PORQUE
+a UML é um padrão para a modelagem orientada a objetos
+e, assim, os casos de uso e a obtenção de requisitos com
+base em casos de uso são cada vez mais utilizados para
+obter requisitos.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 12
+Analise as seguintes afirmações sobre a UML (Linguagem
+de Modelagem Unificada).
+|. AUMLé uma metodologia para o desenvolvimento
+de software orientado a objetos, uma vez que
+fornece um conjunto de representações gráficas
+e sua semântica para a modelagem de software.
+O diagrama de casos de uso procura, por
+meio de uma linguagem simples, demonstrar
+o comportamento externo do sistema. Esse
+diagrama apresenta o sistema sob a perspectiva
+do usuário, e é dentre todos da UML, o mais
+abstrato, flexível e informal.
+Um relacionamento de extensão de um caso de
+uso “A” para um caso de uso “B” significa que
+toda vez que “A” for executado ele incorporará o
+comportamento definido em “B”.
+Os diagramas de comportamento da UML
+demonstram “como ocorrem as trocas de
+mensagens entre os objetos do sistema para se
+atingir um determinado objetivo.
+É correto apenas o que se afirma em
+leill.
+Nelv.
+Weiv.
+Lie.
+1, Meilv.
+MECNONCEU)
+
+QUESTÃO 13
+A linguagem gráfica EPC/ARIS é utilizada para modelar
+processos de negócios. Para isso, utiliza diversos recursos
+para descrever, representar ou indicar, por exemplo,
+atividades, funções, processos e fluxos. Nesse contexto,
+avalie as afirmações a seguir.
+|. A ligação entre dois processos é indicada por um
+conector.
+A descrição de um processo deve iniciar e terminar
+em um evento.
+As funções, ou atividades, são representadas por
+um retângulo com bordas arredondadas.
+É correto apenas o que se afirma em
+LL.
+.
+WI.
+Tell.
+Neil.
+cCoOgGoo
+
+QUESTÃO 14
+O diagrama de atividades é um dos diagramas disponíveis
+na UML (Linguagem de Modelagem Unificada) para a
+modelagem de aspectos dinâmicos de sistemas.
+Com relação ao diagrama de atividades apresentado,
+avalie as afirmações a seguir.
+|. “Aatividade 05 será executada se a atividade 03 ou
+a atividade 04 for concluída.
+A ramificação sequencial existente após a
+atividade 02 significa que, caso o fluxo seja [não],
+é necessário que sejam executadas novamente as
+atividades 01 e 02.
+As atividades 03 e 04 vão ter início ao mesmo
+tempo, entretanto, não significa que terminarão ao
+mesmo tempo.
+Caso o fluxo da ramificação sequencial existente
+após a atividade 02 tenha o fluxo [sim], a atividade
+02 não será mais executada.
+É correto apenas o que afirma em
+leill.
+el.
+Welv.
+LVelv,
+LUNeilv.
+CoOoçGoo
+
+QUESTÃO 17
+Os processos de negócio aumentam o entendimento do “o
+que precisa ser feito” e do “como precisa ser feito” dentro
+de uma organização.
+(BALDAM, R. 2009, ed.2 , p. 25)
+Sabendo disso, a fase da gestão de processos de negócio
+que evita a estagnação dos processos organizacionais é
+O afase de gerenciamento.
+a fase de planejamento .
+a fase de monitoração.
+a fase de modelagem.
+a fase de otimização.
+[MEONORNO)
+
+QUESTÃO 15
+Os mapas de navegação enfocam como as pessoas
+se movimentam por um site ou aplicação. Cada página
+do site ou local da aplicação é representado com uma
+caixa ou cabeçalho e todas as páginas que puderem ser
+acessadas a partir dela devem usá-la como referência.
+Uma técnica bastante utilizada é colocar todos os fluxos
+possíveis no mapa de navegação, já que isso destacará
+seções onde há necessidade de uma revisão no projeto
+da interface.
+BENYON, D. Interação humano-computador. 2.ed. São Paulo: Pearson
+Prentice Hall, 2011.
+Com relação ao tema, analise as asserções a seguir.
+Os mapas de navegação são redesenhados muitas vezes
+no decorrer do ciclo de vida do projeto
+PORQUE
+a interface deve ser projetada para atender pessoas
+(capacidades limitações — motoras,
+cognitivas, etc.), atividades que as pessoas querem
+realizar (questões temporais, com ou sem cooperação,
+se são críticas em termos de segurança ,etc.), contextos
+nos quais a interação acontece (ambiente físico, contexto
+social ou organizacional ,etc.), e ater-se às tecnologias
+empregadas (hardware, plataformas, normas, linguagens
+de programação, políticas de acesso em ambientes de
+trabalho e residencial, etc.). As combinações desses
+elementos são muito diferentes, por exemplo, em um
+quiosque público, em um sistema de agenda compartilhada,
+em uma cabine de avião ou em um telefone celular.
+e neurológicas,
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 16
+Eclipse, Netbeans, Jdeveloper são exemplos de
+ambientes integrados de desenvolvimento, chamados de
+IDE, que têm por objetivo facilitar o desenvolvimento de
+softwares, provendo maior produtividade e gerenciamento
+de projetos. A especificação JavaBeans foi criada para
+ser um padrão de desenvolvimento de componentes que
+possam ser facilmente usados por outros desenvolvedores
+em diferentes IDE.
+Com relação ao tema, analise as asserções a seguir.
+Seja para o Netbeans ou para o Eclipse, é possível adquirir
+componentes de terceiros que facilitem a implementação
+do seu projeto
+PORQUE
+como o código desses componentes está em linguagem
+intermediária, ou seja, independente da arquitetura de um
+computador real, só é necessário que a máquina virtual
+esteja instalada no computador onde o aplicativo será
+executado e a máquina virtual será a responsável pela
+interpretação do código para a linguagem de máquina do
+computador em execução.
+Acerca dessas asserções, assinale a alternativa correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o O o O
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 19
+Com relação ao valor lógico, avalie as afirmações a seguir.
+|. (pia)
+Il. p>(q>p)
+Il. (pvrg)>7p
+IV. (pra)v(7pi=a)
+É tautologia apenas o que se afirma em
+l.
+W.
+lei.
+INeilv.
+IWelv.
+CoçgÇoo
+
+QUESTÃO 21
+O paradigma de programação orientado a objetos tem sido
+largamente utilizado no desenvolvimento de sistemas.
+Considerando o conceito de herança, avalie as afirma-
+ções abaixo.
+|. Herança é uma propriedade que facilita a
+implementação de reuso.
+Quando uma subclasse é criada, essa herda todas
+as características da superclasse, não podendo
+possuir propriedades e métodos próprios.
+. Herança múltipla é uma propriedade na qual uma
+superclasse possui diversas subclasses.
+Extensão é uma das formas de se implementar
+herança.
+É correto apenas o que se afirma em
+o.
+UI
+lelv.
+Neil.
+INeilv.
+A
+[MEORKORO)
+
+QUESTÃO 18
+A Norma ISO/IEC FDIS 14764 (2006) estabelece
+definições de vários tipos de manutenção e fornece um
+guia para gerenciar o processo de manutenção, que pode
+ser aplicado no planejamento, execução e controle, revisão
+e avaliação, e fechamento do processo de manutenção.
+Segundo essa Norma, solicitações de modificação são
+classificadas como corretiva, preventiva, adaptativa ou
+perfectiva. Os detalhes de como implementar ou realizar as
+atividades e tarefas de manutenção não são especificadas
+pela Norma, sendo de responsabilidade do mantenedor.
+ISO/IEC FDIS 14764. Software Engineering — Software Life Cycle Processes -
+Maintenance. 2006.
+Considerando os tipos de manutenção e as atividades de
+implementação do processo, avalie as afirmações a seguir.
+|. O mantenedor deve desenvolver, documentar e
+executar planos e procedimentos para realizar as
+atividades e tarefas do processo de manutenção.
+O mantenedor deve alterar a configuração do
+sistema para corrigir erros identificados pelos
+usuários usando a manutenção perfectiva.
+Ill. O mantenedor deve estabelecer procedimentos
+para receber, registrar e rastrear solicitações de
+modificação/registro de problemas dos usuários,
+e também prover realimentação para os usuários.
+O mantenedor deve documentar a estratégia a ser
+usada para melhorar a manutebilidade futura do
+sistema, usando a manutenção corretiva.
+É correto apenas o que se afirma em
+l.
+.
+lei.
+Ilelv.
+Weilv.
+coçgGoo
+
+QUESTÃO 20
+Padrões de criação (creational patterns) abstraem
+a forma como objetos são criados, tornando o sistema
+independente de como os objetos são criados, compostos
+e representados. Um padrão de criação de classe
+usa a herança para variar a classe que é instanciada,
+enquanto que um padrão de criação de objeto delegará
+a instanciação para outro objeto. Há dois temas
+recorrentes nesses padrões. Primeiro, todos encapsulam
+conhecimento sobre quais classes concretas são usadas
+pelo sistema. Segundo, ocultam o modo como essas
+classes são criadas e montadas. Tudo que o sistema
+sabe no geral sobre os objetos é que suas classes são
+definidas por classes abstratas. Os padrões de criação
+são classificados em Abstract Factory, Builder, Factory
+Methoa, Prototype e Singleton.
+GAMMA, E. et al. Design Patterns: Elements of Reusable Object-Oriented
+Software. Reading, MA: Addison-Wesley, 1994.(adaptado)
+O padrão Abstract Factory é usado quando
+O o sistema deve ser independente da maneira
+como seus produtos são criados, relacionados e
+representados.
+o algoritmo de criação de um objeto deve ser
+independente das suas partes e da maneira como ele
+é montado.
+houver uma única instância de uma classe e esta for
+acessada a partir de um ponto de acesso conhecido.
+classes delegam responsabilidade a alguma das
+subclasses, e deseja-se localizar qual é a subclasse
+acessada.
+as classes utilizadas para instanciação são
+especificadas em tempo de execução ou carregadas
+dinamicamente.
+o
+
+QUESTÃO 22
+Pedro foi contratado como desenvolvedor de software de uma empresa. Em seu primeiro dia de trabalho ele se deparou
+com o DER (Diagrama Entidade-Relacionamento), que representa os dados de um sistema de controle de malotes. Foi
+solicitado a Pedro relatório para o sistema contendo os seguintes dados: o nome de todos os funcionários que enviaram
+os malotes, o código dos malotes enviados, a descrição de seus conteúdos e a situação dos malotes. Para a geração
+do relatório, Pedro tem que fazer uma consulta utilizando o comando SELECT da linguagem SQL.
+Conhecidos o modelo conceitual de dados e os dados necessários para a tarefa de Pedro, o comando SELECT que ele
+deve executar para realizar a consulta e produzir o relatório corretamente é
+O SELECT NOME, CODIGO MALOTE, DESCRICAO, SITUACAO MALOTE FROM MALOTES INNER JOIN CONTEUDOS
+ON (CODIGO CONTEUDO = CODIGO CONTEUDO) INNER JOIN FUNCIONARIOS ON (MATRICULA =
+MATRICULA);
+O SELECT NOME, CODIGO MALOTE, DESCRICAO, SITUACAO MALOTE FROM MALOTES, CONTEUDOS,
+FUNCIONARIOS WHERE (CODIGO CONTEUDO = CODIGO CONTEUDO) AND (MATRICULA = MATRICULA);
+O SELECT NOME, CODIGO MALOTE, DESCRICAO, SITUACAO MALOTE FROM MALOTES INNER JOIN CONTEUDOS
+INNER JOIN FUNCIONARIOS ON(MALOTES.CODIGO CONTEUDO =CONTEUDOS.CODIGO CONTEUDO)
+ON (MALOTES .MATRICULA = FUNCIONARIOS .MATRICULA);
+O SELECT NOME, CODIGO MALOTE, DESCRICAO, SITUACAO MALOTE FROM MALOTES INNER JOIN CONTEUDOS
+ON (MALOTES.CODIGO CONTEUDO = CONTEUDOS.CODIGO CONTEUDO) INNER JOIN FUNCIONARIOS
+ON (MALOTES . MATRICULA = FUNCIONARIOS .MATRICULA);
+O SELECT NOME, CODIGO MALOTE, DESCRICAO, SITUACAO MALOTE FROM MALOTES, CONTEUDOS,
+FUNCIONARIOS INNER JOIN WHERE (MALOTES.CODIGO CONTEUDO = CONTEUDOS .CODIGO CONTEUDO)
+AND (MALOTES.MATRICULA = FUNCIONARIOS .MATRICULA);
+
+o
+
+QUESTÃO 23
+Considere o diagrama de entidades e relacionamentos
+a seguir, onde as chaves primárias de cada entidade se
+encontram na parte superior dos retângulos. As entidades
+fortes são representadas por retângulos e as entidades fracas
+são representadas por retângulos com cantos arredondados.
+O diagrama atende as seguintes restrições:
+(i) entre Ent1 e Ent2, tem-se um relacionamento
+muitos para muitos;
+(ii) entre as Entidades Ent2 e Ent3, tem-se um
+relacionamento de um para nenhum, um ou muitos;
+(ili) entre Ent1 e Ent5, tem-se um relacionamento de
+zero ou um para zero, um ou muitos; e
+(iv) entre Ent3ô e Ent4, tem-se um relacionamento de
+muitos para muitos.
+Aplicando a terceira forma normal ao modelo, qual será o
+total de colunas que deve ser criado para representar as
+chaves estrangeiras?
+Cor eo
+e o NOo
+
+QUESTÃO 24
+No que diz respeito aos baselines (linhas base) da
+gerência de configuração, avalie as seguintes afirmações.
+|. As baselines representam conjuntos de itens de
+configuração formalmente aprovados que servem de
+base para as etapas seguintes de desenvolvimento.
+As baselines são definidas e podem ocorrer
+ao final de cada uma das fases do processo de
+desenvolvimento de software, ou de algum outro
+modo definido pela gerência.
+Ill. Um item de configuração de software “baselined'
+pode ser alterado a qualquer momento durante o
+desenvolvimento de software independentemente
+de um procedimento formal.
+Ao término de uma etapa do desenvolvimento, e
+após sua aceitação formal, a baseline na qual a
+etapa se baseou pode ser descartada pois já se
+encontra representada nos artefatos gerados.
+Uma das funções da tarefa “Identificação da
+Configuração”, envolve a definição de uma
+nomenclatura que possibilite a identificação
+inequívoca dos itens de configuração, baselines
+e releases.
+É correto apenas o que se afirma em
+Mev
+Weiv.
+Lie,
+LIVelv,
+Lev
+CoOGoos
+
+QUESTÃO 25
+Em projetos de desenvolvimento de software, vários tipos de
+testes podem ser empregados para garantia da qualidade
+do produto. Um dos tipos comumente empregados é o
+teste de regressão, o qual tem como objetivo
+o
+identificar defeitos através da verificação do
+código-fonte.
+o
+identificar defeitos através da execução do sistema ou
+parte dele.
+O identificar defeitos no sistema em situação de
+sobrecarga.
+O verificar a existência de defeitos após alterações em
+um sistema (ou parte dele) já testado.
+OQ verificar a existência de defeitos em um sistema ou
+parte dele.
+
+QUESTÃO 27
+Modelos de ciclo de vida de processo de software são
+descrições abstratas do processo de desenvolvimento,
+mostrando as principais atividades e informações usadas
+na produção e manutenção de software, bem como a
+ordem em que as atividades devem ser executadas.
+Com relação aos modelos de ciclo de vida de processo de
+software, analise as seguintes asserções.
+O modelo de desenvolvimento em cascata acrescenta
+aspectos gerenciais (planejamento, controle e tomada de
+decisão) ao processo de desenvolvimento de software
+PORQUE
+considera que o processo é composto por várias etapas
+que são executadas de forma sistemática e sequencial.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 28 ITEM 2489
+A virtualização permite que um único computador
+hospede múltiplas máquinas virtuais, cada uma com seu
+próprio sistema operacional. Essa técnica tem ganhado
+importância nos dias atuais e vem sendo utilizada para
+resolver diversos tipos de problemas.
+Considerando os diversos aspectos a serem considerados
+na utilização da virtualização, avalie as afirmações abaixo.
+|. Um sistema operacional sendo executado em uma
+máquina virtual utiliza um subconjunto da memória
+disponível na máquina real.
+Il. Uma das aplicações da virtualização é a
+disponibilização de múltiplos sistemas operacionais
+para teste de software.
+Ill. A virtualização só pode ser utilizada em sistemas
+operacionais Linux.
+IV. Um sistema operacional executado em uma
+máquina virtual! apresenta um desempenho
+superior ao que alcançaria quando executado
+diretamente na mesma máquina real.
+É correto apenas o que se afirma em
+l.
+WI.
+lell.
+Ieilv.
+Welv.
+cogGoos
+
+QUESTÃO 26
+Um engenheiro de software planejou o desenvolvimento
+de um novo projeto, com prazo máximo de 220 dias, em
+seis fases: comunicação, planejamento, modelagem,
+construção, documentação e implantação. As fases seriam
+realizadas na sequência em que foram listadas. Exceção
+foi feita para as fases de construção e a documentação,
+que poderiam ocorrer em paralelo. Entretanto, a fase de
+implantação só poderia ocorrer se tanto construção quanto
+documentação estivessem encerradas.
+A tabela a seguir apresenta a duração de cada fase do
+plano de desenvolvimento proposto.
+Considerando o uso do Método do Caminho Crítico, e que
+o projeto tem prazo máximo de 220 dias, com início no dia 1,
+avalie as seguintes afirmações.
+|. Adata mínima para o início da fase de implantação
+é o dia 191.
+Il. O projeto possui um caminho crítico, que é 1-2-3-5-6.
+Ill. Afolga livre da atividade documentação é de 60 dias.
+É correto apenas o que se afirma em:
+o.
+lell.
+lei.
+Neil.
+Lie,
+
+QUESTÃO 32
+O MPS.BR (Melhoria de Processos do Software Brasileiro)
+é, ao mesmo tempo, um movimento para melhoria da
+qualidade e um modelo de qualidade de processo.
+Guia MPS.BR (SOFTEX)
+Com relação às suas características, o MPS.BR
+possui 5 níveis de maturidade.
+possui representação contínua e por estágios.
+está em conformidade com as normas ISO/IEC 12207
+e 15504.
+considera 3 dimensões: pessoas, ferramentas e
+procedimentos.
+divide-se em 3 modelos: desenvolvimento, aquisição
+e serviços.
+o oO Doo
+
+QUESTÃO 31
+Em um determinado momento, uma rede recebe uma
+quantidade de requisições de operações, vindas de
+números |Ps distintos, muito acima das condições
+operacionais previstas para os seus recursos e “trava”, isto
+é, OS seus serviços são interrompidos. Muitas empresas
+e entidades governamentais sofrem esse tipo de ataque
+hacker. Para realizá-lo, um atacante precisa distribuir
+um código, em vários computadores, normalmente sem
+o consentimento dos destinatários, que se tornam seus
+“zumbis”. Em um momento, o atacante ativa os “zumbis”
+que fazem muitos acessos a um determinado alvo,
+acabando por esgotar seus recursos e derrubando o
+sistema de informações.
+A respeito desse analise as
+afirmações abaixo.
+tipo de ataque,
+|. É um ataque de negação de serviço distribuído
+(Distributed Denial Of Service).
+ll. É um ataque que ameaça o atributo da
+disponibilidade do sistema.
+Ill. É um ataque em que os zumbis roubam as senhas
+dos usuários, para poder enviar requisições.
+IV. É um ataque não detectável por sistemas de antivírus.
+Está correto apenas o que se afirma em
+l.
+.
+lell.
+Ieilv.
+Welv.
+CoOGoo
+
+QUESTÃO 29
+A pilha é uma estrutura de dados que permite a inserção/
+remoção de itens dinamicamente seguindo a norma de
+último a entrar, primeiro a sair. Suponha que para uma
+estrutura de dados, tipo pilha, são definidos os comandos:
+* — PUSH(p,n): Empilha um número “hn” em uma estrutura
+de dados do tipo pilha “p”;
+* — POP (p): Desempilha o elemento no topo da pilha.
+Considere que, em uma estrutura de dados tipo pilha “p”,
+inicialmente vazia, sejam executados os seguintes comandos:
+PUSH (p, 10)
+PUSH (p, 5)
+PUSH (p, 3)
+PUSH (p, 40)
+POP (p)
+Após a execução dos comandos, o elemento no topo da
+pilha “p” e a soma dos elementos armazenados na pilha
+p” são, respectivamente,
+O 11e29.
+O 11e8o.
+O 4e 80.
+O 7e29.
+O 7e40.
+
+QUESTÃO 30
+As revisões técnicas formais são um meio efetivo de
+melhorar a qualidade do software. Com relação a esse
+tipo de revisão, analise as seguintes asserções.
+Nas revisões, os produtos de trabalho de um indivíduo ou
+equipe são revisados por técnicos ou gerentes
+PORQUE
+as revisões fornecem informações sobre defeitos,
+aumentando e permitindo o controle da qualidade do
+produto final.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o o 6ooc
+
+QUESTÃO 33
+Métricas de confiabilidade de software dizem respeito à probabilidade de um componente de software produzir uma
+saída incorreta. Originalmente as métricas de confiabilidade foram criadas para componentes de hardware, consistindo
+em desgaste mecânico, aquecimento elétrico e fatores físicos relacionados aos componentes. Não há desgaste em
+componentes de software, que podem, inclusive, continuar operando mesmo após a produção de um resultado incorreto.
+Observe os quadros a seguir, a fim de identificar algumas métricas de confiabilidade e disponibilidade de um dado
+sistema SIST.
+Em que S indica que SIST estava disponível no instante de tempo (InstX) de número X e
+N indica que o SIST não estava disponível no instante de tempo (InstX) de número X.
+Em que F indica que SIST falhou quando se fez a ele a solicitação (SoliX) de número X e
+N indica que o SIST não falhou quando se fez a ele a solicitação (SoliX) de número X.
+O valor indica o instante, em uma dada unidade de tempo, em que ocorreu a falha (FalX) de número X.
+Assinale a alternativa que corresponde, respectivamente, aos valores das métricas disponibilidade (em porcentagem),
+taxa de ocorrência de falha (em porcentagem) e tempo médio entre falhas (em unidade de tempo).
+40; 30; 27,7.
+60; 30; 27,7.
+60; 70; 4.
+40; 30; 4.
+40; 70; 4.
+CoOoçÇoo
+
+QUESTÃO 34
+O plano de negócios é um documento usado para
+descrever um empreendimento e o modelo de negócios
+que sustentam a empresa. Sua elaboração envolve
+um processo de aprendizagem e autoconhecimento
+e ainda permite ao empreendedor situar-se no seu
+ambiente de negócios.
+DORNELAS, J. C. A. Empreendedorismo: transformando ideias em negócios.
+Rio de Janeiro: Campus, 2001, p. 97
+A respeito do plano de negócios, avalie as seguintes
+asserções.
+O plano de negócios é importante para gerenciar de forma
+mais eficaz a empresa e tomar decisões acertadas e
+identificar oportunidades e transformá-las em diferencial
+competitivo para a empresa
+PORQUE
+permite estabelecer comunicação interna eficaz na
+empresa e convencer o público-alvo externo: fornecedores,
+parceiros, clientes, bancos, investidores, etc. sobre os
+benefícios e os custos do negócio.
+Acerca dessas asserções, assinale a opção correta
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O As duas asserções são proposições falsas.
+
+QUESTÃO 35
+A programação orientada a objeto não é apenas uma
+forma de programar, é também um jeito de pensar em
+um problema utilizando conceitos do mundo real e, não
+somente conceitos computacionais.
+Considerando os conceitos da programação orientada a
+objetos, analise as afirmações abaixo.
+|. O objeto tem determinadas propriedades que
+O caracterizam e que são armazenadas no
+próprio objeto. As propriedades de um objeto são
+chamadas de instâncias.
+Il. As mensagens são informações enviadas ao objeto
+paraque ele se comporte de uma determinada maneira.
+Um programa orientado a objetos em execução
+consiste em envios, interpretações e respostas às
+mensagens. São os métodos, os procedimentos
+residentes nos objetos, que determinam como eles
+irão atuar ao receber as mensagens.
+Il. A herança é um mecanismo para oO
+compartilhamento de métodos e atributos entre
+classes e subclasses, permitindo a criação de
+novas classes através da programação das
+diferenças entre a nova classe e a classe-pai.
+IV. O encapsulamento é um mecanismo que permite
+O acesso aos dados de um objeto somente através
+dos métodos desse. Nenhuma outra parte do
+programa pode operar sobre os dados do objeto.
+A comunicação entre os objetos é feita apenas
+através de troca de mensagens.
+É correto apenas o que afirma em
+leill.
+lei.
+Weliv.
+LIVelv
+IM eilv
+cGoOogGoo
+
+QUESTÃO DISCURSIVA 3
+Um jogo consiste de dois dados, cada um deles com 6 faces. As faces dos
+dados são numeradas de 1 até 6. Para ganhar uma partida, o jogador deverá
+fazer 3 lançamentos de dados, vencendo ao menos 2 deles. O jogador vence um
+lançamento se a soma dos dados for igual a 7 ou 11. Para iniciar um novo jogo,
+deve-se pressionar o botão “JOGAR”. Quando pressionado, ele imediatamente
+fica desabilitado e os dois dados aparecem girando na frente do jogador. Ao
+se pressionar o botão “LANÇAR”, os dados começam a girar mais lentamente
+até parar, mostrando os valores das suas faces em um sistema tridimensional.
+Nesse momento, encerra-se o lançamento e aparece “VENCEU” ou “PERDEU”
+na tela da aplicação, juntamente com um sinal sonoro de alerta e a quantidade
+de lançamentos restantes. Somente quando o jogador pressiona novamente
+o botão “LANÇAR” é que se inicia novo lançamento de dados. A qualquer
+momento, o jogador poderá encerrar o jogo: pressionando o botão “PARAR”.
+Tal ação reabilita o botão “JOGAR”.
+(LARMAN, C. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design
+and Iterative Development. Prentice Hall, 3.ed, 2004. (com adaptações)
+Considerando a caracterização do jogo de dados, elabore os seguintes artefatos da análise de requisitos.
+a) Desenhe um diagrama de classes de domínio (UML) para o problema apresentado. (valor: 6,0 pontos)
+b) Liste três requisitos funcionais referentes ao comportamento funcional essencial do jogo. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Considerando a execução do algoritmo abaixo, responda ao que se pede nos itens a e b.
+01 algoritmo Vetores
+02 variaveis
+o3 vetA[1..10], vetB[1..10], i: inteiro
+04 inicio
+o5 para i <- 1 ate 10 passo 1 faca
+o6 vetB[i] <- O
+o7 se resto(i,2) = O entao
+o8 vetA[i] <- i
+o9 senão
+10 vetA[i] <- 2*i
+111 fimse
+12 fimpara
+13 para i <- 1 ate 10 passo 1 faca
+14 enquanto(vetA[i] > i)
+15 vetB[i] <- vetA|[i]
+16 vetA[i] <- vetA[i] — 1
+17 fimenquanto
+18 fimpara
+19 fimalgoritmo
+a) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 12. (valor: 5,0 pontos)
+b) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 19. (valor: 5,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Jogos de tabuleiro são atividades comuns de entretenimento na vida cotidiana das
+pessoas. Uma de suas características é a necessidade do uso de um tabuleiro
+com localizações bem definidas para o posicionamento de peças, podendo indicar
+também as fases do jogo. No livro O Homem que Calculava, de Malba Tahan
+(São Paulo: Record, 2002, p. 120), há uma história na qual um rei deveria efetuar
+o pagamento pelos serviços de um de seus conselheiros, dando-lhe uma certa
+quantidade de grãos de trigo a ser calculada da seguinte forma: coloca-se 1 grão
+de trigo na primeira casa do tabuleiro, 2 na segunda casa, 4 na terceira casa, 8 na
+quarta casa e assim dobrando-se sucessivamente até a última casa.
+Considerando o tabuleiro 4 x 4 ilustrado acima, contendo a indicação da ordem das casas, construa um único algoritmo que:
+a) calcule, armazene em uma estrutura e escreva em ordem a quantidade de grãos de trigo em cada casa do tabuleiro;
+(valor: 8,0 pontos)
+b) calcule, armazene em uma variável e escreva a quantidade total de grãos de trigo presentes no tabuleiro.
+(valor: 2,0 pontos)
+

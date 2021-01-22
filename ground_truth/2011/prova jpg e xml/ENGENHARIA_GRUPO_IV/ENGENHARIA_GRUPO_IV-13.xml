@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:09:58</Created>
+	<LastChange>2020-10-30T01:34:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-13.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r2">
+	<Coords points="75,458 75,1118 787,1117 787,457"/></ImageRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="806,197 807,2097 810,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="841,1216 1015,1216 1015,1279 1535,1279 1535,1280 1536,1280 1536,1470 1535,1470 1535,1743 1279,1743 1279,1785 956,1785 956,1993 849,1993 849,1995 826,1995 826,1754 874,1754 874,1470 825,1470 825,1279 841,1279"/>
+	<TextEquiv conf="0.96373">
+	<Unicode>QUESTÃO 19
+No dimensionamento de equipamentos de absorção,
+em que uma mistura gasosa é posta em contato com
+um líquido, frequentemente admite-se que o líquido
+se comporte como uma solução ideal. Considerando
+as propriedades dos líquidos ideais, analise as
+afirmações abaixo.
+|. A pressão de vapor total da solução é constante.
+Il. O volume da solução varia linearmente com a
+composição.
+Il. A lei de Raoult descreve adequadamente o
+equilíbrio entre um líquido ideal e um gás.
+IV. As forças médias de atração e repulsão no líquido
+não se alteram com a composição.
+É correto apenas o que se afirma em
+l.
+W.
+lei.
+Nelv.
+Weiv.
+cGoOgGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,192 270,192 270,256 790,256 790,1400 195,1400 195,1626 104,1626 104,1628 81,1628 81,1401 80,1401 80,425 79,425 79,256 96,256"/>
+	<TextEquiv conf="0.96144">
+	<Unicode>QUESTÃO 17
+Após uma aula de transferência de calor, um estudante de
+engenharia, cansado de passar frio em seu apartamento,
+decidiu que iria cobrir todas as paredes internas com uma
+camada grossa de papel de parede. Para isso, avaliou os
+dados da figura a seguir
+Considerando os valores de condutividade térmica
+indicados na figura, assim como as espessuras da parede
+e do papel e os coeficientes estimados de convecção para
+os ambientes interno e externo, seria correto o estudante
+chegar à conclusão de que o valor da razão (fluxo de
+calor sem o papel)/(fluxo de calor com o papel) estaria no
+intervalo de
+1a2.
+2a3.
+3a.
+4a.
+5ab.
+cCoOoçgoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="826,626 826,1194 1528,1194 1528,626"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,192 1015,192 1015,255 1536,255 1536,464 1535,464 1535,592 825,592 825,255 841,255"/>
+	<TextEquiv conf="0.96564">
+	<Unicode>QUESTÃO 18
+Na modelagem de um reator tubular, deve-se considerar
+os termos de acúmulo, de transporte por convecção e por
+difusão, além da taxa de reação. Considere uma reação
+de primeira ordem, em que A forma B e que o fluxo difusivo
+do componente A é dado por
+OCA
+Da mistura ="
+Oz
+Na
+Nessa situação, a equação diferencial parcial que
+descreve adequadamente o balanço do componente A é</Unicode></TextEquiv></TextRegion></Page></PcGts>

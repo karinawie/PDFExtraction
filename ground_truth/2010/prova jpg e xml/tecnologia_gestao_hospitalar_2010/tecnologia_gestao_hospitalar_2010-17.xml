@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T17:46:21</Created>
+	<LastChange>2020-11-16T15:20:50</LastChange></Metadata>
+	<Page imageFilename="tecnologia_gestao_hospitalar_2010-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="535,469 534,786 1100,786 1101,469"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="100,254 1555,254 1555,312 1553,312 1553,441 867,441 867,870 1553,870 1553,1020 163,1020 163,930 162,930 162,840 99,840 99,347 100,347"/>
+	<TextEquiv conf="0.86018">
+	<Unicode>QUESTÃO 38
+O quadro a seguir representa uma avaliação de três projetos em relação a sua previsão e realização. A coluna “previsto”
+refere-se ao orçamento alocado, e a coluna “realizado” pode ser analisada como os custos previstos versus gastos, ou
+produto/serviço entregue, a partir da realização do projeto.
+Considerando as informações acima, resolva os itens a seguir.
+a) Compare o previsto com o realizado nos três projetos, sob as óticas de custos/gastos e de produto/serviço
+entregue; (valor: 6,0 pontos)
+b) Indique o melhor projeto do ponto de vista de custos e o melhor projeto do ponto de vista produto/serviço
+entregue, justificando sua resposta. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

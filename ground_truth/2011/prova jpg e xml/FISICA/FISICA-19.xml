@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:59:41</Created>
+	<LastChange>2020-10-30T11:31:39</LastChange></Metadata>
+	<Page imageFilename="FISICA-19.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="321,331 321,836 1318,836 1318,331"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="96,192 430,192 430,242 1534,242 1534,927 1533,927 1533,1068 1200,1068 1200,1266 92,1266 92,1068 80,1068 80,243 81,243 81,242 96,242"/>
+	<TextEquiv conf="0.96509">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Em um ensaio de resposta em frequência de uma suspensão veicular, foi realizada uma varredura em frequência,
+tendo sido o sistema excitado com uma força do tipo F = F,.cos(wt). Para cada frequência com que se excitou a
+estrutura, mediu-se o deslocamento x(w), resultando no gráfico de resposta de frequência mostrado a seguir.
+Modelando a suspensão como um sistema massa-mola de um grau de liberdade, a equação matemática para a resposta
+em frequência é
+1
+(kh — mo?) + (co
+em que k, ce m são os parâmetros que caracterizam a estrutura: constante elástica, amortecimento e massa,
+respectivamente. Com base no gráfico e na equação da resposta em frequência, faça o que se pede nos itens a seguir.
+a) Encontre o valor da frequência de ressonância da estrutura (w,). (valor: 2,5 pontos)
+b) Calcule o valor da constante elástica (k). (valor: 2,5 pontos)
+c) Calcule o valor do amortecimento (c).(valor: 2,5 pontos)
+d) Calcule o valor da massa (m). (valor: 2,5 pontos)
+RASCUNHO
+|H(09)| =</Unicode></TextEquiv></TextRegion></Page></PcGts>

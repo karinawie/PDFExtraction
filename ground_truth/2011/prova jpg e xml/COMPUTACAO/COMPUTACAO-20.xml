@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:02</Created>
+	<LastChange>2020-11-16T04:05:29</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-20.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="238,277 1379,277 1379,473 1093,473 1093,649 1298,649 1298,675 1297,675 1297,923 1535,923 1535,1119 465,1119 465,1176 82,1176 82,1177 81,1177 81,1119 80,1119 80,923 267,923 267,604 238,604 238,473 237,473 237,278 238,278"/>
+	<TextEquiv conf="0.96406">
+	<Unicode>QUESTÃO DISCURSIVA 5
+As memórias cache são usadas para diminuir o tempo de acesso à memória principal,
+mantendo cópias de seus dados. Uma função de mapeamento é usada para determinar
+em que parte da memória cache um dado da memória principal será mapeado. Em certos
+casos, é necessário usar um algoritmo de substituição para determinar qual parte da cache
+será substituída.
+Suponha uma arquitetura hipotética com as seguintes características:
+* —“Amemóriaprincipal possui 4 Gbytes, em que cada byte é diretamente endereçável
+com um endereço 32 bits.
+* —Amemória cache possui 512 Kbytes, organizados em 128 K linhas de 4 bytes.
+* —Os dados são transferidos entre as duas memórias em blocos de 4 bytes.
+Considerando os mapeamentos direto, totalmente associativo e associativo por conjuntos (em 4 vias), redija um
+texto que contemple as organizações dessas memórias, demonstrando como são calculados os endereços das
+palavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens
+e desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada
+uma delas. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

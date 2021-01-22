@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:48:19</Created>
+	<LastChange>2020-10-30T20:17:01</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-17.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 806,2008 808,2008 809,197"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,192 1015,192 1015,257 1536,257 1536,575 1534,575 1534,855 1535,855 1535,1466 873,1466 873,1425 826,1425 826,1041 824,1041 824,1016 825,1016 825,777 824,777 824,715 825,715 825,257 841,257"/>
+	<TextEquiv conf="0.96622">
+	<Unicode>QUESTÃO 28
+Historicamente, uma Ethernet foi inicialmente
+concebida como um segmento de um cabo coaxial em
+que um único canal de transmissão era compartilhado por
+todas as estações de trabalho da rede local. A tecnologia
+Ethernet passou por uma série de evoluções ao longo dos
+anos e, na maioria das instalações atuais, as estações
+de trabalho são conectadas a um comutador (switch)
+utilizando uma topologia física estrela.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma
+Abordagem Top-Down. 5. ed. São Paulo: Addison Wesley, 2010.
+Considerando a utilização do protocolo CSMA/CD em
+comutadores Ethernet, analise as seguintes asserções.
+A utilização do protocolo CSMA/CD não é necessária em
+comutadores Ethernet transmitindo em modo full-duplex.
+PORQUE
+Os comutadores, operando em modo full-duplex, mantêm
+canais de comunicação distintos para envio (TX) e
+recebimento (RX) de dados, além de não encaminhar mais
+do que um quadro por vez para a mesma interface (porta).
+Acerca dessas asserções, assinale a opção correta
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o O o O
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,265 791,265 791,780 790,780 790,1194 793,1194 793,1353 790,1353 790,1662 791,1662 791,1732 226,1732 226,1986 242,1986 242,2010 130,2010 130,2009 81,2009 81,1732 80,1732 80,1662 174,1662 174,1520 175,1520 175,1400 129,1400 129,1380 155,1380 155,1375 175,1375 175,939 129,939 129,885 79,885 79,815 80,815 80,265 96,265"/>
+	<TextEquiv conf="0.96442">
+	<Unicode>QUESTÃO 27
+Uma escola de informática, prestes a ser inaugurada,
+construiu dois laboratórios, cada um com capacidade para
+20 estações de trabalho. Também foi contratado um enlace
+de Internet de 10 Mbps, que será compartilhado entre
+todas as 40 estações e adquirido um servidor de arquivos,
+com duas interfaces de rede Gigabit Ethernet, para que
+os estudantes possam acessar materiais disponibilizados
+pelos professores. Para interligar todas as estações de
+trabalho, um vendedor especificou um comutador (switch)
+Ethernet camada 2, compatível com as tecnologias IEEE
+802.1Q (VLAN) e IEEE 802.1ad (Link Aggregation), de 50
+portas, sendo 48 Fast Ethernet e 2 Gigabit Ethernet.
+Avalie as seguintes explicações do vendedor em relação
+ao equipamento especificado.
+|. Para aumentar a vazão (throughtput) entre o
+servidor de arquivos da escola e as estações
+de trabalho, é possível conectar as duas portas
+Gigabit Ethernet do switch às duas interfaces de
+rede do servidor de arquivos utilizando a tecnologia
+Link Aggregation.
+Para que os computadores possam navegar
+mais rápido na Internet, uma das portas Gigabit
+do switch pode ser conectada ao roteador, que
+interliga a rede da escola e a Internet.
+Ill. É possível que os hosts de um laboratório possam
+conectar-se aos hosts do outro, mesmo que eles
+pertençam a redes IP e VLANs distintas.
+Os domínios de colisão dos dois laboratórios
+podem ser isolados, pois é possível definir duas
+VLANs distintas no mesmo switch.
+Considerando o cenário apresentado e o switch
+especificado, é correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion></Page></PcGts>

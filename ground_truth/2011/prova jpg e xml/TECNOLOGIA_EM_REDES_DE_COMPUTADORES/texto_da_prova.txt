@@ -1,0 +1,857 @@
+QUESTÃO 12
+A arquitetura do padrão IEEE 802.11 (WiFi) é constituída
+fundamentalmente pelo conjunto básico de serviço (Basic
+Service Set — BSS). Um BSS contém uma ou mais
+estações sem fio e uma estação base, conhecida como
+Access Point (AP). Ao instalar um AP, um administrador
+de rede designa ao AP um Identificador de Conjunto de
+Serviços (Service Set Identifier — SSID). Cada estação
+sem fio precisa se associar com um AP antes de poder
+enviar e receber quadros IEEE 802.11.
+Suponha que um determinado restaurante no centro de
+uma cidade é atendido por dois provedores de acesso à
+Internet (Internet Service Provider - ISP) que trabalham
+no padrão 802.11b. Cada ISP opera seu próprio AP em
+sub-redes com endereços de Internet (Internet Protocol —
+IP) diferentes. Por desconhecimento, cada ISP considerou
+que a área do restaurante pertence a um de seus BSS e
+configurou seu respectivo AP para operar no mesmo canal
+(canal 3) na área do restaurante. Para que uma estação
+sem fio na área do restaurante utilize o canal 3 para
+transmitir e receber dados sem a ocorrência de colisões,
+ela deve
+o
+associar-se aos dois SSID simultaneamente.
+associar-se a mais de um AP na mesma BSS.
+comunicar-se simultaneamente com outra estação
+sem a necessidade de associação.
+associar-se a um SSID qualquer, desde que não haja
+outra estação sem fio transmitindo simultaneamente
+no canal 3.
+comunicar-se simultaneamente com outra estação,
+desde que cada estação se associe a um AP, ou seja,
+a SSID diferentes.
+o
+o
+o
+
+QUESTÃO 11
+Um administrador de redes de computadores
+implementou uma solução para a utilização do IPv6
+em sua rede corporativa. A solução desenvolvida pelo
+administrador permitiu a transmissão de pacotes IPv6
+através da infraestrutura IPv4 já existente, encapsulando
+o conteúdo do pacote IPv6 em um pacote IPv4.
+Qual é a técnica de coexistência e transição do IPv6 para
+IPv4 que o administrador de rede utilizou?
+Técnica de pilha dupla.
+Técnica de roteamento.
+Técnica de tradução.
+Técnica de store-and-forward.
+Técnica de tunelamento.
+
+QUESTÃO 10
+O padrão IEEE 802.16, também conhecido como WiMAX,
+devido ao fórum dos fabricantes, é uma tecnologia para
+transmissão sem fio em redes locais que provê qualidade
+de serviço em suas transmissões.
+PORQUE
+O padrão IEEE 802.16 possui técnicas adaptativas de
+modulação e codificação, além de ser uma tecnologia
+orientada à conexão.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 9
+O termo VPN (Virtual Private Networks) advém da
+utilização da estrutura e desempenho da Internet para
+interligação de dois pontos remotos sem a necessidade de
+utilização de um /ink dedicado por meio de um tunelamento
+seguro. VPNs resolvem dois problemas: o da segurança,
+uma vez que todos os pacotes enviados via VPN são
+criptografados e o do endereçamento e roteamento IP, já
+que, se utilizássemos a Internet para conectar dois pontos,
+não teríamos controle dos roteadores que se encontram
+no caminho. Entre exemplos de protocolos utilizados em
+VPNs, estão
+O PPTP e L2TP para estabelecer o túnel, tendo o último
+a possibilidade de utilizar certificados digitais na
+autenticação.
+O RIP e OSPF para estabelecer o túnel, tendo o último
+a possibilidade de utilizar certificados digitais na
+autenticação.
+HSDPA e UTMS para estabelecer o túnel, sem suporte
+a certificados digitais.
+PPP e DLC para estabelecer o túnel, sem suporte a
+certificados digitais.
+HDLC e IS-IS para estabelecer o túnel, sem suporte a
+certificados digitais.
+o
+
+QUESTÃO 15
+A técnica de multiplexação surgiu a partir da necessidade
+de compartilhamento do meio físico nas redes de
+telecomunicações. Os esquemas de multiplexação podem
+ser divididos em duas categorias básicas: a multiplexação
+por divisão de tempo e a multiplexação por divisão
+de frequência. Com relação a esse tema, analise as
+asserções que se seguem e a relação proposta entre elas.
+A multiplexação por divisão de tempo tornou-se a mais
+difundida nos últimos anos.
+PORQUE
+Como a multiplexação por divisão de tempo é baseada
+no compartilhamento do meio físico no domínio do tempo,
+ela pode ser utilizada tanto por dados digitais como por
+dados analógicos.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira como a segunda asserção são
+proposições falsas.
+
+QUESTÃO 14
+A arquitetura de Serviços Diferenciados (Diffser) é
+composta por elementos funcionais implementados
+nos nós da rede, incluindo opções de comportamento
+de encaminhamento por nó (perhop forwarding
+behaviors — PHB), funções de classificação e funções de
+condicionamento de tráfego. Há várias propostas para
+tipos de PHB para a arquitetura de Serviços Diferenciados.
+Porém, há basicamente dois tipos normatizados:
+Encaminhamento Expresso (Expedited Forwarding — EF)
+e Encaminhamento Assegurado (Assured Forwarding —
+AF). Além desses dois, há o PHB BE (Best-Effort) para o
+comportamento de encaminhamento de tráfego de melhor
+esforço da Internet.
+Considerando a utilização para o serviço de voz e para o
+serviço de World Wide Web - WWW, os respectivos PHB
+indicados são
+AF e BE.
+AF e EF.
+BE e AF.
+EF e BE.
+EF e AF.
+cooçooo
+
+QUESTÃO 13
+No nível mais amplo, podem-se distinguir mecanismos
+de controle de congestionamento conforme a camada de
+rede ofereça ou não assistência explícita à camada de
+transporte com finalidade de controle de congestionamento.
+KUROSE, J. F. Redes de computadores e a internet. 5 ed.
+São Paulo: Addison Wesley, 2010, p. 201.
+Arespeito desse tema, avalie as asserções que se seguem
+e a relação proposta entre elas.
+O protocolo de controle de transmissão (TCP) deve
+necessariamente adotar o método não assistido, no
+qual a camada de rede não fornece nenhum suporte
+explícito à camada de transporte com a finalidade de
+controle de congestionamento.
+PORQUE
+A camada de rede /nternet Protocol (IP) não fornece
+realimentação de informações aos sistemas finais quanto
+ao congestionamento da rede.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 16
+O diretor de uma empresa do ramo de construção civil designou à sua equipe de gestão de redes a elaboração do projeto
+de uma rede de computadores para uma nova filial que será aberta em breve. Na estrutura da filial, há um escritório
+central onde se localizam a Engenharia, o Departamento de Compras e o Departamento de Planejamento. O escritório
+central comunica-se com as obras por meio da Internet. O diagrama abaixo apresenta a solução proposta. Sabendo-se
+que os equipamentos disponíveis no almoxarifado são Hubs, Roteadores, Repetidores e Pontes, complete o diagrama
+abaixo colocando o equipamento adequado para cada posição, considerando os equipamentos: Equipamento 1,
+Equipamento 2, Equipamento 3 e Equipamento 4, respectivamente.
+PC PC
+Departamento de Planejamento
+Ponte, Hub, Hub e Hub
+Hub, Roteador, Hub e Hub
+Hub, Hub, Roteador e Hub
+Hub, Repetidor, Hub e Hub
+cGOgÇGoeo
+Hub, Hub, Ponte e Repetidor
+
+QUESTÃO 18
+O cabo par trançado é um meio de transmissão formado por
+dois fios de cobre entrelaçados em forma de trança, com o
+objetivo de evitar a interferência magnética entre eles.
+Esse tipo de cabo é muito utilizado hoje em equipamentos
+para a Internet, devido principalmente ao seu baixo custo e
+ao baixo custo de manutenção da rede, se comparado
+com outros meios de transmissão.
+Existem três tipos de cabos par trançado: UTP (Unshielded
+Twisted Pair), STP (Shield Twisted Pair) e ScTP (Screened
+Twisted Pair).
+Considerando a padronização do par trançado tipo UTP
+pelas normas da EIA/TIA-568-B, avalie as afirmações que
+se seguem.
+|. O cabo UTP categoria 1 é recomendado pelas
+normas da EIA/TIA-568-B.
+Il. O cabo UTP categoria 3 é recomendado pelas
+normas da EIA/TIA-568-B.
+Ill. O cabo UTP categoria 4 é recomendado pelas
+normas da EIA/TIA-568-B.
+IV. O cabo UTP categoria Se. é recomendado pelas
+normas da EIA/TIA-568-B.
+É correto apenas o que se afirma em
+o.
+o.
+O lei.
+O llelv.
+O lNelv.
+
+QUESTÃO 17
+No projeto da camada de rede, os algoritmos de roteamento
+são responsáveis pela decisão sobre qual interface de
+saída deve ser utilizada no encaminhamento de pacotes.
+Esses algoritmos são divididos em estáticos e dinâmicos.
+Em geral, os algoritmos de roteamento dinâmico são
+preferidos, pois computadores respondem a falhas mais
+rapidamente que humanos e são menos propensos a
+erros. A figura abaixo apresenta dois sistemas autônomos
+interligados por roteadores da Internet. Além disso, cada
+sistema autônomo é responsável pela definição de rotas e
+configuração de seus roteadores.
+Em relação aos algoritmos de roteamento dinâmico RIP
+(Routing Information Protoco/), OSPF (Open Shortest
+Path First) e BGP (Border Gateway Protocol) em sistemas
+autônomos (SA), analise as afirmações que se seguem.
+|. Um roteamento entre o SA 1 e o SA 2 utiliza dois
+algoritmos diferentes: RIP nos roteadores internos
+do SA e BGP entre os SAs.
+Il. O algoritmo BGP implementado no SA 1 utiliza
+tanto vetor de distância quanto estado de enlace
+para anunciar informações de rotas.
+Ill. O OSPF implementado no SA 2 utiliza o endereço
+de destino do cabeçalho IP para tomada de
+decisão e escolha da melhor rota.
+IV. O problema da convergência lenta ocorre com
+algoritmos de roteamento que implementam vetor
+de distância, ou seja, BGP e OSPF.
+É correto apenas o que se afirma em
+l.
+WU.
+lei.
+Nelv.
+Welv.
+
+QUESTÃO 21
+Um arquivo confidencial precisa ser enviado de uma
+empresa A para uma empresa B por meio da Internet.
+Existe uma preocupação com a possibilidade de
+interceptação e alteração do documento durante a sua
+transmissão. Para reduzir a possibilidade de que um
+hacker tenha acesso ao conteúdo da mensagem, foi
+adotado um procedimento de criptografia de chave
+pública e assinatura digital.
+Considerando a utilização dessas tecnologias para a
+codificação dos dados, avalie as afirmações que se seguem.
+|. Para o procedimento de cifragem do documento, é
+utilizada a chave pública do destinatário.
+Para o procedimento de assinatura digital do
+documento, é utilizada a chave pública do
+destinatário.
+Para o procedimento de decifragem do documento,
+é utilizada a chave privada do remetente.
+Para o procedimento de verificação da assinatura
+digital do documento, é utilizada a chave pública
+do remetente.
+É correto apenas o que se afirma em
+o.
+o.
+O lelv.
+O llell.
+O lllelv,
+W.
+
+QUESTÃO 20
+O padrão X.25 foi desenvolvido com o objetivo de oferecer
+interface entre redes públicas de comutação de pacotes
+e seus clientes e, apesar de ter sido desenvolvido na
+década de 70, ainda hoje é usado.
+Considerando que o padrão X.25 estabelece circuitos de
+forma que a entrega dos pacotes seja feita ordenadamente
+e com confiabilidade, analise as afirmações abaixo.
+I. O padrão X25 aceita circuitos virtuais
+semipermanentes.
+II. O padrão X.25  aceita circuitos virtuais
+permanentes.
+Il. O padrão X.25 aceita circuitos semivirtuais
+comutados.
+IV. O padrão X.25 aceita circuitos virtuais comutados.
+É correto apenas o que se afirma em
+l.
+II.
+leIII.
+IIeIV.
+IIIeIV.
+
+QUESTÃO 19
+Uma empresa opta por modernizar o seu sistema de
+telefonia, substituindo a central PABX analógica existente
+por uma solução que utiliza a tecnologia VoIP (Voice over
+Internet Protocol). É definida a utilização de um IP PBX
+Virtual, com base em software que permita a utilização
+de conexões digitais de telefonia El com operadoras
+de telefonia fixa e a conexão com operadoras de VolP,
+utilizando o protocolo SIP (Session Initiated Protocol).
+Considerando a utilização dessas tecnologias para a
+conexão do IP PBX Virtual com a rede de telefonia pública,
+analise as afirmações que se seguem.
+|. O protocolo SIP é usado para o registro dos
+ramais IP e pelo fluxo de mídia que passa pelo IP
+PBX e utiliza a porta 4569 UDP para realizar as
+duas funções.
+O entroncamento E1 é uma conexão digital de
+telefonia que possui 32 canais de 64 kbps, sendo
+trinta canais de telefonia, um canal de sinalização
+e um canal de sincronismo.
+Ill. O protocolo SIP trabalha em conjunto com o
+protocolo RTP (Real Time Protocol), sendo que o
+SIP é o responsável pelo registro dos ramais e o
+RTP pelo fluxo de mídia pelo IP PBX.
+O protocolo H.323 é o único que pode ser usado
+pelos Adaptadores para Telefones Analógicos
+(ATAs) e pelos Telefones IPs em soluções de IP
+PBX que utilizam o protocolo SIP.
+É correto apenas o que se afirma em
+leill.
+lelv.
+el.
+elv.
+Welv.
+
+QUESTÃO 22
+Uma universidade em expansão pretende instalar uma rede de médio porte para atender às necessidades de acesso
+das suas diversas redes heterogêneas. O Departamento de Tecnologia da Informação projetou o seguinte modelo:
+A camada de mais alto nível desse modelo é conhecida como camada core ou camada de núcleo. Os roteadores que
+a compõem têm a função de
+filtrar a camada MAC e segmentar a rede.
+otimizar a vazão dos pacotes e controlar o acesso aos recursos.
+prover um transporte mais rápido entre os sites e conectar usuários.
+resumir rotas de camada de acesso e delimitar os domínios de broadcast.
+garantir o tráfego de alto desempenho, bem como centralizar o acesso à rede externa.
+
+QUESTÃO 24
+A comutação com protocolo IP (Internet Protocol)
+pode utilizar tecnologias de transmissão referenciadas
+no paradigma orientado à conexão, fornecendo
+encaminhamento mais eficiente de pacotes, agregando
+informações de rotas e permitindo gerenciamento de
+fluxos por demanda. O IETF (The Internet Engineering
+(Muilti-Protoco!l
+Label Switching) como alternativa para atender essa
+Task Force) criou o padrão MPLS
+necessidade, descrevendo tal tecnologia na RFC 3031.
+Outras denominações dessa tecnologia são: comutação
+de tags, comutação layer 3 e comutação de rótulos.
+COMER, D. E. Interligação de Redes com TCP/IP. Volume 1.
+Rio de Janeiro: Campus, 2006. (com adaptações)
+Considerando a utilização do MPLS para comutação |P,
+avalie as afirmações que se seguem.
+|. Um datagrama que chega no núcleo do MPLS
+é encaminhado por um roteador MPLS sem
+nenhuma alteração no cabeçalho do datagrama.
+Il. Nainterface dos roteadores MPLS que se conectam
+ao usuário final é utilizado o encaminhamento
+convencional, enquanto nos roteadores MPLS de
+núcleo é utilizada apenas a comutação baseada
+em rótulos.
+Ill. O MPLS exige o uso de uma tecnologia de rede
+orientada a conexão, ou seja, a conexão física
+entre um par de roteadores MPLS deve consistir
+de um circuito dedicado.
+IV. Um rótulo MPLS é utilizado como índice para
+uma tabela e permite descoberta mais rápida da
+interface de saída se comparada a endereços de
+destino convencionais.
+É correto apenas o que se afirma em
+o.
+o.
+O le.
+O llelv.
+O lIlelv.
+
+QUESTÃO 23
+Alberto comprou um netbook e, ao usá-lo em casa,
+percebeu que alguém mais compartilhava sua rede
+wireless sem permissão, pois estavam utilizando seu
+roteador como elemento de conexão à rede. Uma das
+soluções sugeridas pelos amigos de Alberto foi a troca de
+seu roteador por um que possuísse a tecnologia WPA2
+como meio de segurança. Com relação a esse tema,
+analise as seguintes asserções.
+A troca do roteador foi necessária uma vez que
+o padrão WPA2 exige um co-processador para o
+processo de criptografia.
+PORQUE
+O padrão WPA2 utiliza os algoritmos de criptografia AES
+(Advanced Encryptation Standart) junto com o RC4.
+Acerca dessas asserções, assinale a opção correta.
+A As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+E Tanto a primeira como a segunda asserção são
+proposições falsas.
+
+QUESTÃO 26
+Na transmissão de dados em uma rede WAN
+a comunicação normalmente se dá mediante a
+transmissão de dados da origem ao destino por uma
+rede de nós de comutação intermediários. Os nós de
+comutação não se ocupam do conteúdo dos dados,
+em vez disso, sua finalidade é fornecer um recurso de
+comutação que moverá os dados de nó para nó até que
+alcancem seu destino.
+STALLINGS, W. Redes e sistemas de comunicação de dados: teoria e
+aplicações corporativas. 5. ed. Rio de Janeiro: Elsevier, 2005. p. 249-266.
+Sobre a diferença entre as técnicas de comutação de
+circuito e comutação de pacote, assinale a opção correta.
+O Quando o tráfego se torna pesado em uma rede de
+comutação de circuitos, algumas chamadas são
+bloqueadas até que se diminua a carga, enquanto
+na rede de comutação de pacotes, esses ainda são
+aceitos, mas o retardo de entrega aumenta.
+Na rede de comutação de circuitos, a conexão entre
+dois nós pode ser variada, já em comutação de
+pacotes, a velocidade entre dois nós é constante.
+Na comunicação em comutação de circuitos, existe
+uma fase para o estabelecimento de conexão,
+enquanto na comutação de pacotes há três fases:
+estabelecimento de conexão, transferência de
+dados, desconexão.
+A comutação de circuitos é a tecnologia dominante
+na comunicação de dados, enquanto a comutação de
+pacotes é dominante na transmissão de voz.
+Na comutação de circuitos, a eficiência na utilização
+da linha é maior, já que um único enlace de nó para
+nó pode ser compartilhado, enquanto na comutação
+de pacotes, a eficiência da utilização da linha é menor
+devido a um enlace de nó para nó ser pré-alocado.
+
+QUESTÃO 25
+No projeto de uma rede de computadores, o gerente do
+sistema deve ser capaz de depurar problemas, controlar
+o roteamento e localizar dispositivos que apresentam
+comportamento fora da especificação. Uma das
+ferramentas utilizadas para suportar essas ações é o
+protocolo de gerência de redes.
+Considerando a utilização do protocolo SNMP (Simple
+Network Management Protocol), versão 3, avalie as
+afirmações que se seguem.
+I. AMIB (Management Information Base) padrão
+(mib-ll) contém informações que permitem à
+aplicação gerente recuperar a tabela de rotas de
+um dispositivo IP, possibilitando a descoberta de
+erros de roteamento.
+II.Para a investigação de defeitos em uma rede,
+através do SNMP, é necessário que todos os
+dispositivos gerenciados sejam desligados para
+iniciar seus contadores. Depois, esses dispositivos
+devem ser ligados simultaneamente.
+III.Qualquer dispositivo gerenciado via SNMP pode
+fornecer dados sobre erros e tráfego de suas
+interfaces, permitindo o acompanhamento de
+problemas e o monitoramento de desempenho
+das mesmas.
+IV.AMIB (Management Information Base) padrão (mib-ll)
+possui entradas para a ativação de procedimentos de
+teste, tais como a medição do tempo de resposta de
+uma aplicação Cliente/Servidor.
+É correto apenas o que se afirma em
+A I
+B II
+C IeIII
+D IIeIV
+E IIIeIV
+
+QUESTÃO 28
+Historicamente, uma Ethernet foi inicialmente
+concebida como um segmento de um cabo coaxial em
+que um único canal de transmissão era compartilhado por
+todas as estações de trabalho da rede local. A tecnologia
+Ethernet passou por uma série de evoluções ao longo dos
+anos e, na maioria das instalações atuais, as estações
+de trabalho são conectadas a um comutador (switch)
+utilizando uma topologia física estrela.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma
+Abordagem Top-Down. 5. ed. São Paulo: Addison Wesley, 2010.
+Considerando a utilização do protocolo CSMA/CD em
+comutadores Ethernet, analise as seguintes asserções.
+A utilização do protocolo CSMA/CD não é necessária em
+comutadores Ethernet transmitindo em modo full-duplex.
+PORQUE
+Os comutadores, operando em modo full-duplex, mantêm
+canais de comunicação distintos para envio (TX) e
+recebimento (RX) de dados, além de não encaminhar mais
+do que um quadro por vez para a mesma interface (porta).
+Acerca dessas asserções, assinale a opção correta
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+o O o O
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 27
+Uma escola de informática, prestes a ser inaugurada,
+construiu dois laboratórios, cada um com capacidade para
+20 estações de trabalho. Também foi contratado um enlace
+de Internet de 10 Mbps, que será compartilhado entre
+todas as 40 estações e adquirido um servidor de arquivos,
+com duas interfaces de rede Gigabit Ethernet, para que
+os estudantes possam acessar materiais disponibilizados
+pelos professores. Para interligar todas as estações de
+trabalho, um vendedor especificou um comutador (switch)
+Ethernet camada 2, compatível com as tecnologias IEEE
+802.1Q (VLAN) e IEEE 802.1ad (Link Aggregation), de 50
+portas, sendo 48 Fast Ethernet e 2 Gigabit Ethernet.
+Avalie as seguintes explicações do vendedor em relação
+ao equipamento especificado.
+|. Para aumentar a vazão (throughtput) entre o
+servidor de arquivos da escola e as estações
+de trabalho, é possível conectar as duas portas
+Gigabit Ethernet do switch às duas interfaces de
+rede do servidor de arquivos utilizando a tecnologia
+Link Aggregation.
+Para que os computadores possam navegar
+mais rápido na Internet, uma das portas Gigabit
+do switch pode ser conectada ao roteador, que
+interliga a rede da escola e a Internet.
+Ill. É possível que os hosts de um laboratório possam
+conectar-se aos hosts do outro, mesmo que eles
+pertençam a redes IP e VLANs distintas.
+Os domínios de colisão dos dois laboratórios
+podem ser isolados, pois é possível definir duas
+VLANs distintas no mesmo switch.
+Considerando o cenário apresentado e o switch
+especificado, é correto apenas o que se afirma em
+
+QUESTÃO 31
+Os protocolos TLS (Transport Layer Security) e SSL
+(Secure Sockets Layer) utilizam algoritmos criptográficos
+entre outros objetivos, fornecer recursos de
+segurança aos protocolos comumente utilizados na
+Internet, originalmente concebidos sem a preocupação
+com a segurança nos processos de autenticação e/ou
+transferência de dados. Observada a pilha de protocolos
+TCP/IP, esses protocolos atuam
+para,
+O na camada de rede.
+O na camada de aplicação.
+O na camada de transporte.
+O entre a camada de transporte e a camada de rede.
+O entre acamada de aplicação e a camada de transporte.
+
+QUESTÃO 30
+O SNMP (Simple Network Management Protocol) é o
+protocolo padrão de gerenciamento de redes TCP/IP.
+O SNMP
+O define, como estratégia de segurança, que todas
+as variáveis MIB (Management Information Base)
+precisam ser definidas e referenciadas usando a
+Abstract Syntax Notation 1 (ASN.1) da ISO. Isso
+significa que a notação utilizada permite que nomes
+sejam repetidos e não possam ser lidos sem a
+utilização de um sistema de criptografia complexo.
+especifica que as operações mais complexas sejam
+executadas em etapas, cada qual marcada por uma
+mensagem de retorno sobre o status da operação. Em
+caso de erro, permite que as operações não realizadas
+sejam reenviadas em uma próxima mensagem.
+possui campos fixos e de tamanho único para suas
+mensagens, assim como a maioria dos protocolos TCP/IP.
+foi projetado inicialmente para controlar as redes,
+de forma que as capacidades de segurança
+e administração estiveram presentes desde a
+primeira versão.
+distribui todas as suas operações em um modelo de
+buscar (get), armazenar (set) e notificar (trap), em
+vez de definir um grande conjunto de comandos.
+As demais operações do SNMP são definidas como
+resultados das duas primeiras operações.
+
+QUESTÃO 29
+Os aspectos funcionais para o gerenciamento de redes
+foram organizados pela ISO (International Organization
+for Standardization) em cinco áreas principais, compondo
+um modelo denominado FCAPS (acrônimo formado
+pelas iniciais em inglês de cada área funcional: Fault,
+Configuration, Accounting, Performance e Security).
+Considerando o modelo FCAPS, analise as afirmações
+que se seguem.
+|. Na gerência de segurança são abordados
+aspectos relacionados ao acesso à rede e ao uso
+incorreto por parte de seus usuários.
+A gerência desempenho aborda a
+das informações sobre aspectos de desempenho
+dos serviços de rede. Esses dados são utilizados
+para a análise de tendências e para garantir que a
+rede opere em conformidade com a qualidade de
+serviço acordado com os usuários.
+Ill. A gerência de contabilidade tem como objetivo
+permitir que o administrador de rede saiba quais
+dispositivos fazem parte da rede administrada e quais
+são suas configurações de hardware e software.
+Com a gerência de configuração, o administrador
+da rede especifica, registra e controla o acesso
+de usuários e dispositivos aos recursos da rede,
+permitindo quotas de utilização, cobrança por
+utilização e alocação de acesso privilegiado a
+recursos.
+O objetivo da gerência de falhas é registrar,
+detectar e reagir às condições de falha da rede.
+É correto apenas o que se afirma em
+
+QUESTÃO 33
+Um firewall de uma corporação possui duas interfaces de
+rede. A interface externa está conectada à Internet e está
+associada a um único IP real, e a interface interna está
+conectada à rede corporativa e está associada a um único
+endereço |P privado (RFC 1918). A NAT (Network Address
+Translation) já está configurada corretamente nesse
+firewall para ser realizada no momento em que o pacote
+passa pela interface externa, permitindo que os hosts da
+rede interna possam estabelecer conexões com hosts da
+Internet. Contudo, para que os usuários da corporação
+possam acessar a Internet, o filtro de pacotes ainda
+precisa liberar a saída de pacotes. O filtro de pacotes já
+está configurado para bloquear todo o tráfego (entrada e
+saída) para/da interface externa e todo o tráfego (entrada
+e saída) para/da interface interna está liberado. Considere
+que esse firewall sempre executa as regras de NAT antes
+das regras de filtragem de pacotes (ex: OpenBSD Packet
+Filter) e que seu filtro de pacotes é capaz de realizar a
+inspeção de estados (stateful inspection). Para que esse
+firewall permita que todos os hosts da rede interna possam
+conectar-se à Internet, deve-se incluir regras que liberam
+a saída na interface externa.
+O endereço IP de origem utilizado para escrever essas
+regras deve ser
+o endereço privado da interface interna do firewall.
+o endereço real da interface externa do firewall.
+o endereço privado do host de origem.
+o endereço da rede interna.
+CoOogGoos
+o endereço da rede externa.
+
+QUESTÃO 32
+As camadas de apresentação e sessão do modelo
+de referência ISO/OSI não existem no modelo de
+referência TCP/IP.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma
+Abordagem Top-Down. 5. ed. São Paulo: Addison Wesley, 2010.
+Considere um programa de computador que utiliza
+comunicação TCP/IP e precisa implementar funções
+dessas camadas. Nesse caso, a implementação deverá
+ser realizada para ativar na camada de
+O aplicação, para permitir que sejam transmitidos fluxos
+de dados independentes em uma mesma conexão
+TCP e impedir que dados sejam enviados a uma taxa
+mais alta do que o host de destino pode processar.
+aplicação, para codificar/decodificar caracteres entre
+plataformas heterogêneas e reiniciar umatransferência
+de dados a partir do ponto em que ela foi interrompida.
+aplicação, para codificar/decodificar caracteres entre
+plataformas heterogêneas e impedir que dados sejam
+enviados a uma taxa mais alta do que o hostde destino
+pode processar.
+transporte, para permitir que sejam transmitidos fluxos
+de dados independentes em uma mesma conexão
+TCP e impedir que dados sejam enviados a uma taxa
+mais alta do que o host de destino pode processar.
+transporte, para codificar/decodificar caracteres entre
+plataformas heterogêneas e reiniciar umatransferência
+de dados a partir do ponto em que ela foi interrompida.
+
+QUESTÃO 35
+Os protocolos da camada de aplicação que utilizam,
+na camada de transporte, o protocolo TCP, para o
+estabelecimento de conexões, fazem uso de portas
+específicas por padrão. Além disso, o funcionamento
+destes protocolos pode variar no estabelecimento e
+manutenção dessas conexões, bem como na troca de
+dados entre cliente e servidor.
+Considerando o funcionamento desses protocolos, analise
+as afirmações que se seguem.
+|. O protocolo HTTP utiliza, por padrão, para
+conexão do cliente ao servidor, a porta 80/TCP.
+O estabelecimento de conexões HTTP tem início
+com a solicitação por parte do cliente (browser) ao
+servidor web. Após o estabelecimento da conexão,
+o socket permanece ativo até que o cliente finalize
+a conexão enviando um segmento TCP ao servidor
+com a flag FIN ativada.
+Il. O protocolo FTP utiliza, por padrão, para conexão
+do cliente ao servidor, a porta 21/TCP. Após o
+estabelecimento de conexões FTP, além da porta
+21/TCP, utilizada para o controle da conexão, as
+portas TCP utilizadas para a troca de dados entre
+cliente e servidor podem variar de acordo com o
+modo configurado no servidor (ativo ou passivo).
+Ill. O protocolo SMTP utiliza, por padrão, para
+conexão do cliente ao servidor, a porta 25/TCP. O
+uso deste protocolo é parte do serviço de correio
+eletrônico, uma vez que é responsável pelo envio
+de e-mails. Para o acesso às caixas de mensagens
+e recebimento desses e-mails, utilizam-se os
+protocolos POP ou SSH, que usam, por padrão,
+respectivamente, as portas 110/TCP e 22/TCP.
+IV. O protocolo DNS utiliza, por padrão, para conexão
+do cliente ao servidor, a porta 53/TCP. Através
+desta porta, o cliente, após estabelecida a conexão,
+pode fazer consultas a hosts definidos nos mapas
+de zona do servidor autoritativo. A consulta a
+nomes atribuídos aos hosts tem como respostas
+os endereços |P a eles atribuídos enquanto a
+consulta aos endereços |P (quando configurado
+o DNS reverso) resultam nos respectivos nomes.
+É correto apenas o que se afirma em
+
+QUESTÃO 34
+As medidas de segurança de rede são necessárias para
+proteger os dados durante sua transmissão e para garantir
+que as transmissões de dados sejam autênticas. São
+desejáveis em uma comunicação segura as propriedades
+de privacidade, integridade, disponibilidade e autenticidade.
+O protocolo LDAP (Lightweight Directory Access Protocol)
+é um padrão aberto que proporciona, de forma flexível,
+o gerenciamento de grandes volumes de informações
+de usuários, definindo um método-padrão de acesso e
+atualização de informações dentro de um diretório. Já o
+protocolo RADIUS (Remote Authentication Dial-in User
+Service) é capaz de centralizar e facilitar a administração
+dessas informações. Esses protocolos procuram garantir
+as propriedades de uma comunicação segura.
+STALLINGS, W. Redes e sistemas de comunicação de dados: teoria e
+aplicações corporativas. 5. ed. Rio de Janeiro:Elsevier, 2005. 379-407.
+A respeito desses protocolos, avalie as afirmações que
+se seguem.
+|. As mensagens entre um cliente e um servidor
+RADIUS são criptografadas por meio do uso de
+um segredo compartilhado, o qual nunca é enviado
+pela rede. A arquitetura RADIUS utiliza o conceito
+de chaves simétricas.
+Il. O servidor RADIUS suporta um único método
+de autenticação, PPP PAP (Password
+Authentication Protocol).
+Ill. O protocolo LDAP é um protocolo destinado à
+comunicação entre servidores e clientes LDAP.
+Servidores LDAP armazenam informação em
+diretórios no formato hierárquico. O modelo de
+segurança do LDAP é composto por um protocolo
+que criptografa a comunicação entre o cliente e o
+servidor e por um método de autenticação seguro
+entre o cliente e o servidor.
+IV. O protocolo LDAP foi projetado para ser um diretório
+de propósito geral, com mecanismo de criptografia
+e segurança centralizados. Dessa forma, um
+dos pontos fracos do LDAP está relacionado à
+replicação de dados, pois o LDAP não permite
+replicar parcialmente sua estrutura de diretório.
+É correto apenas o que se afirma em
+l.
+.
+Tel.
+Ielv.
+Welv.
+
+QUESTÃO DISCURSIVA 3
+Uma empresa de desenvolvimento de soluções Web precisa atender a algumas demandas em sua
+rede de computadores:
+* Construir um servidor Web e colocar este servidor no ar em um serviço de hospedagem.
+* Configurar a rede local para receber a configuração de conectividade do protocolo TCP/IP automaticamente.
+* Acessar remotamente um servidor UNIX/Linux em uma filial para ter acesso à sua interface de linha de comando.
+* Configurar um serviço de tradução de nomes na Internet.
+* Configurar todos os serviços de envio e recebimento de e-mails.
+TANEMBAUM, A. Redes de Computadores. 5. ed. Cap. 7, p. 384 — 475. (com adaptações)
+Determine todos os serviços, protocolos e portas de comunicação que devem ser usadas para atender às demandas
+solicitadas. (valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+A rede de uma empresa, cujo esquema está ilustrado
+na figura |, é composta por sub-redes IP. A sub-rede da
+Filial 1 possui 80 pontos de rede. A sub-rede da Filial 2
+possui 50 pontos de rede. A Matriz possui uma sub-rede
+com 200 pontos de rede e outra sub-rede em uma Zona
+desmilitarizada — DMZ. Todos os pontos de rede em cada
+sub-rede estão conectados em pilhas de switches nível 2.
+As sub-redes das filiais são interligadas por uma Wide
+Area Network - WAN utilizando-se de um protocolo de
+enlace orientado à conexão que permite conexão ponto-
+mutiponto. A empresa possui uma conexão à Internet
+via um provedor que fornece um intervalo de endereços
+IP válidos: 200.20.10.0; máscara 255.255.255.240.
+O roteador que realiza a função de Translação de
+Endereços de Rede (NAT) utiliza para acesso à Internet o
+endereço IP 200.10.10.0/30. Os dispositivos conectados
+em cada ponto de rede são numerados com endereços
+IP da rede 172.16.0.0. Um firewall protege a rede no
+acesso à Internet. A partir de qualquer máquina na rede,
+pode-se acessar a Internet simultaneamente.
+Considerando o correto funcionamento da rede da referida empresa,
+a) atribua endereços para as sub-redes da Filial 1; Filial 2; Matriz e DMZ. Atribua os endereços de forma sequencial
+utilizando a quantidade definida de pontos em cada sub-rede. (valor: 8,0 pontos)
+b) qual deveria ser o endereço de rede, dado à empresa pelo provedor, se o roteador de entrada não implementasse
+NAT? Considere a forma de endereçamento Classless Inter-Domain Routing (CIDR). (valor: 2,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+A Rede Local Virtual (Virtual Local Area Network — VLAN)
+pode ser definida como um grupo de dispositivos em
+diferentes segmentos de LAN física, que podem se
+comunicar uns com os outros, formando uma segmentação
+lógica. Para a implementação de VLAN é necessário o uso
+de comutadores (switch) nível 3. Também é necessário
+o uso de dispositivo de camada 3, como um roteador,
+porque a comunicação entre VLAN é realizada por
+esse dispositivo.
+Uma possível forma de se implementar VLAN é a
+configuração de diversas VLAN em um mesmo switch,
+e conectá-las à um roteador, como apresentado na
+figura abaixo.
+Observe essa forma de configuração em um cenário
+atendendo dezenas de VLAN: é necessário o uso de
+dezenas de interfaces no roteador, além de dezenas
+de portas no switch. Essa implementação não permite
+crescimento, pois são necessárias dezenas de portas nos
+Switch e no roteador para simplesmente interconectá-los.
+Para um cenário que necessite de dezenas ou mais VLANs, descreva uma solução de implementação para a
+segmentação de redes, sem que se torne necessário, para interconexão dos dispositivos, o uso de tantas interfaces no
+roteador e portas no switch quantas forem o número de VLANs implementadas. (valor: 10,0 pontos)
+

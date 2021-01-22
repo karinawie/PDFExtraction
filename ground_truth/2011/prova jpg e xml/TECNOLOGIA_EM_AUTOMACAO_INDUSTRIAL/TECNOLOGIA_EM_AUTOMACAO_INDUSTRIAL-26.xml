@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:01:56</Created>
+	<LastChange>2020-10-30T18:10:43</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-26.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r6">
+	<Coords points="807,197 791,2008 808,2008 824,197"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1419,254 1419,255 1535,255 1535,663 1534,663 1534,828 1536,828 1536,927 940,927 940,1031 987,1031 987,1139 826,1139 826,927 825,927 826,927 826,827 874,827 874,580 825,580 825,254 841,254"/>
+	<TextEquiv conf="0.96775">
+	<Unicode>QUESTÃO 32
+Sabendo que a soldagem é uma das tecnologias
+imprescindíveis no meio industrial, principalmente nos
+processos de fabricação mecânica, um empresário do
+setor metal mecânico, irá investir neste segmento e
+escolheu trabalhar com dois tipos de ligas metálicas: o
+alumínio e o aço inoxidável. Após estudar os diversos
+processos de solda, o empresário resolveu adquirir os
+equipamentos de Soldagem a Tungsten Inert Gas (TIG),
+mas durante a aquisição dos equipamentos surgiram
+algumas dúvidas, tais como:
+|. O processo TIG pode ser aplicado na soldagem de
+ligas de alumínio e ligas de aço inoxidável;
+Il. O processo TIG não pode ser aplicado na
+soldagem de ligas de aço inoxidável;
+O processo TIG não pode ser aplicado na
+soldagem de ligas de alumínio;
+IV. O processo TIG pode ser automatizado.
+Considerando as afirmações acima, é correto apenas o
+que se afirma em:
+o.
+O lelv.
+G llelll.
+O llelV.
+O ILIMeIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 266,192 266,255 791,255 791,335 790,335 790,413 789,413 789,1042 80,1042 80,329 81,329 81,255 96,255"/>
+	<ImageRegion id="r2">
+	<Coords points="78,439 78,923 792,923 792,439"/></ImageRegion>
+	<TextEquiv conf="0.96734">
+	<Unicode>QUESTÃO 31
+Necessitando controlar a temperatura, a sala de metrologia
+de uma empresa está projetando um sistema de controle
+que atuará no aparelho de ar condicionado. A figura abaixo
+indica a resposta esperada em relação ao sistema, com
+controlador à entrada degrau.
+Qual é o diagrama de blocos que representa a curva
+característica do controlador?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="78,1050 78,1226 573,1226 573,1050"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="89,1269 89,1445 584,1445 584,1269"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="79,1483 79,1659 574,1659 574,1483"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="74,1662 74,1838 569,1838 569,1662"/></ImageRegion>
+	<ImageRegion id="r13">
+	<Coords points="68,1835 68,2011 563,2011 563,1835"/></ImageRegion></Page></PcGts>

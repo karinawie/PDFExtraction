@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:50:00</Created>
+	<LastChange>2020-10-30T20:23:45</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-09.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r0">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="841,800 1015,800 1015,864 1537,864 1537,1170 1536,1170 1536,1600 1535,1600 1535,1884 1533,1884 1533,1997 873,1997 873,1884 872,1884 872,1816 826,1816 826,1600 824,1600 824,864 841,864"/>
+	<TextEquiv conf="0.96652">
+	<Unicode>QUESTÃO 12
+A arquitetura do padrão IEEE 802.11 (WiFi) é constituída
+fundamentalmente pelo conjunto básico de serviço (Basic
+Service Set — BSS). Um BSS contém uma ou mais
+estações sem fio e uma estação base, conhecida como
+Access Point (AP). Ao instalar um AP, um administrador
+de rede designa ao AP um Identificador de Conjunto de
+Serviços (Service Set Identifier — SSID). Cada estação
+sem fio precisa se associar com um AP antes de poder
+enviar e receber quadros IEEE 802.11.
+Suponha que um determinado restaurante no centro de
+uma cidade é atendido por dois provedores de acesso à
+Internet (Internet Service Provider - ISP) que trabalham
+no padrão 802.11b. Cada ISP opera seu próprio AP em
+sub-redes com endereços de Internet (Internet Protocol —
+IP) diferentes. Por desconhecimento, cada ISP considerou
+que a área do restaurante pertence a um de seus BSS e
+configurou seu respectivo AP para operar no mesmo canal
+(canal 3) na área do restaurante. Para que uma estação
+sem fio na área do restaurante utilize o canal 3 para
+transmitir e receber dados sem a ocorrência de colisões,
+ela deve
+o
+associar-se aos dois SSID simultaneamente.
+associar-se a mais de um AP na mesma BSS.
+comunicar-se simultaneamente com outra estação
+sem a necessidade de associação.
+associar-se a um SSID qualquer, desde que não haja
+outra estação sem fio transmitindo simultaneamente
+no canal 3.
+comunicar-se simultaneamente com outra estação,
+desde que cada estação se associe a um AP, ou seja,
+a SSID diferentes.
+o
+o
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="841,192 1009,192 1009,256 1535,256 1535,457 1534,457 1534,543 1162,543 1162,696 1241,696 1241,759 849,759 849,761 826,761 826,543 825,543 825,256 841,256"/>
+	<TextEquiv conf="0.96730">
+	<Unicode>QUESTÃO 11
+Um administrador de redes de computadores
+implementou uma solução para a utilização do IPv6
+em sua rede corporativa. A solução desenvolvida pelo
+administrador permitiu a transmissão de pacotes IPv6
+através da infraestrutura IPv4 já existente, encapsulando
+o conteúdo do pacote IPv6 em um pacote IPv4.
+Qual é a técnica de coexistência e transição do IPv6 para
+IPv4 que o administrador de rede utilizou?
+Técnica de pilha dupla.
+Técnica de roteamento.
+Técnica de tradução.
+Técnica de store-and-forward.
+Técnica de tunelamento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,1161 270,1161 270,1226 790,1226 790,1531 789,1531 789,1694 790,1694 790,1996 128,1996 128,1957 81,1957 81,1588 79,1588 79,1563 80,1563 80,1226 96,1226"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>QUESTÃO 10
+O padrão IEEE 802.16, também conhecido como WiMAX,
+devido ao fórum dos fabricantes, é uma tecnologia para
+transmissão sem fio em redes locais que provê qualidade
+de serviço em suas transmissões.
+PORQUE
+O padrão IEEE 802.16 possui técnicas adaptativas de
+modulação e codificação, além de ser uma tecnologia
+orientada à conexão.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 254,192 254,257 790,257 790,1125 128,1125 128,1085 81,1085 81,1061 128,1061 128,809 81,809 81,642 80,642 80,257 96,257"/>
+	<TextEquiv conf="0.93016">
+	<Unicode>QUESTÃO 9
+O termo VPN (Virtual Private Networks) advém da
+utilização da estrutura e desempenho da Internet para
+interligação de dois pontos remotos sem a necessidade de
+utilização de um /ink dedicado por meio de um tunelamento
+seguro. VPNs resolvem dois problemas: o da segurança,
+uma vez que todos os pacotes enviados via VPN são
+criptografados e o do endereçamento e roteamento IP, já
+que, se utilizássemos a Internet para conectar dois pontos,
+não teríamos controle dos roteadores que se encontram
+no caminho. Entre exemplos de protocolos utilizados em
+VPNs, estão
+O PPTP e L2TP para estabelecer o túnel, tendo o último
+a possibilidade de utilizar certificados digitais na
+autenticação.
+O RIP e OSPF para estabelecer o túnel, tendo o último
+a possibilidade de utilizar certificados digitais na
+autenticação.
+HSDPA e UTMS para estabelecer o túnel, sem suporte
+a certificados digitais.
+PPP e DLC para estabelecer o túnel, sem suporte a
+certificados digitais.
+HDLC e IS-IS para estabelecer o túnel, sem suporte a
+certificados digitais.
+o</Unicode></TextEquiv></TextRegion></Page></PcGts>

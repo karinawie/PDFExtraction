@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:21:47</Created>
+	<LastChange>2020-10-30T02:35:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-18.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="96,192 266,192 266,264 1535,264 1535,1365 1536,1365 1536,1596 1535,1596 1535,1691 534,1691 534,1798 203,1798 203,2000 104,2000 104,2002 81,2002 81,1596 80,1596 80,696 79,696 79,453 81,453 81,264 96,264"/>
+	<ImageRegion id="r1">
+	<Coords points="84,747 84,1300 778,1300 778,747"/></ImageRegion>
+	<TextEquiv conf="0.92272">
+	<Unicode>QUESTÃO 21
+Um empreendedor deseja implementar uma empresa envasadora de água mineral em determinado estado da federação.
+Para isso, está montando um anteprojeto. Foram feitos diversos estudos, entre eles o de mercado, do qual se obteve
+uma previsão de vendas no estado para os próximos 10 anos, em milhares de litros, conforme mostrado no gráfico |,
+intitulado Previsão de Vendas.
+O atual desafio do empreendedor é decidir qual o tamanho da fábrica, isto é, decidir qual será a capacidade instalada
+da fábrica. O segundo gráfico mostra o Valor Presente Líquido (VPL) para diferentes tamanhos, em milhares de litros,
+de acordo com informações repassadas pelos fabricantes de equipamentos. Há cinco opções de tamanho da fábrica,
+sendo o lucro/litro para cada tamanho em 9, 11, 12, 13 e 14 centavos por litro, da menor capacidade para a maior.
+Quanto maior a capacidade, maior o investimento financeiro, e, para cada nível de capacidade, presume-se que a
+fábrica possa “abocanhar” uma fatia do mercado, de acordo com a previsão do gráfico |.
+Com base nos dados apresentados, analise as afirmações a seguir.
+I. A fábrica deve ser dimensionada para 4 200 mil litros, pois, para essa capacidade, apresenta o maior lucro por
+litro e há tendência de crescimento no mercado.
+II. A fábrica deve ser dimensionada para 3 400 mil litros, pois, para essa capacidade, apresenta o maior VPL.
+III. A fábrica deve ser dimensionada para 850 mil litros, pois, para essa capacidade, requer menores investimentos.
+IV. A fábrica não deve ser dimensionada para 1 700 mil litros, por apresentar baixo VPL e também por existir risco
+de inviabilidade para vendas menores do que as previstas.
+É correto apenas o que se afirma em
+A I.
+B II.
+C III.
+D I e IV.
+E II e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

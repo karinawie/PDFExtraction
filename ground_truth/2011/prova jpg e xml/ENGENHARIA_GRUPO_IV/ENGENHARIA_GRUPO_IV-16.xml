@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:09:13</Created>
+	<LastChange>2020-10-30T01:30:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-16.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r5">
+	<Coords points="807,197 807,2097 809,2097 809,197"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="841,192 1015,192 1015,257 1536,257 1536,644 1535,644 1535,1305 1279,1305 1279,1349 947,1349 947,1573 826,1573 826,1319 919,1319 919,753 874,753 874,696 825,696 825,257 841,257"/>
+	<TextEquiv conf="0.96199">
+	<Unicode>QUESTÃO 27
+No inverno, ou em dias frios e chuvosos, o embaçamento
+interno do para-brisa de um carro é causado pela
+condensação de vapor de água presente no ar quando
+este entra em contato com a superfície do vidro, se
+esta se encontrar a uma temperatura mais baixa que
+a temperatura de orvalho do ar interno. Uma solução
+é aquecer eletricamente o vidro ou, então, circular ar
+aquecido sobre sua superfície interna. Entretanto, em
+algumas situações, a simples movimentação do ar sobre
+a superfície, nesmo sem aquecimento e acima de certa
+velocidade, impede esta condensação.
+Com base nesses fatos, analise as afirmativas a seguir.
+|. A circulação forçada do ar sem aquecimento
+adicional sobre o vidro provoca a diminuição
+da camada limite turbulenta, o que causa uma
+menor quantidade de vapor de água em contato
+com a superfície.
+Com a circulação forçada do ar sem aquecimento
+adicional, diminui o tempo de contato do vapor de
+água presente no ar com a superfície do vidro,
+fazendo com que o vapor de água não se resfrie
+tanto quanto se estivesse sem circulação.
+Com a circulação forçada do ar sem aquecimento
+adicional, aumenta o valor do coeficiente interno
+de transferência de calor e o fluxo de calor do
+interior para o exterior do veículo através do
+vidro, o que aumenta a temperatura da sua
+superfície interna.
+É correto apenas o que se afirma em
+o.
+o.
+o !.
+O lell.
+O llell.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 791,254 791,547 790,547 790,1066 521,1066 521,1198 790,1198 790,1357 788,1357 788,1504 695,1504 695,1571 682,1571 682,1575 81,1575 81,1357 80,1357 80,1198 344,1198 344,1066 80,1066 80,547 79,547 79,254 96,254"/>
+	<TextEquiv conf="0.94126">
+	<Unicode>QUESTÃO 26
+A amônia é uma substância tóxica e agressiva ao meio
+ambiente. Tem grande solubilidade em água e, na forma
+gasosa, dissolve-se nas mucosas dos olhos e no trato
+respiratório. É uma substância corrosiva. A inalação causa
+difi culdade respiratória, broncoespasmo, queimaduras
+nas mucosas da boca, laringe e faringe, constrição, dor
+torácica e salivação. Stripping e absorção são processos
+que podem ser usados para a remoção de amônia de
+efl uentes gasosos.
+Um efl uente gasoso de uma indústria petroquímica contém
+elevada concentração de amônia (NH3
+). Esse efl uente deve
+ser tratado e o processo escolhido foi a absorção. Para
+isso, optou-se por uma coluna de absorção usando água.
+Esse sistema opera a 20 o
+C e 1 atm. Nesse processo, 90%
+da resistência total à transferência de massa está na fase
+gasosa. A constante de Henry é 1,34x10-5 atm/(mol/m3
+) e
+o coefi ciente de transferência de massa individual da fase
+gasosa (kG) é 1,1x103
+ mol NH3
+/h.m2
+.atm. O sistema opera
+a baixas concentrações e, desse modo, a constante de
+proporcionalidade m é a constante de Henry. A equação
+que relaciona a resistência global à transferência de
+massa (baseado em unidades de concentração da fase
+gasosa), KG, com as resistências nas fases gasosa (kG) e
+líquida (kL
+) é dada por
+Com as informações apresentadas, o valor do coefi ciente
+global de transferência de massa baseado em unidades
+de concentração da fase gasosa (KG) e o coefi ciente de
+transferência de massa do fi lme na fase líquida (kL
+) são,
+respectivamente, iguais a
+A 103
+ mol NH3
+/h.m2
+.atm e 0,134 mol NH3
+/h.m2
+.(mol/m3
+).
+B 0,134 mol NH3
+/h.m2
+.atm e 103
+ mol NH3
+/h.m2
+.(mol/m3
+).
+C 103
+ mol NH3
+/h.m2
+.atm e 1,1x10-4 mol NH3
+/h.m2
+.(mol/m3
+).
+D 10-3 mol NH3
+/h.m2
+.atm e 1,34x10-7 mol NH3
+/h.m2
+.(mol/m3
+).
+E 10-3 mol NH3
+/h.m2
+.atm e 1,34x10-5 mol NH3
+/h.m2
+.(mol/m3
+).</Unicode></TextEquiv></TextRegion></Page></PcGts>

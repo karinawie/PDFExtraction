@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:23:18</Created>
+	<LastChange>2020-10-27T02:44:38</LastChange></Metadata>
+	<Page imageFilename="agronomia_2010-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="194,597 194,1505 1591,1505 1591,597"/></ImageRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="97,346 1553,346 1553,570 1434,570 1434,571 1313,571 1313,572 937,572 937,1596 1484,1596 1484,1752 1553,1752 1553,1801 1438,1801 1438,1802 1322,1802 1322,1803 1206,1803 1206,1804 1090,1804 1090,1805 974,1805 974,1806 858,1806 858,1807 742,1807 742,1808 626,1808 626,1809 553,1809 553,1874 440,1874 440,1875 327,1875 327,1876 243,1876 243,2091 148,2091 148,2092 147,2092 147,2091 100,2091 100,1559 99,1559 99,572 98,572 98,465 97,465"/>
+	<TextEquiv conf="0.96501">
+	<Unicode>QUESTÃO 24
+O risco de erosão do solo pode ser estimado com a combinação de técnicas de sensoriamento remoto, sistema de
+informação geográfica e Equação Universal de Perdas de Solo (EUPS). Os dados apresentados a seguir se referem
+a um exemplo do uso dessas técnicas na bacia hidrográfica do rio Piracicaba-SP, com a apresentação de uma área
+específica da bacia com as classes de risco (baixo, médio, alto, muito alto), para: a) pastagem, janeiro, com plantio morro
+abaixo; b) pastagem, janeiro, com plantio em contorno; c) pastagem, julho, com plantio morro abaixo; d) pastagem,
+julho, com plantio em contorno; e) simulação com substituição da pastagem por cana-de-açúcar; f) simulação com
+substituição da pastagem por silvicultura; e g) simulação com substituição da pastagem por vegetação nativa.
+Com base nos dados apresentados, julgue as afirmativas seguintes.
+|. A floresta plantada e a nativa apresentam baixo risco de perda de solo.
+Il. A área com cana-de-açúcar será toda de baixo risco de erosão no mês de julho.
+Ill. O plantio morro abaixo é uma prática insustentável, aumentando a remoção do horizonte A do solo.
+IV. As práticas de controle da erosão hídrica do solo serão igualmente eficientes em qualquer época do ano.
+V. A presença de sedimentos no rio aumentará se a área sob pastagem for convertida para produção comercial
+de madeira.
+É correto apenas o que se afirma em
+lelv.
+Nelv.
+Nev.
+WMev.
+,Wev
+coOoGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T15:50:24</Created>
+	<LastChange>2020-10-30T14:36:51</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r0">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="96,1401 270,1401 270,1481 791,1481 791,1573 751,1573 751,1643 633,1643 633,1671 590,1671 590,1643 181,1643 181,1991 81,1991 81,1644 80,1644 80,1574 79,1574 79,1481 96,1481"/>
+	<TextEquiv conf="0.96886">
+	<Unicode>QUESTÃO 22
+Considere u(x, y) = f(x - 4y) + g(x+4y), em que fe g são
+funções reais quaisquer, deriváveis até a segunda ordem,
+Unmy
+com u,, É O para todo x e y. Nesse caso, —Z? é igual a
+Ur
+O -i6.
+O -8.
+Oo.
+O :.
+e 16.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,163 399,163 399,287 789,287 789,444 649,444 649,696 790,696 790,722 484,722 484,860 791,860 791,952 211,952 211,1076 299,1076 299,1316 307,1316 307,1337 104,1337 104,1339 81,1339 81,1013 80,1013 80,953 79,953 79,860 80,860 80,696 81,696 81,445 80,445"/>
+	<TextEquiv conf="0.77125">
+	<Unicode>QUESTÃO 21
+Os analistas financeiros de uma empresa chegaram
+a um modelo matemático que permite calcular a
+arrecadação mensal da empresa ao longo de 24 meses,
+por meio da função
+x3 a
+A(r) = ha 117º + 1177 + 124,
+em que O &lt; x &lt; 24 é o tempo, em meses, e a arrecadação
+A(x) é dada em milhões de reais.
+A arrecadação da empresa começou a decrescer e,
+depois, retomou o crescimento, respectivamente, a partir
+dos meses
+x=0ex=11.
+x=4ex=7.
+x=8ex=16.
+x=9ex=13.
+x=11ex=22.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

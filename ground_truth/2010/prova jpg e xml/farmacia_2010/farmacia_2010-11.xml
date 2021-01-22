@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T21:54:02</Created>
+	<LastChange>2020-10-27T03:00:34</LastChange></Metadata>
+	<Page imageFilename="farmacia_2010-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="831,279 832,2089 834,2089 833,279"/></SeparatorRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="873,1289 1081,1289 1081,1355 1560,1355 1560,1356 1561,1356 1561,1574 1560,1574 1560,2080 874,2080 874,1356 873,1356"/>
+	<TextEquiv conf="0.94084">
+	<Unicode>QUESTÃO 17
+Reconhecer a saúde como um direito é uma conduta
+indissociável do direito a condições dignas de vida. Isso
+significa assumir um olhar integral sobre o ser humano,
+detentor natural dessa dignidade, que o capacita ao
+voluntariado e a atitudes altruístas em relação aos seus
+semelhantes. Portanto, dentro dos princípios éticos de
+respeito à vida, é fundamental que o ser humano
+O seja impedido de realizar doação voluntária de
+órgãos, ainda que não perca qualidade de vida, para
+zelar pela integridade do seu corpo.
+O receba a justa remuneração quando fizer doação de
+sangue ou de medula óssea, uma vez que se tornam
+passíveis de venda a seus receptores.
+O possa participar de maneira livre e esclarecida como
+voluntário sadio na fase clínica do desenvolvimento
+de novos fármacos.
+O assuma integralmente os riscos de sua participação
+livre e esclarecida no desenvolvimento de vacinas
+com agentes infectantes atenuados.
+O seja indenizado, quando não recuperar sua saúde, ao
+participar de maneira livre e esclarecida de estudos
+multicêntricos de desenvolvimento de novos fármacos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="872,342 1560,342 1560,1254 874,1254 874,1118 920,1118 920,990 874,990 874,923 919,923 919,783 874,783 874,688 872,688"/>
+	<TextEquiv conf="0.95029">
+	<Unicode>QUESTÃO 16
+A triagem neonatal, também conhecida como o “Teste
+do Pezinho”, foi incorporada ao SUS (Portaria GM/
+MS n.º 22) como uma legislação que determina a
+obrigatoriedade do teste em todos os recém-nascidos
+vivos e inclui a avaliação para fenilcetonúria. Um recém-
+nato submetido a esse teste, realizado por Cromatografia
+Líquida de Alta Eficiência acoplada à Espectrometria
+de Massas em Sequência (LC-MS/MS) apresentou um
+resultado em que as concentrações de fenilalanina estão
+acima da taxa de normalidade. Esse resultado indica
+O uma deficiência associada à enzima fenilalanina
+hidroxilase.
+uma falha metabólica envolvendo a biosíntese de
+fenilalanina.
+o
+O que o excesso de tirosina será um risco constante
+na vida desse indivíduo.
+o
+um resultado duvidoso, pois o método analítico,
+apesar de excelente para análises de formulações
+medicamentosas, não tem poder discriminatório
+adequado aos testes de deficiências metabólicas.
+O que o recém-nato ainda não apresenta enzimas
+do sistema de efluxo de glicoproteína-P, capaz de
+extrair a fenilalanina do interior citoplasmático e
+jogá-la na circulação, onde é quantificada.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="97,1060 97,1442 814,1442 814,1060"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="104,350 793,350 793,998 789,998 789,1551 792,1551 792,2039 316,2039 316,2084 153,2084 153,2040 106,2040 106,1506 104,1506"/>
+	<TextEquiv conf="0.95372">
+	<Unicode>QUESTÃO 15
+Um estudante de farmácia encontrou em
+um laboratório 3 frascos de matéria-prima sem
+rótulos. Os rótulos caídos no chão diziam que em
+um frasco havia mentol, em outro limoneno e o
+terceiro mentona. O aluno decidiu então fazer uma
+placa de cromatografia em camada fina para tentar
+descobrir qual substância estava em cada frasco.
+Como fase estacionária foi usada placa de sílica e
+a fase móvel escolhida foi tolueno com acetato de
+etila (93:7). Após eluir a placa, esta foi revelada
+com o reagente vanilina sulfúrica.
+WAGNER H.; BLADT S. Plant drug analysis: a thin layer chromatography
+atlas. Berlim: Springer Verlag, 1996 (com adaptações).
+A figura abaixo apresenta o resultado da cromatografia,
+assim como as estruturas moleculares das substâncias
+em questão.
+A análise desse cromatrograma permite afirmar que
+O as amostras A e B são, respectivamente, a mentona
+e o mentol.
+O asamostras Be C são, respectivamente, o limoneno
+e o mentol.
+O as amostras A e B são, respectivamente, a mentona
+e o limoneno.
+O as amostras A e C são, respectivamente, a mentona
+e o mentol.
+O as amostras B e C são, respectivamente, a mentona
+e o limoneno.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:46:41</Created>
+	<LastChange>2020-10-30T02:10:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-15.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,194 887,194 887,250 1535,250 1535,320 1534,320 1534,454 1535,454 1535,682 1184,682 1184,683 832,683 832,684 535,684 535,797 203,797 203,997 206,997 206,1018 131,1018 131,1019 105,1019 105,1020 81,1020 81,709 127,709 127,612 129,612 129,220 79,220 79,195 80,195"/>
+	<TextEquiv conf="0.93832">
+	<Unicode>A partir da análise dessas curvas, avalie as seguintes afirmações.
+I. As amostras submetidas apenas ao jateamento abrasivo apresentaram uma menor dispersão dos valores de
+resistência à fratura, o que as torna mais confiáveis.
+II. As amostras submetidas apenas ao jateamento abrasivo tiveram aumento do valor médio de sua resistência à
+fratura, em relação às amostras apenas polidas.
+III. As amostras apenas polidas foram as que apresentaram menor dispersão de valores de resistência à fratura, o
+que as torna mais confiáveis.
+IV. O tratamento térmico posterior ao jateamento reduziu o valor médio de resistência à fratura das amostras.
+V. O tratamento térmico posterior ao jateamento reduziu a dispersão dos valores de resistência à fratura, tornando
+as peças mais confiáveis.
+É correto apenas o que se afirma em
+A I e II.
+B I e III.
+C II e IV.
+D III e V.
+E IV e V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

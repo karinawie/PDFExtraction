@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T20:41:07</Created>
+	<LastChange>2020-09-23T20:41:31</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_E_URBANISMO-27.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="96,192 270,192 270,254 1536,254 1536,409 1534,409 1534,535 1353,535 1353,536 1171,536 1171,537 80,537 80,254 96,254"/>
+	<TextEquiv conf="0.96666">
+	<Unicode>QUESTÃO 35
+O arquiteto tem poucas alternativas econômicas para os planos horizontais, pois duas terças partes de seu custo
+são formadas pela estrutura resistente de concreto, para a qual se apresentam poucas possibilidades de substituição.
+(...) Os planos verticais, pelo contrário, apresentam inúmeras alternativas, tanto para o desenho quanto para o uso de
+materiais. Os 40% do custo total da construção que representam têm, aproximadamente, a seguinte distribuição: um
+terço para as paredes exteriores e dois terços para as paredes divisórias internas.
+MASCARÓ, J. L. O custo das decisões arquitetônicas. São Paulo: Nobel. 1985. p. 6 (com adaptações).
+Com base no texto, e levando-se em conta apenas o custo dos planos verticais das edificações representadas
+esquematicamente em planta baixa nos desenhos a seguir, qual das alternativas representa a edificação de menor custo?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="71,560 71,1002 515,1002 515,560"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="871,700 871,994 1307,994 1307,700"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="878,1081 878,1392 1310,1392 1310,1081"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="68,1094 68,1371 515,1371 515,1094"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="65,1423 65,1723 528,1723 528,1423"/></ImageRegion></Page></PcGts>

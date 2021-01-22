@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:45:37</Created>
+	<LastChange>2020-10-29T23:51:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_II-28.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="841,994 1015,994 1015,1049 1535,1049 1535,1231 1536,1231 1536,1390 1534,1390 1534,1503 1536,1503 1536,1529 1534,1529 1534,1753 1279,1753 1279,1838 956,1838 956,1941 971,1941 971,1982 979,1982 979,2005 875,2005 875,2004 826,2004 826,1764 874,1764 874,1480 825,1480 825,1390 824,1390 824,1231 825,1231 825,1049 841,1049"/>
+	<TextEquiv conf="0.96583">
+	<Unicode>QUESTÃO 47
+Multiplexação consiste na transmissão simultânea
+de informação de várias fontes a mais de um destino,
+possibilitando a otimização dos meios de transmissão,
+normalmente de capacidade limitada, com a alocação de
+diversos sinais de forma simultânea no sistema.
+Citam-se como técnicas demultiplexação:
+FDM - Multiplexação por Divisão de Frequência,
+TDM — Multiplexação por Divisão de Tempo, CDM
+— Multiplexação por Divisão de Código e WDM -—
+Multiplexação por Divisão de Comprimento de Onda.
+ALENCAR, M. S. Telefonia digital. São Paulo: Érica, 2002.
+Sobre multiplexação, avalie as seguintes afirmações.
+|. Na rede móvel celular GSM, para transmissão de
+voz e dados, são utilizadas as técnicas FDM e TDM.
+Il. Atécnica WDM é utilizada em comunicação óptica.
+Ill. Asredes celulares de terceira geração (3G) não usam
+a técnica FDM por ser esta uma técnica ultrapassada.
+IV. A multiplexação usada em um enlace PCM
+(Modulação por Código de Pulso) é a CDM.
+É correto apenas o que se afirma em
+leill.
+el.
+Welv.
+LIVelv.
+LUME.
+CoOoGoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="841,192 1015,192 1015,254 1535,254 1535,960 826,960 826,478 825,478 825,254 841,254"/>
+	<TextEquiv conf="0.96659">
+	<Unicode>QUESTÃO 46
+Um radioenlace, operando em 1 GHz, é projetado para a
+comunicação entre dois pontos distantes 10 km entre si.
+Supondo-se que, nessa frequência de operação, o enlace
+se dá em “espaço livre”, é correto afirmar que a atenuação
+do sinal no trajeto entre transmissor e receptor, medida
+pela razão entre a potência do sinal recebido e a potência
+do sinal irradiado, ocorre devido
+O à variação na condutividade do terreno ao longo do
+trajeto do radioenlace entre o transmissor e o receptor.
+O à área superficial da antena receptora ser inferior à
+área da frente de onda que atinge o ponto de recepção.
+O às perdas decorrentes da absorção de parcela do
+sinal transmitido em obstáculos que se encontram ao
+longo do radioenlace.
+O às perdas ôhmicas no ar que surgem na medida em
+que o sinal irradiado se propaga entre o transmissor e
+o receptor.
+O àdiminuição da densidade de potência nos pontos da
+frente de onda, na medida em que o sinal se afasta do
+ponto transmissor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,1390 270,1390 270,1453 790,1453 790,1789 164,1789 164,1898 179,1898 179,2005 81,2005 81,1789 80,1789 80,1453 96,1453"/>
+	<TextEquiv conf="0.96478">
+	<Unicode>QUESTÃO 45
+Um engenheiro projetou um sistema de telefonia móvel
+celular, no qual cada célula possui 12 canais e o tráfego
+medido em cada canal é de 0,81 Erl na HMM (Hora de
+Maior Movimento). Cada estação móvel (EM) atendida
+por esse sistema gera, em média e na mesma HMM, um
+tráfego de 0,03 Erl com chamadas originadas e de 0,06 Erl
+com chamadas recebidas.
+No projeto descrito acima, o engenheiro especificou que o
+número de estações móveis que podem ser atendidas em
+cada célula do sistema é
+Oo.o.
+o 27.
+O 108.
+O 162.
+o 32.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,254 791,254 791,513 790,513 790,696 789,696 789,1075 790,1075 790,1356 128,1356 128,1320 81,1320 81,976 79,976 79,768 80,768 80,254 96,254"/>
+	<TextEquiv conf="0.95975">
+	<Unicode>QUESTÃO 44
+O teorema da amostragem de Nyquist estabelece
+que um sinal analógico limitado em Banda pode ser
+completamente representado por amostras desse sinal,
+obtidas em intervalos iguais de tempo, se a frequência
+de amostragem é maior ou igual à sua largura de Banda.
+Esse teorema é fundamental para os processos de
+digitalização de sinais. Com relação a esse tema, avalie
+as seguintes asserções.
+Para enunciar o seu teorema, Nyquist considerou que o
+sinal analógico ocupava Banda finita, ou seja, Nyquist
+valeu-se do conhecimento dos sinais de informação
+utilizados à época: áudio e vídeo. A Transformada de
+Fourier foi aplicada ao sinal analógico e ao sinal amostrado.
+PORQUE
+O estudo de Nyquist teve por objetivo comparar o
+sinal analógico e o sinal amostrado no domínio da
+frequência. Tratava-se, portanto, da análise espectral
+desses sinais. A análise espectral foi feita utilizando-se
+a Transformada de Fourier.
+A respeito dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+o O o eo</Unicode></TextEquiv></TextRegion></Page></PcGts>

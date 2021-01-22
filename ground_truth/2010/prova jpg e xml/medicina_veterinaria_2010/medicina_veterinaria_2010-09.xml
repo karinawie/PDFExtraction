@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T11:47:23</Created>
+	<LastChange>2020-10-27T11:58:50</LastChange></Metadata>
+	<Page imageFilename="medicina_veterinaria_2010-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1553,418 1553,624 826,624 826,625 99,625 99,626 98,626 98,418"/>
+	<TextEquiv conf="0.95700">
+	<Unicode>QUESTÃO 11
+Um cão, da raça pastor alemão, com 6 meses de idade, foi levado a uma clínica veterinária apresentando regurgitação
+de alimento não digerido (pH mais elevado que o conteúdo gástrico) após a ingestão. Esse evento tem se repetido nos
+últimos 5 meses, logo após o desmame. O animal ainda se apresentava caquético, com tosse intermitente, estertor
+úmido à ausculta pulmonar e pouca produção de fezes. Os sinais clínicos respiratórios foram considerados secundários,
+em decorrência de um problema maior. Suspeitando de uma afecção esofágica, o clínico realizou uma radiografia para
+confirmação, a qual indicou dilatação cranial na base do coração, que pode ser visualizada na figura</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="300,714 300,1071 811,1071 811,714"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="885,702 885,1059 1396,1059 1396,702"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="873,1210 873,1567 1384,1567 1384,1210"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="302,1219 302,1576 813,1576 813,1219"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="316,1690 316,2047 827,2047 827,1690"/></ImageRegion></Page></PcGts>

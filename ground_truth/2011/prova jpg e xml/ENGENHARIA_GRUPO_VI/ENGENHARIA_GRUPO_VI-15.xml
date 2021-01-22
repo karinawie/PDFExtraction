@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T02:22:26</Created>
+	<LastChange>2020-10-30T02:37:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_VI-15.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="96,192 270,192 270,267 1536,267 1536,567 1533,567 1533,635 1326,635 1326,636 1324,636 1324,1452 1184,1452 1184,1678 534,1678 534,1733 211,1733 211,2007 131,2007 131,2008 105,2008 105,2010 81,2010 81,1452 80,1452 80,267 96,267"/>
+	<ImageRegion id="r1">
+	<Coords points="336,678 336,1368 1310,1368 1310,678"/></ImageRegion>
+	<TextEquiv conf="0.96065">
+	<Unicode>QUESTÃO 17
+Suponha que a taxa de quebra de caminhões de uma transportadora pode ser descrita como um processo de
+Poisson com média 2 caminhões/dia. Para prover manutenção à frota, a transportadora pode optar por contratos de
+exclusividade entre duas empresas: a oficina A, cuja taxa de reparos obedece à distribuição exponencial com taxa de
+3 caminhões/dia e a oficina B, cuja a taxa de reparos obedece à distribuição exponencial com taxa de 4 caminhões
+por dia. A empresa A cobra R$ 2 000,00 por dia durante a vigência do contrato e a empresa B, R$ 4 000,00 por dia,
+também durante a vigência do contrato. Ambos os contratos são remunerados diariamente, independentemente das
+respectivas ociosidades.
+O gráfico a seguir apresenta o número médio de caminhões parados em função de diversas taxas médias de utilização.
+Sabendo que o custo diário por caminhão parado é de R$ 2 400,00, analise as seguintes afirmações.
+I. O custo médio total de contratar B é maior que o custo médio total de contratar A.
+II. A transportadora deve contratar a oficina A, pois sua taxa de utilização será maior.
+III. O custo médio total de contratar A é de R$ 6 800,00 por dia.
+IV. A oficina B tem maior ociosidade que a oficina A.
+É correto apenas o que se afirma em
+A I.
+B II.
+C I e III.
+D II e IV.
+E III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

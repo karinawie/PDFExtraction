@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:05</Created>
+	<LastChange>2020-11-16T04:03:26</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-29.jpg" imageWidth="1613" imageHeight="2165">
+	<ImageRegion id="r4">
+	<Coords points="408,323 408,733 1239,732 1239,322"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,252 1440,252 1440,278 1261,278 1261,845 1233,845 1233,1099 245,1099 245,1320 130,1320 130,1318 81,1318 81,846 80,846"/>
+	<TextEquiv conf="0.96409">
+	<Unicode>QUESTÃO 45
+Os amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações.
+Considerando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.
+|. Acorrente il é idealmente nula.
+Il. A corrente i2 é idealmente nula.
+Il. O circuito exemplifica um seguidor de tensão.
+IV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.
+V. Adiferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.
+É correto apenas o que se afirma em
+Lie.
+LIVelv
+Lev,
+I,IVeV.
+IM, IVEeV.
+cCoçgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

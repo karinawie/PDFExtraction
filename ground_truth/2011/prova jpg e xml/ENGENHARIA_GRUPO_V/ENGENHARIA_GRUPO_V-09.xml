@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:48:02</Created>
+	<LastChange>2020-10-30T02:14:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-09.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r1">
+	<Coords points="806,194 807,2005 809,2005 808,194"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="841,189 1010,189 1010,252 1536,252 1536,771 1535,771 1535,982 1536,982 1536,1074 1535,1074 1535,1397 1279,1397 1279,1486 948,1486 948,1628 956,1628 956,1647 876,1647 876,1648 849,1648 849,1650 826,1650 826,1409 919,1409 919,1218 874,1218 874,1198 919,1198 919,1075 874,1075 874,959 824,959 824,867 825,867 825,252 841,252"/>
+	<TextEquiv conf="0.96332">
+	<Unicode>QUESTÃO 11
+Um dos materiais mais avançados e promissores
+em engenharia são os compósitos feitos a partir
+de uma matriz de carbono reforçado com fibras de
+carbono. Esse material é denominado de compósito
+carbono-carbono termoestruturado, sendo aplicado em
+componentes avançados como motores de foguetes,
+materiais de atrito em aeronaves e automóveis de alto
+desempenho, de estampagem a quente, bem como
+componentes para motores de turbina avançados
+e como escudos térmicos em veículos espaciais de
+reentrada na atmosfera. O material é produzido por
+meio da conformação de um padrão bi ou tridimensional
+de fibras contínuas de carbono impregnadas por resina
+polimérica líquida do tipo fenólica e pirolisada, isto é,
+convertida em carbono através do aquecimento em
+atmosfera inerte.
+CALLISTER, W. D. Jr. Ciência e Engenharia de Materiais: uma introdução,
+Rio de Janeiro: LTC, 5 ed, p. 375, 2002 (com adaptações).
+Avalie em quais das seguintes afirmações as relações
+entre propriedade e estrutura dos compósitos referidos
+acima podem ser evidenciadas.
+|. A eliminação de átomos de oxigênio, nitrogênio
+e hidrogênio promove aumento no número de
+ligações intermoleculares.
+A cadeia molecular resultante do tratamento
+térmico em alta temperatura promove a formação
+de grandes cadeias carbônicas.
+Aligação covalente estabelecida entre os átomos de
+carbono confere uma inércia química ao compósito
+quando solicitados em temperaturas elevadas.
+A redução de ligações do tipo de van der Waals
+promove propriedades mecânicas superiores às
+dos compósitos de fibra de carbono e resina.
+É correto apenas o que se afirma em
+o.
+.
+lei.
+Ieilv.
+Welv.
+Wu.
+[MEONORO)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="96,1134 270,1134 270,1197 791,1197 791,1499 790,1499 790,2010 128,2010 128,1972 81,1972 81,1721 80,1721 80,1197 96,1197"/>
+	<TextEquiv conf="0.96569">
+	<Unicode>QUESTÃO 10
+Em 1997, a entrada em vigor da norma brasileira NBR IEC
+64 estabeleceu que as tensões de projeto das lâmpadas
+incandescentes com filamento de tungstênio seriam de
+120 e 220 volts, deixando de existir a tensão de projeto
+de 127 volts. Com a substituição, as novas lâmpadas
+projetadas para 120 volts passaram a ser usadas no lugar
+das lâmpadas projetadas para 127 volts. Essa situação
+permaneceu até o ano 2000, quando uma nova norma foi
+publicada pela ABNT.
+Fazendo uma comparação entre lâmpadas com tensões de
+projeto de 127 V e de 120 V e com os mesmos valores de
+potência e vida nominais (por exemplo, uma projetada para
+127 V, 60 W e 1 000 h e outras projetadas para 120 V, 60 W
+e 1 000 h), é correto concluir que, com a norma NBR IEC 64,
+as lâmpadas instaladas nas residências brasileiras
+passaram a apresentar vida útil menor.
+passaram a apresentar fluxo luminoso menor.
+passaram a apresentar potência elétrica menor.
+passaram a apresentar temperatura de operação do
+filamento ligeiramente menor.
+não alteraram suas características de funcionamento
+porque a potência nominal se manteve.
+o oOocoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,189 254,189 254,253 791,253 791,623 790,623 790,964 791,964 791,1022 790,1022 790,1099 128,1099 128,1061 81,1061 81,708 80,708 80,623 79,623 79,253 96,253"/>
+	<TextEquiv conf="0.96473">
+	<Unicode>QUESTÃO 9
+As ligas metálicas utilizadas em projetos de engenharia
+são, em sua maioria, materiais cristalinos. Esse tipo
+de estrutura corresponde a uma distribuição regular
+e repetida, em longo alcance, dos átomos no espaço
+tridimensional. Devido a razões de diferentes naturezas,
+essa regularidade não é observada e defeitos cristalinos
+são encontrados. Os defeitos de linha, denominados
+discordâncias, são os maiores responsáveis pelo
+mecanismo de deformação plástica e endurecimento nas
+ligas metálicas cúbicas de face centrada (CFC) e cúbicas
+de corpo centrado (CCC).
+Normalmente, verifica-se que as ligas CFC são mais
+dúcteis do que as ligas CCC. Isso se justifica porque
+A o vetor de Burgers das ligas CFC é sempre maior que
+nas ligas CCC.
+B o vetor de Burgers das ligas CFC é sempre menor que
+nas ligas CCC.
+C a combinação de direções e planos mais densos é
+mais favorável para as ligas CCC.
+D a combinação de direções e planos mais densos é
+mais favorável para as ligas CFC.
+E a combinação do vetor de Burgers e planos menos
+densos é mais favorável para as ligas CFC.</Unicode></TextEquiv></TextRegion></Page></PcGts>

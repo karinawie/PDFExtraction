@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T20:26:17</Created>
+	<LastChange>2021-01-19T18:47:02</LastChange></Metadata>
+	<Page imageFilename="DESIGN-14.jpg" imageWidth="1637" imageHeight="2188">
+	<ImageRegion id="r0">
+	<Coords points="62,632 62,1132 1491,1132 1491,632"/></ImageRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="112,169 311,169 311,241 1526,241 1526,297 819,297 819,298 289,298 289,525 111,525 111,241 112,241"/>
+	<TextEquiv conf="0.93138">
+	<Unicode>QUESTÃO 21:
+A combinação de duas das três cores básicas do sistema aditivo, também chamado de cor-luz,
+resulta em
+A) amarelo.
+B) cinza.
+C) preto.
+D) verde.
+E) vermelho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="112,566 311,566 311,1178 1527,1178 1527,1870 820,1870 820,1871 113,1871 113,1872 113,1782 112,1782 112,1465 111,1465 111,1178 112,1178"/>
+	<TextEquiv conf="0.43695">
+	<Unicode>QUESTÃO 22:
+Segundo o princípio da continuidade, também conhecido como lei da boa continuação, tende-se
+a agrupar elementos visuais semelhantes que estejam arranjados de forma a sugerir uma linha,
+tal como uma linha tracejada ou pontilhada.
+De que forma as barras desse gráfico poderiam ser modificadas, de modo a adequar-se a essa
+lei e auxiliar a compreensão do leitor?
+A) As barras deveriam estar dispostas horizontalmente, em distâncias crescentes e em ordem
+alfabética.
+B) As barras deveriam estar divididas em três grupos, cada um arranjado em ordem crescente ou
+decrescente.
+C) As barras deveriam estar mais próximas, em distâncias regulares e em ordem crescente ou
+decrescente.
+D) As barras deveriam ter todas a mesma altura, mas com diferentes larguras, e estarem dispostas em
+ordem alfabética.
+E) As barras referentes à Teoria Crítica e à História, assim como as de Tecnologia e Projeto, deveriam
+estar mais próximas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

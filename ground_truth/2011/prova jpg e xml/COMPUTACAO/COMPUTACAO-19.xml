@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:06</Created>
+	<LastChange>2020-11-16T04:05:40</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-19.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="394,272 1221,272 1221,645 1536,645 1536,774 1314,774 1314,932 1535,932 1535,1102 1536,1102 1536,1128 1123,1128 1123,1179 81,1179 81,1180 80,1180 80,1102 144,1102 144,893 80,893 80,645 394,645"/>
+	<TextEquiv conf="0.96281">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Listas ordenadas implementadas com vetores são estruturas
+de dados adequadas para a busca binária, mas possuem o
+inconveniente de exigirem custo computacional de ordem linear
+para a inserção de novos elementos. Se as operações de inserção
+ou remoção de elementos forem frequentes, uma alternativa é
+transformar a lista em uma árvore binária de pesquisa balanceada,
+que permitirá a execução dessas operações com custo logarítmico.
+Considerando essas informações, escreva um algoritmo recursivo que construa uma árvore binária de pesquisa
+completa, implementada por estruturas auto-referenciadas ou apontadores, a partir de um vetor ordenado, v, de n
+inteiros, em que n = 2"- 1, m &gt; 0. O algoritmo deve construir a árvore em tempo linear, sem precisar fazer qualquer
+comparação entre os elementos do vetor, uma vez que este já está ordenado. Para isso,
+a) descreva a estrutura de dados utilizada para a implementação da árvore (valor = 2,0 pontos)
+b) escreva o algoritmo para a construção da árvore. A chamada principal à função recursiva deve passar, como
+parâmetros, o vetor, índice do primeiro e último elementos, retornando a referência ou apontador para a raiz da
+árvore criada (valor: 8,0 pontos).
+Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos deve ser
+considerada, assim como em uma linguagem de alto nível, como o Pascal, C e Java.</Unicode></TextEquiv></TextRegion></Page></PcGts>

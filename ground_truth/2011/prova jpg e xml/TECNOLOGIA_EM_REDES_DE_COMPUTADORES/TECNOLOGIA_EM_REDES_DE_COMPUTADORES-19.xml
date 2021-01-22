@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T19:47:53</Created>
+	<LastChange>2020-10-30T20:15:04</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_REDES_DE_COMPUTADORES-19.jpg" imageWidth="1613" imageHeight="2162">
+	<SeparatorRegion id="r2">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="841,192 1015,192 1015,259 1538,259 1538,1085 1535,1085 1535,1183 1494,1183 1494,1237 1457,1237 1457,1281 1346,1281 1346,1327 1219,1327 1219,1416 874,1416 874,1413 826,1413 826,1183 825,1183 825,259 841,259"/>
+	<TextEquiv conf="0.96757">
+	<Unicode>QUESTÃO 33
+Um firewall de uma corporação possui duas interfaces de
+rede. A interface externa está conectada à Internet e está
+associada a um único IP real, e a interface interna está
+conectada à rede corporativa e está associada a um único
+endereço |P privado (RFC 1918). A NAT (Network Address
+Translation) já está configurada corretamente nesse
+firewall para ser realizada no momento em que o pacote
+passa pela interface externa, permitindo que os hosts da
+rede interna possam estabelecer conexões com hosts da
+Internet. Contudo, para que os usuários da corporação
+possam acessar a Internet, o filtro de pacotes ainda
+precisa liberar a saída de pacotes. O filtro de pacotes já
+está configurado para bloquear todo o tráfego (entrada e
+saída) para/da interface externa e todo o tráfego (entrada
+e saída) para/da interface interna está liberado. Considere
+que esse firewall sempre executa as regras de NAT antes
+das regras de filtragem de pacotes (ex: OpenBSD Packet
+Filter) e que seu filtro de pacotes é capaz de realizar a
+inspeção de estados (stateful inspection). Para que esse
+firewall permita que todos os hosts da rede interna possam
+conectar-se à Internet, deve-se incluir regras que liberam
+a saída na interface externa.
+O endereço IP de origem utilizado para escrever essas
+regras deve ser
+o endereço privado da interface interna do firewall.
+o endereço real da interface externa do firewall.
+o endereço privado do host de origem.
+o endereço da rede interna.
+CoOogGoos
+o endereço da rede externa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="96,192 270,192 270,257 789,257 789,376 790,376 790,1413 128,1413 128,1278 127,1278 127,1126 128,1126 128,790 81,790 81,606 80,606 80,453 145,453 145,350 80,350 80,257 96,257"/>
+	<TextEquiv conf="0.96295">
+	<Unicode>QUESTÃO 32
+As camadas de apresentação e sessão do modelo
+de referência ISO/OSI não existem no modelo de
+referência TCP/IP.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma
+Abordagem Top-Down. 5. ed. São Paulo: Addison Wesley, 2010.
+Considere um programa de computador que utiliza
+comunicação TCP/IP e precisa implementar funções
+dessas camadas. Nesse caso, a implementação deverá
+ser realizada para ativar na camada de
+O aplicação, para permitir que sejam transmitidos fluxos
+de dados independentes em uma mesma conexão
+TCP e impedir que dados sejam enviados a uma taxa
+mais alta do que o host de destino pode processar.
+aplicação, para codificar/decodificar caracteres entre
+plataformas heterogêneas e reiniciar umatransferência
+de dados a partir do ponto em que ela foi interrompida.
+aplicação, para codificar/decodificar caracteres entre
+plataformas heterogêneas e impedir que dados sejam
+enviados a uma taxa mais alta do que o hostde destino
+pode processar.
+transporte, para permitir que sejam transmitidos fluxos
+de dados independentes em uma mesma conexão
+TCP e impedir que dados sejam enviados a uma taxa
+mais alta do que o host de destino pode processar.
+transporte, para codificar/decodificar caracteres entre
+plataformas heterogêneas e reiniciar umatransferência
+de dados a partir do ponto em que ela foi interrompida.</Unicode></TextEquiv></TextRegion></Page></PcGts>

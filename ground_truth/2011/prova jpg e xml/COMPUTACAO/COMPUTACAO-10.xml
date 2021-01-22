@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:57</Created>
+	<LastChange>2020-11-16T04:07:50</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-10.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r3">
+	<Coords points="807,197 807,2008 808,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="825,261 1535,261 1535,561 1536,561 1536,708 1525,708 1525,814 1520,814 1520,946 1533,946 1533,1054 1536,1054 1536,1488 1534,1488 1534,1669 1535,1669 1535,2010 873,2010 873,1691 826,1691 826,1546 824,1546 824,1521 825,1521 825,1024 824,1024 824,946 826,946 826,708 825,708"/>
+	<TextEquiv conf="0.96285">
+	<Unicode>QUESTÃO 13
+O problema do escalonamento de intervalos tem como
+entrada um conjunto de intervalos numéricos (usualmente
+interpretados como início e fim de atividades), e o objetivo
+é escolher, desse conjunto, o maior número possível
+de intervalos disjuntos dois a dois. Há vários problemas
+práticos que podem ser modelados dessa forma, como,
+por exemplo, a seleção de tarefas com horário marcado.
+O problema do escalonamento de intervalos pode ser
+resolvido com o algoritmo descrito a seguir. O conjunto
+de intervalos dados inicialmente é R e o conjunto de
+intervalos escolhidos, A, começa vazio.
+enquanto R não estiver vazio,
+seja x o intervalo de R com menor tempo
+de término, e que não tenha interseção com
+algum intervalo em A
+retire x de R e adicione ao conjunto A
+retorne A
+A respeito desse algoritmo, analise as seguintes asserções.
+Para checar se o algoritmo está correto, basta verificar
+que o primeiro intervalo adicionado ao conjunto À
+necessariamente faz parte de uma solução ótima.
+PORQUE
+Pode-se mostrar, por indução no número máximo de
+intervalos calculados (ou seja, no número de vezes que
+o laço “enquanto” é executado), que, embora possa haver
+soluções tão boas quanto A, nenhuma delas é estritamente
+melhor que A. O conjunto com um único intervalo é a base
+de indução.
+Acerca dessas asserções, assinale a opção correta.
+o
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+o
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A segunda asserção é uma proposição falsa e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,253 793,253 793,379 790,379 790,1024 127,1024 127,955 81,955 81,523 79,523 79,402 80,402"/>
+	<TextEquiv conf="0.96337">
+	<Unicode>QUESTÃO 11
+O problema da parada para máquinas de Turing, ou
+simplesmente problema da parada, pode ser assim
+descrito: determinar, para quaisquer máquina de Turing M
+e palavra w, se Mirá eventualmente parar com entrada w.
+Mais informalmente, o mesmo problema também pode
+ser assim descrito: dados um algoritmo e uma entrada
+finita, decidir se o algoritmo termina ou se executará
+indefinidamente.
+Para o problema da parada,
+o
+existe algoritmo exato de tempo de execução
+polinomial para solucioná-lo.
+existe algoritmo exato de tempo de execução
+exponencial para solucioná-lo.
+não existe algoritmo que o solucione, não importa
+quanto tempo seja disponibilizado.
+não existe algoritmo exato, mas existe algoritmo de
+aproximação de tempo de execução polinomial que o
+soluciona, fornecendo respostas aproximadas.
+não existe algoritmo exato, mas existe algoritmo de
+aproximação de tempo de execução exponencial que
+o soluciona, fornecendo respostas aproximadas.
+o
+o
+o
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,1125 789,1125 789,1226 258,1226 258,1423 790,1423 790,1569 789,1569 789,1698 790,1698 790,1757 534,1757 534,1798 211,1798 211,2007 104,2007 104,2009 81,2009 81,1768 129,1768 129,1698 174,1698 174,1623 175,1623 175,1488 79,1488 79,1423 82,1423 82,1226 80,1226"/>
+	<TextEquiv conf="0.92099">
+	<Unicode>QUESTÃO 12
+Considere a gramática a seguir, em que S, Ae B
+são símbolos não terminais, O e 1são terminais e cé a
+cadeia vazia.
+S — 15|/0A/|e
+A — 15|0BJe
+B —1S|e
+Arespeito dessa gramática, analise as afirmações a seguir.
+|. Nas cadeias geradas por essa gramática, o último
+símbolo é 1.
+O número de zeros consecutivos nas cadeias
+geradas pela gramática é, no máximo, dois.
+O número de uns em cada cadeia gerada pela
+gramática é maior que o número de zeros.
+Nas cadeias geradas por essa gramática, todos os
+uns estão à esquerda de todos os zeros.
+É correto apenas o que se afirma em
+l.
+W.
+lei.
+Ieilv.
+Weiv.
+IV.
+cCogGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

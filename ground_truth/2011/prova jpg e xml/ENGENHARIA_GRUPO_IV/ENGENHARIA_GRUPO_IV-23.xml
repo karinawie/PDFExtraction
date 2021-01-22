@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:07:48</Created>
+	<LastChange>2020-10-30T01:26:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_IV-23.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="96,191 270,191 270,289 1534,289 1534,315 402,315 402,1122 1534,1122 1534,1310 1535,1310 1535,1336 1534,1336 1534,1572 1530,1572 1530,1627 534,1627 534,1690 234,1690 234,2010 81,2010 81,1273 80,1273 80,1122 81,1122 81,289 96,289"/>
+	<TextEquiv conf="0.94572">
+	<Unicode>QUESTÃO 33
+Na figura abaixo, observa-se o diagrama de fases da água, que mostra o comportamento da água em função da
+pressão e da temperatura.
+Com o auxílio desse diagrama, avalie as afirmações abaixo relativas às técnicas utilizadas na conservação dos alimentos.
+I. Na liofilização dos alimentos, ocorre a sublimação do gelo nas seguintes condições: pressão menor que
+4,579 mmHg e temperatura menor que 0,01ºC.
+II. Verifica-se que a água encontra-se na forma de líquido quando a temperatura é 100 ºC e a pressão é de
+750 mmHg.
+III. Na concentração de alimentos líquidos, é possível realizar a evaporação de uma parte significativa da água;
+nesse caso, quando a pressão é igual a 760 mmHg, a evaporação da água inicia-se a 100 ºC.
+IV. No congelamento dos alimentos, ocorre a redução da atividade de água, pois uma parte significativa da água
+do alimento fica indisponível para multiplicação de microrganismos e para as reações químicas e bioquímicas.
+É correto apenas o que se afirma em
+A I e III.
+B II e III.
+C II e IV.
+D I, II e IV.
+E I, III e IV.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="242,407 242,1068 1536,1068 1536,407"/></ImageRegion></Page></PcGts>

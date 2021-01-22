@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T03:59:59</Created>
+	<LastChange>2020-10-30T11:32:37</LastChange></Metadata>
+	<Page imageFilename="FISICA-17.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="119,192 430,192 430,262 1298,262 1298,732 940,732 940,857 1533,857 1533,1078 1534,1078 1534,1149 1071,1149 1071,1150 607,1150 607,1151 144,1151 144,1152 143,1152 143,1078 144,1078 144,932 143,932 143,820 80,820 80,794 599,794 599,685 317,685 317,686 316,686 316,571 317,571 317,330 316,330 316,218 119,218"/>
+	<TextEquiv conf="0.93264">
+	<Unicode>QUESTÃO DISCURSIVA 3
+A seguir são apresentados os dois principais enunciados da Segunda Lei da
+Termodinâmica referentes a máquinas térmicas.
+(i) Enunciado de Kelvin-Planck:
+É impossível para qualquer dispositivo que opera em um ciclo receber calor de
+um único reservatório e produzir uma quantidade líquida de trabalho.
+(ii) Enunciado de Clausius:
+É impossível construir um dispositivo que funcione em um ciclo e não produza
+qual outro efeito que não seja a transferência de calor de um corpo com
+temperatura mais baixa para um corpo com temperatura mais alta.
+BOLES, M. A. Termodinâmica. 5. ed. São Paulo: McGraw-Hill, p. 224-236, 2006.
+Considerando esses princípios, faça o que se pede nos itens a seguir.
+a) Exemplifique um dispositivo que ilustre o enunciado de Kelvin-Planck, comentando suas características.
+(valor: 3,0 pontos).
+b) Exemplifique um dispositivo que ilustre o enunciado de Clausius, comentando suas características.
+(valor: 3,0 pontos).
+c) Mostre que, se o enunciado de Kelvin-Planck for violado, o enunciado de Clausius necessariamente também
+será violado. (valor: 4,0 pontos).</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T01:30:24</Created>
+	<LastChange>2020-10-27T01:37:33</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_GESTAO_FINANCEIRA-20.jpg" imageWidth="1637" imageHeight="2188">
+	<ImageRegion id="r0">
+	<Coords points="197,343 197,1086 1394,1086 1394,343"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="112,169 311,169 311,251 1527,251 1527,1189 1526,1189 1526,1382 1016,1382 1016,1502 112,1502 112,1234 110,1234 110,1205 111,1205 111,1183 112,1183"/>
+	<TextEquiv conf="0.36575">
+	<Unicode>QUESTÃO 37:
+No gráfico a seguir, apresenta-se a correlação entre os retornos mensais do ativo BBGR4
+(variável y) e os retornos mensais do mercado (variável x).
+Sabendo-se que o retorno médio do mercado é de 3% ao mês e que o retorno de um ativo livre
+de risco é de 0,5% ao mês, é CORRETO afirmar que
+A) o ativo BBGRA4 é pouco sensível às oscilações do mercado.
+B) o coeficiente beta do ativo BBGR4 é igual a 1,5.
+C) o mercado não está pagando prêmio por risco para a sensibilidade do ativo BBGR4 às oscilações do
+mercado.
+D) o prêmio de mercado é igual a 5% ao mês.
+E) o retorno esperado para o ativo BBGR4 é igual a 5,5% ao mês.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T01:45:07</Created>
+	<LastChange>2020-10-30T02:03:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_V-24.jpg" imageWidth="1613" imageHeight="2162">
+	<TextRegion id="r28" type="heading">
+	<Coords points="96,189 431,189 431,262 1534,262 1534,305 1535,305 1535,429 1035,429 1035,523 80,523 80,524 79,524 79,497 80,497 80,262 96,262"/>
+	<TextEquiv conf="0.95721">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Você foi contratado por uma nova empresa de fundição de grades de chumbo para acumuladores automotivos (bateria
+de carro). A empresa não tem noção de qual é o melhor processo de fundição para fabricar tais grades, e designou você
+para ser o responsável pela escolha do processo. Decidiu-se trabalhar com liga de chumbo (ponto de fusão em torno
+de 330ºC), com produção diária de 200.000 grades/dia, com espessura da grade de 4 mm e com fabricação de duas
+grades por vez (“gêmea” com 0,600 + 0,015 kg).
+As tabelas a seguir apresentam informações acerca do processo de fundição.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="71,531 71,2018 1539,2018 1539,531"/></TableRegion></Page></PcGts>

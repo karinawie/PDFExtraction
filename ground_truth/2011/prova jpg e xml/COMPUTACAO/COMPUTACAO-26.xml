@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:29:21</Created>
+	<LastChange>2020-11-16T04:04:06</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-26.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r4">
+	<Coords points="805,197 807,2008 810,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="825,276 1534,276 1534,277 1535,277 1535,707 1071,707 1071,814 1113,814 1113,878 1162,878 1162,941 1391,941 1391,1004 1438,1004 1438,1032 826,1032 826,580 825,580"/>
+	<TextEquiv conf="0.96271">
+	<Unicode>QUESTÃO 42
+Sabendo que a principal tarefa de um sistema será de
+classificação em domínios complexos, um gerente de
+projetos precisa decidir como vai incorporar essa capa-
+cidade em um sistema computacional a fim de torná-lo
+inteligente. Existem diversas técnicas de inteligência
+computacional / artificial que possibilitam isso.
+Nesse contexto, a técnica de inteligência artificial mais
+indicada para o gerente é
+O lógica nebulosa.
+O árvores de decisão.
+O redes neurais artificiais.
+O ACO (do inglês, Ant-Colony Optimization).
+OQ PSO (do inglês, Particle Swarm Optimization).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="78,457 78,721 786,721 786,457"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,279 790,279 790,361 789,361 789,1173 790,1173 790,1558 791,1558 791,1955 362,1955 362,2013 128,2013 128,1956 81,1956 81,1388 80,1388 80,864 79,864 79,780 80,780 80,779 81,779 81,362 79,362"/>
+	<TextEquiv conf="0.96541">
+	<Unicode>QUESTÃO 41
+A figura abaixo ilustra a tentativa de se utilizar um filtro
+digital no domínio da frequência, para suavizar o sinal
+bidimensional de entrada que está no domínio do espaço.
+A partir do resultado obtido no processo de filtragem,
+analise as seguintes asserções e a relação proposta
+entre elas.
+O sinal de saída possui as características de um sinal
+processado por um filtro passa-baixa ideal.
+PORQUE
+Embora suavizado, o sinal de saída evidencia a presença
+do efeito de ringing, que é típico de um sinal convolucionado
+pela função sinc no domínio do espaço.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O A primeira asserção é uma proposição verdadeira e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

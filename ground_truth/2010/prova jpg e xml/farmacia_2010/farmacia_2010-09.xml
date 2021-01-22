@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T21:52:17</Created>
+	<LastChange>2020-10-27T03:01:02</LastChange></Metadata>
+	<Page imageFilename="farmacia_2010-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="827,347 832,2089 838,2089 833,347"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="77,808 77,1485 797,1485 797,808"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="857,694 857,1117 1577,1117 1577,694"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,347 308,347 308,413 793,413 793,2092 450,2092 450,2093 107,2093 107,2094 106,2094 106,785 104,785 104,413 106,413"/>
+	<TextEquiv conf="0.30684">
+	<Unicode>QUESTÃO 11
+Uma solução aquosa S$ precisa ser conservada a -20 ºC,
+após ser fracionada em doses de 10 g e acondicionada
+hermeticamente fechada em frasco-ampola. A escolha
+da embalagem será determinada pela variação de seu
+volume no gradiente de temperatura que vai desde o
+ambiente de produção à temperatura de um congelador
+a -20 ºC. O gráfico abaixo ilustra o comportamento do
+volume de 10 g da solução S, em três embalagens
+(A, B e C), com capacidade de 12 mL cada uma, durante
+o resfriamento.
+Para o acondicionamento de S, deve-se aprovar
+O aembalagem A, pois seu volume é mais estável que
+o das demais durante o resfriamento.
+O as embalagens A e C, pois a retração de seus
+volumes resiste à expansão da solução S, sem que
+elas se quebrem.
+O asembalagens Ae B, pois seu volume é mais estável
+que o das demais durante o resfriamento.
+O aembalagem C, pois a retração de seu volume
+resiste à expansão da solução S, sem que C
+se quebre.
+O aembalagem B, pois a retração de seu volume
+resiste à expansão da solução S, sem que B
+se quebre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="874,341 1081,341 1081,414 1561,414 1561,675 1560,675 1560,1239 1561,1239 1561,1412 1562,1412 1562,1915 1560,1915 1560,2091 1219,2091 1219,2092 875,2092 875,2093 874,2093 874,1210 872,1210 872,414 874,414"/>
+	<TextEquiv conf="0.96723">
+	<Unicode>QUESTÃO 12
+A simplificação molecular, uma das estratégias
+de modificação molecular que geram moléculas mais
+simples, foi empregada para o desenvolvimento do
+fentanil, um potente analgésico, que tem como base a
+estrutura da morfina, em que foram mantidos os principais
+grupos farmacóforos, responsáveis pela atividade
+terapêutica, conforme figura apresentada a seguir.
+Na obtenção desse fármaco, observa-se que O
+fentanil preservou
+O um grupo aromático, um quaternário de amônio e
+um carboxílico, os quais são capazes de realizar
+interações do tipo hidrofílica, hidrofóbica e ligação
+de hidrogênio, como doador de elétrons, com o
+receptor, respectivamente.
+O um grupo aromático, um quaternário de amônio e
+um grupo éster, os quais são capazes de realizar
+interações do tipo hidrofóbica, eletrostática e ligação
+de hidrogênio, como aceptor de elétrons, com o
+receptor, respectivamente.
+O um grupo aromático, um quaternário de amônio e
+éter, os quais são capazes de realizar interações
+do tipo eletrostática, hidrofóbica e ligação de
+hidrogênio, como doador de elétrons, com o receptor,
+respectivamente.
+O um grupo heterocíclico, um quaternário de amônio
+e uma amida, os quais são capazes de realizar
+interações do tipo hidrofílica, hidrofóbica e ligação
+de hidrogênio, como aceptor de elétrons, com o
+receptor, respectivamente.
+O umgrupo aromático, um grupo amida e uma hidroxila
+fenólica, os quais são capazes de realizar interações
+do tipo hidrofóbica, ligação de hidrogênio, como
+aceptor de elétrons, e ligação de hidrogênio, como
+doador de elétrons, com o receptor, respectivamente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

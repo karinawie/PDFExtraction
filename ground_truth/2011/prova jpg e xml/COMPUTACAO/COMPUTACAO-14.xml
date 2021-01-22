@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-05T21:30:31</Created>
+	<LastChange>2020-11-16T04:06:48</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-14.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r6">
+	<Coords points="806,197 807,2008 809,2008 808,197"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="818,481 818,931 1531,931 1531,481"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="284,323 284,1102 586,1102 586,323"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,238 790,238 790,1136 791,1136 791,1137 792,1137 792,1204 494,1204 494,1459 81,1459 81,1137 80,1137"/>
+	<TextEquiv conf="0.91497">
+	<Unicode>QUESTÃO 22
+Considere a seguinte tabela verdade, na qual estão
+definidas quatro entradas — A, B, Ce D— e uma saída S.
+A menor expressão de chaveamento representada por
+uma soma de produtos correspondente à saída S é
+O AB(D+C')--AD'+ABC.
+O AD+ABD'+ABC+AB'C:.
+O AD'+ABD+ABC+ABC.
+O (A+D)(A+B+C')(A+B'+C+D').
+O (A+D')(A+B+C)(A+B+C'+D).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="825,268 1535,268 1535,1287 1536,1287 1536,1432 1246,1432 1246,1474 873,1474 873,1384 826,1384 826,1041 824,1041 824,269 825,269"/>
+	<TextEquiv conf="0.91652">
+	<Unicode>QUESTÃO 23
+Autômatos finitos possuem diversas aplicações práticas,
+como na detecção de sequências de caracteres em
+um texto. A figura abaixo apresenta um autômato que
+reconhece sequências sobre o alfabeto XY =fa,b,ck e
+uma gramática livre de contexto que gera um subconjunto
+de &gt; ,emque » representa o string vazio.
+Analisando a gramática e
+conclui-se que
+o autômato acima,
+O a linguagem gerada pela gramática é inerentemente
+ambígua.
+a gramática é regular e gera uma linguagem livre de
+contexto.
+a linguagem reconhecida pelo autômato é a mesma
+gerada pela gramática.
+o autômato reconhece a linguagem sobre &gt;: em que
+os strings possuem o prefixo ababc.
+a linguagem reconhecida pelo autômato é a
+mesma que a representada pela expressão regular
+o
+o
+o
+o
+(a + b + c)*(ab)*abe(a +b+ec)*.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T23:07:29</Created>
+	<LastChange>2020-10-29T23:21:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_GRUPO_I-18.jpg" imageWidth="1613" imageHeight="2165">
+	<SeparatorRegion id="r20">
+	<Coords points="804,197 807,2008 811,2008 808,197"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="96,192 270,192 270,250 792,250 792,534 790,534 790,1763 218,1763 218,2001 130,2001 130,2002 130,2001 81,2001 81,1763 80,1763 80,250 96,250"/>
+	<ImageRegion id="r1">
+	<Coords points="78,584 78,755 789,755 789,584"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="136,934 136,1663 734,1663 734,934"/></ImageRegion>
+	<TextEquiv conf="0.96704">
+	<Unicode>QUESTÃO 25
+Uma solução plausível para drenar pequenas bacias,
+devido às chuvas de grande intensidade, é o uso de
+barragens. A altura da crista da barragem é igual à soma
+da altura da lâmina de água normal (Hn) com a altura da
+lâmina de água do ladrão (H1), acrescida da folga (F),
+como ilustrado na figura a seguir. O valor de H1 pode ser
+assumido igual a 1,0 m e recomenda-se que F corresponda a,
+no mínimo, 0,5 m.
+O gráfico abaixo apresenta o volume acumulado para as
+cotas da bacia em mº? (x10º).
+Qual o valor da cota da barragem (H = Hn + H1 + f) para
+um volume máximo de cheia de 62 x 10º mº?
+3,5 m.
+5,5 m.
+7,5m.
+9,5 m.
+12,5 m.
+CoOGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

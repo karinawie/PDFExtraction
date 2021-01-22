@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-30T18:02:06</Created>
+	<LastChange>2020-10-30T18:11:17</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_EM_AUTOMACAO_INDUSTRIAL-25.jpg" imageWidth="1613" imageHeight="2165">
+	<TextRegion id="r111" type="heading">
+	<Coords points="96,192 270,192 270,255 1534,255 1534,296 1535,296 1535,365 1534,365 1534,504 1286,504 1286,1424 1535,1424 1535,1492 854,1492 854,1648 761,1648 761,1697 534,1697 534,1754 211,1754 211,2006 81,2006 81,1491 80,1491 80,1423 329,1423 329,504 318,504 318,503 317,503 317,448 81,448 81,447 80,447 80,296 81,296 81,280 82,280 82,255 96,255"/>
+	<ImageRegion id="r1">
+	<Coords points="297,550 297,1368 1323,1368 1323,550"/></ImageRegion>
+	<TextEquiv conf="0.96598">
+	<Unicode>QUESTÃO 30
+Embora pareça operar como uma rede unificada, uma rede industrial não é composta de uma única tecnologia, pois
+nenhuma tecnologia isolada é suficiente para todos os usos. Em vez disso, o hardware de rede é projetado para situações
+e orçamentos específicos. Alguns grupos precisam de redes de alta velocidade para conectar dispositivos em um único
+espaço físico. Como o hardware de baixo custo, que funciona bem dentro desse espaço, não pode espalhar-se a grandes
+distâncias geográficas, é preciso usar uma alternativa para conectar dispositivos a milhares de quilômetros uma da outra.
+COMER, D. Interligação de redes com TCP/IP: princípios, protocolos e arquitetura. Vol. 1. Rio de Janeiro: Elsevier, 2006 (com adaptações).
+Esquema de interligação entre diversos equipamentos em uma rede industrial
+Considerando o padrão Ethernet, em que as aplicações de rede de uma determinada estação interagem com as
+aplicações de rede da estação indicada, e tendo como base a figura acima, analise as afirmações a seguir.
+|. Aestação | conversa com as estações 3, 4,6 e7.
+Ill. A estação 2 conversa com as estações 3 e 5.
+Ill. A estação 3 conversa com as estações 1,2,4,5,6e7.
+IV. A estação 4 conversa com as estações 3, 6 e 7.
+É correto apenas o que se afirma em
+o.
+o.
+O lei.
+O lleilv.
+O lllelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>
