@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T15:33:41</Created>
+	<LastChange>2021-01-17T19:47:00</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-19.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,179 226,179 226,218 1574,218 1574,496 1317,496 1317,537 926,537 926,647 1250,647 1250,719 1575,719 1575,781 1574,781 1574,936 1575,936 1575,999 80,999 80,1000 79,1000 79,827 80,827 80,683 81,683 81,425 80,425 80,281 79,281 79,218 80,218"/>
+	<TextEquiv conf="0.90890">
+	<Unicode>Questão 4
+Algumas mutações genéticas podem conferir vantagens adaptativas a certos indivíduos em certas populações. Um caso em
+questão é a anemia falciforme. Esta é uma doença causada por uma alteração de um aminoácido da cadeia beta da
+hemoglobina (substituição de um resíduo glutamato por valina, resultando na hemoglobina S, ou HbS). Indivíduos homozigotos
+apresentam sintomas severos para esta doença, enquanto heterozigotos (40% de hemoglobina S) levam uma vida quase
+normal. Heterozigotos para anemia falciforme, quando em áreas endêmicas de malária, apresentam uma vantagem adaptativa
+por serem mais resistentes a essa parasitose. Considere alguns aspectos relevantes dessa doença:
+|— aresidência do plasmódio no interior dos eritrócitos causa uma queda no valor do pH do meio intracelular em torno de
+0,4 unidades;
+ll— a diminuição do valor de pH altera a afinidade da hemoglobina por O, de acordo com a equação:
+Hb+O, e HbO, + H* (Efeito Bohr);
+Ill — a hemoglobina S polimeriza quando na forma desoxiemoglobina;
+IV — as alterações morfológicas nos eritrócitos reduzem seu tempo de vida médio na circulação;
+V-— a polimerização da hemoglobina S pode levar à lise de eritrócitos;
+Vl — a pressão parcial de O, (pO,) no pulmão (pressão arterial) equivale a -100 torr, e a pO, nos tecidos equivale a -30 torr
+(pressão venosa).
+Considerando essas informações, responda às questões a seguir.
+a) Qual a relação entre as pressões parciais de oxigênio, arteriais e venosas, e a proporção entre oxi e desoxiemoglobina?
+(valor: 4,0 pontos)
+b) Correlacione os aspectos de variações de pH com a polimerização da hemoglobina S. (valor: 4,0 pontos)
+c) Por que indivíduos heterozigotos para a anemia falciforme apresentam maior resistência à malária? (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

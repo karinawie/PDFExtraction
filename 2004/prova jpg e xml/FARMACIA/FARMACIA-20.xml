@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T12:33:29</Created>
+	<LastChange>2020-10-20T12:36:53</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-20.jpg" imageWidth="1653" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="278,423 278,1089 1400,1089 1400,423"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,213 81,213 81,214 217,214 217,215 226,215 226,250 1577,250 1577,410 1576,410 1576,1283 1575,1283 1575,1510 398,1510 398,1509 268,1509 268,1508 267,1508 267,1442 215,1442 215,1441 80,1441"/>
+	<TextEquiv conf="0.93770">
+	<Unicode>Questão 5
+O ácido fosfórico e seus derivados têm aplicação na formação de soluções tampão, desativantes de metais catalisadores de
+processos de auto-oxidação e na conservação de vários produtos provenientes da indústria alimentícia. Em meio aquoso, o
+ácido fosfórico se dissocia, apresentando os seguintes valores de pKa: pK,=2,15; pK,= 6,82 e pK, = 12,38 (lembre-se que
+pKas indicam valores de pH onde um ácido alcança sua meia-dissociação). As equações abaixo mostram as estruturas dos
+compostos correspondentes às três dissociações do ácido fosfórico, com as respectivas constantes de dissociação.
+a) Tendo em vista os valores de pKa acima, indique qual das espécies (A, B, C, ou D) seria a principal em pH fisiológico (&gt; 7,0),
+justificando sua resposta. (valor: 2,0 pontos)
+b) Considerando-se ainda os valores de pKa, notam-se variações crescentes nos valores de ApKa entre as equações |, Il e
+Ill, o que pode ser qualitativamente entendido como uma “resistência” do ácido fosfórico a novas dissociações, após a
+primeira dissociação (equação |). Qual a razão dessas variações crescentes nos valores de ApKa? (valor: 3,0 pontos)
+c) A composição formal de uma solução tampão é 0,12 mol/L de K,HPO, mais 0,08 mol/L de KH,PO,. Utilizando a Equação
+de Henderson-Hasselbach, apresentada abaixo, e considerando os valores de constante de dissociação e pKas forneci-
+dos acima, calcule o pH desta solução.
+ar
+pH=pKa + log Tea] Equação de Henderson-Hasselbach (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-23T14:39:15</Created>
+	<LastChange>2020-11-23T14:41:19</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-10.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="864,176 864,177 1551,177 1551,280 864,280 864,279 863,279 863,176"/>
+	<TextEquiv conf="0.85780">
+	<Unicode>Questão 10
+A soma de bases (em cmol, dm?) deste solo é
+(A) 2 (B)3 (0) 4 (D)5 (E) 6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="1574,325 1574,442 864,442 864,325"/>
+	<TextEquiv conf="0.96525">
+	<Unicode>Questão 11
+A saturação de bases é
+(A) 10% (B) 20% (C) 40% (D) 50% (E) 80%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="863,775 1026,775 1026,807 1027,807 1027,808 1574,808 1574,1493 1575,1493 1575,1942 1574,1942 1574,1943 864,1943 864,989 863,989"/>
+	<ImageRegion id="r7">
+	<Coords points="918,957 918,1476 1534,1476 1534,957"/></ImageRegion>
+	<TextEquiv conf="0.93670">
+	<Unicode>Questão 13
+A figura abaixo apresenta a água disponível, a quantidade
+de agregados estáveis em água e as perdas de solo que
+ocorreram em um latossolo, após 4 anos de cultivo sob sis-
+tema de plantio convencional e plantio direto.
+Com base nas informações contidas no gráfico, pode-se
+afirmar que
+(A) o plantio direto ofereceu menor proteção contra perdas
+de solo.
+(B) o plantio direto causou maior assoreamento de cursos
+d’água que o plantio convencional.
+(C) o sistema de plantio direto não deve ser preferido, em
+pequenas propriedades, pois evita as perdas de solo.
+(D) o sistema convencional reduziu a estabilidade dos agregados,
+aumentando as perdas por erosão.
+(E) no sistema convencional as plantas estiveram mais protegidas
+contra deficits hídricos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="863,468 1575,468 1575,683 1574,683 1574,730 865,730 865,728 864,728 864,684 863,684"/>
+	<TextEquiv conf="0.95946">
+	<Unicode>Questão 12
+Para elevar a saturação de bases deste solo para 70%, a
+necessidade de calagem por hectare, a 20 cm de profundidade,
+considerando um calcário com 100% de poder relativo
+de neutralização total (PRNT), calculada pelo Método da
+Elevação da Saturação de Bases, será, em toneladas, de
+(A) 0,5 (B) 1,0 (C) 1,5 (D) 2,0 (E) 3,0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,337 80,338 226,338 226,379 791,379 791,1513 81,1513 81,1120 80,1120 80,479 79,479 79,379 80,379"/>
+	<ImageRegion id="r12">
+	<Coords points="123,484 123,971 747,971 747,484"/></ImageRegion>
+	<TextEquiv conf="0.96003">
+	<Unicode>Questão 9
+A figura abaixo mostra a cobertura do solo proporcionada
+por quatro leguminosas utilizadas como plantas de cober-
+tura viva.
+Com base na figura e considerando que os solos desco-
+bertos são mais suscetíveis à erosão, pode-se afirmar que,
+para uma área declivosa, onde a vegetação foi drastica-
+mente removida, deve-se dar preferência ao plantio
+(A) da leguminosa "X", porque aos 60 dias após o plantio
+cobria mais que 75% do solo.
+(B) da leguminosa "W", que cobriu 50% do solo.
+(C) da leguminosa "Y", que apresentou comportamento
+intermediário a "X" e "Z".
+(D) da leguminosa "Z", que apresentou maior velocidade
+de cobertura do solo.
+(E) de qualquer uma das leguminosas, pois apresentaram
+a mesma eficiência de cobertura do solo.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r13">
+	<Coords points="78,1826 78,1944 792,1944 792,1826"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="142,1570 143,1570 143,1571 728,1571 728,1689 791,1689 791,1797 81,1797 81,1796 80,1796 80,1689 142,1689"/>
+	<TextEquiv conf="0.96537">
+	<Unicode>As questões de números 10 a 12 devem ser
+respondidas com base no enunciado abaixo.
+A tabela a seguir mostra os resultados de uma análise quí-
+mica de terra para fins de avaliação da fertilidade do solo
+de uma determinada gleba agrícola.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords points="826,1942 826,186"/></SeparatorRegion></Page></PcGts>

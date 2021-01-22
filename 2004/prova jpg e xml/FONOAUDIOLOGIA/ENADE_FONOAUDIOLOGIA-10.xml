@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T06:41:28</Created>
+	<LastChange>2020-11-13T02:56:17</LastChange></Metadata>
+	<Page imageFilename="ENADE_FONOAUDIOLOGIA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r107" type="paragraph">
+	<Coords points="299,269 1354,269 1354,879 1551,879 1551,905 245,905 245,958 104,958 104,905 102,905 102,879 299,879"/>
+	<TextEquiv conf="0.96373">
+	<Unicode>QUESTÃO 16
+João, 38 anos de idade, foi encaminhado pelo médico do trabalho para realização de
+audiometria tonal liminar, com queixas de zumbido bilateral muito intenso. Na anamnese, João
+relatou que vem trabalhando em uma tecelagem há 17 anos, em diversas posições próximas às
+máquinas, e que, nos últimos 4 anos, encontra-se no posto de supervisor dos operadores dos
+teares. Informou, ainda, que a empresa implementou um programa de conservação auditiva há
+2 anos. A partir de então, João passou a utilizar protetor auricular permanentemente durante o
+horário de trabalho e a realizar avaliações audiológicas periódicas. João refere não conhecer
+pessoas próximas na sua família que tenham apresentado problemas auditivos antes dos 50 anos
+de idade.
+Nessa situação, se João apresentar perda auditiva induzida por exposição ao ruído ocupacional, é provável que sua audiometria seja
+semelhante a</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="105,1008 105,1331 805,1331 805,1008"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="105,1354 105,1668 800,1668 800,1354"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="97,1688 97,2025 805,2025 805,1688"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="828,1011 828,1337 1540,1337 1540,1011"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="814,1348 814,1674 1542,1674 1542,1348"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T02:49:02</Created>
+	<LastChange>2020-09-19T03:00:29</LastChange></Metadata>
+	<Page imageFilename="EDUCACAO_FISICA-16.jpg" imageWidth="1653" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="278,218 278,810 1392,810 1392,218"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,180 226,180 226,875 1574,875 1574,1263 1077,1263 1077,1262 579,1262 579,1261 81,1261 81,1260 80,1260 80,1076 81,1076 81,204 80,204"/>
+	<TextEquiv conf="0.96341">
+	<Unicode>Questão 4
+Os dados do Censo do Ensino Superior, recentemente divulgados, mostram que, nos dois últimos quadriênios, a taxa de
+expansão das matrículas no ensino superior superou largamente a taxa de crescimento do Produto Interno Bruto. Além
+disso, superou também:
+* a taxa de crescimento populacional;
+* a taxa de crescimento da população jovem; e
+* a taxa de crescimento da Economia.
+Ainda conforme o último Censo, dentre os cursos da área de Saúde, o de Educação Física foi o que teve o maior número de
+matrículas (116.621) e o maior número de concluintes (14.560). Analise esses dados, apontando duas possíveis causas que
+expliquem o quadro existente e duas prováveis consequências dessa situação para a inserção do formado em Educação
+Física no mundo do trabalho. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

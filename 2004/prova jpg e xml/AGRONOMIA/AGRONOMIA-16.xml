@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T06:24:02</Created>
+	<LastChange>2020-11-23T14:14:47</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-16.jpg" imageWidth="1653" imageHeight="2167">
+	<TableRegion id="r2">
+	<Coords points="78,344 78,602 1581,602 1581,344"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="82,785 245,785 245,822 1175,822 1175,857 1266,857 1266,892 1275,892 1275,927 1331,927 1331,988 1019,988 1019,1022 573,1022 573,1023 127,1023 127,1024 126,1024 126,1017 91,1017 91,884 90,884 90,849 83,849 83,809 82,809"/>
+	<TextEquiv conf="0.96622">
+	<Unicode>Questão 38
+De acordo com os resultados da análise, pode-se afirmar que as médias dos tratamentos
+A) diferem significativamente, uma vez que o valor do F calculado foi maior que o do F tabelado.
+B) diferem significativamente, uma vez que o valor do F calculado foi menor que o do F tabelado.
+C) não diferem significativamente, uma vez que o valor do F calculado foi maior que o do F tabelado.
+D) não diferem significativamente, uma vez que o valor do F calculado foi menor que o do F tabelado.
+E) podem diferir significativamente ou não, dependendo do teste de médias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="82,1063 244,1063 244,1100 1009,1100 1009,1161 813,1161 813,1231 753,1231 753,1299 550,1299 550,1300 92,1300 92,1231 91,1231 91,1161 90,1161 90,1131 81,1131 81,1100 82,1100"/>
+	<TextEquiv conf="0.96901">
+	<Unicode>Questão 39
+Tendo em vista o resultado do teste F, a análise deve prosseguir fazendo-se
+A) a análise de regressão.
+B) o cálculo das correlações lineares.
+C) o desdobramento dos graus de liberdade de tratamento.
+D) um teste de comparação de médias.
+E) ensaios complementares para melhorar a precisão.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="82,1340 244,1340 244,1377 1576,1377 1576,1814 1152,1814 1152,1926 82,1926 82,1864 83,1864 83,1509 81,1509 81,1377 82,1377"/>
+	<TextEquiv conf="0.96835">
+	<Unicode>Questão 40
+O governo vem implantando programas socioeconômicos, como o Programa Nacional de Agricultura Familiar (PRONAF), que
+financia a agricultura familiar, a reforma agrária para assentar trabalhadores rurais, e o Programa Fome Zero, que visa a
+aumentar a oferta de alimentos e a segurança alimentar, entre outros. Considerando os objetivos desses programas, como
+profissional de Agronomia e membro de uma equipe de assessoria, analise as seguintes medidas para reforçar tais programas:
+I- aumento no volume de crédito rural, redução dos juros, ampliação do seguro rural e maior diversificação das atividades
+agrícolas;
+Il- incentivo à agricultura de larga escala com monoculturas de produtos de exportação, promovendo maior gasto de
+fertilizantes e defensivos químicos;
+Ill - aumento das exigências cadastrais para obtenção de crédito agrícola, para melhorar as garantias e diminuir a
+inadimplência;
+IV - promoção de sistemas cooperativos de produção e comercialização, bem como associação para aquisição de máqui-
+nas e insumos.
+São corretas apenas as medidas
+(A) l e ll. (B) I e III. (C) l e IV. (D) II e III. (E) III e lV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="171,176 1486,176 1486,243 1576,243 1576,336 1541,336 1541,743 1058,743 1058,744 91,744 91,716 90,716 90,715 82,715 82,243 170,243 170,177 171,177"/>
+	<TextEquiv conf="0.96524">
+	<Unicode>As questões de números 37 a 39 devem ser respondidas com base no enunciado e na tabela abaixo.
+Com o objetivo de recomendar um cultivar de arroz para certa região, um engenheiro agrônomo realizou um experimento
+onde comparou quatro cultivares, usando o modelo blocos ao acaso, com 5 repetições, em que cada bloco tinha uma única
+parcela de cada cultivar. A tabela apresenta os resultados parciais da análise de variância deste experimento.
+Questão 37
+Os graus de liberdade para blocos, tratamentos, erro e total, respectivamente, são
+A) 2,3,7 e 12. (B) 3,4, 12e 19. (0) 4,3, 126 19. (D) 4,3, 13e 20. (E) 5,4, 11 e 20.</Unicode></TextEquiv></TextRegion></Page></PcGts>

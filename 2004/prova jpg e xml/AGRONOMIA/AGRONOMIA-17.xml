@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T06:24:01</Created>
+	<LastChange>2020-11-23T14:13:56</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-17.jpg" imageWidth="1653" imageHeight="2167">
+	<TableRegion id="r1">
+	<Coords points="100,500 100,1134 781,1134 781,500"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="80,1478 242,1478 242,1519 791,1519 791,1779 79,1779 79,1519 80,1519"/>
+	<TextEquiv conf="0.96813">
+	<Unicode>Questão 42
+O ponto de nivelamento entre custo e receita, fornecido pela
+produção mínima que cobre o custo operacional total, é
+(A) 18
+(B) 20
+(C) 30
+(D) 50
+(E) 540</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="864,181 1026,181 1026,217 1447,217 1447,251 1575,251 1575,839 874,839 874,611 873,611 873,344 872,344 872,244 864,244"/>
+	<TextEquiv conf="0.96800">
+	<Unicode>Questão 43
+Com base nestes dados, é possível afirmar que
+A) a receita líquida mal cobre o custo operacional total, e
+seria recomendável a troca de cultura sob pena de
+descapitalização.
+B) o desempenho econômico da cultura pode ser conside-
+rado plenamente satisfatório, em função do ponto de
+nivelamento, o que pode traduzir estímulo para a per-
+manência na atividade.
+C) o ponto de nivelamento entre custo e receita, fornecido
+pela produção mínima que cobre o custo operacional
+total, está, neste caso, muito elevado, podendo fazer
+com que o produtor mude de atividade.
+D) o produtor necessita reduzir os custos, principalmente
+de defensivos, e aumentar o rendimento para melhorar
+os resultados econômicos que, neste caso, apresentam
+uma margem muito estreita.
+E) os custos com defensivos são, proporcionalmente, muito
+altos, fazendo-se necessário empregar mais mão-de-
+obra.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="815,178 815,1947 839,1947 839,178"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="142,179 728,179 728,293 791,293 791,472 238,472 238,1212 444,1212 444,1278 208,1278 208,1392 206,1392 206,1431 80,1431 80,1278 79,1278 79,1212 80,1212 80,473 79,473 79,293 142,293"/>
+	<TextEquiv conf="0.96323">
+	<Unicode>As questões de números 41 a 43 devem ser
+respondidas com base no enunciado abaixo.
+O quadro a seguir apresenta a estimativa de Custo de Pro-
+dução e de Desempenho Econômico de 1 hectare da cultu-
+ra da soja (Região de Assis, Estado de São Paulo, Safra
+1999/2000; Fonte: Instituto de Economia Agrícola - IEA),
+para uma produtividade de 3.000 kg ha“ de grãos.
+
+Questão 41
+A receita líquida (em R$/ha) é
+(A) 360,00
+(B) 446,00
+(C) 540,00
+(D) 600,00
+(E) 900,00</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T12:34:02</Created>
+	<LastChange>2020-10-20T12:39:35</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-17.jpg" imageWidth="1653" imageHeight="2167">
+	<SeparatorRegion id="r0">
+	<Coords points="813,181 813,1950 836,1950 836,181"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="65,1400 65,1600 805,1600 805,1400"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,176 242,176 242,212 791,212 791,1006 80,1006 80,527 79,527 79,212 80,212"/>
+	<TextEquiv conf="0.96729">
+	<Unicode>Questão 33
+A toxina botulínica é um dos mais potentes venenos conheci-
+dos. Um de seus sorotipos (tipo A) vem sendo utilizado com
+sucesso no tratamento de certos espasmos musculares e de
+hiperidrose, além de ter uso cosmético, segundo a mídia. Al-
+guns dos efeitos indesejados da aplicação local da toxina
+botulínica são: dificuldade em falar e engolir (disfagia), secura
+na boca e garganta, ptose e visão alterada. Esses sintomas
+podem ser observados também no botulismo devido à ingestão
+de alimentos contaminados com toxina botulínica. No botulismo,
+os sintomas acima são acrescidos de fraqueza muscular gene-
+ralizada, podendo ocorrer paralisia muscular do tipo flácida,
+além de retenção urinária e hipotensão sem taquicardia reflexa.
+Em relação aos sintomas acima, a toxina botulínica
+(A) inativa a transmissão sináptica em gânglios simpático e
+parassimpático, mas não impede a transmissão na jun-
+ção neuromuscular esquelética.
+(B) altera a função do sistema nervoso autônomo ao inibir a
+atividade da colinesterase.
+(C) impede a recaptação de noradrenalina, prevalecendo,
+consequentemente, ações simpáticas em vários órgãos.
+(D) impede a transmissão nervosa neuromuscular, mas não
+altera o sistema parassimpático, apenas o sistema sim-
+pático.
+(E) impede a exocitose de vesículas sinápticas em termi-
+nações sinápticas que liberam acetilcolina na periferia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="80,1040 243,1040 243,1085 791,1085 791,1845 790,1845 790,1935 175,1935 175,1973 79,1973 79,1085 80,1085"/>
+	<TextEquiv conf="0.96720">
+	<Unicode>Questão 34
+Um grupo de pesquisadores estudou a prevalência de hi-
+pertensão arterial na população de maiores de 40 anos de
+um município. Foi aplicado um questionário com perguntas
+fechadas sobre: características demográficas, socioeconô-
+micas e de hábitos de vida. Foram também realizadas me-
+didas de pressão arterial, de peso e de altura. Além da ava-
+liação da prevalência de hipertensão arterial, procedeu-se
+à análise da associação das variáveis investigadas com a
+presença da hipertensão arterial referida. Os resultados
+estão na tabela abaixo.
+A partir deste estudo, que medida pode ser calculada para
+a avaliação da associação entre obesidade (índice de mas-
+sa corporal maior do que 30 Kg/m?) e presença de hiper-
+tensão?</Unicode></TextEquiv></TextRegion></Page></PcGts>

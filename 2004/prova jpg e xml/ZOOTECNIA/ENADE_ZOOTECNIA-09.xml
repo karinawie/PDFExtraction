@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T21:19:02</Created>
+	<LastChange>2021-01-17T20:52:44</LastChange></Metadata>
+	<Page imageFilename="ENADE_ZOOTECNIA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="846,110 1551,110 1551,149 1550,149 1550,397 1552,397 1552,517 1153,517 1153,585 1016,585 1016,779 896,779 896,586 847,586 847,560 895,560 895,227 847,227 847,150 845,150 845,111 846,111"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 17
+Considerando as características que definem a qualidade da carne
+suína, julgue os itens a seguir.
+A carcaça que apresenta gordura intramuscular (marmoreio)
+é inadequada para consumo pelo fato de a carne ser dura.
+Quanto à textura, que está relacionada à mastigação, a carne
+deve ser firme e consistente.
+A carne não deve apresentar contaminação por
+microrganismos nem conter resíduos químicos.
+A carne deve ser exudativa e apresentar pH igual ou inferior
+a 5,5.
+Estão certos apenas os itens
+Tell.
+TelV.
+Nem.
+LUI elV.
+1, MI elV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="860,803 987,803 987,852 1550,852 1550,1106 1534,1106 1534,1211 1550,1211 1550,1334 895,1334 895,1335 895,1296 847,1296 847,1009 846,1009 846,852 860,852"/>
+	<TextEquiv conf="0.96382">
+	<Unicode>QUESTÃO 18
+A escolha dos alimentos utilizados na dieta de um animal de
+interesse zootécnico depende das características do aparelho
+digestório. Para decidir o tipo e a quantidade de alimentos
+presentes na dieta dos animais, o zootecnista deve conhecer essas
+características. Nesse contexto, assinale a opção correta.
+A Nas aves, uma particularidade do intestino grosso é a
+presença de dois cecos.
+B O ruminante apresenta rúmen, retículo, englúvio e omaso.
+C Proporcionalmente, o ceco dos eqüinos é menor que o dos
+bovinos.
+D Nos suínos, o estômago representa 60% da capacidade total
+do trato gastrointestinal.
+E Nos coelhos, o ceco representa 20% da capacidade total do
+trato gastrointestinal</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="820,97 820,2125 831,2125 831,97"/></SeparatorRegion>
+	<TableRegion id="r4">
+	<Coords points="134,1325 134,1625 771,1625 771,1325"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="134,1255 244,1255 244,1671 808,1671 808,1880 279,1880 279,2096 152,2096 152,1881 103,1881 103,1671 134,1671"/>
+	<TextEquiv conf="0.94317">
+	<Unicode>QUESTÃO 16
+A tabela acima apresenta o percentual de proteína bruta de alguns
+alimentos. Considere uma ração composta de 60% de feno de
+gramínea, 15% de farelo de trigo e 2% de sal mineral. Nessa
+situação, assinale a opção que apresenta os percentuais de milho
+grão e de farelo de soja, respectivamente, que completariam a
+ração com 18% de proteína bruta.
+3% e 20%
+10% e 13%
+12% e 11%
+13% e 10%
+20% e 3%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="103,110 808,110 808,172 809,172 809,564 770,564 770,687 808,687 808,1223 106,1223 106,1224 105,1224 105,688 104,688 104,641 103,641 103,150 102,150 102,111 103,111"/>
+	<TextEquiv conf="0.95710">
+	<Unicode>QUESTÃO 15
+Um empresário arrematou, em leilão, uma vaca
+holandesa com 700 kg de peso e cuja produção diária é estimada
+em 40 litros de leite. O empresário ganhou 50 kg de um
+concentrado com 22% de proteína bruta e 70% de nutrientes
+digestíveis totais, levando-o juntamente com a vaca para uma
+chácara de sua propriedade. Em conversa com um funcionário da
+chácara, pediu-lhe que tratasse bem da vaca e referiu-se à
+quantidade de leite que ela deveria produzir, pois voltaria no dia
+seguinte bem cedo para assistir à ordenha. O funcionário colocou
+os 50 kg do concentrado em um comedouro para a vaca, seguindo
+a orientação do dono do animal.
+Considerando essa situação hipotética, é correto afirmar que
+O a vaca produziu no dia em que o empresário foi assistir à
+ordenha os 40 litros de leite esperados.
+a vaca não pôde ser ordenhada no dia em que o empresário
+foi assistir à ordenha pois, pelo excesso do concentrado que
+consumiu, provavelmente encontrava-se deitada, aparentando
+um quadro clínico de timpanismo.
+se a vaca tivesse ingerido 30 kg de concentrado e 10 kg de
+feno, nada de anormal teria acontecido no seu trato
+gastrointestinal, e ela poderia ter produzido 40 litros de leite.
+a vaca produziu somente 10 litros de leite, pois ainda estava
+estressada pela participação no leilão e pela viagem até a
+chácara.
+uma vaca holandesa de 700 kg, mesmo produzindo 40 litros
+de leite por dia, não consegue consumir 25 kg de alimentos,
+entre volumoso e concentrado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T12:35:33</Created>
+	<LastChange>2020-10-20T12:45:57</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-12.jpg" imageWidth="1653" imageHeight="2167">
+	<TableRegion id="r0">
+	<Coords points="857,352 857,663 1581,663 1581,352"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="863,750 863,1094 1563,1094 1563,750"/></TableRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="818,186 818,1950 828,1950 828,186"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="81,381 81,1292 739,1292 739,381"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,176 243,176 243,213 791,213 791,1329 792,1329 792,1923 82,1923 82,1924 81,1924 81,1297 80,1297"/>
+	<TextEquiv conf="0.96493">
+	<Unicode>Questão 13
+O metotrexato é utilizado como quimioterápico e atua como
+um forte inibidor da enzima diidrofolato redutase, a qual
+converte diidrofolato (DHF) em tetraidrofolato (THF), um
+cofator essencial na biossíntese da desoxitimidina
+monofosfato (ATMP), um precursor na biossíntese do DNA.
+As células cancerosas, estando em um estado de divisão
+celular mais acentuado, são mais sensíveis à deficiência
+da dTMP. Assim, o metotrexato, quando aplicado na dose
+apropriada, causa a morte das células cancerosas.
+Analisando-se o esquema acima e a estrutura do
+metotrexato, podemos concluir que
+(A) o sistema aminopteridina do metotrexato é reduzido pela
+enzima diidrofolato redutase, gerando um composto inati-
+vo.
+(B) o metotrexato apresenta características estruturais muito
+semelhantes às do diidrofolato, atuando como um
+ativador competitivo da diidrofolato redutase.
+(C) o metotrexato complexa-se irreversivelmente com o
+cofator NADPH, impedindo a ação do diidrofolato
+redutase.
+(D) o diidrofolato redutase é incapaz de reduzir o sistema
+aminopteridina devido a seu caráter aromático.
+(E) os sistemas aromáticos, como os pirazínicos, são bas-
+tante instáveis, facilitando a redução pelo DHFR.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="864,176 1027,176 1027,213 1574,213 1574,333 1562,333 1562,1146 1574,1146 1574,1213 1575,1213 1575,1340 1574,1340 1574,1905 1226,1905 1226,1906 875,1906 875,1907 874,1907 874,1559 873,1559 873,1206 863,1206 863,1147 864,1147 864,1146 1267,1146 1267,694 903,694 903,335 863,335 863,213 864,213"/>
+	<TextEquiv conf="0.96616">
+	<Unicode>Questão 14
+As tabelas abaixo apresentam o coeficiente de mortalidade
+em menores de 5 anos por doenças diarréicas e por infec-
+ção respiratória aguda, por Região do Brasil, entre os anos
+de 1994 e 1999”.
+www.datasus.gov.br citado por Rouquayrol e Almeida Filho, 2003
+* coeficiente por 100.000 hab.
+* coeficiente por 100.000 hab.
+A partir dos dados apresentados e das características das
+várias regiões brasileiras, conclui-se que
+A) as mortes por infecção respiratória no Sul e Sudeste
+podem ser atribuídas à não-resolubilidade dos proble-
+mas nos sistemas de saúde, onde a demanda é maior
+que a oferta.
+B) as mortes devido a doenças diarréicas são bem mais
+numerosas nas Regiões Norte e Nordeste e estão re-
+lacionadas com a má distribuição de renda, desnutrição
+e condições ambientais inadequadas.
+C) as Regiões Sul e Sudeste, em comparação com Norte
+e Nordeste, apresentam maiores problemas de sanea-
+mento básico e piores condições de vida, em decorrên-
+cia da crescente aglomeração urbana, o que se reflete
+diretamente nos coeficientes apresentados.
+D) as Regiões Norte e Nordeste, em comparação com Sul
+e Sudeste, têm menos casos de morte por infecção res-
+piratória aguda, já que existe um maior controle dos ní-
+veis de poluição do ar.
+E) existe uma tendência no decréscimo dos dois coefici-
+entes, no tempo, evidenciando melhora na qualidade de
+vida das famílias, com melhor distribuição da renda e
+crescimento organizado das cidades.</Unicode></TextEquiv></TextRegion></Page></PcGts>

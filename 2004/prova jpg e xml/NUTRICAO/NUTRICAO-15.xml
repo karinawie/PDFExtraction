@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T16:23:53</Created>
+	<LastChange>2020-11-13T03:05:06</LastChange></Metadata>
+	<Page imageFilename="NUTRICAO-15.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="79,1157 1576,1157 1576,1316 1574,1316 1574,1383 1573,1383 1573,1490 1574,1490 1574,1516 79,1516 79,1515 80,1515 80,1383 79,1383"/>
+	<TextEquiv conf="0.94958">
+	<Unicode>QUESTÃO 7
+A inclusão de uma mistura de fibras solúveis e insolúveis na dieta, numa quantidade em torno de 10 a 139/1000 kcal
+(National Cancer Institute), parece proporcionar uma série de benefícios fisiológicos, entre eles a prevenção da
+constipação intestinal.
+a) Quais são os outros benefícios da inclusão desta mistura na dieta? (valor: 3,0 pontos)
+b) Cite duas fontes alimentares de ambas as fibras. (valor: 4,0 pontos)
+c) Relacione biodisponibilidade dos alimentos e quantidade das fibras ingeridas. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,189 81,189 81,190 454,190 454,191 828,191 828,192 1201,192 1201,193 1574,193 1574,363 1573,363 1573,1149 79,1149 79,360 80,360"/>
+	<TableRegion id="r2">
+	<Coords points="305,278 305,852 1334,852 1334,278"/></TableRegion>
+	<TextEquiv conf="0.95985">
+	<Unicode>Questão 6
+Observe a tabela abaixo, com dados de dois inquéritos representativos da população adulta brasileira, realizados em
+1974/75 e 1989.
+Adultos desnutridos e obesos (%), segundo estratos
+de renda familiar per capita. Brasil, 1974/75 e 1989
+Analise a evolução dos dados nesses 15 anos, em relação aos seguintes aspectos:
+a) razão desnutrição/obesidade; (valor: 3,0 pontos)
+b) relação obesidade/renda; (valor: 3,0 pontos)
+c) contraponto deste fenômeno com o perfil de morbimortalidade do país no mesmo período. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T06:24:11</Created>
+	<LastChange>2020-11-12T18:59:14</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-03.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="745,1678 745,1975 576,1975 576,1977 407,1977 407,1979 69,1979 69,1912 73,1912 73,1876 69,1876 69,1678"/>
+	<TextEquiv conf="0.89551">
+	<Unicode>Questão 2
+A charge de Millôr aponta para
+(A) a fragilidade dos princípios morais.
+(B) a defesa das convicções políticas.
+(C) a persuasão como estratégia de convencimento.
+(D) o predomínio do econômico sobre o ético.
+(E) o desrespeito às relações profissionais.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="76,997 76,1621 955,1621 955,997"/></ImageRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="852,1684 852,1963 1592,1963 1592,1684"/>
+	<TextEquiv>
+	<Unicode>Questão 3
+A charge de Millôr e o texto de Dom Paulo Evaristo Arns
+tratam, em comum,
+(A) do total desrespeito às tradições religiosas e éticas.
+(B) da defesa das convicções morais diante da corrupção.
+(C) da ênfase no êxito econômico acima de qualquer coisa.
+(D) da perda dos valores éticos nos tempos modernos.
+(E) da perda da fé e da esperança num mundo globalizado.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="818,1678 818,1960 839,1960 839,1678"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="87,346 193,346 193,381 1581,381 1581,486 1583,486 1583,608 1581,608 1581,687 1135,687 1135,898 1104,898 1104,968 88,968 88,612 87,612"/>
+	<TextEquiv conf="0.96759">
+	<Unicode>TEXTO |
+“O homem se tornou lobo para o homem, porque a meta do desenvolvimento industrial está concentrada num objeto
+e não no ser humano. A tecnologia e a própria ciência não respeitaram os valores éticos e, por isso, não tiveram respeito
+algum para o humanismo. Para a convivência. Para o sentido mesmo da existência.
+Na própria política, o que contou no pós-guerra foi o êxito econômico e, muito pouco, a justiça social e o cultivo da
+verdadeira imagem do homem. Fomos vítimas da ganância e da máquina. Das cifras. E, assim, perdemos o sentido
+autêntico da confiança, da fé, do amor. As máquinas andaram por cima da plantinha sempre tenra da esperança. E foi o
+caos.”
+ARNS, Paulo Evaristo. Em favor do homem. Rio de Janeiro: Avenir, s/d. p.10.
+
+Questão 1
+De acordo com o texto, pode-se afirmar que
+(A) a industrialização, embora respeite os valores éticos, não visa ao homem.
+(B) a confiança, a fé, a ganância e o amor se impõem para uma convivência possível.
+(C) a política do pós-guerra eliminou totalmente a esperança entre os homens.
+(D) o sentido da existência encontra-se instalado no êxito econômico e no conforto.
+(E) o desenvolvimento tecnológico e científico não respeitou o humanismo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

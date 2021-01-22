@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T21:19:14</Created>
+	<LastChange>2021-01-17T20:52:11</LastChange></Metadata>
+	<Page imageFilename="ENADE_ZOOTECNIA-08.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="85,560 85,882 611,882 611,560"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="91,884 91,1206 617,1206 617,884"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="97,1201 97,1509 623,1509 623,1201"/></ImageRegion>
+	<ImageRegion id="r13">
+	<Coords points="99,1514 99,1822 625,1822 625,1514"/></ImageRegion>
+	<ImageRegion id="r36">
+	<Coords points="97,1823 97,2131 623,2131 623,1823"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="102,174 808,174 808,445 807,445 807,537 104,537 104,536 103,536 103,214 102,214"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 11
+O teor de fibra em detergente ácido (FDA) de um
+ingrediente pode ser utilizado em equações para a predição da
+energia digestível (ED). Considere que após analisar dados
+bibliográficos acerca da digestibilidade da energia e da
+composição química de alimentos para coelhos, obteve-se a
+relação CDE (%) = 84,77 -— 1,16 x FDA (%), em que CDE é o
+coeficiente de digestibilidade da energia.
+Assinale a opção cujo gráfico apresenta um esboço correto da
+relação referida no texto acima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="860,1514 988,1514 988,1569 1551,1569 1551,2128 847,2128 847,1749 846,1749 846,1569 860,1569"/>
+	<TextEquiv conf="0.96723">
+	<Unicode>QUESTÃO 14
+Várias tecnologias são aplicadas com o objetivo de se aumentar
+a eficiência da utilização das rações. Uma dessas tecnologias é o
+processo de extrusão, que reduz a presença e a atividade
+microbianas e aumenta a digestibilidade, proporcionando maior
+absorção de nutrientes pelos animais. Esse processo ocorre
+O sob baixa pressão e alta temperatura e na presença de
+umidade.
+sob alta pressão e baixa temperatura e na ausência de
+umidade.
+sob alta pressão e alta temperatura e na presença de umidade.
+sob baixa pressão e baixa temperatura e na ausência de
+umidade.
+sob qualquer valor de pressão e de temperatura e na presença
+de umidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="845,1051 1551,1051 1551,1091 1550,1091 1550,1250 1536,1250 1536,1372 1298,1372 1298,1487 895,1487 895,1250 847,1250 847,1091 845,1091"/>
+	<TextEquiv conf="0.25743">
+	<Unicode>QUESTÃO 13
+Um criador de equinos observou que, após mudança de
+alimentação do seu rebanho, os animais apresentaram quadro de
+laminite (aguamento). Essa situação sugere uma ingestão
+excessiva de
+carboidratos estruturais, com formação de ácido linoléico.
+lipídeos, com formação de cadaverina.
+fósforo, com formação de oxalato.
+amido, com formação de histamina.
+potássio, com formação de histidina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="845,174 1551,174 1551,618 1553,618 1553,687 1550,687 1550,989 1515,989 1515,1033 945,1033 945,994 846,994 846,774 847,774 847,647 846,647 846,571 845,571"/>
+	<TextEquiv conf="0.45238">
+	<Unicode>QUESTÃO 12
+A principal vantagem da adoção do conceito de proteína ideal na
+alimentação de frango de corte é a perspectiva de redução da
+poluição ambiental e do custo da ração nos sistemas intensivos
+de produção, a partir da flexibilização do nível protéico
+mínimo e da melhor utilização de ingredientes alternativos.
+Nesse contexto, julgue os itens a seguir, classificando como
+VERDADEIROS (V) aqueles que apresentam justificativas para
+a utilização da lisina como aminoácido de referência e como
+FALSOS (F) os que não justificam.
+1 ( ) É um aminoácido não essencial, não havendo nenhuma
+via de síntese endógena.
+2 ( ) Possui metabolismo orientado principalmente para a
+deposição de proteína corporal.
+3 ( ) É um aminoácido de cadeia ramificada com dupla
+ligação no carbono beta, de análise laboratorial precisa
+em ingredientes, rações e tecidos.
+4 ( ) É um aminoácido estritamente essencial, não havendo
+nenhuma via de síntese endógena.
+5 ( ) É um aminoácido dieteticamente limitante e sua
+suplementação nas dietas é economicamente viável</Unicode></TextEquiv></TextRegion></Page></PcGts>

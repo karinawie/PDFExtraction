@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T06:24:03</Created>
+	<LastChange>2020-11-23T14:15:22</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-15.jpg" imageWidth="1653" imageHeight="2167">
+	<SeparatorRegion id="r0">
+	<Coords points="813,184 813,1952 831,1952 831,184"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="71,289 71,610 418,610 418,289"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="444,289 444,615 805,615 805,289"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="855,481 855,847 1192,847 1192,481"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="1218,478 1218,852 1586,852 1586,478"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="79,179 80,179 80,180 791,180 791,1004 81,1004 81,1003 80,1003 80,278 79,278"/>
+	<TextEquiv conf="0.96509">
+	<Unicode>Questão 32
+Os gráficos a seguir representam o balanço hídrico simpli-
+Com base nestes dados, pode-se afirmar que
+(A) na região X, pastagens sob sequeiro têm menor cresci-
+mento durante os meses de maio a setembro.
+(B) na região X, plantas xerófitas constituem a vegetação
+natural predominante.
+(C) na região X, um plantio de milho sob sequeiro deve ser
+efetuado nos meses de abril e maio.
+(D) na região Y, cultivos anuais enfrentam deficit hídrico.
+(E) na região Y, solos com problemas de salinidade são
+comuns.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords points="178,1215 178,1650 650,1650 650,1215"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1057 80,1058 242,1058 242,1099 790,1099 790,1960 80,1960 80,1957 79,1957 79,1099 80,1099"/>
+	<TextEquiv conf="0.96844">
+	<Unicode>Questão 33
+O desenho abaixo representa um levantamento
+planialtimétrico na escala 1:10.000, onde as cotas estão
+expressas em metros.
+Considerando que nesta planta a distância entre os pon-
+tos A e B é de 20 cm, a declividade média entre os
+pontos Ae Bé
+(A) 0,1 %
+(B) 1 %
+(C) 2 %
+(D) 10 %
+(E) 20 %</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="863,1202 1025,1202 1025,1240 1373,1240 1373,1276 1538,1276 1538,1346 1571,1346 1571,1417 1573,1417 1573,1480 902,1480 902,1438 872,1438 872,1302 863,1302"/>
+	<TextEquiv conf="0.96878">
+	<Unicode>Questão 35
+O volume de comercialização da hortaliça
+(A) não foi influenciado pelo tempo de armazenamento.
+(B) aumentou com o tempo de armazenamento.
+(C) aumentou quando a hortaliça foi mantida a 30 °C por 8 horas.
+(D) foi sempre máximo, independente da temperatura.
+(E) foi reduzido em 50% após 6 horas de manutenção da
+hortaliça a 30 °C.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords points="863,1522 1025,1522 1025,1560 1573,1560 1573,1937 863,1937"/>
+	<TextEquiv conf="0.96845">
+	<Unicode>Questão 36
+Considerando-se a relação entre taxa respiratória e volu-
+me de comercialização da hortaliça, pode-se afirmar que
+(A) não é possível reduzir as perdas do produto.
+(B) as perdas estão relacionadas à respiração, temperatu-
+ra de armazenamento e ao tempo.
+(C) a refrigeração aumenta a respiração do produto e o vo-
+lume comercializado.
+(D) o volume comercializado independe da temperatura de
+armazenamento.
+(E) quanto antes a refrigeração for aplicada, menor o volu-
+me a ser comercializado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="862,180 1573,180 1573,280 1574,280 1574,474 1573,474 1573,982 1152,982 1152,1088 1112,1088 1112,1124 1100,1124 1100,1160 863,1160 863,474 862,474"/>
+	<TextEquiv conf="0.96065">
+	<Unicode>As questões de números 34 a 36 devem ser respondi-
+das com base no enunciado e nos gráficos abaixo.
+Um dos fatores que determinam a perda de produtos vege-
+tais considerados perecíveis é a ausência ou utilização ina-
+dequada de métodos de conservação, entre eles a refri-
+geração. As figuras abaixo estão relacionadas ao
+armazenamento e volume de comercialização de uma
+hortaliça.
+
+Questão 34
+De acordo com o gráfico, a redução da taxa respiratória da
+hortaliça ocorreu em temperatura
+(A) de 0 ºC.
+(B) próxima a 5 ºC.
+(C) entre 15 ºC e 20 ºC.
+(D) próxima a 25 ºC.
+(E) acima de 25 ºC.</Unicode></TextEquiv></TextRegion></Page></PcGts>

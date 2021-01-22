@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T03:24:08</Created>
+	<LastChange>2020-09-08T03:52:15</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-07.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r73" type="paragraph">
+	<Coords points="90,1547 90,1674 84,1674 84,1547"/>
+	<TextEquiv conf="0.92787">
+	<Unicode>(
+(
+(
+(</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="434,407 434,734 1202,734 1202,407"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="276,765 276,1410 1378,1410 1378,765"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="84,177 230,177 230,213 1578,213 1578,307 1577,307 1577,1474 401,1474 401,1540 370,1540 370,1640 368,1640 368,1674 94,1674 94,1640 93,1640 93,1540 84,1540 84,340 83,340 83,213 84,213"/>
+	<TextEquiv conf="0.96630">
+	<Unicode>Questão 8
+Os países em desenvolvimento fazem grandes esforços para promover a inclusão digital, ou seja, o acesso, por parte de
+seus cidadãos, às tecnologias da era da informação. Um dos indicadores empregados é o número de hosts, ou seja, número
+de computadores que estão conectados à Internet. A tabela e o gráfico abaixo mostram a evolução do número de hosts nos
+três países que lideram o setor na América Latina.
+Dos três países, os que apresentaram, respectivamente, o maior e o menor crescimento percentual no número de hosts no
+período 2000-2004 foram:
+(A) Brasil e México.
+B) Brasil e Argentina.
+C) Argentina e México.
+D) Argentina e Brasil.
+E) México e Argentina.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T12:53:33</Created>
+	<LastChange>2020-10-20T12:58:27</LastChange></Metadata>
+	<Page imageFilename="MEDICINA-14.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="80,264 247,264 247,265 413,265 413,266 579,266 579,267 745,267 745,268 911,268 911,269 1077,269 1077,270 1243,270 1243,271 1409,271 1409,272 1575,272 1575,361 1574,361 1574,428 1573,428 1573,528 81,528 81,527 80,527"/>
+	<TextEquiv conf="0.96213">
+	<Unicode>Questão 3
+O chamado controle social figura na Constituição e na Lei Federal 8142/90 que, entre outras providências, dispõe sobre a
+participação da comunidade na gestão do Sistema Unico de Saúde.
+a) Como é entendido o controle social no âmbito do SUS? (valor: 3,0 pontos)
+b) Segundo a legislação, quais são seus canais e como devem atuar? (valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="80,1101 226,1101 226,1137 1574,1137 1574,1231 1573,1231 1573,1398 81,1398 81,1397 80,1397"/>
+	<TextEquiv conf="0.96450">
+	<Unicode>Questão 4
+Os indicadores de saúde são expressões numéricas relativas que transmitem uma mensagem sobre determinada situação
+de saúde de uma população. Assim, é necessário saber como são compostos e, consequentemente, entender a mensagem
+que transmitem.
+a) Defina coeficiente de mortalidade (CM) e de letalidade (CL). (valor: 5,0 pontos)
+b) Interprete a mensagem que cada um deles transmite. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

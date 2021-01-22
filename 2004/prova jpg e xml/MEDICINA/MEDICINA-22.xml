@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T15:52:25</Created>
+	<LastChange>2021-01-17T20:18:12</LastChange></Metadata>
+	<Page imageFilename="MEDICINA-22.jpg" imageWidth="1653" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="121,589 121,1060 750,1060 750,589"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="918,597 918,1065 1452,1065 1452,597"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="223,1126 223,1623 678,1623 678,1126"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="884,1123 884,1650 1497,1650 1497,1123"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="81,176 243,176 243,213 1575,213 1575,372 1574,372 1574,1812 1575,1812 1575,1873 81,1873 81,1874 80,1874 80,1712 81,1712 81,441 80,441 80,213 81,213"/>
+	<TextEquiv conf="0.96609">
+	<Unicode>Questão 12
+Maria, com 1 ano, é admitida na Emergência com tosse há uma semana, evoluindo com febre persistente, hipoatividade e
+anorexia nos últimos três dias. Ao exame, está hipoativa, sonolenta e com frequência cardíaca de 126 bom TA=100x60 mg.
+Apresenta, ainda, palidez cutaneomucosa subdiafragmática e supra-esternal. Ectoscopia sem alterações. Aparelho respira-
+tório: MV diminuído em base de hemitórax direito e crépitos bilaterais. Aparelho Cardiovascular: bulhas taquicárdicas. Siste-
+ma nervoso sem alterações meníngeas.
+a) Qual a suspeita diagnóstica? (valor: 2,5 pontos)
+b) Descreva as radiografias apresentadas a seguir, indicando que aspectos sugerem a etiologia. (valor: 2,5 pontos)
+c) Que tratamento deve ser feito? (valor: 2,5 pontos)
+d) Apesar do tratamento, no 18º dia de hospitalização, a paciente evoluiu para insuficiência respiratória e choque, vindo a
+falecer. Preencha os campos da declaração de óbito apresentada no Caderno de Respostas. (valor: 2,5 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

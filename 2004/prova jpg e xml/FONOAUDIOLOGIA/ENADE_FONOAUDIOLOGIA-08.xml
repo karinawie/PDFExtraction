@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T06:38:24</Created>
+	<LastChange>2020-11-12T02:57:57</LastChange></Metadata>
+	<Page imageFilename="ENADE_FONOAUDIOLOGIA-08.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="368,225 368,882 1282,882 1282,225"/></ImageRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="103,178 425,178 425,937 1029,937 1029,938 1432,938 1432,1099 1433,1099 1433,1260 1432,1260 1432,1388 222,1388 222,1260 221,1260 221,1099 222,1099 222,203 104,203 104,202 103,202"/>
+	<TextEquiv conf="0.88610">
+	<Unicode>Texto III — questões 11 e 12
+Gabriela, autora do desenho acima, com 4 anos de idade, começou a falar as primeiras palavras por volta
+de 2 anos e 2 meses de idade. A mãe relata que a menina aparentemente escuta bem, mas, às vezes, parece
+distraída e demora para responder quando é chamada. Gabriela toma mamadeira em posição deitada e tem o hábito
+de sucção digital.
+Na avaliação de linguagem, a criança apresenta bom repertório verbal e conceitos adequados para a idade.
+No nível fonético-fonológico, constataram-se trocas sistemáticas de: /g/&gt;/k/; /s/2/8/; /v/2/f/; /r/2//;
+11/=/s/; /d/&gt;/t/ e omissão de /r/ em grupos consonantais. Enquanto brincava com uma fazendinha de animais,
+produziu o seguinte discurso: “Tem que prender os carneirinhos, senão eles saem. Os cavalos estão caindo toda
+hora. Tá molengo. Nossa, quanto cavalo! Caiu! Todos cavalos tá molengo! Tá caindo! Tem mais cavalo. O cavalo
+derrubou a casa dele.”
+Em relação à motricidade oral, apresentou língua, lábios e bochechas hipofuncionantes, porém com boa
+mobilidade. A avaliação otorrinolaringológica indicou presença de líquido nas orelhas médias em ambos os lados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="102,1459 808,1459 808,1577 807,1577 807,1801 809,1801 809,2172 808,2172 808,2173 201,2173 201,1963 107,1963 107,1962 106,1962 106,1933 201,1933 201,1825 107,1825 107,1824 106,1824 106,1577 104,1577 104,1499 102,1499"/>
+	<TextEquiv conf="0.16144">
+	<Unicode>QUESTÃO 11
+Em relação ao caso descrito no texto III, julgue se os itens a
+seguir são VERDADEIROS (V) ou FALSOS (F).
+Considerando-se o nível discursivo e o desenho de
+Gabriela, a hipótese diagnóstica provável é a de
+alteração de linguagem oral.
+As alterações no nível fonético-fonológico
+compatíveis com a idade de Gabriela.
+são
+A conduta terapêutica indicada para esse caso envolve
+orientação familiar em relação à linguagem oral e
+conscientização da mãe e da filha quanto à necessidade
+de retirada da mamadeira e do hábito de sucção digital.
+O processo terapêutico deve abranger adequação do
+sistema sensório-motor oral e trabalho com a oralidade,
+especialmente no nível fonético-fonológico, sem se
+perder de vista a linguagem em suas várias dimensões.
+Uma perda auditiva moderada não exerceria influência
+nas alterações no nível fonético-fonológico apresentadas
+por essa criança.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords points="845,1459 1551,1459 1551,2172 886,2172 886,1615 846,1615 846,1614 847,1614 847,1499 845,1499"/>
+	<TextEquiv conf="0.11662">
+	<Unicode>QUESTÃO 12
+Ainda em relação ao caso apresentado no texto III, assinale a
+opção que contemple os resultados obtidos em uma avaliação
+audiológica que confirmariam os achados otorrinolaringológicos.
+presença concomitante de curva timpanométrica do tipo À
+(Jerger), reflexos acústicos presentes e audiometria lúdica
+com limiares auditivos normais
+presença concomitante de curva timpanométrica do tipo À
+(Jerger), reflexos acústicos ausentes e audiometria lúdica com
+perda auditiva condutiva moderada
+presença concomitante de curva timpanométrica do tipo B
+(Jerger), reflexos acústicos presentes e audiometria lúdica
+com limiares auditivos normais
+presença concomitante de curva timpanométrica do tipo B
+(Jerger), reflexos acústicos ausentes e audiometria lúdica com
+perda auditiva condutiva leve
+presença concomitante de curva timpanométrica do tipo C
+(Jerger), reflexos acústicos presentes e audiometria lúdica
+com perda auditiva neurossensorial leve</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="817,1445 817,2185 822,2185 822,1445"/></SeparatorRegion></Page></PcGts>

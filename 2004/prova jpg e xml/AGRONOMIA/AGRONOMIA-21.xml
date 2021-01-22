@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T03:23:58</Created>
+	<LastChange>2020-09-08T03:23:58</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-21.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="80,177 225,177 225,213 1574,213 1574,516 79,516 79,213 80,213"/>
+	<TextEquiv conf="0.96913">
+	<Unicode>Questão 6
+Um projeto de irrigação por aspersão convencional fixo está sendo elaborado para irrigar uma área de 3 hectares, em um
+solo que apresenta uma velocidade de infiltração de água de 12 mm h“!. A lâmina de irrigação calculada foi de 48 mm, já
+considerada a eficiência de aplicação de água.
+a) Calcule o tempo de irrigação (em horas), admitindo uma intensidade de precipitação equivalente à metade da velocidade
+de infiltração de água no solo. (valor: 2,0 pontos)
+b) Calcule a vazão total do sistema (em m? h”). (valor: 3,0 pontos)
+c) Calcule o diâmetro mínimo da tubulação principal (em mm), adotando como critério de dimensionamento uma velocidade
+máxima da água de 2m s. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

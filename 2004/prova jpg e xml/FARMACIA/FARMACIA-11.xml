@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T15:35:45</Created>
+	<LastChange>2021-01-17T19:51:42</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-11.jpg" imageWidth="1653" imageHeight="2167">
+	<ImageRegion id="r5">
+	<Coords points="136,392 136,636 760,636 760,392"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="139,1218 139,1607 744,1607 744,1218"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="876,752 876,1526 1586,1526 1586,752"/></ImageRegion>
+	<SeparatorRegion id="r15">
+	<Coords points="821,186 821,1950 834,1950 834,186"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,256 751,256 751,666 791,666 791,900 335,900 335,1033 80,1033 80,900 79,900 79,666 80,666"/>
+	<TextEquiv conf="0.95118">
+	<Unicode>QUESTÕES DE MÚLTIPLA ESCOLHA
+Questão 9
+A vitamina K, representada acima, é um importante cofator
+para enzimas que carboxilam resíduos glutamatos em pro-
+teínas. Os resíduos y-carboxiglutamatos gerados em es-
+truturas proteicas são potenciais quelantes para Ca?* e es-
+tão envolvidos no processo de coagulação sanguínea.
+Diante do exposto, a que categoria pertence a vitamina K,?
+(A) Ácido nucleico.
+(B) Ácido graxo.
+(C) Éter aromático.
+(D) Fostfolipídeos.
+(E) 1,4-naftoquinona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,1073 242,1073 242,1109 790,1109 790,1703 624,1703 624,1836 475,1836 475,1870 80,1870 80,1703 79,1703 79,1109 80,1109"/>
+	<TextEquiv conf="0.95856">
+	<Unicode>Questão 10
+Estão representadas abaixo as estruturas químicas do
+paracetamol e do ácido acetilsalicílico, fármacos utilizados
+como analgésicos.
+Quando estas substâncias são submetidas às condições
+de hidrólise, espera-se que
+(A) ambas tenham a mesma reatividade.
+B) o paracetamol seja mais reativo.
+C) o ácido acetilsalicílico seja mais reativo.
+D) ocorra substituição eletrofílica aromática.
+E) não haja reação de hidrólise.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="864,176 1020,176 1020,213 1574,213 1574,376 1571,376 1571,451 1524,451 1524,450 1518,450 1518,449 1514,449 1514,448 1511,448 1511,447 1507,447 1507,446 1504,446 1504,445 1500,445 1500,444 1496,444 1496,443 1484,443 1484,440 864,440 864,406 863,406 863,213 864,213"/>
+	<TextEquiv conf="0.94798">
+	<Unicode>Questão 11
+O DNA é formado por quatro bases distintas — T, A, C, G —
+havendo o pareamento dessas quatro bases na parte cen-
+tral do biopolímero. Considerando que a sequência de cada
+três bases forma um códon que pode resultar em um
+aminoácido, quantos aminoácidos diferentes poderiam ser
+codificados por essas quatro bases?
+(A) 12 (B) 27 (C) 64 (D) 81 (E) 336</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="1484,445 1495,445 1495,446 1499,446 1499,447 1503,447 1503,448 1506,448 1506,449 1510,449 1510,450 1513,450 1513,451 1517,451 1517,452 1523,452 1523,453 1571,453 1571,516 1574,516 1574,1883 1317,1883 1317,1916 864,1916 864,1610 863,1610 863,516 864,516 864,460 1484,460"/>
+	<TextEquiv conf="0.94496">
+	<Unicode>Questão 12
+Os benzodiazepínicos são fármacos depressores do siste-
+ma nervoso central. Existem representantes desta classe
+que podem ser utilizados como anticonvulsivantes, anesté-
+sicos, hipnóticos e ansiolíticos. Uma das etapas da síntese
+clássica de benzodiazepínicos envolve a reação de anilinas
+substituídas com cloreto de a-cloroacetila, conforme o es-
+quema abaixo.
+Analisando os produtos acima, podemos afirmar que o pro-
+duto principal formado nessa etapa é
+(A) o produto |, formado por uma reação de substituição
+nucleofílica em carbono sp*?.
+(B) o produto Il, formado por uma reação de substituição
+nucleofílica em carbono sp?.
+(C) o produto Ill, formado por uma reação de substituição
+eletrofílica aromática (Acilação de Friedel-Craíts).
+(D) o produto IV, que é isômero de Ill, porém deve predomi-
+nar porque o grupo amino é orto-orientador.
+(E) uma mistura dos produtos Ill e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

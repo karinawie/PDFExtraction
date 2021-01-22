@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T15:34:41</Created>
+	<LastChange>2021-01-17T19:49:25</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-15.jpg" imageWidth="1653" imageHeight="2167">
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="864,1021 1027,1021 1027,1059 1575,1059 1575,1721 1573,1721 1573,1933 874,1933 874,1721 873,1721 873,1439 872,1439 872,1298 871,1298 871,1262 863,1262 863,1130 864,1130"/>
+	<TextEquiv conf="0.96946">
+	<Unicode>Questão 28
+O farmacêutico hospitalar recebeu a prescrição contendo os
+seguintes medicamentos: espironolactona, captopril e peni-
+cilina, para a administração de 8 em 8 horas. No aviamento
+da prescrição, o farmacêutico observou algumas possíveis
+interações medicamentosas, que poderiam ocasionar rea-
+ções adversas graves no paciente. De forma a otimizar a
+armacoterapia, o farmacêutico deve alertar o médico de que
+A) a administração de espironolactona e captopril deve ser
+evitada porque, sendo o captopril um inibidor da enzima
+conversora da angiotensina (IECA), pode reduzir os ní-
+veis de aldosterona, levando à retenção de potássio.
+B) a administração de penicilina concomitante à espirono-
+lactona deve ser evitada porque, além de interferir na
+dosagem plasmática da penicilina, ocasiona nefro e
+hepatotoxicidade.
+C) a administração da penicilina deverá ocorrer em interva-
+los maiores em relação ao captopril e à espironolactona,
+para que não haja risco de interações medicamentosas no
+paciente.
+D) o captropil deve ser administrado isoladamente ou em
+associação com diuréticos poupadores de potássio,
+como os diuréticos tiazídicos e inibidores da ECA.
+E) o uso concomitante da espironolactona e do captropil pode
+produzir grande diminuição nos níveis séricos de potássio,
+cloreto e sódio, quando comparados à monoterapia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="80,1326 242,1326 242,1362 790,1362 790,1856 789,1856 789,1956 80,1956 80,1896 81,1896 81,1489 79,1489 79,1429 80,1429"/>
+	<TextEquiv conf="0.96568">
+	<Unicode>Questão 26
+Os hemoderivados são proteínas extraídas do plasma hu-
+mano por processos físico-químicos industrializados e utili-
+zados como medicamentos. Sobre o assunto, considere as
+afirmações abaixo.
+|- A coleta do sangue e produção dos hemoderivados
+ocorre nos vários hemocentros do país.
+Il- Abolsa de sangue coletada passa por testagem visan-
+do a identificar doenças como hepatite B/C, HTLV III,
+sífilis e Doença de Chagas.
+Ill - A seleção do plasma a ser fracionado obedece a crité-
+rios como o de congelamento até 12 horas, entre 10
+ºC e 0 ºC, após a coleta de sangue.
+IV - A partir do plasma podem ser obtidos: concentrados
+de fator VIll e IX, complexo protrombínico,
+imunoglobulinas e albumina.
+São corretas somente as afirmações
+(A)lell. (B)lelll. (C)llelll. (D)llelV. (E)lllelV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="864,175 1027,175 1027,212 1575,212 1575,380 1201,380 1201,531 1574,531 1574,768 1060,768 1060,943 1054,943 1054,978 908,978 908,980 864,980 864,768 863,768 863,531 942,531 942,380 863,380 863,212 864,212"/>
+	<TextEquiv conf="0.96614">
+	<Unicode>Questão 27
+O paciente JIF, 45 anos, hipertenso que utiliza furosemida
+regularmente (um diurético de alça), necessita realizar te-
+rapia de reposição de potássio. Foi a uma farmácia de ma-
+nipulação e solicitou o aviamento da fórmula apresentada
+na seguinte prescrição médica:
+KCl.....
+Xarope Simples qsp..
+Tomar 7,5 ml/dose, 2 x/dia, durante 10 dias, seguido de
+nova avaliação médica.
+De acordo com os dados acima, quantos mEq de K* o paci-
+ente estará ingerindo por dose do xarope e quantos mEq de K*
+terá ingerido ao término do tratamento, respectivamente?
+(Dados: Peso Atômico — - K=39,10 Cl=35,50)
+(A) 5,02 e 100,4
+(B) 7,65 e 153,0
+(C) 6,03 e 120,6
+(D) 4,55 e 91,0
+(E) 5,55 e 111,0</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r32">
+	<Coords points="118,989 118,1276 794,1276 794,989"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,176 242,176 242,213 790,213 790,953 756,953 756,986 79,986 79,959 80,959 80,273 79,273 79,213 80,213"/>
+	<TextEquiv conf="0.96842">
+	<Unicode>Questão 25
+O gerente do programa de assistência farmacêutica de um
+determinado município brasileiro, desejando iniciar o pla-
+nejamento de medicamentos para o programa de saúde
+mental, levantou os seguintes dados:
+º* —apopulaçãodo município, segundo dados do DATASUS
+relativos a 2003, é de 97.948 habitantes;
+º* —hál1,5%de prevalência das doenças mentais na área;
+ºomunicípiocontacom4 unidades de saúde responsá-
+veis pelo acompanhamento dos doentes de saúde men-
+tal, sendo que o número total de pacientes cadastra-
+dos no programa até o momento é de 1300 pessoas;
+* —20%dos pacientes cadastrados utilizam o medicamen-
+to fenobarbital 100mg, 2 vezes ao dia;
+* 40%utilizamo medicamento fenitoína 100mg, 3 vezes ao
+dia, associado à carbamazepina 200mg, 2 vezes ao dia;
+e 20% utiizamo medicamento clonazepam 0,5 mg, 3
+vezes ao dia;
+º o restante utiliza o medicamento ácido valpróico
+500mg, 2 vezes ao dia.
+Numa proposta de programação dos medicamentos para um
+período de 12 meses, quais as quantidades de comprimidos
+dos medicamentos deste programa a serem adquiridas?</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r35">
+	<Coords points="821,181 821,1950 828,1950 828,181"/></SeparatorRegion></Page></PcGts>

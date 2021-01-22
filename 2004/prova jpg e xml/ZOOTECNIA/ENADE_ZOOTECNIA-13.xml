@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T21:17:57</Created>
+	<LastChange>2021-01-17T20:55:20</LastChange></Metadata>
+	<Page imageFilename="ENADE_ZOOTECNIA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="785,106 784,2157 787,2157 788,106"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="1548,1182 1548,757 805,757 805,1182"/></ImageRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="102,110 768,110 768,367 682,367 682,473 769,473 769,1090 768,1090 768,1091 246,1091 246,1129 153,1129 153,1091 104,1091 104,415 103,415 103,150 102,150"/>
+	<TextEquiv conf="0.42268">
+	<Unicode>QUESTÃO 31
+Para ruminantes de interesse zootécnico (bovinos, ovinos,
+caprinos e bubalinos), o colostro, primeira secreção após o
+parto, desempenha papel determinante na sobrevivência do
+recém-nascido. Dessa forma, o colostro deve ser ingerido
+aproximadamente entre as 6 e 10 primeiras horas
+pós-nascimento, porque, após esse período,
+A ocorre queda na absorção das imunoglobulinas em razão
+da renovação da mucosa intestinal dos recém-nascidos e
+do efeito da redução dos níveis de imunoglobulinas do
+colostro das mães.
+B os animais não conseguem mais ingerir o colostro, uma
+vez que estão fracos e debilitados, o que os impede de
+permanecerem em pé.
+C as imunoglobulinas do grupo A, que conferem imunidade
+humoral, não são mais absorvidas pelo intestino delgado.
+D as mães não são capazes de produzir mais colostro, pois
+sua fisiologia é alterada para a produção do leite
+necessária para a nutrição do recém-nascido.
+E ocorre uma inversão no sistema de proteção dos
+recém-nascidos, que passa de imunidade passiva para
+imunidade ativa, não havendo mais necessidade do
+colostro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="142,1166 768,1166 768,1250 767,1250 767,1477 768,1477 768,2080 743,2080 743,2128 201,2128 201,2060 202,2060 202,1908 201,1908 201,1855 106,1855 106,1418 103,1418 103,1224 142,1224"/>
+	<TextEquiv conf="0.66939">
+	<Unicode>QUESTÃO 32
+Quanto à resposta à floração, as forrageiras são classificadas
+em plantas de dias longos, plantas de dias curtos e plantas
+indiferentes a variações de fotoperíodo. A respeito desse
+assunto, julgue se os itens a seguir são VERDADEIROS (V)
+ou FALSOS (F).
+o ( ) A aveia é considerada uma planta de dias longos,
+podendo ser cultivada em qualquer região do Brasil.
+O( ) As braquiárias são consideradas plantas de dias
+longos e são cultivadas principalmente na região
+Centro-Oeste do Brasil.
+O( ) O milheto é considerado uma planta tanto de dias
+longos quanto indiferente a fotoperíodo, sendo
+cultivado principalmente nas regiões Sul e Sudeste
+do Brasil.
+O sorgo forrageiro é considerado uma planta de dias
+longos, sendo por essa razão cultivado
+principalmente na região Sul do Brasil.
+O capim Andropogon gayanus é uma planta
+sendo cultivado
+tipicamente de dias curtos,
+principalmente na região Centro-Oeste do Brasil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="806,110 1551,110 1551,151 1550,151 1550,339 1551,339 1551,698 808,698 808,697 807,697 807,150 806,150"/>
+	<TextEquiv conf="0.20447">
+	<Unicode>QUESTÃO 33
+A produção de forragens no Brasil é caracterizada por épocas de alta
+e de baixa produção. Em razão dessa realidade, seria correto um
+produtor preocupado em sanar a escassez de alimentos no período de
+baixa produção de forragens suplementar a dieta de seus animais com
+O silagem de milho, devido à sua alta produção de massa verde em
+comparação à das demais forrageiras.
+O silagem de sorgo, devido ao menor teor de tanino em relação às
+demais forrageiras.
+O uma mistura de silagem de milho e silagem de cana-de-açúcar,
+pela facilidade de produzir essas duas forrageiras.
+O capineiras de capim elefante, em razão do maior teor de proteína
+bruta após 90 dias de estágio de maturidade em relação às
+silagens.
+cana-de-açúcar, devido à alta produção de matéria verde por
+área e da facilidade do seu cultivo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="854,725 949,725 949,1189 1545,1189 1545,1237 1551,1237 1551,1769 1550,1769 1550,2048 1549,2048 1549,2108 968,2108 968,2142 807,2142 807,1601 806,1601 806,1237 854,1237"/>
+	<TextEquiv conf="0.96830">
+	<Unicode>QUESTÃO 34
+Esquema da cadeia agroindustrial da carne bovina. Peneda e Veríssimo, 2004 (com adaptações)
+O Brasil, segundo projeções da Confederação Nacional da
+Agricultura, se tornará em 2004 o maior exportador mundial de carne
+bovina in natura e industrializada. Apesar de ocupar posição de
+destaque no agronegócio brasileiro, existem problemas crônicos que
+ainda interferem negativamente na cadeia produtiva. A falta de
+entendimento entre os componentes da cadeia prejudica o perfeito
+sincronismo entre seus elos, que é de fundamental importância para
+garantir os mercados conquistados e abrir novos mercados no país e
+no exterior, com produtos de qualidade e acessíveis a todas as
+camadas sociais, satisfazendo, portanto, o consumidor, que é o mais
+importante componente de uma cadeia produtiva.
+Considerando as informações do texto e a figura acima, que mostra
+um esquema da cadeia agroindustrial da carne bovina, assinale a
+opção que contém termos que completam corretamente os espaços
+nomeados de I a V, nessa ordem.
+A frigorífico, mercado externo, supermercado, consumidor,
+pecuária
+B pecuária, frigorífico, mercado externo, supermercado,
+consumidor
+C consumidor, pecuária, frigorífico, mercado externo,
+supermercado
+D supermercado, consumidor, pecuária, frigorífico, mercado
+externo
+E mercado externo, supermercado, consumidor, pecuária,
+frigorífico</Unicode></TextEquiv></TextRegion></Page></PcGts>

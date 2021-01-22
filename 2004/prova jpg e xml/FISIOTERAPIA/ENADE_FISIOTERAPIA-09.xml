@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T06:20:15</Created>
+	<LastChange>2020-11-13T02:51:12</LastChange></Metadata>
+	<Page imageFilename="ENADE_FISIOTERAPIA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="931,97 931,2151 948,2151 948,97"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="80,77 80,954 928,954 928,77"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 13
+Para o desempenho funcional normal, além de força e resistência à fadiga,
+é necessário mobilidade dos tecidos moles e articulares. Se houver alteração
+da mobilidade, ocorrerão encurtamentos adaptativos de tecidos moles e
+articulações. Nesse caso, para se restaurar a flexibilidade por meio de
+exercício terapêutico especificamente voltado para os músculos, é preciso
+considerar
+A as propriedades neurofisiológicas como a função dos fusos musculares
+e dos órgãos tendinosos de Golgi, o processo de relaxamento e as
+propriedades elásticas.
+B a contagem do número total de sarcômeros em uma única miofibrila que
+pode facilitar a mobilidade.
+C a relação entre o número total de sarcômeros em série e o número total
+de sarcômeros em paralelo.
+D a contagem do número de órgãos tendinosos de Golgi bem como o de
+fusos musculares que influenciam a resposta do músculo ao exercício.
+E as propriedades biomecânicas, a capacidade de tensão máxima de
+relaxamento tecidual e a resiliência.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="80,1425 80,2148 931,2148 931,1425"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 14
+No ciclo da marcha normal, conforme ilustrado acima,
+A o músculo glúteo máximo exerce importante papel na fase de impulsão
+da marcha devido à sua função extensora de quadril e de alinhamento
+coxofemoral.
+B o pico de contração do glúteo médio, que está em sincronia com os
+músculos vasto medial, vasto intermédio, vasto lateral e glúteo máximo,
+impede o abaixamento da pelve oposta.
+C o grupo flexo-extensor de joelho atua em sinergismo de co-contração
+durante toda a fase de balanço para evitar uma extensão abrupta do
+joelho causada pela inércia.
+D os músculos adutores do quadril apresentam um pico de atividade de
+contração durante a fase final de balanço, alinhando a projeção do
+segmento.
+E os músculos eretores espinhais apresentam pico de atividade de
+contração durante toda a fase de balanço, mantendo o controle pélvico
+e suas oscilações nas diversas fases da marcha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="954,625 954,2148 1580,2148 1580,625"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 15
+Considerando a relação comprimento versus tensão
+muscular e o gráfico acima, que mostra a curva de
+torque isométrico para a flexão do cotovelo, julgue os
+seguintes itens.
+I Um paciente com grau 3 de força muscular (escala
+de Oxford) terá menor torque isométrico e menor
+insuficiência ativa muscular ao final do
+movimento.
+II O exercício terapêutico para fortalecimento dos
+músculos flexores de cotovelo deverá ser realizado
+até 90º de flexão do cotovelo, para maximizar o
+torque do movimento.
+III Durante a avaliação da força muscular dos flexores
+de cotovelo, à medida que ocorre a insuficiência
+ativa muscular, há uma compensação da perda de
+tensão, pelo aumento do braço de alavanca até 90º
+de flexão.
+IV Pretende-se, ao final de um tratamento de força
+muscular dos flexores de cotovelo, que o torque
+isométrico no final do movimento seja igual ou
+maior que o torque gerado a 90º de flexão.
+V O exercício terapêutico de flexão do cotovelo
+iniciado a 0º/180º de extensão permite iniciar o
+movimento com menor insuficiência ativa, menor
+torque isométrico e maior tensão inicial.
+Estão certos apenas os itens
+A I e II.
+B I e IV.
+C II e III.
+D III e V.
+E IV e V.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="982,165 982,611 1571,611 1571,165"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="105,988 105,1400 931,1400 931,988"/></ImageRegion></Page></PcGts>
