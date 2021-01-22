@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T03:00:57</Created>
+	<LastChange>2020-09-17T03:01:56</LastChange></Metadata>
+	<Page imageFilename="ciencias_contabeis-17.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="102,560 102,928 1521,928 1521,560"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="100,968 100,1328 1515,1328 1515,968"/></TableRegion>
+	<TextRegion id="r101" type="heading">
+	<Coords points="107,181 276,181 276,241 1514,241 1514,512 1512,512 1512,1478 1513,1478 1513,1724 790,1724 790,1758 492,1758 492,1803 295,1803 295,1916 344,1916 344,2041 106,2041 106,1916 107,1916 107,1770 155,1770 155,1378 106,1378 106,545 105,545 105,241 106,241 106,211 107,211"/>
+	<TextEquiv conf="0.96303">
+	<Unicode>QUESTÃO 11
+Uma empresa fabrica sensores de presença, tanto externos quanto internos, para o setor de segurança.
+Com a diminuição do consumo de produtos dessa natureza, o diretor da empresa supôs perda maior
+na rentabilidade do produto sensor externo, já que, no período anterior, a empresa tinha vendido 300
+unidades do sensor interno e 100 unidades do sensor externo, ambos produtos sem saldo inicial ou final
+de estoque. O diretor solicitou, então, ao seu gerente de controladoria, que apresentasse um relatório que
+evidenciasse a rentabilidade de cada produto. O gerente de controladoria apresentou a Demonstração do
+Resultado do Exercício (DRE) simplificada de cada produto, para a qual se utilizou dos métodos do custeio
+variável e do custeio por absorção, cujos dados estão expostos a seguir.
+Com base nessa situação e nos dados apresentados, avalie as afirmações a seguir.
+|. A DRE elaborada pelo método do custeio por absorção dificulta a tomada de decisão sobre a
+lucratividade por produto devido à utilização de critério de rateio.
+ll. Caso o diretor decida basear-se apenas na informação gerada na DRE, elaborada pelo método
+do custeio variável, que apresenta a margem de contribuição do produto sensor externo com
+resultado negativo, a empresa deverá deixar de fabricar esse produto.
+Ill. No custeio por absorção, são considerados como custos do produto tanto os custos fixos quanto os
+variáveis, diretos ou indiretos; já no custeio variável, levam-se em conta como custos do produto
+apenas os custos variáveis, sendo os custos fixos separados e considerados como despesas do
+período, indo diretamente para o resultado.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

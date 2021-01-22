@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:16:55</Created>
+	<LastChange>2020-09-18T02:18:27</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="169,243 1099,243 1099,381 1575,381 1575,447 621,447 621,573 842,573 842,673 1575,673 1575,739 1041,739 1041,892 825,892 825,1019 1171,1019 1171,1134 1432,1134 1432,1186 1575,1186 1575,1327 171,1327 171,1326 170,1326 170,1164 169,1164 169,1019 294,1019 294,892 168,892 168,762 170,762 170,673 174,673 174,495 171,495 171,447 170,447 170,446 169,446"/>
+	<TextEquiv conf="0.96421">
+	<Unicode>COMPONENTE ESPECÍFICO
+QUESTÃO DISCURSIVA 03
+Listas lineares armazenam uma coleção de elementos. A seguir, é apresentada a declaração de uma lista
+simplesmente encadeada.
+struct ListaEncadeada {
+int dado;
+struct ListaEncadeada *proximo;
+};
+Para imprimir os seus elementos da cauda para a cabeça (do final para o início) de forma eficiente,
+um algoritmo pode ser escrito da seguinte forma:
+void mostrar (struct ListaEncadeada *lista) {
+if (lista != NULL) {
+mostrar (lista-&gt;proximo);
+printf ("%d ", lista-&gt;dado);
+}
+}
+Com base no algoritmo apresentado, faça o que se pede nos itens a seguir.
+a) Apresente a classe de complexidade do algoritmo, usando a notação O. (valor: 3,0 pontos)
+b) Considerando que já existe implementada uma estrutura de dados do tipo pilha de inteiros — com
+as operações de empilhar, desempilhar e verificar pilha vazia — reescreva o algoritmo de forma não
+recursiva, mantendo a mesma complexidade. Seu algoritmo pode ser escrito em português estruturado
+ou em alguma linguagem de programação, como C, Java ou Pascal. (valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

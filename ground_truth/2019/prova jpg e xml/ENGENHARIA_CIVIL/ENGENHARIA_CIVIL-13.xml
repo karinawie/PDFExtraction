@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:29:45</Created>
+	<LastChange>2020-09-11T20:29:52</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-13.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="328,976 328,1213 1242,1213 1242,976"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="302,350 302,871 1278,871 1278,350"/></ImageRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="84,179 429,179 429,231 1492,231 1492,299 1491,299 1491,916 1490,916 1490,1348 85,1348 85,1306 84,1306 84,1228 85,1228 85,348 84,348 84,299 83,299 83,231 84,231"/>
+	<TextEquiv conf="0.96020">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Considere um projeto estrutural em que serão utilizadas 4 vigas hipotéticas de concreto armado do
+tipo V8, com 6 m de comprimento, 20 cm de largura e 50 cm de altura. A figura a seguir apresenta o
+detalhamento dessa viga, com os comprimentos de barras e ganchos dados em cm.
+Na tabela a seguir, são apresentados a área de aço, a massa linear e o custo para diferentes diâmetros de
+barras de aço.
+Com base nas informações apresentadas, faça o que se pede nos itens a seguir.
+a) Calcule o custo total de material da armadura positiva. (valor: 5,0 pontos)
+b) Calcule o custo total de material dos estribos distribuídos na região central das vigas. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

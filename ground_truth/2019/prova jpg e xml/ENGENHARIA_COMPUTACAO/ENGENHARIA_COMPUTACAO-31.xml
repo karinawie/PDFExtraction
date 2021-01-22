@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T21:05:26</Created>
+	<LastChange>2020-09-11T21:06:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-31.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="228,336 228,826 1505,826 1505,336"/></ImageRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="84,179 170,179 170,180 255,180 255,247 1334,247 1334,248 1490,248 1490,905 1491,905 1491,1080 1492,1080 1492,1143 1491,1143 1491,1236 583,1236 583,1292 250,1292 250,1546 249,1546 249,1547 85,1547 85,877 84,877 84,876 83,876 83,848 84,848"/>
+	<TextEquiv conf="0.96429">
+	<Unicode>QUESTÃO 27
+Padrões de projeto são soluções gerais para problemas frequentes de projetos de software. O diagrama
+de classes UML abaixo ilustra a estrutura do padrão Strategy:
+A partir do modelo UML apresentado e acerca dos padrões de projeto, avalie as afirmações a seguir.
+I. A Classe Strategy pode ser implementada como uma classe abstrata ou uma interface, pois
+corresponde unicamente a uma abstração dos diversos tipos de estratégias definidas.
+Il. O padrão Strategy pode ser utilizado na implementação de classes para, por exemplo, permitir que
+métodos de ordenação de coleções possam ser usados com diferentes critérios de comparação.
+Ill. O baixo acoplamento permite que estratégias sejam incluídas ou retiradas da aplicação sem alterar
+a estrutura das demais classes do sistema.
+IV. O uso do padrão Singleton para criação das instâncias, permitiria centralizar em um método de
+criação a lógica de seleção da estratégia a ser utilizada.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C III e IV.
+D I, II e III.
+E II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

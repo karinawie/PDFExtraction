@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:50:58</Created>
+	<LastChange>2020-09-17T19:52:19</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-33.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="413,1160 413,1450 1202,1450 1202,1160"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 277,181 277,241 1513,241 1513,625 492,625 492,684 295,684 295,795 344,795 344,908 107,908 107,746 106,746"/>
+	<TextEquiv conf="0.95164">
+	<Unicode>QUESTÃO 29
+Em um mercado competitivo, a curva de demanda é dada por QP = 300 - 30p, em que QP é a quantidade
+demandada e p é o preço do produto; e a curva de oferta é dada por Qº = 10p + 20, em que Qº éa
+quantidade ofertada.
+Com base nos dados apresentados, avalie as afirmações a seguir.
+l. Em equilíbrio, sem intervenção governamental, a quantidade de produto transacionado no
+mercado será de 90 unidades, e o preço praticado será de R$ 7,00 por unidade.
+Il. O consumidor tem um excedente no valor de R$ 135,00.
+Ill. Se o governo tabelar o preço do produto em R$ 6,00, haverá um excesso de oferta de
+50 unidades.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="106,932 277,932 277,995 1513,995 1513,1588 1300,1588 1300,1705 1334,1705 1334,1734 492,1734 492,1788 295,1788 295,1900 344,1900 344,2012 107,2012 107,1850 106,1850 106,1818 107,1818 107,1755 155,1755 155,1588 106,1588"/>
+	<TextEquiv conf="0.96670">
+	<Unicode>QUESTÃO 30
+Se o Índice de Desenvolvimento Humano (IDH) de uma região é muito alto, considera-se essa região
+desenvolvida, se apresenta IDH médio ou alto, é considerada em desenvolvimento e, por fim, se apresenta
+IDH baixo ou muito baixo, é considerada subdesenvolvida. A tabela a seguir apresenta a frequência relativa
+das 27 Unidades da Federação do Brasil em relação às classes do IDH.
+Disponível em: &lt;http://www.atlasbrasil.org.br&gt;. Acesso em: 12 jul. 2018 (adaptado).
+Nesse contexto, avalie as afirmações a seguir, a respeito das medidas de tendência central dos dados
+agrupados apresentados na tabela.
+|. A média do IDH das Unidades da Federação está situada na 3º classe (IDH médio).
+Il. A moda do IDH das Unidades da Federação está situada na 4º classe (IDH alto).
+Ill. A mediana do IDH das Unidades da Federação está situada na 3º classe (IDH médio).
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

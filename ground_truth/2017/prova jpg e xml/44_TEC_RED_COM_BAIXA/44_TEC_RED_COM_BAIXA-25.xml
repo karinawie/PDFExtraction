@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:55:11</Created>
+	<LastChange>2020-11-30T18:30:44</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="890,244 1062,244 1062,312 1576,312 1576,797 1575,797 1575,912 1576,912 1576,1390 1381,1390 1381,1452 1055,1452 1055,1706 891,1706 891,1483 892,1483 892,1418 939,1418 939,797 890,797"/>
+	<TextEquiv conf="0.96397">
+	<Unicode>QUESTÃO 24
+O IPv6 foi projetado para ser o sucessor do IPv4,
+superando as limitações do IPv4 e introduzindo
+aprimoramentos como o novo ICMPv6, que
+substitui o protocolo de resolução de endereços
+(Address Resolution Protocol - ARP) e o protocolo
+de resolução de endereço reverso (Reverse Address
+Resolution Protocol - RARP). Por esse motivo, a
+configuração da segurança da camada de rede
+exige atenção especial com o IPv6.
+Considerando a arquitetura IPV6 e as
+funcionalidades do ICMPv6, avalie as afirmações
+a seguir.
+|. O ICMPv6 não pode ser completamente
+bloqueado em firewalls de borda.
+Il. O IPv6 é mais seguro que o IPv4, já que o
+IPSec é integrado ao protocolo e habilitado
+por padrão.
+Ill. O endereço MAC do dispositivo da rede
+interna pode ser descoberto quando se
+utiliza o recurso de autoconfiguração para a
+formação do endereço IPv6 roteável global.
+IV. Os dispositivos das redes locais com
+endereços IPV6 — globais roteáveis
+necessitam de tradução de endereço de
+rede (NAT) para mascarar os endereços na
+internet.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+O eiv.
+O LIelv.
+QuMmMelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="169,1348 339,1348 339,1414 854,1414 854,1480 852,1480 852,1672 854,1672 854,1852 328,1852 328,2095 170,2095 170,1852 169,1852 169,1672 218,1672 218,1480 168,1480 168,1414 169,1414"/>
+	<TextEquiv conf="0.96660">
+	<Unicode>QUESTÃO 23
+A diretoria de uma empresa identificou os seguintes
+problemas, que têm afetado os seus negócios:
+* faltademétricas para controlar seus produtos;
+* — processos escassos ou inexistentes;
+* faltadefocoem seus negócios;
+* descontrole dos processos.
+Nessa situação, o guia de boas práticas indicado
+para otimizar o investimento em tecnologia da
+informação, de forma a melhorar o retorno sobre
+o investimento e fornecer métricas para a avaliação
+dos resultados dessa empresa é o
+O TIL
+O coBIT.
+O cmMI!.
+O MPS-BR.
+O PMBOK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,310 854,310 854,597 853,597 853,727 854,727 854,1320 170,1320 170,881 169,881 169,811 170,811 170,698 168,698 168,632 370,632 370,528 168,528 168,310 169,310"/>
+	<TextEquiv conf="0.95541">
+	<Unicode>QUESTÃO 22
+Um serviço de diretório, em uma descrição
+simplificada, constitui uma base de dados que
+armazena e organiza informações de um grupo
+de usuários e permite aos administradores
+gerenciar o acesso destes aos sistemas e recursos
+computacionais.
+Disponível em: &lt;https://www.docs.oracle.com&gt;.
+Acesso em: 11 ago. 2017 (adaptado).
+A partir dessa informação, é correto afirmar que a
+autenticação no serviço de diretório
+O impede o compartilhamento de privilégios em
+diferentes bases de dados.
+O fornece acesso e privilégio de superusuário a
+todos os serviços disponibilizados.
+O elimina a necessidade de aplicação de
+criptografias e de uso de protocolos de
+autenticação.
+O valida a identificação do usuário junto à base
+de dados, porém não lida com fatores de
+limitação de acesso, ou com ações a que esse
+usuário esteja submetido.
+O consiste em verificar a identidade de um
+usuário, um dispositivo ou uma entidade que
+deseja acessar dados, recursos ou aplicações,
+disponíveis em diferentes servidores.</Unicode></TextEquiv></TextRegion></Page></PcGts>

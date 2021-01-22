@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T05:04:14</Created>
+	<LastChange>2020-11-27T05:21:56</LastChange></Metadata>
+	<Page imageFilename="15_ENG_PRO_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="869,247 872,2112 877,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="891,1144 1061,1144 1061,1199 1577,1199 1577,2083 1235,2083 1235,2084 892,2084 892,2085 891,2085 891,1201 890,1201 890,1145 891,1145"/>
+	<TextEquiv conf="0.96883">
+	<Unicode>QUESTÃO 22
+Um dos métodos utilizados para previsão de
+demanda é a média móvel ponderada, em que
+se considera a influência da demanda real dos
+meses anteriores. Considere que uma empresa de
+embalagens pretenda utilizar esse método para
+definir a previsão de demanda para novembro de
+2017. Verificou-se que a influência dos últimos
+meses, nesse ano, é de 50%, 30% e 20%, do
+mês anterior mais próximo até os meses mais
+distantes, e que a correspondente demanda real,
+em toneladas, foi a seguinte:
+º julho: 75;
+*º agosto:125;
+*º setembro: 175;
+*º outubro: 225.
+Com base nesses dados, qual a previsão de
+demanda, em toneladas, para o mês de novembro
+de 2017?
+O 150
+O 160
+O 175
+O 190
+O 275</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="891,244 1061,244 1061,299 1577,299 1577,571 1576,571 1576,833 1577,833 1577,1055 1575,1055 1575,1119 938,1119 938,1120 937,1120 937,1057 891,1057 891,834 892,834 892,679 891,679 891,660 890,660 890,245 891,245"/>
+	<TextEquiv conf="0.96680">
+	<Unicode>QUESTÃO 21
+Para substituir um equipamento que esgotou
+sua vida útil, um empresário terá que investir
+R$ 200 000,00 em um novo equipamento. Esse
+investimento gerará fluxos de caixa iguais,
+anuais e consecutivos, por 5 anos, de R$ 75 000,00,
+que, descontando-se a taxa de juros anual de 15%,
+corresponderá ao VPL (valor presente líquido) de
+R$ 51 411,63.
+Com base no resultado obtido para o VPL, o
+empresário deverá avaliar o projeto
+O positivamente, dado que o VPL do projeto é
+maior do que zero.
+O negativamente, porque o VPL do projeto é
+inferior aos fluxos de caixa anuais.
+O negativamente, visto que não se aplica o método
+VPL no caso de substituição de equipamentos.
+O positivamente, pois o VPL do projeto é superior
+à taxa de juros anual multiplicada pelo valor do
+investimento.
+O negativamente, uma vez que o método VPL
+foi utilizado em investimentos mutuamente
+excludentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 855,312 855,781 854,781 854,1191 853,1191 853,1383 855,1383 855,1455 171,1455 171,1456 170,1456 170,1001 169,1001 169,892 215,892 215,782 168,782 168,312 169,312"/>
+	<TextEquiv conf="0.95957">
+	<Unicode>QUESTÃO 20
+O ciclo de vida de projetos de empreendimentos
+pode ser dividido em duas fases: planejamento
+e execução. Na fase de planejamento, uma das
+etapas fundamentais é a avaliação da viabilidade
+do projeto, principalmente em relação aos
+aspectos técnico-operacional, econômico-financeiro
+e ambiental. No caso de projetos que apresentem
+riscos ao meio ambiente, o Estudo de Impacto
+Ambiental (EIA) e a elaboração do Relatório de
+Impacto Ambiental (RIMA) são exigências legais
+para obtenção do licenciamento ambiental junto
+ao órgão competente.
+WOILER, S.; MATHIAS, W. Projetos: planejamento, elaboração e
+análise. 2. ed. São Paulo: Atlas, 2008 (adaptado).
+No ciclo de vida de um projeto, conforme exigências
+legais, uma empresa deve obter licenciamento
+ambiental na seguinte sequência:
+O licença prévia, licença provisória e licença
+definitiva.
+O licença de operação, licença de execução e
+licença final.
+O licença prévia, licença de implantação e licença
+de operação.
+O licença de implantação, licença prévia e licença
+de operação.
+O licença de implantação, licença de operação e
+licença de execução.</Unicode></TextEquiv></TextRegion></Page></PcGts>

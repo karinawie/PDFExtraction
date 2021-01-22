@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-19T20:13:17</Created>
+	<LastChange>2020-10-19T20:29:06</LastChange></Metadata>
+	<Page imageFilename="psicologia-19.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="376,518 376,763 1252,763 1252,518"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="234,852 234,1092 1397,1092 1397,852"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="106,181 276,181 276,253 1513,253 1513,501 1461,501 1461,1113 1513,1113 1513,1175 1512,1175 1512,1681 492,1681 492,1757 344,1757 344,1987 256,1987 256,2038 107,2038 107,1327 106,1327 106,1113 107,1113 107,501 105,501 105,253 106,253"/>
+	<TextEquiv conf="0.96581">
+	<Unicode>QUESTÃO 13
+Para a realização de um estudo, idosos de um asilo foram aleatoriamente divididos em dois grupos: um grupo
+experimental (GEX) que recebeu intervenção de cinco sessões de treino em memória episódica e um grupo
+controle (GCO) que não recebeu intervenção. A idade, o nível de escolaridade e de depressão dos idosos
+eram semelhantes e nenhum dos participantes apresentou índice sugestivo de demência. Foi realizado teste
+para memória episódica e para velocidade de processamento cognitivo pré e pós-intervenção, em ambos os
+grupos, cujos resultados são apresentados nas tabelas a seguir.
+Nota: Diferença entre os resultados pré e pós-intervenção atingiu significância estatística em p &lt; 0,05 apenas para o GEX.
+Nota: Diferença entre os resultados pré e pós-intervenção não atingiu significância estatística em p &lt; 0,05 para nenhum dos
+dois grupos.
+CARVALHO, F. C. R. et al. Treino de memória episódica com ênfase em categorização para idosos sem demência e depressão.
+Psicol Reflex Crit, v. 23, n. 2, p. 317-23, 2010 (adaptado).
+Com base nesse contexto, avalie as afirmações a seguir.
+|. O fato de os idosos de ambos os grupos apresentarem nível semelhante de depressão foi
+determinante para a escolha da intervenção com foco na memória episódica.
+Il. A efetividade da intervenção pode ser demonstrada pela presença de diferenças significativas
+para a variável memória episódica no grupo experimental, com ausência concomitante no grupo
+de controle.
+Ill. Os resultados mostram que a intervenção foi efetiva para a variável treinada (memória episódica),
+mas não produziu efeitos significativos na velocidade de processamento cognitivo.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O llelll, apenas.
+O 1I11el.</Unicode></TextEquiv></TextRegion></Page></PcGts>

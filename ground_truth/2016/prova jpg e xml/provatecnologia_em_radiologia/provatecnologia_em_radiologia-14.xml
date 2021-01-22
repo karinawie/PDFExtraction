@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:58:43</Created>
+	<LastChange>2020-10-29T20:12:18</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-14.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,254 870,2073 873,2073 875,254"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="891,252 1601,252 1601,282 1600,282 1600,283 1599,283 1599,903 1600,903 1600,932 1599,932 1599,1187 1381,1187 1381,1288 1016,1288 1016,1403 1047,1403 1047,1450 1055,1450 1055,1481 891,1481 891,1210 984,1210 984,1079 985,1079 985,926 939,926 939,905 967,905 967,903 985,903 985,741 939,741 939,604 890,604 890,282 891,282"/>
+	<TextEquiv conf="0.13001">
+	<Unicode>QUESTÃO 15
+Atualmente, a mamografia dispõe de dois tipos de
+receptores de imagens: o filme-tela intensificadora,
+que é o sistema convencional, e os detectores digitais,
+nos sistemas de radiografia digital ou de radiografia
+computadorizada.
+Em relação a essas tecnologias, avalie as afirmações
+a seguir.
+l. No sistema convencional, os filmes
+mamográficos têm emulsão em um dos lados e
+se emparelham com uma tela intensificadora.
+O sistema convencional de mamografia
+apresenta baixa resolução espacial e alcance
+dinâmico reduzido.
+Ill. Na mamografia computadorizada, os raios X
+são transmitidos, atenuados seletivamente
+pelos tecidos da mama e convertidos
+diretamente em sinais eletrônicos.
+A mamografia digital permite o
+desacoplamento das etapas de aquisição,
+apresentação e armazenamento da imagem.
+É correto apenas o que se afirma em
+Oie
+Oie
+Oie.
+OL Melv.
+O ,IMeiv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="146,252 147,252 147,253 856,253 856,283 855,283 855,284 854,284 854,732 855,732 855,1087 854,1087 854,1392 532,1392 532,1453 326,1453 326,1565 375,1565 375,1613 383,1613 383,1646 853,1646 295,1646 295,1691 146,1691 146,1469 147,1469 147,1420 241,1420 241,1277 240,1277 240,1272 194,1272 194,1250 222,1250 222,1249 240,1249 240,1087 195,1087 195,1086 194,1086 194,911 146,911 146,910 145,910 145,842 202,842 202,710 146,710 146,709 145,709 145,282 146,282"/>
+	<TextEquiv conf="0.95998">
+	<Unicode>QUESTÃO 14
+Após os tomógrafos computadorizados de corte
+único, foi desenvolvida a tecnologia de anéis
+deslizantes, que permitiu a rotação contínua do tubo
+de raios X combinada com o movimento da mesa,
+dando origem aos tomógrafos de volume, também
+chamados de tomógrafos helicoidais. Mais tarde, a
+evolução tecnológica permitiu o desenvolvimento
+dos tomógrafos multidetectores, também chamados
+de tomógrafos multislice, capazes de realizar cortes
+simultâneos por rotação.
+BONTRAGER K. L, LAMPIGNANO J. P. Tratado de Posicionamento
+Radiográfico e Anatomia Radiológica. Rio de Janeiro:
+Elsevier, 8 ed., 2015 (adaptado).
+Em relação às vantagens da evolução tecnológica dos
+tomógrafos, avalie as afirmações a seguir.
+I. Nos tomógrafos multidetectores, os cortes
+helicoidais tendem a apresentar maior
+distorção e aumento de espessura quando se
+aumenta o fator pitch.
+II. Nos tomógrafos de volume, o tempo do
+exame é maior porque os cortes planos são
+adquiridos um de cada vez, por apneia.
+III. Os tomógrafos multidetectores proporcionam
+maior precisão nas reconstruções
+multiplanares, devido à obtenção de cortes
+mais finos.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

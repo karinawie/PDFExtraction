@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T03:02:59</Created>
+	<LastChange>2020-09-10T03:04:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-25.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r2">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,234 769,234 769,1849 768,1849 768,2003 678,2003 678,2050 84,2050 84,1936 85,1936 85,1674 83,1674 83,1617 133,1617 133,1074 84,1074 84,916 83,916 83,234 84,234"/>
+	<TextEquiv conf="0.96050">
+	<Unicode>QUESTÃO 26
+Na ciência e tecnologia de carnes, o ultrassom
+tem sido estudado quanto à sua capacidade de
+melhorar a maciez da carne por mecanismos de
+cavitação. Alguns parâmetros acústicos, como
+frequência, intensidade e tempo de exposição
+ao tratamento, influenciam no amaciamento da
+carne. Os primeiros estudos determinaram que o
+uso de altas frequências não apresentou efeitos
+na textura, por elas não provocarem cavitação.
+A intensidade de ultrassom que atinge a matriz
+cárnea também é importante, sendo que, quando
+aplicada abaixo ou muito acima do valor ideal, não
+se percebe o efeito. Características de qualidade
+da carne, como perda de massa após cozimento,
+queda de pH, cor e microbiologia, também foram
+analisadas por diversos autores, com dados
+contraditórios quanto ao efeito do ultrassom
+sobre esses parâmetros. As particularidades
+de cada músculo dificultam as comparações de
+resultados, abrindo espaço para novas pesquisas.
+ALVES, L. et al. O ultrassom no amaciamento de carnes.
+Cienc. Rural, v. 43, n. 8, 2013 (adaptado).
+Considerando as informações apresentadas, avalie
+as asserções a seguir e a relação proposta entre elas.
+|. A maciez é um atributo de importância na
+avaliação do consumidor de carnes, a qual
+pode ser obtida por meio de ondas de
+ultrassom de baixa frequência.
+PORQUE
+Il. O efeito do ultrassom na carne deve-se
+à capacidade destrutiva da cavitação e à
+vibração da onda ultrassônica, que levam
+ao enfraquecimento da estrutura muscular,
+com ruptura das estruturas do colágeno
+e das miofibrilas, e propiciam, ainda, a
+liberação das enzimas que atuam na melhora
+da maciez, devido à ruptura das organelas
+celulares.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções I e II são proposições verdadeiras,
+e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II
+é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="805,179 976,179 976,230 1492,230 1492,764 1491,764 1491,1269 1492,1269 1492,1453 1490,1453 1490,1596 1492,1596 1492,1741 1296,1741 1296,1796 962,1796 962,2044 806,2044 806,1826 807,1826 807,1762 854,1762 854,1188 805,1188"/>
+	<TextEquiv conf="0.96677">
+	<Unicode>QUESTÃO 27
+Vinhaça, vinhoto, restilo ou garapão é um resíduo
+líquido proveniente da destilação do vinho, produto
+da fermentação alcoólica do caldo de cana-de-
+açúcar, do melaço ou da mistura de caldo de cana e
+melaço para obtenção de álcool. Caracteriza-se por
+alta demanda bioquímica de oxigênio (DBO), pois
+apresenta em sua constituição vários elementos
+químicos provenientes do solo que foram absorvidos
+pela cana. Entre eles, encontra-se a vinhaça, que é
+rica em potássio e enxofre e apresenta quantidades
+consideráveis de fósforo, nitrogênio, cálcio e
+magnésio, além dos micronutrientes. Para cada
+litro de etanol produzido, são gerados de 10 a 15
+litros de vinhaça.
+A principal destinação da vinhaça é a utilização
+como fertilizante agrícola, devido à sua natureza
+orgânica e à ausência de contaminantes e de
+compostos indesejáveis. Entretanto, seu uso em
+excesso pode causar efeitos negativos ao solo onde
+é aplicada, devido ao pH muito ácido.
+CORTEZ, L. A. B. Bioetanol de cana de açúcar: P&amp;D para produtividade
+e sustentabilidade. São Paulo: Blucher, 2010 (adaptado).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+I. A vinhaça possui baixo teor de sólidos.
+II. A estabilização da vinhaça é realizada pela
+desidratação do vinhoto com o auxílio
+do calor gerado durante o processo de
+fabricação do etanol, recuperando a água
+evaporada.
+III. O processo de estabilização da vinhaça
+dispensa investimentos elevados,
+diminuindo o custo operacional.
+IV. O tratamento da vinhaça para geração
+de energia por meio do emprego de
+biodigestores reduz o seu potencial poluidor
+e o volume de resíduo inicial produzido.
+É correto apenas o que se afirma em
+A I e II.
+B II e IV.
+C III e IV.
+D I, II e III.
+E I, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

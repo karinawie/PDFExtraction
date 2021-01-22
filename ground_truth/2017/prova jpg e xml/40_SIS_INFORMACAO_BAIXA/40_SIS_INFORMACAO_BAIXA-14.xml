@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:37:03</Created>
+	<LastChange>2020-11-25T19:12:03</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="568,458 569,816 1177,815 1176,457"/></ImageRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="169,244 514,244 514,312 1576,312 1576,420 1575,420 1575,1044 170,1044 170,990 169,990 169,422 168,422 168,312 169,312"/>
+	<TextEquiv conf="0.96486">
+	<Unicode>QUESTÃO DISCURSIVA 04
+A figura a seguir representa uma plantação de café com x colunas e y linhas. Nessa figura, as regiões com
+os cafeeiros plantados são as que estão com os espaços preenchidos, e as regiões com falhas de plantios
+são as que apresentam seus espaços vazios.
+Considerando uma solução algorítmica para contar a quantidade de falhas de plantio do cafezal
+representado na figura, faça o que se pede nos itens a seguir.
+a) Indique o tipo de estrutura de dados utilizada na solução, justificando a sua resposta. (valor: 4,0 pontos)
+b) Escreva o algoritmo da solução em pseudocódigo ou em linguagem de programação. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

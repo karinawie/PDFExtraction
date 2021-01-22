@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:37:15</Created>
+	<LastChange>2020-11-30T17:42:41</LastChange></Metadata>
+	<Page imageFilename="42_TEC_GES_PRO_IND_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1576,313 1576,314 1577,314 1577,666 1575,666 1575,1518 1576,1518 1576,1519 1577,1519 1577,1755 1576,1755 1576,2101 891,2101 891,1351 890,1351 890,666 889,666 889,313 890,313"/>
+	<ImageRegion id="r3">
+	<Coords points="897,686 897,1219 1577,1219 1577,686"/></ImageRegion>
+	<TextEquiv conf="0.96649">
+	<Unicode>QUESTÃO 32
+Nos desenhos mecânicos, as cotas representam
+as dimensões nominais da peça, ou seja, são
+os valores que o projetista gostaria que a peça
+tivesse, imaginando que ela pudesse ser fabricada
+nesse tamanho exato, sem erros ou variações
+causadas durante o processo de manufatura.
+No entanto, o próprio processo de manufatura
+apresenta variações, por exemplo, no tamanho da
+peça, conforme mostra a figura a seguir.
+A partir das informações apresentadas no texto
+e da análise da figura, é correto afirmar que a
+dimensão
+O nominal tolerada é um caso de tolerância
+unilateral, pois existe apenas um limite de
+tolerância considerado válido na peça.
+O nominal representada na figura é de 20,25 mm
+em função de possíveis variações no tamanho
+da peça.
+O nominal da peça de 20 mm se refere ao
+diâmetro interno do produto, e 19,75 mm
+seria o diâmetro mínimo aceitável.
+O decorrente da zona de conformidade
+determinada pelos limites de tolerância
+consiste na diferença entre 20,25 mm e 20
+mm.
+O nominal tolerada a um valor de +0,25 mm é
+um caso de tolerância bilateral, permitindo-se
+valor maior ou menor em relação à dimensão
+nominal da peça.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,317 856,317 856,623 855,623 855,706 854,706 854,1547 855,1547 855,1713 854,1713 854,2090 170,2090 170,2091 169,2091 169,1923 170,1923 170,1735 171,1735 171,1548 170,1548 170,1179 169,1179 169,1066 168,1066 168,689 169,689"/>
+	<TextEquiv conf="0.95524">
+	<Unicode>QUESTÃO 31
+Uma empresa implantou recentemente um novo
+sistema de informações que permitiu integrar
+suas operações de suprimento e armazenagem.
+Com isso, os lotes de compra puderam ser mais
+bem dimensionados, assim como foi possível
+Quando o
+orçamento de custos foi elaborado, não foram
+projetados os impactos
+decisão. Durante o ano corrente, o gestor
+rever e renegociar os contratos.
+resultantes dessa
+financeiro observou que os valores dos estoques
+de matérias-primas estavam abaixo do orçado.
+Verificou também que isso não comprometeu
+o atendimento dos pedidos dos clientes. Para
+bobinas laminadas longas utilizadas na produção
+de placas, por exemplo, o lote foi reduzido de
+150 toneladas para 100 toneladas, e o custo de
+aquisição foi reduzido em 1,5% por tonelada.
+Considerando-se essa situação e as informações
+apresentadas, é correto afirmar que
+O as despesas administrativas da empresa foram
+reduzidas, o que implicou custos indiretos
+menores em relação ao orçado.
+O as melhorias implementadas nas operações
+de suprimento e armazenagem tiveram como
+efeito uma elevação dos custos indiretos em
+relação ao orçado.
+O a implantação do novo sistema diminuiu os gastos
+da empresa com aquisição de matéria-prima, o
+que permitiu que as despesas indiretas fossem
+menores em relação ao orçado.
+O os custos de distribuição da empresa foram
+reduzidos pela diminuição dos custos de
+armazenagem dos estoques de matérias-primas
+em relação ao orçado.
+O a tecnologia implantada no sistema de gestão
+melhorou os processos operacionais da
+empresa, o que permitiu que os custos diretos
+fossem diminuídos em relação ao orçado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

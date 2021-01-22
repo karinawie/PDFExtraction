@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:27:51</Created>
+	<LastChange>2020-11-20T21:50:46</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="169,244 514,244 514,322 1575,322 1575,484 1576,484 1576,793 1126,793 1126,850 171,850 171,851 170,851 170,794 169,794 169,449 168,449 168,322 169,322"/>
+	<TextEquiv conf="0.96463">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Um coletor de esgoto pode ser definido como a tubulação subterrânea da rede coletora que recebe
+volume de esgotos em qualquer ponto ao longo de seu comprimento, sendo dimensionado de modo a
+garantir o escoamento livre.
+Suponha que um coletor de esgoto tem declividade de fundo de 0,04 m/m e transporta uma vazão de
+3,14 m? - s!, escoando à meia seção. Nessa situação, calcule o diâmetro desse coletor, considerando um
+modelo hidráulico hipotético que rege o escoamento em canais dado pela equação
+Q=K-A-R 1,
+em que Qé a vazão medida em m? - 5, A é a área molhada medida em m?, R, é o raio hidráulico medido
+em m, e / é a declividade do canal medida em m/m. Em seus cálculos, considere que o coeficiente de
+rugosidade da tubulação K = 100 e que Tt = 3,14 . (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:25:19</Created>
+	<LastChange>2020-11-20T21:31:16</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="890,244 1061,244 1061,318 1576,318 1576,483 1308,483 1308,623 1576,623 1576,730 1577,730 1577,1214 1576,1214 1576,1535 1575,1535 1575,1845 1576,1845 1576,2113 891,2113 891,1420 890,1420 890,623 1168,623 1168,483 891,483 891,275 890,275"/>
+	<TextEquiv conf="0.96509">
+	<Unicode>QUESTÃO 33
+No traçado das vias, consideram-se os efeitos
+decorrentes da força centrífuga no deslocamento
+dos veículos que percorrem trechos em curva.
+Essa força é calculada pela expressão
+" mV?
+Fc 3
+R
+em que m é a massa do veículo, V, a velocidade do
+veículo e R, o raio da curva.
+O projetista de vias públicas e estradas pode utilizar
+recursos como a sobrelargura, que consiste em
+variar a largura da via para melhorar a inscrição dos
+veículos, a sobrelevação, que consiste em elevar o
+bordo externo da via, e as curvas de transição (S), que
+consistem em curvas de raio variável intercaladas
+para a transição entre os trechos em tangente (T)
+(retas) para trechos de curva circular (C). Deve-se
+compatibilizar a transição planialtimétrica para que
+os resultados sejam adequados e veículos possam
+transitar com segurança.
+Com relação ao planejamento de estradas e às
+modificações das vias para a segurança do tráfego
+dos veículos em relação aos efeitos da força
+centrífuga, conclui-se que
+O a sobrelevação do bordo externo da curva é
+implantada ao longo do trecho de curva circular.
+O a sobrelevação faz os veículos se inclinarem
+para o lado externo da curva, o que melhora a
+sua estabilidade.
+O a sobrelevação é uma medida constante
+implantada no bordo externo ao longo da curva
+de transição.
+O as curvas de menor raio permitem que
+veículos trafeguem com segurança em maiores
+velocidades.
+O os pontos TS e CS são de referência para o
+acréscimo e o decréscimo das cotas do bordo
+externo da via nos trechos de transição.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,313 854,313 854,674 855,674 855,1170 853,1170 853,1350 854,1350 854,1423 853,1423 853,1604 763,1604 763,1653 170,1653 170,1227 168,1227 168,1198 218,1198 218,640 169,640"/>
+	<TextEquiv conf="0.96460">
+	<Unicode>QUESTÃO 32
+Nos últimos anos, a preocupação com o meio
+ambiente impulsionou o setor rodoviário a
+desenvolver novas tecnologias no âmbito da
+pavimentação, como, por exemplo, as misturas
+asfálticas mornas.
+Sobre a utilização de misturas asfálticas mornas,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. O uso de misturas asfálticas mornas resulta
+em menor emissão de poluentes ao
+meio ambiente, em redução do consumo
+energético, em dissipação mais lenta de calor
+durante o transporte entre a pista e a usina,
+e em menor exposição dos trabalhadores.
+PORQUE
+Il. A viabilidade técnica das misturas asfálticas
+mornas é possível após a obtenção
+das propriedades de trabalhabilidade e
+compactação em temperaturas menores em
+relação às misturas a quente convencionais.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e Il são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,778 @@
+QUESTÃO DISCURSIVA 03
+O diagrama de rede apresentado é composto por três roteadores (B1, B2 e HQ), três switches não
+gerenciáveis (S1, S2 e S3) e pelo número de hosts indicado em cada segmento LAN. Os prefixos de
+sub-rede devem ser alocados de tal forma que segmentos com um maior número de hosts recebam
+endereços mais próximos do início do espaço de endereçamento disponível, conforme a ordem de
+atribuição indicada a seguir:
+* 1ºsub-rede alocada: LAN do roteador B1;
+2º sub-rede alocada: LAN do roteador HQ;
+3º sub-rede alocada: LAN do roteador B2;
+4º sub-rede alocada: Link WAN entre B1 e HQ;
+5º sub-rede alocada: Link WAN entre HQ e B2.
+A máscara de sub-rede adotada em cada prefixo deve atender à necessidade mínima de cada segmento,
+visando à economia dos endereços IP disponíveis. Deve ser utilizada a faixa de endereços: 172.16.10.0/26
+e os prefixos devem ser informados por meio da notação Classless Inter-Domain Routing (CIDR).
+Os endereços IP necessários para a configuração dos dispositivos de rede apresentados devem ser
+incluídos nos requisitos de endereçamento.
+Com base nos requisitos de rede mostrados na topologia apresentada, crie um esquema de
+endereçamento IP apropriado para cada uma das cinco sub-redes, que contenha os endereços de
+sub-redes (ID), as faixas de endereços válidos e os endereços de broadcast. (valor: 10,0 pontos.)
+RASCUNHO
+
+QUESTÃO DISCURSIVA 04
+Uma arquitetura de gerenciamento SNMP V2c está representada na figura a seguir, que abrange o
+gerenciador e mais dois equipamentos gerenciados — roteador (R1) e servidor (S1) —, além de duas
+tabelas auxiliares que contém os comandos SNMP e objetos gerenciáveis mantidos pelos agentes SNMP
+em cada dispositivo representado.
+Com base nessas informações, faça o que se pede nos itens a seguir.
+a) Explique a função de dois componentes quaisquer da arquitetura SNMP representada na figura.
+(valor: 4,0 pontos)
+b) Explicite o objetivo da função Trap, indicada na tabela 1. (valor: 2,0 pontos)
+c) Considerando a figura e a tabela 2, descreva os objetos que devem ser monitorados para a realização
+da análise de desempenho da internet, via interface serial O (SO) do roteador R1. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+Conforme a versão mais recente da norma NBR14565:2013, que define três subsistemas de cabeamento,
+observam-se, na figura a seguir, os subsistemas de backbone de campus, de backbone de edifício e de
+cabeamento horizontal. Os ensaios de desempenho de canal e enlace previstos para o subsistema de
+cabeamento horizontal podem, segundo a topologia instalada, dividir-se em desempenho de enlace
+permanente e enlace do ponto de consolidação.
+Considerando que o subsistema de cabeamento horizontal tenha sido instalado com cabos
+balanceados de categoria 6, faça o que se pede nos itens a seguir.
+a) Defina canal, enlace permanente e enlace do CP. (valor: 6,0 pontos)
+b) Calcule o comprimento máximo do canal e do enlace permanente. (valor: 3,0 pontos)
+c) Calcule o comprimento mínimo do enlace do CP. (valor: 1,0 ponto)
+
+QUESTÃO 10
+A virtualização, tecnologia que provê uma
+abstração dos recursos físicos e lógicos, permite
+que instâncias de um sistema operacional sejam
+executadas em hardware virtual, suportadas por um
+hipervisor que gerencia o acesso aos recursos do
+hardware físico.
+STALLINGS, W.; BROWN, L. Segurança de computadores: princípios
+e práticas. 2. ed. Rio de Janeiro: Elsevier, 2014 (adaptado).
+Considerando que, para a elaboração e
+implantação de projetos lógicos e físicos, a
+virtualização é considerada na manutenção,
+administração, segurança e gerenciamento de
+serviços de redes de computadores em um
+datacenter, avalie as afirmações a seguir.
+|. A virtualização faz com que um único
+recurso de hardware suporte várias
+instâncias simultâneas de sistemas, ou que
+vários recursos de hardware suportem uma
+instância única de sistema.
+Il. Na virtualização, um drive de disco pode
+ser particionado e apresentado como
+vários drives de disco para um sistema
+computacional.
+Ill. Na virtualização, vários drives de disco
+podem ser concatenados e apresentados
+como um único drive de disco para um
+sistema computacional.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+OIE.
+
+QUESTÃO 09
+Durante o projeto da rede de uma empresa, muitas
+vezes é necessário limitar o domínio de broadcast,
+dividindo a rede em diversas LANs (Local Area
+Networks). Uma forma flexível de se realizar esse
+particionamento é por meio do uso de VLANs
+(virtual LANs). Nesse caso, diversas redes lógicas
+são criadas em um mesmo switch físico, o qual
+segrega o tráfego entre elas.
+No que se refere às VLANs, avalie as afirmações
+a seguir.
+|. O padrão IEEE 802.1Q especifica como pode
+ser estabelecido o trunking, isto é, a ligação
+ponto a ponto entre dois switches que
+compartilham mais de uma VLAN.
+Il. A interligação entre duas VLANS pode
+ser realizada sem a necessidade de um
+equipamento da camada de rede, uma vez
+que elas compartilham o mesmo switch.
+Ill. É possível criar uma VLAN em função dos
+endereços MAC de seus membros, ou
+seja, um equipamento fará parte da VLAN
+independentemente da porta do switch
+onde ele seja conectado.
+IV. Equipamentos ligados em uma mesma
+VLAN, em switches diferentes que estejam
+ligados entre si, fazem parte de diferentes
+domínios de colisão.
+É correto apenas o que se afirma em
+(ABENIA
+Oie.
+O lelv.
+O LIlelv.
+O uMmelv
+
+QUESTÃO 11
+Em uma rede de computadores baseada na arquitetura TCP/IP, a camada de transporte fornece o serviço
+de comunicação fim a fim entre os processos de aplicações executadas em cada um dos hospedeiros.
+Do ponto de vista das aplicações, a comunicação lógica fim a fim significa que tudo se passa como se
+os hospedeiros que rodam os pares de processos estivessem conectados diretamente. A figura a seguir
+mostra o recorte de uma rede com três hospedeiros e quatro processos. Observe a existência de uma
+comunicação lógica entre os processos P1 e P3 e entre os processos P2 e P4.
+Com base na figura apresentada, assinale a opção correta.
+O O processo P3 se conecta a P1 por meio de um número de porta UDP, que é um identificador exclusivo
+entre O e 1023.
+O No hospedeiro do meio, o serviço de multiplexação/demultiplexação fornecido pela camada de
+transporte garante a entrega dos dados ao processo de aplicação apropriado.
+O O endereço |P de destino contido no cabeçalho do protocolo TCP identifica o hospedeiro para o qual
+o segmento está sendo enviado e garante a comunicação fim a fim.
+O O protocolo de camada de transporte usado na comunicação entre os pares de processos é o TCP, que
+utiliza uma apresentação de três vias para estabelecer a comunicação fim a fim.
+O No protocolo de camada de transporte utilizado na comunicação entre os processos P2 e P4, cada
+segmento de dados enviado entre esses dois processos obterá uma confirmação de recebimento.
+
+QUESTÃO 13
+O protocolo IPv6 foi desenvolvido para substituir
+o IPVv4, tendo sua implementação ocasionado
+várias mudanças importantes, como a capacidade
+de endereçamento expandida, o cabeçalho
+aprimorado de 40 bytes e a rotulação de fluxo e
+prioridade.
+Considerando essas informações, avalie as
+afirmações a seguir, relativas à descrição dos
+campos do cabeçalho IPv6.
+|. Em "endereço de origem" e "endereço de
+destino" cada campo possui 64 bits, tendo
+sido expandidos os 32 bits usados no IPv4.
+Il. Em se tratando do cabeçalho IPv6, insere-se o
+valor 32 no campo "versão", de 4 bits que é
+usado para identificar a versão do protocolo |P.
+III.O campo "próximo cabeçalho" identifica o
+protocolo ao qual os dados presentes no
+datagrama serão entregues, por exemplo,
+TCP ou UDP.
+IV. No |Pv6, o campo "classe de tráfego", de
+8 bits, é semelhante ao campo "tipo de
+serviço" do IPVv4, ambos utilizados para
+diferenciar os tipos de pacotes |P.
+V. O valor do campo “limite de saltos" é
+decrementado em um para cada roteador
+que repassa o pacote; caso a contagem do
+limite de salto chegue a zero, o pacote será
+descartado.
+É correto apenas o que se afirma em
+O leiv.
+O Le.
+OLWIev
+O MM, Vev.
+OI, IVeV.
+
+QUESTÃO 12
+Desenvolver um projeto de redes de
+computadores é uma atividade complexa,
+pois envolve componentes com características
+distintas, como os observados nos elementos
+físicos, além de uma gama extensa de protocolos
+necessários para o seu funcionamento lógico.
+Por essa razão, é necessária a aplicação de uma
+metodologia que permita a um projeto atender
+aos requisitos determinados.
+Sabendo que a abordagem Top-Down é uma
+das metodologias adotadas para construção de
+projetos, assinale a alternativa correta.
+O A metodologia Top-Down consiste de três
+fases: projeto de rede lógica, projeto de rede
+física e documentação da rede.
+OA metodologia Top-Down restringe as
+alterações de projeto ao longo da execução,
+pois cada fase da metodologia é bem definida.
+O A metodologia Top-Down consiste em realizar
+uma estrutura analítica de projeto (EAP)
+definindo os projetos físico e lógico antes de sua
+execução.
+O A metodologia Top-Down considera para sua
+análise de requisitos as políticas e normas
+em uso no cliente, sendo as restrições
+orçamentárias e de pessoal tratadas em outras
+esferas de planejamento corporativo.
+O A metodologia Top-Down inspira-se no modelo
+RM-OS|I, em que há um foco nas metas do
+negócio do cliente, analisando os aplicativos,
+as sessões e o transporte de dados para que
+sejam selecionados os equipamentos e a mídia
+utilizada nas camadas mais baixas.
+
+QUESTÃO 14
+O OSPF (Open Shortest Path First), protocolo de roteamento do tipo estado do enlace (LS), usa o algoritmo
+de Dijkstra para computar suas rotas. A figura a seguir apresenta uma rede OSPF de área simples, com os
+custos associados a cada link.
+Com base na topologia apresentada na figura acima, avalie as afirmações a seguir.
+|. Para o tráfego entre a rede 172.16.10.0/24 e a rede 172.16.20.0/24, o OSPF irá escolher a rota ABDF.
+Il. Para o tráfego entre a rede 172.16.30.0/24 e a rede 172.16.20.0/24, o OSPF irá escolher a rota EF.
+Ill. Caso o roteador D esteja indisponível, a nova rota escolhida entre a rede 172.16.10.0/24 e a rede
+172.16.20.0/24, após a convergência da rede, será ABEF.
+IV. Uma falha no roteador D, com consequente reconfiguração de rotas, alterará a rota corrente
+entre a rede 172.16.20.0/24 e a rede 172.16.30.0/24.
+É correto apenas o que se afirma em
+Oie
+O el.
+O Ilelv.
+O 1 1lelv.
+O LINeIV.
+
+QUESTÃO 15
+Uma residência tem, em média, mais de oito dispositivos conectados à internet — programas de TV
+transmitidos em HD; conversas por vídeo com amigos e familiares, jogos de videogames contra
+adversários em todo o mundo, muitas vezes ao mesmo tempo. Para acompanhar o crescente uso da
+internet, os roteadores wi-fi domésticos modernos aumentaram sua velocidade e alcance sem fio: eram
+11 Mbps em 2000, atualmente são 1,3 gigabits por segundo.
+Contudo, com o objetivo de obter maior velocidade, muitas vezes o usuário enfrenta problemas de
+compatibilidade com dispositivos antigos e questões de segurança em razão do maior alcance de
+seus dispositivos.
+Disponível em: <http://www.linksys.com>. Acesso em: 10 jul. 2017 (adaptado).
+A figura a seguir representa os diversos equipamentos, com seus respectivos padrões IEEE 802.11,
+a serem conectados em uma rede sem fio de uma residência hipotética.
+Considerando a necessidade de escolha dos equipamentos sem fio a serem utilizados na residência, as
+questões de compatibilidade de padrões e segurança, e, ainda, o objetivo de garantir alta velocidade à
+internet, assinale a opção correta em relação à aquisição dos dispositivos.
+O A escolha de dispositivos no padrão IEEE 802.11n, com o protocolo WPA2, permitirá velocidades
+máximas para alguns dispositivos e a manutenção da segurança.
+O A opção pelo padrão IEEE 802.11g implicará benefícios, pois aumentará a segurança em relação aos
+padrões anteriores devido à incorporação do uso do protocolo WEP.
+O A publicação do nome da rede (SSID) e a manutenção das configurações do fabricante são algumas
+recomendações de segurança em redes sem fio.
+O A utilização do padrão IEEE 802.11b configurado com o padrão de segurança WPA2 é recomendável,
+dada a garantia de mais velocidade e segurança, e de manutenção da compatibilidade com os
+diversos equipamentos.
+O O padrão IEEE 802.11ac, sucessor do 802.11n, poderá ser utilizado na arquitetura proposta, visto que
+mantém compatibilidade de velocidade e segurança com os padrões IEEE 802.11b/g/n e proporciona
+também maior velocidade.
+
+QUESTÃO 17
+A principal alternativa segura para acesso remoto
+consiste nas redes privadas virtuais, ou VPN (Virtual
+Private Network). Uma VPN permite que usuários
+geograficamente remotos troquem dados por
+meio de uma rede existente — mais comumente
+a internet — de forma segura. A técnica básica
+fornece um caminho seguro de transmissão,
+conhecido como um túnel que pode conectar dois
+sistemas ou duas redes. Duas técnicas populares de
+implementação de VPNs são a que utiliza o IPSec
+(Internet Protocol Security) e a que utiliza o SSL
+(Secure Sockets Layer).
+HARRINGTON J. L. Network security: a practical approach.
+San Francisco: Morgan Kaufmann, 2005 (adaptado).
+Em relação às técnicas de VPNs IPSec e VPNs SSL,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Na definição de uma VPN ponto a ponto,
+onde se exige alto volume de transações
+e baixa latência, é mais indicado o uso do
+IPSec do que o uso do SSL.
+PORQUE
+ll. Tanto o IPSec como o SSL normalmente
+usam a técnica de sequenciamento de
+pacotes para detectar ataques de replay
+(repetição de mensagens), sendo o IPSec
+mais eficiente que o SSL nesse caso.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 16
+Em uma rede local de uma instituição bancária,
+foi implantado um sistema gerenciador de banco
+de dados (SGBD), tendo o administrador efetuado
+um comando GRANT para a realização das
+configurações de acesso ao SGBD na rede.
+Com o objetivo de realizar autenticação por
+aplicações para acesso ao banco de dados, de
+forma segura, devem ser enviados ao servidor
+O o1P do servidor e a senha.
+O a senha e o endereço MAC.
+O o1P do servidor e o endereço MAC.
+O o1Pdo servidor, o nome físico do banco e a senha.
+O o1P do cliente, o nome físico do banco, a senha
+e o endereço MAC.
+
+QUESTÃO 19
+Na elaboração e implantação de projetos lógicos e
+físicos é necessário considerar a segurança de redes
+de computadores. Os padrões para redes sem fio
+definem a frequência de operação, taxa máxima
+de transmissão, área de cobertura aproximada e as
+técnicas de transmissão utilizadas.
+Acerca da segurança de redes sem fio, avalie as
+afirmações a seguir.
+|. O WPA?2 (Wi-Fi Protected Access 2) fornece
+segurança na transmissão de dados em uma
+rede sem fio.
+Il. O WPA2 é um protocolo seguro, pois
+implementa técnicas de segurança que
+não eram suportadas pela primeira versão
+do WPA.
+III.O WPA? utiliza o sistema de criptografia AES
+(Advanced Encryption Standard), com uso
+de chaves de 256 a 512 bits.
+IV. O WPA?2 oferece integridade, pois utiliza o
+protocolo CCMP (CMM Mode Protocol).
+V. O WPA2 fornece um nível aceitável de
+segurança para autenticação nas redes sem
+fio e usa o algoritmo de criptografia RC4
+para garantir confidencialidade dos dados
+trocados na rede.
+É correto apenas o que se afirma em
+O Le,
+O LIlelv.
+OLMev
+O UI, Vev.
+O UU, IVev.
+
+QUESTÃO 18
+Os dispositivos de interconexão de rede são
+usados nas mais diversas aplicações, seja em uma
+LAN (Local Area Network) ou em grandes redes
+como a internet. Entre os mais comuns, estão
+concentradores, repetidores, pontes, switches,
+roteadores e gateways. Estes últimos podem
+ser um hardware, um software ou a combinação
+de ambos. O gateway pode traduzir endereços
+e formatos de mensagens, tornando possível
+a comunicação entre redes heterogêneas, isto
+é, redes que utilizam tecnologias diferentes.
+O gateway pode estar associado a um simples
+roteador doméstico e atuar como um servidor
+proxy, entre outras aplicações.
+Disponível em: <http://www.hardware.com.br>.
+Acesso em: 18 jul. 2017 (adaptado).
+Considerando as informações apresentadas, avalie
+as ações a seguir, em relação ao que o gateway
+permite.
+|. Interligar redes que utilizam protocolos
+diferentes.
+Il. Implementar VLANs (Virtual LANs) para
+melhorar o desempenho e segurança da
+rede.
+III. Traduzir pacotes originários da rede local
+para que estes possam atingir o destinatário.
+IV. Atuar como firewalli/ pois serve de
+intermediário entre a estação (o utilizador)
+e a rede (a internet, por exemplo).
+V. Compartilhar a conexão com a internet entre
+várias estações, desde que o endereço do
+gateway esteja definido nas propriedades
+de rede, não sendo possível a alocação
+automática de endereços.
+É correto apenas o que se menciona em
+Oie
+OlLlev
+O LIelv.
+O MM, IVev.
+Ou, IvVev
+
+QUESTÃO 21
+Uma empresa multinacional está avaliando um incidente de segurança ocorrido internamente com o
+envolvimento de um de seus funcionários, o que poderá ser motivo para o encerramento de seu contrato.
+O referido funcionário estava realizando o compartilhamento de senhas e também enviando mensagens
+por meio do serviço de correio eletrônico da empresa, com o objetivo de difamar e caluniar outros colegas
+de trabalho.
+Nessa situação, de acordo com as políticas de segurança que definem os direitos e as responsabilidades de
+cada um em relação à segurança dos recursos computacionais que utiliza, o funcionário violou a política de
+O senhas.
+O backup.
+O privacidade.
+O uso aceitável.
+O confidencialidade.
+
+QUESTÃO 20
+As redes virtuais privadas (VPN) representadas na figura a seguir foram implementadas por meio
+da tecnologia de encaminhamento de pacotes baseados em rótulos (MPLS). Esse modelo utiliza a
+infraestrutura de rede IP pública para a formação de VPNs de camada 3, garantindo, dessa forma, o mesmo
+nível de segurança dos circuitos virtuais privados (PVC) de camada 2 do frame-relay. Outra importante
+contribuição desse modelo foi a introdução do conceito de roteadores virtuais (VRF), que reduziu
+consideravelmente a necessidade de equipamentos para cada cliente dentro da operadora.
+A respeito do funcionamento da VPN MPLS representada na figura acima, assinale a opção correta.
+O O protocolo MPLS é implementado em todos os roteadores dos clientes (CE-1 e CE-2).
+O Somente é possível um roteador VRF para cada site, mas um site pode estar associado a uma ou a
+mais de uma VPN.
+O Os roteadores virtuais (VRF) são implementados em todos os roteadores de núcleo MPLS (MPLS-1,
+MPLS-2 e MPLS-3).
+O Os roteadores dos clientes (CE-1 e CE-2) divulgam suas rotas para todos os roteadores de borda da
+operadora, que, por sua vez, as divulgam para todos os outros clientes de sua rede VPN MPLS.
+O É estabelecida uma VPN ponto a ponto entre os roteadores do cliente (CE-1) do site A e do site B por
+meio da troca direta de informações de roteamento entre esses roteadores.
+
+QUESTÃO 24
+O IPv6 foi projetado para ser o sucessor do IPv4,
+superando as limitações do IPv4 e introduzindo
+aprimoramentos como o novo ICMPv6, que
+substitui o protocolo de resolução de endereços
+(Address Resolution Protocol - ARP) e o protocolo
+de resolução de endereço reverso (Reverse Address
+Resolution Protocol - RARP). Por esse motivo, a
+configuração da segurança da camada de rede
+exige atenção especial com o IPv6.
+Considerando a arquitetura IPV6 e as
+funcionalidades do ICMPv6, avalie as afirmações
+a seguir.
+|. O ICMPv6 não pode ser completamente
+bloqueado em firewalls de borda.
+Il. O IPv6 é mais seguro que o IPv4, já que o
+IPSec é integrado ao protocolo e habilitado
+por padrão.
+Ill. O endereço MAC do dispositivo da rede
+interna pode ser descoberto quando se
+utiliza o recurso de autoconfiguração para a
+formação do endereço IPv6 roteável global.
+IV. Os dispositivos das redes locais com
+endereços IPV6 — globais roteáveis
+necessitam de tradução de endereço de
+rede (NAT) para mascarar os endereços na
+internet.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+O eiv.
+O LIelv.
+QuMmMelv
+
+QUESTÃO 23
+A diretoria de uma empresa identificou os seguintes
+problemas, que têm afetado os seus negócios:
+* faltademétricas para controlar seus produtos;
+* — processos escassos ou inexistentes;
+* faltadefocoem seus negócios;
+* descontrole dos processos.
+Nessa situação, o guia de boas práticas indicado
+para otimizar o investimento em tecnologia da
+informação, de forma a melhorar o retorno sobre
+o investimento e fornecer métricas para a avaliação
+dos resultados dessa empresa é o
+O TIL
+O coBIT.
+O cmMI!.
+O MPS-BR.
+O PMBOK.
+
+QUESTÃO 22
+Um serviço de diretório, em uma descrição
+simplificada, constitui uma base de dados que
+armazena e organiza informações de um grupo
+de usuários e permite aos administradores
+gerenciar o acesso destes aos sistemas e recursos
+computacionais.
+Disponível em: <https://www.docs.oracle.com>.
+Acesso em: 11 ago. 2017 (adaptado).
+A partir dessa informação, é correto afirmar que a
+autenticação no serviço de diretório
+O impede o compartilhamento de privilégios em
+diferentes bases de dados.
+O fornece acesso e privilégio de superusuário a
+todos os serviços disponibilizados.
+O elimina a necessidade de aplicação de
+criptografias e de uso de protocolos de
+autenticação.
+O valida a identificação do usuário junto à base
+de dados, porém não lida com fatores de
+limitação de acesso, ou com ações a que esse
+usuário esteja submetido.
+O consiste em verificar a identidade de um
+usuário, um dispositivo ou uma entidade que
+deseja acessar dados, recursos ou aplicações,
+disponíveis em diferentes servidores.
+
+QUESTÃO 26
+A função da auditoria de sistemas é promover adequação, revisão, avaliação e recomendações para o
+aprimoramento dos controles internos em qualquer um dos sistemas de informação da empresa, bem
+como avaliar a utilização dos recursos humanos, materiais e tecnológicos envolvidos no processamento
+desses sistemas.
+Com base nessas informações, avalie as afirmações a seguir.
+|. A auditoria de sistemas permite detectar, de forma automática, o uso dos recursos e dos fluxos de
+informação em uma empresa, embora não identifique qual informação é crítica para o cumprimento
+da missão e objetivos empresariais.
+Il. As ferramentas de auditoria classificadas como generalistas apresentam softwares com a
+capacidade de processar, analisar e simular amostras e apontar possíveis duplicidades.
+II. As ferramentas de auditoria classificadas como de utilidade geral apresentam softwares próprios
+para a execução de funções muito comuns de processamento, como sortear arquivos, concatenar,
+sumarizar e gerar relatórios.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.
+
+QUESTÃO 25
+Um provedor de serviços de rede interliga as cidades A e B por meio de uma rede WAN de longa
+distância, e, em cada uma das cidades, o provedor opera uma rede Metro Ethernet para prover serviços
+a seus clientes.
+As empresas X e Y contrataram do provedor serviços corporativos e possuem escritórios fisicamente
+presentes em cada uma das cidades mencionadas, conforme mostra a figura a seguir.
+Cada empresa possui várias VLANs (Virtual Local Area Networks) configuradas internamente e os dados
+dessas VLANs devem trafegar da cidade A para a cidade B, passando pelas redes Metro Ethernet e WAN
+do provedor, de forma segura e independente.
+Nessa situação, os protocolos que devem ser configurados pelo provedor na rede Metro Ethernet e na
+rede WAN para ocorrer o tráfego dos dados das VLANs das empresas entre cidades diferentes são
+O IEEE 802.1ad (QinQ) na rede Metro Ethernet e IEEE 802.1Q na rede WAN.
+O IEEE 802.1Q na rede Metro Ethernet e VPLS (Virtual Private Lan Services) na rede WAN.
+O VPLS (Virtual Private Lan Services) na rede Metro Ethernet e IEEE 802.1Q na rede WAN.
+O IEEE 802.1ad (QinQ) na rede Metro Ethernet e VPLS (Virtual Private Lan Services) na rede WAN.
+O VPLS (Virtual Private Lan Services) na rede Metro Ethernet e IEEE 802.1ad (QinQ) na rede WAN.
+
+QUESTÃO 28
+Uma organização planeja implantar VoIP (voz sobre IP) para realizar ligações corporativas entre
+duas localidades e, ainda, manter sua rede de telefonia fixa ligada. A figura a seguir apresenta o
+projeto de telefonia VoIP dessa organização.
+Considerados o projeto de VoIP da organização e os requisitos da rede IP para prover um serviço de
+qualidade para a voz, é correto afirmar que, na rede IP com uma VPN IP MPLS configurada entre as
+localidades | e Il, a marcação DiffServ para os pacotes de voz e os elementos a serem implantados como
+gateway de acesso e softswitch, são, respectivamente:
+O Diffserv EF (Expedited Forwarding), elemento X e elemento Y.
+O Diffserv EF (Expedited Forwarding), elemento Y e elemento X.
+O Diffserv AF31 (Assured Forwarding Classe 3), elemento X e elemento Y.
+O Diffserv AF31 (Assured Forwarding Classe 3), elemento Y e elemento X.
+O Diffserv AF21 (Assured Forwarding Classe 2), elemento Y e elemento X.
+
+QUESTÃO 27
+O Instituto de Engenheiros Eletricistas e Eletrônicos (IEEE) padronizou as redes locais e metropolitanas
+com o nome IEEE 802. Entre os mais conhecidos padrões de redes locais, citam-se o Ethernet 802.3,
+que padroniza propriedades físicas para as redes cabeadas, e o padrão 802.11, que define redes sem fio.
+Considerando a diferença entre padrões de rede, assinale a opção correta.
+O Redes sem fio oferecem um caminho com menor probabilidade de interferência ou perda de dados
+quando comparadas às redes cabeadas.
+O O método de acesso para o padrão 802.3 é o CSMA/CD, ao passo que, para o padrão 802.11, o método
+de acesso é o CSMA/CA.
+O Os padrões 802.11a, 802.11b e 802.11g operam na mesma faixa de frequência e, assim, podem
+comunicar-se entre si.
+O Em redes sem fio, a qualidade de serviço não é comprometida pela associação ou desassociação de
+estações móveis.
+O Os padrões 802.3 e 802.11 não podem coexistir na mesma rede local.
+
+QUESTÃO 30
+Atualmente, o planejamento da segurança de
+informação de uma empresa é fundamental.
+Diversas normas internacionais são utilizadas para
+a implementação de um sistema completo de
+gestão de segurança da informação.
+A respeito dessas normas, avalie as afirmações
+a seguir.
+|. AISO/IEC 27001:2013, norma internacional
+de gestão de segurança da informação,
+descreve as etapas para se colocar em
+prática, de forma independente, um sistema
+de gestão de segurança da informação
+avaliado e certificado.
+Il. A ISO/IEC 27002:2013 tem como principal
+objetivo estabelecer diretrizes e princípios
+gerais para iniciar, implementar, manter
+e melhorar a gestão de segurança da
+informação em uma organização, o que
+também inclui a seleção, a implementação
+e o gerenciamento de controles, levando em
+conta os ambientes de risco encontrados
+na empresa.
+Ill. O padrão internacional ISO/IEC 15408:2009
+(Common Criteria - CC) para segurança
+de computadores é voltado para a
+segurança lógica das aplicações e
+para o desenvolvimento de aplicações
+seguras, e define um método para
+avaliação da segurança de ambientes de
+desenvolvimento de sistemas.
+IV. A NBR ISO/IEC 27007:2012 fornece diretrizes
+sobre como gerenciar um programa de
+auditoria de sistemas de gestão da segurança
+da informação (SGSI) e sobre como executar
+as auditorias e a competência de auditores
+de SGSI.
+É correto o que se afirma em
+O Le, apenas.
+O L,IlelV, apenas.
+O 1, Ill elV, apenas.
+O Il, Il e IV, apenas.
+OIE.
+
+QUESTÃO 29
+Com a convergência das redes cada vez mais
+presente em nosso dia a dia, diversos canais de
+televisão vêm disponibilizando sua programação
+na internet. A grande vantagem dessa abordagem
+é a possibilidade de personalizar o acesso do
+espectador, permitindo que os programas sejam
+vistos sob demanda, ou seja, na hora e no local que
+seja mais conveniente ao cliente.
+Para a transmissão desse tipo de tráfego pela
+internet, as soluções de transporte devem ser
+desenvolvidas com base em
+O TCP, orientadas à conexão, pois a transmissão
+do vídeo deve ocorrer com a menor
+quantidade de erros possível, a fim de
+melhorar a experiência do usuário.
+O TCP, por meio de um serviço sem
+estabelecimento de conexão, pois as possíveis
+retransmissões a que um fluxo de dados
+orientado à conexão está submetido, sempre
+que há problemas na transmissão, podem
+causar atrasos incompatíveis com um serviço
+multimídia.
+O ICMP, devido à leveza desse protocolo e
+ao fato de ele ser o mais adequado para o
+transporte de conexões multimídia, tais como
+a transmissão de programas de televisão pela
+internet.
+O UDP, orientadas à conexão, pois a transmissão
+do vídeo deve ocorrer com a menor quantidade
+de erros possível, a fim de melhorar a
+experiência do usuário.
+O UDP, por meio de um serviço sem
+estabelecimento de conexão, pois as possíveis
+retransmissões a que um fluxo de dados
+orientado à conexão está submetido, sempre
+que há problemas na transmissão, podem
+causar atrasos incompatíveis com um serviço
+multimídia.
+
+QUESTÃO 31
+A empresa A foi contratada para fazer uma vistoria na infraestrutura de cabeamento da empresa B.
+Após a realização dos testes de diagnóstico e vistoria, foi emitido um laudo no qual relatou-se uma
+inconformidade e sua causa, de acordo com a norma 14565:2013.
+A figura a seguir exibe os resultados desse teste, realizado em um enlace de cabeamento horizontal.
+Considerando a situação apresentada, assinale a alternativa que corresponde à causa da inconformidade
+apresentada.
+O Inversão de pares no conector de uma das pontas.
+O Proximidade de trajeto do cabo a uma fonte eletromagnética.
+O Comprimento do cabo excedendo o valor máximo previsto na norma.
+O Cabos de dados alocados em conduítes, junto com cabos da rede elétrica.
+O Destrançamento excessivo do cabo próximo ao conector de uma das pontas.
+
+QUESTÃO 33
+Um erro comum que se observa nas abordagens
+da Internet das Coisas (Internet of Things — loT)
+é o desenvolvimento de um produto sem uma
+visão clara de geração de valor. É comum os
+desenvolvedores não terem a clareza do real valor
+a ser gerado aos usuários finais, concebendo um
+produto sem o seu valor agregado.
+Nesse sentido, para abertura de negócios
+inovadores, é essencial compreender o surgimento
+de novos negócios baseados em loT e como esta
+revolução criará oportunidades.
+Disponível em: <http://www.convergenciadigital.com.br>.
+Acesso em: 27 jul. 2017 (adaptado).
+Com base nesse contexto, avalie as afirmações
+a seguir.
+|. Para que a loT possa agregar valor
+aos negócios, é necessário considerar
+questões relacionadas a problemas da
+interoperabilidade de plataformas.
+Il. O loT permite uma independência da
+infraestrutura de telecomunicação e os seus
+projetos exigem o uso de novas tecnologias,
+como as impressoras 3D.
+Ill. A tríade composta pela criação de novos
+mercados digitais, gestão de risco e
+melhorias de eficiência é a chave para a
+transformação dos modelos de negócios
+atuais a partir da revolução da loT.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O el, apenas.
+O Le.
+
+QUESTÃO 32
+Pode-se considerar que as redes de computadores
+existentes hoje — as redes legadas — podem
+evoluir para as chamadas redes definidas por
+software ou SDN (Software Defined Networks).
+Essa abordagem de arquitetura de redes busca
+simplificar as operações, facilitando as tarefas de
+configuração e alteração do comportamento dos
+dispositivos de rede.
+GORANSSON P.; CHUCK B. Software defined networks:
+a comprehensive approach. San Francisco:
+Morgan Kaufmann, 2014 (adaptado).
+As diferenças entre redes legadas (tradicionais)
+e redes SDN podem ser explicadas por meio dos
+conceitos de plano de controle e plano de dados.
+A respeito desses conceitos, assinale a opção
+correta.
+O As redes SDN são baseadas na união entre
+o plano de controle e o plano de dados, ou
+seja, os dois passam a ser um plano único em
+comparação com as redes legadas.
+O O plano de dados nas redes SDN é determinado
+pelo fabricante do switch, ao passo que o plano
+de controle nas redes SDN pode ser alterado
+por meio de atualizações remotas do switch.
+O O plano de dados nas redes legadas é
+determinado pelo fabricante do switch, ao passo
+que o plano de controle nas redes legadas pode
+ser alterado por meio de atualizações remotas
+do switch.
+O Afuncionalidade do plano de controle das redes
+SDN é igual à do plano de controle das redes
+legadas, entretanto a funcionalidade do plano
+de dados difere nessas duas redes.
+OQ O plano de controle nas redes SDN controla a
+comutação e o repasse dos pacotes de rede,
+sendo o plano de dados o responsável pela
+atualização da tabela de encaminhamento e a
+manutenção das estatísticas do equipamento.
+
+QUESTÃO 35
+A principal causa de ineficiência energética nos datacenters é a baixa taxa de utilização média dos recursos.
+Apesar de os recursos serem provisionados para lidar com as cargas máximas teóricas, é improvável que
+todos os servidores de um datacenter em larga escala sejam totalmente utilizados simultaneamente.
+BELOGLAZOV, A.; BUYYA, R.; LEE, Y. C.; ZOMAYA, A. A taxonomy and survey of energy-efficient data centers and cloud computing.
+In: MILEKOWITZ, M. V. (Ed.). Advances in computers. v. 82. Amsterdam: Elsevier, p. 47-111, 2011 (adaptado).
+Considerando o texto apresentado e o conceito de virtualização, avalie as asserções a seguir e a relação
+proposta entre elas.
+|. A virtualização possibilita a concentração de máquinas virtuais no datacenter e, assim, contribui
+efetivamente para a implementação de uma estratégia de maior eficiência energética.
+PORQUE
+Il. A virtualização permite alocar cargas de trabalho na mínima quantidade tecnicamente admissível
+de recursos físicos e, assim, mantê-los com a maior taxa de utilização possível.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras, mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas
+
+QUESTÃO 34
+A unidade de Tecnologia da Informação (TI) de determinada empresa é avaliada negativamente por
+não produzir níveis de serviço adequados. Há alguns meses, após a fusão dessa empresa com outra
+do mesmo ramo, foi nomeado um novo executivo, cujo desafio é melhorar o desempenho da unidade.
+Constatou-se que uma prática comum é a introdução de novos produtos na empresa, sem que a equipe
+de TI seja preparada, demandando a construção de infraestrutura de serviços e elaboração de sistemas
+de suporte necessários. É caro e difícil satisfazer essa demanda para esse fim específico e os resultados
+alcançados têm gerado insatisfação contínua em relação à unidade de TI.
+HUNTER, R.; WESTERMAN, G. O verdadeiro valor de TI. São Paulo: M. Books, 2011 (adaptado).
+Com base nessa situação, avalie as seguintes asserções e a relação proposta entre elas.
+|. A empresa possui um arranjo decisório inadequado para suas expectativas; a pouca credibilidade
+da área de Tl e a falta de envolvimento dessa área nas decisões compromete o alinhamento
+estratégico entre a Tl e o negócio, problema relacionado à governança de TI.
+PORQUE
+Il. Um dos objetivos da governança de TI é atender às expectativas organizacionais, além de definir
+quem pode tomar as decisões relacionadas à TI. Portanto, a criação de um comitê composto
+exclusivamente pelo pessoal da área de TI, com autonomia para tomar as decisões que afetam
+as demandas por serviços e infraestrutura de TI, seria uma opção acertada.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e II são proposições verdadeiras, e a || é uma justificativa correta da |.
+O As asserções | e II são proposições verdadeiras, mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma proposição verdadeira.
+O As asserções | e II são proposições falsas.
+

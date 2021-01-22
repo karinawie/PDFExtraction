@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:42:17</Created>
+	<LastChange>2020-09-13T22:42:17</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-17.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="180,614 180,1129 738,1129 738,614"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,430 1490,430 1490,534 84,534 84,430 83,430 83,247 84,247"/>
+	<TextEquiv conf="0.96494">
+	<Unicode>QUESTÃO 13
+A radiografia oclusal, com aplicações intra e extraorais, possibilita a visualização geral das estruturas
+dentárias das regiões maxilares e mandibulares. A aplicação da técnica correta auxilia na visualização
+geral para avaliação da região anterior da arcada dentária, sendo importante após acidentes com traumas
+na estrutura buco-maxilo-facial, na visualização de cistos nasopalatinos, em granulomas, nas exostoses,
+entre outros.
+Considerando as informações apresentadas, assinale a opção que ilustra corretamente a radiografia
+oclusal total de maxila.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="852,610 852,1134 1476,1134 1476,610"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="852,1313 852,1476 1476,1476 1476,1313"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="176,1194 176,1592 739,1592 739,1194"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="178,1650 178,2015 736,2015 736,1650"/></ImageRegion></Page></PcGts>

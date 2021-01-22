@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:31:08</Created>
+	<LastChange>2020-11-21T00:43:34</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-37.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="169,249 1577,249 1577,317 1182,317 1182,1582 1399,1582 1399,1630 1579,1630 1579,1699 1577,1699 1577,1786 556,1786 556,1843 408,1843 408,2096 170,2096 170,1556 169,1556"/>
+	<ImageRegion id="r1">
+	<Coords points="169,344 169,1519 1586,1519 1586,344"/></ImageRegion>
+	<TextEquiv conf="0.96088">
+	<Unicode>A figura 3 mostra o código desenvolvido para o microcontrolador. Considere que as funções utilizadas no
+código fazem parte da biblioteca “iot.h”.
+A respeito do código apresentado na figura 3, avalie as afirmações a seguir.
+|. Ainstrução da linha 30 é utilizada de maneira correta para a precificação da energia.
+Il. Devido à configuração da comunicação serial do microcontrolador, o frame precisa ser
+fragmentado para o envio de dados.
+Ill. O programa faz uso de interrupção, o que torna o microcontrolador mais eficiente em termos de
+processamento e consumo de energia.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Oem</Unicode></TextEquiv></TextRegion></Page></PcGts>

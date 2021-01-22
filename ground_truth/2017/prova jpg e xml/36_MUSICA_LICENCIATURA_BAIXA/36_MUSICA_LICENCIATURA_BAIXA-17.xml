@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T02:31:05</Created>
+	<LastChange>2020-11-30T00:30:46</LastChange></Metadata>
+	<Page imageFilename="36_MUSICA_LICENCIATURA_BAIXA-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r78" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1577,312 1577,375 1241,375 1241,1565 667,1565 667,1818 171,1818 171,1817 170,1817 170,375 169,375 169,312 170,312"/>
+	<ImageRegion id="r1">
+	<Coords points="172,408 172,1497 1586,1497 1586,408"/></ImageRegion>
+	<TextEquiv conf="0.96551">
+	<Unicode>QUESTÃO 11
+A Paixão Segundo São João (BWV 245) foi composta em 1724 por J. S. Bach. O coral a seguir foi extraído
+deste oratório.
+Quais são, respectivamente, a tonalidade e o tipo de cadência final desse coral?
+O Sol menor e cadência plagal.
+O Sol maior e cadência perfeita.
+O Sol maior e cadência de Picardia.
+O Sol menor e cadência imperfeita.
+O Sol menor e cadência de Picardia.</Unicode></TextEquiv></TextRegion></Page></PcGts>

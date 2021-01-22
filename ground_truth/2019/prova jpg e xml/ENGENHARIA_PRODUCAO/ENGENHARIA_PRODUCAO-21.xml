@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:21:01</Created>
+	<LastChange>2020-09-15T17:21:22</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-21.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="102,463 102,655 1478,655 1478,463"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,703 1492,703 1492,985 1450,985 1450,1369 1095,1369 1095,1465 591,1465 591,1466 86,1466 86,1467 85,1467 85,1371 83,1371 83,703 84,703"/>
+	<TextEquiv conf="0.96828">
+	<Unicode>QUESTÃO 20
+Os vários materiais utilizados na fabricação de tijolos são extraídos e transportados até o misturador e
+o laminador, que deixam a mistura homogênea. Por meio de correias transportadoras, esses materiais
+chegam à maromba, que, em um fluxo contínuo, dá forma e corta o produto no tamanho especificado
+pelo cliente. Nessa etapa, os tijolos estão úmidos e ficam em uma estufa até estarem preparados para a
+queima no forno. Esse processo é resumido no fluxograma a seguir.
+Uma fábrica de tijolos recebeu demanda pela produção de tijolos de 5 kg e com 25 cm de comprimento.
+O misturador e o laminador conseguem produzir 20 000 kg de material seco por hora. A maromba
+trabalha em uma velocidade máxima de 10 m/min para esse tipo de tijolo. A estufa, onde os tijolos devem
+repousar por 4 horas, comporta 12 000 unidades desse tipo de tijolo. O forno tem capacidade de queimar
+800 tijolos em 48 minutos.
+Considerando as informações apresentadas, bem como a situação descrita, avalie as asserções a seguir
+e a relação proposta entre elas.
+|. Amáxima produção diária da fábrica, em um turno de 8 horas ininterruptas, é de 8 000 tijolos.
+PORQUE
+Il. A capacidade da estufa está subdimensionada.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

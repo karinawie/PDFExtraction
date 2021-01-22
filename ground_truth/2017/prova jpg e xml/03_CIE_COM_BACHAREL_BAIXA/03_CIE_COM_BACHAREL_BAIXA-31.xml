@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:46:22</Created>
+	<LastChange>2020-09-18T02:47:49</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 339,244 339,315 1255,315 1255,636 330,636 330,637 329,637 329,452 175,452 175,720 221,720 221,776 1261,776 1261,834 1576,834 1576,905 1217,905 1217,1006 555,1006 555,1063 350,1063 350,1198 407,1198 407,1330 171,1330 171,1331 170,1331 170,1029 218,1029 218,805 169,805 169,776 171,776 171,453 170,453 170,316 169,316 169,245 170,245"/>
+	<TextEquiv conf="0.94998">
+	<Unicode>QUESTÃO 33
+Considere a função recursiva F a seguir, que em sua execução chama a função G:
+1 void F(int n) {
+2 if(ín &gt; O) {
+3 for(int i = O; i &lt; n; i++) {
+4 S(i);
+5 }
+6 F(n/2);
+7 }
+8 }
+Com base nos conceitos de teoria da complexidade, avalie as afirmações a seguir.
+|. Aequação de recorrência que define a complexidade da função F é a mesma do algoritmo clássico
+de ordenação mergesort.
+Il. O número de chamadas recursivas da função F é O (log n).
+Ill. O número de vezes que a função G da linha 4 é chamada é O(n log n).
+É correto o que se afirma em
+A |, apenas.
+B Il, apenas.
+C l e lll, apenas.
+D ll e lll, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

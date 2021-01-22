@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:20:13</Created>
+	<LastChange>2020-09-18T02:20:13</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="672,630 672,955 1102,955 1102,630"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="150,1077 150,1413 672,1413 672,1077"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="150,1413 150,1797 650,1797 650,1413"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="836,1066 836,1419 1261,1419 1261,1066"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="847,1444 847,1786 1277,1786 1277,1444"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="150,1791 150,2113 647,2113 647,1791"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1576,312 1576,545 860,545 860,984 1576,984 1576,1053 171,1053 171,1054 170,1054 170,602 169,602 169,574 170,574"/>
+	<TextEquiv conf="0.96581">
+	<Unicode>QUESTÃO 09
+Uma árvore AVL é um tipo de árvore binária balanceada na qual a diferença entre as alturas de suas
+subárvores da esquerda e da direita não pode ser maior do que 1 para qualquer nó. Após a inserção de
+um nó em uma AVL, a raiz da subárvore de nível mais baixo no qual o novo nó foi inserido é marcada.
+Se a altura de seus filhos diferir em mais de uma unidade, é realizada uma rotação simples ou uma
+rotação dupla para igualar suas alturas.
+LAFORE, R. Data structures &amp; algorithms in Java. Indianópolis: Sams Publishing, 2003 (adaptado).
+A seguir, é apresentado um exemplo de árvore AVL.
+Pelo exposto no texto acima, após a inserção de um nó com valor 3 na árvore AVL exemplificada, é correto
+afirmar que ela ficará com a seguinte configuração:</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:47:36</Created>
+	<LastChange>2020-09-15T02:49:13</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-26.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="800,678 800,1097 1502,1097 1502,678"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,231 769,231 769,711 770,711 770,779 769,779 769,907 470,907 470,963 265,963 265,1090 322,1090 322,1217 84,1217 84,994 85,994 85,929 133,929 133,515 84,515"/>
+	<TextEquiv conf="0.94068">
+	<Unicode>QUESTÃO 26
+Em uma indústria petroquímica, aldeídos isômeros
+são separados em uma coluna de destilação com 90
+pratos, em que o limite de contaminação aceitável
+de pesados, no topo, é de 0,25% em peso e de
+leves, na base, é de 0,15% em peso.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+|. Se a contaminação no topo estiver em
+0,07% em peso e a da base em 0,03% em
+peso, pode-se reduzir o consumo energético
+da coluna.
+ll. Sea contaminação no topo estiver em 0,28%
+em peso, deve-se reduzir a vazão de refluxo.
+Ill. Se a contaminação na base estiver em
+0,19% em peso, deve-se aumentar a vazão
+de vapor para o reboiler.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,1248 255,1248 255,1317 769,1317 769,1524 743,1524 743,1653 769,1653 769,1729 338,1729 338,1769 291,1769 291,1881 281,1881 281,1998 291,1998 291,2033 85,2033 85,1769 84,1769 84,1466 83,1466 83,1317 84,1317"/>
+	<TextEquiv conf="0.96484">
+	<Unicode>QUESTÃO 27
+A entalpia de formação é o calor liberado ou absorvido
+na reação de formação de 1 mol de determinada
+substância a partir de seus elementos constituintes
+(substâncias simples), no estado padrão.
+Considerando a reação de oxidação do ácido
+clorídrico em meio gasoso representada a seguir:
+4HCl(g) + O, (9) &gt; 2H,O (g) + 2Cl, (g)
+easentalpias deformação de HCl(9)e H,O(g)como
+sendo —92 J/mol e 241 J/mol, respectivamente, o
+calor dessa reação é
+A 114 J/mol.
+B -114 J/mol.
+C 149 J/mol.
+D 850 J/mol.
+E -850 J/mol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="805,179 976,179 976,231 1492,231 1492,660 1491,660 1491,1419 997,1419 997,1673 806,1673 806,1419 805,1419"/>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 28
+Um experimento foi conduzido visando avaliar
+a energia cedida por uma fonte quente para um
+sistema cilindro-pistão contendo gás ideal. Para tal,
+uma massa conhecida de gás foi inserida no cilindro
+e pressurizada com o peso do pistão, o qual possuía
+movimentação vertical livre, gerando uma condição
+inicial V,, T, e P,. Em seguida, a fonte quente foi
+acionada por 3 minutos e a condição final V,, Tre
+Pp foi observada. O sistema manteve-se à pressão
+constante de 2,5 atm. O gráfico a seguir representa
+as observações ao longo do experimento.
+A partir dos resultados observados no experimento,
+a variação de energia interna do sistema entre os
+pontos A e B foi determinada como sendo 8 kJ.
+Considerando que não há perdas de energia no
+sistema e que 1 atm = 105 Pa, assinale a opção que
+apresenta o valor correto da energia cedida pela
+fonte por unidade de tempo.
+A 8,4 kJ/min.
+B 8,0 kJ/min.
+C 7,6 kJ/min.
+D 2,8 kJ/min.
+E 2,5 kJ/min.</Unicode></TextEquiv></TextRegion></Page></PcGts>

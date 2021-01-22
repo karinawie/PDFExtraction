@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:57:23</Created>
+	<LastChange>2020-11-30T18:38:39</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="169,304 513,304 513,350 1576,350 1576,705 1577,705 1577,869 1575,869 1575,1388 169,1388 169,869 168,869 168,350 169,350"/>
+	<ImageRegion id="r1">
+	<Coords points="433,875 433,1222 1322,1222 1322,875"/></ImageRegion>
+	<TextEquiv conf="0.96514">
+	<Unicode>QUESTÃO DISCURSIVA 03
+O diagrama de rede apresentado é composto por três roteadores (B1, B2 e HQ), três switches não
+gerenciáveis (S1, S2 e S3) e pelo número de hosts indicado em cada segmento LAN. Os prefixos de
+sub-rede devem ser alocados de tal forma que segmentos com um maior número de hosts recebam
+endereços mais próximos do início do espaço de endereçamento disponível, conforme a ordem de
+atribuição indicada a seguir:
+* 1ºsub-rede alocada: LAN do roteador B1;
+2º sub-rede alocada: LAN do roteador HQ;
+3º sub-rede alocada: LAN do roteador B2;
+4º sub-rede alocada: Link WAN entre B1 e HQ;
+5º sub-rede alocada: Link WAN entre HQ e B2.
+A máscara de sub-rede adotada em cada prefixo deve atender à necessidade mínima de cada segmento,
+visando à economia dos endereços IP disponíveis. Deve ser utilizada a faixa de endereços: 172.16.10.0/26
+e os prefixos devem ser informados por meio da notação Classless Inter-Domain Routing (CIDR).
+Os endereços IP necessários para a configuração dos dispositivos de rede apresentados devem ser
+incluídos nos requisitos de endereçamento.
+Com base nos requisitos de rede mostrados na topologia apresentada, crie um esquema de
+endereçamento IP apropriado para cada uma das cinco sub-redes, que contenha os endereços de
+sub-redes (ID), as faixas de endereços válidos e os endereços de broadcast. (valor: 10,0 pontos.)
+RASCUNHO</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:59:40</Created>
+	<LastChange>2020-10-29T20:15:36</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-09.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="152,475 152,1016 1600,1016 1600,475"/></ImageRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="145,252 1600,252 1600,460 1441,460 1441,1142 1599,1142 1599,1207 1458,1207 1458,1263 146,1263 146,1264 145,1264 145,1040 146,1040 146,283 145,283"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO DISCURSIVA 3
+O profissional da radiologia deve saber executar um protocolo de exame de forma adequada, para alcançar
+uma imagem de boa qualidade diagnóstica, de acordo com a região a ser examinada. A Figura 1 mostra o
+posicionamento do paciente para a realização de uma incidência da coluna torácica e a Figura 2 mostra o
+resultado da imagem radiológica do referido exame.
+Com base nessas imagens, faça o que se pede nos itens a seguir.
+a) Descreva a direção, o sentido e a localização do raio central para o exame. (valor: 4,0 pontos)
+b) Explique, utilizando-se o efeito anódico, como o paciente deve ser posicionado para se criar densidade
+mais uniforme na imagem da coluna torácica. (valor : 4,0 pontos)
+c) Especifique quantas vértebras torácicas devem ser visualizadas na imagem. (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

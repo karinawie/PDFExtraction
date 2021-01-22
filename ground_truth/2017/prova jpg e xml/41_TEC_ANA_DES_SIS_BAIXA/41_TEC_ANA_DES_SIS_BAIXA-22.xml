@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:24:15</Created>
+	<LastChange>2020-11-30T17:27:37</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="169,244 340,244 340,316 1576,316 1576,970 596,970 596,1015 555,1015 555,1074 440,1074 440,1347 439,1347 439,1348 171,1348 171,1347 170,1347 170,969 169,969 169,388 168,388 168,316 169,316"/>
+	<ImageRegion id="r1">
+	<Coords points="163,425 163,680 1575,680 1575,425"/></ImageRegion>
+	<TextEquiv conf="0.91538">
+	<Unicode>QUESTÃO 16
+O seguinte diagrama de classe representa a modelagem de um serviço de transferência de materiais entre
+funcionários de uma empresa.
+Considerando o diagrama de classe apresentado, avalie as afirmações a seguir.
+|. A classe Funcionario é abstrata.
+Il. Uma RequisicaoTransferencia só existe se estiver vinculada a um Material.
+Ill. A classe Funcionario, em razão de sua associação, possui um atributo do tipo RequisicaoTransferencia.
+IV. Em uma implementação da classe RequisicaoTransferencia, é necessário adicionar um atributo
+simples do tipo Material.
+É correto o que se afirma em
+O |l, apenas.
+Oie, apenas.
+O Ill elV, apenas.
+O 1, Ill elV, apenas.
+O 1LI1,Meiv</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T19:34:22</Created>
+	<LastChange>2020-09-13T19:56:22</LastChange></Metadata>
+	<Page imageFilename="ZOOTECNIA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 255,179 255,252 1491,252 1491,1050 575,1050 575,1112 249,1112 249,1391 84,1391 84,1149 85,1149 85,1079 133,1079 133,653 83,653 83,252 84,252"/>
+	<TextEquiv conf="0.96134">
+	<Unicode>QUESTÃO 26
+No Brasil, o etanol é comumente obtido da cana-de-açúcar, mas recentemente tem sido produzido a partir
+do milho, especialmente em regiões onde a oferta do cereal é abundante. A partir do uso dos grãos de milho
+como matéria-prima, geram-se os grãos secos de destilaria conhecidos como DDG (Distillers Dried Grains)
+ou DDGS (Distillers Dried Grains With Solubles), que são coprodutos das usinas de etanol, com teores
+próximos a 91% de matéria seca, 86% de matéria orgânica, 28% de proteína bruta, 6,7% de extrato etéreo,
+50% de fibra em detergente neutro e 3 213 a 3 668 kcal de energia metabolizável/kg.
+CORASSA, A. et al. Nutritional value of Brazilian distillers dried grains with solubles for pigs as determined by different methods.
+Revista Brasileira de Zootecnia, v. 46, n. 9, 2017 (adaptado).
+A respeito dos coprodutos das usinas de etanol, avalie as afirmações a seguir.
+|. Amaior parte do teor de energia metabolizável resulta do amido presente nos referidos coprodutos
+ao final do processo.
+Il. DDG e DDGS são potenciais substitutos do milho em dietas de aves e suínos devido ao seu alto
+teor energético.
+Ill. DDG e DDGS são potenciais substitutos do farelo de soja em dietas de animais cujas demandas de
+proteína sejam baixas.
+IV. Um fator limitante de uso de DDG e DDGS em dietas para não ruminantes é o elevado teor de fibra
+desses grãos secos de destilaria quando comparado ao da maioria dos cereais.
+É correto apenas o que se afirma em
+A I e III.
+B I e IV.
+C II e III.
+D I, II e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,1426 255,1426 255,1497 1491,1497 1491,1792 212,1792 212,2037 85,2037 85,1792 83,1792 83,1682 84,1682"/>
+	<TextEquiv conf="0.96334">
+	<Unicode>QUESTÃO 27
+O Índice de Eficiência Produtiva (IEP) de frangos de corte é um parâmetro utilizado para avaliar o
+GPD: |
+desempenho do lote. O IEP é dado por IEP | 100, em que GPD é o Ganho de Peso Diário
+(kg), VB é a Viabilidade (%) e CA é a Conversão Alimentar.
+Considere que, em uma granja, o consumo por ave seja de 6 kg; o peso médio das aves, de 3 kg; o
+ganho médio de peso diário, de 70 g, e que a mortalidade do lote tenha sido de 5%. Nesse caso, o IEP do
+avicultor foi de
+A 17,5.
+B 133,0.
+C 221,7.
+D 332,5.
+E 350,0.</Unicode></TextEquiv></TextRegion></Page></PcGts>

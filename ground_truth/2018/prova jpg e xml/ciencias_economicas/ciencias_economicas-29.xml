@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:46:29</Created>
+	<LastChange>2020-09-17T19:46:56</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-29.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="402,721 402,1089 1215,1089 1215,721"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 276,181 276,249 1513,249 1513,414 1515,414 1515,450 1513,450 1513,617 1060,617 1060,1171 1283,1171 1283,1251 1060,1251 1060,1299 1036,1299 1036,1347 989,1347 989,1394 696,1394 696,1395 108,1395 108,1396 107,1396 107,1141 106,1141"/>
+	<TextEquiv conf="0.95696">
+	<Unicode>QUESTÃO 25
+Um pesquisador resolveu estimar uma versão da Lei de Okun para determinado país X. O resultado é
+apresentado na equação a seguir.
+U,=uUu,- 0,5 gu, + es
+em que u, é a taxa de desemprego observada para o ano t!; u,, é a taxa de desemprego natural; gy,
+é a taxa de crescimento do produto no ano t; e, é o termo de resíduo. O país apresenta uma taxa de
+desemprego natural igual a 10%.
+Com o objetivo de analisar a predição do modelo, esse pesquisador utilizou os dados a seguir, para alguns
+anos selecionados.
+Dados anuais selecionados do país X
+Considerando as informações apresentadas, assinale a opção correta.
+A Para o ano de 2013, o modelo previu uma taxa de desemprego inferior à observada.
+B Para o ano de 2014, a taxa de desemprego estimada foi igual à observada.
+C Para o ano de 2015, o modelo superestimou a taxa de desemprego.
+D Para o ano de 2016, o erro de previsão do modelo foi igual a zero.
+E Para o ano de 2017, o erro de previsão do modelo foi positivo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

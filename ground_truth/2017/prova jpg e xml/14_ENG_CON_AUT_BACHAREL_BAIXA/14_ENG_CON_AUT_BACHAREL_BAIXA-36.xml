@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:31:18</Created>
+	<LastChange>2020-11-21T00:46:48</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-36.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 340,244 340,320 1578,320 1578,480 1577,480 1577,697 1575,697 1575,1686 1578,1686 1578,1759 1344,1759 1344,1760 1110,1760 1110,1761 875,1761 875,1762 171,1762 171,1687 170,1687 170,1652 169,1652 169,1575 170,1575 170,486 169,486 169,320 170,320"/>
+	<ImageRegion id="r1">
+	<Coords points="311,722 311,1544 1416,1544 1416,722"/></ImageRegion>
+	<TextEquiv conf="0.96028">
+	<Unicode>QUESTÃO 31
+A Internet das Coisas (loT - Internet of Things) pode ser conceituada como a comunicação de objetos
+diversos via internet, que trocam informações como medições, localização, funcionalidades, falhas etc.
+Tais dados permitem, em determinadas situações, que o próprio sistema tome decisões sem intervenção
+humana.
+Suponha o desenvolvimento de um sistema loT para monitorar o consumo de energia elétrica residencial
+com sensores, microcontroladores e módulos de comunicação sem fio. Como teste inicial, será monitorado
+o consumo de energia elétrica de uma lâmpada, como mostra o diagrama simplificado da figura 1.
+O sistema coleta os dados e os envia a cada 24 horas para uma plataforma na internet.
+As informações enviadas para o módulo de comunicação sem fio devem estar organizadas em um
+quadro (frame) de dados obedecendo à estrutura mostrada na figura 2.
+Considere que o módulo de comunicação sem fio já está configurado, e que ao receber os dados do
+microcontrolador ele os envia automaticamente para a internet.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="419,1788 419,2069 1308,2069 1308,1788"/></ImageRegion></Page></PcGts>

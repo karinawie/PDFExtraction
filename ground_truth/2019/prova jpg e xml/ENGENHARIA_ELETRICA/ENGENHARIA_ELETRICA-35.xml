@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:53:47</Created>
+	<LastChange>2020-09-12T22:55:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-35.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r2">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 254,179 254,250 769,250 769,1093 772,1093 772,1381 500,1381 500,1553 769,1553 769,2045 84,2045 84,2046 83,2046 83,1553 132,1553 132,1425 84,1425 84,1093 251,1093 251,971 84,971 84,972 83,972 83,250 84,250"/>
+	<TextEquiv conf="0.96030">
+	<Unicode>QUESTÃO 31
+Os nanotubos de carbono, elementos com
+comprimentos de um bilionésimo do metro,
+oferecem elevada condutividade elétrica à
+temperatura — ambiente, — constituindo-se — em
+extraordinário potencial para a indústria eletrônica.
+Segundo pesquisadores, um nanotubo de carbono
+seria até 70 vezes melhor condutor que o silício,
+que é utilizado principalmente nos processadores
+e memórias de computador. A mobilidade dos
+elétrons é um dos principais componentes da
+condutividade elétrica: mede o deslocamento dos
+portadores de carga (elétrons) sob o efeito do
+campo elétrico. Considerando-se um aglomerado de
+nanotubos de carbono da ordem de 0,3 milímetros,
+à temperatura ambiente (aproximadamente 300 K),
+a mobilidade eletrônica média nesses nanotubos
+alcança 100 000 cm? V 2572,
+Disponível em: &lt;http://www.lges.iqm.unicamp.br&gt;.
+Acesso em: 9 jun. 2019 (adaptado).
+Considere que a condutividade para o silício
+intrínseco é dada por 0 = n;lel(u, + 1) ,em que
+n, é a concentração de portadores intrínsecos,
+|e| é o módulo da carga de um elétron, nu, e 4,
+são as mobilidades dos elétrons e das lacunas,
+respectivamente. Considere, ainda, em relação
+à condutividade elétrica do silício à temperatura
+ambiente, os parâmetros:
+e g=4,16x107* (Em)!
+o n,=10!6 m?
+e 1,=0,06 m2ºV He!
+De acordo com as informações apresentadas e
+considerando a temperatura ambiente, quantas
+vezes maior é a mobilidade eletrônica nos
+nanotubos de carbono comparada à mobilidade
+eletrônica no silício?
+A 20.
+B 35.
+C 15.
+D 50.
+E 7o.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="805,179 976,179 976,236 1490,236 1490,641 1442,641 1442,911 1491,911 1491,1122 1483,1122 1483,1174 1203,1174 1203,1599 1491,1599 1491,1718 1301,1718 1301,2035 955,2035 955,2033 805,2033 805,1632 807,1632 807,1601 824,1601 824,1488 826,1488 826,1186 808,1186 808,1122 805,1122"/>
+	<TextEquiv conf="0.96799">
+	<Unicode>QUESTÃO 32
+A Transformada de Fourier é uma ferramenta
+matemática aplicada em diversas áreas do
+conhecimento. Em sua versão discreta, é aplicada,
+por exemplo, no tratamento de dados da
+exploração de petróleo, na codificação do sinal de
+voz e na TV digital.
+A Transformada Discreta de Fourier (TDF)
+de uma sequência de N de valores x/n/,
+com n=0,1,2,.., N-1,é dada pela expressão
+NA 27
+Xlk]= &gt; Ante * Nº
+n=0
+vk
+k=0,1,2,...,N -—1
+sendo j = 1.
+Dada uma sequência x/n/ de N valores reais, o
+seguinte pseudocódigo implementa a obtenção da
+parte real X/k/ para um dado valor k, assumindo-se
+que o vetor x tenha tamanho N e que N seja uma
+variável global.
+função CALCULAR TDF
+3.14159
+(vetor x[ ], Kk)
+enquanto 0 &lt;= n &lt; N
+xk = xk + /**/
+n=n+1
+fim enquanto
+retorna xk
+Para que o pseudocódigo acima calcule
+corretamente a parte real de X/k/, escolha a opção
+abaixo que deverá ser empregada no lugar dos
+caracteres /**/,
+A xIn] * sen(2*pi/N*n*k)
+B xI[n] * cos(2*pi/N*n*k)
+C xI[x] * sen(2*pi/N*n*k)
+D x[k]* cos(2*pi/N*n*k)
+E —x[kx]* sen(2*pi/N*n*k)</Unicode></TextEquiv></TextRegion></Page></PcGts>

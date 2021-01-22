@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-14T03:28:27</Created>
+	<LastChange>2020-09-14T03:38:42</LastChange></Metadata>
+	<Page imageFilename="NUTRICAO-25.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r2">
+	<Coords points="89,765 88,1856 771,1857 772,766"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="787,181 784,2048 788,2048 791,181"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="760,702 760,756 97,756 97,755 96,755 96,702"/>
+	<TextEquiv conf="0.95870">
+	<Unicode>Gráfico de Acompanhamento Nutricional e Gestante
+Índice de Massa Corporal - segunda semana de gestação</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,189 255,189 255,272 805,272 805,193 1492,193 1492,400 1491,400 1491,435 1366,435 1366,542 1491,542 1491,1230 1492,1230 1492,1370 1336,1370 1336,1425 769,1425 769,1979 100,1979 100,1978 99,1978 99,684 85,684 85,683 84,683"/>
+	<TextEquiv conf="0.95681">
+	<Unicode>QUESTÃO 27
+Uma gestante de 32 anos de idade foi encaminhada
+para acompanhamento no ambulatório do serviço de
+nutrição. Na primeira consulta, a nutricionista obteve os
+seguintes dados que lhe possibilitaram avaliar o estado
+nutricional da paciente: peso pré-gestacional = 62 kg;
+altura = 1,60 m; IMC pré-gestacional = 24,2 kg/m?;
+idade gestacional = 7 semanas; peso atual = 65,3 kg;
+IMC atual = 25,5 kg/m?.
+BRASIL. Ministério da Saúde. Atenção ao pré-natal de baixo risco.
+Série A. Normas e Manuais Técnicos Cadernos de Atenção Básica,
+nº 32. Brasília: MS, 2012.
+De acordo com os dados apresentados e o
+gráfico de acompanhamento nutricional, qual é o
+estado nutricional da gestante, segundo IMC por
+semana gestacional, e como deve se apresentar
+IMC nas
+o acompanhamento do consultas
+subsequentes?
+O sobrepeso; apresentar inclinação descendente
+para atingir a área de estado nutricional
+adequado no gráfico.
+O sobrepeso; apresentar inclinação ascendente,
+semelhante à da curva que delimita a parte
+inferior da faixa de sobrepeso.
+O sobrepeso; apresentar inclinação ascendente,
+semelhante à da curva que delimita a parte
+superior da faixa de sobrepeso.
+O peso — adequado; apresentar inclinação
+ascendente, paralela às curvas que delimitam a
+área de estado nutricional adequado no gráfico.
+O peso adequado; aproximar-se do limite superior
+e apresentar inclinação descendente, até atingir
+o IMC médio esperado para a gestante de
+acordo com a sua idade gestacional.</Unicode></TextEquiv></TextRegion></Page></PcGts>

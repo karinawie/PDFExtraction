@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:46:52</Created>
+	<LastChange>2020-11-27T17:01:57</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="169,244 340,244 340,317 1576,317 1576,611 1575,611 1575,1128 1577,1128 1577,1245 555,1245 555,1306 407,1306 407,1515 319,1515 319,1565 170,1565 170,1566 170,1515 169,1515 169,1483 170,1483 170,1073 169,1073"/>
+	<TableRegion id="r1">
+	<Coords points="213,633 213,880 1525,880 1525,633"/></TableRegion>
+	<TextEquiv conf="0.96653">
+	<Unicode>QUESTÃO 26
+Um motor elétrico trifásico de baixa tensão, com potência nominal de 15 kW, aciona uma bomba de
+recalque de água potável, durante 4 horas por dia, em 250 dias por ano. Verificou-se que a potência
+requerida para acionamento da bomba é de 10 kW. Deseja-se avaliar a viabilidade do investimento
+para substituição do motor de 15 kW por outro de potência nominal de 11 kW. O custo da energia
+elétrica é de R$ 0,50 por kWh durante o posto tarifário fora de ponta e de R$ 2,00 por kWh durante o
+posto tarifário de ponta. Os dados de desempenho dos motores, bem como os custos de aquisição e
+instalação, são apresentados na tabela a seguir.
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+|. Como os motores propostos apresentam os mesmos valores de rendimento, a eficiência energética
+será mantida ao se substituir o motor de 15 kW pelo motor de 11 kW.
+Il. Instalar um sistema que impeça o acionamento do motor durante o posto tarifário de ponta é uma
+alternativa a ser analisada para melhor gestão da energia elétrica.
+1.
+Considerando que a bomba possa ser acionada sempre durante o posto tarifário fora de ponta, a
+utilização do motor de 11 kW representaria uma redução aproximada de R$ 290,00 por ano nos
+gastos com energia elétrica.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O hem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T20:47:09</Created>
+	<LastChange>2020-11-20T21:02:16</LastChange></Metadata>
+	<Page imageFilename="10_ENG_AMB_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1578,312 1578,500 1575,500 1575,1133 271,1133 271,1385 171,1385 171,1386 170,1386 170,1066 169,1066 169,557 168,557 168,312 169,312"/>
+	<TableRegion id="r1">
+	<Coords points="611,647 611,1033 1122,1033 1122,647"/></TableRegion>
+	<TextEquiv conf="0.93298">
+	<Unicode>QUESTÃO 19
+A determinação do hidrograma de projeto de uma bacia hidrográfica depende de dois componentes
+principais: a separação do volume de escoamento superficial e a propagação desse volume para jusante.
+Esse último componente dos modelos hidrológicos é explicado pela teoria de sistemas lineares, por
+meio do hidrograma unitário (HU). A determinação do HU é função decorrente dos dados observados de
+precipitação e vazão com intervalo de tempo compatível com o tempo de concentração da bacia.
+Atabela a seguir apresenta os dados referentes ao HU de uma bacia, para chuva com uma hora de duração.
+Calculando-se o HU para uma chuva com duas horas de duração, cuja intensidade constante é de 2 mm/h,
+obtém-se a estimativa de pico de vazão, em m?/s, igual a
+O 28.
+O nu.
+O ss.
+O 114.
+O 14º.</Unicode></TextEquiv></TextRegion></Page></PcGts>

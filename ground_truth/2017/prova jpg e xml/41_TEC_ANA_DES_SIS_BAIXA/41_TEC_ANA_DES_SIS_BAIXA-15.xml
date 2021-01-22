@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:25:21</Created>
+	<LastChange>2020-11-30T17:30:47</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-15.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="170,249 1575,249 1575,352 1577,352 1577,515 1226,515 1226,516 874,516 874,517 170,517 170,421 169,421 169,250 170,250"/>
+	<TextEquiv conf="0.96099">
+	<Unicode>Com base nas informações apresentadas, faça o que se pede nos itens a seguir, expondo cada solução em
+pseudocódigo ou em linguagem de programação.
+a) Implemente a função desenfileirar, que deve remover e retornar um elemento representado
+por um caminhoneiro da fila ou a mensagem "Fila vazia" se não houver elementos. (valor: 6,0 pontos)
+b) Implemente o procedimento mostrarFila, que deve apresentar a lista de elementos, ou seja, os
+caminhoneiros que estão na fila. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

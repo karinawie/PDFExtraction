@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:32:06</Created>
+	<LastChange>2020-11-21T00:55:56</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="496,1212 497,1775 1275,1774 1274,1211"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,338 1577,338 1577,519 1483,519 1483,631 1576,631 1576,872 1577,872 1577,1147 170,1147 170,1148 169,1148 169,631 170,631"/>
+	<TextEquiv conf="0.95976">
+	<Unicode>QUESTÃO 28
+Os motores de passo (MP), dispositivos eletromecânicos que convertem pulsos elétricos digitais
+em movimentos mecânicos discretos do eixo, são utilizados em aplicações em que se deseja fazer
+posicionamentos, como equipamentos de informática, instrumentos médicos, automação industrial,
+equipamentos aeroespaciais etc. O acionamento de um MP de quatro fases é feito a partir da aplicação
+de sinais discretos (pulsos) nos enrolamentos do motor, para que este gire na direção desejada.
+A figura 1, a seguir, ilustra esses pulsos, cuja frequência determina a velocidade de rotação do motor.
+Tais pulsos podem ser gerados a partir de um microcontrolador, conforme evidenciado na figura 2.
+Posteriormente, os pulsos gerados pelo microcontrolador são amplificados através de transistores e
+injetados nas chaves do circuito de potência, conforme representado na figura 3.
+A lógica dos pulsos que devem ser enviados para o circuito de potência está demonstrada no quadro 1.
+Os transistores T,, T,, T, e T, são ligados (através do estágio de amplificação) aos pinos RBO, RB1, RB2 e
+RB3 do microcontrolador. Conforme demonstrado no quadro 1, o acionamento foi dividido em 4 estágios
+de energização das fases. No primeiro estágio, as fases 1 e 4 devem ser desenergizadas e as fases 2€ 3
+devem ser energizadas. No segundo estágio, as fases 1 e 2 permanecem no mesmo estado e as fases
+3 e 4 mudam de estado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

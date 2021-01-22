@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:13:31</Created>
+	<LastChange>2020-11-27T19:22:23</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r3">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="890,244 1061,244 1061,315 1577,315 1577,686 1576,686 1576,830 1567,830 1567,942 1577,942 1577,1099 1576,1099 1576,1351 1577,1351 1577,1502 1576,1502 1576,1780 1381,1780 1381,1839 1055,1839 1055,2106 891,2106 891,1873 892,1873 892,1805 939,1805 939,1099 890,1099 890,942 903,942 903,830 890,830"/>
+	<TextEquiv conf="0.96654">
+	<Unicode>QUESTÃO 32
+O acetaldeído pode ser produzido a partir
+da oxidação do etanol em um leito catalítico.
+Entretanto, o acetaldeído também pode ser oxidado
+nesse leito catalítico, o que dá origem ao dióxido de
+carbono. Esse processo é tipicamente conduzido nas
+seguintes condições: grande excesso de oxigênio,
+uso de etanol diluído e uso do nitrogênio como gás
+inerte. Devido a essas condições, pode-se admitir
+que não há mudança de volume no processo.
+As reações são irreversíveis, de primeira ordem para
+o etanol e para o acetaldeído, e são representadas
+simplificadamente a seguir.
++0,50,
+HO
+CH,CH,OH(g) CH,CHO —E2A—2 CO,
+2H,0
+Considerando que se deseja maximixar a
+concentração do acetaldeído, avalie as afirmações
+a seguir, a respeito do modo de operação do reator
+responsável pela produção dessa substância.
+|. A reação deve ser conduzida em um PFR
+horizontal para que se evitem a formação de
+canais preferenciais e o acúmulo excessivo
+de catalisador nas partes inferiores do
+reator.
+Ill. A concentração de acetaldeído passa por
+um ponto de máximo, o que interfere na
+escolha do tempo de residência ótimo do
+reator.
+Ill. A temperatura é uma variável de projeto
+importante para se atingir o objetivo de
+maximizar a concentração do acetaldeído.
+IV. As condições operacionais consideradas
+ótimas para o objetivo em questão
+independem das velocidades específicas.
+É correto apenas o que se afirma em
+Oie
+Oilelv
+Oie,
+O LIlelv.
+O IMeIv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,313 855,313 855,546 715,546 715,678 854,678 854,886 661,886 661,1050 854,1050 854,1283 853,1283 853,1401 856,1401 856,1594 853,1594 853,1761 555,1761 555,1839 350,1839 350,1970 407,1970 407,2100 169,2100 169,1970 170,1970 170,1805 218,1805 218,1283 169,1283 169,1050 455,1050 455,886 168,886 168,678 319,678 319,546 169,546"/>
+	<TextEquiv conf="0.96831">
+	<Unicode>QUESTÃO 31
+Em um CSTR isotérmico, ideal e com volume
+constante, ocorre uma reação de primeira ordem
+e irreversível. A equação que se segue, obtida por
+balanço de massa, mostra como a concentração
+do reagente A (C') varia com o tempo dentro e na
+saída do reator, na forma de variável desvio.
+dC
+v 2º) =FC,(()- FC, -VkC,,
+dt lh A A
+em que Vé o volume reacional, t é o tempo, Féa
+vazão, C,, é a concentração de entrada do reagente
+Ae ké a velocidade específica da reação.
+Com a condição inicial, C, (0) = O, a função de
+transferência desse processo é
+C, (s) : 1, 5+1º
+na qual K, é a constante de ganho do processo no
+estado estacionário, T, é a constante de tempo do
+processo e 1= V/F.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+|. OCSTR tem uma dinâmica em malha aberta
+de primeira ordem para a variável C,.
+Il. A função de transferência do processo
+pode ser obtida usando-se transformada
+de Laplace, na qual a variável temporal t do
+domínio original se transforma na variável s
+no domínio de Laplace.
+Ill. A função de transferência mostra como uma
+perturbação na concentração de entrada
+do reator afeta a concentração dentro e na
+saída do reator.
+É correto o que se afirma em
+O |, apenas.
+O Il, apenas.
+OQ lelll, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

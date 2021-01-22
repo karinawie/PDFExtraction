@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:58:08</Created>
+	<LastChange>2020-11-21T00:04:43</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,247 872,2112 876,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,811 1575,811 1575,1055 1577,1055 1577,1244 1576,1244 1576,1333 1575,1333 1575,1530 1574,1530 1574,1635 1575,1635 1575,1706 1484,1706 1484,1755 892,1755 892,1756 891,1756 891,1334 890,1334 890,1271 939,1271 939,812 891,812 891,744 963,744 963,625 895,625 895,575 890,575"/>
+	<TextEquiv conf="0.96731">
+	<Unicode>QUESTÃO 29
+A computação verde referese ao uso
+ambientalmente responsável de computadores
+e recursos relacionados. Essas práticas incluem a
+implementação da eficiência energética em CPUs,
+servidores e periféricos, bem como o consumo
+reduzido de recursos e a destinação adequada de
+lixo eletrônico.
+HARRIS, J. G. Computing and green IT best practices on regulations
+and industry initiatives, virtualization, power management,
+materials recycling and telecommuting. London:
+Emereo Pty Ltd, 2008 (adaptado).
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Embora a virtualização contribua para a
+computação verde, o projeto e a gerência
+de uma arquitetura virtualizada apresentam
+problemas.
+PORQUE
+Il. Da virtualização podem decorrer problemas
+de segurança a partir de vulnerabilidades no
+hospedeiro, além de potencialmente haver
+maior desgaste das máquinas servidoras e,
+portanto, maior custo de manutenção.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,528 855,528 855,997 854,997 854,1100 839,1100 839,1227 853,1227 853,1498 854,1498 854,1575 660,1575 660,1622 327,1622 327,1876 170,1876 170,1588 218,1588 218,1101 169,1101 169,998 166,998 166,528 169,528"/>
+	<TextEquiv conf="0.96202">
+	<Unicode>QUESTÃO 28
+Em pesquisa operacional, problemas de
+Programação Linear (PL) são aqueles para os quais
+a função objetivo e as restrições são todas lineares.
+Um importante problema prático modelado com
+PL é o problema do transporte.
+Suponha uma situação em que tenhamos K
+portos, P,, P,, ..., P., que irão suprir J mercados,
+M, M, .., M,, com um certo produto. O porto
+P. possui uma quantidade S, do produto, sendo
+i=1,2,.,K,eo mercado M, deve receber pelo
+menos uma quantidade Tr do produto, sendo
+j=1 2 .. J. Considere que b; é o custo de
+transporte de uma unidade do produto do porto P.
+para o mercado M,, e Ny; é a quantidade de produtos
+despachados do porto P. para o mercado M,.
+O problema é suprir as necessidades dos mercados
+com o custo de transporte mínimo.
+Com base na situação apresentada, avalie as
+afirmações a seguir.
+K 13
+|. A expressão a ser minimizada é DDS;
+i=1j=1
+J
+Il. São restrições do problema: &gt;; &lt;s, para
+=1
+i=12.,K '
+K
+Ill. São restrições do problema: y, &lt;r. para
+j=12.,0 C
+IV. A quantidade total despachada para o
+mercado M, éK- Y;:
+É correto apenas o que se afirma em
+Oie.
+O llelv.
+O leiv.
+O L11e.
+O Lev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

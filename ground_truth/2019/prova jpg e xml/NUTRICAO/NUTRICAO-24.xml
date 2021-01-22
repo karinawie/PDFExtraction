@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-14T03:26:41</Created>
+	<LastChange>2020-09-14T03:27:44</LastChange></Metadata>
+	<Page imageFilename="NUTRICAO-24.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 254,179 254,247 1490,247 1490,383 1491,383 1491,606 1492,606 1492,715 1490,715 1490,843 470,843 470,898 265,898 265,1026 322,1026 322,1153 85,1153 85,962 84,962 84,930 85,930 85,865 133,865 133,451 84,451 84,355 83,355 83,247 84,247"/>
+	<TextEquiv conf="0.96415">
+	<Unicode>QUESTÃO 25
+Uma nutricionista decidiu abrir uma empresa para fornecer pacotes semanais de lanches saudáveis para
+crianças em idade escolar. Com o intuito de inovar no cardápio, pensou em incluir um hambúrguer de
+feijão preto com linhaça, receita que encontrou na internet e que pretende testar e aprimorar.
+Considerando essa situação e a inovação a ser implementada pela nutricionista no cardápio, avalie as
+afirmações a seguir.
+|. O hambúrguer de feijão com linhaça é uma alternativa para a substituição da carne bovina, pois é
+uma combinação que provê proteínas em quantidade e qualidade adequadas, e a sua preparação
+culinária configura-se como uma forma de estimular o consumo desses alimentos.
+Il. A construção de uma ficha técnica de preparação é essencial para a padronização da receita a ser
+testada, pois permite conhecer o Índice de cocção, o rendimento final da preparação que será útil
+para o cálculo do custo de produção.
+Ill. A aplicação de métodos de análise sensorial afetiva junto ao público infantil é uma forma de se
+verificar a aceitação e a viabilidade de inclusão da nova preparação no cardápio, pois a profissional
+pode usar o cálculo do índice de aceitabilidade como critério na tomada de decisão.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,1184 255,1184 255,1252 1491,1252 1491,1728 470,1728 470,1784 265,1784 265,1911 322,1911 322,2038 85,2038 85,1750 133,1750 133,1552 84,1552"/>
+	<TextEquiv conf="0.96677">
+	<Unicode>QUESTÃO 26
+Um nutricionista é solicitado a desenvolver um novo produto para uma empresa de farináceos.
+Depois de diversas pesquisas, desenvolve um bolo utilizando-se de farinhas sem glúten, beterraba ralada,
+chia e linhaça em grãos, entre outros ingredientes. Sabe-se que o Índice de cocção desse bolo é 0,9 e que
+o fator de correção da beterraba é 1,1.
+Considerando as informações do texto referentes ao desenvolvimento de novos produtos, avalie as
+afirmações a seguir.
+|. Seafichatécnica do bolo indicasse 100 g de beterraba, seria necessário comprar 110 g de beterraba.
+Il. Se 900 g de massa de bolo forem levadas ao forno para assar, depois do tempo especificado de
+cocção, serão obtidos 1 000 g de bolo assado.
+Ill. Este bolo, se desenvolvido em ambiente onde não há a contaminação cruzada com alimentos que
+contêm glúten, pode ser consumido por celíacos.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

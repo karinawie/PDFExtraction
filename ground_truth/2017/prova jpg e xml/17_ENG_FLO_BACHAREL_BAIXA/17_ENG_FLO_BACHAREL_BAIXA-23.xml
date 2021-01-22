@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:33:16</Created>
+	<LastChange>2020-11-27T17:44:37</LastChange></Metadata>
+	<Page imageFilename="17_ENG_FLO_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="866,247 872,2112 880,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,804 855,804 855,1038 513,1038 513,1039 424,1039 424,1167 465,1167 465,1247 455,1247 455,1295 171,1295 171,1296 170,1296 170,1040 169,1040 169,892 227,892 227,775 169,775 169,545 168,545 168,312 169,312"/>
+	<TextEquiv conf="0.93590">
+	<Unicode>QUESTÃO 24
+Para que um projeto florestal seja implementado,
+é necessário que apresente viabilidade econômica,
+social e ambiental. No que se refere à análise da
+viabilidade econômica do projeto, normalmente são
+aplicados os seguintes indicadores: valor presente
+líquido (VPL), receita líquida periódica equivalente
+(RLPE), razão receita-custo (R/C), custo médio de
+produção (CMPr) e taxa interna de retorno (TIR).
+Esses indicadores são avaliados com base em
+uma taxa de juros denominada taxa mínima de
+atratividade (TMA), que pode ser, por exemplo,
+a taxa SELIC.
+REZENDE J. L. P.; OLIVEIRA A. D. Análise econômica e social de
+projetos florestais. 2. ed. Viçosa: UFV, 2001 (adaptado).
+Em face das informações apresentadas e
+levando-se em consideração o indicador TIR,
+é correto afirmar que um projeto será viável
+economicamente quando a TIR for
+O igual a zero.
+O maior que zero.
+O menor que a TMA.
+O igual a TMA.
+O maior que a TMA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="891,244 1061,244 1061,312 1575,312 1575,380 1574,380 1574,1014 1575,1014 1575,1158 1576,1158 1576,1523 1575,1523 1575,2046 1484,2046 1484,2102 891,2102 891,1636 890,1636 890,1609 891,1609 891,1608 939,1608 939,982 890,982 890,953 891,953 891,275 890,275 890,245 891,245"/>
+	<ImageRegion id="r3">
+	<Coords points="891,400 891,877 1566,877 1566,400"/></ImageRegion>
+	<TextEquiv conf="0.96665">
+	<Unicode>QUESTÃO 25
+O gráfico a seguir apresenta dados de altura e
+diâmetro à altura do peito (DAP) de árvores.
+Considerando esse gráfico, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Arelação entre as alturas das árvores e seus
+DAPs, denominada relação hipsométrica,
+é expressa por modelos de regressão
+e tem fundamental importância
+procedimentos de inventários florestais.
+nos
+PORQUE
+Il. A relação hipsométrica permite que
+se estime a altura das árvores de um
+povoamento florestal medindo-se apenas
+o seu DAP, o que contribui para a redução
+de custos nas atividades de
+florestal.
+inventário
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras,
+e a ll é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

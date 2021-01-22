@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:41:50</Created>
+	<LastChange>2020-09-17T19:42:02</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-26.jpg" imageWidth="1619" imageHeight="2170">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 277,181 277,249 1514,249 1514,456 1095,456 1095,592 1514,592 1514,830 835,830 835,831 492,831 492,891 335,891 335,1145 108,1145 108,1146 107,1146 107,859 155,859 155,565 106,565"/>
+	<TextEquiv conf="0.96127">
+	<Unicode>QUESTÃO 20
+Entre os objetivos macroeconômicos, inclui-se o crescimento econômico. A forma de se obter este
+resultado varia de país para país, bem como de acordo com o próprio estágio de desenvolvimento
+econômico que determinado país alcançou. Entre os modelos de crescimento, destaca-se o modelo de
+Solow, que toma como base a seguinte função de produção:
+Y=f(K,L)
+em que Y = produto; K = estoque de capital; L = quantidade de trabalho.
+Sobre os resultados do modelo de Solow, avalie as afirmações a seguir.
+|. Quanto maior a taxa de poupança, maior será a taxa de crescimento do produto por trabalhador
+no estado estacionário.
+Il. Quanto maior a relação capital-trabalho, menor será a taxa de crescimento econômico do produto
+por trabalhador.
+Ill. Quanto maior o crescimento populacional, maior será a taxa de crescimento do produto por
+trabalhador no estado estacionário.
+É correto o que se afirma em
+A II, apenas.
+B III, apenas.
+C I e II, apenas.
+D I e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

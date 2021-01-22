@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:50:43</Created>
+	<LastChange>2020-11-27T21:01:04</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="890,244 1061,244 1061,315 1576,315 1576,599 1575,599 1575,737 1577,737 1577,863 1576,863 1576,1120 1575,1120 1575,1373 892,1373 892,1374 891,1374 891,1044 938,1044 938,909 891,909 891,600 889,600 889,315 890,315"/>
+	<TextEquiv conf="0.96716">
+	<Unicode>QUESTÃO 28
+A base ortogonal de um sistema quântico em um
+espaço de Hilbert de duas dimensões é dada pelos
+estados |1)e |2). O sistema é caracterizado pelo
+hamiltoniano H = ha(| 1)(2 |+| 2)(1|), em que &amp; é
+real e positivo e é a constante de Planck reduzida.
+Como condição inicial, no instante t,= O, o sistema
+tem seu estado descrito pelo vetor |1).
+Com base nesse sistema hipotético, assinale a
+opção correta.
+O O estado ([D+|2))/ 2 é um dos autoestados
+do sistema para o qual o sistema pode evoluir
+unitariamente a partir da condição inicial dada.
+O Se uma medida for realizada no instante
+=—.,ã probabilidade de encontrar o
+(20)
+sistema no estado representado por | 2) é de 100%.
+O O hamiltoniano do sistema não é hermitiano,
+já que ele não é diagonal, ou seja, tem termos
+proporcionais a |1)(2| ea |2)1|.
+O Se uma medida for realizada no instante ty
+a probabilidade de o sistema estar com seu
+estado em | 2) é de 50%.
+O Os autoestados do sistema são degenerados,
+com valores de energia iguais a how .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,314 854,314 854,678 853,678 853,728 555,728 555,786 350,786 350,920 407,920 407,1051 169,1051 169,920 170,920 170,678 168,678 168,499 169,499"/>
+	<TextEquiv conf="0.70261">
+	<Unicode>QUESTÃO 26
+Um gás de fótons está contido em um volume Ve
+em equilíbrio térmico à temperatura 7. A energia
+do fóton é dada por e = pc, em que p é o momento
+linear e cé a velocidade da luz no vácuo.
+A partir dessas informações, avalie as afirmativas
+a seguir.
+|. O potencial químico do gás de fótons é nulo.
+Il. O número de fótons N é proporcional a Tº.
+Ill. A energia média do gás É é proporcional a T*.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O llelll, apenas.
+O11em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="169,1085 340,1085 340,1155 855,1155 855,1841 264,1841 264,2105 169,2105 169,1841 168,1841 168,1643 169,1643"/>
+	<TextEquiv conf="0.96599">
+	<Unicode>QUESTÃO 27
+Em reatores nucleares de nêutrons rápidos, é
+possível usar como combustível o resíduo de
+outros reatores nucleares, de modo a fechar o ciclo
+nuclear. Dessa maneira, os altos custos financeiros
+implicados no armazenamento do lixo nuclear
+e os impactos ambientais associados poderiam
+ser minimizados. A maior parte do combustível
+nuclear gasto é composta de Urânio-238. A energia
+liberada pela fissão de um núcleo de Urânio-238
+é aproximadamente igual a 3,2 x 10* J e uma
+unidade de massa atômica é igual a 1,66 x 107” kg.
+Tomando-se o Urânio-238 como base, é
+correto afirmar que a ordem de grandeza da
+potência, em MW, que pode ser gerada por um
+reator abastecido com 1,0 kg de resíduo nuclear
+queimado por dia é
+O 10.
+O 10.
+Q 10.
+O 10.
+O 10.</Unicode></TextEquiv></TextRegion></Page></PcGts>

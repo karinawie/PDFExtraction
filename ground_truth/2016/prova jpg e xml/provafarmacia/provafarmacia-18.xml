@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-20T02:43:17</Created>
+	<LastChange>2020-11-14T03:16:53</LastChange></Metadata>
+	<Page imageFilename="provafarmacia-18.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="284,572 284,941 1442,941 1442,572"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="300,1113 300,1272 1438,1272 1438,1113"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="144,316 1599,316 1599,522 1598,522 1598,1308 1599,1308 1599,1515 1598,1515 1598,2045 146,2045 146,1651 194,1651 194,1416 146,1416 146,1078 145,1078 145,522 144,522"/>
+	<TextEquiv conf="0.95656">
+	<Unicode>QUESTÃO 18
+A anfotericina B é um antifúngico empregado há mais de 60 anos no tratamento de micoses sistêmicas.
+Trata-se de uma molécula que possui uma característica fisico-química particular: presença de um heptaeno
+do carbono 20 ao 33, conforme pode ser visto na figura abaixo. Essa característica a torna bastante hidrofóbica
+e, portanto, para ser empregada na terapia clínica, é necessário desenvolver uma solução micelar, o que
+representa um desafio para a indústria farmacêutica.
+Com objetivo de aumentar a solubilidade dessa molécula em meio aquoso, foram desenvolvidos derivados da
+anfotericina B por meio da sustituição de grupamentos químicos, representados por R, e R, nos esquemas abaixo.
+HOEPRICH P. D. et al. Treatment of fungal infections with semisynthetic derivatives of amphotericin B. Ann. New York Acad. Sci., p. 517-546, 1988.
+Considerando as substituições R, e R, na molécula de anfotericina B, avalie as afirmações a seguir.
+|. A N-acilação da anfotericina B elimina seu caráter anfótero e produz a N-acetil anfotericina B, que,
+com a ionização do grupo carboxílico no carbono 16, torna-se aniônica e solúvel em água.
+Il. Quando o grupo carboxílico do carbono 16 é esterificado produz-se o éster metílico da anfotericina B,
+molécula que, em meio ácido, apresenta caráter catiônico e solubilidade em água.
+Ill. Mudanças estruturais para modificação da solubilidade podem fazer com que a molécula perca sua
+atividade biológica se os grupamentos alterados forem responsáveis pela interação fármaco-receptor.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

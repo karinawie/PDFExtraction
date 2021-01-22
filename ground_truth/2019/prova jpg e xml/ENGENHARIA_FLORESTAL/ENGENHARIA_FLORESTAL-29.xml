@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T23:56:46</Created>
+	<LastChange>2020-09-12T23:57:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_FLORESTAL-29.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r4">
+	<Coords points="787,181 785,2047 788,2047 790,181"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 254,179 254,250 770,250 770,626 769,626 769,869 768,869 768,1034 769,1034 769,1145 470,1145 470,1209 265,1209 265,1346 322,1346 322,1479 84,1479 84,1346 85,1346 85,1175 133,1175 133,729 85,729 85,728 84,728 84,625 83,625 83,250 84,250"/>
+	<TextEquiv conf="0.96548">
+	<Unicode>QUESTÃO 33
+As paredes celulares das fibras da madeira são
+formadas por microfibrilas, originadas pelas ligações
+das moléculas de celulose (B-D-glucose) por
+meio de pontes de hidrogênio. Essas microfibrilas
+estão dispostas na parede celular formando o
+denominado ângulo microfibrilar, que é definido
+como o ângulo formado entre a microfibrila e o
+eixo da célula. O modo como as microfibrilas estão
+dispostas afeta a qualidade da madeira.
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+l. Quanto menor o ângulo microfibrilar,
+melhor a qualidade da madeira para o uso
+em serraria.
+Il. O ângulo microfibrilar tende a aumentar com
+a idade, sendo maior na madeira adulta, em
+comparação a madeira juvenil.
+Ill. O ângulo microfibrilar é diferente entre os
+lenhos, tendendo a decrescer do inicial para
+o tardio.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="805,179 977,179 977,252 1491,252 1491,546 1489,546 1489,688 1491,688 1491,1094 1192,1094 1192,1198 995,1198 995,1341 1043,1341 1043,1478 806,1478 806,1235 807,1235 807,1165 901,1165 901,1042 900,1042 900,997 854,997 854,657 807,657 807,656 806,656 806,545 805,545"/>
+	<TextEquiv conf="0.96429">
+	<Unicode>QUESTÃO 34
+Há grande variedade de espécies florestais
+brasileiras utilizadas em serrarias para a obtenção
+de madeira serrada. O desdobro de toras em
+serrarias requer a utilização de técnicas que possam
+aumentar o rendimento de madeira serrada e
+minimizar defeitos gerados por tensões internas
+das toras.
+Em relação às técnicas de desdobro em serrarias,
+avalie as afirmações a seguir.
+I. Quanto maior o número de cortes realizados
+em uma tora, maior será o rendimento de
+madeira serrada.
+II. O desdobro alternado e/ou simultâneo
+minimiza os efeitos de tensões de
+crescimento.
+III. Em toras que apresentam conicidade
+elevada deve-se optar pelo desdobro
+paralelo à casca em detrimento do desdobro
+paralelo ao eixo.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

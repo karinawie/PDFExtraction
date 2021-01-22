@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:51:34</Created>
+	<LastChange>2020-09-12T22:51:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-33.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="85,183 1491,183 1491,259 1205,259 1205,500 1490,500 1490,612 1491,612 1491,696 85,696"/>
+	<TextEquiv conf="0.95551">
+	<Unicode>Para os dimensionamentos expostos no esquema, assinale a opção que atende corretamente os critérios
+previstos na norma ABNT NBR-5410.
+A (Potência de iluminação da sala de estar) e (Potência de iluminação da cozinha).
+B (Quantidade de TUG da cozinha) e (Quantidade de TUG da sala de estar).
+C (Potência das TUG da sala de estar) e (Potência das TUG da cozinha).
+D (Potência de iluminação da cozinha), (Quantidade de TUG da sala de estar) e (Potência das TUG da
+sala de estar).
+E (Potência de iluminação da sala de estar), (Quantidade de TUG da cozinha) e (Potência das TUG
+da cozinha).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,718 255,718 255,787 1491,787 1491,895 1490,895 1490,969 1169,969 1169,1093 415,1093 415,1243 414,1243 414,1295 84,1295 84,1258 85,1258 85,970 84,970 84,906 85,906"/>
+	<TextEquiv conf="0.96516">
+	<Unicode>QUESTÃO 29
+Para solução de determinada tarefa de automação foi detectada a necessidade de se resolver um problema
+lógico para uma entrada ABC de 3 bits, sendo A o bit mais significativo. A saída y deve assumir nível
+lógico 1 quando a entrada ABC for par e maior que 4. Quando o valor ABC for menor que quatro, a
+saída y deve assumir o valor da expressão A &amp; B. Caso ocorram situações não previstas, o valor da saída
+é irrelevante.
+Nesse contexto, qual das seguintes expressões booleanas soluciona o problema?
+A y= AB + BC
+B y=4AB+ BC
+C y=AB+BC+AC
+D y=AB+BC+AC
+E y=AB+BC+AC</Unicode></TextEquiv></TextRegion></Page></PcGts>

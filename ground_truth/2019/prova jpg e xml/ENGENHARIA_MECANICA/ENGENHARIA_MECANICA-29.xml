@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:38:58</Created>
+	<LastChange>2020-09-15T04:45:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-29.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="428,571 428,1144 1142,1144 1142,571"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,179 255,179 255,247 1493,247 1493,553 1491,553 1491,1461 1352,1461 1352,1682 1095,1682 1095,1730 678,1730 678,1777 402,1777 402,1778 86,1778 86,1779 85,1779 85,1524 83,1524 83,1495 84,1495 84,249 83,249 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.89003">
+	<Unicode>QUESTÃO 31
+O CLP, ou controlador lógico programável, é um suporte eletrônico digital que armazena instruções de
+funções específicas, como lógica, sequenciamento, temporização, contagem e aritmética, para controlar,
+por meio de módulos de entradas e saídas, vários tipos de máquinas ou processos. Esse dispositivo opera
+com variáveis de entrada (sinais externos) e variáveis de saída (dispositivos controlados), que podem ser
+programados pela linguagem de programação Ladder. Essa linguagem é a mais utilizada por ser a forma
+mais clara para se apresentar uma lógica de controle semelhante aos diagramas de portas digitais, como
+ilustra a figura a seguir. Sabe-se, ainda, que, no CLP, o contato pode ser normalmente aberto (NA) ou
+normalmente fechado (NF) e que o principal componente de saída é a bobina.
+SILVEIRA, P. R.; SANTOS, W. E. Automação e controle discreto. 2. ed. São Paulo: Érica, 2004 (adaptado).
+Considerando essas informações e o diagrama de programação Ladder apresentado na figura, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. A saída Q1 estará acionada se as entradas |1 e 12 estiverem acionadas.
+PORQUE
+Il. A saída Q2 não estará acionada se a entrada l4 estiver acionada.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas</Unicode></TextEquiv></TextRegion></Page></PcGts>

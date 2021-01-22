@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:35:51</Created>
+	<LastChange>2020-09-15T17:39:29</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-30.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="257,1226 257,1665 1313,1665 1313,1226"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="447,915 447,1113 1128,1113 1128,915"/></TableRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="84,179 254,179 254,246 1490,246 1490,1140 1491,1140 1491,1207 1490,1207 1490,1762 763,1762 763,2026 85,2026 85,2027 85,1762 84,1762 84,1208 83,1208 83,1140 84,1140"/>
+	<TextEquiv conf="0.96555">
+	<Unicode>QUESTÃO 33
+O planejamento do arranjo físico (layout) tem como objetivo garantir a maior eficiência possível na
+combinação dos recursos utilizados nas atividades produtivas. O custo total de um arranjo físico,
+considerando-se que a alocação de atividades, pode ser calculado pela seguinte expressão:
+Cc = DIV RA A DX
+i=1 j=l iso
+em que:
+º Wi; é uma medida de interação entre as atividades it e 5;
+º d;; é uma medida de distância entre as atividades it e 5;
+º K; é o fator de conversão para custos entre as atividades it e 5;
+* C.éocustofixo de localização de cada atividade.
+Considere um processo produtivo que utilize seis máquinas (M1, M2, M3, M4, M5 e M6), cada uma
+devendo ser alocada em uma das posições indicadas no esquema a seguir. Por restrições de infraestrutura,
+as posições das máquinas M5 e M6 são predefinidas e fixas nas posições 6 e 5, respectivamente.
+A matriz de-para, a seguir, expressa a medida de interação como o número de paletes movimentados
+entre cada par de máquinas, por turno de trabalho.
+Com base nessas informações, assinale a opção que apresenta a associação (máquina, posição) que leva
+ao arranjo físico com custo mínimo de movimentação de materiais.
+A (13,1); (M2,2); (M4,3); (M1,4); (M5,5); (M6,6).
+B (M2,1); (M1,2); (M3,3); (M4,4); (M6,5); (M5,6).
+C (M4,1); (M2,2); (M1,3); (M3,4); (M6,5); (M5,6).
+D (M1,1); (M2,2); (M4,3); (M3,4); (M6,5); (M5,6).
+E (M1,1); (M2,2); (M4,3); (M3,4); (M5,5); (M6,6).</Unicode></TextEquiv></TextRegion></Page></PcGts>

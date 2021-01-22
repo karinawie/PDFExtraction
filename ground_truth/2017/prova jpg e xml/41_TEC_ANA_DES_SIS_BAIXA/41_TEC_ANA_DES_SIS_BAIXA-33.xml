@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:22:20</Created>
+	<LastChange>2020-11-30T17:22:21</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,318 1576,318 1576,624 740,624 740,858 770,858 770,957 1577,957 1577,1171 1197,1171 1197,1535 1196,1535 1196,1536 900,1536 900,1744 1294,1744 1294,1910 1333,1910 1333,1964 1575,1964 1575,2020 1576,2020 1576,2096 170,2096 170,1744 255,1744 255,1535 170,1535 170,1169 169,1169 169,957 219,957 219,624 170,624"/>
+	<TextEquiv conf="0.95798">
+	<Unicode>QUESTÃO 29
+Uma pesquisa está sendo realizada para identificar a renda média de um grupo de profissionais,
+em função de algumas variáveis de interesse. As variáveis utilizadas são “possui ensino superior”,
+“possui pós-graduação” e “possui pelo menos 5 anos de experiência em sua área de atuação”.
+Os conjuntos de pessoas representados por essas variáveis são denotados A, Be C, respectivamente.
+Dado que as variáveis não são mutuamente exclusivas, uma pessoa pode pertencer a mais de um
+conjunto. As expressões a seguir representam subconjuntos para os quais se deseja obter a renda
+média das pessoas a eles pertencentes, tarefa que será realizada posteriormente.
+º Expressão 1: reAnTE(BUOCO);
+º Expressão2:teÃ - (BUC);
+* Expressãoi:rTeAntTeBAaLTECO.
+Considere que, em função das expressões dadas, o seguinte programa em linguagem de programação C
+foi escrito, para que posteriormente se realize os cálculos desejados. Considere, ainda, que A, B e C são
+estruturas de dados apropriadamente definidas e que contém as pessoas exatamente como especificado.
+A função contem opera sobre elas e devolve um valor booleano, indicando se a pessoa apontada por p
+existe ou não na estrutura especificada.
+void determina renda (pessoa *p) (
+/* condição 1 */
+if (contem (A, p) &amp;&amp; !contem (B, p) &amp;&amp; !contem (C, p)) (
+//renda será determinada posteriormente
+)
+/* condição 2 */
+else if (contem (A, p) || contem (B, p) || contem (C, p)) (
+//renda será determinada posteriormente
+Com base nessa situação e nas informações apresentadas, assinale a opção correta.
+O A condição 2 do programa é equivalente à expressão 3.
+O Pessoas com pós-graduação pertencem ao conjunto definido pela expressão 2.
+O A condição 1 do programa é verdadeira para todas as pessoas com ensino superior.
+O A condição 1 do programa e as expressões 1 e 2, que representam o mesmo subconjunto, são equivalentes.
+O A condição 2 do programa define o conjunto de pessoas que tem ensino superior, pós-graduação e
+pelo menos cinco anos de experiência em sua área de atuação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

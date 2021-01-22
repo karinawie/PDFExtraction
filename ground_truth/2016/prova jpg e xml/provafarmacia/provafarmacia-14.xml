@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-20T02:39:25</Created>
+	<LastChange>2020-11-14T03:18:17</LastChange></Metadata>
+	<Page imageFilename="provafarmacia-14.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="161,780 161,1066 605,1066 605,780"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="650,777 650,1061 1083,1061 1083,777"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1133,797 1133,1061 1572,1061 1572,797"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="366,1080 366,1402 816,1402 816,1080"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="930,1075 930,1397 1388,1397 1388,1075"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,322 1599,322 1599,760 334,760 334,690 145,690"/>
+	<TextEquiv conf="0.90984">
+	<Unicode>Texto para as questões 11 e 12
+Mikania glomerata Spreng., conhecida popularmente como guaco, é uma planta que faz parte da lista de
+produtos tradicionais fitoterápicos de registro simplificado. O extrato de guaco na dose de 0,5 a 5 mg/dia,
+por via oral, é indicado como broncodilatador e expectorante, e pode ser prescrito pelo farmacêutico, pois
+é isento de prescrição médica. Na análise fitoquímica do guaco, foram detectados cumarina (Figura 1),
+estigmasterol (Figura 2), saponinas, entre outros constituintes. A cumarina é utilizada no controle de qualidade
+das folhas de guaco, sendo o marcador do extrato, além de ser um dos compostos responsáveis pela
+atividade farmacológica. O dicumarol, a varfarina e a femprocumona (Figuras 3, 4 e 5, respectivamente) são
+estruturas derivadas da cumarina, que apresentam propriedades anticoagulantes, pela inibição da vitamina
+K. O guaco não é indicado para grávidas, crianças com menos de dois anos de idade e pacientes que fazem
+uso de anticoagulantes.
+CZELUSNIAK. et al. Farmacobotânica, fitoquímica e farmacologia do guaco: revisão considerando Mikania glomerata Sprengel
+e Mikania laevigata Schulyz Bip. ex Baker. Rev. Bras. Pl. Med., v. 14, n. 2, 2012 (adaptado).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="146,1469 1359,1469 1359,1522 1600,1522 1600,1626 1599,1626 1599,1771 1414,1771 1414,2120 146,2120 146,1825 145,1825 145,1796 194,1796 194,1498 146,1498"/>
+	<TextEquiv conf="0.95905">
+	<Unicode>QUESTÃO 11
+Com base nessas informações, avalie as asserções a seguir e a relação proposta entre elas.
+|. Caso um paciente com tosse e catarro (mal menor), há 3 dias, solicite um xarope ao farmacêutico,
+ele pode prescrever um xarope de guaco, devendo, no entanto, orientar o paciente a não usar
+concomitantemente ácido acetilsalicílico (AAS).
+PORQUE
+Il. O ácido acetilsalicílico (AAS) inibe o fator de agregação plaquetária e seu uso tende a aumentar o risco
+de hemorragias.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+14</Unicode></TextEquiv></TextRegion></Page></PcGts>

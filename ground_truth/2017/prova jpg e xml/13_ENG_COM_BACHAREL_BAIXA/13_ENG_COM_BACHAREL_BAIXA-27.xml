@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:58:27</Created>
+	<LastChange>2020-11-21T00:05:52</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 171,244 171,245 341,245 341,317 1576,317 1576,479 1061,479 1061,1176 914,1176 914,1347 766,1347 766,1566 418,1566 418,1784 647,1784 647,1785 885,1785 885,1786 1123,1786 1123,1787 1360,1787 1360,1816 1163,1816 1163,2072 1336,2072 1336,2100 171,2100 171,2048 170,2048 170,1859 171,1859 171,1782 174,1782 174,1714 261,1714 261,1520 225,1520 225,1347 171,1347 171,479 170,479 170,478 171,478 171,275 170,275"/>
+	<TextEquiv conf="0.89014">
+	<Unicode>QUESTÃO 26
+Estruturas de dados, tais como filas e pilhas, são utilizadas em diversas aplicações para automação
+industrial por meio de linguagens de programação textuais. O texto estruturado (ST) é uma das opções
+de linguagem de programação definidas pela norma IEC 61131-3. O trecho de código a seguir foi
+implementado nesse contexto.
+ftdefine MAX 1000
+struct eventos (
+char ocorrencia[200];
+char dataHora[50];
+)j
+struct eventos eve [MAX];
+int inicio = O;
+int fim = O;
+int processaEvento (struct eventos *recuperado) (
+if(inicio == fim) (|
+return - 1;
+)
+else (|
+iniciot++;
+copiaEvento (recuperado, eve[inicio - 11);
+return O;
+)
+int insereEvento (struct eventos *novo) (
+if (fim == MAX) (
+return -1;
+)
+else (
+copiaEvento (evel[fim], novo);
+fim++;
+return O;
+)
+É correto afirmar que a estrutura de dados e a funcionalidade desse código tratam-se de
+O uma fila que processa primeiro os eventos mais antigos.
+O uma pilha que processa primeiro os eventos mais antigos.
+O uma pilha que processa primeiro os eventos mais recentes.
+O uma pilha que processa os eventos na ordem escolhida pelo operador.
+OQ uma fila que processa os eventos de acordo com seu respectivo grau de prioridade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:20:41</Created>
+	<LastChange>2020-09-18T02:21:43</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-17.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,314 854,314 854,455 855,455 855,811 853,811 853,944 855,944 855,1358 853,1358 853,1802 763,1802 763,1852 170,1852 170,1421 168,1421 168,1393 218,1393 218,916 169,916"/>
+	<TextEquiv conf="0.96055">
+	<Unicode>QUESTÃO 10
+Considere os seguintes requisitos para
+desenvolvimento de uma solução para uma rede
+de restaurantes fast-food:
+Quando o status de um pedido é atualizado, todos
+os dispositivos dos envolvidos devem receber
+a informação. Os sistemas a ser atualizados
+incluem os acessados pelo entregador, pela linha
+de produção e pela central de atendimento.
+Espera-se ainda que outros sistemas possam ser
+incluídos futuramente (por exemplo, sistema de
+pedido on-line do cliente), devendo se comportar
+da mesma forma.
+Considerando esse contexto, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O requisito apresentado pode ser
+implementado com a utilização do padrão
+de projeto Observer.
+PORQUE
+Il. O padrão de projeto Observer realiza o
+estilo —arquitetural cliente-servidor, no
+qual o servidor é responsável por enviar
+notificações aos clientes sempre que houver
+atualização em alguma informação de
+interesse.
+Arespeito dessas asserções, assinale a opção correta.
+A As asserções | e II são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C Aasserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a || é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="890,244 1061,244 1061,314 1576,314 1576,516 1574,516 1574,621 1576,621 1576,1448 891,1448 891,728 890,728"/>
+	<TextEquiv conf="0.96799">
+	<Unicode>QUESTÃO 11
+O encapsulamento é um mecanismo da
+programação orientada a objetos no qual os
+membros de uma classe (atributos e métodos)
+constituem uma caixa preta. O nível de
+visibilidade dos membros pode ser definido pelos
+modificadores de visibilidade "privado", "público"
+e "protegido".
+Com relação ao comportamento gerado pelos
+modificadores de visibilidade, assinale a opção
+correta.
+A Um atributo privado pode ser acessado
+pelos métodos privados da própria classe e
+pelos métodos protegidos das suas classes
+descendentes.
+B Um atributo privado pode ser acessado
+pelos métodos públicos da própria classe
+e pelos métodos públicos das suas classes
+descendentes.
+C Um membro público é visível na classe à qual
+ele pertence, mas não é visível nas suas classes
+descendentes.
+D Um método protegido não pode acessar os
+atributos privados e declarados na própria
+classe.
+E Um membro protegido é visível na classe à qual
+pertence e em suas classes descendentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

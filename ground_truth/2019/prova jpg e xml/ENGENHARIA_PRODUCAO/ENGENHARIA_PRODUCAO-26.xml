@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:30:54</Created>
+	<LastChange>2020-09-15T17:31:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-26.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="92,368 92,613 1478,613 1478,368"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="465,623 465,815 1110,815 1110,623"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1492,247 1492,354 1490,354 1490,1174 1491,1174 1491,1289 1490,1289 1490,1519 812,1519 812,1520 470,1520 470,1577 273,1577 273,1704 322,1704 322,1831 84,1831 84,1608 85,1608 85,1543 133,1543 133,1289 84,1289 84,974 85,974 85,356 84,356"/>
+	<TextEquiv conf="0.96533">
+	<Unicode>QUESTÃO 27
+Uma empresa possui três fábricas, localizadas em São Paulo, Manaus e Recife, as quais devem abastecer
+consumidores de duas regiões do Brasil: Sudeste e Nordeste. As tabelas a seguir apresentam dados sobre
+as fábricas e os centros consumidores em questão.
+Define-se a variável de decisão do problema como sendo Lip quantidade de produtos (em milhares de
+unidades) enviados da fábrica i para o centro consumidor j, em que é = 1 (São Paulo), 2 (Manaus) ou 3
+(Recife) e j = 1 (Sudeste) ou 2 (Nordeste).
+São, então, propostas as seguintes opções para os envios:
+*º opçãol: Tt 2 500, 977 O, T37 7 O, 9 O, Tag = 500, T39 7 1 000;
+* opção?2: 1,7 = 2000, 1,,=O, 37 7 500, 1,7 = O, 155 = 300, TC39 7 1 200;
+* opção3: 1,7 = 2 000, 1,4, = 500, T37 7 O, 119 =O, 155 = 500, TC39 7 1 000;
+*º opção: 1,7 =1500, 1, ,=O0, 37 7 1 000, 1,7 = 500, 155 = 500, L39 = [0
+Com base nessa situação, considerando que as demandas dos consumidores devem ser atendidas, avalie
+as afirmações a seguir.
+|. As opções 1 e 2 são inviáveis, pois nelas há extrapolação da capacidade das fábricas.
+Il. A opção 3 é viável, pois todas as demandas dos consumidores são atendidas, sem que haja
+extrapolação da capacidade das fábricas.
+Ill. A opção 4 é viável, pois todas as demandas dos consumidores são atendidas, sem que haja
+extrapolação da capacidade das fábricas.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T17:43:36</Created>
+	<LastChange>2020-09-18T17:44:59</LastChange></Metadata>
+	<Page imageFilename="05_CIE_BIO_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 870,2112 874,2112 876,247"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="900,847 900,1250 1566,1250 1566,847"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="169,244 340,244 340,318 855,318 855,1036 854,1036 854,1761 853,1761 853,2065 763,2065 763,2119 171,2119 171,2118 170,2118 170,1639 169,1639 169,1638 168,1638 168,1568 218,1568 218,1037 169,1037"/>
+	<TextEquiv conf="0.96729">
+	<Unicode>QUESTÃO 24
+Muitos animais do deserto, particularmente os
+insetos, são capazes de sobreviver a alterações
+radicais no conteúdo de água nos tecidos entre a
+desidratação e um episódio de ingestão de água.
+Nos poucos episódios de chuva, alguns besouros
+podem aumentar o conteúdo de água em mais da
+metade de sua massa corporal.
+MOYES, C. D.; SCHULTE, P. M. Princípios de Fisiologia Animal.
+Porto Alegre: Artmed, 2010 (adaptado).
+Considerando que um pesquisador, ao acompanhar
+processo de desertificação de uma mata, constate
+a perda de 60% de conteúdo de água da hemolinfa
+de uma espécie de inseto, mas não verifique
+disfunções metabólicas muito graves associadas
+ao estresse hídrico, avalie as asserções a seguir e a
+relação proposta entre elas.
+l. Na espécie estudada, foram mantidas
+reações químicas e trocas necessárias para
+o funcionamento dos órgãos e tecidos dos
+insetos submetidos ao estresse hídrico.
+PORQUE
+Il. A hemolinfa, por prescindir de pigmentos
+respiratórios, possui uma capacidade de
+transporte de gás oxigênio insignificante
+e não altera as reações bioenergéticas dos
+insetos avaliados.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e || são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1576,313 1576,1499 1575,1499 1575,1801 1277,1801 1277,1855 1276,1855 1276,1856 1128,1856 1128,2116 891,2116 891,1888 892,1888 892,1360 891,1360 891,834 890,834 890,833 889,833 889,313 890,313"/>
+	<TextEquiv conf="0.96666">
+	<Unicode>QUESTÃO 25
+Um biólogo implementou um programa de
+avaliação sorológica para mensurar a incidência
+de infecção pelo Trypanosoma cruzi em crianças
+de 7 a 12 anos de idade, todos residentes em uma
+região endêmica, em áreas rurais e urbanas do
+Brasil central. Foram feitas no mesmo dia coletas de
+sangue de 937 crianças da área rural e 648 crianças
+da área urbana. Os resultados do teste das reações
+de hemaglutinação indireta estão apresentados
+no gráfico a seguir. A casualidade dos resultados
+obtidos nas reações de hemaglutinação indireta foi
+testada estatisticamente pelo qui-quadrado, tendo
+sido obtido o resultado 4? = 25,24 e p &lt; 0,001.
+Considerando o valor de referência o = 0,05 e os
+resultados apresentados, avalie as afirmações a seguir.
+|. Os resultados demonstram que,
+estatisticamente, há maior incidência de
+Trypanosoma cruzi na área rural.
+Il. A incidência de Trypanosoma cruzi em
+crianças residentes na área urbana indica que
+a infecção está se espalhando nessa área.
+Ill. Os resultados dispostos no gráfico retratam
+um panorama complexo e indicam que
+devem ser analisados sob uma abordagem
+espaço-temporal.
+É correto o que se afirma em
+A |, apenas.
+B III apenas.
+C l e ll, apenas.
+D ll e lll, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

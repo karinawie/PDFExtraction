@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:29:58</Created>
+	<LastChange>2020-11-29T23:08:40</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-17.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r3">
+	<Coords points="871,246 872,2112 875,2112 874,246"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="169,244 856,244 856,275 854,275 854,427 739,427 739,551 854,551 854,620 263,620 263,872 169,872 169,620 168,620 168,551 170,551 170,275 169,275"/>
+	<TextEquiv conf="0.69832">
+	<Unicode>QUESTÃO 12
+Para calcularo limite £ = lim
+34
+podem ser desenvolvidos usando as desigualdades
+sen x
+, osargumentos
+&lt;-, válidas para todo real x&gt; O.
+*% T
+O0&lt;
+A partir desses argumentos, conclui-se que L é
+igual a
+Oo -.
+O o.
+o:
+O -.
+O —.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1616 1037,1616 1037,1865 891,1865 891,1616 889,1616 889,582 888,582 888,313 889,313 889,312 890,312"/>
+	<ImageRegion id="r2">
+	<Coords points="902,611 902,1438 1569,1438 1569,611"/></ImageRegion>
+	<TextEquiv conf="0.96605">
+	<Unicode>QUESTÃO 13
+Uma construtora, com o objetivo de valorizar as
+áreas verdes, apresentou um projeto de loteamento,
+com terrenos retangulares, onde cada residência
+construída terá um jardim ao seu redor. Em cada
+terreno deverão ser reservados 3 metros na frente,
+3 metros no fundo e 2 metros em cada lateral para
+jardinagem, conforme ilustra a figura a seguir.
+Considerando-se que área disponível para
+construção será de 600 m?, a área mínima do
+terreno que atende às especificações exigidas pela
+construtora será de
+O 606 mº.
+O 610 mº.
+O 726 mº.
+O 864 mº.
+O 924 m.</Unicode></TextEquiv></TextRegion></Page></PcGts>

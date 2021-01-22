@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:33:43</Created>
+	<LastChange>2020-09-18T02:34:56</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="869,246 872,2112 876,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,310 856,310 856,632 729,632 729,671 672,671 672,992 654,992 654,1099 579,1099 579,1340 854,1340 854,1431 855,1431 855,1535 853,1535 853,1747 854,1747 854,1984 853,1984 853,2067 763,2067 763,2115 170,2115 170,2116 169,2116 169,1914 170,1914 170,1719 168,1719 168,1689 218,1689 218,1407 169,1407 169,1340 174,1340 174,671 168,671 168,310 169,310"/>
+	<TextEquiv conf="0.93652">
+	<Unicode>Um país utiliza moedas de 1, 5, 10, 25 e 50
+centavos. Um programador desenvolveu o método
+a seguir, que implementa a estratégia gulosa para
+o problema do troco mínimo. Esse método recebe
+como parâmetro um valor inteiro, em centavos,
+e retorna um array no qual cada posição indica a
+quantidade de moedas de cada valor.
+public static int[] troco(int valor) (
+int[]
+QUESTÃO 22
+moedas = new int[5];
+moedas[4] = valor / 50;
+50;
+valor / 25;
+valor % 25;
+valor / 10;
+valor = valor %
+moedas [3] =
+valor =
+moedas [2] =
+valor = valor % 10;
+moedas[1] = valor / 5;
+valor = valor % 5;
+moedas [0] = valor;
+return (moedas);
+)
+Considerando o método apresentado, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. O método guloso encontra o menor
+número de moedas para o valor de entrada,
+considerando as moedas do país.
+PORQUE
+Il. Métodos gulosos sempre encontram a
+solução global ótima.
+Arespeito dessas asserções, assinale a opção correta.
+A As asserções | e || são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1367,312 1367,435 1576,435 1576,561 1575,561 1575,847 1295,847 1295,954 1576,954 1576,1191 1575,1191 1575,1565 1484,1565 1484,1613 892,1613 892,1614 891,1614 891,1192 890,1192 890,1130 891,1130 891,1129 939,1129 939,954 986,954 986,847 939,847 939,791 890,791 890,435 891,435 891,275 890,275"/>
+	<TextEquiv conf="0.96407">
+	<Unicode>QUESTÃO 23
+Considere o seguinte alfabeto:
+Z =1(,),0,1,2,3,4,5,6,7,8,9,+,-).
+Considere, ainda, uma linguagem L definida sobre
+esse alfabeto.
+L=(w| we Z*, para cada ocorrência de (“ em w,
+existe uma ocorrência de “)')
+Por exemplo, a cadeia x = (2 + (3 - 4)) pertence a
+L, mas a cadeia y = (2 + (3 - 4) não pertence a L.
+Com relação à linguagem L, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. A linguagem L não pode ser considerada
+regular.
+PORQUE
+Il. Autômatos finitos não possuem mecanismos
+que permitam contar infinitamente o
+número de ocorrências de determinado
+símbolo em uma cadeia.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e |l são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

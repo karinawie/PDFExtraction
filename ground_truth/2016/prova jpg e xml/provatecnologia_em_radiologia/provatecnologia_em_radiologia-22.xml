@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:56:51</Created>
+	<LastChange>2020-10-29T20:04:53</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-22.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="248,660 248,1092 750,1092 750,660"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="871,254 872,2073 874,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="890,243 1601,243 1601,273 1598,273 1598,407 1599,407 1599,555 1598,555 1598,652 1531,652 1531,769 1599,769 1599,1237 1600,1237 1600,1309 1599,1309 1599,1397 1598,1397 1598,1485 1485,1485 1485,1533 892,1533 892,1534 891,1534 891,1134 890,1134 890,1105 891,1105 891,1104 984,1104 984,606 939,606 939,556 890,556"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 34
+Na mamografia, é muito tênue o limite entre a
+compressão ideal e a tolerada pela paciente.
+Considerando a habilidade perceptiva do profissional
+em relação ao aspecto biopsicoemocional da
+paciente, avalie as asserções a seguir e a relação
+proposta entre elas.
+l. Uma mamografia realizada com pouca
+compressão pode mascarar uma patologia ou
+gerar repetição desnecessária do exame.
+PORQUE
+Somente com a mama bem comprimida,
+uniformemente distribuída sobre toda a
+superfície da bandeja, reduz-se a radiação
+espalhada, a dose de radiação no tecido
+e o borramento, separando-se diversas
+estruturas e gerando-se menor sobreposição
+das sombras teciduais, o que resulta em uma
+imagem de boa qualidade diagnóstica.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1|l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,243 855,243 855,635 854,635 854,1205 855,1205 855,1273 854,1273 854,1767 532,1767 532,1870 383,1870 383,2014 295,2014 295,2060 146,2060 146,1789 194,1789 194,1273 146,1273 146,1205 145,1205 145,1204 147,1204 147,635 145,635"/>
+	<TextEquiv conf="0.96419">
+	<Unicode>QUESTÃO 33
+Em radiologia geral, definem-se como estruturas
+radiotransparentes aquelas que permitem a
+passagem de raios X em grande quantidade e como
+estruturas radiopacas aquelas que bloqueiam ou
+absorvem grande parte dos fótons. Uma desvantagem
+da radiologia geral em relação a outros métodos de
+diagnóstico, como a tomografia computadorizada,
+é a sobreposição de estruturas. A imagem a seguir
+corresponde a uma radiografia de tórax.
+A partir dessas informações e da análise da região
+destacada na imagem, avalie as afirmações a seguir.
+I. A região destacada apresenta-se
+radiotransparente, estando situada em nível
+de tórax, anteriormente ao coração.
+II. A região destacada está sobreposta à área
+cardíaca, com evidência de um componente
+radiopaco, o que indica a realização de
+incidência em perfil.
+III. A região destacada apresenta uma
+mistura de componentes radiopacos e
+radiotransparentes, indicando a presença
+de tecidos com densidades iguais, mas em
+diferentes posições.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

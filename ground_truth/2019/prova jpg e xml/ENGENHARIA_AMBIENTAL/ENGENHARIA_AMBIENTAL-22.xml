@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T21:44:37</Created>
+	<LastChange>2020-11-14T00:25:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_AMBIENTAL-22.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="147,497 147,965 1481,965 1481,497"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,240 1491,240 1491,393 1492,393 1492,488 1489,488 1489,1095 1490,1095 1490,1274 1491,1274 1491,1343 254,1343 254,1387 84,1387 84,1343 85,1343 85,488 84,488"/>
+	<TextEquiv conf="0.96672">
+	<Unicode>QUESTÃO 22
+O reservatório de detenção objetiva minimizar os efeitos da urbanização sobre a drenagem, a partir do
+controle da vazão de pico, do controle do volume superficial escoado, do controle da qualidade de água
+e da recarga do lençol freático por meio da infiltração e percolação da água.
+GRIBBIN, !. B. Introdução à hidráulica, hidrologia e gestão de águas pluviais. 3. ed. São Paulo: Cengage Learning, 2009 (adaptado).
+Em um projeto de unidade de detenção de águas pluviais, os hidrogramas gerados são as respostas
+hidrológicas frente a uma intervenção estrutural para amenizar a inundação urbana. O gráfico a seguir
+apresenta os hidrogramas típicos na entrada e na saída de um reservatório de detenção.
+No gráfico, as variáveis X, Y e Z representam, respectivamente,
+A tempo em que a vazão de saída do reservatório se iguala à vazão de entrada do reservatório;
+vazão máxima de entrada no reservatório; volume total efluente do reservatório.
+B tempo para enchimento do reservatório de detenção; vazão máxima de saída do reservatório; volume
+de amortecimento do reservatório.
+C retardo do pico de vazão; amortecimento do pico de cheia; volume de amortecimento do reservatório.
+D tempo em que a vazão de saída do reservatório se iguala à vazão de entrada do reservatório;
+amortecimento do pico de cheia; área superficial do reservatório.
+E retardo do pico de vazão; vazão máxima de entrada no reservatório; volume total efluente do
+reservatório.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="84,1415 1490,1415 1490,1524 1491,1524 1491,1740 1256,1740 1256,1826 249,1826 249,2038 84,2038 84,1843 85,1843 85,1670 84,1670"/>
+	<TextEquiv conf="0.96334">
+	<Unicode>QUESTÃO 23
+Nitrogênio e fósforo, presentes em esgotos domésticos, efluentes industriais e agroindustriais, águas de
+drenagem de áreas agrícolas e urbanas e em outros resíduos de atividades humanas, contribuem para a
+eutrofização artificial dos corpos hídricos, especialmente de lagos, reservatórios e estuários.
+Com relação ao processo de eutrofização artificial, avalie as afirmações a seguir.
+|. Em condições favoráveis de temperatura e luminosidade, ocorre proliferação de cianobactérias
+nos corpos hídricos.
+Il. As cianobactérias podem produzir toxinas e compostos que dão gosto e odor à água.
+Ill. Em lagos eutrofizados, observa-se grande quantidade de organismos fitoplanctônicos e grande
+diversidade de espécies.
+IV. O elevado aporte de fósforo em lagos eutrofizados diminui a produção primária.
+É correto apenas o que se afirma em
+A I e II.
+B I e III.
+C II e IV.
+D I, III e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

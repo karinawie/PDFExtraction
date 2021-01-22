@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:56:39</Created>
+	<LastChange>2020-09-12T22:57:41</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-37.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="457,1136 457,1657 1150,1657 1150,1136"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,183 1040,183 1040,184 1358,184 1358,234 1492,234 1492,331 1491,331 1491,461 1490,461 1490,597 265,597 265,718 323,718 323,840 322,840 322,841 84,841 84,626 93,626 93,485 133,485 133,212 85,212 85,211 84,211"/>
+	<TextEquiv conf="0.94532">
+	<Unicode>Com base nas informações e nos dados apresentados nas figuras, avalie as afirmações a seguir.
+|. O conversor CC-CC é um conversor elevador de tensão, onde a tensão média na saída do conversor
+será maior que a tensão média de entrada ou igual a ela; já a corrente média de saída do conversor
+será menor que a corrente média de entrada ou igual a ela.
+Il. Na etapa de tensão constante do processo de carga da bateria, a tensão fica constante em
+aproximadamente 14,4 V até a corrente diminuir progressivamente, atingindo cerca de 1% da
+capacidade nominal da bateria.
+Ill. Na etapa de flutuação do processo de carga da bateria, para que ela tenda a se manter carregada
+em 100%, deve-se diminuir a tensão para 13,3 V, a fim de evitar danos à bateria.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,869 255,869 255,939 1211,939 1211,940 1492,940 1492,1093 1209,1093 1209,1695 1490,1695 1490,1770 336,1770 336,2025 335,2025 335,2026 84,2026 84,1093 83,1093 83,939 84,939"/>
+	<TextEquiv conf="0.96474">
+	<Unicode>QUESTÃO 34
+A figura a seguir ilustra a magnitude do espectro de frequência de um sinal analógico que deverá ser
+amostrado e analisado digitalmente. Sabe-se que esse sinal tem seu espectro de frequência maior do que
+O Hz e menor do que 50 Hz. Sabe-se, também, da existência de ruído entre 58 Hz e 62 Hz, que poderá
+afetar o processo de amostragem.
+Para atenuar o ruído e, posteriormente, amostrar o sinal obedecendo o critério de Nyquist, a frequência
+de corte /. de um filtro passa-baixa ideal e a frequência de amostragem /, serão, respectivamente,
+A 50 Hz e 50 Hz.
+B 50 Hz e 120 Hz.
+C 58 Hz e 62 Hz.
+D 62 Hz e 62 Hz.
+E 62 Hz e 120 Hz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

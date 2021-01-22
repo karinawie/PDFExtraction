@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:30:59</Created>
+	<LastChange>2020-09-12T18:31:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-43.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="86,611 85,1723 1479,1725 1480,613"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="84,179 254,179 254,247 1491,247 1491,571 1490,571 1490,1785 464,1785 464,2041 85,2041 85,2040 84,2040 84,1816 85,1816 85,1784 86,1784 86,571 83,571 83,503 84,503"/>
+	<TextEquiv conf="0.96571">
+	<Unicode>QUESTÃO 33
+O deslocamento do ar comprimido é utilizado em diversos processos em engenharia, pois a pneumática
+oferece agilidade, redução do esforço dos operadores, aumento na capacidade de produção,
+repetibilidade, entre outras vantagens. Assim, em muitos casos, a pneumática é a melhor opção para
+deslocar, levantar, pressionar, direcionar ou estocar produtos. O funcionamento de sistemas pneumáticos
+pode ser representado por meio de circuitos pneumáticos e eletropneumáticos, utilizando-se simbologias
+padronizadas.
+A figura a seguir representa a sequência de um circuito eletropneumático para a movimentação de três
+pistões: A, Be C.
+Disponível em: &lt;https://www.parker.com/literature/Brazil/Automation/Training/1003 5 BR.pdf&gt;. Acesso em: 19 ago. 2019 (adaptado).
+Para o circuito representado, qual é a sequência correta de movimentação dos cilindros A, B e C?
+a A+C+B+(B-C-)A-
+b A-C+B+(B+C-)A-
+c A+C-B+(B-C+)A-
+d A+C+B-(B-C-)A-
+e A+C+B+(B-C-)A+</Unicode></TextEquiv></TextRegion></Page></PcGts>

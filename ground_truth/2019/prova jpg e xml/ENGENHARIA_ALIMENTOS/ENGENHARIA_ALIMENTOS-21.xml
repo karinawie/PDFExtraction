@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T02:55:23</Created>
+	<LastChange>2020-09-10T02:56:45</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-21.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="92,576 92,1242 1505,1242 1505,576"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,179 255,179 255,246 1491,246 1491,1740 813,1740 813,1741 471,1741 471,1795 322,1795 322,2003 234,2003 234,2050 85,2050 85,1342 83,1342 83,1273 84,1273"/>
+	<TextEquiv conf="0.96812">
+	<Unicode>QUESTÃO 20
+O poli-hidroxibutirato (PHB) e o poliácido lático (PLA) são dois poliésteres termoplásticos com grande
+potencial para uso em aplicações industriais. As embalagens desenvolvidas com esses materiais
+apresentam viabilidade e elevada biodegradabilidade. Porém, devido às suas propriedades mecânicas
+individuais, esses filmes, muitas vezes, necessitam de modificações para melhorar seu desempenho. Uma
+alternativa para aprimorar essas propriedades mecânicas é o desenvolvimento de misturas poliméricas
+de PHB com PLA. Os gráficos a seguir representam os resultados de uma análise de resistência ao impacto
+e de testes comparativos de ensaios de tração de amostras de PHB, PLA e suas misturas em diferentes
+proporções (25/75,50/50 e 75/25), logo após a sua obtenção e também após dois anos de envelhecimento.
+Considerando os resultados obtidos para os ensaios de resistência ao impacto e de tração dos diferentes
+filmes poliméricos, avalie as afirmações a seguir.
+I. O filme polimérico desenvolvido com a mistura de PHB/PLA envelhecida na proporção de 25/75
+apresentou aumento superior a 100% na deformação antes da ruptura em comparação com o
+mesmo filme obtido sem envelhecimento.
+II. O filme polimérico composto exclusivamente por PLA apresentou menor resistência em comparação
+com o filme composto unicamente por PHB, pois o primeiro apresentou maior deformação e
+ruptura gradual quando submetido a tração.
+III. Os filmes que apresentaram maior resistência ao impacto foram aqueles que apresentaram uma
+maior proporção de PHB, enquanto que os filmes com maiores proporções de PLA mostraram-se
+menos resistentes ao impacto.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

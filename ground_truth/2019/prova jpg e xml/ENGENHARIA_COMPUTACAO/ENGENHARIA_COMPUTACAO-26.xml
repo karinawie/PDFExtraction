@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T17:50:29</Created>
+	<LastChange>2020-09-12T17:50:53</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-26.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="194,426 194,723 1368,723 1368,426"/></TableRegion>
+	<TextRegion id="r15" type="heading">
+	<Coords points="84,179 254,179 254,247 1490,247 1490,739 1491,739 1491,1050 1492,1050 1492,1156 836,1156 836,1157 470,1157 470,1214 322,1214 322,1469 85,1469 85,808 84,808"/>
+	<TextEquiv conf="0.96768">
+	<Unicode>QUESTÃO 21
+Uma empresa de análise de mercado de entregas de encomendas foi contratada para selecionar aquela
+que prestaria serviço para seu cliente e fez um levantamento de dados do setor nos últimos 10 anos,
+produzindo um relatório com a tabela a seguir, que apresenta 5 principais fornecedores em potencial para
+o serviço de entrega de encomendas.
+Com base nessa situação e considerando que a tabela faz parte do banco de dados da empresa com o
+nome de TABELA1, avalie as afirmações a seguir.
+I. O código em SQL que exclui da TABELA1 as informações do Fornecedor 1, Fornecedor 4 e Fornecedor 5
+é: DELETE FROM TABELA1 WHERE CD6 = 'Regional' OR CD1 &gt; 160 OR CD5 &gt; 1;.
+II. A inclusão de uma nova coluna com dados de taxa de eficiência de entrega para os fornecedores
+constantes na TABELA1 é feita pelo código: INSERT INTO TABELA1 (CD7) SET CD7 =
+'CD3/CD2';.
+III. O código que reflete a escolha do cliente, o Fornecedor 3, é: SELECT Fornecedor FROM
+TABELA1 WHERE CD1 &gt; 100 AND (CD3/CD2) &gt; 0.99 AND CD5 &lt; 0.5 ORDER BY
+CD3;.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

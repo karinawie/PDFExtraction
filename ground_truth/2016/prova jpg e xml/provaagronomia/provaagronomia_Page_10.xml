@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T02:10:03</Created>
+	<LastChange>2020-11-12T03:36:32</LastChange></Metadata>
+	<Page imageFilename="provaagronomia_Page_10.jpeg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="288,566 288,1713 1444,1713 1444,566"/></TableRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="145,252 146,252 146,253 507,253 507,312 1600,312 1600,541 1599,541 1599,1904 146,1904 146,540 145,540"/>
+	<TextEquiv conf="0.87661">
+	<Unicode>QUESTÃO 4
+Na tabela abaixo, são apresentados os dados de produtividade de 13 clones comparados a um clone
+testemunha de seringueira, no período de 8 anos, obtidos por meio de um experimento conduzido em
+campo. O delineamento experimental utilizado foi de blocos ao acaso, com 4 repetições e 30 plantas por
+parcela, com espaçamento de 8 metros entre linhas e 2,5 metros entre plantas. Os valores das médias de
+produção (kg/ha/ano) foram comparados pelo teste de Tukey ao nível de significância de 5%, a fim de se
+verificar diferenças significativas entre as médias.
+ALEM, H. M. et al. Avaliação de clones de seringueira para a região noroeste do Estado de São Paulo.
+Revista Ceres, v. 62, n. 5, p. 430-437, 2015 (adaptado).
+De acordo com os resultados estatísticos apresentados na tabela, qual clone de seringueira é recomendado
+para o plantio? Justifique sua resposta. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

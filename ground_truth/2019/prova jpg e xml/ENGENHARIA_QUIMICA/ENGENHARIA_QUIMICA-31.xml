@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:37:13</Created>
+	<LastChange>2020-09-15T02:37:59</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-31.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="297,784 297,1378 1273,1378 1273,784"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,179 1492,179 1492,558 1493,558 1493,671 1491,671 1491,1538 937,1538 937,1751 819,1751 819,1796 789,1796 789,1797 554,1797 554,1798 85,1798 85,1471 84,1471 84,1470 85,1470 85,1469 353,1469 353,763 83,763 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.84591">
+	<Unicode>QUESTÃO 35
+A equação de Michaelis-Menten, apresentada a seguir, descreve a curva hiperbólica da velocidade de
+reação V, versus a concentração do substrato [5] para a maioria das reações de catálise enzimática com
+apenas um substrato, sendo K, a constante de Michaelis-Menten e Vau a velocidade máxima da reação.
+— VmaslS]
+Mar
+OK, AS]
+Aglicoamilase é uma das enzimas utilizadas pela indústria alimentícia na hidrólise da maltose para produzir
+xaropes com maior teor de glicose. A cinética dessa reação é determinada experimentalmente em um
+reator fechado e aquecido a 40 ºC. A equação que descreve a reação é Maltose + HO —2Glicose
+A partir da linearização da equação de Michaelis-Menten, utilizando-se Lineweaver-Burk, e dos dados
+experimentais obtidos, foi construído o gráfico a seguir.
+NELSON, D. L.; COX, M. M. Princípios de bioquímica de Lehninger. 6. ed. Porto Alegre: Artmed, 2014 (adaptado).
+Com base nas informações apresentadas, assinale a opção que apresenta os valores aproximados da
+constante cinética da Lei de Michaelis-Menten e da velocidade máxima da reação.
+A K, =32 mmol/L e V, 4, =38 umol/(L + min).
+B K,, =0,0262 mmol/L e V,, 4, =0,8413 umol/(L - min).
+C K,=1,2 mmol/L e V,,4,=38 umol/(L - min).
+D K,, =0,8413 mmol/L e V,, 4, =0,0262 umol/(L - min).
+E K, =38 mmol/L e V,,4,,=32 umol/(L - min).
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

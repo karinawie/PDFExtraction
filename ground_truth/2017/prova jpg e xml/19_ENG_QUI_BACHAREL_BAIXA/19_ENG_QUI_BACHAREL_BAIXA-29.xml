@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:14:11</Created>
+	<LastChange>2020-11-27T19:24:51</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 341,244 341,312 1577,312 1577,446 1576,446 1576,797 1459,797 1459,798 1342,798 1342,799 1225,799 1225,800 1161,800 1161,1496 1577,1496 1577,1555 1578,1555 1578,1622 1461,1622 1461,1623 1344,1623 1344,1624 1227,1624 1227,1625 1110,1625 1110,1626 992,1626 992,1627 413,1627 413,1992 411,1992 411,2088 171,2088 171,2089 170,2089 170,985 169,985 169,802 168,802 168,312 169,312"/>
+	<TextEquiv conf="0.93624">
+	<Unicode>QUESTÃO 27
+Estudantes de engenharia decidiram avaliar a perda de calor das paredes de uma estufa de laboratório
+e, para isso, dividiram-se em dois grupos. Após a instalação de termopares e a realização das leituras de
+temperatura ao longo de uma das paredes da estufa, os estudantes apresentaram resultados obtidos em
+estado estacionário.
+Usando como referência inicial a superfície interna da parede, o grupo 1 fez seus cálculos conforme curva
+da figura 1, na qual o perfil de temperatura é dado por
+2
+1-4-8(2),
+L
+em que 7 é a temperatura da parede, L é o comprimento da parede e ré a coordenada de posição.
+O grupo 2 usou como referência inicial a superfície externa da parede e apresentou os dados conforme a
+figura 2, em que o perfil de temperatura é dado pela equação a seguir.
+2
+T, =C+ a(s)
+Os dois grupos consideraram a condutividade térmica da parede igual a k.
+Na situação descrita, considerando que A, B, Ce D são constantes positivas, quais são os fluxos de calor
+no centro da parede encontrados pelos grupos 1 e 2, respectivamente?
+B D
+EK exp O
+o L L
+o Te
+o Ber
+mio Sis
+(D) += ek.
+o
+js
+e 1. B e-k-
+2L
+jo</Unicode></TextEquiv></TextRegion></Page></PcGts>

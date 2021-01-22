@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:18:45</Created>
+	<LastChange>2020-09-11T20:32:00</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-20.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="200,389 200,1007 1381,1007 1381,389"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 255,179 255,248 1491,248 1491,361 1490,361 1490,1065 744,1065 744,1347 85,1347 85,1298 84,1298 84,360 83,360 83,248 84,248"/>
+	<TextEquiv conf="0.71306">
+	<Unicode>QUESTÃO 18
+Pretende-se implantar um edifício de 4 pavimentos sobre o perfil geológico-geotécnico representado
+na figura a seguir. Sabe-se que, no local, os órgãos ambientais não autorizam o rebaixamento do lenço!
+freático devido à proximidade de uma reserva protegida.
+Com base nessa situação, é correto afirmar que o tipo de fundação que apresenta viabilidade técnica para
+ser projetada e executada é
+A estaca Strauss.
+B estaca do tipo broca.
+C tubulão a céu aberto.
+D estaca pré-moldada de concreto.
+E estaca escavada do tipo rotativa a céu aberto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,1379 255,1379 255,1447 1490,1447 1490,1784 377,1784 377,1912 406,1912 406,1961 469,1961 469,2009 546,2009 546,2042 85,2042 85,1944 84,1944 84,1912 85,1912 85,1674 84,1674 84,1673 83,1673 83,1447 84,1447"/>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 19
+O desenvolvimento e o custo acessível dos equipamentos de informática favoreceram o uso de
+variados programas computacionais na geotecnia. A velocidade de processamento dos computadores
+também impulsionou a popularização desses programas, podendo-se citar aqueles que determinam
+a rede de fluxo d'água e as vazões associadas ao maciço do solo. É importante que o engenheiro civil
+compreenda os parâmetros de entrada nos programas para a obtenção de cálculos e a análise dos
+dados de forma correta.
+Nesse contexto, o parâmetro do solo a ser inserido no programa para a determinação da vazão de descarga
+(Lei de Darcy) no maciço em condição saturada é
+A porosidade.
+B grau de saturação.
+C gradiente hidráulico.
+D peso específico saturado.
+E coeficiente de permeabilidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

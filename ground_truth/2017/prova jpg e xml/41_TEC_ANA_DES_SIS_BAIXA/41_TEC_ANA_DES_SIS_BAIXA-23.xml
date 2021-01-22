@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:24:07</Created>
+	<LastChange>2020-11-30T17:27:05</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 871,2112 874,2112 875,247"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="890,1367 1061,1367 1061,1432 1576,1432 1576,1874 1175,1874 1175,1988 1191,1988 1191,2032 1238,2032 1238,2077 1306,2077 1306,2110 892,2110 892,2109 891,2109 891,1873 890,1873"/>
+	<TextEquiv conf="0.96824">
+	<Unicode>QUESTÃO 19
+Conceitualmente, cada processo tem sua própria
+CPU (Central Processing Unit) virtual. É claro que, na
+realidade, a CPU troca a execução, a todo momento,
+de um processo para outro, mas, para entender
+esse sistema, é muito mais fácil pensar em um
+conjunto de processos sendo executados (pseudo)
+paralelamente do que tentar controlar o modo como
+a CPU faz esses chaveamentos.
+TANENBAUM, A. S. Sistemas operacionais modernos.
+3. ed. São Paulo: Person, 2010 (adaptado).
+De acordo com o exposto, o conceito descrito
+denomina-se
+O thread.
+O multiprocessador.
+O multiprogramação.
+O processo monothread.
+O máquina de estados finitos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="890,244 1061,244 1061,310 1576,310 1576,791 1575,791 1575,910 1577,910 1577,1334 1576,1334 1576,1335 891,1335 891,824 928,824 928,717 891,717 891,716 890,716"/>
+	<TextEquiv conf="0.96758">
+	<Unicode>QUESTÃO 18
+As redes de computadores estão por toda parte.
+Ainternet é uma delas, assim como as várias redes
+das quais ela é composta, que compartilham
+recursos por meio de Sistemas Distribuídos.
+Como o número de dispositivos tem crescido
+exponencialmente, em vez de paralelizar tarefas
+em várias máquinas, tornou-se cada vez mais
+importante empregar sistemas distribuídos,
+comunicando e coordenando dispositivos
+e, assim, contribuindo para o cotidiano de
+empresas, governos e demais instituições.
+COULOURIS, G. et al. Sistemas Distribuídos: conceitos e projeto,
+5. ed. Porto Alegre: Bookman, 2013 (adaptado).
+Nesse contexto, assinale a opção que apresenta
+exemplos atuais de sistemas distribuídos.
+O Pesquisa na web, jogos on-line, E-Commerce e o
+banco de dados das agências bancárias.
+O Jogos on-line, E-Commerce, pesquisa no Windows
+e e-mails.
+O E-Commerce, jogos em mídia física, pesquisa no
+Windows e redes sociais.
+O Pesquisa na web, jogos em mídia física,
+E-Commerce e e-mails.
+O Pesquisa no Windows, pesquisa na web,
+jogos on-line e o banco de dados das agências
+bancárias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,832 855,832 855,940 854,940 854,1087 855,1087 855,1195 854,1195 854,1196 853,1196 853,1284 660,1284 660,1340 295,1340 295,1467 369,1467 369,1594 169,1594 169,1419 170,1419 170,1306 216,1306 216,1215 218,1215 218,677 169,677 169,535 168,535 168,312 169,312"/>
+	<TextEquiv conf="0.95791">
+	<Unicode>QUESTÃO 17
+Após a implantação de um sistema em ambiente de
+produção, este passa para a fase de manutenção
+dentro do ciclo de vida do desenvolvimento de
+software. Os sistemas geralmente necessitam
+de diversos tipos de manutenção durante sua
+existência.
+Considerando a etapa de manutenção no processo
+de desenvolvimento de software, avalie as
+afirmações a seguir.
+|. Afase de manutenção é uma parte explícita
+do modelo em cascata do processo de
+desenvolvimento de software.
+Il. A atualização do sistema para inserir
+customizações é considerada um tipo de
+manutenção.
+Ill. A depuração do programa é um processo
+específico da fase de desenvolvimento e um
+tipo de manutenção.
+IV. O acréscimo de novas funções a um sistema
+existente, sem perturbar sua operação, é
+considerado um tipo de manutenção.
+V. A manutenção do sistema está relacionada
+ao aumento do ciclo de vida do software.
+É correto apenas o que se afirma em
+Oie.
+O Wvev.
+O 1L11e.
+O LI, IVev.
+Ou IvVev</Unicode></TextEquiv></TextRegion></Page></PcGts>

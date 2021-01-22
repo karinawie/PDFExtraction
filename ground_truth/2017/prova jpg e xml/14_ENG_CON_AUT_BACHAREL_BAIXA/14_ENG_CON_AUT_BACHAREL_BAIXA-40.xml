@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:30:40</Created>
+	<LastChange>2020-11-21T00:37:30</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-40.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1576,312 1576,1858 1286,1858 1286,2112 170,2112 170,415 169,415 169,312 170,312"/>
+	<ImageRegion id="r1">
+	<Coords points="169,444 169,991 1572,991 1572,444"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="166,994 166,1775 1577,1775 1577,994"/></ImageRegion>
+	<TextEquiv conf="0.96061">
+	<Unicode>QUESTÃO 34
+As figuras 1 e 2, a seguir, ilustram, respectivamente, um diagrama de blocos de um sistema de controle e
+topologias típicas de compensadores analógicos que utilizam amplificadores operacionais, capacitores e
+resistores.
+Considerando as informações apresentadas, assinale a opção que corresponde à sequência correta dos
+compensadores segundo a ordem numérica apresentada.
+O Proporcional derivativo; proporcional; integral; proporcional integral.
+O Proporcional integral; proporcional; integral; proporcional derivativo.
+O Proporcional integral; integral; proporcional; proporcional derivativo.
+O Proporcional integral derivativo; proporcional; integral; proporcional integral.
+O Proporcional derivativo; integral; proporcional; proporcional integral derivativo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

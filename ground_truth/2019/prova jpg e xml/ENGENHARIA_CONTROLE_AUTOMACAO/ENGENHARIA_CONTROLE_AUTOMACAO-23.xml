@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:24:04</Created>
+	<LastChange>2020-09-12T19:24:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-23.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="372,442 373,828 1204,825 1203,440"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="357,981 357,1828 1200,1828 1200,981"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,239 1490,239 1490,970 1022,970 1022,971 553,971 553,972 243,972 243,2034 86,2034 86,2035 85,2035 85,1827 84,1827 84,429 83,429 83,239 84,239"/>
+	<TextEquiv conf="0.96120">
+	<Unicode>QUESTÃO 16
+A realização do processo de leitura de sinais analógicos em microcontroladores exige, muitas vezes, o emprego
+de circuitos condicionadores de sinais. Esses circuitos, geralmente implementados por amplificadores
+operacionais, têm a função de adequar as amplitudes de tensão do sinal de entrada para os níveis de tensão
+pertinentes ao conversor analógico-digital (ADC). O circuito analógico representado no diagrama esquemático
+da Figura 1 é um exemplo desses circuitos condicionadores de sinais.
+Considerando que o sinal de entrada é uma fonte de tensão com característica senoidal cuja amplitude
+de pico é igual a 2 V, qual será o valor da resistência R3 para que a excursão do sinal de saída (SAÍDA) seja
+coerente com o gráfico apresentado na Figura 2?
+A 1ko.
+B 5ko.
+C 10 ko.
+D 12,5 ka.
+E 25 ko.</Unicode></TextEquiv></TextRegion></Page></PcGts>

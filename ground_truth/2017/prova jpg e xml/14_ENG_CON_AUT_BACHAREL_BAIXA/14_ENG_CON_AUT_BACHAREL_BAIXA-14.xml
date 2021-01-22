@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:34:35</Created>
+	<LastChange>2020-11-21T01:09:39</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,244 514,244 514,317 1576,317 1576,1733 1577,1733 1577,1851 172,1851 172,1852 171,1852 171,1734 170,1734 170,1703 169,1703"/>
+	<ImageRegion id="r1">
+	<Coords points="166,502 166,1588 1577,1588 1577,502"/></ImageRegion>
+	<TextEquiv conf="0.94851">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Em um processo de dosagem de dois produtos, deseja-se controlar a temperatura no interior do
+reservatório por meio da abertura de uma válvula proporcional de vapor, como mostra a figura a
+seguir. Nesse processo, alterações na temperatura ambiente e na vazão do vapor podem alterar
+significativamente a temperatura no reservatório.
+FRANCHI, C. M. Controle de processos industriais: princípios e aplicações. São Paulo: Saraiva, 2017 (adaptado).
+Com base no processo apresentado, faça o que se pede nos itens a seguir.
+a) Identifique as seguintes variáveis: de processo, manipulada e de perturbações. (valor: 5,0 pontos)
+b) Considerando que o sinal de saída do transmissor de temperatura varie de 0 a 10 V para uma faixa de
+medição de O a 256 ºC, e que o conversor analógico/digital (A/D) do controlador lógico programável
+(CLP) seja de 10 bits, calcule a resolução de temperatura. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

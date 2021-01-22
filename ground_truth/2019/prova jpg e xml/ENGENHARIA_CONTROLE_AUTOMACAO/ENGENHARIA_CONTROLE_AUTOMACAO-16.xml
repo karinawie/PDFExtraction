@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:33:34</Created>
+	<LastChange>2020-09-12T19:33:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-16.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="352,736 352,1313 1228,1313 1228,736"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,179 428,179 428,247 1492,247 1492,603 1403,603 1403,1574 1491,1574 1491,1743 1316,1743 1316,1744 85,1744 85,1672 84,1672 84,1465 83,1465 83,1464 84,1464 84,1463 85,1463 85,425 84,425 84,180 85,180"/>
+	<TextEquiv conf="0.92051">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Uma manobra comumente adotada nas indústrias de processos é usar tanques como vasos-pulmão para
+absorver algumas perturbações oriundas dos desajustes de operação da planta. Nesse caso, o controle
+estrito do nível desses equipamentos torna-se dispensável, uma vez que não há necessidade de se operar
+o equipamento no valor desejado exatamente, mas permitem-se flutuações próximas desse ponto.
+Considere o projeto de um sistema de controle de nível de um vaso-pulmão, mostrado na figura, que
+pode armazenar um fluido na fase líquida e possui uma seção transversal A, uma vazão volumétrica de
+alimentação q,, e é descarregado com vazão volumétrica q por meio de uma bomba ideal. Sabe-se ainda
+que a vazão de descarga do vaso é a variável manipulada, e a vazão de alimentação é o distúrbio externo
+para essa malha de controle.
+Acerca desse sistema de controle, faça o que se pede nos itens a seguir.
+a) Apresente o modelo dinâmico no domínio do tempo que rege esse sistema. (valor: 3,0 pontos)
+b) Determine a função de transferência em malha aberta que relaciona o nível do vaso com as respectivas
+vazões de alimentação e descarga. (valor: 3,0 pontos)
+c) Demonstre que uma vazão q, constante implica um erro em regime permanente, considerando a
+implementação de um controlador com apenas ação proporcional G&amp; (s) = -K, . (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

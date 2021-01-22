@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T01:42:05</Created>
+	<LastChange>2020-09-15T01:42:15</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-26.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="73,705 73,1050 786,1050 786,705"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="792,694 792,1050 1507,1050 1507,694"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="439,1078 439,1444 1113,1444 1113,1078"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1492,247 1492,423 1491,423 1491,595 1490,595 1490,1526 1387,1526 1387,1798 912,1798 912,1846 85,1846 85,1589 84,1589 84,1562 114,1562 114,691 85,691 85,595 83,595 83,247 84,247"/>
+	<TextEquiv conf="0.96608">
+	<Unicode>QUESTÃO 28
+A pregabalina é um fármaco indicado no tratamento da dor neuropática causada por lesão
+ou mau funcionamento dos nervos ou do sistema nervoso; na terapia adjunta de crises
+epilépticas parciais, com ou sem generalizações secundárias; no tratamento do Transtorno
+da Ansiedade Generalizada (TAG); e no controle da fibromialgia. No mercado, pode ser
+encontrada nas apresentações de cápsulas contendo 75 ou 150 mg do ativo. Um estudo
+validou o doseamento das cápsulas de pregabalina em cromatografia líquida de alta eficiência
+(CLAE). A fase móvel consistiu em tampão de hidrogenofosfato dissódico:acetonitrila:metanol
+na razão 80:10:10 (v/v/v). A coluna utilizada foi ODS-3V-C18 (250 mm x 4,6 mm x 5 um).
+O comprimento de onda foi 210 nm.
+As figuras a seguir apresentam, respectivamente, os cromatogramas do padrão (Figura A) e da amostra
+(Figura B) e a curva de linearidade da pregabalina (Figura C):
+SEEMA, A.; JEEJA, P.; ASHISH, J. Development and validation of HPLC method for estimation of pregabalin in bulk &amp; capsule dosage form.
+Pharm Anal Acta, v. 7, 2016 (adaptado).
+Considerando as informações apresentadas, assinale a opção correta.
+O O tempo de retenção da pregabalina é de 3 minutos.
+O O cromatograma da amostra das cápsulas indica que trata-se da substância ativa pregabalina.
+O As amostras injetadas com área igual a 150 000 apresentam concentração igual a 0,4 mg/mL.
+O A análise foi realizada pela técnica de CLAE em coluna de fase normal (polar).
+O A figura C indica que o método não apresenta linearidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

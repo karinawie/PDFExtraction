@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:32:00</Created>
+	<LastChange>2020-09-12T19:33:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-18.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,723 470,723 470,778 265,778 265,906 322,906 322,1033 85,1033 85,842 84,842 84,724 83,724 83,247 84,247"/>
+	<TextEquiv conf="0.96616">
+	<Unicode>QUESTÃO 09
+Para incentivar as atividades econômicas e culturais da população de ilhas de uma região litorânea, um
+empresário planeja implementar um serviço de lanchas de transporte coletivo entre as ilhas e uma cidade
+costeira próxima. O empreendimento deve ser bem dimensionado, pois usar lanchas além da quantidade
+adequada gera despesas desnecessárias, e se o número de lanchas for insuficiente, pode haver longas
+esperas pelo serviço ou, ainda, superlotação das embarcações. Assim, para um investimento eficiente,
+determinou-se, por meio de uma pesquisa, uma distribuição padrão normal com média de 50 passageiros
+por hora e um desvio padrão de 5 unidades.
+A partir da pesquisa, avalie as afirmações a seguir.
+|. A probabilidade de haver mais de 55 passageiros por hora é maior do que a de haver menos de 45.
+Il. A probabilidade de haver mais de 45 passageiros por hora é maior do que a de haver menos de 50.
+Ill. A probabilidade de haver entre 35 e 40 passageiros por hora é maior do que a de haver entre 55 e 60.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,1065 255,1065 255,1133 1492,1133 1492,1284 1490,1284 1490,1419 1491,1419 1491,1487 1490,1487 1490,1716 1255,1716 1255,1859 1352,1859 1352,1940 1095,1940 1095,1988 678,1988 678,2036 86,2036 86,2037 85,2037 85,1779 83,1779 83,1750 133,1750 133,1488 84,1488 84,1419 93,1419 93,1285 84,1285 84,1134 83,1134 83,1133 84,1133"/>
+	<TextEquiv conf="0.93710">
+	<Unicode>QUESTÃO 10
+Um RTOS (Real-Time Operating System) possui como características o determinismo com relação às
+tarefas que o sistema executará, a responsividade, o alto grau de controle do usuário, a confiabilidade e o
+suporte a operações de falha de software. Um RTOS é usado em aplicações críticas quanto ao tempo, como
+sensores de monitoração, e geralmente são sistemas pequenos, para uso em computadores embarcados.
+GONÇALVES, H; BORTOLUZZI|, F.; ZEFERINO, C. Desenvolvimento de um sistema operacional de tempo real para um microcontrolador básico.
+In: Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC 2013), 2013, Niterói.
+Proceedings. Niterói: UFF, 2013. p. 1-6 (adaptado).
+Considerando a necessidade de utilização de RTOS em sistemas embarcados para atendimento a requisitos
+de tempo real, avalie as asserções a seguir e a relação proposta entre elas.
+|. O escalonador de tarefas é o principal diferencial de um RTOS em relação a um sistema
+operacional tradicional.
+PORQUE
+Il. O escalonador de tarefas de um RTOS é capaz de garantir que a tarefa de maior prioridade ocupe
+a CPU antes das demais.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

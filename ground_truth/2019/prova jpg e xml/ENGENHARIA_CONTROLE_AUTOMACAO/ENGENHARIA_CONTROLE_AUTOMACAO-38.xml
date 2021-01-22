@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:38:10</Created>
+	<LastChange>2020-09-12T18:38:29</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-38.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,253 1491,253 1491,418 1182,418 1182,570 762,570 762,723 976,723 976,815 1003,815 1003,876 1491,876 1491,996 85,996 85,997 84,997 84,876 133,876 133,799 134,799 134,616 133,616 133,419 83,419 83,253 84,253"/>
+	<TextEquiv conf="0.95668">
+	<Unicode>QUESTÃO 28
+Na produção de peças plásticas, uma empresa dispõe de um equipamento eletropneumático comandado
+por um controlador lógico programável para fazer a operação de furação e rosqueamento. O avanço
+dos cabeçotes de furação e rosqueamento é pneumático com regulagem hidráulica de velocidade para
+garantir a precisão do movimento. Assim, a sequência de operação é a seguinte:
+posicionamento da peça (manual);
+acionamento do bimanual pelo operador (contínuo durante toda a operação);
+fixação da peça;
+furação;
+deslocamento até a posição de rosqueamento;
+rosqueamento;
+deslocamento até a posição de furação (inicial de movimento);
+desacionamento do bimanual pelo operador;
+liberação da peça (máquina pronta para início de um novo ciclo).
+Considere que, se o operador deixar de acionar o bimanual durante a operação, o dispositivo deve
+suspender a operação e retornar ao estado inicial. Os atuadores e sensores empregados e o seu estado
+inicial estão relacionados no quadro a seguir.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="78,1010 78,2015 1463,2015 1463,1010"/></TableRegion></Page></PcGts>

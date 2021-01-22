@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:00:33</Created>
+	<LastChange>2020-10-29T19:11:25</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_gestao_ambiental-34.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,243 1600,243 1600,273 1599,273 1599,683 146,683 146,684 145,684"/>
+	<TextEquiv conf="0.19176">
+	<Unicode>QUESTÃO 33
+A Bacia Hidrográfica é a unidade territorial para implantação do Plano Nacional de Recursos Hídricos,
+conforme a Lei n. 9.433/1997. Um dos objetivos dessa lei é assegurar a disponibilidade da água em padrões
+de qualidade adequados aos respectivos usos. O fósforo total, importante nutriente utilizado na fertilização
+das culturas de algodão, milho, soja e arroz, é transportado junto com os sedimentos para dentro dos cursos
+d'água, o que compromete a qualidade da água, visto que a eutrofização e a depleção do oxigênio dissolvido
+são problemas bastante frequentes. A figura a seguir apresenta simulação da concentração do fósforo total
+nas águas da Bacia Hidrográfica do Rio Cuiabá, Mato Grosso. Os valores máximos de fósforo total permitidos
+em cursos d'água, segundo suas classes, são apresentados na tabela a seguir, de acordo com a resolução
+Conama n. 357/2005.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="430,1694 430,2061 1305,2061 1305,1694"/></TableRegion>
+	<ImageRegion id="r2">
+	<Coords points="244,713 244,1669 1600,1669 1600,713"/></ImageRegion></Page></PcGts>

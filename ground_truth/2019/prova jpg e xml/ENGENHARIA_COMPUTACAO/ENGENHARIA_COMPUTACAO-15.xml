@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:16:19</Created>
+	<LastChange>2020-09-12T18:16:19</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-15.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="85,183 1148,183 1148,254 1411,254 1411,395 1237,395 1237,451 84,451 84,184 85,184"/>
+	<TextEquiv conf="0.96443">
+	<Unicode>Com base nas informações e nos gráficos, faça o que se pede nos itens a seguir.
+a) Determine a natureza da carga (resistiva, capacitiva ou indutiva) e justifique. (valor: 2,5 pontos)
+b) Calcule o valor da impedância da carga. (valor: 2,5 pontos)
+c) Apresente a equação da forma de onda da corrente alternada. (valor: 2,5 pontos)
+d) Calcule a tensão eficaz (RMS) do circuito de corrente alternada. (valor: 2,5 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

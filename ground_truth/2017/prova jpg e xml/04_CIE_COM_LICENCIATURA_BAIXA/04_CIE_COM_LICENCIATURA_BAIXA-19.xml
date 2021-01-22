@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:23:31</Created>
+	<LastChange>2020-09-18T02:25:22</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="928,1767 928,1800 433,1800 433,1801 432,1801 432,1800 219,1800 219,1767"/>
+	<TextEquiv conf="0.72016">
+	<Unicode>e R4=((a,0): a,beNea+bé um número par).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="300,577 300,1063 913,1063 913,577"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="1019,713 1019,933 1469,933 1469,713"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 340,244 340,309 1576,309 1576,570 1575,570 1575,1185 1576,1185 1576,1407 1553,1407 1553,1408 1549,1408 1549,1409 1545,1409 1545,1410 1541,1410 1541,1411 1535,1411 1535,1412 1503,1412 1503,1413 1499,1413 1499,1414 1495,1414 1495,1415 1474,1415 1474,1416 1469,1416 1469,1417 1463,1417 1463,1418 1380,1418 1380,1419 1374,1419 1374,1420 1368,1420 1368,1421 1061,1421 1061,1420 1056,1420 1056,1419 1050,1419 1050,1418 1034,1418 1034,1417 1030,1417 1030,1416 1026,1416 1026,1415 1022,1415 1022,1414 1018,1414 1018,1413 1014,1413 1014,1412 976,1412 976,1411 968,1411 968,1410 950,1410 950,1409 945,1409 945,1408 939,1408 939,1407 935,1407 935,1406 931,1406 931,1405 329,1405 329,1406 327,1406 327,1407 324,1407 324,1408 322,1408 322,1409 320,1409 320,1410 314,1410 314,1411 306,1411 306,1412 170,1412 170,570 169,570 169,466 170,466"/>
+	<TextEquiv conf="0.96443">
+	<Unicode>QUESTÃO 13
+Os sistemas de refrigeração de piscinas de combustível em usinas nucleares evitam que a temperatura
+desses tanques exceda o limite de segurança. O circuito representado na figura a seguir atende aos
+requisitos necessários para o controle da ativação do sistema de resfriamento quando a temperatura está
+próxima de seu ponto crítico.
+O diagrama de tempo ilustrado na figura apresenta uma amostra das temperaturas lidas desde o momento
+t, ao t,. Os sinais de entrada Ta, Tb e Tc são de termômetros que medem a temperatura da piscina em
+diferentes pontos ao longo do dia e S é o terminal de acionamento do sistema.
+Nesse contexto, assinale a opção em que são apresentados os momentos em que o sistema foi
+acionado.
+A t,tet,
+B t, t,et,
+C t,tet,
+D t, t,et,
+E t, tjet,
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="467,1395 725,1395 725,1396 731,1396 731,1397 737,1397 737,1398 779,1398 779,1399 785,1399 785,1400 791,1400 791,1401 797,1401 797,1402 804,1402 804,1403 838,1403 838,1404 843,1404 843,1405 847,1405 847,1406 926,1406 926,1407 930,1407 930,1408 934,1408 934,1409 938,1409 938,1410 944,1410 944,1411 949,1411 949,1412 967,1412 967,1413 975,1413 975,1414 1013,1414 1013,1415 1017,1415 1017,1416 1021,1416 1021,1417 1025,1417 1025,1418 1029,1418 1029,1419 1033,1419 1033,1420 1049,1420 1049,1421 1055,1421 1055,1422 1060,1422 1060,1423 1369,1423 1369,1422 1375,1422 1375,1421 1381,1421 1381,1420 1464,1420 1464,1419 1470,1419 1470,1418 1475,1418 1475,1417 1496,1417 1496,1416 1500,1416 1500,1415 1504,1415 1504,1414 1536,1414 1536,1413 1542,1413 1542,1412 1546,1412 1546,1411 1550,1411 1550,1410 1554,1410 1554,1409 1576,1409 1576,1799 972,1799 972,1875 393,1875 393,2116 170,2116 170,1414 307,1414 307,1413 315,1413 315,1412 321,1412 321,1411 323,1411 323,1410 325,1410 325,1409 328,1409 328,1408 330,1408 330,1407 332,1407 332,1406 363,1406 363,1405 367,1405 367,1404 371,1404 371,1403 376,1403 376,1402 383,1402 383,1401 405,1401 405,1400 411,1400 411,1399 417,1399 417,1398 458,1398 458,1397 463,1397 463,1396 467,1396"/>
+	<TextEquiv conf="0.96467">
+	<Unicode>QUESTÃO 14
+Uma relação de equivalência é uma relação binária R em um conjunto A, tal que R é reflexiva, simétrica
+e transitiva.
+Considere as relações binárias apresentadas a seguir.
+e Rl=((0,0): ,beNea=);
+e R2=íf(a,0): ,beNea&lt;b);
+e R3=((a,0): ,beNea=b-1);
+):
+São relações de equivalência apenas o que se apresenta em
+A R2eR3.
+B RleR3.
+C RleR4.
+D R1, R2e R4.
+E R2, R3e RA.</Unicode></TextEquiv></TextRegion></Page></PcGts>

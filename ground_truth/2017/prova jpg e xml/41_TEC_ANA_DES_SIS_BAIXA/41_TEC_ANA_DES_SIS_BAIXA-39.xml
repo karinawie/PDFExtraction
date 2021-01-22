@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:21:22</Created>
+	<LastChange>2020-11-30T17:17:39</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-39.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="169,244 339,244 339,314 1575,314 1575,1080 1577,1080 1577,1192 1576,1192 1576,2109 170,2109 170,1838 169,1838 169,1192 168,1192 168,1080 169,1080"/>
+	<ImageRegion id="r1">
+	<Coords points="450,500 450,1027 1288,1027 1288,500"/></ImageRegion>
+	<TextEquiv conf="0.96776">
+	<Unicode>QUESTÃO 35
+Em um sistema web para venda de ingressos para shows musicais, a equipe de marketing solicitou a
+um web designer que, na página inicial, os links para a área de venda de ingressos de cada show fossem
+imagens, para tornar a navegação pelos conteúdos da página mais atrativa e para que o próprio link já
+servisse como material de divulgação.
+A partir do protótipo da página inicial apresentado e usando HTML, o web designer optou por implementar
+cada link de forma que a imagem forneça um texto informativo (por meio do atributo a1t) para usuários
+que usem leitores de tela, conforme a seguir.
+&lt;a href="link-area-venda-ingresso"&gt;
+&lt;img src="imagem-show.jpg" alt="identificação do show" /&gt;
+&lt;/a&gt;
+Considerando a situação apresentada, o uso do atributo alt e aspectos da interação humano-
+computador, pode-se afirmar que o web designer atendeu, em sua implementação, o requisito de
+O segurança no uso, pois se uma imagem tiver baixa resolução e impossibilitar a correta visualização, o
+texto informativo associado à imagem possibilita a identificação do conteúdo do respectivo link.
+O facilidade de aprendizado, pois a comunicação visual do sistema web, por meio do uso de imagens,
+aliada à comunicação textual, por meio do uso de textos informativos para cada imagem, ajuda o
+usuário a aprender os caminhos de navegação.
+O acessibilidade, pois a possibilidade de acesso à página por pessoas com deficiência visual, para
+que interajam com os conteúdos, oferece condições de igualdade às pessoas na interação com o
+sistema web.
+O ergonomia, pois o uso de imagens em links causa um cansaço visual quando o sistema web é
+aberto em um smartphone ou em um tablet com baixa resolução, e o atributo alt substitui a
+imagem por texto.
+O comunicabilidade, pois se uma imagem não comunica adequadamente a informação desejada, um
+texto alternativo deve complementar a respectiva informação, de forma que a interação com o sistema
+web não seja prejudicada.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:13:33</Created>
+	<LastChange>2020-09-12T18:15:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-16.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,231 1492,231 1492,301 789,301 789,300 622,300 622,428 687,428 687,472 1272,472 1272,492 1129,492 1129,493 770,493 770,495 675,495 675,653 711,653 711,819 825,819 825,842 642,842 642,1035 838,1035 838,1200 1122,1200 1122,1336 1491,1336 1491,1359 1485,1359 1485,1417 1275,1417 1275,1528 1196,1528 1196,1712 1275,1712 1275,1762 1196,1762 1196,1819 1116,1819 1116,1821 856,1821 856,1820 855,1820 855,1565 857,1565 857,1417 785,1417 785,1416 557,1416 557,1528 478,1528 478,1712 557,1712 557,1733 478,1733 478,1916 557,1916 557,1938 478,1938 478,2024 319,2024 319,2025 137,2025 137,1565 139,1565 139,1416 85,1416 85,1415 84,1415 84,1387 166,1387 166,1223 162,1223 162,1222 161,1222 161,1035 182,1035 182,986 284,986 284,873 257,873 257,670 185,670 185,653 186,653 186,538 185,538 185,495 162,495 162,494 161,494 161,397 84,397 84,396 83,396 83,374 84,374"/>
+	<TextEquiv conf="0.90537">
+	<Unicode>QUESTÃO 09
+O MergeSort é um método de ordenação que combina dois vetores ordenados e cria um terceiro vetor
+maior também ordenado. O algoritmo abaixo apresenta essa ideia e combina os vetores a[lo..mid]
+e a[mid+1..hi] no vetor a[lo..hi].
+public class MergeSort {
+private static Comparable[] aux;
+public static void merge(Comparable[] a, int lo, int mid, int hi) {
+int i = lo, j = mid+1;
+for (int k = lo; k &lt;= hi; k++)
+aux[k] = a[k];
+for (int k = lo; k &lt;= hi; k++) {
+if (i &gt; mid)
+a[k] = aux[j++];
+else if (j &gt; hi )
+a[k] = aux[i++];
+else if (aux[j].compareTo(aux[i]))
+a[k] = aux[j++];
+else
+a[k] = aux[i++];
+}
+}
+public static void sort(Comparable[] a) {
+aux = new Comparable[a.length];
+sort(a, 0, a.length - 1);
+}
+private static void sort(Comparable[] a, int lo, int hi) {
+//implementação
+}
+}
+SEDGEWICK, R.; WAYNE, K. Algorithms. 4. ed. Boston: Addison-Wesley, 2011 (adaptado).
+Considerando o código apresentado, a implementação do protótipo do método sort da classe MergeSort é
+A if (hi == lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid, hi);
+merge(a, lo, mid, hi);
+B
+if (hi &gt; lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid, hi);
+merge(a, lo, mid, hi);
+C
+if (hi &lt;= lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid, hi);
+merge(a, lo, mid, hi);
+D
+if (hi &gt; lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid+1, hi);
+merge(a, lo, mid, hi);
+E
+if (hi &lt;= lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid+1, hi);
+merge(a, lo, mid, hi);</Unicode></TextEquiv></TextRegion></Page></PcGts>

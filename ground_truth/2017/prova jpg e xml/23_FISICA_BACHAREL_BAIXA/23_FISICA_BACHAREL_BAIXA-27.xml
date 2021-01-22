@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:50:32</Created>
+	<LastChange>2020-11-27T21:00:21</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,309 1576,309 1576,1839 1394,1839 1394,2025 1180,2025 1180,2070 763,2070 763,2114 169,2114 169,1324 164,1324 164,1118 168,1118 168,309 169,309"/>
+	<ImageRegion id="r2">
+	<Coords points="316,644 316,1102 1575,1102 1575,644"/></ImageRegion>
+	<TextEquiv conf="0.95554">
+	<Unicode>QUESTÃO 29
+No início da década de 1920, os físicos Otto Stern e Walter Gerlach realizaram um experimento
+para confirmar a hipótese da quantização espacial proposta por Arnold Sommerfeld como um
+aprimoramento do modelo atômico de Niels Bohr. Nessa experiência, átomos de prata aquecidos em
+um forno foram colimados por uma fenda e passaram entre os polos de um eletroímã, cujo campo
+magnético não era uniforme e variava na coordenada perpendicular (z) ao plano (xy) do feixe. Sem o
+campo magnético, esse feixe atingia uma placa de vidro e deixava um traço que reproduzia a forma da
+fenda (figura 1). Entretanto, com o campo magnético, o feixe formava um traço dividido na forma de
+um “lábio entreaberto” (figura 2). Em 1927, o experimento foi refeito com átomos de hidrogênio e o
+resultado foi o mesmo.
+Na hipótese de Sommerfeld, o momento magnético de um átomo é quantizado e a mecânica quântica
+prevê atualmente que a componente z do momento angular magnético possa ter 2j +1 valores, em
+que j é o número quântico associado ao momento angular total do átomo. Se j = O, correspondente ao
+momento angular zero do átomo, o momento magnético será zero e não haverá deflexão dos átomos. Se
+j=1, existirão três orientações possíveis da componente z do momento magnético, e o feixe original dos
+átomos será dividido em três feixes.
+TIPLER, P. Física: - Ótica e Física Moderna. v. 4. 3. ed. Rio de Janeiro: Ltc, 1995 (adaptado).
+Com relação à interpretação atual da mecânica quântica a respeito do experimento exposto, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. A prata (Z = 47) possui apenas um elétron de valência no subnível 5s e pode ser aproximada para
+um átomo de um elétron com seu movimento orbital e, desse modo, o não surgimento de uma
+terceira linha central entre os “lábios” na placa de vidro resulta da interação do campo magnético
+externo produzido pelo eletroímã com o magnetismo do movimento orbital de cada elétron
+isoladamente, e que não possui o momento magnético zero.
+PORQUE
+Il. Existem apenas dois vetores possíveis, duas orientações da componente z, correspondentes aos
+dois spins do elétron, aos quais são atribuídos os números quânticos -1/2 e +1/2 oriundos das duas
+direções de movimento de rotação (spin) do elétron.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e Il é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é a justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:35:28</Created>
+	<LastChange>2020-09-18T02:37:22</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="179,537 178,926 845,926 846,537"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 871,2112 874,2112 875,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,1569 555,1569 555,1630 350,1630 350,1757 407,1757 407,1884 170,1884 170,1596 218,1596 218,1238 169,1238 169,495 168,495 168,312 169,312"/>
+	<TextEquiv conf="0.94688">
+	<Unicode>QUESTÃO 24
+A figura a seguir exibe um grafo que representa um
+mapa rodoviário, no qual os vértices representam
+cidades e as arestas representam vias. Os pesos
+indicam o tempo atual de deslocamento entre
+duas cidades.
+Considerando que os tempos de ida e volta são
+iguais para qualquer via, avalie as afirmações a
+seguir acerca desse grafo.
+|. Dado o vértice de origem 1, o algoritmo
+de Dijkstra encontra o menor tempo de
+deslocamento entre a cidade i e todas as
+demais cidades do grafo.
+ll. Uma árvore geradora de custo mínimo
+gerada pelo algoritmo de Kruskal contém
+um caminho de custo mínimo cuja origem
+é i e cujo destino é k.
+Ill. Se um caminho de custo mínimo entre os
+vértices i e k contém o vértice w, então o
+subcaminho de origem w e destino k deve
+também ser mínimo.
+É correto o que se afirma em
+A |, apenas.
+B |l, apenas.
+C l e lll, apenas.
+D II E III, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1575,312 1575,542 1519,542 1519,598 1158,598 1158,738 1218,738 1218,792 1387,792 1387,793 1560,793 1560,850 1577,850 1577,1067 1576,1067 1576,1068 1575,1068 1575,1170 1576,1170 1576,1323 1277,1323 1277,1379 1128,1379 1128,1632 891,1632 891,1410 892,1410 892,1345 985,1345 985,1156 940,1156 940,1155 939,1155 939,1068 891,1068 891,1067 890,1067 890,1066 891,1066 891,849 971,849 971,651 896,651 896,597 891,597 891,542 890,542 890,541 889,541 889,312 890,312"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 25
+A sequência de Fibonacci é uma sequência de
+números inteiros que começa em 1, a que se
+segue 1, e na qual cada elemento subsequente é
+a soma dos dois elementos anteriores. A função
+fib a seguir calcula o n-ésimo elemento da
+sequência de Fibonacci:
+unsigned int fib
+(
+(unsigned int n)
+if (n &lt; 2)
+return 1;
+return fib(n -— 2) + fib (n — 1);
+J
+Considerando a implementação acima, avalie as
+afirmações a seguir.
+|. A complexidade de tempo da função fib é
+exponencial no valor de n.
+Il. A complexidade de espaço da função fib é
+exponencial no valor de n.
+III.É possível implementar uma versão iterativa
+da função fib com complexidade de tempo
+linear no valor de n e complexidade de
+espaço constante.
+É correto o que se afirma em
+A |, apenas.
+B II, apenas.
+C I E III, apenas.
+D II E III, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

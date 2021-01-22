@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:33:07</Created>
+	<LastChange>2020-09-17T19:36:34</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-19.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="463,357 463,665 1157,665 1157,357"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 107,181 107,182 277,182 277,249 1162,249 1162,250 1513,250 1513,318 974,318 974,744 1173,744 1173,745 1512,745 1512,908 492,908 492,964 345,964 345,1218 344,1218 344,1219 107,1219 107,716 106,716"/>
+	<TextEquiv conf="0.96783">
+	<Unicode>QUESTÃO 12
+Considere a tabela a seguir que apresenta dados referentes a aplicações em três ativos hipotéticos, com
+respectivos retornos e probabilidades.
+Com base nos dados apresentados, avalie as afirmações a seguir.
+|. Oretorno esperado dos ativos A e B é o mesmo, mas a variabilidade do retorno do Ativo B é menor.
+Il. O coeficiente de variação do Ativo C é superior ao coeficiente de variação do Ativo B.
+Ill. Na comparação entre os Ativos A e B, um investidor neutro em relação ao risco tem preferência
+pelo Ativo A.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

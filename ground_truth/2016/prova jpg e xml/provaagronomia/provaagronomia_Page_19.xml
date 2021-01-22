@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T22:58:58</Created>
+	<LastChange>2020-09-18T22:59:10</LastChange></Metadata>
+	<Page imageFilename="provaagronomia_Page_19.jpeg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="413,630 413,1033 1608,1033 1608,630"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="145,243 349,243 349,315 1599,315 1599,316 1600,316 1600,611 1598,611 1598,1300 1599,1300 1599,1371 1598,1371 1598,1552 147,1552 147,1553 146,1553 146,612 145,612"/>
+	<TextEquiv conf="0.82359">
+	<Unicode>QUESTÃO 21 .
+Um experimento foi realizado para avaliar os efeitos de diferentes doses de nitrogênio aplicadas no solo
+sobre a produção de matéria seca do capim Tanzânia (Pannicum maximum cv. Tanzânia) cultivado de
+forma irrigada em um local de latossolo vermelho-amarelo, com textura argilosa. As doses empregadas no
+experimento foram de 200, 400 e 800 kg de nitrogênio por hectare, sendo utilizada a ureia como fertilizante.
+Além disso, foi mantida uma área onde não houve aplicação de nitrogênio. A tabela a seguir apresenta as
+equações de regressão obtidas para cada estação do ano, relacionando a dose de nitrogênio aplicada no solo
+(X, em kg/ha) com a produção acumulada de matéria seca do capim Tanzânia (Y, em kg/ha).
+Com base nesse contexto e nas informações apresentadas na tabela, assinale a opção em que é apresentada
+uma conclusão do experimento.
+A Na ausência de adubação nitrogenada, não haverá acúmulo de matéria seca no inverno.
+B Em todas as estações do ano e para todas as doses obteve-se acúmulo de matéria seca em função da
+aplicação de adubo nitrogenado.
+C A produção acumulada de matéria seca apresentou resposta linear à adubação nitrogenada em todas as
+estações do ano.
+D O aumento da adubação nitrogenada poderá resultar em redução na produção acumulada de matéria
+seca na primavera.
+E Para cada 100 kg de nitrogênio aplicado no solo na primavera, obteve-se um aumento de 349,4 kg na
+produção acumulada de matéria seca por hectare.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T23:36:57</Created>
+	<LastChange>2020-09-17T23:38:03</LastChange></Metadata>
+	<Page imageFilename="01_ARQ_URB_BACHAREL_BAIXA-19.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="471,538 470,1510 1275,1510 1276,538"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 169,245 339,245 339,290 1577,290 1577,425 1575,425 1575,1619 1576,1619 1576,1852 1575,1852 1575,1853 1438,1853 1438,2034 1180,2034 1180,2073 763,2073 763,2112 169,2112 169,1908 168,1908 168,1529 169,1529 169,319 168,319 168,290 169,290"/>
+	<TextEquiv conf="0.95587">
+	<Unicode>QUESTÃO 11
+Treliças são sistemas triangulados formados por elementos rígidos e conectados entre si por meio de
+articulações/nós. As treliças planas são estruturas simples, práticas e econômicas, que podem suportar
+cargas elevadas comparativamente ao seu peso e que conferem um aspecto de leveza à edificação.
+Disponível em: &lt;https://www.researchgate.net&gt;. Acesso em: 20 jul. 2017 (adaptado).
+O uso do sistema em treliça plana pode ser observado nas imagens a seguir, do novo edifício Milstein Hall,
+pertencente à Universidade de Cornell, no qual observa-se um grande balanço e uma laje livre com cerca
+de 2 300 m? e 3,60 m de pé direito.
+Disponível em: &lt;http://www.archdaily.com&gt;. Acesso em: 21 jul. 2017 (adaptado).
+A respeito do sistema estrutural em treliça plana, avalie as asserções a seguir e a relação proposta entre elas.
+|. Nas treliças, as cargas são aplicadas somente nos nós, não havendo qualquer transmissão de
+momento fletor entre os seus elementos e, assim, as barras ficam sujeitas apenas a esforços
+normais de tração ou compressão.
+PORQUE
+Il. Os nós, considerados articulações perfeitas, devem estar isentos de qualquer possibilidade de
+atrito ou outras forças que impeçam a livre rotação das barras em relação ao nó.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções | e Il são proposições verdadeiras, e a |l é uma justificativa correta da |.
+B As asserções | e Il são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

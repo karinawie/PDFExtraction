@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:05:09</Created>
+	<LastChange>2020-09-11T20:05:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-28.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="573,457 573,789 1007,789 1007,457"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="81,1155 81,1605 1500,1605 1500,1155"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="289,1673 289,2057 1271,2057 1271,1673"/></TableRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="83,179 1492,179 1492,449 1491,449 1491,887 992,887 992,1077 582,1077 582,1084 540,1084 540,1633 963,1633 963,1660 85,1660 85,1661 84,1661 84,450 83,450"/>
+	<TextEquiv conf="0.90887">
+	<Unicode>QUESTÃO 31 EE aaa aa aa aa a a a aa a a A,
+No projeto de determinada estrutura localizada em ambiente com classe de agressividade ambiental muito
+forte, foram consideradas apenas armaduras longitudinais de 16 e 20 mm de diâmetro. Tal medida foi
+adotada com o propósito de padronizar as armaduras dos elementos. No dimensionamento de uma viga
+baldrame, representado na figura a seguir, o estribo utilizado possui diâmetro de 6,3 mm. Sabe-se também
+que o concreto empregado na obra foi produzido com capacidade de resistir às agressões provenientes do
+meio externo e com agregado graúdo de dimensão máxima de 19 mm.
+ah ≥
+2 cm
+(diâmetro da barra)
+1,2.dmáx
+Seção transversal da viga baldrame
+Nesse projeto, foram ainda considerados critérios previstos pela NBR 6118 de 2014 — Projeto de estruturas
+de concreto - procedimento, conforme apresentados a seguir.
+Espaçamento horizontal entre barras
+Classe de agressividade ambiental
+Correspondência entre a agressividade ambiental e o cobrimento</Unicode></TextEquiv></TextRegion></Page></PcGts>

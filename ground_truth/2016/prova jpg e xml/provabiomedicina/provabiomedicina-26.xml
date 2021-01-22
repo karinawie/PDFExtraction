@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T00:06:00</Created>
+	<LastChange>2020-09-19T00:07:50</LastChange></Metadata>
+	<Page imageFilename="provabiomedicina-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="869,254 872,2073 876,2073 873,254"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="888,547 888,977 1616,977 1616,547"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,243 855,243 855,311 856,311 856,540 854,540 854,703 855,703 855,1443 854,1443 854,1778 637,1778 637,1880 271,1880 271,1994 295,1994 295,2042 302,2042 302,2072 147,2072 147,2073 146,2073 146,1801 240,1801 240,1444 239,1444 239,1237 194,1237 194,1216 221,1216 221,1215 222,1215 222,1214 239,1214 239,726 194,726 194,677 146,677 146,312 145,312"/>
+	<TextEquiv conf="0.95537">
+	<Unicode>QUESTÃO 31
+Leveduras do gênero Candida são responsáveis por
+infecções superficiais e sistêmicas, principalmente
+em pacientes imunodeprimidos. Em micologia, o
+uso de ágar cromogênico auxilia na identificação
+presuntiva das espécies mais comumente isoladas de
+leveduras desse gênero.
+Com relação às metodologias utilizadas para a
+identificação e isolamento dessas leveduras, avalie
+as afirmações a seguir.
+|. O ágar cromogênico candida é o meio de
+cultura indicado para isolamento seletivo
+e identificação de leveduras e fungos
+filamentosos, com a propriedade para a
+diferenciação de Candida albicans, Candida
+krusei e Candida tropicalis.
+II.A inclusão de substratos cromogênicos no
+meio de cultura faz que as colônias de Candida
+albicans, Candida krusei e Candida tropicalis
+produzam diferentes cores, o que permite a
+detecção direta dessas espécies de leveduras
+na placa.
+Ill. Apesar de ser uma metodologia considerada
+sensível e específica para a identificação
+presuntiva das espécies mais comumente
+isoladas de leveduras do gênero Candida,
+a técnica de ágar cromogênico apresenta
+limitações por não diferenciar Candida
+glabrata e Candida parapsilosis.
+IV.O meio de cultura ágar Sabouraud Dextrose
+com cloranfenicol e o de ágar cromogênico
+para Candida são eficazes para o isolamento
+de leveduras, sendo o ágar Sabouraud
+Dextrose o que apresenta maior eficácia
+na identificação presuntiva da maioria das
+leveduras do gênero Candida.
+É correto apenas o que se afirma em
+A I e IV.
+B II e III.
+C II e IV.
+D I, II e III.
+E I, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="890,243 1600,243 1600,1288 1599,1288 1599,1543 938,1543 938,1544 937,1544 937,1201 891,1201 891,313 890,313"/>
+	<TextEquiv conf="0.04446">
+	<Unicode>QUESTÃO 32
+Anticorpos específicos contra o HBV, bem como a
+pesquisa por antígenos e ácidos nucleicos virais,
+são importantes indicadores de estágios específicos
+da doença. A figura a seguir mostra a evolução
+dos marcadores do vírus da hepatite B (HBV) nas
+infecções agudas e crônicas.
+Com base nas informações apresentadas, assinale a opção correta
+A HBsAg, anti-HBc total e anti-HBs não reagentes
+indicam contato prévio com o HBV.
+B HBsAg reagente, anti-HBc total reagente e anti-HBs
+não reagente indicam infecção pelo HBV.
+C HBsAg, anti-HBc total e anti-HBs reagentes
+indicam imunização após vacinação contra o HBV.
+D HBsAg, anti-HBc total e anti-HBs não reagentes
+indicam imunização após infecção pelo HBV.
+E HBsAg não reagente, anti-HBc total reagente,
+e anti-HBs reagentes indicam imunização após
+vacinação contra o HBV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

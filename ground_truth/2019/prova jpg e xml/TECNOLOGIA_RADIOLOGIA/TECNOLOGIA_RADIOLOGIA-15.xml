@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:44:49</Created>
+	<LastChange>2020-09-13T22:46:53</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-15.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r3">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="186,826 186,1410 781,1410 781,826"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,243 769,243 769,244 770,244 770,813 769,813 769,1697 770,1697 770,1760 470,1760 470,1812 322,1812 322,2032 84,2032 84,1572 83,1572 83,243 84,243"/>
+	<TextEquiv conf="0.96585">
+	<Unicode>QUESTÃO 09
+Detectores a gás são constituídos de um capacitor
+preenchido com um gás (ou mistura de gases)
+isolante elétrico. Entre os eletrodos do capacitor
+é aplicada uma diferença de potencial que tem
+a função de direcionar as cargas liberadas no
+gás aos eletrodos de sinal contrário. As paredes
+externas desses detectores podem ser seletivas
+para algum tipo de radiação. Por exemplo, para
+detectar partículas alfa e beta de baixa energia,
+os detectores devem ter uma “janela” muito fina
+para que a partícula entre no volume sensível; para
+detectar raios gama, é interessante que a janela
+seja espessa, de modo que a probabilidade do fóton
+interagir nela ou no volume sensível seja grande.
+Um exemplo de detector a gás muito utilizado na
+radiologia é o Geiger-Múller, ilustrado a seguir.
+Considerando as informações sobre detectores a
+gás, avalie as afirmações a seguir.
+|. O elemento sensível citado no texto é
+representado na figura pela letra A.
+Il. O elemento sensível é o local onde as
+radiações são detectadas a partir do
+processo de excitação.
+Ill. O Geiger-Múller é utilizado para discriminar
+diferentes tipos de radiação.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="805,179 977,179 977,247 1490,247 1490,248 1491,248 1491,1308 1192,1308 1192,1364 1043,1364 1043,1571 955,1571 955,1618 806,1618 806,1396 807,1396 807,1331 854,1331 854,837 806,837 806,768 839,768 839,635 805,635"/>
+	<TextEquiv conf="0.96691">
+	<Unicode>QUESTÃO 10
+A produção de uma imagem por ressonância
+magnética exige a realização de vários processos,
+incluindo sua aquisição e formação. Para tanto,
+são necessários diversos componentes do sistema,
+como hardware (instrumentação ou equipamento)
+e software (sequências de pulso e programas de
+constituição de imagem). Os processos incluem
+o alinhamento dos núcleos de hidrogênio, a sua
+excitação por radiofrequência, a codificação
+espacial e a concepção da imagem.
+WESTBROOK, C.; ROTH, C. K.; TALBOT, J. Ressonância magnética:
+aplicações práticas. 4. ed. Rio de Janeiro:
+Guanabara Koogan, 2013 (adaptado).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. O alinhamento dos núcleos de hidrogênio
+é consequência da ação de um campo
+magnético de alta intensidade gerado pelo
+magneto.
+Il. A fonte de radiofrequência excita os núcleos
+do átomo de hidrogênio gerando o fenômeno
+de precessão e a consequente detecção do
+sinal por uma bobina receptora.
+Ill. Os gradientes do campo magnético são
+responsáveis pela localização espacial dos
+sinais de radiofrequência.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

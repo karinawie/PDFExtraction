@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:24:50</Created>
+	<LastChange>2020-09-12T22:24:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-12.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="84,179 429,179 429,247 1490,247 1490,383 1491,383 1491,626 1489,626 1489,818 788,818 788,819 86,819 86,820 85,820 85,724 84,724 84,654 85,654 85,526 84,526"/>
+	<TextEquiv conf="0.96549">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Um dos componentes mais usados na reprodução sonora é o alto-falante. A conexão de alto-falantes em
+circuitos amplificadores deve ser realizada de forma adequada para se obter o melhor aproveitamento da
+potência do amplificador, bem como evitar sobrecarga.
+Suponha um amplificador de som que tenha como característica nominal por canal de saída uma
+impedância interna de 8 O e uma potência de saída de 200 W. Deseja-se conectar alto-falantes a uma
+saída desse amplificador, estando disponíveis, para tanto, alto-falantes de impedância de 4 O, de 5Q
+ede6O.
+Utilizando-se da menor quantidade possível de alto-falantes e objetivando a máxima transferência de
+potência do amplificador, faça o que se pede nos itens a seguir.
+a) Determine a quantidade de alto-falantes e represente o circuito de conexão entre ele(s) e o amplificador.
+Justifique sua resposta. (valor: 6,0 pontos)
+b) Determine a mínima capacidade de potência de cada alto-falante para operação sem sobrecarga.
+Justifique sua resposta. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

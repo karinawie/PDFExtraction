@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T03:19:53</Created>
+	<LastChange>2020-09-09T03:20:00</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-21.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="141,404 146,1250 1433,1242 1428,396"/></ImageRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1392,411 1392,421 1352,421 1352,422 1351,422 1351,411"/>
+	<TextEquiv conf="0.56973">
+	<Unicode>ER</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 254,179 254,252 1491,252 1491,1724 1492,1724 1492,1794 1317,1794 1317,1795 1141,1795 1141,1796 965,1796 965,1797 790,1797 790,1798 614,1798 614,1799 438,1799 438,1800 262,1800 262,1801 87,1801 87,1802 86,1802 86,1725 85,1725 85,1546 84,1546 84,1294 85,1294 85,210 84,210"/>
+	<TextEquiv conf="0.95965">
+	<Unicode>QUESTÃO 15
+Uma área de expansão urbana tem como limites de implantação um bairro já consolidado, uma
+rodovia federal e um corpo hídrico de relevância para o município, além da interferência de um distrito
+industrial e da Estação de Tratamento de Esgoto (ETE).
+Disponível em: &lt;www.maps.google.com&gt;. Acesso em: 19 jun. 2019 (adaptado).
+Considerando as informações apresentadas, é correto afirmar que
+O a área de expansão respeita o traçado urbano predominante do bairro consolidado.
+O o distrito industrial não compromete a qualidade do ar do bairro consolidado, em função da distância
+entre os dois.
+O a rodovia federal é uma barreira que contribui para a preservação da qualidade ambiental no bairro.
+O a localização da área de expansão deixou de observar os critérios de preservação da mata ciliar dos
+corpos hídricos lindeiros.
+O a escassa vegetação remanescente no entorno da área de expansão é insuficiente como barreira de
+impacto sonoro e ambiental.</Unicode></TextEquiv></TextRegion></Page></PcGts>

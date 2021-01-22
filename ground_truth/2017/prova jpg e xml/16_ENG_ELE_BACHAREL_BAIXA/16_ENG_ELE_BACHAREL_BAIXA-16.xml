@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:48:53</Created>
+	<LastChange>2020-11-27T17:10:05</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="170,244 513,244 513,312 1575,312 1575,502 1362,502 1362,798 1241,798 1241,1084 885,1084 885,1085 528,1085 528,1086 171,1086 171,1087 170,1087 170,1031 168,1031 168,313 169,313 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="386,516 386,730 1352,730 1352,516"/></ImageRegion>
+	<TextEquiv conf="0.89111">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Em telecomunicações, é fundamental o estudo dos sinais que se propagam por meio de sistemas,
+tais como filtros, atenuadores, amplificadores e linhas de transmissão. Na análise desses sistemas, os
+conceitos de função de transferência e resposta ao impulso são essenciais. Nesse contexto, considere
+o diagrama de blocos de um sistema linear discreto no tempo, representado a seguir, cuja entrada
+corresponde a x/n/ e sua resposta ao impulso, a h/n/.
+Assuma que hh/n/=0 e x/n/=0 para n&lt;O0 e n&gt;1,e que a saída y/n/ pode ser obtida por
+o
+yln)= "&gt;" x n—k]hlk]
+k=-00
+A partir das informações apresentadas, faça o que se pede nos itens a seguir.
+a) Determine a saída y/n/ do sistema. (valor: 6,0 pontos)
+b) Represente graficamente y/n/ para o intervalo —2 &lt; n &lt; 3. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:59:07</Created>
+	<LastChange>2020-11-21T00:08:52</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,976 1578,976 1578,1204 1353,1204 1353,1379 1568,1379 1568,1542 891,1542 891,1204 890,1204"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 21
+Um microcontrolador controla o dispositivo
+em que ele se encontra embutido através da
+sua interface de programação de aplicativos
+(API). Essencialmente, essa interface consiste
+em um conjunto de registradores de dados, de
+controle e de estado. Em um microcontrolador
+hipotético, os bits 5, 4 e 3 do registrador de
+controle MODOEVENTO de 16 bits controlam
+a configuração do tipo de evento que gera um
+gatilho em um pino específico, conforme a
+seguinte codificação binária: 000 = desabilitado;
+001 = sensível a borda de subida; 010 = sensível
+a borda de descida; 011 = sensível a ambas as
+bordas; 100 = sensível a nível alto; 101 = sensível
+a nível baixo. O bit O, à extrema direita, é o menos
+significativo, e o bit 15, o mais significativo.
+Considerando-se essa situação e sabendo-se
+que, em linguagem C, os símbolos |, &amp; e -
+correspondem aos operadores lógicos bit a bit
+OR, AND e NOT, respectivamente, qual instrução
+em C deve ser utilizada para configurar o pino, de
+forma que ele fique sensível a ambas as bordas?
+O MODOEVENTO = 0x0018
+O MODOEVENTO |= 0x0018
+O MODOEVENTO &amp;= -0x0018
+O MODOEVENTO = (MODOEVENTO | 0x0018)
+&amp; -0x0038
+O MODOEVENTO= (MODOEVENTO &amp; - 0x0038)
+| 0x0018</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,621 853,621 853,948 555,948 555,1004 350,1004 350,1131 407,1131 407,1258 169,1258 169,1131 170,1131 170,970 218,970 218,773 170,773 170,621 168,621 168,312 169,312"/>
+	<TextEquiv conf="0.93007">
+	<Unicode>QUESTÃO 20
+Um compilador transforma uma linguagem,
+em geral textual, em outra linguagem. Um dos
+tipos de linguagens que um compilador pode
+transformar são as linguagens regulares, que
+podem ser descritas utilizando-se expressões
+regulares. compostas por símbolos isolados
+agrupados com operadores * e U e organizadas
+com auxílio de parênteses.
+Nesse contexto, avalie as afirmações a seguir.
+|. A palavra 10010100 pertence à linguagem
+representada por (100*)*.
+Il. A palavra 10010 pertence à linguagem
+representada por (1(10)*0)*.
+Ill. Existe somente uma expressão regular para
+representar uma linguagem regular.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

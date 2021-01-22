@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:58:08</Created>
+	<LastChange>2020-11-27T18:50:40</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r13">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<ImageRegion id="r14">
+	<Coords points="985,482 985,870 1482,870 1482,482"/></ImageRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="890,244 1061,244 1061,318 1575,318 1575,1435 1576,1435 1576,1473 1575,1473 1575,2058 1484,2058 1484,2112 891,2112 891,1634 890,1634 890,1147 889,1147 889,934 890,934"/>
+	<TextEquiv conf="0.96716">
+	<Unicode>QUESTÃO 28
+A figura a seguir representa um trem de
+engrenagens, em que cada uma delas está
+identificada por um número de 1 a 6.
+Considerando que a engrenagem 1 seja a motora
+do trem e seus números de dentes sejam,
+respectivamente, 2,= 21, 2,= 63, 2,= 21, 2,7 84,
+z,=21 e z,=63, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Desprezando-se as perdas, o torque na
+engrenagem 6 é 36 vezes maior que o
+torque na engrenagem 1.
+PORQUE
+Il. Em um trem de engrenagens, o torque
+ea angular
+proporcionalmente à relação de transmissão.
+velocidade aumentam
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras,
+mas a ll não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="169,244 340,244 340,314 854,314 854,839 673,839 673,973 683,973 683,1022 743,1022 743,1072 800,1072 800,1103 170,1103 170,1104 170,955 169,955"/>
+	<TextEquiv conf="0.96673">
+	<Unicode>QUESTÃO 26
+Uma empresa de saneamento básico, visando à
+redução do consumo energético, instalou, em suas
+estações de tratamento de água, bombas de alta
+eficiência. As novas bombas possuem dispositivos
+para monitoramento e controle contínuos.
+Entre os parâmetros monitorados nas bombas
+de alta eficiência, incluem-se temperatura dos
+rolamentos do motor e da bomba, rotação do
+motor e vazão da bomba.
+Para a captação dos dados relacionados a esses
+parâmetros, são utilizados, respectivamente,
+os seguintes instrumentos de medição:
+O voltímetro, encoder e rotâmetro.
+O termopar, tacômetro e rotâmetro.
+O tacômetro, rotâmetro e pirômetro.
+O termopar, pirômetro e tubo de Venturi.
+O voltímetro, amperímetro e tubo de Venturi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="169,1137 340,1137 340,1207 854,1207 854,1851 286,1851 286,2116 169,2116"/>
+	<ImageRegion id="r3">
+	<Coords points="166,1336 166,1725 855,1725 855,1336"/></ImageRegion>
+	<TextEquiv conf="0.96565">
+	<Unicode>QUESTÃO 27
+Na figura a seguir, está representado um parafuso
+com diâmetro de 20 mm, fabricado em aço carbono
+solicitado por carga F de 12 kN.
+Com base nesses dados, conclui-se que a tensão de
+cisalhamento (em MPa) no parafuso corresponde a
+O 15/n.
+O 20/r.
+OQ 24/r.
+O 30/nr.
+O 120/r.</Unicode></TextEquiv></TextRegion></Page></PcGts>

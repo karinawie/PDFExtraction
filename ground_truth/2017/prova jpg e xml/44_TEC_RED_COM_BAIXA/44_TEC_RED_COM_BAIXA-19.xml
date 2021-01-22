@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:56:22</Created>
+	<LastChange>2020-11-30T18:35:11</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-19.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1577,312 1577,541 1576,541 1576,959 1577,959 1577,1028 1575,1028 1575,1335 1577,1335 1577,1478 1381,1478 1381,1540 1073,1540 1073,1794 891,1794 891,1571 892,1571 892,1506 985,1506 985,1324 937,1324 937,1295 939,1295 939,1127 984,1127 984,1081 985,1081 985,982 939,982 939,677 890,677"/>
+	<TextEquiv conf="0.96532">
+	<Unicode>QUESTÃO 13
+O protocolo IPv6 foi desenvolvido para substituir
+o IPVv4, tendo sua implementação ocasionado
+várias mudanças importantes, como a capacidade
+de endereçamento expandida, o cabeçalho
+aprimorado de 40 bytes e a rotulação de fluxo e
+prioridade.
+Considerando essas informações, avalie as
+afirmações a seguir, relativas à descrição dos
+campos do cabeçalho IPv6.
+|. Em "endereço de origem" e "endereço de
+destino" cada campo possui 64 bits, tendo
+sido expandidos os 32 bits usados no IPv4.
+Il. Em se tratando do cabeçalho IPv6, insere-se o
+valor 32 no campo "versão", de 4 bits que é
+usado para identificar a versão do protocolo |P.
+III.O campo "próximo cabeçalho" identifica o
+protocolo ao qual os dados presentes no
+datagrama serão entregues, por exemplo,
+TCP ou UDP.
+IV. No |Pv6, o campo "classe de tráfego", de
+8 bits, é semelhante ao campo "tipo de
+serviço" do IPVv4, ambos utilizados para
+diferenciar os tipos de pacotes |P.
+V. O valor do campo “limite de saltos" é
+decrementado em um para cada roteador
+que repassa o pacote; caso a contagem do
+limite de salto chegue a zero, o pacote será
+descartado.
+É correto apenas o que se afirma em
+O leiv.
+O Le.
+OLWIev
+O MM, Vev.
+OI, IVeV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,315 855,315 855,686 854,686 854,1144 855,1144 855,1305 854,1305 854,1785 170,1785 170,1305 169,1305 169,1144 170,1144 170,838 169,838 169,686 168,686 168,315 169,315"/>
+	<TextEquiv conf="0.95954">
+	<Unicode>QUESTÃO 12
+Desenvolver um projeto de redes de
+computadores é uma atividade complexa,
+pois envolve componentes com características
+distintas, como os observados nos elementos
+físicos, além de uma gama extensa de protocolos
+necessários para o seu funcionamento lógico.
+Por essa razão, é necessária a aplicação de uma
+metodologia que permita a um projeto atender
+aos requisitos determinados.
+Sabendo que a abordagem Top-Down é uma
+das metodologias adotadas para construção de
+projetos, assinale a alternativa correta.
+O A metodologia Top-Down consiste de três
+fases: projeto de rede lógica, projeto de rede
+física e documentação da rede.
+OA metodologia Top-Down restringe as
+alterações de projeto ao longo da execução,
+pois cada fase da metodologia é bem definida.
+O A metodologia Top-Down consiste em realizar
+uma estrutura analítica de projeto (EAP)
+definindo os projetos físico e lógico antes de sua
+execução.
+O A metodologia Top-Down considera para sua
+análise de requisitos as políticas e normas
+em uso no cliente, sendo as restrições
+orçamentárias e de pessoal tratadas em outras
+esferas de planejamento corporativo.
+O A metodologia Top-Down inspira-se no modelo
+RM-OS|I, em que há um foco nas metas do
+negócio do cliente, analisando os aplicativos,
+as sessões e o transporte de dados para que
+sejam selecionados os equipamentos e a mídia
+utilizada nas camadas mais baixas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T03:02:24</Created>
+	<LastChange>2020-09-15T03:04:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-21.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="944,418 944,807 1371,807 1371,418"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,250 770,250 770,917 233,917 233,1178 84,1178 84,770 83,770 83,569 84,569"/>
+	<TextEquiv conf="0.96456">
+	<Unicode>QUESTÃO 16
+O processo de produção de um polímero (P) a ser
+utilizado como biomaterial pode ocorrer por rota
+microbiológica. Esse processo é conduzido em um
+reator de mistura perfeita (CSTR) em fase aquosa,
+utilizando um resíduo agroindustrial rico em glicose
+(A) como substrato. A equação que representa essa
+reação é AP.
+A vazão volumétrica de entrada e saída do reator
+é de 25 L/min com uma concentração inicial de
+glicose de 1 mol/L. Considere a cinética da reação
+de primeira ordem com a constante cinética igual a
+0,2 min.
+Com base nas informações apresentadas, assinale a
+opção que apresenta o volume necessário do reator
+(em litros) para obter 95% de conversão de glicose.
+A 22,75 L.
+B 227,5L.
+C 555,0 L.
+D 2275L.
+E 5550 L.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,1215 255,1215 255,1289 770,1289 770,1640 768,1640 768,1756 219,1756 219,2041 85,2041 85,1640 83,1640 83,1289 84,1289"/>
+	<TextEquiv conf="0.96556">
+	<Unicode>QUESTÃO 17
+Uma caldeira hipotética foi projetada para gerar
+vapor saturado à pressão de 40 bar. Paratal, queima
+2 t/h de um óleo combustível de Poder Calorífico
+Inferior (PCI) médio de 50 MJ/kg e 2 000 m3/h
+de um gás residual cujo PCI médio é 35 MJ/m?.
+A eficiência de projeto dessa caldeira é de 600% e o
+AH considerado para a vaporização da água a
+40 bar é de 1 700 kJ/kg.
+Nesse contexto, assinale a opção que apresenta a
+produção de vapor esperada.
+A 20t/h.
+B 30t/h.
+C 140t/h.
+D 50t/h.
+E 60t/h.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="805,179 976,179 976,230 1491,230 1491,412 1490,412 1490,1011 1491,1011 1491,1149 1490,1149 1490,1380 1274,1380 1274,1792 1293,1792 1293,1921 1432,1921 1432,2018 806,2018 806,1380 805,1380 805,764 806,764 806,210 805,210"/>
+	<TextEquiv conf="0.96430">
+	<Unicode>QUESTÃO 18
+Uma placa metálica, cujas faces externas estão
+mantidas às temperaturas 77 e 7, por fluido de
+resfriamento, possui um aquecedor de resistência
+de espessura fina com fluxo térmico uniforme igual
+a 6, conforme representado na figura a seguir.
+z =L
+O balanço de energia diferencial dessa placa, em
+coordenadas cartesianas, pode ser expresso por
+oT o oT o/,oT o/, oT
+pc = k + k + k +o
+P| Ot Orl Ox) Ol dy) Oz| Oz
+em que p é a massa específica do material, C, éo
+calor específico do material, T é a temperatura,
+t é otempo e x, y, z são as variáveis nos eixos
+cartesianos.
+Considere o fluxo de calor dessa placa unidimensional
+na direção x, a condutividade térmica do material
+constante e a operação em regime permanente.
+Assinale a opção que apresenta a equação que
+descreve esse fenômeno.
+QT Ss
+ox? k
+o/,oT
+— kf;—|=0
+o | a
+ofoT) of(or 6
+? [a(8): (E) --t
+ory kJ /oflotT)l co
+º (8) = pe 6(2)) “o
+e é (+) o (+) 2 (+)
+Oxr| Ox Oy Oy Oz| Oz</Unicode></TextEquiv></TextRegion></Page></PcGts>

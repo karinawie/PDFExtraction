@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-14T03:20:35</Created>
+	<LastChange>2020-09-14T03:21:27</LastChange></Metadata>
+	<Page imageFilename="NUTRICAO-20.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,243 1492,243 1492,580 1490,580 1490,683 1491,683 1491,836 1492,836 1492,936 470,936 470,1092 322,1092 322,1180 85,1180 85,955 133,955 133,580 83,580 83,243 84,243"/>
+	<TextEquiv conf="0.95687">
+	<Unicode>QUESTÃO 17
+A manutenção do estado nutricional é essencial para preservação e recuperação da saúde. Apesar da alta
+prevalência, a desnutrição somente é diagnosticada em 50% dos pacientes internados. Neste sentido, o
+Ministério da Saúde reconheceu a importância do rastreamento do processo de desnutrição e tornou
+obrigatória a implantação de protocolos de triagem e de avaliação nutricional nos hospitais do Sistema
+Unico de Saúde (SUS).
+Disponível em: &lt;https://bvsms.saude.gov.br/bvs/publicacoes/manual terapia nutricional atencao especializada.pdf&gt;.
+Acesso em: 16 ago. 2019 (adaptado).
+Considerando um conjunto de indicadores utilizados para classificar o estado nutricional ou para avaliar
+o risco nutricional, associado à predição de complicações e mortalidade, avalie as afirmações a seguir.
+|. O diagnóstico nutricional se sobrepõe à triagem nutricional por ser mais rápido, prático, barato,
+não invasivo e efetivo no processo de identificação do risco de desnutrição.
+Il. A confiabilidade do instrumento de triagem nutricional é atributo importante, pois uma ferramenta
+somente pode ser válida se possuir resultados de elevada sensibilidade, positivos para pacientes
+que de fato são desnutridos, e de elevada especificidade, negativos para pacientes que não são
+desnutridos.
+Ill. Os testes de avaliação nutricional, desenvolvidos para detectar o grau da desnutrição, podem falhar
+na detecção do risco nutricional, o que justifica o uso dos métodos subjetivos ou combinados para
+identificação do paciente em risco nutricional ou desnutrição.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,1195 255,1195 255,1321 1491,1321 1491,1511 1347,1511 1347,1660 1491,1660 1491,1694 575,1694 575,1782 241,1782 241,2018 85,2018 85,1748 133,1748 133,1511 84,1511"/>
+	<TextEquiv conf="0.69694">
+	<Unicode>QUESTÃO 18
+Um paciente de 43 anos de idade com câncer no intestino está realizando sessões de quimioterapia e foi
+encaminhado ao nutricionista, pois apresenta sintomas de perda de peso, disgeusia, náuseas, inapetência
+e disfagia.
+Considerando essa situação, avalie as afirmações a seguir, acerca das orientações nutricionais importantes
+para esse paciente.
+|. É recomendável consumir carne vermelha para diminuir a disgeusia.
+Il. É recomendável utilizar temperos naturais nas preparações, como ervas, alho e cebola.
+Ill. É recomendável incentivar o consumo de alimentos ricos em cobre e zinco.
+IV. É recomendável evitar as preparações na forma pastosa, para que o valor calórico necessário seja
+atingido.
+É correto apenas o que se afirma em
+A I e II.
+B II e III.
+C III e IV.
+D I, II e IV.
+E I, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

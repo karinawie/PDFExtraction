@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:33:55</Created>
+	<LastChange>2020-09-12T19:34:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-15.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,183 1491,183 1491,402 1489,402 1489,526 1490,526 1490,690 812,690 812,691 133,691 133,692 132,692 132,596 84,596 84,526 132,526 132,404 84,404 84,308 83,308 83,279 84,279"/>
+	<TextEquiv conf="0.96011">
+	<Unicode>O robô será instalado sobre uma plataforma móvel (7º eixo) com liberdade de movimentar-se na direção
+do eixo Y da base e sendo este acionado por um fuso de esferas com passo de 25,4 mm.
+A partir da situação apresentada, determine:
+a) As equações que indicam as coordenadas X, Y, Z da ferramenta do robô em relação à sua base no
+sistema original, antes da instalação do 7º eixo. (valor: 2,0 pontos)
+B) Os parâmetros de D-H para o frame do 7º eixo, inserido antes do eixo da primeira articulação. (valor:
+3,0 pontos)
+C) As novas equações que indicam as coordenadas X, Y, Z da ferramenta em relação à base, após a
+instalação do 7º eixo. (valor: 3,0 pontos)
+D) menor deslocamento possível de ser medido no posicionamento do novo eixo, sendo a leitura
+realizada com um encoder absoluto de 8 bits. (valor: 2,0 pontos).</Unicode></TextEquiv></TextRegion></Page></PcGts>

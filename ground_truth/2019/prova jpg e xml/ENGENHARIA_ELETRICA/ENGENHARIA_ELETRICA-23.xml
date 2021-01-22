@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:37:57</Created>
+	<LastChange>2020-09-12T22:39:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-23.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r1">
+	<Coords points="785,181 787,2048 790,2048 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="123,621 123,1126 776,1126 776,621"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="831,731 831,1192 1468,1192 1468,731"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,179 255,179 255,247 771,247 771,595 769,595 769,1440 643,1440 643,1509 538,1509 538,1765 85,1765 85,1441 84,1441 84,248 83,248 83,247 84,247"/>
+	<TextEquiv conf="0.96430">
+	<Unicode>QUESTÃO 17
+O termo SWOT é um acrônimo das palavras
+strengths, weaknesses, opportunities e threats,
+que significam, respectivamente: forças, fraquezas,
+oportunidades e ameaças. A análise SWOT é
+uma ferramenta estrutural da administração,
+geralmente aplicada durante o planejamento
+estratégico com a finalidade de avaliar os
+ambientes internos e externos e formular
+estratégias de negócios para empresas.
+Determinada empresa de serviços de engenharia
+está realizando, no planejamento estratégico, a
+análise de seus ambientes de atuação. A variação
+cambial foi identificada como fator que afeta o
+ambiente de negócios da empresa em função
+das compras periódicas de equipamentos e
+componentes importados para composição de
+sistemas fotovoltaicos.
+Nesse contexto, a variação cambial é uma
+A força e uma ameaça.
+B ameaça e uma fraqueza.
+C oportunidade e uma força.
+D oportunidade e uma ameaça.
+E oportunidade e uma fraqueza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="805,179 976,179 976,244 1491,244 1491,245 1492,245 1492,721 1491,721 1491,1341 1492,1341 1492,1772 1192,1772 1192,1816 1043,1816 1043,1995 995,1995 995,2039 806,2039 806,1829 807,1829 807,1316 804,1316 804,1214 805,1214"/>
+	<TextEquiv conf="0.95940">
+	<Unicode>QUESTÃO 18
+No âmbito das comunicações móveis celulares,
+a propagação do sinal no canal sem fio é de
+extrema importância, pois seu desempenho estará
+diretamente associado à qualidade da informação
+entregue ao usuário. Nesse sentido, a análise da
+variação da taxa de erro de bit em função da relação
+sinal-ruído é um item importante para a validação
+de uma tecnologia, por exemplo.
+O gráfico a seguir ilustra a variação da taxa de erro de
+bit em função da relação sinal-ruído, considerando-
+se a modulação BPSK (Binary Phase Shift Keying)
+para dois tipos de canais, a saber: canal AWGN
+(Additive White Gaussian Noise) e o canal Rayleigh.
+Tendo como base o gráfico e considerando o
+desempenho da modulação BPSK nos dois tipos de
+canais, avalie as afirmações a seguir.
+I. O desempenho de uma informação
+transmitida no canal AWGN é melhor que a
+transmitida no canal Rayleigh.
+Il. A transmissão em canais AWGN torna-se
+inviável quando a relação sinal-ruído está
+acima de 10 dB.
+III.Quanto maior a relação sinal-ruído utilizada,
+melhor será o desempenho obtido com a
+transmissão dos dados.
+IV. Independentemente do tipo de canal, taxas
+de erro de bit próximas a 10 são preferíveis
+a taxas de erro próximas a 10º .
+É correto o que se afirma em
+A I e III, apenas.
+B I e IV, apenas.
+C II e III, apenas.
+D II e IV, apenas.
+E I, II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

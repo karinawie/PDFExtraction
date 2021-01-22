@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:23:15</Created>
+	<LastChange>2020-11-30T17:24:25</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,311 1575,311 1575,340 527,340 527,566 945,566 945,587 661,587 661,726 762,726 762,753 1161,753 1161,775 1127,775 1127,880 494,880 494,990 1577,990 1577,1058 741,1058 741,2058 169,2058 169,990 253,990 253,747 223,747 223,721 220,721 220,587 169,587 169,566 170,566 170,340 169,340"/>
+	<TextEquiv conf="0.93437">
+	<Unicode>QUESTÃO 25
+O fragmento de código C++, a seguir, contém a implementação da inserção de um nó em uma árvore binária.
+struct noArvore (
+int dado;
+noArvore *esquerda;
+noArvore *direita;
+Lj
+noArvore *insere (noArvore *arvore, int valor) (
+if (arvore == NULL) (
+arvore = new noArvore;
+arvore-&gt;esquerda = NULL;
+arvore-&gt;direita = NULL;
+arvore-&gt;dado = valor;
+) else if(ívalor &lt; arvore-&gt;dado) (
+arvore-&gt;esquerda = insere (arvore-&gt;esquerda, valor);
+)
+else (
+arvore-&gt;direita = insere (arvore-&gt;direita, valor);
+)
+return (arvore);
+Com base no exposto, assinale a opção que apresenta o fragmento de programa para imprimir os valores
+contidos nos nós, percorrendo a árvore em pré-ordem.
+o void preorder (noArvore *raiz) (
+if (raiz != NULL) (
+cout &lt;&lt; raiz-&gt;dado &lt;&lt; " ";
+preorder (raiz-&gt;esquerda);
+preorder (raiz-&gt;direita);
+)
+)
+O void preorder (noArvore *raiz) (|
+if (raiz != NULL) (
+preorder (raiz-&gt;direita);
+preorder (raiz-&gt;esquerda);
+cout &lt;&lt; raiz-&gt;dado &lt;&lt; " ";
+)
+O void preorder (noArvore *raiz) (|
+if (raiz != NULL) (
+preorder (raiz-&gt;esquerda);
+cout &lt;&lt; raiz-&gt;dado &lt;&lt; " ";
+preorder (raiz-&gt;direita);
+)
+O void preorder (noArvore *raiz) (
+if (raiz != NULL) (
+preorder (raiz-&gt;esquerda);
+preorder (raiz-&gt;direita);
+cout &lt;&lt; raiz-&gt;dado &lt;&lt; " ";
+)
+O void preorder (noArvore *raiz) (
+if (raiz != NULL) (
+preorder (raiz-&gt;direita);
+cout &lt;&lt; raiz-&gt;dado &lt;&lt; " ";
+preorder (raiz-&gt;esquerda);</Unicode></TextEquiv></TextRegion></Page></PcGts>

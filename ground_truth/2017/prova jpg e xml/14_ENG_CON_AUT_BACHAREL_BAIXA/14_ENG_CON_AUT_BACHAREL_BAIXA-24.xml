@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:33:04</Created>
+	<LastChange>2020-11-21T01:03:19</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="caption">
+	<Coords points="170,244 340,244 340,245 341,245 341,322 1576,322 1576,399 1225,399 1225,400 874,400 874,401 270,401 270,1241 1233,1241 1233,1457 1578,1457 1578,1828 1227,1828 1227,1829 875,1829 875,1830 170,1830 170,1459 169,1459 169,1333 170,1333 170,1332 171,1332 171,401 170,401"/>
+	<TextEquiv conf="0.95688">
+	<Unicode>QUESTÃO 21
+Uma equipe de engenharia foi encarregada de realizar a automação de um processo de dosagem e
+expedição, conforme ilustrado na figura a seguir.
+O referido processo tem início quando pressionado um botão Liga (BT Liga). As balanças BM1 e BM2
+funcionam em paralelo, de maneira semelhante: primeiro, é despejado o material de um dos silos até
+que seja disparado o sinal correspondente ao peso desejado do produto; em sequência, é despejado
+o material do segundo produto até que se obtenha um outro sinal correspondente ao peso desejado
+do produto. Após ser feita a dosagem de cada um dos produtos, as válvulas de saída das balanças
+(VBM1 e VBM2) devem ser abertas por 10 segundos para o seu esvaziamento e para a destinação ao
+carregamento de um caminhão na etapa de expedição. Para realizar uma nova dosagem, o botão Liga
+deve ser acionado novamente.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="169,402 169,1377 1308,1377 1308,402"/></ImageRegion></Page></PcGts>

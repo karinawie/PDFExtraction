@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:34:36</Created>
+	<LastChange>2020-11-25T19:01:19</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r7">
+	<Coords points="869,246 872,2112 876,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="891,244 1061,244 1061,312 1576,312 1576,860 1577,860 1577,1504 1277,1504 1277,1560 1080,1560 1080,1687 1128,1687 1128,1767 1040,1767 1040,1813 892,1813 892,1814 891,1814 891,1591 892,1591 892,1526 940,1526 940,861 939,861 939,833 891,833 891,724 1044,724 1044,621 891,621 891,622 890,622 890,245 891,245"/>
+	<TextEquiv conf="0.96457">
+	<Unicode>QUESTÃO 27
+A forma como o conhecimento se apresenta
+pode ser classificada em tácita e explícita.
+O conhecimento tácito é desenvolvido pelas
+experiências e relacionamentos pessoais ou
+profissionais de um indivíduo, não é mensurável
+e é pessoal. O conhecimento explícito é a
+disseminação, aplicação, transmissão, de
+maneira formal, do conhecimento adquirido.
+TAKEUCHI, H.; NONAKA, |. Gestão do conhecimento.
+Porto Alegre: Bookman, 2008 (adaptado).
+Considerando o desenvolvimento de software e a
+utilização do conhecimento tácito e explícito, avalie
+as afirmações a seguir.
+|. Durante as etapas de desenvolvimento
+do software, são utilizados tanto os
+conhecimentos pré existentes do indivíduo
+quanto os conhecimentos adquiridos
+durante o desenvolvimento.
+Il. O uso do conhecimento explícito restringe-se
+às fases de levantamento dos requisitos,
+quando o usuário indica sua necessidade
+e as funcionalidades requeridas para Oo
+desenvolvimento do software.
+Ill. O uso do conhecimento tácito restringe-se
+às fases de desenvolvimento, quando se
+emprega conhecimento de transformação
+da necessidade do usuário e características
+técnicas para produzir um sistema de
+informação.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Q1I1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="169,244 340,244 340,312 855,312 855,694 854,694 854,1561 493,1561 493,1812 217,1812 217,1815 170,1815 170,1767 169,1767 169,313 168,313 168,312 169,312"/>
+	<TableRegion id="r2">
+	<Coords points="172,722 172,1302 858,1302 858,722"/></TableRegion>
+	<TextEquiv conf="0.96685">
+	<Unicode>QUESTÃO 26
+Algumas linguagens de programação obedecem
+a uma ordem específica no que diz respeito à
+avaliação de operadores. A precedência dos
+operadores aritméticos, relacionais e booleanos
+é demonstrada na tabela a seguir, na qual
+os operadores ++ e --, pré ou pós-fixados,
+respectivamente, incrementam ou decrementam a
+variável, como no exemplo: variável x com valor O,
+resultado de ++x éigual a l1eode--x éigual
+a —l.
+Considerando essas informações e sabendo que
+as variáveis a, b e c têm, em determinado
+momento, os valores 1, 2 e O, respectivamente,
+assinale a opção em que o resultado da
+expressão apresentada corresponde ao da
+expressão -sa * ++b- —-c.
+O a* bm -— -—-c
+--b&gt;a*tc
+—--b
++t+c/--b * +t+a
+o
+O ——c/a *
+oO
+O -a * p++ - c-—</Unicode></TextEquiv></TextRegion></Page></PcGts>

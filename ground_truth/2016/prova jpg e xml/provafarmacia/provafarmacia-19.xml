@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-20T02:44:05</Created>
+	<LastChange>2020-11-14T03:16:40</LastChange></Metadata>
+	<Page imageFilename="provafarmacia-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="144,516 144,877 1591,877 1591,516"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="145,311 1601,311 1601,458 1599,458 1599,1441 1457,1441 1457,1442 1311,1442 1311,1443 1166,1443 1166,1444 1020,1444 1020,1445 875,1445 875,1446 729,1446 729,1447 583,1447 583,1448 438,1448 438,1449 146,1449 146,460 145,460"/>
+	<TextEquiv conf="0.95703">
+	<Unicode>QUESTÃO 19
+Uma indústria farmacêutica vem trabalhando no desenvolvimento de um comprimido de liberação
+controlada, o medicamento B, a fim de aumentar a adesão dos pacientes ao tratamento. O medicamento À
+é administrado via parenteral, e o medicamento C via oral. Para avaliar a existência de um mercado adequado
+para a comercialização do medicamento B, a indústria procedeu à análise de custo-efetividade, conforme
+demonstrado na tabela a seguir.
+Com base nos dados de custo-efetividade, verifica-se que o medicamento B
+O deve ser lançado no mercado farmacêutico, pois, apesar de ter a mesma eficácia do medicamento A e
+custo maior de tratamento, sua administração por via não-parenteral favorece a adesão do paciente ao
+tratamento.
+O deve ser lançado no mercado farmacêutico, pois seu custo final de tratamento é inferior ao dos demais,
+com a mesma eficácia, mais comodidade de administração ao paciente e economia.
+O não deve ser lançado no mercado farmacêutico, já que os medicamentos A e Ctêm a mesma eficácia, com
+custo de tratamento inferior.
+O não deve ser lançado no mercado farmacêutico, já que seu custo de tratamento é superior ao do
+medicamento A, sendo esse o parâmetro mais relevante nesse tipo de estudo.
+O não deve ser lançado no mercado, pois apesar de ser mais vantajoso que o medicamento C quanto
+à sua administração ao paciente e posologia, tem seu custo total de tratamento superior ao do
+medicamento C.</Unicode></TextEquiv></TextRegion></Page></PcGts>

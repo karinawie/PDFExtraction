@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-20T03:20:24</Created>
+	<LastChange>2020-11-14T03:14:05</LastChange></Metadata>
+	<Page imageFilename="provafarmacia-26.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="164,1066 164,1612 624,1610 624,1065"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="647,1055 647,1569 1105,1569 1105,1055"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1136,1050 1136,1627 1580,1627 1580,1050"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,313 1599,313 1599,630 1600,630 1600,785 1598,785 1598,979 1463,979 1463,1714 1598,1714 1598,1806 1599,1806 1599,1974 1598,1974 1598,2072 147,2072 147,2073 146,2073 146,1680 145,1680 145,980 144,980 144,872 145,872"/>
+	<TextEquiv conf="0.96118">
+	<Unicode>QUESTÃO 29
+Os casos clínicos descritos a seguir referem-se a diferentes tipos de anemias.
+Caso 1
+Um paciente com 30 anos de idade relata cansaço, fadiga, úlcera gástrica tratada há três anos e sangramento
+recente nas fezes. O resultado de hemograma evidencia presença de hemácias microcíticas e hipocrômicas;
+hematócrito = 31% (valor de referência: 35 até 45%); número de leucócitos e plaquetas normal.
+Caso 2
+Um paciente com 12 anos de idade queixa-se de fadiga, fraqueza e dores nos membros inferiores, além
+de apresentar palidez nas mucosas, que se iniciaram de forma abrupta e evoluíram progressivamente.
+Não foi obtido sucesso com a utilização de analgésicos. O resultado do hemograma evidencia poiquilocitose
+e presença de drepanócitos.
+Caso 3
+Uma paciente com 58 anos de idade, submetida a transfusões esporádicas ao longo dos anos, apresenta
+alterações na face e relata cansaço ao mínimo esforço e histórico de anemia hereditária. No hemograma
+foram visualizadas hemácias em alvo.
+As figuras a seguir correspondem às lâminas sanguíneas relativas aos hemogramas realizados.
+Considerando a relação entre os casos clínicos e as figuras apresentadas, assinale a opção correta.
+O O caso clínico 1 correlaciona-se com a Figura B, e a presença de hemácias em alvo caracteriza anemia
+ferropriva.
+O O caso clínico 1 correlaciona-se com a Figura C, e a presença de hemácias em alvo caracteriza talassemia.
+O Ocaso clínico 2 correlaciona-se com a Figura C, e a presença de drepanócitos caracteriza anemia falciforme.
+O O caso clínico 3 correlaciona-se com a Figura A, e a presença de hemácias hipocrômicas caracteriza anemia
+falciforme.
+O O caso clínico 3 correlaciona-se com a Figura A, e a presença de hemácias microcíticas caracteriza anemia
+perniciosa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

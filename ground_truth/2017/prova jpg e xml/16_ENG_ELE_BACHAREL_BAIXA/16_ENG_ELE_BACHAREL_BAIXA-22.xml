@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:47:41</Created>
+	<LastChange>2020-11-27T17:05:02</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r4">
+	<Coords points="872,246 871,2112 873,2112 874,246"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1576,313 1576,568 1577,568 1577,877 1576,877 1576,1525 1277,1525 1277,1580 1071,1580 1071,1707 1128,1707 1128,1834 891,1834 891,1611 892,1611 892,1546 939,1546 939,973 891,973 891,972 890,972"/>
+	<TextEquiv conf="0.96477">
+	<Unicode>QUESTÃO 20
+Fechaduras eletromagnéticas são dispositivos
+de segurança compostos basicamente de um
+circuito eletromagnético. O núcleo desse tipo de
+fechadura é construído de material magnético não
+permanente e dividido em duas partes, ficando
+uma parte fixada à parede e a outra parte, à porta.
+A bobina é instalada na parte do núcleo fixada à
+parede e alimentada por uma corrente elétrica.
+Para que se possa abrir a porta, deve ser
+injetada na bobina corrente elétrica de valor
+e sentido adequados para anular os efeitos do
+magnetismo residual do núcleo, procedimento
+geralmente denominado pelos fabricantes como
+antimagnetismo residual.
+A respeito do funcionamento de fechaduras
+eletromagnéticas, avalie as afirmações a seguir.
+|. Quanto maior for a retentividade do núcleo
+da fechadura, maior deve ser a corrente
+injetada.
+Il. Quando corretamente instalada, após
+o atraque da fechadura, a corrente de
+alimentação pode ser suprimida, visto que
+não haverá entreferro entre as duas partes
+do núcleo.
+Ill. Em modo de espera, a fechadura eletrônica
+tem seu menor consumo de energia,
+visto que a bobina é alimentada somente
+durante o atracamento e o processo de
+antimagnetismo residual.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lei, apenas.
+O Il elll, apenas.
+Q1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 855,312 855,876 854,876 854,1247 700,1247 700,1252 499,1252 499,1253 420,1253 420,1538 169,1538"/>
+	<ImageRegion id="r2">
+	<Coords points="172,897 172,1191 847,1191 847,897"/></ImageRegion>
+	<TextEquiv conf="0.96546">
+	<Unicode>QUESTÃO 19
+O transformador é um elemento importante para
+a operação de um sistema de potência, tanto nas
+redes de transmissão quanto nas de distribuição,
+pois permite obter diferentes níveis de tensão
+que atendam às cargas. Como todo equipamento,
+o transformador possui perdas no núcleo e nos
+enrolamentos, as quais podem ser calculadas por
+meio de um ensaio em circuito aberto e outro em
+curto-circuito.
+Considere um transformador monofásico de
+125 kVA, com tensões nominais de 8 kV e 220 V,
+submetido a um ensaio de curto-circuito (cc), com
+alimentação pelo enrolamento de alta tensão (V ),
+como ilustra a figura a seguir.
+O valor percentual das perdas ativas
+enrolamentos é de
+O 0,88%.
+O 0,80%.
+O 0,48%.
+O 0,32%.
+O 0,20%.
+nos</Unicode></TextEquiv></TextRegion></Page></PcGts>

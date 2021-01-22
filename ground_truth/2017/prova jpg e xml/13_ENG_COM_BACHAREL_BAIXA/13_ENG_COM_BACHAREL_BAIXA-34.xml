@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:57:14</Created>
+	<LastChange>2020-11-21T00:02:20</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-34.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="600,855 600,1069 1147,1069 1147,855"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 340,244 340,310 1576,310 1576,1169 1308,1169 1308,1377 418,1377 418,1629 170,1629 170,1170 169,1170 169,1105 170,1105 170,657 169,657 169,552 170,552"/>
+	<TextEquiv conf="0.68846">
+	<Unicode>QUESTÃO 35
+Em um algoritmo de roteamento de estado de enlace, a topologia da rede e todos os custos de enlace são
+conhecidos. Isso é alcançado fazendo-se cada nó transmitir pacotes de estado de enlace a todos os outros
+nós da rede, uma vez que cada um desses pacotes contém as identidades e os custos dos enlaces ligados
+a ele. O resultado dessa transmissão dos custos por difusão é que todos os nós dispõem de informações
+idênticas e completas da rede. Cada nó pode, então, rodar o algoritmo de estado de enlace e calcular o
+mesmo conjunto de caminhos de menor custo para todos os outros nós.
+O algoritmo de Dijkstra pode ser usado para calcular o caminho de menor custo entre um nó de origem e
+todos os outros nós da rede. Durante sua execução, este algoritmo atualiza o vetor D, sendo D(v) o custo
+do caminho de menor custo entre o nó de origem e o nó v.
+KUROSE, J. F. Redes de computadores e a Internet: uma abordagem top-down.
+São Paulo: Pearson Education do Brasil, 2013 (adaptado).
+O grafo a seguir representa uma rede de roteadores. As arestas são rotuladas com os respectivos custos
+de cada ligação.
+Após a execução do algoritmo de Dijkstra pelo roteador de número 1, o vetor D retornou contendo os
+seguintes valores:
+1 2 38 4 5 6 7
+o -EEEEETE
+Nesse cenário, quais são os custos das arestas A, B, C, D, E e F, respectivamente?
+O 1,2,3,2,4e1.
+O 1,2,1,2,1e4.
+O 2,1,1,4,2e1.
+O 2,1,3,1,2e1.
+O 1,1,3,4,1e1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

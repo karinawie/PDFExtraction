@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T17:24:27</Created>
+	<LastChange>2020-10-28T18:42:12</LastChange></Metadata>
+	<Page imageFilename="provafonoaudiologia-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r103" type="heading">
+	<Coords points="145,243 1600,243 1600,474 1523,474 1523,1462 1506,1462 1506,2074 1167,2074 1167,2075 827,2075 827,2076 146,2076 146,475 145,475 145,307 144,307 144,306 145,306"/>
+	<ImageRegion id="r1">
+	<Coords points="288,516 288,1400 1372,1400 1372,516"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="505,1472 505,1819 1238,1819 1238,1472"/></TableRegion>
+	<TextEquiv conf="0.96388">
+	<Unicode>QUESTÃO 21
+Um recém-nascido sem indicadores de risco de perda auditiva falhou na triagem auditiva neonatal (TAN),
+realizada na maternidade com emissões otoacústicas evocadas por estímulos transientes. Quinze dias
+depois, no reteste, o resultado se repetiu. A timpanometria, realizada aos 3 meses de idade, revelou curva
+timpanométrica do tipo B na orelha esquerda e do tipo A na direita. As emissões otoacústicas evocadas
+por estímulos transientes estavam ausentes na orelha esquerda e presentes na orelha direita. O registro do
+potencial evocado auditivo de tronco encefálico com cliques é apresentado a seguir.
+Os valores obtidos na pesquisa da integridade da via auditiva, em 80 dBnNA, são apresentados abaixo
+Esses resultados indicam
+A audição normal em ambas as orelhas.
+B alteração do tipo condutiva em ambas as orelhas.
+C alteração do tipo condutiva na orelha esquerda e audição normal na orelha direita.
+D alteração do tipo retrococlear na orelha esquerda e do tipo condutiva na orelha direita.
+E alteração do tipo condutiva na orelha esquerda e do tipo sensorioneural coclear na orelha direita.</Unicode></TextEquiv></TextRegion></Page></PcGts>

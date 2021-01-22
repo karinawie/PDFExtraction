@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T23:00:14</Created>
+	<LastChange>2020-09-09T23:36:49</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-25.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="518,747 518,1286 1060,1286 1060,747"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="83,179 1491,179 1491,720 1490,720 1490,1547 1491,1547 1491,1700 1489,1700 1489,1747 575,1747 575,1800 284,1800 284,2040 85,2040 85,1437 84,1437 84,442 83,442"/>
+	<TextEquiv conf="0.94894">
+	<Unicode>QUESTÃO 26
+A Dose Letal 50% (DL.6), importante referência em toxicologia farmacológica, é aplicada na
+avaliação da toxicidade aguda de uma substância química. Tal avaliação consiste na determinação
+da concentração mínima da substância capaz de promover a morte de 50% dos animais de
+experimentação. Como alternativa para minimizar a utilização desses animais, são realizados
+experimentos de citotoxicidade in vitro.
+VALADARES, M.C. Avaliação de toxicidade aguda: estratégias após a "Era da DL5O".
+Revista Eletrônica de Farmácia, v. 3, n. 2, 2006 (adaptado).
+O gráfico a seguir, obtido a partir dos experimentos de citoxicidade de duas substâncias em cultura de
+células de mamífero, apresenta duas curvas dose-resposta para as substâncias A e B. No eixo X, está
+representado o logaritmo das concentrações dessas substâncias adicionadas às culturas celulares,
+enquanto, no eixo Y, está representada a porcentagem de morte dessas populações de células.
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+|. A substância A promove a morte de 50% da população de células em concentrações menores que
+aB.
+Il. A substância B causa a morte de 100% da população de células nas mesmas concentrações que a
+substância A.
+Ill. A substância B é mais potente que a substância A, porque a DL. é menor para a substância B do
+que para a substância A.
+IV. As substâncias A e B apresentam o mesmo efeito máximo, ou seja, matam 100% da população de
+células, mas em doses diferentes.
+V. A substância B causa a morte de 100% da população de células com metade da concentração de A.
+É correto apenas o que se afirma em
+A I e IV.
+B II e III.
+C I, II e V.
+D I, III, IV e V.
+E II, III, IV e V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

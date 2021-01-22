@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:47:28</Created>
+	<LastChange>2020-11-27T17:04:09</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="171,244 340,244 340,312 1576,312 1576,459 1108,459 1108,460 1046,460 1046,1184 1477,1184 1477,1279 1575,1279 1575,1367 1576,1367 1576,1428 1124,1428 1124,1429 671,1429 671,1430 660,1430 660,1492 326,1492 326,1745 172,1745 172,1746 171,1746 171,462 169,462 169,312 170,312 170,245 171,245"/>
+	<ImageRegion id="r1">
+	<Coords points="350,477 350,1088 1386,1088 1386,477"/></ImageRegion>
+	<TextEquiv conf="0.96800">
+	<Unicode>QUESTÃO 21
+A figura a seguir representa o circuito de um controlador trifásico de tensão composto de tiristores,
+que pode ser utilizado no controle de potência dos motores em corrente alternada e de variação de
+luminosidade, contribuindo tanto para a redução do consumo quanto para a utilização mais eficiente e
+econômica da energia elétrica.
+Em relação ao circuito apresentado, avalie as afirmações a seguir.
+|. Atensão instantânea, em cada fase da carga, é determinada pelos tiristores em condução.
+Il. A tensão, em cada fase da carga, corresponde à tensão entre uma fase e o neutro.
+Ill. Para existirem intervalos de tempo nos quais três tiristores estão em condução, o ângulo de
+atraso a deve ser menor que 60º.
+IV. A condição de condução dos tiristores independe do ângulo de atraso a e das tensões
+instantâneas da fonte.
+É correto apenas o que se afirma em
+Oie.
+O lelv.
+O llelv.
+O L11e.
+O Lev</Unicode></TextEquiv></TextRegion></Page></PcGts>

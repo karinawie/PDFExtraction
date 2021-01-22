@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:35:16</Created>
+	<LastChange>2020-11-25T19:05:43</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,244 340,244 340,309 1575,309 1575,373 1028,373 1028,495 1575,495 1575,605 1399,605 1399,665 169,665 169,664 168,664 168,495 217,495 217,373 169,373"/>
+	<TextEquiv conf="0.96577">
+	<Unicode>QUESTÃO 20
+Em uma seleção para uma vaga de programador, o setor de recursos humanos de uma empresa criou três
+sentenças essenciais para a escolha do candidato, representadas pelas variáveis proposicionais p, qe r:
+* p:ocandidato tem experiência com a linguagem Python;
+e q:ocandidatotem experiência com a linguagem Java;
+e r:ocandidato é pouco experiente como programador.
+A partir das três sentenças criadas, foi gerada uma proposição composta S para avaliação dos candidatos:
+S=(pva)A(gan=r").
+Assinale a opção que representa corretamente a tabela-verdade do cálculo proposicional S.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="225,702 225,1136 822,1136 822,702"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="927,700 927,1136 1513,1136 1513,700"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="936,1172 936,1608 1511,1608 1511,1172"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="233,1177 233,1608 819,1608 819,1177"/></TableRegion>
+	<TableRegion id="r5">
+	<Coords points="227,1647 227,2088 819,2088 819,1647"/></TableRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="155,880 222,880 222,963 155,963"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="161,1361 161,1444 228,1444 228,1361"/>
+	<TextEquiv>
+	<Unicode>B</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="153,1828 153,1911 220,1911 220,1828"/>
+	<TextEquiv>
+	<Unicode>C</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="864,1364 931,1364 931,1447 864,1447"/>
+	<TextEquiv>
+	<Unicode>E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="853,889 920,889 920,972 853,972"/>
+	<TextEquiv>
+	<Unicode>D</Unicode></TextEquiv></TextRegion></Page></PcGts>

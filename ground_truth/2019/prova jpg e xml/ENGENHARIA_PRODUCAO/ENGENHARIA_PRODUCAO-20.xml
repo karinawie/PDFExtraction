@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:19:41</Created>
+	<LastChange>2020-09-15T17:20:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-20.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r9">
+	<Coords points="782,181 787,2047 793,2047 788,181"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="142,344 142,686 707,686 707,344"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 255,179 255,247 770,247 770,1248 428,1248 428,1249 86,1249 86,1250 85,1250 85,932 84,932 84,895 83,895 83,706 84,706 84,248 83,248 83,247 84,247"/>
+	<TextEquiv conf="0.96456">
+	<Unicode>QUESTÃO 18
+A tabela a seguir indica o número de pães produzidos
+por uma padaria em cada dia da semana.
+A previsão de produção de pães no sábado
+corresponde à média ponderada das quantidades
+de pães produzidos na sexta-feira, com peso de 0,5;
+na quinta-feira, com peso de 0,3; e na quarta-feira,
+com peso de 0,2.
+Nessa situação, o número de pães produzidos no
+sábado está entre
+A 2000 e 2150.
+B 2200 e 2 350.
+C 2375 e 2400.
+D 2435 e 2480.
+E 2500 e2525.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="805,179 976,179 976,246 1492,246 1492,513 1491,513 1491,1204 1296,1204 1296,1266 962,1266 962,1520 806,1520 806,1298 807,1298 807,1233 855,1233 855,903 854,903 854,572 807,572 807,515 804,515 804,246 805,246"/>
+	<TextEquiv conf="0.96738">
+	<Unicode>QUESTÃO 19
+O Just in Time (JIT), um dos pilares do Sistema
+Toyota de Produção, baseia-se no princípio do
+abastecimento de produtos e matérias-primas
+nas quantidades solicitadas e nos momentos
+adequados, ou seja, nada deve ser produzido,
+comprado outransportado sem que seja necessário.
+Um importante subsistema do JIT é o Kanban.
+Nesse contexto, avalie as afirmações a seguir.
+|. O Kanban foi criado para controlar o nível
+de inventário, a produção e o fornecimento
+de componentes e, em alguns casos, de
+matéria-prima.
+Il. O Kanban apresenta resultados positivos
+quando aplicado em situações nas quais os
+estoques das estações de trabalho estão
+desbalanceados.
+IIl. O e-Kanban é definido como uma variação
+do Kanban tradicional, em que os cartões
+são substituídos por sinais eletrônicos.
+IV. O sistema Kanban funciona com sistemas
+produtivos puxados, ou seja, sistemas cuja
+ordem de produção depende do cliente,
+interno ou externo.
+É correto apenas o que se afirma em
+A I e II.
+B II e IV.
+C III e IV.
+D I, II e III.
+E I, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

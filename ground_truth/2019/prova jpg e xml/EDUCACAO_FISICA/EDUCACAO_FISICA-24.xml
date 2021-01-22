@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T00:24:08</Created>
+	<LastChange>2020-09-10T01:07:46</LastChange></Metadata>
+	<Page imageFilename="EDUCACAO_FISICA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="184,555 184,1210 760,1210 760,555"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="794,539 794,1223 1400,1223 1400,539"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,1282 1492,1282 1492,1452 1491,1452 1491,1725 575,1725 575,1783 249,1783 249,2045 84,2045"/>
+	<TextEquiv conf="0.95475">
+	<Unicode>QUESTÃO 22
+Durante o jogo de handebol, uma equipe pode adotar diferentes sistemas defensivos para neutralizar
+as ações do ataque adversário. Os sistemas defensivos definem a organização coletiva dos jogadores
+de defesa para a marcação dos atacantes na tentativa de retomar a posse de bola. Portanto, o
+posicionamento e a forma de atuação dos defensores são definidos pelo sistema adotado conforme
+o momento do jogo.
+Nas figuras a seguir estão representados dois sistemas defensivos, com características distintas, que são
+amplamente usados no handebol.
+Considerando as características dos sistemas defensivos do handebol representados nas figuras, avalie as
+afirmações a seguir.
+I. Na Figura 1, está representada uma defesa individual em meia quadra, considerada como um
+sistema defensivo eficiente quando o ataque adversário está em superioridade numérica.
+II. A Figura 2 retrata uma defesa em zona (6x0), na qual cada defensor mantém fixo o seu
+posicionamento de marcação em quadra, mesmo diante de trocas de posições dos atacantes.
+III. O ensino e a aplicação do sistema defensivo da Figura 1 têm sido recomendados durante a iniciação
+esportiva, já que implica menor desgaste físico que o sistema defensivo da Figura 2.
+IV. No sistema misto, que combina princípios táticos de defesa individual e de defesa por zona, alguns
+defensores realizam marcação em zona e os demais, marcação individual.
+É correto apenas o que se afirma em
+A I e II.
+B I e III.
+C II e IV.
+D I, III e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

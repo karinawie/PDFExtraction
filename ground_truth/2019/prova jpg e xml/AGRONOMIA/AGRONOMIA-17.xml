@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T02:20:28</Created>
+	<LastChange>2020-09-09T02:29:50</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-17.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="83,2098 82,2098"/>
+	<TextEquiv conf="0.70699">
+	<Unicode>AGRONOMIA 17
+ma</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="360,573 360,1325 1494,1325 1494,573"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,179 256,179 256,247 1491,247 1491,475 1490,475 1490,1332 1491,1332 1491,1739 582,1739 582,1795 249,1795 249,2049 84,2049 84,1332 165,1332 165,476 83,476 83,247 84,247"/>
+	<TextEquiv conf="0.95686">
+	<Unicode>QUESTÃO 10
+A salinização do solo pode limitar a produção de culturas em muitas áreas do mundo, pois reduz a
+capacidade das plantas de absorverem água. Tal fato ocasiona um conjunto de alterações metabólicas
+semelhantes às provocadas pelo estresse hídrico. A quantificação da água no solo é, portanto, fundamental
+para o manejo no sistema solo-planta. No manejo da irrigação, quando a salinidade não é considerada o
+componente osmótico para o cálculo do potencial total da água no solo, pode ocorrer o murchamento
+precoce de plantas ou a aplicação de água em excesso, com impactos negativos na cultura e no ambiente.
+COELHO, J. B. M. et al. Ponto de murcha permanente fisiológico e potencial osmótico de feijão caupi cultivado em solos salinizados.
+Revista Brasileira de Engenharia Agrícola e Ambiental, v. 18, n. 7, p. 708-713, 2014 (adaptado).
+LARCHER, W. Ecofisiologia vegetal. São Carlos: Rima, 2006 (adaptado).
+Com base nas informações apresentadas, avalie as afirmações a seguir.
+|. As plantas sujeitas a menores potenciais hídricos do solo poderão atingir o ponto de murcha
+permanente.
+Il. Em solos com textura arenosa, há maior problema com salinidade em comparação a solos de
+textura siltosa.
+Ill. O manejo da irrigação em solos com diferentes texturas exige que o produtor rural descarte o uso
+de solos salinos e adote solos arenosos e/ou siltosos.
+IV. Plantas xerófitas apresentam maior chance de sobrevivência em solos com menor potencial hídrico
+em comparação a outras plantas cultivadas nesta mesma condição de solo.
+É correto apenas o que se afirma em
+A I, apenas.
+B II e III, apenas.
+C III e IV, apenas.
+D I, II e IV, apenas.
+E I, II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

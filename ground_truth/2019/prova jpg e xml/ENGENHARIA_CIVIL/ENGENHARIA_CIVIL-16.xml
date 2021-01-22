@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T19:53:05</Created>
+	<LastChange>2020-09-11T19:53:05</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-16.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="215,660 218,1299 1529,1292 1526,653"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,179 255,179 255,250 1492,250 1492,533 1366,533 1366,601 886,601 886,1442 964,1442 964,1493 1268,1493 1268,1594 1491,1594 1491,1657 1316,1657 1316,1658 1140,1658 1140,1659 964,1659 964,1660 789,1660 789,1661 613,1661 613,1662 437,1662 437,1663 85,1663 85,1357 84,1357 84,601 83,601 83,250 84,250 84,180 85,180"/>
+	<TextEquiv conf="0.95641">
+	<Unicode>QUESTÃO 12
+A execução de tarefas no prazo é requisito essencial para a conclusão de uma obra. Gerenciar o tempo de
+execução requer ferramentas que ajudem a identificar as possíveis restrições que venham a causar atrasos
+nas tarefas previstas. Tais restrições podem ser alterações de projetos, falta de material, retrabalhos,
+entre outras. Algumas tarefas não admitem restrições por comprometerem integralmente o tempo de
+execução planejado. As tarefas ou atividades de um projeto que não admitem atrasos não possuem
+tempo de folga. Em um projeto, sempre há pelo menos um conjunto de atividades interdependentes que
+não possuem folgas; essas atividades compõem o caminho crítico de um projeto.
+A figura a seguir ilustra a rede PERT/CPM referente à execução de uma obra de construção civil.
+Com base nessa rede PERT/CPM, é correto afirmar que
+O a atividade A não tem folga, por isso não poderá atrasar.
+O a obra terá um atraso de 1 dia se a atividade F durar 4 dias.
+O a atividade D, caso iniciada 3 dias após a data prevista, fará parte do caminho crítico.
+O a atividade |, caso iniciada após 5 dias do prazo previsto, acarretará atraso de 5 dias.
+O a obra terminará no prazo previsto, sem riscos de atrasos, ainda que a atividade H seja iniciada junto
+com a atividade F.</Unicode></TextEquiv></TextRegion></Page></PcGts>

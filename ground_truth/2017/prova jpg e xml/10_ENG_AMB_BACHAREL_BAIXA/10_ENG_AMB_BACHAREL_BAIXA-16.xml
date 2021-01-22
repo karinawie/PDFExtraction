@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T20:48:24</Created>
+	<LastChange>2020-11-20T21:13:40</LastChange></Metadata>
+	<Page imageFilename="10_ENG_AMB_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="169,244 514,244 514,317 1576,317 1576,1321 170,1321 170,1322 169,1322 169,1125 168,1125 168,317 169,317"/>
+	<ImageRegion id="r1">
+	<Coords points="225,508 225,980 1572,980 1572,508"/></ImageRegion>
+	<TextEquiv conf="0.96483">
+	<Unicode>QUESTÃO DISCURSIVA 04
+O modelo OD-DBO (oxigênio dissolvido-demanda bioquímica de oxigênio), bastante usado para
+monitorar e controlar a poluição por esgoto doméstico em corpos d'água, simula a poluição provocada
+pelo lançamento de matéria orgânica e a queda dos níveis de OD, produzindo um balanço entre as suas
+formas de consumo e fontes de produção, conforme ilustrado na figura a seguir.
+Vários estudos baseados no modelo de autodepuração de Streeter e Phelps (1925) têm utilizado
+modelagem da qualidade da água de corpos hídricos superficiais e suas bacias, o que tem sido uma
+importante ferramenta na gestão de sistemas hídricos e na simulação e otimização de regimes de descarga.
+Com base nas informações apresentadas, explique como evolui o processo de autodepuração no curso
+de água representado na figura, considerando a descarga de material orgânico oriundo de esgotos
+domésticos. Em sua resposta, aborde os mecanismos de consumo e produção de oxigênio e a qualidade
+da água em cada zona do curso de água. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

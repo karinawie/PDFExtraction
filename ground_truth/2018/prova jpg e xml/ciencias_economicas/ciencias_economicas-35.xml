@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:55:09</Created>
+	<LastChange>2020-09-17T19:55:21</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-35.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="286,434 286,1126 1326,1126 1326,434"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="106,181 276,181 276,249 1513,249 1513,397 1456,397 1456,1283 1513,1283 1513,1618 108,1618 108,1619 107,1619 107,1213 106,1213 106,398 105,398 105,249 106,249"/>
+	<TextEquiv conf="0.96515">
+	<Unicode>QUESTÃO 33
+As ações de empresas nacionais podem ter relação com os Índices financeiros internacionais. Em busca de
+evidências empíricas, um analista coletou dados diários das ações de duas empresas brasileiras (empresa
+X e empresa Y) e estimou os modelos apresentados na tabela a seguir, usando o Índice Nasdaq como
+variável explicativa.
+Com base nos resultados apresentados e considerando 5% de significância, assinale a opção correta.
+A Rejeitam-se as hipóteses de heterocedasticidade e não autocorrelação para ambas as empresas.
+B Rejeita-se a hipótese de homocedasticidade para a empresa X e não se rejeita a hipótese de não
+autocorrelação para a empresa Y.
+C Não se rejeita a hipótese de homocedasticidade para a empresa X e rejeita-se a hipótese de não
+autocorrelação para a empresa Y.
+D Não se rejeita a hipótese de homocedasticidade para a empresa X e não se rejeita a hipótese de não
+autocorrelação para a empresa Y.
+E Rejeita-se a hipótese de homocedasticidade para a Empresa X e rejeita-se a hipótese de não
+autocorrelação para ambas as empresas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

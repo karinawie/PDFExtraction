@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:57:21</Created>
+	<LastChange>2020-10-29T20:07:22</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-20.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,254 872,2073 874,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.12591">
+	<Unicode>COGoOO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="890,723 1600,723 1600,753 1599,753 1599,1276 1600,1276 1600,1477 1599,1477 1599,1747 1277,1747 1277,1863 1111,1863 1111,1985 1128,1985 1128,2017 1040,2017 1040,2066 892,2066 892,2067 891,2067 891,1778 939,1778 939,1013 890,1013"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 29
+Por emitirem radiação constantemente, as fontes
+usadas em gamagrafia, que é a radiografia com raios
+gama, requerem cuidados especiais de segurança.
+Considerando os conceitos de proteção radiológica
+aplicados à gamagrafia, avalie as afirmações a seguir.
+|. A blindagem interna do irradiador gama
+assegura proteção radiológica ao operador em
+níveis aceitáveis, porém, há risco de exposição
+radiológica se o equipamento for armazenado
+em locais inadequados ou desprotegidos.
+Il. No manuseio de irradiadores gama é
+necessário o uso de detectores portáteis de
+radiação de leitura direta, como, por exemplo,
+o Geiger-Múller, visando-se à segurança do
+operador durante as exposições.
+Ill. Como as fontes de radiação são utilizadas em
+diversas atividades e cada elemento radioativo
+possui uma energia de radiação própria, cada
+blindagem é dimensionada para conter um
+elemento radioativo específico, com certa
+atividade máxima determinada.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Q11em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="890,252 1600,252 1600,282 1599,282 1599,438 1370,438 1370,666 1385,666 1385,695 939,695 939,696 938,696 938,439 890,439"/>
+	<TextEquiv conf="0.05984">
+	<Unicode>QUESTÃO 28
+Em exames por ressonância magnética de rotina da
+coluna cervical, torácica e lombar, são necessárias
+as sequências
+sagital T1, sagital T2, axial T2.
+sagital T1, sagital T2, coronal T2.
+coronal T1, sagital T2, axial T2.
+coronal T1, coronal T2, axial T2.
+coronal T1, coronal T2, sagital T2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="145,1199 855,1199 855,1702 811,1702 811,1856 631,1856 631,1980 663,1980 663,2032 713,2032 713,2060 194,2060 194,2058 146,2058 146,1816 145,1816"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 27
+A radioterapia dispõe de um procedimento
+extremamente rápido e que melhora a eficácia entre
+a dose necessária e o alvo a ser tratado, poupando-se
+os demais órgãos. Essa tecnologia proporciona uma
+distribuição de dose 3D precisa, com uma única
+rotação de 360º do equipamento em torno do
+volume-alvo. Isso é possível devido a um algoritmo
+de planejamento que altera simultaneamente três
+parâmetros durante o tratamento: a velocidade
+de rotação do equipamento, o uso do colimador
+multifolhas e a taxa de dose liberada. Assim, todo o
+volume-alvo é atingido de tal forma que a radiação
+seja precisamente distribuída em três dimensões.
+As informações contidas no texto referem-se à
+iodoterapia.
+braquiterapia.
+radioterapia guiada por imagem.
+arcoterapia volumétrica modulada.
+CoOoçgGoo
+radioterapia de intensidade modulada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,252 855,252 855,425 854,425 854,584 855,584 855,1165 146,1165 146,810 194,810 194,558 145,558 145,425 144,425 144,319 145,319"/>
+	<TextEquiv conf="0.95428">
+	<Unicode>QUESTÃO 26
+A proteção radiológica é fator essencial para evitar
+danos radiobiológicos à saúde dos usuários e
+trabalhadores de serviços de radiodiagnóstico.
+Considerando os requisitos estabelecidos nas normas
+e recomendações de proteção radiológica, avalie as
+afirmações a seguir.
+I. O tempo dever ser controlado para prevenir
+exposição desnecessária à radiação.
+II. A blindagem deve ser realizada para atenuar
+a radiação, por meio de anteparos de, por
+exemplo, concreto, chumbo, aço e alumínio.
+III. A distância de fontes pontuais deve obedecer
+à lei do inverso do quadrado da distância.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

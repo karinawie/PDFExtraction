@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:46:26</Created>
+	<LastChange>2020-09-12T18:47:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-34.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r2">
+	<Coords points="84,752 84,1378 1486,1378 1486,752"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="155,1560 155,2018 1428,2018 1428,1560"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="85,179 255,179 255,247 1492,247 1492,353 1491,353 1491,585 1490,585 1490,1407 1491,1407 1491,1490 343,1490 343,1530 179,1530 179,1490 134,1490 134,1410 133,1410 133,587 83,587 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.95401">
+	<Unicode>QUESTÃO 26
+A utilização dos motores elétricos de pequeno porte, tais como o motor de passo, o motor C.C. e o
+servomotor C.C., vem crescendo continuadamente nas áreas de eletrônica embarcada, robótica,
+entretenimento, sistemas de segurança, sistemas de automação, entre outras.
+Para cada um desses motores, os acionamentos devem ser distintos, pois seus princípios construtivos e
+de funcionamento são diferentes. Consequentemente, os drivers para controlar velocidade, posição e
+corrente devem seguir as próprias características.
+Considerando esse contexto, avalie as afirmações a seguir, acerca da descrição do sistema de controle
+genérico dos referidos motores e de sua respectiva representação.
+|. Para acionar o motor de passo de 4 bobinas (Figura 1), na configuração de passo inteiro, a
+sequência de pulsos deve ser realizada conforme indicado na Figura 1, para rotacionar sempre no
+mesmo sentido.
+t (ms)
+Il. Para acionar o servomotor C.C. (Figura 2), a sequência de pulsos deve ser simétrica, ou seja, a
+duração de tempo de um pulso na posição ON deve ser igual à duração de tempo de um pulso na
+posição OFF.</Unicode></TextEquiv></TextRegion></Page></PcGts>

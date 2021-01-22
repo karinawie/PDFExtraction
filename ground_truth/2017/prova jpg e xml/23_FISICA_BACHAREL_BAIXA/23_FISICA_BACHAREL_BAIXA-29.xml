@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:50:09</Created>
+	<LastChange>2020-11-27T20:58:57</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="249,672 250,1385 795,1384 794,671"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="870,247 872,2112 876,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="890,244 1061,244 1061,303 1576,303 1576,1811 1277,1811 1277,1867 1128,1867 1128,2115 891,2115 891,1897 892,1897 892,1833 939,1833 939,1237 891,1237 891,682 890,682"/>
+	<TextEquiv conf="0.96545">
+	<Unicode>QUESTÃO 33
+A teoria de bandas descreve as energias dos
+estados acessíveis a portadores de carga em
+semicondutores, que são representadas em
+diagramas de bandas, como os mostrados nas
+figuras a seguir. Eles representam, em escalas
+idênticas, as energias possíveis, E, dos portadores
+de carga em função dos respectivos números de
+onda, k, para dois semicondutores diferentes: o
+material A (figura à esquerda) e o material B (figura
+à direita).
+Semicondutor À Semicondutor B
+Com base no texto apresentado e na análise dos
+diagramas, avalie as afirmações a seguir.
+|. Na fabricação de fotodetectores, os
+materiais feitos com o semicondutor A
+são capazes de detectar radiações com
+comprimentos de onda maiores que os
+feitos com o semicondutor B.
+Il. Na fabricação de diodos emissores de
+luz (LEDs), os materiais feitos com o
+semicondutor A são menos eficientes que
+os feitos com o semicondutor B.
+Il. A mobilidade por unidade de carga dos
+portadores na banda de valência, em
+resposta a um campo elétrico aplicado, é
+menor que a dos portadores na banda de
+condução.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+QI1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,306 854,306 854,606 527,606 527,1353 854,1353 854,1506 855,1506 855,1603 854,1603 854,1823 660,1823 660,1879 334,1879 334,2109 169,2109 169,1353 523,1353 523,607 169,607"/>
+	<TextEquiv conf="0.96135">
+	<Unicode>QUESTÃO 32
+Espectros de estrelas apresentam linhas de
+absorção superpostas a um contínuo. A figura a
+seguir mostra desvios nos comprimentos de onda
+das linhas espectrais da estrela primária de um
+sistema binário, para cinco diferentes momentos
+sequenciais de sua órbita circular em torno da
+companheira. A linha contínua em vermelho indica
+a velocidade da estrela, em relação ao observador,
+obtida ao longo da análise espectroscópica.
+1
+Velocidade nula
+Disponível em: &lt;http://www.f.ufrgs.br&gt;. Acesso em: 10 jul. 2017 (adaptado).
+Considerando o exposto, avalie as afirmações a seguir.
+|. A velocidade relativa da estrela pode ser
+obtida a partir do efeito Doppler aplicado a
+ondas eletromagnéticas.
+Il. Emt, e emt,, as posições da órbita da estrela
+são diametralmente opostas.
+Ill. Em t,, o espectro da estrela está deslocando-se
+para o azul.
+IV. A diferença entre t, e t, determina o período
+da órbita.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+O Meiv.
+O Li1lelv.
+O INMeiv</Unicode></TextEquiv></TextRegion></Page></PcGts>

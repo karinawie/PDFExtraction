@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:41:05</Created>
+	<LastChange>2020-09-12T18:41:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-35.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="155,271 155,776 1402,776 1402,271"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="171,183 1491,183 1491,249 1404,249 1404,250 1316,250 1316,251 1228,251 1228,252 470,252 470,875 322,875 322,1018 234,1018 234,1064 163,1064 163,1065 86,1065 86,1066 85,1066 85,252 84,252 84,184 171,184"/>
+	<TextEquiv conf="0.64207">
+	<Unicode>Para acionar ou controlar o motor C.C. (Figura 3), uma das técnicas é adotar sequência de pulsos na
+configuração PW.M., em que se pode controlar de 0% até 100% da energia fornecida pela fonte.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T03:11:11</Created>
+	<LastChange>2020-09-15T03:11:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-14.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,179 429,179 429,247 1491,247 1491,475 1392,475 1392,614 1490,614 1490,749 1491,749 1491,818 85,818 85,819 84,819 84,749 85,749 85,588 84,588 84,476 83,476 83,247 84,247"/>
+	<TextEquiv conf="0.95965">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Um dos objetivos da engenharia de bioprocessos é incrementar a atividade catalítica de enzimas livres
+ou imobilizadas. A produção de xilitol por via enzimática é conduzida usando a enzima xilose isomerase.
+Esse biocatalisador é obtido pelo cultivo submerso de Kluyveromyces marxianus em biorreator. Após o
+crescimento celular, as células são separadas por centrifugação e permeabilizadas para extrair a enzima
+xilose isomerase. O extrato enzimático é purificado e a enzima é imobilizada e utilizada na produção de
+xilitol. Esse bioprocesso pode ser conduzido em um reator tanque agitado ou tubular.
+Com base nas informações apresentadas, faça o que se pede nos itens a seguir.
+a) Elabore um diagrama de blocos indicando as etapas relatadas do processo. (valor: 3,0 pontos)
+b) Citetrês características que diferenciam os biorreatores tanque agitado de biorreatores tubulares, seja
+em termos de geometria ou condições de processo, considerando a operação em regime contínuo.
+(valor: 3,0 pontos)
+c) Cite duas vantagens e duas desvantagens da utilização de enzimas imobilizadas em comparação ao
+uso de enzimas livres. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

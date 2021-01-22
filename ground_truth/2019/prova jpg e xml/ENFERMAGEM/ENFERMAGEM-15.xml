@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T01:39:55</Created>
+	<LastChange>2020-09-10T01:40:50</LastChange></Metadata>
+	<Page imageFilename="ENFERMAGEM-15.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,245 769,245 769,1532 768,1532 768,1705 678,1705 678,1754 85,1754 85,1338 83,1338 83,1276 133,1276 133,673 84,673"/>
+	<TextEquiv conf="0.91242">
+	<Unicode>QUESTÃO 09
+Devido ao rompimento da barragem em Mariana,
+36 municípios foram atingidos com a lama de
+rejeitos da mineradora. Investigações realizadas
+em Barra Longa, município vizinho de Mariana,
+revelaram uma multiplicidade de efeitos sobre a
+saúde da população, combinando o agravamento
+e a ampliação de doenças preexistentes com
+o surgimento de novas, em um cenário de
+sobreposição de riscos, doenças e danos.
+Considerando as informações apresentadas, avalie
+as asserções a seguir e a relação proposta entre elas.
+|. Orompimento da barragem em Mariana pode
+ser considerado um desastre tecnológico,
+sendo responsável por provocar impactos
+diretos e indiretos sobre a saúde, incluindo
+a ocorrência de doenças e agravos (doenças
+diarreicas agudas, dermatites, ansiedade,
+dentre outros).
+PORQUE
+Il. As atividades de retirada da lama e a
+reconstrução em Barra Longa ampliaram
+os efeitos sobre a saúde da população,
+incluindo a possibilidade de doenças
+respiratórias geradas pela poeira da lama.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções I e II são proposições verdadeiras,
+e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II
+é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="805,179 977,179 977,244 1492,244 1492,645 1491,645 1491,1744 1296,1744 1296,1797 962,1797 962,2037 806,2037 806,1824 807,1824 807,1763 854,1763 854,743 806,743 806,645 805,645"/>
+	<TextEquiv conf="0.96435">
+	<Unicode>QUESTÃO 10
+A qualificação da gestão da informação é fundamental
+para ampliar a qualidade do atendimento à
+população, por isso, o Ministério da Saúde vem
+reestruturando os Sistemas de Informação em
+Saúde. O e-SUS Atenção Básica (e-SUS AB), por
+exemplo, é uma estratégia de reestruturação no
+âmbito das informações da Atenção Básica em nível
+nacional. Além disso, o Prontuário Eletrônico do
+Cidadão (PEC) é um sistema que tem como principal
+objetivo apoiar o processo de informatização das
+Unidades Básicas de Saúde (UBS).
+Considerando as informações acerca do e-SUS e do
+PEC, avalie as afirmações a seguir.
+I. No PEC, ocorre o registro individualizado
+das informações em saúde para oO
+acompanhamento dos atendimentos aos
+cidadãos, sem a integração dos diversos
+sistemas de informação existentes, pois
+estes já são sistemas consolidados.
+Il. No PEC, para a finalidade do registro,
+consideram-se como atributos essenciais
+da AB a atenção às condições agudas, a
+integralidade, a singularidade e a submissão
+do cuidado aos demais níveis de atenção em
+saúde.
+Ill. No PEC, o método SOAP é organizado em
+quatro itens sequenciais titulados pela
+primeira letra de cada item, sendo eles:
+Subjetivo, Objetivo, Avaliação e Plano,
+estabelecendo um vínculo que facilita a
+localização nas diversas vezes em que um
+problema é conduzido.
+IV. No PEC, o sistema de Classificação
+Internacional de Atenção Primária (CIAP2),
+adotado pelo Brasil, é uma ferramenta
+adequada à Atenção Básica (AB), que
+permite classificar, entre outras, questões
+relacionadas às doenças mais prevalentes
+que acometem as pessoas.
+É correto apenas o que se afirma em
+A I e II.
+B II e III.
+C III e IV.
+D I, II e IV.
+E I, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

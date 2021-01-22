@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:27:11</Created>
+	<LastChange>2020-11-20T21:46:01</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,245 341,245 341,312 1576,312 1576,458 1574,458 1574,548 1419,548 1419,549 1263,549 1263,550 1107,550 1107,551 951,551 951,552 795,552 795,553 639,553 639,554 483,554 483,555 327,555 327,556 171,556 171,557 170,557 170,462 169,462 169,314 168,314 168,313 169,313"/>
+	<TextEquiv conf="0.96669">
+	<Unicode>QUESTÃO 14
+A medida de profundidade em ambientes aquáticos está relacionada à pressão hidrostática,
+através da relação aproximadamente linear P = f (2), em que zé a profundidade e P é a pressão.
+Assuma que a densidade da água do mar p = 1,025 x 10º kg:m?, que não há variação dessa densidade
+com a profundidade e que o valor da aceleração da gravidade g= 9,8 ms? .
+Nesse contexto, assinale a opção cujo gráfico relaciona adequadamente a profundidade com a
+pressão hidrostática.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="152,580 152,955 805,955 805,580"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="874,579 874,954 1527,954 1527,579"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="874,999 874,1374 1527,1374 1527,999"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="171,996 171,1371 824,1371 824,996"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="162,1421 162,1796 815,1796 815,1421"/></ImageRegion></Page></PcGts>

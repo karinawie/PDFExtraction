@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T14:13:23</Created>
+	<LastChange>2020-10-29T16:59:06</LastChange></Metadata>
+	<Page imageFilename="provanutricao-23.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="161,383 161,1250 1608,1250 1608,383"/></ImageRegion>
+	<TextRegion id="r174" type="heading">
+	<Coords points="145,252 1600,252 1600,281 1598,281 1598,1549 1599,1549 1599,1586 966,1586 966,1587 332,1587 332,1588 331,1588 331,1616 146,1616 146,1344 145,1344"/>
+	<TextEquiv conf="0.29568">
+	<Unicode>QUESTÃO 23
+A imagem a seguir representa a planta baixa de uma Unidade de Alimentação e Nutrição (UAN).
+Considerando o planejamento físico-funcional da UAN representado nessa figura e o fluxo dos alimentos,
+desde o seu recebimento até a sua distribuição, verifica-se que
+O o fluxo de matérias-primas propicia cruzamentos indesejáveis.
+O a disposição dos setores da UAN permite fluxo linear na produção de alimentos.
+O a localização dos vestiários torna o fluxo de produção de alimentos inadequado.
+O a localização do setor de guarda de utensílios garante o fluxo de materiais limpos.
+O a localização do setor de armazenamento propicia a racionalização dos processos de manipulação de
+alimentos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

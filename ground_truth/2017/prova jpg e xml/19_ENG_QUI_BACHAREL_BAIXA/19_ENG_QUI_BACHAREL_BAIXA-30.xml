@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:14:02</Created>
+	<LastChange>2020-11-27T19:23:58</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="170,244 340,244 340,312 1575,312 1575,939 1577,939 1577,1273 1578,1273 1578,1419 1226,1419 1226,1420 874,1420 874,1421 168,1421 168,939 169,939 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="594,441 594,911 1144,911 1144,441"/></ImageRegion>
+	<TableRegion id="r3">
+	<Coords points="411,1083 411,1255 1330,1255 1330,1083"/></TableRegion>
+	<TextEquiv conf="0.96708">
+	<Unicode>QUESTÃO 28
+No fluxograma exibido a seguir, a corrente 1 é aquecida pelo trocador H1, que emprega uma utilidade
+quente, antes de entrar no reator R1, que opera adiabaticamente. A corrente 2, na saída do equipamento,
+é resfriada pelo trocador C1, que emprega utilidade fria.
+A tabela a seguir apresenta as temperaturas em que as correntes se encontram disponíveis (T') e as
+temperaturas que devem atingir (T'); também apresenta o produto da vazão mássica m pela capacidade
+calorífica à pressão constante das correntes C, , onde ocorre somente troca de calor sensível.
+O arranjo sugerido no fluxograma anterior é pouco eficiente do ponto de vista energético, pois o calor
+disponível na corrente 2 poderia ser usado para pré-aquecer a 1, diminuindo tanto o gasto de utilidade
+fria como de quente. Nesse cenário, considere a proposta de melhoria ilustrada a seguir, na qual foi
+instalado um trocador de calor HE, que promove a troca de calor entre as correntes.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="538,1444 538,2072 1580,2072 1580,1444"/></ImageRegion></Page></PcGts>

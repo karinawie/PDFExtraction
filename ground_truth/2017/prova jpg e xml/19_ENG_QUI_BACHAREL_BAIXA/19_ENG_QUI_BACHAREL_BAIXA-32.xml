@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:13:41</Created>
+	<LastChange>2020-11-27T19:22:44</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,311 1576,311 1576,1223 1577,1223 1577,1291 1062,1291 1062,1374 1039,1374 1039,1428 555,1428 555,1485 398,1485 398,1739 171,1739 171,1740 170,1740 170,1452 218,1452 218,677 170,677 170,622 168,622 168,311 169,311"/>
+	<TextEquiv conf="0.96037">
+	<Unicode>QUESTÃO 30
+Um tanque de equalização, de área transversal À, é projetado para continuamente receber efluente
+industrial de uma pequena planta química, a uma vazão volumétrica q, e temperatura 7”. O efluente tem
+massa específica p e capacidade calorífica à pressão constante C, aproximadamente igual à capacidade
+calorífica a volume constante; todas as propriedades são consideradas constantes no intervalo de
+temperatura da situação. O inventário do tanque é aquecido por meio de uma serpentina preenchida
+com vapor de água saturado e é mantido homogeneizado por meio de um agitador, cuja potência útil a
+ser ofertada ao fluido é W,. A descarga do tanque é realizada apenas por ação da gravidade, e a vazão
+pode ser ajustada pela posição de abertura da válvula existente na linha.
+No que diz respeito a essa situação, avalie as afirmações a seguir.
+|. Caso se assuma que a vazão de descarga do tanque (q) tem um comportamento linear em
+relação ao nível do tanque (4), isto é, q = kh, a equação resultante do balanço de massa no
+tanque será expressa como apresentado a seguir.
+dh
+AD = pq -pkh
+PAT, = Pa, phh
+Il. Considerando-se que a temperatura de condensação do vapor dentro da serpentina é 7º, que o
+coeficiente global de troca térmica entre o vapor e o efluente é U e que a área de troca térmica é
+A ,a equação resultante do balanço de energia no tanque é expressa como apresentado a seguir.
+pANC, E = pa 0 (1 =T)+UVA(T = T)+ W,
+Ill. Quando o sistema entrar em regime permanente, a temperatura do efluente no tanque poderá ser
+determinada pela equação apresentada a seguir.
+Pao, T; +UAT
+T(t &gt; co) =
+Pal, +UA,
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

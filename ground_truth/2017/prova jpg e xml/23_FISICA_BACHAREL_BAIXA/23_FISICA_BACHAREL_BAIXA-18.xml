@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:52:12</Created>
+	<LastChange>2020-11-27T21:06:48</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1205 1059,1205 1059,1458 891,1458 891,581 890,581"/>
+	<ImageRegion id="r3">
+	<Coords points="900,605 900,1088 1569,1088 1569,605"/></ImageRegion>
+	<TextEquiv conf="0.96665">
+	<Unicode>QUESTÃO 12
+Uma fábrica possui uma máquina térmica que opera
+a 3 00O ciclos por minuto, executando ciclos de
+Carnot, um dos quais é apresentado na figura a
+seguir. O trabalho dessa máquina térmica é utilizado
+para elevar verticalmente uma carga de 2000 kg
+com velocidade constante de 5,00 m/s. Considere a
+aceleração da gravidade igual a 10,0 m/s?.
+Na situação descrita, qual a variação da entropia no
+processo AB?
+O 13,33 )/K
+O 10,33 /K
+O 9,67 1/K
+O 6,67 1/K
+O 3,33)/K</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 855,312 855,774 854,774 854,1459 171,1459 171,1460 170,1460 170,884 169,884"/>
+	<TextEquiv conf="0.95975">
+	<Unicode>QUESTÃO 11
+Uma professora de Física sugeriu o seguinte
+aparato experimental aos seus estudantes em uma
+aula de mecânica: em um plano inclinado com um
+ângulo de elevação de 45º com a horizontal, os
+alunos deveriam abandonar, a uma altura de 0,5 m
+do solo, simultaneamente, duas latinhas cilíndricas,
+de mesmo raio e mesma massa, de forma que
+pudessem girar em torno do seu eixo enquanto
+descessem pelo plano sem deslizar. Depois de
+alguns experimentos, os alunos concluíram que
+as latinhas atingiram a base do plano em tempos
+diferentes.
+Considerando o experimento apresentado, assinale
+a opção correta.
+O às latinhas possuem o mesmo valor de
+momento de inércia.
+O A latinha de maior momento de inércia chega
+por último à base do plano.
+O A latinha de menor momento de inércia tem
+maior energia cinética de translação e rotação.
+O As latinhas não atingem a base do plano
+simultaneamente porque têm diferentes
+valores de energia potencial gravitacional.
+O As latinhas, quando descem o plano inclinado,
+têm a energia potencial gravitacional
+transformada integralmente em energia
+cinética de rotação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

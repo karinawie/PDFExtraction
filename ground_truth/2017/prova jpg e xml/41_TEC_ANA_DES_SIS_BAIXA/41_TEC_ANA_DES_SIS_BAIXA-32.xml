@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:22:30</Created>
+	<LastChange>2020-11-30T17:22:40</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1578,312 1578,500 1576,500 1576,669 1578,669 1578,731 1576,731 1576,845 1577,845 1577,912 1576,912 1576,995 1020,995 1020,1057 407,1057 407,1310 171,1310 171,1311 170,1311 170,1058 169,1058 169,1029 218,1029 218,643 168,643 168,574 169,574"/>
+	<TextEquiv conf="0.96516">
+	<Unicode>QUESTÃO 28
+Os requisitos de um sistema consistem nas descrições daquilo que o sistema deve fazer, dos serviços
+que oferece e das restrições a seu funcionamento. Esses requisitos refletem as necessidades específicas
+dos clientes do sistema, como controlar um dispositivo, realizar um pedido ou encontrar informações.
+O processo de descobrir, analisar, documentar e verificar esses serviços e restrições é denominado de
+engenharia de requisitos.
+SOMMERVILLE, |. Engenharia de software. 9. Ed. São Paulo: Pearson, 2011 (adaptado).
+Tendo o texto como referência, avalie as atribuições listadas a seguir, no que se refere à etapa de
+especificação de requisitos em projetos de software.
+|. Identificar as expectativas e necessidades dos stakeholders com relação ao software a ser
+desenvolvido.
+Il. Distribuir os requisitos em categorias, explorar as relações entre eles e classificar sua importância
+para os stakeholders.
+Ill. Produzir um documento de especificação de requisitos, de forma que todos os stakeholders
+possam entendê-lo.
+IV. Examinar a especificação do software para assegurar que todos os requisitos foram definidos sem
+inconsistências.
+São atribuições na etapa de especificação de requisitos os itens
+O lelll, apenas.
+O lelV, apenas.
+O ll elll, apenas.
+O Il elV, apenas.
+O LIHMeIV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

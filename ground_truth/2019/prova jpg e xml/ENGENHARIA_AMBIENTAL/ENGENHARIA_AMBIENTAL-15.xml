@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T18:28:31</Created>
+	<LastChange>2020-09-11T18:30:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_AMBIENTAL-15.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,434 1490,434 1490,615 1491,615 1491,907 85,907 85,906 84,906 84,834 85,834 85,496 83,496 83,246 84,246"/>
+	<TextEquiv conf="0.86611">
+	<Unicode>QUESTÃO 09
+A Política Nacional de Recursos Hídricos, instituída pela Lei n. 9.433, de 1997, estabeleceu instrumentos
+para a gestão dos recursos hídricos de domínio federal e criou o Sistema Nacional de Gerenciamento de
+Recursos Hídricos (Singreh). Entre os instrumentos de gestão instituídos, a cobrança pelo uso de recursos
+hídricos tem como objetivos reconhecer a água como bem econômico e dar ao usuário uma indicação
+real do seu valor, incentivar a racionalização do uso da água e obter recursos financeiros.
+A respeito do instrumento de cobrança pelo uso dos recursos hídricos, é correto afirmar que
+A os valores arrecadados com a cobrança devem ser aplicados prioritariamente na bacia hidrográfica em
+que foram gerados.
+B os valores arrecadados com a cobrança devem ser utilizados prioritariamente no custeio administrativo
+dos órgãos e das entidades integrantes do Singreh.
+C a cobrança pelo uso de recursos hídricos compete aos Comitês de Bacia, no âmbito da sua área de
+atuação.
+D a definição de critérios gerais de cobrança pelo uso da água é competência das Agências de Água.
+E o estabelecimento de mecanismos de cobrança pelo uso da água e os valores a serem cobrados são
+de competência do Conselho Estadual de Recursos Hídricos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,936 255,936 255,1003 1491,1003 1491,1224 1490,1224 1490,1459 1491,1459 1491,1734 575,1734 575,1787 234,1787 234,2036 85,2036 85,1754 133,1754 133,1442 85,1442 85,1441 84,1441 84,1223 83,1223 83,1002 84,1002"/>
+	<TextEquiv conf="0.96646">
+	<Unicode>QUESTÃO 10
+Conciliar a expansão das fronteiras agrícolas com a preservação dos recursos hídricos representa um
+desafio técnico, econômico e ambiental. Nesse contexto, são necessárias bases de dados consistentes e
+ferramentas analíticas que subsidiem os planos de gerenciamento e as metas de qualidade dos corpos
+de água a serem definidas para uma bacia hidrográfica. Nessa perspectiva, a modelagem hidrológica
+distribuída com base em geoprocessamento é aplicada para identificar, quantificar e definir cenários
+desejáveis que considerem a poluição difusa em bacias hidrográficas.
+LIBOS, M.; FILHO, O. C. R.; ZEILHOFER, P. Modelagem da poluição não pontual na bacia do rio Cuiabá baseada em geoprocessamento.
+Revista Brasileira de Recursos Hídricos, v. 8, n. 4, p. 115-135, 2003 (adaptado).
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+|. Um modelo baseado em processos hidrológicos tem o objetivo de representar matematicamente
+os fenômenos hidrológicos ambientais, aproximando-se da realidade do sistema modelado.
+Il. Um modelo hidrológico baseado em geoprocessamento permite a espacialização de dados
+pontuais de qualidade de água para toda a bacia hidrográfica.
+Ill. Um modelo hidrológico, embora permita a geração de cenários relacionados à expansão das
+fronteiras agrícolas, deve ser usado de forma limitada para o desenvolvimento de estratégias de
+gestão, devido às suas incertezas metodológicas.
+IV. Um modelo hidrológico permite a análise dos impactos decorrentes das cargas de nutrientes
+espacializadas provocados pelas atividades agrícolas.
+É correto apenas o que se afirma em
+A I e IV.
+B II e III.
+C III e IV.
+D I, II e III.
+E I, II e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

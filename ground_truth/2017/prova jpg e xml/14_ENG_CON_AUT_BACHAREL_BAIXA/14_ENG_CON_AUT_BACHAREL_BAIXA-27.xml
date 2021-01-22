@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:32:40</Created>
+	<LastChange>2020-11-21T01:00:16</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r6">
+	<Coords points="867,246 871,2112 876,2112 872,246"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="891,244 1063,244 1063,312 1576,312 1576,420 1354,420 1354,528 1577,528 1577,757 1576,757 1576,959 1577,959 1577,1444 1278,1444 1278,1498 1072,1498 1072,1627 1129,1627 1129,1754 892,1754 892,1531 893,1531 893,1466 940,1466 940,932 892,932 892,758 889,758 889,528 1113,528 1113,420 892,420 892,421 891,421"/>
+	<TextEquiv conf="0.96415">
+	<Unicode>QUESTÃO 24
+Um sistema massa-mola-amortecedor é descrito
+pela seguinte equação diferencial linear de
+segunda ordem:
+mã + bi + kr = f(t)
+em que z representa o deslocamento do objeto;
+f a força aplicada; m, a massa do objeto; b, o
+coeficiente de amortecimento; e k, a constante
+da mola; m, b e k são constantes reais positivas
+e, conforme os valores desses três parâmetros, o
+sistema apresenta formas distintas de resposta.
+Considerando que o referido sistema está
+inicialmente em repouso e uma força em degrau
+unitário é aplicada à massa, avalie as afirmações
+a seguir.
+|. Caso os três parâmetros (m, b, k) sejam
+unitários, o sistema possuirá um par de
+polos complexos conjugados e, portanto,
+sua resposta será do tipo oscilatória com
+amplitude decrescente ao longo do tempo.
+Il. Caso o coeficiente de amortecimento seja
+nulo, a resposta do sistema será oscilatória
+com amplitude crescente ao longo do
+tempo.
+Ill. Caso os três parâmetros (m, b, k) sejam
+tais que o sistema possua dois polos reais,
+a resposta não apresentará oscilações.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O ll elll, apenas.
+QE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="171,244 340,244 340,312 855,312 855,1697 513,1697 513,1704 171,1704 171,1711 170,1711 170,688 171,688 171,275 170,275 170,245 171,245"/>
+	<ImageRegion id="r2">
+	<Coords points="166,411 166,636 841,636 841,411"/></ImageRegion>
+	<TextEquiv conf="0.96591">
+	<Unicode>QUESTÃO 23
+Um sistema de controle monovariável é
+representado pelo diagrama de blocos a seguir.
+Definindo-se a saída da planta como x,, a saída do
+controlador como x, e a saída do sensor como x,, o
+modelo no espaço de estados do sistema descrito
+􀆐􀄞􀆌􀄄􀀃􀄚􀄂􀄚􀅽􀀃􀆉􀅽􀆌
+A
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 8 0
+0 0 1
+1 0 2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+−
+−
+−
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+1 0 0
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+B
+[2 0 0]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 8 0
+0 0 1
+1 0 1
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+−
+−
+−
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+C
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 8 0
+0 0 1
+1 0 2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+−
+−
+−
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+0 0 1
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+D
+0 1− −
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 0 1
+8 0 0
+2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡−
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+1 0 0
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+E
+− −
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 0 1
+8 0 0
+0 1 2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡−
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+0 0 2
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥</Unicode></TextEquiv></TextRegion></Page></PcGts>

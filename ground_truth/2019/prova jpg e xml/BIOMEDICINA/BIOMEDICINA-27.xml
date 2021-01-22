@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T22:46:17</Created>
+	<LastChange>2020-09-09T22:47:19</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-27.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r2">
+	<Coords points="787,181 787,2048 788,2048 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="805,526 805,1081 1502,1081 1502,526"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,249 769,249 769,513 770,513 770,600 769,600 769,1304 770,1304 770,1495 575,1495 575,1559 233,1559 233,1824 84,1824 84,1593 85,1593 85,1525 133,1525 133,660 85,660 85,600 84,600 84,489 83,489 83,249 84,249"/>
+	<TextEquiv conf="0.92754">
+	<Unicode>QUESTÃO 29
+As Boas Práticas de Fabricação (BPF) abrangem
+um conjunto de medidas que devem ser adotadas
+pelas indústrias de alimentos e pelos serviços
+de alimentação, a fim de garantir a qualidade
+sanitária e a conformidade dos alimentos com os
+regulamentos técnicos.
+Disponível em: &lt;http://portal.anvisa.gov.br/registros-e-autorizacoes/
+alimentos/empresas/boas-praticas-de-fabricacao&gt;.
+Acesso em: 15 jul. 2019 (adaptado).
+De acordo com as BPF, avalie as afirmações a seguir.
+|. Os manipuladores de alimentos devem
+usar cabelos presos e protegidos, ter unhas
+curtas e sem esmalte e não fazer uso de
+anéis e brincos.
+Il. Durante o preparo dos alimentos, os
+manipuladores devem lavar as mãos
+continuamente, sendo necessária à
+realização desse procedimento antes e
+depois do preparo.
+Ill. O aço inoxidável, o vidro e a madeira são
+opções de materiais para os utensílios e
+as superfícies dos equipamentos e dos
+móveis que podem entrar em contato com
+alimentos e bebidas.
+IV. Falhas na manipulação de alimentos por
+pessoas que não executam as BPF podem
+ser detectadas por meio de técnicas
+microbiológicas, como a contagem de
+coliformes totais em amostras alimentares.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C II e III.
+D III e IV.
+E I, II e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="805,179 977,179 977,247 1491,247 1491,1830 806,1830 806,1174 805,1174"/>
+	<TextEquiv conf="0.96733">
+	<Unicode>QUESTÃO 30
+O hemograma é um exame laboratorial de rotina
+que permite identificar anemias, por meio da
+avaliação dos índices hematimétricos e das
+possíveis alterações na morfologia eritrocitária.
+A seguir, é apresentado um esfregaço hematológico,
+corado pelo Giemsa e observado em microscópio
+óptico, de um paciente com suspeita clínica de anemia.
+Considerando as informações descritas e a respeito
+do esfregaço apresentado, assinale a opção correta.
+A O esfregaço apresenta drepanócitos e os índices
+VCM e CHCM aumentados, indicando anemia
+do tipo falciforme.
+B O esfregaço apresenta drepanócitos e os índices
+VCM e CHCM diminuídos, indicando anemia do
+tipo falciforme.
+C O esfregaço apresenta drepanócitos e os índices
+VCM e CHCM aumentados, indicando síndrome
+talassêmica.
+D O esfregaço apresenta acantócitos e os índices
+VCM e CHCM aumentados, indicando síndrome
+talassêmica.
+E O esfregaço apresenta acantócitos e os índices
+VCM e CHCM diminuídos, indicando anemia do
+tipo falciforme.</Unicode></TextEquiv></TextRegion></Page></PcGts>

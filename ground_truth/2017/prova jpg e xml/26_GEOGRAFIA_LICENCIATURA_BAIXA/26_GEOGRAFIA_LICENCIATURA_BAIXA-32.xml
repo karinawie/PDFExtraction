@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T22:13:20</Created>
+	<LastChange>2020-11-27T22:55:44</LastChange></Metadata>
+	<Page imageFilename="26_GEOGRAFIA_LICENCIATURA_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="170,244 340,244 340,315 1576,315 1576,555 1225,555 1225,556 873,556 873,557 783,557 783,623 476,623 476,624 330,624 330,887 171,887 171,888 170,888 170,625 168,625 168,315 169,315 169,245 170,245"/>
+	<TextEquiv conf="0.96295">
+	<Unicode>QUESTÃO 30
+Durante uma aula de Geografia, o professor foi questionado por um grupo de estudantes do
+Ensino Médio sobre a distância entre Porto Alegre/Brasil e Mabrouk/Mali. Aproveitando o
+questionamento, o professor usou uma régua padrão e o mapa-múndi e retornou a seguinte
+pergunta ao grupo: “Considerando que este mapa foi construído na escala 1 : 32 320 000 e
+verificando que, no mapa, observa-se uma distância de 10 centímetros entre Porto Alegre e
+Mabrouk, qual a distância real em quilômetros entre as duas cidades em linha reta?”
+A resposta correta à indagação do professor é
+O 3232.
+O 61464.
+O 32320.
+O 64 640.
+O 323 200.</Unicode></TextEquiv></TextRegion></Page></PcGts>

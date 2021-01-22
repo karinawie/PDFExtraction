@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:57:13</Created>
+	<LastChange>2020-11-30T18:38:09</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="169,244 514,244 514,301 1576,301 1576,436 1574,436 1574,2036 1576,2036 1576,2105 873,2105 873,2106 170,2106 170,2107 169,2107 169,438 168,438 168,301 169,301"/>
+	<ImageRegion id="r1">
+	<Coords points="625,433 625,1141 1311,1141 1311,433"/></ImageRegion>
+	<TableRegion id="r3">
+	<Coords points="169,1161 169,1700 855,1700 855,1161"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="947,1155 947,1761 1572,1761 1572,1155"/></TableRegion>
+	<TextEquiv conf="0.96491">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Uma arquitetura de gerenciamento SNMP V2c está representada na figura a seguir, que abrange o
+gerenciador e mais dois equipamentos gerenciados — roteador (R1) e servidor (S1) —, além de duas
+tabelas auxiliares que contém os comandos SNMP e objetos gerenciáveis mantidos pelos agentes SNMP
+em cada dispositivo representado.
+Com base nessas informações, faça o que se pede nos itens a seguir.
+a) Explique a função de dois componentes quaisquer da arquitetura SNMP representada na figura.
+(valor: 4,0 pontos)
+b) Explicite o objetivo da função Trap, indicada na tabela 1. (valor: 2,0 pontos)
+c) Considerando a figura e a tabela 2, descreva os objetos que devem ser monitorados para a realização
+da análise de desempenho da internet, via interface serial O (SO) do roteador R1. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

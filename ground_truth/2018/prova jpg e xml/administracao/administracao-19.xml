@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T21:56:58</Created>
+	<LastChange>2020-09-26T01:01:38</LastChange></Metadata>
+	<Page imageFilename="administracao-19.jpg" imageWidth="1619" imageHeight="2170">
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="106,181 276,181 276,250 1513,250 1513,347 1514,347 1514,693 1512,693 1512,810 107,810 107,811 106,811 106,694 105,694 105,347 106,347"/>
+	<TextEquiv conf="0.96542">
+	<Unicode>QUESTÃO 13
+Segundo dados do Censo da Educação Superior, observa-se, nos últimos anos, um aumento do número
+de Instituições de Educação Superior privadas no Brasil.
+Nessa nova realidade, o aumento da concorrência, aliado à redução gradativa do número de estudantes
+ingressantes no curso de Administração ano a ano, levou uma instituição que opera no ensino superior
+privado há mais de 30 anos, com ofertas de formação estritamente na modalidade presencial, a rever
+sua atuação. Após uma análise ambiental detalhada, a instituição optou por utilizar nesse curso uma
+estratégia genérica de diferenciação de produto. Nessa mesma linha, por entender que não teria
+condições de criar um diferencial competitivo nas ofertas de curso a distância, já que seria um entrante
+tardio nesse mercado, a instituição optou por manter suas ofertas exclusivamente na modalidade
+presencial. Com base nisso, elaborou um planejamento estratégico para reformular o curso de acordo
+com esse direcionamento.
+Com base no texto, assinale a opção em que as informações apresentadas no quadro são coerentes com
+a estratégia genérica definida pela instituição.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="134,828 134,1194 789,1194 789,828"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="868,828 868,1215 1515,1215 1515,828"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="139,1226 139,1636 778,1636 778,1226"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="868,1228 868,1642 1521,1642 1521,1228"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="134,1663 134,2060 786,2060 786,1663"/></TableRegion></Page></PcGts>

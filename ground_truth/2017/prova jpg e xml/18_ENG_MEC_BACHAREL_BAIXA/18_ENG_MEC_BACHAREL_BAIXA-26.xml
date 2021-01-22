@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:58:19</Created>
+	<LastChange>2020-11-27T18:51:30</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="868,246 872,2112 877,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1577,312 1577,537 1575,537 1575,1212 1576,1212 1576,1279 1575,1279 1575,1461 1277,1461 1277,1521 1128,1521 1128,1724 1040,1724 1040,1769 891,1769 891,1279 890,1279 890,711 889,711 889,564 890,564"/>
+	<ImageRegion id="r3">
+	<Coords points="900,736 900,1175 1575,1175 1575,736"/></ImageRegion>
+	<TextEquiv conf="0.96664">
+	<Unicode>QUESTÃO 25
+Os micrômetros possuem um sistema de parafuso
+e porca em que, a cada volta do tambor, ocorre
+um deslocamento de comprimento equivalente ao
+passo do parafuso. Possuem também uma escala
+auxiliar móvel (nônio ou vernier), que ajuda a
+dividir a escala principal fixa.
+A figura a seguir representa as escalas de um
+micrômetro com passo da rosca de 0,5 mm e
+tambor com 50 divisões. As indicações em A, B,/ Ce
+D devem ser consideradas para leitura.
+ALVES, C. C. Apostila de Metrologia. Instituto de Educação, Ciência
+e Tecnologia - Campus de Guarulhos, 2012 (adaptado).
+A partir das informações apresentadas, avalie as
+afirmações a seguir.
+|. Aleitura final é de 20,618 mm.
+Il. A resolução do nônio é de 0,001 mm.
+Ill. A existência do nônio exclui a utilização da
+escala centesimal do tambor.
+É correto o que se afirma em
+O, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+QE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 340,244 340,312 855,312 855,458 853,458 853,574 854,574 854,830 855,830 855,995 853,995 853,1169 854,1169 854,1327 660,1327 660,1384 295,1384 295,1633 171,1633 171,1634 170,1634 170,1351 216,1351 216,1256 218,1256 218,804 168,804 168,702 169,702 169,701 218,701 218,460 169,460 169,313 168,313 168,312 169,312 169,245 170,245"/>
+	<TextEquiv conf="0.89155">
+	<Unicode>QUESTÃO 24
+Considere uma situação em que, em um projeto
+industrial, seja necessária a especificação do
+tratamento térmico para a fabricação de duas
+peças, A e B, com as seguintes características:
+º* peçaaA: resistência ao desgaste e fabricada
+em aço com alto teor de carbono;
+*º peça B: elevada ductilidade e
+usinabilidade, fabricada
+processo de laminação a frio.
+boa
+através — do
+Acerca da situação descrita, avalie as afirmações
+a seguir, quanto à eficácia no alívio de tensões
+internas.
+|. É necessário, após a fabricação da peça B,
+processo de têmpera.
+ll. É necessário, após a fabricação da peça
+A, processo de têmpera e, em seguida,
+processo de revenimento.
+Ill. É necessário, após a fabricação
+B, processo de têmpera e, em
+processo de revenimento.
+da peça
+seguida,
+IV. É necessário, após a fabricação da peça B,
+processo de recozimento.
+V. É necessário, após a fabricação da peça A,
+processo de recozimento.
+É correto apenas o que se afirma em
+Oie.
+Oie
+Oielv
+O ev.
+O Wvev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

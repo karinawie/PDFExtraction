@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T02:18:53</Created>
+	<LastChange>2020-09-09T02:19:10</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-16.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="239,1005 239,1531 1336,1531 1336,1005"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,977 936,977 936,1631 1491,1631 1491,1995 1489,1995 1489,2048 85,2048 85,1804 84,1804"/>
+	<TextEquiv conf="0.96590">
+	<Unicode>QUESTÃO 09
+Para manter ou elevar a produtividade das culturas, a agricultura exige o uso de insumos em quantidades
+adequadas, de modo a conservar o solo e atender a critérios econômicos. A correção da acidez do solo,
+por exemplo, faz-se necessária para promover maior eficiência de absorção de água e de nutrientes
+pelas plantas e, consequentemente, obter melhor produtividade das culturas. Para determinação da
+necessidade de calagem, são propostas as seguintes equações:
+V= (E) 100
+T
+(V2- VD.T
+PRNT
+NC =
+em que Vé a porcentagem de saturação de bases; SB é a soma de bases, em cmol:dm3; Té a capacidade
+de troca catiônica em pH 7; NC é a necessidade de calagem, em kg:-ha!; e PRNT é o poder relativo de
+neutralização total, em porcentagem.
+Suponha que um agricultor possui duas propriedades rurais e deseja verificar a necessidade de calagem
+em cada uma delas. A recomendação é elevar a saturação por bases do solo para 70% com calcário de
+PRNT de 80%. As análises de solo das propriedades são apresentadas na tabela a seguir.
+Com base nas informações apresentadas, é correto afirmar que
+A a propriedade A necessita de calagem de 2 t-ha"!, enquanto que a propriedade B não necessita de
+calagem.
+B a propriedade A necessita de calagem de 1,4 t-ha"!, enquanto que a propriedade B necessita de
+calagem de 2 t-ha!.
+C a propriedade A não necessita de calagem, já que a saturação por bases atual do solo
+é igual a 70%.
+D a propriedade A não necessita de calagem, pois a saturação por bases atual do solo é maior do que a
+saturação desejada, enquanto a propriedade B necessita de calagem .
+E as propriedades A e B não necessitam de calagem considerando seus valores de saturação por bases.</Unicode></TextEquiv></TextRegion></Page></PcGts>

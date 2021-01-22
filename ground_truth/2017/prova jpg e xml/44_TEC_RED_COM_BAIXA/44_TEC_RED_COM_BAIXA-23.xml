@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:55:35</Created>
+	<LastChange>2020-11-30T18:32:20</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 871,2112 874,2112 875,247"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,637 1575,637 1575,792 1576,792 1576,1358 1382,1358 1382,1419 1381,1419 1381,1420 1058,1420 1058,1674 892,1674 892,1673 891,1673 891,1451 892,1451 892,1418 893,1418 893,1386 937,1386 937,1175 939,1175 939,1087 985,1087 985,826 939,826 939,637 891,637 891,636 890,636 890,535 889,535 889,312 890,312"/>
+	<TextEquiv conf="0.96728">
+	<Unicode>QUESTÃO 19
+Na elaboração e implantação de projetos lógicos e
+físicos é necessário considerar a segurança de redes
+de computadores. Os padrões para redes sem fio
+definem a frequência de operação, taxa máxima
+de transmissão, área de cobertura aproximada e as
+técnicas de transmissão utilizadas.
+Acerca da segurança de redes sem fio, avalie as
+afirmações a seguir.
+|. O WPA?2 (Wi-Fi Protected Access 2) fornece
+segurança na transmissão de dados em uma
+rede sem fio.
+Il. O WPA2 é um protocolo seguro, pois
+implementa técnicas de segurança que
+não eram suportadas pela primeira versão
+do WPA.
+III.O WPA? utiliza o sistema de criptografia AES
+(Advanced Encryption Standard), com uso
+de chaves de 256 a 512 bits.
+IV. O WPA?2 oferece integridade, pois utiliza o
+protocolo CCMP (CMM Mode Protocol).
+V. O WPA2 fornece um nível aceitável de
+segurança para autenticação nas redes sem
+fio e usa o algoritmo de criptografia RC4
+para garantir confidencialidade dos dados
+trocados na rede.
+É correto apenas o que se afirma em
+O Le,
+O LIlelv.
+OLMev
+O UI, Vev.
+O UU, IVev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,314 856,314 856,1347 854,1347 854,1782 713,1782 713,1840 309,1840 309,1965 369,1965 369,2096 170,2096 170,1946 169,1946 169,1865 178,1865 178,1806 216,1806 216,1585 218,1585 218,1262 167,1262 167,314 169,314"/>
+	<TextEquiv conf="0.96363">
+	<Unicode>QUESTÃO 18
+Os dispositivos de interconexão de rede são
+usados nas mais diversas aplicações, seja em uma
+LAN (Local Area Network) ou em grandes redes
+como a internet. Entre os mais comuns, estão
+concentradores, repetidores, pontes, switches,
+roteadores e gateways. Estes últimos podem
+ser um hardware, um software ou a combinação
+de ambos. O gateway pode traduzir endereços
+e formatos de mensagens, tornando possível
+a comunicação entre redes heterogêneas, isto
+é, redes que utilizam tecnologias diferentes.
+O gateway pode estar associado a um simples
+roteador doméstico e atuar como um servidor
+proxy, entre outras aplicações.
+Disponível em: &lt;http://www.hardware.com.br&gt;.
+Acesso em: 18 jul. 2017 (adaptado).
+Considerando as informações apresentadas, avalie
+as ações a seguir, em relação ao que o gateway
+permite.
+|. Interligar redes que utilizam protocolos
+diferentes.
+Il. Implementar VLANs (Virtual LANs) para
+melhorar o desempenho e segurança da
+rede.
+III. Traduzir pacotes originários da rede local
+para que estes possam atingir o destinatário.
+IV. Atuar como firewalli/ pois serve de
+intermediário entre a estação (o utilizador)
+e a rede (a internet, por exemplo).
+V. Compartilhar a conexão com a internet entre
+várias estações, desde que o endereço do
+gateway esteja definido nas propriedades
+de rede, não sendo possível a alocação
+automática de endereços.
+É correto apenas o que se menciona em
+Oie
+OlLlev
+O LIelv.
+O MM, IVev.
+Ou, IvVev</Unicode></TextEquiv></TextRegion></Page></PcGts>

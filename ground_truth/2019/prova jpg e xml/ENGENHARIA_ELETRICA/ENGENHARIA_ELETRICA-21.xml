@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:35:22</Created>
+	<LastChange>2020-09-12T22:35:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-21.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,391 1489,391 1489,492 239,492 239,661 1489,661 1489,1125 1021,1125 1021,1126 552,1126 552,1127 436,1127 436,1373 86,1373 86,1374 85,1374 85,1128 83,1128 83,661 84,661 84,492 83,492 83,247 84,247"/>
+	<TextEquiv conf="0.89746">
+	<Unicode>QUESTÃO 14
+As equações diferenciais são utilizadas para modelagem matemática de problemas em diversas áreas. Na
+Engenharia Elétrica, especificamente na área de Sistemas Elétricos de Potência, são empregados vários
+métodos numéricos para a solução das equações diferenciais, com destaque para os métodos de Runge-
+Kutta, Euler e Euler Melhorado.
+A estrutura algorítmica a seguir emprega o método de Euler para solução de uma equação diferencial.
+Para sua implementação, são utilizadas algumas variáveis, quais sejam: dt, t, tf e x.
+início
+dt = 0,5
+tf = 12
+x(0) = 10,0
+enquanto 0 &lt;= t &lt;= tf
+kl = — 1/4 * x(t) + 1
+Xx(t + dt) = x(t) + kl * dt
+t =t+ dt
+fim enquanto
+fim
+Com base nessas informações, após a execução desse algoritmo, os dois primeiros valores para cada
+uma das variáveis t e x serão, respectivamente,
+A 0,06 0,5; 9,25 e 10,0.
+B 0,06 0,5; 10,0 e 9,25.
+C 0,50 12,0; 0,0 e 0,0.
+D 10,0 e 9,25; 0,5 e 12,0.
+E 12,06 0,5; 0,25 e 12,0.</Unicode></TextEquiv></TextRegion></Page></PcGts>

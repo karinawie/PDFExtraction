@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:51:51</Created>
+	<LastChange>2020-11-27T21:05:28</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-20.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r2">
+	<Coords points="868,246 872,2112 877,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1577,312 1577,1085 1041,1085 1041,1243 1024,1243 1024,1338 891,1338 891,1339 891,1085 890,1085"/>
+	<ImageRegion id="r3">
+	<Coords points="894,555 894,872 1569,872 1569,555"/></ImageRegion>
+	<TextEquiv conf="0.96122">
+	<Unicode>QUESTÃO 16
+A profundidade do coração (distância entre os
+dois lados do órgão) pode ser estimada a partir
+da imagem dos resultados de um ecocardiograma
+estático, como o da figura a seguir, em que o tempo
+é registrado desde o momento quando o pulso
+deixa o transmissor até retornar ao detector.
+O ecocardiograma mostrado foi obtido com ondas
+de ultrassom à velocidade de 1 500 m/s, que
+refletiram nos dois lados do coração e depois em
+um osso. Nesse contexto, qual a profundidade do
+coração?
+O 21,0 cm
+O 15,0 cm
+O 12,0 cm
+O 7,5 cm
+O 4,5 cm</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 339,244 339,321 853,321 853,377 855,377 855,378 856,378 856,594 854,594 854,707 853,707 853,1435 855,1435 855,2033 856,2033 856,2110 514,2110 514,2111 171,2111 171,2112 170,2112 170,1555 168,1555 168,410 169,410 169,245 170,245"/>
+	<ImageRegion id="r4">
+	<Coords points="175,911 175,1377 847,1377 847,911"/></ImageRegion>
+	<TextEquiv conf="0.95884">
+	<Unicode>QUESTÃO 15
+Os circuitos RLC têm muitas aplicações práticas.
+Nos circuitos sintonizadores de rádios, por
+exemplo, a antena capta os sinais alternados
+de várias rádios, em frequências diferentes, e o
+circuito ressonante seleciona apenas a faixa de
+frequência correspondente à emissora desejada.
+O comportamento ressonante está relacionado
+1
+oC
+ao sinal das reatâncias X, =0L e X,=
+na condição X,=X%,,
+No circuito mostrado na figura a seguir, a sintonia
+é feita por meio do capacitor de capacitância
+variável C.
+Considerando as condições do circuito apresentado,
+para sintonizar uma estação de rádio que opera na
+frequência de 1 000 kHz, é correto afirmar que
+O as correntes elétricas que percorrem os ramos
+do capacitor e da bobina devem estar em fase e
+apresentar magnitudes iguais.
+O a energia armazenada no campo magnético da
+bobina deve ser transferida para o capacitor.
+O o valor da capacitância de C deve ser
+aproximadamente igual a 12,7 pF.
+O os valores das reatâncias X, e X, devem ser
+aproximadamente iguais a 251 kQO.
+O quanto maior o valor da resistência R, maior
+será a seletividade de frequências do circuito.</Unicode></TextEquiv></TextRegion></Page></PcGts>

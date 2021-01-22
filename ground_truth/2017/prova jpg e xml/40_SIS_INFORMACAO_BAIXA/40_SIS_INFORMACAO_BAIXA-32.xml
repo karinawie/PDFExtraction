@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:34:14</Created>
+	<LastChange>2020-11-25T18:59:47</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,246 871,2112 873,2112 874,246"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,853 1575,853 1575,1071 1576,1071 1576,1523 1575,1523 1575,1524 1381,1524 1381,1579 1047,1579 1047,1833 891,1833 891,1610 892,1610 892,1545 939,1545 939,1044 890,1044 890,975 940,975 940,764 889,764 889,312 890,312"/>
+	<TextEquiv conf="0.96133">
+	<Unicode>QUESTÃO 31
+A cloud computing (computação em nuvem) tem
+o objetivo de fornecer recursos de hardware e
+software sob demanda a partir de servidores
+interligados pela internet, seguindo o princípio
+da computação em grid (grade). Uma arquitetura
+em grid é descrita por meio das quatro camadas a
+seguir.
+*º Rede: executa a comunicação e se utiliza da
+parte física;
+* Recursos: formada pelos servidores de
+armazenamento e/ou processamento;
+*º Middleware: formada pelo software
+responsável pela troca de informações;
+*º Ferramentas e aplicações: representada
+pelos aplicativos.
+De acordo com o texto, avalie as afirmações a
+seguir.
+|. A camada de ferramentas e aplicações é
+responsável pela negociação das transações
+de dados no grid.
+Ill. A camada middleware é responsável pela
+interconectividade e comunicação entre os
+membros do grid.
+Ill. A camada de rede é reponsável pela
+concectividade entre os diferentes membros
+do grid.
+IV. A camada de recursos é responsável pela
+segurança dos dados nas aplicações do grid.
+É correto apenas o que se afirma em
+Oie
+O el.
+O eiv
+O L1lelv.
+OE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,1404 660,1404 660,1459 336,1459 336,1714 169,1714 169,1491 170,1491 170,1426 216,1426 216,1215 218,1215 218,677 169,677 169,581 168,581 168,312 169,312"/>
+	<TextEquiv conf="0.94316">
+	<Unicode>QUESTÃO 30
+Para garantir a qualidade no desenvolvimento de
+software é indispensável definir processos para
+gerenciar mudanças no escopo do produto e
+configurações do software em desenvolvimento.
+Esses processos incluem atividades de planejamento,
+validação, verificação e gerenciamento de versões
+(mudanças ou releases).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. Ogerenciamento de mudanças acompanha
+a solicitação de alterações no software,
+define os custos, seus impactos e quando
+estas devem ser implementadas.
+Il. A revisão dos artefatos de software tem
+por objetivo armazenar a documentação
+em um repositório central.
+Ill. A verificação de software tem o objetivo de
+controle de versões da documentação.
+IV. A validação de software tem o objetivo de
+garantir que as necessidades e expectativas
+do cliente sejam atendidas.
+V. O gerenciamento de configuração controla
+a edição simultânea dos artefatos do
+software, mantém o controle das versões
+do software e recomenda a auditoria das
+configurações.
+É correto apenas o que se afirma em
+O 1t11e.
+O LIlelv.
+O Livev
+O !Mmev
+Ou,IVev</Unicode></TextEquiv></TextRegion></Page></PcGts>

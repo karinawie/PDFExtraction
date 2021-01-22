@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:26:19</Created>
+	<LastChange>2020-09-13T22:27:04</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-28.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="263,1102 263,1597 1497,1597 1497,1102"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,244 1491,244 1491,487 916,487 916,607 1050,607 1050,697 1174,697 1174,729 85,729 85,730 84,730 85,730 85,594 84,594 84,562 85,562 85,385 83,385 83,244 84,244"/>
+	<TextEquiv conf="0.96215">
+	<Unicode>QUESTÃO 31
+A razão sinal-ruído (RSR) nos exames por ressonância magnética envolve a quantidade de sinal induzida
+na bobina receptora e o ruído. Trata-se de um parâmetro importante para a qualidade das imagens, com
+existência de fatores intervenientes para seu aumento, que se relaciona diretamente com a resolução das
+imagens e o tempo necessário de aquisição dos exames.
+WESTBROOK, C. Manual de técnicas de ressonância magnética. 3. ed. Rio de Janeiro: Guanabara Koogan, 2010 (adaptado).
+Um dos meios para aumentar a razão sinal-ruído em um exame por ressonância magnética é
+A diminuir a espessura de corte da anatomia de interesse.
+B manter a matriz fixa e escolher um campo de visão menor.
+C selecionar tempo de repetição (TR) longo e tempo de eco (TE) curto.
+D usar a maior largura de banda de recepção possível para o sistema.
+E escolher o número mínimo de excitações que armazenam dados no espaço K.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,760 255,760 255,761 256,761 256,823 1491,823 1491,934 1492,934 1492,1030 1491,1030 1491,1684 1490,1684 1490,2037 788,2037 788,2038 85,2038 85,2039 84,2039 84,1087 83,1087 83,823 84,823"/>
+	<TextEquiv conf="0.96633">
+	<Unicode>QUESTÃO 32
+Ao longo do tempo, os tratamentos em radioterapia vêm evoluindo e novas tecnologias têm permitido
+tratamentos cada vez mais precisos, a exemplo da radioterapia com intensidade modulada do feixe (IMRT)
+e da radioterapia conformada ou conformacional.
+Na IMRT, a entrega da irradiação para volumes de formato irregular é otimizada e permite produzir
+concavidades em volumes de tratamento. Já a radioterapia conformada ou conformacional é uma
+modalidade de tratamento na qual os campos de irradiação são definidos segundo o volume-alvo.
+As imagens a seguir ilustram dois cortes axiais da pelve masculina em planejamento tridimensional (3D).
+Considerando os tratamentos de radioterapia conformacional e radioterapia IMRT e as imagens
+apresentadas, é correto afirmar que
+A as imagens A e B referem-se a um planejamento 3D de IMRT.
+B as imagens A e B correspondem a um planejamento 3D de radioterapia conformacional.
+C a imagem A corresponde a um planejamento 3D que se refere à IMRT e a imagem B não corresponde
+a qualquer dos tratamentos apresentados.
+D a imagem A corresponde a um planejamento 3D referindo-se à IMRT, e a imagem B corresponde a um
+planejamento 3D que se refere à radioterapia conformacional.
+E a imagem A corresponde a um planejamento 3D que se refere à radioterapia conformacional, e a
+imagem B corresponde a um planejamento 3D que se refere à IMRT.</Unicode></TextEquiv></TextRegion></Page></PcGts>

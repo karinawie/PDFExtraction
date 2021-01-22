@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T19:44:55</Created>
+	<LastChange>2020-10-28T22:36:59</LastChange></Metadata>
+	<Page imageFilename="provamedicina_veterinaria-13.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r2">
+	<Coords points="871,254 871,2073 873,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="890,243 1600,243 1600,274 1599,274 1599,777 1598,777 1598,881 1600,881 1600,1114 1599,1114 1599,1286 1600,1286 1600,1483 1599,1483 1599,1814 1381,1814 1381,1902 1039,1902 1039,2040 1047,2040 1047,2071 891,2071 891,1829 984,1829 984,1540 985,1540 985,1309 939,1309 939,1287 970,1287 970,1286 985,1286 985,1114 939,1114 939,861 890,861 890,798 892,798 892,673 890,673"/>
+	<TextEquiv conf="0.01994">
+	<Unicode>QUESTÃO 11
+Hipercalcemia é o aumento da concentração
+sérica de cálcio total (tCa) e/ou de cálcio
+ionizado na corrente sanguínea que ocorre em
+situações patológicas, dependentes ou não da
+regulação hormonal das glândulas paratireoides.
+A importância clínica da hipercalcemia em cães
+refere-se ao fato de o cálcio representar um
+marcador importante de múltiplas enfermidades,
+especialmente as de origem metabólica, nutricional
+e endócrina, bem como de neoplasias malignas
+específicas.
+SCHENCK, P. A. et al Disorders of Calcium: Hypercalcemia and Hypocalcemia.
+In: Fluid, Electrolyte, and Acid-Base Disorders in Small Animal Practice.
+3 ed. Elsevier. 2006 (adaptado).
+A respeito das afecções que causam hipercalcemia
+em cães, avalie as afirmações a seguir.
+I. O prognóstico de cães hipercalcêmicos
+depende da causa primária e da ocorrência
+de lesões definitivas nos órgãos afetados,
+principalmente rins e coração, tendo em vista
+que várias doenças associadas à hipercalcemia
+têm cura ou são possíveis de controlar
+mediante tratamentos a longo prazo.
+II. O tCa é definido pela quantidade de
+cálcio ligado a proteínas plasmáticas, e
+a sua dosagem permite a avaliação de
+hipercalcemia/hipocalcemia.
+III. O hiperparatireoidismo primário está
+associado ao aumento do cálcio sérico,
+e seu diagnóstico definitivo pode ser
+estabelecido quando as concentrações
+de paratormônio se encontrarem acima
+do limite de referência, associadas à
+hipercalcemia e função renal normal.
+IV. A hipercalcemia secundária a neoplasias
+malignas pode estar associada a mecanismos
+fisiopatológicos distintos: a produção de
+fatores humorais pelo tumor, que constitui
+a síndrome paraneoplásica; a ocorrência de
+tumores ósseos primários; as metástases de
+tumores sólidos para os ossos; ou ainda as
+neoplasias malignas da medula óssea.
+É correto apenas o que se afirma em
+A I e II.
+B II e III.
+C III e IV.
+D I, II e IV.
+E I, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="145,243 855,243 855,274 854,274 854,413 715,413 715,445 705,445 705,459 624,459 624,874 854,874 854,1327 855,1327 855,1477 854,1477 854,1771 636,1771 636,1879 310,1879 310,2074 146,2074 146,1799 239,1799 239,1350 194,1350 194,1024 145,1024 145,874 614,874 614,474 427,474 427,464 354,464 354,445 144,445 144,307 145,307"/>
+	<TextEquiv conf="0.64368">
+	<Unicode>QUESTÃO 10
+Ao analisar o esfregaço sanguíneo de um cão, o
+médico veterinário observou, pelo microscópico
+de luz, a imagem a seguir, que lhe possibilitou o
+diagnóstico de infecção por hematozoário.
+Considerando a imagem e os aspectos
+epidemiológicos e clínicos da hemoparasitose
+detectada nesse animal, avalie as afirmações a
+seguir.
+I. A hemólise observada nessa enfermidade
+ocasiona icterícia devido a elevação dos níveis
+de bilirrubina.
+II. A transmissão do agente etiológico para
+o cão ocorre comumente pela picada de
+Rhipicephalus sanguineus.
+III. A imagem evidencia a presença de Ehrlichia
+canis, que se mostra como um agrupamento
+intracitoplasmático denominado mórula,
+situado, conforme indicado pela seta, no
+interior de um monócito.
+IV. Na fase aguda da doença, o agente
+etiológico se multiplica no interior das
+células mononucleares circulantes e do
+fígado, do baço e dos linfonodos, o que
+induz a linfoadenomegalia e a hiperplasia
+linforreticular.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C III e IV.
+D I, II e III.
+E II, III e IV.
+</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="150,452 150,863 861,863 861,452"/></ImageRegion></Page></PcGts>

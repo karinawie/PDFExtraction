@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-14T20:51:26</Created>
+	<LastChange>2020-09-14T20:53:01</LastChange></Metadata>
+	<Page imageFilename="MEDICINA-17.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="382,653 380,1332 1194,1335 1196,656"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,1590 1435,1590 1435,1638 1402,1638 1402,1686 971,1686 971,1733 575,1733 575,1790 233,1790 233,2043 232,2043 232,2044 84,2044 84,636 83,636 83,450 84,450"/>
+	<TextEquiv conf="0.95767">
+	<Unicode>QUESTÃO 09
+Uma mulher de 22 anos de idade, mora com seu único filho de 3 anos de idade, refere ter múltiplos
+parceiros e faz prevenção ocasional de DST com preservativos masculinos. A paciente procurou
+uma Unidade Básica de Saúde (UBS) com queixa de dispneia e tosse que ocorre há 3 meses,
+inicialmente seca, tendo evoluído com expectoração mucopurulenta e presença de sangue. Ela relata
+perda de apetite, febre de até 38,5 ºC, principalmente no período da tarde, e sudorese noturna.
+Informa ainda que recebeu o diagnóstico de HIV há 2 anos. Faz uso de medicação antirretroviral
+de forma irregular há 6 meses. O exame físico pulmonar da paciente mostrou: murmúrio
+vesicular presente, distribuído difusamente com roncos ocasionais que melhoram com a tosse.
+Contagem de células CD4: 242 células/mm3 (valor de referência: superior a 900 células/mm3) e
+radiografia do tórax, como mostra a imagem a seguir.
+Considerando o quadro clínico apresentado pela paciente e as condutas a serem adotadas pelo médico
+após a confirmação diagnóstica do quadro pulmonar, avalie as afirmações a seguir.
+|. Notificar o estado da mãe imediatamente ao Conselho Tutelar, devido à situação de
+vulnerabilidade do filho.
+Il. Internar a paciente, devido à gravidade do quadro clínico e história de baixa adesão ao tratamento.
+Ill. Manter o sigilo das informações da paciente perante os outros membros da equipe de saúde.
+IV. Indicar tratamento diretamente observado (DOTS) à paciente, para garantia da sua adesão.
+V. Solicitar à mãe que leve seu filho à UBS para rastreamento.
+É correto apenas o que se afirma em
+A II.
+B I e II.
+C III e IV.
+D IV e V.
+E I, III e V</Unicode></TextEquiv></TextRegion></Page></PcGts>

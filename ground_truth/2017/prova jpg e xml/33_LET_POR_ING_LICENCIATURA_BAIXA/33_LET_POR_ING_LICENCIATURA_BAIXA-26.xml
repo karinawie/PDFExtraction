@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T19:58:46</Created>
+	<LastChange>2020-11-29T20:18:18</LastChange></Metadata>
+	<Page imageFilename="33_LET_POR_ING_LICENCIATURA_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="341,347 341,1097 1591,1097 1591,347"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="297,1144 297,2130 1586,2130 1586,1144"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="236,244 340,244 340,331 308,331 308,332 283,332 283,1146 229,1146 229,1147 201,1147 201,1148 145,1148 145,1089 169,1089 169,246 201,246 201,245 236,245"/>
+	<TextEquiv conf="0.93898">
+	<Unicode>QUESTÃO 22
+TEXT1
+TEXT2</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:16:18</Created>
+	<LastChange>2020-09-11T20:47:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-21.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="785,181 787,2047 790,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,237 769,237 769,565 770,565 770,812 769,812 769,981 470,981 470,1100 256,1100 256,1202 273,1202 273,1261 322,1261 322,1410 84,1410 84,1202 85,1202 85,1067 133,1067 133,813 84,813 84,476 83,476 83,237 84,237"/>
+	<TextEquiv conf="0.96447">
+	<Unicode>QUESTÃO 20
+Uma Estação de Tratamento de Água (ETA)
+tem por finalidade a produção de água potável
+para o abastecimento público da população e
+consiste em um conjunto de unidades em que
+cada uma desempenha uma função específica e
+interdependente.
+Considerando que, na chegada de uma ETA
+convencional, exista uma calha Parshall, avalie as
+afirmações a seguir.
+I. A vazão da água afluente à ETA pode ser
+medida por meio da calha Parshall.
+II. A calha Parshall é utilizada para a agitação
+hidráulica e a dispersão de coagulantes.
+Ill. A sedimentação dos coloides ocorre na
+calha Parshall.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="805,179 976,179 976,254 1491,254 1491,424 1490,424 1490,616 1491,616 1491,1180 1192,1180 1192,1243 995,1243 995,1392 1043,1392 1043,1533 806,1533 806,1282 807,1282 807,1210 899,1210 899,1033 854,1033 854,582 805,582 805,443 806,443 806,210 805,210"/>
+	<TextEquiv conf="0.96763">
+	<Unicode>QUESTÃO 21
+O sistema de drenagem urbana é composto de
+dois subsistemas distintos, que são denominados
+de macrodrenagem e microdrenagem, ambos
+de fundamental importância para as cidades e a
+sociedade.
+Em relação a esse tema, avalie as afirmações a
+seguir.
+I. A bacia hidrográfica é uma unidade de
+planejamento que recebe a água da chuva
+e alimenta o sistema de escoamento, tendo
+como características a forma geométrica, o
+relevo e a geologia.
+II. Nas áreas em que o terreno é menos
+protegido pela vegetação, há maior volume
+de águas pluviais a ser drenado pelo sistema.
+III. A macrodrenagem refere-se à condução final
+das águas pluviais captadas pelo sistema
+primário, incluindo as bocas de lobo das
+ruas, e seu desague até os cursos hídricos.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:23:47</Created>
+	<LastChange>2020-11-30T17:26:09</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1576,249 1576,346 1376,346 1376,347 1175,347 1175,348 974,348 974,349 773,349 773,350 572,350 572,351 371,351 371,352 171,352 171,353 170,353 170,249"/>
+	<TextEquiv conf="0.95934">
+	<Unicode>Com base no quadro apresentado, assinale a opção na qual o diagrama corresponde a documentação
+descrita para o caso de uso Encerrar Conta usando associação de extensão com restrição e ponto
+de extensão.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="141,372 141,747 875,747 875,372"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="886,366 886,755 1580,755 1580,366"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="880,761 880,1155 1586,1155 1586,761"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="144,758 144,1158 875,1158 875,758"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="133,1161 133,1541 886,1541 886,1161"/></ImageRegion></Page></PcGts>

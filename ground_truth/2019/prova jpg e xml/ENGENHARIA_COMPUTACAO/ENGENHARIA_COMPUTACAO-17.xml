@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:11:04</Created>
+	<LastChange>2020-09-12T18:12:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-17.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 785,2047 788,2047 790,181"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,179 255,179 255,248 770,248 770,838 769,838 769,1304 470,1304 470,1364 323,1364 323,1570 322,1570 322,1571 234,1571 234,1618 85,1618 85,1331 133,1331 133,838 84,838 84,837 83,837 83,657 84,657 84,634 85,634 85,210 84,210"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 10
+Um estudo recente de pesquisadores mostrou
+que os algoritmos de inteligência artificial também
+podem ser usados para prever, pelo olhar de um
+indivíduo, se ele tem chances de sofrer um ataque
+cardíaco. Os pesquisadores treinaram um sistema
+de Inteligência Artificial (IA) com exames de retina
+de 284 335 pacientes em busca de padrões nos
+cruzamentos de vasos sanguíneos para que a
+máquina aprenda a identificar os sinais indicadores
+de doenças cardiovasculares.
+Disponível em: &lt;https://www.g1.globo.com/ciencia-e-saude/noticia/
+2019/03/15/como-a-ia-detecta-sinais-de-doencas-que-humanos-
+nao-podem-enxergar.ghtml&gt;. Acesso em 01 Jun. de 2019 (adaptado).
+Acerca do caso apresentado, avalie as afirmações
+a seguir.
+I. O conjunto de dados utilizado para a
+realização da técnica de reconhecimento de
+padrões corresponde aos exames de retina
+de 284 335 pacientes.
+Il. A seleção de características que serão
+utilizadas como base para o reconhecimento
+de padrões equivale ao cruzamento de vasos
+sanguíneos.
+Ill. A classificação dos resultados corresponde a
+identificar os sinais indicadores de doenças
+cardiovasculares.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="905,644 905,944 1392,944 1392,644"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1493,247 1493,635 1492,635 1492,636 1491,636 1491,1032 947,1032 947,1276 806,1276 806,636 805,636 805,635 806,635 806,210 805,210"/>
+	<TextEquiv conf="0.96905">
+	<Unicode>QUESTÃO 11
+O gestor de um hotel precisa satisfazer a demanda
+de vários grupos de eventos pelo uso exclusivo de
+auditórios por uma semana utilizando o menor
+número possível de auditórios. A tabela apresenta
+os conflitos de demandas dos grupos de eventos
+para todos os dias na semana, em que o valor 1
+em uma célula indica que um determinado grupo
+precisará usar um auditório no mesmo horário que
+outro grupo e o valor O indica que não há conflito
+entre os dois grupos.
+Nessa situação, o número mínimo de auditórios
+que satisfaz todas as demandas é de
+A um.
+B dois.
+C três.
+D quatro.
+E cinco.</Unicode></TextEquiv></TextRegion></Page></PcGts>

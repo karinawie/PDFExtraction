@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:33:18</Created>
+	<LastChange>2020-09-13T22:34:10</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r5">
+	<Coords points="786,181 787,2048 789,2048 788,181"/></SeparatorRegion>
+	<ImageRegion id="r9">
+	<Coords points="802,238 802,873 1494,873 1494,238"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,590 768,590 768,754 769,754 769,862 768,862 768,1066 769,1066 769,1347 768,1347 768,1468 769,1468 769,1545 678,1545 678,1600 85,1600 85,1447 84,1447 84,1369 85,1369 85,1129 83,1129 83,1066 133,1066 133,721 84,721 84,618 93,618 93,515 83,515 83,247 84,247"/>
+	<TextEquiv conf="0.96597">
+	<Unicode>QUESTÃO 23
+Asimagens radiodiagnósticas, analógicas ou digitais,
+têm duas características principais: a resolução
+espacial e a resolução de contraste. Propriedades
+adicionais da imagem, tais como ruído, artefatos
+e qualidade de arquivo, são necessárias, mas a
+resolução espacial e a resolução de contraste são
+as mais importantes.
+BUSHONG, S.C. Ciência radiológica para tecnólogos: física, biologia
+e proteção. 9. ed. Rio de Janeiro: Elsevier, 2010 (adaptado).
+Considerando as informações apresentadas,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Ossistemas de imagem digital têm resolução
+de contraste melhor que os de imagem
+analógica.
+PORQUE
+Il. A faixa dinâmica de sistemas de imagem
+digital é menor quando comparada à de um
+sistema analógico.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e 11 são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="caption">
+	<Coords points="805,179 977,179 977,909 1491,909 1491,1225 1492,1225 1492,1460 1490,1460 1490,1547 806,1547 806,978 805,978"/>
+	<TextEquiv conf="0.96290">
+	<Unicode>QUESTÃO 24
+Com base na imagem tomográfica apresentada, é
+correto afirmar que
+O a estrutura apontada com o número 1 é O
+primeiro ramo da artéria aorta.
+O a estrutura apontada com o número 2 é um
+vaso sanguíneo que envia o sangue ao átrio
+esquerdo.
+O a estrutura apontada com o número 3 é um
+vaso sanguíneo que irriga o membro superior
+esquerdo.
+O a estrutura apontada com o número 4 é um
+vaso sanguíneo que irriga tanto a face quanto
+o encéfalo.
+O a estrutura apontada com o número 5 é um
+ramo terminal da artéria aorta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

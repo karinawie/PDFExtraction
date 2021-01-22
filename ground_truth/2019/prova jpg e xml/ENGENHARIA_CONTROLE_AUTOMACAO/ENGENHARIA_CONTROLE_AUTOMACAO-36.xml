@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:39:38</Created>
+	<LastChange>2020-09-12T18:40:00</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-36.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="84,179 255,179 255,247 553,247 553,246 1492,246 1492,555 1023,555 1023,556 84,556 84,249 83,249 83,248 84,248"/>
+	<TextEquiv conf="0.96605">
+	<Unicode>QUESTÃO 27
+Uma esteira de transporte de peças é dotada de três sensores, um indutivo (SA), um capacitivo (SB) e um
+fotoelétrico (SC), responsáveis por identificar o material que compõe as peças transportadas. As peças que
+passam pela esteira podem ser Plásticas Transparentes (PT), Plásticas Opacas (PO) ou Metálicas Opacas
+(MO). Os sinais dos sensores são enviados a um Controlador Lógico Programável (CLP) que tem a função
+de monitorar os sensores a fim de identificar as peças e exibir o resultado em um sistema supervisório.
+A esteira conta também com três barreiras capacitivas, B1, B2 e B3, cuja funcionalidade é identificar a
+posição das peças ao longo da esteira. As peças são colocadas e retiradas da esteira, uma a uma, por um
+manipulador robótico. A figura a seguir representa este processo.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="65,576 65,1984 1476,1984 1476,576"/></ImageRegion></Page></PcGts>

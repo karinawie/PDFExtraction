@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:30:21</Created>
+	<LastChange>2020-11-29T23:09:58</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="169,244 514,244 514,312 1576,312 1576,570 1268,570 1268,714 1159,714 1159,786 171,786 171,787 170,787 170,715 169,715 169,462 168,462 168,312 169,312"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>QUESTÃO DISCURSIVA 04
+As integrais de linha podem ser interpretadas em contextos envolvendo superfícies e suas fronteiras, em
+que a sua aplicação presume um campo vetorial F definido em uma região R, que pode ser interpretado
+como um campo de velocidades de um fluido que escoa, e uma curva C que está na região. Posto isso,
+a integral de linha de F' ao longo de C mede a tendência de o fluido circular ou rodar em torno de C.
+Considere o campo vetorial Fem R? dado por F(x,y) = (3r + y,2r — 3y) e que Cé a curva de equação
+y=n7,com0&lt;rxr&lt;lL.
+Considerando as informações apresentadas, faça o que se pede nos itens a seguir.
+a) Exiba uma parametrização da curva C. (valor: 3,0 pontos)
+b) Calcule a integral de linha de F' ao longo da curva C. (valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

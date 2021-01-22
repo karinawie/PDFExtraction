@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:48:51</Created>
+	<LastChange>2020-09-12T22:49:05</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-30.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="471,486 471,1094 1118,1094 1118,486"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="85,179 254,179 254,247 1491,247 1491,470 1210,470 1210,471 1060,471 1060,1164 736,1164 736,1165 411,1165 411,1166 266,1166 266,1420 86,1420 86,1421 85,1421 85,475 83,475 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.96497">
+	<Unicode>QUESTÃO 25
+Muitos dispositivos eletrônicos utilizam um regulador de tensão, que tem como objetivo
+manter a tensão elétrica na saída em um nível especificado. Considere um regulador de
+tensão utilizando diodo Zener e transistor com as seguintes especificações: tensão de
+entrada Vl = 20 V, tensão nominal do diodo Zener (D1) VZ = 8/77 V, VBE = 0,77 V,
+R1 = R2=1k09,C1=100nF eB = 10 (ganho de corrente do transistor), conforme o circuito mostrado
+a seguir.
+Para esse regulador, qual é o valor da corrente contínua no diodo Zener?
+A 10,36 mA.
+B 10,43 ma.
+C 11,22 ma.
+D 11,38 mA.
+E 19,92 mA.</Unicode></TextEquiv></TextRegion></Page></PcGts>

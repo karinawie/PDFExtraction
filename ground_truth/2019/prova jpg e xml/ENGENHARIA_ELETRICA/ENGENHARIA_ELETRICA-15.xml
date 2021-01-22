@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:26:43</Created>
+	<LastChange>2020-09-12T22:26:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-15.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="85,183 1316,183 1316,239 1492,239 1492,306 1489,306 1489,430 1490,430 1490,459 790,459 790,465 736,465 736,458 558,458 558,459 84,459 84,430 85,430 85,308 84,308 84,184 85,184"/>
+	<TextEquiv conf="0.96591">
+	<Unicode>Com base nas informações e nos dados apresentados, faça o que se pede nos itens a seguir.
+a) Considerando o gráfico da figura 2, explicite o valor aproximado da resistência do sensor quando este
+estiver submetido à temperatura de 37 ºC. (valor: 2,0 pontos)
+b) Assumindo temperatura ambiente de 25 ºC, determine a tensão que será produzida no termistor (V1).
+Justifique. (valor: 3,0 pontos)
+c) Determine a expressão da tensão de saída (V. ) em função das tensões V1 e V2. (valor: 5,0 pontos)
+saída</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:19:23</Created>
+	<LastChange>2020-09-18T02:19:23</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-15.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="533,679 533,937 1212,938 1212,680"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="169,244 513,244 513,312 1576,312 1576,576 521,576 521,978 1231,978 1231,1042 1576,1042 1576,1192 1575,1192 1575,1287 171,1287 171,1286 170,1286 170,1191 169,1191 169,501 168,501 168,312 169,312"/>
+	<TextEquiv conf="0.89014">
+	<Unicode>QUESTÃO DISCURSIVA 05
+A busca primeiro em profundidade é um algoritmo de exploração sistemática em grafos, em que as arestas
+são exploradas a partir do vértice v mais recentemente descoberto que ainda tem arestas inexploradas
+saindo dele. Quando todas as arestas de v são exploradas, a busca regressa para explorar as arestas
+que deixam o vértice a partir do qual v foi descoberto. Esse processo continua até que todos os vértices
+acessíveis a partir do vértice inicial sejam explorados.
+CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Introduction to algorithms. 3. ed.
+Cambridge, Massachusetts: The MIT Press, 2009 (adaptado).
+Considere o grafo a seguir.
+Com base nas informações apresentadas, faça o que se pede nos itens a seguir.
+a) Mostreasequência de vértices descobertos no grafo durante a execução de uma busca em profundidade
+com controle de estados repetidos. Para isso, utilize o vértice r como inicial. No caso de um vértice
+explorado ter mais de um vértice adjacente, utilize a ordem alfabética crescente como critério para
+priorizar a exploração. (valor: 7,0 pontos)
+b) Faça uma representação da matriz de adjacências desse grafo, podendo os zeros ser omitidos nessa
+matriz. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

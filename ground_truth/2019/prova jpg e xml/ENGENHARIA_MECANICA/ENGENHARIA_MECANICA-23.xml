@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:29:16</Created>
+	<LastChange>2020-09-15T04:29:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-23.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 170,179 170,180 255,180 255,247 1491,247 1491,316 733,316 733,1252 1328,1252 1328,1253 1490,1253 1490,1304 1491,1304 1491,1372 1490,1372 1490,1470 483,1470 483,1635 482,1635 482,1731 284,1731 284,1730 85,1730 85,1470 84,1470 84,1303 354,1303 354,1271 355,1271 355,568 156,568 156,520 125,520 125,316 85,316 85,210 84,210"/>
+	<TextEquiv conf="0.77510">
+	<Unicode>QUESTÃO 22
+No gráfico a seguir, que mostra um diagrama de tensão média versus tensão alternada com os envelopes
+dos principais critérios de falha para carregamento flutuante, observam-se as seguintes grandezas:
+º 5,= resistência ao escoamento;
+e 5,,=7 resistência última à tração;
+e 5, =resistência alternante;
+º Sm = resistência média;
+5, = limite de resistência à fadiga corrigido.
+BUDYNAS, R. G.; NISBETT, J. K. Elementos de máquinas de Shigley. 10. ed. Porto Alegre: AMGH, 2016 (adaptado)
+Considere o dimensionamento de um eixo de transmissão de máquina-ferramenta sujeito a flexo-torção
+com fadiga de alto ciclo.
+Nessa situação, para um projeto seguro e otimizado, com vistas à maior relação potência/peso possível,
+deve-se utilizar o critério
+O de Langer de escoamento.
+O de Goodman modificado.
+O da ASME elíptico.
+O de Gerber.
+O de Soderberg.</Unicode></TextEquiv></TextRegion></Page></PcGts>

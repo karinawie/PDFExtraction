@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:29:50</Created>
+	<LastChange>2020-11-29T23:07:51</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r1" type="caption">
+	<Coords points="169,244 1207,244 1207,375 1577,375 1577,486 1575,486 1575,1601 1610,1601 1610,1726 1144,1726 1144,1728 210,1728 210,1601 218,1601 218,1169 219,1169 219,376 218,376 218,340 168,340 168,245 169,245"/>
+	<ImageRegion id="r3">
+	<Coords points="569,547 569,1136 1166,1136 1166,547"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="455,1250 455,1588 1283,1588 1283,1250"/></ImageRegion>
+	<TextEquiv conf="0.86629">
+	<Unicode>QUESTÃO 14
+A respeito de transformações lineares no plano, avalie as afirmações a seguir.
+|. Sabendo que uma transformação de escala é um operador linear no plano cartesiano que multiplica
+a abscissa 1» de um ponto por um fator m e sua respectiva ordenada y por um fator n, a matriz
+associada à transformação de escala que leva, na figura a seguir, o triângulo ABC ao triângulo
+A'B'C'tem determinante igual a 2.
+ll. A transformação linear que leva a região plana hachurada do gráfico à esquerda na região
+hachurada do gráfico à direita é dada por T(x,y) = (x,y + rtgo)
+Ill. Na figura a seguir, a matriz da transformação linear que efetua a mudança do triângulo à esquerda 
+para a posição mostrada à direita é</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="458,1783 458,2127 1291,2127 1291,1783"/></ImageRegion></Page></PcGts>

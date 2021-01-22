@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:30:36</Created>
+	<LastChange>2020-09-11T20:30:36</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-12.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="526,350 526,892 1068,892 1068,350"/></ImageRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="84,143 1490,143 1490,344 1443,344 1443,973 1490,973 1490,1042 1246,1042 1246,1158 1002,1158 1002,1216 85,1216 85,1217 84,1217 84,1044 83,1044 83,973 132,973 132,346 83,346 84,346"/>
+	<TextEquiv conf="0.96030">
+	<Unicode>COMPONENTE ESPECÍFICO
+QUESTÃO DISCURSIVA 03
+Um engenheiro civil elaborou o projeto de uma escada de concreto armado para uma edificação residencial,
+conforme desenho esquemático a seguir, utilizando a fórmula de Blondel, comumente empregada para
+dimensionamento de escadas na construção civil.
+De acordo com a fórmula de Blondel: 2e + p = 63, em que e é altura do espelho, em cm, e p é largura do piso, em cm.
+A partir dessas informações e considerando que a laje da edificação tenha 10 cm de espessura, responda
+às questões a seguir.
+a) Quantos pisos, espelhos e lances são representados no projeto? (valor: 3,0 pontos)
+b) Qual é a altura da escada nessa edificação? (valor: 3,0 pontos)
+c) Qual é o pé-direito utilizado nessa edificação? (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

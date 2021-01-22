@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T02:57:44</Created>
+	<LastChange>2020-09-10T02:58:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-22.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="284,610 284,1015 1318,1015 1318,610"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="447,1026 447,1436 1131,1436 1131,1026"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,179 254,179 254,245 1491,245 1491,449 1492,449 1492,1564 1491,1564 1491,2044 1039,2044 1039,2045 586,2045 586,2046 133,2046 133,2047 132,2047 132,1957 85,1957 85,1567 84,1567"/>
+	<TextEquiv conf="0.92418">
+	<Unicode>QUESTÃO 21
+Em um sistema de hidrogenação para produção de margarina, o supervisor de processo pretendia
+elaborar uma sequência de manipulações dos valores de BP (banda proporcional), 7”. (tempo integral) e
+T, (tempo derivativo) para estabilização do controle de temperatura. O controlador de temperatura do
+hidrogenador é baseado em PID, em que o elemento final de controle é uma válvula reguladora de vazão
+de vapor na entrada da camisa do hidrogenador.
+O processo iniciou-se com auto-tunning do sistema que apresentou os primeiros valores para BP, T, e
+T',comportou-se sem overshoot e permaneceu estável, com erro em regime permanente, mas longe
+do setpoint de 150 “ºC. O resultado, sem as manipulações do supervisor de processo, foi plotado e gerou
+os gráficos, tal como representado nas figuras a seguir.
+Considere que, desde o início do processo, o supervisor tenha optado por realizar uma sintonia fina
+manualmente, com manipulação das variáveis BP, T, e Ta sem ordem predeterminada, de modo a obter
+um melhor ajuste.
+Em função das informações apresentadas, em relação à primeira manipulação pelo supervisor de processo,
+pode-se afirmar que
+I. O filme polimérico desenvolvido com a mistura de PHB/PLA envelhecida na proporção de 25/75
+apresentou aumento superior a 100% na deformação antes da ruptura em comparação com o
+mesmo filme obtido sem envelhecimento.
+II. O filme polimérico composto exclusivamente por PLA apresentou menor resistência em comparação
+com o filme composto unicamente por PHB, pois o primeiro apresentou maior deformação e
+ruptura gradual quando submetido a tração.
+III. Os filmes que apresentaram maior resistência ao impacto foram aqueles que apresentaram uma
+maior proporção de PHB, enquanto que os filmes com maiores proporções de PLA mostraram-se
+menos resistentes ao impacto.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

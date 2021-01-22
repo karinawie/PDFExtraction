@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:56:27</Created>
+	<LastChange>2020-09-11T20:57:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-36.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 254,179 254,255 1491,255 1491,694 1489,694 1489,840 1491,840 1491,1101 1023,1101 1023,1102 554,1102 554,1103 202,1103 202,1355 85,1355 85,1104 84,1104 84,989 85,989 85,774 84,774 84,529 83,529 83,256 84,256"/>
+	<TextEquiv conf="0.96545">
+	<Unicode>QUESTÃO 33
+Umatrilha de um PCB (printed circuit board) é uma conexão entre dois pontos com impedância controlada,
+que depende de alguns parâmetros, tais como: frequência de operação, comprimento da trilha, tipo
+de dielétrico e tipo de sinal. Considerando que ela está sendo projetada com o tipo chamado stripline,
+o plano de referência é o GND (ground) e o dielétrico é o material FR4, cuja constante dielétrica k é
+aproximadamente igual a 4, o que implica na velocidade de propagação V, de um sinal elétrico em uma
+stripline ser a metade da velocidade no ar, portanto, aproximadamente 15 cm por nanosegundo.
+Em uma linha de transmissão utilizada para sinais digitais, deve-se considerar o tempo entre uma subida
+e uma descida t, do sinal, que é a metade do período T' da frequência máxima do sinal. O comprimento
+crítico L., de uma trilha é o limite máximo para o qual a trilha ainda pode ser entendida como uma simples
+conexão entre 2 pontos, sem necessidade de controlar sua impedância, e é dado por L, = V, d
+2
+Para uma trilha operar como uma conexão simples entre 2 pontos, seu comprimento L deve ser, no
+a : L,
+máximo, igual a ec .
+15
+No caso da interface PCI Express, cuja frequência máxima de operação especificada é de 1,25 GHz,
+o comprimento L máximo da trilha para que a mesma se comporte como uma simples conexão
+entre 2 pontos é de
+A 2 cm.
+B 3cm.
+C 4 cm.
+D 6 cm.
+E 8cm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

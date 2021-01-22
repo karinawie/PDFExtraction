@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:30:48</Created>
+	<LastChange>2020-11-21T00:41:18</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-39.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1576,312 1576,381 1408,381 1408,1173 476,1173 476,1759 309,1759 309,1738 170,1738 170,1173 169,1173 169,312 170,312"/>
+	<ImageRegion id="r1">
+	<Coords points="225,400 225,1111 1527,1111 1527,400"/></ImageRegion>
+	<TextEquiv conf="0.96540">
+	<Unicode>QUESTÃO 33
+A resposta em frequência de um sistema linear invariante no tempo é apresentada pelo seguinte
+diagrama de Bode.
+A função de transferência que melhor se encaixa no diagrama de Bode apresentado acima é
+10
+O 66 GO
+10
+G(s) = &lt;"AAA———
+o (s -1)(s-10)
+10
+O 9 Deo
+NS
+O 6) - (s+1)(s-10)
+NS)
+O = DG)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:26:37</Created>
+	<LastChange>2020-09-15T04:27:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-21.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="886,811 886,1415 1409,1415 1409,811"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,248 769,248 769,384 770,384 770,1523 769,1523 769,1794 668,1794 668,2017 769,2017 769,2050 85,2050 85,1794 84,1794 84,1686 156,1686 156,1524 133,1524 133,357 85,357 85,356 84,356"/>
+	<TextEquiv conf="0.93393">
+	<Unicode>QUESTÃO 19
+Em relação aos impactos ambientais decorrentes
+do funcionamento de barragens de rejeito, sabe-se
+que a alteração
+º*º da paisagem está relacionada, atualmente,
+à presença da barragem desativada, que,
+devido à praia de rejeito e à vegetação
+com baixa densidade, continua causando
+impacto visual;
+*º do metabolismo vegetal, devido à
+deposição de material particulado na
+superfície das folhas, assim como nas
+demais fases desse processo, é um
+impacto negativo e indireto, consequência
+da alteração da qualidade do ar;
+*º na dinâmica de ecossistemas aquáticos
+pode ser considerada um impacto indireto
+da alteração tanto da qualidade da água
+quanto da alteração da dinâmica hídrica
+superficial;
+*º da dinâmica hídrica superficial e
+subterrânea é um impacto que persiste
+desde a construção da barragem, uma vez
+que esta modifica permanentemente o
+regime de escoamento superficial de água,
+podendo afetar negativamente a vazão
+dos cursos d'água a jusante e a recarga de
+aquíferos;
+* da qualidade do ar e da qualidade da água
+ocorre já na fase de construção da barragem
+e permanece devido à presença das praias
+de rejeito.
+ANDRADE, L. C. R. Barragens de rejeitos da mineração de ferro:
+panorama geral brasileiro e avaliação de impactos associados.
+Revista de Ciências Exatas e Tecnologia.
+v. 13, n. 13, 2018 (adaptado).
+Com base no texto, é correto afirmar que
+os impactos ambientais descritos afetam,
+respectivamente, os meios
+A físico, biológico, biológico, físico e físico.
+B biológico, biológico, físico, físico e físico.
+C físico, físico, biológico, biológico e físico.
+D físico, biológico, físico, biológico e físico.
+E biológico, físico, físico, físico e biológico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="805,179 977,179 977,231 1492,231 1492,780 1490,780 1490,1552 1491,1552 1491,1784 970,1784 970,2040 806,2040 806,1784 805,1784 805,1552 982,1552 982,780 805,780"/>
+	<TextEquiv conf="0.96553">
+	<Unicode>QUESTÃO 20
+Um trocador de calor é utilizado para aquecer
+a água de uma linha industrial por meio do
+aproveitamento da energia do gás de exaustão de
+uma central termelétrica, conforme ilustrado na
+figura a seguir. O gás de exaustão entra pela seção
+(1) a 150 ºC e sai pela seção (2) a 50 ºC, a uma
+vazão de 2,1 kg/s. Um sistema de bombeamento
+promove a passagem da água pelo tubo (3-4) a
+uma vazão de 0,8 kg/s. A temperatura de entrada
+da água na seção (3) é de 25 ºC. Em virtude das
+ineficiências deste equipamento, apenas 80% do
+calor disponibilizado internamente pelo gás de
+exaustão é aproveitado pela água no processo de
+aquecimento.
+CENGEL, Y. A.; BOLES, M. A. Termodinâmica. 7. ed.
+Porto Alegre: AMGH, 2013 (adaptado).
+Nessa situação, considerando-se que o gás de
+exaustão pode ser modelado como um gás ideal,
+com calor específico, à pressão constante, de
+1,1 kJ/(kg ºC) e que o calor específico da água seja
+de 4,2 kJ/(kg ºC), qual a temperatura da água na
+saída do equipamento?
+A 55,0%.
+B 68,8 ºC.
+C 80,0.
+D 93,8.
+E 125,0 ºC.</Unicode></TextEquiv></TextRegion></Page></PcGts>

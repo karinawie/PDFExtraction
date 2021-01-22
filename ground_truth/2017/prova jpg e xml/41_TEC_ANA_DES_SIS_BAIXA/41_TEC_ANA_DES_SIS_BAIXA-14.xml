@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:25:30</Created>
+	<LastChange>2020-11-30T17:31:00</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="169,244 514,244 514,312 1576,312 1576,635 1197,635 1197,1147 1198,1147 1198,1627 1199,1627 1199,2106 684,2106 684,2107 169,2107 169,2108 168,2108 168,669 170,669 170,542 169,542"/>
+	<TextEquiv conf="0.96524">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Uma empresa trabalha na produção de concreto e terceiriza o serviço de transporte do produto. Os
+caminhoneiros telefonam para a empresa e registram seu interesse pelo trabalho. Todas as manhãs,
+os caminhoneiros estacionam o caminhão no pátio da empresa e aguardam sua vez. O atendimento
+segue o critério de ordem de chegada. Esse processo é, atualmente, controlado pela secretária, que
+utiliza sua agenda para gerenciar os motoristas diariamente. A empresa, que carrega, no máximo, 10
+caminhões por dia, pretende informatizar esse processo.
+Para a solução do problema, apresenta-se, a seguir, um pseudocódigo que utiliza o conceito de fila,
+mantendo os elementos sempre nas primeiras posições do vetor.
+Algoritmo Fila Caminhoneiros
+início
+var
+caminhoneiros : vetor[1..10] de texto
+total : inteiro
+procedimento inicializa()
+início
+total &lt;- O
+fim
+função estaVazia() : lógico
+início
+se (total = O) então
+retorna verdadeiro
+senão
+retorna falso
+fim-se
+fim
+função estaCheia() : lógico
+início
+se (total &gt;= 10) então
+retorna verdadeiro
+senão
+retorna falso
+fim-se
+fim
+procedimento enfileirar (caminhoneiro : texto)
+início
+se (estaCheia() = falso) então
+total &lt;- total + 1
+caminhoneiros[total] &lt;- caminhoneiro
+senão
+imprima ("Fila cheia")
+fim-se
+fim
+fim</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:08:38</Created>
+	<LastChange>2020-09-11T20:09:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-25.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 255,179 255,245 1490,245 1490,412 1491,412 1491,623 1255,623 1255,751 1352,751 1352,829 1095,829 1095,875 678,875 678,920 84,920 84,888 85,888 85,677 83,677 83,648 90,648 90,387 83,387 83,245 84,245"/>
+	<TextEquiv conf="0.96572">
+	<Unicode>QUESTÃO 27
+O aumento da qualidade e da quantidade da produção nacional demanda um sistema de transporte que
+viabilize, de forma segura e constante, seu escoamento. Nesse sentido, inserem-se os investimentos em
+modos de transporte, cujas características de produtividade e eficiências energética e ambiental devem
+compensar, em larga escala, os custos de investimento e de transporte.
+Nesse contexto, avalie as asserções a seguir e a relação proposta entre elas.
+|. Os modos de transporte ferroviário e aquaviário apresentam maior eficiência energética quando
+comparados ao transporte rodoviário.
+PORQUE
+Il. Os transportes ferroviário e aquaviário possibilitam transportar grandes volumes a baixo custo.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,949 255,949 255,1015 1491,1015 1491,1399 1489,1399 1489,1498 263,1498 263,1741 85,1741 85,1695 84,1695 84,1664 85,1664 85,1498 84,1498 84,1157 83,1157 83,1015 84,1015"/>
+	<TextEquiv conf="0.96546">
+	<Unicode>QUESTÃO 28
+A superelevação consiste na declividade transversal da pista de rolamento em uma única direção, de
+modo que a borda externa fique em uma cota superior à da borda interna da curva, com o objetivo
+de criar uma componente do peso para combater a força centrífuga. Essa declividade é um importante
+elemento da segurança rodoviária que visa reduzir a ocorrência de acidentes de trânsito.
+Considere que a superelevação calculada para uma curva em uma rodovia seja de 8%, que a largura
+da pista de rolamento nos trechos em tangente seja de 7,00 m, que o trecho em estudo se encontre
+longitudinalmente em um aclive com uma inclinação de + 2,5%, que a cota do eixo no início da curva
+circular, estaca [56 + 10,00 ml], seja igual a 85,200 m, e que a superlargura calculada para essa curva
+seja de 1,00 m com alargamento simétrico da pista, de modo que a largura de cada faixa de trânsito
+passe a ser de 4,00 m.
+Nas condições descritas, a cota correta da borda externa da pista de rolamento, na estaca [57 + 10,00 ml],
+é igual a
+A 85,280 m.
+B 85,520 m.
+C 85,700 m.
+D 85,800 m.
+E 86,020 m.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:30:27</Created>
+	<LastChange>2020-11-29T23:10:18</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="635,243 1099,243 1099,398 1576,398 1576,466 1574,466 1574,574 1224,574 1224,575 873,575 873,576 522,576 522,577 171,577 171,578 170,578 170,466 168,466 168,398 169,398 169,245 170,245 170,244 635,244"/>
+	<TextEquiv conf="0.96452">
+	<Unicode>QUESTÃO DISCURSIVA 03
+A divisibilidade entre números inteiros é um conceito estudado há mais de 2000 anos, e tem aplicações
+modernas, como na criptografia, que permite codificar informações a fim de transmiti-las com segurança.
+Nesse contexto, prove que, se n é um número inteiro positivo, então 2nº — 3nº + n é divisível por 6.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

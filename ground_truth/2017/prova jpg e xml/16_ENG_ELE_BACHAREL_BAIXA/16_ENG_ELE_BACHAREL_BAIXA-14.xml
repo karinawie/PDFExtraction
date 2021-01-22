@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:49:07</Created>
+	<LastChange>2020-11-27T17:11:16</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="169,244 514,244 514,318 1576,318 1576,489 1575,489 1575,1692 1576,1692 1576,1816 170,1816 170,1815 169,1815 169,1313 168,1313 168,318 169,318"/>
+	<ImageRegion id="r1">
+	<Coords points="347,536 347,1197 1391,1197 1391,536"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="400,1313 400,1619 1347,1619 1347,1313"/></TableRegion>
+	<TextEquiv conf="0.96465">
+	<Unicode>QUESTÃO DISCURSIVA 04
+A figura a seguir ilustra uma parte da instalação elétrica de um prédio residencial (tensão de linha 220 V).
+Nela, estão lançados dois circuitos: um de iluminação, com carga total instalada de 1 500 VA, e outro, que
+alimenta uma tomada de uso específico para o chuveiro. Os condutores são de cobre com isolação de PVC
+e operam em temperatura ambiente de 30 “ºC.
+A tabela a seguir apresenta a capacidade de corrente de condutores para circuitos monofásicos ou
+bifásicos, de acordo com a ABNT NBR 5410:2004.
+Seção nominal (mm?) Capacidade de corrente (A)
+Considere que o fator de correção de temperatura possui valor igual a 1,00 para a temperatura de 30 ºC,
+e que o fator de correção do número de circuitos é 1,00 para um circuito, 0,80 para dois circuitos e 0,70
+para três circuitos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

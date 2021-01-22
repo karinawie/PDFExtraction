@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:25:39</Created>
+	<LastChange>2020-11-30T17:31:20</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="169,243 1100,243 1100,370 1576,370 1576,472 637,472 637,594 632,594 632,727 1576,727 1576,869 1577,869 1577,1128 1575,1128 1575,1238 1576,1238 1576,1304 170,1304 170,1216 169,1216 169,838 168,838 168,819 170,819 170,727 405,727 405,604 406,604 406,472 169,472"/>
+	<TextEquiv conf="0.96392">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Uma empresa de cosméticos comercializa cinco diferentes tipos de produtos e os armazena em uma
+estante de 40 x 40 posições. Em cada posição da estante, pode ficar armazenada apenas uma caixa com
+um desses produtos. Para facilitar sua identificação, os produtos foram codificados da forma a seguir:
+1: Xampu;
+2: condicionador;
+3: hidratante;
+4: tintura;
+5: demaquilante;
+O: vazio.
+Nessa situação e considerando o desenvolvimento de um sistema para gerenciar a organização dos
+produtos na estante, estabeleceu-se a declaração de variáveis a seguir.
+Var
+Estante: matriz [1..40] [1..40] de inteiro
+Produtos: vetor [0..5] de texto = ("vazio","xampu","condicionador",
+"hidratante", "tintura", "demaquilante")
+Contador: vetor [0..5] de inteiro = (0,0,0,0,0,0)
+i, j: inteiro
+Com base nessa declaração e considerando a codificação dos produtos exposta, faça o que se pede nos
+itens a seguir, apresentando as soluções em pseudocódigo ou em linguagem de programação.
+a) Escreva um trecho de código para ler os códigos dos produtos e armazená-los na matriz Estante.
+(valor: 4,0 pontos)
+b) Escreva um trecho de código para contar e imprimir a quantidade de caixas de cada tipo de produto
+na estante. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

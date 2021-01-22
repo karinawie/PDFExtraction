@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:47:38</Created>
+	<LastChange>2020-09-17T19:48:06</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-30.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="100,455 100,1202 1526,1202 1526,455"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 277,181 277,249 1513,249 1513,438 1512,438 1512,1501 1513,1501 1513,1698 1360,1698 1360,1746 492,1746 492,1803 295,1803 295,1928 344,1928 344,2005 256,2005 256,2050 107,2050 107,2005 106,2005 106,1882 107,1882 107,1770 155,1770 155,1466 105,1466 105,1438 106,1438 106,438 105,438 105,249 106,249"/>
+	<TextEquiv conf="0.96062">
+	<Unicode>QUESTÃO 26
+A tabela a seguir apresenta algumas estatísticas descritivas da Pesquisa Mensal do Emprego (PME) do
+Instituto Brasileiro de Geografia e Estatística (IBGE), relativas a amostras de jovens à procura do primeiro
+emprego e de jovens e adultos que já trabalharam, para o período de 2006 a 2012. A amostra utilizada inclui
+trabalhadores desempregados no período da primeira entrevista da PME. No caso dos que já trabalharam,
+considera-se tanto o emprego formal (com carteira assinada) quanto o informal (sem carteira assinada).
+Notas: O período t = 1 representa a primeira entrevista, o período t = 4 representa a quarta entrevista
+do indivíduo, realizada 3 meses depois. Todos os valores são calculados considerando-se o peso de cada
+observação na amostra.
+REIS, M. C. Uma Análise da Transição dos Jovens para o Primeiro Emprego no Brasil. Revista Brasileira de Economia,
+[s.l.], v. 69, n. 1, p.125-143, 2015. GN1 Genesis Network (adaptado).
+A partir dos dados apresentados, avalie as afirmações a seguir.
+|. O mercado de trabalho com carteira assinada absorve mais os trabalhadores adultos, que são
+também os que possuem ocupações com jornadas de trabalho maiores.
+Il. Os jovens que nunca trabalharam apresentaram percentuais menores de emprego e ocupação,
+se comparados com os outros grupos, o que evidencia a importância da experiência de trabalho
+pregressa para a inserção no mercado de trabalho.
+Ill. Entre os jovens que nunca trabalharam, a maioria não frequentava a escola em t = 1.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

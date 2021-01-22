@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:47:35</Created>
+	<LastChange>2020-09-12T22:48:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-29.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="302,221 302,902 1284,902 1284,221"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="85,183 1300,183 1300,942 1489,942 1489,1170 575,1170 575,1224 249,1224 249,1478 84,1478 84,941 85,941"/>
+	<TextEquiv conf="0.96248">
+	<Unicode>Na tabela a seguir, são listados os intervalos e as respectivas tensões geradas pelo circuito.
+Com base nessas informações, avalie as afirmações a seguir.
+I. A carga é submetida a uma tensão de fase e, na saída do circuito, acontece uma condução contínua.
+II. Os tiristores do grupo positivo são T1, T2 e T3; já os tiristores do grupo negativo são T4, T5 e T6.
+III. A tensão de saída apresenta uma variação de tensão (ripple) de 131,4801 V.
+IV. Os tiristores são disparados no ângulo α de 60º.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

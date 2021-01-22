@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:32:03</Created>
+	<LastChange>2020-09-15T04:32:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-25.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="302,576 302,1060 1265,1060 1265,576"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="85,179 255,179 255,247 1491,247 1491,1126 1490,1126 1490,1282 1491,1282 1491,1387 1492,1387 1492,1504 1395,1504 1395,1505 1298,1505 1298,1506 1255,1506 1255,1651 1352,1651 1352,1731 1103,1731 1103,1777 702,1777 702,1823 671,1823 671,1824 574,1824 574,1825 85,1825 85,1731 84,1731 84,1573 83,1573 83,1545 84,1545 84,1544 133,1544 133,1234 84,1234 84,1163 438,1163 438,555 84,555 84,457 83,457 83,247 84,247 84,180 85,180"/>
+	<TextEquiv conf="0.93041">
+	<Unicode>QUESTÃO 25
+A tenacidade nos materiais metálicos, cerâmicos e em alguns polímeros é influenciada pela
+temperatura de trabalho, portanto, existe um valor de temperatura (ou um intervalo de
+temperatura) acima do qual o comportamento do material é predominantemente dúctil e abaixo
+do qual é predominantemente frágil. Essa temperatura é definida como temperatura de transição
+dúctil-frágil. Para fins de projeto, o conhecimento da temperatura de transição é essencial, pois a partir dela
+pode-se planejar as condições de serviço de forma a não ocorrer fratura frágil do componente projetado.
+Essa temperatura é determinada durante ensaios de impacto. A figura a seguir ilustra os resultados de
+ensaios de impacto realizados em alguns metais.
+GARCIA, A., SPIM, J. A., SANTOS, C. A. Ensaios dos materiais. 2. ed. Rio de Janeiro: LTC, 2012 (adaptado).
+Considerando as informações e os dados apresentados, avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Os materiais com estrutura CCC apresentam uma transição dúctil-frágil nítida com a redução da
+temperatura.
+PORQUE
+Il. As estruturas CCC possuem como característica a presença de muitos planos de escorregamento
+disponíveis.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II, é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II, é uma proposição verdadeira.
+E As asserções I e II é são proposições falsas</Unicode></TextEquiv></TextRegion></Page></PcGts>

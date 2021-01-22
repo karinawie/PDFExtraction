@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:35:38</Created>
+	<LastChange>2020-11-25T19:06:58</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="169,244 340,244 340,313 1576,313 1576,1568 1577,1568 1577,1679 1576,1679 1576,1834 1566,1834 1566,2095 170,2095 170,2096 169,2096 169,564 168,564 168,452 169,452"/>
+	<ImageRegion id="r1">
+	<Coords points="213,594 213,1516 1538,1516 1538,594"/></ImageRegion>
+	<TextEquiv conf="0.96252">
+	<Unicode>QUESTÃO 17
+Uma equipe de projeto desenvolveu um aplicativo mobile para a gestão de frotas de caminhões entre os
+meses de janeiro e junho de 2017. O projeto seguiu um processo baseado no modelo de ciclo de vida de
+desenvolvimento em cascata, com atividades realizadas sequencialmente e sem sobreposição.
+Ao final do projeto, a equipe precisou tratar uma grande quantidade de defeitos encontrados no aplicativo
+em um curto espaço de tempo. Como mostra o gráfico a seguir, a maior parte dos defeitos foi identificada
+ao final do projeto, o que elevou o risco de se entregar o aplicativo com muitos defeitos ao cliente.
+Diante desse cenário, a equipe do projeto decidiu que, em novos projetos, realizaria ações que pudessem
+distribuir o esforço de tratamento de defeitos ao longo dos meses, diminuindo o risco de ainda haver
+muitos defeitos não tratados no momento próximo à entrega do produto.
+Considerando a situação, o gráfico apresentado e o modelo de ciclo de vida de desenvolvimento utilizado
+no projeto (cascata), assinale a opção que descreve uma ação capaz de produzir o resultado esperado
+pela equipe.
+O Realizar testes assim que o aplicativo estiver pronto para uso.
+O Aplicar técnicas de verificação e validação desde o início do projeto.
+O Mapear e documentar o processo de desenvolvimento utilizado e comunicá-lo à equipe.
+O Elicitar e documentar os requisitos funcionais e não funcionais do produto logo no início do projeto.
+O Registrar, evidenciar e comunicar imediatamente os defeitos encontrados aos demais membros da equipe.</Unicode></TextEquiv></TextRegion></Page></PcGts>

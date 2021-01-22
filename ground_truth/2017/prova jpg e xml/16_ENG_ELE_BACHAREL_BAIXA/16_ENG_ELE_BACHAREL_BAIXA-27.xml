@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:46:41</Created>
+	<LastChange>2020-11-27T17:01:27</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="869,247 872,2112 877,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="890,244 1061,244 1061,318 1576,318 1576,848 1575,848 1575,1033 1577,1033 1577,1322 1580,1322 1580,1442 1575,1442 1575,1565 1576,1565 1576,1633 1575,1633 1575,1853 1574,1853 1574,1974 1575,1974 1575,2051 1484,2051 1484,2105 892,2105 892,2106 891,2106 891,1634 890,1634 890,1566 891,1566 891,1565 985,1565 985,1443 939,1443 939,995 890,995"/>
+	<TextEquiv conf="0.96728">
+	<Unicode>QUESTÃO 28
+No âmbito industrial, existem particularidades
+essenciais para a viabilidade da automação e
+do controle industrial. Além dos elementos de
+hardware serem projetados para operar em
+ambientes com altas e baixas temperaturas,
+vibração e impacto e possuírem proteção mecânica
+especial, os protocolos de comunicação também
+precisam atender determinadas particularidades.
+A convergência de tecnologias no setor industrial
+tem trazido protocolos tradicionais utilizados em
+redes de comunicação para o ambiente industrial,
+como é o caso do ethernet e wi-fi.
+Com base nas informações apresentadas no texto,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Uma adaptação necessária a ser realizada
+no protocolo ethernet para que possa ser
+implementado em ambiente industrial é a
+modificação de sua técnica de controle de
+acesso ao meio.
+PORQUE
+Il. A técnica de controle de acesso ao
+meio usada pelo protocolo ethernet, o
+CSMA/CD (Carrier Sense Multiple Access/
+Collision Detection), não garante a entrega
+dos pacotes devido às colisões.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e 11 são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="169,244 339,244 339,309 855,309 855,310 856,310 856,609 853,609 853,945 855,945 855,1425 555,1425 555,1477 407,1477 407,1731 171,1731 171,1732 170,1732 170,1444 218,1444 218,921 169,921 169,893 170,893 170,311 169,311"/>
+	<ImageRegion id="r3">
+	<Coords points="227,616 227,875 800,875 800,616"/></ImageRegion>
+	<TextEquiv conf="0.96293">
+	<Unicode>QUESTÃO 27
+Capacitores são elementos empregados em
+circuitos elétricos, podendo atuar como filtros,
+armazenadores de energia e na correção de fator
+de potência, para citar alguns exemplos. A figura a
+seguir ilustra dois capacitores de placas paralelas
+com as mesmas dimensões, porém com diferentes
+dielétricos (€, * E) entre as placas condutoras.
+A partir desses dados, avalie as afirmações a seguir.
+|. A energia armazenada nos capacitores
+depende do campo magnético entre as
+placas condutoras.
+Il. O valor da capacitância é diretamente
+proporcional ao valor da constante dielétrica
+ou permissividade elétrica relativa do
+material presente entre as placas condutoras
+dos capacitores.
+lIl. Se E &lt;&amp;E, o valor da capacitância do Capacitor 1
+é menor que o valor da capacitância do
+Capacitor 2.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

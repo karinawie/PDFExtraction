@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:49:18</Created>
+	<LastChange>2020-11-27T17:11:47</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="169,305 1577,305 1577,535 1576,535 1576,1328 171,1328 171,1329 170,1329 170,1243 169,1243 169,1001 168,1001 168,897 169,897"/>
+	<ImageRegion id="r1">
+	<Coords points="666,530 666,886 1066,886 1066,530"/></ImageRegion>
+	<TextEquiv conf="0.96254">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Um protótipo de robô foi desenvolvido por um estudante de engenharia, que, ao final da criação,
+resolveu inserir um LED (Light Emitting Diode) para a indicação da condição de funcionamento do robô.
+Nesse projeto, o LED permanece aceso quando o robô estiver inativo, e apagado quando o robô estiver
+em funcionamento. Para fazer essa adaptação no protótipo, o estudante implementou o circuito ilustrado
+na figura a seguir para o controle liga/desliga do LED.
+Com a chave na posição a, o LED acende e, na posição b, o LED apaga. O estudante utilizou um LED
+vermelho, que possui queda de tensão de 2 V e corrente de 10 mA em condição de funcionamento, além
+de um transistor com as seguintes características:
+* ganhoBtípico=100;
+º* tensão coletor-emissor na saturação (V.,.)=0V;
+º tensão base-emissor em condução (V,.)=0,7V.
+Com base nessas informações e considerando V .=5V, faça o que se pede nos itens a seguir.
+a) Calcule os valores dos resistores R,, e R... (valor: 6,0 pontos)
+b) Descreva o impacto no funcionamento do LED caso o transistor seja substituído por outro de ganho
+B menor, mantendo-se os valores de tensão da fonte e dos resistores R, e R... (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

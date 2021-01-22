@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:29:11</Created>
+	<LastChange>2020-09-15T17:29:54</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-25.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r2">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="102,571 102,965 763,965 763,571"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 254,179 254,247 769,247 769,1066 297,1066 297,1271 280,1271 280,1318 85,1318 85,555 84,555"/>
+	<TextEquiv conf="0.96080">
+	<Unicode>QUESTÃO 25
+Uma empresa está avaliando a substituição de
+um equipamento obsoleto por um novo, com
+investimento inicial de R$ 500.000,00 e benefícios
+esperados de R$ 20.000,00 no primeiro ano, de
+R$ 30.000,00 no segundo ano e de R$ 90.000,00
+por ano, do terceiro ao décimo segundo ano,
+o que leva ao seguinte perfil de valor presente
+líquido (VPL).
+Nessa situação, a taxa interna de retorno (TIR) do
+projeto de substituição do equipamento é de
+A 25% ao ano.
+B 20% ao ano.
+C 15% ao ano.
+D 10% ao ano.
+E 5% ao ano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="805,179 976,179 976,251 1491,251 1491,479 1492,479 1492,1363 1491,1363 1491,1420 1490,1420 1490,1711 1491,1711 1491,1785 1020,1785 1020,2034 806,2034 806,1784 805,1784 805,1710 855,1710 855,1506 806,1506 806,1505 805,1505 805,1430 806,1430 806,210 805,210"/>
+	<TextEquiv conf="0.96773">
+	<Unicode>QUESTÃO 26
+Um gerente de produção de uma fábrica de pneus
+deseja definir qual é o mix de pneus grandes e
+pequenos para maximização do lucro. Ele dispõe
+das seguintes informações acerca do processo de
+produção/consumo da fábrica:
+O lucro de cada unidade de pneu pequeno é de
+R$ 20,00, e o de cada unidade de pneu grande,
+R$ 50,00. O processo de produção do pneu é
+realizado em duas etapas subsequentes: confecção
+e vulcanização. A capacidade diária máxima do
+processo de confecção é de 3 000 pneus pequenos,
+quando confecciona-se apenas pneus pequenos;
+ou de 2 000 pneus grandes, quando confecciona-se
+apenas pneus grandes, sendo possível a produção
+combinada de pneus pequenos e grandes, desde
+que respeitada a capacidade de confecção.
+A capacidade diária máxima do processo de
+vulcanização é de 2 000 pneus pequenos, quando
+vulcaniza-se apenas pneus pequenos, ou de 1 000
+pneus grandes, quando vulcaniza-se apenas pneus
+grandes. É possível a produção combinada de
+pneus pequenos e grandes, desde que respeitada a
+capacidade de vulcanização. O mercado consegue
+absorver a totalidade da produção diária de pneus
+pequenos, mas absorve, no máximo, 800 pneus
+grandes por dia.
+Para a resolução desse problema, ou seja, a
+definição do mix de produção, o gerente considera
+as variáveis de decisão T, E Ta, EM que:
+*º r7 éa quantidade de pneus pequenos a
+serem produzidos diariamente;
+º 7,éaquantidade de pneus grandes a serem
+produzidos diariamente.
+Nessa situação, a opção que corresponde à solução
+correta do problema, na forma (21,1%, ), é
+A (400; 800).
+B (400; 1 000).
+C (1 000; 800).
+D (1 200; 400).
+E (0; 1000).</Unicode></TextEquiv></TextRegion></Page></PcGts>

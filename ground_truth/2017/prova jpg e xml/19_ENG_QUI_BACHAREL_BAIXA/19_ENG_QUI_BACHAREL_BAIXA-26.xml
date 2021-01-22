@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:14:36</Created>
+	<LastChange>2020-11-27T19:27:00</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="169,244 340,244 340,314 1577,314 1577,510 1576,510 1576,1274 1577,1274 1577,1511 1576,1511 1576,1762 555,1762 555,1832 407,1832 407,2095 170,2095 170,1947 169,1947 169,1511 168,1511 168,1510 169,1510 169,509 168,509 168,314 169,314"/>
+	<ImageRegion id="r1">
+	<Coords points="516,530 516,1113 1575,1113 1575,530"/></ImageRegion>
+	<TextEquiv conf="0.95739">
+	<Unicode>QUESTÃO 24
+Uma engenheira foi encarregada de fazer a secagem de um resíduo sólido industrial granular para facilitar
+o seu transporte, além de avaliar a possibilidade de sua reutilização em aplicação comercial. Considerando
+que o resíduo é gerado a uma vazão de 140 kg/h, em base úmida, e que tem teor de umidade de 28,5%,
+também em base úmida, a profissional determinou, em laboratório, a curva de secagem do produto,
+apresentada na figura a seguir.
+Nessa figura, entre os pontos A e B tem-se a equiparação térmica entre o sólido e o ar de secagem; entre B
+e C a taxa de secagem se mantém constante; entre C e D há o declínio da taxa de secagem, que se acentua
+a partir de D, até que se atinge a umidade de equilíbrio em E.
+Para tornar o processo economicamente viável, a engenheira optou por utilizar um secador do tipo tambor
+rotativo, previamente instalado na planta industrial, no qual as correntes de sólido e de ar escoam em
+contracorrente. Em um estudo preliminar, a engenheira alimentou todo o sólido gerado no secador, em
+equilíbrio térmico com a corrente de ar na entrada, e determinou que o tempo de retenção no equipamento
+era de, aproximadamente, 5h. Uma leitura na carta psicrométrica indicou que, nas condições do processo, o
+teor de umidade do ar era de 40% na alimentação de 90% na saída do equipamento, ambos em base seca.
+Com base no exposto, avalie as afirmações a seguir.
+|. A vazão de água perdida pelo sólido foi de 30 kg/h.
+Il. A vazão de ar seco alimentado foi de 60 kg/h.
+Ill. A variação do teor de água no ar seria menor se, operando nas mesmas condições, o processo
+ocorresse no modo cocorrente.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

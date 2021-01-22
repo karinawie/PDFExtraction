@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:42:55</Created>
+	<LastChange>2020-09-13T22:44:04</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-16.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r4">
+	<Coords points="783,181 787,2047 792,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,249 770,249 770,621 769,621 769,972 770,972 770,1244 769,1244 769,1547 768,1547 768,1729 678,1729 678,1780 86,1780 86,1781 85,1781 85,1549 84,1549 84,1474 85,1474 85,1344 83,1344 83,1281 84,1281 84,1280 133,1280 133,623 84,623 84,250 83,250 83,249 84,249"/>
+	<TextEquiv conf="0.96276">
+	<Unicode>QUESTÃO 11
+O efeito anódico é definido como uma diminuição
+da quantidade de Raios X do lado do anodo de
+um tubo de Raios X, devido à autoabsorção dos
+fótons produzidos pelo próprio anodo, por efeito
+fotoelétrico.
+BUSHONG, S. C. Ciência radiológica para tecnólogos: física, biologia
+e proteção. 9. ed. Rio de Janeiro: Elsevier, 2010 (adaptado).
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+l. Em mamógrafos, o tubo de Raios X é
+posicionado no interior do cabeçote, de
+modo que seu anodo fique posicionado o
+mais próximo da parede torácica do paciente
+e o catodo mais afastado, o que permite
+obter melhor qualidade de imagem.
+PORQUE
+Il. O formato das mamas, após a compressão,
+requer que a intensidade da radiação
+próxima à parede torácica seja maior que
+aquela do lado do mamilo, para assegurar
+uma exposição mais uniforme do receptor
+da imagem, evitando repetições durante o
+exame.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções I e II são proposições verdadeiras,
+e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II
+é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="805,179 976,179 976,248 1492,248 1492,604 1491,604 1491,1252 1489,1252 1489,1381 1490,1381 1490,1453 1489,1453 1489,1562 1490,1562 1490,1634 1399,1634 1399,1684 807,1684 807,1685 806,1685 806,1253 805,1253 805,1189 854,1189 854,739 806,739 806,249 805,249"/>
+	<TextEquiv conf="0.96625">
+	<Unicode>QUESTÃO 12
+A angiografia está relacionada ao estudo dos
+vasos sanguíneos e à avaliação de obstruções e
+dilatações, utilizando meio de contraste iodado.
+Durante a administração desse meio de contraste
+podem ocorrer reações adversas, desde formas
+mais leves até quadros críticos à vida. Além das
+reações adversas, podem ocorrer interações
+medicamentosas, para as quais podem ser adotadas
+condutas que minimizem seus efeitos.
+Considerando as informações apresentadas, avalie
+as asserções a seguir e a relação proposta entre
+elas.
+|. Pacientes que fazem uso da metformina
+devem descontinuar o uso do medicamento
+48 horas antes e depois da administração do
+contraste iodado.
+PORQUE
+Il. A metformina pode acumular-se no sangue
+em quantidade suficiente para causar uma
+acidose láctica em pacientes com alterações
+da função renal.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções I e II são proposições verdadeiras,
+e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II
+é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

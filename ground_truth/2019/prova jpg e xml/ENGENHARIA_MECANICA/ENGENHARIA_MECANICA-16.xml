@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:18:05</Created>
+	<LastChange>2020-09-15T04:18:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-16.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="587,377 588,846 976,844 975,375"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="418,850 418,1310 1150,1310 1150,850"/></ImageRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="85,179 1492,179 1492,204 1491,204 1491,1639 1489,1639 1489,1727 1218,1727 1218,1728 947,1728 947,1729 676,1729 676,1730 470,1730 470,1788 322,1788 322,2001 235,2001 235,2049 85,2049 85,2050 84,2050 84,1419 85,1419 85,1418 529,1418 529,359 83,359 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.47951">
+	<Unicode>QUESTÃO 09
+As figuras a seguir ilustram a perspectiva e as vistas (lateral e em corte) de um sistema mecânico
+chamado calço “V” regulável, utilizado para posicionamento de peças para medição. As vistas foram
+geradas automaticamente por um sistema CAD.
+GORDON, N.; FERREIRA, J. Telecurso 2000 Profissionalizante - elementos de máquinas. vol. 49.
+Rio de Janeiro: Fundação Roberto Marinho, 2000 (adaptado).
+Considerando os desenhos apresentados nas figuras, avalie as afirmações a seguir.
+|. A figura 1 mostra uma perspectiva isométrica caracterizada por ser uma projeção ortográfica que
+permite uma visualização tridimensional do sistema.
+Il. A figura 2a mostra uma vista lateral esquerda do sistema e o seu posicionamento está correto de
+acordo com o sistema de projeção em terceiro diedro.
+Ill. A figura 2b mostra um corte total do sistema e a representação em corte do parafuso é recomendada
+por norma técnica.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

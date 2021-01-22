@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:24:57</Created>
+	<LastChange>2020-09-11T20:27:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-15.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r7">
+	<Coords points="785,181 787,2047 790,2047 788,181"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="71,697 71,905 771,905 771,697"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,583 770,583 770,690 768,690 768,1166 769,1166 769,1273 246,1273 246,1377 238,1377 238,1517 85,1517 85,1273 83,1273 83,1166 84,1166 84,584 83,584 83,247 84,247"/>
+	<TextEquiv conf="0.96594">
+	<Unicode>QUESTÃO 09
+Na construção civil, um dos ensaios mais conhecidos
+e aplicados ao controle tecnológico do concreto é
+o ensaio de compressão axial de corpos de prova
+cilíndricos, que são normalmente moldados no
+recebimento do concreto em obra a fim de se
+verificar o atendimento da resistência característica
+do concreto (f,). Para tal, é importante o
+conhecimento do desvio padrão.
+A tabela a seguir apresenta os resultados de
+resistência à compressão axial, aos 28 dias de idade,
+de três corpos de prova coletados em uma obra.
+O desvio padrão (DP) é calculado a partir da
+seguinte fórmula:
+
+A partir das informações apresentadas, o desvio
+padrão dos resultados de resistência à compressão,
+calculado com base na fórmula fornecida, é
+A 3 MPa.
+B 4,5 MPa.
+C 5 MPa.
+D 9 MPa.
+E 25 MPa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="805,179 976,179 976,246 1491,246 1491,803 1179,803 1179,1055 806,1055 806,803 805,803 805,420 806,420 806,210 805,210"/>
+	<TextEquiv conf="0.96711">
+	<Unicode>QUESTÃO 10
+Em um canteiro de obras, serão designados
+locais para armazenamento dos materiais, com
+dimensões definidas de acordo com a quantidade
+e a característica de cada material.
+Considere que, nesse canteiro, seja necessário o
+armazenamento de 70 sacos de cimento, cada um
+deles com dimensões iguais a 40 x 60 x 15 cm.
+Sabe-se que o empilhamento máximo determinado
+pela obra é de 7 sacos de cimento.
+Com base nas informações apresentadas, a área
+total e as dimensões do local para armazenar os
+70 sacos, desconsiderando-se a área de circulação,
+serão, respectivamente, de
+A 3,00 m? e 2,00 x 1,50 m.
+B 2,40 m? e 2,00 x 1,20 m.
+C 3,00 m? e 3,00 x 1,00 m.
+D 2,40 m? e 2,40 x 1,00 m.
+E 3,00 m? e 2,50 x 1,20 m.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="805,1086 976,1086 976,1153 1492,1153 1492,1154 1493,1154 1493,1694 1491,1694 1491,1797 1130,1797 1130,1923 1284,1923 1284,1970 1320,1970 1320,2017 1482,2017 1482,2049 806,2049 806,1797 805,1797"/>
+	<TextEquiv conf="0.96774">
+	<Unicode>QUESTÃO 11
+Um profissional de engenharia civil coordena uma
+equipe de engenheiros encarregados de definir
+o tipo de barragem a ser construída para fins de
+irrigação, devendo atingir 7 metros de altura. Por
+meio de investigações geotécnicas preliminares,
+verificou-se que o solo de fundação é constituído de
+uma camada de 6 m de areia siltosa assente sobre
+rocha de siltito. Na região não existem pedreiras,
+mas há bastante disponibilidade de areia. Também
+foram encontradas jazidas com grandes volumes
+de solos areno-siltosos, de argilas siltosas e de
+siltes argilosos, sendo os dois últimos de natureza
+expansiva. Existem, ainda, argilas arenosas de
+comportamento laterítico, em limitados volumes.
+Considerando as condições descritas do local, o
+tipo de barragem mais indicado é o
+A de enrocamento.
+B de concreto armado.
+C de terra com seção homogênea.
+D de concreto compactado com rolo.
+E de terra com seção zoneada e núcleo de argila.</Unicode></TextEquiv></TextRegion></Page></PcGts>

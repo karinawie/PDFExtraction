@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:35:42</Created>
+	<LastChange>2020-09-12T19:36:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-13.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="105,360 105,923 597,923 597,360"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="726,355 726,989 1457,989 1457,355"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,179 200,179 200,180 315,180 315,181 429,181 429,247 1390,247 1390,248 1490,248 1490,316 1484,316 1484,1096 1181,1096 1181,1541 1180,1541 1180,1597 1127,1597 1127,1627 1126,1627 1126,1639 1122,1639 1122,1676 514,1676 514,1638 498,1638 498,1637 394,1637 394,1636 393,1636 393,1605 376,1605 376,1604 375,1604 375,1437 280,1437 280,1436 182,1436 182,1435 84,1435 84,1434 83,1434 83,1433 84,1433 84,1153 90,1153 90,316 85,316 85,210 84,210"/>
+	<TextEquiv conf="0.95111">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Em um laboratório de robótica, encontra-se instalado um manipulador do tipo SCARA, representado na
+Figura 1. Uma parte da modelagem cinemática direta para este robô está apresentada na Figura 2.
+O modelo cinemático apresentado foi obtido utilizando-se os seguintes parâmetros de Denavit-Hartenberg:
+oi: ângulo Lia e Z; ao redor de X,;
+a: distância entre Lia e Z; e ao longo de X;
+O: ângulo entre Xi e X;e ao redor de Z; 1
+d: distância entre a origem do sistema (1-1) e o cruzamento de Z, , e X,
+A matriz de transformação entre elos é dada por:
+cos. -cosa,xsend. sena,xsend. a, xcosd,
+; send. "cosa.xcosO. -sena.xcosdl. a xsend.
+qi = 1 1 1 4 1 4 1
+f 0 sena, cos a, d.
+0 0 0 1</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:56:33</Created>
+	<LastChange>2020-11-30T18:35:32</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="170,244 339,244 339,311 1577,311 1577,422 1578,422 1578,538 1576,538 1576,1713 1401,1713 1401,1714 1225,1714 1225,1715 171,1715 171,1644 170,1644 170,1468 169,1468 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="280,566 280,1205 1575,1205 1575,566"/></ImageRegion>
+	<TextEquiv conf="0.96495">
+	<Unicode>QUESTÃO 11
+Em uma rede de computadores baseada na arquitetura TCP/IP, a camada de transporte fornece o serviço
+de comunicação fim a fim entre os processos de aplicações executadas em cada um dos hospedeiros.
+Do ponto de vista das aplicações, a comunicação lógica fim a fim significa que tudo se passa como se
+os hospedeiros que rodam os pares de processos estivessem conectados diretamente. A figura a seguir
+mostra o recorte de uma rede com três hospedeiros e quatro processos. Observe a existência de uma
+comunicação lógica entre os processos P1 e P3 e entre os processos P2 e P4.
+Com base na figura apresentada, assinale a opção correta.
+O O processo P3 se conecta a P1 por meio de um número de porta UDP, que é um identificador exclusivo
+entre O e 1023.
+O No hospedeiro do meio, o serviço de multiplexação/demultiplexação fornecido pela camada de
+transporte garante a entrega dos dados ao processo de aplicação apropriado.
+O O endereço |P de destino contido no cabeçalho do protocolo TCP identifica o hospedeiro para o qual
+o segmento está sendo enviado e garante a comunicação fim a fim.
+O O protocolo de camada de transporte usado na comunicação entre os pares de processos é o TCP, que
+utiliza uma apresentação de três vias para estabelecer a comunicação fim a fim.
+O No protocolo de camada de transporte utilizado na comunicação entre os processos P2 e P4, cada
+segmento de dados enviado entre esses dois processos obterá uma confirmação de recebimento.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T01:43:13</Created>
+	<LastChange>2020-09-15T01:44:02</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-27.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="802,365 802,728 1489,728 1489,365"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,245 770,245 770,624 769,624 769,1738 510,1738 510,1792 274,1792 274,1916 322,1916 322,2041 85,2041 85,1764 133,1764 133,967 84,967 84,874 83,874 83,245 84,245"/>
+	<TextEquiv conf="0.96715">
+	<Unicode>QUESTÃO 29
+A determinação do Fator de Proteção Solar (FPS) de
+fotoprotetores é obrigatória no Brasil. O FPS mede
+o grau de proteção na pele que um produto oferece
+contra os raios UVB, indicando quanto tempo
+uma pessoa pode ficar exposta ao sol sem formar
+eritema. Os testes de FPS são realizados in vivo
+aplicando uma camada homogênea (2 mg/cm?)
+sobre a pele de voluntários humanos em condições
+padronizadas de fonte de luz e exposição, conforme
+a RDC n. 237/02, de 22 de agosto de 2002.
+Na reunião semanal da equipe multidisciplinar de
+um Unidade Básica de Saúde, o farmacêutico alertou
+que diferentes estudos vêm demonstrando que as
+quantidades aplicadas pelos consumidores no dia
+a dia estão abaixo da concentração empregada nos
+testes para determinação do FPS.
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. O uso correto de fotoprotetores está associado
+à compreensão dos consumidores do
+significado prático do FPS e das informações
+dos rótulos dos produtos. Ambos os fatores
+auxiliam na aproximação entre os testes
+de determinação de FPS e as condições
+reais de uso.
+Il. O protetor solar aplicado na pele em uma
+concentração de 0,5 mg/cm? diminui a
+efetividade do FPS declarado na rotulagem,
+uma vez que quantidades inferiores reduzem
+a homogeneidade do filme protetor na pele.
+Ill. O tempo para que diferentes usuários de
+protetores solares com FPS 30 apresentem
+eritema solar é o mesmo, desde que o
+produto seja aplicado na concentração de
+2 mg/cm? e o espalhamento forme um filme
+homogêneo em todas as regiões do corpo
+expostas ao sol.
+Está correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="805,179 976,179 976,246 1491,246 1491,850 1170,850 1170,1092 806,1092 806,850 805,850"/>
+	<TextEquiv conf="0.96312">
+	<Unicode>QUESTÃO 30
+Suponha que um farmacêutico magistral tenha
+recebido uma prescrição solicitando a formulação
+a seguir.
+Qual a quantidade de insumo farmacêutico ativo
+a ser utilizado para se preparar 300,0 mL dessa
+solução farmacêutica?
+A 5,0 gde minoxidil.
+B 10,0 g de minoxidil.
+C 15,0 g de minoxidil.
+D 0,1 gde metilparabeno.
+E 0,3 gde metilparabeno.</Unicode></TextEquiv></TextRegion></Page></PcGts>

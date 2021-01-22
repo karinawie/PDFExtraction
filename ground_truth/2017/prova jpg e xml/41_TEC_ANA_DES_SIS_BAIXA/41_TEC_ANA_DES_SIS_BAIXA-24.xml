@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:23:55</Created>
+	<LastChange>2020-11-30T17:26:28</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1575,312 1575,375 169,375"/>
+	<TextEquiv conf="0.96544">
+	<Unicode>QUESTÃO 20
+O quadro a seguir apresenta um exemplo de documentação de caso de uso Encerrar Conta para um
+Sistema de Controle Bancário.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="169,394 169,2050 1583,2050 1583,394"/></TableRegion></Page></PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:15:10</Created>
+	<LastChange>2020-11-27T19:28:45</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 871,2112 874,2112 875,247"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1577,313 1577,625 1574,625 1574,746 1531,746 1531,868 1568,868 1568,993 1575,993 1575,1099 1576,1099 1576,1403 1577,1403 1577,1768 1381,1768 1381,1833 1055,1833 1055,2100 892,2100 892,2099 891,2099 891,1873 892,1873 892,1799 939,1799 939,1064 891,1064 891,1063 890,1063 890,993 940,993 940,625 890,625 890,624 889,624 889,313 890,313"/>
+	<TextEquiv conf="0.96680">
+	<Unicode>QUESTÃO 21
+Biodigestores são projetados para proporcionar
+condições favoráveis aos microrganismos que, por
+meio de processos anaeróbios, podem realizar o
+tratamento da água residuária. São apresentados,
+a seguir, alguns parâmetros operacionais e
+econômicos referentes a um projeto de implantação
+de sistema biodigestor para tratamento de águas
+residuárias de um aviário.
+e Volume de água residuária: 30 000 m?/ano.
+* Investimento no sistema: R$ 200 000,00.
+*º Tempo de vida útil do projeto: 10 anos.
+*º Taxamínima de atratividade (TMA): 8%.
+* Valor presente líquido (VPL): R$ 60 000,00.
+*º Taxainterna de retorno (TIR): 6%.
+Com base nesse contexto, avalie as afirmações a
+seguir.
+|. O VPL, que considera a desvalorização do
+dinheiro ao longo do tempo, indica que o
+projeto é atrativo, o que justifica, em termos
+econômicos-financeiros, a decisão pela sua
+implantação.
+Ill. Esse projeto apresenta a TIR atraente, o que
+indica que ele deve ser implantado.
+Ill. O planejamento econômico-financeiro da
+implantação do biodigestor deve considerar
+as receitas associadas à venda do efluente,
+como biofertilizante, e do biogás gerados
+por esse processo.
+IV. O processo de degradação anaeróbia
+envolvido na operação do biodigestor
+ocorre em duas etapas: acidogênese e
+metanogênese.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O ielv
+O Lev.
+O IMeIv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,872 856,872 856,1469 855,1469 855,1470 660,1470 660,1532 319,1532 319,1786 169,1786 169,1563 170,1563 170,1498 218,1498 218,717 169,717"/>
+	<TextEquiv conf="0.94764">
+	<Unicode>QUESTÃO 20
+Em um reator CSTR ideal ocorre uma reação
+irreversível, exotérmica e em fase líquida, cuja
+espécie A reage para formar o produto B. Esse
+reator é descarregado continuamente por uma
+bomba centrífuga, e nele há, ainda, uma camisa
+alimentada continuamente por um fluido de
+resfriamento.
+Com relação ao comportamento dinâmico e ao
+controle do sistema descrito, avalie as afirmações
+a seguir.
+l. Um controle proporcional (P) é suficiente
+para controlar o nível do reator, cuja variável
+manipulada é a vazão de descarga.
+Il. Se a lei cinética de reação for de
+segunda ordem, a expressão dinâmica da
+concentração do reagente dentro do reator
+será uma equação diferencial ordinária de
+primeira ordem e linear.
+Ill. Por se tratar de uma variável de dinâmica
+lenta, recomenda-se controlar a temperatura
+do reator mediante o uso de um controlador
+com as ações: proporcional, integral e
+derivativa (PID).
+IV O perfil dinâmico que relaciona a
+temperatura da camisa do reator à sua vazão
+de alimentação pode ser representado por
+uma função de transferência de segunda
+ordem.
+É correto apenas o que se afirma em
+Oie.
+O llelv.
+O lelv.
+O Le.
+O 1LIelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

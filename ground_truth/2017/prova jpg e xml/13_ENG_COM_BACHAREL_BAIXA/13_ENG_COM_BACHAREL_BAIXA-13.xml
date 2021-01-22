@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:00:40</Created>
+	<LastChange>2020-11-21T00:18:43</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="169,314 170,314 170,315 513,315 513,364 1576,364 1576,684 1574,684 1574,905 1577,905 1577,1107 1575,1107 1575,1306 218,1306 218,1107 169,1107 169,1016 168,1016 168,694 169,694"/>
+	<TextEquiv conf="0.96499">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Os autômatos celulares são sistemas dinâmicos discretos no espaço e no tempo que operam em uma
+rede regular finita ou infinita e são caracterizados por interações locais. Cada elemento, denominado
+célula, está associado a um dado estado em um conjunto discreto e é atualizado com base nos estados
+anteriores de suas células vizinhas imediatas, de acordo com um conjunto de regras locais. Os autômatos
+celulares geram um grande interesse na área de Engenharia de Computação desde o início dos anos 1960,
+quando foi criado o Jogo da Vida, e agora são amplamente estudados para modelagem e simulação de
+processos espaço-temporais reais em uma ampla variedade de domínios de aplicação.
+SLIMI, R. et al. A cellular automata model for Chagas disease. Applied Mathematical Modelling,
+Amsterdã, v. 33, p. 1072-1085, 2009 (adaptado).
+As regras do Jogo da Vida são:
+* qualquer célula viva com menos de dois vizinhos vivos morre de solidão;
+* qualquer célula viva com mais de três vizinhos vivos morre de superpopulação;
+* “qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração;
+* qualquer célula morta com três vizinhos vivos torna-se uma célula viva.
+Nesse contexto, escreva uma rotina em C (ANSI) em que se utilizem as regras acima descritas para definir
+o estado atual de uma célula com base no seu estado anterior e no de suas vizinhas.
+Ao elaborar sua resposta, considere que:
+º* ascélulassão entradas de uma matriz;
+º* oscasos não cobertos pelas regras significam permanência no mesmo estado;
+º* a rotina deve ter como parâmetros a matriz M, definida como “unsign ed char **M”,
+e os Índices i, 3 da posição da célula, definidos como inteiros;
+* aredeé quadriculada, o valor 1 (um) na matriz significa célula viva e o valor O (zero) significa célula morta;
+* osvizinhos correspondem às 4 células que compartilham lados e às 4 diagonais da célula de interesse;
+º nãohá necessidade de se preocupar com os limites da matriz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

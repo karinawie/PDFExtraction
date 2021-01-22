@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:22:01</Created>
+	<LastChange>2020-11-30T17:21:33</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-35.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,249 1393,249 1393,332 634,332 634,512 1001,512 1001,574 1575,574 1575,603 556,603 556,711 399,711 399,995 170,995 170,802 171,802 171,677 218,677 218,512 266,512 266,332 170,332"/>
+	<TextEquiv conf="0.96424">
+	<Unicode>Com base nas informações do texto e no código apresentado, avalie as afirmações a seguir.
+|. A execução do código, via classe Main, resulta na seguinte saída:
+Imprimindo na Laser
+Imprimindo na Matricial
+Imprimindo na Jato de tinta
+Il. O código faz uso da técnica denominada polimorfismo.
+Ill. O código não será compilado, pois o vetor imp foi instanciado por meio da classe abstrata
+Impressora.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1L11el.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="170,1033 340,1033 340,1102 1577,1102 1577,1404 1576,1404 1576,1744 660,1744 660,1812 335,1812 335,2097 170,2097 170,1850 171,1850 171,1778 218,1778 218,1404 171,1404 171,1228 169,1228 169,1102 170,1102"/>
+	<TextEquiv conf="0.96771">
+	<Unicode>QUESTÃO 31
+À medida que o projeto de uma interface do usuário evolui, quatro questões de projeto comuns quase
+sempre vêm à tona: tempo de resposta do sistema, recursos de ajuda ao usuário, informações de
+tratamento de erros e atribuição de nomes a comandos.
+PRESSMAN, R. S. Engenharia de software: uma abordagem profissional. 8. ed. São Paulo: AMGH, 2016 (adaptado).
+Nesse contexto, avalie as afirmações a seguir, a respeito do projeto de interface e dos requisitos de software.
+|. A análise de interfaces tem por objetivo identificar o perfil dos usuários e auxiliar na especificação
+do requisito não funcional de segurança pertinente ao perfil de acesso dos usuários.
+Il. O requisito não funcional de segurança descreve as características relacionadas a inteligibilidade,
+modo de usar ou operar o sistema.
+Ill. O requisito não funcional de confiabilidade descreve as características relacionadas ao tempo de
+resposta para processamento de dados ou informações.
+IV. O requisito não funcional de usabilidade descreve diretrizes de acessibilidade para pessoas
+com deficiência.
+É correto apenas o que se afirma em
+Oie.
+Ole
+QBielv
+O L11el.
+OuMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T00:15:57</Created>
+	<LastChange>2020-09-10T01:07:42</LastChange></Metadata>
+	<Page imageFilename="EDUCACAO_FISICA-19.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r3">
+	<Coords points="336,452 335,1208 1492,1210 1495,454"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 85,179 85,180 254,180 254,247 1492,247 1492,430 1491,430 1491,1448 1354,1448 1354,1669 1095,1669 1095,1717 678,1717 678,1765 84,1765 84,1510 83,1510 83,1481 84,1481 84,430 83,430 83,247 84,247"/>
+	<TextEquiv conf="0.95750">
+	<Unicode>QUESTÃO 15
+As habilidades são complexas e diversas. Para classificá-las são utilizados modelos que consideram
+algumas características, tais como a organização do movimento, o nível da previsibilidade ambiental, a
+importância relativa dos elementos motores e cognitivos envolvidos na performance. A imagem a seguir
+mostra o momento do movimento de arremesso de uma bola de softball, representando uma habilidade
+classificada como discreta.
+Considerando esse contexto, avalie as asserções a seguir e a relação proposta entre elas.
+I. A corrida, a natação e o ciclismo são exemplos de habilidades discretas.
+PORQUE
+II. Uma habilidade discreta caracteriza-se por pontos bem definidos de início e de fim do movimento
+executado.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

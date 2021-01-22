@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:19:42</Created>
+	<LastChange>2020-09-15T04:21:24</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-17.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="184,725 186,1019 207,1019 208,1111 700,1107 697,721"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="774,181 787,2047 801,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="818,462 821,856 1485,851 1482,458"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,179 256,179 256,247 768,247 768,248 769,248 769,277 770,277 770,453 771,453 771,1306 769,1306 769,1487 598,1487 598,1488 440,1488 440,1741 263,1741 263,1742 85,1742 85,1743 84,1743 84,1342 293,1342 293,630 84,630 84,504 83,504 83,247 84,247"/>
+	<TextEquiv conf="0.94277">
+	<Unicode>QUESTÃO 10
+As diretivas de restrições para uso de 
+certas substâncias perigosas provocaram O
+desenvolvimento de ligas de soldagem de
+componentes eletrônicos que não contivessem
+chumbo (Pb) em sua composição, como, por
+exemplo, a liga de estanho (Sn) e de bismuto (Bi),
+cujo diagrama de fases é apresentado a seguir.
+Considere que esses materiais apresentam, entre
+outras características, temperatura de fusão
+erelativamente baixa.
+CALLISTER, JR.; W. D.; RETHWISCH, D. G. Ciência e
+engenharia de materiais: uma introdução. 9. ed.
+Rio de Janeiro:LTC, 2018 (adaptado).
+Com base nas informações e no diagrama
+apresentados, a composição mássica da liga
+Sn-Bi mais adequada para a soldagem de
+componentes eletrônicos é de
+A 100% de Sn e 0% de Bi.
+B 79% de Sn e 21% de Bi.
+C 60% de Sn e 40% de Bi.
+D 43% de Sn e 57% de Bi.
+E 0% de Sn e 100% de Bi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1490,247 1490,338 1491,338 1491,432 1490,432 1490,964 1491,964 1491,1566 1358,1566 1358,1567 1220,1567 1220,1568 807,1568 807,1440 806,1440 806,964 1008,964 1008,435 805,435"/>
+	<TextEquiv conf="0.96735">
+	<Unicode>QUESTÃO 11
+Considere a figura a seguir, em que se apresenta
+a leitura de um micrômetro com escala métrica,
+no qual cada rotação do fuso representa 0,5 mm
+de movimento linear; conectado a esse fuso, é
+colocado um colar (tambor) com 50 divisões.
+Disponível em: &lt;https://www.stefanelli.eng.br&gt;.
+Acesso em: 18 jun. 2019 (adaptado).
+Com base nas informações e no micrômetro
+representado na figura, assinale a opção correta.
+A A resolução desse instrumento de medida é
+igual a 0,01 mm.
+B O deslocamento do colar nesse instrumento é
+superior a 14 mm na escala fixa.
+C A parte da medida do micrômetro atribuída à
+leitura da escala do tambor é igual a 0,039 mm.
+D A escala do nônio amplia em 1 000 vezes a
+precisão de um micrômetro similar que possui
+apenas escala fixa e a escala do tambor.
+E os comprimentos lineares que exijam
+tolerâncias de milésimos de milímetro são
+medidos adequadamente por esse instrumento.</Unicode></TextEquiv></TextRegion></Page></PcGts>

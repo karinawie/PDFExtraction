@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T23:47:47</Created>
+	<LastChange>2020-09-12T23:48:59</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_FLORESTAL-22.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="805,365 805,992 1481,992 1481,365"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,249 770,249 770,615 769,615 769,1712 768,1712 768,1992 678,1992 678,2043 85,2043 85,1899 84,1899 84,1824 85,1824 85,1597 83,1597 83,1532 133,1532 133,805 84,805 84,734 220,734 220,616 84,616"/>
+	<TextEquiv conf="0.95408">
+	<Unicode>QUESTÃO 22
+Muitas espécies de insetos são benéficas ao ser
+humano, estando entre elas as que têm hábito
+de predar ou parasitar outros insetos, exercendo
+o controle biológico natural de seus hospedeiros.
+O controle biológico é a base dos programas de
+Manejo Integrado de Pragas (MIP), que visam
+à adoção de diferentes táticas de controle para
+reduzir o impacto das pragas, minimizando o uso e
+os efeitos negativos dos inseticidas químicos.
+COSTA, E. C. et. al. Entomologia florestal. Santa Maria:
+UFSM, 2008 (adaptado).
+Considerando o texto apresentado, avalie as
+asserções a seguir e a relação proposta entre elas.
+l. No controle biológico, predadores e
+parasitoides, considerados exemplos
+de inimigos naturais, são agentes de
+mortalidade dependentes da densidade
+populacional do inseto-praga.
+PORQUE
+Il. O aumento da densidade populacional de
+um inseto-praga implica maior quantidade
+de alimento aos inimigos naturais, cujas
+populações também aumentam, o que
+provoca um decréscimo na densidade da
+praga e na disponibilidade de alimento,
+acarretando na redução dos inimigos
+naturais e permitindo que a população da
+praga volte a crescer.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções I e II são proposições verdadeiras,
+e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II
+é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1491,247 1491,1193 1076,1193 1076,1454 806,1454 806,1193 805,1193"/>
+	<TextEquiv conf="0.96357">
+	<Unicode>QUESTÃO 23
+O gráfico a seguir apresenta dados de Diâmetro à
+Altura do Peito (DAP) e da altura total de árvores
+provenientes de um plantio florestal.
+Considerando que a altura estimada no gráfico
+foi obtida a partir de um modelo de regressão
+linear simples, sem aplicação de qualquer outra
+transformação nas variáveis, os valores corretos
+dos coeficientes dessa regressão são
+A Bo =10;B,=1.
+B py =0;B,=-0,5.
+C p,=0;B,=1
+D py =10;8B,=0,5.
+E py =-10;8,=-1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

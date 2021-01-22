@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:24:51</Created>
+	<LastChange>2020-09-15T04:25:55</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-20.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="472,436 472,672 1102,672 1102,436"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,246 1491,246 1491,360 1490,360 1490,842 1491,842 1491,1065 470,1065 470,1115 305,1115 305,1322 84,1322 84,808 83,808 83,246 84,246"/>
+	<TextEquiv conf="0.87141">
+	<Unicode>QUESTÃO 17
+A modelagem adequada de sistemas mecânicos é de fundamental importância para que as respostas das
+simulações computacionais sejam condizentes com as respostas dos sistemas físicos. Na figura a seguir,
+mé a massa; k,, k, e kz são os coeficientes de rigidez; e c, c, e cz são os coeficientes de amortecimento.
+Considere k, = kh = kh = kec=c6&amp;w=cG=Cc.
+BALACHANDRAN, B.; MAGRAB, B. E.; Vibrações Mecânicas. 4. ed. São Paulo: Cengage Learning, 2011 (adaptado).
+A partir das informações apresentadas no texto e na figura, avalie as afirmações a seguir.
+|. Considerando-se que o deslocamento da massa m em função do tempo seja 7, o modelo
+matemático utilizado em uma simulação computacional será mã + (3c)i +(3k /2)r =0.
+Il. A frequência angular natural do sistema é &amp;, = ((3k) / m
+Ill. Caso o sistema da figura seja excitado com uma frequência igual à natural, a amplitude tende para
+o infinito com quaisquer valores de k,, ka, k3, Cp, c5 E C3.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e II apenas.
+D I e III apenas.
+E I, II e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,1338 255,1338 255,1461 1492,1461 1492,1689 1489,1689 1489,1793 306,1793 306,2054 84,2054 84,1793 83,1793 83,1725 84,1725"/>
+	<TextEquiv conf="0.63655">
+	<Unicode>OIE.
+QUESTÃO 18
+Os combustíveis fósseis, particularmente os derivados de petróleo, têm larga aplicação na sociedade
+moderna, sendo utilizados para a alimentação de motores a combustão interna de veículos, de
+queimadores a gás e de fornos industriais. De sua queima, resulta o fenômeno conhecido como chuva
+ácida, que se caracteriza pelo reduzido valor do seu pH (&lt; 4,5) e tem como principais consequências a
+alteração química das águas dos rios e lagos, a degradação de monumentos históricos construídos a partir
+de carbonatos (mármore) e o comprometimento da vida útil de estruturas metálicas e de equipamentos.
+Nesse contexto, é correto afirmar que, a partir da combustão do óleo combustível derivado de petróleo,
+favorecem a ocorrência da chuva ácida os gases
+A CO, e N,.
+B CaH;eN,.
+C SO, e CH, .
+D CO, e SO,.
+E CH, e O,.</Unicode></TextEquiv></TextRegion></Page></PcGts>

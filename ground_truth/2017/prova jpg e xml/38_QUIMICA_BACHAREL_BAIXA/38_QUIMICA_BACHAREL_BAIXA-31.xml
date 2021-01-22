@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T01:35:43</Created>
+	<LastChange>2020-11-30T01:42:32</LastChange></Metadata>
+	<Page imageFilename="38_QUIMICA_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r12">
+	<Coords points="868,247 872,2112 878,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,568 1577,568 1577,950 1575,950 1575,1066 1577,1066 1577,1175 1575,1175 1575,1295 1577,1295 1577,1508 1576,1508 1576,1631 1324,1631 1324,1632 1320,1632 1320,1671 891,1671 891,1176 890,1176 890,1067 891,1067 891,1066 1005,1066 1005,950 891,950 891,951 890,951"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 33
+A Química Verde possui 12 princípios que servem
+como uma base norteadora para boas práticas
+em química, podendo promover e assessorar o
+desenvolvimento de políticas públicas e projetos
+de iniciativa privada, como o monitoramento
+ambiental.
+O monitoramento ambiental é um processo de
+coleta de dados, estudo e acompanhamento
+contínuo e sistemático das variáveis ambientais,
+com o objetivo de identificar e avaliar — qualitativa
+e quantitativamente — as condições dos recursos
+naturais em determinado momento, assim como as
+tendências ao longo do tempo. As variáveis sociais,
+econômicas e institucionais também são incluídas
+nesse tipo de estudo, já que exercem influências
+sobre o meio ambiente.
+Disponível em: &lt;http://www.agencia.cnptia.embrapa.br&gt;.
+Acesso em: 11 set. 2017 (adaptado).
+Assinale qual dos métodos de extração e/ou
+separação de analitos a seguir estão em maior
+conformidade com os princípios da Química Verde.
+O Extração por Soxhlet e extração em fase sólida
+(SPE).
+O Extração líquido-líquido e microextração
+dispersiva líquido-líquido (DLLME).
+O Permeação em membrana (EPM) e extração
+líquido-líquido.
+O Microextração em fase sólida (SPME) e extração
+em fase sólida (SPE).
+O Microextração em fase
+microextração dispersiva
+(DLLME).
+sólida (SPME) e
+líquido-líquido</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="169,244 340,244 340,312 855,312 855,396 854,396 854,1503 477,1503 477,1758 170,1758 170,1759 169,1759"/>
+	<TableRegion id="r2">
+	<Coords points="175,488 175,1055 861,1055 861,488"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="169,1075 169,1405 850,1405 850,1075"/></TableRegion>
+	<TextEquiv conf="0.96451">
+	<Unicode>QUESTÃO 32
+Considere os seguintes resultados das análises de
+um composto orgânico desconhecido, de fórmula
+molecular CH, O, apresentados no quadro 1, e os
+dados de referência apresentados no quadro 2.
+Com base nos resultados e dados apresentados,
+conclui-se que o composto analisado é o
+O butan-1-ol.
+O butan-2-ol.
+O 2-metilbutan-2-ol.
+O 2-metilpropan-1-ol.
+O 2-metilpropan-2-ol.</Unicode></TextEquiv></TextRegion></Page></PcGts>

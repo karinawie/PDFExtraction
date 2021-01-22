@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:39:10</Created>
+	<LastChange>2020-09-15T02:41:13</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-30.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 256,179 256,231 1490,231 1490,566 1491,566 1491,715 1056,715 1056,819 1080,819 1080,933 1491,933 1491,985 1490,985 1490,1157 1491,1157 1491,1313 470,1313 470,1370 273,1370 273,1496 322,1496 322,1623 84,1623 84,1496 85,1496 85,1336 133,1336 133,1138 84,1138 84,1013 186,1013 186,933 487,933 487,715 83,715 83,390 84,390"/>
+	<TextEquiv conf="0.52635">
+	<Unicode>QUESTÃO 34
+Uma das rotas para a produção de propeno envolve a desidrogenação catalítica de propano, conforme a
+equação a seguir.
+CxHQ = CH, + H,
+Nesse processo, são utilizados catalisadores de platina a fim de aumentar a seletividade em propeno e
+evitar a ocorrência de reações indesejadas, como as que levam à formação de metano. Além disso,
+temperaturas demasiadamente elevadas podem provocar o craqueamento do propano, formando coque.
+A entalpia padrão dessa reação a 298 K corresponde a 124 kJ/mol.
+A cinética da desidrogenação do propano pode ser escrita por um modelo de Langmuir-Hinshelwood,
+conforme a expressão a seguir, na qual k' é uma constante cinética; P; é a pressão parcial do componente 5,
+em que j pode ser C3Hy, CgHç, H, ou CH; K., é a constante de equilíbrio da reação; e Kezn E Ken
+são constantes de adsorção para o propeno e o metano, respectivamente.
+Ta
+C3Hg
+k'(P P, K
+( 36 na / 1)
+(1+K,, + Kong To
+2
+en,
+RICCA, A. et al. Membrane assisted propane dehydrogenation: experimental investigation and mathematical modelling of catalytic reactions.
+Catalysis Today, v. 331, p. 43-52, 2019 (adaptado).
+Com base na situação descrita, avalie as afirmações a seguir.
+|. Para deslocar o equilíbrio da desidrogenação do propano no sentido de formação de propeno,
+deve-se conduzir essa reação sob alta temperatura e pressão elevada.
+Il. Analisando a lei cinética descrita previamente, observa-se uma competição de moléculas de
+propeno e de metano nos sítios ativos do catalisador em relação à adsorção de propano.
+Ill. Em função do potencial craqueamento do propano, o coque formado tende a provocar o bloqueio
+dos poros do catalisador e levar à sua desativação.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

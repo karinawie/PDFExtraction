@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T21:34:34</Created>
+	<LastChange>2020-11-27T21:43:42</LastChange></Metadata>
+	<Page imageFilename="25_GEOGRAFIA_BACHAREL_ALTA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,244 340,244 340,317 1577,317 1577,631 874,631 874,632 171,632 171,633 170,633 170,514 169,514 169,481 168,481 168,317 169,317"/>
+	<TextEquiv conf="0.96718">
+	<Unicode>QUESTÃO 28
+Segundo a PNAD (Pesquisa Nacional de Amostra de Domicílio), em 2014, havia telefone fixo ou celular
+em 93,5% dos domicílios brasileiros. No entanto, entre os anos de 2007 e 2015, a evolução dos terminais
+telefônicos apresentou relativa estabilidade nas linhas telefônicas fixas em funcionamento, enquanto as
+de telefonia celular aumentaram 53,07%.
+Quanto à distribuição, a tabela de telefones em serviço - 2015 aponta a concentração das linhas
+na região Sudeste (47,44% do total) e menor concentração nas regiões Norte e Centro-Oeste
+(6,4% e 8,24%, respectivamente).</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="177,666 177,1483 1577,1483 1577,666"/></TableRegion></Page></PcGts>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:26:30</Created>
+	<LastChange>2020-11-20T21:37:38</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1575,312 1575,1367 1576,1367 1576,1715 1577,1715 1577,1782 1277,1782 1277,1839 1128,1839 1128,2093 891,2093 891,461 890,461"/>
+	<ImageRegion id="r3">
+	<Coords points="883,477 883,752 1575,752 1575,477"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="894,758 894,1066 1577,1066 1577,758"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="888,1072 888,1397 1569,1397 1569,1072"/></ImageRegion>
+	<TextEquiv conf="0.96519">
+	<Unicode>QUESTÃO 22
+As figuras 1, 2 e 3, a seguir, apresentam,
+respectivamente, o esquema estático de uma viga
+contínua e seus diagramas de momento fletor e de
+esforço cortante.
+Figura 3 (valores em kN).
+Com base nas figuras e considerando que
+Q1 = 10 kN/m e que as cargas estão concentradas
+no meio do vão, avalie as afirmações a seguir.
+|. A carga pontual P2 tem valor de 15,0 kN.
+Il. A carga uniformemente distribuída Q2
+tem valor de 20,0 kN/m.
+Ill. A reação vertical no apoio B tem valor de
+30,0 kN.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+QE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="169,244 339,244 339,312 856,312 856,740 854,740 854,916 855,916 855,1076 854,1076 854,1493 171,1493 171,1494 170,1494 170,885 169,885"/>
+	<TextEquiv conf="0.96753">
+	<Unicode>QUESTÃO 21
+Desde a década de 1960, utiliza-se o produto
+resultante da trituração de pneus para a adição ao
+asfalto, o que é conhecido como asfalto modificado
+com borracha (AMB). Diversas concessionárias de
+estradas utilizam o AMB também na manutenção
+dos pavimentos. No dimensionamento de
+pavimentos flexíveis, considera-se o número de
+solicitações de um eixo-padrão na vida útil do
+projeto, mas diversas condições podem determinar
+a antecipação de sua vida útil, entre elas o excesso
+de cargas.
+Em relação ao uso de pneus descartados na
+restauração de pavimentos flexíveis, é correto
+afirmar que
+O as misturas betuminosas de AMB com maior
+fluência aumentam a vida útil do pavimento.
+O autilização de AMB reduz riscos e a necessidade
+de precauções de segurança de trabalhadores.
+O as misturas betuminosas de AMB de graduação
+aberta são indicadas para compor a capa de
+rolamento.
+O a utilização de AMB aumenta a durabilidade
+do revestimento dos pavimentos e reduz a
+necessidade de intervenções de manutenção.
+O quando utilizados no AMB, os agregados
+de granito apresentam maior adesividade
+ao ligante asfáltico do que os agregados de
+basalto.</Unicode></TextEquiv></TextRegion></Page></PcGts>

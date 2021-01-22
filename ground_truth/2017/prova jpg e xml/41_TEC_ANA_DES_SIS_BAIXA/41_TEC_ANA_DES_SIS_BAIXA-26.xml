@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:23:40</Created>
+	<LastChange>2020-11-30T17:25:27</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,246 872,2112 873,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1516 1381,1516 1381,1572 1055,1572 1055,1826 891,1826 891,1603 892,1603 892,1538 939,1538 939,631 891,631 891,495 890,495"/>
+	<TextEquiv conf="0.96530">
+	<Unicode>QUESTÃO 22
+Um desenvolvedor de software recém-formado foi
+contratado para a implementação de um projeto
+em uma empresa e, em reunião, recebeu várias
+explicações sobre como a gerência de configuração
+funcionava.
+Considerando essa situação, avalie as afirmações
+a seguir, referentes às informações dadas ao
+desenvolvedor.
+|. Inicialmente, para ter acesso à base de
+desenvolvimento, o profissional deve
+realizar uma operação de checkout para
+baixar os arquivos do projeto que estão
+armazenados no servidor.
+Ill. Na situação em que mais de um
+desenvolvedor estiver modificando um
+mesmo documento, ao se tentar realizar uma
+operação de commit, pode ser necessário
+realizar uma operação de tag (release) para
+resolução do conflito entre a versão local e
+a versão mais recente no repositório, caso
+algum desenvolvedor tenha submetido uma
+mudança no documento previamente.
+Ill. No desenvolvimento de um novo caso
+de uso, em que diversos arquivos sejam
+modificados, é recomendada a criação de
+uma ramificação (branch).
+IV. A versão estável é o ramo principal de
+desenvolvimento, que segue do começo do
+desenvolvimento até o momento presente.
+É correto apenas o que se afirma em
+Oie.
+Oie,
+O leiv
+O L,Ielv.
+Que</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,309 854,309 854,1050 555,1050 555,1103 390,1103 390,1267 398,1267 398,1343 170,1343 170,1069 218,1069 218,736 168,736 168,309 169,309"/>
+	<TextEquiv conf="0.96412">
+	<Unicode>QUESTÃO 21
+Os modelos de processo foram propostos para
+trazer ordem ao caos existente na área de
+desenvolvimento de software. A história mostra que
+esses modelos trouxeram considerável contribuição
+no trabalho da engenharia de software.
+PRESSMAN, R. S. Engenharia de software: uma abordagem
+profissional. 8. ed. Porto Alegre: AMGH, 2016 (adaptado).
+A respeito dos modelos de processo, avalie as
+afirmações a seguir.
+|. São atividades do modelo incremental:
+especificação, desenvolvimento e validação.
+Il. No modelo espiral, a fase de modelagem é
+responsável, entre outras atividades, pela
+estimativa, cronograma e análise de risco.
+Ill. O modelo cascata sugere uma abordagem
+sequencial e sistemática para oO
+desenvolvimento de software, iniciando na
+especificação de requisitos e finalizando
+com a entrega do software concluído.
+É correto o que se afirma em
+O 1l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1L1em.</Unicode></TextEquiv></TextRegion></Page></PcGts>

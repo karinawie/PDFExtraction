@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T03:18:58</Created>
+	<LastChange>2020-11-16T00:20:06</LastChange></Metadata>
+	<Page imageFilename="provabiomedicina-20.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,254 872,2073 874,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,243 855,243 855,274 854,274 854,678 855,678 855,824 854,824 854,1103 855,1103 855,1368 854,1368 854,1779 532,1779 532,1834 335,1834 335,1944 366,1944 366,1991 383,1991 383,2023 295,2023 295,2069 146,2069 146,1849 147,1849 147,1800 239,1800 239,1418 194,1418 194,1396 222,1396 222,1395 240,1395 240,1077 194,1077 194,824 145,824"/>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 21
+Os profissionais de saúde estão constantemente
+sob risco de exposição ocupacional a patógenos
+transmitidos pelo sangue, como o vírus da
+imunodeficiência humana (HIV). Habitualmente, a
+exposição a esse agente decorre de acidentes com
+materiais perfurocortantes, como agulhas ou outros
+instrumentos cortantes, contaminados por sangue de
+pacientes infectados, ou do contato com secreções
+de pacientes.
+Disponível em: &lt;http://www.ccs.saude.gov.br&gt;.
+Acesso em: 29 jun. 2016 (adaptado).
+Em relação ao risco de exposição ocupacional ao HIV,
+avalie as afirmações a seguir.
+|. O risco de contaminação depende do tipo
+de exposição ao vírus, da quantidade de
+sangue ou secreção envolvida na exposição
+e da quantidade de vírus no sangue ou
+na secreção do paciente no momento da
+exposição.
+II. Para diminuir os riscos de infecção pelo HIV
+durante o desempenho de tarefas habituais,
+os profissionais de saúde devem aderir às
+boas práticas laboratoriais e de segurança
+desenhadas para eliminar ou minimizar a
+exposição ao vírus e usar os equipamentos
+de proteção individual.
+Ill. A exposição de um profissional de saúde a um
+agente infectante deve ser seguida por uma
+série de medidas compulsórias, tais como:
+coleta de sangue para testar a presença de
+anticorpos contra o HIV, tanto no profissional
+de saúde exposto ao vírus quanto no paciente,
+ainda que este se recuse; documentação
+adequada de todas as fases do processo;
+implementação de profilaxia pós-exposição,
+com medicação antirretroviral.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="890,243 1600,243 1600,274 1599,274 1599,519 1600,519 1600,520 1601,520 1601,544 1599,544 1599,661 1598,661 1598,769 1599,769 1599,1195 1600,1195 1600,1429 1599,1429 1599,1759 1381,1759 1381,1820 1047,1820 1047,2066 891,2066 891,1844 892,1844 892,1786 984,1786 984,1223 939,1223 939,1202 967,1202 967,1195 984,1195 984,957 939,957 939,741 891,741 891,673 892,673 892,633 920,633 920,500 889,500 889,311 890,311"/>
+	<TextEquiv conf="0.01217">
+	<Unicode>QUESTÃO 22
+O aumento no número de mulheres com Aids trouxe
+como consequência o crescimento nas taxas de
+transmissão vertical do HIV, que tem sido responsável
+pelo aumento significativo de infecção de crianças de
+até 13 anos pelo HIV em todo o mundo.
+ARAÚJO, M.A.L. et al. Vivências de gestantes e puérperas com o
+diagnóstico do HIV. Revista Brasileira de Enfermagem, Brasília;
+v. 61, n. 5, p. 589-94. set./out. 2008 (adaptado).
+Em relação aos aspectos imunológicos e de atenção
+primária a gestantes com risco de transmissão vertical
+de HIV, avalie as afirmações a seguir.
+|. A infecção pelo HIV-1 evolui da fase aguda,
+em que o paciente é identificado como HIV+,
+à fase avançada; em gestantes, o risco de
+transmissão vertical só ocorre se a doença
+estiver na fase avançada.
+II.A maior parte das transmissões verticais de
+vírus HIV ocorre durante o trabalho de parto ou
+durante o parto propriamente dito, mas também
+podem ocorrer intraútero, especialmente nas
+últimas semanas de gestação.
+Ill. É crucial a identificação precoce da infecção
+por HIV nas gestantes ainda durante o pré-
+natal, para que haja tempo hábil de realizar
+a quimioprofilaxia para a prevenção da
+transmissão vertical e para a diminuição da
+possibilidade de transmissão.
+IV.Em gestantes HIV+ devem ser realizadas,
+a partir da primeira consulta de pré-natal,
+a contagem de linfócitos TCD8+ e da
+carga viral, pois, à medida que aumenta a
+imunossupressão, reduz-se a possibilidade de
+resposta imunológica, diminuindo-se os riscos
+de infecções oportunistas e de transmissão
+vertical.
+É correto apenas o que se afirma em
+A I e III.
+B II e III.
+C II e IV.
+D I, II e IV.
+E I, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

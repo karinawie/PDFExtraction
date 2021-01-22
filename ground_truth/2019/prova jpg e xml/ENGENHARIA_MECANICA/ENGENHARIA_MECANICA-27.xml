@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:34:02</Created>
+	<LastChange>2020-09-15T04:34:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-27.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.96928">
+	<Unicode>Concreto</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="421,378 421,773 1126,773 1126,378"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,181 255,181 255,247 1490,247 1490,312 1407,312 1407,742 1491,742 1491,1185 1023,1185 1023,1186 909,1186 909,1413 1491,1413 1491,1760 1023,1760 1023,1761 554,1761 554,1762 232,1762 232,2045 85,2045 85,1763 84,1763 84,1413 656,1413 656,1271 633,1271 633,1187 85,1187 85,1188 84,1188 84,368 83,368 83,340 84,340"/>
+	<TextEquiv conf="0.94235">
+	<Unicode>QUESTÃO 27
+Uma casa com paredes de concreto recebe uma camada de isolamento térmico em seu exterior para
+manter o ambiente interno aquecido, sendo a madeira o material isolante.
+A figura representa o corte de uma parede da casa, com as respectivas dimensões e temperaturas.
+L,,,=0,02m
+Considere a seguinte equação, que representa a taxa de transferência de calor trocado por convecção
+entre a superfície externa da camada isolante e o meio externo:
+Q. =hA(L, -Torterior)
+em que /1é o coeficiente de troca de calor por convecção, À é a área de troca de calor, Tre é a temperatura
+da superfície externa da camada de madeira e 7 ,.,.;,, É a temperatura do meio externo.
+Considere ainda a seguinte equação, que representa a taxa de transferência de calor devido à condução
+na parede:
+6 = ie
+PL LL
+Cc + 180
+A k. A
+iso
+Pia
+em que Tr;
+as espessuras do concreto e do isolante (madeira), e k e k.,, são as condutividades térmicas do concreto
+é a temperatura da superfície interna da parede de concreto; L. e Liso são, respectivamente,
+e do isolante, respectivamente.
+Nessa situação, sabendo-se que as condutividades térmicas do concreto e da madeira são,
+respectivamente, iguais a 2 W/(m.K) e 0,08 W/(m.K), que o coeficiente de troca de calor por convecção
+no meio externo é de 4 W/(m?.K) e que a área da parede é de 2 m?, é correto afirmar que a temperatura
+da superfície interna da parede de concreto (TT) é de
+A 18,0ºC.
+B 18,8ºC.
+C 19,6ºC.
+D 20,4 "ºC.
+E 21,2ºC.</Unicode></TextEquiv></TextRegion></Page></PcGts>

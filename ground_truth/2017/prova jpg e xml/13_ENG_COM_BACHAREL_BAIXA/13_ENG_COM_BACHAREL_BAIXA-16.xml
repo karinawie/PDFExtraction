@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:00:14</Created>
+	<LastChange>2020-11-21T00:17:24</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="169,244 513,244 513,312 1576,312 1576,460 1575,460 1575,663 1576,663 1576,868 171,868 171,760 170,760 170,732 169,732 169,461 168,461 168,312 169,312"/>
+	<TextEquiv conf="0.89809">
+	<Unicode>QUESTÃO DISCURSIVA 05
+A gerência de memória é a parte do sistema operacional que tem por finalidade gerir os recursos de
+memória e colocá-los à disposição dos usuários da maneira mais eficiente possível. Uma técnica de
+alocação de memória amplamente utilizada é a alocação particionada dinâmica, em que cada programa
+utiliza o espaço de que necessita, passando a ser este espaço a sua partição.
+Considere um sistema que, em um dado momento, possua, em sua memória principal, áreas livres com
+os seguintes tamanhos: 10 KB, 4 KB, 20 KB, 19 KB, 27 KB, 9 KB, 12 KB, 13 KB e 15 KB. Considere, ainda,
+que um programa de 12 KB será carregado na memória desse sistema. Com base nesse contexto, faça o
+que se pede nos itens a seguir.
+a) Indique em qual partição do sistema esse programa seria alocado, no caso do uso de cada uma das
+seguintes estratégias: first-fit, best-fit e worst-fit. Justifique sua resposta. (valor: 6,0 pontos)
+b) Indique, dentre as estratégias first-fit, best-fit e worst-fit, a que conduz à menor fragmentação da
+memória no contexto apresentado. Em seguida, descreva uma situação em que a estratégia indicada
+não é a melhor opção para minimizar problemas de fragmentação da memória. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

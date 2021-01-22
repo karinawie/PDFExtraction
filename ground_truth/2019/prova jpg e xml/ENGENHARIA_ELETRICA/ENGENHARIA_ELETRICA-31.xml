@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:49:53</Created>
+	<LastChange>2020-09-12T22:50:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-31.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r7">
+	<Coords points="785,181 787,2047 790,2047 788,181"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="102,821 102,1052 755,1052 755,821"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 770,247 770,1241 238,1241 238,1488 85,1488 85,1489 84,1489 84,795 83,795 83,247 84,247"/>
+	<TextEquiv conf="0.96119">
+	<Unicode>QUESTÃO 26
+Foi utilizado um banco de três transformadores
+monofásicos — idênticos para substituir um
+transformador trifásico em uma instalação.
+Porém, os dados de placa desses transformadores
+monofásicos foram parcialmente perdidos e não
+há informações sobre sua impedância de curto-
+circuito. Como essa informação é importante para
+a determinação da corrente máxima de curto-
+circuito da instalação, o engenheiro responsável
+por ela decidiu efetuar o ensaio de curto-circuito
+à frequência industrial de 60 Hz em um dos
+transformadores monofásicos que compõem o
+banco. Os valores medidos, tendo por referência o
+lado da fonte, estão na tabela a seguir.
+Considerando-se essa situação e os dados
+apresentados na tabela, qual é o valor, em ohms,
+da impedância de curto-circuito do transformador
+monofásico, vista pelo lado da fonte?
+O3+ja4
+O3+jo.
+O1+j3.
+O41+js5.
+O5s+jo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="805,179 976,179 976,230 1491,230 1491,231 1492,231 1492,851 1491,851 1491,1340 1492,1340 1492,1730 1296,1730 1296,1785 938,1785 938,2036 806,2036 806,1816 807,1816 807,1752 855,1752 855,1340 854,1340 854,1060 805,1060 805,992 806,992 806,851 805,851"/>
+	<TextEquiv conf="0.96629">
+	<Unicode>QUESTÃO 27
+No Estudo de Impacto Ambiental (EIA) são
+abordados os aspectos técnicos necessários
+à avaliação dos impactos ambientais a serem
+gerados pelo empreendimento. O EIA deve ser
+elaborado por equipe técnica multidisciplinar
+habilitada e deverá conter: análise dos impactos
+ambientais do projeto e de suas alternativas,
+por meio de identificação, previsão da
+magnitude e interpretação da importância dos
+prováveis impactos relevantes, discriminando:
+os impactos positivos e negativos (benéficos
+e adversos), diretos e indiretos, imediatos
+e a médio e longo prazos, temporários e
+permanentes; seu grau de reversibilidade;
+suas propriedades cumulativas e sinérgicas; a
+distribuição dos ônus e benefícios sociais.
+Disponível em: &lt;http://www.pnla.mma.gov.br&gt;.
+Acesso em: 12 jun. 2019 (adaptado).
+Considerando esse contexto e os impactos
+ambientais oriundos de usinas hidroelétricas e
+suas barragens, avalie as afirmações a seguir.
+|. A proliferação de algas na superfície de rios
+e lagos por causas antropogênicas favorece
+a multiplicação de peixes.
+Il. A hidroeletricidade é definida como uma
+fonte de energia livre de gases de efeito
+estufa.
+Ill. A implantação de hidroelétricas interfere no
+microclima local, provocando alterações na
+temperatura, na umidade relativa do ar, na
+evaporação e afetando o ciclo pluvial.
+IV. Os reservatórios de usinas hidroelétricas
+armazenam água da chuva que pode
+ser usada para consumo ou irrigação,
+protegendo os aquíferos contra O
+esgotamento e reduzindo a vulnerabilidade
+regional a inundações e secas.
+É correto apenas o que se afirma em
+Oo.
+O:
+Oie.
+O llelv.
+QÔileiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

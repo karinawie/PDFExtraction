@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T00:18:19</Created>
+	<LastChange>2020-09-18T00:19:59</LastChange></Metadata>
+	<Page imageFilename="01_ARQ_URB_BACHAREL_BAIXA-35.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="168,249 1575,249 1575,349 1576,349 1576,420 1575,420 1575,626 1576,626 1576,789 660,789 660,847 334,847 334,1112 169,1112 169,881 170,881 170,813 216,813 216,718 218,718 218,319 168,319"/>
+	<TextEquiv conf="0.95225">
+	<Unicode>Considerando as informações e a figura apresentadas, avalie as afirmações a seguir, acerca da
+tecnologia BIM.
+|. A plataforma BIM é constituída por um banco de dados digitais integrados sobre o projeto de
+edifícios, banco este gerado depois de o modelo ter sido produzido.
+Il. Nessatecnologia, utilizam-se elementos paramétricos, interconectados eintegrados espacialmente,
+sendo possível alterar seus componentes e obter atualizações instantâneas que repercutem em
+todo o projeto.
+Ill. Essa plataforma, armazena seus atributos e exibe suas configurações em duas dimensões.
+IV. Com essa plataforma, facilita-se a compreensão da articulação entre elementos construtivos do
+edifício, otimizando-se tanto os processos de revisões quanto a produtividade.
+V. Por meio dessa tecnologia, gerenciam-se o ciclo de vida do projeto e a construção do edifício,
+incluindo-se os processos de construção, as instalações técnicas e o canteiro de obras.
+É correto apenas o que se afirma em
+A I, II e V
+B I, III e IV
+C I, III e V
+D II, III e IV.
+E II,IV e V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="169,1145 339,1145 339,1214 1576,1214 1576,1685 1574,1685 1574,1779 555,1779 555,1835 407,1835 407,2092 170,2092 170,1802 218,1802 218,1604 169,1604 169,1405 168,1405 168,1214 169,1214"/>
+	<TextEquiv conf="0.96735">
+	<Unicode>QUESTÃO 31
+A ciência ambiental caracteriza-se como um trabalho essencialmente interdisciplinar, dada a necessidade
+da compreensão de diversos sistemas naturais. Com vistas ao equilíbrio ecológico e ao desenvolvimento
+sustentável, os arquitetos paisagistas, por sua vez, têm desempenhado papel importante na solução dos
+grandes problemas da atualidade, sendo, para tanto, imprescindível à compreensão das questões que
+envolvem o projeto da paisagem e da avaliação de seus impactos no meio ambiente.
+WATERMAN, T. Fundamentos de Paisagismo. Porto Alegre: Boockman, 2010 (adaptado).
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+|. Com os projetos paisagísticos, podem ser alterados positivamente os microclimas externos, sendo
+o grande desafio dos paisagistas entender a complexidade das intersecções de uso de cada sítio.
+Il. Em projetos paisagísticos, a vegetação é usada no controle da erosão, no manejo das águas pluviais
+e no controle do clima.
+Ill. Com o urbanismo da paisagem, busca-se ressaltar a importância da arquitetura paisagística para
+determinar a forma urbana, considerando-se a paisagem como a estrutura que define a cidade.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D ll e lll, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

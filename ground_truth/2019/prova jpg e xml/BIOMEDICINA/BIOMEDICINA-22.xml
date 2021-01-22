@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T23:07:00</Created>
+	<LastChange>2020-09-09T23:07:42</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-22.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.96353">
+	<Unicode>Número absoluto de casos de malária</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="202,444 202,1213 1502,1213 1502,444"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 255,179 255,246 1490,246 1490,1233 1491,1233 1491,1326 1492,1326 1492,1427 1491,1427 1491,1733 575,1733 575,1789 249,1789 249,2043 85,2043 85,1301 84,1301 84,430 83,430 83,246 84,246"/>
+	<TextEquiv conf="0.96713">
+	<Unicode>QUESTÃO 22
+O gráfico a seguir apresenta o número de casos de malária autóctone registrados nos anos de 2003
+a 2010, na cidade de Rio Branco, no Acre, demonstrando também a linha de tendência dos casos
+registrados. Programas e políticas de governo foram aplicados na região em todo o período, com
+vistas ao controle da doença. No entanto, nota-se um pico no número de ocorrências da doença em
+2004, com a notificação de 1 582 casos de malária autóctone.
+Com relação às possíveis causas das variações no número de casos de malária nessa região, avalie as
+afirmações a seguir.
+|. A variação do número de casos de malária autóctone em Rio Branco entre 2005 e 2009 pode estar
+associada à elevação dos níveis de imunidade das populações das áreas com Índices elevados de
+Casos.
+Il. A eficácia dos esquemas terapêuticos para tratar as formas de malária encontradas naquela região
+foi o motivo do decréscimo linear do número de casos autóctones entre 2005 e 2009.
+Ill. O aumento significativo do número de casos em 2004 está relacionado a fatores que favorecem a
+proliferação dos vetores dos protozoários do gênero Plasmodium, como o aumento da pluviosidade
+em Rio Branco.
+IV. O surgimento de diferentes mecanismos de resistência dos mosquitos anofelinos a inseticidas
+utilizados no combate ao vetor dificultam a eliminação dos casos de malária.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C III e IV.
+D I, II e III.
+E II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

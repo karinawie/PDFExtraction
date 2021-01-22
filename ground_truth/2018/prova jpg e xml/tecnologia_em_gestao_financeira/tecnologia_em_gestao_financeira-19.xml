@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T14:30:41</Created>
+	<LastChange>2020-10-21T14:44:26</LastChange></Metadata>
+	<Page imageFilename="tecnologia_em_gestao_financeira-19.jpg" imageWidth="1619" imageHeight="2170">
+	<SeparatorRegion id="r1">
+	<Coords points="809,184 809,2049 811,2049 811,184"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="1513,1134 1513,415 831,415 831,1134"/></TableRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="106,181 276,181 276,252 792,252 792,931 791,931 791,1427 792,1427 792,1589 791,1589 791,1789 792,1789 792,1959 790,1959 790,2046 154,2046 154,1959 107,1959 107,1908 106,1908 106,1789 107,1789 107,1402 106,1402 106,1052 177,1052 177,931 105,931 105,252 106,252"/>
+	<TextEquiv conf="0.96576">
+	<Unicode>QUESTÃO 13
+Segundo o modelo de Markowitz (1952), os agentes
+racionais são avessos ao risco em diferentes graus,
+e isso vai caracterizá-los no mercado. De acordo
+com esse modelo, podem-se classificar os riscos aos
+quais os ativos estão sujeitos em risco diversificável
+e risco não diversificável. O primeiro conceito se
+refere ao risco que afeta de maneira diferente
+os ativos financeiros. O risco não diversificável,
+por outro lado, é aquele a que todos os ativos
+financeiros estão sujeitos de maneira uniforme,
+ou seja, aquele que não pode ser minimizado
+pelos agentes. Logo, os agentes poderiam usar
+eficientemente essas informações para compor
+seus portfólios, de maneira a minimizar o risco
+por meio da leitura de como os vários ativos são
+afetados pelos fenômenos da economia.
+SAMANEZ, C. P. Gestão de investimentos e geração de valor.
+São Paulo: Pearson Prentice Hall, 2007 (adaptado).
+Considerando o fragmento do texto apresentado,
+que trata da relação entre risco e retorno, assinale
+a opção correta.
+O A diversificação do risco de uma carteira
+ocorre sempre que o índice de correlação dos
+retornos dos ativos for superior a zero, sendo
+maior a redução quanto mais positivamente
+correlacionados estiverem seus retornos.
+O Amelhor combinação possível de ativos pode ser
+identificada por meio da seleção de portfólios,
+obedecendo-se às preferências do investidor
+com relação ao risco e retornos esperados.
+O As carteiras que formam a chamada fronteira
+eficiente, segundo o modelo de Markowitz, são
+dominadas pelas demais carteiras que, por sua
+vez, apresentam melhor relação risco-retorno.
+O No modelo de Markowitz, é possível descrever
+o problema do investidor por meio da chamada
+Reta do Mercado de Capitais.
+OQ A medida de risco relevante para um investidor
+é expressa pelo risco sistemático, dada a
+possibilidade de sua redução no portfólio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="827,181 999,181 999,250 1513,250 1513,2027 828,2027 828,1570 827,1570 827,1153 828,1153 828,212 827,212"/>
+	<TextEquiv conf="0.96412">
+	<Unicode>QUESTÃO 14
+O quadro a seguir apresenta a configuração do fluxo
+de caixa resumido, no mês de junho de 2018, de uma
+empresa comercial que vende à vista ou concede
+prazo a seus clientes para pagamento em 30 dias.
+Nessa empresa os valores das parcelas de
+financiamento, dos salários e do aluguel pagos
+no mês não variaram. No mês de julho de 2018,
+o valor das vendas à vista totalizou 8 000,00, o
+das vendas a prazo recebidas no mês, 28 000,00,
+o das compras à vista, 35 000,00, o dos impostos,
+3 500,00 e o da energia, água e telefone, pagos
+no próprio mês, 3 000,00.
+Com base nessas informações, conclui-se que o
+gestor financeiro da empresa, no mês de julho, deve
+O buscar o financiamento de recursos no valor de
+23 000,00 para cobrir seu caixa.
+O buscar o financiamento de recursos no valor de
+46 500,00 para cobrir seu caixa.
+O buscar o financiamento de recursos no valor de
+60 500,00 para cobrir seu caixa.
+O aplicar o excedente de caixa, cujo valor é de
+36 000,00.
+O aplicar o excedente de caixa, cujo valor é de
+37 500,00.</Unicode></TextEquiv></TextRegion></Page></PcGts>

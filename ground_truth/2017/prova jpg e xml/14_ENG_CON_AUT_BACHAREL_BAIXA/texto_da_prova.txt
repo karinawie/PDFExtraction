@@ -1,0 +1,1055 @@
+QUESTÃO DISCURSIVA 03
+Os motores CC são usados em diversos dispositivos, tais como brinquedos infantis e manipuladores
+robóticos industriais. A relação entre a tensão aplicada na armadura e o ângulo de rotação do motor pode
+ser modelada como um sistema linear invariante no tempo dado pela seguinte função de transferência:
+K
+s(ts +1)
+Para o controle de posição do motor descrito, considere o sistema com realimentação unitária
+representado na figura a seguir.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Considerando K =1, calcule o erro estacionário para uma entrada do tipo rampa unitária. (valor: 6,0 pontos)
+dl ds À
+b) Considerando ação integradora, isto é, K, = To calcule o erro estacionário para uma entrada do tipo
+rampa unitária. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Em um processo de dosagem de dois produtos, deseja-se controlar a temperatura no interior do
+reservatório por meio da abertura de uma válvula proporcional de vapor, como mostra a figura a
+seguir. Nesse processo, alterações na temperatura ambiente e na vazão do vapor podem alterar
+significativamente a temperatura no reservatório.
+FRANCHI, C. M. Controle de processos industriais: princípios e aplicações. São Paulo: Saraiva, 2017 (adaptado).
+Com base no processo apresentado, faça o que se pede nos itens a seguir.
+a) Identifique as seguintes variáveis: de processo, manipulada e de perturbações. (valor: 5,0 pontos)
+b) Considerando que o sinal de saída do transmissor de temperatura varie de 0 a 10 V para uma faixa de
+medição de O a 256 ºC, e que o conversor analógico/digital (A/D) do controlador lógico programável
+(CLP) seja de 10 bits, calcule a resolução de temperatura. (valor: 5,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+O desenvolvimento e a aplicação de robôs industriais em sistemas flexíveis de manufatura dependem,
+além da análise de viabilidade econômica, do atendimento a diversos requisitos técnicos, entre os
+quais podem ser citados: capacidade de carga, volume de trabalho, velocidade de operação e precisão.
+No projeto de um determinado sistema optou-se por utilizar um robô do tipo SCARA na movimentação de
+peças entre duas esteiras (operação pick and place), como mostrado na figura a seguir.
+Considere que:
+* osmotores e os redutores de velocidade estão localizados diretamente nas articulações do robô;
+* oalcancemáximo do robô é de 600 mm;
+* adistânciaentre as duas esteiras é de 1,2 metros, com o robô posicionado no centro desta distância;
+* oscomprimentos dos dois primeiros elos do robô são a1 = 350 mm e a2=250 mm;
+* avelocidade máxima das articulações de rotação é de n rad/s.
+A partir das informações e da figura apresentadas, faça o que se pede nos itens a seguir.
+a) Calcule a quantidade mínima necessária de robôs para atender a um sistema produzindo 15 peças por
+minuto. O tempo necessário para movimentação do eixo vertical (subida e descida) e do acionamento
+da ferramenta é de 1,5 segundos. Desprezar margens de segurança. (valor: 4,0 pontos)
+b) Especifique as equações da cinemática direta para o manipulador que descrevem o movimento deste
+no plano horizontal em função dos ângulos das duas primeiras articulações (0, e 0,). (valor: 6,0 pontos)
+
+QUESTÃO 10
+A forte inserção brasileira no comércio
+internacional e a crescente preocupação mundial
+com os problemas ambientais desafiam o Brasil
+para construir uma política de integração entre o
+setor produtivo e o meio ambiente.
+Disponível em: <http://www.mma.gov.br>.
+Acesso em: 17 jul. 2017 (adaptado).
+O meio ambiente é fornecedor de matéria-
+prima e, ao mesmo tempo, receptor de resíduos
+oriundos das atividades produtivas, o que
+deve ser necessariamente considerado para
+o estabelecimento de políticas ambientais e
+econômicas mais eficientes na gestão e uso dos
+recursos naturais.
+MOURA, A. M.; ROMA, J. C.; SACCARO, N. Problemas econômicos,
+soluções ambientais. Boletim regional, urbano e ambiental.
+Brasília: Ipea, n. 15, jul./dez. 2015 (adaptado).
+A partir desses textos, avalie as afirmações a seguir.
+|. Os benefícios da biodiversidade e dos
+serviços — ecossistêmicos são de difícil
+valoração econômica.
+Il. As mudanças climáticas resultantes da
+emissão de gases de efeito estufa têm gerado
+oportunidades para o desenvolvimento e a
+utilização de fontes renováveis de energia,
+como alternativas ao uso de combustíveis
+fósseis.
+Ill. A degradação ambiental pode ocasionar
+limitações ao crescimento econômico
+sustentável.
+IV. A geração de riqueza e desenvolvimento
+sem a elevação do padrão de consumo dos
+recursos naturais constitui impedimento para
+o crescimento de países em desenvolvimento.
+V. Os tratados internacionais ambientais
+exigem entrelaçamento entre lucros obtidos,
+desenvolvimento social de comunidades
+tradicionais e conservação dos ecossistemas.
+É correto apenas o que se afirma em
+Oielv
+Oiev
+O uMmelv
+OLI,HEeV
+Ou Ivev
+
+QUESTÃO 09
+A figura a seguir representa o diagrama de tensão
+o versus deformação £€ para diferentes materiais
+poliméricos.
+Assinale a opção que apresenta, respectivamente,
+o módulo de elasticidade e o nível de deformação
+de uma das curvas do diagrama apresentado.
+O Curva | - alto e grande.
+O Curva ll - baixo e grande.
+O Curva Ill - baixo e pequeno.
+O Curva IV - alto e grande.
+OQ Curva V - baixo e pequeno.
+
+QUESTÃO 13
+Os veículos espaciais apresentam estrutura externa
+constituída por um conjunto de blocos que
+formam um escudo térmico, cuja função é
+proteger motores e demais componentes de
+possíveis danos causados pelo calor, além de
+reduzir a temperatura interna do veículo.
+Esses escudos térmicos são construídos com
+material
+O metálico, dada sua leveza e elevada resistência
+ao calor.
+O polimérico, dada sua baixa resistência ao calor
+e à corrosão.
+O cerâmico poroso, dada sua elevada resistência
+mecânica à tração.
+O polimérico, em razão de sua alta massa
+específica e de sua resistência ao calor.
+O cerâmico poroso, em razão de seu baixo
+coeficiente de dilatação térmica e de sua baixa
+condutividade térmica.
+
+QUESTÃO 12
+De acordo com a Lei de Resfriamento de Corpos, a
+taxa de variação da temperatura de um corpo em
+relação ao tempo é proporcional à diferença entre
+a temperatura do corpo e a temperatura ambiente.
+Considere que T(t) é a temperatura do corpo em
+função do tempo, A é a temperatura do ambiente,
+té o tempo e k é a constante de proporcionalidade.
+Nesse contexto, o modelo matemático
+correspondente à Lei de Resfriamento de Corpos
+e à função resultante de sua resolução são dados,
+respectivamente, por
+aro
+O TT); TOO = (1(0) - A)e' + A
+dr
+E k(T A); T(t) = (T(0) - A)! + A
+o
+e & =2KT=A); TI) =0"4+A
+dt
+& =kKT-A); T(t)=e"+A
+o
+e E =WT-A) T(W =" +A
+a
+
+QUESTÃO 11
+O sistema Toyota de produção apresenta-se
+como uma alternativa mais eficiente ao modelo
+fordista de produção, que explora as vantagens de
+produção em série. O modelo toyotista consiste
+em cadeia de suprimentos enxuta, flexível e
+altamente terceirizada, que prevê a eliminação
+quase total dos estoques e a busca constante pela
+agilização do processo produtivo.
+SOBRAL, F.; PECI, A. Administração: teoria e prática no contexto
+brasileiro. São Paulo: Pearson, 2013 (adaptado).
+O sistema logístico e produtivo conhecido como
+just in time é uma filosofia de administração da
+produção baseada no modelo Toyota de produção.
+Esse novo enfoque na administração da manufatura
+surgiu de uma visão estratégica e inovadora
+das pessoas envolvidas na gestão empresarial,
+buscando vantagem competitiva por intermédio de
+uma melhor utilização do processo produtivo.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir, a respeito do sistema produtivo
+justin time.
+|. Estimula o desenvolvimento de melhorias
+constantes, não apenas dos procedimentos
+e processos, mas também do homem dentro
+da empresa, o que permite desenvolver o
+potencial humano dentro das organizações
+e ampliar a base de confiança obtida pela
+transparência e honestidade das ações.
+ll. A implementação dos princípios da
+organização começa pela fábrica e suas
+repercussões estendem-se por toda a
+empresa, o que caracteriza o princípio da
+visibilidade, fundamentado no objetivo de
+tornar visíveis os problemas onde quer que
+possam existir.
+IIl. Tem como objetivo administrar àa
+manufatura de forma bem simples e
+eficiente, otimizando o uso dos recursos de
+capital, equipamento e mão de obra, o que
+resulta em um sistema capaz de atender
+às exigências do cliente, em termos de
+qualidade e prazo de entrega, ao menor
+custo.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Lie.
+
+QUESTÃO 14
+A medida de profundidade em ambientes aquáticos está relacionada à pressão hidrostática,
+através da relação aproximadamente linear P = f (2), em que zé a profundidade e P é a pressão.
+Assuma que a densidade da água do mar p = 1,025 x 10º kg:m?, que não há variação dessa densidade
+com a profundidade e que o valor da aceleração da gravidade g= 9,8 ms? .
+Nesse contexto, assinale a opção cujo gráfico relaciona adequadamente a profundidade com a
+pressão hidrostática.
+
+QUESTÃO 16
+Em uma campanha publicitária que visa à redução
+do consumo de energia elétrica em residências,
+identificam-se as recomendações a seguir:
+*º substitua lâmpadas incandescentes por
+fluorescentes compactas ou lâmpadas de LED;
+*º evite usar o chuveiro elétrico com a chave
+na posição “inverno” ou “quente”;
+*º acumule grande quantidade de roupa para
+ser passada a ferro elétrico de uma só vez;
+*º eviteo uso de tomadas múltiplas para ligar
+vários aparelhos simultaneamente;
+* util ize,nainstalação elétrica, fios de diâmetros
+recomendados às suas finalidades.
+A característica comum a essas recomendações é
+a proposta de economizar energia por intermédio
+da redução
+da potência de aparelhos e dispositivos elétricos.
+do tempo de utilização de aparelhos e
+dispositivos elétricos.
+do consumo de energia elétrica convertida em
+energia térmica.
+do consumo de energia elétrica por correntes
+de fuga.
+o O o OO
+do consumo de energia térmica convertida em
+energia elétrica.
+
+QUESTÃO 15
+Suponha que determinado programa de computador
+seja executado por meio de 13 etapas, com tempo
+médio de 50 segundos ao todo e dispersão relativa
+de 10% em torno da média.
+Considere que uma equipe de engenharia propõe
+um novo algoritmo que reduz em 30% o tempo de
+execução de todas as 13 etapas desse programa.
+Nesse contexto, avalie as afirmações a seguir,
+a respeito do tempo de execução do novo
+algoritmo.
+|. O tempo médio por etapa será de
+32,5 segundos.
+Il. O desvio-padrão permanecerá inalterado.
+Ill. A dispersão relativa em torno da média
+permanecerá inalterada.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.
+
+QUESTÃO 18
+O ensaio de flexão é utilizado em materiais
+frágeis ou de alta dureza, tais como cerâmicas
+estruturais ou aços-ferramenta. Em uma de suas
+modalidades mais comuns, o ensaio de flexão a
+3 pontos, é provocada uma flexão ao se aplicar
+O carregamento em 3 pontos, o que causa uma
+tensão de tração surgida no ponto central e
+inferior da amostra, onde a fratura do material
+terá início.
+Assumindo-se um comportamento de tensão-
+deformação linear, a tensão de flexão o do material
+pode ser obtida por meio da fórmula:
+3Fd
+=
+2h
+em que Fé a carga, dé a distância entre os pontos
+de apoio, w é a largura do corpo de prova e hé a
+espessura do corpo de prova.
+Considere dois corpos de prova A e B do mesmo
+compósito reforçado com fibras de vidro, cuja
+resistência à flexão é de 290 MPa. O corpo de prova
+A tem o triplo da largura e a metade da espessura
+do corpo de prova B e ambos são submetidos ao
+mesmo ensaio de flexão.
+Nessa situação, qual porcentagem da força necessária
+para o rompimento do corpo de prova B deverá ser
+aplicada ao corpo de prova A para que este também
+se rompa?
+O 50%
+O 75%
+O 100%
+O 125%
+OQ 200%
+
+QUESTÃO 17
+A importância da otimização no processo
+produtivo é inegável. Do ponto de vista
+matemático, “para otimizar determinada
+grandeza, é necessário modelá-la de acordo com
+uma função e, a partir daí, conforme a situação,
+procurar um máximo ou um mínimo. Uma das
+formas usadas para minimizar funções é oO
+método dos multiplicadores de Lagrange.
+Um fabricante de latinhas de refrigerante
+deve propor uma lata cilíndrica de volume V,.
+Essa lata será fabricada usando-se duas ligas
+metálicas distintas, sendo uma para a parte lateral
+e outra para a base e a tampa. Ele deseja calcular
+o raio (7) e a altura (A) da lata para que o custo de
+sua produção seja o menor possível. Sabe-se que a
+área total da lata é dada por A(r,h) e que o custo
+total de produção da lata, que depende apenas do
+material utilizado na sua produção, é C(r,h). Para
+a solução desse problema, será utilizado o método
+dos multiplicadores de Lagrange.
+Com base nessa situação, avalie as afirmações a
+seguir, acerca da solução desse problema.
+l. O custo de produção da lata pode ser
+expresso por C(r,h)=27(Krh+K,”), em
+que K, e K, são constantes que dependem
+do custo de cada uma das ligas metálicas
+por unidade de área.
+Il. A função a ser minimizada da área total da
+lata é A(r,h) =27nrh +2nrº.
+O vínculo na minimização, relacionado ao
+volume da lata, é dado por 9(1,h) = xrh—V,,
+IV. O sistema de equações a ser montado é
+vC(r,h) = AVv9(r,h), no qual à é denominado
+multiplicador de Lagrange.
+É correto apenas o que se afirma em
+Oie
+Oielv
+Oem,
+O Llelv.
+O 1, Ieilv.
+
+QUESTÃO 20
+Em um sistema integrado de manufatura,
+engenheiros de controle e automação devem
+organizar e propor layouts fabris que incorporem
+a tecnologia de grupo. O objetivo é melhorar, por
+exemplo, a programação da produção, a redução
+de tempo de início de processo, a redução de
+movimentação de material e a padronização de
+ferramental. Para implementar a tecnologia de
+grupo, é importante que o engenheiro identifique
+as famílias de peças produzidas pela empresa e
+também consiga diferenciar equipamentos que
+proporcionem maior flexibilidade e/ou maior
+produtividade em função de demandas específicas
+da produção.
+Considerando as características de flexibilidade e
+produtividade, identifique os equipamentos que
+correspondem, respectivamente, à sequência
+1, 2,3 e4,no gráfico acima.
+O Célula flexível de manufatura, sistema flexível de
+manufatura, linha de transferência e fresadora
+convencional.
+O sistema flexível de manufatura, célula flexível
+de manufatura, máquina ferramenta CNC e
+linha de transferência.
+O Linha de transferência, máquina ferramenta
+CNC, célula flexível de manufatura e torno
+convencional.
+O Torno convencional, fresadora CNC, sistema
+flexível de manufatura e linha de transferência.
+O Fresadora convencional, torno CNC, linha de
+transferência e célula flexível de manufatura.
+
+QUESTÃO 19
+Suponha que, em uma indústria, seja necessário
+especificar um sistema eletrônico de acionamento
+eficiente para uma máquina elétrica de indução
+trifásica. Além disso, considere que:
+*º o sistema seja capaz de realizar a partida
+evitando picos de corrente e mantendo o
+torque constante.
+º seja necessário, durante a operação, variar,
+de modo controlado, a velocidade da
+máquina.
+º a máquina opere em regime de carga
+variável.
+Com base nessa situação, avalie as afirmações a
+seguir.
+|. Uminversor de frequência pode ser utilizado
+para realizar o acionamento descrito, pois
+possibilita tanto a partida do motor em
+torque constante, quanto o controle da
+velocidade em condições de carga variável.
+Il. Um sistema de partida suave (soft-starter)
+pode ser utilizado para realizar o acionamento
+descrito, pois possibilita tanto a partida
+do motor em torque constante, quanto o
+controle da velocidade em condições de
+carga variável.
+Ill. Para realizar o controle de velocidade em
+condições de carga variável, é necessário
+utilizar um sensor de velocidade ou alguma
+forma indireta para estimação dessa
+grandeza.
+IV. Caso a indústria disponha apenas de um
+sistema elétrico monofásico, é possível
+alimentar o motor de indução trifásico
+a partir de um inversor de frequência
+alimentado pela fonte monofásica.
+É correto apenas o que se afirma em
+Oie.
+Olelv
+Oie,
+O Lev.
+OuMmelv
+
+QUESTÃO 21
+Uma equipe de engenharia foi encarregada de realizar a automação de um processo de dosagem e
+expedição, conforme ilustrado na figura a seguir.
+O referido processo tem início quando pressionado um botão Liga (BT Liga). As balanças BM1 e BM2
+funcionam em paralelo, de maneira semelhante: primeiro, é despejado o material de um dos silos até
+que seja disparado o sinal correspondente ao peso desejado do produto; em sequência, é despejado
+o material do segundo produto até que se obtenha um outro sinal correspondente ao peso desejado
+do produto. Após ser feita a dosagem de cada um dos produtos, as válvulas de saída das balanças
+(VBM1 e VBM2) devem ser abertas por 10 segundos para o seu esvaziamento e para a destinação ao
+carregamento de um caminhão na etapa de expedição. Para realizar uma nova dosagem, o botão Liga
+deve ser acionado novamente.
+
+Considerando a situação descrita, assinale a opção em que é apresentada a implementação correta
+em Grafcet, desse processo.
+
+Considerando a situação descrita, assinale a opção em que é apresentada a implementação correta
+em Grafcet, desse processo.
+
+QUESTÃO 22
+Um sistema de controle digital tem capacidade de receber informação de sensores analógicos e, para
+isso, utiliza conversores analógico-digital (A/D) que aceitam entradas em tensão na faixa entre O e 5 V.
+Existem sensores analógicos que produzem saída em tensão na faixa entre -500 mV e +500 mV de modo
+proporcional à variável medida. A utilização de um circuito de condicionamento analógico de sinais com
+amplificadores operacionais possibilita que a tensão de saída desses sensores seja adequada para que
+possa ocupar toda a faixa dinâmica dos conversores A/D.
+Com base no exposto, assinale a opção em que é apresentado o circuito capaz de fazer o acoplamento
+adequado entre a tensão de saída desses sensores analógicos e as entradas dos conversores A/D do
+sistema de controle.
+
+QUESTÃO 24
+Um sistema massa-mola-amortecedor é descrito
+pela seguinte equação diferencial linear de
+segunda ordem:
+mã + bi + kr = f(t)
+em que z representa o deslocamento do objeto;
+f a força aplicada; m, a massa do objeto; b, o
+coeficiente de amortecimento; e k, a constante
+da mola; m, b e k são constantes reais positivas
+e, conforme os valores desses três parâmetros, o
+sistema apresenta formas distintas de resposta.
+Considerando que o referido sistema está
+inicialmente em repouso e uma força em degrau
+unitário é aplicada à massa, avalie as afirmações
+a seguir.
+|. Caso os três parâmetros (m, b, k) sejam
+unitários, o sistema possuirá um par de
+polos complexos conjugados e, portanto,
+sua resposta será do tipo oscilatória com
+amplitude decrescente ao longo do tempo.
+Il. Caso o coeficiente de amortecimento seja
+nulo, a resposta do sistema será oscilatória
+com amplitude crescente ao longo do
+tempo.
+Ill. Caso os três parâmetros (m, b, k) sejam
+tais que o sistema possua dois polos reais,
+a resposta não apresentará oscilações.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O ll elll, apenas.
+QE.
+
+QUESTÃO 23
+Um sistema de controle monovariável é
+representado pelo diagrama de blocos a seguir.
+Definindo-se a saída da planta como x,, a saída do
+controlador como x, e a saída do sensor como x,, o
+modelo no espaço de estados do sistema descrito
+􀆐􀄞􀆌􀄄􀀃􀄚􀄂􀄚􀅽􀀃􀆉􀅽􀆌
+A
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 8 0
+0 0 1
+1 0 2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+−
+−
+−
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+1 0 0
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+B
+[2 0 0]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 8 0
+0 0 1
+1 0 1
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+−
+−
+−
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+C
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 8 0
+0 0 1
+1 0 2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+−
+−
+−
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+0 0 1
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+D
+0 1− −
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 0 1
+8 0 0
+2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡−
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+1 0 0
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+u y
+x
+x
+x
+;
+E
+− −
+[ ]
+ẋ
+ẋ
+ẋ
+x
+x
+x
+1
+2
+3
+1
+2
+3
+4 0 1
+8 0 0
+0 1 2
+0
+1
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡−
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
++
+0
+0 0 2
+1
+2
+3
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+=
+⎡
+⎣
+⎢⎢⎢
+⎤
+⎦
+⎥⎥⎥
+
+QUESTÃO 25
+Em um processo de transporte, produtos chegam por uma esteira transportadora, são elevados por
+meio de um cilindro pneumático A e empurrados pelo cilindro pneumático B para dentro da embalagem.
+Devido a condições do projeto, a haste do cilindro B somente poderá retornar após a haste do cilindro À
+ter retornado. A figura a seguir representa esse processo.
+Considerando o exposto, assinale a opção em que o diagrama trajeto-passo para o processo descrito está
+corretamente representado.
+
+QUESTÃO 26
+A figura a seguir apresenta os diferentes níveis hierárquicos de um sistema de automação industrial.
+Considerando a figura apresentada e os diferentes padrões utilizados para redes de comunicação
+industrial, avalie as afirmações a seguir.
+|. Os protocolos de comunicação projetados para os níveis 1 e 2 devem atender a critérios
+relacionados à velocidade de transmissão e à imunidade ao ruído.
+Il. Protocolos de comunicação como CAN e AS-I são utilizados para estabelecer a comunicação entre
+os níveis hierárquicos 2 e 3.
+Ill. A complexidade da informação transmitida aumenta com o nível hierárquico, ao passo que os
+requisitos de resposta em tempo-real diminuem.
+IV. Se a comunicação entre os níveis 2 e 3 for interrompida, recomenda-se, por segurança,
+interromper também a comunicação entre os níveis 1 e 2.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oie.
+O Lev.
+
+QUESTÃO 27
+Fieldbus Foundation é uma arquitetura aberta para integrar informação, cujo objetivo principal é
+interconectar equipamentos de controle e automação industrial, distribuindo funções de controle pela
+rede e fornecendo informações a todas as camadas do sistema, conforme representado na figura a seguir.
+A respeito dessa temática e com base nas informações apresentadas, avalie as afirmações a seguir.
+|. Atopologia de barramento com Spurs se caracteriza pela ligação em série de todos os instrumentos
+utilizados na aplicação.
+Il. A rede de serviço HSE baseia-se na mesma camada física Ethernet, operando com o protocolo
+TCP/IP.
+III.As redes H1 e HSE pertencem a diferentes camadas físicas e ambas as redes operam com a mesma
+velocidade de transmissão.
+IV. A rede H1 representa uma solução de comunicação digital para o chão de fábrica em áreas
+classificadas.
+É correto apenas o que se afirma em
+Oie.
+Oilelv
+Oleiv
+O L11e.
+OuMmelv
+
+QUESTÃO 28
+Os motores de passo (MP), dispositivos eletromecânicos que convertem pulsos elétricos digitais
+em movimentos mecânicos discretos do eixo, são utilizados em aplicações em que se deseja fazer
+posicionamentos, como equipamentos de informática, instrumentos médicos, automação industrial,
+equipamentos aeroespaciais etc. O acionamento de um MP de quatro fases é feito a partir da aplicação
+de sinais discretos (pulsos) nos enrolamentos do motor, para que este gire na direção desejada.
+A figura 1, a seguir, ilustra esses pulsos, cuja frequência determina a velocidade de rotação do motor.
+Tais pulsos podem ser gerados a partir de um microcontrolador, conforme evidenciado na figura 2.
+Posteriormente, os pulsos gerados pelo microcontrolador são amplificados através de transistores e
+injetados nas chaves do circuito de potência, conforme representado na figura 3.
+A lógica dos pulsos que devem ser enviados para o circuito de potência está demonstrada no quadro 1.
+Os transistores T,, T,, T, e T, são ligados (através do estágio de amplificação) aos pinos RBO, RB1, RB2 e
+RB3 do microcontrolador. Conforme demonstrado no quadro 1, o acionamento foi dividido em 4 estágios
+de energização das fases. No primeiro estágio, as fases 1 e 4 devem ser desenergizadas e as fases 2€ 3
+devem ser energizadas. No segundo estágio, as fases 1 e 2 permanecem no mesmo estado e as fases
+3 e 4 mudam de estado.
+
+Com base nesse contexto, avalie as afirmações a seguir, a respeito dos programas 1 e 2 acima apresentados.
+|. O Programa 01 gera os pulsos de disparo para as chaves T1, T2, T3 e T4 fazendo o motor de
+passo girar em determinada direção; sua velocidade de giro dependerá do valor fornecido à
+variável “tempo”.
+Il. O Programa 02 tem a função de acionar o motor de passo e, conforme o valor da variável “x”,
+o motor poderá girar nos sentidos horário ou anti-horário.
+Ill. Nos Programas 01 e 02, os pinos Ru, Rip Rá, E Ra; fornecem os pulsos de comando das fases do
+motor de passo.
+BO "BV
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+OEM.
+
+QUESTÃO 29
+A descrição dos movimentos de robôs pode ser realizada por meio do modelo cinemático direto. Uma das
+ferramentas desse modelo, a matriz de transformação, converte coordenadas de um ponto em um sistema
+fixo ao robô P. » Para o sistema de coordenadas global P . 73: OS movimentos de rotação ao redor dos
+eixos principais, normalmente, são chamados de guinada, arfagem e rolamento. Assim, caso se considere o
+deslocamento de um robô móvel, o ângulo O, definido como guinada, consiste na rotação em torno do eixo
+vertical do veículo, ou seja, a rotação será executada no eixo 2; o ângulo 9, definido como arfagem, consiste
+na rotação em torno do eixo transversal, ou seja, o movimento será feito no eixo x; por fim, o ângulo 90,
+definido como rolamento, consiste na rotação em torno do eixo longitudinal, ou seja, o deslocamento será
+executado no eixo y, conforme a figura a seguir.
+Considerando que um robô móvel descreve os seguintes deslocamentos angulares durante a sua
+locomoção: 0, = 15º, O, = 10º, 0, = 3º, assinale a opção em que é apresentada a sequência correta das
+matrizes de transformação.
+1 o [ 0 —sen3º O cos3º O
+O senlO0º cosl10º O 0 1 0 0
+8.) To cos1oº -sen10º n| Ga 0
+0 0 0 1 1
+senl5º cosl5º
+Oo To) do 0
+o 0
+cos3º O sen3º
+(1
+cos15º —senl5º O
+1
+o 0 (0 0
+1 0 0 [ —sen3º O sen3º O
+O senlO0º —sen10º O Jo 1 0 O
+6%) To cos10º cos10º ol “%* Tecos3º O cos3º O
+o 0 0 1 | 0 (0 0 1
+[sen1l5º —sen15º
+o To) do o
+0
+cosl5º cosl5º O
+1
+0 (1 (1
+1 0 0
+O cosl10º —sen10º
+&) TO senlOº cos10º
+0 0 0
+cos 3º
+[cos15º —sen15º O sen3º O
+0 1 0 O
+T, 8,)T|
+** j-sen3º O cos3º O
+0 1
+o Te) do o
+[0
+senl5º cosl5º O
+1
+(0 0 (1)
+rm O O O
+0 0
+O sen3º O 1 o o 0 cos15º -sen15º 0 O
+T " 1 0 Oo Td O cosl10º —sen10º O qo sen 15º cos15º O o
+O “o —sen3º O cos3º ol “%* jo sentoº cos10º o| *% o 0 1. 0
+0 0 0 1 0 0 0 1 0 0 0 1
+cos 3º
+1 0 0 o cos 3º O sen3º O cos15º —-sen 15º O
+JO cos10º —sen10º O 0 1 0 Oo
+0 o (18,) | o 0 1
+1 1
+0 o o
+T, = -
+O “es O senl0º cos10º "j-sen3º O cos3º
+[o
+—)sent5º cos15º 0 O
+o
+o o 0 o o o 1
+
+QUESTÃO 30
+No início da década de 1950, época em que os recursos computacionais ainda eram precários para as
+demandas dos projetos de controle, Walter R. Evans criou um método para determinar graficamente
+como mudanças em um dos parâmetros do sistema modificavam a posição de seus polos de malha
+fechada, alterando, assim, a resposta dinâmica do sistema. Tal método foi chamado de Lugar das Raízes
+e, em geral, o parâmetro escolhido para variar era o ganho de malha aberta.
+Considerando o método criado por Evans, assinale a opção em que o gráfico do Lugar das Raízes está
+associado ao sistema de controle exibido na figura acima.
+
+QUESTÃO 31
+A Internet das Coisas (loT - Internet of Things) pode ser conceituada como a comunicação de objetos
+diversos via internet, que trocam informações como medições, localização, funcionalidades, falhas etc.
+Tais dados permitem, em determinadas situações, que o próprio sistema tome decisões sem intervenção
+humana.
+Suponha o desenvolvimento de um sistema loT para monitorar o consumo de energia elétrica residencial
+com sensores, microcontroladores e módulos de comunicação sem fio. Como teste inicial, será monitorado
+o consumo de energia elétrica de uma lâmpada, como mostra o diagrama simplificado da figura 1.
+O sistema coleta os dados e os envia a cada 24 horas para uma plataforma na internet.
+As informações enviadas para o módulo de comunicação sem fio devem estar organizadas em um
+quadro (frame) de dados obedecendo à estrutura mostrada na figura 2.
+Considere que o módulo de comunicação sem fio já está configurado, e que ao receber os dados do
+microcontrolador ele os envia automaticamente para a internet.
+
+A figura 3 mostra o código desenvolvido para o microcontrolador. Considere que as funções utilizadas no
+código fazem parte da biblioteca “iot.h”.
+A respeito do código apresentado na figura 3, avalie as afirmações a seguir.
+|. Ainstrução da linha 30 é utilizada de maneira correta para a precificação da energia.
+Il. Devido à configuração da comunicação serial do microcontrolador, o frame precisa ser
+fragmentado para o envio de dados.
+Ill. O programa faz uso de interrupção, o que torna o microcontrolador mais eficiente em termos de
+processamento e consumo de energia.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Oem
+
+QUESTÃO 32
+Uma máquina utilizada para a injeção de matéria-prima de polímeros no processamento de produtos
+plásticos é controlada por um controlador lógico programável (CLP). Durante o processo de fabricação,
+essa máquina simplesmente parou de acionar o pistão pneumático (S1) responsável pela abertura do
+molde e retirada das peças produzidas. Na manutenção corretiva do referido equipamento, foi realizada
+inspeção por meio do software de supervisão do próprio CLP. A sequência de instruções em programação
+Ladder para a inspeção está ilustrada na figura a seguir.
+Considerando as possíveis causas de o molde não ter sido aberto, avalie as afirmações a seguir.
+|. O sensor C está em sinal baixo, pois não reconheceu o final do processo.
+Il. O sensor B está em sinal baixo, pois não atingiu a temperatura necessária para a abertura do
+molde de injeção.
+III. O sensor D está em sinal alto, pois reconheceu que a matéria-prima ainda estava no
+compartimento do molde.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 11em
+
+QUESTÃO 33
+A resposta em frequência de um sistema linear invariante no tempo é apresentada pelo seguinte
+diagrama de Bode.
+A função de transferência que melhor se encaixa no diagrama de Bode apresentado acima é
+10
+O 66 GO
+10
+G(s) = <"AAA———
+o (s -1)(s-10)
+10
+O 9 Deo
+NS
+O 6) - (s+1)(s-10)
+NS)
+O = DG)
+
+QUESTÃO 34
+As figuras 1 e 2, a seguir, ilustram, respectivamente, um diagrama de blocos de um sistema de controle e
+topologias típicas de compensadores analógicos que utilizam amplificadores operacionais, capacitores e
+resistores.
+Considerando as informações apresentadas, assinale a opção que corresponde à sequência correta dos
+compensadores segundo a ordem numérica apresentada.
+O Proporcional derivativo; proporcional; integral; proporcional integral.
+O Proporcional integral; proporcional; integral; proporcional derivativo.
+O Proporcional integral; integral; proporcional; proporcional derivativo.
+O Proporcional integral derivativo; proporcional; integral; proporcional integral.
+O Proporcional derivativo; integral; proporcional; proporcional integral derivativo.
+
+QUESTÃO 35
+Considere um sistema de controle em malha fechada conforme a figura a seguir.
+Sabe-se que C(s) é um controlador proporcional e integral (PI) ideal com ganho proporcional K, e
+ganho integral K, conforme a equação:
+ut) = K e(t) + K, Í e(1)dr
+Deseja-se implementar um controlador digital equivalente em um sistema microprocessado, fazendo-se
+necessária a sua transformação para equação a diferenças.
+PP” e ; ; a 2 —1 ,
+Utilizando-se o método de Tustin para a discretização do controlador, onde s = "o É é , em que At é o
+t(z+
+período de amostragem, qual é a equação a diferenças para o controlador PI?
+KAt KAt
+—— + K, Jau + (E - K, Jar —1]
+O ukj=uk-1]
+K, K
+O ukj=uk+1)+ Es, Jams (E-x,)ar-
+KAt KAt
+O ukj=uk-1)+ EM 4, Jams (EM =x, Jara
+KAt KAt S
+O ukj=uk+1])+ EM sx, Ôans (EE <a, Jara
+K K
+O ukj=uk-1]+ Ex )Ôans(S-x, ano
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:58:15</Created>
+	<LastChange>2020-11-20T23:44:54</LastChange></Metadata>
+	<Page imageFilename="12_ENG_ALI_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="890,244 1062,244 1062,312 1576,312 1576,568 1577,568 1577,1475 1077,1475 1077,1730 891,1730 891,1327 890,1327"/>
+	<TextEquiv conf="0.96419">
+	<Unicode>QUESTÃO 24
+O uso de processos automáticos e sistemas de
+controle para diminuir o trabalho humano e, ao
+mesmo tempo, melhorar a confiabilidade e a
+segurança do processo de produção, chamado
+de automação, tem se tornado importante no
+processamento de alimentos.
+Os algoritmos de controle definem a relação entre
+erro e correção do sinal enviado pelo controlador.
+Existem algoritmos de controle comuns, como
+controlador on-off, controlador proporcional (P),
+controlador integral (1), controlador proporcional-
+integral (PI) e controlador proporcional-integral-
+derivativo (PID). No controlador binário (1 ou 0) on-
+off, existem apenas duas posições para o atuador:
+aberto ou fechado. Por apresentarem baixo custo,
+são muito utilizados em laboratórios, equipamentos
+residenciais e sistemas de controles industriais.
+Em um trabalho de aperfeiçoamento de processo
+de uma grande rede de fast-food, foi desenvolvida
+uma fritadeira elétrica industrial com controle do
+tipo on-off. O setpoint é 170 ºC. Quando o aquecedor
+está ligado, a temperatura do óleo aumenta à taxa
+de 4 ºC por minuto. Quando o aquecedor está
+desligado, a temperatura reduz à taxa de 4 ºC por
+minuto.
+Diante desses dados, qual será a duração do
+intervalo de aquecimento se a banda diferencial for
+de 1 ºC em cada lado do setpoint?
+O 0,125 min.
+O 0,25 min.
+O 0,5 min.
+O 2,0 min.
+O 4,0 min.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 854,312 854,824 855,824 855,1347 854,1347 854,1635 853,1635 853,1810 763,1810 763,1859 170,1859 170,1860 169,1860 169,1739 170,1739 170,1438 168,1438 168,1375 218,1375 218,797 169,797"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>QUESTÃO 23
+Os procedimentos padrão de higiene operacional
+(PPHO) são descritos, desenvolvidos, implantados
+e monitorados, visando-se estabelecer a forma
+rotineira pela qual o estabelecimento industrial
+evitará a contaminação direta ou cruzada e a
+adulteração do produto, preservando sua qualidade
+e integridade por meio da higiene antes, durante e
+depois das operações industriais.
+Considerando a implantação do sistema PPHO
+na cadeia produtora de carnes destinadas à
+exportação, avalie as asserções a seguir e a relação
+proposta entre elas.
+ll Um dos métodos adotados para oO
+monitoramento da eficiência da aplicação
+dos procedimentos de limpeza e sanitização
+dos equipamentos que entram em contato
+com a carne e descrito no PPHO é a análise
+microbiológica.
+PORQUE
+Il. A análise microbiológica de carnes
+visa investigar a presença de bactérias,
+patogênicas ou deteriorantes, e fungos,
+sendo uma prática padrão para garantir
+a segurança e a qualidade do alimento
+produzido.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e || são proposições verdadeiras,
+eallé uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a II é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

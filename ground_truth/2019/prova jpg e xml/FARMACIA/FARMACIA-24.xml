@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:38:12</Created>
+	<LastChange>2020-11-14T01:10:36</LastChange></Metadata>
+	<Page imageFilename="FARMACIA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="76,650 76,892 1489,892 1489,650"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,245 1491,245 1491,632 1490,632 1490,1060 1491,1060 1491,1127 1347,1127 1347,1172 470,1172 470,1226 273,1226 273,1347 322,1347 322,1424 84,1424 84,1347 85,1347 85,1044 83,1044 83,491 84,491"/>
+	<TextEquiv conf="0.95834">
+	<Unicode>QUESTÃO 25
+Estima-se que o mercado global de produtos farmacêuticos crescerá 30% entre 2015 e 2020, chegando a
+US$ 1,3 trilhão, e que o Brasil passará a ser o quinto maior consumidor desse mercado. Nesse contexto,
+a avaliação das políticas e programas para garantia de acesso a medicamentos é importante, sendo
+necessários estudos de farmacoeconomia na gestão dos recursos destinados a esses insumos.
+BRASIL. Ministério do Planejamento, Desenvolvimento e Gestão/ Instituto de Pesquisa Econômica Aplicada (Ipea). Evolução do gasto com
+medicamentos do Sistema Único de Saúde no período de 2010 a 2016. Rio de Janeiro, 2018 (adaptado).
+Considere que 1 000 pacientes necessitam de tratamento com anti-hipertensivos e o orçamento
+fixo represente R$ 200.000,00 ao ano. A tabela de custo-efetividade a seguir apresenta um exemplo
+simplificado do custo anual para três medicamentos anti-hipertensivos e a efetividade em termos de
+redução absoluta da pressão arterial.
+A respeito da análise farmacoeconômica, avalie as afirmações a seguir.
+|. O anti-hipertensivo A é o de escolha, por apresentar melhor razão custo-efetividade e a possibilidade de
+tratamento para todos os pacientes durante o ano.
+Il. O anti-hipertensivo B, apesar de apresentar melhor efetividade, possui maior razão custo-
+efetividade, sendo possível tratar menos de 700 pacientes ao ano.
+Ill. O anti-hipertensivo C é uma estratégia dominada, ou seja, é mais cara e menos efetiva.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="83,1560 1491,1560 1491,1726 1245,1726 1245,1887 1271,1887 1271,1933 1469,1933 1469,1976 1491,1976 1491,2046 86,2046 86,2047 85,2047 85,1727 83,1727"/>
+	<TextEquiv conf="0.96052">
+	<Unicode>QUESTÃO 26
+De acordo com o Formulário Nacional da Farmacopeia Brasileira de 2012, suspensão é a forma farmacêutica
+líquida que contém partículas sólidas dispersas em um veículo líquido no qual as partículas não são
+solúveis. Baseando-se na lei de Stokes, alguns parâmetros precisam ser cuidadosamente estudados
+para garantir a estabilidade dessas preparações farmacêuticas, tais como velocidade de sedimentação,
+tamanho das partículas e viscosidade do meio dispersante.
+Em relação à estabilidade das suspensões farmacêuticas, assinale a opção correta.
+A Quanto maior for a densidade das partículas, maior a velocidade de sedimentação.
+B Quanto menor for o tamanho da partícula, maior é a velocidade de sedimentação.
+C As partículas devem formar um sedimento compacto não dispersível com a agitação.
+D A velocidade de sedimentação pode ser reduzida diminuindo-se a viscosidade do meio dispersante.
+E À medida que a quantidade de partículas sólidas aumenta na suspensão, a viscosidade do meio
+dispersante diminui.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,933 @@
+QUESTÃO DISCURSIVA 03
+Uma empresa de cosméticos comercializa cinco diferentes tipos de produtos e os armazena em uma
+estante de 40 x 40 posições. Em cada posição da estante, pode ficar armazenada apenas uma caixa com
+um desses produtos. Para facilitar sua identificação, os produtos foram codificados da forma a seguir:
+1: Xampu;
+2: condicionador;
+3: hidratante;
+4: tintura;
+5: demaquilante;
+O: vazio.
+Nessa situação e considerando o desenvolvimento de um sistema para gerenciar a organização dos
+produtos na estante, estabeleceu-se a declaração de variáveis a seguir.
+Var
+Estante: matriz [1..40] [1..40] de inteiro
+Produtos: vetor [0..5] de texto = ("vazio","xampu","condicionador",
+"hidratante", "tintura", "demaquilante")
+Contador: vetor [0..5] de inteiro = (0,0,0,0,0,0)
+i, j: inteiro
+Com base nessa declaração e considerando a codificação dos produtos exposta, faça o que se pede nos
+itens a seguir, apresentando as soluções em pseudocódigo ou em linguagem de programação.
+a) Escreva um trecho de código para ler os códigos dos produtos e armazená-los na matriz Estante.
+(valor: 4,0 pontos)
+b) Escreva um trecho de código para contar e imprimir a quantidade de caixas de cada tipo de produto
+na estante. (valor: 6,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Uma empresa trabalha na produção de concreto e terceiriza o serviço de transporte do produto. Os
+caminhoneiros telefonam para a empresa e registram seu interesse pelo trabalho. Todas as manhãs,
+os caminhoneiros estacionam o caminhão no pátio da empresa e aguardam sua vez. O atendimento
+segue o critério de ordem de chegada. Esse processo é, atualmente, controlado pela secretária, que
+utiliza sua agenda para gerenciar os motoristas diariamente. A empresa, que carrega, no máximo, 10
+caminhões por dia, pretende informatizar esse processo.
+Para a solução do problema, apresenta-se, a seguir, um pseudocódigo que utiliza o conceito de fila,
+mantendo os elementos sempre nas primeiras posições do vetor.
+Algoritmo Fila Caminhoneiros
+início
+var
+caminhoneiros : vetor[1..10] de texto
+total : inteiro
+procedimento inicializa()
+início
+total <- O
+fim
+função estaVazia() : lógico
+início
+se (total = O) então
+retorna verdadeiro
+senão
+retorna falso
+fim-se
+fim
+função estaCheia() : lógico
+início
+se (total >= 10) então
+retorna verdadeiro
+senão
+retorna falso
+fim-se
+fim
+procedimento enfileirar (caminhoneiro : texto)
+início
+se (estaCheia() = falso) então
+total <- total + 1
+caminhoneiros[total] <- caminhoneiro
+senão
+imprima ("Fila cheia")
+fim-se
+fim
+fim
+
+Com base nas informações apresentadas, faça o que se pede nos itens a seguir, expondo cada solução em
+pseudocódigo ou em linguagem de programação.
+a) Implemente a função desenfileirar, que deve remover e retornar um elemento representado
+por um caminhoneiro da fila ou a mensagem "Fila vazia" se não houver elementos. (valor: 6,0 pontos)
+b) Implemente o procedimento mostrarFila, que deve apresentar a lista de elementos, ou seja, os
+caminhoneiros que estão na fila. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+A coordenação de gestão de pessoas (CGP) de uma empresa solicitou à equipe de TI que desenvolvesse
+um aplicativo (app) para criação de uma rede social on-line que incentivasse os empregados a idealizar e
+executar projetos. A fim de realizar o levantamento de requisitos, a equipe de desenvolvimento se reuniu
+com a CGP e alguns empregados e, para melhorar a comunicação entre os envolvidos, os analistas de
+sistemas da empresa optaram pela prototipação de telas do app, conforme os exemplos a seguir.
+Tendo-se usado a abordagem de prototipação, foram documentados os seguintes requisitos:
+* todo colaborador deve informar número de matrícula, nome, endereço de e-mail e senha de login
+para se cadastrar no app e poder registrar projetos e enviar comentários; a coordenação de um
+projeto é atribuída automaticamente ao colaborador que o registrar;
+* cada projeto pode ser classificado em uma de duas possíveis categorias: "Melhoria de Processo"
+ou "Social"; além dos dados em comum para ambas as categorias, um projeto de "Melhoria de
+Processo" deve ser alocado ao departamento (selecionado de uma lista) em que ele será aplicado
+e os resultados esperados devem ser informados (conforme o protótipo 1); para um projeto
+"Social", deve-se indicar o público beneficiário (conforme o protótipo 2);
+º*º uma vezregistrado o projeto, qualquer colaborador pode visualizá-lo no app e registrar um ou mais
+comentários para contribuir com o refinamento da ideia (conforme o protótipo 3); os comentários
+são visualizados em ordem cronológica, por data e horário;
+º* ocoordenador do projeto pode incluir até três colaboradores para participarem da equipe.
+
+Considerando a situação e as informações apresentadas, construa um diagrama de classe que esteja em
+conformidade com os requisitos, indicando os atributos de cada classe e as associações entre as classes.
+(valor: 10,0 pontos)
+
+QUESTÃO 10
+A álgebra booleana possui um operador unário -,
+conhecido como NÃO, e os operadores binários *
+e +, conhecidos como E e OU, respectivamente.
+A tabela verdade é utilizada para validar uma
+fórmula composta de operadores da álgebra
+booleana. A seguir, é apresentada a tabela
+verdade para as proposições p, q e r diante da
+fórmula G, em que V representa uma proposição
+verdadeira e F uma proposição falsa.
+Considerando as informações contidas na tabela
+acima e a ordem de precedência dos operadores
+booleanos, a fórmula G possui a mesma tabela
+verdade da proposição
+Op+-q*r
+O p+q*-r
+O -p+q*r
+O -p+-q*r.
+O -p+q*-r
+
+QUESTÃO 09
+Em uma pesquisa de satisfação com notas de O a
+10, sendo O muito insatisfeito e 10 muito satisfeito,
+uma empresa construiu uma tabela, mostrada a
+seguir, com o resumo das notas atribuídas pelos
+seus clientes aos serviços recebidos.
+Considerando essa situação e as informações
+apresentadas, avalie as afirmações a seguir.
+|. Amédia das notas dos clientes é igual a 6,0.
+Il. A mediana das notas dos clientes é igual a 6,0.
+Ill. O desvio padrão populacional é menor do
+que 3,0.
+IV. O conjunto de dados é amodal.
+V. Um cliente que atribuiu nota 3,0 encontra-se
+no 1º quartil.
+É correto apenas o que se afirma em
+O Le.
+OlLlev
+O LIelv.
+O 1, IVev.
+Qu, IVev.
+
+QUESTÃO 11
+No desenvolvimento de um sistema de automação para um clube recreativo, serão implementados
+módulos para o departamento administrativo, tais como os módulos de cadastro de associados e de
+gestão de mensalidades. Na construção desses módulos, algumas regras de negócio serão aplicadas
+conforme o diagrama abaixo.
+Com base nesse diagrama, avalie as afirmações a seguir.
+|. Haverá somente 12 mensalidades para cada associado, ou seja, as mensalidades do associado não
+poderão ultrapassar os 12 meses do ano.
+Il. Não existem associados sem mensalidades, nem mensalidades sem associado a elas relacionado.
+Ill. Alterando-se o valor da mensalidade definido para cada tipo de associado cadastrado, o sistema
+automaticamente altera os valores das mensalidades geradas anteriormente.
+IV. Poderão existir tipos de associados que não terão nenhum associado relacionado a eles.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oelv
+O Lllelv.
+OuMmelv
+
+QUESTÃO 13
+Na área de desenvolvimento de software, prazos,
+custos e qualidade são questões que demandam
+gerenciamento, para que se evitem atrasos,
+estouros orçamentários e sistemas que não
+atendam aos requisitos.
+Sobre o modelo CMMI, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O CMMI fornece diretrizes para a melhoria
+dos processos e habilidades organizacionais,
+incluindo o ciclo de vida de produtos e
+serviços, que abrange as fases de concepção,
+desenvolvimento, aquisição, entrega e
+manutenção.
+PORQUE
+Ill. As empresas brasileiras estão aderindo
+a programas de fomento à melhoria
+da qualidade de software, por meio da
+aplicação do modelo de maturidade CMMI,
+que é mais direcionado às pequenas e
+médias empresas, apesar de também ser um
+modelo aplicável em grandes organizações,
+sejam elas públicas ou privadas.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 12
+A engenharia de requisitos, do ponto de vista do
+processo de software, é uma ação de engenharia
+de software importante, que se inicia durante
+a atividade de comunicação e continua na de
+modelagem. Ela deve ser adaptada às necessidades
+do processo, do projeto, do produto e das pessoas
+que estão realizando o trabalho.
+PRESSMAN, R. S. Engenharia de software: uma abordagem
+profissional. 8. ed. Porto Alegre: AMGH, 2016 (adaptado).
+Considere os requisitos, a seguir, de um sistema para
+uma universidade, na qual se pretenda gerenciar o
+setor acadêmico.
+º R1: o sistema deve permitir que cada
+professor realize o lançamento de notas das
+turmas nas quais lecionou;
+*º R2: o sistema deverá ser desenvolvido de
+forma a possibilitar seu transporte para
+outro sistema operacional em, no máximo,
+sessenta dias;
+º R3: o sistema deve permitir que um
+estudante realize a sua matrícula nas
+disciplinas oferecidas em um semestre
+letivo;
+*º R4:0 sistema atualiza a nota do estudante,
+permitindo sua visualização, em até dois
+segundos depois do momento que o
+professor a registra;
+*º R5:0 sistema deve permitir que o auxiliar
+de serviços acadêmicos realize o cadastro
+de um estudante em não mais do que dez
+minutos de orientação.
+Nessa situação, representam descrições de
+requisitos não funcionais apenas os requisitos
+O R1,R2eR3.
+O R1,R2eR5.
+O R1,R3eR4.
+O R2,R4 e R5.
+O R3,R4eR5.
+
+QUESTÃO 15
+Uma empresa multinacional está avaliando um
+incidente de segurança ocorrido internamente com
+o envolvimento de um de seus funcionários, o que
+poderá ser motivo para o encerramento de seu
+contrato. O referido funcionário estava realizando o
+compartilhamento de senhas e também enviando
+mensagens por meio do serviço de correio
+eletrônico da empresa, com o objetivo de difamar
+e caluniar outros colegas de trabalho.
+Nessa situação, de acordo com as políticas
+de segurança que definem os direitos e as
+responsabilidades de cada um em relação à
+segurança dos recursos computacionais que utiliza,
+o funcionário violou a política de
+O senhas.
+O backup.
+O privacidade.
+O uso aceitável.
+O confidencialidade.
+
+QUESTÃO 14
+O método do caminho crítico identifica a sequência
+de atividades que o gerente de projetos deve dar
+mais atenção, porque, caso uma delas atrase,
+todo o projeto estará atrasado. A tabela a seguir
+apresenta a estrutura de atividades de um projeto.
+A partir das informações apresentadas na tabela,
+avalie as afirmações a seguir.
+ll. O caminho crítico é composto pelas
+atividades A, B, l e J.
+Il. O caminho crítico tem 27 dias.
+Ill. A atividade H faz parte do caminho crítico.
+IV. O projeto em pauta possui dois caminhos
+críticos.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O Llelv.
+O 1,Meiv.
+
+QUESTÃO 16
+O seguinte diagrama de classe representa a modelagem de um serviço de transferência de materiais entre
+funcionários de uma empresa.
+Considerando o diagrama de classe apresentado, avalie as afirmações a seguir.
+|. A classe Funcionario é abstrata.
+Il. Uma RequisicaoTransferencia só existe se estiver vinculada a um Material.
+Ill. A classe Funcionario, em razão de sua associação, possui um atributo do tipo RequisicaoTransferencia.
+IV. Em uma implementação da classe RequisicaoTransferencia, é necessário adicionar um atributo
+simples do tipo Material.
+É correto o que se afirma em
+O |l, apenas.
+Oie, apenas.
+O Ill elV, apenas.
+O 1, Ill elV, apenas.
+O 1LI1,Meiv
+
+QUESTÃO 19
+Conceitualmente, cada processo tem sua própria
+CPU (Central Processing Unit) virtual. É claro que, na
+realidade, a CPU troca a execução, a todo momento,
+de um processo para outro, mas, para entender
+esse sistema, é muito mais fácil pensar em um
+conjunto de processos sendo executados (pseudo)
+paralelamente do que tentar controlar o modo como
+a CPU faz esses chaveamentos.
+TANENBAUM, A. S. Sistemas operacionais modernos.
+3. ed. São Paulo: Person, 2010 (adaptado).
+De acordo com o exposto, o conceito descrito
+denomina-se
+O thread.
+O multiprocessador.
+O multiprogramação.
+O processo monothread.
+O máquina de estados finitos.
+
+QUESTÃO 18
+As redes de computadores estão por toda parte.
+Ainternet é uma delas, assim como as várias redes
+das quais ela é composta, que compartilham
+recursos por meio de Sistemas Distribuídos.
+Como o número de dispositivos tem crescido
+exponencialmente, em vez de paralelizar tarefas
+em várias máquinas, tornou-se cada vez mais
+importante empregar sistemas distribuídos,
+comunicando e coordenando dispositivos
+e, assim, contribuindo para o cotidiano de
+empresas, governos e demais instituições.
+COULOURIS, G. et al. Sistemas Distribuídos: conceitos e projeto,
+5. ed. Porto Alegre: Bookman, 2013 (adaptado).
+Nesse contexto, assinale a opção que apresenta
+exemplos atuais de sistemas distribuídos.
+O Pesquisa na web, jogos on-line, E-Commerce e o
+banco de dados das agências bancárias.
+O Jogos on-line, E-Commerce, pesquisa no Windows
+e e-mails.
+O E-Commerce, jogos em mídia física, pesquisa no
+Windows e redes sociais.
+O Pesquisa na web, jogos em mídia física,
+E-Commerce e e-mails.
+O Pesquisa no Windows, pesquisa na web,
+jogos on-line e o banco de dados das agências
+bancárias.
+
+QUESTÃO 17
+Após a implantação de um sistema em ambiente de
+produção, este passa para a fase de manutenção
+dentro do ciclo de vida do desenvolvimento de
+software. Os sistemas geralmente necessitam
+de diversos tipos de manutenção durante sua
+existência.
+Considerando a etapa de manutenção no processo
+de desenvolvimento de software, avalie as
+afirmações a seguir.
+|. Afase de manutenção é uma parte explícita
+do modelo em cascata do processo de
+desenvolvimento de software.
+Il. A atualização do sistema para inserir
+customizações é considerada um tipo de
+manutenção.
+Ill. A depuração do programa é um processo
+específico da fase de desenvolvimento e um
+tipo de manutenção.
+IV. O acréscimo de novas funções a um sistema
+existente, sem perturbar sua operação, é
+considerado um tipo de manutenção.
+V. A manutenção do sistema está relacionada
+ao aumento do ciclo de vida do software.
+É correto apenas o que se afirma em
+Oie.
+O Wvev.
+O 1L11e.
+O LI, IVev.
+Ou IvVev
+
+QUESTÃO 20
+O quadro a seguir apresenta um exemplo de documentação de caso de uso Encerrar Conta para um
+Sistema de Controle Bancário.
+
+Com base no quadro apresentado, assinale a opção na qual o diagrama corresponde a documentação
+descrita para o caso de uso Encerrar Conta usando associação de extensão com restrição e ponto
+de extensão.
+
+QUESTÃO 22
+Um desenvolvedor de software recém-formado foi
+contratado para a implementação de um projeto
+em uma empresa e, em reunião, recebeu várias
+explicações sobre como a gerência de configuração
+funcionava.
+Considerando essa situação, avalie as afirmações
+a seguir, referentes às informações dadas ao
+desenvolvedor.
+|. Inicialmente, para ter acesso à base de
+desenvolvimento, o profissional deve
+realizar uma operação de checkout para
+baixar os arquivos do projeto que estão
+armazenados no servidor.
+Ill. Na situação em que mais de um
+desenvolvedor estiver modificando um
+mesmo documento, ao se tentar realizar uma
+operação de commit, pode ser necessário
+realizar uma operação de tag (release) para
+resolução do conflito entre a versão local e
+a versão mais recente no repositório, caso
+algum desenvolvedor tenha submetido uma
+mudança no documento previamente.
+Ill. No desenvolvimento de um novo caso
+de uso, em que diversos arquivos sejam
+modificados, é recomendada a criação de
+uma ramificação (branch).
+IV. A versão estável é o ramo principal de
+desenvolvimento, que segue do começo do
+desenvolvimento até o momento presente.
+É correto apenas o que se afirma em
+Oie.
+Oie,
+O leiv
+O L,Ielv.
+Que
+
+QUESTÃO 21
+Os modelos de processo foram propostos para
+trazer ordem ao caos existente na área de
+desenvolvimento de software. A história mostra que
+esses modelos trouxeram considerável contribuição
+no trabalho da engenharia de software.
+PRESSMAN, R. S. Engenharia de software: uma abordagem
+profissional. 8. ed. Porto Alegre: AMGH, 2016 (adaptado).
+A respeito dos modelos de processo, avalie as
+afirmações a seguir.
+|. São atividades do modelo incremental:
+especificação, desenvolvimento e validação.
+Il. No modelo espiral, a fase de modelagem é
+responsável, entre outras atividades, pela
+estimativa, cronograma e análise de risco.
+Ill. O modelo cascata sugere uma abordagem
+sequencial e sistemática para oO
+desenvolvimento de software, iniciando na
+especificação de requisitos e finalizando
+com a entrega do software concluído.
+É correto o que se afirma em
+O 1l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1L1em.
+
+QUESTÃO 24
+Nas décadas de 1970 e 1980, muitos sistemas
+corporativos foram desenvolvidos com a linguagem
+Cobol, utilizando o Sistema Gerenciador de Banco de
+dados ADABAS e arquivos indexados do tipo ISAM e
+VISAM. Alguns desses produtos de implementação
+foram, ou estão sendo, descontinuados pelos seus
+fabricantes. Por isso, o trabalho de reengenharia
+desses sistemas, utilizando linguagens mais
+modernas, como Python, Java ou mesmo C++,
+associadas com sistemas de banco de dados mais
+atuais, apresenta-se como uma boa oportunidade
+de negócios.
+Considerando esse cenário, avalie as afirmações
+a seguir.
+|. A dificuldade de reengenharia de sistemas
+antigos deve-se ao fato de que, na maioria
+das vezes, o desenvolvedor definia o
+sistema e esse já era o próprio processo da
+organização.
+Il. O custo de alteração para modernização de
+uma linha de código em Cobol é alto, por
+isso, fazer a manutenção desses sistemas é
+menos despendioso.
+Uma estratégia de conversão dos
+referidos sistemas para uma linguagem
+orientada a objetos é definir uma
+estrutura de classes e métodos e realizar
+o refatoramento do código.
+É correto o que se afirma em
+O |, apenas.
+o Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+OL, 1el.
+
+QUESTÃO 23
+Um software com defeito pode ser consequência
+de problemas no levantamento dos requisitos, uma
+vez que o requisito pode ser ambíguo porque o
+cliente não estava convicto da sua real necessidade
+ou porque a equipe o interpretou mal e registrou
+uma especificação de forma incorreta. Por esses
+motivos, as verificações, as validações e os testes
+são fundamentais para se certificar da qualidade do
+software resultante.
+Considerando esse contexto, avalie as afirmações
+a seguir.
+|. O teste funcional certifica se o software
+desempenha as funções especificadas nos
+requisitos.
+ll. O teste de desempenho valida a
+conformidade da especificação do processo
+de desenvolvimento de software.
+III.O teste de aceitação é realizado pelo
+cliente a fim de validar se aquilo que foi
+implementado é o que foi solicitado.
+IV. O teste de instalação, invariavelmente, é
+executado no local determinado pelo cliente
+para instalação do software.
+V. As técnicas de verificação e validação de
+software asseguram que o sistema que está
+sendo desenvolvido seja adequado ao seu
+propósito.
+É correto apenas o que se afirma em
+O ielv
+OLNev
+O 1Melv.
+O 1, IVev.
+OÔrIMev
+
+QUESTÃO 25
+O fragmento de código C++, a seguir, contém a implementação da inserção de um nó em uma árvore binária.
+struct noArvore (
+int dado;
+noArvore *esquerda;
+noArvore *direita;
+Lj
+noArvore *insere (noArvore *arvore, int valor) (
+if (arvore == NULL) (
+arvore = new noArvore;
+arvore->esquerda = NULL;
+arvore->direita = NULL;
+arvore->dado = valor;
+) else if(ívalor < arvore->dado) (
+arvore->esquerda = insere (arvore->esquerda, valor);
+)
+else (
+arvore->direita = insere (arvore->direita, valor);
+)
+return (arvore);
+Com base no exposto, assinale a opção que apresenta o fragmento de programa para imprimir os valores
+contidos nos nós, percorrendo a árvore em pré-ordem.
+o void preorder (noArvore *raiz) (
+if (raiz != NULL) (
+cout << raiz->dado << " ";
+preorder (raiz->esquerda);
+preorder (raiz->direita);
+)
+)
+O void preorder (noArvore *raiz) (|
+if (raiz != NULL) (
+preorder (raiz->direita);
+preorder (raiz->esquerda);
+cout << raiz->dado << " ";
+)
+O void preorder (noArvore *raiz) (|
+if (raiz != NULL) (
+preorder (raiz->esquerda);
+cout << raiz->dado << " ";
+preorder (raiz->direita);
+)
+O void preorder (noArvore *raiz) (
+if (raiz != NULL) (
+preorder (raiz->esquerda);
+preorder (raiz->direita);
+cout << raiz->dado << " ";
+)
+O void preorder (noArvore *raiz) (
+if (raiz != NULL) (
+preorder (raiz->direita);
+cout << raiz->dado << " ";
+preorder (raiz->esquerda);
+
+QUESTÃO 26
+Para que se realize a multiplicação de probabilidades com maior facilidade, foi desenvolvida,
+utilizando-se o padrão MVC (Model-View-Controller), uma calculadora que pode ser configurada
+de dois modos: comum e probabilista. No primeiro, as multiplicações ocorrem de forma ordinária.
+No segundo, as multiplicações são feitas utilizando-se uma fórmula específica.
+A classe a seguir, escrita na linguagem Java, define o métodomultiplica. Ele é executado quando o
+botão da multiplicação é pressionado, e recebe como parâmetro os valores que o usuário deseja usar na
+operação, além de possuir uma variável de instância do tipo Cal eculadoraController.O método
+alteraModo é encarregado de alterar a instância para a qual essa variável faz referência conforme o
+modo selecionado pelo usuário. A instância interage com as partes do model apropriadas à solicitação
+realizada pelo usuário. Quando o usuário deseja usar o modo probabilista, a variável modo tem o valor 1,
+caso contrário, ela tem o valor O.
+public class Calculadora (
+private CalculadoraController c;
+private int modo;
+public double multiplica (double[] valores) (
+return c.multiplica (valores);
+public void alteraModo () (
+if ( modo == 1)
+c = new ProbabilistaController();
+else
+c = new OrdinarioController();
+)
+O diagrama de classe que se segue mostra a hierarquia de controllers definida para a implementação
+da calculadora descrita. A hierarquia de classes de controle representa uma família de algoritmos
+intercambiáveis, por isso, o comportamento dos componentes da view, a cada instante, pode ser
+dinamicamente alterado, bastando trocar o tipo da instância referenciada pela variável c.
+Considerando esse cenário, avalie as afirmações a seguir.
+|. A hierarquia exibida ilustra o uso do padrão de projetos Strategy.
+Ill. O padrão composto MVC define a existência de um único controller e, portanto, a solução proposta
+não caracteriza o uso desse padrão.
+Ill. O método multiplica da classe Calculadora chama o método multiplica de
+CalculadoraController, o que caracteriza uma conversão de interfaces e, portanto, o uso
+do padrão de projetos Adapter.
+É correto o que se afirma em
+O |, apenas.
+O !l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 11em,.
+
+QUESTÃO 27
+O diagrama de classe apresentado na figura a seguir mapeia um processo de um simulador de voo.
+Nesse diagrama, é utilizado o padrão de projeto Strategy, que define uma família de algoritmos,
+encapsula cada um deles e os torna intercambiáveis. O padrão Strategy, que deixa o algoritmo variar
+independentemente dos clientes que o utilizam, aplica o princípio de projeto: “programar para uma
+interface, não para uma implementação”.
+LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a
+objetos e ao desenvolvimento iterativo. Porto Alegre: Bookman, 2007 (adaptado).
+Considere o diagrama de classe a seguir que descreve um simulador de voo.
+Considere ainda o seguinte código em linguagem Java como implementação do simulador.
+public interface Voar (
+public void voar();
+)
+public interface Pousar (
+public void pousar();
+)
+public class VoarDia implements Voar (
+public void voar() (
+System.out .println(“Voar durante o dia.”);
+)
+)
+public class VoarNoite implements Voar (
+public void voar() (
+System.out .println(“Voar durante a noite.”);
+)
+)
+public class PousarDia implements Pousar (
+public void pousar() (
+System.out .println(“Pousar durante o dia.”);
+)
+
+public class PousarNoite implements Pousar (
+public void pousar() (
+System.out .println(“Pousar durante a noite.”"”);
+)
+)
+public abstract class Aviao (
+Voar voarForma;
+Pousar pousarForma;
+public Aviao() ()
+public abstract void informarDados ();
+public void performanceVoar() (
+voarForma.voar();
+)
+public void performancePousar() (
+pousarForma.pousar();
+)
+public void setVoar (Voar v) (|
+voarForma = v;
+)
+public void setPousar (Pousar p) (
+pousarForma = p;
+)
+)
+public class Boeing757 extends Aviao (
+public Boeing757() (
+voarForma = new VoarDia();
+pousarForma = new PousarDia();
+)
+public void informarDados() (
+System.out .println (“Informando dados de um Boeing 757."”);
+)
+)
+public class SimuladorBoeing757 (
+public static void main(String[] args) (
+Boeing757 b757 = new Boeing757();
+b757.performanceVoar();
+b757 .performancePousar();
+b757.setVoar (new VoarNoite());
+b757.setPousar (new PousarNoite());
+b757 .performanceVoar();
+b757.performancePousar();
+)
+Com base no diagrama de classe, no código em linguagem Java e no conceito do padrão de projeto
+Strategy, assinale a opção correta.
+O Aclasse Aviao implementa as interfaces Voar e Pousar.
+O A classe Boeing757 não aplica o princípio de herança, uma vez que esse princípio já foi aplicado
+pela classe Aviao, nas interfaces Voar e Pousar.
+O Por implementarem as interfaces Voar e Pousar, asclasses VoarDia,VoarNoite,PousarDia
+ePousarNoite também são uma interface.
+O Na classe SimuladorBoeing757,os métodos set Voar e setPousar são os responsáveis por
+aplicar, respectivamente, as saídas “Voar durante o dia” e “Pousar durante o dia” para as saídas
+“Voar durante a noite” e “Pousar durante a noite”.
+O Quando for executada, a classe SimuladorBoeing757 apresentará um erro em tempo de execução
+porque os métodos set Voar e setPousar recebem respectivamente, como parâmetros, variáveis
+do tipo classe, o que não é permitido na orientação a objetos.
+
+
+QUESTÃO 28
+Os requisitos de um sistema consistem nas descrições daquilo que o sistema deve fazer, dos serviços
+que oferece e das restrições a seu funcionamento. Esses requisitos refletem as necessidades específicas
+dos clientes do sistema, como controlar um dispositivo, realizar um pedido ou encontrar informações.
+O processo de descobrir, analisar, documentar e verificar esses serviços e restrições é denominado de
+engenharia de requisitos.
+SOMMERVILLE, |. Engenharia de software. 9. Ed. São Paulo: Pearson, 2011 (adaptado).
+Tendo o texto como referência, avalie as atribuições listadas a seguir, no que se refere à etapa de
+especificação de requisitos em projetos de software.
+|. Identificar as expectativas e necessidades dos stakeholders com relação ao software a ser
+desenvolvido.
+Il. Distribuir os requisitos em categorias, explorar as relações entre eles e classificar sua importância
+para os stakeholders.
+Ill. Produzir um documento de especificação de requisitos, de forma que todos os stakeholders
+possam entendê-lo.
+IV. Examinar a especificação do software para assegurar que todos os requisitos foram definidos sem
+inconsistências.
+São atribuições na etapa de especificação de requisitos os itens
+O lelll, apenas.
+O lelV, apenas.
+O ll elll, apenas.
+O Il elV, apenas.
+O LIHMeIV.
+
+QUESTÃO 29
+Uma pesquisa está sendo realizada para identificar a renda média de um grupo de profissionais,
+em função de algumas variáveis de interesse. As variáveis utilizadas são “possui ensino superior”,
+“possui pós-graduação” e “possui pelo menos 5 anos de experiência em sua área de atuação”.
+Os conjuntos de pessoas representados por essas variáveis são denotados A, Be C, respectivamente.
+Dado que as variáveis não são mutuamente exclusivas, uma pessoa pode pertencer a mais de um
+conjunto. As expressões a seguir representam subconjuntos para os quais se deseja obter a renda
+média das pessoas a eles pertencentes, tarefa que será realizada posteriormente.
+º Expressão 1: reAnTE(BUOCO);
+º Expressão2:teÃ - (BUC);
+* Expressãoi:rTeAntTeBAaLTECO.
+Considere que, em função das expressões dadas, o seguinte programa em linguagem de programação C
+foi escrito, para que posteriormente se realize os cálculos desejados. Considere, ainda, que A, B e C são
+estruturas de dados apropriadamente definidas e que contém as pessoas exatamente como especificado.
+A função contem opera sobre elas e devolve um valor booleano, indicando se a pessoa apontada por p
+existe ou não na estrutura especificada.
+void determina renda (pessoa *p) (
+/* condição 1 */
+if (contem (A, p) && !contem (B, p) && !contem (C, p)) (
+//renda será determinada posteriormente
+)
+/* condição 2 */
+else if (contem (A, p) || contem (B, p) || contem (C, p)) (
+//renda será determinada posteriormente
+Com base nessa situação e nas informações apresentadas, assinale a opção correta.
+O A condição 2 do programa é equivalente à expressão 3.
+O Pessoas com pós-graduação pertencem ao conjunto definido pela expressão 2.
+O A condição 1 do programa é verdadeira para todas as pessoas com ensino superior.
+O A condição 1 do programa e as expressões 1 e 2, que representam o mesmo subconjunto, são equivalentes.
+O A condição 2 do programa define o conjunto de pessoas que tem ensino superior, pós-graduação e
+pelo menos cinco anos de experiência em sua área de atuação.
+
+QUESTÃO 30
+A área de desenvolvimento de software está se tornando cada vez mais complexa. Para lidar com essa
+realidade, os desenvolvedores contam com linguagens de programação baseadas no paradigma de
+orientação a objetos, cujos pilares são abstração, encapsulamento, herança e polimorfismo. No código a
+seguir, observa-se a implementação de classes relacionadas.
+public abstract class Impressora (
+String nome;
+Impressora() ()
+Impressora(String n) (
+this.nome = n;
+)
+public void imprimir () ()
+)
+public class Laser extends Impressora (
+public Laser() ()
+public void imprimir() (
+System.out .println(“Imprimindo na Laser");
+)
+)
+class Matricial extends Impressora (
+public Matricial () ()
+public void imprimir() (
+System.out .println (“Imprimindo na Matricial”);
+)
+)
+public class JatoDeTinta extends Impressora (
+public JatoDeTinta() ()
+public void imprimir ()(
+System.out .println(“Imprimindo na Jato de tinta”);
+)
+)
+public class Main (
+public static void main(String args[]) (|
+Impressora imp[] = new Impressora[3];
+imp[0] = new Laser();
+imp[1] = new JatoDeTinta();
+imp[2] = new Matricial();
+for(int i = imp.length - 1; i >= O; i--)(
+imp[i].imprimir();
+)
+
+Com base nas informações do texto e no código apresentado, avalie as afirmações a seguir.
+|. A execução do código, via classe Main, resulta na seguinte saída:
+Imprimindo na Laser
+Imprimindo na Matricial
+Imprimindo na Jato de tinta
+Il. O código faz uso da técnica denominada polimorfismo.
+Ill. O código não será compilado, pois o vetor imp foi instanciado por meio da classe abstrata
+Impressora.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1L11el.
+
+QUESTÃO 31
+À medida que o projeto de uma interface do usuário evolui, quatro questões de projeto comuns quase
+sempre vêm à tona: tempo de resposta do sistema, recursos de ajuda ao usuário, informações de
+tratamento de erros e atribuição de nomes a comandos.
+PRESSMAN, R. S. Engenharia de software: uma abordagem profissional. 8. ed. São Paulo: AMGH, 2016 (adaptado).
+Nesse contexto, avalie as afirmações a seguir, a respeito do projeto de interface e dos requisitos de software.
+|. A análise de interfaces tem por objetivo identificar o perfil dos usuários e auxiliar na especificação
+do requisito não funcional de segurança pertinente ao perfil de acesso dos usuários.
+Il. O requisito não funcional de segurança descreve as características relacionadas a inteligibilidade,
+modo de usar ou operar o sistema.
+Ill. O requisito não funcional de confiabilidade descreve as características relacionadas ao tempo de
+resposta para processamento de dados ou informações.
+IV. O requisito não funcional de usabilidade descreve diretrizes de acessibilidade para pessoas
+com deficiência.
+É correto apenas o que se afirma em
+Oie.
+Ole
+QBielv
+O L11el.
+OuMmelv
+
+QUESTÃO 32
+Um cliente solicitou a uma empresa a criação de um banco de dados para armazenar o resultado de
+uma eleição presidencial, com dados sobre os partidos políticos, os candidatos e a votação obtida por
+cada candidato em cada unidade da federação. O seguinte diagrama de Entidade-Relacionamento foi
+elaborado como representação dos requisitos obtidos com o cliente.
+As tabelas a seguir contêm os dados registrados a partir do resultado dessa eleição.
+
+Com base nas informações e na situação apresentada, qual o comando SQL que seleciona corretamente
+os nomes dos candidatos, seus partidos e o total de votos de cada partido nessa eleição?
+O SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero;
+O SELECT c.nome, p.nome, COUNT (v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY
+c.nome, p.nome;
+O SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY
+c.nome, p.nome;
+O SELECT c.nome, p.nome, v.votos FROM Partido p, Candidato c, Votacao v
+WHERE c.numero = p.numero and v.partido = c.numero GROUP BY c.nome,
+p.nome, SUM(v.votos);
+O SELECT c.nome, p.nome, COUNT (v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY
+c.nome, p.nome, v.votos;
+
+QUESTÃO 33
+A ordenação por inserção funciona de modo semelhante à forma como algumas pessoas ordenam cartas de
+baralho. Inicia-se com a mão esquerda vazia e as cartas empilhadas na mesa. Remove-se da pilha uma carta de
+cada vez, inserindo-a na posição correta na mão esquerda. Para se identificar a posição correta de uma carta,
+deve-se compará-la com as cartas presentes na mão esquerda, no sentido da direita para a esquerda. Em todos
+os momentos, as cartas na mão esquerda estão ordenadas, tendo sido obtidas no topo da pilha da mesa.
+CORMEN, T. H. et al. Introduction to algorithms. 3. ed. Cambridge: The MIT Press, 2009 (adaptado).
+Um programador implementou um algoritmo de ordenação semelhante à forma de ordenação de cartas
+descrita no texto. Ao realizar um teste com um vetor de nove posições (vetor [1..9]), verificou que o
+algoritmo não funcionava corretamente.
+01 para i <- 2 até 9 faça
+02 valor <- vetor[i]
+o3 j<-i-1
+04 enquanto ((j >= 1) e (valor < vetor[3])) faça
+05 vetor[i] <- vetor[3]
+o6 j<-j-1
+07 se (j = 0) então
+o8 interrompa
+09 fim se
+10 fim enquanto
+11 vetor[3 + 1] <- valor
+12 fim para
+Com base nessas informações, assinale a opção em que se apresentam a linha e o respectivo comando
+a ser substituído, para que o algoritmo ordene corretamente um vetor de inteiros de forma crescente.
+O Linha 01; para i <- 1 até 9 faça
+O Linha 03; j <- i
+O Linha 04; enquanto ((j >= 1) ou (valor < vetor[j3])) faça
+O Linha 05; vetor[3j + 1] <- vetor[3]
+O Linha 11; vetor[3] <- valor
+
+QUESTÃO 34
+JOÃO GRILO: — Isso é coisa de seca. Acaba nisso, essa fome: ninguém pode ter menino e haja cavalo no
+mundo. A comida é mais barata e é coisa que se pode vender. Mas seu cavalo, como foi?
+CHICÓ: — Foi uma velha que me vendeu barato, porque ia se mudar, mas recomendou todo cuidado,
+porque o cavalo era bento. E só podia ser mesmo, porque cavalo bom como aquele eu nunca tinha visto.
+SUASSUNA, A. Auto da Compadecida. Rio de Janeiro: Agir, 2000 (adaptado).
+A seguir apresenta-se um modelo de dados elaborado a partir do diálogo entre Chicó e João Grilo.
+codigo
+Com base no diálogo e no diagrama apresentados, avalie as afirmações a seguir.
+|. OChicóe a velha poderão ser cadastrados na entidade pessoa.
+Il. O Chicó e a velha poderão ter mais que um cavalo cadastrados.
+Ill. O atributo rg da entidade pessoa pode ter a função de chave primária nessa entidade.
+IV. O cavalo deverá ter no mínimo uma pessoa e uma pessoa poderá ser cadastrada sem a necessidade
+de ter um cavalo.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O 11 elv.
+O Melv.
+
+QUESTÃO 35
+Em um sistema web para venda de ingressos para shows musicais, a equipe de marketing solicitou a
+um web designer que, na página inicial, os links para a área de venda de ingressos de cada show fossem
+imagens, para tornar a navegação pelos conteúdos da página mais atrativa e para que o próprio link já
+servisse como material de divulgação.
+A partir do protótipo da página inicial apresentado e usando HTML, o web designer optou por implementar
+cada link de forma que a imagem forneça um texto informativo (por meio do atributo a1t) para usuários
+que usem leitores de tela, conforme a seguir.
+<a href="link-area-venda-ingresso">
+<img src="imagem-show.jpg" alt="identificação do show" />
+</a>
+Considerando a situação apresentada, o uso do atributo alt e aspectos da interação humano-
+computador, pode-se afirmar que o web designer atendeu, em sua implementação, o requisito de
+O segurança no uso, pois se uma imagem tiver baixa resolução e impossibilitar a correta visualização, o
+texto informativo associado à imagem possibilita a identificação do conteúdo do respectivo link.
+O facilidade de aprendizado, pois a comunicação visual do sistema web, por meio do uso de imagens,
+aliada à comunicação textual, por meio do uso de textos informativos para cada imagem, ajuda o
+usuário a aprender os caminhos de navegação.
+O acessibilidade, pois a possibilidade de acesso à página por pessoas com deficiência visual, para
+que interajam com os conteúdos, oferece condições de igualdade às pessoas na interação com o
+sistema web.
+O ergonomia, pois o uso de imagens em links causa um cansaço visual quando o sistema web é
+aberto em um smartphone ou em um tablet com baixa resolução, e o atributo alt substitui a
+imagem por texto.
+O comunicabilidade, pois se uma imagem não comunica adequadamente a informação desejada, um
+texto alternativo deve complementar a respectiva informação, de forma que a interação com o sistema
+web não seja prejudicada.
+

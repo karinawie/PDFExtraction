@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:15:19</Created>
+	<LastChange>2020-09-12T19:15:36</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-28.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="105,386 105,839 1463,839 1463,386"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="297,1044 297,1618 1278,1618 1278,1044"/></ImageRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="84,179 85,179 85,180 254,180 254,251 1490,251 1490,1697 1491,1697 1491,1770 1098,1770 1098,1988 1042,1988 1042,2040 564,2040 564,2039 86,2039 86,2038 85,2038 85,1882 84,1882 84,1020 83,1020 83,251 84,251"/>
+	<TextEquiv conf="0.96756">
+	<Unicode>QUESTÃO 21
+Para o controle da variável de um processo de primeira ordem, foi desenvolvido um sistema em malha
+fechada, utilizando-se controle proporcional, integral e derivativo (PID). O diagrama de blocos da figura a
+seguir representa o sistema implementado.
+Após um ajuste do sistema e testes preliminares, obteve-se a resposta representada no gráfico a seguir.
+A referência foi fixada na amplitude 5, no entanto, a variável do processo estabilizou-se abaixo desta
+referência, caracterizando erro em regime permanente.
+Com base no gráfico apresentado, assinale a opção em que são apresentados, respectivamente, o ajuste
+de sintonia que elimina o erro estacionário e a consequente resposta do sistema.
+A Aumento do ganho integral (Ki), tornando a resposta mais lenta.
+B Aumento do ganho integral (Ki), tornando a resposta mais rápida.
+C Aumento do ganho proporcional (Kp), tornando a resposta mais lenta.
+D Aumento do ganho proporcional (Kp), tornando a resposta mais rápida.
+E Aumento do ganho derivativo (Kd), tornando a resposta mais lenta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

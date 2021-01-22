@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:54:09</Created>
+	<LastChange>2020-11-30T18:26:35</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="891,244 1062,244 1062,312 1577,312 1577,757 1576,757 1576,955 1577,955 1577,1104 1576,1104 1576,1480 1278,1480 1278,1536 1072,1536 1072,1663 1129,1663 1129,1789 892,1789 892,1502 940,1502 940,928 891,928 891,860 993,860 993,757 891,757 891,581 890,581 890,312 891,312"/>
+	<TextEquiv conf="0.96426">
+	<Unicode>QUESTÃO 33
+Um erro comum que se observa nas abordagens
+da Internet das Coisas (Internet of Things — loT)
+é o desenvolvimento de um produto sem uma
+visão clara de geração de valor. É comum os
+desenvolvedores não terem a clareza do real valor
+a ser gerado aos usuários finais, concebendo um
+produto sem o seu valor agregado.
+Nesse sentido, para abertura de negócios
+inovadores, é essencial compreender o surgimento
+de novos negócios baseados em loT e como esta
+revolução criará oportunidades.
+Disponível em: &lt;http://www.convergenciadigital.com.br&gt;.
+Acesso em: 27 jul. 2017 (adaptado).
+Com base nesse contexto, avalie as afirmações
+a seguir.
+|. Para que a loT possa agregar valor
+aos negócios, é necessário considerar
+questões relacionadas a problemas da
+interoperabilidade de plataformas.
+Il. O loT permite uma independência da
+infraestrutura de telecomunicação e os seus
+projetos exigem o uso de novas tecnologias,
+como as impressoras 3D.
+Ill. A tríade composta pela criação de novos
+mercados digitais, gestão de risco e
+melhorias de eficiência é a chave para a
+transformação dos modelos de negócios
+atuais a partir da revolução da loT.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O el, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,318 856,318 856,670 854,670 854,819 855,819 855,1858 854,1858 854,2103 171,2103 171,1027 169,1027 169,819 302,819 302,670 169,670 169,318 170,318"/>
+	<TextEquiv conf="0.96014">
+	<Unicode>QUESTÃO 32
+Pode-se considerar que as redes de computadores
+existentes hoje — as redes legadas — podem
+evoluir para as chamadas redes definidas por
+software ou SDN (Software Defined Networks).
+Essa abordagem de arquitetura de redes busca
+simplificar as operações, facilitando as tarefas de
+configuração e alteração do comportamento dos
+dispositivos de rede.
+GORANSSON P.; CHUCK B. Software defined networks:
+a comprehensive approach. San Francisco:
+Morgan Kaufmann, 2014 (adaptado).
+As diferenças entre redes legadas (tradicionais)
+e redes SDN podem ser explicadas por meio dos
+conceitos de plano de controle e plano de dados.
+A respeito desses conceitos, assinale a opção
+correta.
+O As redes SDN são baseadas na união entre
+o plano de controle e o plano de dados, ou
+seja, os dois passam a ser um plano único em
+comparação com as redes legadas.
+O O plano de dados nas redes SDN é determinado
+pelo fabricante do switch, ao passo que o plano
+de controle nas redes SDN pode ser alterado
+por meio de atualizações remotas do switch.
+O O plano de dados nas redes legadas é
+determinado pelo fabricante do switch, ao passo
+que o plano de controle nas redes legadas pode
+ser alterado por meio de atualizações remotas
+do switch.
+O Afuncionalidade do plano de controle das redes
+SDN é igual à do plano de controle das redes
+legadas, entretanto a funcionalidade do plano
+de dados difere nessas duas redes.
+OQ O plano de controle nas redes SDN controla a
+comutação e o repasse dos pacotes de rede,
+sendo o plano de dados o responsável pela
+atualização da tabela de encaminhamento e a
+manutenção das estatísticas do equipamento.</Unicode></TextEquiv></TextRegion></Page></PcGts>

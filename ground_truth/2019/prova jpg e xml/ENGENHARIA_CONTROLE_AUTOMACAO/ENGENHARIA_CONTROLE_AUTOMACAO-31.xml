@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:06:15</Created>
+	<LastChange>2020-11-14T00:33:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-31.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="376,234 376,752 1210,752 1210,234"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="85,183 1390,183 1390,813 1489,813 1489,883 502,883 502,1136 468,1136 468,1137 340,1137 340,1138 84,1138 84,814 209,814 209,212 85,212"/>
+	<TextEquiv conf="0.96433">
+	<Unicode>No gráfico a seguir está representada a curva característica do sensor de temperatura do projeto.
+Nesse contexto, para o desligamento do circuito de potência quando a temperatura alcançar 40 ºC,
+os valores dos resistores Rr e Ry, respectivamente, são
+A Rr=4k0 e Ry =3 kO.
+B Rr=3k0 e Ry =4 kO.
+C Rr=3k0 e Ry=3kO0.
+D Rr=6kN0 e Ry=8k0.
+E Rr=8k0 e Ry=3kO0.</Unicode></TextEquiv></TextRegion></Page></PcGts>

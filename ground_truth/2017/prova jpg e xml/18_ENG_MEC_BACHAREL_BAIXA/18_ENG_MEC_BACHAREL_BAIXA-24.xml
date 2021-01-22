@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:58:40</Created>
+	<LastChange>2020-11-27T18:53:34</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r16">
+	<Coords points="872,246 871,2112 873,2112 874,246"/></SeparatorRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1817 1575,1817 1575,1818 891,1818 891,460 890,460"/>
+	<ImageRegion id="r2">
+	<Coords points="888,477 888,947 1569,947 1569,477"/></ImageRegion>
+	<TextEquiv conf="0.96492">
+	<Unicode>QUESTÃO 22
+O gráfico a seguir representa curvas do sistema de
+bombeamento, em que H é a altura manométrica
+total, dada em m de coluna d'água, e Q é a vazão
+volumétrica, dada em L/s.
+Para atender a essa instalação, pode-se utilizar só
+uma bomba ou duas iguais, associadas em paralelo
+ou em série.
+Com base nas informações apresentadas no texto e
+na análise do gráfico, verifica-se que a curva
+O “N” representa uma associação em paralelo,
+e o ponto de operação indica vazão de 145 L/s e
+altura manométrica de 70 m, aproximadamente.
+O “B” representa uma associação em série,
+e o ponto de operação indica vazão de 111 L/s e
+altura manométrica de 56 m, aproximadamente.
+O “B” representa uma associação em paralelo,
+e o ponto de operação indica vazão de 111 L/s e
+altura manométrica de 56 m, aproximadamente.
+O da bomba, sem estar associada, fornece
+ao sistema vazão de 160 L/s para altura
+manométrica de 58 m, aproximadamente.
+OQ “A” representa uma associação em série,
+e o ponto de operação indica vazão de 92 L/s e
+altura manométrica de 50 m, aproximadamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="169,244 339,244 339,306 854,306 854,2109 170,2109 170,1893 169,1893 169,436 168,436 168,306 169,306"/>
+	<ImageRegion id="r3">
+	<Coords points="308,447 308,1266 852,1266 852,447"/></ImageRegion>
+	<TableRegion id="r4">
+	<Coords points="188,1394 188,1777 850,1777 850,1394"/></TableRegion>
+	<TextEquiv conf="0.96746">
+	<Unicode>QUESTÃO 21
+Um aparelho de ar condicionado, instalado em um
+domicílio, remove calor em regime permanente à
+taxa de 1 080 IkJ/min, e o motor elétrico consome
+6 kW, conforme apresentado na figura.
+No quadro a seguir são mostradas as classes dos
+aparelhos de ar condicionado em função da sua
+eficiência energética.
+Com base nesses dados, conclui-se que o aparelho
+de ar condicionado apresentado na figura, dada
+sua eficiência energética, pertence à
+O classe A.
+O classe B.
+O classe C.
+O classe D.
+O classe E.</Unicode></TextEquiv></TextRegion></Page></PcGts>

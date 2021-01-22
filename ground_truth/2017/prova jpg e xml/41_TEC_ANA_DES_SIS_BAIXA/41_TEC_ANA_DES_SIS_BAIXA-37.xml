@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:21:43</Created>
+	<LastChange>2020-11-30T17:18:51</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-37.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,249 1576,249 1576,313 1569,313 1569,421 1576,421 1576,873 171,873 171,874 170,874"/>
+	<TextEquiv conf="0.86525">
+	<Unicode>Com base nas informações e na situação apresentada, qual o comando SQL que seleciona corretamente
+os nomes dos candidatos, seus partidos e o total de votos de cada partido nessa eleição?
+O SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero;
+O SELECT c.nome, p.nome, COUNT (v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY
+c.nome, p.nome;
+O SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY
+c.nome, p.nome;
+O SELECT c.nome, p.nome, v.votos FROM Partido p, Candidato c, Votacao v
+WHERE c.numero = p.numero and v.partido = c.numero GROUP BY c.nome,
+p.nome, SUM(v.votos);
+O SELECT c.nome, p.nome, COUNT (v.votos) FROM Partido p, Candidato c,
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY
+c.nome, p.nome, v.votos;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="170,902 340,902 340,903 341,903 341,967 1576,967 1576,1212 1577,1212 1577,1314 584,1314 584,1457 1016,1457 1016,1479 644,1479 644,1516 633,1516 633,1591 584,1591 584,1717 617,1717 617,1794 1576,1794 1576,1859 808,1859 808,1979 1274,1979 1274,2056 707,2056 707,2105 170,2105 170,2073 171,2073 171,1860 170,1860 170,1794 172,1794 172,1628 171,1628 171,1315 170,1315 170,1144 169,1144 169,967 170,967"/>
+	<TextEquiv conf="0.96533">
+	<Unicode>QUESTÃO 33
+A ordenação por inserção funciona de modo semelhante à forma como algumas pessoas ordenam cartas de
+baralho. Inicia-se com a mão esquerda vazia e as cartas empilhadas na mesa. Remove-se da pilha uma carta de
+cada vez, inserindo-a na posição correta na mão esquerda. Para se identificar a posição correta de uma carta,
+deve-se compará-la com as cartas presentes na mão esquerda, no sentido da direita para a esquerda. Em todos
+os momentos, as cartas na mão esquerda estão ordenadas, tendo sido obtidas no topo da pilha da mesa.
+CORMEN, T. H. et al. Introduction to algorithms. 3. ed. Cambridge: The MIT Press, 2009 (adaptado).
+Um programador implementou um algoritmo de ordenação semelhante à forma de ordenação de cartas
+descrita no texto. Ao realizar um teste com um vetor de nove posições (vetor [1..9]), verificou que o
+algoritmo não funcionava corretamente.
+01 para i &lt;- 2 até 9 faça
+02 valor &lt;- vetor[i]
+o3 j&lt;-i-1
+04 enquanto ((j &gt;= 1) e (valor &lt; vetor[3])) faça
+05 vetor[i] &lt;- vetor[3]
+o6 j&lt;-j-1
+07 se (j = 0) então
+o8 interrompa
+09 fim se
+10 fim enquanto
+11 vetor[3 + 1] &lt;- valor
+12 fim para
+Com base nessas informações, assinale a opção em que se apresentam a linha e o respectivo comando
+a ser substituído, para que o algoritmo ordene corretamente um vetor de inteiros de forma crescente.
+O Linha 01; para i &lt;- 1 até 9 faça
+O Linha 03; j &lt;- i
+O Linha 04; enquanto ((j &gt;= 1) ou (valor &lt; vetor[j3])) faça
+O Linha 05; vetor[3j + 1] &lt;- vetor[3]
+O Linha 11; vetor[3] &lt;- valor</Unicode></TextEquiv></TextRegion></Page></PcGts>

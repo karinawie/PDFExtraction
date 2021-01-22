@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:28:03</Created>
+	<LastChange>2020-09-18T02:29:15</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-21.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,247 872,2112 876,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 855,312 855,1223 854,1223 854,1470 853,1470 853,1646 763,1646 763,1694 171,1694 171,1695 170,1695 170,1281 168,1281 168,312 169,312"/>
+	<TextEquiv conf="0.89797">
+	<Unicode>QUESTÃO 17
+Grupos de cientistas e grandes corporações de
+todo o mundo têm buscado desenvolver sistemas
+computacionais inteligentes capazes de ajudar as
+pessoas a aprender. As possibilidades, os efeitos
+e as implicações éticas da aplicação da chamada
+Inteligência Artificial (IA) na educação são temas
+que vêm ganhando espaço nos debates na área de
+tecnologia educacional em todo o mundo.
+Disponível em: &lt;http://www.revistaeducacao.com.br&gt;.
+Acesso em: 26 set. 2017 (adaptado).
+A respeito da adoção de técnicas de IA no processo
+educacional, avalie as asserções a seguir e a relação
+proposta entre elas.
+|. Algoritmos de IA adaptativos podem auxiliar
+a experiência de aprendizado da pessoa de
+acordo com o seu perfil.
+PORQUE
+ll. Os sistemas com algoritmos de IA adaptativos
+analisam respostas anteriores, buscando
+determinados padrões que possam indicar
+pontos de dificuldade ou facilidade da
+pessoa em relação a determinado assunto.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções | e |l são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="890,244 1061,244 1061,309 1576,309 1576,310 1577,310 1577,444 1460,444 1460,515 1301,515 1301,635 1420,635 1420,660 1352,660 1352,661 1187,661 1187,778 1241,778 1241,847 1566,847 1566,872 1404,872 1404,887 1288,887 1288,993 1321,993 1321,1112 1341,1112 1341,1137 1208,1137 1208,1277 1576,1277 1576,2105 891,2105 891,1454 890,1454 890,1277 893,1277 893,821 892,821 892,444 890,444"/>
+	<TextEquiv conf="0.96760">
+	<Unicode>QUESTÃO 18
+O algoritmo a seguir recebe um vetor v de números
+inteiros e rearranja esse vetor de tal forma que
+seus elementos, ao final, estejam ordenados de
+forma crescente.
+01 void ordena(int *v, int n)
+02 14
+03 int i, 3,
+04 for(i = 1;
+o5 (
+06 chave =
+o7 j=i-1l;
+o8 while(j &gt;= O &amp;&amp; v[3]
+09 (
+10 v[j3-1] =
+11 jsrji-l
+12 )
+13 v[j3+1] =
+14 )
+15 )
+chave;
+i &lt; n; i++)
+&lt; chave)
+chave;
+Considerando que nesse algoritmo há erros de
+lógica que devem ser corrigidos para que os
+elementos sejam ordenados de forma crescente,
+assinale a opção correta no que se refere às
+correções adequadas.
+A Alinha 04 deve ser corrigida da seguinte forma:
+for(i = 1; i &lt;n - 1; i++) ealinha
+13, do seguinte modo: v[ 3 — 1] = chave;.
+B Alinha 04 deve ser corrigida da seguinte forma:
+for(i = 1; i &lt;n - 1; i++) ealinhaO7,
+do seguinte modo: à = i + 1;.
+C Alinha 07 deve ser corrigida da seguinte forma:
+j = i + 1ealinha08,do seguinte modo:
+while(j &gt;= O &amp;&amp; v[3] &gt; chave).
+D A linha 08 deve ser corrigida da seguinte forma:
+while(j &gt;= O &amp;&amp; v[3] &gt; chave) e
+a linha 10, do seguinte modo: v[j + 1] =
+vlj31;.
+E Alinha 10 deve ser corrigida da seguinte forma:
+v[j + 1] = v[3]; ealinha 13, do seguinte
+modo: v[3 - 1] = chave;.</Unicode></TextEquiv></TextRegion></Page></PcGts>

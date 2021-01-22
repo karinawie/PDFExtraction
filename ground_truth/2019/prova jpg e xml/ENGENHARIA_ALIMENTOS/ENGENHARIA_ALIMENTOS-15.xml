@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T02:41:41</Created>
+	<LastChange>2020-09-10T02:47:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-15.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r25">
+	<Coords points="784,181 787,2047 791,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="71,465 71,915 763,915 763,465"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="76,926 76,1505 768,1505 768,926"/></ImageRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="84,179 255,179 255,240 769,240 769,448 632,448 632,1524 768,1524 768,1651 770,1651 770,2043 86,2043 86,2044 85,2044 85,1652 84,1652 84,1524 86,1524 86,469 85,469 85,449 83,449 83,240 84,240"/>
+	<TextEquiv conf="0.96596">
+	<Unicode>QUESTÃO 09
+No projeto de uma instalação industrial de sucos
+clarificados de frutas, foi calculada a necessidade
+de 25 m de carga de pressão para o transporte de
+40 m?/h deste fluido.
+As figuras a seguir apresentam curvas características
+de uma bomba centrífuga a 50 Hz.
+Figura 1 - NPSHr (m) em função da vazão
+H (m)
+Com base nas informações apresentadas, assinale a
+opção que corresponde à escolha correta da bomba
+para o processo apresentado.
+A Diâmetro do rotor de 160 mm, potência de
+2,5 kW e NPSHr do sistema superior a 1,5 m.
+B Diâmetro do rotor de 120 mm, potência de
+2,5 kW e NPSHr do sistema superior a 1,0 m.
+C Diâmetro do rotor de 165 mm, potência de
+5,0 kW e NPSHr do sistema superior a 5,0 m.
+D Diâmetro do rotor de 160 mm, potência de
+5,0 kW e NPSHr do sistema superior a 5,5 m.
+E Diâmetro do rotor de 165 mm, potência de
+5,5 kW e NPSHr do sistema superior a 5,5 m.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="805,179 977,179 977,247 1493,247 1493,595 1491,595 1491,840 1493,840 1493,1108 1491,1108 1491,1324 1192,1324 1192,1379 995,1379 995,1507 1043,1507 1043,1633 807,1633 807,1634 806,1634 806,1412 807,1412 807,1346 854,1346 854,806 806,806 806,736 811,736 811,596 805,596"/>
+	<TextEquiv conf="0.96453">
+	<Unicode>QUESTÃO 10
+A qualidade do iogurte é importante na sua
+aceitação, que é influenciada principalmente por
+sua consistência e viscosidade. Para se aumentar
+a viscosidade do produto, a prática mais utilizada
+nas indústrias é o aumento do teor de sólidos pela
+adição de leite, ou soro de leite, em pó. Porém,
+também podem ser adicionados espessantes, que
+deixam a textura mais firme, diminuindo a sinerese
+e aumentando a aceitabilidade do iogurte.
+MATHIAS, T. S. et al. Avaliação do comportamento reológico de diferentes
+iogurtes comerciais. Brazilian Journal of Food Technology,
+v. 16, p.12-20, Campinas, 2013 (adaptado).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. O objetivo dos estudos reológicos é verificar
+o comportamento estrutural dos alimentos
+frente aos possíveis processamentos,
+permitindo o dimensionamento correto de
+bombas, tubulações, trocadores de calor,
+operações de agitação e envase, sem afetar
+a qualidade do produto final.
+Ill. Estudos reológicos geralmente envolvem
+relações entre taxa de cisalhamento e
+tensão de cisalhamento.
+Ill. O teor de sólidos é um dos fatores que
+podem afetar a reologia do iogurte.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

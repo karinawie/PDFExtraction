@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T18:00:13</Created>
+	<LastChange>2020-11-27T19:06:29</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="170,244 514,244 514,312 1574,312 1574,1411 1576,1411 1576,1565 1107,1565 1107,1566 1038,1566 1038,1679 993,1679 993,1737 170,1737 170,1679 169,1679 169,1568 168,1568 168,313 169,313 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="277,452 277,1375 1441,1375 1441,452"/></ImageRegion>
+	<TextEquiv conf="0.96494">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Suponha que numa empresa haja necessidade de dimensionar uma bomba hidráulica para uma
+instalação de bombeamento. Considere que os dados necessários para o dimensionamento da bomba
+constam na figura a seguir.
+Considere, ainda, que a potência da bomba é calculada pela expressão W = Q.Ap, em que W é a potência,
+dada em W; Qé a vazão volumétrica, dada em m?/s; e Ap é a diferença de pressão, dada em Pa, calculada
+por Ap=YH, em que Y = 10 kN/m? é o peso específico da água e H é a altura manométrica total a ser
+vencida pela bomba, dada em m.
+Com base nesses dados, determine:
+a) a altura manométrica total H, dada em m; (valor: 5,0 pontos)
+b) a potência da bomba W, dada em kW. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

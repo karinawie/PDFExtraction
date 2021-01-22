@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:58:15</Created>
+	<LastChange>2020-10-29T20:10:46</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="145,1354 1600,1354 1600,1385 1599,1385 1599,1791 1445,1791 1445,1997 384,1997 384,2075 146,2075 146,1806 194,1806 194,1637 147,1637 147,1530 144,1530 144,1405 145,1405"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 19
+A tomografia computadorizada (TC) evidencia as relações estruturais em profundidade, mostrando imagens
+do corpo humano em fatias. A TC apresenta grandes vantagens diagnósticas, mas a alta dose de radiação e
+o alto custo fazem com que seja pouco utilizada na rotina odontológica. A tomografia computadorizada de
+feixe cônico (TCFC) apresenta características mais adequadas para radiologia odontológica.
+GARIB, D. G, et al. Tomografia computadorizada de feixe cônico (Cone beam): entendendo este novo método de diagnóstico por imagem
+com promissora aplicabilidade na Ortodontia. Rev. Dental Press Ortodon. Ortop. Facial, v. 12, n. 2, p. 139-156, mar./abr. 2007 (adaptado).
+Em relação a esses tipos de TC, avalie as afirmações a seguir.
+|. ATCFC, cuja dose de radiação é menor que na TC convencional, permite maior proteção radiológica
+nos exames odontológicos.
+Il. Os aparelhos de TCFC, por serem mais compactos que os aparelhos de TC convencional, são mais
+indicados para serviços de radiologia odontológica.
+Ill. A TCFC é utilizada na radiologia odontológica para obtenção de imagens de cabeça e face.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lei, apenas.
+O ll elll, apenas.
+OIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,252 1600,252 1600,428 1599,428 1599,1134 1212,1134 1212,1332 146,1332 146,1134 145,1134"/>
+	<ImageRegion id="r2">
+	<Coords points="191,450 191,1058 872,1058 872,450"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="902,430 902,1047 1588,1047 1588,430"/></ImageRegion>
+	<TextEquiv conf="0.96218">
+	<Unicode>QUESTÃO 18
+A uretrocistografia miccional é uma das formas de se realizar o estudo funcional da bexiga. Avaliações
+complementares do sistema urinário podem ser feitas por meio de outros exames, como a tomografia
+computadorizada (TC). A Figura 1 mostra um uretocistograma miccional, OPD (oblíqua posterior direita) 30º
+de um homem jovem. A Figura 2 mostra corte axial de uma TC.
+Considerando essas informações, assinale a alternativa que relaciona as estruturas anatômicas marcadas
+pelas setas nas imagens.
+O 1- bexiga; 1 - uretra; Ill - pelve renal esquerda; IV - rim esquerdo.
+O 1- bexiga; 11 - uretra; 111 - pelve renal direita; IV - rim direito.
+O 1- bexiga; II - ureter direito; Ill - rim direito; IV - pelve renal direita.
+O I-rim direito; 11 - uretra; 111 - pelve renal esquerda; IV - rim esquerdo.
+O 1-rim esquerdo; Il - ureter esquerdo; Ill - pelve renal direita; IV - rim direito.</Unicode></TextEquiv></TextRegion></Page></PcGts>

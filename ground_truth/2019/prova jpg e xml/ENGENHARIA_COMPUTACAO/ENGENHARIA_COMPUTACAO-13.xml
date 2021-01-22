@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:17:23</Created>
+	<LastChange>2020-09-12T18:19:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-13.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,179 429,179 429,180 430,180 430,247 735,247 735,478 1489,478 1489,577 1491,577 1491,646 1490,646 1490,741 1210,741 1210,742 85,742 85,647 84,647"/>
+	<TextEquiv conf="0.95963">
+	<Unicode>QUESTÃO DISCURSIVA 04
+Na matemática, um produtório é definido como:
+2 : ll : : :
+Com base nessa equação, e considerando que x, = 1 + —, com 1 &gt; O, faça o que se pede nos itens a seguir.
+i
+a) Escreva uma função iterativa, em linguagem C, que receba os parâmetros de limite inferior m e de
+limite superior n, calcule e retorne o resultado do produtório. (valor: 5,0 pontos).
+b) Escreva uma função recursiva, em linguagem C, que receba os parâmetros de limite inferior m e de
+limite superior n, calcule e retorne o resultado do produtório. (valor: 5,0 pontos).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="497,321 497,426 1084,426 1084,321"/></ImageRegion></Page></PcGts>

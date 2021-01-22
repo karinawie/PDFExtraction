@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T23:04:47</Created>
+	<LastChange>2020-09-17T23:27:53</LastChange></Metadata>
+	<Page imageFilename="01_ARQ_URB_BACHAREL_BAIXA-07.jpg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="288,769 288,1241 1452,1241 1452,769"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,318 1576,318 1576,1995 398,1995 398,2102 170,2102 170,1520 169,1520"/>
+	<TextEquiv conf="0.95116">
+	<Unicode>QUESTÃO 03
+O sistema de tarifação de energia elétrica funciona com base em três bandeiras. Na bandeira verde,
+as condições de geração de energia são favoráveis e a tarifa não sofre acréscimo. Na bandeira amarela,
+a tarifa sofre acréscimo de R$ 0,020 para cada kWh consumido, e na bandeira vermelha, condição de
+maior custo de geração de energia, a tarifa sofre acréscimo de R$ 0,035 para cada kWh consumido. Assim,
+para saber o quanto se gasta com o consumo de energia de cada aparelho, basta multiplicar o consumo
+em kWh do aparelho pela tarifa em questão.
+Disponível em: &lt;http://www.aneel.gov.br&gt;. Acesso em: 17 jul. 2017 (adaptado).
+Na tabela a seguir, são apresentadas a potência e o tempo de uso diário de alguns aparelhos
+eletroeletrônicos usuais em residências.
+Disponível em: &lt;https://www.educandoseubolso.blog.br&gt;. Acesso em: 17 jul. 2017 (adaptado).
+Considerando as informações do texto, os dados apresentados na tabela, uma tarifa de R$ 0,50 por kWh
+em bandeira verde e um mês de 30 dias, avalie as afirmações a seguir.
+|. Em bandeira amarela, o valor mensal da tarifa de energia elétrica para um chuveiro de 3 500 W
+seria de R$ 1,05, e de R$ 1,65, para um chuveiro de 5 500 W.
+Ill. Deixar um carregador de celular e um modem de internet em stand-by conectados na rede de
+energia durante 24 horas representa um gasto mensal de R$ 5,40 na tarifa de energia elétrica em
+bandeira verde, e de R$ 5,78, em bandeira amarela.
+Ill. Em bandeira verde, o consumidor gastaria mensalmente R$ 3,90 a mais na tarifa de energia elétrica
+em relação a cada lâmpada incandescente usada no lugar de uma lâmpada LED.
+É correto o que se afirma em
+A II, apenas.
+B III, apenas.
+C l e ll, apenas.
+D l e lll, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

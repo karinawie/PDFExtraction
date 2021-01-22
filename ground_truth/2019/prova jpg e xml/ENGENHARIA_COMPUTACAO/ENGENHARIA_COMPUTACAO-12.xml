@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T21:18:44</Created>
+	<LastChange>2020-11-14T00:28:13</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-12.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="527,143 969,143 969,247 1492,247 1492,428 1490,428 1490,654 1491,654 1491,750 1493,750 1493,817 1040,817 1040,818 132,818 132,723 131,723 131,628 84,628 84,145 85,145 85,144 527,144"/>
+	<TextEquiv conf="0.96532">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Uma árvore binária de busca é uma árvore ordenada que pode apresentar prejuízos no desempenho
+de determinados algoritmos em função do desbalanceamento causado pela ordem de inserção dos
+elementos na estrutura. Uma árvore AVL é uma árvore binária de busca balanceada em que a diferença
+em módulo entre a altura da subárvore esquerda e a altura da subárvore direita de cada nó é, no máximo,
+de uma unidade.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Apresente uma árvore binária de busca balanceada com os elementos 2, 9, 15, 21, 27, 36 e 500 em
+que o nó raiz principal contém o elemento 21 e o balanceamento de cada nó seja no máximo uma
+unidade. (valor: 3,0 pontos)
+b) Considerando as inserções dos elementos 9, 27 e 50, nesta ordem, em uma árvore AVL inicialmente
+vazia, apresente a árvore resultante. (valor: 3,0 pontos)
+c) Considerando as inserções dos elementos 9, 27, 50, 15, 2, 21 e 36, nesta ordem, em uma árvore AVL
+inicialmente vazia, apresente a árvore resultante. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

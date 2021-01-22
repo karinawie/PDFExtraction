@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:14:47</Created>
+	<LastChange>2020-11-27T19:27:32</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="169,244 339,244 339,307 1576,307 1576,438 1030,438 1030,1267 1545,1267 1545,1309 1576,1309 1576,1370 1575,1370 1575,1767 1292,1767 1292,1814 756,1814 756,1815 556,1815 556,1887 407,1887 407,2108 170,2108 170,1602 169,1602 169,1241 168,1241 168,1211 169,1211"/>
+	<ImageRegion id="r1">
+	<Coords points="633,450 633,1202 1136,1202 1136,450"/></ImageRegion>
+	<TextEquiv conf="0.96602">
+	<Unicode>QUESTÃO 23
+Um grupo de estudantes de engenharia planejou um experimento para ser executado nas aulas de
+laboratório de sua instituição. O experimento consistiu na separação sólido-líquido mediante a utilização
+de dois hidrociclones (A e B), que tinham as mesmas dimensões geométricas e eram acoplados um ao
+outro, conforme representação esquemática apresentada a seguir.
+Algumas características do experimento estão descritas a seguir.
+* Amontagem foi testada com suspensões aquosas diluídas a uma vazão volumétrica de 0,5 L:-s*;
+º* asrazões de líquido, definidas como a razão entre a vazão do líquido na corrente de underflow e
+sua respectiva alimentação, para ambos os hidrociclones, foram de 40%;
+* osdiâmetros de corte para os hidrociclones A e B foram, respectivamente, de 10 um e 20 um;
+* doismanômetros de Bourdon foram instalados nos dutos de alimentação dos hidrociclones;
+º* aperdade carga causada pela conexão entre os hidrociclones foi desprezível;
+º* asdescargas (correntes de underflow) dos hidrociclones foram feitas à pressão atmosférica.
+Com base na situação descrita, avalie as afirmações a seguir.
+|. A vazão volumétrica do overflow do hidrociclone B foi equivalente a 24% da vazão volumétrica
+alimentada no hidrociclone A.
+Il. A corrente de underflow do hidrociclone B descarregou menos de 50% das partículas de 10 um
+oriundas do hidrociclone A.
+Ill. A potência consumida pelos hidrociclones durante a separação foi de 110 W.
+É correto o que se afirma em
+O |, apenas.
+o Il, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

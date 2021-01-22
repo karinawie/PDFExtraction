@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T02:51:56</Created>
+	<LastChange>2020-09-09T02:52:15</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-34.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="361,465 362,1164 1498,1163 1497,464"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,257 1492,257 1492,435 1491,435 1491,1705 1039,1705 1039,1706 470,1706 470,1765 322,1765 322,2041 85,2041 85,2042 84,2042 84,1303 83,1303 83,258 84,258"/>
+	<TextEquiv conf="0.91760">
+	<Unicode>QUESTÃO 29
+A arquiteta Zaha Hadid nasceu em Bagdá, em 1950. Em 2004, tornou-se a primeira mulher a receber
+o Prêmio Pritzker de Arquitetura, atribuído pelo conjunto de sua obra. Anteriormente, também fora
+premiada pela Ordem do Império Britânico por sua produção arquitetônica. Em 2015, Zaha Hadid quebrou
+a hegemonia masculina ao ser laureada com a medalha de ouro do Royal Institute of British Architects.
+A riqueza plástica das obras de Zaha Hadid impinge grande dificuldade na representação gráfica e no
+desenvolvimento de seus projetos, que demandam o uso de ferramentas computacionais contemporâneas,
+a exemplo do Building Information Model (BIM).
+Nesse contexto, avalie as afirmações a seguir.
+|. OBIM utiliza elementos paramétricos, interconectados e integrados espacialmente, sendo possível
+alterar seus componentes e obter atualizações instantâneas que repercutem em todo o projeto.
+Il. A tecnologia BIM dificulta a integração entre as diversas etapas do processo de planejamento e de
+gestão de projetos no que se refere ao cruzamento de informações e de gerenciamento.
+Ill. Os projetos modelados em BIM, se forem aprovados, incluem produtos e materiais reais,
+aproximando o desenho da realidade da construção, incorporando sua geometria, suas
+características, suas especificações e as informações para adquiri-las.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

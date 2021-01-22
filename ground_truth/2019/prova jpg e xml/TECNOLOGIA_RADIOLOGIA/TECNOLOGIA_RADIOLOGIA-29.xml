@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:24:53</Created>
+	<LastChange>2020-09-13T22:25:18</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-29.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,251 1493,251 1493,725 1491,725 1491,827 1490,827 1490,1222 1492,1222 1492,1340 1491,1340 1491,1481 575,1481 575,1555 234,1555 234,1831 84,1831 84,1591 85,1591 85,1521 133,1521 133,953 84,953 84,880 178,880 178,726 83,726 83,251 84,251"/>
+	<TextEquiv conf="0.96343">
+	<Unicode>QUESTÃO 33
+A busca por tecnologias que possam ser aplicadas ao setor de radiologia favoreceu o desenvolvimento de
+novos equipamentos digitais que contribuem para um diagnóstico ágil e mais racional quanto ao uso da
+radiação. Os sistemas de informações para o gerenciamento de imagens e informações clínicas também
+acompanharam essas inovações. O sistema de arquivamento e comunicação voltado para o diagnóstico
+por imagem denominado Picture Archiving and Communication Systems (PACS) foi desenvolvido para
+favorecer o pronto acesso às imagens médicas em formato digital. Desde a sua criação, o PACS é
+considerado uma opção interessante no gerenciamento de imagens em ambientes hospitalares. À medida
+em que a adoção dessas tecnologias torna-se mais disseminada, surgem novas demandas na rotina dos
+profissionais que incentivam o aprimoramento dessas ferramentas. Diante dessas necessidades, já é uma
+realidade a integração do PACS com outros sistemas tais como o de informações hospitalares (Hospital
+Information System — SIH) e de informações radiológicas (Radiology Information System — RIS).
+SALOMÃO, S. C; MARQUES, P. M. Integrando ferramentas de auxílio ao diagnóstico no sistema de arquivamento e comunicação de
+imagens. Radiol. Bras, v. 44, n. 6, p. 374 - 380, 2011 (adaptado).
+Em relação à gestão dos serviços radiológicos e à evolução da radiologia digital, avalie as afirmações
+a seguir.
+|. Aimplantação de um serviço de radiologia sem filmes promove benefícios técnicos, mas impacta
+negativamente nos aspectos econômicos desses serviços, pois não promove redução de gastos.
+Il. O PACS tornou-se uma opção tecnológica relevante na transmissão, no armazenamento e na
+recuperação de imagens médicas em associação com RIS por serem a base para um serviço de
+radiologia sem filmes.
+Ill. A integração do PACS com o RIS oferece benefícios aos pacientes e profissionais envolvidos por
+promover o gerenciamento e a distribuição de imagens, redução do impacto ambiental, redução
+do tempo de espera para diagnóstico e prática da telemedicina.
+IV. No ambiente hospitalar, em que se busca eliminar o uso de filmes radiológicos, a integração
+PACS/RIS é a base para o bom funcionamento do serviço, porém não previne a inconsistência de
+informações por meio da integração do conteúdo dos bancos de dados envolvidos no processo.
+É correto apenas o que se afirma em
+A I e IV.
+B II e III.
+C III e IV.
+D I, II e III.
+E I, II e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

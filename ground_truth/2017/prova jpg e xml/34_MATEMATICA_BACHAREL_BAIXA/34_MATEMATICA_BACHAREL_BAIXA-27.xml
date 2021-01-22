@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:28:35</Created>
+	<LastChange>2020-11-29T23:01:32</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="890,244 1061,244 1061,316 1577,316 1577,523 1574,523 1574,699 1576,699 1576,700 1577,700 1577,816 1497,816 1497,892 1310,892 1310,1018 1277,1018 1277,1125 1080,1125 1080,1266 1128,1266 1128,1401 891,1401 891,1161 892,1161 892,1091 939,1091 939,892 892,892 892,816 891,816 891,657 890,657 890,523 888,523 888,316 890,316"/>
+	<TextEquiv conf="0.96161">
+	<Unicode>QUESTÃO 31
+Diz-se que os grupos G, e G, são isomorfos
+quando existe umhomomorfismobijetor
+f: G, &gt; G,. Grupos isomorfos, ainda que possuam
+elementos de naturezas distintas, são considerados
+indistinguíveis do ponto de vista algébrico.
+Considere os seguintes grupos:
+Z o grupo aditivo das classes residuais módulo m;
+D , o grupo das simetrias espaciais de um polígono
+regular de n lados munido da operação de
+composição.
+Nesse contexto, avalie as afirmações a seguir.
+1. Z,xZ, é isomorfo a Z..
+Il. D, é isomorfo a Z,.
+IM. D, é isomorfo a Z,..
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,313 854,313 854,593 855,593 855,738 555,738 555,800 407,800 407,1060 170,1060 170,767 263,767 263,571 218,571 218,383 169,383"/>
+	<TextEquiv conf="0.95416">
+	<Unicode>QUESTÃO 29
+Sobre sequências de números reais, avalie as
+afirmações a seguir.
+|. Toda sequência de números reais limitada é
+convergente.
+Il. Toda sequência de números
+convergente é monótona e limitada.
+reais
+O conjunto de todas as sequências de
+números racionais que possuem apenas um
+número finito de termos diferentes de zero
+é enumerável.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="169,1094 340,1094 340,1164 855,1164 855,1733 676,1733 676,1789 555,1789 555,1847 398,1847 398,2112 169,2112 169,1931 170,1931 170,1733 169,1733"/>
+	<TextEquiv conf="0.96681">
+	<Unicode>QUESTÃO 30
+Um operador linear definido em um espaço vetorial
+de dimensão finita pode ser representado por uma
+matriz quadrada.
+Dado V, um espaço vetorial, e 8 = (e, 6, &amp;hb
+uma base para esse espaço, seja o operador linear
+T: V— Vdefinido por T(e)=2e, T(e,)=e +e,
+e T(e,)=e + e + e, Considerando esse operador
+linear e a matriz À a ele associada na base dada,
+avalie as afirmações a seguir.
+|. Tem-se que (2/ - A)(I-A)º = O, em que Té
+a matriz identidade.
+Il. Tem-se que (2/ - A)(I-A) = 0, em que Té a
+matriz identidade.
+Ill. O operador Té diagonalizável.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell apenas.
+O llelll apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

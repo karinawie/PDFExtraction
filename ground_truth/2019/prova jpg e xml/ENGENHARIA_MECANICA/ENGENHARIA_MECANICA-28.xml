@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:35:13</Created>
+	<LastChange>2020-09-15T04:36:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-28.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r26">
+	<Coords points="784,181 787,2047 791,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="100,578 100,1026 765,1026 765,578"/></ImageRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="84,179 255,179 255,253 770,253 770,554 769,554 769,1763 770,1763 770,2048 86,2048 86,2049 85,2049 85,1258 83,1258 83,253 84,253"/>
+	<TextEquiv conf="0.96641">
+	<Unicode>QUESTÃO 28
+O desenho de um componente mecânico que deve
+ser fabricado em um torno CNC é apresentado a
+seguir. A peça é fornecida forjada e maciça com
+sobremetal de 0,5 mm. Sabe-se que, em uma etapa
+anterior, a peça já foi faceada até o comprimento
+final e torneada no diâmetro externo de 65 mm
+para gerar a superfície de fixação na castanha.
+A partir das informações apresentadas no texto
+e no desenho, as operações necessárias para
+a fabricação da peça, na ordem sequencial
+correta, são
+A mandrilamento do perfil interno, furação,
+acabamento do perfil externo, sangramento
+radial externo e rosqueamento externo.
+B mandrilamento do perfil interno, acabamento
+do perfil externo, furação, sangramento radial
+externo e rosqueamento externo.
+C furação, mandrilamento do perfil interno,
+acabamento do perfil externo, sangramento
+radial externo e rosqueamento externo.
+D furação, mandrilamento do perfil interno,
+acabamento do perfil externo, rosqueamento
+externo e sangramento radial externo.
+E acabamento do perfil externo, rosqueamento
+externo, sangramento radial externo, furação e
+mandrilamento do perfil interno.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="805,179 976,179 976,246 1493,246 1493,589 1491,589 1491,725 1489,725 1489,827 1485,827 1485,969 807,969 807,970 806,970 806,726 805,726 805,247 804,247 804,246 805,246"/>
+	<TextEquiv conf="0.96820">
+	<Unicode>QUESTÃO 29
+Nos últimos anos, o controle das estações de
+tratamento de água e esgoto passou a ser
+obrigatório, pois contribui tanto para o aumento
+da sua produtividade (maior eficiência) quanto
+para a redução do volume dos rejeitos produzidos,
+específicos para cada tipo de processo. Para tal
+controle, é necessária a utilização de diversos
+tipos de sensores, especificamente adequados à
+grandeza a ser monitorada.
+Os tipos de sensores que permitem a realização
+de medições das grandezas pressão, temperatura,
+vazão e nível são, respectivamente,
+A diafragma, bimetal, placa de orifício e flutuador.
+B magnético, termopar, radar e flutuador.
+C bourdon, capacitivo, ultrassom e turbina.
+D diafragma, termopar, radar e placa de orifício.
+E bourdon, capacitivo, placa de orifício e turbina.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="805,999 977,999 977,1067 1490,1067 1490,1068 1491,1068 1491,2042 807,2042 807,2043 806,2043 806,1451 805,1451"/>
+	<TextEquiv conf="0.96510">
+	<Unicode>QUESTÃO 30
+O monitoramento, o acompanhamento e a
+inspeção de equipamentos e sistemas em pleno
+funcionamento de forma contínua compõem a
+chamada manutenção preditivay que permite
+determinar o tempo adequado para a realização
+de intervenção de reparo ou substituição. Esse
+procedimento leva à redução das ações da
+denominada manutenção corretiva, diminuindo a
+necessidade de paradas nas atividades e garantindo
+a confiabilidade dos equipamentos.
+Considerando-se esse tema, as duas técnicas de
+inspeção usualmente aplicadas na manutenção
+preditiva de vasos de pressão são
+A técnica de ultrassom e técnica de aplicação de
+partícula magnética.
+B técnica de ultrassom e técnica de termografia
+infravermelha.
+C técnica de medição de espessura e técnica de
+aplicação de líquido penetrante.
+D técnica de medição de espessura e técnica de
+aplicação de partícula magnética.
+E técnica de termografia infravermelha e técnica
+de aplicação de líquido penetrante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

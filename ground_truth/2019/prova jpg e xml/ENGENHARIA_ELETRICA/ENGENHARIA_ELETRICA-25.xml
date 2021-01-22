@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:41:15</Created>
+	<LastChange>2020-09-12T22:42:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-25.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r1">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="86,684 86,1076 771,1076 771,684"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,245 769,245 769,1591 575,1591 575,1650 249,1650 249,1893 84,1893 84,667 83,667 83,525 84,525"/>
+	<TextEquiv conf="0.91648">
+	<Unicode>QUESTÃO 20
+Os indutores são encontrados em diversos tipos
+de sistemas, como veículos de tração elétrica,
+reguladores de tensão, fontes de computadores,
+etc. Para a correta análise em cada aplicação,
+é importante compreender a relação entre a
+corrente, o fluxo magnético e a tensão induzida
+nestes elementos.
+O comportamento da tensão média induzida nos
+terminais de um indutor de 10 mH, cuja corrente
+apresenta intervalos de variação linear, está
+representado no gráfico a seguir.
+Considerando as informações do gráfico bem como
+os efeitos das Leis de Faraday e de Lenz aplicadas
+às bobinas indutoras, avalie as afirmações a seguir.
+I. No intervalo entre 2 ms e 4 ms, a tensão
+média induzida na bobina é 500 mV.
+II. No intervalo entre 4 ms e 6 ms, a tensão
+média induzida na bobina é 0 mV.
+III. No intervalo entre 6 ms e 8 ms, a tensão
+média induzida na bobina é 250 mV.
+IV. No intervalo entre 10 ms e 14 ms, a tensão
+média induzida na bobina é -250 mV.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="805,179 976,179 976,231 1491,231 1491,379 1490,379 1490,503 1492,503 1492,1066 1192,1066 1192,1123 986,1123 986,1250 1043,1250 1043,1377 806,1377 806,1154 807,1154 807,1089 854,1089 854,476 805,476 805,407 806,407 806,210 805,210"/>
+	<TextEquiv conf="0.96761">
+	<Unicode>QUESTÃO 21
+Para a análise técnica de um Sistema Elétrico de
+Potência (SEP), é necessário o desenvolvimento de
+diversos estudos, abordando-se sua operação tanto
+em regime permanente quanto transitório.
+Com relação aos estudos realizados para análise
+técnica de um SEP, avalie as afirmações a seguir.
+I. Os estudos de fluxo de potência ou fluxo
+de carga têm por objetivo a obtenção das
+condições de operação da rede elétrica
+em função da sua topologia, dos níveis de
+demanda dos consumidores e da geração de
+potência.
+II. Os estudos de curto-circuito no SEP têm
+por finalidade determinar as tensões nas
+barras e as correntes em diversos pontos do
+sistema para diferentes tipos de faltas.
+III. Os estudos de estabilidade transitória
+avaliam o impacto de distúrbios no
+comportamento eletromecânico dinâmico
+dos geradores elétricos síncronos do SEP.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

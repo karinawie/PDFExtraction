@@ -1,0 +1,803 @@
+COMPONENTE ESPECÍFICO
+QUESTÃO DISCURSIVA 03
+Listas lineares armazenam uma coleção de elementos. A seguir, é apresentada a declaração de uma lista
+simplesmente encadeada.
+struct ListaEncadeada {
+int dado;
+struct ListaEncadeada *proximo;
+};
+Para imprimir os seus elementos da cauda para a cabeça (do final para o início) de forma eficiente,
+um algoritmo pode ser escrito da seguinte forma:
+void mostrar (struct ListaEncadeada *lista) {
+if (lista != NULL) {
+mostrar (lista->proximo);
+printf ("%d ", lista->dado);
+}
+}
+Com base no algoritmo apresentado, faça o que se pede nos itens a seguir.
+a) Apresente a classe de complexidade do algoritmo, usando a notação O. (valor: 3,0 pontos)
+b) Considerando que já existe implementada uma estrutura de dados do tipo pilha de inteiros — com
+as operações de empilhar, desempilhar e verificar pilha vazia — reescreva o algoritmo de forma não
+recursiva, mantendo a mesma complexidade. Seu algoritmo pode ser escrito em português estruturado
+ou em alguma linguagem de programação, como C, Java ou Pascal. (valor: 7,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Uma empresa pretende desenvolver um sistema de folha de pagamento cujo processo de modelagem
+utilizará UML (Unified Modeling Language). Essa empresa tem três tipos de colaborador: o comissionado,
+o horista e o assalariado. Todos os colaboradores registram, para efeito de controle, o número de horas
+trabalhadas no mês. Adicionalmente, os comissionados registram o valor do percentual de comissão
+e o valor total de vendas acumulado no mês; os horistas registram o valor recebido por hora; e os
+assalariados registram o valor do salário.
+Cada colaborador pertence a um departamento e cada departamento possui pelo menos um colaborador.
+No final de cada mês, cada departamento deve calcular o salário dos seus colaboradores da seguinte
+forma: os comissionados devem receber o valor total das vendas multiplicado pela percentagem,
+independentemente do número de horas trabalhadas; os horistas devem receber o valor da hora
+trabalhada multiplicado pelo número de horas trabalhadas; e os assalariados devem receber o valor
+nominal do salário.
+Considerando essa situação e que o modelo que será elaborado para representá-la utilizará herança e
+polimorfismo, desenhe um diagrama de classe UML que contenha:
+* asclasses que representam as entidades mencionadas (departamento, colaborador e seus tipos);
+* asrespectivas associações, atributos e métodos, não sendo necessário tipar os atributos;
+º* eventuais classes abstratas com a indicação da restrição (abstract);
+º* amultiplicidade de papel das associações;
+º aoladode cada ocorrência do método para cálculo do pagamento, sua definição na forma de uma
+expressão que combine os valores dos atributos da classe.
+(valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+A busca primeiro em profundidade é um algoritmo de exploração sistemática em grafos, em que as arestas
+são exploradas a partir do vértice v mais recentemente descoberto que ainda tem arestas inexploradas
+saindo dele. Quando todas as arestas de v são exploradas, a busca regressa para explorar as arestas
+que deixam o vértice a partir do qual v foi descoberto. Esse processo continua até que todos os vértices
+acessíveis a partir do vértice inicial sejam explorados.
+CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Introduction to algorithms. 3. ed.
+Cambridge, Massachusetts: The MIT Press, 2009 (adaptado).
+Considere o grafo a seguir.
+Com base nas informações apresentadas, faça o que se pede nos itens a seguir.
+a) Mostreasequência de vértices descobertos no grafo durante a execução de uma busca em profundidade
+com controle de estados repetidos. Para isso, utilize o vértice r como inicial. No caso de um vértice
+explorado ter mais de um vértice adjacente, utilize a ordem alfabética crescente como critério para
+priorizar a exploração. (valor: 7,0 pontos)
+b) Faça uma representação da matriz de adjacências desse grafo, podendo os zeros ser omitidos nessa
+matriz. (valor: 3,0 pontos)
+
+QUESTÃO 09
+Uma árvore AVL é um tipo de árvore binária balanceada na qual a diferença entre as alturas de suas
+subárvores da esquerda e da direita não pode ser maior do que 1 para qualquer nó. Após a inserção de
+um nó em uma AVL, a raiz da subárvore de nível mais baixo no qual o novo nó foi inserido é marcada.
+Se a altura de seus filhos diferir em mais de uma unidade, é realizada uma rotação simples ou uma
+rotação dupla para igualar suas alturas.
+LAFORE, R. Data structures & algorithms in Java. Indianópolis: Sams Publishing, 2003 (adaptado).
+A seguir, é apresentado um exemplo de árvore AVL.
+Pelo exposto no texto acima, após a inserção de um nó com valor 3 na árvore AVL exemplificada, é correto
+afirmar que ela ficará com a seguinte configuração:
+
+QUESTÃO 10
+Considere os seguintes requisitos para
+desenvolvimento de uma solução para uma rede
+de restaurantes fast-food:
+Quando o status de um pedido é atualizado, todos
+os dispositivos dos envolvidos devem receber
+a informação. Os sistemas a ser atualizados
+incluem os acessados pelo entregador, pela linha
+de produção e pela central de atendimento.
+Espera-se ainda que outros sistemas possam ser
+incluídos futuramente (por exemplo, sistema de
+pedido on-line do cliente), devendo se comportar
+da mesma forma.
+Considerando esse contexto, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O requisito apresentado pode ser
+implementado com a utilização do padrão
+de projeto Observer.
+PORQUE
+Il. O padrão de projeto Observer realiza o
+estilo —arquitetural cliente-servidor, no
+qual o servidor é responsável por enviar
+notificações aos clientes sempre que houver
+atualização em alguma informação de
+interesse.
+Arespeito dessas asserções, assinale a opção correta.
+A As asserções | e II são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C Aasserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a || é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.
+
+QUESTÃO 11
+O encapsulamento é um mecanismo da
+programação orientada a objetos no qual os
+membros de uma classe (atributos e métodos)
+constituem uma caixa preta. O nível de
+visibilidade dos membros pode ser definido pelos
+modificadores de visibilidade "privado", "público"
+e "protegido".
+Com relação ao comportamento gerado pelos
+modificadores de visibilidade, assinale a opção
+correta.
+A Um atributo privado pode ser acessado
+pelos métodos privados da própria classe e
+pelos métodos protegidos das suas classes
+descendentes.
+B Um atributo privado pode ser acessado
+pelos métodos públicos da própria classe
+e pelos métodos públicos das suas classes
+descendentes.
+C Um membro público é visível na classe à qual
+ele pertence, mas não é visível nas suas classes
+descendentes.
+D Um método protegido não pode acessar os
+atributos privados e declarados na própria
+classe.
+E Um membro protegido é visível na classe à qual
+pertence e em suas classes descendentes.
+
+a unidade mínima de acesso.
+
+QUESTÃO 12
+Em um computador, a memória é a unidade funcional que armazena e recupera operações e dados.
+Tipicamente, a memória de um computador usa uma técnica chamada acesso aleatório, que permite
+O acesso a qualquer uma de suas posições (células). As memórias de acesso aleatório são divididas em
+células de tamanho fixo, estando cada célula associada a um identificador numérico único chamado
+endereço. Todos os acessos à memória referem-se a um endereço específico e deve-se sempre buscar ou
+armazenar o conteúdo completo de uma célula, ou seja, a célula é
+SCHNEIDER, G. M.; GERSTING, J. L. An Invitation to computer science. 6. ed. Boston:
+MA: Course Technology, Cengage Learning, 2009 (adaptado).
+A figura que se segue apresenta a estrutura de uma unidade de memória de acesso aleatório.
+Considerando o funcionamento de uma memória de acesso aleatório, avalie as afirmações a seguir.
+|. Se a largura do registrador de endereços da memória for de 8 bits, o tamanho máximo dessa
+unidade de memória será de 256 células.
+ll. Se o registrador de dados da memória tiver 8 bits, será necessária mais que uma operação para
+armazenar o valor inteiro 2 024 nessa unidade de memória.
+Ill. Se o registrador de dados da memória tiver 12 bits, é possível que a largura da memória seja
+de 8 bits.
+É correto o que se afirma em
+A |, apenas.
+B ll, apenas.
+C l e ll, apenas.
+D ll e lll apenas.
+E I, II e III.
+
+e R4=((a,0): a,beNea+bé um número par).
+
+QUESTÃO 13
+Os sistemas de refrigeração de piscinas de combustível em usinas nucleares evitam que a temperatura
+desses tanques exceda o limite de segurança. O circuito representado na figura a seguir atende aos
+requisitos necessários para o controle da ativação do sistema de resfriamento quando a temperatura está
+próxima de seu ponto crítico.
+O diagrama de tempo ilustrado na figura apresenta uma amostra das temperaturas lidas desde o momento
+t, ao t,. Os sinais de entrada Ta, Tb e Tc são de termômetros que medem a temperatura da piscina em
+diferentes pontos ao longo do dia e S é o terminal de acionamento do sistema.
+Nesse contexto, assinale a opção em que são apresentados os momentos em que o sistema foi
+acionado.
+A t,tet,
+B t, t,et,
+C t,tet,
+D t, t,et,
+E t, tjet,
+
+
+QUESTÃO 14
+Uma relação de equivalência é uma relação binária R em um conjunto A, tal que R é reflexiva, simétrica
+e transitiva.
+Considere as relações binárias apresentadas a seguir.
+e Rl=((0,0): ,beNea=);
+e R2=íf(a,0): ,beNea<b);
+e R3=((a,0): ,beNea=b-1);
+):
+São relações de equivalência apenas o que se apresenta em
+A R2eR3.
+B RleR3.
+C RleR4.
+D R1, R2e R4.
+E R2, R3e RA.
+
+QUESTÃO 15
+Uma das técnicas de ataques em ambientes virtuais é
+denominada "homem no meio" (man in the middle),
+cujo objetivo é associar o endereço MAC do intruso
+ao endereço |P de um outro nó da rede — nesse caso,
+o ponto de acesso (Access Point - AP) wi-fi da rede.
+Como o AP é o gateway padrão dessa subrede sem
+fio, todo o tráfego originalmente direcionado ao
+ponto de acesso pode ser interceptado pelo intruso.
+Esse ataque explora deficiências conhecidas no
+projeto de segurança do IEEE 802.11 wi-fi.
+COULOURIS, G. et al. Sistemas distribuídos: conceitos e projeto.
+Porto Alegre: Bookman, 2013 (adaptado)
+Considerando um ataque virtual pela técnica
+“homem no meio”, por meio de Address Resolution
+Protocol (ARP) spoofing, avalie as afirmações a seguir.
+l. O problema do compartilhamento de chave
+presente no projeto de segurança do AP pode
+ser resolvido com a utilização de um protocolo
+baseado em chave pública para negociar
+chaves individuais, como é feito no Transport
+Layer Security (TLS) / Secure Sockets Layer (SSL).
+Il. O problema do desvio de tráfego causado
+pelo ataque de homem no meio pode ser
+evitado com a configuração de um firewall
+nos pontos de acesso que filtram tráfego
+entre clientes de uma mesma subrede.
+IIl. O problema da falta de autenticação
+dos pontos de acesso sem fio pode ser
+contornado, obrigando-se o ponto de acesso
+a fornecer um certificado que possa ser
+autenticado pelo uso de uma chave pública
+obtida de terceiros.
+IV. A vulnerabilidade das chaves de 40 bits ou 64
+bits a ataques de força bruta pode ser evitada
+utilizando-se um AP que permita chaves de
+128 bits e limitando-se o tráfego a dispositivos
+compatíveis com chaves de 128 bits.
+É correto apenas o que se afirma em
+A I E II
+B I E III
+C II E IV
+D I, III E IV
+E II, III E IV
+
+QUESTÃO 16
+A segurança da informação está diretamente
+relacionada com a proteção de um conjunto
+de informações, no sentido de preservar o
+valor que possuem para um indivíduo ou uma
+organização, tendo como propriedades básicas a
+confidencialidade, a integridade, a disponibilidade e
+a autenticidade.
+LYRA, M. R. Segurança e auditoria em sistemas de informação.
+Rio de Janeiro: Ciência Moderna, 2008 (adaptado).
+A engenharia social é definida como o conjunto
+de técnicas utilizadas para reunir informações,
+explorando a tendência humana a ignorar os
+sistemas de segurança. Os ataques de engenharia
+social implicam interação com outros indivíduos,
+o que evidencia Oo aspecto psicológico da
+engenharia social.
+MITNICK, K. D.; SIMON, W. L. The art of deception: controlling the
+human element of security. New York: Wiley, 2001 (adaptado).
+A ética normativa é o "certo" e o "errado" do
+comportamento social interpretado. A principal
+diferença entre essas duas perspectivas é a
+forma como um dilema moral é abordado, e não
+necessariamente as consequências disso.
+Disponível em: <http://www.ethicsmorals.com>.
+Acesso em: 18 Jul. 2017 (adaptado).
+Em relação à segurança da informação, avalie as
+afirmações a seguir.
+l. As empresas sempre estarão vulneráveis,
+pois o fator humano é o elo mais fraco da
+segurança da informação.
+Il. A segurança da informação não é um
+produto e, sim, um processo.
+Ill. A ética profissional é um importante fator a
+ser considerado na segurança da informação.
+É correto o que se afirma em
+A |, apenas.
+B Il, apenas.
+C l e lll, apenas.
+D Il elll, apenas.
+E I, II E III.
+
+QUESTÃO 17
+Grupos de cientistas e grandes corporações de
+todo o mundo têm buscado desenvolver sistemas
+computacionais inteligentes capazes de ajudar as
+pessoas a aprender. As possibilidades, os efeitos
+e as implicações éticas da aplicação da chamada
+Inteligência Artificial (IA) na educação são temas
+que vêm ganhando espaço nos debates na área de
+tecnologia educacional em todo o mundo.
+Disponível em: <http://www.revistaeducacao.com.br>.
+Acesso em: 26 set. 2017 (adaptado).
+A respeito da adoção de técnicas de IA no processo
+educacional, avalie as asserções a seguir e a relação
+proposta entre elas.
+|. Algoritmos de IA adaptativos podem auxiliar
+a experiência de aprendizado da pessoa de
+acordo com o seu perfil.
+PORQUE
+ll. Os sistemas com algoritmos de IA adaptativos
+analisam respostas anteriores, buscando
+determinados padrões que possam indicar
+pontos de dificuldade ou facilidade da
+pessoa em relação a determinado assunto.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções | e |l são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e II são proposições falsas.
+
+QUESTÃO 18
+O algoritmo a seguir recebe um vetor v de números
+inteiros e rearranja esse vetor de tal forma que
+seus elementos, ao final, estejam ordenados de
+forma crescente.
+01 void ordena(int *v, int n)
+02 14
+03 int i, 3,
+04 for(i = 1;
+o5 (
+06 chave =
+o7 j=i-1l;
+o8 while(j >= O && v[3]
+09 (
+10 v[j3-1] =
+11 jsrji-l
+12 )
+13 v[j3+1] =
+14 )
+15 )
+chave;
+i < n; i++)
+< chave)
+chave;
+Considerando que nesse algoritmo há erros de
+lógica que devem ser corrigidos para que os
+elementos sejam ordenados de forma crescente,
+assinale a opção correta no que se refere às
+correções adequadas.
+A Alinha 04 deve ser corrigida da seguinte forma:
+for(i = 1; i <n - 1; i++) ealinha
+13, do seguinte modo: v[ 3 — 1] = chave;.
+B Alinha 04 deve ser corrigida da seguinte forma:
+for(i = 1; i <n - 1; i++) ealinhaO7,
+do seguinte modo: à = i + 1;.
+C Alinha 07 deve ser corrigida da seguinte forma:
+j = i + 1ealinha08,do seguinte modo:
+while(j >= O && v[3] > chave).
+D A linha 08 deve ser corrigida da seguinte forma:
+while(j >= O && v[3] > chave) e
+a linha 10, do seguinte modo: v[j + 1] =
+vlj31;.
+E Alinha 10 deve ser corrigida da seguinte forma:
+v[j + 1] = v[3]; ealinha 13, do seguinte
+modo: v[3 - 1] = chave;.
+
+QUESTÃO 19
+Considere o diagrama Entidade-Relacionamento apresentado a seguir.
+Qual código SQL exibe o nome de todos os deputados que compareceram a pelo menos uma seção e as
+datas de cada seção em que os deputados participaram?
+A SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado,
+Participacao, Secao WHERE Deputado.idDeputado=Participacao.idDeputado;
+B SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado,
+Participacao, Secao WHERE Deputado.idDeputado = Participacao.
+idDeputado OR Secao.idSecao = Participacao.idSecao;
+C SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado LEFT OUTER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+LEFT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+D SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado RIGHT OUTER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+RIGHT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+E SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado INNER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+INNER JOIN Secao ON Participacao.idSecao=Secao.idSecao;
+
+QUESTÃO 20
+Em redes de computadores, a camada de transporte é responsável pela transferência de dados entre
+máquinas de origem e destino. Dois protocolos tradicionais para essa camada são o Transmission Control
+Protocol (TCP) e o User Datagram Protocol (UDP). Diferentemente do UDP, o TCP é orientado à conexão.
+Com relação a esses protocolos, avalie as afirmações a seguir.
+|. OUDP é mais eficiente que o TCP quando o tempo de envio de pacotes é fundamental.
+Ill. O TCP é mais eficiente que o UDP quando a confiabilidade de entrega de dados é fundamental.
+Il. OTCP é o mais utilizado em jogos on-line de ação para a apresentação gráfica.
+É correto o que se afirma em
+A |l, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D Il e Ill, apenas.
+E I, II E III
+
+QUESTÃO 21
+Na lógica proposicional, definem-se regras para determinar o valor-verdade (verdadeiro ou falso) de
+sentenças em relação a um modelo particular. Essas regras permitem representar raciocínios lógicos
+comuns das linguagens naturais.
+Nesse contexto, considere a sentença e as proposições lógicas a seguir.
+“Um veículo que é elétrico (E) pode ser um robô (R) se for autônomo (A), caso contrário não é um robô (R)”.
+PLI=(EAR)JOA;
+P2=zeE-S(R OA);
+P3B= E >((A>R)v-R).
+A sentença pode ser representada pela(s) expressão(ões) lógica(s)
+A P2, apenas.
+B P3, apenas.
+C PleP2, apenas.
+D Pl eP3, apenas.
+E P1,P2eP3.
+
+QUESTÃO 22
+Um país utiliza moedas de 1, 5, 10, 25 e 50
+centavos. Um programador desenvolveu o método
+a seguir, que implementa a estratégia gulosa para
+o problema do troco mínimo. Esse método recebe
+como parâmetro um valor inteiro, em centavos,
+e retorna um array no qual cada posição indica a
+quantidade de moedas de cada valor.
+public static int[] troco(int valor) (
+int[]
+moedas = new int[5];
+moedas[4] = valor / 50;
+50;
+valor / 25;
+valor % 25;
+valor / 10;
+valor = valor %
+moedas [3] =
+valor =
+moedas [2] =
+valor = valor % 10;
+moedas[1] = valor / 5;
+valor = valor % 5;
+moedas [0] = valor;
+return (moedas);
+)
+Considerando o método apresentado, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. O método guloso encontra o menor
+número de moedas para o valor de entrada,
+considerando as moedas do país.
+PORQUE
+Il. Métodos gulosos sempre encontram a
+solução global ótima.
+Arespeito dessas asserções, assinale a opção correta.
+A As asserções | e || são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.
+
+QUESTÃO 23
+Considere o seguinte alfabeto:
+Z =1(,),0,1,2,3,4,5,6,7,8,9,+,-).
+Considere, ainda, uma linguagem L definida sobre
+esse alfabeto.
+L=(w| we Z*, para cada ocorrência de (“ em w,
+existe uma ocorrência de “)')
+Por exemplo, a cadeia x = (2 + (3 - 4)) pertence a
+L, mas a cadeia y = (2 + (3 - 4) não pertence a L.
+Com relação à linguagem L, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. A linguagem L não pode ser considerada
+regular.
+PORQUE
+Il. Autômatos finitos não possuem mecanismos
+que permitam contar infinitamente o
+número de ocorrências de determinado
+símbolo em uma cadeia.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e |l são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções | e || são proposições falsas.
+
+QUESTÃO 24
+A figura a seguir exibe um grafo que representa um
+mapa rodoviário, no qual os vértices representam
+cidades e as arestas representam vias. Os pesos
+indicam o tempo atual de deslocamento entre
+duas cidades.
+Considerando que os tempos de ida e volta são
+iguais para qualquer via, avalie as afirmações a
+seguir acerca desse grafo.
+|. Dado o vértice de origem 1, o algoritmo
+de Dijkstra encontra o menor tempo de
+deslocamento entre a cidade i e todas as
+demais cidades do grafo.
+ll. Uma árvore geradora de custo mínimo
+gerada pelo algoritmo de Kruskal contém
+um caminho de custo mínimo cuja origem
+é i e cujo destino é k.
+Ill. Se um caminho de custo mínimo entre os
+vértices i e k contém o vértice w, então o
+subcaminho de origem w e destino k deve
+também ser mínimo.
+É correto o que se afirma em
+A |, apenas.
+B |l, apenas.
+C l e lll, apenas.
+D II E III, apenas.
+E I, II E III.
+
+QUESTÃO 25
+A sequência de Fibonacci é uma sequência de
+números inteiros que começa em 1, a que se
+segue 1, e na qual cada elemento subsequente é
+a soma dos dois elementos anteriores. A função
+fib a seguir calcula o n-ésimo elemento da
+sequência de Fibonacci:
+unsigned int fib
+(
+(unsigned int n)
+if (n < 2)
+return 1;
+return fib(n -— 2) + fib (n — 1);
+J
+Considerando a implementação acima, avalie as
+afirmações a seguir.
+|. A complexidade de tempo da função fib é
+exponencial no valor de n.
+Il. A complexidade de espaço da função fib é
+exponencial no valor de n.
+III.É possível implementar uma versão iterativa
+da função fib com complexidade de tempo
+linear no valor de n e complexidade de
+espaço constante.
+É correto o que se afirma em
+A |, apenas.
+B II, apenas.
+C I E III, apenas.
+D II E III, apenas.
+E I, II E III.
+
+QUESTÃO 26
+A figura a seguir mostra uma imagem de ressonância
+magnética corrompida por ruído do tipo “sal e
+pimenta”.
+Para que o ruído seja atenuado e as bordas das
+estruturas representadas sejam preservadas,
+deve-se aplicar na imagem o filtro
+A Sobel.
+B da média.
+C Laplaciano.
+D do mínimo.
+E da mediana.
+
+QUESTÃO 27
+Em computação gráfica, existem vários modelos
+de iluminação diferentes que expressam e
+controlam os fatores que determinam a cor de
+uma superfície em função de um determinado
+conjunto de luzes. Uma vez definido um modelo
+de iluminação, pode-se aplicar luz sobre as
+várias faces dos objetos de uma cena, processo
+denominado sombreamento.
+As figuras a seguir ilustram a aplicação de dois
+modelos de iluminação, a saber: o modelo de
+sombreamento constante (à esquerda) e o modelo
+de Phong (à direita).
+AZEVEDO, E.; CONCI, A. Computação gráfica: geração de imagens.
+Rio de Janeiro: Campus, 2003 (adaptado).
+Disponível em: <https://www.cs.cmu.edu>. Acesso em: 17 jul 2017.
+Em relação aos modelos de iluminação
+apresentados, avalie as afirmações a seguir.
+|. A aplicação do modelo de sombreamento
+constante causa na imagem um efeito visual
+denominado Bandas de Mach.
+Il. Embora seja útil para gerar imagens realísticas,
+o modelo de Phong mostra-se pouco eficiente
+na apresentação das reflexões especulares.
+Ill. O modelo de sombreamento constante não
+é útil para gerar imagens realísticas porque
+ele dá destaque ao aspecto facetado da
+representação poliedral das superfícies.
+IV. Para a utilização do modelo de Phong, é
+necessário supor que a fonte de luz localiza-se
+no infinito.
+É correto apenas o que se afirma em
+A I E II
+B I E III
+C II E IV
+D I, III E IV
+E II, III E IV
+
+QUESTÃO 28
+Os métodos ágeis são fundamentados no
+desenvolvimento e entrega incremental tendo
+em vista atender aos requisitos dos clientes. Eles
+agregam um conjunto de princípios provenientes
+do manifesto ágil, tais como:
+* envolvimento do cliente;
+º* entregaincremental;
+* pessoas, não processos;
+* aceitação das mudanças;
+º manutenção da simplicidade.
+O Scrum é um exemplo de método ágil de
+gerenciamento de projetos. Avalie as afirmações a
+seguir sobre a relação do Scrum com os princípios
+do manifesto ágil.
+l. O Scrum adota a entrega incremental por
+meio de Sprints.
+Il. O Scrum adota a simplicidade por meio do
+uso da programação em pares.
+Ill. O Scrum adota o envolvimento do cliente com
+a priorização e a negociação dos requisitos
+na concepção de Sprints.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O L,1em.
+
+QUESTÃO 29
+O projetista do gerenciador de memória de um
+novo sistema operacional precisa escolher entre os
+algoritmos de substituição de páginas FIFO (First In
+First Out - o primeiro a entrar é o primeiro a sair)
+e LRU (Least Recently Used - menos recentemente
+usado). Para isso, avaliou o número de faltas de
+página obtidas em ambos os algoritmos para o
+tamanho de memória de 4 páginas, utilizando a
+sequência de acessos às páginas 1-2-3-4-1-2-5-1-2-
+3-4-5 de um processo e memória inicialmente vazia.
+Com base nessa simulação, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Na simulação proposta, é possível observar
+que os algoritmos FIFO e LRU apresentam o
+mesmo desempenho.
+PORQUE
+Il. Os parâmetros utilizados na simulação são
+insuficientes para determinar a diferença de
+funcionamento entre os algoritmos.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e |l são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+E As asserções | e || são proposições falsas.
+
+QUESTÃO 30
+Em um compilador, um analisador sintático descendente preditivo pode ser implementado com o auxílio
+de uma tabela construída a partir de uma gramática livre de contexto. Essa tabela, chamada tabela
+LL(kK), indica a regra de produção a ser aplicada olhando-se o k-ésimo próximo símbolo lido, chamado
+lookahead(k). Por motivo de eficiência, normalmente busca-se utilizar k = 1. Considere a gramática livre
+de contexto G = (X, Y, Z,a,b,c,d,e, P, X), em que P é composto pelas seguintes regras de produção:
+X > aZzbXY |c
+Y>dX|e
+Ze
+Considere, ainda, a seguinte tabela LL(1), construída a partir da gramática G, sendo $ o símbolo que
+representa o fim da cadeia. Essa tabela possui duas produções distintas na célula (Y, d), gerando, no
+analisador sintático, uma dúvida na escolha da regra de produção aplicada em determinados momentos
+da análise.
+Considerando que o processo de construção dessa tabela LL(1), a partir da gramática G, foi seguido
+corretamente, a existência de duas regras de produção distintas na célula (Y, d), neste caso específico, resulta
+A da ausência do símbolo de fim de cadeia ($) nas regras de produção.
+B de um não-determinismo causado por uma ambiguidade na gramática.
+D do uso incorreto do símbolo de cadeia vazia (se) nas regras de produção.
+D da presença de duas regras de produção com um único terminal no corpo.
+E da presença de duas regras de produção com o mesmo não terminal na cabeça.
+
+QUESTÃO 31
+Considere o programa a seguir, que ilustra a criação, execução e sincronização de duas threads.
+tinclude <stdio.h>
+tinclude <pthread.h>
+int x = O, y = 0; // Variáveis compartilhadas
+void funcaol (void *threadarg)(
+x = 1;
+// várias instruções
+if (y == O)
+printf("1 ");
+pthread exit (0);
+void funcao2 (void *threadarg) (
+y = 1;
+// várias instruções
+if (x == O)
+printf("2 ");
+pthread exit (0);
+void main()(
+pthread t tl, t2;
+// Cria e dispara tl que executa funcaol
+pthread create(&tl, NULL, (void *) funcaol, NULL);
+// Cria e dispara t2 que executa funcao2
+pthread create(&t2, NULL, (void *) funcao2, NULL);
+// Pai espera filho terminar
+pthread join(tl, NULL);
+// Pai espera filho terminar
+pthread join(t2, NULL);
+)
+Ao final da execução da função main, será impresso
+A ambos os valores “1” e “2”.
+B ovalor "1", necessariamente.
+C o valor "2", necessariamente.
+D ovalor "1", ou o valor "2", mas nunca ambos.
+E ovalor "1", ou o valor "2", ou nenhum valor, mas nunca ambos.
+
+QUESTÃO 32. A ———————————dã r—=————Â —
+O uso de agentes inteligentes permite a resolução de problemas complexos por meio do uso de heurísticas
+implementadas de forma distribuída. Na literatura, o Mundo do Aspirador de Pó (Vacuum-Cleaner World)
+é um problema fictício que envolve o emprego e uso de agentes no ensino dos conceitos relacionados a
+Inteligência Artificial. Esse mundo fictício é composto por um aspirador de pó e dois ou mais ambientes,
+conforme ilustra a figura a seguir. Os ambientes podem estar sujos ou limpos.
+Nesse mundo, um agente representa o aspirador de pó equipado com dois sensores: um de localização e
+outro para a identificação de sujeira. O agente pode executar as seguintes operações:
+* verificar se o ambiente atual está sujo;
+* limparo ambiente;
+º* fazer nada;
+º* mover-se para o próximo ambiente, utilizando um dos comandos: direita, esquerda, frente
+ou trás.
+Russell, S. J.; Norvig, P. Artificial intelligence: a modern approach. 3. ed. New Jersey: Pearson, 2009 (adaptado).
+Com relação aos conceitos envolvendo sistemas multiagentes e o problema do Mundo do Aspirador de
+Pó apresentado, assinale a opção correta.
+A Definidas as localizações do agente e da sujeira como elementos únicos de um estado, no cenário da
+figura, há 2º = 4 estados possíveis para avaliação.
+B O comportamento de um agente é definido por uma ou mais funções que mapeiam uma dada
+sequência percebida para uma ação definida.
+C A sequência percebida de um agente refere-se ao histórico do resultado de todas as ações tomadas
+pelo agente até o presente momento.
+D A percepção de um agente refere-se aos resultados das ações tomadas por ele.
+E A opção “fazer nada” é uma percepção válida do agente.
+
+QUESTÃO 33
+Considere a função recursiva F a seguir, que em sua execução chama a função G:
+1 void F(int n) {
+2 if(ín > O) {
+3 for(int i = O; i < n; i++) {
+4 S(i);
+5 }
+6 F(n/2);
+7 }
+8 }
+Com base nos conceitos de teoria da complexidade, avalie as afirmações a seguir.
+|. Aequação de recorrência que define a complexidade da função F é a mesma do algoritmo clássico
+de ordenação mergesort.
+Il. O número de chamadas recursivas da função F é O (log n).
+Ill. O número de vezes que a função G da linha 4 é chamada é O(n log n).
+É correto o que se afirma em
+A |, apenas.
+B Il, apenas.
+C l e lll, apenas.
+D ll e lll, apenas.
+E I, II E III.
+
+QUESTÃO 34
+Quando se trabalha com banco de dados, é possível encontrar redundância de dados e mistura de diferentes
+assuntos em uma mesma tabela. Para evitar esses tipos de falhas, podem ser aplicadas formas normais,
+que são regras que compõem o processo chamado normalização. Entre essas regras, as mais utilizadas e
+que resolvem a maioria das falhas são a Primeira Forma Normal (1FN), a Segunda Forma Normal (PFN) e a
+Terceira Forma Normal (3FN). A figura a seguir mostra um exemplo de tabela que poderia ser armazenada
+em um banco de dados. Nela, a coluna Numero contém um valor único, sequencial, que não se repete.
+Com base no texto e no exemplo de tabela apresentado, avalie as afirmações a seguir.
+|. Atabela não está na 1FN e, portanto, pode-se dizer que ela não atende à 2FN nem à 3FN.
+Il. Seforem criadas duas novas tabelas: Partido (com as colunas Sigla e NomePartido) e Candidato(com
+as colunas NumCand e NomeCand), pode-se dizer que as três tabelas atendem à 2FN.
+Ill. Se atabela for transformada em duas: Voto (com as colunas Numero, Sigla, NomePartido, NumCand,
+NomeCand e Titulo) e Eleitor (com a coluna Titulo e as colunas restantes), pode-se dizer que as
+duas tabelas atendem à 3FN.
+IV. Os atributos Sigla, NomePartido, NumCand e NomeCand não dependem funcionalmente do
+atributo Numero, mas os atributos restantes, sim.
+É correto apenas o que se afirma em
+A I
+B IV
+C I E III
+D II E III
+E II E IV
+
+QUESTÃO 35
+Um programador inexperiente está desenvolvendo um sistema multithread que possui duas estruturas
+de dados diferentes, El e E2, as quais armazenam valores inteiros. O acesso concorrente a essas
+estruturas é controlado por semáforos. Durante sua execução, o sistema dispara as threads T1 e T2
+simultaneamente. A tabela a seguir possibilita uma visão em linhas gerais dos algoritmos dessas threads.
+Durante a execução do referido programa, é possível que
+A não ocorra deadiock, porque a sequência de alocação dos recursos impede naturalmente o problema.
+B ocorra deadlock, que pode ser evitado se o programador tomar o cuidado de não executar cálculos
+entre um pedido de alocação e outro.
+C ocorra deadlock, sendo a probabilidade dessa ocorrência tão baixa e sua consequência tão inócua que
+não haverá comprometimento do programa.
+D não ocorra deadiock, desde que o programador use semáforos para controlar o acesso às estruturas
+de dados, o que é suficiente para evitar o problema.
+E ocorra deadlock, que pode ser evitado se o programador tomar o cuidado de solicitar o acesso às
+estruturas de dados na mesma ordem em ambas as threads.
+

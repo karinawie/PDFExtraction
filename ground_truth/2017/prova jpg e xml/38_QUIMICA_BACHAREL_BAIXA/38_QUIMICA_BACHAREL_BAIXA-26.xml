@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T01:36:29</Created>
+	<LastChange>2020-11-30T01:46:34</LastChange></Metadata>
+	<Page imageFilename="38_QUIMICA_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="169,244 340,244 340,314 1577,314 1577,1655 1578,1655 1578,1768 1429,1768 1429,1995 1144,1995 1144,2044 1010,2044 1010,2045 800,2045 800,2046 763,2046 763,2097 566,2097 566,2098 169,2098 169,1831 168,1831 168,1803 169,1803 169,316 168,316 168,315 169,315"/>
+	<ImageRegion id="r1">
+	<Coords points="480,488 480,922 1575,922 1575,488"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="475,927 475,1391 1575,1391 1575,927"/></ImageRegion>
+	<TextEquiv conf="0.95855">
+	<Unicode>QUESTÃO 26
+A figura 1 mostra o espectro de emissão do hidrogênio atômico na região do visível. Nela, pode-se
+identificar uma série de linhas discretas de emissão de radiação eletromagnética. Quando espectros de
+alta resolução do hidrogênio atômico são examinados, observa-se que a linha vermelha aparece dividida
+em linhas bem pouco espaçadas, como mostrado na figura 2.
+Com relação a esse contexto, avalie as asserções a seguir e a relação proposta entre elas.
+|. Omodelo atômico de órbitas estacionárias com energias quantizadas proposto por N. Bohr é capaz
+de explicar o espaçamento entre as linhas do espectro representado na figura 1, mas não é capaz
+de explicar as linhas separadas, representadas na figura 2.
+PORQUE
+Il. Aseparação da linha vermelha, mostrada na figura 2, deve-se à interação entre o momento angular
+orbital e o momento angular de spin do elétron, cuja derivação surge da extensão relativística da
+mecânica quântica desenvolvida por P. Dirac.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e II são proposições verdadeiras, e a Il é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

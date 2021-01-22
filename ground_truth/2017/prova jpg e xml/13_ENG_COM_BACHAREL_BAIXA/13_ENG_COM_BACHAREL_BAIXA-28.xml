@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:58:18</Created>
+	<LastChange>2020-11-21T00:05:26</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,314 1576,314 1576,427 1575,427 1575,779 1576,779 1576,1467 668,1467 668,1525 326,1525 326,1790 170,1790 170,1559 179,1559 179,1491 218,1491 218,1391 264,1391 264,1245 169,1245 169,1061 219,1061 219,755 170,755 170,697 169,697 169,452 170,452"/>
+	<TextEquiv conf="0.94697">
+	<Unicode>QUESTÃO 27
+Um sistema monitora o deslocamento de um carro por meio do registro em um banco de dados, de
+segundo em segundo, das medidas de dois acelerômetros: um na direção longitudinal do movimento do
+carro, outro na direção transversal.
+O projeto desse sistema é decomposto em três subprojetos. O primeiro, denominado MÓDULO 1,
+formado por hardware e software, é embarcado no carro e dotado de sistema de comunicação com
+a internet por GPRS. O segundo, MÓDULO 2, é um projeto de software aplicativo executado em
+plataforma Android para tablet, smartphone ou celular, para exibição de relatórios para usuários.
+O terceiro subprojeto, MÓDULO 3, é formado por hardware e software e instalado em um servidor em
+nuvem com conexão dedicada permanente com a internet.
+O projeto tem as seguintes especificações:
+“o MÓDULO 1 comunica-se com o MÓDULO 3 para enviar as leituras obtidas. Como o carro nem
+sempre está em área de cobertura de celular, é possível que uma comunicação possa enviar as
+leituras de até um dia inteiro;
+º oMÓDULO 2 comunica-se com o MÓDULO 3 para obter os dados exibidos no relatório;
+* osrelatórios indicam os valores máximos de velocidade e aceleração e as respectivas posições do
+carro quando eles foram atingidos.
+A partir dessas informações, avalie as afirmações a seguir.
+|. OMÓDULO 1 deve ter capacidade de armazenamento de dados suficiente para um dia de leituras,
+a serem enviadas para o MÓDULO 3.
+Il. Todos os subprojetos têm interface de comunicação pela internet e a interface com o usuário é
+feita no MÓDULO 2.
+III.O melhor local para se executar o processamento dos dados para o relatório é o MÓDULO 1, que
+está sempre conectado e tem maior capacidade de processamento.
+IV. O melhor local para se instalar o banco de dados para as leituras é o MÓDULO 3, que dispõe de
+maior capacidade de armazenamento e conexão permanente com a internet.
+É correto apenas o que se afirma em
+Oem.
+O ue.
+Oelv
+O Lev.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

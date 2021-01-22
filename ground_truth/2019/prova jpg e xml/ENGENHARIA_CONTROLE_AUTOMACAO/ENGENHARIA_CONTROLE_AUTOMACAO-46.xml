@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:25:34</Created>
+	<LastChange>2020-09-12T18:26:00</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-46.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="384,350 384,1313 1184,1313 1184,350"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 254,179 254,243 1491,243 1491,344 1114,344 1114,1384 1491,1384 1491,1790 470,1790 470,1879 322,1879 322,2001 234,2001 234,2041 85,2041 85,1960 84,1960 84,1361 83,1361 83,243 84,243"/>
+	<TextEquiv conf="0.96171">
+	<Unicode>QUESTÃO 35
+Considere o sistema de controle para um Reator Tanque-Agitado Contínuo (RTAC), representado pelo
+Fluxograma de Instrumentação e Processo (Figura 1) e pela Arquitetura do Sistema de Controle e
+Automação do RTAC (Figura 2).
+A respeito do sistema de controle apresentado, avalie as afirmações a seguir.
+|. Os algoritmos das três malhas de controle, representadas no Fluxograma de Instrumentação e
+Processo do RTAC, são executados nos microcontroladores de suas respectivas válvulas de controle
+inteligentes, enquanto o controle lógico e sequencial do motor do agitador M1 e da bomba B1 são
+executados no CLP.
+Il. A rede Fieldbus (H1) interliga medidores e atuadores inteligentes, transmitindo os dados no formato
+digital com protocolo FF (Foundation Fieldbus), e conecta-os ao barramento HSE, integrando-os
+ao CLP, responsável por executar os algoritmos das três malhas de controle e o controle lógico e
+sequencial do motor do agitador M1 e da bomba B1.
+Ill. A conexão entre os barramentos H1 e HSE possibilita a integração dos dados provenientes da
+rede de instrumentos H1 e do CLP ao sistema SCADA, para permitir a operação e a supervisão das
+variáveis e malhas de controle do RTAC em tempo real, via interfaces amigáveis.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

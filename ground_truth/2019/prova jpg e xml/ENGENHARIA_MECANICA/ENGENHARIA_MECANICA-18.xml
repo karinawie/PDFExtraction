@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:22:16</Created>
+	<LastChange>2020-09-15T04:22:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-18.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r3">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="813,605 813,1060 1505,1060 1505,605"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,253 770,253 770,822 769,822 769,1473 770,1473 770,1693 470,1693 470,1754 273,1754 273,1897 322,1897 322,2035 85,2035 85,1720 133,1720 133,1288 84,1288 84,1230 83,1230 83,968 241,968 241,822 83,822 83,253 84,253"/>
+	<TextEquiv conf="0.96193">
+	<Unicode>QUESTÃO 12
+A energia eólica, abundante, renovável, limpa e
+disponível em muitos lugares, é produzida por
+meio de aerogeradores, nos quais a força do vento
+é captada por pás de uma turbina que aciona
+um gerador elétrico. A quantidade de energia
+convertida é função da densidade do ar, da área
+coberta pela rotação das pás e da velocidade do
+vento. Para que a energia eólica seja considerada
+tecnicamente aproveitável, é necessário que
+sua densidade de potência seja maior ou igual a
+500 W/m? a uma altura de 50 m, o que requer
+uma velocidade mínima do vento de 7 a 8 m/s ao
+nível do solo.
+Disponível em: &lt;http://www.brasilengenharia.com&gt;.
+Acesso em: 14 jun. 2019 (adaptado).
+A partir dessas informações e considerando que
+a densidade de potência disponível no vento
+seja dada pela equação DP =2pV, em que
+p= 1,23 kg/m é a densidade da are Véa
+velocidade do vento na altura das pás, avalie as
+afirmações a seguir.
+|. Com uma velocidade do vento na altura das
+pás de 7 m/s, a energia eólica gerada será
+considerada tecnicamente aproveitável.
+Il. Adensidade de potência eólica será reduzida
+nos aerogeradores se eles estiverem a uma
+altura superior a 50 m.
+Ill. A potência disponível será maior se houver
+aumento da área coberta pela rotação das pás.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="805,179 976,179 976,251 1491,251 1491,1706 1192,1706 1192,1767 1043,1767 1043,1994 955,1994 955,2045 806,2045 806,1803 807,1803 807,1291 805,1291 805,1217 806,1217 806,1172 889,1172 889,587 805,587"/>
+	<TextEquiv conf="0.96534">
+	<Unicode>QUESTÃO 13
+Uma equipe de trabalho decide adquirir uma
+garrafa térmica para armazenar seu café ao longo
+do dia e seus membros precisam entrar em acordo
+quanto ao modelo de garrafa a ser escolhido.
+Para tanto, depois de uma pesquisa, um deles
+adquiriu uma garrafa cujo folheto de instruções
+apresentava a imagem e as características
+conforme figura a seguir.
+Disponível em: &lt;http://www.quintaldafisica.blogspot.com&gt;.
+Acesso em: 19 jun. 2019 (adaptado).
+Considerando as informações apresentadas e
+com relação às características da garrafa térmica
+selecionada, avalie as afirmações a seguir.
+|. O material isolante térmico da tampa e do
+apoio é essencial para aumentar a resistência
+térmica de condução e convecção.
+Il. O vácuo é necessário para reduzir a troca de
+calor por condução e convecção entre o café
+e o ambiente externo.
+Ill. As superfícies espelhadas possuem a função
+de inibir a troca de calor por radiação.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+(EINS</Unicode></TextEquiv></TextRegion></Page></PcGts>

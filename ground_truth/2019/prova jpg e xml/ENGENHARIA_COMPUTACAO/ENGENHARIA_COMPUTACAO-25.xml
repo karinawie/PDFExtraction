@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T17:51:44</Created>
+	<LastChange>2020-09-12T17:53:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-25.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,178 255,178 255,245 1491,245 1491,350 1076,350 1076,397 459,397 459,500 696,500 696,553 459,553 459,658 748,658 748,708 476,708 476,816 714,816 714,912 1144,912 1144,967 943,967 943,1076 1491,1076 1491,1781 905,1781 905,1884 1492,1884 1492,1913 1491,1913 1491,2038 131,2038 131,1996 85,1996 85,1923 131,1923 131,1781 84,1781 84,1076 86,1076 86,712 85,712 85,708 119,708 119,528 85,528 85,460 86,460 86,350 84,350"/>
+	<TextEquiv conf="0.93315">
+	<Unicode>QUESTÃO 20
+Rigidez é a tendência de um software ser difícil de modificar. Cada mudança causa uma cascata de
+mudanças subsequentes em módulos dependentes. O trecho de código a seguir faz parte de um sistema
+com suporte à comunicação entre diferentes dispositivos de comunicação via rádio (modems):
+1 struct Modem { enum Type {hayes, courrier, ernie) type; };
+2 struct Hayes {
+3 Modem::Type type;
+4 // Detalhes do modem tipo Hayes
+5 };
+6 struct Courrier {
+7 Modem::Type type;
+8 // Detalhes do modem tipo Courrier
+9 };
+10 struct Ernie {
+11 Modem::Type type;
+12 // Detalhes do modem tipo Ernie
+13 };
+14 void LogOn(Modem&amp; m, string&amp; frq, string&amp; user, string&amp; pw) {
+15 if (m.type == Modem::hayes)
+16 OpenHayesChannel((Hayes&amp;)m, frq);
+17 else OpenCourrierChannel((Courrier&amp;)m, frq);
+18 // depois de conectado, enviar user, pw, etc.
+19 // (continua)
+Disponível em: &lt;http://www.staff.cs.utu.fi/staff/jouni.smed/doos_06/material/DesignPrinciplesAndPatterns.pdf&gt;.
+Acesso em: 15 jun. 2019 (adaptado).
+Nesse trecho, cada tipo de modem tem suas particularidades e foram criadas estruturas específicas
+para cada tipo (linhas 2 a 13). Um "enumeration" (linha 1) é utilizado para identificar o tipo de modem.
+O procedimento LogOn (linhas 14 a 19) é responsável por realizar a conexão a um modem. Dados o tipo
+do modem (m), a frequência (frq), o nome de usuário (user) e a senha (pw), inicialmente, é feita a
+abertura do canal de comunicação, que corresponde a uma chamada específica para cada tipo de modem
+(linhas 15 a 17). Como os modems do tipo Courrier e Ernie são similares em termos de abertura de
+canal, o programador decidiu otimizar o código, utilizando a função do modem Courrier para ambos
+(OpenCourrierChannel - linha 17). Uma vez conectado, o código continua o processo de LogOn na
+linha 18 em diante.
+Nesse projeto do código um sintoma de rigidez é que
+A se o suporte ao modem do tipo Ernie for removido do sistema, será necessário remover a estrutura
+Ernie do código.
+B se um novo tipo de modem for adicionado, será necessário alterar o número de parâmetros definidos
+no procedimento LogOn.
+C se um novo tipo de modem for adicionado, é necessário copiar e colar todo o código de uma das
+outras estruturas de modems para incluir novos detalhes.
+D se a política de comunicação do modem do tipo Hayes sofrer alteração, pode ser necessário alterar
+o procedimento OpenHayesChannel e a estrutura Hayes.
+E se a política de comunicação do modem do tipo Courrier sofrer alteração, pode ser necessário
+alterar OpenCourrierChannel e LogOn e criar um novo procedimento OpenErnieChannel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

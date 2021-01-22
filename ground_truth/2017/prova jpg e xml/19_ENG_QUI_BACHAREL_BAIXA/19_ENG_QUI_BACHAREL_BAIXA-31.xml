@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:13:53</Created>
+	<LastChange>2020-11-27T19:23:15</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,249 1576,249 1576,652 1289,652 1289,748 171,748 171,477 170,477 170,373 169,373 169,344 170,344"/>
+	<TextEquiv conf="0.95104">
+	<Unicode>Por uma questão de viabilidade econômica, admite-se que a aproximação máxima de temperaturas entre
+as correntes quente e fria no trocador HE seja de 10 ºC, ou seja, ATÉ =10"C.
+min
+A análise do aperfeiçoamento sugerido, ao se realizar a integração energética, permite concluir que
+O a carga térmica no trocador H1 seria reduzida para zero, não havendo mais necessidade de consumo
+de utilidade quente.
+O a carga térmica no trocador C1 seria reduzida para zero, não havendo mais necessidade de consumo
+de utilidade fria.
+O o consumo de utilidade quente e fria nos trocadores H1 e C1 passaria a ser de 300 kW e 600 kW,
+respectivamente.
+O a temperatura da corrente 2, depois de sair do trocador HE, seria igual a 100 “C.
+O o trocador HE proporcionaria carga térmica de 4 700 kW.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="170,782 341,782 341,850 1576,850 1576,1130 1108,1130 1108,1259 1577,1259 1577,1366 1415,1366 1415,1431 1187,1431 1187,1476 578,1476 578,1590 806,1590 806,1707 1576,1707 1576,1855 359,1855 359,1980 408,1980 408,2059 319,2059 319,2110 171,2110 171,1965 170,1965 170,1885 171,1885 171,1820 264,1820 264,1664 219,1664 219,1476 218,1476 218,1366 170,1366 170,1259 597,1259 597,1130 169,1130 169,1023 170,1023"/>
+	<TextEquiv conf="0.96524">
+	<Unicode>QUESTÃO 29
+Um sensor de temperatura do tipo termopar foi colocado em uma corrente de fluido quente.
+Simplificadamente, o sensor consiste de dois fios de metal distintos e conectados por suas pontas, que
+são encapsulados por uma esfera, também de material metálico. Essa esfera exerce o papel de elemento
+de troca de calor com o fluido cuja temperatura se deseja medir.
+Assumindo que a esfera encapsuladora dos fios possui massa m e raio R, e que sua massa específica p,
+calor específico C, e condutividade térmica k são constantes, a equação resultante de energia na forma
+diferencial é apresentada a seguir.
+oT k 1 0 oT
+or ht 42(2No&lt;ren
+ot po, ro or
+Considerando que a temperatura inicial do termopar é 7, que a temperatura do fluido quando o sensor
+entra em contato com ele é 7” e que o coeficiente convectivo de calor desse fluido é dado por /h, avalie
+as afirmações a seguir.
+|. A condição inicial para a solução da equação de energia é T(t =0,r) = T,O0&lt;r&lt;R.
+Il. As condições de contorno para a solução da equação de energia são:
+º paraCC1, () =0;
+r=0
+or
+oT
+º paraCC2,h(T,-T(t,R))= (O) ;
+Or fJr=R
+Aplicando-se a esse sistema o método da capacidade concentrada, no qual o gradiente térmico dentro
+do sólido é desprezado, tem-se que a equação de energia resultante é m - C, &amp; =47R - hT,-T).
+É correto o que se afirma em
+O |, apenas.
+O |ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

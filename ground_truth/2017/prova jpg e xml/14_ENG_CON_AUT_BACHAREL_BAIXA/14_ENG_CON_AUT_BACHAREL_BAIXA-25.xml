@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:32:55</Created>
+	<LastChange>2020-11-21T01:02:20</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r195" type="paragraph">
+	<Coords points="171,249 1444,249 1444,250 1475,250 1475,251 1506,251 1506,252 1537,252 1537,253 1568,253 1568,278 559,278 559,318 320,318 320,317 290,317 290,316 260,316 260,315 230,315 230,314 200,314 200,313 171,313 171,312 170,312 170,271 171,271"/>
+	<TextEquiv conf="0.96358">
+	<Unicode>Considerando a situação descrita, assinale a opção em que é apresentada a implementação correta
+em Grafcet, desse processo.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="147,411 147,883 672,883 672,411"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="171,947 171,1419 696,1419 696,947"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="832,414 832,913 1357,913 1357,414"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="832,959 832,1458 1357,1458 1357,959"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="157,1478 157,1994 682,1994 682,1478"/></ImageRegion></Page></PcGts>

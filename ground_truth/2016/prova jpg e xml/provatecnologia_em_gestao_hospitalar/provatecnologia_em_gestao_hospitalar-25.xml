@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:34:02</Created>
+	<LastChange>2020-10-29T19:44:01</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_gestao_hospitalar-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="145,243 146,243 146,244 873,244 873,245 1600,245 1600,274 1599,274 1599,1833 533,1833 533,1919 532,1919 532,2076 147,2076 147,2075 146,2075 146,2074 147,2074 147,1272 144,1272 144,303 145,303"/>
+	<ImageRegion id="r1">
+	<Coords points="347,508 347,1227 1600,1227 1600,508"/></ImageRegion>
+	<TextEquiv conf="0.96377">
+	<Unicode>QUESTÃO 30
+A figura a seguir representa, de forma esquemática, os módulos do e-SUS Hospitalar, sistema de gestão
+hospitalar criado pelo Ministério da Saúde para desenvolver, reestruturar e garantir a integração dos atuais
+sistemas de informações em saúde. Os principais focos do e-SUS Hospitalar são o hospital information
+system (HIS) e o prontuário eletrônico do paciente (PEP). O sistema também oferece uma ferramenta para
+geração de relatórios, formulários dinâmicos baseados em metadados e painel de indicadores de gestão.
+A partir da figura e das informações acima, avalie as afirmações a seguir.
+|. A proposta do e-SUS Hospitalar faz parte de uma tendência de integração de sistemas
+informatizados, cuja interoperabilidade visa à integração dos dados administrativos, clínicos e
+os relacionados aos cuidados dos pacientes.
+Il. No e-SUS Hospitalar permanece a fragmentação dos diversos setores hospitalares e da informação
+produzida por eles, podendo-se citar como exemplo o fato de o Prontuário Eletrônico do Paciente (PEP)
+continuar fornecendo dados clínicos dos pacientes, sem contribuir para uma análise do estoque da farmácia.
+Ill. As informações acerca da assistência ao paciente tem importância para a administração, para a
+pesquisa e o ensino, e também para o controle legal, contudo, dadas as suas complexidades, faz-se
+necessária a implantação de sistemas específicos para monitorar o perfil epidemiológico da população
+e para levantamento de custos.
+IV. O e-SUS Hospitalar, por ser informatizado e integrado, tem potencial para reduzir a demora no
+atendimento ao paciente por meio da provisão de histórico dos procedimentos e exames realizados, e
+permitir a mensuração de indicadores para a administração da instituição, a exemplo do dia e horário
+de maior movimentação de pacientes.
+É correto o que se afirma em
+O |, apenas.
+O lelV, apenas.
+O ll elll, apenas.
+O Il, Il e IV, apenas.
+O L,I,HMelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

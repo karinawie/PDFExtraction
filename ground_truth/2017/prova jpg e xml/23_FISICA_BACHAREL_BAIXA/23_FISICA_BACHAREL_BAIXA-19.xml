@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:52:03</Created>
+	<LastChange>2020-11-27T21:06:17</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-19.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="890,244 1062,244 1062,311 1576,311 1576,1159 1577,1159 1577,1227 1576,1227 1576,1802 1277,1802 1277,1857 1128,1857 1128,2105 892,2105 892,2106 891,2106 891,1888 892,1888 892,1824 939,1824 939,1228 890,1228 890,755 891,755 891,275 890,275"/>
+	<ImageRegion id="r3">
+	<Coords points="958,436 958,719 1494,719 1494,436"/></ImageRegion>
+	<TextEquiv conf="0.96445">
+	<Unicode>QUESTÃO 14
+Um eletroímã pode ser construído enrolando-se
+um fio de cobre esmaltado ao redor de um cilindro
+de ferro, conforme a figura a seguir.
+As extremidades do fio de cobre, devidamente
+raspadas, são ligadas uma em cada polo de uma
+associação de pilhas em série. Clipes espalhados
+sobre uma superfície são atraídos pelo
+dispositivo, que se comporta analogamente a um
+ímã. A intensidade do campo magnético gerado
+pelo dispositivo pode variar pela substituição
+do cilindro de ferro por outros materiais de
+diferentes permeabilidades magnéticas, como o
+cobre (material diamagnético).
+A partir das informações do texto, avalie as
+afirmações a seguir.
+|. Seas pilhas estiverem ligadas em paralelo,
+então a intensidade do campo magnético
+produzido pelo eletroímã será maior do que
+se estiverem associadas em série.
+Il. Se o número de voltas (espiras) de fio de
+cobre for duplicado e o distanciamento
+entre as espiras também for duplicado, sem
+se sobreporem, então o campo magnético
+resultante permanecerá inalterado.
+Ill. Se o cilindro for de cobre, seus domínios
+magnéticos serão alinhados em oposição
+ao campo magnético produzido no
+dispositivo, resultando em um campo
+magnético de maior intensidade.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lei, apenas.
+O ll elll, apenas.
+O 1LI1eM,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 855,312 855,575 854,575 854,1420 170,1420 170,1268 171,1268 171,1101 170,1101 170,685 168,685 168,312 169,312"/>
+	<TextEquiv conf="0.95319">
+	<Unicode>QUESTÃO 13
+A partir da Segunda Lei da Termodinâmica,
+afirma-se que, apesar da energia do universo ser
+constante, a possibilidade de obtenção de energia
+útil diminui à medida que ele evolui. Isso significa
+que a entropia do Universo, enquanto sistema
+isolado, aumenta, levando-o para um estado de
+crescente desordem.
+A respeito da degradação da energia, é correto
+afirmar que
+O a energia do universo é degradada devido à
+conversão de energia térmica em trabalho ou
+energia útil.
+O o equilíbrio térmico do universo corresponde
+ao momento em que a energia útil se iguala à
+energia térmica.
+O as transformações naturais de energia acarretam
+aumento da entropia do universo em razão das
+reversibilidades desses processos.
+O o estado de desordem do universo se caracteriza
+pelo princípio de conservação da energia,
+em que parte da energia é convertida em
+trabalho útil.
+O a entropia do universo aumenta devido à
+tendência de todas as formas de energia se
+converterem espontânea e integralmente em
+energia térmica.</Unicode></TextEquiv></TextRegion></Page></PcGts>

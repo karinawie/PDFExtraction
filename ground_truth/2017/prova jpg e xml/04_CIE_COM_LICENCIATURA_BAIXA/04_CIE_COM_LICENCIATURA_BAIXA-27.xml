@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T03:13:09</Created>
+	<LastChange>2020-09-18T03:15:00</LastChange></Metadata>
+	<Page imageFilename="04_CIE_COM_LICENCIATURA_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,309 854,309 854,376 853,376 853,564 854,564 854,742 328,742 328,981 170,981 170,800 169,800 169,564 218,564 218,376 168,376 168,309 169,309"/>
+	<TextEquiv conf="0.83775">
+	<Unicode>QUESTÃO 27
+A diretoria de uma empresa identificou os seguintes
+problemas, que têm afetado os seus negócios:
+* faltademétricas para controlar seus produtos;
+* — processos escassos ou inexistentes;
+* faltadefocoem seus negócios;
+* descontrole dos processos.
+Nessa situação, o guia de boas práticas indicado
+para otimizar o investimento em tecnologia da
+informação, de forma a melhorar o retorno sobre
+o investimento e fornecer métricas para a avaliação
+dos resultados dessa empresa é o
+A ITIL.
+B coBIT.
+C cmMv!.
+D MPS-BR.
+E PMBOK.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="169,1011 340,1011 340,1076 855,1076 855,1365 854,1365 854,1580 855,1580 855,1645 854,1645 854,1810 555,1810 555,1864 358,1864 358,1982 407,1982 407,2059 318,2059 318,2106 170,2106 170,1830 218,1830 218,1545 168,1545 168,1476 225,1476 225,1365 169,1365"/>
+	<TextEquiv conf="0.96574">
+	<Unicode>QUESTÃO 28
+Um dos conceitos básicos de orientação a objetos
+é o conceito de herança. Durante a implementação
+de um sistema, o mecanismo de herança suporta a
+definição de uma nova classe A a partir de outra B,
+preexistente (por exemplo, em Java, pode-se definir
+a classe A herdeira da classe B como "class A
+extends BB"). Além disso, tal mecanismo pode
+implementar polimorfismo de tipos de objetos.
+DEITEL, P.; DEITEL, H. Java - como programar. 8. ed. São Paulo:
+Prentice Hall, 2010 (adaptado).
+A respeito de herança e sua relação com orientação
+a objetos, avalie as afirmações a seguir.
+|. Herança é um mecanismo que pode ser
+usado para implementar polimorfismo.
+Il. Herança permite o reaproveitamento de
+código comum entre algumas classes.
+Ill. Métodos herdados equivalem a métodos
+polimórficos.
+É correto o que se afirma em
+A |, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D ll e lll, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1576,313 1576,722 1575,722 1575,895 1576,895 1576,1108 1577,1108 1577,1301 1576,1301 1576,1474 1277,1474 1277,1530 1120,1530 1120,1789 891,1789 891,1562 892,1562 892,1496 939,1496 939,867 890,867"/>
+	<TextEquiv conf="0.96710">
+	<Unicode>QUESTÃO 29
+As redes de comunicação, notadamente aquelas
+baseadas na internet, têm sido utilizadas como base
+na construção de infraestrutura para plataformas
+de educação a distância (EaD).
+A exemplo disso, ferramentas de EaD têm sido
+desenvolvidas a partir do princípio da comunicação
+síncrona, que pressupõe a conexão simultânea
+entre o emissor e o receptor da mensagem, e da
+comunicação assíncrona, que não exige a conexão
+simultânea.
+Considerando uma plataforma de EaD baseada
+em redes de comunicação, avalie as afirmações a
+seguir.
+|. Asituaçãoem que um professor tem acesso à
+tela do computador de cada estudante, sem
+intervir no que cada um estiver visualizando,
+caracteriza um cenário de comunicação
+assíncrona.
+Il. Ferramentas — assíncronas— permitem ao
+estudante enviar mensagens de dúvidas
+ao professor durante a exibição de uma
+videoaula, sem a garantia de que o professor
+responderá a essa mensagem em tempo real.
+Ill. Compete ao professor verificar, por meio de
+imagens em tempo real, se é realmente um
+estudante quem está realizando as tarefas
+assíncronas no ponto receptor.
+É correto o que se afirma em
+A |l, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D l e lll, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

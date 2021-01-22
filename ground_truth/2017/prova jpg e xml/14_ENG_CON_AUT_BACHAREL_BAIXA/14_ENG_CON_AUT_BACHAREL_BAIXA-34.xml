@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:31:39</Created>
+	<LastChange>2020-11-21T00:53:55</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-34.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="170,244 341,244 341,293 1576,293 1576,367 1577,367 1577,1016 1578,1016 1578,1118 1434,1118 1434,1892 1427,1892 1427,2047 1425,2047 1425,2088 1379,2088 1379,2090 317,2090 317,2089 283,2089 283,2047 170,2047 170,1116 171,1116 171,615 169,615 169,293 170,293"/>
+	<ImageRegion id="r1">
+	<Coords points="394,630 394,1000 1344,1000 1344,630"/></ImageRegion>
+	<TextEquiv conf="0.96718">
+	<Unicode>QUESTÃO 29
+A descrição dos movimentos de robôs pode ser realizada por meio do modelo cinemático direto. Uma das
+ferramentas desse modelo, a matriz de transformação, converte coordenadas de um ponto em um sistema
+fixo ao robô P. » Para o sistema de coordenadas global P . 73: OS movimentos de rotação ao redor dos
+eixos principais, normalmente, são chamados de guinada, arfagem e rolamento. Assim, caso se considere o
+deslocamento de um robô móvel, o ângulo O, definido como guinada, consiste na rotação em torno do eixo
+vertical do veículo, ou seja, a rotação será executada no eixo 2; o ângulo 9, definido como arfagem, consiste
+na rotação em torno do eixo transversal, ou seja, o movimento será feito no eixo x; por fim, o ângulo 90,
+definido como rolamento, consiste na rotação em torno do eixo longitudinal, ou seja, o deslocamento será
+executado no eixo y, conforme a figura a seguir.
+Considerando que um robô móvel descreve os seguintes deslocamentos angulares durante a sua
+locomoção: 0, = 15º, O, = 10º, 0, = 3º, assinale a opção em que é apresentada a sequência correta das
+matrizes de transformação.
+1 o [ 0 —sen3º O cos3º O
+O senlO0º cosl10º O 0 1 0 0
+8.) To cos1oº -sen10º n| Ga 0
+0 0 0 1 1
+senl5º cosl5º
+Oo To) do 0
+o 0
+cos3º O sen3º
+(1
+cos15º —senl5º O
+1
+o 0 (0 0
+1 0 0 [ —sen3º O sen3º O
+O senlO0º —sen10º O Jo 1 0 O
+6%) To cos10º cos10º ol “%* Tecos3º O cos3º O
+o 0 0 1 | 0 (0 0 1
+[sen1l5º —sen15º
+o To) do o
+0
+cosl5º cosl5º O
+1
+0 (1 (1
+1 0 0
+O cosl10º —sen10º
+&amp;) TO senlOº cos10º
+0 0 0
+cos 3º
+[cos15º —sen15º O sen3º O
+0 1 0 O
+T, 8,)T|
+** j-sen3º O cos3º O
+0 1
+o Te) do o
+[0
+senl5º cosl5º O
+1
+(0 0 (1)
+rm O O O
+0 0
+O sen3º O 1 o o 0 cos15º -sen15º 0 O
+T " 1 0 Oo Td O cosl10º —sen10º O qo sen 15º cos15º O o
+O “o —sen3º O cos3º ol “%* jo sentoº cos10º o| *% o 0 1. 0
+0 0 0 1 0 0 0 1 0 0 0 1
+cos 3º
+1 0 0 o cos 3º O sen3º O cos15º —-sen 15º O
+JO cos10º —sen10º O 0 1 0 Oo
+0 o (18,) | o 0 1
+1 1
+0 o o
+T, = -
+O “es O senl0º cos10º "j-sen3º O cos3º
+[o
+—)sent5º cos15º 0 O
+o
+o o 0 o o o 1</Unicode></TextEquiv></TextRegion></Page></PcGts>

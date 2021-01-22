@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:54:58</Created>
+	<LastChange>2020-11-30T18:30:03</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="168,1295 1576,1295 1576,1748 1577,1748 1577,1851 555,1851 555,1896 390,1896 390,2033 407,2033 407,2064 318,2064 318,2112 170,2112 170,2024 169,2024 169,1951 170,1951 170,1863 218,1863 218,1700 168,1700"/>
+	<TextEquiv conf="0.94240">
+	<Unicode>QUESTÃO 26
+A função da auditoria de sistemas é promover adequação, revisão, avaliação e recomendações para o
+aprimoramento dos controles internos em qualquer um dos sistemas de informação da empresa, bem
+como avaliar a utilização dos recursos humanos, materiais e tecnológicos envolvidos no processamento
+desses sistemas.
+Com base nessas informações, avalie as afirmações a seguir.
+|. A auditoria de sistemas permite detectar, de forma automática, o uso dos recursos e dos fluxos de
+informação em uma empresa, embora não identifique qual informação é crítica para o cumprimento
+da missão e objetivos empresariais.
+Il. As ferramentas de auditoria classificadas como generalistas apresentam softwares com a
+capacidade de processar, analisar e simular amostras e apontar possíveis duplicidades.
+II. As ferramentas de auditoria classificadas como de utilidade geral apresentam softwares próprios
+para a execução de funções muito comuns de processamento, como sortear arquivos, concatenar,
+sumarizar e gerar relatórios.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="169,244 339,244 339,309 1576,309 1576,824 1577,824 1577,927 1575,927 1575,1025 1494,1025 1494,1266 832,1266 832,1267 170,1267 170,1268 169,1268 169,504 168,504 168,438 169,438"/>
+	<ImageRegion id="r2">
+	<Coords points="280,513 280,797 1455,797 1455,513"/></ImageRegion>
+	<TextEquiv conf="0.95624">
+	<Unicode>QUESTÃO 25
+Um provedor de serviços de rede interliga as cidades A e B por meio de uma rede WAN de longa
+distância, e, em cada uma das cidades, o provedor opera uma rede Metro Ethernet para prover serviços
+a seus clientes.
+As empresas X e Y contrataram do provedor serviços corporativos e possuem escritórios fisicamente
+presentes em cada uma das cidades mencionadas, conforme mostra a figura a seguir.
+Cada empresa possui várias VLANs (Virtual Local Area Networks) configuradas internamente e os dados
+dessas VLANs devem trafegar da cidade A para a cidade B, passando pelas redes Metro Ethernet e WAN
+do provedor, de forma segura e independente.
+Nessa situação, os protocolos que devem ser configurados pelo provedor na rede Metro Ethernet e na
+rede WAN para ocorrer o tráfego dos dados das VLANs das empresas entre cidades diferentes são
+O IEEE 802.1ad (QinQ) na rede Metro Ethernet e IEEE 802.1Q na rede WAN.
+O IEEE 802.1Q na rede Metro Ethernet e VPLS (Virtual Private Lan Services) na rede WAN.
+O VPLS (Virtual Private Lan Services) na rede Metro Ethernet e IEEE 802.1Q na rede WAN.
+O IEEE 802.1ad (QinQ) na rede Metro Ethernet e VPLS (Virtual Private Lan Services) na rede WAN.
+O VPLS (Virtual Private Lan Services) na rede Metro Ethernet e IEEE 802.1ad (QinQ) na rede WAN.</Unicode></TextEquiv></TextRegion></Page></PcGts>

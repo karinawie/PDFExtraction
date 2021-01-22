@@ -1,0 +1,837 @@
+QUESTÃO DISCURSIVA 03
+Uma Instituição de Educação Superior (IES) está construindo seu novo Planejamento Estratégico de
+Tecnologia da Informação (PETI) e contratou um diretor de TI para conceber e executar um projeto de
+transformação digital na instituição, considerada como um pré-requisito para a construção do PETI.
+A IES ainda não possui uma estratégia clara de negócio frente à nova dinâmica de mercado e seu corpo
+de diretores acredita que todos os serviços, inclusive os de Tl, devam estar centralizados na própria
+instituição. Analisando a estrutura da IES, o diretor de TI percebeu que ainda não existia um setor
+específico para atividades relacionadas ao marketing digital da instituição. Sugeriu, assim, a terceirização
+de todos os serviços relacionados a essa atividade e, com isso, a descentralização de alguns serviços de TI.
+Essa iniciativa gerou desconforto entre os diretores da IES, que prontamente convocaram uma reunião
+para que esse diretor esclarecesse os motivos que o levaram a sugerir a terceirização das atividades e dos
+serviços do novo setor.
+Considerando essa situação, apresente, na condição de diretor de TI, argumentos para convencer os
+demais diretores de que a sua sugestão é a mais adequada frente às mudanças do mercado. Em seu texto,
+aborde os seguintes aspectos:
+º* asatividades relacionadas à Governança de TI que podem ser aplicadas na IES;
+º* os aspectos organizacionais a serem considerados para a tomada de decisão na elaboração
+do PETI.
+(valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+A figura a seguir representa uma plantação de café com x colunas e y linhas. Nessa figura, as regiões com
+os cafeeiros plantados são as que estão com os espaços preenchidos, e as regiões com falhas de plantios
+são as que apresentam seus espaços vazios.
+Considerando uma solução algorítmica para contar a quantidade de falhas de plantio do cafezal
+representado na figura, faça o que se pede nos itens a seguir.
+a) Indique o tipo de estrutura de dados utilizada na solução, justificando a sua resposta. (valor: 4,0 pontos)
+b) Escreva o algoritmo da solução em pseudocódigo ou em linguagem de programação. (valor: 6,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+Durante as Olimpíadas de 2016, foram disputadas nove competições masculinas e seis competições
+femininas de tiro esportivo. Para os Jogos Olímpicos de 2020, propõe-se o desenvolvimento de um
+sistema de agendamento de competições de tiro esportivo, com base nas competições realizadas nos
+últimos jogos.
+No tiro esportivo, cada competição é composta por eventos, que podem ser a fase classificatória, a fase
+final ou a cerimônia de entrega de medalhas. Para cada evento, é preciso saber a data de realização, o
+horário de início, o horário estimado de término e o local, que pode ser uma das diversas salas de tiro
+ou o campo de tiro externo, destinado às competições de fossa olímpica e skeet. As competições se
+diferenciam em função de três características:
+º oequipamento utilizado, que pode ser pistola, carabina ou espingarda;
+* otipode alvo e a distância, que pode ser um alvo fixo em distâncias de 10 m, 25 m ou 50 m ou
+pratos lançados que devem ser atingidos no ar;
+* a posição do atirador ao disparar, que pode ser deitado, ajoelhado ou em pé.
+As competições de tiro esportivo realizadas nos últimos Jogos Olímpicos de 2016 estão apresentadas no
+quadro a seguir.
+As competições dessa modalidade contam com atletas de diversos países, sendo que cada atleta pode
+participar de uma ou mais competições, desde que esteja devidamente classificado. Para cada atleta, é
+preciso registrar o nome, o país e o comitê olímpico nacional que representa, além das competições que
+irá disputar.
+Considerando o domínio apresentado no texto, elabore um diagrama de classe da UML para esse sistema,
+identificando as classes (no máximo seis), os atributos e os relacionamentos. (valor: 10,0 pontos)
+
+QUESTÃO 10
+O Guia do Conhecimento em Gerenciamento
+de Projetos (Project Management Body of
+Knowledge - PMBOK) inclui o gerenciamento de
+riscos como uma das áreas de conhecimento que
+devem ser observadas para o sucesso do projeto.
+Os riscos identificados são analisados em função da
+probabilidade de sua ocorrência e do impacto que
+causarão ao projeto, caso ocorram.
+A respeito da definição de risco em um projeto, de
+acordo com as orientações do PMBOK, avalie as
+afirmações a seguir.
+|. Osriscos em um projeto podem ocorrer com
+probabilidade entre O e 100%.
+Ill. O impacto do risco, caso ocorra, pode ser
+positivo ou negativo.
+Ill. Devem ser desconsiderados os riscos que
+não afetam o objetivo do projeto.
+IV. O valor estimado referente ao impacto deve
+ser diferente de zero.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+O ueiv
+O L,11e.
+QuMmMelv
+
+QUESTÃO 09
+Na fase de levantamento de requisitos do processo
+de desenvolvimento de software, devem-se
+identificar as regras de negócio, os requisitos
+funcionais e os requisitos não funcionais do sistema.
+Considerando um cenário em que um vendedor de
+sorvetes tenha o objetivo de gerenciar suas vendas
+com o uso de um aplicativo, avalie os itens a seguir.
+|. Regra de negócio: entregar o sorvete ao
+cliente somente mediante pagamento;
+requisito funcional: reabastecer o estoque
+quando a quantidade de sorvetes atingir o
+mínimo; requisito não funcional: especificar
+o tempo de resposta do aplicativo.
+ll. Regra de negócio: aplicar promoções
+vigentes na realização da venda; requisito
+funcional: calcular a quantidade de sorvetes
+na estoque; requisito não funcional: exibir
+relatório com o balanço de vendas.
+Ill. Regra de negócio: aceitar somente
+pagamentos com cartão de débito ou
+crédito; requisito funcional: consultar
+a quantidade de vendas; requisito não
+funcional: verificar a possibilidade de
+indisponibilidade do sistema.
+IV. Regra de negócio: conceder aos clientes
+que comprarem 2 sorvetes um desconto de
+10%; requisito funcional: processar a venda
+do sorvete; requisito não funcional: verificar
+o tempo gasto com o treinamento para a
+utilização do aplicativo.
+É correto apenas o que se descreve em
+(ABENIA
+O el.
+O lelv.
+O LIlelv.
+OIE
+
+QUESTÃO 11
+O diagrama Entidade-Relacionamento (DER) a seguir apresenta a modelagem conceitual de dados de
+um sistema de informação para um museu. A partir dessa modelagem observa-se o seguinte: uma Obra
+é criada por um único Artista e um Artista pode criar no mínimo uma Obra e no máximo várias Obras; as
+entidades Pintura e Escultura são especializações da entidade Obra; um Artista tem o domínio de várias
+Técnicas, assim como uma Técnica é dominada por diversos Artistas.
+Com base nas regras de mapeamento que transformam o Modelo Conceitutal em um Modelo Lógico
+Relacional, avalie as afirmações a seguir, a respeito do Esquema Lógico Relacional gerado a partir do DER
+apresentado.
+|. NoEsquema Lógico Relacional, haverá uma tabela associativa, criada em função do relacionamento
+muitos para muitos entre as entidades Artista e Técnica, que terá uma chave primária composta
+pelo código do artista e o código da técnica.
+Il. No Esquema Lógico Relacional, haverá uma tabela Artista na qual o atributo código do artista será
+a chave primária da tabela, e o código da obra será uma chave estrangeira que fará referência a
+uma obra existente na tabela Obra.
+Ill. No Esquema Lógico Relacional, haverá, em função da generalização/especialização, uma tabela
+Obra com apenas os atributos código da obra, título, data de aquisição e dimensões, e duas outras
+tabelas: a tabela Pintura, com apenas o atributo tipo de tinta, e a tabela Escultura com apenas o
+atributo material.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.
+
+QUESTÃO 12
+A TI Verde está associada à utilização eficiente dos recursos organizacionais e à minimização
+dos efeitos nocivos ao meio ambiente ocasionados pelo uso da Tecnologia da Informação (TI).
+Essas tecnologias são feitas de produtos químicos, metais pesados, materiais sintéticos etc.
+Considerando que existirão 10 bilhões de pessoas no nosso planeta em 2050, teremos que gerir tanto
+o impacto ambiental da tecnologia, quanto usar esta mesma tecnologia para ajudar a gerenciar o
+impacto da espécie humana no planeta.
+Disponível em: <http://www.sustentti.com.br>. Acesso em: 21 jul. 2017 (adaptado).
+A partir dessas informações e considerando o conceito de TI Verde, avalie as afirmações a seguir.
+l. Um dos pilares da TI Verde é a busca de conscientização do usuário na adoção de ações
+sustentáveis, tais como: reduzir impressões inúteis economizando papel e tinta/toner e evitar o
+envio desnecessário de e-mails reduzindo o gasto de energia do sistema e do receptor.
+Il. Nalinhade eficiência energética estão os data centers verdes, nos quais a virtualização de servidores
+pode ser utilizada para fazer com que uma única máquina física, considerando sua capacidade de
+processamento, emule diversas máquinas.
+Ill. Um equívoco comum é considerar ações relativas ao lixo eletrônico como ações de TI Verde a
+serem adotadas pela organização, pois essas questões estão fora de sua governança.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O11em.
+
+QUESTÃO 13
+A partir da análise da figura, avalie as afirmações a seguir.
+|. É apresentado um exemplo de como e onde as tecnologias da informação podem ser aplicadas nos
+processos de negócios por meio da estrutura de cadeia de valor.
+Il. É suger
+ido que um fluxo de trabalho colaborativo pela intranet pode aumentar as comunicações
+e colaborações necessárias à significativa melhoria da coordenação administrativa e dos serviços
+de apoi
+Ill. É suger
+mercad
+o.
+ido que os portais de E-Commerce podem melhorar a economia de recursos ao oferecer
+os on-line para os fornecedores.
+IV. É demonstrado que a vantagem competitiva é ampliada quando a área de Tecnologia da
+Informação (TI) está alinhada ao negócio.
+É correto o que se afirma em
+O L1lell, apenas.
+O Ill elV, apenas.
+O l,IlelV,a
+O LUI,NMEeIV,penas.
+
+QUESTÃO 14
+No passado, registrar e montar estatísticas sobre jogadas e associá-las a vídeos com momentos do
+jogo não era trivial, o que dificultava a tomada de decisão por uma organização esportiva. Atualmente,
+existem sistemas de informação com capacidade para coletar jogadas, organizá-las em dados estatísticos
+e relacioná-las às imagens de jogos.
+Por meio desses sistemas, cada lance dos jogos é registrado de forma detalhada, dissecando-os e
+marcando-os com o uso de centenas de descritores e associando-os a vídeos em alta resolução. Assim,
+treinadores podem utilizar o sistema para, em segundos, acessar momentos de interesse e avaliar forças
+e debilidades de jogadores; jogadores podem analisar suas jogadas e se preparar para os próximos jogos;
+torcedores, "olheiros" e patrocinadores podem acessar estatísticas e jogadas. Portanto, é possível criar
+uma rede de tomada de decisões, relacionamentos e valores de negócio.
+LAUDON, K. C.; LAUDON, J. P. Management information systems. 11. Ed. New Jersey: Pearson, 2010 (adaptado).
+Em relação ao cenário descrito, avalie as afirmações a seguir.
+|. O alto custo dos jogadores, a alta pressão competitiva e a baixa qualidade estatística dos jogos
+são problemas ou desafios superados por uma organização esportiva que utiliza um sistema de
+informação.
+Il. O desenvolvimento de estratégia para o time, o treinamento e a avaliação de jogadores, são
+funções gerenciais de uma organização esportiva apoiadas por um sistema de informação.
+Ill. São funcionalidades de um sistema de informação para uma organização esportiva: geração de
+relatórios de análise do desempenho de jogadores e relatórios de análise do desempenho de
+equipes.
+IV. O aumento do desempenho e da receita dos times são objetivos de negócio impactados com a
+utilização de um sistema de informação por uma organização esportiva.
+É correto o que se afirma em
+O |, apenas.
+Oie, apenas.
+O llelV, apenas.
+O Il, Il e IV, apenas.
+O LUI,NMelv
+
+QUESTÃO 16
+O processo de design de interação possui quatro
+atividades básicas: identificar as necessidades
+e estabelecer requisitos, desenvolver designs
+alternativos que preencham estes requisitos,
+construir versões interativas dos designs e
+avaliação.
+Nesse contexto, avalie as afirmações a seguir.
+1... O processo de design de interação é
+complementar aos modelos de ciclo de vida
+de desenvolvimento de software.
+Ill. A participação do usuário do sistema no
+processo de design de interação é dispensável,
+uma vez que os desenvolvedores conhecem
+todas as regras referentes ao web design.
+Ill. A observação de designs de interação
+desenvolvidos por outros profissionais
+motiva os designers para soluções
+alternativas.
+IV. A prototipação é uma técnica para facilitar
+o feedback do usuário nas etapas do
+processo de design de interação.
+É correto apenas o que afirma em
+(AB
+O lelv
+O 1L1em
+O Lev.
+O uMelv.
+
+QUESTÃO 15
+Os sistemas de informação ampliaram sua
+perspectiva de atuação do simples uso do
+computador como ferramenta para a rápida
+execução de tarefas rotineiras até o campo dos
+negócios. Tal fato, aliado às possibilidades providas
+pelas Tecnologias da Informação e Comunicação
+(TIC) e pelos avanços específicos em hardware,
+software, nuvem, conectividade e redes sociais,
+ampliou as exigências em relação aos sistemas.
+Como forma de contribuir para o processo de
+desenvolvimento e implantação, surgiu a abordagem
+da Arquitetura de Sistemas de Informação (ASI).
+Inicialmente tratada como arquitetura de dados,
+a ASI acompanhou a evolução dos sistemas
+de informação e incorporou uma visão mais
+abrangente, com a inclusão das perspectivas de
+negócio, da visão organizacional, da evolução das
+TIC e dos usuários.
+TAIT, T. F. C.; PACHECO, R. C. S.; ABREU, A. F. Arquitetura de sistemas
+de informação: análise comparativa de modelos. Produção,
+Rio de Janeiro, v. 9, n. 1 p. 55-64, 1999 (adaptado).
+Considerando esse cenário, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. A abordagem ASI estabelece um
+mapeamento da organização que considera
+os elementos envolvidos com o processo de
+desenvolvimento/implantação de sistemas
+de informação.
+PORQUE
+Il. O objetivo da ASI é inter-relacionar
+dados, disponibilizar hardware, software
+e recursos de redes, para processar
+transações, produzir informação e suportar
+uma variedade de domínios de aplicação.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e 11 são proposições verdadeiras,
+e all é uma justificativa correta de |.
+O As asserções | e |l são proposições verdadeiras,
+mas a || não é uma justificativa correta de |.
+O Aasserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 17
+Uma equipe de projeto desenvolveu um aplicativo mobile para a gestão de frotas de caminhões entre os
+meses de janeiro e junho de 2017. O projeto seguiu um processo baseado no modelo de ciclo de vida de
+desenvolvimento em cascata, com atividades realizadas sequencialmente e sem sobreposição.
+Ao final do projeto, a equipe precisou tratar uma grande quantidade de defeitos encontrados no aplicativo
+em um curto espaço de tempo. Como mostra o gráfico a seguir, a maior parte dos defeitos foi identificada
+ao final do projeto, o que elevou o risco de se entregar o aplicativo com muitos defeitos ao cliente.
+Diante desse cenário, a equipe do projeto decidiu que, em novos projetos, realizaria ações que pudessem
+distribuir o esforço de tratamento de defeitos ao longo dos meses, diminuindo o risco de ainda haver
+muitos defeitos não tratados no momento próximo à entrega do produto.
+Considerando a situação, o gráfico apresentado e o modelo de ciclo de vida de desenvolvimento utilizado
+no projeto (cascata), assinale a opção que descreve uma ação capaz de produzir o resultado esperado
+pela equipe.
+O Realizar testes assim que o aplicativo estiver pronto para uso.
+O Aplicar técnicas de verificação e validação desde o início do projeto.
+O Mapear e documentar o processo de desenvolvimento utilizado e comunicá-lo à equipe.
+O Elicitar e documentar os requisitos funcionais e não funcionais do produto logo no início do projeto.
+O Registrar, evidenciar e comunicar imediatamente os defeitos encontrados aos demais membros da equipe.
+
+QUESTÃO 19
+A teoria dos grafos estuda as relações entre
+elementos em um determinado conjunto.
+Um grafo G (V, E) é determinado por um conjunto
+não vazio de vértices (V) e um subconjunto de pares
+de vértices não ordenados, chamados arestas (E).
+A figura a seguir representa a possibilidade
+de voos de uma companhia aérea tal que
+V = (fPorto Alegre, Curitiba, São Paulo,
+Rio de Janeiro e Brasília), representa
+o conjunto das capitais (vértices), e
+E = ffíPorto Alegre, Curitiba), (Curitiba, São
+Paulo), (São Paulo, Rio de Janeiro), fPorto
+Alegre, Rio de Janeiro), (São Paulo, Brasília) ),
+representa essas possíveis conexões (arestas)
+entre as capitais.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+|. São Paulo é adjacente a Porto Alegre.
+Il. Porto Alegre possui valência igual a 2.
+Ill. Rio de Janeiro é incidente em São Paulo e
+Porto Alegre.
+IV. Curitiba possui comprimento igual a 2.
+É correto apenas o que se afirma em
+Oie
+O le.
+O eiv
+O LIlelv.
+OLMEelv.
+
+QUESTÃO 18
+Uma empresa iniciou um projeto para implantação
+de um ERP (Enterprise Resource Planning), com o
+objetivo de aumentar a produtividade e elevar seu
+patamar tecnológico. O sistema que era utilizado
+anteriormente foi desenvolvido pela própria
+empresa e não mais atendia às necessidades
+operacionais. A empresa optou por implantar
+um módulo WMS (Warehouse Management
+System), que se ocupa de tarefas relacionadas
+ao gerenciamento das operações de estoques.
+O módulo foi parametrizado e customizado de
+acordo com as necessidades identificadas na fase
+de planejamento do projeto de implantação.
+A partir do caso apresentado, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Customização é a modificação de um
+sistema ERP para que ele possa adaptar-se
+a determinada situação empresarial que
+não pode ser reproduzida por parâmetros
+preexistentes.
+PORQUE
+Il. A parametrizaçção é o processo de
+determinação do comportamento de um
+sistema ERP por meio da definição dos
+valores de parâmetros disponibilizados por
+ele, que são variáveis internas.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e 11 são proposições verdadeiras e
+a Il é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 20
+Em uma seleção para uma vaga de programador, o setor de recursos humanos de uma empresa criou três
+sentenças essenciais para a escolha do candidato, representadas pelas variáveis proposicionais p, qe r:
+* p:ocandidato tem experiência com a linguagem Python;
+e q:ocandidatotem experiência com a linguagem Java;
+e r:ocandidato é pouco experiente como programador.
+A partir das três sentenças criadas, foi gerada uma proposição composta S para avaliação dos candidatos:
+S=(pva)A(gan=r").
+Assinale a opção que representa corretamente a tabela-verdade do cálculo proposicional S.
+
+A
+
+B
+
+C
+
+E
+
+D
+
+QUESTÃO 21
+Uma startup de tecnologia pretende desenvolver um aplicativo que aproxime empresas que precisam
+transportar mercadorias de condutores autônomos de veículos de carga (transportadores). O uso do
+aplicativo permitirá um aumento do número potencial de transportadores e de tipos de veículos, bem
+como o compartilhamento de frete, com redução do custo de transporte e do custo de armazenamento
+de mercadorias pelas empresas. Além disso, a visibilidade da disponibilidade dos transportadores pelo
+aplicativo pode aumentar suas possibilidades de negócios. Durante a concepção e o projeto do aplicativo,
+foram elaborados modelos UML (Unified Modeling Language), sendo um deles o diagrama de atividades,
+conforme apresentado na figura a seguir.
+
+QUESTÃO 22
+A tendência atual de desenvolver aplicações que possam ser utilizadas em nuvem otimiza o
+desempenho de máquinas locais, munidas de poucos recursos computacionais, em uma rede
+e garante a possibilidade desses computadores utilizarem outros recursos computacionais de
+maior desempenho, bem como a inserção de novos hosts neste ambiente computacional, sem
+comprometimento do sistema como um todo.
+Esse cenário pressupõe a utilização de sistema operacional com
+O arquitetura monolítica.
+O arquiteturas em camadas.
+O arquitetura monocamadas.
+O arquiteturas cliente-servidor.
+O arquiteturas de máquinas virtuais.
+
+Com base no diagrama apresentado, avalie as afirmações a seguir.
+Os serviços oferecidos por outros aplicativos, como mapas para o cálculo de rotas, por exemplo,
+poderão ser usados no desenvolvimento do aplicativo, mesmo que não tenham sido representados
+no diagrama.
+Os fluxos paralelos indicados nos pontos de decisão 2 e 3 levam a erros no funcionamento do
+aplicativo, uma vez que permitem a continuidade do processo mesmo que não haja rota, destino
+ou tipo de veículo adequado.
+O diagrama apresenta atividades desempenhadas pela "Empresa que precisa de transporte" e pelo
+"Transportador", no entanto, as atividades que precisarão ser modeladas no sistema restringem-se
+às desempenhadas pelo "Aplicativo".
+As ações "Informar indisponibilidade"” e "Confirmar disponibilidade" correspondem a
+funcionalidades distintas no sistema, visto que a primeira se relaciona à existência de tipo de
+veículo, rota e destino e a segunda se relaciona à agenda do transportador.
+É correto apenas o que se afirma em
+(ABENIA
+Oielv
+Q el.
+O LIlelv.
+O uMmelv
+
+QUESTÃO 23
+No modelo de dados relacional, uma junção entre tabelas cria uma pseudo-tabela derivada de duas
+ou mais tabelas de acordo com os critérios especificados, similar às regras da teoria dos conjuntos.
+Nos conjuntos a seguir, as áreas hachuradas representam os resultados das consultas SQL (padrão) em
+que, id é uma chave primária e fk uma chave estrangeira.
+Assinale a opção em que a declaração SQL é equivalente ao conjunto apresentado a seguir.
+O SELECT * FROM Tabelal tl JOIN Tabela2 t2 ON tl.id = t2.fk;
+O SELECT * FROM Tabelal tl RIGHT JOIN Tabela2 ON tl.id = t2.fk WHERE
+t2.fk <> NULL;
+O SELECT * FROM Tabelal tl WHERE EXISTS (SELECT 1 FROM Tabela2 t2 WHERE
+t2.id = t1.fk);
+O SELECT * FROM Tabelal tl RIGHT JOIN Tabela2 t2 ON tl.id = t2.fk WHERE
+tl.id is NULL;
+O SELECT * FROM Tabelal tl WHERE NOT EXISTS (SELECT 1 FROM Tabela2 t2
+WHERE t2.id = t1.fk);
+
+QUESTÃO 25
+Nos últimos anos, a melhoria do desempenho
+organizacional! por meio da identificação,
+avaliação e melhoria dos processos de negócio
+organizacionais tem-se tornado uma prática
+padrão nas organizações ao redor do mundo
+e tem sido reconhecida como uma disciplina,
+denominada Gestão de Processos de Negócio.
+O primeiro passo da gestão de processos é
+identificar que processo de negócio se deseja
+melhorar. Sem clarificar exatamente qual é o
+processo, torna-se difícil controlar o escopo de
+um projeto de melhoria de processos, pois, em
+qualquer organização, todas as atividades estão,
+de alguma forma, relacionadas.
+SHARP, A.; MCDERMOTT, P. Workflow modeling. 2. ed. Boston:
+Artech House, 2009 (adaptado).
+Considerando as informações apresentadas,
+assinale a opção que corresponde a um processo
+de negócio que deve ser selecionado para análise
+pelo projeto de melhoria de processos de uma
+organização.
+O criar conta de cliente.
+O Prospectar novos clientes.
+O Comércio eletrônico via Web.
+O Relacionamento com clientes.
+O Calcular a faixa de crédito de cliente.
+
+QUESTÃO 24
+Em uma pesquisa de satisfação com notas de O a
+10, sendo O muito insatisfeito e 10 muito satisfeito,
+uma empresa construiu um quadro, mostrado a
+seguir, com o resumo das notas atribuídas pelos
+seus clientes aos serviços recebidos.
+Considerando essa situação e as informações
+apresentadas, avalie as afirmações a seguir.
+|. A média das notas dos clientes é igual a 6,0.
+Il. A mediana das notas dos clientes é igual a 6,0.
+Ill. O desvio padrão populacional é menor do
+que 3,0.
+IV. O conjunto de dados é amodal.
+V. Um cliente que atribuiu nota 3,0 encontra-se
+no 1º quartil.
+É correto apenas o que se afirma em
+O Le.
+OLIlev
+OL, Ielv
+O 1, IVev.
+O UI, IVev.
+
+QUESTÃO 27
+A forma como o conhecimento se apresenta
+pode ser classificada em tácita e explícita.
+O conhecimento tácito é desenvolvido pelas
+experiências e relacionamentos pessoais ou
+profissionais de um indivíduo, não é mensurável
+e é pessoal. O conhecimento explícito é a
+disseminação, aplicação, transmissão, de
+maneira formal, do conhecimento adquirido.
+TAKEUCHI, H.; NONAKA, |. Gestão do conhecimento.
+Porto Alegre: Bookman, 2008 (adaptado).
+Considerando o desenvolvimento de software e a
+utilização do conhecimento tácito e explícito, avalie
+as afirmações a seguir.
+|. Durante as etapas de desenvolvimento
+do software, são utilizados tanto os
+conhecimentos pré existentes do indivíduo
+quanto os conhecimentos adquiridos
+durante o desenvolvimento.
+Il. O uso do conhecimento explícito restringe-se
+às fases de levantamento dos requisitos,
+quando o usuário indica sua necessidade
+e as funcionalidades requeridas para Oo
+desenvolvimento do software.
+Ill. O uso do conhecimento tácito restringe-se
+às fases de desenvolvimento, quando se
+emprega conhecimento de transformação
+da necessidade do usuário e características
+técnicas para produzir um sistema de
+informação.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Q1I1em.
+
+QUESTÃO 26
+Algumas linguagens de programação obedecem
+a uma ordem específica no que diz respeito à
+avaliação de operadores. A precedência dos
+operadores aritméticos, relacionais e booleanos
+é demonstrada na tabela a seguir, na qual
+os operadores ++ e --, pré ou pós-fixados,
+respectivamente, incrementam ou decrementam a
+variável, como no exemplo: variável x com valor O,
+resultado de ++x éigual a l1eode--x éigual
+a —l.
+Considerando essas informações e sabendo que
+as variáveis a, b e c têm, em determinado
+momento, os valores 1, 2 e O, respectivamente,
+assinale a opção em que o resultado da
+expressão apresentada corresponde ao da
+expressão -sa * ++b- —-c.
+O a* bm -— -—-c
+--b>a*tc
+—--b
++t+c/--b * +t+a
+o
+O ——c/a *
+oO
+O -a * p++ - c-—
+
+QUESTÃO 29
+Uma empresa que vende produtos cosméticos
+com vendas diretas conta com diferentes módulos
+de software que atendem aos níveis operacional,
+tático e estratégico. Após diagnóstico situacional,
+verificou-se a possibilidade de melhoria na
+operação e no suporte do processo "Revisão do
+plano de vendas", exibido na figura a seguir.
+Os atores envolvidos no processo são o setor de
+vendas, o departamento de vendas e a diretoria
+de marketing. Inicialmente, o setor de vendas
+faz a apuração das vendas no período. Com base
+nessa informação, o departamento de vendas
+faz a comparação entre as vendas realizadas e as
+previstas. Por fim, a diretoria de marketing, baseada
+nessa comparação, realiza o plano de vendas.
+Nessa situação, caso se decida implementar
+a tecnologia BPMS (Business Process
+Management System), o impacto decorrente
+dessa implementação será
+O redução do tempo de envio e recebimento dos
+dados entre os níveis organizacionais.
+O redução de despesas de vendas
+decorrência da melhoria do processo.
+como
+O redução na quantidade de módulos
+independentes necessários para operar O
+sistema.
+O maior precisão na previsão de vendas como
+decorrência da melhoria do processo.
+O maior precisão no plano de vendas como
+decorrência da melhoria do processo.
+
+QUESTÃO 28
+O guia PMBOK (Project Management Body
+of Knowledge) orienta a gestão de projetos
+considerando que processos devem ser executados
+nas diversas fases do gerenciamento, a saber:
+iniciação, planejamento, execução e encerramento.
+Em um determinado projeto, foi desenvolvido
+um sistema segundo o modelo de ciclo de vida
+em cascata, cujas atividades são realizadas
+sequencialmente e sem sobreposição. Na atividade
+de homologação do sistema, às vésperas da
+data planejada de sua implantação, um usuário
+identificou a inviabilidade de uma funcionalidade
+testada, pois alguns requisitos básicos não haviam
+sido considerados durante o levantamento dos
+requisitos. A alteração que se mostrou necessária
+atrasou o projeto em relação à linha de base do
+plano do projeto.
+Segundo o PMBOK, pode-se considerar que a falha
+foi originada na fase de
+O iniciação ou planejamento, em um processo da
+área de conhecimento gestão do tempo.
+O planejamento ou execução, em um processo da
+área de conhecimento gestão do tempo.
+(O)
+execução ou encerramento, em um processo da
+área de conhecimento gestão do tempo.
+o
+iniciação ou encerramento, em um processo da
+área de conhecimento gestão do escopo.
+o
+planejamento ou execução, em um processo da
+área de conhecimento gestão do escopo.
+
+QUESTÃO 31
+A cloud computing (computação em nuvem) tem
+o objetivo de fornecer recursos de hardware e
+software sob demanda a partir de servidores
+interligados pela internet, seguindo o princípio
+da computação em grid (grade). Uma arquitetura
+em grid é descrita por meio das quatro camadas a
+seguir.
+*º Rede: executa a comunicação e se utiliza da
+parte física;
+* Recursos: formada pelos servidores de
+armazenamento e/ou processamento;
+*º Middleware: formada pelo software
+responsável pela troca de informações;
+*º Ferramentas e aplicações: representada
+pelos aplicativos.
+De acordo com o texto, avalie as afirmações a
+seguir.
+|. A camada de ferramentas e aplicações é
+responsável pela negociação das transações
+de dados no grid.
+Ill. A camada middleware é responsável pela
+interconectividade e comunicação entre os
+membros do grid.
+Ill. A camada de rede é reponsável pela
+concectividade entre os diferentes membros
+do grid.
+IV. A camada de recursos é responsável pela
+segurança dos dados nas aplicações do grid.
+É correto apenas o que se afirma em
+Oie
+O el.
+O eiv
+O L1lelv.
+OE
+
+QUESTÃO 30
+Para garantir a qualidade no desenvolvimento de
+software é indispensável definir processos para
+gerenciar mudanças no escopo do produto e
+configurações do software em desenvolvimento.
+Esses processos incluem atividades de planejamento,
+validação, verificação e gerenciamento de versões
+(mudanças ou releases).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. Ogerenciamento de mudanças acompanha
+a solicitação de alterações no software,
+define os custos, seus impactos e quando
+estas devem ser implementadas.
+Il. A revisão dos artefatos de software tem
+por objetivo armazenar a documentação
+em um repositório central.
+Ill. A verificação de software tem o objetivo de
+controle de versões da documentação.
+IV. A validação de software tem o objetivo de
+garantir que as necessidades e expectativas
+do cliente sejam atendidas.
+V. O gerenciamento de configuração controla
+a edição simultânea dos artefatos do
+software, mantém o controle das versões
+do software e recomenda a auditoria das
+configurações.
+É correto apenas o que se afirma em
+O 1t11e.
+O LIlelv.
+O Livev
+O !Mmev
+Ou,IVev
+
+QUESTÃO 32
+A lei Sarbanes-Oxley (SOX), publicada em agosto de 2002, após escândalos financeiros acontecidos em
+companhias americanas abertas nos Estados Unidos, objetiva proteger os investidores, no mercado de
+capital americano, de fraudes contábeis e financeiras. Entre os diversos controles que essa lei regula,
+destacam-se aqueles que devem garantir a integridade de informações contábeis e financeiras. Tal crise
+despertou a importância da temática Governança de Tecnologia da Informação (TI) para as organizações,
+de modo a serem considerados requisitos legais a troca de informações entre parceiros estratégicos das
+organizações e a formalização de uma política de segurança da informação, entre outros. Desta forma,
+cabe destacar que o objetivo da Governança de TI em uma organização é alinhar a TI aos requisitos
+de negócio, de modo a garantir a continuidade dos serviços prestados, bem como a minimização da
+exposição do negócio aos riscos de TI.
+FERNANDES, A.A.; ABREU, V. D. Implantando a governança de TI: da estratégia à gestão dos processos e serviços.
+Rio de Janeiro: Brasport, 2012 (adaptado).
+A respeito desse contexto, avalie as afirmações a seguir.
+|. O atendimento a marcos de regulação (compliance) implicam, para a área de TI, que os sistemas
+de informação transacionais de uma organização, geradores de fatos contábeis e financeiros,
+possibilitem o acesso e a emissão de relatórios de resultados.
+Il. A segurança da informação deve ser focada prioritariamente na proteção da infraestrutura de
+servidores que armazenam as informações transacionais, como contábeis e financeiras.
+Ill. A integração tecnológica entre filiais de uma organização, ou seja, entre elos de uma cadeia de
+distribuição, bem como a gestão de clientes altamente sofisticados, ou seja, entre elementos que
+ultrapassam as fronteiras da organização, devem ser consideradas no momento de se alinhar a TI
+aos requisitos de negócio.
+IV. Em grandes organizações brasileiras e multinacionais, a implementação de “centro de serviços
+compartilhados” visa centralizar diversas áreas de negócio, assim como determinadas operações
+e/ou serviços de TI.
+É correto apenas o que se afirma em
+Oie.
+O le.
+O lelv.
+O Llelv.
+O 1,NMeiv.
+
+QUESTÃO 34
+No contexto de arquitetura e organização de
+computadores, otermo clusteré usado para designar
+um grupo de computadores interconectados,
+trabalhando como um recurso de computação
+unificado. Cada computador pertencente ao cluster
+é usualmente denominado nó. Clusters costumam
+ser utilizados em ambientes corporativos, sendo
+particularmente — adequados para aplicações
+baseadas em servidores.
+STALLINGS, W. Arquitetura e organização de computadores.
+8. ed. São Paulo: Prentice Hall, 2010 (adaptado).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. Uma falha em um nó de um cluster implica
+em perda total de serviço.
+Il. A interligação entre os nós de um cluster
+realiza-se por meio de um barramento de
+controle.
+Ill. A escalabilidade de um cluster é maior do
+que a de um processador com múltiplos
+núcleos.
+IV. A relação custo/desempenho de um cluster
+é melhor do que a de uma única máquina de
+grande porte.
+É correto apenas o que se afirma em
+Oie
+O leiv.
+O eiv.
+O L,11e.
+O LIeIV.
+
+QUESTÃO 33
+Tendo em vista que a informação está entre os
+bens mais importantes para uma organização, um
+dos fatores decisivos na definição de uma rede de
+computadores é a segurança da informação. Para
+garantir tal segurança e evitar qualquer desvio ou
+ação que possa modificar essas informações sem
+autorização ou, ainda, para protegê-las de ataques
+cibernéticos, são necessários planejamentos e
+estruturação da rede e de seus acessos.
+FONTES, E. Praticando a segurança da informação. 1. ed.
+São Paulo: BRASPORT, 2008 (adaptado).
+Considerando o texto, avalie as afirmações a seguir.
+|. A proteção da informação em uma
+organização é competência restrita à
+área de tecnologia, que assume total
+responsabilidade sobre sua segurança.
+Il. A proteção da informação exige postura e
+comprometimento dos envolvidos na sua
+execução, portanto, deve ser tratada de
+forma profissional.
+IIl. A presença de funcionários éticos na
+empresa elimina a necessidade de
+investimentos na área de segurança da
+informação.
+IV. Os ataques cibernéticos são cada dia
+mais frequentes, por isso, a segurança da
+informação deve ser considerada essencial.
+É correto o que se afirma em
+O 1l, apenas.
+O leilll, apenas.
+O llelV, apenas.
+O 1, Ill elV, apenas.
+O 1LI,Meiv
+
+QUESTÃO 35
+O coordenador geral de um comitê olímpico solicitou a implementação de um aplicativo que permita o
+registro dos recordes dos atletas à medida que forem sendo quebrados, mantendo a ordem cronológica
+dos acontecimentos, e possibilitando a leitura dos dados a partir dos mais recentes.
+Considerando os requisitos do aplicativo, a estrutura de dados mais adequada para a solução a ser
+implementada é
+o deque: tipo especial de lista encadeada, que permite a inserção e a remoção em qualquer das
+duas extremidades da fila e que deve possuir um nó com a informação (recorde) e dois apontadores,
+respectivamente, para os nós próximo e anterior.
+a fila: tipo especial de lista encadeada, tal que o primeiro objeto a ser inserido na fila é o primeiro a ser
+lido; nesse mecanismo, conhecido como estrutura FIFO (First In — First Out), a inserção e a remoção
+são feitas em extremidades contrárias e a estrutura deve possuir um nó com a informação (recorde) e
+um apontador, respectivamente, para o próximo nó.
+a pilha: tipo especial de lista encadeada, na qual o último objeto a ser inserido na fila é o primeiro a
+ser lido; nesse mecanismo, conhecido como estrutura LIFO (Last In — First Out), a inserção e a remoção
+são feitas na mesma extremidade e a estrutura deve possuir um nó com a informação (recorde) e um
+apontador para o próximo nó.
+a fila invertida: tipo especial de lista encadeada, tal que o primeiro objeto a ser inserido na fila é o
+primeiro a ser lido; nesse mecanismo, conhecido como estrutura FIFO (First In — First Out), a inserção e
+a remoção são feitas em extremidades contrárias e a estrutura deve possuir um nó com a informação
+(recorde) e um apontador, respectivamente, para o nó anterior.
+a lista circular: tipo especial de lista encadeada, na qual o último elemento tem como próximo o
+primeiro elemento da lista, formando um ciclo, não havendo diferença entre primeiro e último, e a
+estrutura deve possuir um nó com a informação (recorde) e um apontador, respectivamente, para o
+próximo nó.
+

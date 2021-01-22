@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T17:36:12</Created>
+	<LastChange>2020-09-18T17:37:58</LastChange></Metadata>
+	<Page imageFilename="05_CIE_BIO_BACHAREL_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="869,246 872,2112 876,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 854,312 854,624 855,624 855,727 854,727 854,1276 660,1276 660,1332 334,1332 334,1585 299,1585 299,1637 168,1637 168,1609 169,1609 169,1363 170,1363 170,1298 218,1298 218,752 219,752 219,625 218,625 218,598 168,598 168,312 169,312"/>
+	<TextEquiv conf="0.96147">
+	<Unicode>QUESTÃO 33
+As células-tronco são células indiferenciadas, que se
+caracterizam pela capacidade de autorrenovação,
+de diferenciação em diversos tipos celulares e de
+reconstituição funcional de determinados tecidos.
+Essas células são divididas em dois tipos principais:
+embrionárias e adultas.
+Acerca desse assunto, avalie as afirmações a seguir.
+|. Células-tronco embrionárias pluripotentes
+podem ser obtidas da massa celular interna
+do blastocisto.
+Il. Células-tronco adultas têm sido isoladas de
+diferentes tecidos ou estruturas do corpo,
+como medula óssea, polpa de dente e
+tecidos adiposo e epitelial.
+Ill. Estudos têm sido realizados com o objetivo
+de induzir a reversão de células somáticas
+adultas para um estado embrionário,
+sendo a facilidade de obtenção de células
+somáticas uma das vantagens dessa técnica.
+IV. Terapias com células-tronco têm sido
+utilizadas com sucesso na regeneração de
+órgãos, tais como os do sistema nervoso
+central e o coração.
+É correto apenas o que se afirma em
+(ABENIA
+A I e II
+B II e IV.
+C III e IV.
+D I,II E III
+E II, III E IV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="891,244 1062,244 1062,310 1578,310 1578,758 1576,758 1576,1004 1577,1004 1577,1341 1576,1341 1576,1667 1575,1667 1575,1954 1576,1954 1576,2024 1484,2024 1484,2072 892,2072 892,2073 891,2073 891,1668 890,1668 890,1607 891,1607 891,1606 939,1606 939,1362 940,1362 940,1005 939,1005 939,979 890,979 890,911 923,911 923,800 904,800 904,759 891,759 891,311 890,311 890,245 891,245"/>
+	<TextEquiv conf="0.96447">
+	<Unicode>QUESTÃO 34
+Uma ferramenta computacional, denominada Mendel
+(MD), em homenagem a Gregor Mendel, pode auxiliar
+no diagnóstico de alterações genéticas. Por meio de
+seu navegador, o pesquisador faz upload de sequências
+completas do genoma ou frações que codificam genes
+(exomas) de seus pacientes. Então, o programa analisa
+essas informações e as cruza com dados disponíveis
+em bancos de dados genéticos referentes a diferentes
+sequências genômicas ou exomas associados a
+doenças genéticas. Assim, essa plataforma gera uma
+lista de mutações que podem ser as responsáveis pela
+doença investigada.
+CARDENAS, R. et al. Mendel, MD: A user-friendly open-source web
+tool for analyzing WES and WGS in the diagnosis of patients with
+Mendelian disorders. PLOS Computational Biology,
+v.6, n.13, 2017 (adaptado).
+A partir das informações apresentadas, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. As estratégias de sequenciamento de
+ácidos nucleicos de alta performance
+(high throughput) permitem a geração de
+grande quantidade de dados referentes a
+sequências genômicas totais e a sequências
+codificadorasó, — podendo favorecer a
+investigação e o diagnóstico de distúrbios
+mendelianos humanos.
+PORQUE
+Ill. O sequenciamento de genomas completos
+ou de exomas fornece informações sobre
+variantes genéticas que, em comparação
+às existentes em bancos de dados, são
+utilizadas para predizer a atividade gênica
+no organismo.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras,
+mas a ll não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

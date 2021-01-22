@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:32:13</Created>
+	<LastChange>2020-11-21T00:56:47</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1576,312 1576,1100 1577,1100 1577,1304 1576,1304 1576,1426 660,1426 660,1488 335,1488 335,1742 170,1742 170,1065 169,1065 169,1036 170,1036"/>
+	<ImageRegion id="r1">
+	<Coords points="380,438 380,994 1361,994 1361,438"/></ImageRegion>
+	<TextEquiv conf="0.96441">
+	<Unicode>QUESTÃO 27
+Fieldbus Foundation é uma arquitetura aberta para integrar informação, cujo objetivo principal é
+interconectar equipamentos de controle e automação industrial, distribuindo funções de controle pela
+rede e fornecendo informações a todas as camadas do sistema, conforme representado na figura a seguir.
+A respeito dessa temática e com base nas informações apresentadas, avalie as afirmações a seguir.
+|. Atopologia de barramento com Spurs se caracteriza pela ligação em série de todos os instrumentos
+utilizados na aplicação.
+Il. A rede de serviço HSE baseia-se na mesma camada física Ethernet, operando com o protocolo
+TCP/IP.
+III.As redes H1 e HSE pertencem a diferentes camadas físicas e ambas as redes operam com a mesma
+velocidade de transmissão.
+IV. A rede H1 representa uma solução de comunicação digital para o chão de fábrica em áreas
+classificadas.
+É correto apenas o que se afirma em
+Oie.
+Oilelv
+Oleiv
+O L11e.
+OuMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

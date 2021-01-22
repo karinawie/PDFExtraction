@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-14T01:49:52</Created>
+	<LastChange>2020-11-14T01:49:52</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-21.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="84,179 254,179 254,247 1492,247 1492,353 1490,353 1490,719 1491,719 1491,787 1023,787 1023,788 960,788 960,1208 523,1208 523,1209 258,1209 258,1293 85,1293 85,1210 84,1210"/>
+	<TableRegion id="r2">
+	<Coords points="560,550 560,702 1007,702 1007,550"/></TableRegion>
+	<TextEquiv conf="0.96512">
+	<Unicode>QUESTÃO 15
+O método de regressão linear pelos mínimos quadrados é um dos mais difundidos para encontrar
+aproximações para modelos lineares em diferentes áreas, como por exemplo, processamento gráfico,
+aprendizagem de máquina e visão computacional.
+Em um sistema superdeterminado do tipo AX = B, que não possua solução (devido a erros nos dados), a
+solução mais próxima, segundo o critério dos mínimos quadrados, é dada pelo sistema: A!” - AX=AT-B,
+em que A” é a transposta de À. Considere o problema de encontrar a reta que melhor se ajusta a quatro pontos
+no plano, segundo o critério dos mínimos quadrados, cujas coordenadas são:
+Suponha que uma reta seja dada na forma funcional y = mx + c. Ao se substituírem as coordenadas de
+cada ponto nesta equação, forma-se um sistema de equações AX = B, em que X é o vetor de incógnitas
+7) A equação da reta que é solução dos mínimos quadrados é
+Cc
+O y=0,5r7+1.
+Oy=7+0)1.
+4
+O y=-(t+1),
+3
+O y=1,5r.
+Ouy=11r</Unicode></TextEquiv></TextRegion></Page></PcGts>

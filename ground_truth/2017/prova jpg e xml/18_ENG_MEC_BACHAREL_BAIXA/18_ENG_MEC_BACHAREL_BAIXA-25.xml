@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:58:29</Created>
+	<LastChange>2020-11-27T18:51:56</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="171,244 341,244 341,311 1576,311 1576,436 1578,436 1578,540 1576,540 1576,1545 1577,1545 1577,2102 1109,2102 1109,2103 640,2103 640,2104 171,2104 171,2105 170,2105 170,245 171,245"/>
+	<ImageRegion id="r1">
+	<Coords points="427,638 427,1533 1575,1533 1575,638"/></ImageRegion>
+	<TextEquiv conf="0.96674">
+	<Unicode>QUESTÃO 23
+Durante o processo de projeto de um produto industrial, a escolha do tipo de material para um componente
+é geralmente realizada na fase de projeto preliminar. Nessa escolha, são considerados requisitos de
+projeto que implicam a realização da função do componente.
+Na figura a seguir, estão representados dois principais requisitos de projeto utilizados na escolha de
+material para a fabricação de um componente: a densidade do material, dada em kg/m?; e o módulo de
+Young, ou módulo de elasticidade, dado em GPa.
+Para o projeto em pauta, os valores a serem adotados para essas variáveis estão, respectivamente,
+entre 500 e 1 000 kg/m? de densidade e 2 GPa de módulo de elasticidade.
+Considerando que o componente deverá possuir boa resistência à corrosão e realizar sua função exposto
+a um ambiente em que a umidade relativa estará constantemente próxima de 100%, conclui-se, com base
+na figura apresentada, que o material mais adequado à realização da função do componente encontra-se
+no campo
+O dos polímeros, cuja resistência à umidade e ao desgaste corrosivo é bem superior à das madeiras.
+O das madeiras, que apresentam resistência à umidade igual à dos polímeros, mas seu custo é
+menos oneroso.
+O das madeiras, que apesar de serem menos resistentes à umidade que os polímeros, os superam na
+resistência à corrosão.
+O dos polímeros, que apesar de apresentarem menos resistência ao desgaste corrosivo que as madeiras,
+são mais resistentes à umidade.
+O das madeiras, porque existem madeiras suficientemente resistentes ao desgaste corrosivo, como
+requer a realização da função do componente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

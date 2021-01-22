@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:51:21</Created>
+	<LastChange>2020-09-15T02:52:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="78,463 78,1021 773,1021 773,463"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,230 769,230 769,1420 770,1420 770,1520 769,1520 769,1631 768,1631 768,1747 575,1747 575,1805 241,1805 241,2043 84,2043 84,1404 83,1404 83,230 84,230"/>
+	<TextEquiv conf="0.94196">
+	<Unicode>QUESTÃO 23
+Em um sistema representado por uma função de
+transferência de 1º ordem, em malha fechada
+com um controlador do tipo integral puro (K//s),
+o comportamento da variável de processo (PV), a
+partir da variação unitária do setpoint (SP), pode
+ser observada a seguir.
+A função de transferência em malha fechada pode
+ser representada por:
+PV K-K,
+SP ts +s+K-K,
+Com base nessas informações, avalie as afirmações
+a seguir.
+|. Osistema se instabilizará devido ao aumento
+excessivo do ganho do controlador.
+Ill. Quanto maior o valor do ganho da malha,
+mais rápida será a resposta e sem sobrevalor
+(overshoot).
+Ill. O controlador do tipo integral é utilizado
+para mitigar o erro permanente (offset) das
+malhas de controle.
+IV. Se todas as raízes da equação característica
+forem negativas, a malha de controle será
+estável.
+É correto apenas o que se afirma em
+Ou.
+O llelv.
+O 1LI1em.
+O Lilelv.
+O LINEeIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="805,179 977,179 977,247 1492,247 1492,521 1491,521 1491,974 1492,974 1492,1003 1490,1003 1490,1147 1491,1147 1491,1495 1296,1495 1296,1550 955,1550 955,1804 806,1804 806,1582 807,1582 807,1517 899,1517 899,1405 854,1405 854,1227 900,1227 900,955 854,955 854,611 806,611 806,521 805,521"/>
+	<TextEquiv conf="0.96428">
+	<Unicode>QUESTÃO 24
+Considere uma instalação em que um tanque
+cilíndrico elevado (tanque 1) alimenta, por
+gravidade, um tanque cilíndrico menor posicionado
+em um nível inferior (tanque 2). O tanque 1 não
+é alimentado e a sua vazão de saída (Q,), que
+depende do nível de fluido no tanque (2), é
+definida por k -2, , sendo k uma constante.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+|. A relação entre o nível final de líquido no
+tanque 1 e o tempo de operação do sistema
+é representada por uma função linear.
+Il. O tempo de enchimento do tanque 2 é uma
+função logarítmica natural e depende do
+nível final do tanque 1, desde que o volume
+retirado do tanque 1 seja igual ou inferior ao
+volume total do tanque 2.
+III.O nível de líquido no tanque 2 pode ser
+. o ka
+calculado pela equação: 27 = 27 + — 1, em
+que 2, é o nível final do tanque 2, 29 É o
+nível inicial do tanque 2, A, é a área do
+fundo dotanque 2 e té otempo de operação.
+IV. No caso de o tanque 1 ter dimensões muito
+maiores do que o tanque 2, seria possível
+desprezar a variação da vazão de saída do
+tanque 1 e considerá-la constante.
+É correto apenas o que se afirma em
+A I e III.
+B II e IV.
+C III e IV.
+D I, II e III.
+E I, II e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

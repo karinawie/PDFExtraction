@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:28:10</Created>
+	<LastChange>2020-09-15T04:28:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-22.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="386,497 386,1310 1210,1310 1210,497"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,179 255,179 255,225 1491,225 1491,420 903,420 903,1334 1491,1334 1491,1668 1490,1668 1490,1775 1038,1775 1038,1776 575,1776 575,1825 216,1825 216,2042 85,2042 85,2043 84,2043 84,1436 83,1436 83,1407 354,1407 354,504 83,504 83,225 84,225"/>
+	<TextEquiv conf="0.96840">
+	<Unicode>QUESTÃO 21
+A usinagem é um dos mais importantes processos de manufatura, podendo ser aplicada a uma grande
+variedade de materiais e formas geométricas. É frequentemente usada como processo complementar, ou
+de acabamento, quando o material foi produzido por fundição, conformação plástica ou metalurgia do
+pó. Na usinagem, uma ferramenta de corte é usada para remover excesso de material de um sólido, de tal
+maneira que o material remanescente tenha a forma da peça desejada. A usinagem pode ser dividida em
+processos de corte, que geralmente envolvem ferramentas mono e multicortantes, processos abrasivos e
+processos avançados de usinagem.
+A figura a seguir ilustra cinco processos básicos de usinagem.
+CASTRO, W. B.; KIMINAMI, C. S.; OLIVEIRA, M. F. Introdução aos processos de fabricação de produtos metálicos.
+São Paulo: Blucher, 2013 (adaptado).
+A partir da figura apresentada e considerando as características dos processos de usinagem, avalie as
+afirmações a seguir.
+|. As figuras (a), (b) e (c) representam, respectivamente, os processos de torneamento, fresamento
+de topo e aplainamento.
+Il. As figuras (d) e (e) representam, respectivamente, os processos de furação e fresamento paralelo.
+Ill. O tempo total de usinagem por peça envolve o tempo de corte, o tempo improdutivo (carga,
+descarga, preparação das peças e posicionamento da ferramenta) e o tempo de troca de
+ferramentas.
+IV. O custo da hora-máquina envolve a depreciação, as despesas com a manutenção, a área ocupada,
+a quantidade de horas em operação e as despesas com os operadores.
+É correto apenas o que se afirma em
+A I.
+B III.
+C I e II.
+D II e IV.
+E III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T03:34:43</Created>
+	<LastChange>2020-09-17T03:34:56</LastChange></Metadata>
+	<Page imageFilename="ciencias_contabeis-35.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="102,342 102,689 1521,689 1521,342"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="97,810 97,1142 1523,1142 1523,810"/></TableRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="106,181 277,181 277,254 1512,254 1512,719 1513,719 1513,1351 1514,1351 1514,1469 1041,1469 1041,1749 106,1749 106,1308 105,1308 105,326 106,326"/>
+	<TextEquiv conf="0.96411">
+	<Unicode>QUESTÃO 34
+Na tabela a seguir, apresentam-se dados contábeis de uma indústria de brinquedos que fabrica
+três produtos diferentes.
+A diretoria dessa indústria projetou, em seu orçamento, as quantidades de produtos a ser produzidas no
+ano seguinte, apresentadas na tabela a seguir.
+Para produzir a quantidade prevista, a indústria precisaria ter, no mínimo, 120 000 horas, porém sua
+capacidade máxima é de 100 000 horas. Em vista da limitação da capacidade de produção, a decisão
+tomada pela diretoria da empresa foi diminuir a quantidade de produção do produto que estivesse dando
+menor resultado. Para a tomada de decisão, a empresa pretende utilizar a Margem de Contribuição.
+Caso a diretoria da empresa adote, para tomada de decisão, a margem de contribuição unitária por fator
+limitante (horas de produção), a ordem de prioridade para a produção de X, Ye Ze o resultado de cada
+produto serão, respectivamente,
+A produto X = R$ 45,00, produto Y = R$ 40,00, produto Z = R$ 25,00.
+B produto X = R$ 32,00, produto Z = R$ 23,00, produto Y = R$ 22,00.
+C produto Y = R$ 55,00, produto X = R$ 50,00, produto Z = R$ 35,00.
+D produto Y = R$ 80,00, produto Z = R$ 50,00, produto X = R$ 45,00.
+E produto Z = R$ 46,00, produto Y = R$ 44,00, produto X = R$ 32,00.</Unicode></TextEquiv></TextRegion></Page></PcGts>

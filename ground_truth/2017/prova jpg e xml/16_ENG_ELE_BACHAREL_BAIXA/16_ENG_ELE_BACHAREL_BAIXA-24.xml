@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:47:19</Created>
+	<LastChange>2020-11-27T17:03:32</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r3">
+	<Coords points="869,246 872,2112 876,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1450 990,1450 990,1708 891,1708 891,1451 889,1451 889,1307 891,1307 891,376 890,376"/>
+	<TableRegion id="r1">
+	<Coords points="891,894 891,1269 1569,1269 1569,894"/></TableRegion>
+	<ImageRegion id="r2">
+	<Coords points="900,405 900,661 1555,661 1555,405"/></ImageRegion>
+	<TextEquiv conf="0.96430">
+	<Unicode>QUESTÃO 23
+A figura a seguir representa o circuito lógico de
+acionamento de um sistema de alarme.
+No circuito lógico, existem atrasos de propagação
+do sinal elétrico que resultam em atrasos para
+acionamento do alarme. A tabela a seguir
+apresenta os tempos de atraso medidos para cada
+porta lógica.
+Considerando o circuito projetado, as informações
+técnicas e a possibilidade de simplificação,
+qual o menor tempo de resposta possível para
+acionamento desse sistema de alarme?
+O 8ns
+O 7ns
+O 6ns
+O 5ns
+O 4ns</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="169,244 340,244 340,312 859,312 859,780 855,780 855,1171 854,1171 854,1589 556,1589 556,1835 536,1835 536,1889 477,1889 477,1989 461,1989 461,2088 319,2088 319,2067 169,2067 169,1590 168,1590 168,1520 169,1520 169,781 168,781 168,312 169,312"/>
+	<ImageRegion id="r5">
+	<Coords points="177,1194 177,1500 847,1500 847,1194"/></ImageRegion>
+	<TextEquiv conf="0.96753">
+	<Unicode>QUESTÃO 22
+Atualmente, a indústria vem investindo no
+desenvolvimento de tecnologias para minimizar a
+ocorrência de distorção harmônica na rede elétrica,
+problema que pode causar sobrecarga no sistema,
+aumentar a demanda de energia e, até mesmo,
+provocar pane na distribuição de energia elétrica.
+Um filtro passivo composto por resistores R,
+indutores L e capacitores O, pode ser utilizado
+para eliminar componentes harmônicas
+indesejadas. A escolha dos parâmetros RLC
+determina a função de transferência (resposta em
+frequência) do filtro.
+Uma ferramenta comum na análise de circuitos
+elétricos é a transformada de Laplace, por meio da
+qual se pode representar uma entrada arbitrária
+T(t), em termos de componentes exponenciais
+na forma e“, em que o parâmetro s é a frequência
+complexa do sinal e“.
+Considere o circuito da figura a seguir com tensão
+de entrada igual a e'u(t), sendo u(t) uma função
+degrau unitário.
+Para o circuito representado, qual a função de
+transferência H(s) de estado nulo?
+2
+16) = (s+1)(sº+3s+3)
+o
+2
+H(s) = &lt;A
+(s + 1)(35* +3s +1)
+H() e É
+(Ss +3s8º +3s+2)
+H() e
+(38º +3s +1)
+2
+(sº+3s+3)
+o O oO O
+H(s) =</Unicode></TextEquiv></TextRegion></Page></PcGts>

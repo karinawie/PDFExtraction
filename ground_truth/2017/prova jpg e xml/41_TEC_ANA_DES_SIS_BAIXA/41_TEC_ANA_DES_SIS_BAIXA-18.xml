@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:24:56</Created>
+	<LastChange>2020-11-30T17:29:48</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r16">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1275 1119,1275 1119,1532 891,1532 891,1276 890,1276"/>
+	<TableRegion id="r3">
+	<Coords points="1013,677 1013,1111 1450,1111 1450,677"/></TableRegion>
+	<TextEquiv conf="0.96628">
+	<Unicode>QUESTÃO 10
+A álgebra booleana possui um operador unário -,
+conhecido como NÃO, e os operadores binários *
+e +, conhecidos como E e OU, respectivamente.
+A tabela verdade é utilizada para validar uma
+fórmula composta de operadores da álgebra
+booleana. A seguir, é apresentada a tabela
+verdade para as proposições p, q e r diante da
+fórmula G, em que V representa uma proposição
+verdadeira e F uma proposição falsa.
+Considerando as informações contidas na tabela
+acima e a ordem de precedência dos operadores
+booleanos, a fórmula G possui a mesma tabela
+verdade da proposição
+Op+-q*r
+O p+q*-r
+O -p+q*r
+O -p+-q*r.
+O -p+q*-r</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,1603 336,1603 336,1857 169,1857"/>
+	<TableRegion id="r2">
+	<Coords points="283,519 283,1130 736,1130 736,519"/></TableRegion>
+	<TextEquiv conf="0.96513">
+	<Unicode>QUESTÃO 09
+Em uma pesquisa de satisfação com notas de O a
+10, sendo O muito insatisfeito e 10 muito satisfeito,
+uma empresa construiu uma tabela, mostrada a
+seguir, com o resumo das notas atribuídas pelos
+seus clientes aos serviços recebidos.
+Considerando essa situação e as informações
+apresentadas, avalie as afirmações a seguir.
+|. Amédia das notas dos clientes é igual a 6,0.
+Il. A mediana das notas dos clientes é igual a 6,0.
+Ill. O desvio padrão populacional é menor do
+que 3,0.
+IV. O conjunto de dados é amodal.
+V. Um cliente que atribuiu nota 3,0 encontra-se
+no 1º quartil.
+É correto apenas o que se afirma em
+O Le.
+OlLlev
+O LIelv.
+O 1, IVev.
+Qu, IVev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

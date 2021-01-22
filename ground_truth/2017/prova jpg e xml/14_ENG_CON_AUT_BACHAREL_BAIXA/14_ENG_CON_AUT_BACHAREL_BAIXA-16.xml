@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:34:26</Created>
+	<LastChange>2020-11-21T01:08:35</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r2">
+	<Coords points="417,545 418,1344 1327,1343 1326,544"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 513,244 513,311 1577,311 1577,526 1575,526 1575,1738 1577,1738 1577,1860 1576,1860 1576,1974 1108,1974 1108,1975 170,1975 170,1861 169,1861 169,1697 168,1697 168,1669 169,1669 169,245 170,245"/>
+	<TextEquiv conf="0.90798">
+	<Unicode>QUESTÃO DISCURSIVA 05
+O desenvolvimento e a aplicação de robôs industriais em sistemas flexíveis de manufatura dependem,
+além da análise de viabilidade econômica, do atendimento a diversos requisitos técnicos, entre os
+quais podem ser citados: capacidade de carga, volume de trabalho, velocidade de operação e precisão.
+No projeto de um determinado sistema optou-se por utilizar um robô do tipo SCARA na movimentação de
+peças entre duas esteiras (operação pick and place), como mostrado na figura a seguir.
+Considere que:
+* osmotores e os redutores de velocidade estão localizados diretamente nas articulações do robô;
+* oalcancemáximo do robô é de 600 mm;
+* adistânciaentre as duas esteiras é de 1,2 metros, com o robô posicionado no centro desta distância;
+* oscomprimentos dos dois primeiros elos do robô são a1 = 350 mm e a2=250 mm;
+* avelocidade máxima das articulações de rotação é de n rad/s.
+A partir das informações e da figura apresentadas, faça o que se pede nos itens a seguir.
+a) Calcule a quantidade mínima necessária de robôs para atender a um sistema produzindo 15 peças por
+minuto. O tempo necessário para movimentação do eixo vertical (subida e descida) e do acionamento
+da ferramenta é de 1,5 segundos. Desprezar margens de segurança. (valor: 4,0 pontos)
+b) Especifique as equações da cinemática direta para o manipulador que descrevem o movimento deste
+no plano horizontal em função dos ângulos das duas primeiras articulações (0, e 0,). (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

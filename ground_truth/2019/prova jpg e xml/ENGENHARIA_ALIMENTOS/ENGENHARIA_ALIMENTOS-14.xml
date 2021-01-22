@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T02:41:06</Created>
+	<LastChange>2020-09-10T02:41:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-14.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="392,478 392,960 1160,960 1160,478"/></ImageRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="84,179 428,179 428,246 1491,246 1491,1240 1316,1240 1316,1241 1140,1241 1140,1242 965,1242 965,1243 789,1243 789,1244 86,1244 86,1175 85,1175 85,1146 84,1146 84,248 83,248 83,247 84,247"/>
+	<TextEquiv conf="0.82885">
+	<Unicode>QUESTÃO DISCURSIVA 05
+A secagem foi um dos primeiros métodos de conservação de alimentos utilizados pela humanidade.
+Por se tratar de um processo complexo, a natureza do alimento, suas propriedades físicas e sua relação
+com os fenômenos de transferência de calor e de massa devem ser levados em consideração no
+dimensionamento de secadores industriais. A figura a seguir representa uma curva típica de secagem de
+um determinado alimento (kg de água retirada em função do tempo).
+Disponível em: &lt;https://ainfo.cnptia.embrapa.br/digital/bitstream/item/77765/1/doc-276.pdf&gt;. Acesso em: 25 jun. 2019 (adaptado).
+Com base na figura e nas informações apresentadas, faça o que se pede nos itens a seguir.
+a) Identifique os períodos A, B, C, De E e explique o que ocorre em cada um deles. (valor: 5,0 pontos)
+b) Apresente e justifique pelo menos dois fatores que podem alterar o comportamento de uma curva
+típica de secagem de alimentos. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

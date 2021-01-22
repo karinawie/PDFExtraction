@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:29:42</Created>
+	<LastChange>2020-09-13T22:30:55</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-26.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r4">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,246 770,246 770,768 769,768 769,1320 470,1320 470,1375 273,1375 273,1503 322,1503 322,1583 234,1583 234,1629 85,1629 85,1342 133,1342 133,768 84,768 84,700 99,700 99,555 83,555 83,246 84,246"/>
+	<TextEquiv conf="0.95702">
+	<Unicode>QUESTÃO 27
+A incidência posteroanterior (PA) é uma das
+incidências básicas do tórax. No entanto, quando o
+paciente não é capaz de ficar em posição ortostática,
+realiza-se a incidência anteroposterior (AP), com
+o paciente em posição semiereta ou em decúbito
+dorsal. Dessa forma, o tecnólogo em radiologia
+precisa identificar os critérios radiográficos para
+avaliação da qualidade da imagem gerada.
+BONTRAGER, K. L.; LAMPIGNANO, !J. P. Tratado de posicionamento
+radiográfico e anatomia associada, 8. ed. Rio de Janeiro:
+Elsevier, 2015 (adaptado).
+Considerando uma incidência AP de tórax, avalie as
+afirmações a seguir.
+l. Um possível derrame pleural poderá
+encobrir as tramas pulmonares, quando
+comparado à uma radiografia na incidência
+PA em posição ortostática.
+Il. O coração aparecerá com dimensões
+maiores, devido à ampliação causada pela
+distância foco-receptor (DFR) menor e uma
+distância objeto-receptor maior.
+Ill. A inspiração completa e profunda pode não
+ser alcançada pelo paciente, o que resultará
+em uma imagem com apenas seis a oito
+costelas posteriores acima do diafragma, e
+os pulmões aparecerão mais densos.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="805,179 976,179 976,246 1492,246 1492,896 1491,896 1491,1158 1492,1158 1492,1747 1199,1747 1199,1801 986,1801 986,1925 1043,1925 1043,2050 806,2050 806,1832 814,1832 814,1768 854,1768 854,1132 806,1132 806,1025 833,1025 833,897 805,897"/>
+	<TextEquiv conf="0.96456">
+	<Unicode>QUESTÃO 28
+A realização periódica de testes que avaliam
+a constância de um equipamento de Raios X
+diagnóstico é obrigatória e seu objetivo é assegurar
+a obtenção de imagens que permitam uma
+correta interpretação médica, com exposição do
+paciente a níveis de radiação minimizados. Os
+resultados das avaliações dos diversos parâmetros
+de funcionamento dos equipamentos de Raios X,
+da qualidade de imagem e dos níveis de dose de
+referência para os diversos tipos de exames são
+informados no relatório dos testes de constância
+dos equipamentos. Entre os parâmetros avaliados
+estão a exatidão e reprodutibilidade da tensão e do
+tempo de exposição, o rendimento do tubo de Raios
+X, a dose de entrada na pele para exames de Raios X
+fixos convencionais, odontológicos e mamográficos,
+além da camada semirredutora (CSR).
+BRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária.
+Radiodiagnóstico médico: desempenho de equipamentos
+e segurança. Brasília, 2005 (adaptado).
+Considerando os resultados de testes de constância
+em um programa de garantia da qualidade, avalie
+as afirmações a seguir.
+|. Os equipamentos de Raios X devem
+apresentar um rendimento, definido como
+a quantidade de Raios X produzidos por
+unidade de corrente elétrica (mA) para uma
+dada tensão de pico (kVp), que permita
+a produção de imagens com qualidade
+diagnóstica.
+Il. Baixos valores da camada semirredutora
+indicam equipamentos com feixes de Raios
+X com alta energia média.
+Ill. Resultados elevados da dose de entrada
+na pele são indicativos da necessidade
+de revisão das técnicas radiográficas para
+redução da exposição dos pacientes, sem
+prejuízo da qualidade de imagem.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

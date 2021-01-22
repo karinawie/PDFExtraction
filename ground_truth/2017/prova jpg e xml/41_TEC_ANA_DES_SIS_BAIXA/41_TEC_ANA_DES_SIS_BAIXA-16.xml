@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:25:14</Created>
+	<LastChange>2020-11-30T17:30:35</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,244 513,244 513,321 1576,321 1576,496 1471,496 1471,544 1414,544 1414,1506 1575,1506 1575,1707 1576,1707 1576,1987 1486,1987 1486,2091 219,2091 219,2090 218,2090 218,1472 169,1472 169,1471 168,1471 168,1442 169,1442 169,350 168,350 168,320 169,320"/>
+	<ImageRegion id="r1">
+	<Coords points="180,569 180,1413 1558,1413 1558,569"/></ImageRegion>
+	<TextEquiv conf="0.86518">
+	<Unicode>QUESTÃO DISCURSIVA 05
+A coordenação de gestão de pessoas (CGP) de uma empresa solicitou à equipe de TI que desenvolvesse
+um aplicativo (app) para criação de uma rede social on-line que incentivasse os empregados a idealizar e
+executar projetos. A fim de realizar o levantamento de requisitos, a equipe de desenvolvimento se reuniu
+com a CGP e alguns empregados e, para melhorar a comunicação entre os envolvidos, os analistas de
+sistemas da empresa optaram pela prototipação de telas do app, conforme os exemplos a seguir.
+Tendo-se usado a abordagem de prototipação, foram documentados os seguintes requisitos:
+* todo colaborador deve informar número de matrícula, nome, endereço de e-mail e senha de login
+para se cadastrar no app e poder registrar projetos e enviar comentários; a coordenação de um
+projeto é atribuída automaticamente ao colaborador que o registrar;
+* cada projeto pode ser classificado em uma de duas possíveis categorias: "Melhoria de Processo"
+ou "Social"; além dos dados em comum para ambas as categorias, um projeto de "Melhoria de
+Processo" deve ser alocado ao departamento (selecionado de uma lista) em que ele será aplicado
+e os resultados esperados devem ser informados (conforme o protótipo 1); para um projeto
+"Social", deve-se indicar o público beneficiário (conforme o protótipo 2);
+º*º uma vezregistrado o projeto, qualquer colaborador pode visualizá-lo no app e registrar um ou mais
+comentários para contribuir com o refinamento da ideia (conforme o protótipo 3); os comentários
+são visualizados em ordem cronológica, por data e horário;
+º* ocoordenador do projeto pode incluir até três colaboradores para participarem da equipe.</Unicode></TextEquiv></TextRegion></Page></PcGts>

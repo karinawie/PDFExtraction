@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:35:28</Created>
+	<LastChange>2020-11-25T19:06:26</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,308 1575,308 1575,309 1576,309 1576,1689 1501,1689 1501,2112 891,2112 891,959 890,959"/>
+	<ImageRegion id="r3">
+	<Coords points="886,988 886,1319 1591,1319 1591,988"/></ImageRegion>
+	<TextEquiv conf="0.96711">
+	<Unicode>QUESTÃO 19
+A teoria dos grafos estuda as relações entre
+elementos em um determinado conjunto.
+Um grafo G (V, E) é determinado por um conjunto
+não vazio de vértices (V) e um subconjunto de pares
+de vértices não ordenados, chamados arestas (E).
+A figura a seguir representa a possibilidade
+de voos de uma companhia aérea tal que
+V = (fPorto Alegre, Curitiba, São Paulo,
+Rio de Janeiro e Brasília), representa
+o conjunto das capitais (vértices), e
+E = ffíPorto Alegre, Curitiba), (Curitiba, São
+Paulo), (São Paulo, Rio de Janeiro), fPorto
+Alegre, Rio de Janeiro), (São Paulo, Brasília) ),
+representa essas possíveis conexões (arestas)
+entre as capitais.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+|. São Paulo é adjacente a Porto Alegre.
+Il. Porto Alegre possui valência igual a 2.
+Ill. Rio de Janeiro é incidente em São Paulo e
+Porto Alegre.
+IV. Curitiba possui comprimento igual a 2.
+É correto apenas o que se afirma em
+Oie
+O le.
+O eiv
+O LIlelv.
+OLMEelv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,316 856,316 856,864 853,864 853,1036 854,1036 854,1237 573,1237 573,1344 855,1344 855,1663 854,1663 854,1779 853,1779 853,2063 763,2063 763,2113 171,2113 171,2114 170,2114 170,1664 169,1664 169,1596 168,1596 168,1595 218,1595 218,1344 451,1344 451,1237 219,1237 219,1238 218,1238 218,983 168,983 168,317 169,317"/>
+	<TextEquiv conf="0.96437">
+	<Unicode>QUESTÃO 18
+Uma empresa iniciou um projeto para implantação
+de um ERP (Enterprise Resource Planning), com o
+objetivo de aumentar a produtividade e elevar seu
+patamar tecnológico. O sistema que era utilizado
+anteriormente foi desenvolvido pela própria
+empresa e não mais atendia às necessidades
+operacionais. A empresa optou por implantar
+um módulo WMS (Warehouse Management
+System), que se ocupa de tarefas relacionadas
+ao gerenciamento das operações de estoques.
+O módulo foi parametrizado e customizado de
+acordo com as necessidades identificadas na fase
+de planejamento do projeto de implantação.
+A partir do caso apresentado, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Customização é a modificação de um
+sistema ERP para que ele possa adaptar-se
+a determinada situação empresarial que
+não pode ser reproduzida por parâmetros
+preexistentes.
+PORQUE
+Il. A parametrizaçção é o processo de
+determinação do comportamento de um
+sistema ERP por meio da definição dos
+valores de parâmetros disponibilizados por
+ele, que são variáveis internas.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e 11 são proposições verdadeiras e
+a Il é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

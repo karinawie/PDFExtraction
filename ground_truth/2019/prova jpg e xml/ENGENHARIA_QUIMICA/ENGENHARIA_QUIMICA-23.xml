@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:52:49</Created>
+	<LastChange>2020-09-15T02:53:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-23.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,395 1490,395 1490,922 1491,922 1491,993 788,993 788,994 85,994 85,995 84,995 84,746 85,746 85,539 83,539 83,247 84,247"/>
+	<TextEquiv conf="0.96817">
+	<Unicode>QUESTÃO 21
+A bactéria anaeróbia facultativa Klebsiella oxytoca tem a capacidade de utilizar glicerol como fonte de
+carbono para produção de butano-2,3-diol. Em altas concentrações de oxigênio dissolvido, o microrganismo
+preferencialmente incrementa a massa celular e, sob limitação de oxigênio, é favorecida a produção do
+álcool. Além disso, altas concentrações de substrato e produtos inibem o metabolismo nesse bioprocesso.
+Considerando essas informações, assinale a opção que apresenta o modo de condução do bioprocesso
+que proporcionará maior produtividade em termos de butano-2,3-diol e menor quantidade de
+glicerol residual.
+A Produção em batelada alimentada com reciclo de células e alto coeficiente volumétrico de transferência
+de oxigênio.
+B Produção em batelada com baixa concentração inicial de glicerol e alto coeficiente volumétrico de
+transferência de oxigênio.
+C Produção em batelada com alta concentração inicial de glicerol e baixo coeficiente volumétrico de
+transferência de oxigênio.
+D Produção em batelada alimentada com baixa concentração inicial de glicerol e alto coeficiente
+volumétrico de transferência de oxigênio.
+E Produção em sistema contínuo com um único reator com alta concentração de glicerol na alimentação
+e baixo coeficiente volumétrico de transferência de oxigênio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,1025 255,1025 255,1093 1491,1093 1491,1575 813,1575 813,1576 470,1576 470,1631 330,1631 330,1886 85,1886 85,1599 133,1599 133,1313 83,1313 83,1189 85,1189 85,1056 84,1056"/>
+	<TextEquiv conf="0.96656">
+	<Unicode>QUESTÃO 22
+Em processos de tratamento de efluentes, vários fatores afetam a velocidade de sedimentação das
+partículas, a qual é crucial para a estabilidade de suspensões e para a homogeneidade destas preparações.
+A respeito da velocidade de sedimentação das partículas em uma suspensão, avalie as afirmações a seguir.
+|. A redução do tamanho das partículas da fase dispersa geralmente diminui a velocidade de
+sedimentação das partículas.
+Il. O aumento da viscosidade da fase dispersante geralmente diminui a velocidade de sedimentação
+das partículas.
+Ill. A diferença de densidade entre a fase dispersa e a fase dispersante afeta a velocidade de
+sedimentação das partículas.
+IV. Avelocidade de sedimentação é diretamente proporcional à densidade das partículas, considerando
+a fase líquida com densidade constante.
+É correto o que se afirma em
+A I e II, apenas.
+B I e III, apenas.
+C II e IV, apenas.
+D III e IV, apenas.
+E I, II, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

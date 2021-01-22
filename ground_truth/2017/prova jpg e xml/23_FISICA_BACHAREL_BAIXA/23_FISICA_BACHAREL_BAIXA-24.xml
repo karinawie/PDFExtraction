@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:51:09</Created>
+	<LastChange>2020-11-27T21:02:26</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="890,244 1061,244 1061,298 1576,298 1576,702 1575,702 1575,830 1576,830 1576,1288 1359,1288 1359,1469 1575,1469 1575,1470 1576,1470 1576,1698 1575,1698 1575,1781 1381,1781 1381,1839 1047,1839 1047,2093 891,2093 891,1864 892,1864 892,1805 985,1805 985,1698 939,1698 939,1586 985,1586 985,1469 1110,1469 1110,1288 939,1288 939,801 891,801 891,702 890,702"/>
+	<TextEquiv conf="0.96339">
+	<Unicode>QUESTÃO 23
+Por meio dos formalismos lagrangeano e
+hamiltoniano, é possível obter as equações de
+movimento de um sistema de modo objetivo e
+sistemático. Contrariamente aos métodos baseados
+nas leis de Newton, esses formalismos não exigem
+a identificação das forças envolvidas, o que
+possibilita simplificar o tratamento de sistemas de
+maior complexidade, especialmente quando não é
+relevante a determinação das forças associadas às
+restrições ao movimento das suas partículas.
+No que diz respeito aos formalismos lagrangeano e
+hamiltoniano, avalie as afirmações a seguir.
+|. Vínculos são limitações exclusivamente
+de ordem cinemática impostas ao sistema
+mecânico.
+Il. Para definir completamente a posição de
+um sistema com n graus de liberdade, é
+necessário ter n variáveis independentes,
+escolhidas em qualquer sistema de
+referência, usando-se para isso coordenadas
+generalizadas.
+Ill. As equações de movimento, de sistema
+conservativo, podem ser escritas sob a forma,
+alor| or.
+dt
+a a, q
+0,
+em que L representa a função lagrangeana
+e q, as coordenadas generalizadas.
+IV.Se um sistema forconservativo,
+o hamiltoniano, expresso por H= T+ /YV,
+pode ser interpretado como a energia total
+do sistema, em que Té a energia cinética e
+V, a energia potencial.
+É correto apenas o que se afirma em
+Oie
+Oem,
+O ueiv
+OL Ilelv.
+O Lev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,299 854,299 854,1056 856,1056 856,1253 854,1253 854,1770 660,1770 660,1834 334,1834 334,2099 169,2099 169,1868 170,1868 170,1800 218,1800 218,850 169,850"/>
+	<TextEquiv conf="0.95185">
+	<Unicode>QUESTÃO 22
+O estudo da Mecânica Analítica baseia-se nas
+chamadas equações de Lagrange — uma vez
+conhecida a função de Lagrange de um sistema
+mecânico, essas equações estabelecerão as
+relações entre as acelerações, as velocidades e
+as coordenadas, constituindo as equações de
+movimento do sistema.
+Considerando essas informações e a situação em
+que uma partícula se desloque livremente em um
+sistema de referência inercial tal que a função de
+Lagrange independa do vetor posição e seja função
+apenas do valor absoluto da velocidade v da
+partícula, avalie as afirmações a seguir.
+|. Caso se estabeleça um sistema para Oo
+qual a partícula esteja permanentemente
+em repouso, então estará constituído um
+sistema referencial absoluto.
+Il. Se o movimento livre da partícula ocorrer
+num sistema de referência inercial, então
+todo o movimento livre se dará nesse
+referencial com velocidade constante em
+intensidade e em direção.
+Ill. Se, ao lado de um sistema inercial,
+coexistir um outro sistema animado de um
+movimento retilíneo e uniforme em relação
+ao primeiro, então um movimento livre
+se efetuará nesse outro sistema com uma
+velocidade constante.
+IV. Se as coordenadas de um ponto em dois
+sistemas de referência diferentes estiverem
+relacionadas entre si por meio da velocidade
+uniforme entre esses dois sistemas, então a
+pulsação do tempo terá o mesmo ritmo nos
+dois sistemas de referência.
+É correto apenas o que se afirma em
+Oie.
+O lelv
+Bem.
+O Lev.
+O 1NMeiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

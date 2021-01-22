@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:21:30</Created>
+	<LastChange>2020-11-30T17:18:27</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-38.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,308 1577,308 1577,381 1576,381 1576,521 1487,521 1487,579 1243,579 1243,1197 1419,1197 1419,1245 1576,1245 1576,1308 660,1308 660,1369 334,1369 334,1623 169,1623 169,579 168,579 168,308 169,308"/>
+	<ImageRegion id="r1">
+	<Coords points="358,600 358,1025 1366,1025 1366,600"/></ImageRegion>
+	<TextEquiv conf="0.96201">
+	<Unicode>QUESTÃO 34
+JOÃO GRILO: — Isso é coisa de seca. Acaba nisso, essa fome: ninguém pode ter menino e haja cavalo no
+mundo. A comida é mais barata e é coisa que se pode vender. Mas seu cavalo, como foi?
+CHICÓ: — Foi uma velha que me vendeu barato, porque ia se mudar, mas recomendou todo cuidado,
+porque o cavalo era bento. E só podia ser mesmo, porque cavalo bom como aquele eu nunca tinha visto.
+SUASSUNA, A. Auto da Compadecida. Rio de Janeiro: Agir, 2000 (adaptado).
+A seguir apresenta-se um modelo de dados elaborado a partir do diálogo entre Chicó e João Grilo.
+codigo
+Com base no diálogo e no diagrama apresentados, avalie as afirmações a seguir.
+|. OChicóe a velha poderão ser cadastrados na entidade pessoa.
+Il. O Chicó e a velha poderão ter mais que um cavalo cadastrados.
+Ill. O atributo rg da entidade pessoa pode ter a função de chave primária nessa entidade.
+IV. O cavalo deverá ter no mínimo uma pessoa e uma pessoa poderá ser cadastrada sem a necessidade
+de ter um cavalo.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O 11 elv.
+O Melv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

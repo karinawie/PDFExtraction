@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:56:46</Created>
+	<LastChange>2020-11-30T18:36:18</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-17.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1575,312 1575,568 1576,568 1576,1433 1277,1433 1277,1489 1128,1489 1128,1743 891,1743 891,1520 892,1520 892,1455 939,1455 939,881 890,881 890,653 900,653 900,535 890,535"/>
+	<TextEquiv conf="0.96658">
+	<Unicode>QUESTÃO 10
+A virtualização, tecnologia que provê uma
+abstração dos recursos físicos e lógicos, permite
+que instâncias de um sistema operacional sejam
+executadas em hardware virtual, suportadas por um
+hipervisor que gerencia o acesso aos recursos do
+hardware físico.
+STALLINGS, W.; BROWN, L. Segurança de computadores: princípios
+e práticas. 2. ed. Rio de Janeiro: Elsevier, 2014 (adaptado).
+Considerando que, para a elaboração e
+implantação de projetos lógicos e físicos, a
+virtualização é considerada na manutenção,
+administração, segurança e gerenciamento de
+serviços de redes de computadores em um
+datacenter, avalie as afirmações a seguir.
+|. A virtualização faz com que um único
+recurso de hardware suporte várias
+instâncias simultâneas de sistemas, ou que
+vários recursos de hardware suportem uma
+instância única de sistema.
+Il. Na virtualização, um drive de disco pode
+ser particionado e apresentado como
+vários drives de disco para um sistema
+computacional.
+Ill. Na virtualização, vários drives de disco
+podem ser concatenados e apresentados
+como um único drive de disco para um
+sistema computacional.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+OIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,1430 660,1430 660,1492 334,1492 334,1746 169,1746 169,1523 170,1523 170,1458 218,1458 218,717 169,717 169,621 168,621 168,312 169,312"/>
+	<TextEquiv conf="0.95205">
+	<Unicode>QUESTÃO 09
+Durante o projeto da rede de uma empresa, muitas
+vezes é necessário limitar o domínio de broadcast,
+dividindo a rede em diversas LANs (Local Area
+Networks). Uma forma flexível de se realizar esse
+particionamento é por meio do uso de VLANs
+(virtual LANs). Nesse caso, diversas redes lógicas
+são criadas em um mesmo switch físico, o qual
+segrega o tráfego entre elas.
+No que se refere às VLANs, avalie as afirmações
+a seguir.
+|. O padrão IEEE 802.1Q especifica como pode
+ser estabelecido o trunking, isto é, a ligação
+ponto a ponto entre dois switches que
+compartilham mais de uma VLAN.
+Il. A interligação entre duas VLANS pode
+ser realizada sem a necessidade de um
+equipamento da camada de rede, uma vez
+que elas compartilham o mesmo switch.
+Ill. É possível criar uma VLAN em função dos
+endereços MAC de seus membros, ou
+seja, um equipamento fará parte da VLAN
+independentemente da porta do switch
+onde ele seja conectado.
+IV. Equipamentos ligados em uma mesma
+VLAN, em switches diferentes que estejam
+ligados entre si, fazem parte de diferentes
+domínios de colisão.
+É correto apenas o que se afirma em
+(ABENIA
+Oie.
+O lelv.
+O LIlelv.
+O uMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

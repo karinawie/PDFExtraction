@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:45:45</Created>
+	<LastChange>2020-09-12T22:46:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-27.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="381,371 381,1263 1244,1263 1244,371"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="85,179 254,179 254,239 1491,239 1491,1467 1210,1467 1210,1468 1145,1468 1145,1517 881,1517 881,1518 616,1518 616,1519 293,1519 293,1768 86,1768 86,1769 85,1769 85,1472 84,1472 84,1325 83,1325 83,239 84,239 84,180 85,180"/>
+	<TextEquiv conf="0.93122">
+	<Unicode>QUESTÃO 23
+A figura 1 ilustra uma situação típica em que um locutor tem sua voz amplificada e emitida por um alto-
+falante. O fenômeno conhecido como microfonia ocorre quando o som do alto-falante é captado pelo
+microfone e amplificado novamente sucessivas vezes, gerando um som agudo característico.
+A figura 2 é um modelo do sistema ilustrado na figura 1, onde G é o ganho do amplificador,
+R é a fração do som do alto-falante que atinge o microfone e 7T, em e” é o atraso de propagação do
+som do alto-falante ao microfone. Todos os parâmetros são constantes positivas. A microfonia ocorre
+quando esse sistema se torna instável.
+Nesse contexto, assinale a opção cuja condição provoca microfonia no sistema.
+A GR&lt;T.
+B GR&gt;T.
+C GR &gt; 1/T.
+D GR &lt;A.
+E GR&gt;1</Unicode></TextEquiv></TextRegion></Page></PcGts>

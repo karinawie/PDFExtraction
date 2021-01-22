@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:36:38</Created>
+	<LastChange>2020-09-12T18:37:15</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-39.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="205,263 205,1676 1418,1676 1418,263"/></ImageRegion>
+	<TextRegion id="r109" type="heading">
+	<Coords points="83,183 1315,183 1315,184 1403,184 1403,185 1490,185 1490,1816 1491,1816 1491,1936 1490,1936 1490,2033 1378,2033 1378,2037 258,2037 258,2036 172,2036 172,2035 86,2035 86,2034 85,2034 85,212 84,212 84,211 83,211"/>
+	<TextEquiv conf="0.96389">
+	<Unicode>A figura apresenta o programa parcial do controlador lógico programável em linguagem SCF
+(Sequential Flow Chart).
+Nesse caso, os valores da receptividade da transição com os números 1, 2 e 3 indicados na figura,
+respectivamente, são
+A BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1 e BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1
+B BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1,BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1 e BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1
+C BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1 e BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1
+D BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR GF = 1 e BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1
+E BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1 e BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1</Unicode></TextEquiv></TextRegion></Page></PcGts>

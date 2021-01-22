@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T15:25:28</Created>
+	<LastChange>2020-11-18T15:31:57</LastChange></Metadata>
+	<Page imageFilename="tecnologia_em_logistica-26.jpg" imageWidth="1619" imageHeight="2170">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="106,181 277,181 277,249 705,249 705,745 1513,745 1513,969 1514,969 1514,1276 1513,1276 1513,1450 811,1450 811,1451 108,1451 108,1452 107,1452 107,1278 106,1278 106,934 105,934 105,745 106,745"/>
+	<TextEquiv conf="0.96468">
+	<Unicode>QUESTÃO 28
+Considere a seguinte cadeia de suprimentos.
+Nessa cadeia, o número 1 representa um software que visa aumento da velocidade de comunicação entre
+empresas, agiliza o processo de compras e que integra os fornecedores à empresa. O número 2 representa
+um software utilizado internamente na empresa para gestão de seu armazém; e o número 3, um software
+que pode ser utilizado para controle e gestão das entregas da indústria para seus distribuidores, que são
+grandes atacadistas.
+Nesse contexto, os tipos de softwares usados para as situações 1, 2 e 3, respectivamente, são
+O MRP (material requirement planning), ERP (enterprise resource planning) e TMS (transport
+management system).
+O ERP (enterprise resource planning), MRP (material requirement planning) e WMS (warehouse
+management system).
+O EDI (electronic data interchange), WMS (warehouse management system) e TMS (transport
+management system).
+O TMS (transport management system), EDI (eletronic data interchange) e WMS (warehouse
+management system).
+O EDI (electronic data interchange), TMS (transport management system) e ERP (enterprise resource
+planning).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="210,297 210,723 1413,723 1413,297"/></ImageRegion></Page></PcGts>

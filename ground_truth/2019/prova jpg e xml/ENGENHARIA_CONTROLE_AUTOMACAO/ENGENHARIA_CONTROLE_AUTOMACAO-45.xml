@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:26:44</Created>
+	<LastChange>2020-09-12T18:26:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-45.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="80,285 80,619 726,619 726,285"/></ImageRegion>
+	<TextRegion id="r6" type="caption">
+	<Coords points="1490,183 1490,252 84,252 84,183"/>
+	<TextEquiv conf="0.96460">
+	<Unicode>Com base no algoritmo apresentado, assinale a opção que representa corretamente o diagrama de busca
+binária implementado.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="71,626 71,973 723,973 723,626"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="60,984 60,1331 721,1331 721,984"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="52,1342 52,1684 684,1684 684,1342"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="52,1707 52,2047 752,2047 752,1707"/></ImageRegion></Page></PcGts>

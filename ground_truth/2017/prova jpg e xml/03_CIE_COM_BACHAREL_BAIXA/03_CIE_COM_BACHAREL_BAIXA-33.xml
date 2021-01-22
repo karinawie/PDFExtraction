@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:49:39</Created>
+	<LastChange>2020-09-18T02:49:51</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="163,458 163,938 1575,938 1575,458"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,244 339,244 339,308 1575,308 1575,444 1574,444 1574,1061 1576,1061 1576,1359 873,1359 873,1360 170,1360 170,1361 169,1361"/>
+	<TextEquiv conf="0.96823">
+	<Unicode>QUESTÃO 35
+Um programador inexperiente está desenvolvendo um sistema multithread que possui duas estruturas
+de dados diferentes, El e E2, as quais armazenam valores inteiros. O acesso concorrente a essas
+estruturas é controlado por semáforos. Durante sua execução, o sistema dispara as threads T1 e T2
+simultaneamente. A tabela a seguir possibilita uma visão em linhas gerais dos algoritmos dessas threads.
+Durante a execução do referido programa, é possível que
+A não ocorra deadiock, porque a sequência de alocação dos recursos impede naturalmente o problema.
+B ocorra deadlock, que pode ser evitado se o programador tomar o cuidado de não executar cálculos
+entre um pedido de alocação e outro.
+C ocorra deadlock, sendo a probabilidade dessa ocorrência tão baixa e sua consequência tão inócua que
+não haverá comprometimento do programa.
+D não ocorra deadiock, desde que o programador use semáforos para controlar o acesso às estruturas
+de dados, o que é suficiente para evitar o problema.
+E ocorra deadlock, que pode ser evitado se o programador tomar o cuidado de solicitar o acesso às
+estruturas de dados na mesma ordem em ambas as threads.</Unicode></TextEquiv></TextRegion></Page></PcGts>

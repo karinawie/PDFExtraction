@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T21:09:33</Created>
+	<LastChange>2020-09-12T17:44:45</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-29.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 254,179 254,244 1491,244 1491,367 1492,367 1492,416 1490,416 1490,504 1022,504 1022,505 941,505 941,874 1490,874 1490,1079 1492,1079 1492,1185 1039,1185 1039,1514 1099,1514 1099,1790 1040,1790 1040,1791 587,1791 587,1792 470,1792 470,1846 354,1846 354,2047 85,2047 85,2048 84,2048 84,1904 85,1904 85,1814 179,1814 179,1501 133,1501 133,1472 179,1472 179,1230 133,1230 133,983 84,983 84,954 86,954 86,767 183,767 183,584 85,584 85,507 84,507 84,348 83,348 83,244 84,244"/>
+	<TextEquiv conf="0.86652">
+	<Unicode>QUESTÃO 25
+A linguagem Python não permite alguns tipos de otimização como, por exemplo, a recursão em cauda e,
+devido à sua natureza dinâmica, é impossível realizar esse tipo de otimização em tempo de compilação
+tal como em linguagens funcionais como Haskell ou ML.
+Disponível em: &lt;http:/www.python-history.blogspot.com/2009/04/origins-of-pythons-functional-features.html&gt;.
+Acesso: em 15 jun. 2019 (adaptado).
+O trecho de código a seguir, escrito em Python, realiza a busca binária de um elemento x em uma lista
+lst e afunçãobinary search tem código recursivo em cauda.
+1 def binary search(x, lst, low=None, high=None):
+2 if low == None : low = O
+3 if high == None : high = len(lst)-1l
+4 mid = low + (high - low) // 2
+5 if low &gt; high
+6 return None
+7 elif lst[mid] == x
+8 return mid
+9 elif lIst[imid] &gt; x
+10 return binary search(x, lst, low, mid-1l)
+11 else
+12 return binary search(x, lst, mid+l1, high)
+Disponível em: &lt;https://www.kylem.net/programming/tailcall.html&gt;. Acesso em: 15 jun. 2019 (adaptado).
+Considerando esse trecho de código, avalie as afirmações a seguir.
+I. Substituindo-se o conteúdo da linha 10 por high = mid - 1 e substituindo-se o conteúdo da
+linha 12 por low = mid + 1, não se altera o resultado de uma busca.
+Il. Envolvendo-se o código das linhas 4a 12 emum laço while True, substituindo-se o conteúdo
+da linha 10 por high = mid -— 1 e substituindo-se o conteúdo da linha 12 por low = mid + 1
+remove-se a recursão de cauda e o resultado da busca não é alterado.
+Ill. Substituindo-se o código da linha 10 por:
+newhigh = mid-1l
+return binary search(x, lst, low, newhigh)
+e substituindo-se o código da linha 12 por:
+newlow = mid+1
+return binary search(x, lst, newlow, high)
+remove-se a recursão de cauda.
+IV. Substituindo-se o conteúdo das linhas 9 a 12 por
+if lst[imid] &gt; x
+newlow = low
+newhigh = mid-1
+else:
+newlow = mid+1
+newhigh = high
+return binary search(x, lst, newlow, newhigh)
+mantém-se o resultado da busca.
+É correto o que se afirma em
+A I, apenas.
+B II e III, apenas.
+C II e IV, apenas.
+D I, III e IV, apenas.
+E I, II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

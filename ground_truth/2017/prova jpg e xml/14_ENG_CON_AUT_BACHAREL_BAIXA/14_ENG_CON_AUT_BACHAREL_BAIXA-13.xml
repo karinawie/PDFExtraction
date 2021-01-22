@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:34:43</Created>
+	<LastChange>2020-11-21T01:10:08</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="169,322 513,322 513,382 1576,382 1576,579 1574,579 1574,670 886,670 886,982 1574,982 1574,1040 1576,1040 1576,1127 171,1127 171,1128 170,1128 170,1016 169,1016 169,982 170,982 170,580 169,580"/>
+	<ImageRegion id="r1">
+	<Coords points="516,675 516,902 1230,902 1230,675"/></ImageRegion>
+	<TextEquiv conf="0.96503">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Os motores CC são usados em diversos dispositivos, tais como brinquedos infantis e manipuladores
+robóticos industriais. A relação entre a tensão aplicada na armadura e o ângulo de rotação do motor pode
+ser modelada como um sistema linear invariante no tempo dado pela seguinte função de transferência:
+K
+s(ts +1)
+Para o controle de posição do motor descrito, considere o sistema com realimentação unitária
+representado na figura a seguir.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Considerando K =1, calcule o erro estacionário para uma entrada do tipo rampa unitária. (valor: 6,0 pontos)
+dl ds À
+b) Considerando ação integradora, isto é, K, = To calcule o erro estacionário para uma entrada do tipo
+rampa unitária. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

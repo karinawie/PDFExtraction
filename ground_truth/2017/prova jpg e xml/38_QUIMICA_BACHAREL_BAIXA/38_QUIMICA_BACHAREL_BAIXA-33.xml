@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T01:35:22</Created>
+	<LastChange>2020-11-30T01:40:27</LastChange></Metadata>
+	<Page imageFilename="38_QUIMICA_BACHAREL_BAIXA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="169,243 339,243 339,316 1575,316 1575,1215 1576,1215 1576,1666 1225,1666 1225,1667 874,1667 874,1668 170,1668 170,1591 169,1591 169,1343 168,1343 168,1315 169,1315 169,1314 200,1314 200,481 168,481 168,244 169,244"/>
+	<ImageRegion id="r1">
+	<Coords points="169,516 169,1175 872,1175 872,516"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="883,500 883,1191 1563,1191 1563,500"/></ImageRegion>
+	<TextEquiv conf="0.93630">
+	<Unicode>QUESTÃO 35
+As figuras 1 e 2, apresentadas a seguir, foram extraídas de estudo sobre a determinação voltamétrica de
+um inseticida, em meio aquoso, empregando-se um eletrodo sólido de amálgama de prata e um fio de
+platina como eletrodos de trabalho e auxiliar, respectivamente. A quantificação do inseticida nas amostras
+foi realizada por adição padrão.
+LUCCA B. G. et al. Voltammetric determination of insecticide thiodicarb through its electrochemical reduction using novel solid amalgam
+electrode fabricated with silver nanoparticles. Electrochimica Acta, 246, p. 748-756, 2017 (adaptado).
+A partir das informações apresentadas sobre sistema eletroquímico, assinale a opção correta.
+O O sinal voltamétrico representa a corrente que flui entre os eletrodos de referência e de trabalho.
+O Os voltamogramas apresentados na figura 1 foram obtidos usando-se a técnica de voltametria cíclica.
+O O sinal analítico é gerado na faixa de -0,2 V, com correlação linear com a concentração do inseticida.
+O O pico, na região negativa de potencial, em torno de -0,6 V, é obtido durante a redução do inseticida.
+O O sinal analítico traçado na região de concentrações negativas, na figura 2, representa uma limitação
+da técnica para determinação do inseticida em baixas concentrações.</Unicode></TextEquiv></TextRegion></Page></PcGts>

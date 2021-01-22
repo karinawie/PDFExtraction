@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:50:48</Created>
+	<LastChange>2020-09-12T22:50:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-32.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="121,1389 121,2050 1444,2050 1444,1389"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 255,179 255,253 1491,253 1491,418 1403,418 1403,571 1489,571 1489,742 1490,742 1490,924 1489,924 1489,1139 1021,1139 1021,1140 827,1140 827,1242 1491,1242 1491,1373 1022,1373 1022,1374 553,1374 553,1375 84,1375 84,1376 83,1376 83,1242 84,1242 84,958 85,958 85,818 84,818 84,680 85,680 85,539 84,539 84,421 83,421 83,253 84,253"/>
+	<TextEquiv conf="0.96604">
+	<Unicode>QUESTÃO 28
+No desenvolvimento de um projeto de instalações elétricas, o dimensionamento adequado dos
+componentes e a segurança das instalações são aspectos importantes que a norma ABNT NBR-5410
+visa regulamentar por meio do estabelecimento de diversos critérios, entre os quais os expostos nos
+trechos a seguir.
+Quanto às cargas de iluminação em unidades residenciais:
+a) em cômodos com área igual ou inferior a 6 m?, deve ser prevista uma carga mínima de 100 VA.
+b) em cômodos com área superior a 6 m?, deve ser prevista uma carga de 100 VA para os primeiros 6 m?,
+acrescida de 60 VA para cada aumento de 4 m? inteiros.
+Quanto à quantidade de pontos de Tomadas de Uso Geral (TUG):
+a) em cozinhas, copas, áreas de serviço, lavanderias e locais análogos, deve ser previsto um ponto de
+tomada para cada 3,5 m (ou fração) de perímetro;
+b) nos demais cômodos, deve ser previsto um ponto de tomada para cada 5 m (ou fração) de perímetro,
+se a área for superior a 6 m? ou apenas um ponto de tomada se a área for inferior a 6 m?.
+Com relação às potências mínimas a serem atribuídas aos referidos pontos de tomadas:
+a) em banheiros, cozinhas, copas e áreas de serviço, prevê-se, no mínimo, 600 VA por ponto tomada,
+até 3 pontos de tomadas; e 100 VA para cada um dos excedentes, considerando-se sempre cada um
+dos ambientes separadamente;
+b) nos demais cômodos, 100 VA por ponto de tomada.
+A partir dos critérios apresentados, considere o esquema elétrico a seguir, que ilustra parte da instalação
+elétrica de uma residência, no qual são indicadas a potência de iluminação (VA), a quantidade de TUGs e
+a potência das TUGs (VA).</Unicode></TextEquiv></TextRegion></Page></PcGts>

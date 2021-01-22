@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:58:49</Created>
+	<LastChange>2020-11-21T00:07:00</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 339,244 339,312 1575,312 1575,459 1505,459 1505,1158 1172,1158 1172,1159 839,1159 839,1160 505,1160 505,1161 204,1161 204,1265 1566,1265 1566,1320 1574,1320 1574,1481 1340,1481 1340,1604 1438,1604 1438,1684 1180,1684 1180,1732 763,1732 763,1780 170,1780 170,1534 168,1534 168,1505 169,1505 169,1504 218,1504 218,1294 169,1294 169,1208 168,1208 168,1188 171,1188 171,507 170,507 170,461 168,461 168,313 169,313 169,245 170,245"/>
+	<TextEquiv conf="0.94644">
+	<Unicode>QUESTÃO 23
+Os filtros digitais são de grande importância em tratamento de sinais. Com códigos relativamente
+pequenos, é possível implementar filtros de ordem bastante elevada, o que em circuitos analógicos
+demandaria uma quantidade considerável de amplificadores operacionais. A seguir, reproduz-se um
+fragmento de código que implementa um filtro digital estruturado.
+inicio
+defina ur, y, numérico; //Entrada e saída respectivas do sistema
+defina xl, x2, xt, numérico; // Variáveis auxiliares
+xl == O;
+x2 == O;
+repita
+leia u;
+y == 2* xl + x2;
+xt == xl;
+xl == —- x2;
+x2 == 0,5 * xt — x2 + u;
+escreva vy;
+fim-repita
+fim
+Considerando as informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+|. O algoritmo forma um sistema assintoticamente estável, linear, invariante e discreto no tempo.
+PORQUE
+ll. Os polos do sistema formado pelo algoritmo estão no semiplano complexo esquerdo,
+excluindo-se o eixo imaginário.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |.
+O As asserções | e II são proposições verdadeiras, mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

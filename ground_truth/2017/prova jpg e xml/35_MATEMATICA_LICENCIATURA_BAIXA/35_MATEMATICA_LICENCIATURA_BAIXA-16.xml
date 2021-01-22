@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:30:06</Created>
+	<LastChange>2020-11-29T23:09:28</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r2">
+	<Coords points="869,246 872,2112 876,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="891,1069 1061,1069 1061,1132 1578,1132 1578,1268 1576,1268 1576,1878 1234,1878 1234,1879 959,1879 959,2110 892,2110 892,2111 891,2111 891,1270 890,1270 890,1070 891,1070"/>
+	<ImageRegion id="r5">
+	<Coords points="963,1283 963,1761 1494,1761 1494,1283"/></ImageRegion>
+	<TextEquiv conf="0.96816">
+	<Unicode>QUESTÃO 11
+Considere o cubo de vértices A, B, C, D,E,F, G
+e H, ilustrado na figura abaixo, e os vetores b, c, d,
+e, 1, ge h, todos com origem em À e extremidades
+respectivamente em B, C, D, E, F, Ge H.
+Com base nas informações apresentadas, é correto
+afirmar que o vetor cujo produto escalar com f é
+igual a zero é o vetor
+O..
+O cc.
+[(CRA
+O xs.
+o»,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="891,244 1061,244 1061,308 1576,308 1576,545 1577,545 1577,758 1277,758 1277,811 1120,811 1120,1042 892,1042 892,1043 891,1043 891,838 892,838 892,777 939,777 939,443 891,443 891,275 890,275 890,245 891,245"/>
+	<TextEquiv conf="0.96650">
+	<Unicode>QUESTÃO 10
+Considere uma urna com 5 bolas azuis, 3 verdes e
+6 pretas, da qual serão retiradas bolas sem
+reposição. Com base nessa situação, avalie as
+afirmações a seguir.
+|. Caso sejam retiradas 4 bolas, uma delas
+será verde.
+Il. O número mínimo de bolas que devem ser
+retiradas para se garantir a retirada de uma
+bola preta é igual a 9.
+Ill. O número mínimo de bolas que devem ser
+retiradas para se garantir a retirada de uma
+bola verde e uma bola azul é igual a 10.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+Biel, apenas.
+O lelll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,311 853,311 853,463 854,463 854,1240 555,1240 555,1814 170,1814 170,1815 169,1815 169,1167 170,1167 170,433 169,433"/>
+	<ImageRegion id="r4">
+	<Coords points="197,761 197,1044 816,1044 816,761"/></ImageRegion>
+	<TextEquiv conf="0.76577">
+	<Unicode>QUESTÃO 09
+Considere f:[a,cl&gt;R uma função contínua
+e beí(ac), conforme ilustra o gráfico abaixo.
+Represente por:
+A a área da região limitada pela reta de equação
+y = 0 e pela curva ((z,/(*));x e (a,0]);
+Ba área da região limitada pela reta de equação
+y=0e pela curva f(x, f(x));z e [0,06]);
+C' a área da região limitada pela reta de equação
+y=0e pela curva ((r,f(x));z e b,c]).
+Sabendo-se que À = 5, B=3e C=2, avalie as
+afirmações a seguir.
+Lt f fas
+Il. f f(r)dr =3
+1. f f(x)dr = 4
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

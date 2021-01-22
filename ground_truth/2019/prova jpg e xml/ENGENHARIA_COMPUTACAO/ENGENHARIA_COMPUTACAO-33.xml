@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T21:01:52</Created>
+	<LastChange>2020-09-11T21:02:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-33.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="73,615 73,968 1507,968 1507,615"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,179 255,179 255,243 788,243 788,244 1492,244 1492,516 1491,516 1491,612 942,612 942,1088 1487,1088 1487,1175 1490,1175 1490,1244 470,1244 470,1300 322,1300 322,1506 234,1506 234,1553 84,1553 84,1005 83,1005 83,976 84,976 84,516 83,516 83,242 84,242"/>
+	<TextEquiv conf="0.95606">
+	<Unicode>QUESTÃO 30
+É comum a expressão "servidor web" ser utilizada para denominar processos cuja finalidade é disponibilizar
+recursos estáticos, que são os que se encontram completos antes de uma requisição ser realizada, e
+recursos dinâmicos, que são produzidos no momento em que um cliente o requisita e seu conteúdo
+é definido em tempo de requisição. Um Container de Servlets é um servidor web capaz de gerenciar
+diferentes aplicações que disponibilizam conteúdo dinâmico, e um Servlet é uma classe Java capaz de
+gerar conteúdo desse tipo, mediante a requisição de um cliente. Cada requisição atendida por um Servlet
+pode ser executada por uma thread e múltiplas requisições podem estar em execução simultaneamente.
+Considere o Servlet a seguir que mantém uma variável cuja finalidade é controlar quantas requisições são
+atendidas ao longo do tempo.
+A respeito do Servlet apresentado, avalie as afirmações a seguir.
+|. O código apresenta uma condição de corrida.
+Il. Substituir a linha 5 pela construção synchronized (this) (contador = contador + 1;)
+garante o correto funcionamento do método.
+Ill. Obter a trava do objeto referenciado por request antes de executar o incremento e liberá-la
+logo a seguir, garante o correto funcionamento do método.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:26:20</Created>
+	<LastChange>2020-11-20T21:36:40</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,319 1575,319 1575,949 1577,949 1577,1118 1575,1118 1575,1236 873,1236 873,1237 690,1237 690,1421 687,1421 687,1608 170,1608 170,1609 169,1609"/>
+	<ImageRegion id="r1">
+	<Coords points="177,430 177,925 1569,925 1569,430"/></ImageRegion>
+	<TextEquiv conf="0.96381">
+	<Unicode>QUESTÃO 23
+Na figura a seguir, são apresentadas três alternativas avaliadas na concepção de uma estrutura metálica,
+cujos pórticos serão compostos de perfis laminados, conectados rigidamente e engastados no apoio.
+Sabe-se que, para as três alternativas, a geometria dos pórticos é idêntica em relação ao
+comprimento dos elementos, e que os carregamentos uniformemente distribuídos nas vigas têm a
+mesma intensidade. Além disso, considera-se um único tipo de perfil estrutural, tanto para as vigas
+quanto para os pilares.
+Nessas condições, a relação entre os momentos fletores (MM) nos topos dos pilares e nas extremidades
+das vigas é estabelecida por
+IÓM=M,=M,=M =M =M,.
+O M=M,&lt;M,=M,&lt;M,=M,.
+O M,=M,
+6
+&lt;M,=M &lt;M =M,.
+OM =M,&lt;M,=M,&lt;M =M,.
+O ÓM=M&lt;M=M, &lt;M,=M,</Unicode></TextEquiv></TextRegion></Page></PcGts>

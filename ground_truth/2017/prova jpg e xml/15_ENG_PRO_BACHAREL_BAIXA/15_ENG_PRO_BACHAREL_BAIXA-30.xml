@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T05:02:51</Created>
+	<LastChange>2020-11-27T05:10:48</LastChange></Metadata>
+	<Page imageFilename="15_ENG_PRO_BACHAREL_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r9">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="890,244 1062,244 1062,312 1576,312 1576,797 1058,797 1058,1041 891,1041 891,797 890,797"/>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 34
+Entre os indicadores de desempenho para gestão
+da manutenção, incluem-se o MTBF (Mean Time
+Between Failures) e o MTTR (Mean Time Between
+Repair).
+Considere a situação em que um moinho de café
+opere em turno único e diário de 8 horas, sendo
+que, em determinada data, apresentou quatro
+falhas em um turno. A primeira parada demorou
+20 minutos, a segunda e a terceira duraram
+15 minutos e, a última, 30 minutos. Nesse caso, os
+resultados, em minutos, do MTBF e do MTTR são,
+respectivamente, iguais a
+O 90 e 30.
+O 100 e 20.
+O 105e15.
+O 220 e 20.
+O 340 e 30.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="169,244 339,244 339,312 854,312 854,1034 855,1034 855,1439 854,1439 854,1581 555,1581 555,1642 407,1642 407,1918 169,1918 169,1122 181,1122 181,461 168,461 168,312 169,312"/>
+	<ImageRegion id="r2">
+	<Coords points="180,486 180,1100 850,1100 850,486"/></ImageRegion>
+	<TextEquiv conf="0.96153">
+	<Unicode>QUESTÃO 33
+A figura a seguir apresenta o trecho de um
+diagrama de rede utilizado para representar as
+atividades de um projeto de instalações prediais,
+com o tempo dado em dias.
+DO VALE, A. B.; SOARES, C. A. P. et al. Fundamentos de
+Gerenciamento de Projetos. Rio de Janeiro: FGV, 2007 (adaptado).
+Com relação ao diagrama de rede, avalie as
+afirmações a seguir.
+|. As relações de dependência entre as partes
+de água e esgoto, elétrica e de telefonia
+estão presentes no diagrama.
+Il. Os dados apresentados permitem concluir
+que o caminho crítico corresponde a 16 dias.
+Ill. A conclusão da atividade de instalação
+de esgotos é suficiente para se iniciar a
+atividade de colocação de louças e metais.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O11em.</Unicode></TextEquiv></TextRegion></Page></PcGts>

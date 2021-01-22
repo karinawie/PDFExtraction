@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:58:49</Created>
+	<LastChange>2020-11-27T18:54:11</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,306 1576,306 1576,773 1529,773 1529,1828 1111,1828 1111,2089 170,2089 170,1828 168,1828 168,1799 170,1799 170,667 169,667"/>
+	<ImageRegion id="r1">
+	<Coords points="336,805 336,1741 1408,1741 1408,805"/></ImageRegion>
+	<TextEquiv conf="0.96225">
+	<Unicode>QUESTÃO 20
+O uso da automação discreta no desenvolvimento de atividades de produção, cada vez mais, tem-se
+mostrado um caminho ótimo para aumentar os níveis de produtividade industrial e a qualidade dos
+produtos. A automação discreta pode ser realizada com a aplicação de diversos elementos de apoio, em
+sensores, controladores e atuadores.
+Em atuadores, é possível aplicar elementos hidráulicos, pneumáticos e elétricos, cujas vantagens e
+desvantagens, aliadas às necessidades do processo produtivo, permitem selecionar o tipo mais adequado
+para cada projeto. Assim, os sistemas pneumáticos são largamente aplicados em situações de necessidade
+de velocidade e força reduzidas.
+Em um projeto de aplicação de sistemas pneumáticos, devem ser combinados atuadores pneumáticos
+e válvulas de diversos tipos, visando-se a sequência de eventos a ser desenvolvida no processo, como
+ilustra a figura a seguir.
+A partir das informações apresentadas, conclui-se que a figura representa um circuito pneumático de
+O comando a cilindro dupla ação.
+O avanço bimanual e retorno simples.
+O comando indireto de cilindro simples ação.
+O comando de cilindro simples ação com válvula de seleção tipo OU.
+OQ comando de avanço e retorno indireto de cilindro de simples ação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

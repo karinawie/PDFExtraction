@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:56:56</Created>
+	<LastChange>2020-11-30T18:36:40</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="169,244 513,244 513,297 1576,297 1576,454 1575,454 1575,1206 1364,1206 1364,1342 169,1342"/>
+	<ImageRegion id="r1">
+	<Coords points="161,461 161,1122 1580,1122 1580,461"/></ImageRegion>
+	<TextEquiv conf="0.89717">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Conforme a versão mais recente da norma NBR14565:2013, que define três subsistemas de cabeamento,
+observam-se, na figura a seguir, os subsistemas de backbone de campus, de backbone de edifício e de
+cabeamento horizontal. Os ensaios de desempenho de canal e enlace previstos para o subsistema de
+cabeamento horizontal podem, segundo a topologia instalada, dividir-se em desempenho de enlace
+permanente e enlace do ponto de consolidação.
+Considerando que o subsistema de cabeamento horizontal tenha sido instalado com cabos
+balanceados de categoria 6, faça o que se pede nos itens a seguir.
+a) Defina canal, enlace permanente e enlace do CP. (valor: 6,0 pontos)
+b) Calcule o comprimento máximo do canal e do enlace permanente. (valor: 3,0 pontos)
+c) Calcule o comprimento mínimo do enlace do CP. (valor: 1,0 ponto)</Unicode></TextEquiv></TextRegion></Page></PcGts>

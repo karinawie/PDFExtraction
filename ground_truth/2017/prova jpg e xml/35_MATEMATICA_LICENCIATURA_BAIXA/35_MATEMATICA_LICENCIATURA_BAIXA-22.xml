@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:29:17</Created>
+	<LastChange>2020-11-29T23:04:14</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="890,244 1061,244 1061,317 1577,317 1577,661 1079,661 1079,931 891,931 891,662 890,662"/>
+	<TextEquiv conf="0.96640">
+	<Unicode>QUESTÃO 22
+Considere duas pirâmides, uma de base triangular
+e outra de base quadrada, ambas com a mesma
+altura e a mesma área da base, apoiadas em um
+plano a.. Assumindo que qualquer plano de corte B,
+paralelo a a, determina nos dois sólidos seções de
+mesma área, pode-se concluir que a relação entre
+o volume V, da pirâmide de base triangular e o
+volume V, da pirâmide de base quadrada é
+O 14Vv,=3V,
+O 3V,=4V,
+O V=27,
+OoO2Vv=YV,
+ev=rv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 855,312 855,820 853,820 853,1320 854,1320 854,1346 555,1346 555,1534 398,1534 398,1646 407,1646 407,1678 319,1678 319,1724 171,1724 171,1725 170,1725 170,1437 263,1437 263,1309 218,1309 218,997 168,997 168,848 170,848 170,313 169,313"/>
+	<TextEquiv conf="0.96344">
+	<Unicode>QUESTÃO 21
+Seis estudantes se inscreveram para um
+campeonato escolar de xadrez: três meninas, das
+quais duas são irmãs gêmeas, e três meninos. Na
+primeira rodada serão formadas as três duplas
+de adversários por sorteio, da seguinte forma:
+o primeiro jogador é sorteado entre os seis
+participantes; o segundo é sorteado entre os cinco
+restantes; o terceiro entre os quatro restantes; o
+quarto, entre os três restantes; a primeira dupla
+é formada pelo primeiro e segundo sorteados; a
+segunda dupla é formada pelo terceiro e quarto
+sorteados; a terceira dupla é formada pelos dois
+últimos que não foram sorteados.
+Considerando essas condições a respeito da
+formação das duplas de adversários na primeira
+rodada do campeonato, avalie as afirmações a
+seguir
+|. A probabilidade de as gêmeas se enfrentarem
+éde 1.
+Il. A probabilidade de a primeira dupla sorteada
+ser de meninos é de 1
+Ill. A probabilidade de a primeira dupla sorteada
+ser composta por uma menina e um menino
+é de 3.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

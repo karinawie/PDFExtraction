@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:30:58</Created>
+	<LastChange>2020-11-21T00:42:15</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-38.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1577,312 1577,540 1445,540 1445,1216 1576,1216 1576,1370 898,1370 898,1371 556,1371 556,1427 408,1427 408,1682 171,1682 171,1492 170,1492"/>
+	<ImageRegion id="r1">
+	<Coords points="241,550 241,1075 1416,1075 1416,550"/></ImageRegion>
+	<TextEquiv conf="0.96302">
+	<Unicode>QUESTÃO 32
+Uma máquina utilizada para a injeção de matéria-prima de polímeros no processamento de produtos
+plásticos é controlada por um controlador lógico programável (CLP). Durante o processo de fabricação,
+essa máquina simplesmente parou de acionar o pistão pneumático (S1) responsável pela abertura do
+molde e retirada das peças produzidas. Na manutenção corretiva do referido equipamento, foi realizada
+inspeção por meio do software de supervisão do próprio CLP. A sequência de instruções em programação
+Ladder para a inspeção está ilustrada na figura a seguir.
+Considerando as possíveis causas de o molde não ter sido aberto, avalie as afirmações a seguir.
+|. O sensor C está em sinal baixo, pois não reconheceu o final do processo.
+Il. O sensor B está em sinal baixo, pois não atingiu a temperatura necessária para a abertura do
+molde de injeção.
+III. O sensor D está em sinal alto, pois reconheceu que a matéria-prima ainda estava no
+compartimento do molde.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 11em</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:33:42</Created>
+	<LastChange>2020-09-12T18:34:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-41.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r11">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="826,373 826,776 1481,776 1481,373"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="76,726 76,860 781,860 781,726"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="84,884 84,1018 771,1018 771,884"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="68,1050 68,1176 773,1176 773,1050"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="73,1205 73,1331 776,1331 776,1205"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="73,1357 73,1502 765,1502 765,1357"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,436 605,436 605,550 770,550 770,699 769,699 769,700 84,700 84,699 85,699 85,550 248,550 248,436 84,436"/>
+	<TextEquiv conf="0.96676">
+	<Unicode>QUESTÃO 30
+Na indústria, diversos são os processos que têm
+seu comportamento descrito por um sistema
+de segunda ordem. Um determinado processo
+industrial monovariável é descrito pela equação
+diferencial de segunda ordem mostrada a seguir.
+Ú() + 398) + 29(8) = Gu(t)
+Definindo-se a saída do processo como u(t) e à
+entrada como u(t), o modelo no espaço de estados
+do sistema descrito, na forma canônica diagonal,
+será dado por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1491,247 1491,1106 1492,1106 1492,1218 1490,1218 1490,1515 806,1515 806,819 805,819 805,791 806,791 806,210 805,210"/>
+	<TextEquiv conf="0.96620">
+	<Unicode>QUESTÃO 31
+Considere que o diagrama de instrumentação
+mostrado na figura a seguir represente parte de um
+processo de controle de vazão de um fluido.
+Acerca dessa representação, é correto afirmar que
+O o instrumento FT102 poderia ser denominado
+PT102 sem prejuízo da sua representação
+funcional.
+O as identificações FC e FR teriam de estar na
+mesma malha de controle, dado tratar-se de
+um mesmo instrumento.
+O o instrumento FT102, por estar montado no
+painel principal de controle, não poderia estar
+ligado a um instrumento montado no campo.
+O a conexão do instrumento FC102 à válvula com
+atuador pneumático está representada por uma
+conexão elétrica.
+O a medição de vazão é feita por meio de um
+elemento primário que introduz uma queda de
+pressão, aliado a uma unidade eletrônica de
+transmissão de pressão diferencial.</Unicode></TextEquiv></TextRegion></Page></PcGts>

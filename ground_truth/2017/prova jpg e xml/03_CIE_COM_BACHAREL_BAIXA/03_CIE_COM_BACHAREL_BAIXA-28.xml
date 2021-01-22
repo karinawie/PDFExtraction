@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:40:31</Created>
+	<LastChange>2020-09-18T02:53:48</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="266,894 266,1133 1480,1133 1480,894"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="170,244 340,244 340,315 1576,315 1576,852 1108,852 1108,1154 1576,1154 1576,1228 1287,1228 1287,1496 170,1496 170,1395 169,1395 169,517 168,517 168,316 169,316 169,245 170,245"/>
+	<TextEquiv conf="0.96297">
+	<Unicode>QUESTÃO 30
+Em um compilador, um analisador sintático descendente preditivo pode ser implementado com o auxílio
+de uma tabela construída a partir de uma gramática livre de contexto. Essa tabela, chamada tabela
+LL(kK), indica a regra de produção a ser aplicada olhando-se o k-ésimo próximo símbolo lido, chamado
+lookahead(k). Por motivo de eficiência, normalmente busca-se utilizar k = 1. Considere a gramática livre
+de contexto G = (X, Y, Z,a,b,c,d,e, P, X), em que P é composto pelas seguintes regras de produção:
+X &gt; aZzbXY |c
+Y&gt;dX|e
+Ze
+Considere, ainda, a seguinte tabela LL(1), construída a partir da gramática G, sendo $ o símbolo que
+representa o fim da cadeia. Essa tabela possui duas produções distintas na célula (Y, d), gerando, no
+analisador sintático, uma dúvida na escolha da regra de produção aplicada em determinados momentos
+da análise.
+Considerando que o processo de construção dessa tabela LL(1), a partir da gramática G, foi seguido
+corretamente, a existência de duas regras de produção distintas na célula (Y, d), neste caso específico, resulta
+A da ausência do símbolo de fim de cadeia ($) nas regras de produção.
+B de um não-determinismo causado por uma ambiguidade na gramática.
+D do uso incorreto do símbolo de cadeia vazia (se) nas regras de produção.
+D da presença de duas regras de produção com um único terminal no corpo.
+E da presença de duas regras de produção com o mesmo não terminal na cabeça.</Unicode></TextEquiv></TextRegion></Page></PcGts>

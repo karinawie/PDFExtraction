@@ -1,0 +1,820 @@
+QUESTÃO DISCURSIVA 03
+Um protótipo de robô foi desenvolvido por um estudante de engenharia, que, ao final da criação,
+resolveu inserir um LED (Light Emitting Diode) para a indicação da condição de funcionamento do robô.
+Nesse projeto, o LED permanece aceso quando o robô estiver inativo, e apagado quando o robô estiver
+em funcionamento. Para fazer essa adaptação no protótipo, o estudante implementou o circuito ilustrado
+na figura a seguir para o controle liga/desliga do LED.
+Com a chave na posição a, o LED acende e, na posição b, o LED apaga. O estudante utilizou um LED
+vermelho, que possui queda de tensão de 2 V e corrente de 10 mA em condição de funcionamento, além
+de um transistor com as seguintes características:
+* ganhoBtípico=100;
+º* tensão coletor-emissor na saturação (V.,.)=0V;
+º tensão base-emissor em condução (V,.)=0,7V.
+Com base nessas informações e considerando V .=5V, faça o que se pede nos itens a seguir.
+a) Calcule os valores dos resistores R,, e R... (valor: 6,0 pontos)
+b) Descreva o impacto no funcionamento do LED caso o transistor seja substituído por outro de ganho
+B menor, mantendo-se os valores de tensão da fonte e dos resistores R, e R... (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+A figura a seguir ilustra uma parte da instalação elétrica de um prédio residencial (tensão de linha 220 V).
+Nela, estão lançados dois circuitos: um de iluminação, com carga total instalada de 1 500 VA, e outro, que
+alimenta uma tomada de uso específico para o chuveiro. Os condutores são de cobre com isolação de PVC
+e operam em temperatura ambiente de 30 “ºC.
+A tabela a seguir apresenta a capacidade de corrente de condutores para circuitos monofásicos ou
+bifásicos, de acordo com a ABNT NBR 5410:2004.
+Seção nominal (mm?) Capacidade de corrente (A)
+Considere que o fator de correção de temperatura possui valor igual a 1,00 para a temperatura de 30 ºC,
+e que o fator de correção do número de circuitos é 1,00 para um circuito, 0,80 para dois circuitos e 0,70
+para três circuitos.
+
+Com base nas informações apresentadas, faça o que se pede nos itens a seguir.
+a) Calcule a seção mínima dos condutores para o circuito 2, utilizando o método de capacidade de
+corrente do circuito. (valor: 5,0 pontos)
+b) Determine a seção mínima do condutor de proteção de acordo com a Norma Brasileira de Instalações
+Elétricas de Baixa Tensão (ABNT NBR 5410:2004) e justifique sua resposta. (valor: 5,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+Em telecomunicações, é fundamental o estudo dos sinais que se propagam por meio de sistemas,
+tais como filtros, atenuadores, amplificadores e linhas de transmissão. Na análise desses sistemas, os
+conceitos de função de transferência e resposta ao impulso são essenciais. Nesse contexto, considere
+o diagrama de blocos de um sistema linear discreto no tempo, representado a seguir, cuja entrada
+corresponde a x/n/ e sua resposta ao impulso, a h/n/.
+Assuma que hh/n/=0 e x/n/=0 para n<O0 e n>1,e que a saída y/n/ pode ser obtida por
+o
+yln)= ">" x n—k]hlk]
+k=-00
+A partir das informações apresentadas, faça o que se pede nos itens a seguir.
+a) Determine a saída y/n/ do sistema. (valor: 6,0 pontos)
+b) Represente graficamente y/n/ para o intervalo —2 < n < 3. (valor: 4,0 pontos)
+
+QUESTÃO 10
+A forte inserção brasileira no comércio
+internacional e a crescente preocupação mundial
+com os problemas ambientais desafiam o Brasil
+para construir uma política de integração entre o
+setor produtivo e o meio ambiente.
+Disponível em: <http://www.mma.gov.br>.
+Acesso em: 17 jul. 2017 (adaptado).
+O meio ambiente é fornecedor de matéria-
+prima e, ao mesmo tempo, receptor de resíduos
+oriundos das atividades produtivas, o que
+deve ser necessariamente considerado para
+o estabelecimento de políticas ambientais e
+econômicas mais eficientes na gestão e uso dos
+recursos naturais.
+MOURA, A. M.; ROMA, J. C.; SACCARO, N. Problemas econômicos,
+soluções ambientais. Boletim regional, urbano e ambiental.
+Brasília: Ipea, n. 15, jul./dez. 2015 (adaptado).
+A partir desses textos, avalie as afirmações a seguir.
+|. Os benefícios da biodiversidade e dos
+serviços — ecossistêmicos são de difícil
+valoração econômica.
+Il. As mudanças climáticas resultantes da
+emissão de gases de efeito estufa têm gerado
+oportunidades para o desenvolvimento e a
+utilização de fontes renováveis de energia,
+como alternativas ao uso de combustíveis
+fósseis.
+Ill. A degradação ambiental pode ocasionar
+limitações ao crescimento econômico
+sustentável.
+IV. A geração de riqueza e desenvolvimento
+sem a elevação do padrão de consumo dos
+recursos naturais constitui impedimento para
+o crescimento de países em desenvolvimento.
+V. Os tratados internacionais ambientais
+exigem entrelaçamento entre lucros obtidos,
+desenvolvimento social de comunidades
+tradicionais e conservação dos ecossistemas.
+É correto apenas o que se afirma em
+Oielv
+Oiev
+O !Mmelv
+OLI,HEeV
+Ou Ivev
+
+QUESTÃO 09
+A figura a seguir representa o diagrama de tensão
+o versus deformação £€ para diferentes materiais
+poliméricos.
+Assinale a opção que apresenta, respectivamente,
+o módulo de elasticidade e o nível de deformação
+de uma das curvas do diagrama apresentado.
+O Curva | - alto e grande.
+O Curva ll - baixo e grande.
+O Curva Ill - baixo e pequeno.
+O Curva IV - alto e grande.
+OQ Curva V - baixo e pequeno.
+
+QUESTÃO 13
+Os veículos espaciais apresentam estrutura externa
+constituída por um conjunto de blocos que
+formam um escudo térmico, cuja função é
+proteger motores e demais componentes de
+possíveis danos causados pelo calor, além de
+reduzir a temperatura interna do veículo.
+Esses escudos térmicos são construídos com
+material
+O metálico, dada sua leveza e elevada resistência
+ao calor.
+O polimérico, dada sua baixa resistência ao calor
+e à corrosão.
+O cerâmico poroso, dada sua elevada resistência
+mecânica à tração.
+O polimérico, em razão de sua alta massa
+específica e de sua resistência ao calor.
+O cerâmico poroso, em razão de seu baixo
+coeficiente de dilatação térmica e de sua baixa
+condutividade térmica.
+
+QUESTÃO 12
+De acordo com a Lei de Resfriamento de Corpos, a
+taxa de variação da temperatura de um corpo em
+relação ao tempo é proporcional à diferença entre
+a temperatura do corpo e a temperatura ambiente.
+Considere que T(t) é a temperatura do corpo em
+função do tempo, A é a temperatura do ambiente,
+té o tempo e k é a constante de proporcionalidade.
+Nesse contexto, o modelo matemático
+correspondente à Lei de Resfriamento de Corpos
+e à função resultante de sua resolução são dados,
+respectivamente, por
+aro
+O TT); TOO = (1(0) - A)e' + A
+dr
+. k(T A); T(t) = (T(0) - A)! + A
+o
+e & =2HT=A); TI) =0"4+A
+dt
+& =kKT-A); T(t)=e"+A
+o
+e E =WT-A) T(W =" +A
+a
+
+QUESTÃO 11
+O sistema Toyota de produção apresenta-se
+como uma alternativa mais eficiente ao modelo
+fordista de produção, que explora as vantagens de
+produção em série. O modelo toyotista consiste
+em cadeia de suprimentos enxuta, flexível e
+altamente terceirizada, que prevê a eliminação
+quase total dos estoques e a busca constante pela
+agilização do processo produtivo.
+SOBRAL, F.; PECI, A. Administração: teoria e prática no contexto
+brasileiro. São Paulo: Pearson, 2013 (adaptado).
+O sistema logístico e produtivo conhecido como
+just in time é uma filosofia de administração da
+produção baseada no modelo Toyota de produção.
+Esse novo enfoque na administração da manufatura
+surgiu de uma visão estratégica e inovadora
+das pessoas envolvidas na gestão empresarial,
+buscando vantagem competitiva por intermédio de
+uma melhor utilização do processo produtivo.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir, a respeito do sistema produtivo
+justin time.
+|. Estimula o desenvolvimento de melhorias
+constantes, não apenas dos procedimentos
+e processos, mas também do homem dentro
+da empresa, o que permite desenvolver o
+potencial humano dentro das organizações
+e ampliar a base de confiança obtida pela
+transparência e honestidade das ações.
+ll. A implementação dos princípios da
+organização começa pela fábrica e suas
+repercussões estendem-se por toda a
+empresa, o que caracteriza o princípio da
+visibilidade, fundamentado no objetivo de
+tornar visíveis os problemas onde quer que
+possam existir.
+Il. Tem como objetivo administrar àa
+manufatura de forma bem simples e
+eficiente, otimizando o uso dos recursos de
+capital, equipamento e mão de obra, o que
+resulta em um sistema capaz de atender
+às exigências do cliente, em termos de
+qualidade e prazo de entrega, ao menor
+custo.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.
+
+QUESTÃO 14
+A medida de profundidade em ambientes aquáticos está relacionada à pressão hidrostática,
+através da relação aproximadamente linear P = f (2), em que zé a profundidade e P é a pressão.
+Assuma que a densidade da água do mar p = 1,025 x 10º kg:m?, que não há variação dessa densidade
+com a profundidade e que o valor da aceleração da gravidade g= 9,8 ms? .
+Nesse contexto, assinale a opção cujo gráfico relaciona adequadamente a profundidade com a
+pressão hidrostática.
+
+QUESTÃO 16
+Em uma campanha publicitária que visa à redução
+do consumo de energia elétrica em residências,
+identificam-se as recomendações a seguir:
+*º substitua lâmpadas incandescentes por
+fluorescentes compactas ou lâmpadas de LED;
+*º evite usar o chuveiro elétrico com a chave
+na posição “inverno” ou “quente”;
+*º acumule grande quantidade de roupa para
+ser passada a ferro elétrico de uma só vez;
+*º eviteo uso de tomadas múltiplas para ligar
+vários aparelhos simultaneamente;
+* util ize,nainstalação elétrica, fios de diâmetros
+recomendados às suas finalidades.
+A característica comum a essas recomendações é
+a proposta de economizar energia por intermédio
+da redução
+da potência de aparelhos e dispositivos elétricos.
+do tempo de utilização de aparelhos e
+dispositivos elétricos.
+do consumo de energia elétrica convertida em
+energia térmica.
+do consumo de energia elétrica por correntes
+de fuga.
+o O o OO
+do consumo de energia térmica convertida em
+energia elétrica.
+
+QUESTÃO 15
+Suponha que determinado programa de computador
+seja executado por meio de 13 etapas, com tempo
+médio de 50 segundos ao todo e dispersão relativa
+de 10% em torno da média.
+Considere que uma equipe de engenharia propõe
+um novo algoritmo que reduz em 30% o tempo de
+execução de todas as 13 etapas desse programa.
+Nesse contexto, avalie as afirmações a seguir,
+a respeito do tempo de execução do novo
+algoritmo.
+|. O tempo médio por etapa será de
+32,5 segundos.
+Il. O desvio-padrão permanecerá inalterado.
+Ill. A dispersão relativa em torno da média
+permanecerá inalterada.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+Oem.
+
+QUESTÃO 18
+O ensaio de flexão é utilizado em materiais
+frágeis ou de alta dureza, tais como cerâmicas
+estruturais ou aços-ferramenta. Em uma de suas
+modalidades mais comuns, o ensaio de flexão a
+3 pontos, é provocada uma flexão ao se aplicar
+O carregamento em 3 pontos, o que causa uma
+tensão de tração surgida no ponto central e
+inferior da amostra, onde a fratura do material
+terá início.
+Assumindo-se um comportamento de tensão-
+deformação linear, a tensão de flexão o do material
+pode ser obtida por meio da fórmula:
+3Fd
+=
+2h
+em que Fé a carga, dé a distância entre os pontos
+de apoio, w é a largura do corpo de prova e hé a
+espessura do corpo de prova.
+Considere dois corpos de prova A e B do mesmo
+compósito reforçado com fibras de vidro, cuja
+resistência à flexão é de 290 MPa. O corpo de prova
+A tem o triplo da largura e a metade da espessura
+do corpo de prova B e ambos são submetidos ao
+mesmo ensaio de flexão.
+Nessa situação, qual porcentagem da força necessária
+para o rompimento do corpo de prova B deverá ser
+aplicada ao corpo de prova A para que este também
+se rompa?
+O 50%
+O 75%
+O 100%
+O 125%
+OQ 200%
+
+QUESTÃO 17
+A importância da otimização no processo
+produtivo é inegável. Do ponto de vista
+matemático, “para otimizar determinada
+grandeza, é necessário modelá-la de acordo com
+uma função e, a partir daí, conforme a situação,
+procurar um máximo ou um mínimo. Uma das
+formas usadas para minimizar funções é oO
+método dos multiplicadores de Lagrange.
+Um fabricante de latinhas de refrigerante
+deve propor uma lata cilíndrica de volume V,.
+Essa lata será fabricada usando-se duas ligas
+metálicas distintas, sendo uma para a parte lateral
+e outra para a base e a tampa. Ele deseja calcular
+o raio (7) e a altura (A) da lata para que o custo de
+sua produção seja o menor possível. Sabe-se que a
+área total da lata é dada por A(r,h) e que o custo
+total de produção da lata, que depende apenas do
+material utilizado na sua produção, é C(r,h). Para
+a solução desse problema, será utilizado o método
+dos multiplicadores de Lagrange.
+Com base nessa situação, avalie as afirmações a
+seguir, acerca da solução desse problema.
+l. O custo de produção da lata pode ser
+expresso por C(r,h)=27(Krh+K,”), em
+que K, e K, são constantes que dependem
+do custo de cada uma das ligas metálicas
+por unidade de área.
+Il. A função a ser minimizada da área total da
+lata é A(r,h) =27nrh +2nrº.
+III.O vínculo na minimização, relacionado ao
+volume da lata, é dado por 9(1,h) = xrh—V,,
+IV. O sistema de equações a ser montado é
+vC(r,h) = AVv9(r,h), no qual à é denominado
+multiplicador de Lagrange.
+É correto apenas o que se afirma em
+Oie
+Oielv
+Oem,
+O Llelv.
+O 1, ev.
+
+QUESTÃO 20
+Fechaduras eletromagnéticas são dispositivos
+de segurança compostos basicamente de um
+circuito eletromagnético. O núcleo desse tipo de
+fechadura é construído de material magnético não
+permanente e dividido em duas partes, ficando
+uma parte fixada à parede e a outra parte, à porta.
+A bobina é instalada na parte do núcleo fixada à
+parede e alimentada por uma corrente elétrica.
+Para que se possa abrir a porta, deve ser
+injetada na bobina corrente elétrica de valor
+e sentido adequados para anular os efeitos do
+magnetismo residual do núcleo, procedimento
+geralmente denominado pelos fabricantes como
+antimagnetismo residual.
+A respeito do funcionamento de fechaduras
+eletromagnéticas, avalie as afirmações a seguir.
+|. Quanto maior for a retentividade do núcleo
+da fechadura, maior deve ser a corrente
+injetada.
+Il. Quando corretamente instalada, após
+o atraque da fechadura, a corrente de
+alimentação pode ser suprimida, visto que
+não haverá entreferro entre as duas partes
+do núcleo.
+Ill. Em modo de espera, a fechadura eletrônica
+tem seu menor consumo de energia,
+visto que a bobina é alimentada somente
+durante o atracamento e o processo de
+antimagnetismo residual.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lei, apenas.
+O Il elll, apenas.
+Q1em.
+
+QUESTÃO 19
+O transformador é um elemento importante para
+a operação de um sistema de potência, tanto nas
+redes de transmissão quanto nas de distribuição,
+pois permite obter diferentes níveis de tensão
+que atendam às cargas. Como todo equipamento,
+o transformador possui perdas no núcleo e nos
+enrolamentos, as quais podem ser calculadas por
+meio de um ensaio em circuito aberto e outro em
+curto-circuito.
+Considere um transformador monofásico de
+125 kVA, com tensões nominais de 8 kV e 220 V,
+submetido a um ensaio de curto-circuito (cc), com
+alimentação pelo enrolamento de alta tensão (V ),
+como ilustra a figura a seguir.
+O valor percentual das perdas ativas
+enrolamentos é de
+O 0,88%.
+O 0,80%.
+O 0,48%.
+O 0,32%.
+O 0,20%.
+nos
+
+QUESTÃO 21
+A figura a seguir representa o circuito de um controlador trifásico de tensão composto de tiristores,
+que pode ser utilizado no controle de potência dos motores em corrente alternada e de variação de
+luminosidade, contribuindo tanto para a redução do consumo quanto para a utilização mais eficiente e
+econômica da energia elétrica.
+Em relação ao circuito apresentado, avalie as afirmações a seguir.
+|. Atensão instantânea, em cada fase da carga, é determinada pelos tiristores em condução.
+Il. A tensão, em cada fase da carga, corresponde à tensão entre uma fase e o neutro.
+Ill. Para existirem intervalos de tempo nos quais três tiristores estão em condução, o ângulo de
+atraso a deve ser menor que 60º.
+IV. A condição de condução dos tiristores independe do ângulo de atraso a e das tensões
+instantâneas da fonte.
+É correto apenas o que se afirma em
+Oie.
+O lelv.
+O llelv.
+O L11e.
+O Lev
+
+QUESTÃO 23
+A figura a seguir representa o circuito lógico de
+acionamento de um sistema de alarme.
+No circuito lógico, existem atrasos de propagação
+do sinal elétrico que resultam em atrasos para
+acionamento do alarme. A tabela a seguir
+apresenta os tempos de atraso medidos para cada
+porta lógica.
+Considerando o circuito projetado, as informações
+técnicas e a possibilidade de simplificação,
+qual o menor tempo de resposta possível para
+acionamento desse sistema de alarme?
+O 8ns
+O 7ns
+O 6ns
+O 5ns
+O 4ns
+
+QUESTÃO 22
+Atualmente, a indústria vem investindo no
+desenvolvimento de tecnologias para minimizar a
+ocorrência de distorção harmônica na rede elétrica,
+problema que pode causar sobrecarga no sistema,
+aumentar a demanda de energia e, até mesmo,
+provocar pane na distribuição de energia elétrica.
+Um filtro passivo composto por resistores R,
+indutores L e capacitores O, pode ser utilizado
+para eliminar componentes harmônicas
+indesejadas. A escolha dos parâmetros RLC
+determina a função de transferência (resposta em
+frequência) do filtro.
+Uma ferramenta comum na análise de circuitos
+elétricos é a transformada de Laplace, por meio da
+qual se pode representar uma entrada arbitrária
+T(t), em termos de componentes exponenciais
+na forma e“, em que o parâmetro s é a frequência
+complexa do sinal e“.
+Considere o circuito da figura a seguir com tensão
+de entrada igual a e'u(t), sendo u(t) uma função
+degrau unitário.
+Para o circuito representado, qual a função de
+transferência H(s) de estado nulo?
+2
+16) = (s+1)(sº+3s+3)
+o
+2
+H(s) = <A
+(s + 1)(35* +3s +1)
+H() e É
+(Ss +3s8º +3s+2)
+H() e
+(38º +3s +1)
+2
+(sº+3s+3)
+o O oO O
+H(s) =
+
+QUESTÃO 25
+A modalidade Tarifária Horária Branca, OU,
+simplesmente, Tarifa Branca, definida na Resolução
+Normativa ANEEL n. 414/2010, que estabelece
+as Condições Gerais de Fornecimento de Energia
+Elétrica, e regulamentada na Resolução Normativa
+ANEEL n. 733/2016, passou a ser uma opção para
+alguns consumidores de energia elétrica. Por
+exemplo, uma unidade consumidora da subclasse
+Residencial (B1), que possui um consumo mensal
+médio de 350 kWh, sendo 250 kWh no posto
+horário fora de ponta, 35 kWh no posto horário
+intermediário e 65 kWh no posto horário ponta
+poderá optar pela Tarifa Branca.
+Em relação à Tarifa Branca, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. A Tarifa Branca é uma nova alternativa que
+sinaliza aos consumidores a variação do
+valor da energia conforme o dia e o horário
+do consumo.
+PORQUE
+Il. É importante que o consumidor, antes de
+optar pela Tarifa Branca, conheça seu perfil
+de consumo e a relação entre a Tarifa Branca
+e a Convencional.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 24
+Uma linha de transmissão de energia elétrica pode
+ser representada pelos parâmetros: resistência,
+indutância, capacitância e condutância.
+A condutância leva em conta a corrente de
+fuga nos isoladores, podendo ser desprezível.
+A resistência é fornecida pelos fabricantes de
+condutores para certas condições de operação. À
+indutância e a capacitância são determinadas com
+base nos campos elétrico e magnético presentes
+em um circuito. Uma variação de corrente nos
+condutores provoca uma variação do número de
+linhas de fluxo magnético concatenadas com o
+circuito. Por sua vez, qualquer variação do fluxo
+concatenado com o circuito lhe induz uma tensão,
+cujo valor é proporcional à taxa de variação do
+fluxo. Por outro lado, a diferença de potencial
+entre condutores faz com que esses se tornem
+carregados, de modo semelhante às placas de
+um capacitor. Assim, chega-se à conclusão que
+a indutância e a capacitância são parâmetros
+determinados por fatores construtivos e
+geométricos (material e dimensões).
+STEVENSON, W. D. Elementos de análise de sistemas de potência.
+2. ed. São Paulo: McGraw-Hill, 1986 (adaptado).
+A partir das informações do texto, avalie as
+afirmações a seguir.
+|. Por meio do campo magnético, é
+determinado o parâmetro da indutância,
+que resulta da diferença de potencial entre
+condutores.
+Il. Por meio do campo elétrico, é determinado o
+parâmetro da capacitância, descrito a partir
+da variação de corrente nos condutores,
+que provoca variação do número de linhas
+de fluxo magnético concatenadas com o
+circuito.
+Ill. Numa linha de transmissão, a distância
+entre condutores e a geometria (disposição
+espacial dos condutores) influenciam os
+valores da indutância e da capacitância.
+IV. O valor da condutância de uma linha de
+transmissão independe da disposição
+espacial de seus condutores.
+É correto apenas o que se afirma em
+Ou.
+O llelv.
+O1I1em,.
+O Lilelv.
+O LIMEeIV.
+
+QUESTÃO 26
+Um motor elétrico trifásico de baixa tensão, com potência nominal de 15 kW, aciona uma bomba de
+recalque de água potável, durante 4 horas por dia, em 250 dias por ano. Verificou-se que a potência
+requerida para acionamento da bomba é de 10 kW. Deseja-se avaliar a viabilidade do investimento
+para substituição do motor de 15 kW por outro de potência nominal de 11 kW. O custo da energia
+elétrica é de R$ 0,50 por kWh durante o posto tarifário fora de ponta e de R$ 2,00 por kWh durante o
+posto tarifário de ponta. Os dados de desempenho dos motores, bem como os custos de aquisição e
+instalação, são apresentados na tabela a seguir.
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+|. Como os motores propostos apresentam os mesmos valores de rendimento, a eficiência energética
+será mantida ao se substituir o motor de 15 kW pelo motor de 11 kW.
+Il. Instalar um sistema que impeça o acionamento do motor durante o posto tarifário de ponta é uma
+alternativa a ser analisada para melhor gestão da energia elétrica.
+1.
+Considerando que a bomba possa ser acionada sempre durante o posto tarifário fora de ponta, a
+utilização do motor de 11 kW representaria uma redução aproximada de R$ 290,00 por ano nos
+gastos com energia elétrica.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O hem.
+
+QUESTÃO 28
+No âmbito industrial, existem particularidades
+essenciais para a viabilidade da automação e
+do controle industrial. Além dos elementos de
+hardware serem projetados para operar em
+ambientes com altas e baixas temperaturas,
+vibração e impacto e possuírem proteção mecânica
+especial, os protocolos de comunicação também
+precisam atender determinadas particularidades.
+A convergência de tecnologias no setor industrial
+tem trazido protocolos tradicionais utilizados em
+redes de comunicação para o ambiente industrial,
+como é o caso do ethernet e wi-fi.
+Com base nas informações apresentadas no texto,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Uma adaptação necessária a ser realizada
+no protocolo ethernet para que possa ser
+implementado em ambiente industrial é a
+modificação de sua técnica de controle de
+acesso ao meio.
+PORQUE
+Il. A técnica de controle de acesso ao
+meio usada pelo protocolo ethernet, o
+CSMA/CD (Carrier Sense Multiple Access/
+Collision Detection), não garante a entrega
+dos pacotes devido às colisões.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e 11 são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 27
+Capacitores são elementos empregados em
+circuitos elétricos, podendo atuar como filtros,
+armazenadores de energia e na correção de fator
+de potência, para citar alguns exemplos. A figura a
+seguir ilustra dois capacitores de placas paralelas
+com as mesmas dimensões, porém com diferentes
+dielétricos (€, * E) entre as placas condutoras.
+A partir desses dados, avalie as afirmações a seguir.
+|. A energia armazenada nos capacitores
+depende do campo magnético entre as
+placas condutoras.
+Il. O valor da capacitância é diretamente
+proporcional ao valor da constante dielétrica
+ou permissividade elétrica relativa do
+material presente entre as placas condutoras
+dos capacitores.
+lIl. Se E <&E, o valor da capacitância do Capacitor 1
+é menor que o valor da capacitância do
+Capacitor 2.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.
+
+QUESTÃO 30
+O desenvolvimento de tecnologias sustentáveis
+nos processos industriais, além de contribuir para
+a competitividade da empresa, visa à redução do
+consumo de energia e da geração de resíduos no
+ambiente. Os equipamentos elétricos e eletrônicos
+que atuam no controle de processos devem
+ser eficientes do ponto de vista energético e
+economicamente viáveis. Um exemplo desse tipo
+de dispositivo são os amplificadores operacionais,
+os quais são muito utilizados em sistemas de
+controle, automação e telecomunicações. Na figura
+a seguir é representado um circuito contendo um
+amplificador operacional ideal, alimentado por
+uma fonte simétrica com tensão V de 12 V.
+Considerando uma tensão contínua de entrada (V,)
+de 2 V, qual a tensão de saída (V ) do circuito?
+O 41v
+O -2v
+Oiv
+O >2v
+Oav
+
+QUESTÃO 29
+Um sistema de aquisição de temperatura de
+uma chocadeira eletrônica de ovos é composto
+por um sensor de temperatura, um conversor
+analógico-digital (A/D) e um microcontrolador.
+O sensor de temperatura possui, em sua saída,
+variação perfeitamente linear de 1 mV/"C, e o
+conversor A/D possui faixa de tensão de entrada
+de—5Va+5V.
+Para a chocagem de ovos de uma espécie rara
+de pássaro, a temperatura da chocadeira deve
+variar entre 35 ºC e 39 ºC, com elevação de 0,5 “ºC
+a cada três dias. A figura a seguir ilustra um
+circuito eletrônico com amplificador operacional
+para monitoramento da temperatura, no qual
+o sensor foi conectado à sua entrada, e o
+conversor analógico-digital, à sua saída.
+Com base nas informações apresentadas,
+conclui-se que, para a medição correta da
+temperatura e a garantia da chocagem de ovos
+dessa espécie de pássaro, a resolução mínima da
+quantidade de bits/amostra do conversor A/D
+desse sistema é de
+O 8 bits.
+O 10 bits.
+O 12 bits.
+O 16 bits.
+O 24 bits.
+
+QUESTÃO 31
+Um engenheiro propôs a construção de um carregador de bateria utilizando um painel fotovoltaico e
+um conversor elevador de tensão (boost), conforme mostrado na figura 1, em que os elementos são
+considerados ideais. Nessa figura, na qual foram omitidos os circuitos de controle e de comando do
+transistor (M), L é um indutor, D, um diodo, O, um capacitor e V,atensão de saída do conversor.
+A bateria está representada pela fonte de tensão (V,,) e por uma resistência interna (R,). O painel
+fotovoltaico é formado por 15 células conectadas em série, as quais, individualmente, apresentam
+o comportamento indicado na figura 2.
+O conversor elevador de tensão opera em regime permanente, com modulação por largura de pulso
+(Pulse Width Modulation - PWM) com frequência fixa. A fim de realizar o processo de carga da bateria, o
+conversor é ainda controlado de modo a extrair a máxima potência do painel e produzir tensão de saída
+(V ) de 15 V, considerada constante e com ondulação de alta frequência (ripple) desprezível.
+Desprezando as perdas no conversor e considerando o ponto de operação indicado na figura 2 (ponto de
+potência máxima), avalie as afirmações a seguir.
+|. A corrente média que recarrega a bateria é de 0,45 A.
+Il. A potência entregue pelo painel fotovoltaico é de 101,25 W.
+Ill. Quando o transistor conduz, o diodo suporta a tensão reversa de 15 V.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lei, apenas.
+O llelll, apenas.
+O Le.
+
+QUESTÃO 32
+Internet das Coisas (Internet of Things - loT) é a rede de dispositivos que se comunicam e interagem
+de forma autônoma, via internet. Isso permite o monitoramento e o gerenciamento desses dispositivos
+para aumentar a eficiência de sistemas e processos, habilitar novos serviços e melhorar a qualidade de
+vida das pessoas. As aplicações são diversas e incluem desde o monitoramento de saúde e a automação
+industrial até o uso de dispositivos pessoais conectados. Estima-se que já existam mais de 15 bilhões de
+dispositivos conectados em todo o mundo, incluindo-se smartphones e computadores. A previsão é de
+que, em 2025, esse número possa aumentar para 35 bilhões de equipamentos.
+Disponível em: <http://www.mcti.gov.br>. Acesso em: 22 jul. 2017 (adaptado).
+A partir do texto, avalie as afirmações a seguir.
+|. A conexão de dispositivos eletroeletrônicos pela internet é uma tendência e questões como
+segurança, confidencialidade e privacidade de dados devem ser discutidas por empresas e pela
+população, independentemente de agências governamentais.
+ll. A utilização de redes sem fio já é uma realidade na conexão dos dispositivos e uma das
+possibilidades é o emprego de rádio em faixas de frequência não licenciadas com o protocolo
+TCP/IP convencional.
+Ill. Apesar do pequeno tamanho das informações geradas pelos dispositivos conectados à rede loT,
+haverá um impacto significativo na infraestrutura de telecomunicações atual.
+É correto o que se afirma em
+O |l, apenas.
+O Ill, apenas.
+O Il ell, apenas.
+O lelll, apenas.
+Oem.
+
+QUESTÃO 33
+Um dos desafios nos processos industriais consiste na modelagem e no controle de sistemas modernos,
+complexos e interligados. Uma das formas de se representar matematicamente um sistema é por meio de
+sua função de transferência. O diagrama de polos (x) e zeros (0) de determinada função de transferência
+H(z) é mostrado na figura a seguir.
+Considerando que H(1) = 1, que a região de convergência (RDC) de H(z) é representada por | 2] > O e que
+Né igual à enésima ordem, sendo N > 2, avalie as afirmações a seguir.
+|. Afunção de transferência é H(2) =2 "P(<2?º +27 +6)
+Il. O sistema é estável.
+Ill. O sistema é causal.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+Oem.
+
+QUESTÃO 34
+Motores elétricos são utilizados em uma série de aplicações e, muitas vezes, há a necessidade de
+controlar sua velocidade, utilizando-se inversores de frequência, por exemplo. Esses dispositivos, além
+de permitirem a variação da velocidade do motor, auxiliam na redução do consumo de energia elétrica,
+evitam partidas bruscas que possam danificar componentes do sistema e aumentam a vida útil dos
+motores elétricos.
+Conforme mostra a figura a seguir, os inversores de frequência possuem uma entrada ligada à rede de
+energia e uma saída aplicada ao motor trifásico que deve ser alimentado.
+WEG UNIDADE AUTOMAÇÃO. Manual do inversor de frequência. Jaraguá do Sul: WEG, 2015 (adaptado).
+Com base nessas informações e na análise do circuito apresentado, avalie as afirmações a seguir.
+|. A primeira etapa do circuito, composta por uma ponte retificadora (onda completa) trifásica e
+dois capacitores de filtro, resulta em uma fonte CC simétrica, pois há um ponto de terra como
+referência.
+Il. O barramento CC alimenta a segunda etapa, constituída de seis transistores IGBTs que são “ligados
+e desligados” por meio de uma lógica de controle, de modo a proporcionar a circulação de uma
+corrente alternada pelo motor.
+Ill. Na operação, os transistores devem ser ligados 2 a 2, de forma a serem obtidas oito combinações
+que resultam em tensões trifásicas defasadas de 120º.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O11em.
+
+QUESTÃO 35
+Para o sistema de iluminação da sala de espera de uma clínica médica, foram avaliadas duas opções de
+luminárias, cujas características estão listadas na tabela a seguir.
+Considere que:
+º são necessárias 10 luminárias para o sistema de iluminação, independentemente da opção
+adotada;
+º o sistema de iluminação permanece completamente ligado durante 20 horas por dia em 300
+(trezentos) dias por ano;
+º*º ocustoda energia elétrica é de R$ 0,50 por kWh;
+*º ohorizonte para a análise do funcionamento do sistema de iluminação é de cinco anos.
+Com base nessas informações, avalie as afirmações a seguir.
+|. Empregando-se a luminária 2, ao invés da luminária 1, os gastos com energia elétrica serão
+R$ 4500,00 inferiores.
+Il. Os custos de aquisição, instalação, substituição e descarte da luminária 1 seriam de R$ 7 000,00.
+Ill. Os custos de aquisição, instalação, substituição e descarte da luminária 2 seriam de R$ 14 500,00.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1L11em.
+

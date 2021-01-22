@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:57:57</Created>
+	<LastChange>2020-11-27T18:49:42</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="867,246 872,2113 878,2113 873,246"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="890,244 1261,244 1261,1160 1575,1160 1575,1396 1576,1396 1576,1644 892,1644 892,1645 891,1645 891,1263 890,1263"/>
+	<ImageRegion id="r5">
+	<Coords points="894,352 894,1122 1580,1122 1580,352"/></ImageRegion>
+	<TextEquiv conf="0.96403">
+	<Unicode>QUESTÃO 30
+Analise o diagrama a seguir.
+Considerando o diagrama de esforço cortante da
+viga apresentado, é possível afirmar que o diagrama
+de momento fletor
+O é igual a zero nos pontos A, Ce D.
+O é uma função descontínua no trecho BC.
+O possui valor máximo no ponto B sob a carga
+de 12,5 kN.
+O possui a mesma direção e o mesmo sentido nos
+trechos AB e CD.
+O possui, no ponto C, valor igual à soma das áreas
+do trecho AB e BC, correspondente a —10 kN.m.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 340,244 340,314 854,314 854,1633 855,1633 855,1830 853,1830 853,2096 512,2096 512,2097 170,2097 170,2098 169,2098 169,1633 170,1633 170,871 169,871 169,245 170,245"/>
+	<ImageRegion id="r4">
+	<Coords points="222,1144 222,1605 850,1605 850,1144"/></ImageRegion>
+	<TextEquiv conf="0.93481">
+	<Unicode>QUESTÃO 29
+Em grandes construções, principalmente em
+regiões com abalos sísmicos, há necessidade de
+uma avaliação criteriosa dos projetos de edifícios,
+em razão das frequências de excitação. A realização
+da avaliação busca evitar possíveis ressonâncias
+que provoquem elevadas amplitudes de vibrações
+e que podem levar as estruturas ao colapso.
+Os absorvedores dinâmicos de vibrações são
+muito úteis para minimizar esses efeitos, pois
+eliminam as vibrações do sistema principal e
+as transferem para um sistema secundário,
+composto de massa m, e rigidez k,. A laje do piso,
+mostrada na figura a seguir, possui massa mm,
+duas colunas, cada uma delas com rigidez k, e é
+excitada por força harmônica f(t), com amplitude
+de 16 N e frequência de excitação de 400 rpm.
+Um absorvedor dinâmico de vibrações, acoplado
+na direção de x(t), possui amplitude limitada em
+10 mm.
+Considerando o sistema da laje com um grau de
+liberdade e nx = 3, conclui-se que os valores do
+coeficiente de rigidez k, e massa m, utilizados no
+absorvedor dinâmico de vibrações devem ser,
+respectivamente,
+O 1600 N/me1 kg.
+O 2000 N/m e 1 kg.
+O 16 000 N/m e 5 kg.
+O 32 000 N/m e 20 kg.
+OQ 4000 N/m, independente da massa do absorvedor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

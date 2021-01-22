@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:15:20</Created>
+	<LastChange>2020-11-27T19:29:23</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="169,243 340,243 340,311 1576,311 1576,540 1575,540 1575,1580 1576,1580 1576,1647 1575,1647 1575,1729 1459,1729 1459,1784 555,1784 555,1839 431,1839 431,2093 171,2093 171,2094 170,2094 170,1453 169,1453 169,1396 168,1396 168,1327 169,1327 169,312 168,312 168,311 169,311"/>
+	<ImageRegion id="r1">
+	<Coords points="347,558 347,1311 1444,1311 1444,558"/></ImageRegion>
+	<TextEquiv conf="0.96039">
+	<Unicode>QUESTÃO 19
+Quenching é o processo de resfriamento rápido de uma corrente que se encontra a uma temperatura
+elevada — em geral, na saída de um reator — usando-se outra corrente do processo, que está a uma
+temperatura mais amena. Por meio da mistura rápida das duas correntes, é possível resfriar uma corrente
+de processo em menor tempo do que se fosse utilizado um trocador de calor. Outra vantagem desse
+procedimento é a redução de custo, pois não se empregam utilidades quentes. Na figura a seguir, está
+representado um processo genérico de quenching, no qual F-1 é um vaso de flash isotérmico.
+A eficiência do quenching é influenciada pela razão de reciclo, definida como a razão entre a vazão da
+corrente que retorna ao processo e a vazão da corrente que entra no divisor.
+Considerando a figura apresentada, avalie as afirmações a seguir.
+|. A razão de reciclo é calculada por meio da expressão Vazão da corrente 8
+vazão da corrente 6
+Il. Quanto maior for a razão de reciclo, maior será o resfriamento da corrente 1 e maiores serão as
+vazões, o que aumenta os custos fixos e operacionais do processo.
+Ill. Os equipamentos v - 1, H- 1 e P- 1 representam, respectivamente, uma válvula de expansão, um
+trocador de calor e uma bomba.
+IV. A função do vaso de flash isotérmico é realizar a separação entre as fases líquida e vapor.
+É correto o que se afirma em
+O |V, apenas.
+O lelV, apenas.
+O llelll, apenas.
+O 1, llelll, apenas.
+O LUI,NMelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

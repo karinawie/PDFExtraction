@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-14T01:24:15</Created>
+	<LastChange>2020-11-14T00:59:09</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-30.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="402,526 402,1163 1494,1163 1494,526"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,251 1493,251 1493,501 1337,501 1337,502 1181,502 1181,503 847,503 847,1235 1431,1235 1431,1288 1469,1288 1469,1340 1490,1340 1490,1437 1492,1437 1492,1507 1323,1507 1323,1508 1153,1508 1153,1509 983,1509 983,1510 575,1510 575,1568 412,1568 412,1569 249,1569 249,1817 86,1817 86,1818 85,1818 85,1710 84,1710 84,1175 85,1175 85,382 84,382 84,253 83,253 83,252 84,252"/>
+	<TextEquiv conf="0.96422">
+	<Unicode>QUESTÃO 34
+A mamografia é atualmente a modalidade de imagem mais eficaz para a detecção precoce do câncer
+de mama devido a sua alta sensibilidade, baixo custo e baixa exposição à radiação. Durante um curso
+de proteção radiológica aplicado em um serviço de mamografia, com a finalidade de melhorar o
+atendimento e a taxa de repetição de exames, foi apresentado o gráfico abaixo. O objetivo era analisar
+o comportamento do carcinoma ductal invasivo (CDI) em relação aos diferentes tecidos mamários, em
+diferentes exposições, e demonstrar a importância de utilizar baixos valores de kV nesse tipo de exame.
+Com base no gráfico acima, avalie as afirmações a seguir.
+|. Exames com baixas energias permitem uma significativa diferenciação dos tecidos mamários.
+Il. O tecido adiposo tem um coeficiente de atenuação mais elevado do que o tecido fibroglandular.
+Ill. O aumento da tensão elétrica (kV) aplicada ao exame resulta na perda da diferenciação dos
+tecidos mamários.
+IV. A diferença entre a atenuação do tecido fibroglandular e o carcinoma pode ser pequena, o que
+explica porque a patologia pode passar despercebida em alguns exames mal realizados.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

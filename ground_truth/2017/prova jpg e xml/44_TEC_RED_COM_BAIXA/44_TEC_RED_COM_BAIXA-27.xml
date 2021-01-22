@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:54:44</Created>
+	<LastChange>2020-11-30T18:29:17</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="169,912 171,912 171,913 177,913 177,914 638,914 638,915 643,915 643,916 647,916 647,917 671,917 671,918 677,918 677,919 683,919 683,920 690,920 690,921 699,921 699,922 708,922 708,923 912,923 912,924 920,924 920,925 928,925 928,926 1096,926 1096,927 1101,927 1101,928 1106,928 1106,929 1111,929 1111,930 1116,930 1116,931 1150,931 1150,998 1575,998 1575,1726 1576,1726 1576,1875 1171,1875 1171,2114 170,2114 170,2115 169,2115"/>
+	<ImageRegion id="r5">
+	<Coords points="352,1111 352,1688 1400,1688 1400,1111"/></ImageRegion>
+	<TextEquiv conf="0.94721">
+	<Unicode>QUESTÃO 28
+Uma organização planeja implantar VoIP (voz sobre IP) para realizar ligações corporativas entre
+duas localidades e, ainda, manter sua rede de telefonia fixa ligada. A figura a seguir apresenta o
+projeto de telefonia VoIP dessa organização.
+Considerados o projeto de VoIP da organização e os requisitos da rede IP para prover um serviço de
+qualidade para a voz, é correto afirmar que, na rede IP com uma VPN IP MPLS configurada entre as
+localidades | e Il, a marcação DiffServ para os pacotes de voz e os elementos a serem implantados como
+gateway de acesso e softswitch, são, respectivamente:
+O Diffserv EF (Expedited Forwarding), elemento X e elemento Y.
+O Diffserv EF (Expedited Forwarding), elemento Y e elemento X.
+O Diffserv AF31 (Assured Forwarding Classe 3), elemento X e elemento Y.
+O Diffserv AF31 (Assured Forwarding Classe 3), elemento Y e elemento X.
+O Diffserv AF21 (Assured Forwarding Classe 2), elemento Y e elemento X.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1575,312 1575,516 1576,516 1576,674 1575,674 1575,780 1576,780 1576,851 1150,851 1150,929 1117,929 1117,928 1112,928 1112,927 1107,927 1107,926 1102,926 1102,925 1097,925 1097,924 929,924 929,923 921,923 921,922 913,922 913,921 709,921 709,920 700,920 700,919 691,919 691,918 684,918 684,917 678,917 678,916 672,916 672,915 648,915 648,914 644,914 644,913 639,913 639,912 178,912 178,911 172,911 172,910 169,910 169,780 170,780 170,675 169,675 169,604 170,604 170,486 169,486"/>
+	<TextEquiv conf="0.95865">
+	<Unicode>QUESTÃO 27
+O Instituto de Engenheiros Eletricistas e Eletrônicos (IEEE) padronizou as redes locais e metropolitanas
+com o nome IEEE 802. Entre os mais conhecidos padrões de redes locais, citam-se o Ethernet 802.3,
+que padroniza propriedades físicas para as redes cabeadas, e o padrão 802.11, que define redes sem fio.
+Considerando a diferença entre padrões de rede, assinale a opção correta.
+O Redes sem fio oferecem um caminho com menor probabilidade de interferência ou perda de dados
+quando comparadas às redes cabeadas.
+O O método de acesso para o padrão 802.3 é o CSMA/CD, ao passo que, para o padrão 802.11, o método
+de acesso é o CSMA/CA.
+O Os padrões 802.11a, 802.11b e 802.11g operam na mesma faixa de frequência e, assim, podem
+comunicar-se entre si.
+O Em redes sem fio, a qualidade de serviço não é comprometida pela associação ou desassociação de
+estações móveis.
+O Os padrões 802.3 e 802.11 não podem coexistir na mesma rede local.</Unicode></TextEquiv></TextRegion></Page></PcGts>

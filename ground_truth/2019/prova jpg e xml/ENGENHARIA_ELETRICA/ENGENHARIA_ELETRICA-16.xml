@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:28:13</Created>
+	<LastChange>2020-09-12T22:28:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-16.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="347,568 347,1047 1234,1047 1234,568"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,231 1492,231 1492,338 1491,338 1491,1341 506,1341 506,1586 85,1586 85,1587 85,1341 84,1341 84,339 83,339 83,231 84,231"/>
+	<TextEquiv conf="0.83837">
+	<Unicode>QUESTÃO 09
+A perda de água tratada nas tubulações urbanas é um problema recorrente nas companhias de saneamento
+do país. Como as tubulações são subterrâneas, quando há um vazamento a companhia pode demorar
+para percebê-lo, e um grande volume de água tratada pode ser perdido.
+Para tentar minimizar esse desperdício, um novo método de identificação desse problema começa a
+ser testado. Este método parte do princípio de que, quando há um vazamento em uma tubulação, ela
+apresenta comportamento vibratório diferente do normal. Nesse caso, um sistema composto de três
+sensores que mensuram a vibração em pontos diferentes da tubulação é ligado a um circuito somador-
+amplificador, composto por um amplificador operacional, conforme montagem mostrada a seguir.
+Devido ao fato dos sensores estarem posicionados em distâncias diferentes entre si, os resistores
+Rá Rp e Re são dimensionados de modo que cada sensor produza um nível máximo e idêntico de
+corrente na entrada negativa do amplificador operacional. Para o teste experimental, foram usados
+R,=5k0, Rfç=10k0R e Ry = 12,5 kO. O resistor R foi dimensionado como 250 k0.
+Considerando que o amplificador operacional seja ideal, entre as alternativas apresentadas, que valores
+de tensões V,, Vpe Vo, respectivamente, levam o amplificador para a condição de saturação?
+A - 0,20 V,- 0,40 Ve-0,50 V.
+B -0,10V,-0,20 Ve+0,50 V.
+C +0,10V+0,20Ve+0,25V.
+D +0,15V+0,15Ve+0,15V.
+E +0,20V, + 0,40 Ve+0,50 V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

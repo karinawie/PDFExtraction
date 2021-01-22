@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T05:03:03</Created>
+	<LastChange>2020-11-27T05:11:42</LastChange></Metadata>
+	<Page imageFilename="15_ENG_PRO_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,316 1576,316 1576,1275 1577,1275 1577,1347 1575,1347 1575,1442 660,1442 660,1502 334,1502 334,1784 169,1784 169,1157 168,1157 168,507 169,507"/>
+	<TableRegion id="r1">
+	<Coords points="163,658 163,997 1572,997 1572,658"/></TableRegion>
+	<TextEquiv conf="0.96127">
+	<Unicode>QUESTÃO 32
+O plano mestre de produção é um planejamento de produtos finais ou acabados, período por período.
+Sua programação leva em conta as previsões de demanda, o consumo médio histórico e as limitações
+de capacidade, armazenagem e fornecimento. Esse macro plano é o input para a programação do MRP
+(Planejamento das Necessidades de Material).
+A tabela a seguir apresenta o registro do MRP na programação de produção, em que as barras
+medem 4,8 metros, o lote mínimo de produção é de 200 barras, o tempo de produção de 3 semanas
+e o estoque de segurança de 20 barras.
+Tabela - Registro básico do MRP com liberação das ordens
+A partir das informações apresentadas e dos conceitos que envolvem o MRFP, avalie as afirmações a seguir.
+|. Os valores encontrados na liberação de ordens planejadas levam em consideração o custo
+financeiro do estoque, a capacidade do gargalo e o tempo de produção.
+Il. As liberações de ordens planejadas afetam o estoque atual previsto e têm impacto sobre o estoque
+somente após o tempo de produção.
+III.A liberação, na semana 2, de uma ordem planejada de produção de 290 barras é responsável por
+garantir o atendimento da necessidade bruta de 50 barras na semana 4.
+IV. Se na semana 2 a ordem liberada fosse de 280 barras, haveria uma ruptura do estoque de
+segurança a partir da semana 5.
+É correto apenas o que se afirma em
+Oie.
+O le.
+Oeiv
+O LI elv.
+O 1NMeiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:45:54</Created>
+	<LastChange>2020-11-27T16:58:15</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 1225,312 1225,313 1576,313 1576,421 1575,421 1575,1319 1111,1319 1111,1357 983,1357 983,1502 555,1502 555,1564 408,1564 408,1817 407,1817 407,1818 170,1818 170,1817 169,1817"/>
+	<ImageRegion id="r1">
+	<Coords points="386,486 386,1252 1352,1252 1352,486"/></ImageRegion>
+	<TextEquiv conf="0.95755">
+	<Unicode>QUESTÃO 33
+Um dos desafios nos processos industriais consiste na modelagem e no controle de sistemas modernos,
+complexos e interligados. Uma das formas de se representar matematicamente um sistema é por meio de
+sua função de transferência. O diagrama de polos (x) e zeros (0) de determinada função de transferência
+H(z) é mostrado na figura a seguir.
+Considerando que H(1) = 1, que a região de convergência (RDC) de H(z) é representada por | 2] &gt; O e que
+Né igual à enésima ordem, sendo N &gt; 2, avalie as afirmações a seguir.
+|. Afunção de transferência é H(2) =2 "P(&lt;2?º +27 +6)
+Il. O sistema é estável.
+Ill. O sistema é causal.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

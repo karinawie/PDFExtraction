@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-19T00:09:22</Created>
+	<LastChange>2020-09-19T00:09:55</LastChange></Metadata>
+	<Page imageFilename="provabiomedicina-25.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="286,563 286,1280 1608,1280 1608,563"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="145,243 1600,243 1600,556 1598,556 1598,1510 1600,1510 1600,1572 1599,1572 1599,1769 1236,1769 1236,1770 873,1770 873,1771 146,1771 146,560 145,560"/>
+	<TextEquiv conf="0.95245">
+	<Unicode>QUESTÃO 30
+No laboratório clínico, a performance dos métodos analíticos pode ser monitorada por meio do ensaio
+de amostras-controle com valores conhecidos, juntamente com os ensaios das amostras dos pacientes.
+Os resultados dos controles são plotados em um gráfico e comparados com os limites aceitáveis de erros
+(LAE) para aquele analito. O gráfico de Levey-Jennings, a seguir, apresenta os resultados da dosagem de
+colesterol no âmbito do controle interno, em um laboratório, durante 30 dias, sendo o valor do controle
+250 mg/dl.
+MCNEESE, B. Levey-Jennings Charts. SPC for Excel, 2010 (adaptado).
+Os dados apresentados no gráfico indicam que os resultados
+A estão fora dos LAE porque os valores obtidos no controle oscilam continuamente.
+B estão dentro dos LAE podendo os resultados dos exames dos pacientes serem liberados.
+C referentes aos dias 8, 9, 17 e 30 estão fora dos LAE, não devendo os resultados dos exames dos pacientes
+serem liberados.
+D referente aos dias 4, 5, 11, 25 e 27 estão fora dos LAE, não devendo os resultados dos exames dos pacientes
+serem liberados.
+E referentes ao período compreendido entre os dias 18 e 27 devem ser rejeitados porque essas medições
+consecutivas estão do mesmo lado em relação à média.</Unicode></TextEquiv></TextRegion></Page></PcGts>

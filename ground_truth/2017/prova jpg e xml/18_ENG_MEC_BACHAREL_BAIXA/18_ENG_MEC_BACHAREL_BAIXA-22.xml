@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:58:59</Created>
+	<LastChange>2020-11-27T18:54:38</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 340,244 340,312 1578,312 1578,497 1575,497 1575,1229 1576,1229 1576,1608 1577,1608 1577,1714 1296,1714 1296,1715 1014,1715 1014,1716 811,1716 811,1866 615,1866 615,2016 525,2016 525,2077 348,2077 348,2078 170,2078 170,2079 169,2079 169,1717 168,1717 168,312 169,312 169,245 170,245"/>
+	<TextEquiv conf="0.96209">
+	<Unicode>QUESTÃO 19
+Um ciclo termodinâmico de potência a vapor, também conhecido como ciclo Rankine, é amplamente
+utilizado em termoelétricas e em usinas nucleares, e deve sempre ser bem modelado, de forma a garantir
+desenvolvimento sustentável para a sociedade. De maneira a aumentar a eficiência do sistema, uma
+variante deste ciclo utiliza um regenerador aberto, de forma a reduzir o consumo de combustível no
+gerador de vapor.
+A figura a seguir mostra um esquema de funcionamento deste ciclo, com o gráfico T x s (temperatura
+versus entropia) correspondente.
+MORAN, M. J. SHAPIRO, H. N. Princípios de Termodinâmica para Engenharia. Rio de Janeiro: LTC, 2013 (adaptado).
+A equação da conservação da energia é dada por
+2 2
+Frab-W+T5e, ho, Sm RITA
+dE, :
+* |, em que ” é ataxa temporal de energia
+do volume de controle; Q é a taxa de transferência de calor para dentro do volume de controle; W é a
+potência gerada pelo volume de controle; 1 é o fluxo de massa; h é a entalpia; wé a velocidade média;
+gé a aceleração da gravidade padrão e zé a cota de altura a partir de uma referência.
+Considerando-se a turbina, as bombas e o regenerador aberto adiabáticos, e desprezando quaisquer
+variações de energia cinética e potencial, a potência líquida gerada pelo ciclo, se ele opera em regime
+permanente, é representada por
+O W=m(h+h,=h,)=rnh,=rh(h,=h,+h,)
+O W=m(h-h-h+h-h+h-h)
+O W=m(h-h)+m(h,-h,)
+O W=m,(h,-h,)+m(h,-h)
+o W= ih, = Tin h, = Th,</Unicode></TextEquiv></TextRegion></Page></PcGts>

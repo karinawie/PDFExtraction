@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:28:15</Created>
+	<LastChange>2020-09-17T19:28:15</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-13.jpg" imageWidth="1619" imageHeight="2170">
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="1512,415 1512,478 105,478 105,415"/>
+	<TextEquiv conf="0.96205">
+	<Unicode>A tabela a seguir apresenta a evolução do PIB para a economia brasileira do ano de 2014 ao ano de 2017,
+em bilhões de reais.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="228,500 228,802 1400,802 1400,500"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="106,251 107,251 107,252 450,252 450,319 1512,319 1512,885 1511,885 1511,1109 1510,1109 1510,1205 106,1205 106,949 105,949 105,921 218,921 218,388 105,388 105,319 106,319"/>
+	<TextEquiv conf="0.96405">
+	<Unicode>QUESTÃO DISCURSIVA 03
+A medição dos agregados macroeconômicos é realizada pela Contabilidade Social. Dentre as variáveis
+agregadas analisadas, inclui-se o Produto Interno Bruto (PIB), que auxilia na análise de crescimento do País.
+* Valores encadeados a preços de 2017 (deflator implícito: 2017 = 100)
+Disponível em: &lt;https://www.ibge.gov.br&gt;. Acesso em: 30 jul. 2018 (adaptado).
+A partir das informações apresentadas, faça o que se pede nos itens a seguir.
+a) Explique a forma de cálculo do PIB apresentada na tabela, identificando a ótica de mensuração.
+(valor: 3,0 pontos)
+b) Analise a evolução do PIB setorial no período. (valor: 3,0 pontos)
+c) Cite dois fatores macroeconômicos que contribuíram para a recessão econômica nos anos de 2015
+e 2016. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T22:00:19</Created>
+	<LastChange>2020-11-20T23:51:21</LastChange></Metadata>
+	<Page imageFilename="12_ENG_ALI_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="169,306 513,306 513,351 1576,351 1576,553 1130,553 1130,1218 1575,1218 1575,1282 1206,1282 1206,1379 169,1379"/>
+	<ImageRegion id="r1">
+	<Coords points="233,555 233,1122 1527,1122 1527,555"/></ImageRegion>
+	<TextEquiv conf="0.96493">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Processos de evaporação podem representar elevados custos para uma indústria de alimentos,
+especialmente nos casos em que se desejam elevadas concentrações de sólidos no produto final, como
+na produção de açúcar (figura 1a). Considere que, nesse processo, uma solução com 5% de sólidos (X,)
+é concentrada em um evaporador (figura 1b) até 50% de sólidos (X,), empregando-se vapor saturado a
+1,2 bar. A solução é alimentada a 35 ºC e com vazão de 2 000 kg/h (m,). Ressalta-se que, no processo de
+evaporação, todo o vapor aquecido é convertido em vapor condensado (m =m.).
+Considerando essas informações, faça o que se pede nos itens a seguir.
+a) Equacione o balanço de massa total do processo. (valor: 2,0 pontos)
+b) A partir do balanço de massa do componente sólido, determine a vazão da solução concentrada (m,)
+em kg/h. (valor: 4,0 pontos)
+c) Calcule a taxa de evaporação do sistema (m,) em kg/h. (valor: 4,0 pontos)
+RASCUNHO</Unicode></TextEquiv></TextRegion></Page></PcGts>

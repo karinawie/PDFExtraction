@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T23:06:10</Created>
+	<LastChange>2020-09-13T23:06:58</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_GESTAO_HOSPITALAR-18.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="321,363 321,542 1257,542 1257,363"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 255,179 255,245 1491,245 1491,348 1490,348 1490,748 1492,748 1492,901 1203,901 1203,948 471,948 471,1002 322,1002 322,1190 85,1190 85,630 84,630"/>
+	<TextEquiv conf="0.96636">
+	<Unicode>QUESTÃO 12
+Um colaborador é responsável pela gestão de suprimentos em um hospital localizado em uma região com
+alta demanda turística nos primeiros meses do ano. A tabela a seguir apresenta a previsão de utilização
+semestral (em unidades) de máscaras e luvas de procedimentos.
+Ao analisar o valor referente à previsão de compras desses materiais, o colaborador deparou-se com um
+valor de R$ 500,00 para todos os meses do semestre.
+Considerando o caso apresentado bem como a gestão de suprimentos no ambiente hospitalar, avalie
+as afirmações a seguir.
+|. O valor referente à previsão de compras considera a sazonalidade da previsão de utilização dos
+materiais.
+Il. A gestão de suprimentos de um hospital deve analisar a previsão de utilização para estabelecer
+previsões mais assertivas.
+Ill. A disponibilidade de materiais relaciona-se à qualidade do serviço de saúde.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="84,1204 255,1204 255,1329 1490,1329 1490,1415 1491,1415 1491,1762 470,1762 470,1813 362,1813 362,2044 85,2044 85,1780 133,1780 133,1530 84,1530"/>
+	<TextEquiv conf="0.80217">
+	<Unicode>QUESTÃO 13
+Os sistemas de informação em saúde são ferramentas essenciais ao planejamento de gestores da área da
+saúde, tanto nas empresas privadas quanto nas públicas.
+Considerando as informações apresentadas, avalie as afirmativas a seguir, acerca de ferramentas utilizadas
+no planejamento em saúde.
+|. Osdados epidemiológicos são originados a partir da análise crítica de indicadores de saúde pública.
+Il. O prontuário do paciente é um documento legal e uma importante fonte de informação no
+contexto assistencial.
+Ill. Os indicadores contribuem de forma consistente para o monitoramento do desempenho de uma
+organização e o alinhamento das atividades operacionais com a gestão estratégica.
+IV. A gestão da informação permite a comparação do próprio desempenho institucional e orienta o
+estabelecimento de metas que conduzam ao desenvolvimento.
+É correto o que se afirma em
+A I, II e IV, apenas.
+B I, II e III, apenas.
+C I, III e IV, apenas.
+D II, III e IV, apenas.
+E I, II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

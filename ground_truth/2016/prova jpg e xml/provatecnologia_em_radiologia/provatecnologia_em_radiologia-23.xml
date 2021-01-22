@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:56:37</Created>
+	<LastChange>2020-10-29T20:03:53</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-23.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="231,384 232,1219 1606,1217 1604,382"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,240 1600,240 1600,268 1599,268 1599,367 1598,367 1598,1439 1599,1439 1599,1505 1131,1505 1131,1506 663,1506 663,1507 532,1507 532,1611 383,1611 383,1755 295,1755 295,1801 147,1801 147,1802 146,1802 146,370 145,370"/>
+	<TextEquiv conf="0.91396">
+	<Unicode>QUESTÃO 35
+As figuras a seguir ilustram o exame de uma adolescente com 15 anos de idade, com diagnóstico de
+sarcoma de Ewing.
+Considerando essa situação e que a figura 1 corresponde a uma imagem de tomografia computadorizada,
+avalie as afimações a seguir.
+I. O radiofármaco utilizado no exame foi o 99mTc-MDP.
+II. A figura 2 corresponde a uma imagem de fusão e a 3 corresponde a uma imagem PET.
+III. A região anatômica comprometida dessa paciente corresponde a epífise, metáfise e diáfise proximal
+da tíbia esquerda, com extensão extra óssea.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

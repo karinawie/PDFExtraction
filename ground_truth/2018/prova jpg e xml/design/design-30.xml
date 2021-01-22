@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-19T14:08:12</Created>
+	<LastChange>2020-10-19T14:32:08</LastChange></Metadata>
+	<Page imageFilename="design-30.jpg" imageWidth="1619" imageHeight="2170">
+	<ImageRegion id="r0">
+	<Coords points="318,657 318,1192 1310,1192 1310,657"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="318,334 318,521 1292,521 1292,334"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 276,181 276,249 1514,249 1514,639 1338,639 1338,640 1162,640 1162,641 986,641 986,642 920,642 920,1286 1249,1286 1249,1508 1086,1508 1086,1509 923,1509 923,1510 107,1510 107,1287 106,1287 106,642 105,642 105,574 104,574 104,573 106,573"/>
+	<TextEquiv conf="0.96475">
+	<Unicode>QUESTÃO 23
+Os desenhos a seguir, identificados com as letras A, B, C, D e E, apresentam perspectivas isométricas de
+Já os desenhos a seguir, identificados, aleatoriamente, com os números 1, 2, 3, 4 e 5, representam as
+vistas (superior, frontal e lateral) das perspectivas isométricas representadas acima.
+Com base na análise dos desenhos, assinale a opção correta.
+O A perspectiva A corresponde às vistas 3 e a perspectiva E corresponde às vistas 4.
+O A perspectiva B corresponde às vistas 1 e a perspectiva D corresponde às vistas 3.
+O A perspectiva C corresponde às vistas 4 e a perspectiva A corresponde às vistas 3.
+O A perspectiva D corresponde às vistas 5 e a perspectiva B corresponde às vistas 5.
+OQ A perspectiva E corresponde às vistas 1 e a perspectiva B corresponde às vistas 4.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:48:34</Created>
+	<LastChange>2020-09-18T02:49:07</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TableRegion id="r0">
+	<Coords points="163,563 163,811 1580,811 1580,563"/></TableRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="169,244 340,244 340,314 1577,314 1577,551 1322,551 1322,886 1466,886 1466,935 1575,935 1575,1026 1576,1026 1576,1160 1577,1160 1577,1228 898,1228 898,1229 660,1229 660,1286 294,1286 294,1538 170,1538 170,1252 218,1252 218,859 169,859 169,551 168,551 168,314 169,314"/>
+	<TextEquiv conf="0.96483">
+	<Unicode>QUESTÃO 34
+Quando se trabalha com banco de dados, é possível encontrar redundância de dados e mistura de diferentes
+assuntos em uma mesma tabela. Para evitar esses tipos de falhas, podem ser aplicadas formas normais,
+que são regras que compõem o processo chamado normalização. Entre essas regras, as mais utilizadas e
+que resolvem a maioria das falhas são a Primeira Forma Normal (1FN), a Segunda Forma Normal (PFN) e a
+Terceira Forma Normal (3FN). A figura a seguir mostra um exemplo de tabela que poderia ser armazenada
+em um banco de dados. Nela, a coluna Numero contém um valor único, sequencial, que não se repete.
+Com base no texto e no exemplo de tabela apresentado, avalie as afirmações a seguir.
+|. Atabela não está na 1FN e, portanto, pode-se dizer que ela não atende à 2FN nem à 3FN.
+Il. Seforem criadas duas novas tabelas: Partido (com as colunas Sigla e NomePartido) e Candidato(com
+as colunas NumCand e NomeCand), pode-se dizer que as três tabelas atendem à 2FN.
+Ill. Se atabela for transformada em duas: Voto (com as colunas Numero, Sigla, NomePartido, NumCand,
+NomeCand e Titulo) e Eleitor (com a coluna Titulo e as colunas restantes), pode-se dizer que as
+duas tabelas atendem à 3FN.
+IV. Os atributos Sigla, NomePartido, NumCand e NomeCand não dependem funcionalmente do
+atributo Numero, mas os atributos restantes, sim.
+É correto apenas o que se afirma em
+A I
+B IV
+C I E III
+D II E III
+E II E IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:26:03</Created>
+	<LastChange>2020-11-20T21:33:55</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="169,244 339,244 339,301 1577,301 1577,544 1575,544 1575,1753 1576,1753 1576,1891 1276,1891 1276,2113 170,2113 170,1891 169,1891 169,302 168,302 168,301 169,301"/>
+	<TableRegion id="r1">
+	<Coords points="286,702 286,1055 1455,1055 1455,702"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="375,1080 375,1783 1572,1783 1572,1080"/></TableRegion>
+	<TextEquiv conf="0.96685">
+	<Unicode>QUESTÃO 25
+O conhecimento do subsolo se faz por meio das investigações geológico-geotécnicas, que fornecem
+informações primordiais para a elaboração de um projeto adequado. As técnicas de investigação existentes
+podem ser indiretas e diretas. A sondagem de simples reconhecimento (SPT), uma técnica direta, fornece
+informações importantes do terreno, a exemplo do índice de resistência à penetração do amostrador
+padrão, também conhecido como número de golpes do SPT (Ns), obtido a cada metro de sondagem.
+Além disso, essa técnica coleta uma amostra de solo para cada metro investigado para a caracterização
+tátil-visual.
+A tabela 1 apresenta os valores dos números de golpes para três segmentos de 15 cm cravados
+do amostrador a cada metro de profundidade, obtidos em uma sondagem de terreno realizada.
+A tabela 2 apresenta estados de compacidade e de consistência, de acordo com o índice de resistência
+à penetração (Ns).
+reconhecimento com SPT: método de ensaio. Rio de Janeiro, 2001.
+Com base na tabela 2 e nos resultados do ensaio correspondente ao índice de resistência à penetração
+e material amostrado, apresentados na tabela 1, conclui-se que as designações corretas para as duas
+camadas do subsolo amostradas — 1 na 3 me4mab6m-são, respectivamente:
+O silte arenoso fofo e argila arenosa mole.
+O silte arenoso pouco compacto e argila arenosa média.
+O silte arenoso medianamente compacto e argila arenosa rija.
+O silte arenoso fofo a medianamente compacto e argila arenosa média.
+O silte arenoso pouco compacto a medianamente compacto e argila arenosa rija.</Unicode></TextEquiv></TextRegion></Page></PcGts>

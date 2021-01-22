@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:33:38</Created>
+	<LastChange>2020-11-21T01:05:09</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-21.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="870,247 872,2112 876,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,448 1577,448 1577,517 1575,517 1575,712 1577,712 1577,781 1575,781 1575,895 1576,895 1576,1331 1574,1331 1574,1419 937,1419 937,1376 891,1376 891,1004 890,1004 890,895 940,895 940,421 891,421 891,275 890,275"/>
+	<TextEquiv conf="0.96143">
+	<Unicode>QUESTÃO 16
+Em uma campanha publicitária que visa à redução
+do consumo de energia elétrica em residências,
+identificam-se as recomendações a seguir:
+*º substitua lâmpadas incandescentes por
+fluorescentes compactas ou lâmpadas de LED;
+*º evite usar o chuveiro elétrico com a chave
+na posição “inverno” ou “quente”;
+*º acumule grande quantidade de roupa para
+ser passada a ferro elétrico de uma só vez;
+*º eviteo uso de tomadas múltiplas para ligar
+vários aparelhos simultaneamente;
+* util ize,nainstalação elétrica, fios de diâmetros
+recomendados às suas finalidades.
+A característica comum a essas recomendações é
+a proposta de economizar energia por intermédio
+da redução
+da potência de aparelhos e dispositivos elétricos.
+do tempo de utilização de aparelhos e
+dispositivos elétricos.
+do consumo de energia elétrica convertida em
+energia térmica.
+do consumo de energia elétrica por correntes
+de fuga.
+o O o OO
+do consumo de energia térmica convertida em
+energia elétrica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 856,312 856,455 854,455 854,963 555,963 555,1019 407,1019 407,1274 169,1274 169,1099 170,1099 170,986 218,986 218,732 169,732"/>
+	<TextEquiv conf="0.96794">
+	<Unicode>QUESTÃO 15
+Suponha que determinado programa de computador
+seja executado por meio de 13 etapas, com tempo
+médio de 50 segundos ao todo e dispersão relativa
+de 10% em torno da média.
+Considere que uma equipe de engenharia propõe
+um novo algoritmo que reduz em 30% o tempo de
+execução de todas as 13 etapas desse programa.
+Nesse contexto, avalie as afirmações a seguir,
+a respeito do tempo de execução do novo
+algoritmo.
+|. O tempo médio por etapa será de
+32,5 segundos.
+Il. O desvio-padrão permanecerá inalterado.
+Ill. A dispersão relativa em torno da média
+permanecerá inalterada.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

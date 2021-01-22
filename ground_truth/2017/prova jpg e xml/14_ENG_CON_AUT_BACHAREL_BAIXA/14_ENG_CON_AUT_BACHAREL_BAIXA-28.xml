@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:32:29</Created>
+	<LastChange>2020-11-21T00:58:20</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="169,244 339,244 339,298 1577,298 1577,427 1575,427 1575,1112 1574,1112 1574,1113 169,1113 169,426 168,426 168,298 169,298"/>
+	<ImageRegion id="r1">
+	<Coords points="461,438 461,1005 1302,1005 1302,438"/></ImageRegion>
+	<TextEquiv conf="0.96731">
+	<Unicode>QUESTÃO 25
+Em um processo de transporte, produtos chegam por uma esteira transportadora, são elevados por
+meio de um cilindro pneumático A e empurrados pelo cilindro pneumático B para dentro da embalagem.
+Devido a condições do projeto, a haste do cilindro B somente poderá retornar após a haste do cilindro À
+ter retornado. A figura a seguir representa esse processo.
+Considerando o exposto, assinale a opção em que o diagrama trajeto-passo para o processo descrito está
+corretamente representado.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="152,1133 152,1450 841,1450 841,1133"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="150,1467 150,1784 839,1784 839,1467"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="153,1792 153,2109 842,2109 842,1792"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="858,1475 858,1792 1547,1792 1547,1475"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="869,1139 869,1456 1558,1456 1558,1139"/></ImageRegion></Page></PcGts>

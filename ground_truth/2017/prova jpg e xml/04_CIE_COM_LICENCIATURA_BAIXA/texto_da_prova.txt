@@ -1,0 +1,844 @@
+COMPONENTE ESPECÍFICO
+QUESTÃO DISCURSIVA 03
+Listas lineares armazenam uma coleção de elementos. A seguir, é apresentada a declaração de uma lista
+simplesmente encadeada.
+struct ListaEncadeada {
+int dado;
+struct ListaEncadeada *proximo;
+};
+Para imprimir os seus elementos da cauda para a cabeça (do final para o início) de forma eficiente,
+um algoritmo pode ser escrito da seguinte forma:
+void mostrar (struct ListaEncadeada *lista) {
+if (lista != NULL) {
+mostrar (lista->proximo);
+printf ("%d ", lista->dado);
+}
+}
+Com base no algoritmo apresentado, faça o que se pede nos itens a seguir.
+a) Apresente a classe de complexidade do algoritmo, usando a notação O. (valor: 3,0 pontos)
+b) Considerando que já existe implementada uma estrutura de dados do tipo pilha de inteiros — com
+as operações de empilhar, desempilhar e verificar pilha vazia — reescreva o algoritmo de forma não
+recursiva, mantendo a mesma complexidade. Seu algoritmo pode ser escrito em português estruturado
+ou em alguma linguagem de programação, como C, Java ou Pascal. (valor: 7,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Uma empresa pretende desenvolver um sistema de folha de pagamento cujo processo de modelagem
+utilizará UML (Unified Modeling Language). Essa empresa tem três tipos de colaborador: o comissionado,
+o horista e o assalariado. Todos os colaboradores registram, para efeito de controle, o número de horas
+trabalhadas no mês. Adicionalmente, os comissionados registram o valor do percentual de comissão
+e o valor total de vendas acumulado no mês; os horistas registram o valor recebido por hora; e os
+assalariados registram o valor do salário.
+Cada colaborador pertence a um departamento e cada departamento possui pelo menos um colaborador.
+No final de cada mês, cada departamento deve calcular o salário dos seus colaboradores da seguinte
+forma: os comissionados devem receber o valor total das vendas multiplicado pela percentagem,
+independentemente do número de horas trabalhadas; os horistas devem receber o valor da hora
+trabalhada multiplicado pelo número de horas trabalhadas; e os assalariados devem receber o valor
+nominal do salário.
+Considerando essa situação e que o modelo que será elaborado para representá-la utilizará herança e
+polimorfismo, desenhe um diagrama de classe UML que contenha:
+* asclasses que representam as entidades mencionadas (departamento, colaborador e seus tipos);
+* asrespectivas associações, atributos e métodos, não sendo necessário tipar os atributos;
+º* eventuais classes abstratas com a indicação da restrição (abstract);
+º* amultiplicidade de papel das associações;
+º aoladode cada ocorrência do método para cálculo do pagamento, sua definição na forma de uma
+expressão que combine os valores dos atributos da classe.
+(valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+TEXTO 1
+De acordo com a perspectiva construtivista, o conhecimento e o saber não devem ser transmitidos prontos
+do professor para o estudante. Devem, sim, ser construídos pelo estudante por meio da exposição de
+situações, formulações de hipóteses e atividades interativas. A ideia é que o aprendiz seja colocado em
+um ambiente estimulante e criativo, para que possa desenvolver sua própria linha de raciocínio a fim de
+desvendar e explicar os acontecimentos do mundo. Na escola construtivista, o professor tem o papel
+de estimular indiretamente o desenvolvimento de habilidades dos estudantes, instigando discussões e
+debates acerca de situações cotidianas compatíveis com sua realidade.
+Disponível em: <http://www.novosalunos.com.br>. Acesso em: 16 jul. 2017 (adaptado).
+TEXTO 2
+Um software educativo é considerado aberto quando propicia fluxos variados de interação e permite a
+professores e alunos criarem situações diversas, e considerado fechado quando a sequência de passos é
+sempre a mesma, possibilitando pouca ou nenhuma variação de situações problemas apresentadas em
+suas interfaces. O tipo aberto é interessante quando se deseja solicitar dos alunos a exploração de uma
+grande quantidade de situações e alternativas, como ocorre com jogos, simuladores e micromundos.
+SILVA, A. C.; GOMES, A. S. Conheça e utilize software educativo: avaliação e planejamento para a educação básica.
+Recife: Pipa Comunicação, 2015 (adaptado).
+A partir das informações apresentadas nos textos, selecione dois tipos de software educativo aberto para
+uso em uma escola construtivista, entre os três listados ao final do texto 2. Para cada um deles, forneça
+dois aspectos pedagógicos que justifiquem sua escolha e um aspecto pedagógico que possa limitar sua
+eficácia. (valor: 10,0 pontos)
+
+QUESTÃO 09
+Uma árvore AVL é um tipo de árvore binária balanceada na qual a diferença entre as alturas de suas
+subárvores da esquerda e da direita não pode ser maior do que 1 para qualquer nó. Após a inserção de
+um nó em uma AVL, a raiz da subárvore de nível mais baixo no qual o novo nó foi inserido é marcada.
+Se a altura de seus filhos diferir em mais de uma unidade, é realizada uma rotação simples ou uma
+rotação dupla para igualar suas alturas.
+LAFORE, R. Data structures & algorithms in Java. Indianópolis: Sams Publishing, 2003 (adaptado).
+A seguir, é apresentado um exemplo de árvore AVL.
+Pelo exposto no texto acima, após a inserção de um nó com valor 3 na árvore AVL exemplificada, é correto
+afirmar que ela ficará com a seguinte configuração:
+
+QUESTÃO 10
+Considere os seguintes requisitos para
+desenvolvimento de uma solução para uma rede
+de restaurantes fast-food:
+Quando o status de um pedido é atualizado, todos
+os dispositivos dos envolvidos devem receber
+a informação. Os sistemas a ser atualizados
+incluem os acessados pelo entregador, pela linha
+de produção e pela central de atendimento.
+Espera-se ainda que outros sistemas possam ser
+incluídos futuramente (por exemplo, sistema de
+pedido on-line do cliente), devendo se comportar
+da mesma forma.
+Considerando esse contexto, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O requisito apresentado pode ser
+implementado com a utilização do padrão
+de projeto Observer.
+PORQUE
+Il. O padrão de projeto Observer realiza o
+estilo —arquitetural cliente-servidor, no
+qual o servidor é responsável por enviar
+notificações aos clientes sempre que houver
+atualização em alguma informação de
+interesse.
+Arespeito dessas asserções, assinale a opção correta.
+A As asserções | e II são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C Aasserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a || é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.
+
+QUESTÃO 11
+O encapsulamento é um mecanismo da
+programação orientada a objetos no qual os
+membros de uma classe (atributos e métodos)
+constituem uma caixa preta. O nível de
+visibilidade dos membros pode ser definido pelos
+modificadores de visibilidade "privado", "público"
+e "protegido".
+Com relação ao comportamento gerado pelos
+modificadores de visibilidade, assinale a opção
+correta.
+A Um atributo privado pode ser acessado
+pelos métodos privados da própria classe e
+pelos métodos protegidos das suas classes
+descendentes.
+B Um atributo privado pode ser acessado
+pelos métodos públicos da própria classe
+e pelos métodos públicos das suas classes
+descendentes.
+C Um membro público é visível na classe à qual
+ele pertence, mas não é visível nas suas classes
+descendentes.
+D Um método protegido não pode acessar os
+atributos privados e declarados na própria
+classe.
+E Um membro protegido é visível na classe à qual
+pertence e em suas classes descendentes.
+
+a unidade mínima de acesso.
+
+QUESTÃO 12
+Em um computador, a memória é a unidade funcional que armazena e recupera operações e dados.
+Tipicamente, a memória de um computador usa uma técnica chamada acesso aleatório, que permite
+O acesso a qualquer uma de suas posições (células). As memórias de acesso aleatório são divididas em
+células de tamanho fixo, estando cada célula associada a um identificador numérico único chamado
+endereço. Todos os acessos à memória referem-se a um endereço específico e deve-se sempre buscar ou
+armazenar o conteúdo completo de uma célula, ou seja, a célula é
+SCHNEIDER, G. M.; GERSTING, J. L. An Invitation to computer science. 6. ed. Boston:
+MA: Course Technology, Cengage Learning, 2009 (adaptado).
+A figura que se segue apresenta a estrutura de uma unidade de memória de acesso aleatório.
+Considerando o funcionamento de uma memória de acesso aleatório, avalie as afirmações a seguir.
+|. Se a largura do registrador de endereços da memória for de 8 bits, o tamanho máximo dessa
+unidade de memória será de 256 células.
+ll. Se o registrador de dados da memória tiver 8 bits, será necessária mais que uma operação para
+armazenar o valor inteiro 2 024 nessa unidade de memória.
+Ill. Se o registrador de dados da memória tiver 12 bits, é possível que a largura da memória seja
+de 8 bits.
+É correto o que se afirma em
+A |, apenas.
+B ll, apenas.
+C l e ll, apenas.
+D ll e lll apenas.
+E I, II e III.
+
+e R4=((a,0): a,beNea+bé um número par).
+
+QUESTÃO 13
+Os sistemas de refrigeração de piscinas de combustível em usinas nucleares evitam que a temperatura
+desses tanques exceda o limite de segurança. O circuito representado na figura a seguir atende aos
+requisitos necessários para o controle da ativação do sistema de resfriamento quando a temperatura está
+próxima de seu ponto crítico.
+O diagrama de tempo ilustrado na figura apresenta uma amostra das temperaturas lidas desde o momento
+t, ao t,. Os sinais de entrada Ta, Tb e Tc são de termômetros que medem a temperatura da piscina em
+diferentes pontos ao longo do dia e S é o terminal de acionamento do sistema.
+Nesse contexto, assinale a opção em que são apresentados os momentos em que o sistema foi
+acionado.
+A t,tet,
+B t, t,et,
+C t,tet,
+D t, t,et,
+E t, tjet,
+
+
+QUESTÃO 14
+Uma relação de equivalência é uma relação binária R em um conjunto A, tal que R é reflexiva, simétrica
+e transitiva.
+Considere as relações binárias apresentadas a seguir.
+e Rl=((0,0): ,beNea=);
+e R2=íf(a,0): ,beNea<b);
+e R3=((a,0): ,beNea=b-1);
+):
+São relações de equivalência apenas o que se apresenta em
+A R2eR3.
+B RleR3.
+C RleR4.
+D R1, R2e R4.
+E R2, R3e RA.
+
+QUESTÃO 15
+Uma das técnicas de ataques em ambientes virtuais é
+denominada "homem no meio" (man in the middle),
+cujo objetivo é associar o endereço MAC do intruso
+ao endereço |P de um outro nó da rede — nesse caso,
+o ponto de acesso (Access Point - AP) wi-fi da rede.
+Como o AP é o gateway padrão dessa subrede sem
+fio, todo o tráfego originalmente direcionado ao
+ponto de acesso pode ser interceptado pelo intruso.
+Esse ataque explora deficiências conhecidas no
+projeto de segurança do IEEE 802.11 wi-fi.
+COULOURIS, G. et al. Sistemas distribuídos: conceitos e projeto.
+Porto Alegre: Bookman, 2013 (adaptado)
+Considerando um ataque virtual pela técnica
+“homem no meio”, por meio de Address Resolution
+Protocol (ARP) spoofing, avalie as afirmações a seguir.
+l. O problema do compartilhamento de chave
+presente no projeto de segurança do AP pode
+ser resolvido com a utilização de um protocolo
+baseado em chave pública para negociar
+chaves individuais, como é feito no Transport
+Layer Security (TLS) / Secure Sockets Layer (SSL).
+Il. O problema do desvio de tráfego causado
+pelo ataque de homem no meio pode ser
+evitado com a configuração de um firewall
+nos pontos de acesso que filtram tráfego
+entre clientes de uma mesma subrede.
+IIl. O problema da falta de autenticação
+dos pontos de acesso sem fio pode ser
+contornado, obrigando-se o ponto de acesso
+a fornecer um certificado que possa ser
+autenticado pelo uso de uma chave pública
+obtida de terceiros.
+IV. A vulnerabilidade das chaves de 40 bits ou 64
+bits a ataques de força bruta pode ser evitada
+utilizando-se um AP que permita chaves de
+128 bits e limitando-se o tráfego a dispositivos
+compatíveis com chaves de 128 bits.
+É correto apenas o que se afirma em
+A I E II
+B I E III
+C II E IV
+D I, III E IV
+E II, III E IV
+
+QUESTÃO 16
+A segurança da informação está diretamente
+relacionada com a proteção de um conjunto
+de informações, no sentido de preservar o
+valor que possuem para um indivíduo ou uma
+organização, tendo como propriedades básicas a
+confidencialidade, a integridade, a disponibilidade e
+a autenticidade.
+LYRA, M. R. Segurança e auditoria em sistemas de informação.
+Rio de Janeiro: Ciência Moderna, 2008 (adaptado).
+A engenharia social é definida como o conjunto
+de técnicas utilizadas para reunir informações,
+explorando a tendência humana a ignorar os
+sistemas de segurança. Os ataques de engenharia
+social implicam interação com outros indivíduos,
+o que evidencia Oo aspecto psicológico da
+engenharia social.
+MITNICK, K. D.; SIMON, W. L. The art of deception: controlling the
+human element of security. New York: Wiley, 2001 (adaptado).
+A ética normativa é o "certo" e o "errado" do
+comportamento social interpretado. A principal
+diferença entre essas duas perspectivas é a
+forma como um dilema moral é abordado, e não
+necessariamente as consequências disso.
+Disponível em: <http://www.ethicsmorals.com>.
+Acesso em: 18 Jul. 2017 (adaptado).
+Em relação à segurança da informação, avalie as
+afirmações a seguir.
+l. As empresas sempre estarão vulneráveis,
+pois o fator humano é o elo mais fraco da
+segurança da informação.
+Il. A segurança da informação não é um
+produto e, sim, um processo.
+Ill. A ética profissional é um importante fator a
+ser considerado na segurança da informação.
+É correto o que se afirma em
+A |, apenas.
+B Il, apenas.
+C l e lll, apenas.
+D Il elll, apenas.
+E I, II E III.
+
+QUESTÃO 17
+Grupos de cientistas e grandes corporações de
+todo o mundo têm buscado desenvolver sistemas
+computacionais inteligentes capazes de ajudar as
+pessoas a aprender. As possibilidades, os efeitos
+e as implicações éticas da aplicação da chamada
+Inteligência Artificial (IA) na educação são temas
+que vêm ganhando espaço nos debates na área de
+tecnologia educacional em todo o mundo.
+Disponível em: <http://www.revistaeducacao.com.br>.
+Acesso em: 26 set. 2017 (adaptado).
+A respeito da adoção de técnicas de IA no processo
+educacional, avalie as asserções a seguir e a relação
+proposta entre elas.
+|. Algoritmos de IA adaptativos podem auxiliar
+a experiência de aprendizado da pessoa de
+acordo com o seu perfil.
+PORQUE
+ll. Os sistemas com algoritmos de IA adaptativos
+analisam respostas anteriores, buscando
+determinados padrões que possam indicar
+pontos de dificuldade ou facilidade da
+pessoa em relação a determinado assunto.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções | e |l são proposições verdadeiras,
+eallé uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e II são proposições falsas.
+
+QUESTÃO 18
+O algoritmo a seguir recebe um vetor v de números
+inteiros e rearranja esse vetor de tal forma que
+seus elementos, ao final, estejam ordenados de
+forma crescente.
+01 void ordena(int *v, int n)
+02 14
+03 int i, 3,
+04 for(i = 1;
+o5 (
+06 chave =
+o7 j=i-1l;
+o8 while(j >= O && v[3]
+09 (
+10 v[j3-1] =
+11 jsrji-l
+12 )
+13 v[j3+1] =
+14 )
+15 )
+chave;
+i < n; i++)
+< chave)
+chave;
+Considerando que nesse algoritmo há erros de
+lógica que devem ser corrigidos para que os
+elementos sejam ordenados de forma crescente,
+assinale a opção correta no que se refere às
+correções adequadas.
+A Alinha 04 deve ser corrigida da seguinte forma:
+for(i = 1; i <n - 1; i++) ealinha
+13, do seguinte modo: v[ 3 — 1] = chave;.
+B Alinha 04 deve ser corrigida da seguinte forma:
+for(i = 1; i <n - 1; i++) ealinhaO7,
+do seguinte modo: à = i + 1;.
+C Alinha 07 deve ser corrigida da seguinte forma:
+j = i + 1ealinha08,do seguinte modo:
+while(j >= O && v[3] > chave).
+D A linha 08 deve ser corrigida da seguinte forma:
+while(j >= O && v[3] > chave) e
+a linha 10, do seguinte modo: v[j + 1] =
+vlj31;.
+E Alinha 10 deve ser corrigida da seguinte forma:
+v[j + 1] = v[3]; ealinha 13, do seguinte
+modo: v[3 - 1] = chave;.
+
+QUESTÃO 19
+Considere o diagrama Entidade-Relacionamento apresentado a seguir.
+Qual código SQL exibe o nome de todos os deputados que compareceram a pelo menos uma seção e as
+datas de cada seção em que os deputados participaram?
+A SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado,
+Participacao, Secao WHERE Deputado.idDeputado=Participacao.idDeputado;
+B SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado,
+Participacao, Secao WHERE Deputado.idDeputado = Participacao.
+idDeputado OR Secao.idSecao = Participacao.idSecao;
+C SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado LEFT OUTER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+LEFT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+D SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado RIGHT OUTER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+RIGHT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+E SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado INNER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+INNER JOIN Secao ON Participacao.idSecao=Secao.idSecao;
+
+QUESTÃO 20
+Em redes de computadores, a camada de transporte é responsável pela transferência de dados entre
+máquinas de origem e destino. Dois protocolos tradicionais para essa camada são o Transmission Control
+Protocol (TCP) e o User Datagram Protocol (UDP). Diferentemente do UDP, o TCP é orientado à conexão.
+Com relação a esses protocolos, avalie as afirmações a seguir.
+|. OUDP é mais eficiente que o TCP quando o tempo de envio de pacotes é fundamental.
+Ill. O TCP é mais eficiente que o UDP quando a confiabilidade de entrega de dados é fundamental.
+Il. OTCP é o mais utilizado em jogos on-line de ação para a apresentação gráfica.
+É correto o que se afirma em
+A |l, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D Il e Ill, apenas.
+E I, II E III
+
+QUESTÃO 21
+Na lógica proposicional, definem-se regras para determinar o valor-verdade (verdadeiro ou falso) de
+sentenças em relação a um modelo particular. Essas regras permitem representar raciocínios lógicos
+comuns das linguagens naturais.
+Nesse contexto, considere a sentença e as proposições lógicas a seguir.
+“Um veículo que é elétrico (E) pode ser um robô (R) se for autônomo (A), caso contrário não é um robô (R)”.
+PLI=(EAR)JOA;
+P2=zeE-S(R OA);
+P3B= E >((A>R)v-R).
+A sentença pode ser representada pela(s) expressão(ões) lógica(s)
+A P2, apenas.
+B P3, apenas.
+C PleP2, apenas.
+D Pl eP3, apenas.
+E P1,P2eP3.
+
+QUESTÃO 22
+Uma instituição de ensino planeja usar uma
+plataforma de educação a distância para atender
+comunidades rurais dispersas em áreas remotas
+onde o acesso à internet é lento e instável. Essa
+plataforma possui as seguintes ferramentas
+modulares que podem ser selecionadas
+individualmente e acopladas no momento de sua
+implantação:
+*º biblioteca: acervo de livros digitais que
+podem ser baixados e usados off-line;
+* videoteca: acervo de videoaulas que podem
+ser assistidas on-line, mas não baixadas para
+acesso off-line;
+* videoconferência: ferramenta de comunicação
+audiovisual síncrona (em tempo real);
+º chat: ferramenta de comunicação textual
+síncrona;
+* fórum: ferramenta de comunicação textual
+assíncrona;
+º* wiki: ferramenta colaborativa para construção
+de conteúdos coletivos com textos e imagens.
+Nessa situação, dado que a instituição pode oferecer
+no máximo três ferramentas em sua plataforma, a
+combinação que melhor atende às peculiaridades
+da instituição e de seu público é
+A videoconferência, chat e fórum, porque, juntas,
+oferecem o melhor nível de interação entre
+tutor e aluno e também dos alunos entre si.
+B biblioteca, videoteca e wiki, porque, juntas,
+oferecem maior acesso ao acervo da instituição
+e enriquecem o trabalho colaborativo.
+C chat, fórum e wiki, porque, juntas, oferecem
+as melhores oportunidades de interação para a
+construção coletiva de conhecimento.
+D videoteca, videoconferência e chat, porque,
+juntas, oferecem o melhor equilíbrio entre
+interação e acesso ao acervo.
+E biblioteca, fórum e wiki, porque, juntas,
+oferecem o melhor equilíbrio entre acesso ao
+acervo, interação e trabalho colaborativo.
+
+QUESTÃO 23
+Embora a educação a distância (EaD) seja, hoje,
+cada vez mais ofertada nas instituições de ensino,
+nem sempre são oferecidas ferramentas adequadas
+para se estabelecer o processo desejado de ensino-
+aprendizagem. Assim, na definição do software para
+aplicações educacionais no modelo EaD de modo a
+melhor atender o processo de ensino-aprendizagem,
+deve-se
+A escolher um único aspecto de aprendizagem
+para evitar distorções na interpretação
+do estudante, por exemplo, o aspecto de
+memorização, de reflexão crítica e autocrítica.
+B utilizar diversos canais de interação como chats,
+fóruns, e-mails, telefone e ambientes virtuais de
+troca de mensagens e conteúdo para maximizar
+a interação entre estudantes e professores.
+C escolher softwares baseados em tecnologias
+abertas (open source) para minimizar eventuais
+custos com licenças e manutenção de software
+para a instituição e o estudante.
+D utilizar ferramentas que priorizem o estudo
+individual do estudante, o que minimiza a
+necessidade da presença de tutores e reduz o
+custo de implantação desse modelo pedagógico.
+E apresentar conteúdos neutros, desprendidos
+de qualquer relação com uma cultura
+específica, religião, raça ou aspectos políticos,
+pois, assim, evita-se a regionalização do
+conteúdo ministrado.
+
+QUESTÃO 24
+Requisitos funcionais, também conhecidos como
+capacidades (capabilities) ou características
+(features), descrevem as funções que o sistema
+deve executar. Requisitos não funcionais, também
+conhecidos como restrições (constraints) ou
+requisitos de qualidade do sistema, são os que
+agem para restringir a solução.
+Pierre, B.; Fairley, R. E. Guide to the software engineering body
+of knowledge (Swebok(R)). 3. ed. Los Alamitos: IEEE Computer
+Society Press, 2004 (adaptado).
+Com base nessa informação, avalie os seguintes
+requisitos referentes ao desenvolvimento de um
+sistema de software para uma gráfica que pretende
+prestar serviços de impressão pela internet.
+|. O cliente pode registrar um pedido de
+impressão informando um tamanho A2
+ou maior e a resolução que deseja (baixa,
+média ou alta).
+ll. O software deve ser desenvolvido na
+linguagem Java e utilizar, para a persistência
+em banco de dados, uma biblioteca padrão
+Java Persistence API (JPA).
+Ill. O tempo médio decorrente entre o envio
+do pedido pelo cliente e o recebimento do
+e-mail com os dados de confirmação deve
+ser inferior a 5 minutos.
+IV. Todos os pedidos de impressão em que o
+custo ultrapasse 10 salários mínimos devem
+ser aprovados por um gerente responsável
+por inspecionar a impressão.
+São classificados como não funcionais apenas os
+requisitos mencionados em
+A I E IV
+B II E III.
+C ll e IV.
+D I, II E III.
+E I, III E IV
+
+QUESTÃO 25
+Atualmente, estão disponíveis várias classes
+de software para um melhor aproveitamento
+educacional e apoio automatizado ao processo
+de ensino-aprendizagem. Tais softwares são
+classificados em categorias conforme seus objetivos
+pedagógicos.
+GEBRAN, M. P. Tecnologias Educacionais.
+Curitiba: IESDE Brasil S.A, 2009 (adaptado).
+Considerando a classificação dos softwares
+educativos, avalie as afirmações a seguir.
+|. Os tutoriais, que consistem em classe de
+software para transmissão da informação de
+forma organizada, de modo similar a um livro
+ou apostila eletrônica, caracterizam-se, por
+exemplo, pelo uso de estratégias, objetivos
+a serem alcançados e pela apresentação de
+estímulos.
+Il. Jogos educativos utilizam, por exemplo,
+desafios e competição como estímulo na
+aquisição de um determinado aprendizado,
+com instruções e regras claras.
+IlI. Softwares de multimídia utilizam uma
+linguagem de programação e permitem
+desenvolvero raciocínio lógico e matemático,
+sendo uma de suas características principais
+a liberdade de criação.
+É correto o que se afirma em
+A |, apenas.
+B III, apenas
+C l e ll, apenas.
+D ll e lll, apenas.
+E I, II E III.
+
+QUESTÃO 26
+Cada aspecto da interação humano-computador associa-se a um conceito. A figura a seguir destaca, em
+uma tela do software Microsoftº Word"Y, o botão"Pincel de Formatação", juntamente com o seu texto
+explicativo, que indica o seu significado, as teclas de atalho e como utilizá-lo.
+Do ponto de vista da interação humano-computador, qual conceito está presente na interface gráfica?
+A Acessibilidade
+B Comunicabilidade
+C Tempo de resposta
+D Cognição distribuída
+E Princípio da proximidade
+
+QUESTÃO 27
+A diretoria de uma empresa identificou os seguintes
+problemas, que têm afetado os seus negócios:
+* faltademétricas para controlar seus produtos;
+* — processos escassos ou inexistentes;
+* faltadefocoem seus negócios;
+* descontrole dos processos.
+Nessa situação, o guia de boas práticas indicado
+para otimizar o investimento em tecnologia da
+informação, de forma a melhorar o retorno sobre
+o investimento e fornecer métricas para a avaliação
+dos resultados dessa empresa é o
+A ITIL.
+B coBIT.
+C cmMv!.
+D MPS-BR.
+E PMBOK.
+
+QUESTÃO 28
+Um dos conceitos básicos de orientação a objetos
+é o conceito de herança. Durante a implementação
+de um sistema, o mecanismo de herança suporta a
+definição de uma nova classe A a partir de outra B,
+preexistente (por exemplo, em Java, pode-se definir
+a classe A herdeira da classe B como "class A
+extends BB"). Além disso, tal mecanismo pode
+implementar polimorfismo de tipos de objetos.
+DEITEL, P.; DEITEL, H. Java - como programar. 8. ed. São Paulo:
+Prentice Hall, 2010 (adaptado).
+A respeito de herança e sua relação com orientação
+a objetos, avalie as afirmações a seguir.
+|. Herança é um mecanismo que pode ser
+usado para implementar polimorfismo.
+Il. Herança permite o reaproveitamento de
+código comum entre algumas classes.
+Ill. Métodos herdados equivalem a métodos
+polimórficos.
+É correto o que se afirma em
+A |, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D ll e lll, apenas.
+E I, II E III.
+
+QUESTÃO 29
+As redes de comunicação, notadamente aquelas
+baseadas na internet, têm sido utilizadas como base
+na construção de infraestrutura para plataformas
+de educação a distância (EaD).
+A exemplo disso, ferramentas de EaD têm sido
+desenvolvidas a partir do princípio da comunicação
+síncrona, que pressupõe a conexão simultânea
+entre o emissor e o receptor da mensagem, e da
+comunicação assíncrona, que não exige a conexão
+simultânea.
+Considerando uma plataforma de EaD baseada
+em redes de comunicação, avalie as afirmações a
+seguir.
+|. Asituaçãoem que um professor tem acesso à
+tela do computador de cada estudante, sem
+intervir no que cada um estiver visualizando,
+caracteriza um cenário de comunicação
+assíncrona.
+Il. Ferramentas — assíncronas— permitem ao
+estudante enviar mensagens de dúvidas
+ao professor durante a exibição de uma
+videoaula, sem a garantia de que o professor
+responderá a essa mensagem em tempo real.
+Ill. Compete ao professor verificar, por meio de
+imagens em tempo real, se é realmente um
+estudante quem está realizando as tarefas
+assíncronas no ponto receptor.
+É correto o que se afirma em
+A |l, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D l e lll, apenas.
+E I, II E III.
+
+QUESTÃO 30
+Um Massive Open On-line Course (MOOC) é um curso destinado a grande quantidade de estudantes
+em um ambiente on-line e se fundamenta na teoria conectivista do aprendizado, segundo a qual as
+estruturas tradicionais de ensino-aprendizagem, baseadas no convívio em sala de aula com um professor
+apresentando conteúdos de forma expositiva, não atendem às necessidades dos indivíduos conectados à
+internet e às redes sociais.
+Um MOOC diferencia-se da educação a distância (EaD) tradicional por ser geralmente gratuito, aberto,
+livre de pré-requisito de ingresso, e pela maior quantidade de estudantes. O processo de avaliação do
+MOOC também é diferente da EaD tradicional porque, normalmente, utiliza crowdsourcing (correção de
+atividades ou questionários por especialistas), peer assessment (perguntas dissertativas avaliadas pelos
+pares) e avaliações de postagens em fóruns.
+SOUZA, R.; CYPRIANO, E. F. MOOC: Uma alternativa contemporânea para o ensino de astronomia.
+Ciência e Educação (Bauru), v. 22, n. 1, p. 65-80, 2016 (adaptado).
+Com base nas informações do texto acima, é correto afirmar que
+A professores e tutores são mais importantes nos MOOCs que na EaD tradicional.
+B avaliações formativas são mais importantes na EaD tradicional que nos MOOCs.
+C interações entre estudantes são mais importantes nos MOOCs que na EaD tradicional.
+D ambientes virtuais de aprendizagem são mais importantes nos MOOCs que na EaD tradicional.
+E recursos didáticos de qualidade são mais importantes na EaD tradicional que nos MOOCs.
+
+QUESTÃO 31
+A didática escolar cumpre funções de caráter político, educativo e científico a um só tempo. A integralização
+dessas funções pela didática escolar torna essa disciplina acadêmica algo mais complexo que a simples
+procura e implementação de procedimentos de ensino. Por meio desse processo, a unidade dialética
+da teoria e da prática assume as características de uma verdadeira investigação científica da realidade
+cotidiana da prática pedagógica.
+RAYS, O. A. A relação teoria-prática na didática escolar crítica. In: VEIGA, |. P. A. (Org.).
+Didática: o ensino e suas relações. 7. ed. Campinas: Papirus, 2003 (adaptado).
+A partir das informações apresentadas, avalie as afirmações a seguir.
+|. A práxis pedagógica envolve a adoção do método dialético no processo de elaboração do
+conhecimento em articulação com a teoria histórico-cultural.
+Il. A apropriação crítica e histórica do conhecimento é um instrumento de compreensão da realidade
+social e de atuação crítica para a transformação da sociedade.
+Ill. A Didática é uma área do conhecimento que utiliza os elementos do cotidiano escolar e das
+questões sociais para atualizar a prática docente.
+É correto o que se afirma em
+A |, apenas.
+B ll, apenas.
+C l e ll, apenas.
+D ll e lll, apenas.
+E I, II E III.
+
+QUESTÃO 32
+Um aluno da rede pública de ensino, com 11 anos
+de idade, está matriculado no 5º ano do Ensino
+Fundamental e tem surdez profunda bilateral.
+Ele é bem humorado, brincalhão e bastante
+sociável. É fluente na língua brasileira de sinais
+(Libras), mas apresenta dificuldades de leitura
+e escrita da língua portuguesa. Tem potencial
+cognitivo elevado, embora necessite de constante
+interferência e auxílio da professora para realizar
+suas atividades.
+Disponível em: <http://www.cepae.faced.ufu.br>.
+Acesso em: 7 jul. 2017 (adaptado).
+Considerando a situação apresentada e o que
+estabelece a Política Nacional da Educação Especial
+na perspectiva da Educação Inclusiva, deve-se
+assegurar a esse aluno
+O escolarização que atenda à proposta educacional
+bilíngue, considerando-se a língua de sinais
+como primeira língua.
+O atendimento educacional especializado,
+priorizando-se o ensino da língua portuguesa,
+de modo a garantir a educação bilíngue.
+O processo avaliativo que priorize o uso da língua
+portuguesa na modalidade escrita, dada a
+importância da manutenção do registro da
+aprendizagem.
+O ensino da língua brasileira de sinais (Libras)
+após a aquisição da língua portuguesa na
+modalidade escrita, em processo análogo ao da
+alfabetização de aluno ouvinte.
+O educação inclusiva, apesar de a surdez não se
+enquadrar no campo da deficiência física ou das
+limitações de mobilidade.
+
+QUESTÃO 33
+As escolas brasileiras não têm um único jeito de
+ensinar sobre gênero e sexualidade; pesquisas
+evidenciam currículos e práticas pedagógicas
+e de gestão marcadas pela discriminação.
+Distinções sexistas nas aulas, na chamada, nas
+filas de meninos e de meninas, nos uniformes, no
+tratamento e nas expectativas sobre alunos ou
+alunas, tolerância da violência verbal e até física
+entre os meninos, representações de homens
+e mulheres nos materiais didáticos, abordagem
+quase exclusivamente biológica da sexualidade
+no livro didático, estigmatização referente à
+manifestação da sexualidade das adolescentes,
+perseguição sofrida por homossexuais, travestis
+e transexuais, evidenciam o quanto a escola
+(já) ensina, em diferentes momentos e espaços,
+sobre masculinidade, feminilidade, sexo, afeto,
+conjugalidade, família.
+Disponível em: <http://www.spm.gov.br>.
+Acesso em: 11 jul. 2017 (adaptado).
+Nesse contexto, para construir uma prática
+pedagógica que promova transformações no
+sentido da igualdade de gênero a partir do respeito
+às diferenças, espera-se que a escola
+A incorpore o conceito de gênero nos diferentes
+componentes do currículo de maneira
+transversal.
+B realize atividades em seu cotidiano que definam
+para as crianças o que é masculino e o que é
+feminino.
+C se valha das diferenças sexuais naturais entre
+meninos e meninas para conduzir a classe e
+manter a disciplina.
+D se refira à questão de gênero de forma
+tangencial, suficiente para promover vivência
+menos intransigente e mais equânime entre
+homens e mulheres.
+E reforce modelos de comportamentos socialmente
+atribuídos a homens e mulheres que formam um
+conjunto de representações sobre masculinidade
+e feminilidade.
+
+QUESTÃO 34
+Lev Semenovitch Vygotsky, psicólogo russo,
+elaborou sua teoria tendo por base o
+desenvolvimento do indivíduo como resultado
+de um processo sócio-histórico, enfatizando o
+papel da linguagem e da aprendizagem nesse
+desenvolvimento. Esse pressuposto teórico,
+conhecido como Teoria Histórico-Cultural,
+apresenta como questão central a apropriação de
+conhecimentos pela interação do sujeito com o
+contexto social.
+Considerando os pressupostos da teoria
+vygotskyana, avalie as afirmações a seguir.
+|. O desenvolvimento cognitivo é produzido
+no processo de internalização da interação
+social com a cultura.
+Il. Ao acessar a língua escrita, o indivíduo
+se apropria das técnicas inerentes a este
+instrumento cultural, modificando suas
+funções mentais superiores.
+Ill. A apropriação da linguagem específica do
+meio sociocultural transforma os rumos do
+desenvolvimento individual.
+IV. O desenvolvimento das funções psíquicas
+superiores decorre de funções existentes no
+indivíduo.
+V. A educação sistemática e organizada pode
+contribuir com o processo de aquisição dos
+sistemas de conceitos científicos, o que
+modifica a estrutura do pensamento do
+indivíduo.
+É correto apenas o que se afirma em
+A I E IV
+B I E V
+C II, III E IV
+D I, II, III E V
+E II, III, IV E V
+
+QUESTÃO 35
+A professora de uma escola pública tem sua
+prática pedagógica fundamentada na teoria de
+Jean Piaget. Essa professora irá desenvolver com
+uma turma do 5º ano do Ensino Fundamental uma
+aula de Ciências sobre o tema força e movimento,
+utilizando a abordagem construtivista.
+Nesse contexto, qual deverá ser a proposta de
+trabalho elaborada pela professora?
+A Demonstrar aos estudantes, em laboratório,
+experimentos relacionados ao tema e realizar
+avaliação do conteúdo trabalhado.
+B Utilizar livro didático e figuras previamente
+selecionadas para sintetizar conceitos e
+informações — relacionados ao conteúdo
+trabalhado.
+C Aplicar exercícios de fixação em níveis crescentes
+de complexidade para a internalização dos
+conteúdos pelos estudantes.
+D Partir do saber do cotidiano do estudante
+sobre a relação entre força e movimento para
+provocar o surgimento de hipóteses, criar
+conflitos cognitivos para desenvolvimento do
+conceito desejado.
+E Realizar leituras informativas sobre o conteúdo
+e, a partir da apresentação de s/ides ilustrativos,
+descrever o conceito de força e de movimento,
+apresentando exemplos.
+

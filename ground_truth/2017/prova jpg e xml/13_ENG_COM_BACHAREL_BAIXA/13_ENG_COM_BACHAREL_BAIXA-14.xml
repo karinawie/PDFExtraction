@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:00:29</Created>
+	<LastChange>2020-11-21T00:18:17</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 521,244 521,322 1576,322 1576,662 1577,662 1577,1003 1573,1003 1573,1813 1574,1813 1574,1929 1577,1929 1577,2056 1109,2056 1109,2057 640,2057 640,2058 171,2058 171,2059 170,2059 170,1930 169,1930 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="244,1033 244,1613 1527,1613 1527,1033"/></ImageRegion>
+	<TextEquiv conf="0.95614">
+	<Unicode>QUESTÃO DISCURSIVA 04
+O monitoramento ambiental é um processo de coleta de dados, estudo e acompanhamento
+contínuo e sistemático das variáveis ambientais. No contexto da realização de um monitoramento
+ambiental, é projetado um coletor das seguintes variáveis climáticas: radiação solar, temperatura
+do ambiente, pressão atmosférica e umidade. Esse coletor utiliza um microcontrolador de
+32 bits provido de um módulo de comunicação RS-232, um de comunicação 12C, um de
+conversão analógico-digital de 12 bits, dois temporizadores, um controlador de interrupção e
+uma memória estática de 8 Kbytes. As informações das variáveis ambientais devem ser registradas
+pelo coletor em intervalos de 30 min e cada dado deve ser armazenado, em resolução de 16 bits,
+pelo período de um mês.
+Para medir a temperatura do ambiente, foi selecionado um termistor do tipo NTC (negative
+temperature coefficient). A figura a seguir apresenta o circuito projetado para realizar a interface
+entre este termistor e o pino de entrada analógica do microcontrolador, de forma que a resistência
+variável R do termistor seja convertida em tensão compatível com a faixa de tensão de trabalho
+[0, Vref] do conversor analógico-digital do microcontrolador.
+Com base nesse projeto, faça o que se pede nos itens a seguir.
+a) Cite duas características que devem ser consideradas na escolha do microcontrolador. (valor: 2,0 pontos)
+b) Obtenha uma equação que relacione a resistência variável R do termistor com o valor digital "x"
+gerado pelo conversor analógico-digital. (valor: 4,0 pontos)
+c) Calcule o tamanho dos dados a serem preservados, em Kbits, e, com base nesse valor, indique
+qual o tamanho mínimo de memória |12C que deve ser utilizado para armazenar os dados.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

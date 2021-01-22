@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T01:55:51</Created>
+	<LastChange>2020-09-09T01:56:47</LastChange></Metadata>
+	<Page imageFilename="AGRONOMIA-21.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r4">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="800,655 800,1176 1500,1176 1500,655"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,777 770,777 770,778 771,778 771,800 769,800 769,1566 470,1566 470,1623 346,1623 346,1749 357,1749 357,1876 85,1876 85,1589 133,1589 133,927 83,927 83,858 112,858 112,750 83,750 83,247 84,247"/>
+	<TextEquiv conf="0.95963">
+	<Unicode>QUESTÃO 16
+A legislação brasileira considera produto orgânico,
+seja ele in natura ou processado, aquele que é obtido
+por meio de um sistema orgânico de produção
+agropecuária ou oriundo de processo extrativista
+sustentável. Para serem comercializados, estes
+produtos devem ser certificados por organismos
+credenciados no Ministério da Agricultura, Pecuária
+e Abastecimento (MAPA), sendo dispensados
+da certificação somente aqueles produzidos
+por agricultores familiares que fazem parte de
+organizações de controle social cadastradas no
+MAPA, que comercializam exclusivamente em
+venda direta aos consumidores.
+Disponível em: &lt; http://www.agricultura.gov.br/assuntos/
+sustentabilidade/organicos&gt;. Acesso em: 18 jul. 2019 (adaptado).
+Considerando as informações apresentadas no
+texto, avalie as afirmações a seguir.
+|. A legislação brasileira estabelece a
+certificação como o mecanismo que confere
+segurança ao consumidor e confiabilidade
+aos produtos da agricultura orgânica.
+Il. Um dos procedimentos técnicos proibidos
+para produção vegetal na agricultura
+orgânica é o uso de transgênicos e de
+organismos geneticamente modificados.
+Ill. Na produção de alimentos orgânicos de
+origem animal, devem-se seguir os princípios
+do bem-estar animal em todas as fases do
+processo produtivo.
+IV. A agrossilvicultura é um modelo de sistema
+produtivo recomendado para a agricultura
+orgânica.
+É correto o que se afirma em
+A I, II e III, apenas.
+B I, II e IV apenas.
+C I, III e IV, apenas.
+D II, III e IV apenas.
+E I, II, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1492,247 1492,634 1491,634 1491,1436 1492,1436 1492,1515 1491,1515 1491,2034 853,2034 853,2035 852,2035 852,1946 806,1946 806,1402 805,1402 805,1329 809,1329 809,635 806,635 806,210 805,210"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 17
+Os biorreguladores são utilizados para interferir
+no crescimento e no desenvolvimento de plantas.
+Um experimento foi conduzido para avaliar o
+desempenho de plantas de soja em resposta à sua
+aplicação. Como resultado, chegou-se à regressão
+apresentada na figura a seguir, que representa
+a produtividade da soja (kg-ha!) em função
+de diferentes doses do biorregulador aplicado
+(ml-ha"!), sendo que MF é o máximo da função e
+PM é ponto de máximo.
+ALBRECHT, L. P. et al. Manejo de biorregulador nos componentes
+de produção e desempenho das plantas de soja. Bioscience Journal
+Uberlândia, v. 27, n. 6, p. 865-876, 2011 (adaptado).
+Com base nas informações apresentadas, assinale
+a opção correta.
+A A dose de 500 ml⋅ha-1 de biorregulador
+proporcionou a maior produtividade da soja.
+B A produtividade da soja apresentou relação
+linear direta com as doses do biorregulador.
+C A aplicação do biorregulador apresentou
+efeito positivo na produtividade da soja,
+independentemente da dose aplicada.
+D A produtividade da soja apresentou uma
+resposta quadrática em função das doses do
+biorregulador.
+E O coeficiente de determinação (R2) apresentado,
+inferior a 1,00, indica que o modelo gerado não
+foi significativo no intervalo testado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

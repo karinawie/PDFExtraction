@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:39:20</Created>
+	<LastChange>2020-09-18T02:39:53</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,315 854,315 854,515 594,515 594,572 584,572 584,697 597,697 597,747 656,747 656,798 854,798 854,985 855,985 855,1056 854,1056 854,1286 555,1286 555,1344 398,1344 398,1612 169,1612 169,1379 170,1379 170,1311 218,1311 218,955 168,955 168,798 218,798 218,515 169,515"/>
+	<TextEquiv conf="0.60267">
+	<Unicode>QUESTÃO 28
+Os métodos ágeis são fundamentados no
+desenvolvimento e entrega incremental tendo
+em vista atender aos requisitos dos clientes. Eles
+agregam um conjunto de princípios provenientes
+do manifesto ágil, tais como:
+* envolvimento do cliente;
+º* entregaincremental;
+* pessoas, não processos;
+* aceitação das mudanças;
+º manutenção da simplicidade.
+O Scrum é um exemplo de método ágil de
+gerenciamento de projetos. Avalie as afirmações a
+seguir sobre a relação do Scrum com os princípios
+do manifesto ágil.
+l. O Scrum adota a entrega incremental por
+meio de Sprints.
+Il. O Scrum adota a simplicidade por meio do
+uso da programação em pares.
+Ill. O Scrum adota o envolvimento do cliente com
+a priorização e a negociação dos requisitos
+na concepção de Sprints.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O L,1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,701 1575,701 1575,824 1577,824 1577,1108 1576,1108 1576,1198 1575,1198 1575,1395 1574,1395 1574,1499 1575,1499 1575,1571 1484,1571 1484,1619 891,1619 891,1198 890,1198 890,1135 939,1135 939,797 890,797 890,701 889,701 889,312 890,312"/>
+	<TextEquiv conf="0.96713">
+	<Unicode>QUESTÃO 29
+O projetista do gerenciador de memória de um
+novo sistema operacional precisa escolher entre os
+algoritmos de substituição de páginas FIFO (First In
+First Out - o primeiro a entrar é o primeiro a sair)
+e LRU (Least Recently Used - menos recentemente
+usado). Para isso, avaliou o número de faltas de
+página obtidas em ambos os algoritmos para o
+tamanho de memória de 4 páginas, utilizando a
+sequência de acessos às páginas 1-2-3-4-1-2-5-1-2-
+3-4-5 de um processo e memória inicialmente vazia.
+Com base nessa simulação, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Na simulação proposta, é possível observar
+que os algoritmos FIFO e LRU apresentam o
+mesmo desempenho.
+PORQUE
+Il. Os parâmetros utilizados na simulação são
+insuficientes para determinar a diferença de
+funcionamento entre os algoritmos.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e |l são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+E As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

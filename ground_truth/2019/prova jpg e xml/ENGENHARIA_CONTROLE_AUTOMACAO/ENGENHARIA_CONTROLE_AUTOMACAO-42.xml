@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:31:52</Created>
+	<LastChange>2020-09-12T18:32:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-42.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="197,615 197,1013 1376,1013 1376,615"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,586 1490,586 1490,1104 319,1104 319,1349 85,1349 85,1104 83,1104 83,478 84,478"/>
+	<TextEquiv conf="0.96640">
+	<Unicode>QUESTÃO 32
+Sistemas integrados de manufatura fazem uso de regras para definir o sequenciamento das operações
+desse setor. Uma das regras mais usadas baseia-se no tempo de folga, que é a diferença entre o tempo
+restante para a produção e o tempo de processamento restante. A prioridade é atribuída aos produtos
+com o menor tempo de folga, de acordo com a seguinte equação:
+tempo de folga = data de entrega — data de hoje — tempo de processamento restante
+A tabela a seguir apresenta os dados usados para o cálculo de prioridade de agendamentos de manufatura
+de uma suposta empresa. As datas são expressas como o número de dias desde o primeiro dia do ano, os
+tempos são expressos em dias e o dia de hoje corresponde a 60 (1º/Mar/2019).
+Considerando o uso da regra baseada no tempo de folga, a opção que apresenta o dia em que será
+finalizada a manufatura do produto P4 é
+A 6/Mar/2019.
+B 13/Mar/2019.
+C 18/Mar/2019.
+D 22/Mar/2019.
+E 27/Mar/2019.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:36:49</Created>
+	<LastChange>2020-11-30T17:41:24</LastChange></Metadata>
+	<Page imageFilename="42_TEC_GES_PRO_IND_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="169,244 339,244 339,312 873,312 873,313 1576,313 1576,495 1575,495 1575,1804 1438,1804 1438,2116 170,2116 170,2115 169,2115 169,1860 168,1860 168,1831 169,1831 169,495 168,495 168,312 169,312"/>
+	<ImageRegion id="r1">
+	<Coords points="411,525 411,1519 1575,1519 1575,525"/></ImageRegion>
+	<TextEquiv conf="0.95293">
+	<Unicode>QUESTÃO 35
+Um gestor de produção industrial responsável pela produção de aeronaves precisa escolher o arranjo
+físico (layout) mais indicado para o seu sistema produtivo. A figura a seguir, em que se considera o fluxo
+e o volume de produção bem como a variedade de produtos, apresenta uma ferramenta que o auxilia
+nessa decisão que deve ser tomada levando-se em conta as vantagens e as desvantagens específicas de
+cada caso.
+Considerando essa situação e o arranjo físico que deve ser selecionado pelo gestor de produção industrial,
+avalie as asserções a seguir e a relação proposta entre elas.
+|. O gestor de produção industrial deve escolher o arranjo físico (layout) funcional.
+PORQUE
+Il. O arranjo físico funcional é o mais indicado para produtos diversificados e produzidos em
+quantidades variáveis, apresentando um fluxo longo dentro da fábrica.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e II são proposições verdadeiras, e a Il é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

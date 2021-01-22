@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T23:50:38</Created>
+	<LastChange>2020-09-12T23:51:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_FLORESTAL-24.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r1">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="802,1178 802,1671 1492,1671 1492,1178"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,179 254,179 254,248 769,248 769,716 738,716 738,833 770,833 770,951 769,951 769,1123 575,1123 575,1278 770,1278 770,1505 769,1505 769,1506 592,1506 592,1762 84,1762 84,1277 85,1277 85,1278 270,1278 270,1238 299,1238 299,1123 85,1123 85,1122 84,1122 84,950 83,950 83,832 118,832 118,716 85,716 85,715 84,715"/>
+	<TextEquiv conf="0.96570">
+	<Unicode>QUESTÃO 25
+Em inventários florestais, diferentes amostras
+podem ser retiradas de uma mesma população, o
+que pode resultar em estimativas diferentes, pois
+um estimador é uma variável aleatória e pode
+assumir valores diferentes para cada amostra.
+Então, ao invés de estimar o parâmetro de interesse
+por um único valor, é muito mais informativo
+estimá-lo por um intervalo de valores que considere
+a variação presente na amostra e que contenha o
+seu verdadeiro valor com determinada confiança.
+Esse intervalo é denominado Intervalo de Confiança
+(IO) e é descrito pela fórmula a seguir.
+IWW=r-t-s, &lt;u&lt;TtT+t:s;
+em que: 7 é a média amostral; 7 é o erro padrão
+da média, 1 é a média populacional e t é o valor
+tabelado da distribuição t de Student.
+Disponível em: &lt;http://www.leg.ufpr.br/“shimakur/CEO55/node56.
+html&gt;. Acesso em: 10 jun. 2019 (adaptado).
+Considere, ainda, que o erro de amostragem
+relativo é dado por:
+ts,
+E, = (—) 100
+Em um inventário florestal obteve-se um volume
+médio de 300 m?/ha e erro padrão da média
++ 15 m3/ha. Considerando um valor de t = 2,
+assinale a opção que apresenta, respectivamente,
+o intervalo de confiança para a média (IO) e o erro
+de amostragem relativo (%).
+O 270 m?/ha &lt; u &lt; 330 mô/ha; 5%.
+O 270 m?/ha &lt; nu &lt; 330 m?/ha; 10%.
+O 270 mi/ha &lt; 1 &lt;315 m?/ha; 15%.
+O 285 mi/ha &lt; 1 &lt;315 mi/ha; 5%.
+O 285 m?/ha &lt; 1 &lt;315 m?/ha; 10%.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="813,597 813,1076 1494,1076 1494,597"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="805,179 976,179 976,243 1492,243 1492,567 1490,567 1490,1708 1491,1708 1491,1802 882,1802 882,2042 806,2042 806,1802 805,1802"/>
+	<TextEquiv conf="0.96786">
+	<Unicode>QUESTÃO 26
+A altura dominante de uma parcela é representada
+pela média da altura das 100 árvores de maior
+Diâmetro à Altura do Peito (DAP) por hectare.
+ASSMANN, E. The principles of forest yield study.
+Oxford: Pergamon Press, 1970 (adaptado).
+A tabela a seguir apresenta os valores de medida
+de uma parcela de 300 m? instalada em um
+plantio de eucalipto com 10 anos de idade (idade
+de referência).
+No gráfico a seguir, estão apresentadas as curvas de
+classificação de sítio do referido plantio.
+Considerando as informações apresentadas, é
+correto afirmar que a parcela indicada pertence à
+classe de sítio
+A I.
+B II.
+C III.
+D IV.
+E V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

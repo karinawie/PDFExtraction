@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T02:51:18</Created>
+	<LastChange>2020-09-10T02:54:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-19.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r11">
+	<Coords points="78,389 78,881 1507,881 1507,389"/></TableRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="83,179 1492,179 1492,372 1442,372 1442,998 1491,998 1491,1081 1493,1081 1493,1153 1491,1153 1491,1311 1292,1311 1292,1312 1091,1312 1091,1313 890,1313 890,1314 689,1314 689,1315 488,1315 488,1316 85,1316 85,928 84,928 84,380 83,380"/>
+	<TextEquiv conf="0.83973">
+	<Unicode>QUESTÃO 17 EEE AAA aaa aa aa aa Aa a aa a a A,
+O teste de aceitabilidade utilizando escala hedônica é uma das principais ferramentas sensoriais no
+desenvolvimento de novos produtos alimentícios. A tabela a seguir apresenta os resultados de uma
+análise sensorial em que foi aplicado o teste de médias de Tukey para a avaliação de diferentes
+formulações (F1, F2 e F3) de iogurte com geleia de cajá.
+Formulações
+F1* F2* F3*
+Aparência 7,48º 7,408 6,76P
+Odor 7,07? 7,31? 6,93º
+Cor 7,41? 7,61? 6,93º
+Sabor 6,859b 7,18º 6,28P
+Textura 7,22? 7,398 5,81º
+Impressão global 6,90º 7,15? 6,47?
+*Letras diferentes na linha indicam diferenças significativas pelo teste de Tukey (p&lt;0,05).
+Considerando os resultados apresentados na tabela, assinale a opção correta.
+A A coloração das amostras apresentou variações significativas entre as formulações desenvolvidas.
+B Com relação aos atributos aparência e sabor, não houve diferenças significativas entre as formulações
+desenvolvidas.
+C A aplicação do teste de médias de Tukey permitiu mensurar diferenças significativas do atributo odor
+entre as formulações.
+D A impressão global obtida pelas formulações desenvolvidas apresentou diferença significativa ao nível
+de 5% de significância.
+E A formulação F3 apresentou diferença significativa no atributo textura quando comparada às
+formulações F1 e F2, que não diferiram entre si.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:33:50</Created>
+	<LastChange>2020-11-25T18:58:52</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-34.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1062,244 1062,312 1578,312 1578,654 1575,654 1575,947 1578,947 1578,1049 1576,1049 1576,1202 1578,1202 1578,1311 1381,1311 1381,1367 1040,1367 1040,1621 891,1621 891,1399 892,1399 892,1334 939,1334 939,832 891,832 891,764 967,764 967,655 890,655"/>
+	<TextEquiv conf="0.96447">
+	<Unicode>QUESTÃO 34
+No contexto de arquitetura e organização de
+computadores, otermo clusteré usado para designar
+um grupo de computadores interconectados,
+trabalhando como um recurso de computação
+unificado. Cada computador pertencente ao cluster
+é usualmente denominado nó. Clusters costumam
+ser utilizados em ambientes corporativos, sendo
+particularmente — adequados para aplicações
+baseadas em servidores.
+STALLINGS, W. Arquitetura e organização de computadores.
+8. ed. São Paulo: Prentice Hall, 2010 (adaptado).
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. Uma falha em um nó de um cluster implica
+em perda total de serviço.
+Il. A interligação entre os nós de um cluster
+realiza-se por meio de um barramento de
+controle.
+Ill. A escalabilidade de um cluster é maior do
+que a de um processador com múltiplos
+núcleos.
+IV. A relação custo/desempenho de um cluster
+é melhor do que a de uma única máquina de
+grande porte.
+É correto apenas o que se afirma em
+Oie
+O leiv.
+O eiv.
+O L,11e.
+O LIeIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 854,312 854,792 853,792 853,987 854,987 854,988 855,988 855,1136 854,1136 854,1304 853,1304 853,1432 555,1432 555,1488 439,1488 439,1741 170,1741 170,1454 218,1454 218,1155 219,1155 219,988 218,988 218,792 175,792 175,661 168,661 168,312 169,312"/>
+	<TextEquiv conf="0.94793">
+	<Unicode>QUESTÃO 33
+Tendo em vista que a informação está entre os
+bens mais importantes para uma organização, um
+dos fatores decisivos na definição de uma rede de
+computadores é a segurança da informação. Para
+garantir tal segurança e evitar qualquer desvio ou
+ação que possa modificar essas informações sem
+autorização ou, ainda, para protegê-las de ataques
+cibernéticos, são necessários planejamentos e
+estruturação da rede e de seus acessos.
+FONTES, E. Praticando a segurança da informação. 1. ed.
+São Paulo: BRASPORT, 2008 (adaptado).
+Considerando o texto, avalie as afirmações a seguir.
+|. A proteção da informação em uma
+organização é competência restrita à
+área de tecnologia, que assume total
+responsabilidade sobre sua segurança.
+Il. A proteção da informação exige postura e
+comprometimento dos envolvidos na sua
+execução, portanto, deve ser tratada de
+forma profissional.
+IIl. A presença de funcionários éticos na
+empresa elimina a necessidade de
+investimentos na área de segurança da
+informação.
+IV. Os ataques cibernéticos são cada dia
+mais frequentes, por isso, a segurança da
+informação deve ser considerada essencial.
+É correto o que se afirma em
+O 1l, apenas.
+O leilll, apenas.
+O llelV, apenas.
+O 1, Ill elV, apenas.
+O 1LI,Meiv</Unicode></TextEquiv></TextRegion></Page></PcGts>

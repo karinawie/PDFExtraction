@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T17:54:02</Created>
+	<LastChange>2020-09-18T17:55:42</LastChange></Metadata>
+	<Page imageFilename="05_CIE_BIO_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 876,2112 874,246"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="161,816 161,1138 858,1138 858,816"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="169,244 340,244 340,311 855,311 855,808 854,808 854,1743 856,1743 856,1809 660,1809 660,1863 335,1863 335,2111 169,2111 169,1320 245,1320 245,809 169,809 169,312 168,312 168,311 169,311"/>
+	<TextEquiv conf="0.93298">
+	<Unicode>QUESTÃO 17
+Em experimento realizado em um riacho, foram
+instaladas gaiolas para avaliar a biomassa de algas e
+de ninfas de efemerópteros em relação à ocorrência
+de duas espécies de peixes predadores da ninfa
+(G e T). Permitiu-se a colonização das algas durante
+12 dias em blocos casualizados em um trecho do
+riacho. Os tratamentos foram 3: um com as ninfas
+e sem os peixes (experimento N), outro com a
+presença do predador G em densidade natural e
+outro com presença do predador T em densidade
+natural. Após 12 dias, as algas e os invertebrados
+foram amostrados e os principais resultados estão
+apresentados nos gráficos a seguir.
+FLECKER, A. S.; TOWNSEND C. R. Community wide
+consequenses of trout introduction in New Zealand streams.
+Ecological Applications, v.4, p. 798-807, 1994 (adaptado).
+Com base nos resultados obtidos, avalie as
+afirmações a seguir.
+|. A presença do predador G não alterou
+significativamente a biomassa de ninfas.
+Il. No que se refere ao controle de ninfas, a
+espécie predadora T é mais eficiente que a
+espécie predadora G.
+IlI. A biomassa de ninfas é diretamente
+proporcional à biomassa de algas no
+tratamento T.
+IV. A presença do predador G pode influenciar
+o comportamento de herbivoria das ninfas.
+É correto apenas o que se afirma em
+A I e III.
+B I e IV
+C II e III.
+D I, II e IV.
+E II, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1578,313 1578,993 1576,993 1576,1198 1577,1198 1577,1636 1576,1636 1576,1801 1575,1801 1575,1889 1574,1889 1574,1994 1575,1994 1575,2065 1484,2065 1484,2114 891,2114 891,1699 890,1699 890,1670 939,1670 939,1172 890,1172 890,1143 891,1143 891,1103 895,1103 895,994 890,994"/>
+	<TextEquiv conf="0.96764">
+	<Unicode>QUESTÃO 18
+As técnicas de detecção e identificação de
+microrganismos causadores de infecções humanas
+são frequentemente baseadas na utilização de
+protocolos de cultivo em meios de cultura e
+posterior contagem de unidades formadoras de
+colônias (UFC). Como esse processo é dependente
+da multipliação das células microbianas,
+o diagnóstico se torna um processo lento.
+Recentemente, foi desenvolvido um nanossensor
+para a detecção, em tempo real, de bactérias em
+dentes e equipamentos hospitalares. O dispositivo
+é fabricado em grafeno recoberto com eletrodos
+de ouro que contém proteínas capazes de se ligar
+a microrganismos específicos e que emite sinais
+por conexão sem fio. O sistema é capaz de detectar
+diferentes tipos de bactérias e até mesmo uma
+única célula bacteriana em um ambiente.
+MANNOOR, M. S. et al. Graphene-based wireless bacteria detection on
+tooth enamel. Nature Communications. v. 3, n. 763, 2012 (adaptado).
+Com relação às informações apresentadas, avalie as
+asserções a seguir e a relação proposta entre elas.
+l. O uso de nanossensores poderia facilitar
+o diagnóstico de determinadas doenças
+bacterianas, personalizar a prescrição
+de antibióticos e ainda ser utilizada para
+detecção e prospecção de microrganismos
+em amostras ambientais.
+PORQUE
+Il. Aemissão de laudos e pareceres diagnósticos
+poderia ser substancialmente agilizada, uma
+vez que os nanossensores emitem sinais por
+conexão sem fio.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções | e II são proposições verdadeiras,
+e a ll é uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ll
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+E As asserções | e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

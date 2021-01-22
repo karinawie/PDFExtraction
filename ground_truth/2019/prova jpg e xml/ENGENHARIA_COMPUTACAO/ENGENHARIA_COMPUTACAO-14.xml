@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:16:56</Created>
+	<LastChange>2020-09-12T18:16:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-14.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="118,457 118,1015 1447,1015 1447,457"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="115,1092 115,1657 1450,1657 1450,1092"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="153,179 429,179 429,247 1491,247 1491,325 1492,325 1492,357 1491,357 1491,420 1413,420 1413,421 1335,421 1335,422 1257,422 1257,423 1179,423 1179,424 1101,424 1101,425 1023,425 1023,426 944,426 944,427 866,427 866,428 788,428 788,429 710,429 710,430 632,430 632,431 554,431 554,432 475,432 475,433 397,433 397,434 319,434 319,435 241,435 241,436 84,436 84,180 153,180"/>
+	<TextEquiv conf="0.82672">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Um circuito elétrico de corrente contínua é aquele em que todas as tensões são constantes no tempo.
+Circuitos de corrente alternada, por sua vez, possuem valores de tensão variantes no tempo. As variações
+de tensão senoidal são expressas pela equação V(t) = V,,sen(2nft) em que V,, representa o valor de
+pico, frepresenta a frequência do sinal e t o tempo. Os gráficos a seguir mostram a tensão e a corrente
+em uma carga.</Unicode></TextEquiv></TextRegion></Page></PcGts>

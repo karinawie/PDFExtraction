@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:40:06</Created>
+	<LastChange>2020-09-15T04:41:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-30.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r1">
+	<Coords points="784,181 787,2047 791,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="815,555 815,939 1481,938 1481,554"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,241 770,241 770,576 769,576 769,1012 770,1012 770,1200 769,1200 769,1410 470,1410 470,1465 273,1465 273,1577 322,1577 322,1693 85,1693 85,1432 162,1432 162,1201 134,1201 134,1013 133,1013 133,769 84,769 84,671 133,671 133,339 84,339"/>
+	<TextEquiv conf="0.92598">
+	<Unicode>QUESTÃO 32
+Na gestão da capacidade de produção de uma
+empresa há três estratégias disponíveis para lidar
+com variações de demanda do mercado:
+*º manter o nível de produção constante o
+ano todo;
+º*º ajustar a capacidade para atender, da
+maneira mais próxima possível, à demanda;
+* tentar mudar a demanda visando ajustá-la à
+capacidade.
+SLACK, S.; SLACK, J.; Administração da produção.
+2. ed., São Paulo: Atlas, 2008 (adaptado).
+Com relação ao planejamento da capacidade de
+produção de uma empresa, avalie as afirmações
+a seguir.
+|. A política de capacidade de produção
+constante deve prever a formação de
+estoques nos períodos de baixa demanda
+visando ao seu atendimento nos períodos
+em que ela esteja acima da capacidade.
+Il. A política de ajuste da demanda é uma
+estratégia muito utilizada por setores como
+o da aviação civil, que ajusta os preços das
+passagens de acordo com a taxa de ocupação
+dos voos e a proximidade das viagens.
+III. Mesclando-se as três estratégias
+mencionadas, busca-se melhorar o
+desempenho de produtividade e o
+faturamento da empresa, sem deixar de
+atender à demanda.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="805,179 976,179 976,254 1492,254 1492,518 1490,518 1490,1112 1491,1112 1491,1383 1490,1383 1490,1676 1296,1676 1296,1746 970,1746 970,2036 806,2036 806,1785 807,1785 807,1712 854,1712 854,1078 806,1078 806,255 805,255"/>
+	<TextEquiv conf="0.96686">
+	<Unicode>QUESTÃO 33
+A figura a seguir representa um circuito elétrico
+contendo um gerador ideal (G) de tensão 9 V, três
+lâmpadas idênticas (L1, L2 e 13) de resistências
+elétricas de 30 O cada uma, um amperímetro ideal
+(A), um voltímetro ideal (V) e dois interruptores
+ideais (S1 e S2).
+Com base no circuito elétrico apresentado, avalie
+as afirmações a seguir.
+|. Com ointerruptor S1 fechado e o S2 aberto,
+apenas duas lâmpadas acendem.
+ll. Com ambos os interruptores fechados, o
+brilho da lâmpada L1 aumenta se comparado
+à situação em que S1 esteja fechado e S2
+esteja aberto.
+Ill. Com ambos os interruptores fechados, a
+intensidade de corrente elétrica medida
+pelo amperímetro será de 0,15 A.
+IV. Com ambos os interruptores fechados, a
+diferença de potencial na lâmpada L3 será
+de3V.
+É correto apenas o que se afirma em
+A I e III.
+B I e IV.
+C II e III.
+D I, II e IV.
+E II, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T19:07:21</Created>
+	<LastChange>2020-09-15T19:07:45</LastChange></Metadata>
+	<Page imageFilename="administracao-27.jpg" imageWidth="1619" imageHeight="2170">
+	<ImageRegion id="r0">
+	<Coords points="397,886 397,1297 1231,1297 1231,886"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="94,476 94,786 1523,786 1523,476"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="106,181 276,181 276,234 1513,234 1513,1570 1514,1570 1514,1709 1513,1709 1513,1710 825,1710 825,1813 1277,1813 1277,1860 1374,1860 1374,2036 108,2036 108,2035 107,2035 107,1781 106,1781 106,1780 105,1780 105,1752 155,1752 155,1340 107,1340 107,1339 106,1339 106,1298 108,1298 108,463 107,463 107,462 106,462"/>
+	<TextEquiv conf="0.96333">
+	<Unicode>QUESTÃO 23
+Em pesquisa realizada com um conjunto de 15 empresas do setor varejista, no ano de 2017, foram levantadas,
+para cada uma delas, as seguintes informações: o investimento em responsabilidade socioambiental (IRSC),
+medido pelo percentual do investimento total aplicado em atividades e projetos socioambientais; a satisfação
+dos clientes (SAT), medida obtida de uma amostra de clientes, em escala que varia de O a 10; a lucratividade
+anual (LUC), referente à relação entre o lucro líquido total e a receita total; e o crescimento de receita (CREC)
+em relação a 2016, descontada a inflação. Os dados levantados estão dispostos na tabela a seguir.
+Foram extraídas medidas de correlação de Pearson entre IRSC e CREC (correlação de 0,72), e entre SAT e
+LUC (correlação de 0,17). Os gráficos a seguir apresentam essas relações entre as variáveis.
+IRSC SAT
+Com base nos dados expostos, avalie as asserções a seguir e a relação proposta entre elas.
+|. Os gráficos refletem visualmente que a relação linear entre IRSC e CREC é mais forte do que SAC
+e LUC, o que indica níveis de correlação distintos: um mais próximo da associação perfeita (0,72),
+outro mais próximo da total falta de associação (0,17).
+PORQUE
+Il. As correlações calculadas sinalizam que o marketing (associado com a variável SAT) e a relação
+com a sociedade (associada com a variável IRSC) predizem resultados financeiros de maneiras
+variadas; porém, tomadas em conjunto, pela soma das correlações (0,72 + 0,17), que se aproxima
+de 0,9, as duas variáveis predizem fortemente o resultado financeiro conjunto de CREC e LUC.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras, mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

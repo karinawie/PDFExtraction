@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:24:37</Created>
+	<LastChange>2020-11-30T17:28:37</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-20.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="891,244 1061,244 1061,312 1576,312 1576,501 1575,501 1575,935 1576,935 1576,1403 1575,1403 1575,1491 1574,1491 1574,1595 1575,1595 1575,1667 1484,1667 1484,1715 892,1715 892,1716 891,1716 891,1301 890,1301 890,1272 891,1272 891,1271 939,1271 939,598 890,598 890,245 891,245"/>
+	<TextEquiv conf="0.96531">
+	<Unicode>QUESTÃO 13
+Na área de desenvolvimento de software, prazos,
+custos e qualidade são questões que demandam
+gerenciamento, para que se evitem atrasos,
+estouros orçamentários e sistemas que não
+atendam aos requisitos.
+Sobre o modelo CMMI, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O CMMI fornece diretrizes para a melhoria
+dos processos e habilidades organizacionais,
+incluindo o ciclo de vida de produtos e
+serviços, que abrange as fases de concepção,
+desenvolvimento, aquisição, entrega e
+manutenção.
+PORQUE
+Ill. As empresas brasileiras estão aderindo
+a programas de fomento à melhoria
+da qualidade de software, por meio da
+aplicação do modelo de maturidade CMMI,
+que é mais direcionado às pequenas e
+médias empresas, apesar de também ser um
+modelo aplicável em grandes organizações,
+sejam elas públicas ou privadas.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,316 854,316 854,1007 855,1007 855,1717 854,1717 854,1820 374,1820 374,2093 169,2093 169,1855 170,1855 170,1747 218,1747 218,830 168,830 168,316 169,316"/>
+	<TextEquiv conf="0.93580">
+	<Unicode>QUESTÃO 12
+A engenharia de requisitos, do ponto de vista do
+processo de software, é uma ação de engenharia
+de software importante, que se inicia durante
+a atividade de comunicação e continua na de
+modelagem. Ela deve ser adaptada às necessidades
+do processo, do projeto, do produto e das pessoas
+que estão realizando o trabalho.
+PRESSMAN, R. S. Engenharia de software: uma abordagem
+profissional. 8. ed. Porto Alegre: AMGH, 2016 (adaptado).
+Considere os requisitos, a seguir, de um sistema para
+uma universidade, na qual se pretenda gerenciar o
+setor acadêmico.
+º R1: o sistema deve permitir que cada
+professor realize o lançamento de notas das
+turmas nas quais lecionou;
+*º R2: o sistema deverá ser desenvolvido de
+forma a possibilitar seu transporte para
+outro sistema operacional em, no máximo,
+sessenta dias;
+º R3: o sistema deve permitir que um
+estudante realize a sua matrícula nas
+disciplinas oferecidas em um semestre
+letivo;
+*º R4:0 sistema atualiza a nota do estudante,
+permitindo sua visualização, em até dois
+segundos depois do momento que o
+professor a registra;
+*º R5:0 sistema deve permitir que o auxiliar
+de serviços acadêmicos realize o cadastro
+de um estudante em não mais do que dez
+minutos de orientação.
+Nessa situação, representam descrições de
+requisitos não funcionais apenas os requisitos
+O R1,R2eR3.
+O R1,R2eR5.
+O R1,R3eR4.
+O R2,R4 e R5.
+O R3,R4eR5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

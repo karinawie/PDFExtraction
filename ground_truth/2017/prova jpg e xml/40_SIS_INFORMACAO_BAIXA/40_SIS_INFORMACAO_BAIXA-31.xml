@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:34:25</Created>
+	<LastChange>2020-11-25T19:00:41</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1576,313 1576,1447 1577,1447 1577,1448 1578,1448 1578,1599 1576,1599 1576,2106 891,2106 891,1599 890,1599 890,588 889,588 889,313 890,313"/>
+	<ImageRegion id="r3">
+	<Coords points="1036,613 1036,1063 1444,1063 1444,613"/></ImageRegion>
+	<TextEquiv conf="0.96736">
+	<Unicode>QUESTÃO 29
+Uma empresa que vende produtos cosméticos
+com vendas diretas conta com diferentes módulos
+de software que atendem aos níveis operacional,
+tático e estratégico. Após diagnóstico situacional,
+verificou-se a possibilidade de melhoria na
+operação e no suporte do processo "Revisão do
+plano de vendas", exibido na figura a seguir.
+Os atores envolvidos no processo são o setor de
+vendas, o departamento de vendas e a diretoria
+de marketing. Inicialmente, o setor de vendas
+faz a apuração das vendas no período. Com base
+nessa informação, o departamento de vendas
+faz a comparação entre as vendas realizadas e as
+previstas. Por fim, a diretoria de marketing, baseada
+nessa comparação, realiza o plano de vendas.
+Nessa situação, caso se decida implementar
+a tecnologia BPMS (Business Process
+Management System), o impacto decorrente
+dessa implementação será
+O redução do tempo de envio e recebimento dos
+dados entre os níveis organizacionais.
+O redução de despesas de vendas
+decorrência da melhoria do processo.
+como
+O redução na quantidade de módulos
+independentes necessários para operar O
+sistema.
+O maior precisão na previsão de vendas como
+decorrência da melhoria do processo.
+O maior precisão no plano de vendas como
+decorrência da melhoria do processo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 856,312 856,500 854,500 854,996 853,996 853,1399 854,1399 854,1467 853,1467 853,1555 217,1555 217,1556 216,1556 216,1513 170,1513 170,1100 168,1100 168,528 169,528"/>
+	<TextEquiv conf="0.96170">
+	<Unicode>QUESTÃO 28
+O guia PMBOK (Project Management Body
+of Knowledge) orienta a gestão de projetos
+considerando que processos devem ser executados
+nas diversas fases do gerenciamento, a saber:
+iniciação, planejamento, execução e encerramento.
+Em um determinado projeto, foi desenvolvido
+um sistema segundo o modelo de ciclo de vida
+em cascata, cujas atividades são realizadas
+sequencialmente e sem sobreposição. Na atividade
+de homologação do sistema, às vésperas da
+data planejada de sua implantação, um usuário
+identificou a inviabilidade de uma funcionalidade
+testada, pois alguns requisitos básicos não haviam
+sido considerados durante o levantamento dos
+requisitos. A alteração que se mostrou necessária
+atrasou o projeto em relação à linha de base do
+plano do projeto.
+Segundo o PMBOK, pode-se considerar que a falha
+foi originada na fase de
+O iniciação ou planejamento, em um processo da
+área de conhecimento gestão do tempo.
+O planejamento ou execução, em um processo da
+área de conhecimento gestão do tempo.
+(O)
+execução ou encerramento, em um processo da
+área de conhecimento gestão do tempo.
+o
+iniciação ou encerramento, em um processo da
+área de conhecimento gestão do escopo.
+o
+planejamento ou execução, em um processo da
+área de conhecimento gestão do escopo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

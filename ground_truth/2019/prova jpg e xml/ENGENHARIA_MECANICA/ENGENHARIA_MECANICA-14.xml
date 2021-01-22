@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:17:11</Created>
+	<LastChange>2020-09-15T04:17:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-14.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="491,402 491,425 718,425 718,426 489,426 491,944 1130,942 1128,402 674,404 674,402"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="606,506 606,679 609,679 609,506"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="718,386 718,412 674,412 674,386"/>
+	<TextEquiv conf="0.39704">
+	<Unicode>Tent</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="310,1092 310,1463 1260,1463 1260,1092"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="85,179 428,179 428,247 1492,247 1492,355 1490,355 1490,1561 1491,1561 1491,1666 1490,1666 1490,1892 1209,1892 1209,1893 84,1893 84,1048 83,1048 83,1047 84,1047 84,180 85,180"/>
+	<TextEquiv conf="0.83159">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Uma central termelétrica opera segundo um ciclo de Rankine ideal, conforme apresentado na figura
+a seguir. O fluido de trabalho é a água e a potência gerada pela turbina a vapor é utilizada para acionar
+um gerador de energia elétrica. A vazão mássica no estado 1 corresponde a 180 t/h (toneladas por hora).
+CENGEL, Y. A.; BOLES, M. A. Termodinâmica. 7. ed. Porto Alegre: AMGH, 2013 (adaptado).
+A entalpia específica (h) de cada estado é apresentada na tabela a seguir.
+Com base nos dados apresentados, faça o que se pede nos itens a seguir.
+a) Assumindo que a caldeira e o condensador operam isobaricamente e que a turbina a vapor e a bomba
+são isentrópicas, faça um esboço do diagrama T—8 (temperatura por entropia específica) do ciclo mostrado
+na figura. (valor: 3,0 pontos)
+b) Calcule o rendimento térmico do ciclo de Rankine, apresentando o resultado em termos percentuais.
+(valor: 4,0 pontos)
+c) Considerando que o rendimento global do gerador de energia elétrica acoplado à turbina a vapor seja
+igual a 80%, determine a potência elétrica gerada pelo ciclo em MW. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

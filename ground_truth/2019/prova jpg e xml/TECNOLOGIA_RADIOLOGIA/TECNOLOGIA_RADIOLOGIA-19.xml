@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:40:20</Created>
+	<LastChange>2020-09-13T22:40:20</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-19.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="76,532 76,1104 1498,1106 1498,534"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,250 788,250 788,251 1491,251 1491,1367 1490,1367 1490,1463 1282,1463 1282,1514 470,1514 470,1575 346,1575 346,1846 345,1846 345,1847 84,1847 84,512 83,512 83,250 84,250"/>
+	<TextEquiv conf="0.93657">
+	<Unicode>QUESTÃO 15
+A ressonância magnética (RM) do joelho proporciona excelentes imagens para avaliar lesões de diversos
+tipos, tais como: ligamentares, meniscais, tendíneas, ósseas e condrais. Para tanto, o posicionamento do
+paciente e a correta programação das sequências do exame na área de interesse são fundamentais para
+a qualidade diagnóstica.
+KAPLAN, P. A. et al. Ressonância magnética musculoesquelética. São Paulo: Elsevier, 2010 (adaptado).
+As imagens a seguir representam uma programação para aquisição de uma sequência de RM do joelho.
+Com base nas imagens de RM do joelho apresentadas, avalie as afirmações a seguir.
+|. ParaaRM do joelho, o paciente é posicionado em decúbito dorsal na mesa de exame, com a região
+de interesse imobilizada na bobina, e discretamente flexionada.
+Il. Nas imagens A, B e C são visualizados os planos anatômicos para programação: sagital, axial e
+coronal, respectivamente.
+Ill. A orientação nas imagens A e B representa uma programação para aquisição no plano coronal
+oblíquo.
+IV. Na imagem A, o ângulo da orientação está paralelo ao ligamento cruzado anterior.
+É correto o que se afirma em
+O ll, apenas.
+O lelll, apenas.
+O lIlelV, apenas.
+O l,llelV, apenas.
+O LI,HMEI.</Unicode></TextEquiv></TextRegion></Page></PcGts>

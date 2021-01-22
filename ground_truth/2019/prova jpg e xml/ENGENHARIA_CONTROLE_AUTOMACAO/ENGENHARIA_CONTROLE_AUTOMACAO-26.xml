@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:17:30</Created>
+	<LastChange>2020-09-12T19:17:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-26.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="78,326 78,1255 1163,1255 1163,326"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="76,1328 76,2052 1492,2052 1492,1328"/></TableRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="84,179 85,179 85,180 255,180 255,247 1491,247 1491,316 1117,316 1117,1299 84,1299 84,1298 83,1298 84,1298"/>
+	<TextEquiv conf="0.96796">
+	<Unicode>QUESTÃO 20
+O gestor de uma pequena indústria alimentícia pretende automatizar o sistema de distribuição de água,
+apresentado na figura, para aumentar a margem de lucro estimado em R$ 2.000,00 por mês.
+Legenda:
+* m:botãode comando;
+*º h1,b,eh, b,: sensores de nível;
+* V,eV,: válvulas do tipo abre/fecha;
+*º W,eW,: válvulas com controle proporcional.
+A tabela a seguir apresenta quatro orçamentos para implantação do sistema.</Unicode></TextEquiv></TextRegion></Page></PcGts>

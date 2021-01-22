@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:30:13</Created>
+	<LastChange>2020-11-29T23:09:43</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-15.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="170,244 514,244 514,320 1575,320 1575,405 1232,405 1232,556 1450,556 1450,585 966,585 966,645 170,645 170,441 171,441 171,275 170,275"/>
+	<TextEquiv conf="0.89636">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Um corpo é um anel comutativo com unidade, em que todo elemento não nulo tem inverso multiplicativo.
+Um domínio de integridade é um anel comutativo com unidade, sem divisores de zero.
+Com base nessas informações, faça o que se pede nos itens a seguir.
+a) Comprove matematicamente que todo corpo é um domínio de integridade.
+b) Demonstre, em linguagem matemática, que todo domínio de integridade finito é um corpo.
+c) Encontre as raízes do polinômio p(X) = X* + 5X eZ,.[X]</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T02:43:24</Created>
+	<LastChange>2020-09-10T02:47:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-16.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,179 254,179 254,248 769,248 769,899 768,899 768,1046 769,1046 769,1261 770,1261 770,1524 769,1524 769,1620 768,1620 768,1817 767,1817 767,1921 768,1921 768,1993 677,1993 677,2041 84,2041 84,1620 83,1620 83,1557 132,1557 132,1010 84,1010 84,899 83,899"/>
+	<TextEquiv conf="0.94362">
+	<Unicode>QUESTÃO 11
+A fim de reduzir problemas de processamento e
+estocagem, uma fábrica de guaraná em pó realizou
+experimentos para a construção de isotermas de
+adsorção de umidade do seu produto.
+As isotermas de adsorção e dessorção podem
+auxiliar na predição do tempo de secagem, da vida-
+de-prateleira em uma determinada embalagem e
+dos requisitos básicos necessários para que se possa
+embalar e caracterizar um produto, no equilíbrio,
+quando ele é constituído por componentes de
+atividades de água (a,,) diferentes.
+Os efeitos da atividade de água em um alimento
+estão relacionados à alteração de sua aparência
+e textura, às reações químicas e enzimáticas e ao
+crescimento de microrganismos.
+Considerando as informações apresentadas, avalie
+as asserções a seguir e a relação proposta entre elas.
+I. O modelo de Guggeheim, Anderson e De
+Boer (GAB) é um modelo de três parâmetros
+e é considerado o que melhor ajusta os
+dados da maioria dos produtos alimentícios.
+PORQUE
+II. O modelo de GAB é uma generalização
+da equação de Brunauer, Emmett e Teller
+(BET) que considera as modificações do
+comportamento da água quando adsorvida,
+resultantes da sua interação com o sólido
+adsorvente, e inclui a formação de múltiplas
+camadas.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e 11 são proposições verdadeiras,
+e a ll é uma justificativa correta da |.
+B As asserções | e || são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1491,247 1491,715 1490,715 1490,1186 1491,1186 1491,1425 1490,1425 1490,1553 807,1553 807,1554 806,1554 806,899 805,899 805,716 804,716 804,247 805,247"/>
+	<TextEquiv conf="0.96442">
+	<Unicode>QUESTÃO 12
+Um dos processos biotecnológicos mais antigos é
+o da produção de pães, cuja sequência de eventos
+inclui a adição do fermento biológico à farinha de
+trigo e posterior adição de água. Num processo de
+produção industrial de pães, esses ingredientes são
+misturados na masseira e seguem para posterior
+descanso. Durante a fase de formação da massa,
+o amido da farinha de trigo sofre hidrólise e gera
+um carboidrato simples, o qual é consumido pelo
+agente de fermentação e, como resultado do
+metabolismo, observa-se a produção de um gás,
+responsável pela expansão da massa.
+Com base nas informações apresentadas, assinale
+a opção que apresenta o produto de hidrólise,
+o agente de fermentação e os produtos gerados
+nesse processo.
+A O amido é hidrolisado até glicose que é
+consumida por leveduras, as quais produzem
+ácido lático e etanol.
+B O amido é hidrolisado até glicose que é
+consumida por leveduras, as quais produzem
+gás carbônico e etanol.
+C O amido é hidrolisado até glicose que é
+consumida por bactérias, as quais produzem
+ácido lático e gás carbônico.
+D O amido é hidrolisado até sacarose que é
+consumida por bactérias, as quais produzem
+gás carbônico e etanol.
+E O amido é hidrolisado até sacarose que é
+consumida por leveduras, as quais produzem
+gás carbônico e etanol.</Unicode></TextEquiv></TextRegion></Page></PcGts>

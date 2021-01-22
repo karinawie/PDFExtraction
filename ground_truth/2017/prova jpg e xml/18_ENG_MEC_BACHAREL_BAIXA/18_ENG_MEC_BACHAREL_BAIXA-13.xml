@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T18:00:21</Created>
+	<LastChange>2020-11-27T19:07:02</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="169,319 513,319 513,384 1576,384 1576,613 1292,613 1292,1198 1576,1198 1576,1263 1070,1263 1070,1318 170,1318 170,1319 169,1319"/>
+	<ImageRegion id="r2">
+	<Coords points="491,680 491,1077 1227,1077 1227,680"/></ImageRegion>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO DISCURSIVA 03
+Na figura a seguir, está representado um sistema de veículo ferroviário em que a potência de saída do
+motor é de 50 kW e a rotação constante é de 1 000 rpm; o raio da engrenagem menor é de 60 mm e da
+maior, 100 mm.
+Considere que todo o torque será absorvido por um equipamento, simbolizado pelo volante na
+extremidade esquerda. Considere, ainda, que a engrenagem maior esteja localizada no centro de um eixo
+com distâncias iguais de 200 mm até os mancais.
+Desconsidere as perdas no sistema.
+Com base nas informações apresentadas, determine:
+a) arotação do eixo onde está localizada a roda, dada em rad/s; (valor: 4,0 pontos)
+b) a força aplicada nas engrenagens, dada em N, e os momentos fletor e torçor máximos no eixo onde
+está localizada a roda, dado em N.m. (valor: 6,0 pontos)
+Observação: quando for o caso, deixe as respostas em função de n.</Unicode></TextEquiv></TextRegion></Page></PcGts>

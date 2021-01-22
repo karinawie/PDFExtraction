@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:36:31</Created>
+	<LastChange>2020-11-25T19:09:33</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,244 339,244 339,309 1576,309 1576,1811 555,1811 555,1871 407,1871 407,2113 170,2113 170,1931 169,1931 169,486 168,486 168,309 169,309"/>
+	<ImageRegion id="r1">
+	<Coords points="250,505 250,1291 1497,1291 1497,505"/></ImageRegion>
+	<TextEquiv conf="0.96078">
+	<Unicode>QUESTÃO 11
+O diagrama Entidade-Relacionamento (DER) a seguir apresenta a modelagem conceitual de dados de
+um sistema de informação para um museu. A partir dessa modelagem observa-se o seguinte: uma Obra
+é criada por um único Artista e um Artista pode criar no mínimo uma Obra e no máximo várias Obras; as
+entidades Pintura e Escultura são especializações da entidade Obra; um Artista tem o domínio de várias
+Técnicas, assim como uma Técnica é dominada por diversos Artistas.
+Com base nas regras de mapeamento que transformam o Modelo Conceitutal em um Modelo Lógico
+Relacional, avalie as afirmações a seguir, a respeito do Esquema Lógico Relacional gerado a partir do DER
+apresentado.
+|. NoEsquema Lógico Relacional, haverá uma tabela associativa, criada em função do relacionamento
+muitos para muitos entre as entidades Artista e Técnica, que terá uma chave primária composta
+pelo código do artista e o código da técnica.
+Il. No Esquema Lógico Relacional, haverá uma tabela Artista na qual o atributo código do artista será
+a chave primária da tabela, e o código da obra será uma chave estrangeira que fará referência a
+uma obra existente na tabela Obra.
+Ill. No Esquema Lógico Relacional, haverá, em função da generalização/especialização, uma tabela
+Obra com apenas os atributos código da obra, título, data de aquisição e dimensões, e duas outras
+tabelas: a tabela Pintura, com apenas o atributo tipo de tinta, e a tabela Escultura com apenas o
+atributo material.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:14:03</Created>
+	<LastChange>2020-09-15T17:14:37</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-16.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="176,421 176,1121 1371,1121 1371,421"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="85,179 255,179 255,246 554,246 554,247 1023,247 1023,248 1491,248 1491,1180 1492,1180 1492,1401 1491,1401 1491,1473 470,1473 470,1536 322,1536 322,1790 85,1790 85,1789 84,1789 84,209 85,209"/>
+	<TextEquiv conf="0.96303">
+	<Unicode>QUESTÃO 12
+Uma empresa de eletrônicos portáteis, interessada em traçar um perfil de seus potenciais
+consumidores, realizou uma pesquisa com 30 pessoas, indagando quanto cada uma delas gastou
+com aparelhos eletrônicos e acessórios no último mês. Os resultados obtidos foram tratados e
+apresentados na forma de um histograma de frequência, conforme o apresentado na figura a seguir.
+Com base nessa situação e nos dados da figura, avalie as afirmações a seguir.
+|. Entre os entrevistados, a média de gastos com compra de aparelhos e acessórios eletrônicos foi
+superior a R$ 145,00.
+Il. Entre os entrevistados, 2% gastaram entre R$ 340,00 e R$ 380,00 na compra de aparelhos e
+acessórios eletrônicos.
+III.Entre os entrevistados, 40% gastaram entre R$ 100,00 e R$ 140,00 na compra de aparelhos e
+acessórios eletrônicos.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III</Unicode></TextEquiv></TextRegion></Page></PcGts>

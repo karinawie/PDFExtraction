@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T03:07:19</Created>
+	<LastChange>2020-09-10T03:08:16</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-27.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="405,542 405,855 647,855 647,542"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="525,1000 525,1594 1484,1594 1484,1000"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="665,542 665,855 926,855 926,542"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="952,536 952,863 1160,863 1160,536"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,233 1491,233 1491,526 1489,526 1489,1608 1490,1608 1490,1789 1491,1789 1491,1855 1490,1855 1490,2041 1139,2041 1139,2042 788,2042 788,2043 437,2043 437,2044 86,2044 86,2045 85,2045 85,1772 84,1772 84,387 83,387 83,233 84,233"/>
+	<TextEquiv conf="0.96400">
+	<Unicode>QUESTÃO 30
+As funções da química analítica aplicada à engenharia, envolvem o controle de processos industriais, de
+matérias-primas e de produtos. Entre os métodos modernos de controle, encontram-se os cromatográficos
+que são utilizados para análises de aditivos. Os aditivos, em função dos efeitos que podem causar à saúde
+humana, possuem suas permissões e quantidades regulamentadas por normas governamentais.
+Considere uma bebida contendo como aditivos a cafeína, a sacarina e o ácido benzoico, cujas estruturas
+estão representadas a seguir. Seus teores máximos permitidos são, respectivamente, de 350 mg/l,
+0,15 mg/l e 0,5 mg/| e devem ser quantitativamente analisados por cromatografia.
+Sacarina Cafeína Benzoato
+de sódio
+Para a análise por cromatografia, realizou-se, primeiramente, a diluição da amostra. Em seguida, foram
+realizados ensaios em diferentes condições de separação. Na figura a seguir, apresenta-se o resultado de um
+desses ensaios, obtido pela separação em coluna de 4,6 x 250 mm, com detecção por ultravioleta (UV) visível.
+SKOOG, D. A. et al. Fundamentos de química analítica. São Paulo: Thomson, 2012 (adaptado).
+Com base nas informações apresentadas, assinale a opção correta.
+A O cromatograma foi gerado por cromatografia em fase gasosa.
+B Para a quantificação dos três aditivos, é necessário realizar derivatização dos analitos.
+C Para a análise quantitativa, é necessário que a Lei de Beer seja observada nas faixas de concentrações
+trabalhadas.
+D As condições analíticas que geraram o cromatograma não são suficientemente adequadas para a
+quantificação dos três aditivos.
+E Para a análise quantitativa, é necessário que impurezas sejam removidas da amostra, pois percebe-se
+que estão interferindo nos resultados.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:51:42</Created>
+	<LastChange>2020-11-27T21:04:39</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-21.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="891,244 1061,244 1061,312 1576,312 1576,945 891,945 891,946 890,946 890,802 894,802 894,662 890,662 890,245 891,245"/>
+	<TextEquiv conf="0.96755">
+	<Unicode>QUESTÃO 18
+No cinema 3D, nos projetores das imagens
+e nas lentes dos óculos que os espectadores
+recebem, são usados polarizadores circulares.
+A projeção envolve duas imagens, cada qual
+usando feixes de luz que possuem polarizações
+opostas. Por exemplo, a imagem que deve
+ser vista pelo olho esquerdo é projetada com
+polarização horária, e a imagem vista pelo olho
+direito tem polarização anti-horária.
+RIBEIRO, J. L. P.; VERDEAUX, M. F. S. Experimento simples, explicação
+nem tanto! Reflexão e polarização em óculos 3D. Física na Escola,
+São Paulo,vol. 13, n. 1, p. 14-16. 2012 (adaptado).
+Qual das imagens a seguir representa o que uma
+pessoa vê, usando óculos 3D como os descritos no
+texto, ao se olhar no espelho com um olho fechado
+e o outro olho aberto?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,316 854,316 854,793 742,793 742,949 853,949 853,1120 854,1120 854,1242 855,1242 855,1315 853,1315 853,1434 855,1434 855,1509 853,1509 853,1688 854,1688 854,1704 740,1704 740,1759 667,1759 667,1819 334,1819 334,2106 170,2106 170,1857 178,1857 178,1785 218,1785 218,1434 263,1434 263,1315 218,1315 218,1087 169,1087 169,949 283,949 283,793 169,793 169,648 168,648 168,316 169,316"/>
+	<TextEquiv conf="0.74275">
+	<Unicode>QUESTÃO 17
+As ondas estacionárias são um tipo especial de
+interferência e desempenham importante papel
+em fenômenos como, por exemplo, a produção de
+notas musicais em um tubo de órgão e a emissão
+de luz pelos átomos. Elas são formadas pela
+combinação de duas ondas senoidais de mesma
+frequência, amplitude e comprimento de onda,
+mas que se propagam em sentidos opostos.
+Nesse contexto, considere duas ondas que se
+propagam em sentidos opostos e produzem uma
+onda estacionária, cujas funções individuais são:
+y, (&amp;, t) = 4,0 sen (3,07 — 2,0t) e
+yY, (x, t) = 4,0 sen (3,01 + 2,01),
+em que re y são medidos em centímetros e t em
+segundos.
+Com base no exposto, avalie as afirmações a seguir.
+|. O comprimento de onda das ondas que se
+propagam vale 4 = 2 om.
+Il. A posição dos antinodos, considerando uma
+das extremidades da onda em x= 0, pode ser
+expressa por Tr =n cm, n=0,1,2,3,...
+Ill. A posição dos nodos, considerando uma das
+extremidades da onda em x = 0, pode ser
+expressa por Tr =n em, n=1,3,5,7,...
+IV. A expressão para a onda estacionária
+resultante pode ser expressa
+y(x, t) = 8,0 sen (3,0x) cos (2,01).
+como
+É correto apenas o que se afirma em
+Oem.
+Oielv
+O ie.
+O Lilelv.
+O 1NMeiv.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="886,983 886,1186 1169,1186 1169,983"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="884,1210 884,1413 1167,1413 1167,1210"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="881,1429 881,1632 1164,1632 1164,1429"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="881,1654 881,1857 1164,1857 1164,1654"/></ImageRegion>
+	<ImageRegion id="r12">
+	<Coords points="884,1874 884,2077 1167,2077 1167,1874"/></ImageRegion></Page></PcGts>

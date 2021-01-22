@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T17:45:51</Created>
+	<LastChange>2020-09-18T17:46:06</LastChange></Metadata>
+	<Page imageFilename="05_CIE_BIO_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="166,689 166,1193 863,1191 863,687"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="167,1248 167,1646 848,1645 848,1247"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="169,1703 170,2108 851,2107 850,1702"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="933,1222 933,1633 1616,1633 1616,1222"/></ImageRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="170,244 341,244 341,312 1577,312 1577,500 1576,500 1576,546 1575,546 1575,641 873,641 873,642 171,642 171,643 170,643 170,502 169,502 169,312 170,312"/>
+	<TextEquiv conf="0.96685">
+	<Unicode>QUESTÃO 23
+Os organismos produzem descendência em número muito maior em relação aos que serão capazes de
+sobreviver, o que resulta em uma luta e/ou competição pela sobrevivência. A seleção natural age sobre
+quaisquer entidades capazes de se reproduzir, de apresentar herança de suas características de uma
+geração para a outra e de variar em aptidão (isto é, número relativo de descendentes diretos que elas
+produzirem) de acordo com as características que possuírem.
+RIDLEY, M. Evolução. Porto Alegre: Artmed, 2006 (adaptado).
+Qual das imagens a seguir melhor representa o processo de seleção natural no contexto da
+divulgação científica?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="919,655 919,1200 1611,1200 1611,655"/></ImageRegion></Page></PcGts>

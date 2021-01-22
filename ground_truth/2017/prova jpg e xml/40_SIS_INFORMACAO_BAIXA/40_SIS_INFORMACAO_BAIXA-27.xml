@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:35:00</Created>
+	<LastChange>2020-11-25T19:03:03</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="heading">
+	<Coords points="170,1114 340,1114 340,1182 1575,1182 1575,1374 1024,1374 1024,1437 563,1437 563,1564 579,1564 579,1612 602,1612 602,1660 674,1660 674,1692 170,1692 170,1374 169,1374 169,1373 168,1373 168,1182 169,1182 169,1144 170,1144"/>
+	<TextEquiv conf="0.96765">
+	<Unicode>QUESTÃO 22
+A tendência atual de desenvolver aplicações que possam ser utilizadas em nuvem otimiza o
+desempenho de máquinas locais, munidas de poucos recursos computacionais, em uma rede
+e garante a possibilidade desses computadores utilizarem outros recursos computacionais de
+maior desempenho, bem como a inserção de novos hosts neste ambiente computacional, sem
+comprometimento do sistema como um todo.
+Esse cenário pressupõe a utilização de sistema operacional com
+O arquitetura monolítica.
+O arquiteturas em camadas.
+O arquitetura monocamadas.
+O arquiteturas cliente-servidor.
+O arquiteturas de máquinas virtuais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="169,249 1055,249 1055,302 1576,302 1576,773 660,773 660,828 334,828 334,1082 169,1082 169,859 170,859 170,794 263,794 263,666 264,666 264,528 263,528 263,423 264,423 264,277 169,277"/>
+	<TextEquiv conf="0.37524">
+	<Unicode>Com base no diagrama apresentado, avalie as afirmações a seguir.
+Os serviços oferecidos por outros aplicativos, como mapas para o cálculo de rotas, por exemplo,
+poderão ser usados no desenvolvimento do aplicativo, mesmo que não tenham sido representados
+no diagrama.
+Os fluxos paralelos indicados nos pontos de decisão 2 e 3 levam a erros no funcionamento do
+aplicativo, uma vez que permitem a continuidade do processo mesmo que não haja rota, destino
+ou tipo de veículo adequado.
+O diagrama apresenta atividades desempenhadas pela "Empresa que precisa de transporte" e pelo
+"Transportador", no entanto, as atividades que precisarão ser modeladas no sistema restringem-se
+às desempenhadas pelo "Aplicativo".
+As ações "Informar indisponibilidade"” e "Confirmar disponibilidade" correspondem a
+funcionalidades distintas no sistema, visto que a primeira se relaciona à existência de tipo de
+veículo, rota e destino e a segunda se relaciona à agenda do transportador.
+É correto apenas o que se afirma em
+(ABENIA
+Oielv
+Q el.
+O LIlelv.
+O uMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

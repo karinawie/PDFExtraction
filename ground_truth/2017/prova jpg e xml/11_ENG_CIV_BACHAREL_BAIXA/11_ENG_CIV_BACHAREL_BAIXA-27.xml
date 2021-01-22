@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:25:42</Created>
+	<LastChange>2020-11-20T21:32:35</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="180,1384 181,1811 844,1810 843,1383"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="890,244 1061,244 1061,317 1577,317 1577,745 1576,745 1576,1071 1577,1071 1577,1770 1277,1770 1277,1831 1071,1831 1071,1971 1128,1971 1128,2107 891,2107 891,1866 892,1866 892,1797 940,1797 940,1105 939,1105 939,850 891,850 891,745 889,745 889,317 890,317"/>
+	<TextEquiv conf="0.96721">
+	<Unicode>QUESTÃO 29
+O gerenciamento e o controle operacional de um
+sistema de abastecimento de água potável são
+facilitados pela setorização da rede de distribuição
+de água. A setorização permite a implementação
+de sistemas de monitoramento e controle, o que
+possibilita a identificação mais eficiente dos pontos
+da rede sujeitos a maior incidência de vazamentos.
+Cada setor pode ser subdividido em um ou mais
+subsetores, denominados zona de pressão, setor
+de medição e setor de manobra.
+Com relação à setorização de redes de distribuição
+de água, avalie as afirmações a seguir.
+|. A zona de pressão é a área abrangida por
+uma subdivisão da rede, na qual somente
+as pressões estáticas obedecem a limites
+pré-fixados.
+Il. O setor de manobra representa uma
+subdivisão da rede que pode ser isolada
+sem afetar o abastecimento do restante da
+rede e tem por finalidade separar as águas
+fornecidas por diferentes fontes, de forma
+a minimizar os problemas de qualidade
+da água.
+Ill. O monitoramento do setor de medição
+permite o acompanhamento do consumo
+e das perdas de água, por isso, na entrada
+dos setores de medição, deve haver
+macromedidores e, nos consumidores finais,
+hidrômetros, o que permite comparação
+entre a macromedição e a micromedição,
+obtendo-se índices de perdas mais confiáveis
+para o gerenciamento.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lei, apenas.
+O Il elll, apenas.
+Q1I1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,311 854,311 854,948 857,948 857,1094 854,1094 854,1359 694,1359 694,1856 355,1856 355,2117 170,2117 170,2021 169,2021 169,1888 170,1888 170,1360 168,1360 168,311 169,311"/>
+	<TextEquiv conf="0.96307">
+	<Unicode>QUESTÃO 28
+No dimensionamento de estruturas hidráulicas,
+faz-se necessário o estudo do escoamento através
+de orifícios, tubos curtos e vertedores. Define-se
+como orifício uma abertura de perímetro fechado,
+de forma geométrica definida, realizada na parede
+ou no fundo de um reservatório ou na parede de um
+canal ou conduto em pressão, pela qual o líquido
+em repouso ou em movimento escoa em virtude
+da energia potencial e/ou cinética que possui.
+O escoamento pelo orifício pode-se dar para um
+ambiente sob pressão atmosférica ou para uma
+região ocupada pelo mesmo líquido. No primeiro
+caso, diz-se que a saída é livre e, no segundo, diz-se
+que é de descarga afogada ou por orifício afogado.
+No orifício afogado, a cota do nível de água a jusante
+é superior à cota do topo do orifício.
+A expressão geral para a vazão descarregada Q
+através de um orifício de área À, de pequenas
+dimensões e parede fina, sujeito a uma carga H,
+é dada por
+Q=C, - AGIA),
+em que C é o coeficiente de vazão ou de descarga
+do orifício e gé a aceleração da gravidade.
+A figura a seguir ilustra um orifício afogado de
+pequenas dimensões e parede fina.
+Para esse orifício, o valor de H é igual a
+Or.
+O n.
+O n,.
+O h+h,.
+O h+h,+h,</Unicode></TextEquiv></TextRegion></Page></PcGts>

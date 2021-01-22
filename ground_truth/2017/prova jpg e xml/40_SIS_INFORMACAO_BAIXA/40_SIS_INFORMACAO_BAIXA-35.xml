@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:33:41</Created>
+	<LastChange>2020-11-25T18:58:17</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-35.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 1576,312 1576,456 1577,456 1577,525 1576,525 1576,703 1577,703 1577,852 1576,852 1576,1403 216,1403 216,729 170,729 170,700 216,700 216,586 170,586 170,525 169,525"/>
+	<TextEquiv conf="0.95470">
+	<Unicode>QUESTÃO 35
+O coordenador geral de um comitê olímpico solicitou a implementação de um aplicativo que permita o
+registro dos recordes dos atletas à medida que forem sendo quebrados, mantendo a ordem cronológica
+dos acontecimentos, e possibilitando a leitura dos dados a partir dos mais recentes.
+Considerando os requisitos do aplicativo, a estrutura de dados mais adequada para a solução a ser
+implementada é
+o deque: tipo especial de lista encadeada, que permite a inserção e a remoção em qualquer das
+duas extremidades da fila e que deve possuir um nó com a informação (recorde) e dois apontadores,
+respectivamente, para os nós próximo e anterior.
+a fila: tipo especial de lista encadeada, tal que o primeiro objeto a ser inserido na fila é o primeiro a ser
+lido; nesse mecanismo, conhecido como estrutura FIFO (First In — First Out), a inserção e a remoção
+são feitas em extremidades contrárias e a estrutura deve possuir um nó com a informação (recorde) e
+um apontador, respectivamente, para o próximo nó.
+a pilha: tipo especial de lista encadeada, na qual o último objeto a ser inserido na fila é o primeiro a
+ser lido; nesse mecanismo, conhecido como estrutura LIFO (Last In — First Out), a inserção e a remoção
+são feitas na mesma extremidade e a estrutura deve possuir um nó com a informação (recorde) e um
+apontador para o próximo nó.
+a fila invertida: tipo especial de lista encadeada, tal que o primeiro objeto a ser inserido na fila é o
+primeiro a ser lido; nesse mecanismo, conhecido como estrutura FIFO (First In — First Out), a inserção e
+a remoção são feitas em extremidades contrárias e a estrutura deve possuir um nó com a informação
+(recorde) e um apontador, respectivamente, para o nó anterior.
+a lista circular: tipo especial de lista encadeada, na qual o último elemento tem como próximo o
+primeiro elemento da lista, formando um ciclo, não havendo diferença entre primeiro e último, e a
+estrutura deve possuir um nó com a informação (recorde) e um apontador, respectivamente, para o
+próximo nó.</Unicode></TextEquiv></TextRegion></Page></PcGts>

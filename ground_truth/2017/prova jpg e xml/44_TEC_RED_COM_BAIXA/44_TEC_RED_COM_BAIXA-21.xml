@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:56:00</Created>
+	<LastChange>2020-11-30T18:34:06</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 170,244 170,245 339,245 339,317 1576,317 1576,526 1575,526 1575,726 1574,726 1574,1405 1576,1405 1576,2107 170,2107 170,1728 169,1728 169,832 168,832 168,317 169,317"/>
+	<ImageRegion id="r1">
+	<Coords points="327,861 327,1377 1411,1377 1411,861"/></ImageRegion>
+	<TextEquiv conf="0.93670">
+	<Unicode>QUESTÃO 15
+Uma residência tem, em média, mais de oito dispositivos conectados à internet — programas de TV
+transmitidos em HD; conversas por vídeo com amigos e familiares, jogos de videogames contra
+adversários em todo o mundo, muitas vezes ao mesmo tempo. Para acompanhar o crescente uso da
+internet, os roteadores wi-fi domésticos modernos aumentaram sua velocidade e alcance sem fio: eram
+11 Mbps em 2000, atualmente são 1,3 gigabits por segundo.
+Contudo, com o objetivo de obter maior velocidade, muitas vezes o usuário enfrenta problemas de
+compatibilidade com dispositivos antigos e questões de segurança em razão do maior alcance de
+seus dispositivos.
+Disponível em: &lt;http://www.linksys.com&gt;. Acesso em: 10 jul. 2017 (adaptado).
+A figura a seguir representa os diversos equipamentos, com seus respectivos padrões IEEE 802.11,
+a serem conectados em uma rede sem fio de uma residência hipotética.
+Considerando a necessidade de escolha dos equipamentos sem fio a serem utilizados na residência, as
+questões de compatibilidade de padrões e segurança, e, ainda, o objetivo de garantir alta velocidade à
+internet, assinale a opção correta em relação à aquisição dos dispositivos.
+O A escolha de dispositivos no padrão IEEE 802.11n, com o protocolo WPA2, permitirá velocidades
+máximas para alguns dispositivos e a manutenção da segurança.
+O A opção pelo padrão IEEE 802.11g implicará benefícios, pois aumentará a segurança em relação aos
+padrões anteriores devido à incorporação do uso do protocolo WEP.
+O A publicação do nome da rede (SSID) e a manutenção das configurações do fabricante são algumas
+recomendações de segurança em redes sem fio.
+O A utilização do padrão IEEE 802.11b configurado com o padrão de segurança WPA2 é recomendável,
+dada a garantia de mais velocidade e segurança, e de manutenção da compatibilidade com os
+diversos equipamentos.
+O O padrão IEEE 802.11ac, sucessor do 802.11n, poderá ser utilizado na arquitetura proposta, visto que
+mantém compatibilidade de velocidade e segurança com os padrões IEEE 802.11b/g/n e proporciona
+também maior velocidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

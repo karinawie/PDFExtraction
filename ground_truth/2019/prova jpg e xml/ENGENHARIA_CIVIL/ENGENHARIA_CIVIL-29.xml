@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:01:43</Created>
+	<LastChange>2020-09-11T20:03:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-29.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="84,183 1492,183 1492,350 1491,350 1491,351 1490,351 1490,538 470,538 470,601 322,601 322,819 255,819 255,884 252,884 252,885 237,885 237,886 233,886 233,887 229,887 229,888 213,888 213,889 210,889 210,890 206,890 206,891 191,891 191,890 187,890 187,889 183,889 183,888 156,888 156,887 153,887 153,886 149,886 149,885 84,885 84,838 85,838 85,567 133,567 133,351 84,351"/>
+	<TextEquiv conf="0.63146">
+	<Unicode>Com base nas condições do referido projeto e nas prescrições da NBR 6118, de 2014, avalie as afirmações
+a seguir.
+I. A distribuição de barras ao longo do comprimento da viga, na posição inferior, atua contra o
+momento fletor resistente.
+II. O espaçamento horizontal mínimo entre barras é insuficiente para dispor 3 barras de 16 mm em
+uma única camada.
+Ill. O uso de três barras de 16 mm diminui o risco de fissuração em relação ao uso de duas barras de
+20 mm.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="253,886 255,886 255,972 1491,972 1491,1381 1490,1381 1490,1720 470,1720 470,1778 322,1778 322,1996 234,1996 234,2045 85,2045 85,1744 133,1744 133,1381 85,1381 85,1380 84,1380 84,1215 83,1215 83,972 84,972 84,887 253,887"/>
+	<TextEquiv conf="0.95945">
+	<Unicode>O 1I1el,.
+QUESTÃO 32
+As fissuras podem ser compreendidas como uma manifestação patológica frequente em estruturas de
+concreto armado. Um processo de fissuração pode se instalar em uma estrutura como consequência da
+atuação das mais diversas causas, entre elas: deficiências de projeto, retração do concreto, adensamento
+do concreto, perda de aderência, movimentação de escoramento e fôrmas, deficiências de execução,
+vibrações, reações expansivas, corrosão das armaduras, recalques diferenciais, variação de temperatura
+e cargas aplicadas (ações mecânicas).
+SOUZA, V. C. M; RIPPER, T. Patologia, recuperação e reforço de estruturas de concreto. São Paulo: Pini, 56-57, 2009 (adaptado).
+Considerando as informações apresentadas, avalie as afirmações a seguir, a respeito das fissuras originárias
+das ações mecânicas.
+I. Caso surjam fissuras de flexão verticais na face inferior da região de maior momento fletor, em
+vigas simplesmente apoiadas (isostáticas), elas irão propagar-se seguindo trajetórias inclinadas em
+direção à linha neutra.
+Il. Se, nas vigas contínuas (hiperestáticas), houver esmagamento do concreto na região junto a um
+pilar intermediário, a fissuração ocorrerá na face superior da viga, junto ao pilar.
+Ill. Nas vigas com armadura dupla, havendo excesso de armadura de compressão, ocorrerá ruptura
+dúctil, que se manifestará de maneira gradual com fissuras indicando a ruína.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

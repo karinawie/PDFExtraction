@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:49:49</Created>
+	<LastChange>2020-09-15T02:50:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-25.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="521,313 521,731 1055,731 1055,313"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="71,1121 71,1421 718,1421 718,1121"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="71,1431 71,1736 707,1736 707,1431"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="65,1744 65,2036 723,2036 723,1744"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="781,1115 781,1423 1371,1423 1371,1115"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="771,1428 771,1734 1384,1734 1384,1428"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 255,179 255,231 1491,231 1491,300 1490,300 1490,1005 1491,1005 1491,1101 85,1101 85,1102 84,1102"/>
+	<TextEquiv conf="0.96577">
+	<Unicode>QUESTÃO 25
+O 2-etil-hexanol, conhecido comercialmente como octanol, é usualmente produzido em um reator de
+hidrogenação com leito catalítico a base de níquel, conforme fluxograma a seguir.
+No processo representado, a corrente oriunda do reator apresenta composição mássica de 90% de
+2-etil-hexanol; 1% de água; 5% de subprodutos leves e 4% de subprodutos pesados. Considere que
+º* asolubilidade do 2-etil hexanol na água é cerca de 1% em massa;
+* o2-etil-hexanol forma com a água um azeótropo de mínimo e o ponto de ebulição é 180 ºC a 1 atm;
+* os subprodutos leves e pesados são queimados em uma caldeira e não devem ter uma segunda
+fase aquosa.
+Com base nas informações apresentadas, assinale o fluxograma que complemente corretamente o
+processo para a obtenção de um produto com pureza mínima de 99,5% em massa e com teor máximo de
+água de 0,1% em massa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

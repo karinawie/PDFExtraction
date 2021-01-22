@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:33:16</Created>
+	<LastChange>2020-11-21T01:03:55</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,246 869,2112 872,2112 874,246"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="891,244 1062,244 1062,315 1578,315 1578,899 1577,899 1577,900 1576,900 1576,1786 1577,1786 1577,1898 1576,1898 1576,2085 892,2085 892,1479 891,1479"/>
+	<ImageRegion id="r3">
+	<Coords points="888,927 888,1283 1575,1283 1575,927"/></ImageRegion>
+	<TextEquiv conf="0.96192">
+	<Unicode>QUESTÃO 20
+Em um sistema integrado de manufatura,
+engenheiros de controle e automação devem
+organizar e propor layouts fabris que incorporem
+a tecnologia de grupo. O objetivo é melhorar, por
+exemplo, a programação da produção, a redução
+de tempo de início de processo, a redução de
+movimentação de material e a padronização de
+ferramental. Para implementar a tecnologia de
+grupo, é importante que o engenheiro identifique
+as famílias de peças produzidas pela empresa e
+também consiga diferenciar equipamentos que
+proporcionem maior flexibilidade e/ou maior
+produtividade em função de demandas específicas
+da produção.
+Considerando as características de flexibilidade e
+produtividade, identifique os equipamentos que
+correspondem, respectivamente, à sequência
+1, 2,3 e4,no gráfico acima.
+O Célula flexível de manufatura, sistema flexível de
+manufatura, linha de transferência e fresadora
+convencional.
+O sistema flexível de manufatura, célula flexível
+de manufatura, máquina ferramenta CNC e
+linha de transferência.
+O Linha de transferência, máquina ferramenta
+CNC, célula flexível de manufatura e torno
+convencional.
+O Torno convencional, fresadora CNC, sistema
+flexível de manufatura e linha de transferência.
+O Fresadora convencional, torno CNC, linha de
+transferência e célula flexível de manufatura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,313 855,313 855,814 854,814 854,936 855,936 855,1800 854,1800 854,1801 660,1801 660,1849 335,1849 335,2097 170,2097 170,1872 171,1872 171,1814 218,1814 218,909 171,909 171,908 170,908 170,839 219,839 219,464 170,464 170,463 169,463 169,313 170,313"/>
+	<TextEquiv conf="0.96200">
+	<Unicode>QUESTÃO 19
+Suponha que, em uma indústria, seja necessário
+especificar um sistema eletrônico de acionamento
+eficiente para uma máquina elétrica de indução
+trifásica. Além disso, considere que:
+*º o sistema seja capaz de realizar a partida
+evitando picos de corrente e mantendo o
+torque constante.
+º seja necessário, durante a operação, variar,
+de modo controlado, a velocidade da
+máquina.
+º a máquina opere em regime de carga
+variável.
+Com base nessa situação, avalie as afirmações a
+seguir.
+|. Uminversor de frequência pode ser utilizado
+para realizar o acionamento descrito, pois
+possibilita tanto a partida do motor em
+torque constante, quanto o controle da
+velocidade em condições de carga variável.
+Il. Um sistema de partida suave (soft-starter)
+pode ser utilizado para realizar o acionamento
+descrito, pois possibilita tanto a partida
+do motor em torque constante, quanto o
+controle da velocidade em condições de
+carga variável.
+Ill. Para realizar o controle de velocidade em
+condições de carga variável, é necessário
+utilizar um sensor de velocidade ou alguma
+forma indireta para estimação dessa
+grandeza.
+IV. Caso a indústria disponha apenas de um
+sistema elétrico monofásico, é possível
+alimentar o motor de indução trifásico
+a partir de um inversor de frequência
+alimentado pela fonte monofásica.
+É correto apenas o que se afirma em
+Oie.
+Olelv
+Oie,
+O Lev.
+OuMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T06:12:23</Created>
+	<LastChange>2020-11-12T17:27:24</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-12.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="402,368 402,984 1202,984 1202,368"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="397,1486 397,2044 1178,2044 1178,1486"/></TableRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,247 1490,247 1490,1143 1492,1143 1492,1406 1489,1406 1489,1463 1289,1463 1289,1464 1088,1464 1088,1465 887,1465 887,1466 686,1466 686,1467 83,1467 83,1440 84,1440 84,355 83,355 83,248 84,248"/>
+	<TextEquiv conf="0.95287">
+	<Unicode>QUESTÃO 3
+As bombas são equipamentos utilizados na indústria química para fornecer energia mecânica
+necessária para que um líquido escoe entre dois pontos. Um sistema de bombeamento de um fluido
+com peso específico 10 000 N/m? está representado a seguir.
+O escoamento ocorre através de tubos de mesmo diâmetro entre dois tanques e uma coluna de
+destilação. A vazão de recirculação para o tanque A é mantida de modo a garantir o fluxo mínimo na
+bomba e a alimentação para o tanque B só acontece quando a coluna está fora de operação.
+Suponha que medidores locais tenham sido utilizados para determinar a vazão em três pontos distintos,
+conforme o fluxograma a seguir. O primeiro medidor encontra-se na corrente de reciclo do tanque A
+(2m3/h), o segundo no ponto de alimentação da coluna de destilação (5 m3/h) e o terceiro nas proximidades
+da alimentação do tanque B (5 m3/h). Além disso, os desníveis entre a descarga da bomba e a alimentação
+do tanque B e entre a descarga da bomba e a coluna de destilação são 2 m e 20 m, respectivamente.
+Despreze a variação de energia cinética, considere que os tanques e a coluna de destilação estão à mesma
+pressão e que 1 bar = 100 000 N/m?.
+A tabela a seguir apresenta as perdas de carga para cada um dos trechos considerando diferentes vazões.</Unicode></TextEquiv></TextRegion></Page></PcGts>

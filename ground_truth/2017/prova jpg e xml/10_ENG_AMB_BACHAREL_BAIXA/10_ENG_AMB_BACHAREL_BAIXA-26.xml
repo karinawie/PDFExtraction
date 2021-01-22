@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T20:46:39</Created>
+	<LastChange>2020-11-20T21:00:14</LastChange></Metadata>
+	<Page imageFilename="10_ENG_AMB_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,317 1577,317 1577,878 1376,878 1376,879 1175,879 1175,880 974,880 974,881 929,881 929,1827 740,1827 740,1828 273,1828 273,2095 169,2095"/>
+	<TextEquiv conf="0.54140">
+	<Unicode>QUESTÃO 23
+Existem diversos processos para obtenção do hidrograma de projeto. Dentre eles, destaca-se o método
+racional, tradicionalmente utilizado para cálculo de vazões máximas em pequenas áreas urbanas, com
+pequenos tempos de concentração, em que a precipitação é considerada constante e uniforme em toda
+a bacia. A vazão de pico Q, para uma dada duração da chuva excedente, considerada igual ao tempo de
+concentração da bacia, é obtida pela equação
+Q,=028- C-I-A,,
+em que Q, = vazão de pico (m?*-s*); C = coeficiente de escoamento superficial ou de runoff ou de
+deflúvio; 1 = intensidade máxima da precipitação (mm-h*); À = área de drenagem superficial (km?).
+Considerando tais informações e a probabilidade de 2% de ocorrência de chuva, utilize as curvas IDF
+(intensidade-duração-frequência) da figura que se segue e aplique o método racional para calcular a vazão
+de pico Q, produzida por uma chuva de duas horas de duração, uniformemente distribuída em uma área
+de drenagem de 1,50 km? com coeficiente de escoamento superficial C' de 0,55.
+Nesse contexto, qual será a vazão de pico Q, em m?*-s*?
+O 57
+O 30
+O 9,2
+O 10,3
+O 10,8</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="275,911 275,1763 1588,1763 1588,911"/></ImageRegion></Page></PcGts>

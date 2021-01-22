@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:34:51</Created>
+	<LastChange>2020-11-25T19:02:34</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="170,244 340,244 340,312 1576,312 1576,459 1390,459 1390,1489 1575,1489 1575,1665 1576,1665 1576,1733 1573,1733 1573,1821 1223,1821 1223,1822 872,1822 872,1823 169,1823 169,1170 168,1170 168,1142 169,1142 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="391,477 391,1094 1350,1094 1350,477"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="638,1194 638,1416 1100,1416 1100,1194"/></ImageRegion>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 23
+No modelo de dados relacional, uma junção entre tabelas cria uma pseudo-tabela derivada de duas
+ou mais tabelas de acordo com os critérios especificados, similar às regras da teoria dos conjuntos.
+Nos conjuntos a seguir, as áreas hachuradas representam os resultados das consultas SQL (padrão) em
+que, id é uma chave primária e fk uma chave estrangeira.
+Assinale a opção em que a declaração SQL é equivalente ao conjunto apresentado a seguir.
+O SELECT * FROM Tabelal tl JOIN Tabela2 t2 ON tl.id = t2.fk;
+O SELECT * FROM Tabelal tl RIGHT JOIN Tabela2 ON tl.id = t2.fk WHERE
+t2.fk &lt;&gt; NULL;
+O SELECT * FROM Tabelal tl WHERE EXISTS (SELECT 1 FROM Tabela2 t2 WHERE
+t2.id = t1.fk);
+O SELECT * FROM Tabelal tl RIGHT JOIN Tabela2 t2 ON tl.id = t2.fk WHERE
+tl.id is NULL;
+O SELECT * FROM Tabelal tl WHERE NOT EXISTS (SELECT 1 FROM Tabela2 t2
+WHERE t2.id = t1.fk);</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:58:39</Created>
+	<LastChange>2020-11-21T00:06:27</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,313 1577,313 1577,535 1575,535 1575,804 1576,804 1576,972 1578,972 1578,1164 1576,1164 1576,1348 1577,1348 1577,1500 891,1500 891,644 890,644"/>
+	<TextEquiv conf="0.96666">
+	<Unicode>QUESTÃO 25
+Um provedor de serviços de segurança de redes e
+sistemas distribuídos enumerou três componentes
+de rede essenciais para a garantia da segurança
+dos dados corporativos: firewall de rede; sistemas
+de prevenção e detecção de intrusão; e gateways
+antivírus.
+Acerca desses componentes de rede, assinale a
+opção correta.
+O Os gateways antivírus trabalham no nível da
+camada de rede e verificam o fluxo de dados em
+busca de assinaturas de vírus conhecidas.
+O O firewall de rede deve ser configurado para
+detectar transferência de informação através de
+um canal camuflado (covert channel) baseado
+em túneis.
+O Um firewall de camada de rede (network layer
+firewall) permite uma filtragem mais detalhada
+dos dados que um firewall de camada de
+aplicação (application layer firewall) ao custo
+de um pior desempenho.
+O Os sistemas de prevenção de intrusão são vistos
+como uma extensão do firewall e são capazes
+de detectar anomalias de tráfego ou conteúdo
+malicioso antes que eles alcancem a rede.
+O O sistema de detecção de intrusão é capaz de
+identificar ataques iniciados dentro da rede
+protegida e agir proativamente para neutralizar
+a ameaça.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 343,244 343,313 856,313 856,969 853,969 853,1110 854,1110 854,1511 855,1511 855,1713 854,1713 854,1912 855,1912 855,2112 171,2112 171,2113 170,2113 170,1733 171,1733 171,1512 170,1512 170,1076 168,1076 168,313 169,313"/>
+	<TextEquiv conf="0.94494">
+	<Unicode>QUESTÃO 24
+Heurísticas são regras para escolher aquelas
+alternativas que têm maior probabilidade de
+levar a uma solução aceitável para um problema.
+O grau de informação de uma heurística permite
+avaliar em que sentido uma heurística é melhor
+que outra.
+LUGER, G. F. Inteligência Artificial.
+São Paulo: Pearson, 2013 (adaptado).
+Para configurar os movimentos de um robô em
+uma linha de montagem, foram construídas duas
+heurísticas, h1 e h2. Ambas são admissíveis,
+têm como objetivo encontrar a sequência de
+montagem de menor custo a ser realizada pelo
+robô e estão baseadas em parâmetros, como
+quantidade e complexidade de movimentos e
+custo de mudança de direção.
+A partir das informações apresentadas, assinale a
+opção correta.
+O Se o erro de estimativa de h1 for menor que o
+erro de h2 para qualquer estado do processo
+de montagem, o custo do caminho resultante
+da busca baseada em h1 será menor que o da
+busca baseada em h2.
+O Se for construída uma heurística h3 = máximo
+(h1, h2), a heurística h3 terá um grau de
+informação maior ou igual a h1 e h2, para
+qualquer estado do processo de montagem.
+O Se o grau de informação de h2 for superior ao
+grau de informação de h1, o número de estados
+expandidos durante o processo de busca,
+utilizando-se h2, será inferior ao número de
+estados expandidos utilizando-se h1.
+O Se as heurísticas h1 e h2 forem consistentes,
+a heurística h3 = h1 + h2 será uma heurística
+admissível e consistente para qualquer estado
+do processo de montagem.
+O se a heurística h1 possuir um grau de
+informação igual a zero, o algoritmo de busca
+A* irá se comportar como um algoritmo de
+busca guloso (greedysearch), do tipo melhor
+primeiro (best first).</Unicode></TextEquiv></TextRegion></Page></PcGts>

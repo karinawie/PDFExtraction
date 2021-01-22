@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:23:07</Created>
+	<LastChange>2020-09-13T22:23:35</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-31.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="284,315 288,1110 1502,1105 1497,310"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,179 255,179 255,247 1422,247 1422,1132 1491,1132 1491,1435 1492,1435 1492,1498 1305,1498 1305,1499 1117,1499 1117,1500 929,1500 929,1501 742,1501 742,1502 554,1502 554,1503 470,1503 470,1564 322,1564 322,1818 204,1818 204,1819 86,1819 86,1820 85,1820 85,1266 84,1266 84,275 83,275 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.67880">
+	<Unicode>QUESTÃO 35
+A seguir, são apresentas as imagens de um típico exame realizado nos serviços de medicina nuclear.
+Disponível em: &lt;http://mp-spect.com/howdoesitwork.htm&gt;. Acesso em: 12 jul. 2019 (adaptado).
+Considerando as imagens, avalie as afirmações a seguir.
+|. Trata-se de uma cintilografia de perfusão do miocárdio, usualmente realizada em associação com
+a técnica de tomografia por emissão de fóton único, conhecida pela sigla SPECT.
+ll. Para a cintilografia de perfusão do miocárdio com SPECT, as cabeças detectoras da gama câmara
+usualmente são programadas com arco de 180 graus, da oblíqua anterior direita (OAD) para
+oblíqua posterior esquerda (OPE).
+III.As imagens cardíacas em estresse e repouso apresentam três eixos cardíacos, o curto e os longos
+vertical e horizontal.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

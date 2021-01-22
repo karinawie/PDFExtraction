@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-20T03:21:47</Created>
+	<LastChange>2020-11-14T03:13:30</LastChange></Metadata>
+	<Page imageFilename="provafarmacia-28.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,254 872,2073 873,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,307 854,307 854,849 855,849 855,989 854,989 854,1743 146,1743 146,821 145,821"/>
+	<TextEquiv conf="0.94367">
+	<Unicode>QUESTÃO 32
+Um homem com 73 anos de idade procura
+atendimento em uma farmácia comunitária com
+queixa de alterações visuais e náuseas. O paciente
+relata uso de digoxina 0,25 mg, 1 comprimido
+ao dia, enalapril 20 mg, 1 comprimido de 12 em
+12 horas, metoprolol 50 mg, 1 comprimido ao dia,
+e furosemida 40 mg, 1 comprimido ao dia, para
+o tratamento de insuficiência cardíaca congestiva
+(ICC). O farmacêutico encaminha o paciente para um
+serviço de saúde, onde são dosados seus eletrólitos
+séricos e realizado eletrocardiograma, sendo-lhe,
+então, administrado espironolactona 50 mg.
+A análise da conduta terapêutica nesse caso
+clínico e da história clínica do paciente demonstram que
+O a administração de metoprolol é contraindicada
+nos casos de ICC, pois pode desencadear
+descompensação aguda da função cardíaca,
+como ocorreu com o paciente.
+O a hipercalemia promovida pelo uso do enalapril
+potencializa a ligação do digitálico à bomba de
+Na*/K*, o que provocou um quadro de toxicidade
+digitálica, caracterizado por distúrbios visuais e
+gastrintestinais.
+O a espironolactona foi administrada no paciente
+para diminuir a fibrose miocárdica e vascular,
+pois esse fármaco é um diurético poupador de
+potássio cujo mecanismo de ação baseia-se na
+ativação da aldosterona.
+O a associação de digoxina e enalapril consiste no
+tratamento de primeira escolha para a ICC, pois
+a digoxina melhora a função cardíaca e reduz a
+letalidade, enquanto o enalapril reduz os sintomas
+de fadiga e dispneia.
+O a perda de sódio causada pelo uso da furosemida
+provoca perda secundária de potássio que, nesse
+caso, desencadeou um quadro de toxicidade
+digitálica em função do uso de digoxina pelo
+paciente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="889,306 1599,306 1599,607 1601,607 1601,992 1600,992 1600,1050 1599,1050 1599,1331 1600,1331 1600,1545 1599,1545 1599,1784 1277,1784 1277,1890 1111,1890 1111,1994 1128,1994 1128,2070 891,2070 891,1804 939,1804 939,1142 891,1142 891,992 890,992 890,579 889,579"/>
+	<TextEquiv conf="0.93053">
+	<Unicode>QUESTÃO 33
+O fator estimulador de granulócito (G-CSF) promove
+a maturação dos neutrófilos e estimula a atividade
+fagocítica e quimiotática. O fator estimulador de
+colônias de granulócito humano recombinante
+(rhG-CSF), obtido por biotecnologia, é usado no
+tratamento de diversas doenças, sobretudo em
+neutropenias — provocadas “pela quimioterapia
+utilizada no tratamento de câncer.
+A proteína rhG-CSF é uma molécula monomérica
+que possui uma sequência de 174 aminoácidos
+e um resíduo de cisteína livre em sua forma reduzida
+na posição 17 e duas pontes dissulfeto (Cys?***?
+e Cys%”). Assim como no fator estimulador de
+colônias de granulócito humano (hG-CSF), essas
+características são importantes para a atividade
+estrutural da proteína, o dobramento correto da
+cadeia de aminoácidos e a sua atividade biológica.
+CARMO, F.L.R. Clonagem, expressão e caracterização do fator estimulador
+de colônia de granulócito humano recombinante (rhG-CSF) em
+Escherichia coli. Dissertação de Mestrado da Faculdade de Ciências
+Farmacêuticas de Ribeirão Preto - USP, 2014 (adaptado).
+Considerando a produção de biofármacos, como o
+rhG-CSF, avalie as afirmações a seguir.
+|. Para tornar-se um biofármaco, o rhG-CSF deve
+apresentar estrutura homóloga à da proteína
+humana ou alto grau de semelhança que
+garanta sua atividade biológica.
+Il. As variáveis do processo biotecnológico para
+obtenção do rhG-CSF, como temperatura,
+concentrações e tipos de matéria-prima
+devem ser bem determinadas, para permitir
+a produção de proteína com o dobramento
+correto e garantir a atividade biológica.
+Il. O rhG-CSF, cuja estrutura é bem definida,
+apresenta processo produtivo em cultura de
+Escherichia coli de complexidade e rendimento
+semelhantes aos dos fármacos com estruturas
+químicas bem definidas obtidos por síntese
+química.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

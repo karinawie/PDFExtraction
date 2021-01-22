@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:22:10</Created>
+	<LastChange>2020-09-18T02:22:56</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="1456,512 1456,535 1069,535 1069,512"/>
+	<TextEquiv conf="0.96480">
+	<Unicode>a unidade mínima de acesso.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="413,688 413,1477 1336,1477 1336,688"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1576,312 1576,616 1503,616 1503,1556 1575,1556 1575,1760 555,1760 555,1856 398,1856 398,2110 170,2110 170,1529 169,1529 169,672 168,672 168,312 169,312"/>
+	<TextEquiv conf="0.96809">
+	<Unicode>QUESTÃO 12
+Em um computador, a memória é a unidade funcional que armazena e recupera operações e dados.
+Tipicamente, a memória de um computador usa uma técnica chamada acesso aleatório, que permite
+O acesso a qualquer uma de suas posições (células). As memórias de acesso aleatório são divididas em
+células de tamanho fixo, estando cada célula associada a um identificador numérico único chamado
+endereço. Todos os acessos à memória referem-se a um endereço específico e deve-se sempre buscar ou
+armazenar o conteúdo completo de uma célula, ou seja, a célula é
+SCHNEIDER, G. M.; GERSTING, J. L. An Invitation to computer science. 6. ed. Boston:
+MA: Course Technology, Cengage Learning, 2009 (adaptado).
+A figura que se segue apresenta a estrutura de uma unidade de memória de acesso aleatório.
+Considerando o funcionamento de uma memória de acesso aleatório, avalie as afirmações a seguir.
+|. Se a largura do registrador de endereços da memória for de 8 bits, o tamanho máximo dessa
+unidade de memória será de 256 células.
+ll. Se o registrador de dados da memória tiver 8 bits, será necessária mais que uma operação para
+armazenar o valor inteiro 2 024 nessa unidade de memória.
+Ill. Se o registrador de dados da memória tiver 12 bits, é possível que a largura da memória seja
+de 8 bits.
+É correto o que se afirma em
+A |, apenas.
+B ll, apenas.
+C l e ll, apenas.
+D ll e lll apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

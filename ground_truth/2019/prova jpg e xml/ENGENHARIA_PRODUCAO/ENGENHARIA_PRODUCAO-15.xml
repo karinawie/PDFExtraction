@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:12:11</Created>
+	<LastChange>2020-09-15T17:13:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-15.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,670 768,670 768,798 769,798 769,1681 768,1681 768,1769 678,1769 678,1818 85,1818 85,1397 83,1397 83,1334 133,1334 133,771 84,771"/>
+	<TextEquiv conf="0.91097">
+	<Unicode>QUESTÃO 09
+Novos produtos chegam ao mercado desenvolvidos
+a partir de novas ideias, materiais e tecnologias.
+Empreendedores, em busca de oportunidades,
+acompanham as inovações. Paralelamente,
+surgem formas inovadoras de desenvolvimento
+do produto e da produção. Alguns produtos,
+antes confeccionados somente pela subtração
+de materiais, passaram a ser produzidos com
+manufatura aditiva. Termos como Internet das
+Coisas e Design Thinking tornaram-se expressões
+do dia a dia.
+Considerando esse contexto, avalie as asserções a
+seguir e a relação proposta entre elas.
+l. Os novos espaços de criação e
+desenvolvimento estão se espalhando e se
+tornando mais acessíveis a cada dia, o que
+contribui para a alavancagem dos negócios.
+PORQUE
+ll. O desenvolvimento de produtos, que
+abrange as fases: ideia inicial e triagem,
+especificações do produto, formulação
+de alternativas, construção do modelo ou
+mock-up, construção de um protótipo e
+aprovação, tem sido realizado em tempos
+totais de ciclo cada vez mais curtos.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções I e II são proposições verdadeiras,
+e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I.
+C A asserção I é proposição verdadeira, e a II é
+uma proposição falsa.
+D A asserção I é proposição falsa, e a II é uma
+proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="805,179 977,179 977,244 1491,244 1491,424 1360,424 1360,592 1491,592 1491,860 949,860 949,1095 806,1095 806,592 936,592 936,456 805,456"/>
+	<TextEquiv conf="0.96434">
+	<Unicode>QUESTÃO 10
+A gerência de produção de uma empresa fabricante
+de calculadoras definiu como objetivo garantir o
+custo mínimo de estocagem. O perfil de produção
+da empresa indica, por meio de dados históricos,
+que o custo de estoque C(z), em milhares de reais,
+é dado pela expressão
+C(x) = 13 No
+3 2
+para x &gt; O, em que x representa, em milhares, o
+número de calculadoras produzidas diariamente.
+HOFFMANN, L. D.; BRADLEY, G. L. Cálculo: um curso moderno e
+suas aplicações. 11. ed., Rio de Janeiro: LTC, 2015 (adaptado).
++24r +31
+Nesse contexto, o número de calculadoras
+produzidas por dia que miminiza o custo de
+estocagem é
+A 3000.
+B 5500.
+C 8000.
+D 141 000.
+E 62 500.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="805,1126 976,1126 976,1190 1491,1190 1491,1793 919,1793 919,2031 806,2031 806,1793 805,1793"/>
+	<TextEquiv conf="0.95694">
+	<Unicode>QUESTÃO 11
+Em uma simulação manual de um posto bancário,
+os tempos (em minutos) entre as chegadas de
+clientes sucessivos seguem a série de números
+aleatórios R1 (2,5,6,2,4). Os tempos (em minutos)
+de atendimentos de um único caixa seguem
+a série de números aleatórios R2 (2,3,2,4,3).
+Caso o cliente chegue e encontre o caixa ocupado,
+ele aguarda na fila até a sua vez de ser atendido.
+No instante O de simulação, que corresponde à
+abertura do banco, o sistema encontra-se com
+um único cliente, que acabou de chegar e que
+está iniciando seu atendimento.
+Considerando essa situação, para o período de
+simulação, que compreende o instante O até o
+instante 20 minutos, assinale a opção que apresenta
+a taxa de utilização correta do caixa.
+A 50%.
+B 60%.
+C 70%.
+D 80%.
+E 90%.</Unicode></TextEquiv></TextRegion></Page></PcGts>

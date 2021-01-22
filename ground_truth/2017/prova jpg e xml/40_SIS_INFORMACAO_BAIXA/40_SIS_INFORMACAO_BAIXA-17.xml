@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:36:42</Created>
+	<LastChange>2020-11-25T19:10:05</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-17.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 871,2112 874,2112 875,247"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,313 1580,313 1580,622 1576,622 1576,872 1577,872 1577,942 1576,942 1576,1110 1575,1110 1575,1111 1381,1111 1381,1173 1055,1173 1055,1426 891,1426 891,1203 892,1203 892,1138 939,1138 939,854 891,854 891,853 890,853"/>
+	<TextEquiv conf="0.96659">
+	<Unicode>QUESTÃO 10
+O Guia do Conhecimento em Gerenciamento
+de Projetos (Project Management Body of
+Knowledge - PMBOK) inclui o gerenciamento de
+riscos como uma das áreas de conhecimento que
+devem ser observadas para o sucesso do projeto.
+Os riscos identificados são analisados em função da
+probabilidade de sua ocorrência e do impacto que
+causarão ao projeto, caso ocorram.
+A respeito da definição de risco em um projeto, de
+acordo com as orientações do PMBOK, avalie as
+afirmações a seguir.
+|. Osriscos em um projeto podem ocorrer com
+probabilidade entre O e 100%.
+Ill. O impacto do risco, caso ocorra, pode ser
+positivo ou negativo.
+Ill. Devem ser desconsiderados os riscos que
+não afetam o objetivo do projeto.
+IV. O valor estimado referente ao impacto deve
+ser diferente de zero.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+O ueiv
+O L,11e.
+QuMmMelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,624 856,624 856,1555 855,1555 855,1556 692,1556 692,1612 326,1612 326,1866 169,1866 169,1643 170,1643 170,1578 218,1578 218,597 169,597 169,461 168,461 168,312 169,312"/>
+	<TextEquiv conf="0.94243">
+	<Unicode>QUESTÃO 09
+Na fase de levantamento de requisitos do processo
+de desenvolvimento de software, devem-se
+identificar as regras de negócio, os requisitos
+funcionais e os requisitos não funcionais do sistema.
+Considerando um cenário em que um vendedor de
+sorvetes tenha o objetivo de gerenciar suas vendas
+com o uso de um aplicativo, avalie os itens a seguir.
+|. Regra de negócio: entregar o sorvete ao
+cliente somente mediante pagamento;
+requisito funcional: reabastecer o estoque
+quando a quantidade de sorvetes atingir o
+mínimo; requisito não funcional: especificar
+o tempo de resposta do aplicativo.
+ll. Regra de negócio: aplicar promoções
+vigentes na realização da venda; requisito
+funcional: calcular a quantidade de sorvetes
+na estoque; requisito não funcional: exibir
+relatório com o balanço de vendas.
+Ill. Regra de negócio: aceitar somente
+pagamentos com cartão de débito ou
+crédito; requisito funcional: consultar
+a quantidade de vendas; requisito não
+funcional: verificar a possibilidade de
+indisponibilidade do sistema.
+IV. Regra de negócio: conceder aos clientes
+que comprarem 2 sorvetes um desconto de
+10%; requisito funcional: processar a venda
+do sorvete; requisito não funcional: verificar
+o tempo gasto com o treinamento para a
+utilização do aplicativo.
+É correto apenas o que se descreve em
+(ABENIA
+O el.
+O lelv.
+O LIlelv.
+OIE</Unicode></TextEquiv></TextRegion></Page></PcGts>

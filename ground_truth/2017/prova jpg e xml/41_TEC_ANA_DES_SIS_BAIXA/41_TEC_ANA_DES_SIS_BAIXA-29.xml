@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:23:04</Created>
+	<LastChange>2020-11-30T17:24:02</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="170,244 341,244 341,245 342,245 342,290 1575,290 1575,434 1577,434 1577,661 1226,661 1226,662 964,662 964,913 861,913 861,1260 1577,1260 1577,1384 1226,1384 1226,1385 1138,1385 1138,1717 1575,1717 1575,1788 1577,1788 1577,1877 1238,1877 1238,1878 899,1878 899,1879 559,1879 559,1880 556,1880 556,1960 407,1960 407,2078 319,2078 319,2115 171,2115 171,2116 170,2116 170,2006 171,2006 171,1658 170,1658 170,1260 174,1260 174,1226 219,1226 219,714 169,714 169,434 170,434"/>
+	<ImageRegion id="r1">
+	<Coords points="472,1386 472,1616 1269,1616 1269,1386"/></ImageRegion>
+	<TextEquiv conf="0.96513">
+	<Unicode>QUESTÃO 26
+Para que se realize a multiplicação de probabilidades com maior facilidade, foi desenvolvida,
+utilizando-se o padrão MVC (Model-View-Controller), uma calculadora que pode ser configurada
+de dois modos: comum e probabilista. No primeiro, as multiplicações ocorrem de forma ordinária.
+No segundo, as multiplicações são feitas utilizando-se uma fórmula específica.
+A classe a seguir, escrita na linguagem Java, define o métodomultiplica. Ele é executado quando o
+botão da multiplicação é pressionado, e recebe como parâmetro os valores que o usuário deseja usar na
+operação, além de possuir uma variável de instância do tipo Cal eculadoraController.O método
+alteraModo é encarregado de alterar a instância para a qual essa variável faz referência conforme o
+modo selecionado pelo usuário. A instância interage com as partes do model apropriadas à solicitação
+realizada pelo usuário. Quando o usuário deseja usar o modo probabilista, a variável modo tem o valor 1,
+caso contrário, ela tem o valor O.
+public class Calculadora (
+private CalculadoraController c;
+private int modo;
+public double multiplica (double[] valores) (
+return c.multiplica (valores);
+public void alteraModo () (
+if ( modo == 1)
+c = new ProbabilistaController();
+else
+c = new OrdinarioController();
+)
+O diagrama de classe que se segue mostra a hierarquia de controllers definida para a implementação
+da calculadora descrita. A hierarquia de classes de controle representa uma família de algoritmos
+intercambiáveis, por isso, o comportamento dos componentes da view, a cada instante, pode ser
+dinamicamente alterado, bastando trocar o tipo da instância referenciada pela variável c.
+Considerando esse cenário, avalie as afirmações a seguir.
+|. A hierarquia exibida ilustra o uso do padrão de projetos Strategy.
+Ill. O padrão composto MVC define a existência de um único controller e, portanto, a solução proposta
+não caracteriza o uso desse padrão.
+Ill. O método multiplica da classe Calculadora chama o método multiplica de
+CalculadoraController, o que caracteriza uma conversão de interfaces e, portanto, o uso
+do padrão de projetos Adapter.
+É correto o que se afirma em
+O |, apenas.
+O !l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 11em,.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:55:47</Created>
+	<LastChange>2020-11-30T18:32:50</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="868,246 872,2112 877,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1060,244 1060,245 1061,245 1061,316 1578,316 1578,1064 1577,1064 1577,1543 1576,1543 1576,1641 1575,1641 1575,1855 1574,1855 1574,1972 1576,1972 1576,2047 1484,2047 1484,2099 892,2099 892,2100 891,2100 891,1642 890,1642 890,1575 940,1575 940,1103 939,1103 939,1065 890,1065"/>
+	<TextEquiv conf="0.96274">
+	<Unicode>QUESTÃO 17
+A principal alternativa segura para acesso remoto
+consiste nas redes privadas virtuais, ou VPN (Virtual
+Private Network). Uma VPN permite que usuários
+geograficamente remotos troquem dados por
+meio de uma rede existente — mais comumente
+a internet — de forma segura. A técnica básica
+fornece um caminho seguro de transmissão,
+conhecido como um túnel que pode conectar dois
+sistemas ou duas redes. Duas técnicas populares de
+implementação de VPNs são a que utiliza o IPSec
+(Internet Protocol Security) e a que utiliza o SSL
+(Secure Sockets Layer).
+HARRINGTON J. L. Network security: a practical approach.
+San Francisco: Morgan Kaufmann, 2005 (adaptado).
+Em relação às técnicas de VPNs IPSec e VPNs SSL,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Na definição de uma VPN ponto a ponto,
+onde se exige alto volume de transações
+e baixa latência, é mais indicado o uso do
+IPSec do que o uso do SSL.
+PORQUE
+ll. Tanto o IPSec como o SSL normalmente
+usam a técnica de sequenciamento de
+pacotes para detectar ataques de replay
+(repetição de mensagens), sendo o IPSec
+mais eficiente que o SSL nesse caso.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,316 854,316 854,558 855,558 855,672 582,672 582,811 689,811 689,863 853,863 853,990 171,990 171,991 170,991 170,673 168,673 168,317 169,317"/>
+	<TextEquiv conf="0.96333">
+	<Unicode>QUESTÃO 16
+Em uma rede local de uma instituição bancária,
+foi implantado um sistema gerenciador de banco
+de dados (SGBD), tendo o administrador efetuado
+um comando GRANT para a realização das
+configurações de acesso ao SGBD na rede.
+Com o objetivo de realizar autenticação por
+aplicações para acesso ao banco de dados, de
+forma segura, devem ser enviados ao servidor
+O o1P do servidor e a senha.
+O a senha e o endereço MAC.
+O o1P do servidor e o endereço MAC.
+O o1Pdo servidor, o nome físico do banco e a senha.
+O o1P do cliente, o nome físico do banco, a senha
+e o endereço MAC.</Unicode></TextEquiv></TextRegion></Page></PcGts>

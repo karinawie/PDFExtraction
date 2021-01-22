@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:59:04</Created>
+	<LastChange>2020-11-20T23:47:17</LastChange></Metadata>
+	<Page imageFilename="12_ENG_ALI_BACHAREL_BAIXA-20.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,796 1305,796 1305,932 1577,932 1577,1040 1576,1040 1576,1332 1577,1332 1577,1479 1010,1479 1010,1732 891,1732 891,1480 890,1480 890,932 1165,932 1165,796 890,796 890,797 890,655 889,655 889,312 890,312"/>
+	<TextEquiv conf="0.96743">
+	<Unicode>QUESTÃO 18
+O ensaio de flexão é utilizado em materiais
+frágeis ou de alta dureza, tais como cerâmicas
+estruturais ou aços-ferramenta. Em uma de suas
+modalidades mais comuns, o ensaio de flexão a
+3 pontos, é provocada uma flexão ao se aplicar
+O carregamento em 3 pontos, o que causa uma
+tensão de tração surgida no ponto central e
+inferior da amostra, onde a fratura do material
+terá início.
+Assumindo-se um comportamento de tensão-
+deformação linear, a tensão de flexão o do material
+pode ser obtida por meio da fórmula:
+3Fd
+=
+2h
+em que Fé a carga, dé a distância entre os pontos
+de apoio, w é a largura do corpo de prova e hé a
+espessura do corpo de prova.
+Considere dois corpos de prova A e B do mesmo
+compósito reforçado com fibras de vidro, cuja
+resistência à flexão é de 290 MPa. O corpo de prova
+A tem o triplo da largura e a metade da espessura
+do corpo de prova B e ambos são submetidos ao
+mesmo ensaio de flexão.
+Nessa situação, qual porcentagem da força necessária
+para o rompimento do corpo de prova B deverá ser
+aplicada ao corpo de prova A para que este também
+se rompa?
+O 50%
+O 75%
+O 100%
+O 125%
+OQ 200%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,314 854,314 854,663 855,663 855,664 856,664 856,1150 853,1150 853,1262 855,1262 855,1458 853,1458 853,1577 854,1577 854,1784 660,1784 660,1846 334,1846 334,2108 169,2108 169,1879 170,1879 170,1812 218,1812 218,1673 263,1673 263,1553 218,1553 218,1234 169,1234 169,1150 168,1150 168,314 169,314"/>
+	<TextEquiv conf="0.96117">
+	<Unicode>QUESTÃO 17
+A importância da otimização no processo
+produtivo é inegável. Do ponto de vista
+matemático, “para otimizar determinada
+grandeza, é necessário modelá-la de acordo com
+uma função e, a partir daí, conforme a situação,
+procurar um máximo ou um mínimo. Uma das
+formas usadas para minimizar funções é oO
+método dos multiplicadores de Lagrange.
+Um fabricante de latinhas de refrigerante
+deve propor uma lata cilíndrica de volume V,.
+Essa lata será fabricada usando-se duas ligas
+metálicas distintas, sendo uma para a parte lateral
+e outra para a base e a tampa. Ele deseja calcular
+o raio (7) e a altura (A) da lata para que o custo de
+sua produção seja o menor possível. Sabe-se que a
+área total da lata é dada por A(r,h) e que o custo
+total de produção da lata, que depende apenas do
+material utilizado na sua produção, é C(r,h). Para
+a solução desse problema, será utilizado o método
+dos multiplicadores de Lagrange.
+Com base nessa situação, avalie as afirmações a
+seguir, acerca da solução desse problema.
+l. O custo de produção da lata pode ser
+expresso por C(r,h)=27(Krh+K,”), em
+que K, e K, são constantes que dependem
+do custo de cada uma das ligas metálicas
+por unidade de área.
+Il. A função a ser minimizada da área total da
+lata é A(r,h) =27nrh +2nrº.
+O vínculo na minimização, relacionado ao
+volume da lata, é dado por 9(1,h) = xrh—V,,
+IV. O sistema de equações a ser montado é
+vC(r,h) = AVv9(r,h), no qual à é denominado
+multiplicador de Lagrange.
+É correto apenas o que se afirma em
+Oie
+Oielv
+Oem,
+O Llelv.
+O 1, Ieilv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

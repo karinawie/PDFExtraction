@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-14T01:58:53</Created>
+	<LastChange>2020-11-14T01:58:53</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-20.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r11">
+	<Coords points="785,181 787,2047 790,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,179 255,179 255,247 770,247 770,634 769,634 769,939 451,939 451,1162 478,1162 478,1190 85,1190 85,1191 84,1191 84,248 83,248 83,247 84,247"/>
+	<ImageRegion id="r2">
+	<Coords points="89,650 89,792 765,792 765,650"/></ImageRegion>
+	<TextEquiv conf="0.96630">
+	<Unicode>QUESTÃO 12
+A figura apresenta um sistema integrado de
+manufatura em linha, em que al e bi são os
+eventos de alimentação e saída de peça da máquina
+M1, respectivamente; a2 e b2 são os eventos
+de alimentação e saída de peça da máquina M2,
+respectivamente; R é o sistema alimentador
+automático de M1; e B representa um buffer de
+uma única posição. O tempo de produção de M1 é
+a metade do tempo de M2, e a1 é o único evento
+controlável presente no sistema.
+Para evitar sobrecarga no buffer B e maximizar a
+produtividade da linha, o sistema alimentador R
+somente deverá executar o evento a1 quando
+O BB estiver livre.
+O M1 estiver livre.
+O Mi eB estiverem livres.
+O M? e B estiverem livres.
+O M1 e M? estiverem livres.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1491,247 1491,248 1492,248 1492,1527 1218,1527 1218,1831 1190,1831 1190,1839 935,1839 935,1907 805,1907"/>
+	<ImageRegion id="r3">
+	<Coords points="807,686 807,1244 1489,1244 1489,686"/></ImageRegion>
+	<TextEquiv conf="0.96486">
+	<Unicode>QUESTÃO 13
+As técnicas clássicas de simplificação lógica são
+importantes ferramentas para a minimização de
+circuitos digitais e objetivam a redução e o uso
+racional de parâmetros elétricos e físicos, como
+a quantidade de portas lógicas, a dissipação de
+potência elétrica, o tamanho da placa de circuito
+impresso e os atrasos na propagação de sinais ao
+longo do circuito lógico. A figura a seguir apresenta
+o diagrama esquemático de um decodificador
+puramente combinacional, cujos sinais A e Be são
+entradas e o sinal Y é a saída do circuito digital.
+Considerando as características funcionais do
+circuito digital combinacional e as teorias clássicas
+de simplificações lógicas, as expressões booleanas
+que representam corretamente o comportamento
+funcional do circuito lógico decodificador
+apresentado são
+S|
+S
+OYy=AGSBeY=
+(
+OY=4A0BeY=(
+OY=A0BeY=(
+(
+(
+=
+5 &amp;S
+= |
+=!
+OY=A0BeY
+O Y=A0BeY
+WS ZW SXS
++
++
+=!
+A.
+Área livre</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:30:21</Created>
+	<LastChange>2020-09-18T02:30:52</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="477,352 477,819 1266,819 1266,352"/></ImageRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords points="170,244 340,244 340,312 1112,312 1112,844 1576,844 1576,1173 1577,1173 1577,1376 1576,1376 1576,1511 1333,1511 1333,1550 962,1550 962,1551 219,1551 219,1506 217,1506 217,1416 216,1416 216,912 169,912 169,245 170,245"/>
+	<TextEquiv conf="0.96559">
+	<Unicode>QUESTÃO 19
+Considere o diagrama Entidade-Relacionamento apresentado a seguir.
+Qual código SQL exibe o nome de todos os deputados que compareceram a pelo menos uma seção e as
+datas de cada seção em que os deputados participaram?
+A SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado,
+Participacao, Secao WHERE Deputado.idDeputado=Participacao.idDeputado;
+B SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado,
+Participacao, Secao WHERE Deputado.idDeputado = Participacao.
+idDeputado OR Secao.idSecao = Participacao.idSecao;
+C SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado LEFT OUTER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+LEFT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+D SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado RIGHT OUTER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+RIGHT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+E SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado INNER
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado
+INNER JOIN Secao ON Participacao.idSecao=Secao.idSecao;</Unicode></TextEquiv></TextRegion></Page></PcGts>

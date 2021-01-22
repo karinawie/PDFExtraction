@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T20:50:56</Created>
+	<LastChange>2020-11-27T21:01:44</LastChange></Metadata>
+	<Page imageFilename="23_FISICA_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 871,2112 874,2112 875,247"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="890,244 1061,244 1061,309 1577,309 1577,851 1576,851 1576,1495 1277,1495 1277,1657 1276,1657 1276,1658 1128,1658 1128,1747 1040,1747 1040,1794 891,1794 891,1657 892,1657 892,1519 939,1519 939,1066 890,1066 890,964 1105,964 1105,851 890,851"/>
+	<TextEquiv conf="0.96667">
+	<Unicode>QUESTÃO 25
+A exposição humana a campos eletromagnéticos
+ainda é controversa. Vários estudos
+apontam relação entre a exposição a campos
+eletromagnéticos e alguns tipos de câncer.
+Particularmente preocupante é a situação de pessoas
+que vivem próximas a antenas transmissoras.
+No Brasil, o limite legal da amplitude dos
+campos eletromagnéticos em áreas próximas
+da população é, em geral, de 83,3 microteslas,
+o que está em conformidade com os limites
+estabelecidos pela ICNIRP (International
+Commission on Non-lonizing Radiation
+Protection) e pela OMS (Organização Mundial
+de Saúde). Na Suíça, o limite da amplitude dos
+campos eletromagnéticos é de 1,0 microtesla.
+Disponível em: &lt;http://brasil.estadao.com.br&gt;.
+Acesso em: 17 jul. 2017 (adaptado).
+Considerando tais informações e o fato de as
+antenas mencionadas emitirem ondas esféricas,
+avalie as afirmações a seguir.
+|. A intensidade do campo eletromagnético
+produzido pelas antenas é inversamente
+proporcional ao quadrado da sua distância.
+Il. O campo elétrico produzido pelas referidas
+antenas é estático.
+Ill. Se uma torre de transmissão de ondas de
+rádio a 30 m do solo produz um campo
+eletromagnético de 83,3 microteslas, então
+para se atingir o valor limite adotado pela
+Suíça, seria necessária uma torre de mais de
+270 metros de altura.
+É correto o que se afirma em
+O, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+Q1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,912 855,912 855,1096 854,1096 854,1269 555,1269 555,1324 358,1324 358,1451 407,1451 407,1577 406,1577 406,1578 169,1578 169,1451 170,1451 170,1290 218,1290 218,718 170,718 170,717 169,717 169,541 168,541 168,312 169,312"/>
+	<TextEquiv conf="0.95190">
+	<Unicode>QUESTÃO 24
+O transporte de energia elétrica é realizado, em
+geral, por longas linhas de transmissão. Há, nesse
+processo, perdas técnicas de energia elétrica que
+encarecem o custo. O uso de corrente alternada
+propicia a redução dessas perdas, desde que se
+adotem medidas adequadas.
+Considerando essas informações, relativas a medidas
+adequadas a serem tomadas para a redução das
+perdas técnicas em linhas de transmissão de
+corrente alternada, avalie as afirmações a seguir.
+|. Para redução das perdas técnicas, uma
+medida é o abaixamento da diferença de
+potencial entre os pontos extremos da linha
+de transmissão.
+II. O dimensionamento adequado de
+transformadores, de modo a aumentar as
+impedâncias, é uma medida capaz de reduzir
+perdas técnicas em linhas de transmissão de
+corrente alternada.
+Ill. O uso de dispositivos de redução do fluxo
+magnético indutivo na rede de transmissão
+é uma medida adequada para ser adotada
+em longas linhas de transmissão.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

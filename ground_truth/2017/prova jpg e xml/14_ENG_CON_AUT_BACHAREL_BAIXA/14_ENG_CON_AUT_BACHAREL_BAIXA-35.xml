@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:31:27</Created>
+	<LastChange>2020-11-21T00:47:46</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-35.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="170,244 341,244 341,297 1577,297 1577,486 1576,486 1576,795 170,795 170,486 169,486 169,297 170,297"/>
+	<ImageRegion id="r1">
+	<Coords points="516,491 516,705 1238,705 1238,491"/></ImageRegion>
+	<TextEquiv conf="0.96566">
+	<Unicode>QUESTÃO 30
+No início da década de 1950, época em que os recursos computacionais ainda eram precários para as
+demandas dos projetos de controle, Walter R. Evans criou um método para determinar graficamente
+como mudanças em um dos parâmetros do sistema modificavam a posição de seus polos de malha
+fechada, alterando, assim, a resposta dinâmica do sistema. Tal método foi chamado de Lugar das Raízes
+e, em geral, o parâmetro escolhido para variar era o ganho de malha aberta.
+Considerando o método criado por Evans, assinale a opção em que o gráfico do Lugar das Raízes está
+associado ao sistema de controle exibido na figura acima.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="163,802 163,1219 711,1219 711,802"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="155,1230 155,1652 716,1652 716,1230"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="152,1661 152,2091 716,2091 716,1661"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="854,1240 854,1670 1418,1670 1418,1240"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="851,807 851,1237 1415,1237 1415,807"/></ImageRegion></Page></PcGts>

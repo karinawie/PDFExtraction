@@ -1,0 +1,665 @@
+QUESTÃO DISCURSIVA 03
+Com base na figura, que ilustra uma arquitetura de sistema usada em ambientes industriais, faça o que
+se pede nos itens a seguir.
+15 scana
+a) Cite dois protocolos adequados para uso na camada de rede Ethernet industrial e dois protocolos
+adequados para uso na rede Fieldbus. (valor: 4,0 pontos)
+b) Descreva três características que diferenciam protocolos aptos para uso nas redes Ethernet industrial
+e Fieldbus. (valor: 3,0 pontos)
+c) Explique como o sistema SCADA tem acesso aos dados dos dispositivos ligados à rede Fieldbus.
+(valor: 3,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Em um laboratório de robótica, encontra-se instalado um manipulador do tipo SCARA, representado na
+Figura 1. Uma parte da modelagem cinemática direta para este robô está apresentada na Figura 2.
+O modelo cinemático apresentado foi obtido utilizando-se os seguintes parâmetros de Denavit-Hartenberg:
+oi: ângulo Lia e Z; ao redor de X,;
+a: distância entre Lia e Z; e ao longo de X;
+O: ângulo entre Xi e X;e ao redor de Z; 1
+d: distância entre a origem do sistema (1-1) e o cruzamento de Z, , e X,
+A matriz de transformação entre elos é dada por:
+cos. -cosa,xsend. sena,xsend. a, xcosd,
+; send. "cosa.xcosO. -sena.xcosdl. a xsend.
+qi = 1 1 1 4 1 4 1
+f 0 sena, cos a, d.
+0 0 0 1
+
+Como resultado foram apresentados: o modelo com os frames para cada elo (Figura 3), a tabela com os
+parâmetros de D-H e a matriz da cinemática direta com transformação da ferramenta para a base do robô.
+Orc Qqst+eos8 O 255(c, +02 -51' 5)
+Tê = q: t+: H&:5&-QqQ:&6 O 255(s +55 ts 0)
+0 0 -1 300 - dz
+0 0 0 1
+Em que:
+e c,=cosb,;
+e s,=send,.
+
+O robô será instalado sobre uma plataforma móvel (7º eixo) com liberdade de movimentar-se na direção
+do eixo Y da base e sendo este acionado por um fuso de esferas com passo de 25,4 mm.
+A partir da situação apresentada, determine:
+a) As equações que indicam as coordenadas X, Y, Z da ferramenta do robô em relação à sua base no
+sistema original, antes da instalação do 7º eixo. (valor: 2,0 pontos)
+B) Os parâmetros de D-H para o frame do 7º eixo, inserido antes do eixo da primeira articulação. (valor:
+3,0 pontos)
+C) As novas equações que indicam as coordenadas X, Y, Z da ferramenta em relação à base, após a
+instalação do 7º eixo. (valor: 3,0 pontos)
+D) menor deslocamento possível de ser medido no posicionamento do novo eixo, sendo a leitura
+realizada com um encoder absoluto de 8 bits. (valor: 2,0 pontos).
+
+QUESTÃO DISCURSIVA 05
+Uma manobra comumente adotada nas indústrias de processos é usar tanques como vasos-pulmão para
+absorver algumas perturbações oriundas dos desajustes de operação da planta. Nesse caso, o controle
+estrito do nível desses equipamentos torna-se dispensável, uma vez que não há necessidade de se operar
+o equipamento no valor desejado exatamente, mas permitem-se flutuações próximas desse ponto.
+Considere o projeto de um sistema de controle de nível de um vaso-pulmão, mostrado na figura, que
+pode armazenar um fluido na fase líquida e possui uma seção transversal A, uma vazão volumétrica de
+alimentação q,, e é descarregado com vazão volumétrica q por meio de uma bomba ideal. Sabe-se ainda
+que a vazão de descarga do vaso é a variável manipulada, e a vazão de alimentação é o distúrbio externo
+para essa malha de controle.
+Acerca desse sistema de controle, faça o que se pede nos itens a seguir.
+a) Apresente o modelo dinâmico no domínio do tempo que rege esse sistema. (valor: 3,0 pontos)
+b) Determine a função de transferência em malha aberta que relaciona o nível do vaso com as respectivas
+vazões de alimentação e descarga. (valor: 3,0 pontos)
+c) Demonstre que uma vazão q, constante implica um erro em regime permanente, considerando a
+implementação de um controlador com apenas ação proporcional G& (s) = -K, . (valor: 4,0 pontos)
+
+QUESTÃO 09
+Para incentivar as atividades econômicas e culturais da população de ilhas de uma região litorânea, um
+empresário planeja implementar um serviço de lanchas de transporte coletivo entre as ilhas e uma cidade
+costeira próxima. O empreendimento deve ser bem dimensionado, pois usar lanchas além da quantidade
+adequada gera despesas desnecessárias, e se o número de lanchas for insuficiente, pode haver longas
+esperas pelo serviço ou, ainda, superlotação das embarcações. Assim, para um investimento eficiente,
+determinou-se, por meio de uma pesquisa, uma distribuição padrão normal com média de 50 passageiros
+por hora e um desvio padrão de 5 unidades.
+A partir da pesquisa, avalie as afirmações a seguir.
+|. A probabilidade de haver mais de 55 passageiros por hora é maior do que a de haver menos de 45.
+Il. A probabilidade de haver mais de 45 passageiros por hora é maior do que a de haver menos de 50.
+Ill. A probabilidade de haver entre 35 e 40 passageiros por hora é maior do que a de haver entre 55 e 60.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 10
+Um RTOS (Real-Time Operating System) possui como características o determinismo com relação às
+tarefas que o sistema executará, a responsividade, o alto grau de controle do usuário, a confiabilidade e o
+suporte a operações de falha de software. Um RTOS é usado em aplicações críticas quanto ao tempo, como
+sensores de monitoração, e geralmente são sistemas pequenos, para uso em computadores embarcados.
+GONÇALVES, H; BORTOLUZZI|, F.; ZEFERINO, C. Desenvolvimento de um sistema operacional de tempo real para um microcontrolador básico.
+In: Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC 2013), 2013, Niterói.
+Proceedings. Niterói: UFF, 2013. p. 1-6 (adaptado).
+Considerando a necessidade de utilização de RTOS em sistemas embarcados para atendimento a requisitos
+de tempo real, avalie as asserções a seguir e a relação proposta entre elas.
+|. O escalonador de tarefas é o principal diferencial de um RTOS em relação a um sistema
+operacional tradicional.
+PORQUE
+Il. O escalonador de tarefas de um RTOS é capaz de garantir que a tarefa de maior prioridade ocupe
+a CPU antes das demais.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.
+
+QUESTÃO 11
+Para atender a demanda de inclusão social e proporcionar melhor qualidade de vida aos pacientes, um
+hospital universitário promove a integração dos alunos dos cursos de Fisioterapia e de Engenharia, com
+o objetivo de desenvolver aparelhos para recuperação e tratamento. Um dos aparelhos desenvolvidos
+pelos alunos tem por finalidade proporcionar exercícios de tração por meio do uso de polias, cabos de aço
+e contrapesos, conforme mostrado na figura a seguir.
+Com base nos dados da figura, assumindo-se cabos e polias ideais, a carga disponível para o referido
+tratamento é de
+O 18 kgf.
+O 19 kgf.
+O 51 kef.
+O 98 kgf.
+O 100 kgf.
+
+QUESTÃO 12
+A figura apresenta um sistema integrado de
+manufatura em linha, em que al e bi são os
+eventos de alimentação e saída de peça da máquina
+M1, respectivamente; a2 e b2 são os eventos
+de alimentação e saída de peça da máquina M2,
+respectivamente; R é o sistema alimentador
+automático de M1; e B representa um buffer de
+uma única posição. O tempo de produção de M1 é
+a metade do tempo de M2, e a1 é o único evento
+controlável presente no sistema.
+Para evitar sobrecarga no buffer B e maximizar a
+produtividade da linha, o sistema alimentador R
+somente deverá executar o evento a1 quando
+O BB estiver livre.
+O M1 estiver livre.
+O Mi eB estiverem livres.
+O M? e B estiverem livres.
+O M1 e M? estiverem livres.
+
+QUESTÃO 13
+As técnicas clássicas de simplificação lógica são
+importantes ferramentas para a minimização de
+circuitos digitais e objetivam a redução e o uso
+racional de parâmetros elétricos e físicos, como
+a quantidade de portas lógicas, a dissipação de
+potência elétrica, o tamanho da placa de circuito
+impresso e os atrasos na propagação de sinais ao
+longo do circuito lógico. A figura a seguir apresenta
+o diagrama esquemático de um decodificador
+puramente combinacional, cujos sinais A e Be são
+entradas e o sinal Y é a saída do circuito digital.
+Considerando as características funcionais do
+circuito digital combinacional e as teorias clássicas
+de simplificações lógicas, as expressões booleanas
+que representam corretamente o comportamento
+funcional do circuito lógico decodificador
+apresentado são
+S|
+S
+OYy=AGSBeY=
+(
+OY=4A0BeY=(
+OY=A0BeY=(
+(
+(
+=
+5 &S
+= |
+=!
+OY=A0BeY
+O Y=A0BeY
+WS ZW SXS
++
++
+=!
+A.
+Área livre
+
+QUESTÃO 14
+Uma esteira de transporte instalada em uma célula produtiva possui um sistema de tração com redução,
+conforme a figura. A esteira utiliza um cilindro de tração acoplado ao eixo de saída da caixa por flanges,
+para que não ocorra perda de potência no acoplamento. A fábrica que utiliza este sistema passa por
+uma reestruturação e, devido à alteração do layout, decidiu-se utilizar a esteira para transporte de
+produtos acabados.
+EA
+MOTT, R. L. Machine elements in mechanical design. 4. ed. NJ: Pearson Prentice Hall, 2004 (adaptado).
+Os dados levantados em relação ao sistema são: um cilindro de tração da esteira com diâmetro de 250
+mm e um motor com potência de 1 000 W e rotação de 600 rpm. Os rendimentos informados para os
+componentes da caixa de redução são: 80% para cada par de engrenagem e 84% para cada par de mancal.
+A relação de transmissão total da caixa de redução é igual a 10 e o rendimento do sistema do cilindro da
+esteira é de 83%.
+A fim de atender a nova demanda e considerando os dados levantados em campo, solicitou-se a análise
+do sistema ao setor de engenharia. Utilizou-se o valor de 3,14 para n e as seguintes equações:
+em que:
+*º M,=torque [Nm];
+* P,= potência considerando as perdas [W];
+* n=velocidade angular [rpm];
+e F=força[N];
+* d=distância[m];
+e mn =rendimento;
+e P=potência[W].
+Após os cálculos, qual a força tangencial correta disponível no cilindro?
+A 127 [N].
+B 200 [N].
+C 242 [N].
+D 400 [N].
+E 483 [N].
+
+QUESTÃO 15
+O rompimento de uma barragem causou uma avalanche de rejeitos de minério de ferro. A barragem
+desabou e a lama atingiu tanto a área administrativa quanto a comunidade da vila, deixando um rastro
+de destruição e resultando em dezenas de mortes. No momento do acidente, provavelmente em razão da
+rapidez com que tudo aconteceu, as sirenes de alerta não soaram, o que contribuiu para o elevado número
+de mortes, uma vez que as pessoas não tiveram tempo de seguir os procedimentos de segurança.
+Disponível em: <https://www.brasilescola.uol.com.br>. Acesso em: 24 jun. 2019 (adaptado).
+Considerando problemas similares ao descrito, foi proposta a automatização do funcionamento de uma
+bomba d'água com um sistema de alarme, por meio de um controlador lógico programável (CLP) e uma
+IHM para controle e visualização do processo. Para tanto, desenvolveu-se o diagrama LADDER mostrado
+na figura a seguir.
+Considerando as informações apresentadas, avalie as afirmações a seguir, acerca do funcionamento do
+referido sistema.
+|. A bomba inicia o seu funcionamento se B1 for acionada, o SNS for ativado, o SNI estiver ativado e
+a botoeira B2 não estiver acionada.
+Il. Se o SNI for ativado, o programa liga a lâmpada e a bomba.
+Ill. A bomba será ligada quando o SNS for ativado e permanecerá assim até que o SNI seja desativado.
+IV. Em condições normais de funcionamento, o alarme será acionado no instante em que a bomba
+for acionada.
+É correto apenas o que se afirma em
+A IV.
+B II e III.
+C I, II e III.
+D I, II e IV.
+E I, III e IV.
+
+QUESTÃO 16
+A realização do processo de leitura de sinais analógicos em microcontroladores exige, muitas vezes, o emprego
+de circuitos condicionadores de sinais. Esses circuitos, geralmente implementados por amplificadores
+operacionais, têm a função de adequar as amplitudes de tensão do sinal de entrada para os níveis de tensão
+pertinentes ao conversor analógico-digital (ADC). O circuito analógico representado no diagrama esquemático
+da Figura 1 é um exemplo desses circuitos condicionadores de sinais.
+Considerando que o sinal de entrada é uma fonte de tensão com característica senoidal cuja amplitude
+de pico é igual a 2 V, qual será o valor da resistência R3 para que a excursão do sinal de saída (SAÍDA) seja
+coerente com o gráfico apresentado na Figura 2?
+A 1ko.
+B 5ko.
+C 10 ko.
+D 12,5 ka.
+E 25 ko.
+
+QUESTÃO 17
+O uso de robôs colaborativos em fábricas tem sido cada vez maior, pois facilita o trabalho, aumentando a
+produtividade, a qualidade dos produtos e a própria segurança dos trabalhadores. A expectativa é de que,
+até 2021, o uso de robôs colaborativos cresça 71% ao ano, segundo dados da Federação Internacional
+de Robótica (IFR), que prevê, para esse ano, a comercialização de aproximadamente 400 mil robôs
+colaborativos e Veículos Guiados Automaticamente (AGVs). A inclusão dos robôs colaborativos inova
+a linha de produção das indústrias e tem como principal vantagem uma produção mais eficiente, sem
+dispensar o trabalho humano.
+Disponível em: <https://www.exame.abril.com.br>. Acesso em: 14 jun. 2019 (adaptado).
+Considerando o uso dos robôs colaborativos, avalie as asserções a seguir e a relação proposta entre elas.
+I. Robôs colaborativos podem operar em ambientes mistos com outras máquinas e/ou com
+operadores.
+PORQUE
+Il. Robôs colaborativos possuem itens adicionais de segurança em comparação aos robôs
+industriais comuns.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.
+
+
+QUESTÃO 18
+Foi requisitada a um engenheiro a implementação de um controle PID embarcado em um microcontrolador,
+com base no código fonte apresentado a seguir.
+void loop() (
+float RF, PV, E, X, Y, Z, E anterior; // variáveis do controlador
+float Kx, Ky, Kz; // variáveis dos ganhos do controlador
+RF = analogRead(AO0); // leitura do valor de referência
+PV = analogRead(Al); // leitura da variável do processo
+E = RF - PV; // cálculo do valor do Erro
+//Início da rotina de controle básica
+X=XxX+E* Kx;
+Y=E* Ky;
+Z = (E- E anterior) * Kz;
+E anterior = E;
+)
+Acerca das variáveis de controle X, Y e z, é correto afirmar que
+A a variável X corresponde à ação de controle integral; a variável Y, à ação proporcional; e a variável Z, à ação
+derivativa.
+B a variável X corresponde à ação de controle proporcional; a variável Y, à ação integral; e a variável Z, à ação
+derivativa.
+C a variável X corresponde à ação de controle derivativa; a variável Y, à ação proporcional; e a variável Z, à ação
+integral.
+D a variável X corresponde à ação de controle integral; a variável Y, à ação derivativa; e a variável Z, à ação
+proporcional.
+E a variável X corresponde à ação de controle derivativa; a variável Y, à ação de integral; e a variável Z, à ação
+proporcional.
+
+Considerando-se a taxa de variação desse
+termistor, cuja temperatura de sensibilidade é
+de 60 ºC, acoplado no interior de uma autoclave
+cuja temperatura é de 120 ºC, qual será o valor
+da resistência elétrica (R,), para que a Ponte de
+Wheatstone atinja o equilíbrio (R, = 100 kO e
+R3 = 50 kO)?
+O 100 kO
+O 300 k?Q
+O 400 k?Q
+O 500 kQ
+O 600 k?Q
+
+QUESTÃO 19
+A Ponte de Wheatstone, ilustrada na figura a seguir,
+é um circuito elétrico utilizado para determinação
+de uma resistência elétrica de valor desconhecido.
+Essa resistência é obtida no momento em que essa
+ponte se encontra em equilíbrio (V = O), ou seja,
+R,R3=R,Ro.
+O PTC (positive temperature coefficient), ou seja,
+o termistor, é um componente cuja resistência
+elétrica varia em relação direta com a temperatura.
+O gráfico a seguir, em escala logarítmica, apresenta
+a taxa de variação de resistência elétrica em função
+da temperatura para o termistor PTC TDK D105,
+modelo TPT1058-Z.
+
+QUESTÃO 20
+O gestor de uma pequena indústria alimentícia pretende automatizar o sistema de distribuição de água,
+apresentado na figura, para aumentar a margem de lucro estimado em R$ 2.000,00 por mês.
+Legenda:
+* m:botãode comando;
+*º h1,b,eh, b,: sensores de nível;
+* V,eV,: válvulas do tipo abre/fecha;
+*º W,eW,: válvulas com controle proporcional.
+A tabela a seguir apresenta quatro orçamentos para implantação do sistema.
+
+Com base nas informações técnicas e financeiras apresentadas na tabela e considerando que todo o lucro
+obtido mensalmente devido à implantação do sistema automatizado será utilizado para pagá-lo em um
+prazo de 12 meses, avalie as afirmações a seguir.
+|. A proposta da Empresa A atende aos critérios técnicos e financeiros para implantação do sistema.
+Il. A proposta da Empresa B atende aos critérios técnicos, mas não aos financeiros para implantação
+do sistema.
+Ill. A proposta da Empresa C atende aos critérios técnicos e financeiros para implantação do sistema.
+IV. A proposta da Empresa D não atende aos critérios técnicos e financeiros para implantação do
+sistema.
+É correto o que se afirma em
+A I, apenas.
+B IV, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E III e IV, apenas.
+
+QUESTÃO 21
+Para o controle da variável de um processo de primeira ordem, foi desenvolvido um sistema em malha
+fechada, utilizando-se controle proporcional, integral e derivativo (PID). O diagrama de blocos da figura a
+seguir representa o sistema implementado.
+Após um ajuste do sistema e testes preliminares, obteve-se a resposta representada no gráfico a seguir.
+A referência foi fixada na amplitude 5, no entanto, a variável do processo estabilizou-se abaixo desta
+referência, caracterizando erro em regime permanente.
+Com base no gráfico apresentado, assinale a opção em que são apresentados, respectivamente, o ajuste
+de sintonia que elimina o erro estacionário e a consequente resposta do sistema.
+A Aumento do ganho integral (Ki), tornando a resposta mais lenta.
+B Aumento do ganho integral (Ki), tornando a resposta mais rápida.
+C Aumento do ganho proporcional (Kp), tornando a resposta mais lenta.
+D Aumento do ganho proporcional (Kp), tornando a resposta mais rápida.
+E Aumento do ganho derivativo (Kd), tornando a resposta mais lenta.
+
+QUESTÃO 22
+Os controladores lógicos programáveis (CLP) são utilizados na indústria para controle e automação de
+processos industriais. Um sistema de controle típico pode ser visto na figura a seguir, em que o CLP é
+indicado com algumas de suas partes principais: o processador e os conversores analógico-digital (A/D) e
+digital-analógico (D/A).
+Para execução da tarefa de implementação do controle do tipo proporcional integral (PI) nesse CLP,
+foi apresentada a função de transferência discreta do controlador já sintonizado, expressa pela
+equação a seguir.
+Com base na função de transferência, qual equação deve ser implementada no CLP?
+A ulk]=uk—-1]+3elk]—2,5e[k — 1]
+B uk] = Tuk=1+ 2d - 22h 1)
+C uk] = 3ulk — 1) + 2, 5e[k] — elk — 1]
+D uk] = uk + 1) + 3e[k] — 2,5€[k +1)
+E uk] = 3ulk + 1) + 2, 5e[k] — ek +1)
+
+
+QUESTÃO 23
+Uma indústria da área de alimentos necessita substituir uma etapa do seu sistema de controle, atualmente
+realizado por meio de um termostato, dispositivo pouco preciso no controle da temperatura. Assim, um
+engenheiro foi contratado para desenvolver o projeto de um circuito para controle de temperatura do
+tipo "liga-desliga" (ON/OFF) que atenda às seguintes especificações básicas:
+* potência da resistência para o aquecimento: 600 W;
+* temperatura desejada: 40 ºC;
+* utilizaçãode dois sensores em pontos de leitura distintos.
+A figura a seguir apresenta o circuito de controle a ser desenvolvido pelo engenheiro, em que Vi... 0971 É
+a leitura de tensão do sensorl1 e Vi,.,.6r2 É a leitura de tensão do sensor2.
+
+No gráfico a seguir está representada a curva característica do sensor de temperatura do projeto.
+Nesse contexto, para o desligamento do circuito de potência quando a temperatura alcançar 40 ºC,
+os valores dos resistores Rr e Ry, respectivamente, são
+A Rr=4k0 e Ry =3 kO.
+B Rr=3k0 e Ry =4 kO.
+C Rr=3k0 e Ry=3kO0.
+D Rr=6kN0 e Ry=8k0.
+E Rr=8k0 e Ry=3kO0.
+
+QUESTÃO 24
+A figura a seguir ilustra a versão simplificada de quimiostato, um tipo de biorreator utilizado em processos
+de fabricação de produtos alimentícios e farmacêuticos, em que uma cultura de bactérias é continuamente
+alimentada para gerar um produto fermentado na saída.
+De forma simplificada, o funcionamento do sistema consiste em manter constantes o volume V de cultura e
+as vazões de entrada e saída, que devem ser iguais a J,, regulando a concentração C/, de bactérias por meio
+da manipulação da concentração C/de alimento na entrada. O modelo desse processo pode ser aproximado
+por duas equações. A primeira descreve o crescimento da cultura de bactérias no interior do tanque:
+de
+B 1.
+Vs (Jo +k)Og + VIC,
+em que C, é a concentração de alimento no interior do tanque, k, e k, são constantes características de
+cada tipo de bactéria. A segunda equação descreve o consumo do alimento no interior do tanque, dada por:
+1,
+dt
+em que k, também é uma constante característica do tipo de bactéria em cultura. Manipulando-se essas
+expressões, obtém-se a função de transferência em malha aberta, apresentada a seguir.
+Considere que a concentração de bactérias em regime permanente não pode ser inferior a 90%
+de um valor de referência Cr e que este sistema é controlado em malha fechada pela lei de
+controle O(S) = Kp(Cr(S) - Crp(S)).
+Qual o valor mínimo de K, que satisfaz a condição de operação pretendida?
+
+QUESTÃO 25
+A figura a seguir é o diagrama esquemático de um sistema de suspensão semiativa, em que um atuador
+exerce uma força regulável, com o intuito de ajustar o amortecimento equivalente do sistema global.
+Sabendo-se que a parte passiva do sistema corresponde a uma dinâmica de 2º ordem subamortecida, o
+diagrama do lugar geométrico das raízes que melhor representa o comportamento global do sistema em
+função de K,, é
+
+QUESTÃO 26
+A utilização dos motores elétricos de pequeno porte, tais como o motor de passo, o motor C.C. e o
+servomotor C.C., vem crescendo continuadamente nas áreas de eletrônica embarcada, robótica,
+entretenimento, sistemas de segurança, sistemas de automação, entre outras.
+Para cada um desses motores, os acionamentos devem ser distintos, pois seus princípios construtivos e
+de funcionamento são diferentes. Consequentemente, os drivers para controlar velocidade, posição e
+corrente devem seguir as próprias características.
+Considerando esse contexto, avalie as afirmações a seguir, acerca da descrição do sistema de controle
+genérico dos referidos motores e de sua respectiva representação.
+|. Para acionar o motor de passo de 4 bobinas (Figura 1), na configuração de passo inteiro, a
+sequência de pulsos deve ser realizada conforme indicado na Figura 1, para rotacionar sempre no
+mesmo sentido.
+t (ms)
+Il. Para acionar o servomotor C.C. (Figura 2), a sequência de pulsos deve ser simétrica, ou seja, a
+duração de tempo de um pulso na posição ON deve ser igual à duração de tempo de um pulso na
+posição OFF.
+
+Para acionar ou controlar o motor C.C. (Figura 3), uma das técnicas é adotar sequência de pulsos na
+configuração PW.M., em que se pode controlar de 0% até 100% da energia fornecida pela fonte.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 27
+Uma esteira de transporte de peças é dotada de três sensores, um indutivo (SA), um capacitivo (SB) e um
+fotoelétrico (SC), responsáveis por identificar o material que compõe as peças transportadas. As peças que
+passam pela esteira podem ser Plásticas Transparentes (PT), Plásticas Opacas (PO) ou Metálicas Opacas
+(MO). Os sinais dos sensores são enviados a um Controlador Lógico Programável (CLP) que tem a função
+de monitorar os sensores a fim de identificar as peças e exibir o resultado em um sistema supervisório.
+A esteira conta também com três barreiras capacitivas, B1, B2 e B3, cuja funcionalidade é identificar a
+posição das peças ao longo da esteira. As peças são colocadas e retiradas da esteira, uma a uma, por um
+manipulador robótico. A figura a seguir representa este processo.
+
+Considerando as informações a respeito do processo e o diagrama Ladder desenvolvido, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. Alógica implementada em Ladder não é capaz de identificar corretamente os três tipos de peça.
+PORQUE
+Il. A forma como os sensores estão dispostos na esteira impossibilita a identificação da peça
+Plástica Transparente.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.
+
+QUESTÃO 28
+Na produção de peças plásticas, uma empresa dispõe de um equipamento eletropneumático comandado
+por um controlador lógico programável para fazer a operação de furação e rosqueamento. O avanço
+dos cabeçotes de furação e rosqueamento é pneumático com regulagem hidráulica de velocidade para
+garantir a precisão do movimento. Assim, a sequência de operação é a seguinte:
+posicionamento da peça (manual);
+acionamento do bimanual pelo operador (contínuo durante toda a operação);
+fixação da peça;
+furação;
+deslocamento até a posição de rosqueamento;
+rosqueamento;
+deslocamento até a posição de furação (inicial de movimento);
+desacionamento do bimanual pelo operador;
+liberação da peça (máquina pronta para início de um novo ciclo).
+Considere que, se o operador deixar de acionar o bimanual durante a operação, o dispositivo deve
+suspender a operação e retornar ao estado inicial. Os atuadores e sensores empregados e o seu estado
+inicial estão relacionados no quadro a seguir.
+
+A figura apresenta o programa parcial do controlador lógico programável em linguagem SCF
+(Sequential Flow Chart).
+Nesse caso, os valores da receptividade da transição com os números 1, 2 e 3 indicados na figura,
+respectivamente, são
+A BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1 e BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1
+B BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1,BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1 e BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1
+C BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1 e BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1
+D BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR GF = 1 e BI ⋅ SP ⋅ DA ⋅ FR ⋅ RA ⋅ GF = 1
+E BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1,BI ⋅ SP ⋅ DA ⋅ FR ⋅ RR ⋅ GF = 1 e BI ⋅ SP ⋅ DR ⋅ FR ⋅ RR ⋅ GF = 1
+
+QUESTÃO 29
+O emprego de circuitos elétricos passivos RLC como filtros possui diversas aplicações técnicas na
+Engenharia. Exemplos dessas aplicações podem ser encontrados tanto em circuitos para correção do
+fator de potência em plantas industriais como em filtros de linha para equipamentos domésticos.
+O diagrama esquemático apresentado na figura a seguir representa o projeto de um filtro passivo RLC.
+Considerando a característica estrutural desse circuito elétrico, assinale a opção cujo gráfico representa a
+resposta em frequência correta quando esse filtro está sujeito a uma entrada de 1 V.
+
+QUESTÃO 30
+Na indústria, diversos são os processos que têm
+seu comportamento descrito por um sistema
+de segunda ordem. Um determinado processo
+industrial monovariável é descrito pela equação
+diferencial de segunda ordem mostrada a seguir.
+Ú() + 398) + 29(8) = Gu(t)
+Definindo-se a saída do processo como u(t) e à
+entrada como u(t), o modelo no espaço de estados
+do sistema descrito, na forma canônica diagonal,
+será dado por
+
+QUESTÃO 31
+Considere que o diagrama de instrumentação
+mostrado na figura a seguir represente parte de um
+processo de controle de vazão de um fluido.
+Acerca dessa representação, é correto afirmar que
+O o instrumento FT102 poderia ser denominado
+PT102 sem prejuízo da sua representação
+funcional.
+O as identificações FC e FR teriam de estar na
+mesma malha de controle, dado tratar-se de
+um mesmo instrumento.
+O o instrumento FT102, por estar montado no
+painel principal de controle, não poderia estar
+ligado a um instrumento montado no campo.
+O a conexão do instrumento FC102 à válvula com
+atuador pneumático está representada por uma
+conexão elétrica.
+O a medição de vazão é feita por meio de um
+elemento primário que introduz uma queda de
+pressão, aliado a uma unidade eletrônica de
+transmissão de pressão diferencial.
+
+QUESTÃO 32
+Sistemas integrados de manufatura fazem uso de regras para definir o sequenciamento das operações
+desse setor. Uma das regras mais usadas baseia-se no tempo de folga, que é a diferença entre o tempo
+restante para a produção e o tempo de processamento restante. A prioridade é atribuída aos produtos
+com o menor tempo de folga, de acordo com a seguinte equação:
+tempo de folga = data de entrega — data de hoje — tempo de processamento restante
+A tabela a seguir apresenta os dados usados para o cálculo de prioridade de agendamentos de manufatura
+de uma suposta empresa. As datas são expressas como o número de dias desde o primeiro dia do ano, os
+tempos são expressos em dias e o dia de hoje corresponde a 60 (1º/Mar/2019).
+Considerando o uso da regra baseada no tempo de folga, a opção que apresenta o dia em que será
+finalizada a manufatura do produto P4 é
+A 6/Mar/2019.
+B 13/Mar/2019.
+C 18/Mar/2019.
+D 22/Mar/2019.
+E 27/Mar/2019.
+
+QUESTÃO 33
+O deslocamento do ar comprimido é utilizado em diversos processos em engenharia, pois a pneumática
+oferece agilidade, redução do esforço dos operadores, aumento na capacidade de produção,
+repetibilidade, entre outras vantagens. Assim, em muitos casos, a pneumática é a melhor opção para
+deslocar, levantar, pressionar, direcionar ou estocar produtos. O funcionamento de sistemas pneumáticos
+pode ser representado por meio de circuitos pneumáticos e eletropneumáticos, utilizando-se simbologias
+padronizadas.
+A figura a seguir representa a sequência de um circuito eletropneumático para a movimentação de três
+pistões: A, Be C.
+Disponível em: <https://www.parker.com/literature/Brazil/Automation/Training/1003 5 BR.pdf>. Acesso em: 19 ago. 2019 (adaptado).
+Para o circuito representado, qual é a sequência correta de movimentação dos cilindros A, B e C?
+a A+C+B+(B-C-)A-
+b A-C+B+(B+C-)A-
+c A+C-B+(B-C+)A-
+d A+C+B-(B-C-)A-
+e A+C+B+(B-C-)A+
+
+QUESTÃO 34
+Uma empresa que fabrica peças para decoração criou um sistema inteligente utilizando uma plataforma
+com sensores lógicos que usa o algoritmo de busca em árvore binária para identificar automaticamente
+as peças que ela produz. As peças podem ser de metal ou madeira, e possuem algumas características
+próprias. O algoritmo a seguir descreve como é feita a implementação de busca em árvore binária para o
+sistema de identificação.
+boolean tipo; // tipo da peça.
+boolean objeto; // presença do objeto na plataforma.
+boolean superficie; // tipo de superfície da peça de metal.
+boolean tamanho; // tamanho da peça de metal.
+boolean tonalidade; // tonalidade da peça de madeira.
+boolean forma; // forma da peça de madeira.
+int main(void){
+while (1){
+if(objeto==1) {
+printf(“Há peça na plataforma”);
+if(tipo==1){
+printf(“A peça é metálica”);
+if(superficie == 1){
+printf(“A peça é lisa”);
+}
+if(superficie == 0){
+printf(“A peça é escovada”);
+if(tamanho == 1){
+printf(“A peça é grande”);
+}
+if(tamanho == 0){
+printf(“A peça é pequena”);
+}
+}
+}
+if(tipo==0){
+if(tonalidade == 1){
+printf(“A peça é escura”);
+}
+if(tonalidade == 0){
+printf(“A peça é clara”);
+if(forma == 1){
+print(“A peça é cilíndrica”);
+}
+if(forma == 0){
+printf(“A peça é esférica”);
+}
+}
+}
+}
+else{
+printf(“Não há peça na plataforma”);
+}
+}
+return 0;
+}
+
+Com base no algoritmo apresentado, assinale a opção que representa corretamente o diagrama de busca
+binária implementado.
+
+QUESTÃO 35
+Considere o sistema de controle para um Reator Tanque-Agitado Contínuo (RTAC), representado pelo
+Fluxograma de Instrumentação e Processo (Figura 1) e pela Arquitetura do Sistema de Controle e
+Automação do RTAC (Figura 2).
+A respeito do sistema de controle apresentado, avalie as afirmações a seguir.
+|. Os algoritmos das três malhas de controle, representadas no Fluxograma de Instrumentação e
+Processo do RTAC, são executados nos microcontroladores de suas respectivas válvulas de controle
+inteligentes, enquanto o controle lógico e sequencial do motor do agitador M1 e da bomba B1 são
+executados no CLP.
+Il. A rede Fieldbus (H1) interliga medidores e atuadores inteligentes, transmitindo os dados no formato
+digital com protocolo FF (Foundation Fieldbus), e conecta-os ao barramento HSE, integrando-os
+ao CLP, responsável por executar os algoritmos das três malhas de controle e o controle lógico e
+sequencial do motor do agitador M1 e da bomba B1.
+Ill. A conexão entre os barramentos H1 e HSE possibilita a integração dos dados provenientes da
+rede de instrumentos H1 e do CLP ao sistema SCADA, para permitir a operação e a supervisão das
+variáveis e malhas de controle do RTAC em tempo real, via interfaces amigáveis.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.
+

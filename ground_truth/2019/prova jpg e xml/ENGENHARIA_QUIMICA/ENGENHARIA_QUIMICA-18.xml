@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T03:08:34</Created>
+	<LastChange>2020-09-15T03:09:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-18.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="344,576 344,1044 1263,1044 1263,576"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,179 256,179 256,249 1140,249 1140,250 1491,250 1491,437 1492,437 1492,551 1490,551 1490,1283 1491,1283 1491,1541 575,1541 575,1601 235,1601 235,1848 234,1848 234,1849 85,1849 85,1848 84,1848 84,1847 85,1847 85,1217 84,1217 84,406 83,406 83,405 84,405"/>
+	<TextEquiv conf="0.96604">
+	<Unicode>QUESTÃO 10
+Ligas de estanho (Sn) e chumbo (Pb) são largamente utilizadas na indústria brasileira na área de soldagem
+devido ao seu baixo ponto de fusão em comparação com outras ligas metálicas. Dependendo da
+temperatura e da proporção dos dois elementos, esse tipo de liga pode formar uma microestrutura com
+uma única fase (solução sólida) ou com mais de uma fase em equilíbrio.
+O diagrama a seguir apresenta as fases para esse tipo de liga. Embora o processo industrial de fusão e
+solidificação não ocorra em uma condição de equilíbrio termodinâmico, o diagrama pode ser utilizado por
+engenheiros para prever a microestrutura final do material.
+SHACKELFORD, J. F. Introdução à ciência dos materiais para engenheiros. São Paulo: Pearson Education do Brasil, 2008 (adaptado).
+Com base nas informações e no diagrama de fases Pb-Sn, avalie as afirmações a seguir.
+|. Uma liga contendo 40% em massa de estanho em equilíbrio a 200 ºC apresentará uma fase sólida
+a-Pb e uma fase líquida.
+Il. Uma liga contendo 20% em massa de estanho em equilíbrio a 200 ºC apresentará uma grande
+quantidade de fase líquida e uma pequena quantidade de fase sólida.
+Ill. Uma liga contendo 20% em massa de estanho estará totalmente fundida em uma temperatura
+menor que uma liga com 90% em massa de estanho.
+IV. Uma liga contendo 30% em massa de estanho em equilíbrio a 100 ºC apresentará duas fases sólidas
+com composições químicas diferentes.
+É correto apenas o que se afirma em
+A I e IV.
+B II e III.
+C III e IV.
+D I, II e III.
+E I, II e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

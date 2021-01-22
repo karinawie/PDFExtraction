@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T01:37:45</Created>
+	<LastChange>2020-11-30T01:50:55</LastChange></Metadata>
+	<Page imageFilename="38_QUIMICA_BACHAREL_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="890,244 1062,244 1062,313 1576,313 1576,897 1575,897 1575,1016 1576,1016 1576,1430 1381,1430 1381,1488 1055,1488 1055,1748 891,1748 891,1520 892,1520 892,1454 939,1454 939,898 890,898"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>QUESTÃO 14
+A urina tem dois compostos, amônia e ureia, que
+podem ser usados como fonte de hidrogênio.
+Ao se colocar um eletrodo no líquido e aplicar-se
+uma corrente elétrica de baixa intensidade, o
+gás hidrogênio produzido pode ser usado para
+alimentar uma célula a combustível. A tecnologia
+proposta utiliza um sistema que opera de forma
+muito parecida com a eletrólise da água, com a
+vantagem de a energia necessária para romper a
+ligação N-H ser menor que aquela necessária para
+romper a ligação O-H.
+Disponível em: &lt;http://www.bbc.com&gt;. Acesso em: 12 jul. 2017 (adaptado).
+A respeito dos processos eletroquímicos descritos
+no texto, avalie as afirmações a seguir.
+|. A eletrólise é um processo termodinamicamente
+desfavorável.
+Il. A eletrólise envolve conversão de energia
+química em energia elétrica por meio de
+reações eletroquímicas.
+Ill. As semirreações com maior potencial-padrão
+de redução ocorrem preferencialmente nos
+processos eletrolíticos.
+IV. O processo de produção de gás hidrogênio
+a partir da urina é menos vantajoso
+energeticamente em comparação ao
+processo que utiliza água.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+O leiv
+O L11el.
+O IME.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 854,312 854,837 856,837 856,948 854,948 854,1103 856,1103 856,1215 854,1215 854,1430 660,1430 660,1487 319,1487 319,1751 170,1751 170,1455 218,1455 218,808 170,808 170,697 169,697 169,667 168,667 168,312 169,312"/>
+	<TextEquiv conf="0.87442">
+	<Unicode>QUESTÃO 13
+A partir do estudo com espectroscopia UV-Visível,
+quatro amostras de soluções com diferentes
+concentrações conhecidas de aspirina foram
+analisadas, utilizando-se uma cubeta com caminho
+óptico de 1 cm. A curva analítica com os valores de
+absorbância (eixo y) por concentração de aspirina
+(eixo x) forneceu uma reta com os seguintes
+parâmetros: coeficiente linear = 1,0xX10º e
+coeficiente angular = 7,6x10º mol*-L .
+Considerando que o sistema estudado atende aos
+pressupostos da Lei de Lambert-Beer, avalie as
+afirmações a seguir.
+l. O coeficiente de absortividade molar
+(E), nas condições experimentais descritas,
+é 1,0x10-4 mol-Lem*.
+Il. Amostra de uma solução que contenha
+aspirina com absorbância de 0,2 apresentará
+concentração de 2,6 x 10* mol-Lº.
+Ill. As concentrações de aspirina puderam ser
+determinadas devido à absorção se dar na
+região do visível.
+IV. A variação da absorbância em função da
+concentração do analito tem relação direta
+com o coeficiente de absortividade da
+aspirina e com o comprimento do caminho
+óptico da cubeta.
+É correto apenas o que se afirma em
+Ole.
+O llelv.
+O llelv.
+O 111el.
+O Lev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

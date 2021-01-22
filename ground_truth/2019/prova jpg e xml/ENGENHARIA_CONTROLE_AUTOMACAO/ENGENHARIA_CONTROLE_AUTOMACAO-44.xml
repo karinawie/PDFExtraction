@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:27:19</Created>
+	<LastChange>2020-09-12T18:28:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-44.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,179 255,179 255,240 1491,240 1491,426 1210,426 1210,427 1044,427 1044,557 960,557 960,1062 1011,1062 1011,1173 1026,1173 1026,1248 911,1248 911,1562 1060,1562 1060,1636 1044,1636 1044,1722 876,1722 876,1969 627,1969 627,1970 377,1970 377,1971 265,1971 265,1999 125,1999 125,2000 124,2000 124,1980 125,1980 125,1979 127,1979 127,1869 128,1869 128,1868 486,1868 486,1530 385,1530 385,1444 286,1444 286,1340 285,1340 285,1339 288,1339 288,836 286,836 286,751 86,751 86,612 83,612 83,449 84,449 84,180 85,180"/>
+	<TextEquiv conf="0.53569">
+	<Unicode>QUESTÃO 34
+Uma empresa que fabrica peças para decoração criou um sistema inteligente utilizando uma plataforma
+com sensores lógicos que usa o algoritmo de busca em árvore binária para identificar automaticamente
+as peças que ela produz. As peças podem ser de metal ou madeira, e possuem algumas características
+próprias. O algoritmo a seguir descreve como é feita a implementação de busca em árvore binária para o
+sistema de identificação.
+boolean tipo; // tipo da peça.
+boolean objeto; // presença do objeto na plataforma.
+boolean superficie; // tipo de superfície da peça de metal.
+boolean tamanho; // tamanho da peça de metal.
+boolean tonalidade; // tonalidade da peça de madeira.
+boolean forma; // forma da peça de madeira.
+int main(void){
+while (1){
+if(objeto==1) {
+printf(“Há peça na plataforma”);
+if(tipo==1){
+printf(“A peça é metálica”);
+if(superficie == 1){
+printf(“A peça é lisa”);
+}
+if(superficie == 0){
+printf(“A peça é escovada”);
+if(tamanho == 1){
+printf(“A peça é grande”);
+}
+if(tamanho == 0){
+printf(“A peça é pequena”);
+}
+}
+}
+if(tipo==0){
+if(tonalidade == 1){
+printf(“A peça é escura”);
+}
+if(tonalidade == 0){
+printf(“A peça é clara”);
+if(forma == 1){
+print(“A peça é cilíndrica”);
+}
+if(forma == 0){
+printf(“A peça é esférica”);
+}
+}
+}
+}
+else{
+printf(“Não há peça na plataforma”);
+}
+}
+return 0;
+}</Unicode></TextEquiv></TextRegion></Page></PcGts>

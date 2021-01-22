@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T23:53:32</Created>
+	<LastChange>2020-09-17T23:55:41</LastChange></Metadata>
+	<Page imageFilename="01_ARQ_URB_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,246 872,2112 873,2112 873,246"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="948,441 948,460 1090,460 948,460 948,932 1533,932 1533,441"/></ImageRegion>
+	<TextRegion id="r20" type="caption">
+	<Coords points="1475,953 1475,965 992,965 992,953"/>
+	<TextEquiv conf="0.80871">
+	<Unicode>Projeção Estereográfica dos Percursos Aparentes do Sol - Latitudes-16,5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,310 854,310 854,1806 660,1806 660,1863 326,1863 326,2106 169,2106 169,1892 170,1892 170,1829 218,1829 218,1194 168,1194 168,1095 223,1095 223,981 168,981 168,310 169,310"/>
+	<TextEquiv conf="0.96267">
+	<Unicode>QUESTÃO 15
+As cidades, de maneira geral, constituem o cenário
+das contradições econômicas, sociais e políticas.
+Seu sistema viário é um espaço em constante
+disputa entre distintos atores, tais como pedestres,
+usuários e condutores de bicicletas, automóveis,
+caminhões, ônibus e motos. Os principais
+problemas relacionados à mobilidade urbana são:
+congestionamentos; conflitos entre diferentes
+modos de transportes; redução na segurança para
+pedestres e ciclistas; eliminação de parte de áreas
+verdes com vistas à ampliação de espaços para
+circulação e estacionamentos de veículos; aumento
+do número de acidentes de trânsito e dos níveis
+de poluição sonora e do ar. Tais impactos afetam,
+de alguma forma, a sustentabilidade urbana, a
+mobilidade, a acessibilidade e o conforto espacial
+e ambiental, comprometendo a qualidade de vida
+da população.
+Disponível em: &lt;http://www.inclusao.coppetec.coppe.ufrj.br&gt;.
+Acesso em: 2 jul. 2017 (adaptado).
+Tendo o texto acima como referência, avalie as
+afirmações a seguir, em relação a mobilidade,
+acessibilidade e sustentabilidade.
+|. Acessibilidade é entendida como a
+equiparação das oportunidades de acesso
+ao que a vida oferece: estudo, trabalho,
+lazer, bem-estar social e econômico e demais
+direitos universais.
+Il. Mobilidade urbana é compreendida como
+a facilidade de deslocamentos de pessoas e
+bens dentro de um espaço urbano.
+Ill. Os espaços públicos devem garantir conforto
+ambiental para a circulação e permanência
+de pedestres.
+IV. Sob a ótica da sustentabilidade urbana, as
+cidades devem ser compactas, densas e
+multifuncionais, de modo a promover a
+expansão urbana.
+É correto apenas o que se afirma em
+A I eIV
+B II e III.
+C II e IV.
+D I, II e III.
+E I, III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,309 1576,309 1576,1089 1575,1089 1575,1205 1577,1205 1577,1502 1576,1502 1576,1670 1577,1670 1577,1810 1381,1810 1381,1869 1055,1869 1055,2109 891,2109 891,1897 892,1897 892,1835 939,1835 939,1181 891,1181 891,1115 954,1115 954,375 890,375"/>
+	<TextEquiv conf="0.96279">
+	<Unicode>QUESTÃO 16
+A figura a seguir corresponde à carta solar de
+Goiânia, situada na latitude 16,5 graus sul.
+Disponível em: &lt;http://www.imagensdosol.blogspot.com.br&gt;.
+Acesso em: 15 jul. 2017.
+Considerando uma edificação situada nessa
+latitude, avalie as afirmações a seguir.
+I. Em fachadas voltadas para o norte, os brises
+horizontais são mais eficientes em face da
+incidência solar no início da manhã e ao final
+da tarde, enquanto os brises verticais são
+mais eficientes em face da incidência solar
+próxima ao meio-dia.
+Il. No solstício de verão, as fachadas voltadas
+para o norte recebem insolação direta.
+Ill. Uma fachada voltada para o norte recebe,
+ao longo do ano, mais horas de exposição
+solar que as fachadas voltadas para o sul,
+leste e oeste.
+IV. É mais fácil garantir a proteção solar
+com brises, sem prejuízo da visibilidade
+horizontal, nas fachadas norte que nas leste
+ou oeste.
+É correto apenas o que se afirma em
+A I e II
+B I e IV
+C III e IV.
+D I, II e III.
+E II, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

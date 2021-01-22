@@ -1,0 +1,695 @@
+QUESTÃO DISCURSIVA 03
+Um dos componentes mais usados na reprodução sonora é o alto-falante. A conexão de alto-falantes em
+circuitos amplificadores deve ser realizada de forma adequada para se obter o melhor aproveitamento da
+potência do amplificador, bem como evitar sobrecarga.
+Suponha um amplificador de som que tenha como característica nominal por canal de saída uma
+impedância interna de 8 O e uma potência de saída de 200 W. Deseja-se conectar alto-falantes a uma
+saída desse amplificador, estando disponíveis, para tanto, alto-falantes de impedância de 4 O, de 5Q
+ede6O.
+Utilizando-se da menor quantidade possível de alto-falantes e objetivando a máxima transferência de
+potência do amplificador, faça o que se pede nos itens a seguir.
+a) Determine a quantidade de alto-falantes e represente o circuito de conexão entre ele(s) e o amplificador.
+Justifique sua resposta. (valor: 6,0 pontos)
+b) Determine a mínima capacidade de potência de cada alto-falante para operação sem sobrecarga.
+Justifique sua resposta. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Durante uma transmissão digital de dados é possível a ocorrência de erros. Estes erros fazem com que
+o receptor receba uma informação diferente da que foi enviada. Existem diferentes métodos para a
+detecção de erros, como o método de paridade e o método de redundância cíclica. O método de paridade
+é bastante restrito, principalmente no que diz respeito à necessidade de detecção de erros múltiplos.
+Já o método de redundância cíclica possui a capacidade de detectar erros múltiplos. Circuitos divisores
+simples usando registradores de deslocamento podem ser utilizados no método de redundância cíclica.
+A partir dessas informações, faça o que se pede nos itens a seguir.
+a) Ocircuito a seguir foi concebido para atuar como gerador de paridade par 4-bits (quando o número de
+bits iguais a 1 na entrada for ímpar, produzirá a saída igual a 1), mas não funcionou adequadamente.
+Identifique a falha desse circuito, reprojete e desenhe um circuito correto, utilizando-se apenas três
+portas lógicas. (valor: 5,0 pontos)
+b) Projete um registrador de deslocamento de 3 bits usando Flip-Flops do tipo D com entrada serial e
+saída paralela, e descreva a sua utilização como um circuito divisor por 2. (valor: 5,0 pontos)
+
+QUESTÃO DISCURSIVA 05
+Para obtenção dos dados de temperatura em uma instalação agrícola foi utilizado um circuito eletrônico
+de condicionamento de sinal como o ilustrado na figura 1 (considere amplificadores operacionais ideais).
+O sensor utilizado possui resistência de 10 kO a 25 ºC e coeficiente de temperatura negativo (NTC).
+A figura 2 mostra a curva temperatura versus resistência do termistor utilizado, sendo que 0 ºc=273K.
+
+Com base nas informações e nos dados apresentados, faça o que se pede nos itens a seguir.
+a) Considerando o gráfico da figura 2, explicite o valor aproximado da resistência do sensor quando este
+estiver submetido à temperatura de 37 ºC. (valor: 2,0 pontos)
+b) Assumindo temperatura ambiente de 25 ºC, determine a tensão que será produzida no termistor (V1).
+Justifique. (valor: 3,0 pontos)
+c) Determine a expressão da tensão de saída (V. ) em função das tensões V1 e V2. (valor: 5,0 pontos)
+saída
+
+QUESTÃO 09
+A perda de água tratada nas tubulações urbanas é um problema recorrente nas companhias de saneamento
+do país. Como as tubulações são subterrâneas, quando há um vazamento a companhia pode demorar
+para percebê-lo, e um grande volume de água tratada pode ser perdido.
+Para tentar minimizar esse desperdício, um novo método de identificação desse problema começa a
+ser testado. Este método parte do princípio de que, quando há um vazamento em uma tubulação, ela
+apresenta comportamento vibratório diferente do normal. Nesse caso, um sistema composto de três
+sensores que mensuram a vibração em pontos diferentes da tubulação é ligado a um circuito somador-
+amplificador, composto por um amplificador operacional, conforme montagem mostrada a seguir.
+Devido ao fato dos sensores estarem posicionados em distâncias diferentes entre si, os resistores
+Rá Rp e Re são dimensionados de modo que cada sensor produza um nível máximo e idêntico de
+corrente na entrada negativa do amplificador operacional. Para o teste experimental, foram usados
+R,=5k0, Rfç=10k0R e Ry = 12,5 kO. O resistor R foi dimensionado como 250 k0.
+Considerando que o amplificador operacional seja ideal, entre as alternativas apresentadas, que valores
+de tensões V,, Vpe Vo, respectivamente, levam o amplificador para a condição de saturação?
+A - 0,20 V,- 0,40 Ve-0,50 V.
+B -0,10V,-0,20 Ve+0,50 V.
+C +0,10V+0,20Ve+0,25V.
+D +0,15V+0,15Ve+0,15V.
+E +0,20V, + 0,40 Ve+0,50 V.
+
+QUESTÃO 10
+Deseja-se que um equipamento opere em condições ótimas de funcionamento. Para tanto, modelou-se
+seu rendimento em função de sua vibração. O rendimento foi máximo quando não houve vibração
+e decaiu à medida que o equipamento vibrava. A equação a seguir é a função de transferência do
+sistema que modelou o rendimento desse equipamento.
+Um esboço da magnitude ao quadrado da resposta em frequência, | H(o) P , É mostrado a seguir.
+Com base nas informações apresentadas, constatou-se que o rendimento era máximo quando não havia
+vibração, isto é, o =0.
+Conclui-se que os valores corretos para À e B são, respectivamente,
+A 1 e 0,5.
+B 1 e 0,25.
+C 1 e 1/2.
+D 2 e 1.
+E 4 e 1.
+
+QUESTÃO 11
+Em uma indústria produtora de celulose, estão instalados dois Motores de Indução Trifásicos (MIT) de 4 polos,
+440 V e 60 Hz, que operam simultaneamente em processos análogos de transferência de fluidos, cujos dados
+estão apresentados no quadro a seguir. Ambos os motores acionam cargas idênticas, que requerem 75 cv de
+potência mecânica no eixo de cada motor.
+A partir das informações do quadro e considerando o consumo de energia elétrica dos motores 1 e 2,
+avalie as afirmações a seguir.
+I. O motor 1 é mais eficiente porque apresenta um rendimento de 4 pontos percentuais superior ao
+do motor 2.
+II. Como a corrente nominal requerida pelo motor 2 é menor do que a corrente nominal requerida
+pelo motor 1, então, as perdas de energia no motor 1 serão maiores.
+III. O consumo de energia elétrica do motor 2 é 4,3% maior do que o consumo de energia elétrica do
+motor 1.
+É correto o que se afirma em:
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 12
+Sabendo que novas tecnologias são predominantemente realizadas no domínio digital (ou discreto) em
+oposição ao tradicional domínio analógico (ou contínuo), considere que, no teste de seu algoritmo, um
+pesquisador precisa gerar um sinal no domínio discreto que tenha o espectro de frequências ilustrado na
+figura a seguir, onde a amplitude À pode assumir qualquer valor constante maior do que zero.
+Considere ainda que, para testar seu algoritmo, esse pesquisador gerará o sinal discreto, x/n/, com
+N amostras, e que consiste na soma de duas senoides de amplitude 1 e frequências 50 Hz e 100 Hz,
+adotando a frequência de amostragem de 500 Hz.
+A expressão para obter z/n/é da forma
+xn] = sen) 2x 5, + sen| 27x 5,
+kh Í
+com n = 0,1,2,...,N — 1.
+Com base nesses dados e informações, assinale a opção que apresenta os valores das frequências, em Hz,
+que reproduzem corretamente o sinal desejado x/n/.
+A f1=50; /,=100; f,=100; f,=50.
+B f =50; /,=100; f,=500; f,=500.
+C f =100; f,=50; f,=500; f,=500.
+D f =100; f7=500; f,=50; f,=500.
+E /,=500; f,=100; f;=500; f,=50.
+
+
+QUESTÃO 13
+As emissoras de TV brasileiras passaram por um processo de transição do sinal analógico para o digital. Os
+dados digitais podem ser processados e transmitidos com muito mais eficiência e confiança se comparados
+com a transmissão de dados analógicos.
+A figura a seguir apresenta um diagrama de blocos simplificado do processo de conversão do sinal
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+I. O filtro anti-aliasing foi utilizado no diagrama para retirar as baixas frequências indesejadas, de
+modo que não interfiram no sinal digitalizado.
+II. O circuito eletrônico mostrado na figura é um Sample & Hold (S/H), que realiza uma amostragem
+periódica do sinal analógico e o mantém estável até que o conversor possa convertê-lo para um
+código digital.
+III. Caso um sinal com componentes de frequência de 750 Hz seja amostrado a uma frequência de 1
+kHz, será obtido um sinal digitalizado e passível de reconstrução.
+IV. Na etapa de amostragem, ocorre a conversão da escala de tempo contínuo para tempo discreto; já
+na etapa de quantização, o eixo de tensão divide-se em valores discretos finitos.
+É correto apenas o que se afirma em
+A I e II.
+B II e IV.
+C III e IV.
+D I, II e III.
+E I, III e IV.
+
+QUESTÃO 14
+As equações diferenciais são utilizadas para modelagem matemática de problemas em diversas áreas. Na
+Engenharia Elétrica, especificamente na área de Sistemas Elétricos de Potência, são empregados vários
+métodos numéricos para a solução das equações diferenciais, com destaque para os métodos de Runge-
+Kutta, Euler e Euler Melhorado.
+A estrutura algorítmica a seguir emprega o método de Euler para solução de uma equação diferencial.
+Para sua implementação, são utilizadas algumas variáveis, quais sejam: dt, t, tf e x.
+início
+dt = 0,5
+tf = 12
+x(0) = 10,0
+enquanto 0 <= t <= tf
+kl = — 1/4 * x(t) + 1
+Xx(t + dt) = x(t) + kl * dt
+t =t+ dt
+fim enquanto
+fim
+Com base nessas informações, após a execução desse algoritmo, os dois primeiros valores para cada
+uma das variáveis t e x serão, respectivamente,
+A 0,06 0,5; 9,25 e 10,0.
+B 0,06 0,5; 10,0 e 9,25.
+C 0,50 12,0; 0,0 e 0,0.
+D 10,0 e 9,25; 0,5 e 12,0.
+E 12,06 0,5; 0,25 e 12,0.
+
+QUESTÃO 15
+Em aplicações motoras de pequeno porte, o Motor de Corrente Contínua (MCC) é um dos equipamentos
+mais utilizados. O circuito, apresentado na figura a seguir, tem a função de inverter o sentido de rotação
+do MCC, utilizando uma ponte H de transistores. A inversão do sentido do motor é realizada pela chave S.
+Na situação apresentada na figura, com a chave S em GND (referência), quais transistores estarão
+em saturação?
+A T2eT3.
+B T2eTA4.
+C T1eT2.
+D T1eT3.
+E T1eTA4.
+
+QUESTÃO 16
+Um processo a ser controlado em uma planta industrial pode ser modelado pela seguinte função de
+transferência em malha aberta:
+15
+Considere que o sistema de controle em malha fechada seja resultante da aplicação de uma realimentação
+unitária negativa a essa planta e que esse sistema seja submetido a uma excitação de entrada na forma
+de um degrau unitário.
+Com base nessa situação, avalie as afirmações a seguir.
+I. O sistema em malha fechada possui um pólo em s = – 2.
+II. A saída do sistema apresenta erro estacionário em regime permanente nulo.
+III. O sistema em malha fechada é estável.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 17
+O termo SWOT é um acrônimo das palavras
+strengths, weaknesses, opportunities e threats,
+que significam, respectivamente: forças, fraquezas,
+oportunidades e ameaças. A análise SWOT é
+uma ferramenta estrutural da administração,
+geralmente aplicada durante o planejamento
+estratégico com a finalidade de avaliar os
+ambientes internos e externos e formular
+estratégias de negócios para empresas.
+Determinada empresa de serviços de engenharia
+está realizando, no planejamento estratégico, a
+análise de seus ambientes de atuação. A variação
+cambial foi identificada como fator que afeta o
+ambiente de negócios da empresa em função
+das compras periódicas de equipamentos e
+componentes importados para composição de
+sistemas fotovoltaicos.
+Nesse contexto, a variação cambial é uma
+A força e uma ameaça.
+B ameaça e uma fraqueza.
+C oportunidade e uma força.
+D oportunidade e uma ameaça.
+E oportunidade e uma fraqueza.
+
+QUESTÃO 18
+No âmbito das comunicações móveis celulares,
+a propagação do sinal no canal sem fio é de
+extrema importância, pois seu desempenho estará
+diretamente associado à qualidade da informação
+entregue ao usuário. Nesse sentido, a análise da
+variação da taxa de erro de bit em função da relação
+sinal-ruído é um item importante para a validação
+de uma tecnologia, por exemplo.
+O gráfico a seguir ilustra a variação da taxa de erro de
+bit em função da relação sinal-ruído, considerando-
+se a modulação BPSK (Binary Phase Shift Keying)
+para dois tipos de canais, a saber: canal AWGN
+(Additive White Gaussian Noise) e o canal Rayleigh.
+Tendo como base o gráfico e considerando o
+desempenho da modulação BPSK nos dois tipos de
+canais, avalie as afirmações a seguir.
+I. O desempenho de uma informação
+transmitida no canal AWGN é melhor que a
+transmitida no canal Rayleigh.
+Il. A transmissão em canais AWGN torna-se
+inviável quando a relação sinal-ruído está
+acima de 10 dB.
+III.Quanto maior a relação sinal-ruído utilizada,
+melhor será o desempenho obtido com a
+transmissão dos dados.
+IV. Independentemente do tipo de canal, taxas
+de erro de bit próximas a 10 são preferíveis
+a taxas de erro próximas a 10º .
+É correto o que se afirma em
+A I e III, apenas.
+B I e IV, apenas.
+C II e III, apenas.
+D II e IV, apenas.
+E I, II, III e IV.
+
+QUESTÃO 19
+O Controlador Lógico Programável (CLP) é um equipamento de controle bastante utilizado no setor
+industrial, sobretudo em sistemas de acionamentos, controle de processos, manipulação de temperatura,
+pressão, vazão, nível, entre outras grandezas. Uma das linguagens mais utilizadas para a programação
+dos CLP é a Ladder, por sua similaridade aos comandos lógicos e circuitos baseados em relés. O Mapa de
+Karnaugh fornece um método para simplificar as expressões booleanas de sistemas combinacionais, por
+meio do qual se obtém sistemas de controle mais simples e baratos.
+A figura a seguir mostra um sistema que utiliza o Mapa de Karnaugh com quatro variáveis de entrada:
+A, B,Ce D, cuja combinação resulta na saída 5.
+Aplicando-se a simplificação por meio do Mapa de Karnaugh, qual representação em diagramas na
+linguagem Ladder se obtém?
+
+QUESTÃO 20
+Os indutores são encontrados em diversos tipos
+de sistemas, como veículos de tração elétrica,
+reguladores de tensão, fontes de computadores,
+etc. Para a correta análise em cada aplicação,
+é importante compreender a relação entre a
+corrente, o fluxo magnético e a tensão induzida
+nestes elementos.
+O comportamento da tensão média induzida nos
+terminais de um indutor de 10 mH, cuja corrente
+apresenta intervalos de variação linear, está
+representado no gráfico a seguir.
+Considerando as informações do gráfico bem como
+os efeitos das Leis de Faraday e de Lenz aplicadas
+às bobinas indutoras, avalie as afirmações a seguir.
+I. No intervalo entre 2 ms e 4 ms, a tensão
+média induzida na bobina é 500 mV.
+II. No intervalo entre 4 ms e 6 ms, a tensão
+média induzida na bobina é 0 mV.
+III. No intervalo entre 6 ms e 8 ms, a tensão
+média induzida na bobina é 250 mV.
+IV. No intervalo entre 10 ms e 14 ms, a tensão
+média induzida na bobina é -250 mV.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.
+
+QUESTÃO 21
+Para a análise técnica de um Sistema Elétrico de
+Potência (SEP), é necessário o desenvolvimento de
+diversos estudos, abordando-se sua operação tanto
+em regime permanente quanto transitório.
+Com relação aos estudos realizados para análise
+técnica de um SEP, avalie as afirmações a seguir.
+I. Os estudos de fluxo de potência ou fluxo
+de carga têm por objetivo a obtenção das
+condições de operação da rede elétrica
+em função da sua topologia, dos níveis de
+demanda dos consumidores e da geração de
+potência.
+II. Os estudos de curto-circuito no SEP têm
+por finalidade determinar as tensões nas
+barras e as correntes em diversos pontos do
+sistema para diferentes tipos de faltas.
+III. Os estudos de estabilidade transitória
+avaliam o impacto de distúrbios no
+comportamento eletromecânico dinâmico
+dos geradores elétricos síncronos do SEP.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 22
+Na instrumentação industrial, os amplificadores operacionais têm ocupado lugar de destaque, sobretudo
+os amplificadores de instrumentação (Al). Esses elementos são bastante úteis para medição de alta
+precisão e, portanto, apresentam bom desempenho para aquisição de sinais de baixa amplitude com
+ruídos, como aqueles oriundos das saídas de sensores. Normalmente um Al é representado por três
+amplificadores operacionais e sete resistores. O ganho de tensão geralmente é programado internamente
+ou são utilizados um resistor externo (Re) e outros resistores (R) de alta precisão de igual valor.
+No diagrama mostrado na figura 1, todos os resistores do projeto de Al são de 25 k0. A entrada do Al é
+conectada à saída de um sensor, cuja resistência é praticamente linear e varia conforme a temperatura.
+Esse sensor é interligado a um circuito em Ponte de Wheatstone, que tem a função de detectar a alteração
+na resistência de saída do sensor e, por conseguinte, na temperatura. Assim, quando a resistência muda,
+a tensão de saída da ponte também modifica. A ponte é ajustada para uma tensão nula (V = O V) para
+uma temperatura de 25 ºC, e nessa situação a resistência do sensor (R ) vale 1 000 O.
+Considerando a utilização desse conjunto e sabendo que Vy = A, (V,- V,), em que A, pode ser calculado
+no Al, avalie as afirmações a seguir.
+I. Considerando-se que a resistência do sensor varie conforme mostrado figura 2, o sinal esperado
+para a saída V0 será o representado na figura 3.
+II. Se a resistência RG do AI for modificada, haverá também uma alteração no ganho da tensão de saída V0 .
+III. A tensão de saída do amplificador de instrumentação é nula quando a diferença de tensão entre
+os pontos 2 e 1 (saída da Ponte de Wheatstone) também é nula.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 23
+A figura 1 ilustra uma situação típica em que um locutor tem sua voz amplificada e emitida por um alto-
+falante. O fenômeno conhecido como microfonia ocorre quando o som do alto-falante é captado pelo
+microfone e amplificado novamente sucessivas vezes, gerando um som agudo característico.
+A figura 2 é um modelo do sistema ilustrado na figura 1, onde G é o ganho do amplificador,
+R é a fração do som do alto-falante que atinge o microfone e 7T, em e” é o atraso de propagação do
+som do alto-falante ao microfone. Todos os parâmetros são constantes positivas. A microfonia ocorre
+quando esse sistema se torna instável.
+Nesse contexto, assinale a opção cuja condição provoca microfonia no sistema.
+A GR<T.
+B GR>T.
+C GR > 1/T.
+D GR <A.
+E GR>1
+
+QUESTÃO 24
+O retificador trifásico conhecido como Ponte de Graetz é um conversor de potência utilizado em aplicações
+de média e alta tensão. É empregado em sistemas de transmissão de alta tensão em corrente contínua,
+carregamento de baterias, processos de eletrólise, operação de motores de corrente contínua, fontes de
+potência controlada, sistemas de iluminação controlada e equipamentos de tração.
+A figura 1 mostra a topologia de um retificador trifásico controlado em ponte.
+Na figura 2 são mostrados os resultados gráficos das principais formas de onda de tensão do referido
+retificador trifásico, considerando-se carga resistiva, tiristores ideais e uma tensão eficaz de alimentação
+de linha igual a 220 V.
+
+Na tabela a seguir, são listados os intervalos e as respectivas tensões geradas pelo circuito.
+Com base nessas informações, avalie as afirmações a seguir.
+I. A carga é submetida a uma tensão de fase e, na saída do circuito, acontece uma condução contínua.
+II. Os tiristores do grupo positivo são T1, T2 e T3; já os tiristores do grupo negativo são T4, T5 e T6.
+III. A tensão de saída apresenta uma variação de tensão (ripple) de 131,4801 V.
+IV. Os tiristores são disparados no ângulo α de 60º.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.
+
+QUESTÃO 25
+Muitos dispositivos eletrônicos utilizam um regulador de tensão, que tem como objetivo
+manter a tensão elétrica na saída em um nível especificado. Considere um regulador de
+tensão utilizando diodo Zener e transistor com as seguintes especificações: tensão de
+entrada Vl = 20 V, tensão nominal do diodo Zener (D1) VZ = 8/77 V, VBE = 0,77 V,
+R1 = R2=1k09,C1=100nF eB = 10 (ganho de corrente do transistor), conforme o circuito mostrado
+a seguir.
+Para esse regulador, qual é o valor da corrente contínua no diodo Zener?
+A 10,36 mA.
+B 10,43 ma.
+C 11,22 ma.
+D 11,38 mA.
+E 19,92 mA.
+
+QUESTÃO 26
+Foi utilizado um banco de três transformadores
+monofásicos — idênticos para substituir um
+transformador trifásico em uma instalação.
+Porém, os dados de placa desses transformadores
+monofásicos foram parcialmente perdidos e não
+há informações sobre sua impedância de curto-
+circuito. Como essa informação é importante para
+a determinação da corrente máxima de curto-
+circuito da instalação, o engenheiro responsável
+por ela decidiu efetuar o ensaio de curto-circuito
+à frequência industrial de 60 Hz em um dos
+transformadores monofásicos que compõem o
+banco. Os valores medidos, tendo por referência o
+lado da fonte, estão na tabela a seguir.
+Considerando-se essa situação e os dados
+apresentados na tabela, qual é o valor, em ohms,
+da impedância de curto-circuito do transformador
+monofásico, vista pelo lado da fonte?
+O3+ja4
+O3+jo.
+O1+j3.
+O41+js5.
+O5s+jo.
+
+QUESTÃO 27
+No Estudo de Impacto Ambiental (EIA) são
+abordados os aspectos técnicos necessários
+à avaliação dos impactos ambientais a serem
+gerados pelo empreendimento. O EIA deve ser
+elaborado por equipe técnica multidisciplinar
+habilitada e deverá conter: análise dos impactos
+ambientais do projeto e de suas alternativas,
+por meio de identificação, previsão da
+magnitude e interpretação da importância dos
+prováveis impactos relevantes, discriminando:
+os impactos positivos e negativos (benéficos
+e adversos), diretos e indiretos, imediatos
+e a médio e longo prazos, temporários e
+permanentes; seu grau de reversibilidade;
+suas propriedades cumulativas e sinérgicas; a
+distribuição dos ônus e benefícios sociais.
+Disponível em: <http://www.pnla.mma.gov.br>.
+Acesso em: 12 jun. 2019 (adaptado).
+Considerando esse contexto e os impactos
+ambientais oriundos de usinas hidroelétricas e
+suas barragens, avalie as afirmações a seguir.
+|. A proliferação de algas na superfície de rios
+e lagos por causas antropogênicas favorece
+a multiplicação de peixes.
+Il. A hidroeletricidade é definida como uma
+fonte de energia livre de gases de efeito
+estufa.
+Ill. A implantação de hidroelétricas interfere no
+microclima local, provocando alterações na
+temperatura, na umidade relativa do ar, na
+evaporação e afetando o ciclo pluvial.
+IV. Os reservatórios de usinas hidroelétricas
+armazenam água da chuva que pode
+ser usada para consumo ou irrigação,
+protegendo os aquíferos contra O
+esgotamento e reduzindo a vulnerabilidade
+regional a inundações e secas.
+É correto apenas o que se afirma em
+Oo.
+O:
+Oie.
+O llelv.
+QÔileiv.
+
+QUESTÃO 28
+No desenvolvimento de um projeto de instalações elétricas, o dimensionamento adequado dos
+componentes e a segurança das instalações são aspectos importantes que a norma ABNT NBR-5410
+visa regulamentar por meio do estabelecimento de diversos critérios, entre os quais os expostos nos
+trechos a seguir.
+Quanto às cargas de iluminação em unidades residenciais:
+a) em cômodos com área igual ou inferior a 6 m?, deve ser prevista uma carga mínima de 100 VA.
+b) em cômodos com área superior a 6 m?, deve ser prevista uma carga de 100 VA para os primeiros 6 m?,
+acrescida de 60 VA para cada aumento de 4 m? inteiros.
+Quanto à quantidade de pontos de Tomadas de Uso Geral (TUG):
+a) em cozinhas, copas, áreas de serviço, lavanderias e locais análogos, deve ser previsto um ponto de
+tomada para cada 3,5 m (ou fração) de perímetro;
+b) nos demais cômodos, deve ser previsto um ponto de tomada para cada 5 m (ou fração) de perímetro,
+se a área for superior a 6 m? ou apenas um ponto de tomada se a área for inferior a 6 m?.
+Com relação às potências mínimas a serem atribuídas aos referidos pontos de tomadas:
+a) em banheiros, cozinhas, copas e áreas de serviço, prevê-se, no mínimo, 600 VA por ponto tomada,
+até 3 pontos de tomadas; e 100 VA para cada um dos excedentes, considerando-se sempre cada um
+dos ambientes separadamente;
+b) nos demais cômodos, 100 VA por ponto de tomada.
+A partir dos critérios apresentados, considere o esquema elétrico a seguir, que ilustra parte da instalação
+elétrica de uma residência, no qual são indicadas a potência de iluminação (VA), a quantidade de TUGs e
+a potência das TUGs (VA).
+
+Para os dimensionamentos expostos no esquema, assinale a opção que atende corretamente os critérios
+previstos na norma ABNT NBR-5410.
+A (Potência de iluminação da sala de estar) e (Potência de iluminação da cozinha).
+B (Quantidade de TUG da cozinha) e (Quantidade de TUG da sala de estar).
+C (Potência das TUG da sala de estar) e (Potência das TUG da cozinha).
+D (Potência de iluminação da cozinha), (Quantidade de TUG da sala de estar) e (Potência das TUG da
+sala de estar).
+E (Potência de iluminação da sala de estar), (Quantidade de TUG da cozinha) e (Potência das TUG
+da cozinha).
+
+QUESTÃO 29
+Para solução de determinada tarefa de automação foi detectada a necessidade de se resolver um problema
+lógico para uma entrada ABC de 3 bits, sendo A o bit mais significativo. A saída y deve assumir nível
+lógico 1 quando a entrada ABC for par e maior que 4. Quando o valor ABC for menor que quatro, a
+saída y deve assumir o valor da expressão A & B. Caso ocorram situações não previstas, o valor da saída
+é irrelevante.
+Nesse contexto, qual das seguintes expressões booleanas soluciona o problema?
+A y= AB + BC
+B y=4AB+ BC
+C y=AB+BC+AC
+D y=AB+BC+AC
+E y=AB+BC+AC
+
+OJuaweSa1005]7 - e
+
+QUESTÃO 30
+A correta interpretação dos principais valores que caracterizam o motor de indução é essencial tanto na
+especificação de novos motores como também para fins de substituição desse motor.
+Para realizar a análise de desempenho de um motor trifásico de indução, rotor de gaiola, 50 HP, 220/380V,
+60 Hz e 4 polos, o engenheiro responsável teve acesso ao gráfico mostrado a seguir, disponibilizado por
+um fabricante, em que se apresentam quatro curvas características em função da potência desse motor
+(rendimento, fator de potência, escorregamento e corrente).
+Com base nos dados apresentados e assumindo que esse motor é alimentado com tensão e frequência
+nominal, avalie as afirmações a seguir.
+I. Se omotor operar abaixo de 60% da carga nominal, isso implicará em um fator de potência inferior
+a0,8.
+Il. O escorregamento desse motor sem carga mecânica no seu eixo é de aproximadamente 1,0.
+Ill. A corrente do motor sem carga mecânica no seu eixo é de aproximadamente um terço da corrente
+nominal.
+IV. O motor obtém o maior rendimento na faixa de operação que vai de 80% a 100% da carga nominal.
+É correto o que se afirma em
+A IV, apenas.
+B I e II, apenas.
+C I e III, apenas.
+D II, III e IV, apenas.
+E I, II, III e IV.
+
+QUESTÃO 31
+Os nanotubos de carbono, elementos com
+comprimentos de um bilionésimo do metro,
+oferecem elevada condutividade elétrica à
+temperatura — ambiente, — constituindo-se — em
+extraordinário potencial para a indústria eletrônica.
+Segundo pesquisadores, um nanotubo de carbono
+seria até 70 vezes melhor condutor que o silício,
+que é utilizado principalmente nos processadores
+e memórias de computador. A mobilidade dos
+elétrons é um dos principais componentes da
+condutividade elétrica: mede o deslocamento dos
+portadores de carga (elétrons) sob o efeito do
+campo elétrico. Considerando-se um aglomerado de
+nanotubos de carbono da ordem de 0,3 milímetros,
+à temperatura ambiente (aproximadamente 300 K),
+a mobilidade eletrônica média nesses nanotubos
+alcança 100 000 cm? V 2572,
+Disponível em: <http://www.lges.iqm.unicamp.br>.
+Acesso em: 9 jun. 2019 (adaptado).
+Considere que a condutividade para o silício
+intrínseco é dada por 0 = n;lel(u, + 1) ,em que
+n, é a concentração de portadores intrínsecos,
+|e| é o módulo da carga de um elétron, nu, e 4,
+são as mobilidades dos elétrons e das lacunas,
+respectivamente. Considere, ainda, em relação
+à condutividade elétrica do silício à temperatura
+ambiente, os parâmetros:
+e g=4,16x107* (Em)!
+o n,=10!6 m?
+e 1,=0,06 m2ºV He!
+De acordo com as informações apresentadas e
+considerando a temperatura ambiente, quantas
+vezes maior é a mobilidade eletrônica nos
+nanotubos de carbono comparada à mobilidade
+eletrônica no silício?
+A 20.
+B 35.
+C 15.
+D 50.
+E 7o.
+
+QUESTÃO 32
+A Transformada de Fourier é uma ferramenta
+matemática aplicada em diversas áreas do
+conhecimento. Em sua versão discreta, é aplicada,
+por exemplo, no tratamento de dados da
+exploração de petróleo, na codificação do sinal de
+voz e na TV digital.
+A Transformada Discreta de Fourier (TDF)
+de uma sequência de N de valores x/n/,
+com n=0,1,2,.., N-1,é dada pela expressão
+NA 27
+Xlk]= > Ante * Nº
+n=0
+vk
+k=0,1,2,...,N -—1
+sendo j = 1.
+Dada uma sequência x/n/ de N valores reais, o
+seguinte pseudocódigo implementa a obtenção da
+parte real X/k/ para um dado valor k, assumindo-se
+que o vetor x tenha tamanho N e que N seja uma
+variável global.
+função CALCULAR TDF
+3.14159
+(vetor x[ ], Kk)
+enquanto 0 <= n < N
+xk = xk + /**/
+n=n+1
+fim enquanto
+retorna xk
+Para que o pseudocódigo acima calcule
+corretamente a parte real de X/k/, escolha a opção
+abaixo que deverá ser empregada no lugar dos
+caracteres /**/,
+A xIn] * sen(2*pi/N*n*k)
+B xI[n] * cos(2*pi/N*n*k)
+C xI[x] * sen(2*pi/N*n*k)
+D x[k]* cos(2*pi/N*n*k)
+E —x[kx]* sen(2*pi/N*n*k)
+
+QUESTÃO 33
+A utilização de veículos elétricos requer a produção de baterias, inversores de potência, conversores
+CC-CC, motores elétricos, entre outros produtos mais eficientes.
+A figura 1 apresenta um conversor que é parte do esquema elétrico de um veículo elétrico e suas interfaces,
+bem como ilustra o diagrama de uma proposta para o carregamento do banco de baterias de tração e da
+bateria de serviço (de 12 V). Esta bateria é encarregada de armazenar e fornecer energia para o sistema
+elétrico convencional do veículo, o qual é composto pelas cargas dos sistemas de iluminação, ventilação,
+arrefecimento, áudio e alarme, entre outros.
+A figura 2 mostra que a operação de carga ideal de baterias se divide em 3 etapas.
+Figura 2
+
+Com base nas informações e nos dados apresentados nas figuras, avalie as afirmações a seguir.
+|. O conversor CC-CC é um conversor elevador de tensão, onde a tensão média na saída do conversor
+será maior que a tensão média de entrada ou igual a ela; já a corrente média de saída do conversor
+será menor que a corrente média de entrada ou igual a ela.
+Il. Na etapa de tensão constante do processo de carga da bateria, a tensão fica constante em
+aproximadamente 14,4 V até a corrente diminuir progressivamente, atingindo cerca de 1% da
+capacidade nominal da bateria.
+Ill. Na etapa de flutuação do processo de carga da bateria, para que ela tenda a se manter carregada
+em 100%, deve-se diminuir a tensão para 13,3 V, a fim de evitar danos à bateria.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 34
+A figura a seguir ilustra a magnitude do espectro de frequência de um sinal analógico que deverá ser
+amostrado e analisado digitalmente. Sabe-se que esse sinal tem seu espectro de frequência maior do que
+O Hz e menor do que 50 Hz. Sabe-se, também, da existência de ruído entre 58 Hz e 62 Hz, que poderá
+afetar o processo de amostragem.
+Para atenuar o ruído e, posteriormente, amostrar o sinal obedecendo o critério de Nyquist, a frequência
+de corte /. de um filtro passa-baixa ideal e a frequência de amostragem /, serão, respectivamente,
+A 50 Hz e 50 Hz.
+B 50 Hz e 120 Hz.
+C 58 Hz e 62 Hz.
+D 62 Hz e 62 Hz.
+E 62 Hz e 120 Hz.
+
+QUESTÃO 35
+Dado que a exposição prolongada a campos eletromagnéticos pode causar males à saúde, a Lei
+n. 11.934/2009 estabeleceu os limites recomendados segundo a Organização Mundial de Saúde
+para a exposição ocupacional e a exposição da população em geral a campos elétricos, magnéticos e
+eletromagnéticos em frequências de até 300 GHz. Essa recomendação segue o que foi estabelecido pela
+Comissão Internacional de Proteção Contra Radiação Não lonizante.
+Os níveis de referência para campo elétrico e magnético (valores eficazes) em baixas frequências estão
+apresentados na tabela a seguir.
+f = frequência em Hz.
+Disponível em: <https://www.icnirp.org/en/publications/index.html>. Acesso em: 19 ago. 2019 (adaptado).
+Uma linha de transmissão de alta tensão operando em 60 Hz, localizada em uma região urbana, apresentou
+níveis de campo elétrico da ordem de 4,5 kV/m, medidos a 1,0 metro do solo. Além disso, foi detectada a
+existência de uma componente de 7º harmônica, cujo campo elétrico resultante foi de 0,4 kV/m, também
+medido a 1,0 metro do solo.
+Com base nessa situação e nas informações apresentadas, é correto afirmar que, na frequência de 60 Hz,
+considerando-se
+A o público em geral, o campo elétrico não atingiu os limites de exposição estabelecidos.
+B o público em geral, o campo elétrico não atingiu o limite recomendado, ao passo que o componente
+harmônico ultrapassou o limite previsto na tabela.
+C o público em geral, o campo elétrico ultrapassou o limite recomendado, ao passo que o componente
+harmônico não ultrapassou o limite estabelecido.
+D a exposição ocupacional, o campo elétrico não atingiu o limite recomendado, ao passo que o
+componente harmônico ultrapassou o limite previsto.
+E a exposição ocupacional, o campo elétrico ultrapassou o limite recomendado, ao passo que o
+componente harmônico não ultrapassou o limite estabelecido.
+

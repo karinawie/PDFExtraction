@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:31:49</Created>
+	<LastChange>2020-11-21T00:54:25</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="170,1503 1575,1503 1575,1556 1577,1556 1577,1822 564,1822 564,1872 360,1872 360,1990 408,1990 408,2110 170,2110 170,1901 179,1901 179,1839 218,1839 218,1533 171,1533 171,1532 170,1532"/>
+	<TextEquiv conf="0.96280">
+	<Unicode>Com base nesse contexto, avalie as afirmações a seguir, a respeito dos programas 1 e 2 acima apresentados.
+|. O Programa 01 gera os pulsos de disparo para as chaves T1, T2, T3 e T4 fazendo o motor de
+passo girar em determinada direção; sua velocidade de giro dependerá do valor fornecido à
+variável “tempo”.
+Il. O Programa 02 tem a função de acionar o motor de passo e, conforme o valor da variável “x”,
+o motor poderá girar nos sentidos horário ou anti-horário.
+Ill. Nos Programas 01 e 02, os pinos Ru, Rip Rá, E Ra; fornecem os pulsos de comando das fases do
+motor de passo.
+BO "BV
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+OEM.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="383,244 383,1472 1366,1472 1366,244"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-20T02:01:13</Created>
+	<LastChange>2020-11-14T03:32:08</LastChange></Metadata>
+	<Page imageFilename="provaenfermagem-18.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="870,254 872,2073 875,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,316 854,316 854,719 855,719 855,964 854,964 854,1319 853,1319 853,1415 739,1415 739,1469 147,1469 147,1470 146,1470 146,1030 145,1030 145,1001 240,1001 240,628 194,628 194,428 145,428"/>
+	<TextEquiv conf="0.96157">
+	<Unicode>QUESTÃO 20
+Em relação ao prontuário eletrônico do paciente
+(PEP), avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Por meio do PEP é possível reunir todas as
+informações da vida do paciente colhidas
+pela equipe multiprofissional em cenários
+distintos, o que facilita o processo de trabalho.
+PORQUE
+O PEP permite o acesso simultâneo para
+registro e visualização das informações do
+paciente, sendo, portanto, um meio célere de
+consulta de dados, apesar de ainda não ter
+amparo legal perante os Conselhos e o Código
+Civil Brasileiro.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="890,311 1600,311 1600,1044 893,1044 893,1045 892,1045 892,607 891,607 891,581 890,581"/>
+	<TextEquiv conf="0.96462">
+	<Unicode>QUESTÃO 21
+O dimensionamento de pessoal de enfermagem
+está diretamente associado à eficácia, à eficiência,
+à qualidade e ao custo da assistência prestada aos
+pacientes. O método de dimensionamento de
+pessoal de enfermagem inicialmente proposto por
+Gaidzinski para avaliar a quantidade e qualidade
+desses profissionais prevê as seguintes variáveis:
+O carga de trabalho da unidade, tempo efetivo de
+trabalho e índice de segurança técnica.
+O carga de trabalho da unidade, tempo efetivo de
+trabalho e tempo previsto de trabalho.
+O carga de trabalho da unidade, tempo previsto de
+trabalho e índice de segurança técnica.
+O número de pacientes admitidos, total de pacientes
+internados e tempo previsto de trabalho.
+O número de pacientes admitidos, total de pacientes
+internados e índice de segurança técnica.</Unicode></TextEquiv></TextRegion></Page></PcGts>

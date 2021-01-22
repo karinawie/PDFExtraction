@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T05:03:24</Created>
+	<LastChange>2020-11-27T05:15:13</LastChange></Metadata>
+	<Page imageFilename="15_ENG_PRO_BACHAREL_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="169,1153 340,1153 340,1220 1575,1220 1575,1747 1576,1747 1576,1854 379,1854 379,2101 170,2101 170,1854 169,1854"/>
+	<TableRegion id="r3">
+	<Coords points="519,1475 519,1719 1222,1719 1222,1475"/></TableRegion>
+	<TextEquiv conf="0.96595">
+	<Unicode>QUESTÃO 30
+Considere a situação em que um engenheiro de produção tenha elaborado um planejamento
+agregado, utilizando uma estratégia de produção constante, igual à capacidade em horário normal.
+Quando necessário, para suprir a demanda do mês, horas extras deverão ser utilizadas. O estoque
+inicial é de 100 unidades e, ao final do período de planejamento, o estoque deverá ser zero. Ao todo,
+são 10 trabalhadores cumprindo turno diário de trabalho de 8 horas e 20 dias úteis por mês. O tempo
+padrão de produção é de 2 homens-hora por unidade.
+Considerando essa situação e os dados apresentados na tabela, verifica-se que a capacidade de produção
+mensal em horário normal e a produção total necessária para o período de janeiro a abril correspondem,
+respectivamente, a
+O 800 e 3 600.
+O 800 e 3 700.
+O 9200 e 3 700.
+O 925 e 3 600.
+O 925 e 3 700.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="169,244 340,244 340,311 1576,311 1576,534 1574,534 1574,807 1577,807 1577,874 238,874 238,1121 170,1121 170,874 169,874"/>
+	<TableRegion id="r2">
+	<Coords points="300,561 300,680 1444,680 1444,561"/></TableRegion>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 29
+Uma lanchonete está projetando um sistema de atendimento drive-thru, permitindo, assim, que o
+cliente efetue e retire o pedido sem sair do seu veículo. Para isso, foi realizada a seguinte estimativa:
+20 carros por hora como taxa de chegada de veículos em horário de maior movimento e 30 clientes
+motorizados por hora como taxa de atendimento. A probabilidade (Pn) de a lanchonete estar com
+n carros em seu sistema, tanto na espera quanto em atendimento, foi calculada e os dados obtidos
+estão apresentados na tabela a seguir.
+Objetivando não prejudicar a circulação de veículos no entorno da lanchonete, definiu-se que a
+capacidade do sistema deveria atender a pelo menos 90% da demanda.
+Com base nessas informações e nos dados da tabela, a capacidade mínima de carros no sistema a ser
+considerada no projeto corresponderá a
+Oo:.
+O.
+O e.
+O 7.
+O :.</Unicode></TextEquiv></TextRegion></Page></PcGts>

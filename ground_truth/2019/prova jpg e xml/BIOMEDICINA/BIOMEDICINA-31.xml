@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T22:38:45</Created>
+	<LastChange>2020-09-09T22:39:30</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-31.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="326,484 326,1210 1247,1210 1247,484"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1491,247 1491,314 1490,314 1490,455 1178,455 1178,1300 1489,1300 1489,1348 1491,1348 1491,1712 1038,1712 1038,1713 585,1713 585,1714 470,1714 470,1775 389,1775 389,2029 86,2029 86,2030 85,2030 85,458 83,458 83,247 84,247"/>
+	<TextEquiv conf="0.93459">
+	<Unicode>QUESTÃO 35
+A hematopoese envolve os processos de formação, desenvolvimento e maturação dos elementos
+figurados do sangue, que são formados a partir de uma célula precursora comum.
+ZAGO, M. A.; FALCÃO, R. P.; PASQUINI, R. Tratado de Hematologia. São Paulo: Atheneu, 2014 (adaptado).
+A figura a seguir representa um esquema da hematopoese, em que CFU é Unidade Formadora de Colônia
+e BFU é Unidade Formadora de Explosão.
+Em relação à hematopoese e às suas características, avalie as afirmações a seguir.
+I. Ascélulas sanguíneas são produzidas na medula óssea a partir das células-tronco hematopoéticas.
+II. As plaquetas são células pequenas formadas a partir de células precursoras chamadas de
+megacariócitos.
+III. As CFU podem dar origem a uma ou mais linhagens hematopoéticas a partir do estímulo do
+hormônio eritropoetina.
+IV. As células-tronco hematopoéticas possuem capacidade de divisão assimétrica, gerando tanto
+células indiferenciadas quanto células comprometidas com as linhagens hematológicas.
+V. Os eritrócitos são formados na medula óssea a partir de células precursoras que, durante a
+eritropoese, perdem o núcleo, mas preservam a capacidade de sintetizar hemoglobina durante
+toda a vida da célula.
+É correto o que se afirma em
+A I e IV, apenas.
+B II e III, apenas.
+C II e V, apenas.
+D I, III, IV e V, apenas.
+E I, II, III, IV e V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

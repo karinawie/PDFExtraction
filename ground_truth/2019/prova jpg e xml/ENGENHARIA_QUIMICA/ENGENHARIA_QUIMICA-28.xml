@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:44:50</Created>
+	<LastChange>2020-09-15T03:15:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-28.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="186,526 186,1421 1413,1421 1413,526"/></ImageRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="84,179 255,179 255,244 1489,244 1489,332 1490,332 1490,1436 1491,1436 1491,1761 470,1761 470,1811 314,1811 314,2046 84,2046 84,468 83,468 83,331 84,331"/>
+	<TextEquiv conf="0.96603">
+	<Unicode>QUESTÃO 31
+O fator de atrito é parâmetro importante a ser avaliado no escoamento de fluidos em tubulações para
+determinação da perda de carga do sistema e depende do tipo de escoamento e da rugosidade do tubo.
+Em 1939, Cyril F. Colebrook combinou dados disponíveis para o escoamento de transição e turbulento,
+tanto para tubulações lisas quanto para rugosas, e criou uma relação implícita denominada de equação de
+Colebrook. Posteriormente, Lewis F. Moody elaborou o diagrama de Moody, reunindo os cálculos do fator de
+atrito para o escoamento em um tubo como uma função do número de Reynolds e da rugosidade relativa.
+O diagrama de Moody é apresentado na figura a seguir.
+MORAN, M. !. et al. Principles of engineering thermodynamics. 8. ed. Hoboken, Nova Jersey (EUA): John Wiley &amp; Sons, 2015 (adaptado).
+Com base no diagrama de Moody e nas informações apresentadas, avalie as afirmações a seguir.
+|. Para o escoamento laminar, o fator de atrito depende do número de Reynolds, sendo independente
+da rugosidade da superfície.
+Il. Para superfícies lisas, a rugosidade relativa é nula, logo, o fator de atrito é zero.
+Ill. Para números de Reynolds muito grandes, as curvas de fator de atrito correspondentes às curvas
+de rugosidade relativas especificadas são praticamente horizontais, tornando o fator de atrito
+independente do número de Reynolds nessa região.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

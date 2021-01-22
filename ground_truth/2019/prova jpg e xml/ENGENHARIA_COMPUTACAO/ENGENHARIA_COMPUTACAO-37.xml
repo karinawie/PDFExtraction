@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:51:09</Created>
+	<LastChange>2020-09-11T20:52:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-37.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,249 1491,249 1491,644 296,644 296,908 85,908 85,645 83,645 83,532 84,532"/>
+	<TextEquiv conf="0.91230">
+	<Unicode>QUESTÃO 34
+Um dos algoritmos de escalonamento mais clássicos é o de alternância circular (Round Robin) que atribui
+um intervalo de tempo para cada processo (quantum), dentro do qual ele pode ser executado. Ao final
+desse intervalo, o processo sofre uma preempção, caso não termine de executar, e outro processo
+não finalizado entra para ser executado. Essa ação de alternância de um processo para outro, também
+conhecida como troca de contexto, requer uma certa quantidade de tempo.
+TANENBAUM, A. S. Sistemas operacionais modernos. 4. ed. São Paulo:Pearson Education do Brasil, 2015 (adaptado).
+Um sistema operacional que utiliza o algoritmo Round Robin precisa executar dois processos, ambos com tempos
+de tarefa de 20 ms. Objetivando-se minimizar o tempo de resposta do sistema, o Quantum e o tempo de
+troca de contexto, respectivamente, devem ser
+A 5ms e 1ms.
+B 4ms e 2ms.
+C 5ms e 3ms.
+D 2ms e 1ms.
+E 2ms e 2ms.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,944 254,944 254,1014 1490,1014 1490,1085 1076,1085 1076,1211 1147,1211 1147,1261 1389,1261 1389,1343 85,1343 85,1344 85,975 84,975"/>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO 35
+Usabilidade é o fator que assegura ao usuário a facilidade de uso e é definida em aspectos como a
+inteligibilidade, que pode ser definida como atributos do software que evidenciam
+A a satisfação subjetiva do usuário durante o uso de funções específicas.
+B o esforço do usuário para sua operação e controle de sua operação.
+C o esforço do usuário para reconhecer o conceito lógico e sua aplicabilidade.
+D que o software esteja de acordo com as normas previstas em leis relacionadas à aplicação.
+E o esforço do usuário para aprender funcionalidades e controles de fatores de entrada e saída.</Unicode></TextEquiv></TextRegion></Page></PcGts>

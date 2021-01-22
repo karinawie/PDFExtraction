@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T23:22:32</Created>
+	<LastChange>2020-09-09T23:22:58</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-17.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r8">
+	<Coords points="787,181 786,2047 788,2047 789,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="68,628 68,1278 778,1278 778,628"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,179 255,179 255,228 770,228 770,1364 769,1364 769,1757 470,1757 470,1808 322,1808 322,2000 234,2000 234,2043 85,2043 85,2000 84,2000 84,624 83,624 83,228 84,228"/>
+	<TextEquiv conf="0.96626">
+	<Unicode>QUESTÃO 13
+A avaliação de um paciente com dor torácica deve
+diferenciar as etiologias cardíacas das não cardíacas.
+Dentre as de ocorrência cardíaca, o Infarto Agudo do
+Miocárdio (IAM) demanda investigação minuciosa.
+Além da análise da história clínica, dos achados no
+ecocardiograma e dos resultados de exames de
+imagem, a detecção da alteração de biomarcadores
+cardíacos é importante para o diagnóstico precoce.
+O gráfico a seguir representa a alteração dos
+biomarcadores cardíacos ao longo do tempo de
+ocorrência de um infarto.
+Considerando as informações apresentadas, avalie
+as afirmações a seguir.
+|. A mioglobina sérica altera-se nas primeiras
+horas após a ocorrência do infarto e,
+geralmente, normaliza-se em 24 horas.
+Il. A concentração sérica de CK-MB apresenta,
+em seu pico de elevação, incrementos de
+seis vezes nos valores normais.
+Il. Os níveis de alteração da troponina
+correlacionam-se com a extensão da lesão
+cardíaca, com pico de elevação que pode
+durar até oito dias nos casos mais graves.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="805,179 977,179 977,247 1491,247 1491,636 1490,636 1490,738 1491,738 1491,1170 1492,1170 1492,1278 1491,1278 1491,1279 1192,1279 1192,1327 986,1327 986,1446 1043,1446 1043,1574 807,1574 807,1573 806,1573 806,1350 807,1350 807,1293 854,1293 854,1277 855,1277 855,1150 854,1150 854,808 807,808 807,807 806,807 806,738 947,738 947,636 806,636 806,635 805,635"/>
+	<TextEquiv conf="0.96550">
+	<Unicode>QUESTÃO 14
+A farmacologia, sob um enfoque aplicado,
+caracteriza-se pela seleção do fármaco adequado
+para prevenir, reverter ou atenuar um processo
+patológico. É necessário que o medicamento
+escolhido atinja, em concentrações adequadas,
+o órgão suscetível ao efeito benéfico desejado.
+Para isso, devem ser escolhidas doses, vias e
+intervalos de administração que garantam a
+chegada e a manutenção das concentrações
+terapêuticas no sítio-alvo.
+FUCHS, F. D. Farmacologia clínica e terapêutica. 5. ed.
+Rio de Janeiro: Guanabara Koogan, 2017 (adaptado).
+Considerando o texto apresentado, avalie as
+afirmações a seguir.
+|. Caso a concentração do fármaco no sítio-
+alvo seja insuficiente, serão percebidos
+efeitos potencialmente tóxicos.
+Il. A farmacocinética corresponde ao estudo
+do destino dos fármacos no organismo após
+sua administração, abrangendo os processos
+de absorção, distribuição, biotransformação
+e excreção.
+Il. As vias de administração intravenosa,
+intramuscular, intradérmica e sublingual são
+exemplos de vias parenterais diretas.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

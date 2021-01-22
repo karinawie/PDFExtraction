@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:57:05</Created>
+	<LastChange>2020-10-29T20:06:19</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-21.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r6">
+	<Coords points="870,254 871,2073 874,2073 873,254"/></SeparatorRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="890,1077 1600,1077 1600,1108 1599,1108 1599,1983 1598,1983 1598,2056 1570,2056 1570,2120 859,2120 859,2072 890,2072"/>
+	<ImageRegion id="r1">
+	<Coords points="911,1352 911,1686 1558,1686 1558,1352"/></ImageRegion>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 32
+O uso da tomografia computadorizada (TC) no
+diagnóstico de patologias vem crescendo cada vez
+mais. Ao mesmo tempo, cresce a preocupação de
+fabricantes de equipamentos quanto à otimização
+do uso da radiação ionizante. Na TC é utilizado o
+controle automático de exposição (CAE), conforme
+representado na figura a seguir.
+A respeito do sistema CAE, é correto afirmar que
+O a corrente do tubo é modulada em função do
+ângulo de projeção e localização longitudinal ao
+longo do paciente.
+O a corrente do tubo diminui proporcionalmente ao
+deslocamento da mesa para região abdominal.
+O o feixe de raios X permanece constante ao se
+diminuir a atenuação do tecido.
+O a modulação de dose é realizada antes da
+aquisição do topograma (scout).
+1 o pitch e o tempo de exames são dependentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="890,252 1600,252 1600,283 1599,283 1599,1060 936,1060 936,998 891,998 891,697 890,697"/>
+	<TextEquiv conf="0.00840">
+	<Unicode>QUESTÃO 31
+O uso de blindagem é uma das mais importantes
+ações voltadas para a biossegurança na radiologia.
+Sua função é a de atenuar a intensidade da radiação
+emitida. Em um feixe monoenergético, o decréscimo
+do número de fótons (N) em função da espessura
+do material (x) é dado por N= Ne”.
+Nessa expressão, 1 representa o coeficiente de
+atenuação linear do material para fótons, e é
+definido pela
+O probabilidade do material de espalhar os fótons
+incidentes, desde que sejam radiações ionizantes.
+O soma das contribuições de probabilidade de
+atenuação dos fótons por distância percorrida no
+meio.
+relação entre o número de fótons incidentes
+na camada de blindagem e o número de fótons
+transmitidos.
+espessura da camada de blindagem, que pode
+ser uma camada semirredutora ou uma camada
+décimo redutora.
+energia média dos fótons que ultrapassam a
+camada de blindagem em relação à energia média
+dos fótons incidentes.
+o
+oO
+(E)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,252 855,252 855,282 853,282 853,1152 854,1152 854,1446 855,1446 855,1607 854,1607 854,1754 532,1754 532,1814 383,1814 383,2021 295,2021 295,2071 147,2071 147,2072 146,2072 146,1225 145,1225"/>
+	<ImageRegion id="r4">
+	<Coords points="147,461 147,1125 847,1125 847,461"/></ImageRegion>
+	<TextEquiv conf="0.06078">
+	<Unicode>QUESTÃO 30
+O gráfico a seguir relaciona a eficiência biológica
+relativa (RBE) com a transferência linear de energia
+(LET) para diversos tipos de radiação ionizante.
+Considerando os conceitos de radiobiologia e o
+gráfico apresentado, avalie as afirmações a seguir.
+I. A utilização de raios gama do cobalto-60 para
+o tratamento radioterápico requer doses mais
+baixas, quando comparada à utilização de
+radiações corpusculares com carga elétrica.
+II. Caso seja possível um tratamento radioterápico
+utilizando-se radiações alfa, as doses devem
+ser menores que as recomendadas na
+utilização de raios X produzidos com 250 kVp.
+III. Os valores de LET são menores nas radiações
+eletromagnéticas que nas radiações
+corpusculares.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

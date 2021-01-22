@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:28:43</Created>
+	<LastChange>2020-11-29T23:01:57</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r4">
+	<Coords points="867,246 872,2112 878,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="891,244 1061,244 1061,311 1577,311 1577,543 1575,543 1575,664 1578,664 1578,812 1295,812 1295,917 1576,917 1576,1346 1575,1346 1575,1434 1574,1434 1574,1538 1575,1538 1575,1610 1484,1610 1484,1658 1188,1658 1188,1659 892,1659 892,1660 891,1660 891,1239 890,1239 890,1176 891,1176 891,1175 940,1175 940,919 939,919 939,918 940,918 940,917 1172,917 1172,813 940,813 940,814 939,814 939,638 891,638 891,275 890,275 890,245 891,245"/>
+	<TextEquiv conf="0.96749">
+	<Unicode>QUESTÃO 28
+Considere T(t) a temperatura da água em um
+recipiente t£ segundos após o conjunto recipiente/
+água ter sido colocado numa estufa, em cujo interior
+a temperatura é À. Segundo a lei do resfriamento
+de Newton, a taxa de variação da temperatura T(£)
+da água é proporcional à diferença entre T(t) e À.
+Nessa situação, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. A lei física em questão é traduzida em
+linguagem “matemática pela equação
+diferencial T'(t) = -k[T(t) — A] , na qual k
+é uma constante positiva.
+PORQUE
+Il. Se T(t) &gt; A, então T'(t) &lt;O, caso em que a
+temperatura T(t) é uma função decrescente
+de te a água está resfriando; por outro lado,
+se T(t) &lt; A, então T'(t) &gt; O, caso em que
+a temperatura T(t) é uma função crescente
+de te a água está aquecendo.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e 11 são proposições verdadeiras,
+e a ll é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="170,244 340,244 340,312 754,312 754,313 854,313 854,335 853,335 853,523 854,523 854,639 855,639 855,767 854,767 854,811 606,811 606,854 555,854 555,905 358,905 358,1033 407,1033 407,1159 170,1159 170,1160 169,1160 169,1033 170,1033 170,872 264,872 264,644 218,644 218,499 169,499 169,458 168,458 168,426 169,426 169,245 170,245"/>
+	<TextEquiv conf="0.96358">
+	<Unicode>QUESTÃO 27
+Considere a sequência de números reais
+=— , dt 1 142, paranen
+n+l n+2 2n
+A respeito dessa sequência, avalie as afirmações a
+seguir.
+n
+|. A sequência (x )n e N é divergente, mas
+n
+possui subsequência convergente.
+Il. A sequência (x )n e N satisfaz a condição
+n
+de Cauchy, ou seja, dado e &gt; O, existe um
+número natural M(cs) tal que, para quaisquer
+m, n&gt; M(s) , tem-se | 7, — x, |&lt;e.
+O limite da sequência (x )n e Né o supremo
+n
+do conjunto (x: n e Ny.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

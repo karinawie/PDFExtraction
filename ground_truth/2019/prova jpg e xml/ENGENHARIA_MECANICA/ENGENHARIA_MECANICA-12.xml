@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:15:57</Created>
+	<LastChange>2020-09-15T04:15:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-12.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r2">
+	<Coords points="405,456 407,929 1170,927 1168,454"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="85,179 428,179 428,246 1491,246 1491,1094 1490,1094 1490,1247 1139,1247 1139,1248 788,1248 788,1249 84,1249 84,437 83,437 83,248 84,248 84,180 85,180"/>
+	<TextEquiv conf="0.96568">
+	<Unicode>QUESTÃO DISCURSIVA 03
+A parada de um carro no box, durante uma prova da Fórmula Indy (competição de corrida de automóveis
+monopostos que acontece na América do Norte), é ilustrada na figura a seguir. Essa operação envolve o
+trabalho de 11 mecânicos, dos quais apenas 6 atuam diretamente no carro para trocar pneus, ajustar a
+asa dianteira e reabastecê-lo com cerca de 70 litros de combustível E85R (à base de etanol e gasolina),
+atividades que ocorrem em pouco menos de 10 segundos.
+Disponível em: &lt;https://www.indycar.com/&gt;. Acesso em: 16 jun. 2019 (adaptado).
+Sabe-se que, em corridas, o trabalho do mecânico durante a parada de um carro no box é considerado
+uma operação perigosa e, de acordo com a NR 15, insalubre.
+Considerando esse contexto, descreva quatro condições insalubres às quais os mecânicos estão expostos,
+segundo a NR 15, e especifique, para cada uma, pelo menos um Equipamento de Proteção Individual (EPI)
+necessário para mitigá-las. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

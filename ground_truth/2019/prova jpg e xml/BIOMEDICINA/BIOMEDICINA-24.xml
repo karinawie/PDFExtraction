@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T23:03:01</Created>
+	<LastChange>2020-09-09T23:03:30</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1492,247 1492,673 1490,673 1490,803 1255,803 1255,938 1352,938 1352,1018 1095,1018 1095,1066 678,1066 678,1114 85,1114 85,1115 84,1115 85,1115 85,922 84,922 84,859 83,859 83,830 133,830 133,674 85,674 85,504 84,504"/>
+	<TextEquiv conf="0.90807">
+	<Unicode>QUESTÃO 25
+Um laboratório objetiva avaliar o efeito da manipulação gênica sobre a proliferação celular do câncer
+de mama, dispondo, para esse fim, de dois métodos: um plasmídio contendo oncogene e um RNA de
+interferência específico para um gene supressor de tumor. O RNA de interferência (RNAi) é um pequeno
+RNA não codificante que, por complementaridade com o RNA mensageiro, inibe a expressão de genes
+específicos. Após a transfecção do plasmídeo e do RNAi, a proliferação celular é avaliada pela contagem
+do número de células.
+Considerando esse contexto, avalie as asserções a seguir e a relação proposta entre elas.
+|. Atransfecção do plasmídio contendo o oncogene inibirá a proliferação, enquanto a transfecção do
+RNAi estimulará a proliferação da célula cancerosa.
+PORQUE
+Il. A expressão do oncogene fará com que o ciclo celular seja ativado, enquanto o RNAi inibirá a
+expressão do gene supressor de tumor, promovendo a ativação desregulada do ciclo celular pela
+perda do ponto de controle e proliferação.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

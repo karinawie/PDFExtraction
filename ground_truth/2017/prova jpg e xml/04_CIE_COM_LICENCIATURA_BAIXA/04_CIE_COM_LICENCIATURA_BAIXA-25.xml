@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T03:16:28</Created>
+	<LastChange>2020-09-18T03:19:04</LastChange></Metadata>
+	<Page imageFilename="04_CIE_COM_LICENCIATURA_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,318 854,318 854,648 855,648 855,729 854,729 854,1820 326,1820 326,2102 170,2102 170,1820 169,1820 169,1746 218,1746 218,937 169,937 169,772 214,772 214,620 169,620"/>
+	<TextEquiv conf="0.95151">
+	<Unicode>QUESTÃO 24
+Requisitos funcionais, também conhecidos como
+capacidades (capabilities) ou características
+(features), descrevem as funções que o sistema
+deve executar. Requisitos não funcionais, também
+conhecidos como restrições (constraints) ou
+requisitos de qualidade do sistema, são os que
+agem para restringir a solução.
+Pierre, B.; Fairley, R. E. Guide to the software engineering body
+of knowledge (Swebok(R)). 3. ed. Los Alamitos: IEEE Computer
+Society Press, 2004 (adaptado).
+Com base nessa informação, avalie os seguintes
+requisitos referentes ao desenvolvimento de um
+sistema de software para uma gráfica que pretende
+prestar serviços de impressão pela internet.
+|. O cliente pode registrar um pedido de
+impressão informando um tamanho A2
+ou maior e a resolução que deseja (baixa,
+média ou alta).
+ll. O software deve ser desenvolvido na
+linguagem Java e utilizar, para a persistência
+em banco de dados, uma biblioteca padrão
+Java Persistence API (JPA).
+Ill. O tempo médio decorrente entre o envio
+do pedido pelo cliente e o recebimento do
+e-mail com os dados de confirmação deve
+ser inferior a 5 minutos.
+IV. Todos os pedidos de impressão em que o
+custo ultrapasse 10 salários mínimos devem
+ser aprovados por um gerente responsável
+por inspecionar a impressão.
+São classificados como não funcionais apenas os
+requisitos mencionados em
+A I E IV
+B II E III.
+C ll e IV.
+D I, II E III.
+E I, III E IV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="890,244 1061,244 1061,315 1576,315 1576,557 1575,557 1575,677 1576,677 1576,786 1577,786 1577,1065 1575,1065 1575,1272 1576,1272 1576,1472 1277,1472 1277,1531 1073,1531 1073,1666 1128,1666 1128,1798 891,1798 891,1565 892,1565 892,1497 939,1497 939,748 891,748 891,677 1137,677 1137,557 890,557"/>
+	<TextEquiv conf="0.96669">
+	<Unicode>QUESTÃO 25
+Atualmente, estão disponíveis várias classes
+de software para um melhor aproveitamento
+educacional e apoio automatizado ao processo
+de ensino-aprendizagem. Tais softwares são
+classificados em categorias conforme seus objetivos
+pedagógicos.
+GEBRAN, M. P. Tecnologias Educacionais.
+Curitiba: IESDE Brasil S.A, 2009 (adaptado).
+Considerando a classificação dos softwares
+educativos, avalie as afirmações a seguir.
+|. Os tutoriais, que consistem em classe de
+software para transmissão da informação de
+forma organizada, de modo similar a um livro
+ou apostila eletrônica, caracterizam-se, por
+exemplo, pelo uso de estratégias, objetivos
+a serem alcançados e pela apresentação de
+estímulos.
+Il. Jogos educativos utilizam, por exemplo,
+desafios e competição como estímulo na
+aquisição de um determinado aprendizado,
+com instruções e regras claras.
+IlI. Softwares de multimídia utilizam uma
+linguagem de programação e permitem
+desenvolvero raciocínio lógico e matemático,
+sendo uma de suas características principais
+a liberdade de criação.
+É correto o que se afirma em
+A |, apenas.
+B III, apenas
+C l e ll, apenas.
+D ll e lll, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T22:00:16</Created>
+	<LastChange>2020-10-28T19:16:42</LastChange></Metadata>
+	<Page imageFilename="FISIOTERAPIA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="382,438 382,984 1362,984 1362,438"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,243 1600,243 1600,274 1599,274 1599,1405 1598,1405 1598,1506 636,1506 636,1611 310,1611 310,1813 146,1813 146,427 144,427 144,314 145,314"/>
+	<TextEquiv conf="0.94101">
+	<Unicode>QUESTÃO 16
+A instabilidade patelar é um deslocamento não traumático espontâneo comum durante a fase de crescimento,
+de etiologia multifatorial. A ressonância magnética (RM) e a radiografia apresentadas a seguir demonstram
+fatores que predispõem ao deslocamento patelar.
+Considerando as informações do texto e as imagens, avalie as afirmações a seguir.
+I. A RM demonstra displasia da tróclea femoral, fator predisponente ao deslocamento da patela, pois
+diminui a congruência da articulação patelofemoral.
+II. O deslocamento patelar ocorre medialmente durante o valgo do joelho, movimento que aumenta o
+ângulo do quadríceps e favorece o movimento medial da patela.
+III. Na radiografia, nota-se desvio medial da patela na posição de joelho estendido, o que sugere desarranjo
+do ligamento patelofemoral lateral e do retináculo patelar lateral.
+IV. Na RM, observam-se efusão do joelho devido a uma hemartrose, marcada pelos asteriscos, e fratura
+por avulsão da patela, identificada pela seta.
+É correto apenas o que se afirma em
+A I e III.
+B I e IV.
+C II e IV.
+D I, II e III.
+E II, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

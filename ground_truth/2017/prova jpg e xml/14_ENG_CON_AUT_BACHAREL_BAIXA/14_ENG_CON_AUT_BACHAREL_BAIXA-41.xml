@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:30:32</Created>
+	<LastChange>2020-11-21T00:36:18</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-41.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="527,360 527,522 1220,524 1220,362"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="170,244 340,244 340,312 1284,312 1284,340 1283,340 1283,542 1576,542 1576,719 1578,719 1578,871 1577,871 1577,872 1214,872 1214,918 909,918 909,1203 911,1203 911,1321 913,1321 913,1409 845,1409 845,1526 508,1526 508,1525 171,1525 171,1524 170,1524 170,994 171,994 171,616 170,616 170,615 169,615 169,540 171,540 171,338 170,338"/>
+	<TextEquiv conf="0.96760">
+	<Unicode>QUESTÃO 35
+Considere um sistema de controle em malha fechada conforme a figura a seguir.
+Sabe-se que C(s) é um controlador proporcional e integral (PI) ideal com ganho proporcional K, e
+ganho integral K, conforme a equação:
+ut) = K e(t) + K, Í e(1)dr
+Deseja-se implementar um controlador digital equivalente em um sistema microprocessado, fazendo-se
+necessária a sua transformação para equação a diferenças.
+PP” e ; ; a 2 —1 ,
+Utilizando-se o método de Tustin para a discretização do controlador, onde s = "o É é , em que At é o
+t(z+
+período de amostragem, qual é a equação a diferenças para o controlador PI?
+KAt KAt
+—— + K, Jau + (E - K, Jar —1]
+O ukj=uk-1]
+K, K
+O ukj=uk+1)+ Es, Jams (E-x,)ar-
+KAt KAt
+O ukj=uk-1)+ EM 4, Jams (EM =x, Jara
+KAt KAt S
+O ukj=uk+1])+ EM sx, Ôans (EE &lt;a, Jara
+K K
+O ukj=uk-1]+ Ex )Ôans(S-x, ano</Unicode></TextEquiv></TextRegion></Page></PcGts>

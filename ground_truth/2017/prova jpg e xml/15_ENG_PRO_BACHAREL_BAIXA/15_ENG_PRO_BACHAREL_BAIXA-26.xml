@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T05:03:37</Created>
+	<LastChange>2020-11-27T05:17:59</LastChange></Metadata>
+	<Page imageFilename="15_ENG_PRO_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,900 855,900 855,1428 854,1428 854,1804 170,1804 170,1444 171,1444 171,1277 170,1277 170,871 168,871 168,312 169,312"/>
+	<TextEquiv conf="0.95495">
+	<Unicode>QUESTÃO 27
+As práticas gerenciais voltadas à inovação
+tecnológica mais adotadas pelas empresas
+brasileiras são relacionadas ao gerenciamento
+tático do desenvolvimento de produtos e
+processos. É comum que as indústrias adotem
+estratégia de inovação imitativa e que, na maioria
+das empresas, a Pesquisa &amp; Desenvolvimento
+se concentre quase que exclusivamente no
+desenvolvimento de produtos e processos.
+Considerando a necessidade de superar um
+modelo descrito, para aprimorar os sistemas
+de produção, visando incrementar as inovações
+tecnológicas, é necessário que as empresas
+industriais
+O reforcem o investimento em desenvolvimento,
+de forma a concentrar as atividades de
+desenvolvimento de produtos e processos
+oriundos da estratégia de gestão da inovação
+imitativa.
+O reposicionem as indústrias, para maior
+controle estatístico dos processos produtivos
+e, assim, enfatizem o gerenciamento tático do
+desenvolvimento de produtos e processos.
+O reposicionem estrategicamente as indústrias,
+de forma a reestruturar os processos internos e
+reorganizar a gestão da inovação aumentando o
+investimento em pesquisa.
+O desmembrem as atividades de pesquisa e de
+desenvolvimento, de modo a assegurar que o
+desenvolvimento de produtos e processos seja
+menos influenciado pelos investimentos em
+pesquisa.
+O reestruturem os sistemas de produção das
+indústrias de modo que se concentrem no
+desenvolvimento de produtos por meio de
+processos mais automatizados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="891,244 1061,244 1061,310 1576,310 1576,2104 891,2104 891,1446 890,1446 890,245 891,245"/>
+	<ImageRegion id="r3">
+	<Coords points="966,827 966,1347 1513,1347 1513,827"/></ImageRegion>
+	<TextEquiv conf="0.96732">
+	<Unicode>QUESTÃO 28
+Em um problema de roteirização e programação
+de veículos, algumas premissas básicas orientaram
+as etapas de agrupamento dos clientes a serem
+atendidos na mesma rota e a sequência de
+atendimento. No abastecimento da linha de
+produção de veículos, um operador logístico coleta
+peças de 12 fornecedores e as transporta até um
+centro de distribuição, para consolidação das
+cargas. Considerando que o volume coletado de
+cada cliente é idêntico, foram propostas quatro
+rotas, mostradas na figura a seguir, as quais
+atendem a restrições tanto de capacidade de carga
+dos veículos quanto de tempo.
+Com base nessas
+verifica-se que
+informações e na figura,
+O o problema pode ser definido como milkrun ou
+milk pick-up, pois há diversos clientes que devem
+ser atendidos em um tempo predeterminado.
+O as rotas propostas atendem aos requisitos do
+método das economias, também chamado
+Clarke e Wright.
+O o agrupamento proposto é adequado, visto que
+todas as rotas atendem ao mesmo número de
+clientes e o mesmo volume de carga.
+O o agrupamento de clientes nas rotas 1 e 2 deve
+ser modificado, pois as rotas não têm o formato
+“gota dágua”.
+O o agrupamento dos clientes das rotas 3 e 4
+pode ser melhorado ao se alocar, em uma
+mesma rota, os clientes mais distantes da
+central de distribuição.</Unicode></TextEquiv></TextRegion></Page></PcGts>

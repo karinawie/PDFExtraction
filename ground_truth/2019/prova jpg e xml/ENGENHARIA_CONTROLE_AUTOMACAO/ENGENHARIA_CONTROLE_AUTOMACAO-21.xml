@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:26:38</Created>
+	<LastChange>2020-09-12T19:27:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-21.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="110,423 110,965 1563,965 1563,423"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="84,179 255,179 255,230 1491,230 1491,972 1492,972 1492,1388 423,1388 423,1495 782,1495 782,1529 576,1529 576,1564 410,1564 410,1703 1038,1703 1038,1789 237,1789 237,1790 236,1790 236,2023 84,2023 84,1703 132,1703 132,1655 133,1655 133,1422 84,1422 84,1388 83,1388 83,972 84,972"/>
+	<TextEquiv conf="0.96472">
+	<Unicode>QUESTÃO 14
+Uma esteira de transporte instalada em uma célula produtiva possui um sistema de tração com redução,
+conforme a figura. A esteira utiliza um cilindro de tração acoplado ao eixo de saída da caixa por flanges,
+para que não ocorra perda de potência no acoplamento. A fábrica que utiliza este sistema passa por
+uma reestruturação e, devido à alteração do layout, decidiu-se utilizar a esteira para transporte de
+produtos acabados.
+EA
+MOTT, R. L. Machine elements in mechanical design. 4. ed. NJ: Pearson Prentice Hall, 2004 (adaptado).
+Os dados levantados em relação ao sistema são: um cilindro de tração da esteira com diâmetro de 250
+mm e um motor com potência de 1 000 W e rotação de 600 rpm. Os rendimentos informados para os
+componentes da caixa de redução são: 80% para cada par de engrenagem e 84% para cada par de mancal.
+A relação de transmissão total da caixa de redução é igual a 10 e o rendimento do sistema do cilindro da
+esteira é de 83%.
+A fim de atender a nova demanda e considerando os dados levantados em campo, solicitou-se a análise
+do sistema ao setor de engenharia. Utilizou-se o valor de 3,14 para n e as seguintes equações:
+em que:
+*º M,=torque [Nm];
+* P,= potência considerando as perdas [W];
+* n=velocidade angular [rpm];
+e F=força[N];
+* d=distância[m];
+e mn =rendimento;
+e P=potência[W].
+Após os cálculos, qual a força tangencial correta disponível no cilindro?
+A 127 [N].
+B 200 [N].
+C 242 [N].
+D 400 [N].
+E 483 [N].</Unicode></TextEquiv></TextRegion></Page></PcGts>

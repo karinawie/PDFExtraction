@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T21:07:23</Created>
+	<LastChange>2020-09-11T21:07:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-30.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="73,1226 73,1723 1494,1723 1494,1226"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="315,552 315,1136 1250,1136 1250,552"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,179 255,179 255,239 1490,239 1490,412 1491,412 1491,435 1489,435 1489,1735 1490,1735 1490,1804 1002,1804 1002,2047 85,2047 85,1804 84,1804 84,532 83,532 83,464 84,464"/>
+	<TextEquiv conf="0.94932">
+	<Unicode>QUESTÃO 26
+Proporcional-Integral-Derivativo (PID) é o algoritmo de controle que mais tem sido utilizado na indústria
+e no mundo para sistemas de controle industrial. A popularidade de controladores PID pode ser parcialmente
+atribuída ao seu desempenho robusto em uma ampla gama de condições de funcionamento e parcialmente à
+sua simplicidade funcional, que permite aos engenheiros operá-los de forma simples e direta.
+Disponível em: &lt;https://www.ni.com/pt-br/innovations/white-papers/06/pid-theory-explained.html &gt;. Acesso em 20 jun. 2019 (adaptado).
+A figura a seguir apresenta um esquema de controle PID para um processo de temperatura de um
+forno industrial.
+Cálculo dos termos e
+Considere o trecho incompleto do código-fonte a seguir em que kp é o ganho proporcional (P),
+ki o ganho integral (1) e kd o ganho derivativo (D).
+Considerando a necessidade de implementar o esquema de controle PID, assinale a opção que completa
+corretamente a linha 12 desse código.
+O xp * Erro + ki * ITerm;
+O ki/kp * ITerm + kd/kp * dErro;
+O kp * Erro + kd * dErro * dErro;
+O kp * Erro + ki * ITerm + kd * dErro;
+o kp * Erro + ki * ITerm + kd * dErro * dErro;</Unicode></TextEquiv></TextRegion></Page></PcGts>

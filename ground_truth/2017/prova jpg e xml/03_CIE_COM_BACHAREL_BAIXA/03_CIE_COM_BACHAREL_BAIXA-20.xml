@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:25:55</Created>
+	<LastChange>2020-09-18T02:27:34</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-20.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,311 854,311 854,924 855,924 855,925 856,925 856,1793 660,1793 660,1848 334,1848 334,2099 170,2099 170,1814 218,1814 218,1165 219,1165 219,925 218,925 218,898 169,898 169,792 209,792 209,690 168,690 168,311 169,311"/>
+	<TextEquiv conf="0.95307">
+	<Unicode>QUESTÃO 15
+Uma das técnicas de ataques em ambientes virtuais é
+denominada "homem no meio" (man in the middle),
+cujo objetivo é associar o endereço MAC do intruso
+ao endereço |P de um outro nó da rede — nesse caso,
+o ponto de acesso (Access Point - AP) wi-fi da rede.
+Como o AP é o gateway padrão dessa subrede sem
+fio, todo o tráfego originalmente direcionado ao
+ponto de acesso pode ser interceptado pelo intruso.
+Esse ataque explora deficiências conhecidas no
+projeto de segurança do IEEE 802.11 wi-fi.
+COULOURIS, G. et al. Sistemas distribuídos: conceitos e projeto.
+Porto Alegre: Bookman, 2013 (adaptado)
+Considerando um ataque virtual pela técnica
+“homem no meio”, por meio de Address Resolution
+Protocol (ARP) spoofing, avalie as afirmações a seguir.
+l. O problema do compartilhamento de chave
+presente no projeto de segurança do AP pode
+ser resolvido com a utilização de um protocolo
+baseado em chave pública para negociar
+chaves individuais, como é feito no Transport
+Layer Security (TLS) / Secure Sockets Layer (SSL).
+Il. O problema do desvio de tráfego causado
+pelo ataque de homem no meio pode ser
+evitado com a configuração de um firewall
+nos pontos de acesso que filtram tráfego
+entre clientes de uma mesma subrede.
+IIl. O problema da falta de autenticação
+dos pontos de acesso sem fio pode ser
+contornado, obrigando-se o ponto de acesso
+a fornecer um certificado que possa ser
+autenticado pelo uso de uma chave pública
+obtida de terceiros.
+IV. A vulnerabilidade das chaves de 40 bits ou 64
+bits a ataques de força bruta pode ser evitada
+utilizando-se um AP que permita chaves de
+128 bits e limitando-se o tráfego a dispositivos
+compatíveis com chaves de 128 bits.
+É correto apenas o que se afirma em
+A I E II
+B I E III
+C II E IV
+D I, III E IV
+E II, III E IV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="890,244 1061,244 1061,314 1576,314 1576,586 1575,586 1575,700 1577,700 1577,813 1575,813 1575,1003 1576,1003 1576,1281 1575,1281 1575,1390 1576,1390 1576,1459 1575,1459 1575,1783 1277,1783 1277,1841 1071,1841 1071,1973 1129,1973 1129,2103 891,2103 891,1874 892,1874 892,1807 939,1807 939,1460 890,1460 890,1390 1087,1390 1087,1281 891,1281 891,1282 890,1282 890,1087 912,1087 912,979 890,979 890,700 939,700 939,587 890,587"/>
+	<TextEquiv conf="0.96197">
+	<Unicode>QUESTÃO 16
+A segurança da informação está diretamente
+relacionada com a proteção de um conjunto
+de informações, no sentido de preservar o
+valor que possuem para um indivíduo ou uma
+organização, tendo como propriedades básicas a
+confidencialidade, a integridade, a disponibilidade e
+a autenticidade.
+LYRA, M. R. Segurança e auditoria em sistemas de informação.
+Rio de Janeiro: Ciência Moderna, 2008 (adaptado).
+A engenharia social é definida como o conjunto
+de técnicas utilizadas para reunir informações,
+explorando a tendência humana a ignorar os
+sistemas de segurança. Os ataques de engenharia
+social implicam interação com outros indivíduos,
+o que evidencia Oo aspecto psicológico da
+engenharia social.
+MITNICK, K. D.; SIMON, W. L. The art of deception: controlling the
+human element of security. New York: Wiley, 2001 (adaptado).
+A ética normativa é o "certo" e o "errado" do
+comportamento social interpretado. A principal
+diferença entre essas duas perspectivas é a
+forma como um dilema moral é abordado, e não
+necessariamente as consequências disso.
+Disponível em: &lt;http://www.ethicsmorals.com&gt;.
+Acesso em: 18 Jul. 2017 (adaptado).
+Em relação à segurança da informação, avalie as
+afirmações a seguir.
+l. As empresas sempre estarão vulneráveis,
+pois o fator humano é o elo mais fraco da
+segurança da informação.
+Il. A segurança da informação não é um
+produto e, sim, um processo.
+Ill. A ética profissional é um importante fator a
+ser considerado na segurança da informação.
+É correto o que se afirma em
+A |, apenas.
+B Il, apenas.
+C l e lll, apenas.
+D Il elll, apenas.
+E I, II E III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

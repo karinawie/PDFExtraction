@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T17:32:03</Created>
+	<LastChange>2020-09-15T17:44:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_PRODUCAO-27.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r8">
+	<Coords points="785,181 787,2047 790,2047 788,181"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="84,878 84,1326 773,1326 773,878"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,250 770,250 770,858 769,858 769,1706 470,1706 470,1766 322,1766 322,2034 84,2034 84,859 83,859 83,250 84,250"/>
+	<TextEquiv conf="0.96586">
+	<Unicode>QUESTÃO 28
+A capacidade produtiva é um indicador
+fundamental para analisar o fluxo operacional de
+uma organização. O planejamento e o controle da
+capacidade de produção determinam a capacidade
+efetiva da operação produtiva, de forma que ela
+possa responder à demanda.
+Considere uma empresa têxtil que pode utilizar um
+regime de trabalho de três turnos diários, de 8 horas
+cada um, nos sete dias da semana. A capacidade de
+produção é de 200 peças de determinado item por
+hora. Em uma semana, a empresa trabalhou dois
+turnos por dia, durante cinco dias. Os registros de
+produção dessa semana de trabalho apresentaram
+ocorrências conforme tabela a seguir.
+Com base nesses dados, avalie as afirmações
+a seguir.
+|. A capacidade máxima de produção da
+empresa é de 33 600 peças por semana.
+Il. A capacidade programada de produção na
+semana avaliada foi de 16 000 peças.
+Ill. A máxima produção possível na semana
+avaliada foi de 13 200 peças.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1491,247 1491,611 1199,611 1199,861 1306,861 1306,1029 1491,1029 1491,1369 1192,1369 1192,1424 986,1424 986,1552 1044,1552 1044,1678 806,1678 806,1456 807,1456 807,1391 854,1391 854,1153 805,1153 805,1029 807,1029 807,834 806,834 806,611 805,611"/>
+	<TextEquiv conf="0.96887">
+	<Unicode>QUESTÃO 29
+Em uma fábrica, a manutenção dos equipamentos
+é uma forma de melhoria da produtividade. Vários
+indicadores são importantes nesse controle,
+destacando-se o MTBF (Mean Time Between
+Failures) e o MTTR (Mean Time To Repair).
+Uma prensa funciona diariamente em turno de 12
+horas. Em um turno de trabalho, o equipamento
+ficou parado por 2 horas para manutenção e
+apresentou MTBF' de 2 horas e 30 minutos.
+Considere que:
+MTBF = (TD -TM)/P;
+MTTR=TM/P;
+em que:
+TD = tempo total de disponibilidade;
+TM = tempo total de manutenção;
+P=número de paradas.
+Com base nos dados apresentados, avalie as
+afirmações a seguir.
+|. O MTTR da prensa foi de 180 minutos.
+Il. O equipamento teve 4 paradas durante o
+turno de 12 horas.
+Ill. Quanto maior for o MTBF e menor for o
+MTTR, melhor será o desempenho do
+equipamento.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:31:26</Created>
+	<LastChange>2020-09-18T02:32:59</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="339,843 339,936 169,936 169,843"/>
+	<TextEquiv conf="0.56199">
+	<Unicode>O 111el.
+QUESTÃO 21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,309 1578,309 1578,450 1434,450 1434,564 1540,564 1540,593 555,593 555,704 398,704 398,829 170,829 170,612 218,612 218,450 170,450 170,310 169,310"/>
+	<TextEquiv conf="0.90894">
+	<Unicode>QUESTÃO 20
+Em redes de computadores, a camada de transporte é responsável pela transferência de dados entre
+máquinas de origem e destino. Dois protocolos tradicionais para essa camada são o Transmission Control
+Protocol (TCP) e o User Datagram Protocol (UDP). Diferentemente do UDP, o TCP é orientado à conexão.
+Com relação a esses protocolos, avalie as afirmações a seguir.
+|. OUDP é mais eficiente que o TCP quando o tempo de envio de pacotes é fundamental.
+Ill. O TCP é mais eficiente que o UDP quando a confiabilidade de entrega de dados é fundamental.
+Il. OTCP é o mais utilizado em jogos on-line de ação para a apresentação gráfica.
+É correto o que se afirma em
+A |l, apenas.
+B llI, apenas.
+C l e ll, apenas.
+D Il e Ill, apenas.
+E I, II E III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="169,969 1576,969 1576,1067 1573,1067 1573,1230 561,1230 561,1382 1055,1382 1055,1411 434,1411 434,1629 170,1629 170,1412 168,1412 168,1382 170,1382 170,1068 169,1068"/>
+	<TextEquiv conf="0.95845">
+	<Unicode>Na lógica proposicional, definem-se regras para determinar o valor-verdade (verdadeiro ou falso) de
+sentenças em relação a um modelo particular. Essas regras permitem representar raciocínios lógicos
+comuns das linguagens naturais.
+Nesse contexto, considere a sentença e as proposições lógicas a seguir.
+“Um veículo que é elétrico (E) pode ser um robô (R) se for autônomo (A), caso contrário não é um robô (R)”.
+PLI=(EAR)JOA;
+P2=zeE-S(R OA);
+P3B= E &gt;((A&gt;R)v-R).
+A sentença pode ser representada pela(s) expressão(ões) lógica(s)
+A P2, apenas.
+B P3, apenas.
+C PleP2, apenas.
+D Pl eP3, apenas.
+E P1,P2eP3.</Unicode></TextEquiv></TextRegion></Page></PcGts>

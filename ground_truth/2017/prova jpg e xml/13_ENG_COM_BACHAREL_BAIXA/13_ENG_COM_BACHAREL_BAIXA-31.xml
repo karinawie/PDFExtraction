@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:57:44</Created>
+	<LastChange>2020-11-21T00:03:36</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="170,244 341,244 341,314 1576,314 1576,1076 1577,1076 1577,1654 1575,1654 1575,1789 171,1789 171,1788 170,1788 170,1147 169,1147 169,314 170,314"/>
+	<ImageRegion id="r1">
+	<Coords points="169,688 169,1016 1575,1016 1575,688"/></ImageRegion>
+	<TextEquiv conf="0.96415">
+	<Unicode>QUESTÃO 32
+A unidade de processamento gráfico (GPU, graphics processing unit), originalmente projetada para
+síntese de imagens de alta qualidade, pode ser encontrada embarcada em uma placa de vídeo
+dedicada ou integrada diretamente em uma placa-mãe. Entre as suas interfaces de programação de
+aplicativos, destaca-se a API OpenGL. A versão OpenGL 4.0 abstrai a arquitetura da GPU como um fluxo
+de renderização que consegue transformar uma especificação dos vértices de objetos de interesse
+dados em um espaço vetorial para uma imagem digital foto-realística, tirando máximo proveito dos
+circuitos dedicados de renderização de primitivas básicas, como pontos, segmentos e triângulos.
+O diagrama a seguir mostra que o fluxo de renderização passa por vários blocos de funções.
+Com base no diagrama apresentado e no procedimento de renderização de imagens de malhas
+triangulares, é correto afirmar que
+O os vértices das facetas triangulares de uma malha precisam ter suas coordenadas projetadas no plano
+da imagem pela aplicação, antes do seu envio para o bloco Vertex Shader.
+O há procedimentos de otimização, como o descarte de facetas não visíveis e o recorte de uma cena
+completa em uma subcena enquadrada pelos parâmetros de câmera, antes da passagem para o bloco
+de Rasterização.
+O as coordenadas de textura devem ser associadas aos vértices da malha triangular quando se deseja
+texturizá-la, pois essas coordenadas são utilizadas no bloco Vertex Shader para acesso aos dados de
+textura.
+O o modelo de tonalização de Phong, que consiste na interpolação dos vetores normais atribuídos aos
+vértices, deve ser programado no bloco Vertex Shader para se computar a cor da superfície da malha
+renderizada.
+O as informações referentes a posições, cores, vetores normais da superfície, coeficientes do material
+da superfície e coordenadas de textura dos vértices são suficientes para geração de uma imagem
+foto-realística.</Unicode></TextEquiv></TextRegion></Page></PcGts>

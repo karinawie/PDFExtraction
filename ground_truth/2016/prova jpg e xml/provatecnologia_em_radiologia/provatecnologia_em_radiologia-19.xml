@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-29T19:57:33</Created>
+	<LastChange>2020-10-29T20:08:04</LastChange></Metadata>
+	<Page imageFilename="provatecnologia_em_radiologia-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="145,252 1600,252 1600,1904 1601,1904 1601,1935 1602,1935 1602,1976 1598,1976 1598,2060 1395,2060 1395,2061 1187,2061 1187,2062 979,2062 979,2063 771,2063 771,2064 146,2064 146,430 145,430"/>
+	<ImageRegion id="r1">
+	<Coords points="338,572 338,1547 1605,1547 1605,572"/></ImageRegion>
+	<TextEquiv conf="0.94407">
+	<Unicode>QUESTÃO 25
+O desenvolvimento da tecnologia de aquisição, processamento e armazenamento digital de imagens exigiu
+a superação de vários desafios, entre os quais a integração de sistemas diferentes de tecnologia, aquisição
+e fabricação na área da saúde. O layout da rede utilizada para integrar os sistemas depende dos serviços
+oferecidos pelo hospital ou clínica. A figura a seguir mostra um possível esquema para PACS (Picture Archiving
+and Communication Systems), de modo a atender um hospital que conte com Sistema de Informações
+Hospitalares (SIH), com Sistema de Informações Radiológicas (SIR) e com outros serviços.
+BONTRAGER, K. L.; LAMPIGNANO, !. P. Tratado de Posicionamento Radiográfico e Anatomia Radiológica.
+Rio de Janeiro: Elsevier, 8 ed., 2015 (adaptado).
+Quais padrões/protocolos devem ser utilizados para promover a integração, respectivamente, de textos,
+imagens e comunicação em rede?
+O HL7 (Health Level Seven), Corba (Common Object Request Broker Architecture) e TCP/IP (Transmission
+Control Protocol/Internet Protocol).
+O HL7 (Health Level Seven), DICOM (Digital Imaging and Communications in Medicine) e PACS (Picture
+Archiving and Communication Systems).
+O HL7 (Health Level Seven), DICOM (Digital Imaging and Communications in Medicine) e TCP/IP (Transmission
+Control Protocol/Internet Protocol).
+O TCP/IP (Transmission Control Protocol/Internet Protocol), Corba (Common Object Request Broker
+Architecture) e PACS (Picture Archiving and Communication Systems).
+O PACS (Picture Archiving and Communication Systems), DICOM (Digital Imaging and Communications in
+Medicine) e Corba (Common Object Request Broker Architecture).</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:42:07</Created>
+	<LastChange>2020-09-15T02:44:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-29.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r0">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="144,534 144,947 723,947 723,534"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 770,247 770,515 769,515 769,1196 768,1196 768,1371 575,1371 575,1426 249,1426 249,1680 85,1680 85,1051 84,1051"/>
+	<TextEquiv conf="0.84493">
+	<Unicode>QUESTÃO 32
+O conhecimento da composição das fases em
+equilíbrio é essencial para o fracionamento de
+compostos de misturas complexas. Nesse contexto,
+o gráfico a seguir representa as curvas de equilíbrio
+líquido-vapor para uma mistura binária, sendo P,
+e P;, as pressões de vapor das substâncias a e B,
+respectivamente, a uma dada temperatura T.
+Com base nas informações apresentadas, avalie as
+afirmações a seguir.
+l. O ponto W representa uma única fase, a
+fase líquida.
+Il. Asubstância B é mais volátil que a substância a.
+III. O ponto J equilíbrio representa duas fases em
+IV. O ponto Z representa uma mistura rica na fase vapor.
+É correto apenas o que se afirma em
+A I e III.
+B I e IV.
+C II e III.
+D I, II e IV.
+E II, III e IV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="805,179 976,179 976,250 1491,250 1491,706 1490,706 1490,939 1491,939 1491,1522 1490,1522 1490,1706 1296,1706 1296,1765 955,1765 955,2033 806,2033 806,1800 807,1800 807,1732 854,1732 854,1325 805,1325 805,939 855,939 855,707 805,707"/>
+	<TextEquiv conf="0.96676">
+	<Unicode>QUESTÃO 33
+Suponha que uma essência à base de sementes
+brasileiras tenha sido desenvolvida por um grupo de
+estudantes visando à valorização da matéria prima
+local e à produção de um perfume de ambientes de
+baixo custo. O produto tem aspecto viscoso e será
+comercializado em um frasco difusor sem tampa,
+com fundo esférico achatado e gargalo cilíndrico
+de 10 cm de altura e 2 cm de diâmetro. A seguir,
+são apresentados alguns dos parâmetros que
+foram considerados para a estimativa do tempo de
+sublimação total de uma unidade de 20 g do produto.
+*º Condiçõesdo ambiente: 1 atm e 25ºC.
+* “Pressão de vapor do produto: 0,1 atm a 25 ºC.
+º* Difusividade do produto no ar: 0,10 cm?/s.
+* Massa molar média do produto: 80 g/mol.
+A partir desses dados e considerando a transferência
+de massa exclusivamente por difusão, o tempo de
+consumo estimado para uma carga de 20 g foi de
+21 dias, aquém da expectativa inicial de que os
+consumidores fizessem apenas recargas mensais.
+Com base nos dados e informações apresentados e
+considerando a eficiência das propostas do grupo
+para aumentar o tempo de duração da carga, avalie
+as afirmações a seguir.
+|. Instalar uma tampa perfurada no frasco.
+Il. Diminuir o diâmetro e o comprimento do
+gargalo da embalagem.
+Ill. Adicionar — pequenas — esferas — inertes
+flutuantes no interior do frasco.
+IV. Substituir o solvente utilizado na essência
+por outro com maior pressão de vapor na
+temperatura ambiente.
+É correto apenas o que se afirma em
+A I e III.
+B II e IV.
+C III e IV.
+D I, II e III.
+E I, II e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

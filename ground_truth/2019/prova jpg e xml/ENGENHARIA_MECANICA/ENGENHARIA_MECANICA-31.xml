@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:41:38</Created>
+	<LastChange>2020-09-15T04:42:19</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-31.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r3">
+	<Coords points="780,181 787,2047 795,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="89,415 89,810 750,810 750,415"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="85,179 256,179 256,248 769,248 769,1818 768,1818 768,1996 678,1996 678,2046 481,2046 481,2047 85,2047 85,1732 84,1732 84,1622 83,1622 83,1558 84,1558 84,1557 133,1557 133,1044 84,1044 84,976 85,976 85,975 132,975 132,393 84,393 84,180 85,180"/>
+	<TextEquiv conf="0.94549">
+	<Unicode>QUESTÃO 34
+Considere o gráfico a seguir, que representa o grau
+de comprometimento da definição dos custos
+de um produto com relação às etapas do seu
+desenvolvimento.
+ROZENFELD, H. et al. Gestão de desenvolvimento de produtos:
+uma referência para melhoria de processo.
+São Paulo: Saraiva, 2006 (adaptado).
+Com base no gráfico apresentado, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. A definição dos componentes a serem
+fabricados e os respectivos processos de
+fabricação estabelecem as exigências de
+capacidade produtiva, bem como a qualidade
+necessária aos mesmos.
+PORQUE
+Il. A fase inicial do desenvolvimento de um
+produto é uma fase crítica com relação
+às decisões de projeto que implicam no
+comprometimento dos gastos em todas as
+etapas do ciclo de vida do produto.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="805,179 976,179 976,247 1492,247 1492,891 1264,891 1264,892 1232,892 1232,1026 1352,1026 1352,1159 1080,1159 1080,1160 807,1160 807,1161 806,1161 806,894 805,894"/>
+	<TextEquiv conf="0.96807">
+	<Unicode>QUESTÃO 35
+Os trens de engrenagens compostos se
+caracterizam por possuírem duas engrenagens no
+mesmo eixo e, consequentemente, com a mesma
+rotação. A relação de transmissão entre a rotação
+de saída e a de entrada em um par de engrenagens
+em contato não deve exceder 10:1. Para um ângulo
+de pressão de 25º, o número mínimo de dentes que
+o pinhão deve conter, para se evitar o fenômeno
+indesejável de interferência, é 12.
+Considerando as informações apresentadas e a
+teoria de engrenamento, assinale a opção que
+representa corretamente o menor número de
+dentes das engrenagens de um trem composto por
+dois estágios, com uma redução de 28:1, em que
+N, representa o número de dentes do pinhão de
+entrada.
+A N,=12e N;j=336.
+B N,=12, N;=84e N,=336.
+C N,=12, N;=48,N,=12e N, =84.
+D N,=12, N;=42, Ny=15e N,=150.
+E N,=12, N;=72e N,=336.</Unicode></TextEquiv></TextRegion></Page></PcGts>

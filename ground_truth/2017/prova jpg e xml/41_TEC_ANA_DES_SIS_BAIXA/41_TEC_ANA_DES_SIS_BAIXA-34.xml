@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:22:11</Created>
+	<LastChange>2020-11-30T17:21:57</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-34.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="171,244 341,244 341,312 1576,312 1576,459 1225,459 1225,460 873,460 873,461 730,461 730,536 580,536 580,759 630,759 630,851 813,851 813,973 961,973 961,1082 763,1082 763,1248 1029,1248 1029,1357 913,1357 913,1523 1095,1523 1095,1575 658,1575 658,1576 481,1576 481,1767 879,1767 879,1951 946,1951 946,2003 280,2003 280,2032 274,2032 274,2004 271,2004 271,1912 219,1912 219,1729 169,1729 169,1402 170,1402 170,1401 174,1401 174,1210 171,1210 171,1127 172,1127 172,1126 174,1126 174,935 169,935 169,852 170,852 170,851 174,851 174,760 175,760 175,759 222,759 222,538 169,538 169,313 170,313 170,245 171,245"/>
+	<TextEquiv conf="0.77185">
+	<Unicode>QUESTÃO 30
+A área de desenvolvimento de software está se tornando cada vez mais complexa. Para lidar com essa
+realidade, os desenvolvedores contam com linguagens de programação baseadas no paradigma de
+orientação a objetos, cujos pilares são abstração, encapsulamento, herança e polimorfismo. No código a
+seguir, observa-se a implementação de classes relacionadas.
+public abstract class Impressora (
+String nome;
+Impressora() ()
+Impressora(String n) (
+this.nome = n;
+)
+public void imprimir () ()
+)
+public class Laser extends Impressora (
+public Laser() ()
+public void imprimir() (
+System.out .println(“Imprimindo na Laser");
+)
+)
+class Matricial extends Impressora (
+public Matricial () ()
+public void imprimir() (
+System.out .println (“Imprimindo na Matricial”);
+)
+)
+public class JatoDeTinta extends Impressora (
+public JatoDeTinta() ()
+public void imprimir ()(
+System.out .println(“Imprimindo na Jato de tinta”);
+)
+)
+public class Main (
+public static void main(String args[]) (|
+Impressora imp[] = new Impressora[3];
+imp[0] = new Laser();
+imp[1] = new JatoDeTinta();
+imp[2] = new Matricial();
+for(int i = imp.length - 1; i &gt;= O; i--)(
+imp[i].imprimir();
+)</Unicode></TextEquiv></TextRegion></Page></PcGts>

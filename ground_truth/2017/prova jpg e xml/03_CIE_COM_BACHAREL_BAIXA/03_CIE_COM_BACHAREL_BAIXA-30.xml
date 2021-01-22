@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:42:18</Created>
+	<LastChange>2020-09-18T02:42:39</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="237,553 239,1196 1512,1192 1510,549"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 1577,244 1577,516 1576,516 1576,1299 1575,1299 1575,1836 1576,1836 1576,2004 1279,2004 1279,2057 976,2057 976,2109 170,2109 170,1708 169,1708 169,1635 218,1635 218,1299 169,1299"/>
+	<TextEquiv conf="0.49555">
+	<Unicode>QUESTÃO 32. A ———————————dã r—=————Â —
+O uso de agentes inteligentes permite a resolução de problemas complexos por meio do uso de heurísticas
+implementadas de forma distribuída. Na literatura, o Mundo do Aspirador de Pó (Vacuum-Cleaner World)
+é um problema fictício que envolve o emprego e uso de agentes no ensino dos conceitos relacionados a
+Inteligência Artificial. Esse mundo fictício é composto por um aspirador de pó e dois ou mais ambientes,
+conforme ilustra a figura a seguir. Os ambientes podem estar sujos ou limpos.
+Nesse mundo, um agente representa o aspirador de pó equipado com dois sensores: um de localização e
+outro para a identificação de sujeira. O agente pode executar as seguintes operações:
+* verificar se o ambiente atual está sujo;
+* limparo ambiente;
+º* fazer nada;
+º* mover-se para o próximo ambiente, utilizando um dos comandos: direita, esquerda, frente
+ou trás.
+Russell, S. J.; Norvig, P. Artificial intelligence: a modern approach. 3. ed. New Jersey: Pearson, 2009 (adaptado).
+Com relação aos conceitos envolvendo sistemas multiagentes e o problema do Mundo do Aspirador de
+Pó apresentado, assinale a opção correta.
+A Definidas as localizações do agente e da sujeira como elementos únicos de um estado, no cenário da
+figura, há 2º = 4 estados possíveis para avaliação.
+B O comportamento de um agente é definido por uma ou mais funções que mapeiam uma dada
+sequência percebida para uma ação definida.
+C A sequência percebida de um agente refere-se ao histórico do resultado de todas as ações tomadas
+pelo agente até o presente momento.
+D A percepção de um agente refere-se aos resultados das ações tomadas por ele.
+E A opção “fazer nada” é uma percepção válida do agente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

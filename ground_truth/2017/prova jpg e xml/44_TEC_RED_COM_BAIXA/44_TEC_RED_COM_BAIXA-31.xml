@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:53:56</Created>
+	<LastChange>2020-11-30T18:26:05</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="169,1294 339,1294 339,1353 1575,1353 1575,1551 1576,1551 1576,1619 1575,1619 1575,1837 1340,1837 1340,1944 1437,1944 1437,2118 169,2118 170,2118 170,1883 168,1883 168,1854 218,1854 218,1619 170,1619 170,1618 169,1618 169,1460 168,1460 168,1353 169,1353"/>
+	<TextEquiv conf="0.96361">
+	<Unicode>QUESTÃO 35
+A principal causa de ineficiência energética nos datacenters é a baixa taxa de utilização média dos recursos.
+Apesar de os recursos serem provisionados para lidar com as cargas máximas teóricas, é improvável que
+todos os servidores de um datacenter em larga escala sejam totalmente utilizados simultaneamente.
+BELOGLAZOV, A.; BUYYA, R.; LEE, Y. C.; ZOMAYA, A. A taxonomy and survey of energy-efficient data centers and cloud computing.
+In: MILEKOWITZ, M. V. (Ed.). Advances in computers. v. 82. Amsterdam: Elsevier, p. 47-111, 2011 (adaptado).
+Considerando o texto apresentado e o conceito de virtualização, avalie as asserções a seguir e a relação
+proposta entre elas.
+|. A virtualização possibilita a concentração de máquinas virtuais no datacenter e, assim, contribui
+efetivamente para a implementação de uma estratégia de maior eficiência energética.
+PORQUE
+Il. A virtualização permite alocar cargas de trabalho na mínima quantidade tecnicamente admissível
+de recursos físicos e, assim, mantê-los com a maior taxa de utilização possível.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras, mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,295 1576,295 1576,558 1575,558 1575,675 1576,675 1576,993 1340,993 1340,1100 1437,1100 1437,1273 169,1273 169,1039 168,1039 168,1010 218,1010 218,658 170,658 170,657 169,657 169,557 168,557 168,295 169,295"/>
+	<TextEquiv conf="0.93133">
+	<Unicode>QUESTÃO 34
+A unidade de Tecnologia da Informação (TI) de determinada empresa é avaliada negativamente por
+não produzir níveis de serviço adequados. Há alguns meses, após a fusão dessa empresa com outra
+do mesmo ramo, foi nomeado um novo executivo, cujo desafio é melhorar o desempenho da unidade.
+Constatou-se que uma prática comum é a introdução de novos produtos na empresa, sem que a equipe
+de TI seja preparada, demandando a construção de infraestrutura de serviços e elaboração de sistemas
+de suporte necessários. É caro e difícil satisfazer essa demanda para esse fim específico e os resultados
+alcançados têm gerado insatisfação contínua em relação à unidade de TI.
+HUNTER, R.; WESTERMAN, G. O verdadeiro valor de TI. São Paulo: M. Books, 2011 (adaptado).
+Com base nessa situação, avalie as seguintes asserções e a relação proposta entre elas.
+|. A empresa possui um arranjo decisório inadequado para suas expectativas; a pouca credibilidade
+da área de Tl e a falta de envolvimento dessa área nas decisões compromete o alinhamento
+estratégico entre a Tl e o negócio, problema relacionado à governança de TI.
+PORQUE
+Il. Um dos objetivos da governança de TI é atender às expectativas organizacionais, além de definir
+quem pode tomar as decisões relacionadas à TI. Portanto, a criação de um comitê composto
+exclusivamente pelo pessoal da área de TI, com autonomia para tomar as decisões que afetam
+as demandas por serviços e infraestrutura de TI, seria uma opção acertada.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e II são proposições verdadeiras, e a || é uma justificativa correta da |.
+O As asserções | e II são proposições verdadeiras, mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma proposição verdadeira.
+O As asserções | e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

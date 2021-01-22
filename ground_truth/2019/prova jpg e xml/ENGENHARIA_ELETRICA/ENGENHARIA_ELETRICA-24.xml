@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:40:12</Created>
+	<LastChange>2020-09-12T22:40:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-24.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="612,613 612,989 994,990 994,614"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="150,1121 150,1418 744,1418 744,1121"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="155,1439 155,1726 744,1726 744,1439"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="160,1742 160,2042 752,2042 752,1742"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="863,1126 863,1421 1436,1421 1436,1126"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="865,1444 865,1726 1436,1726 1436,1444"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1492,247 1492,476 1489,476 1489,1009 1490,1009 1490,1078 84,1078 84,1077 83,1077 83,503 84,503"/>
+	<TextEquiv conf="0.96521">
+	<Unicode>QUESTÃO 19
+O Controlador Lógico Programável (CLP) é um equipamento de controle bastante utilizado no setor
+industrial, sobretudo em sistemas de acionamentos, controle de processos, manipulação de temperatura,
+pressão, vazão, nível, entre outras grandezas. Uma das linguagens mais utilizadas para a programação
+dos CLP é a Ladder, por sua similaridade aos comandos lógicos e circuitos baseados em relés. O Mapa de
+Karnaugh fornece um método para simplificar as expressões booleanas de sistemas combinacionais, por
+meio do qual se obtém sistemas de controle mais simples e baratos.
+A figura a seguir mostra um sistema que utiliza o Mapa de Karnaugh com quatro variáveis de entrada:
+A, B,Ce D, cuja combinação resulta na saída 5.
+Aplicando-se a simplificação por meio do Mapa de Karnaugh, qual representação em diagramas na
+linguagem Ladder se obtém?</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:55:23</Created>
+	<LastChange>2020-11-30T18:31:26</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="169,1574 338,1574 338,1575 339,1575 339,1638 1576,1638 1576,1933 377,1933 377,2035 396,2035 396,2079 459,2079 459,2108 170,2108 170,2109 170,2024 169,2024"/>
+	<TextEquiv conf="0.96808">
+	<Unicode>QUESTÃO 21
+Uma empresa multinacional está avaliando um incidente de segurança ocorrido internamente com o
+envolvimento de um de seus funcionários, o que poderá ser motivo para o encerramento de seu contrato.
+O referido funcionário estava realizando o compartilhamento de senhas e também enviando mensagens
+por meio do serviço de correio eletrônico da empresa, com o objetivo de difamar e caluniar outros colegas
+de trabalho.
+Nessa situação, de acordo com as políticas de segurança que definem os direitos e as responsabilidades de
+cada um em relação à segurança dos recursos computacionais que utiliza, o funcionário violou a política de
+O senhas.
+O backup.
+O privacidade.
+O uso aceitável.
+O confidencialidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,300 1576,300 1576,510 1531,510 1531,1239 1575,1239 1575,1478 1577,1478 1577,1547 171,1547 171,1548 170,1548 170,1387 169,1387 169,1169 168,1169 168,300 169,300"/>
+	<ImageRegion id="r2">
+	<Coords points="163,527 163,1066 1575,1066 1575,527"/></ImageRegion>
+	<TextEquiv conf="0.95843">
+	<Unicode>QUESTÃO 20
+As redes virtuais privadas (VPN) representadas na figura a seguir foram implementadas por meio
+da tecnologia de encaminhamento de pacotes baseados em rótulos (MPLS). Esse modelo utiliza a
+infraestrutura de rede IP pública para a formação de VPNs de camada 3, garantindo, dessa forma, o mesmo
+nível de segurança dos circuitos virtuais privados (PVC) de camada 2 do frame-relay. Outra importante
+contribuição desse modelo foi a introdução do conceito de roteadores virtuais (VRF), que reduziu
+consideravelmente a necessidade de equipamentos para cada cliente dentro da operadora.
+A respeito do funcionamento da VPN MPLS representada na figura acima, assinale a opção correta.
+O O protocolo MPLS é implementado em todos os roteadores dos clientes (CE-1 e CE-2).
+O Somente é possível um roteador VRF para cada site, mas um site pode estar associado a uma ou a
+mais de uma VPN.
+O Os roteadores virtuais (VRF) são implementados em todos os roteadores de núcleo MPLS (MPLS-1,
+MPLS-2 e MPLS-3).
+O Os roteadores dos clientes (CE-1 e CE-2) divulgam suas rotas para todos os roteadores de borda da
+operadora, que, por sua vez, as divulgam para todos os outros clientes de sua rede VPN MPLS.
+O É estabelecida uma VPN ponto a ponto entre os roteadores do cliente (CE-1) do site A e do site B por
+meio da troca direta de informações de roteamento entre esses roteadores.</Unicode></TextEquiv></TextRegion></Page></PcGts>

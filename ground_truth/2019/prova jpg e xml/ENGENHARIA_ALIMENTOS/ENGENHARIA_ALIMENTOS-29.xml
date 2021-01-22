@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T03:10:51</Created>
+	<LastChange>2020-09-10T03:10:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ALIMENTOS-29.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.96486">
+	<Unicode>Volume de suco (ml)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="365,400 365,876 1510,876 1510,400"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,179 254,179 254,246 1492,246 1492,1207 1491,1207 1491,1331 1490,1331 1490,1418 85,1418 85,891 84,891"/>
+	<TextEquiv conf="0.96550">
+	<Unicode>QUESTÃO 33
+Uma das ferramentas mais importantes no controle estatístico de processos é a construção dos gráficos
+de controle por variáveis. Esse modelo de cartas de controle deve ser escolhido de acordo com o processo
+industrial e o tipo de variável selecionada. O gráfico de carta de controle, apresentado a seguir, representa a
+medição do volume contido em embalagens de suco, a cada 15 minutos de produção.
+Disponível em: &lt;https://edisciplinas.usp.br&gt;. Acesso em: 19 jun. 2019 (adaptado).
+Com base nas informações apresentadas, assinale a opção correta.
+O O gráfico não apresenta a média e o desvio padrão do processo, por isso não é possível estimar se o
+processo encontra-se em conformidade ou não.
+O Os pontos que estão fora dos limites de especificação são considerados outliers e, portanto, não estão
+em conformidade; ao eliminá-los, o processo estará em conformidade.
+O O processo encontra-se em não conformidade, pois apresenta outliers, dessa forma, deve-se identificar
+e eliminar as principais causas dos defeitos.
+O O gráfico de controle apresentado não pode representar o processo de envase de suco, uma vez que
+só é avaliado a cada 15 minutos de produção, devendo ser reduzido o tempo de medição para que os
+dados sejam mais precisos.
+O O processo está em conformidade, portanto recomenda-se que seja reiniciada a investigação em
+busca de causas especiais que estejam promovendo alterações fora dos limites de especificação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

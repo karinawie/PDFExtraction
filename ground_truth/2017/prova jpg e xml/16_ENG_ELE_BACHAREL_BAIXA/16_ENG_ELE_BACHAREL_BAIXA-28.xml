@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:46:28</Created>
+	<LastChange>2020-11-27T17:00:11</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="868,246 872,2112 877,2111 873,246"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="901,884 901,1354 1556,1352 1556,883"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,245 1062,245 1062,312 1578,312 1578,865 1576,865 1576,1489 997,1489 997,1736 891,1736 891,313 890,313"/>
+	<TextEquiv conf="0.96483">
+	<Unicode>QUESTÃO 30
+O desenvolvimento de tecnologias sustentáveis
+nos processos industriais, além de contribuir para
+a competitividade da empresa, visa à redução do
+consumo de energia e da geração de resíduos no
+ambiente. Os equipamentos elétricos e eletrônicos
+que atuam no controle de processos devem
+ser eficientes do ponto de vista energético e
+economicamente viáveis. Um exemplo desse tipo
+de dispositivo são os amplificadores operacionais,
+os quais são muito utilizados em sistemas de
+controle, automação e telecomunicações. Na figura
+a seguir é representado um circuito contendo um
+amplificador operacional ideal, alimentado por
+uma fonte simétrica com tensão V de 12 V.
+Considerando uma tensão contínua de entrada (V,)
+de 2 V, qual a tensão de saída (V ) do circuito?
+O 41v
+O -2v
+Oiv
+O &gt;2v
+Oav</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="169,244 341,244 341,312 855,312 855,649 856,649 856,957 855,957 855,1615 311,1615 311,1872 171,1872 171,1873 170,1873 170,1616 168,1616 168,1392 169,1392 169,650 168,650 168,313 169,313"/>
+	<ImageRegion id="r4">
+	<Coords points="180,983 180,1366 850,1366 850,983"/></ImageRegion>
+	<TextEquiv conf="0.94700">
+	<Unicode>QUESTÃO 29
+Um sistema de aquisição de temperatura de
+uma chocadeira eletrônica de ovos é composto
+por um sensor de temperatura, um conversor
+analógico-digital (A/D) e um microcontrolador.
+O sensor de temperatura possui, em sua saída,
+variação perfeitamente linear de 1 mV/"C, e o
+conversor A/D possui faixa de tensão de entrada
+de—5Va+5V.
+Para a chocagem de ovos de uma espécie rara
+de pássaro, a temperatura da chocadeira deve
+variar entre 35 ºC e 39 ºC, com elevação de 0,5 “ºC
+a cada três dias. A figura a seguir ilustra um
+circuito eletrônico com amplificador operacional
+para monitoramento da temperatura, no qual
+o sensor foi conectado à sua entrada, e o
+conversor analógico-digital, à sua saída.
+Com base nas informações apresentadas,
+conclui-se que, para a medição correta da
+temperatura e a garantia da chocagem de ovos
+dessa espécie de pássaro, a resolução mínima da
+quantidade de bits/amostra do conversor A/D
+desse sistema é de
+O 8 bits.
+O 10 bits.
+O 12 bits.
+O 16 bits.
+O 24 bits.</Unicode></TextEquiv></TextRegion></Page></PcGts>

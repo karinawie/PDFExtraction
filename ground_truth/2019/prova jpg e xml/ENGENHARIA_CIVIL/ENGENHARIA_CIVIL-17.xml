@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:23:26</Created>
+	<LastChange>2020-09-11T20:23:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-17.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r4">
+	<Coords points="787,181 786,2048 788,2048 789,181"/></SeparatorRegion>
+	<ImageRegion id="r8">
+	<Coords points="806,519 805,1322 1522,1323 1524,520"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,518 770,518 770,1003 769,1003 769,1290 768,1290 768,1466 678,1466 678,1514 84,1514 84,1093 83,1093 83,1030 133,1030 133,492 84,492 84,396 83,396 83,247 84,247"/>
+	<TextEquiv conf="0.96583">
+	<Unicode>QUESTÃO 13
+As manifestações patológicas em um pilar de
+concreto armado podem ter origem na etapa
+de projeto estrutural, na etapa de execução, ou
+mesmo ao longo da vida útil da estrutura.
+Considerando as informações apresentadas, avalie
+as asserções a seguir e a relação proposta entre elas.
+|. Quando se constata a corrosão nas
+armaduras de pilares, deve-se inicialmente
+utilizar uma argamassa cimentícia de reparo
+sobre a superfície atingida para impedir a
+entrada do agente agressivo, evitando-se,
+assim, a continuidade do processo corrosivo.
+PORQUE
+Il. A recuperação de estruturas de concreto
+armado está relacionada à necessidade de
+se restabelecer a integridade física de um
+elemento estrutural, objetivando-se restituir
+as propriedades mecânicas de projeto.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |!
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="805,179 977,179 977,246 1491,246 1491,2048 807,2048 807,2047 806,2047 806,1418 805,1418"/>
+	<TextEquiv conf="0.96570">
+	<Unicode>QUESTÃO 14
+O talude rodoviário exposto na imagem a seguir,
+apesar de ter um fator de segurança (FS) quanto à
+ruptura de 3,4, tem apresentado problemas, pois,
+quando chove, partículas de solo são deslocadas
+pelo fluxo superficial da água. Essas partículas se
+depositam sobre o acostamento e a pista, além de
+assorear os mananciais vizinhos.
+Considerando a situação apresentada, a solução
+correta para o problema é
+O capinação periódica do terreno para facilitar o
+escoamento das águas pluviais.
+O aumento da inclinação do talude, método mais
+simples e barato para escoar a água com mais
+eficiência.
+O introdução de drenos horizontais profundos
+(DHPs), os quais retirarão, com eficiência, a
+água que escoa sobre o talude.
+O regularização do terreno, introdução de
+vegetação, utilzação de geomantas ou
+biomantas e de drenagem superficial, com o
+uso de canaletas e escadarias hidráulicas.
+O adoção de sistema do tipo solo atirantado,
+com a finalidade de reforçar o talude e, assim,
+aumentar o coeficiente de segurança.</Unicode></TextEquiv></TextRegion></Page></PcGts>

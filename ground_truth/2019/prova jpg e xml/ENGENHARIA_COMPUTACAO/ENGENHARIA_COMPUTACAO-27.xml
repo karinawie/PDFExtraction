@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T17:49:37</Created>
+	<LastChange>2020-09-12T17:49:37</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-27.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="126,792 126,976 447,976 447,792"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="128,1034 128,1223 447,1223 447,1034"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="126,1278 126,1465 447,1465 447,1278"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="134,1515 134,1705 452,1705 452,1515"/></ImageRegion>
+	<ImageRegion id="r12">
+	<Coords points="113,1744 113,1939 447,1939 447,1744"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 255,179 255,180 256,180 256,247 1490,247 1490,354 1404,354 1404,478 1491,478 1491,545 835,545 835,546 687,546 687,670 1490,670 1490,736 788,736 788,737 85,737 85,738 84,738 84,670 179,670 179,547 178,547 178,478 180,478 180,356 84,356"/>
+	<TextEquiv conf="0.96674">
+	<Unicode>QUESTÃO 22
+Considere um software de monitoramento de estufas que possui um alarme que detecta quando um
+medidor de temperatura excede um dado limiar. Para esse projeto, utilizou-se uma rede bayesiana para
+inferir eventos que podem acontecer no sistema com as seguintes variáveis booleanas:
+A: o alarme soa;
+AD: o alarme está defeituoso, o alarme é acionado sem necessidade ou é um alarme falso;
+MD: o medidor de temperatura está defeituoso e pode gerar valores incorretos, levando a leituras
+erradas do medidor;
+LM: os valores de leitura do medidor;
+T: a temperatura real da estufa.
+Quando a temperatura da estufa fica muito alta, o medidor de temperatura pode falhar. Assim, a rede
+bayesiana para esse domínio é</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:31:24</Created>
+	<LastChange>2020-09-12T22:31:36</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-18.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="231,407 231,957 1342,957 1342,407"/></TableRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,179 85,179 85,180 254,180 254,235 1491,235 1491,397 1490,397 1490,1068 1491,1068 1491,1316 479,1316 479,1427 322,1427 322,1625 84,1625 84,1047 83,1047 83,396 84,396"/>
+	<TextEquiv conf="0.96754">
+	<Unicode>QUESTÃO 11
+Em uma indústria produtora de celulose, estão instalados dois Motores de Indução Trifásicos (MIT) de 4 polos,
+440 V e 60 Hz, que operam simultaneamente em processos análogos de transferência de fluidos, cujos dados
+estão apresentados no quadro a seguir. Ambos os motores acionam cargas idênticas, que requerem 75 cv de
+potência mecânica no eixo de cada motor.
+A partir das informações do quadro e considerando o consumo de energia elétrica dos motores 1 e 2,
+avalie as afirmações a seguir.
+I. O motor 1 é mais eficiente porque apresenta um rendimento de 4 pontos percentuais superior ao
+do motor 2.
+II. Como a corrente nominal requerida pelo motor 2 é menor do que a corrente nominal requerida
+pelo motor 1, então, as perdas de energia no motor 1 serão maiores.
+III. O consumo de energia elétrica do motor 2 é 4,3% maior do que o consumo de energia elétrica do
+motor 1.
+É correto o que se afirma em:
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

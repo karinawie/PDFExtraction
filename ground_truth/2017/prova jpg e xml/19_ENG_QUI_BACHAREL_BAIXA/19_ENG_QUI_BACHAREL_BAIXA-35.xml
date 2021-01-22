@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T19:13:08</Created>
+	<LastChange>2020-11-27T19:21:22</LastChange></Metadata>
+	<Page imageFilename="19_ENG_QUI_BACHAREL_BAIXA-35.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1226,312 1226,313 1577,313 1577,1306 1576,1306 1576,1750 168,1750 168,1421 169,1421"/>
+	<ImageRegion id="r1">
+	<Coords points="172,508 172,1075 1572,1075 1572,508"/></ImageRegion>
+	<TextEquiv conf="0.90724">
+	<Unicode>QUESTÃO 34
+Um grupo de estudantes de engenharia montou um sistema de absorção de gases em líquidos para servir
+como uma aula prática no laboratório de sua instituição. O sistema de absorção do gás pelo líquido era
+composto basicamente por duas partes, conforme o esquema apresentado na figura a seguir. A entrada
+de gás ocorre devido à diminuição de pressão na constrição do tubo Venturi, ponto a partir do qual as
+bolhas de gás entram no sistema.
+Durante a execução dos testes experimentais, os estudantes tinham as possibilidades operacionais
+descritas a seguir.
+* Para a vazão volumétrica de líquido pode-se usar Q, ou Q, sendo Q, &lt; Q, e as dimensões do
+equipamento tais que permitem desprezar o efeito do tempo de residência.
+* Paraofluido circulante na carcaça do trocador de calor pode-se aplicar qualquer das três condições
+operacionais a seguir: Tum &lt; Ti Tm &gt; Ti Tn? Ty
+* A vazão mássica de gás deve ser mantida em valor constante.
+A partir dessas informações, quais são as condições operacionais mais favoráveis à máxima absorção do
+gás pelo líquido?
+o Q,e Ta &lt; Ty
+o Q,e Ta &gt; Ty
+o Q, e Tr q Tr,
+o Q, e Tr &gt;? Tr,
+o Q,e T,=T,,</Unicode></TextEquiv></TextRegion></Page></PcGts>

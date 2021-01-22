@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:21:08</Created>
+	<LastChange>2020-09-11T20:21:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-19.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="273,507 273,1139 1513,1139 1513,507"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="85,179 255,179 255,245 1491,245 1491,420 1365,420 1365,421 1237,421 1237,422 1157,422 1157,1164 1491,1164 1491,1231 575,1231 575,1474 470,1474 470,1475 342,1475 342,1476 85,1476 85,1374 84,1374 84,481 83,481 83,453 84,453 84,180 85,180"/>
+	<TextEquiv conf="0.96572">
+	<Unicode>QUESTÃO 17
+No ensaio de peneiramento, faz-se passar uma certa quantidade de solo por um conjunto padronizado
+de peneiras de malha quadrada. Os procedimentos, a partir do peneiramento, consistem na pesagem
+das quantidades retidas em cada peneira e na determinação das porcentagens que passaram por essas
+peneiras. Considera-se que uma das características dos solos denominados "bem graduados" é a sua
+distribuição uniforme, e associa-se a essa característica o coeficiente de não uniformidade.
+A figura a seguir apresenta as curvas granulométricas de três amostras de solos.
+Com base nas informações apresentadas, a ordem decrescente correta dos coeficientes de não
+uniformidade para as amostras de solos é
+A amostra 1; amostra 3; amostra 2.
+B amostra 2; amostra 3; amostra 1.
+C amostra 2; amostra 1; amostra 3.
+D amostra 1; amostra 2; amostra 3.
+E amostra 3; amostra 2; amostra 1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

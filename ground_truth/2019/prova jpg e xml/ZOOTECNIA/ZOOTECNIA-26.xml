@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T19:32:20</Created>
+	<LastChange>2020-09-13T19:56:22</LastChange></Metadata>
+	<Page imageFilename="ZOOTECNIA-26.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="85,179 255,179 255,247 1492,247 1492,353 1409,353 1409,418 1082,418 1082,674 750,674 750,675 84,675 84,248 83,248 83,247 84,247 84,180 85,180"/>
+	<TextEquiv conf="0.96731">
+	<Unicode>QUESTÃO 29
+Atualmente, devido ao aumento dos custos de reposição e restrições ao uso de muda forçada, linhagens
+de poedeiras comerciais têm sido selecionadas para ciclos de produção ao redor de 100 semanas,
+acarretando mudanças na produção total e na qualidade dos ovos.
+Nesse contexto, é correto afirmar que as alterações observadas em poedeiras em final de ciclo são
+A a redução na produção de ovos e o aumento na espessura da casca.
+B a redução na massa de ovos diária e o aumento na espessura da casca.
+C o aumento na massa de ovos diária e a redução na espessura da casca.
+D o aumento no tamanho dos ovos e o aumento na espessura da casca.
+E o aumento no tamanho dos ovos e a redução na espessura da casca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,705 255,705 255,773 1491,773 1491,1168 1492,1168 1492,1237 994,1237 994,1396 953,1396 953,1491 789,1491 789,1492 85,1492 85,1237 84,1237 84,1170 83,1170 83,1169 84,1169 84,1025 85,1025 85,1024 355,1024 355,922 83,922 83,774 84,774 84,706 85,706"/>
+	<TextEquiv conf="0.96373">
+	<Unicode>QUESTÃO 30
+O gene da beta-caseína láctea possui A1 e A2 como seus principais alelos. O alelo A1 tem sido
+correlacionado com problemas de saúde em humanos, como alergia, e, quando digerido no trato
+gastrointestinal, dá origem ao peptídeo chamado beta-casomorfina-7 (BCM-7), que foi correlacionado
+desfavoravelmente a diabetes tipo 1 e a problemas neurológicos, por exemplo.
+SILVA, M. V. G. B. et al. Programa de melhoramento genético da raça Girolando: resultado do teste de progênie.
+Juiz de Fora: Embrapa Gado de Leite, 2018 (adaptado).
+Considerando essas informações, suponha um rebanho leiteiro, genotipado para o gene da beta-caseína,
+em que haja 25% das fêmeas com genótipo A2A2, 50% com genótipo A1A2 e 25% com genótipo A1A1, e
+que todas elas tenham sido inseminadas com reprodutores genótipo A2A2 para esse mesmo gene.
+Com base nessa situação, assinale a opção em que se apresentam, respectivamente, o genótipo das
+filhas, a frequência esperada desse genótipo e o tipo de leite produzido.
+A Genótipo A2A2; 25%; leite que não contém o peptídeo BCM — 7.
+B Genótipo A1A1; 50%; leite que não contém o peptídeo BCM — 7.
+C Genótipo A2A2; 50%; leite que não contém o peptídeo BCM — 7.
+D Genótipo A1A2; 100%; leite que contém o peptídeo BCM — 7.
+E Genótipo A1A1; 100%; leite que contém o peptídeo BCM — 7.</Unicode></TextEquiv></TextRegion></Page></PcGts>

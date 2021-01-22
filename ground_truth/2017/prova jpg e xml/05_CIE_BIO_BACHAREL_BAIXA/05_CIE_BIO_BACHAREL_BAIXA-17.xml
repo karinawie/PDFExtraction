@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T18:03:13</Created>
+	<LastChange>2020-09-18T18:04:22</LastChange></Metadata>
+	<Page imageFilename="05_CIE_BIO_BACHAREL_BAIXA-17.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,247 872,2112 876,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,311 856,311 856,689 854,689 854,912 855,912 855,1051 577,1051 577,1153 854,1153 854,1386 853,1386 853,1508 854,1508 854,1578 853,1578 853,1680 854,1680 854,1750 763,1750 763,1798 171,1798 171,1799 170,1799 170,1665 169,1665 169,1594 170,1594 170,1387 168,1387 168,1325 218,1325 218,887 169,887 169,818 176,818 176,690 169,690 169,312 168,312 168,311 169,311"/>
+	<TextEquiv conf="0.90458">
+	<Unicode>QUESTÃO 09
+A técnica de edição genética conhecida como
+CRISPR (repetições palindrômicas curtas agrupadas
+e regularmente interespaçadas) tem sido observada
+com entusiasmo pela comunidade científica.
+Nessa técnica, o genoma de uma célula pode ser
+modificado em pontos específicos com grande
+precisão. Uma enzima associada a uma molécula
+de RNA-guia identifica um ponto alvo no genoma,
+clivando-o para a remoção ou a inserção de uma
+sequência de nucleotídeos.
+SUZUKI, K., et al. In vivo genome editing via CRISPR/Cas9 mediated
+homology-independent targeted integration. Nature. n. 540,
+p. 144-149, 2016 (adaptado).
+Com relação às informações apresentadas, avalie as
+seguintes asserções e a relação proposta entre elas.
+|. A edição de genomas em células somáticas
+pode representar uma alternativa viável
+em terapias gênicas, entretanto deve ser
+utilizada com cautela.
+PORQUE
+Il. A edição de sequências genômicas pode
+provocar o surgimento de efeitos não previstos
+(off target), como a alteração da expressão de
+genes relacionados a outras funções.
+A respeito dessas asserções, assinale a opção
+correta.
+A As asserções | e II são proposições verdadeiras,
+e all é uma justificativa correta da |.
+B As asserções | e II são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+D A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="902,438 902,922 1577,922 1577,438"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,1020 1575,1020 1575,1185 1576,1185 1576,1312 1577,1312 1577,1547 1576,1547 1576,1680 891,1680 891,1020 890,1020 890,934 897,934 897,421 890,421"/>
+	<TextEquiv conf="0.96657">
+	<Unicode>QUESTÃO 10
+O mecanismo de ação da leptina, hormônio
+produzido no tecido adiposo, está representado no
+esquema a seguir.
+| ingestão alimentar 7 ingestão alimentar
+Com base na análise da figura, assinale a opção
+correta.
+A O aumento da síntese de leptina inibe a sua
+produção pelo tecido adiposo, o que caracteriza
+um processo de retroalimentação positiva.
+B O aumento da concentração plasmática de
+leptina sinaliza a saciedade, o que implica a
+diminuição do consumo de alimentos.
+C O aumento da massa corporal gera maior
+deposição de tecido adiposo, o que diminui a
+síntese e a liberação de leptina.
+D A diminuição da liberação de leptina estimula
+maior atividade do hipotálamo, diminuindo o
+consumo de alimentos.
+E A leptina tem ação no hipotálamo e no tecido
+conjuntivo que a produz, regulando o gasto
+energético.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:57:33</Created>
+	<LastChange>2020-11-21T00:03:12</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,321 1577,321 1577,542 1576,542 1576,927 898,927 898,928 757,928 757,976 547,976 547,1039 350,1039 350,1193 407,1193 407,1335 170,1335 170,1336 169,1336 169,1193 170,1193 170,1007 218,1007 218,720 170,720 170,544 168,544 168,321 169,321"/>
+	<TextEquiv conf="0.94626">
+	<Unicode>QUESTÃO 33
+A política de segurança e as ferramentas para sua implementação em um banco de dados é, atualmente,
+um assunto de grande importância para toda organização que faz uso de sistemas computacionais no
+seu dia a dia. Não somente a vulnerabilidade a ataques de hackers ou usuários não autorizados, mas
+também o controle sobre o acesso restrito a determinadas informações são uma constante preocupação
+dos responsáveis por garantir a segurança e a confidencialidade das informações em um banco de dados.
+Nesse contexto, avalie as afirmações a seguir.
+|. Os comandos GRANT, DENY e REVOKE são responsáveis por definir as permissões de acesso
+dos usuários e grupos aos diversos elementos do esquema de um banco de dados.
+Il. Caso o usuário UserA, integrante do grupo Group1, receba a permissão GRANT. SELECT em uma
+tabela tblDados, e o Group1 receba uma permissão DENY SELECT na mesma tabela tblDados, o
+usuário UserA conseguirá realizar consultas nessa tabela.
+Ill. É vedado a um usuário, tendo recebido determinado grupo de permissões em uma tabela, transmitir
+esses privilégios para outros usuários.
+É correto o que se afirma em
+O |, apenas.
+O Il, apenas.
+O lelll, apenas.
+O llelll, apenas.
+O 11em.</Unicode></TextEquiv></TextRegion></Page></PcGts>

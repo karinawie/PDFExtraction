@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:23:29</Created>
+	<LastChange>2020-11-30T17:24:59</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-27.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 870,2112 874,2112 876,247"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="890,244 1062,244 1062,315 1576,315 1576,920 1577,920 1577,1259 1576,1259 1576,1456 1277,1456 1277,1508 1128,1508 1128,1751 891,1751 891,1538 892,1538 892,1475 985,1475 985,1259 940,1259 940,1258 939,1258 939,895 892,895 892,894 891,894 891,802 890,802"/>
+	<TextEquiv conf="0.96398">
+	<Unicode>QUESTÃO 24
+Nas décadas de 1970 e 1980, muitos sistemas
+corporativos foram desenvolvidos com a linguagem
+Cobol, utilizando o Sistema Gerenciador de Banco de
+dados ADABAS e arquivos indexados do tipo ISAM e
+VISAM. Alguns desses produtos de implementação
+foram, ou estão sendo, descontinuados pelos seus
+fabricantes. Por isso, o trabalho de reengenharia
+desses sistemas, utilizando linguagens mais
+modernas, como Python, Java ou mesmo C++,
+associadas com sistemas de banco de dados mais
+atuais, apresenta-se como uma boa oportunidade
+de negócios.
+Considerando esse cenário, avalie as afirmações
+a seguir.
+|. A dificuldade de reengenharia de sistemas
+antigos deve-se ao fato de que, na maioria
+das vezes, o desenvolvedor definia o
+sistema e esse já era o próprio processo da
+organização.
+Il. O custo de alteração para modernização de
+uma linha de código em Cobol é alto, por
+isso, fazer a manutenção desses sistemas é
+menos despendioso.
+Uma estratégia de conversão dos
+referidos sistemas para uma linguagem
+orientada a objetos é definir uma
+estrutura de classes e métodos e realizar
+o refatoramento do código.
+É correto o que se afirma em
+O |, apenas.
+o Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+OL, 1el.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,312 854,312 854,784 855,784 855,1020 854,1020 854,1445 660,1445 660,1501 350,1501 350,1754 169,1754 169,1531 170,1531 170,1466 216,1466 216,1295 218,1295 218,1167 263,1167 263,1020 219,1020 219,1019 218,1019 218,758 169,758 169,661 168,661 168,312 169,312"/>
+	<TextEquiv conf="0.93738">
+	<Unicode>QUESTÃO 23
+Um software com defeito pode ser consequência
+de problemas no levantamento dos requisitos, uma
+vez que o requisito pode ser ambíguo porque o
+cliente não estava convicto da sua real necessidade
+ou porque a equipe o interpretou mal e registrou
+uma especificação de forma incorreta. Por esses
+motivos, as verificações, as validações e os testes
+são fundamentais para se certificar da qualidade do
+software resultante.
+Considerando esse contexto, avalie as afirmações
+a seguir.
+|. O teste funcional certifica se o software
+desempenha as funções especificadas nos
+requisitos.
+ll. O teste de desempenho valida a
+conformidade da especificação do processo
+de desenvolvimento de software.
+III.O teste de aceitação é realizado pelo
+cliente a fim de validar se aquilo que foi
+implementado é o que foi solicitado.
+IV. O teste de instalação, invariavelmente, é
+executado no local determinado pelo cliente
+para instalação do software.
+V. As técnicas de verificação e validação de
+software asseguram que o sistema que está
+sendo desenvolvido seja adequado ao seu
+propósito.
+É correto apenas o que se afirma em
+O ielv
+OLNev
+O 1Melv.
+O 1, IVev.
+OÔrIMev</Unicode></TextEquiv></TextRegion></Page></PcGts>

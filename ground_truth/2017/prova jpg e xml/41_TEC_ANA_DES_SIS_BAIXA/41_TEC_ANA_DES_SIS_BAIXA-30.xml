@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:22:51</Created>
+	<LastChange>2020-11-30T17:23:37</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="170,244 340,244 340,312 1577,312 1577,418 1576,418 1576,575 1506,575 1506,576 1382,576 1382,1520 1311,1520 1311,1521 1240,1521 1240,1522 1168,1522 1168,1523 1097,1523 1097,1524 1025,1524 1025,1525 994,1525 994,2057 928,2057 928,2058 229,2058 229,2085 223,2085 223,2058 169,2058 169,1996 168,1996 168,1461 169,1461 169,245 170,245"/>
+	<ImageRegion id="r1">
+	<Coords points="275,650 275,1450 1461,1450 1461,650"/></ImageRegion>
+	<TextEquiv conf="0.96448">
+	<Unicode>QUESTÃO 27
+O diagrama de classe apresentado na figura a seguir mapeia um processo de um simulador de voo.
+Nesse diagrama, é utilizado o padrão de projeto Strategy, que define uma família de algoritmos,
+encapsula cada um deles e os torna intercambiáveis. O padrão Strategy, que deixa o algoritmo variar
+independentemente dos clientes que o utilizam, aplica o princípio de projeto: “programar para uma
+interface, não para uma implementação”.
+LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a
+objetos e ao desenvolvimento iterativo. Porto Alegre: Bookman, 2007 (adaptado).
+Considere o diagrama de classe a seguir que descreve um simulador de voo.
+Considere ainda o seguinte código em linguagem Java como implementação do simulador.
+public interface Voar (
+public void voar();
+)
+public interface Pousar (
+public void pousar();
+)
+public class VoarDia implements Voar (
+public void voar() (
+System.out .println(“Voar durante o dia.”);
+)
+)
+public class VoarNoite implements Voar (
+public void voar() (
+System.out .println(“Voar durante a noite.”);
+)
+)
+public class PousarDia implements Pousar (
+public void pousar() (
+System.out .println(“Pousar durante o dia.”);
+)</Unicode></TextEquiv></TextRegion></Page></PcGts>

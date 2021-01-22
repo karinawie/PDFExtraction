@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T22:41:07</Created>
+	<LastChange>2020-09-09T22:41:07</LastChange></Metadata>
+	<Page imageFilename="BIOMEDICINA-30.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 256,179 256,247 1491,247 1491,596 1490,596 1490,708 1491,708 1491,804 1492,804 1492,866 1489,866 1489,980 1491,980 1491,1263 470,1263 470,1320 364,1320 364,1574 85,1574 85,1286 132,1286 132,1196 133,1196 133,777 84,777 84,708 85,708 85,597 83,597 83,247 84,247"/>
+	<TextEquiv conf="0.95368">
+	<Unicode>QUESTÃO 34
+A qualidade dos exames laboratoriais está essencialmente ligada à fase pré-analítica, porém as fases
+analítica e pós-analítica também devem ser monitoradas, de forma que o laboratório assegure que
+os resultados produzidos reflitam a situação clínica apresentada pelos pacientes de forma fidedigna e
+consistente. Nesse contexto, é de fundamental importância que, no setor de Bioquímica, ocorra a calibração
+dos equipamentos, sejam eles semiautomatizados ou automatizados, seguida do uso de controles de
+qualidade internos e externos, pois enquanto os calibradores visam transferir exatidão para o método ou
+sistema analítico em questão, os controles são utilizados para monitorar a imprecisão dos ensaios. Além
+disso, fazem-se necessários o registro dos calibradores em planilhas e a avaliação dos controles por meio
+do gráfico de Levey-Jennings associado às regras múltiplas de Westgard.
+BASQUES, J. C. Usando controles no laboratório clínico.Lagoa Santa: Labtest, 2009 (adaptado).
+Em relação à importância da calibração adequada dos equipamentos do setor de Bioquímica de um
+laboratório de análises clínicas, associada ao uso e à interpretação do comportamento dos controles de
+qualidade, avalie as afirmações a seguir.
+|. Os controles disponibilizados com média e desvio padrão propostos pelo fabricante devem ser
+usados na rotina laboratorial.
+Il. Dentre as regras múltiplas de Westgard, a regra 41s indica que os resultados devem ser rejeitados,
+pois quatro valores consecutivos excedem Xm+1s ou Xm-1s, o que caracteriza um erro aleatório.
+Ill. Na mudança de lote de reagentes utilizados para análise dos parâmetros bioquímicos, deve-se
+realizar uma nova calibração do equipamento, a qual é dispensável quando o reagente tiver sido
+produzido no mesmo ano que o reagente que está em uso.
+IV. Prioriza-se o uso de micropipetas calibradas para a reconstituição de calibradores e controles, a fim
+de minimizar os erros associados ao volume correto de água a ser aspirado e evitar contaminações.
+V. A curva de calibração é a representação gráfica da relação entre as medidas obtidas em um
+processo analítico (absorbância) e a concentração da substância contida no material calibrador.
+É correto o que se afirma em
+A I e V, apenas.
+B II e III, apenas.
+C I, II e IV, apenas.
+D III, IV e V, apenas.
+E I, II, III, IV e V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

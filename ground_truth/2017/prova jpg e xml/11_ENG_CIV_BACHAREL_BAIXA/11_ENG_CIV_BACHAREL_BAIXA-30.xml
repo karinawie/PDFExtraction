@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:25:07</Created>
+	<LastChange>2020-11-20T21:30:44</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-30.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="870,246 872,2112 875,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,320 1576,320 1576,622 1476,622 1476,760 1576,760 1576,1003 939,1003 939,1004 938,1004 938,961 891,961 891,887 892,887 892,886 938,886 938,692 891,692 891,623 890,623"/>
+	<TextEquiv conf="0.96678">
+	<Unicode>QUESTÃO 35
+Na construção civil, recomenda-se o uso de
+pavimentação permeável no tratamento das
+áreas externas como forma de evitar-se a
+impermeabilização do solo e, com isso, permitir
+que a água da chuva escoe para os lençóis
+subterrâneos. Nesse contexto, o pavimento
+que apresenta maior permeabilidade à água é o
+construído com
+O placas de concreto.
+blocos de concreto intertravado (paver).
+revestimento betuminoso, do tipo tratamento
+superficial triplo (TST).
+O revestimento betuminoso, do tipo tratamento
+superficial duplo (TSD).
+revestimento betuminoso, do tipo tratamento
+superficial simples (TSS).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,646 855,646 855,915 854,915 854,1281 855,1281 855,1501 854,1501 854,1789 555,1789 555,1844 350,1844 350,1971 407,1971 407,2097 170,2097 170,1812 218,1812 218,1009 169,1009 169,617 168,617 168,312 169,312"/>
+	<TextEquiv conf="0.95077">
+	<Unicode>QUESTÃO 34
+Em um ensaio de tração uniaxial de uma barra
+prismática de seção transversal constante, a barra
+é fixada à prensa por uma de suas extremidades,
+enquanto, na oposta, aplica-se uma força de
+tração centrada, cujo valor aumenta lentamente
+de zero até o valor final na ruptura. A referida
+barra é feita de material isotrópico, homogêneo e
+o ensaio parte de tensão e deformação nulas.
+Sendo o material da barra o aço — material
+elastoplástico perfeito — obtém-se do ensaio
+uma curva tensão versus deformação que é
+descrita, no projeto de estruturas de concreto
+armado, por uma reta inclinada que descreve o
+regime elástico, seguindo-se uma reta horizontal,
+que descreve o regime plástico.
+Com base nessas informações, avalie as afirmações
+a seguir.
+|. Seo módulo de elasticidade for conhecido,
+para se determinar a tensão atuante na
+barra nos regimes elástico e plástico,
+basta multiplicar a deformação específica
+longitudinal medida no ensaio pelo módulo
+de elasticidade.
+Il. Duas barras do mesmo material, uma com o
+dobro do diâmetro da outra, apresentarão
+tensões diferentes para o mesmo nível de
+força, sendo a tensão na barra de maior
+diâmetro igual a 25% da tensão na barra de
+menor diâmetro.
+Ill. Para uma força qualquer, a deformação
+específica longitudinal elástica do aço
+é obtida dividindo-se o alongamento
+correspondente a essa força pelo
+comprimento inicial da barra, sendo a força
+menor ou igual à força na qual se inicia a
+plastificação.
+É correto o que se afirma em
+O |, apenas.
+O !l, apenas.
+O lelll, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

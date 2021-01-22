@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:58:52</Created>
+	<LastChange>2020-09-11T20:59:13</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-35.jpg" imageWidth="1575" imageHeight="2166">
+	<TableRegion id="r0">
+	<Coords points="207,560 207,797 1373,797 1373,560"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="65,907 65,1321 1492,1321 1492,907"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="85,179 255,179 255,247 788,247 788,248 1491,248 1491,1570 575,1570 575,1627 323,1627 323,1878 322,1878 322,1879 84,1879 84,880 83,880 83,463 84,463 84,209 85,209"/>
+	<TextEquiv conf="0.96660">
+	<Unicode>QUESTÃO 32
+Uma estação de monitoramento de temperatura utiliza um termógrafo para registrar continuamente
+em um gráfico os valores detectados por seus sensores. Um determinado ambiente foi monitorado ao
+longo de três períodos distintos de um dia. O ambiente é considerado apropriado para um experimento
+científico se, para qualquer período P., de monitoramento o(P.) &lt; 2, em que o(P,) denota o desvio
+padrão populacional do período P. em que o ambiente foi monitorado.
+As medidas de temperatura em ºC, obtidas após um processo de quantização do sinal, são apresentadas
+na tabela a seguir.
+A fim de automatizar o processamento dos sinais, o algoritmo a seguir foi desenvolvido, tendo como
+entrada um período e como resultado um valor booleano que indica se o período é apropriado ou não.
+Com base no caso apresentado, avalie as afirmações a seguir.
+|. Conforme o funcionamento do algoritmo, os períodos P,, P, e P; são apropriados.
+Il. O algoritmo calcula o desvio padrão amostral e, portanto, não é adequado para o estudo.
+Ill. Caso executado sobre o período P = (P,, P,e P3bh, o algoritmo indica que ele é inapropriado
+para o experimento.
+É correto apenas o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O llelll, apenas.
+O 1LI1eM.</Unicode></TextEquiv></TextRegion></Page></PcGts>

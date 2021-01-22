@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T03:06:36</Created>
+	<LastChange>2020-09-15T03:08:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-19.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="515,457 515,905 1081,905 1081,457"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,179 255,179 255,243 1491,243 1491,452 1490,452 1490,1003 1022,1003 1022,1004 910,1004 910,1244 498,1244 498,1245 86,1245 86,1246 85,1246 85,452 84,452"/>
+	<TextEquiv conf="0.96304">
+	<Unicode>QUESTÃO 11
+Os engenheiros utilizam o resultado de testes de laboratório na seleção de materiais para determinada
+aplicação estrutural. O teste de ruptura por tração, por exemplo, fornece informações importantes a respeito
+do material analisado, tais como resistência, ductibilidade e tenacidade. Durante o ensaio, um corpo de
+prova de dimensões padronizadas é tracionado a uma velocidade constante, enquanto a força de tração
+aplicada e o alongamento produzido são monitorados. O resultado do ensaio de três materiais hipotéticos
+diferentes (A, B e C) é apresentado a seguir na forma de um gráfico de tensão de tração versus deformação.
+SHACKELFORD, J. F. Introdução à ciência dos materiais para engenheiros. São Paulo: Pearson Education do Brasil, 2008 (adaptado).
+Em relação às curvas desse gráfico, assinale a opção correta.
+A A resistência do material C é maior que a do material A.
+B A ductibilidade do material A é maior que a do material B.
+C Atenacidade do material B é maior que a do material A.
+D A ductibilidade do material B é maior que a do material C.
+E A tenacidade do material A é maior que a do material C.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,1276 255,1276 255,1344 1492,1344 1492,1413 1491,1413 1491,1699 1112,1699 1112,1826 1490,1826 1490,1972 1491,1972 1491,2039 1039,2039 1039,2040 586,2040 586,2041 133,2041 133,2042 132,2042 132,1998 85,1998 85,1945 73,1945 73,1834 72,1834 72,1830 73,1830 73,1826 85,1826 85,1702 83,1702 83,1633 84,1633"/>
+	<TextEquiv conf="0.96740">
+	<Unicode>QUESTÃO 12
+Competência é o conjunto de conhecimentos, habilidades e atitudes (CHA) necessários para resolução
+eficiente de funções, situações ou problemas, profissionais ou pessoais.
+BEHAR, P. A. (Org.). Competências em educação a distância. Porto Alegre: Penso, 2013 (adaptado).
+Suponha que o engenheiro responsável pela operação de uma planta química que processa produtos
+inflamáveis, tóxicos e com potencial poluidor deva descrever à área de gestão de pessoas o perfil esperado
+de um operador de campo para trabalhar nessa unidade.
+Assinale a opção que contém o conjunto correto de competências necessárias a ser descrito pelo
+engenheiro.
+A Planejamento e organização; comunicação; gestão do conhecimento.
+B Planejamento e organização; relacionamento interpessoal; comunicação.
+C Planejamento e organização; gestão de melhorias e inovação; gestão do conhecimento.
+D Orientação para a qualidade, saúde, segurança e meio ambiente; capacidade analítica;
+multifuncionalidade.
+E Orientação para qualidade, saúde, segurança e meio ambiente; orientação para desenvolvimento
+pessoal; negociação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

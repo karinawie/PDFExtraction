@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T04:33:09</Created>
+	<LastChange>2020-09-15T04:33:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_MECANICA-26.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="307,518 307,1334 1250,1334 1250,518"/></ImageRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="84,179 255,179 255,250 1491,250 1491,1731 1039,1731 1039,1732 586,1732 586,1733 470,1733 470,1789 322,1789 322,1994 234,1994 234,2039 85,2039 85,2040 84,2040"/>
+	<TextEquiv conf="0.96540">
+	<Unicode>QUESTÃO 26
+Usinas hidrelétricas podem ser consideradas uma fonte limpa para a produção de energia elétrica,
+porém, causam impacto ambiental devido à necessidade de construção de grandes reservatórios de água.
+Uma forma de minimizar o impacto ambiental é selecionar corretamente o tipo de equipamento a partir da
+altura da queda de água e da vazão disponível no local de instalação. Um dos parâmetros iniciais utilizados
+para a seleção de uma turbina é a velocidade específica. O gráfico a seguir mostra valores típicos da velocidade
+específica para diferentes tipos de turbina, relacionando-os à altura de queda disponível.
+SCHREIBER, G. P. Usinas hidrelétricas. São Paulo: Edgard Blucher, 1978 (adaptado).
+Considerando as informações apresentadas, avalie as afirmações a seguir.
+|. Conhecendo-se a altura de queda e a vazão, pode-se determinar a eficiência energética máxima
+da turbina.
+Il. Conhecendo-se a velocidade específica, calcula-se a rotação de trabalho esperada da turbina para
+uma determinada altura de queda e vazão.
+Ill. Sabendo-se a velocidade específica, seleciona-se a turbina para que esta funcione próxima ao
+ponto de eficiência máxima.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

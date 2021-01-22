@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T23:56:03</Created>
+	<LastChange>2020-09-12T23:56:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_FLORESTAL-28.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="473,707 473,1071 1502,1071 1502,707"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,250 1491,250 1491,448 1490,448 1490,1074 1491,1074 1491,1221 1490,1221 1490,1487 812,1487 812,1488 470,1488 470,1551 323,1551 323,1820 85,1820 85,1221 84,1221 84,695 83,695 83,250 84,250"/>
+	<TextEquiv conf="0.95384">
+	<Unicode>QUESTÃO 32
+Durante o processo de secagem de madeiras, é comum desenvolverem-se tensões de compressão na
+superfície e de tração no interior da peça de madeira, causadas pelo aparecimento de um gradiente
+de umidade ao longo da espessura. Os esforços de compressão e de tração superiores ao limite de
+proporcionalidade da madeira podem causar deformações residuais, permanecendo mesmo quando o
+gradiente da umidade ao longo da espessura é eliminado.
+Para diminuir os esforços que ocasionam o endurecimento da madeira, é realizado o processo de
+acondicionamento, que consiste em elevar a temperatura e a umidade relativa para aumentar a
+elasticidade da madeira e reduzir o gradiente de umidade na fase final da secagem.
+Para avaliar a qualidade da madeira após o acondicionamento, faz-se o “teste do garfo”, ilustrado na
+figura a seguir.
+Disponível em: &lt;http://www.pimads.org/publicacoes/&gt;. Acesso em: 16 jul. 2017 (adaptado).
+Considerando o texto e a figura apresentados, avalie as afirmações a seguir, acerca do "teste do garfo".
+|. Quando os dentes do garfo arqueiam para dentro, a madeira ainda apresenta endurecimento e o
+período de acondicionamento deve ser prolongado para cargas semelhantes da mesma espécie.
+Ill. Seos dentes externos, que estavam arqueados, ficarem retos, a carga estará livre do endurecimento;
+assim, o mesmo período de acondicionamento deve ser usado para cargas similares da mesma
+espécie.
+Ill. Se os dentes externos arquearem-se consideravelmente para fora, o que indica que a carga
+apresenta endurecimento reverso, o período de acondicionamento para cargas subsequentes de
+material semelhante deve ser diminuído.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O llelll, apenas.
+O 1LI1em</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:57:24</Created>
+	<LastChange>2020-11-27T18:46:25</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="871,247 872,2112 875,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1577,312 1577,1218 1575,1218 1575,1507 1577,1507 1577,1655 1017,1655 1017,1907 891,1907 891,1908 891,1655 890,1655 890,1480 889,1480 889,1451 890,1451 890,1219 889,1219 889,946 890,946 890,709 889,709 889,520 890,520"/>
+	<TextEquiv conf="0.96667">
+	<Unicode>QUESTÃO 35
+Considere um projeto em que um coletor solar
+receba radiação solar à taxa de 0,25 kW/m?
+e forneça energia para uma unidade de
+armazenamento de calor, cuja temperatura
+permaneça constante em 327 “ºC.
+O ciclo de potência receberá energia por
+transferência de calor dessa unidade de
+armazenamento e irá gerar eletricidade à taxa
+de 500 kW, rejeitando energia por transferência
+de calor para as vizinhanças a 27 ºC.
+Sabe-se que a eficiência real de um ciclo
+termodinâmico de potência é dada por
+pe
+Q, '
+em que n é a eficiência real de um ciclo
+termodinâmico; W é a potência desenvolvida pela
+máquina térmica, em kW, Q, é o calor fornecido
+para a máquina térmica, em kW, e que a máxima
+eficiência teórica de um ciclo é dada pela eficiência
+de Carnot
+é a eficiência de Carnot, T, é
+a temperatura da fonte fria, em K, e T, é a
+em que n
+max
+temperatura da fonte quente, em K.
+Para operar em regime permanente e atender
+o ciclo termodinâmico de potência, o referido
+coletor de energia deverá ter área mínima teórica,
+em m?, igual a
+O 1000.
+O 2000.
+O 2180.
+O 414000.
+O 4360.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,956 855,956 855,1104 854,1104 854,1232 660,1232 660,1288 334,1288 334,1541 170,1541 170,1254 218,1254 218,1118 263,1118 263,978 218,978 218,632 169,632"/>
+	<TextEquiv conf="0.94662">
+	<Unicode>QUESTÃO 34
+Equipamento de proteção individual (EPI) é todo
+dispositivo ou produto de uso individual que se
+destina a proteger o trabalhador de possíveis riscos
+que ameaçam sua saúde e segurança no trabalho.
+Disponível em: &lt;http://www.blog.inbep.com.br&gt;.
+Acesso em: 28 jul. 2017 (adaptado).
+Com relação aos equipamentos de proteção
+individual (EPI), avalie as afirmações a seguir.
+|. O EPI não previne a ocorrência de acidentes
+de trabalho, apenas evita ou atenua a
+gravidade das lesões.
+Il. O EPI só poderá ser posto à venda com
+a indicação do certificado de aprovação,
+expedido pelo Ministério do Trabalho e
+Emprego.
+III.O certificado de aprovação do EPI indica que
+ele foi submetido a testes laboratoriais que
+comprovaram a satisfação de requisitos e de
+características para as quais se destina.
+IV. É dever dos empregados adquirir EPIl com
+certificado de aprovação, assim como
+guardar e conservar os equipamentos.
+É correto apenas o que se afirma em
+O le.
+Oielv
+O lelv.
+O L11e.
+O 1NMeiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

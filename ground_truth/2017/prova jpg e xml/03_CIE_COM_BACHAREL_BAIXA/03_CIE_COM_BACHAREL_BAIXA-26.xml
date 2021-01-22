@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:37:50</Created>
+	<LastChange>2020-09-18T02:38:53</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r0">
+	<Coords points="161,434 162,1128 859,1126 858,432"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="868,246 872,2112 877,2112 873,246"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="999,831 1000,1172 1475,1171 1474,830"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 854,312 854,1271 512,1271 512,1272 379,1272 379,1524 171,1524 171,1525 170,1525 170,1273 169,1273 169,313 168,313 168,312 169,312"/>
+	<TextEquiv conf="0.94116">
+	<Unicode>QUESTÃO 26
+A figura a seguir mostra uma imagem de ressonância
+magnética corrompida por ruído do tipo “sal e
+pimenta”.
+Para que o ruído seja atenuado e as bordas das
+estruturas representadas sejam preservadas,
+deve-se aplicar na imagem o filtro
+A Sobel.
+B da média.
+C Laplaciano.
+D do mínimo.
+E da mediana.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="890,244 1061,244 1061,307 1577,307 1577,570 1576,570 1576,729 1575,729 1575,1243 1576,1243 1576,1803 1381,1803 1381,1859 1055,1859 1055,2117 891,2117 891,1891 892,1891 892,1825 939,1825 939,1308 890,1308 890,1243 896,1243 896,1189 943,1189 943,730 890,730"/>
+	<TextEquiv conf="0.96478">
+	<Unicode>QUESTÃO 27
+Em computação gráfica, existem vários modelos
+de iluminação diferentes que expressam e
+controlam os fatores que determinam a cor de
+uma superfície em função de um determinado
+conjunto de luzes. Uma vez definido um modelo
+de iluminação, pode-se aplicar luz sobre as
+várias faces dos objetos de uma cena, processo
+denominado sombreamento.
+As figuras a seguir ilustram a aplicação de dois
+modelos de iluminação, a saber: o modelo de
+sombreamento constante (à esquerda) e o modelo
+de Phong (à direita).
+AZEVEDO, E.; CONCI, A. Computação gráfica: geração de imagens.
+Rio de Janeiro: Campus, 2003 (adaptado).
+Disponível em: &lt;https://www.cs.cmu.edu&gt;. Acesso em: 17 jul 2017.
+Em relação aos modelos de iluminação
+apresentados, avalie as afirmações a seguir.
+|. A aplicação do modelo de sombreamento
+constante causa na imagem um efeito visual
+denominado Bandas de Mach.
+Il. Embora seja útil para gerar imagens realísticas,
+o modelo de Phong mostra-se pouco eficiente
+na apresentação das reflexões especulares.
+Ill. O modelo de sombreamento constante não
+é útil para gerar imagens realísticas porque
+ele dá destaque ao aspecto facetado da
+representação poliedral das superfícies.
+IV. Para a utilização do modelo de Phong, é
+necessário supor que a fonte de luz localiza-se
+no infinito.
+É correto apenas o que se afirma em
+A I E II
+B I E III
+C II E IV
+D I, III E IV
+E II, III E IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

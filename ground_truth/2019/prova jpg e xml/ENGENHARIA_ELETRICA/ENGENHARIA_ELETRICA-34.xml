@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:52:41</Created>
+	<LastChange>2020-09-12T22:53:07</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-34.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.38257">
+	<Unicode>OJuaweSa1005]7 - e</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="242,505 242,1347 1518,1347 1518,505"/></ImageRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1022,247 1022,248 1490,248 1490,341 1492,341 1492,492 1490,492 1490,1479 1492,1479 1492,1596 1491,1596 1491,1678 1489,1678 1489,1732 478,1732 478,1788 363,1788 363,2041 362,2041 362,2042 84,2042 84,315 83,315 83,247 84,247"/>
+	<TextEquiv conf="0.96676">
+	<Unicode>QUESTÃO 30
+A correta interpretação dos principais valores que caracterizam o motor de indução é essencial tanto na
+especificação de novos motores como também para fins de substituição desse motor.
+Para realizar a análise de desempenho de um motor trifásico de indução, rotor de gaiola, 50 HP, 220/380V,
+60 Hz e 4 polos, o engenheiro responsável teve acesso ao gráfico mostrado a seguir, disponibilizado por
+um fabricante, em que se apresentam quatro curvas características em função da potência desse motor
+(rendimento, fator de potência, escorregamento e corrente).
+Com base nos dados apresentados e assumindo que esse motor é alimentado com tensão e frequência
+nominal, avalie as afirmações a seguir.
+I. Se omotor operar abaixo de 60% da carga nominal, isso implicará em um fator de potência inferior
+a0,8.
+Il. O escorregamento desse motor sem carga mecânica no seu eixo é de aproximadamente 1,0.
+Ill. A corrente do motor sem carga mecânica no seu eixo é de aproximadamente um terço da corrente
+nominal.
+IV. O motor obtém o maior rendimento na faixa de operação que vai de 80% a 100% da carga nominal.
+É correto o que se afirma em
+A IV, apenas.
+B I e II, apenas.
+C I e III, apenas.
+D II, III e IV, apenas.
+E I, II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

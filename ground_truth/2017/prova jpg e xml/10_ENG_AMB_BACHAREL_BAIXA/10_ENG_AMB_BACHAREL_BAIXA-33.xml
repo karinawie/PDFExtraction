@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T20:45:25</Created>
+	<LastChange>2020-11-20T20:50:37</LastChange></Metadata>
+	<Page imageFilename="10_ENG_AMB_BACHAREL_BAIXA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,301 1576,301 1576,1824 273,1824 273,2101 170,2101 170,708 169,708 169,301 170,301"/>
+	<ImageRegion id="r1">
+	<Coords points="422,736 422,1683 1325,1683 1325,736"/></ImageRegion>
+	<TextEquiv conf="0.96713">
+	<Unicode>QUESTÃO 32
+A poluição térmica, um dos impactos ambientais provenientes de sistemas de geração de energia
+termoelétrica, é definida como a degradação da qualidade da água por processo que altera a sua
+temperatura ambiente. A Resolução do Conama n. 430/2011 estabelece limites para este tipo de
+poluição: em qualquer lançamento de efluente, a temperatura no limite da zona de mistura não pode
+exceder em 3 ºC a temperatura da água no corpo receptor.
+CTI Reviews. Basic Environmental Technology, Water Supply, Waste Management and Pollution Control.
+Cram4101 Textbook Reviews, 2016 (adaptado).
+Nas usinas termoelétricas, a água utilizada para condensação do vapor do ciclo térmico de geração de
+energia é captada de corpos hídricos próximos. Essa água é utilizada primeiramente como fluido de
+troca térmica nos trocadores de calor e, posteriormente, resfriada para ser descartada no próprio corpo
+hídrico, com temperatura superior e vazão inferior à de coleta conforme mostrado na figura a seguir.
+Com base nessas informações e considerando que as características de capacidade calorífica e densidade
+da água são iguais em todas as correntes, qual a máxima vazão volumétrica de captação, m?-s*, em que
+poderá ser utilizada pela termoelétrica para que a temperatura do rio não ultrapasse o limite de variação
+de temperatura estabelecido pela Resolução Conama n. 430/2011?
+O 0,74
+O 0,40
+O 0,30
+O 0,21
+O 0,09</Unicode></TextEquiv></TextRegion></Page></PcGts>

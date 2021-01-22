@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-15T02:54:17</Created>
+	<LastChange>2020-09-15T02:55:00</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_QUIMICA-22.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r23">
+	<Coords points="784,181 787,2047 791,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="81,568 81,957 771,957 771,568"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="805,528 805,957 1500,957 1500,528"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="84,179 255,179 255,247 771,247 771,561 770,561 770,1180 532,1180 532,1433 85,1433 85,1434 84,1434"/>
+	<TextEquiv conf="0.96553">
+	<Unicode>QUESTÃO 19
+Um experimento foi realizado em um reator
+batelada de 1 L, em determinadas condições de
+pressão e temperatura, durante um tempo de
+reação de 32 min. O reagente A se transforma no
+produto P de maneira irreversível em uma reação
+de primeira ordem. O gráfico a seguir representa
+o resultado da conversão de A (X,) versus a
+concentração de À (C7,) obtido no experimento.
+Com base nos resultados experimentais
+apresentados e nos dados fornecidos e
+considerando que ln 5 é aproximadamente igual a
+1,6, assinale a opção que apresenta o valor correto
+da constante cinética da reação.
+A k=0,05 min!
+B k=0,125 min!
+C k=0,025 L- mol! - min
+D k=0,05 L- mol 4 min
+E k=0,125 mol - LL! min!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="805,179 977,179 977,247 1492,247 1492,1022 1490,1022 1490,1509 807,1509 807,1510 806,1510 806,994 805,994"/>
+	<TextEquiv conf="0.96482">
+	<Unicode>QUESTÃO 20
+Na presença de ácido clorídrico, o isopropilbenzeno
+converte-se em isopropil-sec-butilbenzeno, que,
+por sua vez, transforma-se em isopropil-di-sec-
+butilbenzeno como resultado de uma reação em
+série. O gráfico a seguir representa as concentrações
+(mol/L) das diferentes espécies (A, B e C) em função
+do tempo (min).
+Assinale a opção que apresenta corretamente as
+curvas associadas a cada uma das espécies.
+A Isopropilbenzeno (A), isopropil-sec-butilbenzeno
+(B), isopropil-di-sec-butilbenzeno (C).
+B Isopropilbenzeno (C), isopropil-sec-butilbenzeno
+(B), isopropil-di-sec-butilbenzeno (A).
+C Isopropilbenzeno (B), isopropil-sec-butilbenzeno
+(C), isopropil-di-sec-butilbenzeno (A).
+D Isopropilbenzeno (C), isopropil-sec-butilbenzeno
+(A), isopropil-di-sec-butilbenzeno (B).
+E Isopropilbenzeno (B), isopropil-sec-butilbenzeno
+(A), isopropil-di-sec-butilbenzeno (C).</Unicode></TextEquiv></TextRegion></Page></PcGts>

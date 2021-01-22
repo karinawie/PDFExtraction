@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T17:52:43</Created>
+	<LastChange>2020-11-20T18:18:58</LastChange></Metadata>
+	<Page imageFilename="07_CIE_SOC_BACHAREL_BAIXA-15.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r26" type="heading">
+	<Coords points="169,244 513,244 513,304 1576,304 1576,1038 1575,1038 1575,1351 170,1351 170,1352 169,1352 169,1039 168,1039 168,978 169,978"/>
+	<ImageRegion id="r1">
+	<Coords points="386,500 386,958 1575,958 1575,500"/></ImageRegion>
+	<TextEquiv conf="0.87623">
+	<Unicode>QUESTÃO DISCURSIVA 05
+O gráfico a seguir foi elaborado a partir de uma pesquisa do tipo survey feita no Rio de Janeiro, entre
+março e abril de 2016, com 2 353 pessoas. A amostragem foi estratificada segundo as regiões da cidade
+(áreas de planejamento do município do Rio). Em cada uma das cinco regiões, estabeleceram-se cotas
+por faixa etária, sexo e escolaridade, com um peso proporcional ao desses grupos na população de cada
+área, segundo o Censo de 2010. A margem de erro de uma pesquisa para uma amostra aleatória simples
+do mesmo tamanho (n = 2 353) seria de 2 pontos percentuais, com intervalo de confiança de 0,05.
+A partir da leitura do texto e com base nas informações metodológicas da pesquisa e do gráfico
+apresentado, faça o que se pede nos itens a seguir.
+a) Apresente uma vantagem de se realizar uma pesquisa do tipo survey em vez de uma pesquisa
+censitária para se conhecer a magnitude de fenômenos sociais em grandes cidades.
+(valor: 4,0 pontos)
+b) A partir de uma das variáveis expostas no gráfico (sexo, cor/raça, faixa etária e local de moradia), faça
+uma análise descritiva da percepção dos cariocas sobre a probabilidade de sofrer violência policial.
+(valor: 3,0 pontos)
+c) Faça a análise descritiva geral da percepção dos pesquisados sobre a probabilidade de sofrer violência
+policial. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

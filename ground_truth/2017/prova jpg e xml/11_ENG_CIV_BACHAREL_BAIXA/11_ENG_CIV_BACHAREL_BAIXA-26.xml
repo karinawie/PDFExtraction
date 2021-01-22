@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T21:25:53</Created>
+	<LastChange>2020-11-20T21:33:10</LastChange></Metadata>
+	<Page imageFilename="11_ENG_CIV_BACHAREL_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="869,246 872,2112 876,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="891,244 1061,244 1061,312 1576,312 1576,917 1303,917 1303,1039 1576,1039 1576,1237 1577,1237 1577,1385 1206,1385 1206,1446 1194,1446 1194,1496 1129,1496 1129,1608 1398,1608 1398,1636 892,1636 892,1637 891,1637 891,1386 890,1386 890,245 891,245"/>
+	<TextEquiv conf="0.96473">
+	<Unicode>QUESTÃO 27
+A maioria das aplicações da hidráulica na engenharia
+direciona-se à utilização de tubos de seção
+transversal circular. Quando a pressão interna do
+escoamento nesses condutos difere da pressão
+atmosférica, com o fluido circulante preenchendo
+toda a área do conduto, diz-se que o escoamento
+ocorre sob pressão ou em condutos forçados.
+As redes de distribuição de água das cidades,
+as instalações prediais e os sistemas de recalque
+são alguns exemplos do escoamento em condutos
+forçados. Existem várias fórmulas empíricas
+aplicáveis para a determinação da perda de carga
+unitária em condutos sob pressão nas tubulações
+de seção circular, podendo elas, de maneira geral,
+ser representadas pela equação
+joKo
+D”
+em que os parâmetros K, n e m são inerentes a
+cada formulação e faixa de aplicação, em geral com
+valores de K dependentes somente do tipo de
+material da parede do conduto.
+,
+Para n=2em=5,mantendo-se a mesma perda
+de carga unitária J e mesmo coeficiente de
+resistência K, se o diâmetro D de uma tubulação
+for quadruplicado, então a vazão Q
+O diminuirá à metade.
+O permanecerá igual.
+O duplicará.
+O quadruplicará.
+O aumentará em trinta e duas vezes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,312 855,312 855,781 854,781 854,1271 855,1271 855,1340 218,1340 218,1341 217,1341 217,1297 170,1297 170,885 168,885 168,816 169,816 169,313 168,313 168,312 169,312"/>
+	<TextEquiv conf="0.95459">
+	<Unicode>QUESTÃO 26
+Anualmente, são registrados acidentes associados
+à ruptura das estruturas de contenção em obras
+rodoviárias e em áreas urbanas (subsolos e
+escavações) e, em geral, a causa desses acidentes
+está associada à deficiência da caracterização
+geológico-geotécnica e/ou a falhas de projeto e de
+execução da obra. A escolha inadequada de uma
+técnica pode acarretar acidentes fatais e elevar os
+custos financeiros da obra. Existem várias técnicas
+que podem ser empregadas para a contenção de
+maciços de solo, sendo classificadas de acordo com
+seu processo executivo e o material empregado.
+Em relação à contenção de maciços, consideram-se
+técnicas de contenção de gravidade:
+O muro de gabião, muro de sacos de cimento e
+muro de flexão.
+muro de concreto ciclópico, muro de gabião e
+muro de sacos de cimento.
+muro de sacos de cimento, muro de flexão e
+terra armada (solo reforçado).
+muro de sacos de cimento, muro de flexão e
+solo grampeado (solo pregado).
+muro de concreto ciclópico, solo grampeado
+(solo pregado) e terra armada (solo reforçado).</Unicode></TextEquiv></TextRegion></Page></PcGts>

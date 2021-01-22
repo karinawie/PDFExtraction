@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:48:41</Created>
+	<LastChange>2020-09-17T19:49:20</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-31.jpg" imageWidth="1619" imageHeight="2170">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 107,181 107,182 277,182 277,251 1512,251 1512,404 1188,404 1188,520 831,520 831,670 853,670 853,772 1513,772 1513,972 1512,972 1512,1329 597,1329 597,1386 596,1386 596,1387 263,1387 263,1648 106,1648 106,1419 107,1419 107,1385 108,1385 108,1352 155,1352 155,914 108,914 108,772 155,772 155,520 106,520 106,404 105,404 105,403 106,403"/>
+	<TextEquiv conf="0.86722">
+	<Unicode>QUESTÃO 27
+O Regime de Metas para a Inflação foi adotado no Brasil, em junho de 1999, com o objetivo de ancorar e
+orientar as expectativas inflacionárias. Com isso, o Banco Central do Brasil (BCB) adotou, como referencial
+teórico, a Regra de Taylor como uma função de reação para conduzir sua decisões de política monetária.
+A função de reação em questão pode ser representada pela equação a seguir.
+i=0a,+B ,(nE=n)+Bo,(V,- Y)+TE,
+Sendo:
+º (nº) a taxa de inflação esperada, no período t;
+º (nº) a meta para a taxa de inflação;
+e ( Y) o nível de produto observado, no período t;
+º (Y) o nível de produto potencial, no período t;
+º a,b,,eb,,são constantes positivas.
+TAYLOR, J. B. Discretion versus policy rules in practice. Carnegie-Rochester Conference Series on Public Policy, v. 39, n. 1, 1993 (adaptado).
+Nesse contexto, avalie as afirmações a seguir.
+|. Seainflação esperada for maior do que a meta e, ao mesmo tempo, o hiato do produto for positivo,
+então a Regra de Taylor indicará que a autoridade monetária deve reduzir a taxa de juros.
+Il. Se a inflação esperada for maior do que a meta, ceteris paribus, então a Regra de Taylor indicará
+que a autoridade monetária deve aumentar a taxa de juros.
+Ill. A Regra de Taylor tornou-se popular em economias que operam em regime de câmbio flexível,
+em virtude da dificuldade que têm de controlar o processo inflacionário a partir de uma regra de
+metas para agregados monetários.
+IV. A referência teórica da Regra de Taylor pressupõe que a velocidade de circulação da moeda seja
+constante, gerando uma relação estável entre moeda e preços.
+É correto apenas o que se afirma em
+A I e II.
+B II e III.
+C III e IV.
+D I, II e IV.
+E I, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

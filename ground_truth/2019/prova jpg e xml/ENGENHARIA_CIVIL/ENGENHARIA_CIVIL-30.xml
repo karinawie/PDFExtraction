@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T20:00:14</Created>
+	<LastChange>2020-09-11T20:00:53</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CIVIL-30.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="84,179 255,179 255,247 1490,247 1490,351 1491,351 1491,418 85,418 85,419 84,419"/>
+	<TextEquiv conf="0.96504">
+	<Unicode>QUESTÃO 33
+Em um projeto de edificação, há necessidade de que os pilares de borda sejam posicionados de modo a
+darem maior resistência à torção longitudinal de uma viga contínua, de seção retangular de 15 x 50 cm.
+Considerando essa situação, assinale a opção em que se representa a disposição de pilares com dimensões
+15 x 40 cm que proporcionará maior rigidez à viga e atenderá à necessidade do projeto.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="78,460 78,652 1402,652 1402,460"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="65,681 65,873 1397,873 1397,681"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="78,902 78,1092 1392,1092 1392,902"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="73,1121 73,1313 1389,1313 1389,1121"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="73,1342 73,1534 1400,1534 1400,1342"/></ImageRegion></Page></PcGts>

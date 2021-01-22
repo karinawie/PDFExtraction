@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:53:07</Created>
+	<LastChange>2020-09-17T19:54:20</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-34.jpg" imageWidth="1619" imageHeight="2170">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,181 276,181 276,245 1513,245 1513,309 1205,309 1205,420 522,420 522,551 640,551 640,599 719,599 719,644 868,644 868,690 1512,690 1512,755 1350,755 1350,871 1512,871 1512,935 1511,935 1511,1051 1513,1051 1513,1200 1512,1200 1512,1280 108,1280 108,1281 107,1281 107,936 106,936 106,871 155,871 155,482 107,482 107,310 106,310"/>
+	<TextEquiv conf="0.88125">
+	<Unicode>QUESTÃO 31
+Um pesquisador estimou a regressão apresentada a seguir a partir de uma amostra composta por 567
+observações, referentes a indivíduos no mercado de trabalho.
+In(S) = 1,2 - 0,04G + 0,02E + 0,01X - 0,001EG + u
+(0,3) (0,01) (0,004) (0,002) (0,0001)
+Nessa regressão,
+º Inéologaritmo natural;
+* Ssãoos salários medidos em R$;
+* Eéonúmero de anos de escolaridade;
+*º Xéonúmero de anos de experiência profissional;
+*º Gé uma variável binária que assume o valor 1 para indivíduos do gênero feminino e O para
+indivíduos do gênero masculino;
+*º uéuma variável aleatória com média O, não correlacionada com as demais variáveis;
+º osnúmeros entre parenteses são os erros-padrão das estimativas.
+Com base no modelo estimado, a respeito da diferença salarial entre homens e mulheres, assinale a
+opção correta.
+A A diferença salarial entre homens e mulheres aumenta quanto maior for a escolaridade de ambos.
+B Adiferença salarial entre homens e mulheres diminui quanto maior for a experiência profissional de ambos.
+C O modelo não rejeita a hipótese de igualdade salarial entre homens e mulheres, uma vez que o
+coeficiente estimado da variável G não é significante.
+D As mulheres ganham aproximadamente 4% a menos do que os homens, independentemente do
+tempo de escolaridade e de experiência profissional que tenham.
+E O salário de uma mulher com dez anos de escolaridade é aproximadamente 3% menor que o de um
+homem com a mesma escolaridade e experiência profissional.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="106,1306 277,1306 277,1370 1513,1370 1513,1736 1277,1736 1277,1859 1374,1859 1374,1935 1117,1935 1117,1979 700,1979 700,2024 107,2024 107,2025 106,2025 106,1993 107,1993 107,1788 105,1788 105,1758 155,1758 155,1524 107,1524 107,1473 106,1473"/>
+	<TextEquiv conf="0.96643">
+	<Unicode>QUESTÃO 32
+O sistema financeiro tem como objetivo intermediar a alocação de recursos entre agentes deficitários e
+superavitários. Entretanto, durante esse processo, há a possibilidade de ocorrer assimetria de informação
+entre a instituição financeira e o agente tomador de recursos, o que aumenta o risco do crédito.
+Nesse contexto, avalie as asserções a seguir e a relação proposta entre elas.
+|. A seleção adversa e o risco moral são dois importantes problemas microeconômicos derivados de
+assimetria de informação observada no mercado de créditos.
+PORQUE
+Il. O risco moral faz com que a taxa de juros cobrada ao agente adimplente seja maior e a seleção
+adversa faz com que bons pagadores aumentem suas demandas por crédito.
+A respeito dessas asserções, assinale a opção correta.
+A A diferença salarial entre homens e mulheres aumenta quanto maior for a escolaridade de ambos.
+B A diferença salarial entre homens e mulheres diminui quanto maior for a experiência profissional de ambos.
+C O modelo não rejeita a hipótese de igualdade salarial entre homens e mulheres, uma vez que o
+coeficiente estimado da variável G não é significante.
+D As mulheres ganham aproximadamente 4% a menos do que os homens, independentemente do
+tempo de escolaridade e de experiência profissional que tenham.
+E O salário de uma mulher com dez anos de escolaridade é aproximadamente 3% menor que o de um
+homem com a mesma escolaridade e experiência profissional.</Unicode></TextEquiv></TextRegion></Page></PcGts>

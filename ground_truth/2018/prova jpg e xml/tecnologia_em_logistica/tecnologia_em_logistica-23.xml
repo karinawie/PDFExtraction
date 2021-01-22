@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T15:26:05</Created>
+	<LastChange>2020-11-18T15:33:58</LastChange></Metadata>
+	<Page imageFilename="tecnologia_em_logistica-23.jpg" imageWidth="1619" imageHeight="2170">
+	<SeparatorRegion id="r2">
+	<Coords points="808,184 809,2049 812,2049 811,184"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="827,1233 999,1233 999,1298 1513,1298 1513,1784 1510,1784 1510,1893 1512,1893 1512,2044 829,2044 829,2045 828,2045 828,1785 827,1785"/>
+	<TextEquiv conf="0.96448">
+	<Unicode>QUESTÃO 24
+Uma empresa fabricante de teclados para
+computador produz dois modelos de teclado: Basic
+e Advanced. Sua linha de produção está adequada
+para produzir, por hora, 5 unidades do teclado Basic,
+se fabricar somente esse tipo e 3 unidades do teclado
+Advanced, se fabricar somente esse tipo. Para
+produzir 1 unidade do teclado Basic é necessária 1
+peça de acrílico rígido e para produzir 1 unidade do
+teclado Advanced são necessárias 2 dessas peças.
+O estoque atual de acrílico rígido é de 15 peças.
+Considerando essa situação, assinale a opção que,
+por meio do método gráfico, apresenta a área que
+contempla a solução para se maximizar a produção.
+O Toda a área entre as coordenadas (0; 3) e (0; 7,5).
+O Toda a área acima das coordenadas (0; 7,5) e (15; O).
+O Toda a área abaixo das coordenadas (0; 7,5) e (15; O).
+O Toda a área entre as coordenadas (0; 3); (5; 0) e (0; O).
+O Toda a área entre as coordenadas (0; 7,5) , (15; O)
+e (0;3), (5; O).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="827,183 998,183 998,251 1511,251 1511,346 1514,346 1514,635 1515,635 1515,715 1513,715 1513,953 1128,953 1128,1010 1118,1010 1118,1058 1065,1058 1065,1105 1061,1105 1061,1155 1019,1155 1019,1202 829,1202 829,1203 828,1203 828,772 836,772 836,636 835,636 835,606 827,606"/>
+	<TextEquiv conf="0.96352">
+	<Unicode>QUESTÃO 23
+O crescente interesse pela proteção ambiental
+aportou novas necessidades aos processos logísticos.
+No Brasil, a legislação exige o retorno de produtos
+considerados perigosos após o término da vida útil,
+por conterem metais pesados, como pilhas e baterias,
+e de produtos considerados problemáticos por haver
+poucas opções para seu tratamento, como pneus.
+Nesses casos, a responsabilidade pela logística e pelo
+tratamento dos resíduos é do fabricante.
+BOUZON, M.; MIGUEL, A.C. P.; RODRIGUEZ, M.T.C. Managing end of
+life products: a review of the literature on reverse logistics in Brazil.
+Management of Environmental Quality: an International Journal,
+v. 25, n. 5, p. 564-584, 2014 (adaptado).
+Considerando-se as informações do texto bem
+como os canais de distribuição da logística reversa,
+é correto afirmar que os produtos considerados
+perigosos após o término da vida útil se encaixam
+no canal de
+O bens semiduráveis.
+O bens descartáveis.
+O bens duráveis.
+O pós-consumo.
+O pós-venda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="106,183 277,183 277,252 791,252 791,760 790,760 790,886 791,886 791,1456 790,1456 790,1632 700,1632 700,1680 107,1680 107,1265 105,1265 105,1236 155,1236 155,858 105,858 105,789 112,789 112,686 105,686 105,252 106,252"/>
+	<TextEquiv conf="0.95875">
+	<Unicode>QUESTÃO 22
+A mão de obra necessária à separação e ao manuseio
+de produtos no depósito de uma empresa representa
+um dos componentes de custo de pessoal mais altos
+no sistema logístico. A movimentação de materiais
+precisa ser executada de uma forma segura e
+eficiente, que reduza os custos e que apresente
+os produtos na hora certa, em quantidade e locais
+corretos para que não sofram danos. São, portanto,
+princípios básicos da movimentação de materiais: o
+princípio do planejamento, o da padronização, o do
+trabalho, o do sistema e o da unitização.
+BALLOU, R. H. Gerenciamento da cadeia de suprimentos — logística
+empresarial. 5. ed. Porto Alegre: Bookman, 2008 (adaptado).
+A partir dessas informações, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Paramovimentar internamente os materiais,
+as empresas precisam elaborar previamente
+um planejamento e padronizar processos
+pertinentes.
+PORQUE
+Il. Minimizar a movimentação de materiais na
+empresa mantém um layout interno bem
+organizado.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras,
+e a ll é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a ||
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

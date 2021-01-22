@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:36:19</Created>
+	<LastChange>2020-09-12T22:37:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_ELETRICA-22.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="250,347 250,905 1500,905 1500,347"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 254,179 254,238 1491,238 1491,984 234,984 234,1186 85,1186 85,984 84,984"/>
+	<TextEquiv conf="0.95536">
+	<Unicode>QUESTÃO 15
+Em aplicações motoras de pequeno porte, o Motor de Corrente Contínua (MCC) é um dos equipamentos
+mais utilizados. O circuito, apresentado na figura a seguir, tem a função de inverter o sentido de rotação
+do MCC, utilizando uma ponte H de transistores. A inversão do sentido do motor é realizada pela chave S.
+Na situação apresentada na figura, com a chave S em GND (referência), quais transistores estarão
+em saturação?
+A T2eT3.
+B T2eTA4.
+C T1eT2.
+D T1eT3.
+E T1eTA4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,1214 1490,1214 1490,1306 850,1306 850,1478 1491,1478 1491,1576 1208,1576 1208,1758 470,1758 470,1815 322,1815 322,2001 234,2001 234,2048 85,2048 85,1758 84,1758 84,1381 83,1381 83,1312 84,1312"/>
+	<TextEquiv conf="0.96442">
+	<Unicode>QUESTÃO 16
+Um processo a ser controlado em uma planta industrial pode ser modelado pela seguinte função de
+transferência em malha aberta:
+15
+Considere que o sistema de controle em malha fechada seja resultante da aplicação de uma realimentação
+unitária negativa a essa planta e que esse sistema seja submetido a uma excitação de entrada na forma
+de um degrau unitário.
+Com base nessa situação, avalie as afirmações a seguir.
+I. O sistema em malha fechada possui um pólo em s = – 2.
+II. A saída do sistema apresenta erro estacionário em regime permanente nulo.
+III. O sistema em malha fechada é estável.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

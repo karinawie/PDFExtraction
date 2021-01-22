@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:24:46</Created>
+	<LastChange>2020-11-30T17:29:07</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="170,244 340,244 340,312 1577,312 1577,461 1576,461 1576,1052 1448,1052 1448,1099 660,1099 660,1155 335,1155 335,1409 170,1409 170,461 169,461 169,312 170,312"/>
+	<ImageRegion id="r1">
+	<Coords points="161,491 161,752 1577,752 1577,491"/></ImageRegion>
+	<TextEquiv conf="0.95737">
+	<Unicode>QUESTÃO 11
+No desenvolvimento de um sistema de automação para um clube recreativo, serão implementados
+módulos para o departamento administrativo, tais como os módulos de cadastro de associados e de
+gestão de mensalidades. Na construção desses módulos, algumas regras de negócio serão aplicadas
+conforme o diagrama abaixo.
+Com base nesse diagrama, avalie as afirmações a seguir.
+|. Haverá somente 12 mensalidades para cada associado, ou seja, as mensalidades do associado não
+poderão ultrapassar os 12 meses do ano.
+Il. Não existem associados sem mensalidades, nem mensalidades sem associado a elas relacionado.
+Ill. Alterando-se o valor da mensalidade definido para cada tipo de associado cadastrado, o sistema
+automaticamente altera os valores das mensalidades geradas anteriormente.
+IV. Poderão existir tipos de associados que não terão nenhum associado relacionado a eles.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oelv
+O Lllelv.
+OuMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

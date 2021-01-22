@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T20:47:01</Created>
+	<LastChange>2020-11-20T21:01:43</LastChange></Metadata>
+	<Page imageFilename="10_ENG_AMB_BACHAREL_BAIXA-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,309 1576,309 1576,524 1575,524 1575,1795 1576,1795 1576,1860 1308,1860 1308,2100 171,2100 171,2101 170,2101 170,1861 169,1861 169,1416 168,1416 168,309 169,309"/>
+	<ImageRegion id="r1">
+	<Coords points="508,902 508,1344 1238,1344 1238,902"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="494,1427 494,1727 1258,1727 1258,1427"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="536,538 536,766 1197,766 1197,538"/></TableRegion>
+	<TextEquiv conf="0.96314">
+	<Unicode>QUESTÃO 20
+Parâmetros físico-químicos como oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO)
+são importantes referenciais para se classificar a qualidade da água. O OD representa a concentração
+de O, na água, sendo importante para a sobrevivência de muitos organismos. A Resolução do Conama
+n. 357/2005 apresenta uma classificação das águas doces e de outros corpos de água, com base nos
+valores quantitativos de OD e de outras variáveis. No caso das águas doces, algumas das classes e seus
+respectivos valores de OD estão descritos no quadro a seguir.
+A figura a seguir apresenta esquematicamente um trecho de um curso de água enquadrado na classe 2, onde
+foram alocados dois pontos de monitoramento, A e C, nas proximidades de dois pontos onde ocorrem os
+lançamentos, respectivamente, dos efluentes W e Y.
+As vazões e as concentrações de OD da água nos pontos A e C e dos efluentes W e Y estão descritos na tabela
+a seguir.
+Considerando esse contexto, assinale a opção que apresenta o OD e o atendimento ou não aos critérios
+de rio com classe 2 para os pontos Be D.
+O Ponto B: OD = 5,3 g:-m; atende. Ponto D: OD = 4 800 mg:m; não atende.
+O Ponto B: OD = 5,3 kg:m?; atende. Ponto D: OD = 4 800 mg:m*; não atende.
+O Ponto B: OD = 5200 mg:m; atende. Ponto D: OD = 4,7 mg:L!; não atende.
+O Ponto B: OD = 5300 mg:m*; atende. Ponto D: OD = 4,8xX10? mg:mL*!; atende.
+OQ Ponto B: OD = 4,7x10* g-L*; não atende. Ponto D: OD = 0,0048 g-L!; não atende.</Unicode></TextEquiv></TextRegion></Page></PcGts>

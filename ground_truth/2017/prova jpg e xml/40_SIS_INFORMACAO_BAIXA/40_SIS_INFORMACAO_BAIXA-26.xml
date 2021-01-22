@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-25T18:35:08</Created>
+	<LastChange>2020-11-25T19:03:33</LastChange></Metadata>
+	<Page imageFilename="40_SIS_INFORMACAO_BAIXA-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="170,244 339,244 339,319 1577,319 1577,677 1108,677 1108,678 638,678 638,679 169,679 169,680 168,680 168,319 169,319 169,245 170,245"/>
+	<TextEquiv conf="0.96773">
+	<Unicode>QUESTÃO 21
+Uma startup de tecnologia pretende desenvolver um aplicativo que aproxime empresas que precisam
+transportar mercadorias de condutores autônomos de veículos de carga (transportadores). O uso do
+aplicativo permitirá um aumento do número potencial de transportadores e de tipos de veículos, bem
+como o compartilhamento de frete, com redução do custo de transporte e do custo de armazenamento
+de mercadorias pelas empresas. Além disso, a visibilidade da disponibilidade dos transportadores pelo
+aplicativo pode aumentar suas possibilidades de negócios. Durante a concepção e o projeto do aplicativo,
+foram elaborados modelos UML (Unified Modeling Language), sendo um deles o diagrama de atividades,
+conforme apresentado na figura a seguir.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="144,719 144,1958 1600,1958 1600,719"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T19:39:55</Created>
+	<LastChange>2020-09-17T19:39:55</LastChange></Metadata>
+	<Page imageFilename="ciencias_economicas-24.jpg" imageWidth="1619" imageHeight="2170">
+	<TableRegion id="r0">
+	<Coords points="257,534 257,868 1360,868 1360,534"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="260,928 260,1202 1365,1202 1365,928"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="107,181 277,181 277,249 1513,249 1513,515 1511,515 1511,1338 1513,1338 1513,1590 1279,1590 1279,1591 1045,1591 1045,1592 811,1592 811,1593 107,1593 107,1411 106,1411 106,182 107,182"/>
+	<TextEquiv conf="0.95730">
+	<Unicode>QUESTÃO 17
+Com o objetivo de entender o impacto das internações causadas pela falta de saneamento básico, um
+pesquisador estimou o modelo apresentado na tabela a seguir, usando a quantidade de dias de internação
+de uma amostra de 7 260 pacientes do Sistema Único de Saúde como variável explicada. As variáveis
+explicativas são: (i) gênero do paciente, binária em que é 1 é utilizado para identificar as mulheres e O para
+identificar os homens; (ii) idade do paciente em anos de vida; e (iii) motivo da internação, também binária,
+em que recebe o valor 1 para identificar internações que são causadas por problemas de saneamento
+básico e o valor O para as demais internações.
+Considerando as informações apresentadas, assinale a opção correta.
+O Ocoeficiente R-quadrado encontra-se abaixo de 30%, o que significa que o modelo deve ser descartado.
+O Asinternações causadas pela deficiência de saneamento básico tendem a gerar um aumento de 1,96%
+nos gastos de saúde.
+O A média de dias de internação para mulheres é estatisticamente maior que a de internação para homens.
+O A variável idade não é estatisticamente significativa para explicar o número de dias de internação.
+O O teste F mostra que as variáveis explicativas conjuntamente são estatisticamente significativas para
+explicar o número de dias de internação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

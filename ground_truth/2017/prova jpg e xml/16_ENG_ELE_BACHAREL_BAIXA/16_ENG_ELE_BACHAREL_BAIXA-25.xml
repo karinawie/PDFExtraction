@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:47:08</Created>
+	<LastChange>2020-11-27T17:02:29</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-25.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r0">
+	<Coords points="872,247 872,2112 874,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="890,244 1061,244 1061,310 1577,310 1577,792 1575,792 1575,940 1576,940 1576,1076 1575,1076 1575,1316 1576,1316 1576,1375 1575,1375 1575,1578 1574,1578 1574,1687 1575,1687 1575,1761 1484,1761 1484,1811 891,1811 891,1375 890,1375 890,1316 939,1316 939,891 890,891"/>
+	<TextEquiv conf="0.96659">
+	<Unicode>QUESTÃO 25
+A modalidade Tarifária Horária Branca, OU,
+simplesmente, Tarifa Branca, definida na Resolução
+Normativa ANEEL n. 414/2010, que estabelece
+as Condições Gerais de Fornecimento de Energia
+Elétrica, e regulamentada na Resolução Normativa
+ANEEL n. 733/2016, passou a ser uma opção para
+alguns consumidores de energia elétrica. Por
+exemplo, uma unidade consumidora da subclasse
+Residencial (B1), que possui um consumo mensal
+médio de 350 kWh, sendo 250 kWh no posto
+horário fora de ponta, 35 kWh no posto horário
+intermediário e 65 kWh no posto horário ponta
+poderá optar pela Tarifa Branca.
+Em relação à Tarifa Branca, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. A Tarifa Branca é uma nova alternativa que
+sinaliza aos consumidores a variação do
+valor da energia conforme o dia e o horário
+do consumo.
+PORQUE
+Il. É importante que o consumidor, antes de
+optar pela Tarifa Branca, conheça seu perfil
+de consumo e a relação entre a Tarifa Branca
+e a Convencional.
+A respeito dessas asserções, assinale a opção
+correta.
+O As asserções | e |l são proposições verdadeiras,
+e all é uma justificativa correta da |.
+O As asserções | e 11 são proposições verdadeiras,
+mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,306 855,306 855,1809 659,1809 659,1861 326,1861 326,2097 169,2097 169,1933 170,1933 170,1827 218,1827 218,1193 168,1193 168,306 169,306"/>
+	<TextEquiv conf="0.95617">
+	<Unicode>QUESTÃO 24
+Uma linha de transmissão de energia elétrica pode
+ser representada pelos parâmetros: resistência,
+indutância, capacitância e condutância.
+A condutância leva em conta a corrente de
+fuga nos isoladores, podendo ser desprezível.
+A resistência é fornecida pelos fabricantes de
+condutores para certas condições de operação. À
+indutância e a capacitância são determinadas com
+base nos campos elétrico e magnético presentes
+em um circuito. Uma variação de corrente nos
+condutores provoca uma variação do número de
+linhas de fluxo magnético concatenadas com o
+circuito. Por sua vez, qualquer variação do fluxo
+concatenado com o circuito lhe induz uma tensão,
+cujo valor é proporcional à taxa de variação do
+fluxo. Por outro lado, a diferença de potencial
+entre condutores faz com que esses se tornem
+carregados, de modo semelhante às placas de
+um capacitor. Assim, chega-se à conclusão que
+a indutância e a capacitância são parâmetros
+determinados por fatores construtivos e
+geométricos (material e dimensões).
+STEVENSON, W. D. Elementos de análise de sistemas de potência.
+2. ed. São Paulo: McGraw-Hill, 1986 (adaptado).
+A partir das informações do texto, avalie as
+afirmações a seguir.
+|. Por meio do campo magnético, é
+determinado o parâmetro da indutância,
+que resulta da diferença de potencial entre
+condutores.
+Il. Por meio do campo elétrico, é determinado o
+parâmetro da capacitância, descrito a partir
+da variação de corrente nos condutores,
+que provoca variação do número de linhas
+de fluxo magnético concatenadas com o
+circuito.
+Ill. Numa linha de transmissão, a distância
+entre condutores e a geometria (disposição
+espacial dos condutores) influenciam os
+valores da indutância e da capacitância.
+IV. O valor da condutância de uma linha de
+transmissão independe da disposição
+espacial de seus condutores.
+É correto apenas o que se afirma em
+Ou.
+O llelv.
+O1I1em,.
+O Lilelv.
+O LIMEeIV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

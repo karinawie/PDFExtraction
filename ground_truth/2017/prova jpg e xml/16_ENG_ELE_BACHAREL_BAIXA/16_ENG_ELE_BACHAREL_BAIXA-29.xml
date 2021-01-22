@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:46:17</Created>
+	<LastChange>2020-11-27T16:59:18</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="169,244 339,244 339,297 1577,297 1577,562 1576,562 1576,1571 1225,1571 1225,1572 1208,1572 1208,1756 879,1756 879,1757 555,1757 555,1820 407,1820 407,2069 170,2069 170,1475 169,1475 169,566 168,566 168,297 169,297"/>
+	<ImageRegion id="r1">
+	<Coords points="169,583 169,1300 1577,1300 1577,583"/></ImageRegion>
+	<TextEquiv conf="0.94208">
+	<Unicode>QUESTÃO 31
+Um engenheiro propôs a construção de um carregador de bateria utilizando um painel fotovoltaico e
+um conversor elevador de tensão (boost), conforme mostrado na figura 1, em que os elementos são
+considerados ideais. Nessa figura, na qual foram omitidos os circuitos de controle e de comando do
+transistor (M), L é um indutor, D, um diodo, O, um capacitor e V,atensão de saída do conversor.
+A bateria está representada pela fonte de tensão (V,,) e por uma resistência interna (R,). O painel
+fotovoltaico é formado por 15 células conectadas em série, as quais, individualmente, apresentam
+o comportamento indicado na figura 2.
+O conversor elevador de tensão opera em regime permanente, com modulação por largura de pulso
+(Pulse Width Modulation - PWM) com frequência fixa. A fim de realizar o processo de carga da bateria, o
+conversor é ainda controlado de modo a extrair a máxima potência do painel e produzir tensão de saída
+(V ) de 15 V, considerada constante e com ondulação de alta frequência (ripple) desprezível.
+Desprezando as perdas no conversor e considerando o ponto de operação indicado na figura 2 (ponto de
+potência máxima), avalie as afirmações a seguir.
+|. A corrente média que recarrega a bateria é de 0,45 A.
+Il. A potência entregue pelo painel fotovoltaico é de 101,25 W.
+Ill. Quando o transistor conduz, o diodo suporta a tensão reversa de 15 V.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lei, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

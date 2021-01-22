@@ -1,0 +1,708 @@
+QUESTÃO DISCURSIVA 03
+Uma árvore binária de busca é uma árvore ordenada que pode apresentar prejuízos no desempenho
+de determinados algoritmos em função do desbalanceamento causado pela ordem de inserção dos
+elementos na estrutura. Uma árvore AVL é uma árvore binária de busca balanceada em que a diferença
+em módulo entre a altura da subárvore esquerda e a altura da subárvore direita de cada nó é, no máximo,
+de uma unidade.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Apresente uma árvore binária de busca balanceada com os elementos 2, 9, 15, 21, 27, 36 e 500 em
+que o nó raiz principal contém o elemento 21 e o balanceamento de cada nó seja no máximo uma
+unidade. (valor: 3,0 pontos)
+b) Considerando as inserções dos elementos 9, 27 e 50, nesta ordem, em uma árvore AVL inicialmente
+vazia, apresente a árvore resultante. (valor: 3,0 pontos)
+c) Considerando as inserções dos elementos 9, 27, 50, 15, 2, 21 e 36, nesta ordem, em uma árvore AVL
+inicialmente vazia, apresente a árvore resultante. (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 04
+Na matemática, um produtório é definido como:
+2 : ll : : :
+Com base nessa equação, e considerando que x, = 1 + —, com 1 > O, faça o que se pede nos itens a seguir.
+i
+a) Escreva uma função iterativa, em linguagem C, que receba os parâmetros de limite inferior m e de
+limite superior n, calcule e retorne o resultado do produtório. (valor: 5,0 pontos).
+b) Escreva uma função recursiva, em linguagem C, que receba os parâmetros de limite inferior m e de
+limite superior n, calcule e retorne o resultado do produtório. (valor: 5,0 pontos).
+
+QUESTÃO DISCURSIVA 05
+Um circuito elétrico de corrente contínua é aquele em que todas as tensões são constantes no tempo.
+Circuitos de corrente alternada, por sua vez, possuem valores de tensão variantes no tempo. As variações
+de tensão senoidal são expressas pela equação V(t) = V,,sen(2nft) em que V,, representa o valor de
+pico, frepresenta a frequência do sinal e t o tempo. Os gráficos a seguir mostram a tensão e a corrente
+em uma carga.
+
+Com base nas informações e nos gráficos, faça o que se pede nos itens a seguir.
+a) Determine a natureza da carga (resistiva, capacitiva ou indutiva) e justifique. (valor: 2,5 pontos)
+b) Calcule o valor da impedância da carga. (valor: 2,5 pontos)
+c) Apresente a equação da forma de onda da corrente alternada. (valor: 2,5 pontos)
+d) Calcule a tensão eficaz (RMS) do circuito de corrente alternada. (valor: 2,5 pontos)
+
+QUESTÃO 09
+O MergeSort é um método de ordenação que combina dois vetores ordenados e cria um terceiro vetor
+maior também ordenado. O algoritmo abaixo apresenta essa ideia e combina os vetores a[lo..mid]
+e a[mid+1..hi] no vetor a[lo..hi].
+public class MergeSort {
+private static Comparable[] aux;
+public static void merge(Comparable[] a, int lo, int mid, int hi) {
+int i = lo, j = mid+1;
+for (int k = lo; k <= hi; k++)
+aux[k] = a[k];
+for (int k = lo; k <= hi; k++) {
+if (i > mid)
+a[k] = aux[j++];
+else if (j > hi )
+a[k] = aux[i++];
+else if (aux[j].compareTo(aux[i]))
+a[k] = aux[j++];
+else
+a[k] = aux[i++];
+}
+}
+public static void sort(Comparable[] a) {
+aux = new Comparable[a.length];
+sort(a, 0, a.length - 1);
+}
+private static void sort(Comparable[] a, int lo, int hi) {
+//implementação
+}
+}
+SEDGEWICK, R.; WAYNE, K. Algorithms. 4. ed. Boston: Addison-Wesley, 2011 (adaptado).
+Considerando o código apresentado, a implementação do protótipo do método sort da classe MergeSort é
+A if (hi == lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid, hi);
+merge(a, lo, mid, hi);
+B
+if (hi > lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid, hi);
+merge(a, lo, mid, hi);
+C
+if (hi <= lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid, hi);
+merge(a, lo, mid, hi);
+D
+if (hi > lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid+1, hi);
+merge(a, lo, mid, hi);
+E
+if (hi <= lo)
+return;
+int mid = lo + (hi - lo)/2;
+sort(a, lo, mid);
+sort(a, mid+1, hi);
+merge(a, lo, mid, hi);
+
+QUESTÃO 10
+Um estudo recente de pesquisadores mostrou
+que os algoritmos de inteligência artificial também
+podem ser usados para prever, pelo olhar de um
+indivíduo, se ele tem chances de sofrer um ataque
+cardíaco. Os pesquisadores treinaram um sistema
+de Inteligência Artificial (IA) com exames de retina
+de 284 335 pacientes em busca de padrões nos
+cruzamentos de vasos sanguíneos para que a
+máquina aprenda a identificar os sinais indicadores
+de doenças cardiovasculares.
+Disponível em: <https://www.g1.globo.com/ciencia-e-saude/noticia/
+2019/03/15/como-a-ia-detecta-sinais-de-doencas-que-humanos-
+nao-podem-enxergar.ghtml>. Acesso em 01 Jun. de 2019 (adaptado).
+Acerca do caso apresentado, avalie as afirmações
+a seguir.
+I. O conjunto de dados utilizado para a
+realização da técnica de reconhecimento de
+padrões corresponde aos exames de retina
+de 284 335 pacientes.
+Il. A seleção de características que serão
+utilizadas como base para o reconhecimento
+de padrões equivale ao cruzamento de vasos
+sanguíneos.
+Ill. A classificação dos resultados corresponde a
+identificar os sinais indicadores de doenças
+cardiovasculares.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 11
+O gestor de um hotel precisa satisfazer a demanda
+de vários grupos de eventos pelo uso exclusivo de
+auditórios por uma semana utilizando o menor
+número possível de auditórios. A tabela apresenta
+os conflitos de demandas dos grupos de eventos
+para todos os dias na semana, em que o valor 1
+em uma célula indica que um determinado grupo
+precisará usar um auditório no mesmo horário que
+outro grupo e o valor O indica que não há conflito
+entre os dois grupos.
+Nessa situação, o número mínimo de auditórios
+que satisfaz todas as demandas é de
+A um.
+B dois.
+C três.
+D quatro.
+E cinco.
+
+QUESTÃO 12
+Em um sistema computacional avalia-se o desempenho no uso de dois tipos de memória secundária por
+meio de programação linear. No gráfico apresentado cada eixo representa a quantidade de posições de
+memória de cada tipo e a região colorida representa, de forma contínua, o conjunto de soluções viáveis
+(região viável).
+As arestas da região viável foram definidas pelas diversas restrições observadas para os dois tipos
+de memória. Com base no gráfico, o máximo desempenho do sistema, representado pela variável
+Z=30xr + 10y, é de
+A 350.
+B 280.
+C 270.
+D 180.
+E 130.
+
+QUESTÃO 13
+Considere a modelagem matemática de um processo e a resposta à excitação do tipo degrau unitário
+Nesse processo, o tempo de estabilização é de 1 segundo para o critério de 4 constantes de tempo, a função
+de transferência de malha fechada é T'(s) = o e a função de transferência no ramo direto é G(s).
+(s
+Com base nas informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.
+I. A função de transferência do ramo direto é G(s) =
+Il. A função de transferência de malha fechada é T(s) =
+A respeito dessas asserções, assinale a opção correta.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+C A asserção I é uma proposição verdadeira, mas a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, mas a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.
+
+QUESTÃO 14
+Filtros normalizados são resultantes da compressão da faixa de frequência infinitamente longa
+—co<m<c de um filtro analógico (tempo contínuo) para a faixa de frequência finita - <Q <n
+de um filtro digital (tempo discreto), com período 2m.
+HAYKIN, S; VEEN, B.V. Sinais e sistemas. Porto Alegre: Bookman, 2001 (adaptado).
+A mudança da escala de frequências também pode ser pensada como uma normalização do eixo das
+frequências em que a frequência de amostragem o, corresponde a +n e qualquer outra frequência em
+Hz, &, corresponde à frequência discreta +O.
+OPPENHEIM, A. V; SCHAFER, R. W. Discrete-time signal processing. 3. ed. NJ: Prentice Hall, 1998 (adaptado).
+Considerando um sistema de transmissão de dados com a máxima frequência do sinal de informação de
+4 000 Hz, e frequência de amostragem de 20 000 amostras por segundo com um filtro digital de resposta
+ideal que rejeite os sinais de frequências superiores a 6 000 Hz, a resposta em frequência do filtro que
+atenda essas especificações é
+
+QUESTÃO 15
+O método de regressão linear pelos mínimos quadrados é um dos mais difundidos para encontrar
+aproximações para modelos lineares em diferentes áreas, como por exemplo, processamento gráfico,
+aprendizagem de máquina e visão computacional.
+Em um sistema superdeterminado do tipo AX = B, que não possua solução (devido a erros nos dados), a
+solução mais próxima, segundo o critério dos mínimos quadrados, é dada pelo sistema: A!” - AX=AT-B,
+em que A” é a transposta de À. Considere o problema de encontrar a reta que melhor se ajusta a quatro pontos
+no plano, segundo o critério dos mínimos quadrados, cujas coordenadas são:
+Suponha que uma reta seja dada na forma funcional y = mx + c. Ao se substituírem as coordenadas de
+cada ponto nesta equação, forma-se um sistema de equações AX = B, em que X é o vetor de incógnitas
+7) A equação da reta que é solução dos mínimos quadrados é
+Cc
+O y=0,5r7+1.
+Oy=7+0)1.
+4
+O y=-(t+1),
+3
+O y=1,5r.
+Ouy=11r
+
+QUESTÃO 16
+Considere a construção de um Demultiplexador digital (DEMUX) de 4 canais, usando Cls 7404 e 7411, para
+que um mesmo controle (liga/desliga) seja compartilhado por quatro leds. A figura a seguir apresenta o
+diagrama esquemático do circuito.
+Após a montagem, constatou-se que o circuito não funciona corretamente. Para certificação de que o
+circuito do diagrama esquemático estava correto, comparou-se os estados esperados com os estados
+observados do circuito para identificar o defeito. A tabela a seguir sintetiza os dados dessa comparação.
+Com base nos dados apresentados na tabela, o defeito que condiz com os resultados das observações é que
+A o pino 11 da porta IC1C não foi conectado.
+B o pino 9 da porta IC1C está conectado com S0, ao invés de estar conectado com S1.
+C o pino 10 da porta IC1C está conectado com S0, ao invés de estar conectado com S0 negado.
+D o pino 11 da porta IC1C está conectado com S0, ao invés de estar conectado com a ENTRADA.
+E o pino 11 da porta IC1C está conectado com S1, ao invés de estar conectado com a ENTRADA.
+
+QUESTÃO 17
+Os amplificadores operacionais são utilizados em circuitos de controle e supervisão de processos
+industriais, em que sinais de entrada são provenientes de sensores ou transdutores colocados nas malhas
+de controle do sistema. O diagrama a seguir ilustra um exemplo de circuito utilizado para medição da
+temperatura com um sensor do tipo NTC (Negative Temperature Coefficient):
+De acordo com o manual do fabricante do sensor NTC, para uma temperatura de 30 ºC é observada uma
+resistência de 8 kO, portanto, o valor da tensão exibida na tela (display) do voltímetro ligado na saída do
+circuito eletrônico apresentado é de
+A -6 volts.
+B 6 volts.
+C 3 volts.
+D -3 volts.
+E 1 volt.
+
+QUESTÃO 18
+O algoritmo de criptografia Data Encryption
+Standard (DES) cifra blocos de 64 bits utilizando
+chaves simétricas de 56 bits. Atualmente o DES
+não é mais considerado uma cifra segura devido
+ao pequeno número de bits utilizado para a chave.
+Para resolver o tamanho da chave, foi proposto
+o DES Triplo (3DES), que utiliza três execuções do
+DES e chaves de até 168 bits. A chave k para o
+3DES é dividida em três partes (k, k,, k.) e cada
+uma destas partes é utilizada na execução de uma
+instância do DES.
+STALLINGS, W. Criptografia e Segurança de Redes: Princípios e práticas.
+4º ed. São Paulo: Pearson Prentice Hall, 2008 (adaptado).
+O algoritmo DES define uma função C(m, k,)que
+cifra uma mensagem m com uma chave k, e uma
+função (Dc, k,) que decifra uma mensagem C
+cifrada com a chave k,. Para que o 3DES seja capaz
+de decifrar mensagens cifradas com o DES, sua
+implementação deve ser
+A D(C(D(m, ka), kb), kc), sendo ka ≠ kb ≠ kc
+partes da chave usada no 3DES e ka a chave
+usada no DES.
+B D(D(D(m, ka), kb), kc), sendo ka ≠ kb ≠ kc, partes
+da chave do 3DES e ka a chave usada no DES.
+C D(D(D(m, ka), kb), kc), sendo ka = kb = kc, partes
+da chave do 3DES e ka a chave usada no DES.
+D D(C(D(m, ka), kb), kc), sendo ka = kb = kc
+partes da chave usada no 3DES e ka a chave
+usada no DES.
+E D(D(C(m, ka), kb), kc), sendo ka = kb = kc
+partes da chave usada no 3DES e ka a chave
+usada no DES.
+
+QUESTÃO 19
+Pesquisadores vêm trabalhando na possibilidade
+de microprocessadores comerciais off-the-shelf
+terem sido adquiridos com um backdoor utilizado
+para desativá-los no momento oportuno, ou seja,
+ataques a sistemas cibernéticos poderiam ser
+intencionalmente ativados por meio de um gatilho
+(trigger), em momento definido pelo atacante.
+Disponível: <http://www.abin.gov.br>.
+Acesso em: 29 jun. 2019 (adaptado).
+São inúmeras as possibilidades de ação por meio do
+uso de hardware trojan, que permite uma infiltração
+silenciosa e cuja detecção é extremamente complexa.
+Com base no texto e no contexto de detecção e
+prevenção de ameaças, avalie as afirmações a seguir.
+I. Detecção de falhas de manufatura, como
+falhas de atraso (delay), garante a detecção
+dos trojans.
+Il. Detecção por meio de inspeção física ou
+engenharia reversa destrutiva não garante
+que os microprocessadores comerciais
+estejam livres do hardware trojan.
+III.O preenchimento total de células no circuito
+previne a inserção de hardware trojan, não
+deixando espaços vagos no design.
+IV. Prevenção por meio de camuflagem é um
+tipo de estratégia de ofuscação no nível
+do layout físico, que consiste na adição de
+contatos e conexões falsas.
+É correto apenas o que se afirma em
+A I e II.
+B I e III.
+C II e IV.
+D I, III e IV.
+E II, III e IV.
+
+QUESTÃO 20
+Rigidez é a tendência de um software ser difícil de modificar. Cada mudança causa uma cascata de
+mudanças subsequentes em módulos dependentes. O trecho de código a seguir faz parte de um sistema
+com suporte à comunicação entre diferentes dispositivos de comunicação via rádio (modems):
+1 struct Modem { enum Type {hayes, courrier, ernie) type; };
+2 struct Hayes {
+3 Modem::Type type;
+4 // Detalhes do modem tipo Hayes
+5 };
+6 struct Courrier {
+7 Modem::Type type;
+8 // Detalhes do modem tipo Courrier
+9 };
+10 struct Ernie {
+11 Modem::Type type;
+12 // Detalhes do modem tipo Ernie
+13 };
+14 void LogOn(Modem& m, string& frq, string& user, string& pw) {
+15 if (m.type == Modem::hayes)
+16 OpenHayesChannel((Hayes&)m, frq);
+17 else OpenCourrierChannel((Courrier&)m, frq);
+18 // depois de conectado, enviar user, pw, etc.
+19 // (continua)
+Disponível em: <http://www.staff.cs.utu.fi/staff/jouni.smed/doos_06/material/DesignPrinciplesAndPatterns.pdf>.
+Acesso em: 15 jun. 2019 (adaptado).
+Nesse trecho, cada tipo de modem tem suas particularidades e foram criadas estruturas específicas
+para cada tipo (linhas 2 a 13). Um "enumeration" (linha 1) é utilizado para identificar o tipo de modem.
+O procedimento LogOn (linhas 14 a 19) é responsável por realizar a conexão a um modem. Dados o tipo
+do modem (m), a frequência (frq), o nome de usuário (user) e a senha (pw), inicialmente, é feita a
+abertura do canal de comunicação, que corresponde a uma chamada específica para cada tipo de modem
+(linhas 15 a 17). Como os modems do tipo Courrier e Ernie são similares em termos de abertura de
+canal, o programador decidiu otimizar o código, utilizando a função do modem Courrier para ambos
+(OpenCourrierChannel - linha 17). Uma vez conectado, o código continua o processo de LogOn na
+linha 18 em diante.
+Nesse projeto do código um sintoma de rigidez é que
+A se o suporte ao modem do tipo Ernie for removido do sistema, será necessário remover a estrutura
+Ernie do código.
+B se um novo tipo de modem for adicionado, será necessário alterar o número de parâmetros definidos
+no procedimento LogOn.
+C se um novo tipo de modem for adicionado, é necessário copiar e colar todo o código de uma das
+outras estruturas de modems para incluir novos detalhes.
+D se a política de comunicação do modem do tipo Hayes sofrer alteração, pode ser necessário alterar
+o procedimento OpenHayesChannel e a estrutura Hayes.
+E se a política de comunicação do modem do tipo Courrier sofrer alteração, pode ser necessário
+alterar OpenCourrierChannel e LogOn e criar um novo procedimento OpenErnieChannel.
+
+QUESTÃO 21
+Uma empresa de análise de mercado de entregas de encomendas foi contratada para selecionar aquela
+que prestaria serviço para seu cliente e fez um levantamento de dados do setor nos últimos 10 anos,
+produzindo um relatório com a tabela a seguir, que apresenta 5 principais fornecedores em potencial para
+o serviço de entrega de encomendas.
+Com base nessa situação e considerando que a tabela faz parte do banco de dados da empresa com o
+nome de TABELA1, avalie as afirmações a seguir.
+I. O código em SQL que exclui da TABELA1 as informações do Fornecedor 1, Fornecedor 4 e Fornecedor 5
+é: DELETE FROM TABELA1 WHERE CD6 = 'Regional' OR CD1 > 160 OR CD5 > 1;.
+II. A inclusão de uma nova coluna com dados de taxa de eficiência de entrega para os fornecedores
+constantes na TABELA1 é feita pelo código: INSERT INTO TABELA1 (CD7) SET CD7 =
+'CD3/CD2';.
+III. O código que reflete a escolha do cliente, o Fornecedor 3, é: SELECT Fornecedor FROM
+TABELA1 WHERE CD1 > 100 AND (CD3/CD2) > 0.99 AND CD5 < 0.5 ORDER BY
+CD3;.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 22
+Considere um software de monitoramento de estufas que possui um alarme que detecta quando um
+medidor de temperatura excede um dado limiar. Para esse projeto, utilizou-se uma rede bayesiana para
+inferir eventos que podem acontecer no sistema com as seguintes variáveis booleanas:
+A: o alarme soa;
+AD: o alarme está defeituoso, o alarme é acionado sem necessidade ou é um alarme falso;
+MD: o medidor de temperatura está defeituoso e pode gerar valores incorretos, levando a leituras
+erradas do medidor;
+LM: os valores de leitura do medidor;
+T: a temperatura real da estufa.
+Quando a temperatura da estufa fica muito alta, o medidor de temperatura pode falhar. Assim, a rede
+bayesiana para esse domínio é
+
+QUESTÃO 23
+Considere o autômato de estados finitos
+determinístico representado na figura a seguir.
+O autômato representado reconhece a seguinte
+linguagem regular
+A {w ∈ {0,1}*| |w| é 4}.
+B {w ∈ {0,1}*| |w| é ímpar e termina com 1}.
+C {w ∈ {0,1}*| |w| é par e termina com 01}.
+D {w ∈ {0,1}*| |w| é ímpar e termina com 0}.
+E {w ∈ {0,1}*| |w| é par e termina com 11}.
+
+QUESTÃO 24
+Protocolos de roteamento de estado de enlace
+utilizam difusão para propagar informações de
+estado de enlace que são usadas para calcular rotas
+individuais. Entretanto, algumas técnicas provocam
+a transmissão de pacotes redundantes na rede.
+Idealmente, cada nó deveria receber apenas uma
+cópia do pacote de difusão.
+Uma técnica utilizada para resolver o problema da
+redundância de pacotes, é a difusão por spanning
+tree. Uma spanning tree de um grafo G = (N, E) é
+um grafo G' = (N, E') tal que E' é um subconjunto
+de E, G' é conexo, não possui ciclos e contém todos
+os nós originais em G. Se cada enlace tiver um
+custo associado e o custo de uma árvore for a soma
+dos custos dos enlaces, então uma árvore cujo
+custo seja o mínimo entre todas as spanning trees
+do grafo é denominada uma spanning tree mínima.
+KUROSE, J. F.; ROSS, K. W. Redes de computadores e a Internet:
+uma abordagem top-down. 6. ed. São Paulo:
+Pearson Education do Brasil, 2013 (adaptado).
+Considere uma rede composta por 6 roteadores,
+designados pelas letras A, B, C, D, E e EF, conectados
+conforme a seguinte tabela de custos de seus enlaces:
+Neste cenário, o custo da spanning tree mínima
+correspondente é, exatamente:
+A 5.
+B 7.
+C 8.
+D 9.
+E 11.
+
+QUESTÃO 25
+A linguagem Python não permite alguns tipos de otimização como, por exemplo, a recursão em cauda e,
+devido à sua natureza dinâmica, é impossível realizar esse tipo de otimização em tempo de compilação
+tal como em linguagens funcionais como Haskell ou ML.
+Disponível em: <http:/www.python-history.blogspot.com/2009/04/origins-of-pythons-functional-features.html>.
+Acesso: em 15 jun. 2019 (adaptado).
+O trecho de código a seguir, escrito em Python, realiza a busca binária de um elemento x em uma lista
+lst e afunçãobinary search tem código recursivo em cauda.
+1 def binary search(x, lst, low=None, high=None):
+2 if low == None : low = O
+3 if high == None : high = len(lst)-1l
+4 mid = low + (high - low) // 2
+5 if low > high
+6 return None
+7 elif lst[mid] == x
+8 return mid
+9 elif lIst[imid] > x
+10 return binary search(x, lst, low, mid-1l)
+11 else
+12 return binary search(x, lst, mid+l1, high)
+Disponível em: <https://www.kylem.net/programming/tailcall.html>. Acesso em: 15 jun. 2019 (adaptado).
+Considerando esse trecho de código, avalie as afirmações a seguir.
+I. Substituindo-se o conteúdo da linha 10 por high = mid - 1 e substituindo-se o conteúdo da
+linha 12 por low = mid + 1, não se altera o resultado de uma busca.
+Il. Envolvendo-se o código das linhas 4a 12 emum laço while True, substituindo-se o conteúdo
+da linha 10 por high = mid -— 1 e substituindo-se o conteúdo da linha 12 por low = mid + 1
+remove-se a recursão de cauda e o resultado da busca não é alterado.
+Ill. Substituindo-se o código da linha 10 por:
+newhigh = mid-1l
+return binary search(x, lst, low, newhigh)
+e substituindo-se o código da linha 12 por:
+newlow = mid+1
+return binary search(x, lst, newlow, high)
+remove-se a recursão de cauda.
+IV. Substituindo-se o conteúdo das linhas 9 a 12 por
+if lst[imid] > x
+newlow = low
+newhigh = mid-1
+else:
+newlow = mid+1
+newhigh = high
+return binary search(x, lst, newlow, newhigh)
+mantém-se o resultado da busca.
+É correto o que se afirma em
+A I, apenas.
+B II e III, apenas.
+C II e IV, apenas.
+D I, III e IV, apenas.
+E I, II, III e IV.
+
+QUESTÃO 26
+Proporcional-Integral-Derivativo (PID) é o algoritmo de controle que mais tem sido utilizado na indústria
+e no mundo para sistemas de controle industrial. A popularidade de controladores PID pode ser parcialmente
+atribuída ao seu desempenho robusto em uma ampla gama de condições de funcionamento e parcialmente à
+sua simplicidade funcional, que permite aos engenheiros operá-los de forma simples e direta.
+Disponível em: <https://www.ni.com/pt-br/innovations/white-papers/06/pid-theory-explained.html >. Acesso em 20 jun. 2019 (adaptado).
+A figura a seguir apresenta um esquema de controle PID para um processo de temperatura de um
+forno industrial.
+Cálculo dos termos e
+Considere o trecho incompleto do código-fonte a seguir em que kp é o ganho proporcional (P),
+ki o ganho integral (1) e kd o ganho derivativo (D).
+Considerando a necessidade de implementar o esquema de controle PID, assinale a opção que completa
+corretamente a linha 12 desse código.
+O xp * Erro + ki * ITerm;
+O ki/kp * ITerm + kd/kp * dErro;
+O kp * Erro + kd * dErro * dErro;
+O kp * Erro + ki * ITerm + kd * dErro;
+o kp * Erro + ki * ITerm + kd * dErro * dErro;
+
+QUESTÃO 27
+Padrões de projeto são soluções gerais para problemas frequentes de projetos de software. O diagrama
+de classes UML abaixo ilustra a estrutura do padrão Strategy:
+A partir do modelo UML apresentado e acerca dos padrões de projeto, avalie as afirmações a seguir.
+I. A Classe Strategy pode ser implementada como uma classe abstrata ou uma interface, pois
+corresponde unicamente a uma abstração dos diversos tipos de estratégias definidas.
+Il. O padrão Strategy pode ser utilizado na implementação de classes para, por exemplo, permitir que
+métodos de ordenação de coleções possam ser usados com diferentes critérios de comparação.
+Ill. O baixo acoplamento permite que estratégias sejam incluídas ou retiradas da aplicação sem alterar
+a estrutura das demais classes do sistema.
+IV. O uso do padrão Singleton para criação das instâncias, permitiria centralizar em um método de
+criação a lógica de seleção da estratégia a ser utilizada.
+É correto apenas o que se afirma em
+A I e II.
+B I e IV.
+C III e IV.
+D I, II e III.
+E II, III e IV.
+
+QUESTÃO 28
+Um sistema de tempo real satisfaz explicitamente
+restrições de tempo de resposta, podendo ter
+consequências como riscos ou falhas caso não
+cumpra essas restrições. O circuito lógico a seguir
+faz parte de um sistema de tempo real que realiza
+o acionamento de um alarme.
+Nesse circuito existem vários atrasos de
+propagação do sinal, que por sua vez geram atrasos
+no acionamento do alarme. Na forma como a
+lógica está implementada, o circuito não atende o
+requisito de tempo real especificado pelo sistema.
+Para cada porta lógica utilizada, os atrasos típicos,
+em unidades de tempo (u.t.), são:
+Após a simplificação do circuito, o menor tempo
+possível para o acionamento do alarme é de
+A 9 u.t.
+B 10 u.t.
+C 3 u.t.
+D 4 u.t.
+E 6 u.t.
+
+QUESTÃO 29
+A Internet das Coisas (Internet of Things (loT))
+pode ser definida como um ambiente de objetos
+físicos interconectados com a internet por meio
+de sensores/atuadores embutidos, criando um
+ecossistema de computação onipresente (ubíqua) e
+introduzindo soluções funcionais nos processos do
+dia-a-dia, sejam domésticos ou profissionais. É um
+conjunto de tecnologias e protocolos associados
+que permitem que objetos se conectem a uma
+rede de comunicações e sejam identificados e
+controlados por essa conexão. A loT usa conceitos,
+tecnologias e soluções que envolvem sistemas
+distribuídos e redes de comunicação.
+MAGRANI, E. A internet das coisas. Rio de Janeiro:
+FGV Editora, 2018 (adaptado).
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Em soluções e aplicações para loT, é preciso
+garantir que essas funcionarão de forma
+consistente em um ambiente concorrente,
+onde ocorrem várias requisições ao mesmo
+recurso compartilhado.
+PORQUE
+Il. Em soluções atuais de loT existe
+heterogeneidade, ou seja, dentro do mesmo
+ecossistema, uma variedade de sistemas
+operacionais, hardware, linguagens de
+programação e padrões de redes de
+comunicação são utilizados.
+A respeito dessas asserções, assinale a alternativa
+correta.
+O As asserções | e 11 são proposições verdadeiras,
+e all é uma justificativa correta de |.
+O As asserções | e |l são proposições verdadeiras,
+mas a |l não é uma justificativa correta de |.
+O A asserção | é uma proposição verdadeira, e a ll
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 30
+É comum a expressão "servidor web" ser utilizada para denominar processos cuja finalidade é disponibilizar
+recursos estáticos, que são os que se encontram completos antes de uma requisição ser realizada, e
+recursos dinâmicos, que são produzidos no momento em que um cliente o requisita e seu conteúdo
+é definido em tempo de requisição. Um Container de Servlets é um servidor web capaz de gerenciar
+diferentes aplicações que disponibilizam conteúdo dinâmico, e um Servlet é uma classe Java capaz de
+gerar conteúdo desse tipo, mediante a requisição de um cliente. Cada requisição atendida por um Servlet
+pode ser executada por uma thread e múltiplas requisições podem estar em execução simultaneamente.
+Considere o Servlet a seguir que mantém uma variável cuja finalidade é controlar quantas requisições são
+atendidas ao longo do tempo.
+A respeito do Servlet apresentado, avalie as afirmações a seguir.
+|. O código apresenta uma condição de corrida.
+Il. Substituir a linha 5 pela construção synchronized (this) (contador = contador + 1;)
+garante o correto funcionamento do método.
+Ill. Obter a trava do objeto referenciado por request antes de executar o incremento e liberá-la
+logo a seguir, garante o correto funcionamento do método.
+É correto o que se afirma em
+A I, apenas.
+B II, apenas.
+C I e III, apenas.
+D II e III, apenas.
+E I, II e III.
+
+QUESTÃO 31
+Em um sistema computacional, os processos submetidos à execução podem estar em um dos estágios do
+seu ciclo de vida que são classificados como em execução, em espera ou pronto. Quando o processo tem
+a posse do processador, está em execução. Se o processo não puder ser executado, por estar aguardando
+algum dado por exemplo, é considerado um processo em espera. Se não houver impedimentos para sua
+execução, o processo deve aguardar sua vez para ser executado na fila dos processos prontos. O diagrama
+a seguir representa os estados dos processos de alguns tipos de sistemas operacionais.
+Com base no texto e no diagrama de estados, avalie as afirmações a seguir.
+|. Um novo processo criado é inicializado no estado "espera".
+Il. Pode haver mais de um processo em estado "pronto".
+Ill. A transição B indica que o diagrama refere-se a um sistema operacional multitarefa.
+IV. O diagrama é inadequado para representar um sistema monotarefa.
+É correto apenas o que se afirma em
+A I e II.
+B I e III.
+C III e IV.
+D I, II e IV.
+E II, III e IV.
+
+QUESTÃO 32
+Uma estação de monitoramento de temperatura utiliza um termógrafo para registrar continuamente
+em um gráfico os valores detectados por seus sensores. Um determinado ambiente foi monitorado ao
+longo de três períodos distintos de um dia. O ambiente é considerado apropriado para um experimento
+científico se, para qualquer período P., de monitoramento o(P.) < 2, em que o(P,) denota o desvio
+padrão populacional do período P. em que o ambiente foi monitorado.
+As medidas de temperatura em ºC, obtidas após um processo de quantização do sinal, são apresentadas
+na tabela a seguir.
+A fim de automatizar o processamento dos sinais, o algoritmo a seguir foi desenvolvido, tendo como
+entrada um período e como resultado um valor booleano que indica se o período é apropriado ou não.
+Com base no caso apresentado, avalie as afirmações a seguir.
+|. Conforme o funcionamento do algoritmo, os períodos P,, P, e P; são apropriados.
+Il. O algoritmo calcula o desvio padrão amostral e, portanto, não é adequado para o estudo.
+Ill. Caso executado sobre o período P = (P,, P,e P3bh, o algoritmo indica que ele é inapropriado
+para o experimento.
+É correto apenas o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lell, apenas.
+O llelll, apenas.
+O 1LI1eM.
+
+QUESTÃO 33
+Umatrilha de um PCB (printed circuit board) é uma conexão entre dois pontos com impedância controlada,
+que depende de alguns parâmetros, tais como: frequência de operação, comprimento da trilha, tipo
+de dielétrico e tipo de sinal. Considerando que ela está sendo projetada com o tipo chamado stripline,
+o plano de referência é o GND (ground) e o dielétrico é o material FR4, cuja constante dielétrica k é
+aproximadamente igual a 4, o que implica na velocidade de propagação V, de um sinal elétrico em uma
+stripline ser a metade da velocidade no ar, portanto, aproximadamente 15 cm por nanosegundo.
+Em uma linha de transmissão utilizada para sinais digitais, deve-se considerar o tempo entre uma subida
+e uma descida t, do sinal, que é a metade do período T' da frequência máxima do sinal. O comprimento
+crítico L., de uma trilha é o limite máximo para o qual a trilha ainda pode ser entendida como uma simples
+conexão entre 2 pontos, sem necessidade de controlar sua impedância, e é dado por L, = V, d
+2
+Para uma trilha operar como uma conexão simples entre 2 pontos, seu comprimento L deve ser, no
+a : L,
+máximo, igual a ec .
+15
+No caso da interface PCI Express, cuja frequência máxima de operação especificada é de 1,25 GHz,
+o comprimento L máximo da trilha para que a mesma se comporte como uma simples conexão
+entre 2 pontos é de
+A 2 cm.
+B 3cm.
+C 4 cm.
+D 6 cm.
+E 8cm.
+
+QUESTÃO 34
+Um dos algoritmos de escalonamento mais clássicos é o de alternância circular (Round Robin) que atribui
+um intervalo de tempo para cada processo (quantum), dentro do qual ele pode ser executado. Ao final
+desse intervalo, o processo sofre uma preempção, caso não termine de executar, e outro processo
+não finalizado entra para ser executado. Essa ação de alternância de um processo para outro, também
+conhecida como troca de contexto, requer uma certa quantidade de tempo.
+TANENBAUM, A. S. Sistemas operacionais modernos. 4. ed. São Paulo:Pearson Education do Brasil, 2015 (adaptado).
+Um sistema operacional que utiliza o algoritmo Round Robin precisa executar dois processos, ambos com tempos
+de tarefa de 20 ms. Objetivando-se minimizar o tempo de resposta do sistema, o Quantum e o tempo de
+troca de contexto, respectivamente, devem ser
+A 5ms e 1ms.
+B 4ms e 2ms.
+C 5ms e 3ms.
+D 2ms e 1ms.
+E 2ms e 2ms.
+
+QUESTÃO 35
+Usabilidade é o fator que assegura ao usuário a facilidade de uso e é definida em aspectos como a
+inteligibilidade, que pode ser definida como atributos do software que evidenciam
+A a satisfação subjetiva do usuário durante o uso de funções específicas.
+B o esforço do usuário para sua operação e controle de sua operação.
+C o esforço do usuário para reconhecer o conceito lógico e sua aplicabilidade.
+D que o software esteja de acordo com as normas previstas em leis relacionadas à aplicação.
+E o esforço do usuário para aprender funcionalidades e controles de fatores de entrada e saída.
+

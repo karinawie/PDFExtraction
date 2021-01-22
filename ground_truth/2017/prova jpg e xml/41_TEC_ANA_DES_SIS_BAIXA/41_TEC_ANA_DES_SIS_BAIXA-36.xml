@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:21:51</Created>
+	<LastChange>2020-11-30T17:19:39</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-36.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r37" type="caption">
+	<Coords points="169,245 337,245 337,318 1577,318 1577,484 1290,484 1290,1285 169,1285 169,1286 168,1286 168,1256 169,1256"/>
+	<ImageRegion id="r1">
+	<Coords points="338,494 338,1197 1408,1197 1408,494"/></ImageRegion>
+	<TextEquiv conf="0.96626">
+	<Unicode>QUESTÃO 32
+Um cliente solicitou a uma empresa a criação de um banco de dados para armazenar o resultado de
+uma eleição presidencial, com dados sobre os partidos políticos, os candidatos e a votação obtida por
+cada candidato em cada unidade da federação. O seguinte diagrama de Entidade-Relacionamento foi
+elaborado como representação dos requisitos obtidos com o cliente.
+As tabelas a seguir contêm os dados registrados a partir do resultado dessa eleição.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="288,1305 288,1638 691,1638 691,1305"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="719,1300 719,1641 1000,1641 1000,1300"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="1011,1302 1011,2119 1452,2119 1452,1302"/></TableRegion></Page></PcGts>

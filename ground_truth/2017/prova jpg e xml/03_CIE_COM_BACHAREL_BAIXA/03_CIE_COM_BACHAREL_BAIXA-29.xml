@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-18T02:41:22</Created>
+	<LastChange>2020-09-18T02:41:42</LastChange></Metadata>
+	<Page imageFilename="03_CIE_COM_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,310 1447,310 1447,339 1064,339 1064,534 761,534 761,1304 1159,1304 1159,1753 875,1753 875,1868 610,1868 610,2034 826,2034 826,2079 1070,2079 1070,2110 170,2110 170,2065 169,2065 169,2034 170,2034 170,1926 169,1926 169,1868 168,1868 168,570 171,570 171,339 169,339"/>
+	<TextEquiv conf="0.65741">
+	<Unicode>QUESTÃO 31
+Considere o programa a seguir, que ilustra a criação, execução e sincronização de duas threads.
+tinclude &lt;stdio.h&gt;
+tinclude &lt;pthread.h&gt;
+int x = O, y = 0; // Variáveis compartilhadas
+void funcaol (void *threadarg)(
+x = 1;
+// várias instruções
+if (y == O)
+printf("1 ");
+pthread exit (0);
+void funcao2 (void *threadarg) (
+y = 1;
+// várias instruções
+if (x == O)
+printf("2 ");
+pthread exit (0);
+void main()(
+pthread t tl, t2;
+// Cria e dispara tl que executa funcaol
+pthread create(&amp;tl, NULL, (void *) funcaol, NULL);
+// Cria e dispara t2 que executa funcao2
+pthread create(&amp;t2, NULL, (void *) funcao2, NULL);
+// Pai espera filho terminar
+pthread join(tl, NULL);
+// Pai espera filho terminar
+pthread join(t2, NULL);
+)
+Ao final da execução da função main, será impresso
+A ambos os valores “1” e “2”.
+B ovalor "1", necessariamente.
+C o valor "2", necessariamente.
+D ovalor "1", ou o valor "2", mas nunca ambos.
+E ovalor "1", ou o valor "2", ou nenhum valor, mas nunca ambos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

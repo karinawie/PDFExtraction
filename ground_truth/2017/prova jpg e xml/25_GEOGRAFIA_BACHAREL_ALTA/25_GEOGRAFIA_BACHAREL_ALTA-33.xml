@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T21:34:25</Created>
+	<LastChange>2020-11-27T21:43:18</LastChange></Metadata>
+	<Page imageFilename="25_GEOGRAFIA_BACHAREL_ALTA-33.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="1576,249 1576,356 1295,356 1295,357 1014,357 1014,358 169,358 169,249"/>
+	<TextEquiv conf="0.96469">
+	<Unicode>A partir dos métodos de representação quantitativa, qualitativa e ordenada, nos diferentes modos
+de implantação de telefonia, assinale a opção em que consta o mapa temático mais adequado para
+representar os dados registrados na tabela sobre telefones em serviço em 2015.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="158,372 158,913 861,913 861,372"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="162,941 162,1482 865,1482 865,941"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="154,1518 154,2059 857,2059 857,1518"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="891,377 891,911 1605,911 1605,377"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="886,919 886,1519 1611,1519 1611,919"/></ImageRegion></Page></PcGts>

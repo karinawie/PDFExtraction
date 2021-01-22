@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:56:10</Created>
+	<LastChange>2020-11-30T18:34:34</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,245 340,245 340,312 1576,312 1576,414 1574,414 1574,1209 1576,1209 1576,1279 1575,1279 1575,1374 660,1374 660,1439 326,1439 326,1693 170,1693 170,1184 169,1184"/>
+	<ImageRegion id="r1">
+	<Coords points="338,441 338,1038 1575,1038 1575,441"/></ImageRegion>
+	<TextEquiv conf="0.93790">
+	<Unicode>QUESTÃO 14
+O OSPF (Open Shortest Path First), protocolo de roteamento do tipo estado do enlace (LS), usa o algoritmo
+de Dijkstra para computar suas rotas. A figura a seguir apresenta uma rede OSPF de área simples, com os
+custos associados a cada link.
+Com base na topologia apresentada na figura acima, avalie as afirmações a seguir.
+|. Para o tráfego entre a rede 172.16.10.0/24 e a rede 172.16.20.0/24, o OSPF irá escolher a rota ABDF.
+Il. Para o tráfego entre a rede 172.16.30.0/24 e a rede 172.16.20.0/24, o OSPF irá escolher a rota EF.
+Ill. Caso o roteador D esteja indisponível, a nova rota escolhida entre a rede 172.16.10.0/24 e a rede
+172.16.20.0/24, após a convergência da rede, será ABEF.
+IV. Uma falha no roteador D, com consequente reconfiguração de rotas, alterará a rota corrente
+entre a rede 172.16.20.0/24 e a rede 172.16.30.0/24.
+É correto apenas o que se afirma em
+Oie
+O el.
+O Ilelv.
+O 1 1lelv.
+O LINeIV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

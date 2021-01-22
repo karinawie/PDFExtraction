@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T16:45:46</Created>
+	<LastChange>2020-11-27T16:57:24</LastChange></Metadata>
+	<Page imageFilename="16_ENG_ELE_BACHAREL_BAIXA-32.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="169,244 340,244 340,312 1576,312 1576,593 1575,593 1575,1155 1576,1155 1576,1473 1383,1473 1383,1474 1189,1474 1189,1475 995,1475 995,1476 801,1476 801,1477 607,1477 607,1478 555,1478 555,1535 407,1535 407,1788 171,1788 171,1789 170,1789 170,1128 169,1128 169,1050 170,1050 170,529 169,529"/>
+	<ImageRegion id="r1">
+	<Coords points="180,613 180,1083 1575,1083 1575,613"/></ImageRegion>
+	<TextEquiv conf="0.95998">
+	<Unicode>QUESTÃO 34
+Motores elétricos são utilizados em uma série de aplicações e, muitas vezes, há a necessidade de
+controlar sua velocidade, utilizando-se inversores de frequência, por exemplo. Esses dispositivos, além
+de permitirem a variação da velocidade do motor, auxiliam na redução do consumo de energia elétrica,
+evitam partidas bruscas que possam danificar componentes do sistema e aumentam a vida útil dos
+motores elétricos.
+Conforme mostra a figura a seguir, os inversores de frequência possuem uma entrada ligada à rede de
+energia e uma saída aplicada ao motor trifásico que deve ser alimentado.
+WEG UNIDADE AUTOMAÇÃO. Manual do inversor de frequência. Jaraguá do Sul: WEG, 2015 (adaptado).
+Com base nessas informações e na análise do circuito apresentado, avalie as afirmações a seguir.
+|. A primeira etapa do circuito, composta por uma ponte retificadora (onda completa) trifásica e
+dois capacitores de filtro, resulta em uma fonte CC simétrica, pois há um ponto de terra como
+referência.
+Il. O barramento CC alimenta a segunda etapa, constituída de seis transistores IGBTs que são “ligados
+e desligados” por meio de uma lógica de controle, de modo a proporcionar a circulação de uma
+corrente alternada pelo motor.
+Ill. Na operação, os transistores devem ser ligados 2 a 2, de forma a serem obtidas oito combinações
+que resultam em tensões trifásicas defasadas de 120º.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O11em.</Unicode></TextEquiv></TextRegion></Page></PcGts>

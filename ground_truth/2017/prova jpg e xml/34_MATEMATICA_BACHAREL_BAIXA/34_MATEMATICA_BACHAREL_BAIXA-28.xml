@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:28:25</Created>
+	<LastChange>2020-11-29T23:00:53</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="168,1562 1430,1562 1430,1837 800,1837 800,1838 555,1838 555,1884 406,1884 406,2068 318,2068 318,2115 169,2115 169,1839 168,1839"/>
+	<TextEquiv conf="0.72347">
+	<Unicode>QUESTÃO 33
+Sejam 5' = f(x, y) ER: 1º + 4º = 1) e f: 5º &gt; Rº uma aplicação contínua.
+Nesse contexto, avalie as afirmações a seguir.
+|. O conjunto f(x, y) E Rº: 1º + 4º &lt;2) NM f(x, 0): ve R) pode ser imagem de f.
+Il. O conjunto f(x, y) E RA: 1º + 4º &gt; 1) 1 ((t7, 0): ve R) pode ser imagem de /.
+Ill. O conjunto f(x, y) E RR: 1 &lt;1º+4º &lt;2) NM f(x, 0): ve R) pode ser imagem de /.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O leilll, apenas.
+O ll elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="168,244 339,244 339,306 1576,306 1576,1245 1575,1245 1575,1530 873,1530 873,1531 170,1531 170,1532 169,1532 169,1387 168,1387"/>
+	<ImageRegion id="r2">
+	<Coords points="541,513 541,986 1191,986 1191,513"/></ImageRegion>
+	<TextEquiv conf="0.96485">
+	<Unicode>QUESTÃO 32
+A filial de uma empresa precisa contratar 40 funcionários para o setor produtivo e é necessário que
+esses profissionais realizem as tarefas rapidamente. Assim, o gestor responsável optou por um processo
+de seleção que exige dos candidatos a realização de uma tarefa em menos de 20 minutos. Para realizar
+previsões estatísticas, o gestor costuma levar em conta os percentuais associados a qualquer população
+com distribuição normal, com base em determinados intervalos gerados a partir da média X e do desvio-
+padrão s, conforme ilustra a figura a seguir.
+Durante o processo de seleção, o gestor verificou que a média dos tempos de realização das tarefas pelos
+candidatos foi de 30 minutos, distribuídos normalmente, com desvio-padrão de 5 minutos. Por necessitar
+saber com rapidez uma estimativa da quantidade de aprovados, ele decidiu considerar apenas a parte
+inteira dos percentuais apresentados no gráfico da curva normal: 68%, 95% e 99%.
+Após analisar apenas esses dados, e considerando que houve 1000 candidatos, o gestor deve concluir
+que a expectativa de contratação de 40 funcionários
+O será atingida, pois os dados indicam que 300 inscritos efetuaram a tarefa em vinte minutos ou menos.
+O será atingida, pois os dados indicam que 160 inscritos efetuaram a tarefa em vinte minutos ou menos.
+O será atingida, pois os dados indicam que 50 inscritos efetuaram a tarefa em vinte minutos ou menos.
+O não será atingida, pois os dados indicam que apenas 25 inscritos efetuaram a tarefa em vinte minutos
+ou menos.
+O não será atingida, pois os dados indicam que apenas 5 inscritos efetuaram a tarefa em vinte minutos
+ou menos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

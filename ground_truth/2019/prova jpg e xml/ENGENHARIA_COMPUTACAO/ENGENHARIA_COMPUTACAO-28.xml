@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T17:47:03</Created>
+	<LastChange>2020-09-12T17:48:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-28.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="93,359 93,761 760,761 760,359"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="786,181 787,2047 789,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,179 254,179 254,247 769,247 769,832 770,832 770,899 717,899 717,1106 699,1106 699,1154 84,1154"/>
+	<TextEquiv conf="0.96495">
+	<Unicode>QUESTÃO 23
+Considere o autômato de estados finitos
+determinístico representado na figura a seguir.
+O autômato representado reconhece a seguinte
+linguagem regular
+A {w ∈ {0,1}*| |w| é 4}.
+B {w ∈ {0,1}*| |w| é ímpar e termina com 1}.
+C {w ∈ {0,1}*| |w| é par e termina com 01}.
+D {w ∈ {0,1}*| |w| é ímpar e termina com 0}.
+E {w ∈ {0,1}*| |w| é par e termina com 11}.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="884,1215 884,1694 1415,1694 1415,1215"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="805,179 977,179 977,248 1491,248 1491,552 1492,552 1492,1197 1490,1197 1490,1793 891,1793 891,2046 806,2046 806,1794 805,1794"/>
+	<TextEquiv conf="0.96563">
+	<Unicode>QUESTÃO 24
+Protocolos de roteamento de estado de enlace
+utilizam difusão para propagar informações de
+estado de enlace que são usadas para calcular rotas
+individuais. Entretanto, algumas técnicas provocam
+a transmissão de pacotes redundantes na rede.
+Idealmente, cada nó deveria receber apenas uma
+cópia do pacote de difusão.
+Uma técnica utilizada para resolver o problema da
+redundância de pacotes, é a difusão por spanning
+tree. Uma spanning tree de um grafo G = (N, E) é
+um grafo G' = (N, E') tal que E' é um subconjunto
+de E, G' é conexo, não possui ciclos e contém todos
+os nós originais em G. Se cada enlace tiver um
+custo associado e o custo de uma árvore for a soma
+dos custos dos enlaces, então uma árvore cujo
+custo seja o mínimo entre todas as spanning trees
+do grafo é denominada uma spanning tree mínima.
+KUROSE, J. F.; ROSS, K. W. Redes de computadores e a Internet:
+uma abordagem top-down. 6. ed. São Paulo:
+Pearson Education do Brasil, 2013 (adaptado).
+Considere uma rede composta por 6 roteadores,
+designados pelas letras A, B, C, D, E e EF, conectados
+conforme a seguinte tabela de custos de seus enlaces:
+Neste cenário, o custo da spanning tree mínima
+correspondente é, exatamente:
+A 5.
+B 7.
+C 8.
+D 9.
+E 11.</Unicode></TextEquiv></TextRegion></Page></PcGts>

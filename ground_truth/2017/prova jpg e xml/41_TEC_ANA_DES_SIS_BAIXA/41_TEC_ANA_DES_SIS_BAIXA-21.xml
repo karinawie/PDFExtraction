@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:24:24</Created>
+	<LastChange>2020-11-30T17:28:09</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-21.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r12">
+	<Coords points="868,247 872,2112 878,2112 874,247"/></SeparatorRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="890,244 1061,244 1061,316 1577,316 1577,695 1576,695 1576,938 1039,938 1039,1078 1099,1078 1099,1130 1117,1130 1117,1182 1180,1182 1180,1211 891,1211 891,939 890,939"/>
+	<TextEquiv conf="0.95912">
+	<Unicode>QUESTÃO 15
+Uma empresa multinacional está avaliando um
+incidente de segurança ocorrido internamente com
+o envolvimento de um de seus funcionários, o que
+poderá ser motivo para o encerramento de seu
+contrato. O referido funcionário estava realizando o
+compartilhamento de senhas e também enviando
+mensagens por meio do serviço de correio
+eletrônico da empresa, com o objetivo de difamar
+e caluniar outros colegas de trabalho.
+Nessa situação, de acordo com as políticas
+de segurança que definem os direitos e as
+responsabilidades de cada um em relação à
+segurança dos recursos computacionais que utiliza,
+o funcionário violou a política de
+O senhas.
+O backup.
+O privacidade.
+O uso aceitável.
+O confidencialidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="170,244 340,244 340,312 855,312 855,501 854,501 854,1458 660,1458 660,1520 334,1520 334,1773 171,1773 171,1774 170,1774 170,1186 168,1186 168,312 169,312 169,245 170,245"/>
+	<TableRegion id="r2">
+	<Coords points="158,522 158,1102 855,1102 855,522"/></TableRegion>
+	<TextEquiv conf="0.96451">
+	<Unicode>QUESTÃO 14
+O método do caminho crítico identifica a sequência
+de atividades que o gerente de projetos deve dar
+mais atenção, porque, caso uma delas atrase,
+todo o projeto estará atrasado. A tabela a seguir
+apresenta a estrutura de atividades de um projeto.
+A partir das informações apresentadas na tabela,
+avalie as afirmações a seguir.
+ll. O caminho crítico é composto pelas
+atividades A, B, l e J.
+Il. O caminho crítico tem 27 dias.
+Ill. A atividade H faz parte do caminho crítico.
+IV. O projeto em pauta possui dois caminhos
+críticos.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O Llelv.
+O 1,Meiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

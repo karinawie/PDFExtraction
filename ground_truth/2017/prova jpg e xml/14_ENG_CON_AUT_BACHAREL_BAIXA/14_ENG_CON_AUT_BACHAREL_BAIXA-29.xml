@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T00:32:21</Created>
+	<LastChange>2020-11-21T00:57:23</LastChange></Metadata>
+	<Page imageFilename="14_ENG_CON_AUT_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r2">
+	<Coords points="373,380 374,1174 1577,1172 1576,378"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,319 1515,319 1515,1202 1576,1202 1576,1573 1575,1573 1575,1685 1058,1685 1058,1736 660,1736 660,1803 335,1803 335,2116 169,2116 169,349 168,349 168,319 169,319"/>
+	<TextEquiv conf="0.94555">
+	<Unicode>QUESTÃO 26
+A figura a seguir apresenta os diferentes níveis hierárquicos de um sistema de automação industrial.
+Considerando a figura apresentada e os diferentes padrões utilizados para redes de comunicação
+industrial, avalie as afirmações a seguir.
+|. Os protocolos de comunicação projetados para os níveis 1 e 2 devem atender a critérios
+relacionados à velocidade de transmissão e à imunidade ao ruído.
+Il. Protocolos de comunicação como CAN e AS-I são utilizados para estabelecer a comunicação entre
+os níveis hierárquicos 2 e 3.
+Ill. A complexidade da informação transmitida aumenta com o nível hierárquico, ao passo que os
+requisitos de resposta em tempo-real diminuem.
+IV. Se a comunicação entre os níveis 2 e 3 for interrompida, recomenda-se, por segurança,
+interromper também a comunicação entre os níveis 1 e 2.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oie.
+O Lev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

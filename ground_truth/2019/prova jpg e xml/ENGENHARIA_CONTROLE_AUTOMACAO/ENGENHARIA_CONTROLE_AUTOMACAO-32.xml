@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T22:02:13</Created>
+	<LastChange>2020-11-14T00:33:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-32.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="531,331 531,618 1026,618 1026,331"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="83,179 1492,179 1492,1310 1491,1310 1491,1973 1119,1973 1119,2054 85,2054 85,2055 84,2055 84,386 83,386"/>
+	<TextEquiv conf="0.87398">
+	<Unicode>QUESTÃO 24
+A figura a seguir ilustra a versão simplificada de quimiostato, um tipo de biorreator utilizado em processos
+de fabricação de produtos alimentícios e farmacêuticos, em que uma cultura de bactérias é continuamente
+alimentada para gerar um produto fermentado na saída.
+De forma simplificada, o funcionamento do sistema consiste em manter constantes o volume V de cultura e
+as vazões de entrada e saída, que devem ser iguais a J,, regulando a concentração C/, de bactérias por meio
+da manipulação da concentração C/de alimento na entrada. O modelo desse processo pode ser aproximado
+por duas equações. A primeira descreve o crescimento da cultura de bactérias no interior do tanque:
+de
+B 1.
+Vs (Jo +k)Og + VIC,
+em que C, é a concentração de alimento no interior do tanque, k, e k, são constantes características de
+cada tipo de bactéria. A segunda equação descreve o consumo do alimento no interior do tanque, dada por:
+1,
+dt
+em que k, também é uma constante característica do tipo de bactéria em cultura. Manipulando-se essas
+expressões, obtém-se a função de transferência em malha aberta, apresentada a seguir.
+Considere que a concentração de bactérias em regime permanente não pode ser inferior a 90%
+de um valor de referência Cr e que este sistema é controlado em malha fechada pela lei de
+controle O(S) = Kp(Cr(S) - Crp(S)).
+Qual o valor mínimo de K, que satisfaz a condição de operação pretendida?
+
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

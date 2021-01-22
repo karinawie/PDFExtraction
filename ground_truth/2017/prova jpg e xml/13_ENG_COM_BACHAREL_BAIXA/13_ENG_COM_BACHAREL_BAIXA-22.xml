@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-20T23:59:16</Created>
+	<LastChange>2020-11-21T00:09:49</LastChange></Metadata>
+	<Page imageFilename="13_ENG_COM_BACHAREL_BAIXA-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,244 341,244 341,307 1576,307 1576,545 1578,545 1578,608 1576,608 1576,762 1575,762 1575,923 170,923 170,860 264,860 264,832 265,832 265,404 170,404"/>
+	<TextEquiv conf="0.95680">
+	<Unicode>QUESTÃO 19
+Considere que o gestor do restaurante de uma universidade pretenda implantar um sistema
+de catracas eletrônicas utilizando circuitos combinatórios para o acesso dos clientes à sala de
+alimentação. O funcionamento básico desse sistema é descrito a seguir.
+Deve haver quatro filas de espera: A, B/ Ce D;
+deve haver sensores que indiquem a presença de clientes nas filas, sendo atribuído o valor 1
+quando houver cliente na fila, e O quando a fila estiver vazia;
+quando determinada fila estiver vazia, sua catraca deverá ficar travada, e as filas devem estar
+na ordem de prioridade a seguir: A&gt;B&gt;C&gt;D;
+no máximo, duas catracas poderão estar abertas em um mesmo instante, respeitando-se a
+ordem de prioridade;
+as catracas das filas A, B, Ce D devem ser representadas pelas variáveis C1, C2, C3 e C4,
+respectivamente;
+o valor de saída 1 deverá indicar que a catraca está aberta, e o valor O, que a catraca está
+fechada.
+Nesse contexto, qual circuito combinatório deverá resolver o problema de acesso dos clientes à sala
+de alimentação do restaurante da universidade?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="163,955 163,1319 636,1319 636,955"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="155,1327 155,1705 641,1705 641,1327"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="145,1727 145,2105 631,2105 631,1727"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="857,1341 857,1719 1343,1719 1343,1341"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="851,955 851,1333 1337,1333 1337,955"/></ImageRegion></Page></PcGts>

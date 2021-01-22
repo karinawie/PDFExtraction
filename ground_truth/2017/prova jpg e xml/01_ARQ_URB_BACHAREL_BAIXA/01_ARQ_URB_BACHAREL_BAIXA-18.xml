@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-17T23:35:32</Created>
+	<LastChange>2020-09-17T23:36:36</LastChange></Metadata>
+	<Page imageFilename="01_ARQ_URB_BACHAREL_BAIXA-18.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="522,282 524,754 1222,752 1220,280"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="597,1141 597,1472 1161,1472 1161,1141"/></ImageRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="170,244 340,244 340,768 1575,768 1575,891 1576,891 1576,1003 1577,1003 1577,1131 1576,1131 1576,1691 1577,1691 1577,1827 1125,1827 1125,1828 660,1828 660,1876 416,1876 416,1877 326,1877 326,2098 170,2098 170,2099 169,2099 169,986 168,986 168,815 169,815 169,245 170,245"/>
+	<TextEquiv conf="0.96651">
+	<Unicode>QUESTÃO 10
+Disponível em: &lt;http://www.archdaily.com.br&gt;. Acesso em: 1 jul. 2017.
+A imagem acima representa a Casa de Vidro, projetada pela arquiteta Lina Bo Bardi e construída em 1950,
+em concreto armado. Sua estrutura não possui vigas, graças ao emprego do sistema de laje cogumelo.
+Algumas das principais vantagens das lajes cogumelo são: maior simplicidade na execução das formas e
+na concretagem dos elementos; maior racionalização e padronização de cimbramentos; maior pé direito
+livre com redução da altura total do edifício; flexibilidade do arranjo de alvenarias, divisórias e forros.
+Contudo, essas lajes são suscetíveis a uma forma de ruína conhecida por punção, caracterizada pelo
+deslocamento vertical da laje ao longo de uma superfície tronco-cônica, cujas geratrizes possuem
+inclinação de aproximadamente 30º em relação ao plano médio da laje. Os esforços produzidos na junção
+da laje com o pilar podem provocar a perfuração da laje, conforme se observa na figura a seguir.
+Disponível em: &lt;http://www.web.set.eesc.usp.br&gt;. Acesso em: 3 jul. 2017 (adaptado).
+Considerando as imagens e o exposto acima, avalie as afirmações a seguir.
+|. O uso de capitéis na ligação laje-pilar pode evitar a ruptura por punção.
+Il. O aumento da espessura da laje na zona de contato com o pilar constitui medida para se evitar a
+ruptura por punção.
+Ill. O uso de armadura transversal, também conhecida como armadura de punção, nas áreas da laje
+próximas ao pilar, pode evitar a ruptura por punção.
+IV. A redução da seção do pilar no contato com a laje está entre as medidas a serem adotadas no
+projeto estrutural para se evitar a ruptura por punção.
+É correto apenas o que se afirma em
+A I EIV
+B II E III
+C II E IV
+D I, II E III
+E I, III E IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

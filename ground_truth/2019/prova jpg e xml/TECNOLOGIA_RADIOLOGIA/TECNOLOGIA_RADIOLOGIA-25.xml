@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-13T22:31:39</Created>
+	<LastChange>2020-09-13T22:52:51</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_RADIOLOGIA-25.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r3">
+	<Coords points="787,181 787,2047 788,2047 788,181"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,247 769,247 769,1422 85,1422 85,1093 84,1093 84,970 85,970 85,735 84,735"/>
+	<TextEquiv conf="0.95874">
+	<Unicode>QUESTÃO 25
+Em um tubo emissor de Raios X, o filamento, ao
+ser aquecido, emite elétrons que são acelerados
+pela diferença de potencial entre os eletrodos:
+catodo e anodo. Quando os elétrons atingem o
+alvo, que geralmente é feito de metal de alto ponto
+de fusão, como o tungstênio ou o molibdênio,
+produzem Raios X.
+OKUNO, E.; YOSHIMURA, E. Física das Radiações. São Paulo:
+Oficina de textos, 2010 (adaptado).
+Considerando o processo de produção de Raios X,
+a quantidade de fótons utilizada para produção de
+uma imagem radiológica é
+O reduzida proporcionalmente com a diminuição
+da filtração adicional.
+O aumentada com a diminuição da distância entre
+o alvo e o tubo de Raios X.
+O reduzida com o aumento dotempo de exposição,
+consequência do aumento na quantidade de
+Raios X que incidem no receptor de imagem.
+O aumentada proporcionalmente com o produto
+corrente-tempo, consequência da diminuição
+do número de elétrons emitidos pelo catodo.
+O aumentada proporcionalmente com o quadrado
+da tensão, consequência do aumento do número
+de elétrons ejetados no catodo que se chocarão
+com o anodo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="805,179 976,179 976,243 1492,243 1492,1090 1491,1090 1491,1362 1492,1362 1492,1761 1296,1761 1296,1813 962,1813 962,2051 806,2051 806,1841 807,1841 807,1780 854,1780 854,1090 805,1090"/>
+	<TextEquiv conf="0.96708">
+	<Unicode>QUESTÃO 26
+Os detectores termoluminescentes (TLDs) consistem
+em uma massa pequena (de aproximadamente
+1 a 100mg) de um material cristalino dielétrico
+contendo ativadores convenientes. Esses ativadores,
+que podem estar presentes em quantidades
+extremamente pequenas (da ordem de traço, por
+exemplo), criam dois tipos de imperfeições na rede
+cristalina: armadilhas para elétrons, que capturam
+e aprisionam os portadores de carga, e centros de
+luminescência. A radiação ionizante, ao interagir
+com o material, cede energia aos elétrons, que
+são aprisionados pelas armadilhas. Se o material
+é submetido a um aquecimento programado,
+os elétrons aprisionados nas armadilhas são
+liberados, fazendo com que percam a energia
+nos centros de luminescência. Por suas
+características, os detectores TLDs podem ser
+utilizados como dosímetros, por exemplo, para
+avaliar doses em tratamentos radioterápicos ou
+para dosimetria pessoal.
+TAUHATA, L. et al. Radioproteção e dosimetria: fundamentos.
+9. ed. Rio de Janeiro: IRD/CNEN, 2013 (adaptado).
+Em relação aos TLDs, avalie as afirmações a seguir.
+|. A boa reprodutibilidade na avaliação da
+dose acumulada pode ser obtida pelo
+controle adequado do processo, ainda que
+somente uma parte pequena da energia
+da radiação depositada no material seja
+transformada em luz.
+ll. Como o sinal luminoso pode ser
+proporcional à radiação incidente, os
+detectores termoluminescentes são
+bastante — convenientes —para serem
+utilizados como dosímetros.
+IIl. A rápida fadiga expressiva dos materiais
+utilizados nos dosímetros TLDs impossibilita
+a sua reutilização.
+IV. Os TLDs possibilitam a releitura do dosímetro
+por meio do estímulo luminoso.
+É correto apenas o que se afirma em
+A I e II.
+B II e IV.
+C III e IV.
+D I, II e III.
+E I, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

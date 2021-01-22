@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T19:12:51</Created>
+	<LastChange>2020-09-12T19:12:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-30.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="76,889 76,1734 1500,1734 1500,889"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="84,179 254,179 254,253 1491,253 1491,417 874,417 874,589 953,589 953,689 1491,689 1491,723 1383,723 1383,717 1095,717 1095,776 85,776 85,777 84,777 84,719 83,719 83,689 133,689 133,419 83,419 83,253 84,253"/>
+	<TextEquiv conf="0.96550">
+	<Unicode>QUESTÃO 23
+Uma indústria da área de alimentos necessita substituir uma etapa do seu sistema de controle, atualmente
+realizado por meio de um termostato, dispositivo pouco preciso no controle da temperatura. Assim, um
+engenheiro foi contratado para desenvolver o projeto de um circuito para controle de temperatura do
+tipo "liga-desliga" (ON/OFF) que atenda às seguintes especificações básicas:
+* potência da resistência para o aquecimento: 600 W;
+* temperatura desejada: 40 ºC;
+* utilizaçãode dois sensores em pontos de leitura distintos.
+A figura a seguir apresenta o circuito de controle a ser desenvolvido pelo engenheiro, em que Vi... 0971 É
+a leitura de tensão do sensorl1 e Vi,.,.6r2 É a leitura de tensão do sensor2.</Unicode></TextEquiv></TextRegion></Page></PcGts>

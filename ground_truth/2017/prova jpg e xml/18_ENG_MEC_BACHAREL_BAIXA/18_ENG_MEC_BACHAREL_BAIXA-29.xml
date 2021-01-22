@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T17:57:48</Created>
+	<LastChange>2020-11-27T18:48:41</LastChange></Metadata>
+	<Page imageFilename="18_ENG_MEC_BACHAREL_BAIXA-29.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r2">
+	<Coords points="872,247 869,2112 874,2112 877,247"/></SeparatorRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="890,244 1061,244 1061,312 1576,312 1576,805 1575,805 1575,1173 1576,1173 1576,1661 892,1661 892,1660 891,1660 891,804 890,804 890,620 891,620 891,275 890,275"/>
+	<TextEquiv conf="0.96643">
+	<Unicode>QUESTÃO 32
+O tratamento termoquímico de cementação
+é muito utilizado em aços para elementos de
+máquinas. Como resultado final, obtém-se um
+material com elevadas resistências ao desgaste e
+à fadiga e elevada tenacidade. Esse processo deve
+ser realizado com a fase austenita presente no aço
+e depende do processo de difusão do carbono para
+a superfície do aço.
+Na cementação de um fuso de aço baixo carbono
+para que sua dureza superficial seja elevada de
+acordo com a necessidade de sua aplicação, deve-se
+aquecer o material
+O acima da temperatura de austenitização,
+manter no meio inerte e temperar o material,
+formando perlita na superfície e, no núcleo,
+perlita e ferrita.
+O abaixo da temperatura de austenitização,
+manter no meio inerte e normalizar o material,
+formando perlita na superfície e, no núcleo,
+perlita e ferrita.
+O acima da temperatura de austenitização,
+manter no meio carbonetante e recozer O
+material, formando perlita na superfície e, no
+núcleo, perlita e ferrita.
+O abaixo da temperatura de austenitização,
+manter no meio carbonetante e normalizar o
+material, formando perlita na superfície e, no
+núcleo, perlita e ferrita.
+O acima da temperatura de austenitização,
+manter no meio carbonetante e temperar o
+material, formando martensita na superfície e,
+no núcleo, perlita e ferrita.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 339,244 339,313 856,313 856,511 855,511 855,512 854,512 854,1800 660,1800 660,1853 335,1853 335,2111 334,2111 334,2112 170,2112 170,1221 169,1221 169,511 168,511 168,510 169,510"/>
+	<ImageRegion id="r3">
+	<Coords points="236,547 236,1119 852,1119 852,547"/></ImageRegion>
+	<TextEquiv conf="0.96831">
+	<Unicode>QUESTÃO 31
+A figura a seguir representa o círculo de Mohr
+para o estado plano de tensões, com tensões
+normais o, S, tensão de cisalhamento Ty plano
+principal 9, e tensões normais máxima e mínima,
+respectivamente, 6, € O, (tensões principais).
+Com base nesses dados, avalie as afirmações
+a seguir.
+|. Para um elemento com cisalhamento puro,
+as tensões principais no estado plano de
+tensões são HT,
+ll. Para um elemento com cisalhamento puro,
+a tensão de cisalhamento máxima no estado
+plano de tensões é 2T,
+Ill. Para um elemento somente com tensão
+normal de tração o, (com co e T. = O),
+x y xy
+as tensões principais no estado plano de
+tensões são +o,.
+IV. Para um elemento somente com tensão
+normal de tração o, (com co e T =O),
+x y x
+a tensão de cisalhamento máxima é o, /2.
+É correto apenas o que se afirma em
+Ole.
+Oielv
+O 1em.
+O Lilelv.
+O Mel</Unicode></TextEquiv></TextRegion></Page></PcGts>

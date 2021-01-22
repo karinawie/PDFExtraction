@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T17:54:32</Created>
+	<LastChange>2020-11-30T18:27:46</LastChange></Metadata>
+	<Page imageFilename="44_TEC_RED_COM_BAIXA-28.jpg" imageWidth="1745" imageHeight="2296">
+	<SeparatorRegion id="r1">
+	<Coords points="871,246 872,2112 874,2112 873,246"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="891,244 1061,244 1061,312 1575,312 1575,528 1576,528 1576,871 1577,871 1577,1220 1576,1220 1576,1566 1577,1566 1577,1790 1277,1790 1277,1852 1169,1852 1169,2107 892,2107 892,2108 891,2108 891,1883 892,1883 892,1818 939,1818 939,1567 940,1567 940,1240 939,1240 939,597 890,597 890,245 891,245"/>
+	<TextEquiv conf="0.96475">
+	<Unicode>QUESTÃO 30
+Atualmente, o planejamento da segurança de
+informação de uma empresa é fundamental.
+Diversas normas internacionais são utilizadas para
+a implementação de um sistema completo de
+gestão de segurança da informação.
+A respeito dessas normas, avalie as afirmações
+a seguir.
+|. AISO/IEC 27001:2013, norma internacional
+de gestão de segurança da informação,
+descreve as etapas para se colocar em
+prática, de forma independente, um sistema
+de gestão de segurança da informação
+avaliado e certificado.
+Il. A ISO/IEC 27002:2013 tem como principal
+objetivo estabelecer diretrizes e princípios
+gerais para iniciar, implementar, manter
+e melhorar a gestão de segurança da
+informação em uma organização, o que
+também inclui a seleção, a implementação
+e o gerenciamento de controles, levando em
+conta os ambientes de risco encontrados
+na empresa.
+Ill. O padrão internacional ISO/IEC 15408:2009
+(Common Criteria - CC) para segurança
+de computadores é voltado para a
+segurança lógica das aplicações e
+para o desenvolvimento de aplicações
+seguras, e define um método para
+avaliação da segurança de ambientes de
+desenvolvimento de sistemas.
+IV. A NBR ISO/IEC 27007:2012 fornece diretrizes
+sobre como gerenciar um programa de
+auditoria de sistemas de gestão da segurança
+da informação (SGSI) e sobre como executar
+as auditorias e a competência de auditores
+de SGSI.
+É correto o que se afirma em
+O Le, apenas.
+O L,IlelV, apenas.
+O 1, Ill elV, apenas.
+O Il, Il e IV, apenas.
+OIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,244 340,244 340,311 854,311 854,638 855,638 855,1393 854,1393 854,1836 170,1836 170,1413 171,1413 171,931 170,931 170,739 169,739 169,612 168,612 168,311 169,311"/>
+	<TextEquiv conf="0.95994">
+	<Unicode>QUESTÃO 29
+Com a convergência das redes cada vez mais
+presente em nosso dia a dia, diversos canais de
+televisão vêm disponibilizando sua programação
+na internet. A grande vantagem dessa abordagem
+é a possibilidade de personalizar o acesso do
+espectador, permitindo que os programas sejam
+vistos sob demanda, ou seja, na hora e no local que
+seja mais conveniente ao cliente.
+Para a transmissão desse tipo de tráfego pela
+internet, as soluções de transporte devem ser
+desenvolvidas com base em
+O TCP, orientadas à conexão, pois a transmissão
+do vídeo deve ocorrer com a menor
+quantidade de erros possível, a fim de
+melhorar a experiência do usuário.
+O TCP, por meio de um serviço sem
+estabelecimento de conexão, pois as possíveis
+retransmissões a que um fluxo de dados
+orientado à conexão está submetido, sempre
+que há problemas na transmissão, podem
+causar atrasos incompatíveis com um serviço
+multimídia.
+O ICMP, devido à leveza desse protocolo e
+ao fato de ele ser o mais adequado para o
+transporte de conexões multimídia, tais como
+a transmissão de programas de televisão pela
+internet.
+O UDP, orientadas à conexão, pois a transmissão
+do vídeo deve ocorrer com a menor quantidade
+de erros possível, a fim de melhorar a
+experiência do usuário.
+O UDP, por meio de um serviço sem
+estabelecimento de conexão, pois as possíveis
+retransmissões a que um fluxo de dados
+orientado à conexão está submetido, sempre
+que há problemas na transmissão, podem
+causar atrasos incompatíveis com um serviço
+multimídia.</Unicode></TextEquiv></TextRegion></Page></PcGts>

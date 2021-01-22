@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-14T21:16:53</Created>
+	<LastChange>2020-09-14T21:16:53</LastChange></Metadata>
+	<Page imageFilename="MEDICINA-31.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.96592">
+	<Unicode>Números de casos confirmados</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="78,376 78,1292 1505,1292 1505,376"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,179 255,179 255,246 1492,246 1492,356 1491,356 1491,1734 84,1734 84,1668 85,1668 85,356 84,356"/>
+	<TextEquiv conf="0.96840">
+	<Unicode>QUESTÃO 35
+Os gráficos a seguir mostram a distribuição dos casos de Síndrome Respiratória Aguda Grave (SRAG)
+confirmados para influenza A/H1N1, por semana epidemiológica de início dos sintomas no Brasil a partir
+da Semana Epidemiológica (SE) 16/2009 até a semana 52/2011.
+Disponível em: &lt;http://portalweb04.saude.gov.br/influenza/default.asp&gt;. Acesso em: 26 jun. 2019 (adaptado).
+De acordo com as informações apresentadas nos gráficos, é correto afirmar que
+O o ano de 2011 apresenta surto epidêmico de SRAG por influenza A/H1N1.
+O o pico de casos confirmados em 2009 foi 10 vezes maior que o pico de casos em 2010.
+O o número de casos de SRAG confirmados foi maior nas semanas 25 de 2009, 2010 e 2011.
+O a tendência entre 2009 e 2011 foi de estabilização dos casos confirmados de SRAG por influenza
+A/H1IN1.
+O o pico de casos confirmados aconteceu entre as semanas 29 e 33 em 2009, na semana 10 em 2010 e
+na semana 25 em 2011.</Unicode></TextEquiv></TextRegion></Page></PcGts>

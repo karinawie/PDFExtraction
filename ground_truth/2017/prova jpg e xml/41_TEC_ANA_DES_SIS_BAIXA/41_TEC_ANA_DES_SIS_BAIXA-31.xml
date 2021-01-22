@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-30T05:22:41</Created>
+	<LastChange>2020-11-30T17:23:05</LastChange></Metadata>
+	<Page imageFilename="41_TEC_ANA_DES_SIS_BAIXA-31.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="169,185 1210,185 1210,815 1211,815 1211,1539 1576,1539 1576,1755 1575,1755 1575,1867 1577,1867 1577,2114 1109,2114 1109,2115 170,2115 170,1611 169,1611"/>
+	<TextEquiv conf="0.90588">
+	<Unicode>public class PousarNoite implements Pousar (
+public void pousar() (
+System.out .println(“Pousar durante a noite.”"”);
+)
+)
+public abstract class Aviao (
+Voar voarForma;
+Pousar pousarForma;
+public Aviao() ()
+public abstract void informarDados ();
+public void performanceVoar() (
+voarForma.voar();
+)
+public void performancePousar() (
+pousarForma.pousar();
+)
+public void setVoar (Voar v) (|
+voarForma = v;
+)
+public void setPousar (Pousar p) (
+pousarForma = p;
+)
+)
+public class Boeing757 extends Aviao (
+public Boeing757() (
+voarForma = new VoarDia();
+pousarForma = new PousarDia();
+)
+public void informarDados() (
+System.out .println (“Informando dados de um Boeing 757."”);
+)
+)
+public class SimuladorBoeing757 (
+public static void main(String[] args) (
+Boeing757 b757 = new Boeing757();
+b757.performanceVoar();
+b757 .performancePousar();
+b757.setVoar (new VoarNoite());
+b757.setPousar (new PousarNoite());
+b757 .performanceVoar();
+b757.performancePousar();
+)
+Com base no diagrama de classe, no código em linguagem Java e no conceito do padrão de projeto
+Strategy, assinale a opção correta.
+O Aclasse Aviao implementa as interfaces Voar e Pousar.
+O A classe Boeing757 não aplica o princípio de herança, uma vez que esse princípio já foi aplicado
+pela classe Aviao, nas interfaces Voar e Pousar.
+O Por implementarem as interfaces Voar e Pousar, asclasses VoarDia,VoarNoite,PousarDia
+ePousarNoite também são uma interface.
+O Na classe SimuladorBoeing757,os métodos set Voar e setPousar são os responsáveis por
+aplicar, respectivamente, as saídas “Voar durante o dia” e “Pousar durante o dia” para as saídas
+“Voar durante a noite” e “Pousar durante a noite”.
+O Quando for executada, a classe SimuladorBoeing757 apresentará um erro em tempo de execução
+porque os métodos set Voar e setPousar recebem respectivamente, como parâmetros, variáveis
+do tipo classe, o que não é permitido na orientação a objetos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

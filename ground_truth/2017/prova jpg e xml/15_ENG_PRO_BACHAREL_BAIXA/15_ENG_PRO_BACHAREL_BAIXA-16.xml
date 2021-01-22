@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-27T05:05:32</Created>
+	<LastChange>2020-11-27T05:27:38</LastChange></Metadata>
+	<Page imageFilename="15_ENG_PRO_BACHAREL_BAIXA-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="170,244 513,244 513,306 1574,306 1574,886 1575,886 1575,1025 1576,1025 1576,1093 1225,1093 1225,1094 170,1094 170,1005 169,1005 169,245 170,245"/>
+	<TableRegion id="r1">
+	<Coords points="208,433 208,872 1533,872 1533,433"/></TableRegion>
+	<TextEquiv conf="0.89509">
+	<Unicode>QUESTÃO DISCURSIVA 05
+Uma empresa produz circuitos eletrônicos integrados em um turno de trabalho de oito horas por dia.
+Cada unidade produzida (circuito eletrônico) passa, em sua linha de montagem, por oito tarefas.
+Considerando essas informações e a necessidade da empresa de produzir 1 200 peças em um mês com
+25 dias úteis, faça o que se pede nos itens a seguir.
+a) Calcule o tempo de ciclo (em minutos/unidade produzida) no referido mês. (valor: 3,0 pontos)
+b) Projete os centros de trabalho agrupando tarefas sequenciais de forma a minimizar o
+desbalanceamento da linha de montagem. (valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

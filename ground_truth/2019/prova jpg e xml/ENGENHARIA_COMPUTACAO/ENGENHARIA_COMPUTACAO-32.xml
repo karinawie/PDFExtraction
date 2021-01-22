@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-11T21:02:58</Created>
+	<LastChange>2020-09-11T21:04:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_COMPUTACAO-32.jpg" imageWidth="1575" imageHeight="2166">
+	<SeparatorRegion id="r4">
+	<Coords points="785,181 787,2047 790,2047 788,181"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="81,494 81,760 765,760 765,494"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="205,1065 205,1263 644,1263 644,1065"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,179 255,179 255,247 770,247 770,1051 769,1051 769,1354 213,1354 213,1599 84,1599 84,1355 83,1355 83,1286 84,1286 84,471 83,471 83,247 84,247"/>
+	<TextEquiv conf="0.95605">
+	<Unicode>QUESTÃO 28
+Um sistema de tempo real satisfaz explicitamente
+restrições de tempo de resposta, podendo ter
+consequências como riscos ou falhas caso não
+cumpra essas restrições. O circuito lógico a seguir
+faz parte de um sistema de tempo real que realiza
+o acionamento de um alarme.
+Nesse circuito existem vários atrasos de
+propagação do sinal, que por sua vez geram atrasos
+no acionamento do alarme. Na forma como a
+lógica está implementada, o circuito não atende o
+requisito de tempo real especificado pelo sistema.
+Para cada porta lógica utilizada, os atrasos típicos,
+em unidades de tempo (u.t.), são:
+Após a simplificação do circuito, o menor tempo
+possível para o acionamento do alarme é de
+A 9 u.t.
+B 10 u.t.
+C 3 u.t.
+D 4 u.t.
+E 6 u.t.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="805,179 976,179 976,249 1491,249 1491,790 1490,790 1490,1004 1491,1004 1491,1713 1489,1713 1489,1919 1490,1919 1490,1993 1399,1993 1399,2044 807,2044 807,2045 806,2045 806,1542 805,1542 805,1541 854,1541 854,974 806,974 806,903 982,903 982,790 806,790 806,791 805,791"/>
+	<TextEquiv conf="0.96888">
+	<Unicode>QUESTÃO 29
+A Internet das Coisas (Internet of Things (loT))
+pode ser definida como um ambiente de objetos
+físicos interconectados com a internet por meio
+de sensores/atuadores embutidos, criando um
+ecossistema de computação onipresente (ubíqua) e
+introduzindo soluções funcionais nos processos do
+dia-a-dia, sejam domésticos ou profissionais. É um
+conjunto de tecnologias e protocolos associados
+que permitem que objetos se conectem a uma
+rede de comunicações e sejam identificados e
+controlados por essa conexão. A loT usa conceitos,
+tecnologias e soluções que envolvem sistemas
+distribuídos e redes de comunicação.
+MAGRANI, E. A internet das coisas. Rio de Janeiro:
+FGV Editora, 2018 (adaptado).
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Em soluções e aplicações para loT, é preciso
+garantir que essas funcionarão de forma
+consistente em um ambiente concorrente,
+onde ocorrem várias requisições ao mesmo
+recurso compartilhado.
+PORQUE
+Il. Em soluções atuais de loT existe
+heterogeneidade, ou seja, dentro do mesmo
+ecossistema, uma variedade de sistemas
+operacionais, hardware, linguagens de
+programação e padrões de redes de
+comunicação são utilizados.
+A respeito dessas asserções, assinale a alternativa
+correta.
+O As asserções | e 11 são proposições verdadeiras,
+e all é uma justificativa correta de |.
+O As asserções | e |l são proposições verdadeiras,
+mas a |l não é uma justificativa correta de |.
+O A asserção | é uma proposição verdadeira, e a ll
+é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

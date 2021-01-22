@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-12T18:39:02</Created>
+	<LastChange>2020-09-12T18:39:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_CONTROLE_AUTOMACAO-37.jpg" imageWidth="1575" imageHeight="2166">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="84,183 1491,183 1491,386 1490,386 1490,448 1352,448 1352,793 85,793 85,794 84,794"/>
+	<TextEquiv conf="0.95612">
+	<Unicode>Considerando as informações a respeito do processo e o diagrama Ladder desenvolvido, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. Alógica implementada em Ladder não é capaz de identificar corretamente os três tipos de peça.
+PORQUE
+Il. A forma como os sensores estão dispostos na esteira impossibilita a identificação da peça
+Plástica Transparente.
+A As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E As asserções I e II são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

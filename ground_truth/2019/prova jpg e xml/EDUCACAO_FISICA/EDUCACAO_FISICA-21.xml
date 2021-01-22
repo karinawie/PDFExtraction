@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-10T00:19:10</Created>
+	<LastChange>2020-09-10T00:19:53</LastChange></Metadata>
+	<Page imageFilename="EDUCACAO_FISICA-21.jpg" imageWidth="1575" imageHeight="2166">
+	<ImageRegion id="r1">
+	<Coords points="309,387 308,1076 1491,1078 1494,389"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,179 255,179 255,250 1490,250 1490,1103 1491,1103 1491,1313 1492,1313 1492,1379 1490,1379 1490,1529 470,1529 470,1585 355,1585 355,1825 354,1825 354,1826 85,1826 85,1825 84,1825 84,1173 83,1173 83,1103 84,1103"/>
+	<TextEquiv conf="0.96308">
+	<Unicode>QUESTÃO 18
+Um indivíduo, no intuito de fortalecer os músculos peitorais maiores, realiza um exercício durante sua
+sessão de treinamento na sala de musculação, conforme representado na figura a seguir.
+Ao observar a execução do exercício por esse indivíduo, o profissional de Educação Física realizou a análise
+biomecânica do movimento a fim de classificar o tipo de alavanca utilizada em sua execução.
+Considerando a situação descrita, avalie as afirmações a seguir.
+I. O movimento realizado refere-se à adução horizontal de ombros.
+II. A aplicação da força motriz está presente no ponto de inserção do músculo peitoral maior no osso
+úmero.
+III. A articulação do ombro é o ponto fixo do movimento.
+IV. O movimento como um todo, para o treino dos peitorais maiores, caracteriza a alavanca
+interpotente.
+É correto o que se afirma em
+A II, apenas.
+B I e II, apenas.
+C III e IV, apenas.
+D I, III e IV, apenas.
+E I, II, III e IV.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

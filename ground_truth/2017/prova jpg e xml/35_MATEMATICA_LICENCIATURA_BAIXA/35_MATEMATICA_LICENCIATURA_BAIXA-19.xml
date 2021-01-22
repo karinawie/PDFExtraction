@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-29T20:29:43</Created>
+	<LastChange>2020-11-29T23:05:54</LastChange></Metadata>
+	<Page imageFilename="34_MATEMATICA_BACHAREL_BAIXA-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="170,563 340,563 340,631 1577,631 1577,815 1578,815 1578,921 1109,921 1109,922 640,922 640,923 524,923 524,1236 171,1236 171,1237 170,1237"/>
+	<TextEquiv conf="0.95874">
+	<Unicode>QUESTÃO 15
+O gerente de um posto de combustíveis observou que, na primeira semana do mês em que definiu o
+preço do litro de gasolina a R$ 3,70, foram vendidos 15 000 litros diários. Com isso, o posto fez uma
+promoção e percebeu que, para cada centavo de desconto que concedia por litro, eram vendidos
+200 litros de gasolina a mais por dia.
+Representando por p a quantidade de centavos correspondente ao desconto dado no preço de cada litro
+de gasolina, e por F' o valor, em reais, faturado por dia com a venda de gasolina, a expressão que descreve
+essa situação é
+O F=15000+590p — 27º
+O F=15000 + 590p + 2pº
+O F=55500-590p — 27º?
+O F=55500+590p 27º
+OQ F=55500-590p + 27º</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="171,244 556,244 556,277 391,277 391,452 408,452 408,530 172,530 172,531 171,531 171,438 170,438 170,309 171,309"/>
+	<TextEquiv conf="0.96413">
+	<Unicode>É correto o que se afirma em
+O |, apenas.
+O |ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O L11el.</Unicode></TextEquiv></TextRegion></Page></PcGts>
