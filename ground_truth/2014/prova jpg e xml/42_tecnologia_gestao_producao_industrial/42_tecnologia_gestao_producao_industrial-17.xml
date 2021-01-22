@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:12:37</Created>
+	<LastChange>2020-12-06T03:23:06</LastChange></Metadata>
+	<Page imageFilename="42_tecnologia_gestao_producao_industrial-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1599,359 1599,655 978,655 978,1655 1501,1655 1501,1784 146,1784 146,1560 147,1560 147,654 146,654 146,653 145,653"/>
+	<ImageRegion id="r1">
+	<Coords points="444,666 444,1488 1252,1488 1252,666"/></ImageRegion>
+	<TextEquiv conf="0.96675">
+	<Unicode>QUESTÃO 17
+Um processo pode estar em controle e ser pouco capaz; ou pode estar fora de controle e, ainda, ser capaz; de
+modo que não há relação direta e obrigatória entre estabilidade e capacidade, no sentido que uma implique
+a outra e vice-versa, embora seja verdade que a causa especial sempre afeta a capacidade do processo.
+COSTA, A. F. B.; EPPRECHT, E. K.; CARPINETTI, L. C. R. Controle Estatístico de Qualidade. 2 ed. São Paulo: Atlas, 2012, p. 133 (adaptado).
+Na figura abaixo, o processo A é um processo capaz, o B, um processo razoavelmente capaz, e o C, um
+processo incapaz. A parte inferior da figura ilustra o efeito de uma causa especial que aumenta a variabilidade
+da variável X, aumentando o desvio-padrão de o, para o,.
+De acordo com as informações apresentadas, a causa especial
+O piora (reduz) a capacidade do processo.
+O melhora (aumenta) a capacidade do processo.
+O piora (reduz) a capacidade do processo B e melhora (aumenta) a capacidade dos processos A e C.
+O piora (reduz) a capacidade do processo C e melhora (aumenta) a capacidade dos processos A e B.
+O piora (reduz) a capacidade do processo A e melhora (aumenta) a capacidade dos processos B e C.</Unicode></TextEquiv></TextRegion></Page></PcGts>

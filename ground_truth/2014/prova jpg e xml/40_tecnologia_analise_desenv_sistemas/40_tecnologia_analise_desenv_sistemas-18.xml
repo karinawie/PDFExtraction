@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:16:05</Created>
+	<LastChange>2020-12-06T02:41:12</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="893,299 1064,299 1064,373 1600,373 1600,482 1599,482 1599,1020 1280,1020 1280,1171 1115,1171 1115,1282 1123,1282 1123,1315 1043,1315 1043,1366 894,1366 894,1082 942,1082 942,630 893,630"/>
+	<TextEquiv conf="0.96768">
+	<Unicode>QUESTÃO 19
+Requisitos funcionais e não funcionais podem definir
+características e funcionalidades presentes na
+interface a ser desenvolvida para um sistema.
+Em relação aos requisitos não funcionais, também
+chamados de requisitos de qualidade, avalie as
+afirmações a seguir.
+|. São levantados e elicitados após os requisitos
+funcionais, uma vez que os requisitos
+funcionais determinarão as funcionalidades
+da interface.
+Il. Sempre serão definidos de forma mais
+concreta, através de requisitos funcionais,
+uma vez que o usuário manipula na interface
+somente as funcionalidades levantadas.
+Ill. Podem
+funcionais.
+complementar os requisitos
+É correto o que se afirma em
+O 1l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,360 852,360 852,1324 851,1324 851,1767 532,1767 532,1823 367,1823 367,1989 375,1989 375,2068 146,2068 146,1846 147,1846 147,1789 194,1789 194,1324 145,1324 145,1182 144,1182 144,360 145,360"/>
+	<TextEquiv conf="0.95424">
+	<Unicode>QUESTÃO 18
+Nos anos 70, os sistemas executavam em
+mainframes com aplicativos escritos em linguagens
+estruturadas e com todas as funcionalidades em
+um único módulo, com grande quantidade de
+linhas de código. Acessos a bancos de dados não
+relacionais, regras de negócios e tratamento de
+telas para terminais “burros” ficavam no mesmo
+programa. Posteriormente, uma importante
+mudança ocorreu: a substituição dos terminais
+“burros” por microcomputadores, permitindo
+que todo o tratamento da interface, e de algumas
+regras de negócios, passassem a ser feitas nas
+estações clientes. Surgiam as aplicações cliente-
+servidor. A partir dos anos 90, até os dias atuais,
+as mudanças foram mais radicais, os bancos de
+dados passaram a ser relacionais e distribuídos.
+As linguagens passaram a ser orientadas a objetos,
+cuja modelagem encapsula dados e oferece
+funcionalidades através de métodos. A interface
+passou a ser web. Vive-se a era das aplicações em
+três camadas.
+Considerando a evolução da arquitetura de software
+de sistemas de informação, conforme citado no texto
+acima, avalie as seguintes afirmações.
+|. A separação dos sistemas em três camadas
+lógicas torna os sistemas mais complexos,
+requerendo pessoal mais especializado.
+Il. A separação dos sistemas em três camadas
+lógicas torna os sistemas mais flexíveis,
+permitindo que as partes possam ser alteradas
+de forma independente.
+Ill. A separação dos sistemas em três camadas
+lógicas aumentou o acoplamento, dificultando
+a manutenção.
+É correto o que se afirma em
+O 1l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1I1el,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,283 869,2091 877,2091 877,283"/></SeparatorRegion></Page></PcGts>

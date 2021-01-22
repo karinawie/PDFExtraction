@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:44:07</Created>
+	<LastChange>2020-11-21T03:54:51</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,299 790,299 790,1158 789,1158 789,1309 790,1309 790,1442 792,1442 792,1599 791,1599 791,1600 84,1600 84,969 83,969 83,648 84,648"/>
+	<TextEquiv conf="0.95047">
+	<Unicode>QUESTÃO 24
+Na reforma de uma residência, que será transformada
+em academia de ginástica, o tipo de utilização da
+edificação deverá ser alterado. Sabendo que se trata
+de uma laje isolada e pré-moldada, o engenheiro
+executor, preocupado com a nova sobrecarga na laje
+do primeiro pavimento, necessita fazer uma prova de
+carga estática, pois não há dados disponíveis acerca
+do projeto estrutural da edificação em reforma.
+Sabendo que a sobrecarga anterior na laje era de
+1,5 kN/M? e a nova sobrecarga é de 4,0 kN/M?, e
+considerando que as dimensões gerais de um saco
+de cimento são 50 cm x 63 cm x 18 cm, o peso
+específico da areia grossa é de 18 kN/m? e o peso
+específico da água é igual a 10 kN/m?, uma solução
+viável e de baixo custo para a realização da prova de
+carga estática seria
+O empilhar, próximo aos apoios da laje, 8 sacos de
+cimento de 0,5 kN, um em cima do outro.
+O empilhar, próximo aos apoios da laje, 4 sacos de
+cimento de 0,5 kN, um em cima do outro.
+O posicionar um caixote de 1,0 m x 1,0 m x 0,40 m de
+madeira sobre a região central da laje e enchê-lo
+com areia grossa.
+O posicionar sobre a região central da laje uma
+piscina plástica, com área superior a 1,0 m?, e
+encher até que se atinja 0,40 m de lâmina d'água.
+O posicionar sobre a região próxima aos apoios
+da laje uma piscina plástica, com área superior
+a 1,0 m?, e encher até que se atinja 0,40 m de
+lâmina d'água.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="832,238 833,238 833,239 1003,239 1003,307 1538,307 1538,1229 1537,1229 1537,1230 935,1230 935,1457 832,1457 832,682 831,682 831,307 832,307"/>
+	<ImageRegion id="r3">
+	<Coords points="834,705 834,1021 1528,1021 1528,705"/></ImageRegion>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 25
+Uma nova rodovia foi implantada para melhorar as
+condições de acesso entre as localidades A, Be C.
+A equipe de topografia locou o eixo da rodovia que
+liga a localidade A até B no azimute de 45º e o eixo
+da rodovia que liga a localidade B até C no azimute
+de 135º. O raio da curva circular simples que uniu as
+duas tangentes, identificadas por T1 e T2 na figura a
+seguir, é de 800/n m.
+Considerando que o desenvolvimento da curva é
+dado por D = (nr x R x AC)/180º, em que R é o raio da
+curva, em metros, e AC é o ângulo central, em graus,
+qual o desenvolvimento do trecho circular da pista
+construída, em estacas de 20 m?
+O 10.
+O 20.
+O 30.
+O 41400.
+O 600.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,234 810,2018 813,2018 813,234"/></SeparatorRegion></Page></PcGts>

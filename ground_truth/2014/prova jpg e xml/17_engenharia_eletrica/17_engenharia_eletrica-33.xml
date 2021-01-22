@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:40:12</Created>
+	<LastChange>2020-11-21T21:07:36</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-33.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="832,300 1538,300 1538,1143 992,1143 992,1358 1009,1358 1009,1389 832,1389 832,1143 831,1143 831,993 881,993 881,722 882,722 882,544 832,544"/>
+	<TextEquiv conf="0.94903">
+	<Unicode>QUESTÃO 33 - Telecomunicações
+Em 1990, a International Engineering Task Force
+(IETF), órgão responsável pelas especificações
+da Internet, regulamentou, através da RFC1149,
+procedimentos para a transmissão de datagramas do
+Internet Protocol (IP) usando pombo-correio.
+Considere que:
+um pombo-correio pode carregar um cartão SD
+de 64 Gigabytes a uma velocidade de 100 km/h;
+a taxa de gravação de um cartão SD é 250 Mbps;
+existe uma alternativa de envio dos 64 Gigabytes
+via um sistema de transmissão com fibra ótica a
+100 Mbps;
+atrasos de propagação e de processamento dos
+datagramas |P são desprezíveis em relação ao
+tempo de gravação de um cartão SD.
+Com base nessas informações, até que distância
+é mais rápido utilizar um pombo-correio para
+transmissão de datagramas |P do que um sistema de
+transmissão com fibra ótica a 100 Mbps?
+O 3,5 km.
+O 17,8 km.
+O 28,0 km.
+O 85,3 km.
+O 142,0 km.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="320,240 791,240 791,770 790,770 790,860 648,860 648,1017 790,1017 790,1319 451,1319 451,1414 84,1414 84,1318 83,1318 83,1017 213,1017 213,860 84,860 84,859 83,859 83,795 84,795 84,331 83,331 83,280 320,280"/>
+	<TextEquiv conf="0.94535">
+	<Unicode>QUESTÃO 33 - Controle e Automação
+Com o recente descobrimento de mais reservas
+petrolíferas no fundo do mar, a demanda por
+pequenos submarinos tem aumentado. Nesse
+contexto, os engenheiros de uma companhia
+decidiram projetar o controlador mais simples
+que pudessem implementar com amplificadores
+operacionais para controlar a força F' que o motor de
+empuxo é capaz de impor a um submarino de massa
+M ao longo do eixo vertical Y. O único requisito
+desejado para o controlador é que seja capaz de
+manter o erro em regime permanente nulo, mesmo
+após perturbações.
+Admita que a função de transferência adotada para o
+sistema de controle do submarino é
+G(s) = XY -
+F(s)
+em que C é a viscosidade da água. Considerando
+ainda a disponibilidade de sensores para medir a
+profundidade no fundo do mar, os engenheiros
+tiveram sucesso usando um controlador do tipo
+O integral.
+O derivativo.
+O proporcional.
+1
+Msº + Cs
+O proporcional integral.
+O proporcional derivativo.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="810,234 810,2015 813,2015 813,234"/></SeparatorRegion></Page></PcGts>

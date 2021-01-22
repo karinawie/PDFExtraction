@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:22:09</Created>
+	<LastChange>2020-09-25T03:31:18</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-15.jpg" imageWidth="1610" imageHeight="2164">
+	<ImageRegion id="r2">
+	<Coords points="77,407 79,1247 1528,1242 1526,402"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="79,232 249,232 249,297 1533,297 1533,370 1531,370 1531,1373 1533,1373 1533,1670 1347,1670 1347,1891 1089,1891 1089,1940 672,1940 672,1988 587,1988 587,1989 79,1989 79,1736 78,1736 78,1709 79,1709 79,371 78,371 78,233 79,233"/>
+	<TextEquiv conf="0.96230">
+	<Unicode>QUESTÃO 17
+Os equipamentos de fluxo unidirecional são desenvolvidos com o propósito de propiciar a manipulação
+segura de materiais biológicos, conforme se observa nas figuras a seguir.
+Com relação à utilização correta desse tipo de equipamento e levando em consideração as figuras acima,
+avalie as asserções que se seguem e a relação proposta entre elas.
+|. Osequipamentos de fluxo unidirecional horizontal são câmaras que apresentam um fluxo de ar filtrado
+e laminar no sentido horizontal, oferecendo proteção ao material manipulado, ao operador e ao meio
+ambiente.
+PORQUE
+Il. Adireção do fluxo de ar que circula no interior das câmaras de fluxo unidirecional horizontal não permite
+que o ar do meio ambiente contamine o material e, também, que possíveis aerossóis formados a partir
+da manipulação entrem em contato com o operador.
+Acerca dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

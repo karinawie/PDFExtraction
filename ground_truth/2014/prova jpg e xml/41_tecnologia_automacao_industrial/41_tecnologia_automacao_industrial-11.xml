@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:53:34</Created>
+	<LastChange>2020-12-06T03:06:05</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-11.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="145,304 814,304 814,305 1147,305 1147,367 1599,367 1599,436 1598,436 1598,644 145,644 145,574 146,574 146,390 145,390"/>
+	<TextEquiv conf="0.96578">
+	<Unicode>Com base no problema apresentado, faça o que se pede nos itens a seguir.
+a) Identifique as linhas com condições irrelevantes e explique os critérios considerados para estabelecer tais
+condições na tabela verdade. (valor: 3,0 pontos)
+b) Determine as expressões algébricas mais simplificadas para o controle de cada eletroválvula.
+(valor: 3,0 pontos)
+c) Desenvolva um programa em linguagem ladder para executar o controle de cada eletroválvula.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

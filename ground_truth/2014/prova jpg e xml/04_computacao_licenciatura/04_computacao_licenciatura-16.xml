@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T22:00:03</Created>
+	<LastChange>2020-11-22T23:15:38</LastChange></Metadata>
+	<Page imageFilename="04_computacao_licenciatura-16.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="832,242 1340,242 1340,370 1383,370 1383,410 1138,410 1138,648 1190,648 1190,704 1365,704 1365,744 1226,744 1226,1054 1437,1054 1437,1122 1538,1122 1538,1536 1236,1536 1236,1726 1070,1726 1070,1967 832,1967 832,1560 880,1560 880,1083 831,1083 831,1054 954,1054 954,672 953,672 953,336 833,336 833,271 832,271"/>
+	<TextEquiv conf="0.96575">
+	<Unicode>O programa a seguir utiliza uma pilha.
+int main() (
+pilha * p = cria pilha();
+Ppush(p, 2);
+push(p, 3);
+Ppush(p, 4);
+POP (Pp) ;
+Ppush(p, 2);
+int a = pop(p) + pop(p);
+push(p, a);
+a += pop(p);
+printf (“%&amp;d”", a);
+return O;
+A esse respeito, avalie as afirmações a seguir.
+|. A complexidade computacional de ambas
+funções push e pop é O(1).
+Il. O valor exibido pelo programa seria o mesmo
+caso a instrução a += popí(p); fosse
+trocadapora += a;
+Ill. EM relação ao vazamento de memória
+(memory leak), é opcional chamar a função
+free (p), pois o vetor usado pela pilha é
+alocado estaticamente.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O LI1elm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,306 790,306 790,770 530,770 530,1167 775,1167 775,1294 689,1294 689,1629 780,1629 780,1755 722,1755 722,1806 373,1806 373,1857 355,1857 355,1907 207,1907 207,1857 205,1857 205,1755 85,1755 85,1498 83,1498 83,1167 84,1167 84,770 83,770 83,306 84,306"/>
+	<TextEquiv conf="0.95946">
+	<Unicode>QUESTÃO 16
+Uma pilha é uma estrutura de dados que armazena
+uma coleção de itens de dados relacionados e que
+garante o seguinte funcionamento: o último elemento
+a ser inserido é o primeiro a ser removido. É comum
+na literatura utilizar os nomes push e pop para as
+operações de inserção e remoção de um elemento
+em uma pilha, respectivamente. O seguinte trecho
+de código em linguagem C define uma estrutura de
+dados pilha utilizando um vetor de inteiros, bem
+como algumas funções para sua manipulação.
+tinclude &lt;stdlib.h&gt;
+tinclude &lt;stdio.h&gt;
+typedef struct (|
+int elementos[100];
+int topo;
+Ipilha;
+pilha * cria pilha() (
+pilha * p =malloc(sizeof(pilha));
+p-&gt;topo = -—1;
+return pilha;
+void push(pilha *p, int elemento) (
+if (p-&gt;topo &gt;= 99)
+return;
+p-&gt;elementos [++p-&gt;topo] = elemento;
+)
+int pop(pilha *p)
+int a = p-&gt;elementos [p-&gt;topo];
+p-&gt;topo--;
+return a;</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,231 805,2026 813,2026 813,231"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:47:33</Created>
+	<LastChange>2020-10-28T17:01:06</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-18.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="81,236 253,236 253,311 1105,311 1105,1449 1149,1449 1149,1510 1531,1510 1531,1565 1534,1565 1534,1669 1536,1669 1536,1852 1535,1852 1535,2000 1067,2000 1067,2001 598,2001 598,2002 130,2002 130,2003 129,2003 129,1907 82,1907 82,266 81,266"/>
+	<ImageRegion id="r1">
+	<Coords points="73,368 73,1352 1536,1352 1536,368"/></ImageRegion>
+	<TextEquiv conf="0.96665">
+	<Unicode>QUESTÃO 24
+Exame de densitometria óssea de coluna AP.
+Com base no exame, e em relação à densitometria óssea, é correto afirmar que
+O o T-score é um parâmetro de avaliação da densidade mineral óssea baseado num desvio padrão de 20%.
+O a densidade mineral óssea (DMO) é expressa em kg/cm? e representa a massa de cálcio expressa em
+quilos em uma área de 1 cm? de tecido.
+O a osteoporose é uma doença metabólica e representa a forma mais grave de osteopenia; quanto mais
+baixo for o T-score, maior a gravidade da osteoporose e maiores os riscos de fraturas.
+O os critérios de T-score para osteoporose, segundo a Organização Mundial de Saúde (OMS), são: densidade
+óssea normal entre O e -1, osteoporose entre -1 e -2,5 e osteopenia menor que -2,5.
+O um diagnóstico correto requer uma boa anamnese que leve em consideração: história familiar, nenopausa
+precoce, uso de determinadas medicações, entre outros; contudo, de acordo com as informações
+apresentadas no exame, esse critério está ausente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

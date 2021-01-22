@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T20:18:33</Created>
+	<LastChange>2020-11-18T21:03:57</LastChange></Metadata>
+	<Page imageFilename="cst_logistica-22.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="825,234 1536,234 1536,264 1534,264 1534,1191 1535,1191 1535,1794 1534,1794 1534,1945 827,1945 827,1944 826,1944 826,1637 825,1637"/>
+	<ImageRegion id="r3">
+	<Coords points="847,634 847,1163 1534,1163 1534,634"/></ImageRegion>
+	<TextEquiv conf="0.42003">
+	<Unicode>QUESTÃO 23
+Na visão da logística, o serviço ao cliente resulta
+de todas as atividades logísticas da cadeia de
+suprimentos, portanto, o projeto do sistema logístico
+define o nível dos serviços que serão oferecidos ao
+cliente. Essa definição impacta significativamente na
+rentabilidade projetada pela empresa. O gráfico a
+seguir ilustra esse cenário.
+Em face do contexto apresentado, é correto concluir
+com base no gráfico que as organizações devem
+O atuar com nível de serviço de 100%, pois é nesse
+nível que o lucro é maximizado.
+O analisar a sua cadeia de suprimentos, a fim de
+definir o trade off do nível de serviço logístico.
+O focar na maximização do nível de serviço
+oferecido, pois não há como gerenciar o aumento
+dos custos.
+O atuar próximo ao nível de serviço logístico de
+100%, pois, são os pontos de maior incremento
+marginal de receita.
+O atuar nos pontos em que os custos logísticos
+são os mínimos possíveis, pois, assim, o nível de
+serviço logístico será maximizado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,233 80,234 790,234 790,264 789,264 789,587 788,587 788,717 789,717 789,806 790,806 790,1504 788,1504 788,1944 677,1944 677,1999 81,1999 81,1998 80,1998 80,1782 81,1782 81,1571 80,1571 80,1570 79,1570 79,1541 129,1541 129,783 80,783 80,782 79,782 79,717 116,717 116,587 80,587 80,586 79,586 79,305 80,305"/>
+	<TextEquiv conf="0.95882">
+	<Unicode>QUESTÃO 22
+As ferramentas de Tecnologia da Informação
+possibilitam às organizações maximizarem a
+comunicação com os diversos integrantes de
+uma cadeia de suprimentos, consequentemente,
+agregar valor aos produtos. O serviço ao cliente,
+componente essencial da estratégia da logística,
+é afetado diretamente pelos Sistemas de
+Informações Logísticas.
+CHOPRA, S; MEINDL, P. Gerenciamento da cadeia de suprimentos:
+estratégia, planejamento e operação. São Paulo:
+Pearson Prentice Hall, 2010 (adaptado).
+A partir do texto acima, avalie as asserções a seguir e
+a relação proposta entre elas.
+l. O Intercâmbio Eletrônico de Dados (EDI)
+permite que as organizações façam pedidos
+de compras instantâneos, o que gera rapidez
+nas transações, e oferece ganhos de eficiência
+e responsividade, mas em relação ao
+compartilhamento de informações, que é vital
+para as cadeias de suprimentos, a internet
+apresenta vantagens sobre o EDI.
+PORQUE
+Il. No comércio eletrônico, os elementos
+de pré-transação permitem aos clientes
+conhecerem com exatidão o nível de serviço
+que lhes será prestado; com isso, é possível
+estabelecer os planos de contingência para
+enfrentar prejuízos bem como assegurar
+aos clientes a reposição de mercadorias
+e dispensar os sistemas de previsão de
+demanda.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a ll é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é
+uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,221 805,2034 810,2034 810,221"/></SeparatorRegion></Page></PcGts>

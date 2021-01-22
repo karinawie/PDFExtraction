@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:11:13</Created>
+	<LastChange>2020-11-22T02:22:26</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,294 1537,294 1537,431 833,431 833,1065 1538,1065 1538,1676 1070,1676 1070,1677 601,1677 601,1678 574,1678 574,1734 249,1734 249,1978 85,1978 85,1979 84,1979 84,1757 85,1757 85,1700 132,1700 132,1039 85,1039 85,1011 84,1011 84,431 83,431 83,294 84,294"/>
+	<TextEquiv conf="0.96213">
+	<Unicode>QUESTÃO 22
+A fluidização é uma operação unitária com aplicação em diversos processos industriais como
+craqueamento catalítico, secagem de bagaço de cana e revestimento de comprimidos. Um ensaio em um
+leito fluidizado com partículas médias e de tamanho uniforme resultou na figura abaixo, que relaciona a
+queda de pressão entre a base e o topo de um leito (AP) em função da velocidade superficial do gás (v).
+Com base na figura acima, avalie as afirmações a seguir.
+|. No ponto A, o leito ainda é fixo, mas a perda de carga do fluido é suficiente para equilibrar o peso
+das partículas; de A até B, há uma região instável em que o leito aumenta sua porosidade e sofre
+uma pequena expansão; em B, que representa o ponto de fluidização, as partículas ainda estão bem
+próximas umas das outras.
+Il. De B para C, a queda de pressão cai ligeiramente e atinge valor aproximadamente constante CD, que
+independe da velocidade do fluido; em C inicia-se a movimentação desordenada das partículas no
+interior do leito, o que causa muita turbulência.
+Ill. A fluidização acontece entre os pontos C e E, também conhecidos por fluidização em fase densa;
+a partir do ponto E, diminuindo-se a velocidade do gás, o leito se contrai, passa pelo ponto D e
+chega ao ponto F, onde ocorre a porosidade máxima que se pode alcançar em um leito fixo.
+IV. No ponto F, atinge-se uma condição em que todas as partículas são suspensas pelo fluxo ascendente
+do gás, e onde as forças de fricção entre as partículas e o fluido contrabalançam o peso das
+partículas; a queda de pressão, através de qualquer seção no leito, é igual ao peso do fluido e das
+partículas; o leito é considerado fluidizado e denomina-se leito fluidizado incipiente, ou leito na
+mínima fluidização.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O Ieiv.
+O LIlelv.
+O uMeiv</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="455,431 455,1005 1539,1005 1539,431"/></ImageRegion></Page></PcGts>

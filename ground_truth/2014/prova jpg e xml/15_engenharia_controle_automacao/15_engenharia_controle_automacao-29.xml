@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:36:58</Created>
+	<LastChange>2020-11-21T19:50:03</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-29.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,238 255,238 255,294 1532,294 1532,323 1411,323 1411,1506 1536,1506 1536,1735 574,1735 574,1780 249,1780 249,2006 84,2006 84,819 83,819 83,788 84,788"/>
+	<ImageRegion id="r1">
+	<Coords points="268,339 268,771 1352,771 1352,339"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="178,834 178,1486 1392,1486 1392,834"/></ImageRegion>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 27
+Um processo que envolve uma antena pode ser representado pelo sistema de 32. ordem apresentado na figura |.
+A figura Il apresenta o lugar das raízes desse sistema, em malha aberta, quando se varia o ganho K.
+Considerando que o ganho K é positivo e pode variar de O a infinito, avalie as afirmações a seguir.
+|. Um sistema com 10 &lt; K &lt; 20 é estável.
+Il. Para K=60, o sistema é criticamente amortecido.
+Ill. Existe um valor de K que torna o sistema marginalmente estável.
+IV. O sistema com K = 30 apresenta resposta temporal, para uma entrada em degrau unitário, com
+oscilações constantes e de mesma amplitude.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oielv
+O Lev.
+O ,IMelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

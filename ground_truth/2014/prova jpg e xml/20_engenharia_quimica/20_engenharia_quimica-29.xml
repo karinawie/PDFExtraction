@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:09:56</Created>
+	<LastChange>2020-11-22T02:17:21</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-29.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1537,298 1537,1120 1538,1120 1538,1443 1539,1443 1539,1646 1538,1646 1538,1647 1218,1647 1218,1707 1070,1707 1070,1972 832,1972 832,1734 833,1734 833,1673 880,1673 880,1089 832,1089"/>
+	<ImageRegion id="r3">
+	<Coords points="836,636 836,968 1539,968 1539,636"/></ImageRegion>
+	<TextEquiv conf="0.96949">
+	<Unicode>QUESTÃO 32
+Em um processo de tratamento de efluentes
+por lodos ativados, são aplicados clarificadores
+para separação sólido-líquido dos flocos de
+microrganismos via sedimentação, resultando em
+uma corrente sobrenadante de líquido clarificado
+e uma corrente subnadante (fase densa) com alta
+concentração de sólidos, parcialmente recirculada
+nos reatores, como mostra a figura.
+Com relação a esse processo, avalie as afirmações
+a seguir.
+|. A recirculação do lodo biológico nos reatores
+é realizada para reduzir o volume de lodo a ser
+descartado e, portanto, reduzir custos com
+disposição de resíduos sólidos industriais.
+A presença de flocos de microrganismos na
+corrente sobrenadante do clarificador é um
+problema grave no processo.
+A utilizaçção de agentes floculantes,
+previamente “avaliados em testes de
+agregação dos flocos em bancada, evita a
+presença de flocos de microrganismos no
+líquido sobrenadante clarificado.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+OÔLIel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,238 255,238 255,294 790,294 790,785 789,785 789,1175 132,1175 132,1174 131,1174 131,835 84,835 84,567 83,567 83,293 84,293"/>
+	<TextEquiv conf="0.96802">
+	<Unicode>QUESTÃO 31
+O termo controle é aplicado para representar um
+método utilizado para manter uma determinada
+variável em um valor específico desejado. Assim, um
+sistema de controle de processo requer uma série de
+elementos que são definidos em termos de partes
+funcionais distintas.
+A função do elemento final de controle é
+O determinar o erro antes que qualquer ação de
+controle possa ser realizada.
+O relacionar a sequência de uma determinada
+produção, podendo envolver uma ou mais
+variáveis.
+O exercer uma influência direta no processo,
+promovendo a mudança requerida na variável
+controlada.
+realizar a medida e a conversão de uma variável
+em termos de uma informação elétrica ou
+pneumática.
+analisar a medida do erro e determinar a
+necessidade e o tipo de ação a ser realizada para
+controlar o processo.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,234 807,2013 805,2013 805,234"/></SeparatorRegion></Page></PcGts>

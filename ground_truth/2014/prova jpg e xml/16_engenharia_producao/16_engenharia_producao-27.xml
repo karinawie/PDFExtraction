@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:12:16</Created>
+	<LastChange>2020-11-21T20:22:20</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="84,238 255,238 255,303 1538,303 1538,564 774,564 774,1395 836,1395 836,1396 1538,1396 1538,1671 574,1671 574,1733 573,1733 573,1734 249,1734 249,2009 84,2009 84,562 83,562 83,303 84,303"/>
+	<TextEquiv conf="0.96300">
+	<Unicode>QUESTÃO 30
+A viabilidade econômica de um projeto é analisada considerando-se uma taxa de mínima atratividade (TMA),
+de 3% ao período. O fluxo de caixa previsto para o projeto é apresentado a seguir, cujo valor no tempo O (zero)
+é o investimento inicial. Os demais valores são o fluxo de caixa líquido. Considere que o investimento inicial
+no período zero não está sujeito a incertezas, porém há incertezas tanto para o valor da TMA quanto para o
+fluxo de caixa líquido futuro, considerado uma série uniforme de A. O quadro apresentado é uma matriz de
+TMA x A, e mostra o fluxo de caixa descontado para a combinação de diferentes valores de TMA e A.
+Com base no exposto, avalie as afirmações a seguir.
+|. O projeto é economicamente viável.
+Il. Não há relação entre o projeto e o quadro apresentado, pois, os valores apresentados no quadro não
+podem ser considerados, dado que há incerteza no valor de A.
+Ill. Considerando a amplitude de taxas de desconto apresentadas, o projeto é economicamente inviável
+para fluxos de caixa líquidos uniformes inferiores a $ 1 100,00.
+IV. Caso o fluxo de caixa líquido passe a ser $ 1 150,00, o ponto de equilíbrio econômico para o projeto
+ocorrerá para TMA entre 4% e 5% ao período.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O ev.
+O Lev.
+QÔuMeiv</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="568,607 568,771 1050,771 1050,607"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="460,805 460,1226 1165,1226 1165,805"/></TableRegion></Page></PcGts>

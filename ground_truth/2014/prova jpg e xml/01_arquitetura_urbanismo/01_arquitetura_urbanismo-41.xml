@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T03:44:10</Created>
+	<LastChange>2020-09-24T03:44:16</LastChange></Metadata>
+	<Page imageFilename="01_arquitetura_urbanismo-41.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,1146 1537,1146 1537,1241 1538,1241 1538,1757 1054,1757 1054,1758 84,1758 84,1218 83,1218 83,1147 84,1147"/>
+	<TextEquiv conf="0.95986">
+	<Unicode>A partir das informações e da análise das imagens apresentadas, conclui-se que o principal objetivo da terceira
+fase do uso da tecnologia em arquitetura é
+O propiciar aos arquitetos a possibilidade de conceber um projeto que priorize os custos da edificação,
+permitindo assim a concorrência mais eficiente no mercado de trabalho.
+O conceber o projeto estrutural de uma edificação automaticamente, sem a necessidade de outros
+profissionais e programas de computador, reduzindo-se o tempo e o custo para o produto final.
+O projetar edificações em duas e três dimensões, facilitando a integração entre o projeto de arquitetura e
+os projetos complementares posteriores como estrutural e instalações elétricas e hidráulicas.
+O integrar as informações geométricas, que dizem respeito às características espaciais do produto, tais
+como forma, posição e dimensões, com as não-geométricas, onde se incluem custo, resistência, peso,
+entre outras características.
+O permitir modificações e aperfeiçoamentos automáticos ao projeto, facilitando o ciclo de concepção e
+agilizando o envio do projeto para os profissionais que trabalharão nas próximas fases sequenciais como
+definição de materiais, levantamento de custo e aprovação legal.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="73,223 73,1131 1539,1131 1539,223"/></ImageRegion></Page></PcGts>

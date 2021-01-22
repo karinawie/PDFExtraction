@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:21:08</Created>
+	<LastChange>2020-09-25T03:42:54</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-23.jpg" imageWidth="1610" imageHeight="2164">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="78,232 249,232 249,292 784,292 784,884 785,884 785,1026 784,1026 784,1155 569,1155 569,1216 147,1216 147,1336 211,1336 211,1460 79,1460 79,1240 80,1240 80,1183 173,1183 173,1027 172,1027 172,884 173,884 173,401 79,401 79,263 78,263"/>
+	<TextEquiv conf="0.96033">
+	<Unicode>QUESTÃO 29
+Avalie as afirmações a seguir, referentes ao
+controle de qualidade
+laboratorial bioquímico
+realizado em equipamentos de automação.
+O soro-controle não é preferido em relação
+à solução padrão, devido à sua natureza
+proteica, que pode causar interferência na
+análise, consequentemente induzindo a um
+erro no resultado.
+No início da rotina laboratorial bioquímica,
+independentemente do laboratório
+ser interno ou externo a um hospital, é
+necessária a realização de controle de
+qualidade interno utilizando soros-controle
+normais e patológicos.
+A calibração dos equipamentos deve ser
+realizada somente no início da rotina
+laboratorial, independente de qualquer
+intercorrência.
+Laboratórios externos a um hospital podem
+realizar a calibração dos equipamentos
+exclusivamente com soro-controle normal.
+É correto apenas o que se afirma em
+O.
+o.
+Oie.
+O llelv.
+Ôileiv</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="823,526 823,1292 1555,1292 1555,526"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="826,232 997,232 997,286 1532,286 1532,1389 1533,1389 1533,1390 1534,1390 1534,1480 1533,1480 1533,1631 1531,1631 1531,1746 1317,1746 1317,1795 991,1795 991,2008 827,2008 827,509 826,509"/>
+	<TextEquiv conf="0.96430">
+	<Unicode>QUESTÃO 30
+As sequências não codificantes e altamente
+polimórficas no DNA funcionam como impressões
+digitais
+e permitem identificar o indivíduo,
+bem como sua origem. Nessa característica de
+individualidade e hereditariedade baseiam-se as
+provas científicas de paternidade utilizadas no
+cotidiano forense brasileiro.
+Com base na interpretação da eletroforese acima,
+avalie as afirmações seguintes.
+.A investigação
+Nessa corrida de eletroforese, é possível
+observar a variabilidade na sequência de DNA
+entre os indivíduos.
+O indivíduo F3 não possui parentesco com
+nenhum dos indivíduos testados.
+genética — pode
+a possibilidade de paternidade,
+observado em relação ao indivíduo F1.
+É excluída a paternidade do suposto pai em
+relação ao indivíduo F2.
+excluir
+como
+É correto apenas o que se afirma em
+Oie
+Oie.
+O eiv.
+O LIlelv.
+OQ MMelv</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="802,231 802,2010 797,2010 797,231"/></SeparatorRegion></Page></PcGts>

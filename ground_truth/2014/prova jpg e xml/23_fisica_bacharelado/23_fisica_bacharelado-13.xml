@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:20:38</Created>
+	<LastChange>2020-11-22T03:51:17</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-13.jpg" imageWidth="1622" imageHeight="2171">
+	<SeparatorRegion id="r0">
+	<Coords points="805,228 805,2018 813,2018 813,228"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="115,957 115,1618 747,1618 747,957"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="871,250 871,565 1523,565 1523,250"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="874,595 874,910 1526,910 1526,595"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="881,961 881,1276 1533,1276 1533,961"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="879,1308 879,1623 1531,1623 1531,1308"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="868,1653 868,1968 1520,1968 1520,1653"/></ImageRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,378 794,378 794,698 796,698 796,801 790,801 790,1639 794,1639 794,2005 68,2005 68,1639 84,1639 84,367 83,367 83,298 84,298"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 09
+A figura abaixo apresenta esquematicamente dois
+momentos do movimento de um corpo rígido
+na forma de um disco, com massa m e raio, r,
+denominado ioiô. Um fio, preso ao teto em uma
+extremidade, é enrolado na borda lateral do disco.
+A outra extremidade do fioestá presa na borda
+lateral do disco, de modo que este não pode girar
+em falso. Na situação (a), o corpo está em repouso
+uma altura h, tal que hmax &gt; h &gt; hmin, em que
+hmin é a altura na qual o fio estaria completamente o
+desenrolado. Considere o momento de inércia
+do corpo (em relação a um eixo perpendicular ao
+plano da figura e que passa pelo seu centro massa)
+igual a mr? /2.
+Medidas da energia potencial (EP), energia cinética
+rotacional (ECR) e energia cinética translacional
+(ETC) foram realizadas e graficadas (em unidades
+arbitrárias) ao longo do movimento de descida
+do ioiô, desde a altura máxima até uma altura h.
+Considerando que houve conservação da energia
+mecânica total, conclui-se que são consistentes
+com os resultados esperados teoricamente aqueles
+apresentados no gráfico.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T04:08:07</Created>
+	<LastChange>2020-10-27T18:34:56</LastChange></Metadata>
+	<Page imageFilename="01_ADMINISTRACAO_Page_14.jpeg" imageWidth="1595" imageHeight="2167">
+	<SeparatorRegion id="r1">
+	<Coords points="783,189 786,2008 791,2008 788,189"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,176 395,176 395,187 645,187 645,186 771,186 771,708 769,708 769,1153 770,1153 770,1256 769,1256 769,1373 62,1373 62,1374 61,1374 61,1271 62,1271 62,1154 61,1154 61,709 60,709"/>
+	<TextEquiv conf="0.96148">
+	<Unicode>QUESTÃO 17
+O proprietário de um pequeno restaurante decidiu avaliar
+a qualidade do seu serviço. Para tanto, durante uma
+semana, convidou seus clientes para avaliarem o serviço
+da casa com uma de três notas possíveis: O (zero), 5 (cinco)
+ou 10 (dez). Após a consolidação dos dados coletados,
+observou que: 20 clientes atribuíram à casa nota zero;
+200 clientes, nota cinco; 180 clientes, nota dez. Na análise
+dos resultados, o proprietário decidiu extrair a média, a
+mediana e a moda das respostas. O proprietário oferecerá
+um bônus aos empregados se ao menos uma das três
+medidas usadas (média, mediana e moda) estiver acima
+de 8,0, e fará uma ação promocional para seus clientes
+caso a média seja inferior a 6,0.
+Com base nessas informações, o proprietário deve
+O providenciar a ação promocional, pois a média ficou
+abaixo do valor de referência considerado para essa
+decisão.
+O providenciar o bônus para os empregados, pois o
+valor mediano ficou acima do ponto de referência
+considerado para essa decisão.
+O providenciar o bônus para os empregados, pois a
+moda ficou acima do valor de referência considerado
+para essa decisão.
+O manter o funcionamento do restaurante como está,
+pois nenhuma das medidas ficou acima de 80 e a
+mediana e a moda foram superiores a 6,0.
+O manter o funcionamento do restaurante como está,
+pois nenhuma das medidas ficou acima de 80 e a
+média foi superior a 6,0.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="805,176 1140,176 1140,187 1404,187 1404,186 1516,186 1516,818 1515,818 1515,915 1514,915 1514,1594 1354,1594 1354,1639 807,1639 807,1640 806,1640 806,1254 805,1254 805,1228 806,1228 806,1227 807,1227 807,916 806,916 806,819 805,819"/>
+	<TextEquiv conf="0.39115">
+	<Unicode>QUESTÃO 18
+A gerente da unidade gestora de saúde X de um pequeno
+município brasileiro defende sua unidade como a mais
+eficiente das três unidades do município, em termos de
+motivação de pessoal, pois, durante um ano de registros
+de faltas e presenças, observou apenas 18 faltas de seus
+90 profissionais. A gerente assegura que sua unidade é
+a melhor no critério “nível de faltas relativo ao número
+de profissionais”, e a sua referência de comparação é
+a unidade gestora Y, que conta com 120 profissionais e
+registrou, no mesmo período, 24 faltas. Os gerentes das
+unidades Y e Z contestam o argumento da gerente da
+unidade X, o que se tornou fator de potencial conflito entre
+gestores. Para esclarecer melhor os fatos, o secretário de
+saúde fez um levantamento das três unidades gestoras de
+saúde (X, Y e Z), e observou que foram registradas, entre
+350 profissionais, 62 faltas no total.
+Com base no contexto acima, avalie as seguintes asserções
+e a relação proposta entre elas.
+|. A gerente da unidade gestora de saúde X tem razão ao
+defender sua unidade como a mais eficiente do município.
+PORQUE
+Il. A unidade gestora de saúde Z tem o mesmo nível
+de faltas relativo ao número de empregados dessa
+unidade do que a unidade gestora de saúde Y.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e a Il é
+uma justificativa da |.
+O As asserções | e 11 são proposições verdadeiras, mas a
+Il não é uma justificativa da |.
+O Aasserção | é uma proposição verdadeira, e a || é uma
+proposição falsa.
+O A asserção | é uma proposição falsa, e a 1|l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

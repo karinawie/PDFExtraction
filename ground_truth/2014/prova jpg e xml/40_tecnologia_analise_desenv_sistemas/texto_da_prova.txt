@@ -1,0 +1,886 @@
+QUESTÃO DISCURSIVA 3
+As classes costumam possuir relacionamentos entre si, chamados de associações, que permitem que elas
+compartilhem informações entre si e colaborem para a execução dos processos executados pelo sistema.
+Com base nesse contexto, construa um diagrama de classes para representar as seguintes associações:
+*º umarevista científica possui título, ISSN e periodicidade;
+* essarevista publica diversas edições com os seguintes atributos: número da edição, volume da edição e data
+de edição. Importante destacar que cada instância da classe edição relaciona-se única e exclusivamente a
+uma instância da classe revista cientifica, não podendo relacionar-se com nenhuma outra;
+* umartigo possuitítuloe nome do autor. Um artigo é um conteúdo exclusivo de uma edição. E uma edição
+obrigatoriamente tem que possuir no mínimo 10 e no máximo 15 artigos.
+(valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Uma estrutura de dados do tipo pilha pode ser usada em um algoritmo que permite imprimir uma palavra de
+forma invertida. Exemplo: FELICIDADE deve ser impresso como EDADICILEF.
+Utilizando as variáveis declaradas abaixo:
+pilha[1..50]: caractere;
+i, topo: inteiro;
+palavra: string;
+Em pseudocódigo, faça o que se pede nos itens a seguir.
+a) Desenvolva a rotina push que inclui um elemento na pilha. (valor: 3,0 pontos)
+b) Desenvolva a rotina pop que retira um elemento da pilha. (valor: 3,0 pontos)
+c) Desenvolva a rotina que leia a palavra e, usando a pilha, a imprima de forma invertida. (valor: 4,0 pontos)
+Caso necessite de mais espaço, divida as linhas em duas ou três colunas.
+
+QUESTÃO DISCURSIVA 5
+Matrizes multidimensionais são vetores capazes de armazenarem mais de uma posição de cada elemento
+que será indicado por dois ou mais índices. Um exemplo de matrizes multidimensionais são as matrizes
+matemáticas, que representam valores tabulados em linhas e colunas.
+01 algoritmo “matriz”
+02 var
+03 i, j : inteiro;
+04 ml : vetor [1..3, 1..3] de inteiro;
+05 m2 : vetor [1..3, 1..3] de inteiro;
+06 inicio
+07 para i de 1 ate 3 faça
+o8 para j de 1 ate 3 faça
+o9 mi[i,3] := i + 1;
+10 m2[i,j] := 3 +41;
+11 fimpara;
+12 fimpara;
+13 para i de 1 ate 3 faça
+14 para j de 1 ate 3 faça
+15 se (ml[i,j] = m2[i,j]) então
+16 ml[i,3] := O;
+17 senão
+18 m2[i,3] := 1;
+19 fimse;
+20 fimpara;
+21 fimpara;
+22 fimalgoritmo
+Considerando o algoritmo acima e com base no teste de mesa, faça o que se pede nos itens a seguir.
+a) Apresente os dados dos vetores m1 e m2 ao término da execução da linha 12. (valor: 5,0 pontos)
+b) Apresente os dados dos vetores m1 e m2 ao término da execução da linha 21. (valor: 5,0 pontos)
+
+QUESTÃO 09
+Confome definido pelo Corpo de Conhecimento para Gerenciamento de Projeto de Software PMBOK,
+um dos artefatos de maior importância dentro do planejamento de um projeto de software é a Estrutura
+Analítica do Projeto (EAP).
+PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK. 4 ed. EUA: Project Management Institute, 2008.
+A EAP apresentada na figura a seguir mapeia o processo de produção de um software de uma empresa e os
+pacotes de trabalho que fazem parte desse projeto de software. Percebe-se que as atividades de “codificação”
+e “teste” não possuem pacotes de trabalho. A empresa Alfa optou por terceirizá-las para uma parceira em
+uma operação de outsourcing.
+Analisando-se o EAP da empresa, conclui-se que as atividades de “codificação” e “teste”
+O devem ser inseridas no planejamento do projeto, uma vez que a empresa é a responsável pela implantação
+do software (a terceirização foi uma opção da própria empresa).
+O devem ser inseridas no planejamento do projeto porque é obrigatório que um processo de software
+tenha as atividades de “codificação” e “teste” dentro de seu conjunto de atividades.
+o
+não devem ser inseridas no planejamento do projeto, porque, como elas foram terceirizadas, não é
+necessário realizar o controle de qualidade dessas atividades.
+o
+não devem ser inseridas no planejamento do projeto porque, como elas foram terceirizadas, não é
+necessário realizar o controle de produção - tempo, esforço e custo - dessas atividades.
+o
+não devem ser inseridas no planejamento do projeto, porque em um processo de software não é
+obrigatório que as atividades de “codificação” e “teste” estejam dentro de seu conjunto de atividades.
+
+Para que o algoritmo funcione corretamente,
+atendendo o requisito proposto, a mudança em sua
+estrutura que deve ser aplicada é
+O alteraralinha 15, de: return 0;para: ceturn
+count (countValue, array, O);
+O alterar a linha 18, de: if —(array[i]
+countValue) para: if (array[c]
+countValue)
+O alteraralinha21,de:c += count (countvalue,
+array, i);para:ic += count (countValue,
+array, i + 1);
+O alterar a linha 14, de: if
+(!hasValue (countValue, array, 1)
+|| i >= array.length) para: if (i >=
+array.length)
+O alterar a linhha 10) de return
+hasValue (searchValue, array, i+1);
+para: return hasValue(searchValue,
+array, i 1);
+
+QUESTÃO 10
+A classe CountOccurrence escrita na linguagem
+Java, tem por objetivo localizar e contar quantas
+ocorrências de um determinado valor existem em
+um conjunto predeterminado de valores, retornando
+a quantidade de vezes que um determinado valor se
+repete no conjunto.
+1 public class CountConcurrence (
+2
+3 public boolean hasValue(int searchvalue, int[] array, int i) (
+4 if (i >= array.length)
+5 return false;
+7 if (array[i] == searchValuve)
+8 return true;
+9 else
+10 return hasValue (searchValue, array, i + 1);
+11 )
+12
+13 public int count (int countvalue, int[] array, int i) (
+14 if (!hasvalue(countValue, array, i) || i >= array.length)
+15 return O;
+16
+17 int c = O;
+18 if (array[i] == contValue)
+19 c++;
+20
+21 c += count (countValue, array, i);
+22 return c;
+23 )
+24
+25 public static void main(String[] args) (
+26 int[] array = (2, 3, 5, 6, 9, 7, 8, 8, 9);
+27 CountOccurrence co = new CountOccurrence();
+28 System.out .println(co.count(5, array, 0));
+
+QUESTÃO 11
+O modelo de entidade relacionamento apresentado, representa de forma sucinta uma solução para
+persistência de dados de uma biblioteca. Considerando que um livro está emprestado quando possuir um
+registro vinculado a ele na tabela “Emprestimo”, e essa tupla não possuir valor na coluna “data dev”, o
+comando SQL que deve ser utilizado para listar os títulos dos livros disponíveis para empréstimo é
+O select titulo from livro
+except
+select l.titulo from emprestimo e inner join livro 1
+on e.livro cod = l.liv cod where e.data dev is null
+O select titulo from livro
+union
+select l.titulo from emprestimo e inner join livro 1
+on e.livro cod = l.liv cod where e.data dev is null
+O select titulo from livro
+except
+select l.titulo from emprestimo e inner join livro 1
+on e.livro cod = l.liv cod where e.data dev is not null
+O select titulo from livro
+union select l.titulo from emprestimo e left join livro 1
+on e.livro cod = l.liv cod where e.data dev is null
+O select titulo from livro
+except
+select l.titulo from emprestimo e right join livro 1
+on e.livro cod = l.liv cod where e.data dev is not null
+
+QUESTÃO 13
+ALei n.º 12.965, de 23 de abril de 2014, originalmente
+denominada Marco Civil da Internet, estabelece
+princípios, garantias, direitos e deveres para o uso
+da Internet no Brasil, contribuindo principalmente
+nas relações de consumo e segurança da informação
+pessoal para com os prestadores de serviço de acesso
+à Internet.
+BRASIL. Lei n.º 12.965, de 23 de abril de 2014.
+Suponha que o cliente de determinado provedor
+de acesso à Internet contrata um serviço com
+velocidade de conexão de 5 Megabits/s (Mbps),
+mas tem continuamente enfrentado problemas de
+perda de conexão e, adicionalmente, não obtém a
+velocidade contratada, apesar de o cliente realizar
+todos os pagamentos em dia.
+Nessa situação, avalie as seguintes asserções e a
+relação proposta entre elas.
+|. A manutenção da qualidade contratada da
+conexão à Internet é uma obrigação prevista
+no Marco Civil da Internet.
+PORQUE
+Il. Não pode haver suspensão da conexão
+à Internet, salvo por débito diretamente
+decorrente de sua utilização.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 12
+No cenário de uma economia globalizada, cresce
+o interesse pelo empreendedorismo e pela busca
+de meios que levem a uma maior produtividade,
+competitividade e inovação. Os avanços das
+tecnologias da informação e comunicação (TIC)
+auxiliam esse crescimento. Atualmente, uma parcela
+significativa dos negócios tem uma dependência
+forte das TIC.
+Desse modo, manter a disponibilidade da informação
+e comunicação e manter os negócios operando,
+sem qualquer paralisação, é indispensável. Porém,
+é preciso analisar o que pode ser afetado, qual o
+impacto financeiro e quais os impactos na imagem e
+na reputação da empresa, se cada um dos processos
+de negócio sofresse uma paralisação por conta da TIC.
+A fim de mitigar possíveis riscos, é recomendável
+documentar um plano para eliminar ou reduzir a
+possibilidade de ocorrer cenários de indisponibilidade
+da TIC. Nessa situação, é preciso elaborar um
+O plano de negócio.
+O documento de visão.
+O plano de contingência.
+O plano de gerência de riscos.
+O plano de gerenciamento de projetos.
+
+QUESTÃO 15
+Considere o arranjo computacional apresentado a
+seguir.
+A característica fundamental esperada para tais
+sistemas de modo a ter o menor impacto sobre a
+experiência do usuário final é
+O atransparência entre as entidades do sistema.
+O alinguagem de programação orientada a eventos.
+O o hardware com elevada taxa de processamento
+de dados.
+O a base de dados deve estar localizada no mesmo
+espaço físico.
+O a independência quanto à disponibilidade de
+conexão à rede de comunicação de dados.
+
+QUESTÃO 14
+Para fins estatísticos, uma empresa precisa
+armazenar os trajetos que seus representantes
+comerciais percorrem entre pontos de venda.
+É importante que para cada local visitado sejam
+armazenados, além da informação do próprio
+local, o local de origem do representante (ponto
+de venda anterior), o local de destino (ponto de
+venda posterior), as distâncias percorridas e os
+tempos de viagem. Esse procedimento permite
+que estes trajetos possam ser analisados, de forma
+rápida, do local de origem ao local de destino, bem
+como no sentido inverso, do local de destino (final
+do trajeto) ao local de origem (início do trajeto).
+O analista responsável pelo sistema que utilizará
+os dados armazenados e produzirá os relatórios
+estatísticos, projetou o seguinte esboço de uma
+classe que representa um ponto de venda:
+public class Local (
+private String nome estabelecimento;
+private String endereco;
+private Local origem;
+private Local destino;
+private float distancia origem;
+private float tempo origem;
+!
+A respeito do esboço da classe, avalie as afirmações
+a seguir.
+|. O esboço acima representa uma lista
+duplamente encadeada.
+Il. Utilizar um nó de uma estrutura de dados
+do tipo árvore de busca multivias de grau 3,
+seria a solução ideal para o problema porque
+providenciaria a economia de recursos de
+memória e de disco.
+Ill. A utilização de uma árvore de pesquisa binária
+para a solução do problema é normal, desde
+que o atributo de ordenação da árvore seja
+distancia origem.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Lie.
+
+QUESTÃO 17
+Casos de uso podem ser organizados agrupando-os
+em pacotes do mesmo modo como são organizadas
+as classes. Também podem ser organizados pela
+especificação de relacionamentos de generalização,
+inclusão e extensão, existentes entre eles.
+JACOBSORN, |.; BOOCH, G.; RUMBAUGH, J. UML - Guia Do
+Usuário. 1 ed. Campus, 2006 (adaptado).
+Considerando os relacionamentos existentes entre
+OS Casos de uso, avalie as afirmações a seguir.
+|. Paracasos de uso, a generalização significa que
+o caso de uso filho herda o comportamento e
+o significado do caso de uso pai e no caso de
+uso filho deverá acrescentar ou sobrescrever
+o comportamento de seu pai.
+Il. Um relacionamento de inclusão entre casos de
+uso significa que o caso de uso base incorpora
+explicitamente o comportamento de outro
+caso de uso em uma localização especificada.
+O caso de uso base poderá permanecer
+isolado, mas, sob certas condições, seu
+comportamento poderá ser incluído pelo
+comportamento de outro caso de uso.
+Ill. Um relacionamento estendido entre casos de
+uso significa que o caso de uso base incorpora
+implicitamente o comportamento de outro
+caso de uso em um local especificado
+indiretamente pelo caso de uso estendido.
+O caso de uso estendido nunca permanece
+isolado, mas é apenas instanciado como parte
+de alguma base maior que o estende.
+IV. Um relacionamento estendido é utilizado
+para a modelagem da parte de um caso de
+uso que o usuário poderá considerar como
+um comportamento opcional do sistema e
+para a modelagem de um subfluxo separado,
+que é executado somente sob determinadas
+condições.
+É correto apenas o que se afirma em
+Oie
+Oie
+O ue.
+O Lev.
+O 1, ev.
+
+QUESTÃO 16
+Uma função é denominada recursiva quando
+ela é chamada novamente dentro de seu corpo.
+Implementações recursivas tendem a ser menos
+eficientes, porém facilitam a codificação e seu
+entendimento.
+CELES, W.; CERQUEIRA, R.; RANGEL, J. L. Introdução a estruturas de
+dados. Rio de Janeiro, 2004 (adaptado).
+Considere a função recursiva £ (), a qual foi escrita
+em linguagem C:
+int f( int v[]l, int n) (
+if (n == O)
+return O;
+else |
+f( v, n-1);
+if (v[n-1] > O)
+s=
+s=s+ v[n-1];
+1
+2
+3
+4
+5 int s;
+6
+7
+8 return s;
+9 )
+10
+Suponha que a função £() é acionada com os
+seguintes parâmetros de entrada:
+£(12,-4,7,0,-1,4),6);
+Nesse caso, o valor de retorno da função £ () será
+O 8.
+O 10.
+O 13.
+O 15.
+O i18
+
+QUESTÃO 19
+Requisitos funcionais e não funcionais podem definir
+características e funcionalidades presentes na
+interface a ser desenvolvida para um sistema.
+Em relação aos requisitos não funcionais, também
+chamados de requisitos de qualidade, avalie as
+afirmações a seguir.
+|. São levantados e elicitados após os requisitos
+funcionais, uma vez que os requisitos
+funcionais determinarão as funcionalidades
+da interface.
+Il. Sempre serão definidos de forma mais
+concreta, através de requisitos funcionais,
+uma vez que o usuário manipula na interface
+somente as funcionalidades levantadas.
+Ill. Podem
+funcionais.
+complementar os requisitos
+É correto o que se afirma em
+O 1l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Le.
+
+QUESTÃO 18
+Nos anos 70, os sistemas executavam em
+mainframes com aplicativos escritos em linguagens
+estruturadas e com todas as funcionalidades em
+um único módulo, com grande quantidade de
+linhas de código. Acessos a bancos de dados não
+relacionais, regras de negócios e tratamento de
+telas para terminais “burros” ficavam no mesmo
+programa. Posteriormente, uma importante
+mudança ocorreu: a substituição dos terminais
+“burros” por microcomputadores, permitindo
+que todo o tratamento da interface, e de algumas
+regras de negócios, passassem a ser feitas nas
+estações clientes. Surgiam as aplicações cliente-
+servidor. A partir dos anos 90, até os dias atuais,
+as mudanças foram mais radicais, os bancos de
+dados passaram a ser relacionais e distribuídos.
+As linguagens passaram a ser orientadas a objetos,
+cuja modelagem encapsula dados e oferece
+funcionalidades através de métodos. A interface
+passou a ser web. Vive-se a era das aplicações em
+três camadas.
+Considerando a evolução da arquitetura de software
+de sistemas de informação, conforme citado no texto
+acima, avalie as seguintes afirmações.
+|. A separação dos sistemas em três camadas
+lógicas torna os sistemas mais complexos,
+requerendo pessoal mais especializado.
+Il. A separação dos sistemas em três camadas
+lógicas torna os sistemas mais flexíveis,
+permitindo que as partes possam ser alteradas
+de forma independente.
+Ill. A separação dos sistemas em três camadas
+lógicas aumentou o acoplamento, dificultando
+a manutenção.
+É correto o que se afirma em
+O 1l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1I1el,.
+
+QUESTÃO 21
+O modelo lógico de dados fornece uma visão da
+maneira como os dados serão armazenados. A figura
+a seguir representa o modelo lógico de um ambiente
+observado em um escritório contábil.
+Em relação ao modelo, avalie as afirmações a seguir.
+|. A entidade Declaração Imposto de Renda é
+uma entidade fraca.
+Il. Orelacionamento entre Contribuinte e Malha
+Fina é do tipo N:M (muitos para muitos).
+Ill. O atributo CPF da entidade Contribuinte
+tem a função de chave estrangeira na
+entidade Declaração Imposto de Renda e no
+relacionamento Contribuinte MalhaFina.
+IV. A entidade Malha Fina não possui chave
+primária somente chave estrangeira.
+V. O relacionamento Contribuinte MalhaFina é
+um relacionamento ternário.
+É correto apenas o que se afirma em
+O Le.
+O LIlelv.
+O 1 IVev
+O 1,Iev.
+O ML, IVev.
+
+QUESTÃO 20
+Existem várias maneiras de se percorrer uma árvore
+binária. A função a seguir, escrita em pseudo-
+código, percorre uma árvore na ordem esquerda-
+raiz-direita, conhecida por varredura e-r-d recursiva.
+A função erd() recebe por parâmetro a raiz r
+de uma árvore, e faz uso de seus elementos esq,
+dir e cont, que representam, respectivamente,
+ponteiros para uma sub-árvore à esquerda de rr,
+uma sub-árvore à direita de r e o conteúdo de r,
+respectivamente.
+função erd (árvore r)
+(
+se (r
+(
+!= NULO )
+erd( r -—-> esq );
+escreva ( r-> conteúdo );
+erd( r -> dir );
+)
+Considere a árvore binária a seguir.
+A sequência correta de exibição do conteúdo da
+árvore utilizando a função erd () é
+O 5,3,8,0,1,7,2
+O 0,1,7,2,3,8,5
+O 0,3,5,1,7,8,2
+O 0,3,1,5,7,8,2
+O 2,7,8,5,0,3,1
+
+QUESTÃO 23
+Os termos inovação e empreendedorismo
+dizem respeito à prática da gestão e à mudança
+criativa. A inovação preocupa-se, sobretudo,
+com o desenvolvimento de produtos. Já o
+empreendedorismo dedica-se mais à questão da
+criação de pequenas empresas.
+Nesse contexto, avalie as afirmações a seguir.
+|. Inovação e sustentabilidade são processos
+antagônicos, já que a inovação contribui
+de forma importante para a degradação do
+meio ambiente devido à sua associação com
+o aumento do crescimento econômico e do
+consumo.
+Il. A exploração de um problema social
+transformado em uma oportunidade de
+negócio visando a geração de lucro ao
+empreendedor é um dos principais objetivos
+do empreendedorismo social.
+Ill. Nem todo resultado de um processo criativo
+está associado a uma inovação.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Oem.
+
+QUESTÃO 22
+O modelo relacional representa o banco de dados
+como uma coleção de relações (tabelas). Na
+terminologia formal do modelo relacional, uma linha
+é chamada de “tupla”, otítuloda coluna é denominado
+“atributo” e a tabela é chamada de “relação”. O tipo
+de dado que descreve os tipos de valores que podem
+aparecer em cada coluna é denominado “domínio”.
+Um banco de dados relacional pode impor vários
+tipos de restrições nos dados armazenados.
+ELMASR|, R.; NAVATHE, S. B. Sistema de Banco de Dados
+Fundamentos e Aplicações. Rio de Janeiro: LTC, 2002.
+Restrições que permitem controlar situações como,
+por exemplo, “o salário de um empregado não deve
+exceder o salário do supervisor do empregado” e
+utilizam mecanismos chamados triggers (gatilhos) na
+sua implementação, são do tipo
+O restrições de domínio.
+O restrições de unicidade.
+O restrições de integridade referencial.
+O restrições de integridade da entidade.
+O restrições de integridade semântica.
+
+QUESTÃO 26
+O serviço DNS (Domain Name System) traduz nomes
+alfanuméricos de hosts em endereços numéricos,
+de acordo com o protocolo IP (Internet Protocol).
+Essa ação é comumente chamada de resolução de
+endereço.
+TANENBAUM, A. S. Redes de Computadores.
+Rio de Janeiro: Campus, 2003 (adaptado).
+Considere um conjunto de computadores
+conectados em uma rede local, os quais têm à
+sua disposição um servidor DNS capaz de resolver
+endereços, sejam eles internos ou externos.
+Nesse contexto, avalie as afirmações a seguir.
+|. O servidor DNS também executa funções de
+cliente DNS quando não é autoritativo para
+determinado endereço.
+Il. A adoção do IPv6 (Internet Protocol, versão 6)
+dispensará serviços de DNS, pois suas funções
+serão incorporadas pelo próprio protocolo |P.
+IIl. O cache DNS permite que determinada
+requisição do cliente DNS possa ser resolvida
+sem que seja necessário recorrer a outro
+serviço DNS.
+IV. O protocolo DNS depende de um banco de
+dados distribuído.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O lelv
+O Lev.
+O uMel
+
+QUESTÃO 24
+O RUP (Rational Unified Process) é subdividido em
+Fases, que indicam a ênfase que é dada ao projeto
+em um dado instante, e em Fluxos de trabalho, que
+definem os grupos de atividades a serem realizadas
+ao longo das fases.
+Considerando que no desenvolvimento de software
+utilizam-se técnicas de análise e projeto orientado
+a objetos e que as atividades sejam distribuídas
+de acordo com o RUP, o momento que devem ser
+elaborados os diagramas de classes e de interação
+entre os objetos do sistema é
+O na fase de Concepção, no fluxo de Modelagem de
+negócios.
+O na fase de Elaboração, no fluxo de Análise e
+Design.
+O na fase de Concepção, no fluxo de Análise e
+Design.
+O na fase de Elaboração, no fluxo de Requisitos.
+O na fase de Concepção, no fluxo de Requisitos.
+
+QUESTÃO 25
+Aengenharia de software considera diversos aspectos
+para a garantia da qualidade. Os requisitos funcionais
+definem como um sistema deverá se comportar
+em relação as suas funcionalidades básicas, já os
+requisitos não funcionais avaliam outros aspectos do
+software.
+São exemplos de requisitos não funcionais a serem
+considerados em um software:
+O segurança, desempenho, estresse e sistema.
+O usabilidade, segurança, aceitação econfiabilidade.
+O usabilidade, segurança, desempenho e 
+confiabilidade.
+O segurança, aceitação, testabilidade e 
+confidencialidade.
+O usabilidade, confidencialidade, aceitação e
+confiabilidade.
+
+QUESTÃO 28
+A verificação e a validação de uma interface de
+usuário ocorre em três pontos distintos: análise,
+projeto e teste. Considerando um cenário de uma
+aplicação web, tal verificação pode ser realizada
+através de testes de interface, testes de usabilidade
+e testes de compatibilidade.
+PRESSMAN, R. Engenharia de Software: Uma Abordagem
+Profissional, 7 ed., Mc Graw Hill, 2011 (adaptado).
+Nesse contexto, avalie as afirmações a seguir.
+|. O teste de interface experimenta mecanismos
+de interação e valida aspectos estéticos
+da interface do usuário, apontando erros
+específicos de interface e erros na maneira
+como a interface implementa as semânticas
+de navegação, funcionalidade ou exibição de
+conteúdo.
+II.O teste de usabilidade avalia o grau com o qual
+os usuários podem interagir efetivamente
+com a aplicação e o grau em que a aplicação
+dirige as ações do usuário.
+III.O primeiro passo no teste de compatibilidade
+é definir uma série de configurações típicas
+encontradas do lado cliente e suas respectivas
+variantes, identificando características como
+plataforma, sistema operacional e navegador.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Lie.
+
+QUESTÃO 27
+O barramento é o elemento de conexão entre todos
+os componentes do computador, como memória,
+CPU e dispositivos de entrada e saída. O barramento
+de dados é o meio por onde serão trafegados os
+dados; o barramento de endereços transporta a
+informação do endereço do dispositivo que poderá
+acessar o barramento de dados; e o barramento de
+controle serve para determinar o sentido do fluxo de
+dados (se os dados são de entrada ou saída da CPU),
+e se os dados devem ser destinados à memória ou à
+dispositivos de 1/O e também para controlar o clock
+no barramento.
+STALLINGS, W. Arquitetura e Organização de Computadores. 8 ed.
+São Paulo: Pearson Pratice Hall, 2010 (adaptado).
+Considerando um computador com um barramento
+de dados de 4 bits e barramento de endereços de 3
+bits, ele poderá endereçar, respectivamente, quantas
+posições de memória e quantos dispositivos de 1/0?
+O 4e4.
+O 1e8.
+O 8e3.
+O Be.
+O 8 es.
+
+Utilizando a engenharia reversa nesse trecho de
+código, o diagrama UML de classes correspondente é
+
+QUESTÃO 29
+UML é uma linguagem padrão para desenvolver e
+documentar projetos de software e permite que
+desenvolvedores visualizem os produtos de seus
+trabalhos em diagramas padronizados. Ela surgiu
+como uma proposta de ser uma linguagem para
+modelagem de dados que usava diversos artefatos
+para representar o modelo de negócio e um desses
+artefatos é o diagrama de classes.
+PRESSMAN, R. S. Engenharia de software. 6 ed. Porto Alegre:
+Bookman, 2006 (adaptado).
+Se um projeto não tem a documentação apropriada
+ou se está com a documentação desatualizada, uma
+opção é a engenharia reversa que possibilita mapear
+códigos para diagramas UML. A seguir, é apresentado
+um código na linguagem de programação JAVA.
+package default;
+public class Funcionario extends Pessoa (
+public Funcionario(int rg, String nome,
+double
+1
+2
+3
+4 private double salario;
+5
+6
+7 salario) (
+8
+super (rg, nome);
+9 this.salario= salario;
+10 )
+11 public double getSalario() (
+12 return salario;
+13
+14 )
+15 public double obterSalario (double
+16 percentualAcrescimo) (
+17 double salarioReajustado = salario +
+18 salario * percentualAcrescimo / 100;
+19 return salarioReajustado;
+20
+21 )
+22 public double obterSalario (double
+23 adicional, double desconto) (
+24 return this.getSalario() + adicional — desconto;
+25
+26 )
+27)
+
+QUESTÃO 31
+Analise o fluxograma a seguir.
+Em relação à execução de testes de caixa branca
+sobre este fluxograma, avalie as afirmações a seguir.
+|. Os caminhos 1-2-3-4-5, 1-2-3-4-6, 1-2-3-7-9,
+1-2-3-7-8-9 formam um conjunto de caminhos
+de execução independentes.
+II. Ocálculode complexidade ciclomática fornece
+a quantidade de caminhos independentes a
+testar.
+III.Testes sobre caminhos independentes podem
+ser executados em programas procedurais,
+mas não podem ser executados em programas
+orientados a objetos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LI1el,.
+
+QUESTÃO 30
+A gerência de configuração de software, também
+chamada de gerência de mudança e configuração, é
+o processo que mantém atualizadas as informações
+dos elementos de configuração.
+A esse respeito, avalie as afirmações a seguir.
+|. A auditoria de software é um processo que
+consiste em verificar se a linha de base foi
+atendida ou se os requisitos do sistema foram
+atendidos.
+II. A linha de base é o marco de referência, a
+partir do qual serão feitos os controles de
+mudança, e pode ser a versão 1.0 de um
+software.
+III. Um item de configuração é um elemento
+unitário, que compõe aquele software e deve
+ser gerenciado.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1Iel,.
+
+QUESTÃO 33
+As vezes, garantia de qualidade significa
+simplesmente a definição de procedimentos,
+processos e padrões que visam reforçar que a
+qualidade de software seja atingida. Em outros
+casos, a garantia de qualidade também inclui todo
+o gerenciamento de configuração, atividades de
+verificação e validação aplicados após o produto ter
+sido entregue por uma equipe de desenvolvimento.
+SOMMERVILLE, |. Engenharia de Software. 9. ed., São Paulo, 2011, p.455.
+Qualquer alteração inserida no processo de
+desenvolvimento de software aumenta a
+amplitude de erros e tende a descaracterizar
+o projeto inicialmente planejado, afetando a
+qualidade do produto ou serviço. O controle e a
+garantia da qualidade de software visam satisfazer
+as necessidades dos stakeholders; assegurar que
+os requisitos dos usuários sejam atendidos pelas
+especificações dos produtos ou serviços; definir
+os processos para que o desenvolvimento do
+sistema atenda esses requisitos; gerenciar versões,
+mudanças, releases e a construção do sistema. A fim
+de assegurar a garantia da qualidade do software
+é indispensável definir um processo para controlar
+a documentação elaborada durante o processo de
+desenvolvimento.
+Considerando essa situação, avalie as afirmações a seguir.
+|. As técnicas de verificação e validação de
+software estabelecem a confiança de que
+o sistema que esteja sendo desenvolvido é
+adequado ao seu propósito.
+Il. A gerência de configuração provê pontos
+de controle sobre os artefatos produzidos e
+modificados por diferentes recursos.
+IIl. O gerenciamento de mudanças deve
+documentar a detecção de bugs e problemas
+introduzidos após a construção de uma nova
+versão do software.
+IV. Faz parte das atribuições da equipe de
+garantia de qualidade examinar se os testes
+do sistema proporcionam cobertura dos
+requisitos e manter registros adequados do
+processo de teste.
+V. A revisão de software tem por objetivo
+armazenar os documentos num repositório
+central.
+É correto apenas o que se afirma em
+OU, IVev
+
+QUESTÃO 32
+Vivemos em um mundo de produtos de alta
+tecnologia e praticamente todos requerem interação
+humana. Para que um produto de software seja
+bem-sucedido, deve apresentar boa usabilidade.
+Se os mecanismos de interface tiverem sido bem
+projetados, o usuário flui suavemente através da
+interação usando um ritmo cadenciado que permite
+que o trabalho seja realizado sem grandes esforços.
+Entretanto, se ainterfacefor mal concebida, o usuário
+se move aos trancos e barrancos, e o resultado será
+frustração e baixa eficiência no trabalho.
+Três regras de ouro são a base para um conjunto de
+princípios para o projeto de interfaces do usuário:
+1 — deixar o usuário no comando;
+2 — reduzir a carga de memória do usuário;
+3 — tornar a interface consistente.
+PRESSMAN, R. S.; Engenharia de Software: uma abordagem
+profissional. 7 ed., McGraw Hill,2011, p. 287-288 (adaptado).
+Com base nessas três regras, avalie as afirmações a
+seguir.
+|. Um sistema que permita ao usuário desfazer
+qualquer ação, respeita a regra de ouro 1.
+Il. Um sistema de pagamento de contas que
+usa uma imagem de um cartão de crédito
+para orientar o usuário pelo processo de
+pagamento de uma conta, respeita a regra de
+ouro 2.
+Ill. Um conjunto de aplicações ou produtos que
+implementam as mesmas regras de projeto
+de modo padronizado, respeita a regra de
+ouro 3.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1LIelm.
+
+QUESTÃO 35
+José discutindo futebol com João declarou que se
+o time X venceu o último jogo, então o time Y é
+campeão. João depois de algumas horas descobriu
+que a declaração era falsa. Em consequência, teve
+certeza de que é verdade que
+O o time X não venceu o último jogo e o time Y é
+campeão.
+O o time X venceu o último jogo e o time Y não é
+campeão.
+O ou o time X não venceu o último jogo ou o time
+Yé campeão.
+O otime X não venceu o último jogo e o time Y não
+é campeão.
+O se o time Y não é campeão, então o time X não
+venceu o último jogo.
+
+QUESTÃO 34
+O gerenciamento de projetos de sistemas é
+essencial para a engenharia de software. Um mau
+gerenciamento acarreta atraso na entrega do
+programa, custo maior do que o programado e falha
+no atendimento aos requisitos. O quadro a seguir
+representa de forma hipotética algumas tarefas
+de um projeto de desenvolvimento de software.
+Esse quadro mostra as atividades, sua duração e as
+respectivas interdependências.
+Com base na análise do quadro, o tempo mínimo
+necessário para terminar o projeto é de
+O 13 dias.
+O 15 dias.
+O 16 dias.
+O 20 dias.
+O 28 dias.
+

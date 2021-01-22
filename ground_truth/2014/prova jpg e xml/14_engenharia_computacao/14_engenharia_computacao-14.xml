@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:17:23</Created>
+	<LastChange>2020-11-21T19:30:17</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-14.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="832,238 1003,238 1003,294 1538,294 1538,1768 1322,1768 1322,1853 956,1853 956,1984 965,1984 965,2013 833,2013 833,2014 832,2014 832,1778 880,1778 880,1195 831,1195 831,1130 832,1130"/>
+	<TextEquiv conf="0.96593">
+	<Unicode>QUESTÃO 13
+Engenheiros de uma empresa holandesa encontraram
+uma maneira de fazer com que os elevadores terrestres
+subam até o topo de edifícios com 1 000 metros de
+altura, pois os cabos de aço usados nos elevadores atuais
+só conseguem alçá-los a alturas de, aproximadamente,
+500 metros. Isso será possível com a criação de um
+novo cabo superleve e superforte, ou seja, uma espécie
+de cinta, tecida com fibras de carbono. Em vez dos fios
+de aço entrelaçados usados nos cabos de aço comuns,
+a cinta é formada por quatro fitas de fibra de carbono
+seladas em plástico transparente. O plástico é necessário
+para proteger do atrito as fibras de carbono e aumentar
+a vida útil do conjunto. Cada fita tem 4 centímetros de
+largura por 4 milímetros de espessura. Elas são parecidas
+com uma régua escolar flexível. Esse novo material
+supera ligeiramente a resistência à tensão do aço, mas
+pesa sete vezes menos que o atualmente usado. Assim,
+a força gasta para sustentar o peso do próprio cabo
+passa a ser aplicada para sustentar apenas o elevador, e
+o consumo de energia dos elevadores também é cerca
+de 15% menor do que os anteriores.
+Disponível em: &lt;http://www.inovacaotecnologica.com.br&gt;.
+Acesso em: 27 jul. 2014 (adaptado).
+Tendo em vista a situação descrita, avalie as
+afirmações a seguir.
+|. O cabo de fibra de carbono suporta elevadas
+cargas devido à sua elevada resistência à tração.
+Il. A fibra de carbono torna o cabo bem mais
+flexível, o que, aliado a sua resistência à tração,
+proporciona a esse material uma vantagem
+em relação aos cabos de aço convencionais.
+Ill. A relação resistência/peso do cabo de fibra de
+carbono assegura vantagem desse material em
+relação aos cabos de aço, pois a economia do peso
+próprio do cabo pode ser usada para sustentar o
+elevador e reduzir o consumo de energia.
+IV. Apesar da resistência à tensão ser apenas
+ligeiramente maior no cabo de fibra de
+carbono, a vantagem principal de seu uso é a
+alta relação resistência/peso.
+É correto apenas o que se afirma em
+o.
+oO.
+Biel.
+O llelv.
+O lllelv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,293 790,293 790,1792 702,1792 702,2012 84,2012 84,1792 83,1792 83,1110 84,1110"/>
+	<TableRegion id="r2">
+	<Coords points="78,1202 78,1639 794,1639 794,1202"/></TableRegion>
+	<ImageRegion id="r3">
+	<Coords points="173,589 173,1092 686,1092 686,589"/></ImageRegion>
+	<TextEquiv conf="0.96400">
+	<Unicode>QUESTÃO 12
+Um ambiente termicamente confortável é uma das
+condições que devem ser consideradas em projetos
+de edificações. A fim de projetar um ambiente interno
+com temperatura de 20ºC para uma temperatura
+externa média de 35ºC, um engenheiro considerou,
+no dimensionamento, um fluxo de calor através de
+uma parede externa de 105 W/m?, conforme ilustra
+a figura abaixo.
+A tabela a seguir apresenta os valores da condutividade
+térmica para alguns materiais de construção.
+A fim de se obter a temperatura interna desejada,
+qual deve ser o material selecionado, entre os
+apresentados na tabela acima, para composição da
+parede externa?
+O Concreto.
+O Pedra natural.
+O Placa de madeira prensada.
+O Placa com espuma rígida de poliuretano.
+O Placa de aglomerado de fibras de madeira.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="810,239 810,2018 813,2018 813,239"/></SeparatorRegion></Page></PcGts>

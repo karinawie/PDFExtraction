@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:45:59</Created>
+	<LastChange>2020-10-28T16:55:16</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-26.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 409,235 409,738 1536,738 1536,896 1535,896 1535,1056 1534,1056 1534,1100 145,1100 145,1059 144,1059 144,976 82,976 82,899 81,899"/>
+	<TextEquiv conf="0.95820">
+	<Unicode>QUESTÃO DISCURSIVA 3
+A figura 1 mostra a visão lateral do osso sacro e toda a sua extensão que dá sequência e finaliza com o
+cóccix. Ao interpretar anatomicamente essa imagem, verificamos as curvaturas particulares desse segmento
+que faz parte da coluna vertebral. Essas curvaturas devem ser observadas pelo profissional no momento
+da execução do protocolo. Para a realização desse procedimento, deve se dar uma atenção especial ao
+direcionamento do raio central.
+Considerando a diferença anatômica da pelve masculina em relação à pelve feminina, faça o que se pede
+nos itens abaixo.
+a) Descreva a(s) angulação(ões) e direção do raio-central para pelve masculina e para a pelve
+feminina. (valor: 3,0 pontos)
+b) Relacione a anatomia dessa região e a projeção em película com imagens radiológicas. (valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="239,276 239,671 686,671 686,276"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="974,276 974,671 1421,671 1421,276"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:43:36</Created>
+	<LastChange>2020-11-21T03:52:32</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,1699 833,1699 833,1698 832,1698 832,1177 831,1177 831,298 832,298"/>
+	<TableRegion id="r3">
+	<Coords points="826,468 826,1086 1531,1086 1531,468"/></TableRegion>
+	<TextEquiv conf="0.96726">
+	<Unicode>QUESTÃO 30
+Ao acompanhar os serviços de implantação de uma
+rodovia, um fiscal mandou suspender os serviços
+em 4 trechos distintos por ter encontrado as falhas
+apresentadas no quadro a seguir.
+Os serviços em que foram identificadas as falhas nos
+trechos 1, 2, 3 e 4, respectivamente, são
+O imprimação, execução da base, execução da sub-
+base e aplicação da lama asfáltica.
+O imprimação, execução da sub-base, execução da
+base e aplicação da lama asfáltica.
+O imprimação, execução da base, execução da sub-
+base e aplicação do microrrevestimento.
+O aplicação da pintura de ligação, execução da
+base, execução da sub-base e aplicação do
+microrrevestimento.
+O aplicação da pintura de ligação, execução da
+sub-base, execução da base e aplicação do
+microrrevestimento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="84,238 255,238 255,297 790,297 790,520 789,520 789,655 790,655 790,1370 470,1370 470,1478 330,1478 330,1586 346,1586 346,1665 470,1665 470,1586 470,1665 85,1665 85,1664 84,1664 84,1390 132,1390 132,924 133,924 133,795 132,795 132,623 85,623 85,622 84,622 84,519 83,519 83,296 84,296"/>
+	<TextEquiv conf="0.96600">
+	<Unicode>QUESTÃO 29
+Os reservatórios têm por finalidade acumular parte
+das águas disponíveis nos períodos chuvosos como
+forma de prevenir a falta de água nos períodos de
+seca (estiagem). Um reservatório, sob o ponto de
+vista de sua forma, possui níveis e volumes d'água
+característicos, bem como capacidade de reserva.
+Com relação aos níveis e volumes dos reservatórios,
+avalie as seguintes afirmações.
+|. O nível de água máximo operacional de um
+reservatório corresponde à cota máxima
+permitida para a operação normal do
+reservatório.
+Ill. O nível de água mínimo operacional de um
+reservatório corresponde à cota mínima
+necessária para a operação do reservatório.
+Il. O volume morto de um reservatório
+corresponde à parcela do seu volume total
+inativa ou indisponível para fins de captação
+de água, compreendido entre o nível de água
+mínimo operacional e o nível de água máximo
+operacional, que deve ser preservado para
+emergências.
+IV. O volume útil de um reservatório corresponde
+ao volume compreendido entre os níveis
+de água mínimo operacional e máximo
+operacional, descontado o volume morto.
+É correto o que se afirma em
+O |V, apenas.
+O lell, apenas.
+O lllelV, apenas.
+O |, Il elll, apenas.
+O1LI,Melv</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,234 805,2015 802,2015 802,234"/></SeparatorRegion></Page></PcGts>

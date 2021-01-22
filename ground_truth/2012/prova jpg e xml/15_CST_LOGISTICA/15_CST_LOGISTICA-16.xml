@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T19:26:59</Created>
+	<LastChange>2020-11-18T19:42:26</LastChange></Metadata>
+	<Page imageFilename="15_CST_LOGISTICA-16.jpg" imageWidth="1615" imageHeight="2165">
+	<TextRegion id="r62" type="paragraph">
+	<Coords points="80,1519 1535,1519 1535,1744 1533,1744 1533,1827 1127,1827 1127,1970 1455,1970 1455,1995 81,1995 81,1994 80,1994 80,1855 83,1855 83,1744 80,1744 80,1743 79,1743 79,1571 80,1571"/>
+	<TextEquiv conf="0.13452">
+	<Unicode>QUESTÃO 30
+A empresa XYZ está com elevado custo anual com relação aos estoques de um produto. Com o objetivo de minimizar o
+custo total anual, a empresa decidiu adotar, como regra de decisão para o tamanho do lote, a quantidade econômica
+de pedido (Q*) para o produto. A demanda trimestral do produto é de 5 000 unidades, comprado de um fornecedor
+por R$ 100,00 a unidade. O custo para emitir um pedido ao fornecedor é de R$ 5,00 por pedido e cada unidade do
+produto tem um custo de armazenagem de 5% ao ano. A quantidade econômica de pedido é calculada pela fórmula
+Q=./ DP , em que D é a demanda por unidade de tempo, P é o custo de emissão de pedidos por pedido,
+m.e
+m é a taxa de custo de armazenagem e c é o custo unitário do item.
+Com base nessas informações, qual é, em unidades, a quantidade econômica de pedido?
+O o. O 20. Q&amp; 100. O 200. OQ 1000.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="80,176 81,176 81,177 1535,177 1535,255 726,255 726,1003 980,1003 980,1135 1533,1135 1533,1199 529,1199 529,1287 235,1287 235,1475 80,1475"/>
+	<TextEquiv conf="0.81275">
+	<Unicode>QUESTÃO 29
+O gráfico mostra o perfil do estoque de um produto durante 25 semanas. Sabe-se que o tempo de ressuprimento é de 3 semanas.
+Com base nesses dados, avalie as afirmações abaixo.
+|. Ademanda semanal do produto é constante.
+Il. O ponto de ressuprimento é de 1 800 unidades.
+Ill. O modelo de gestão de estoque é o Sistema de Revisão Contínua.
+IV. Os tamanhos dos pedidos foram de 2600, 3200 e 3400 unidades, tendo sido entregues nas semanas 8,
+14 e 21, respectivamente.
+É correto apenas o que se afirma em
+O Ie.
+Oie
+O em.
+O Lilelv.
+O 1Meiv</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:47:58</Created>
+	<LastChange>2020-10-28T17:02:44</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-16.jpg" imageWidth="1613" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="81,1982 81,2025 82,2025 82,1982"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="829,235 1000,235 1000,291 1535,291 1535,721 1536,721 1536,1713 1320,1713 1320,1766 945,1766 945,1879 979,1879 979,1926 1029,1926 1029,2003 830,2003 830,1787 831,1787 831,1731 876,1731 876,1572 878,1572 878,698 831,698 831,697 830,697 830,573 829,573"/>
+	<TextEquiv conf="0.96619">
+	<Unicode>QUESTÃO 22
+Desde a sua descoberta, em 1895, o uso dos
+raios-X tem se intensificado, e o avanço tecnológico
+vem propiciando profundas alterações nas técnicas
+de produção e de interpretação das imagens médicas,
+visando principalmente à melhoria da qualidade dos
+diagnósticos radiológicos. O profissional das técnicas
+radiológicas deve acompanhar essa evolução, desde as
+imagens analógicas em filmes até as imagens digitais.
+Com base nos conceitos de produção e atenuação
+dos raios-X e nos princípios de funcionamento dos
+equipamentos radiológicos, avalie as afirmações a seguir.
+l. Na radiografia computadorizada indireta,
+uma imagem radiográfica digital é gerada em
+um equipamento de radiologia convencional
+utilizando um chassi com écran de fósforo
+e digitalizando a imagem latente produzida
+após a exposição radiográfica.
+Ill. Na radiografia digital direta, os fótons de
+raios-X, ao interagirem com o cintilador, são
+convertidos em feixes de luz e em seguida em
+sinais elétricos.
+Ill. O catodo, que corresponde ao polo negativo,
+é composto de duas partes: o filamento e a
+capa focalizadora; nele são produzidos feixes
+de elétrons, liberados e acelerados por uma
+diferença de potencial até atingirem um pequena
+área no alvo, onde são produzidos os raios-X.
+IV O coeficiente de atenuação linear pode
+ser medido em projeções de tomografia
+computadorizada e corresponde à fração do
+feixe de radiação que é atenuada ao atravessar
+materiais de diferentes espessuras e densidades;
+seu valor aumenta com a penumbra do feixe.
+V. O selênio amorfo é um material fotocondutor
+de raios-X e permite a conversão indireta dos
+fótons em carga elétrica, gerando sinais para
+a formação da imagem analógica.
+É correto apenas o que se afirma em
+Oielv
+Oiliev
+O 1L1e,
+O LI, IVev.
+Qu, IvVev</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,292 787,292 787,491 788,491 788,1724 468,1724 468,1832 311,1832 311,1934 319,1934 319,2026 371,2026 371,2096 80,2096 80,2026 82,2026 82,1746 130,1746 130,630 82,630 82,467 81,467"/>
+	<TextEquiv conf="0.94108">
+	<Unicode>QUESTÃO 21
+Nos serviços de medicina nuclear, a aplicação
+terapêutica com iodo-131 requer cuidados especiais
+para evitar contaminação por esse tipo de material
+radioativo, o que poderia ocasionar exposição
+radiológica aos usuários e profissionais.
+Considerando os requisitos de proteção radiológica
+e segurança da Comissão Nacional de Energia Nuclear
+(CNEN) para serviços de medicina nuclear disposto na
+Norma CNEN 3.05/96, avalie as afirmações a seguir.
+l. No momento do preparo e administração
+do iodo-131, o profissional deverá utilizar
+corretamente seu dosímetro individual,
+usar luvas descartáveis e avental (jaleco).
+Ao término do trabalho, deverá realizar o
+monitoramento das vestimentas e mãos com
+monitor de contaminação. Caso se verifique
+presença de contaminação por iodo-131
+nas referidas vestimentas, o profissional
+deverá guardá-las cuidadosamente em sacos
+plásticos, tomando o devido cuidado ao
+transportá-las para sua residência e lavá-las
+separadamente de outras vestimentas.
+Il. Pacientes que receberam doses de iodo-131,
+cuja atividade seja superior a 1,11 Gbgq (30 mci),
+devem ser internados em quartos com banheiro
+privativo. Caso seja necessário, é possível que dois
+pacientes internados dividam o mesmo quarto
+terapêutico, com a utilização de barreira blindada
+protetora entre os leitos (biombo blindado).
+Ill. No quarto terapêutico, objetos passíveis
+de contaminação (telefone, maçanetas,
+interruptores e outros) deverão ser protegidos
+com papel toalha ou similares. O paciente
+poderá ser liberado do quarto terapêutico
+somente quando a atividade do iodo-131 estiver
+igual ou abaixo de zero (0,0) Gbq (0,0 mCi). Após
+sua saída, o quarto deverá ser avaliado com
+monitor de contaminação de superfície.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+OIE,
+CON n pon nn</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="807,2023 807,236"/></SeparatorRegion></Page></PcGts>

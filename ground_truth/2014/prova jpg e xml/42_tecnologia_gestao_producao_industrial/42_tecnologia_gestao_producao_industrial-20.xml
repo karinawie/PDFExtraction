@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:12:00</Created>
+	<LastChange>2020-12-06T03:20:53</LastChange></Metadata>
+	<Page imageFilename="42_tecnologia_gestao_producao_industrial-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,579 1600,579 1600,661 1599,661 1599,1237 1280,1237 1280,1349 1123,1349 1123,1460 1132,1460 1132,1539 894,1539 894,1259 942,1259 942,766 893,766 893,697 975,697 975,548 892,548 892,359 893,359"/>
+	<TextEquiv conf="0.96230">
+	<Unicode>QUESTÃO 23
+A variabilidade total presente em um conjunto de
+valores obtidos com um instrumento de medição é
+resultante da combinação da variabilidade inerente
+ao processo produtivo (de peça para peça) e da
+variabilidade inerente à medição.
+COSTA, A. F. B.; EPPRECHT, E. K.; CARPINETTI, L. C. R. Controle
+Estatístico de Qualidade. 2 ed. São Paulo: Atlas, 2012,
+p. 145 (adaptado).
+Com relação à variabilidade de sistemas de medição,
+avalie as seguintes afirmações.
+|. Repetitividade é o grau de concordância
+entre resultados de medições sucessivas de
+um mesmo mensurando, sob as mesmas
+condições de medição.
+Il. Reprodutibilidade dos resultados de medição
+é o grau de concordância entre os resultados
+das medições de um mesmo mensurando,
+efetuadas sob condições variadas de medição.
+Ill. A variância inerente à medição é o somatório
+da variância da repetitividade e da variância
+da reprodutibilidade.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O leilll, apenas.
+O Il elll, apenas.
+O Lite.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 852,359 852,862 851,862 851,1057 850,1057 850,1170 851,1170 851,1368 532,1368 532,1423 335,1423 335,1542 384,1542 384,1669 146,1669 146,1446 147,1446 147,1389 194,1389 194,1057 146,1057 146,1056 145,1056 145,987 204,987 204,863 145,863"/>
+	<TextEquiv conf="0.95055">
+	<Unicode>QUESTÃO 22
+A lei da política nacional de resíduos sólidos, que
+responsabiliza fabricantes pelo descarte de produtos
+após o consumo, obriga as empresas a planejar
+estrategicamente o desenvolvimento dos produtos e
+serviços. Há necessidade de repensar os processos
+de negócio desde a concepção do produto até um
+novo modelo comercial (além de vender, as empresas
+negociam o direito de uso por um período ou cobram
+pela sua manutenção ou pela intensidade de uso).
+Pode-se chamar de economia circular, em que todos
+os produtos duráveis devem ser desenvolvidos com
+o propósito de se transformar em outros ao fim de
+sua vida útil.
+FRANÇA, R. Um novo fim para a sucata. Exame, São Paulo, n. 11,
+edição 1067, jun. 2014, p. 102-105 (adaptado).
+Considerando esse contexto, avalie as afirmações
+a seguir.
+|. A logística reversa pode ser responsável pela
+fabricação de produtos.
+Il. Existe aumento de tarefas, ocasionando
+aumento de custos de produção.
+Ill. O desenvolvimento de um produto deve
+utilizar materiais e desenho de peças que
+facilitem sua reciclagem no futuro.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 1I1e.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,2080 872,286"/></SeparatorRegion></Page></PcGts>

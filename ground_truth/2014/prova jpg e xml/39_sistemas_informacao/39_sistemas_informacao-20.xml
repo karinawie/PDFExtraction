@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:56:23</Created>
+	<LastChange>2020-12-06T02:04:43</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="893,299 1064,299 1064,363 1600,363 1600,518 1599,518 1599,1291 1384,1291 1384,1403 1026,1403 1026,1524 1059,1524 1059,1605 894,1605 894,1314 988,1314 988,1163 942,1163 942,1134 987,1134 987,981 942,981 942,980 943,980 943,817 942,817 942,619 894,619 894,618 893,618"/>
+	<TextEquiv conf="0.96311">
+	<Unicode>QUESTÃO 22
+As transações eletrônicas na Internet precisam
+de mecanismos de segurança capazes de garantir
+autenticidade, confidencialidade e integridade das
+informações.
+Com relação a esse contexto, avalie as afirmações
+a seguir.
+|. Criptografia assimétrica é um método em que
+é utilizado um par de chaves: uma pública e
+uma privada.
+ll. Certificado “digital é um documento
+eletrônico assinado digitalmente que
+permite associar uma pessoa ou entidade a
+uma chave pública.
+III. Assinatura digital é um método de
+autenticação de informação digital
+tipicamente tratado como análogo à
+assinatura física em papel.
+IV. VPN (Virtual Private Network) é um
+dispositivo de uma rede de computadores
+por meio do qual se aplica uma política de
+segurança a determinado ponto da rede.
+É correto apenas o que se afirma em
+Oie
+Oie
+O Meiv.
+O 1t11e.
+O 1, Ielv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="145,1066 316,1066 316,1126 852,1126 852,1355 488,1355 488,1474 528,1474 528,1522 533,1522 533,1570 584,1570 584,1602 146,1602 146,1355 145,1355"/>
+	<TextEquiv conf="0.96629">
+	<Unicode>QUESTÃO 21
+Um gerente de projetos acabou de assumir um
+projeto em andamento, em que foram identificados
+vários problemas. Os recursos são limitados e, por
+isso, é necessário priorizar os problemas a serem
+solucionados. Nessa situação, a ferramenta que o
+gerente deve utilizar é
+O o gráfico de controle.
+O o diagrama de pareto.
+O o diagrama de dispersão.
+O a amostragem estatística.
+O o diagrama de causa e efeito.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,359 851,359 851,782 621,782 621,907 661,907 661,955 749,955 749,1003 850,1003 850,1035 849,1035 849,1036 146,1036 146,782 144,782 144,359 145,359"/>
+	<TextEquiv conf="0.94737">
+	<Unicode>QUESTÃO 20
+A Internet se encontra organizada em Sistemas
+Autônomos (SA), que são administrados
+autonomamente por uma entidade ou organização.
+Para que uma comunicação ocorra com Sucesso
+entre hospedeiros situados em SAs diferentes,
+é necessário que pacotes sejam eficientemente
+transportados do SA origem ao SA destino.
+Protocolos de roteamento são responsáveis pelo
+estabelecimento de rotas a serem seguidas pelos
+pacotes. Para que essas rotas sejam estabelecidas,
+deve-se usar
+O Border Gateway Protocol (BGP).
+O Open Shortest Path First (OSPF).
+O Routing Information Protocol (RIP).
+O Interior Gateway Routing Protocol! (IGRP).
+O Intermediate System To Intermediate System (IS-IS).</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="875,288 875,2086 872,2086 872,288"/></SeparatorRegion></Page></PcGts>

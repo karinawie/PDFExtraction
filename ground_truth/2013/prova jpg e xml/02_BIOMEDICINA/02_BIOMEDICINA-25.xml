@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:20:54</Created>
+	<LastChange>2020-09-25T03:42:28</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-25.jpg" imageWidth="1610" imageHeight="2164">
+	<ImageRegion id="r1">
+	<Coords points="80,270 80,802 789,802 789,270"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="78,232 249,232 249,838 588,838 588,891 784,891 784,1146 785,1146 785,1372 784,1372 784,1754 79,1754 79,867 78,867"/>
+	<TextEquiv conf="0.96395">
+	<Unicode>QUESTÃO 32
+A imagem apresentada corresponde a
+O radiografia, cuja nitidez depende das condições
+técnicas durante a execução do exame e é dada
+pela diferença entre as áreas claras e escuras.
+O radiografia, cuja radiação difusa, formada durante
+a atenuação do feixe de raios-X no corpo, pode
+influenciar na qualidade da imagem.
+O tomografia computadorizada, na qual os elétrons
+são coletados por um cristal cintilador ou uma
+fotomultiplicadora que converte a energia
+dissipada em luz, correspondendo à área
+radiopaca, em que não ocorre passagem do feixe
+de elétrons.
+O ressonância magnética, na qual o segmento
+do paciente é separado, eliminando-se a
+superposição de estruturas adjacentes que
+ocorre na radiografia convencional.
+O ultrassonografia, na qual substâncias ou cristais
+piezoelétricos mudam de formato ou vibram
+quando submetidos à corrente elétrica alternada;
+a vibração produz o ultrassom, visualizado como
+uma imagem anecoica.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="826,465 826,665 1547,665 1547,465"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="826,233 997,233 997,293 1532,293 1532,1399 1368,1399 1368,1437 873,1437 873,1436 872,1436 872,1396 827,1396 827,992 826,992"/>
+	<TextEquiv conf="0.96581">
+	<Unicode>QUESTÃO 33
+Transmitidos através da picada de insetos, alguns
+protozoários são capazes de causar parasitoses em
+seres humanos, utilizando como habitat a corrente
+sanguínea.
+A figura acima apresenta algumas das fases do
+ciclo de vida de um protozoário parasita, instalado
+no interior de um glóbulo vermelho.
+Considerando a figura, assinale a opção que
+apresenta, respectivamente, os nomes do agente
+etiológico, do vetor e da doença provocada pelo
+protozário ilustrado.
+O Plasmodium sp., barbeiro Triatoma infestans,
+malária.
+O Plasmodium sp., fêmea do mosquito Anopheles sp.,
+malária.
+(O)
+Trypanossoma cruzi,
+doença de Chagas.
+barbeiro Triatoma Ssp.,
+o
+Leishmania sp., fêmea do mosquito Lutzomyia sp.,
+leishmaniose.
+o
+Trypanossoma cruzii fêmea do
+Anopheles sp., doença de Chagas.
+mosquito</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="800,234 800,2018 807,2018 807,234"/></SeparatorRegion></Page></PcGts>

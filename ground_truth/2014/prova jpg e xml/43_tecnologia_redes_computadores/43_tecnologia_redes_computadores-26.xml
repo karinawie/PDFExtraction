@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:31:47</Created>
+	<LastChange>2020-12-06T03:38:45</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,299 317,299 317,359 1599,359 1599,1670 636,1670 636,1781 303,1781 303,2070 146,2070 146,549 144,549 144,359 145,359"/>
+	<ImageRegion id="r1">
+	<Coords points="463,563 463,1172 1597,1172 1597,563"/></ImageRegion>
+	<TextEquiv conf="0.96202">
+	<Unicode>QUESTÃO 28
+Quando o artigo Time Sharing Processing in Large Fast Computers, foi publicado na Conferência Internacional
+de Processamento de Informação, realizada em Nova York, no ano de 1959, surgiu a ideia da virtualização. No
+trabalho apresentado, o foco era o uso da multiprogramação em tempo compartilhado, assim estabelecendo um
+novo conceito na utilização dos computadores de grande porte. A figura a seguir apresenta o posicionamento
+da camada de abstração (virtualização).
+Em relação aos conceitos e características de virtualização e o seu uso como tecnologia emergente atualmente
+nas empresas, avalie as afirmações a seguir.
+|. A virtualização pode ser utilizada para algumas finalidades tais como: implementar a consolidação de
+servidores, reduzir custos, prover alta disponibilidade, implementar uma solução para recuperação de
+desastres e simplificar testes no desenvolvimento de softwares.
+Ill. Os serviços de data centers oferecem segurança, economia e produtividade para empresas que
+precisam de infraestrutura atualizada para seus servidores. A virtualização é a tecnologia central de
+um data center.
+III.A camada de virtualização de servidores mais conhecida é o Hipervisor ou Monitor de Máquina Virtual
+(Virtual Machine Monitor).
+IV. São exemplos de tipos de virtualização: virtualização completa, paravirtualização e virtualização
+incompleta.
+É correto apenas o que se afirma em
+Oie
+Ole.
+O ueiv.
+O 1L,11e.
+O LIMMelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

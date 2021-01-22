@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:36:41</Created>
+	<LastChange>2020-11-22T01:58:49</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,1068 1537,1068 1537,1383 1377,1383 1377,1441 624,1441 624,1871 579,1871 579,1985 85,1985 85,1984 84,1984 84,1441 83,1441 83,1411 84,1411"/>
+	<TextEquiv conf="0.62609">
+	<Unicode>QUESTÃO 21
+O desenvolvimento de modelos matemáticos é de fundamental importância para a análise dinâmica das
+máquinas. O sistema vibratório amortecido mostrado na figura acima apresenta coeficiente de rigidez
+k, coeficiente de amortecimento c, massa m e representa um sistema de um grau de liberdade que
+apresentará movimento vertical a partir de sua linha de equilíbrio estático, com coordenada generalizada x (t).
+O movimento acontecerá por meio de um desbalanceamento rotativo (m,.h), sendo m, a massa desbalanceada
+e h a distância de m, ao centro de rotação. Observa-se que a massa m do sistema inclui o desequilíbrio m,.
+O sistema apresenta frequência de excitação de 600 rpm. Dados: m = 10 kg, k = 120 N/m, c = 50 N.s/m,
+(m,.h) = 0,01 kg.m.
+A equação de movimento diferencial e a frequência natural do sistema, em rad/s, são dados por
+O 10% + 50% + 120% = 47º sen20nt
+wn = VI12rad/s
+OQ sen 600 t
+wn = 6rad/s
+OQ +10 +36xr = 40sen600t
+wn = VI2rad/s
+O 10% + 100% + 360% = 207º sen600t
+wn = 6rad/s
+O +10 + 36x =0,47ºsen20mnt
+wn = 6rad/s</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="486,289 486,1036 1544,1036 1544,289"/></ImageRegion></Page></PcGts>

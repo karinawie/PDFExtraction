@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:46:17</Created>
+	<LastChange>2020-11-21T04:04:01</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="caption">
+	<Coords points="83,238 411,238 411,298 1539,298 1539,688 1537,688 1537,855 1356,855 1356,919 85,919 85,918 84,918 84,854 83,854 83,687 82,687 82,297 83,297"/>
+	<TextEquiv conf="0.96199">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Suponha que o responsável pela compra de insumos para uma obra depara-se com a necessidade de
+aquisição de 420 m? para uma concretagem ininterrupta. Ele consultou 3 usinas de concreto próximas da obra
+e nenhuma delas tinha capacidade de fornecer os 420 m? em um único dia. A usina “A” possui caminhões que
+transportam até 6 m? cada um e uma capacidade diária de fornecer 120 m?; a usina “B” possui caminhões que
+transportam até 8 m? de concreto cada um e uma capacidade diária de fornecer 240 m?; e, por fim, a usina
+“C” possui caminhões que transportam até 7 m? de concreto cada um e uma capacidade diária de fornecer
+140 m?. Na cotação, os preços apurados foram os seguintes: caminhão com 6 m? da usina “A” (R$ 1 560,00);
+caminhão com 8 m? da usina “B” (R$ 2 160,00); e caminhão com 7 m? da usina “C” (R$ 1 750,00). As usinas
+conseguem montar uma rotina conjunta de tal forma que a concretagem seja sequencial e ininterrupta, ou
+seja, conseguem trabalhar em conjunto sem perda de qualidade e paralisação da concretagem.
+Com base nas informações acima, faça o que se pede nos itens a seguir.
+a) Modele o problema (quantidade de caminhões de cada usina) de modo a determinar o menor custo para
+a operação, respeitando-se as restrições impostas (serviços a serem contratados). (valor: 7,0 pontos)
+b) Determine o custo dessa operação, apresentando os cálculos realizados. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

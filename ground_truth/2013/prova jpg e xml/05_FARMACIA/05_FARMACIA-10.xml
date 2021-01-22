@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T14:10:05</Created>
+	<LastChange>2020-09-25T16:27:28</LastChange></Metadata>
+	<Page imageFilename="05_FARMACIA-10.jpg" imageWidth="1614" imageHeight="2165">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="81,235 251,235 251,236 252,236 252,295 1535,295 1535,402 1245,402 1245,403 954,403 954,404 590,404 590,443 82,443 82,404 81,404"/>
+	<TextEquiv conf="0.96876">
+	<Unicode>QUESTÃO 11
+O cortisol é o glicocorticoide endógeno, a partir do qual foram sintetizados inúmeros análogos que são
+clinicamente utilizados como anti-inflamatório, no tratamento do choque anafilático, como imunossupressor,
+entre outras finalidades. Estruturas químicas de análogos a corticoides são ilustradas abaixo, com suas
+potências relativas e duração de ação.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="642,423 642,655 931,655 931,423"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="78,678 78,2007 1550,2007 1550,678"/></TableRegion></Page></PcGts>

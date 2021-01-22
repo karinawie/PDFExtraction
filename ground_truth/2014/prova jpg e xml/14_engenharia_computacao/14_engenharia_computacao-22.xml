@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:15:39</Created>
+	<LastChange>2020-11-21T19:24:08</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,447 938,447 938,1333 1538,1333 1538,1674 1353,1674 1353,1883 1095,1883 1095,1931 678,1931 678,1979 84,1979 84,1731 83,1731 83,1333 84,1333"/>
+	<ImageRegion id="r1">
+	<Coords points="310,644 310,1397 1239,1397 1239,644"/></ImageRegion>
+	<TextEquiv conf="0.87005">
+	<Unicode>QUESTÃO 25
+O lugar das raízes, também chamado root locus, é importante procedimento para a análise de sistemas de
+controle, bem como para a síntese de compensadores para esses sistemas. Por exemplo, deseja-se controlar,
+com um compensador série e realimentação negativa e unitária, um sistema sujeito a uma entrada degrau,
+cuja planta tem função de transferência
+e cujo lugar das raízes tem a forma ilustrada na figura abaixo.
+A partir do sistema acima, avalie as asserções a seguir e a relação proposta entre elas.
+|. Um compensador proporcional sempre produz um sistema em malha fechada contendo termos de
+resposta oscilatória.
+PORQUE
+II. As raízes do sistema em malha fechada são complexas para um compensador proporcional com ganho
+acima de 2,25.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a II é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+OQ A asserção | é uma proposição verdadeira, e a II é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a II é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

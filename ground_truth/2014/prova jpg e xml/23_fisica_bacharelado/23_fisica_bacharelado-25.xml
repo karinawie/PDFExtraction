@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:18:35</Created>
+	<LastChange>2020-11-22T03:28:06</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,238 255,238 255,277 256,277 256,278 683,278 683,279 1110,279 1110,280 1537,280 1537,332 1538,332 1538,582 1172,582 1172,1118 1536,1118 1536,1221 1537,1221 1537,1411 470,1411 470,1463 322,1463 322,1693 85,1693 85,1692 84,1692 84,582 83,582 83,331 84,331"/>
+	<ImageRegion id="r1">
+	<Coords points="134,600 134,1015 510,1015 510,600"/></ImageRegion>
+	<TextEquiv conf="0.96453">
+	<Unicode>QUESTÃO 26
+Os estados de um sistema mecânico podem ser representados no espaço de fase em termos de
+coordenadas e velocidades generalizadas. O espaço de fase possibilita entender, de modo qualitativo,
+os possíveis movimentos de um sistema. Exemplo disso é um pêndulo simples, ilustrado na figura 1
+o qual é um sistema constituído por um corpo de massa m e uma haste rígida de comprimento L de
+massa desprezível. As coordenadas do espaço de fase são o ângulo 9 entre a barra e o eixo vertical e a
+velocidade angular w . As trajetórias nesse espaço correspondem aos estados que o sistema assume em
+sua evolução temporal e permitem identificar as principais características das possíveis soluções.
+Com relação ao espaço de fase do pêndulo simples, avalie as afirmações a seguir.
+|. O espaço de fase que forma um circuito fechado, como na figura 2, caracteriza a oscilação de um
+pêndulo com amplitude limitada.
+Ill. O espaço de fase ilustrado na figura 3 representa a oscilação amortecida do pêndulo devido a forças dissipativas.
+2
+WI.
+mL
+A equação da energia mecânica E = wWº + mgL(1 — cos) — aw, em que 0 é uma constante e
+gé a aceleração da gravidade, possibilita a construção do espaço de fase para a oscilação amortecida
+do pêndulo devido a forças dissipativas.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+OL I1elm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

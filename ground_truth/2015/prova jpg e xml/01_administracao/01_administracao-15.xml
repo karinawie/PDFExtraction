@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T01:25:21</Created>
+	<LastChange>2020-11-16T01:28:47</LastChange></Metadata>
+	<Page imageFilename="01_administracao-15.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="342,639 342,1178 1254,1178 1254,639"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="80,303 1533,303 1533,1200 1534,1200 1534,1294 1535,1294 1535,1659 466,1659 466,1724 320,1724 320,2000 80,2000"/>
+	<TextEquiv conf="0.96412">
+	<Unicode>QUESTÃO 13
+Entende-se tomada de decisão como o processo de se identificar um problema ou uma oportunidade e
+selecionar uma linha de ação para resolvê-lo ou aproveitá-la. O problema de transporte, por exemplo,
+demanda a determinação do menor custo de transporte de um produto entre diversas fábricas e depósitos.
+LACHTERMACHER, G. Pesquisa operacional na tomada de decisões: modelagem em Excel. 3 ed. Rio de Janeiro: Elsevier, 2007 (adaptado).
+Devido a custos logísticos elevados no modal rodoviário, uma empresa busca melhorar sua eficiência e
+reduzir custos. O esquema a seguir representa as fábricas e os depósitos que essa empresa possui, além de
+custos de transporte, por tonelada, para cada rota entre fábrica e depósito.
+Considerando que toda a produção da empresa deverá ser transportada para seus depósitos, avalie as
+afirmações a seguir.
+|. Ocusto total de transporte será de R$ 18 000,00 quando a empresa optar por transportar 1 000 toneladas
+da Fábrica 1 para o Depósito 1, 2 000 toneladas da Fábrica 3 para o Depósito 1 e a produção restante for
+atendida pelo Depósito 2.
+Il. O custo total de transporte será de R$ 18 000,00 quando a empresa optar por transportar 1 000 toneladas
+da Fábrica 2 para o Depósito 3, 2 000 toneladas da Fábrica 3 para o Depósito 1 e a produção restante for
+atendida pelo Depósito 2.
+Ill. O custo total de transporte será de R$ 16 000,00 quando a empresa optar por transportar 1 000 toneladas
+da Fábrica 2 para o Depósito 3, 2 000 toneladas da Fábrica 3 para o Depósito 1 e a produção restante for
+atendida pelo Depósito 2.
+É correto o que se afirma em
+A |, apenas.
+B Ill, apenas.
+C I e ll, apenas.
+D ll e lll, apenas.
+E I, II e IIl,</Unicode></TextEquiv></TextRegion></Page></PcGts>

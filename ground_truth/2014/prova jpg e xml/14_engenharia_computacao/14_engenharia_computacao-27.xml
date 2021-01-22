@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:14:44</Created>
+	<LastChange>2020-11-21T19:20:13</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="832,238 1003,238 1003,302 1538,302 1538,733 1537,733 1537,879 1539,879 1539,1493 1538,1493 1538,1680 1218,1680 1218,1905 1070,1905 1070,2007 832,2007 832,1705 926,1705 926,1545 880,1545 880,848 833,848 833,847 832,847 832,774 888,774 888,643 833,643 833,642 832,642"/>
+	<TextEquiv conf="0.96468">
+	<Unicode>QUESTÃO 33
+O advento da indústria de alta tecnologia, ou seja,
+a indústria com base na microeletrônica e assistida
+por computadores, introduziu uma nova lógica de
+localização industrial. As empresas eletrônicas,
+produtoras dos novos dispositivos da tecnologia da
+informação, foram as primeiras a utilizar a estratégia
+de localização, possibilitada e exigida pelo processo
+produtivo embasado na informação.
+CASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 1999
+(adaptado).
+Em relação ao contexto do “novo espaço industrial”,
+avalie as afirmações a seguir.
+|. Apesar da existência de novos e importantes
+centros de inovação para desenvolvimento
+de tecnologia da informação, os principais
+centros metropolitanos do mundo continuam
+a acumular fatores indutores de inovação
+e a gerar sinergia na indústria e serviços
+avançados.
+Ill. A indústria de alta tecnologia depende da
+força de trabalho de um grupo de profissionais
+altamente qualificados com base científica e
+tecnológica. A localização da mão de obra não
+qualificada ou semiqualificada, necessária
+para a realização de operações auxiliares, não
+influencia a escolha da localização industrial.
+Il. O novo espaço industrial caracteriza-se,
+entre outros aspectos, pela capacidade
+organizacional! de separar O processo
+produtivo em diferentes localizações.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas
+O lelll, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,292 791,292 791,599 790,599 790,893 260,893 260,996 282,996 282,1081 297,1081 297,1113 84,1113 84,893 83,893 83,621 84,621"/>
+	<TextEquiv conf="0.69076">
+	<Unicode>QUESTÃO 31
+Em uma rede local de computadores em barramento,
+um dos métodos de controle de acesso ao meio,
+denominado CSMA/CD, tem uma característica
+peculiar: se uma estação começar a transmitir sozinha
+no meio em determinado instante e permanecer
+sozinha por um intervalo T (conhecido como s/ot de
+contenção), sem que qualquer outra estação comece
+a transmitir, então não haverá colisão e o acesso ao
+meio estará garantido para essa transmissão.
+Considere que uma rede tenha N estações com
+transmissões completamente independentes e que
+a probabilidade de uma estação transmitir dentro de
+um intervalo T seja igual a P e, que, portanto, 1 - P
+seja a probabilidade de a estação não transmitir nesse
+intervalo. A probabilidade de se ter um intervalo Tno
+qual apenas uma das estações transmita e ganhe o
+acesso ao meio é igual a
+Oo (1 = Pp)
+O P(1- Pp)!
+O NP(1-P)Y!
+O NPY1-P)
+e PN(1 — p)NIN)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="83,1131 255,1131 255,1174 790,1174 790,1401 153,1401 153,1571 84,1571 84,1401 83,1401"/>
+	<TextEquiv conf="0.94463">
+	<Unicode>QUESTÃO 32
+Suponha que, para armazenar exatamente 999 999
+chaves de um Índice, um engenheiro de computação
+tenha escolhido a estrutura de uma árvore B, de
+grau mínimo 5, com todos os nós completos. Nessa
+situação, a profundidade dessa árvore é igual a
+Oo.
+Os.
+O e.
+oO 7.
+o:.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,2015 807,234"/></SeparatorRegion></Page></PcGts>

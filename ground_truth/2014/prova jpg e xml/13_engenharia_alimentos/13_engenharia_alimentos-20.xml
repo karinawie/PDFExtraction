@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T04:09:49</Created>
+	<LastChange>2020-11-21T04:17:54</LastChange></Metadata>
+	<Page imageFilename="13_engenharia_alimentos-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,238 255,238 255,293 1359,293 1359,1462 1537,1462 1537,1550 1538,1550 1538,2007 132,2007 132,2008 131,2008 131,1897 84,1897 84,1527 83,1527 83,293 84,293"/>
+	<ImageRegion id="r1">
+	<Coords points="144,342 144,1428 1547,1428 1547,342"/></ImageRegion>
+	<TextEquiv conf="0.95287">
+	<Unicode>QUESTÃO 21
+A figura abaixo representa, de forma genérica, um processo de produção artesanal de cachaça.
+A partir da figura e considerando a implantação de instrumentação, controle e automação desse processo
+de produção de cachaça, conclui-se que
+a automação das seis fases pode ser realizada, desde que haja disponibilidade dos sensores para os
+controles do processo.
+há, na quarta etapa, uma destilação e na quinta uma estandardização; portanto, o teor de açúcar da cana
+não é uma variável crítica ao processo.
+o dimensionamento do trocador de calor da segunda fase exige o conhecimento do calor específico e da
+densidade, que são, respectivamente, propriedades intensiva e extensiva do caldo de cana.
+o teor alcoólico do produto é alto por se tratar de um destilado e, portanto, não haverá micro-organismos
+no produto, o que dispensa preocupação com a contaminação química e microbiológica.
+a escolha do modelo depende das características do fluido, da intensidade do tratamento térmico
+desejado e do trocador de calor. Caso os resultados obtidos em escala piloto ajustem-se aos da simulação,
+significa que o modelo está adequado e é possível passar à fase seguinte, que é o dimensionamento do
+equipamento.</Unicode></TextEquiv></TextRegion></Page></PcGts>

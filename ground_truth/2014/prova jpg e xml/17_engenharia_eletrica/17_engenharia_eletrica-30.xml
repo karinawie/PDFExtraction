@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:40:42</Created>
+	<LastChange>2020-11-21T21:11:47</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-30.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,300 786,300 786,627 789,627 789,763 791,763 791,946 790,946 790,1160 789,1160 789,1423 790,1423 790,1495 789,1495 789,1583 678,1583 678,1631 84,1631 84,1319 82,1319 82,1195 132,1195 132,730 84,730 84,609 83,609"/>
+	<TextEquiv conf="0.95047">
+	<Unicode>QUESTÃO 32 - Controle e Automação
+Na tentativa de obter um modelo matemático refe-
+rente a um sistema dinâmico linear e invariante no
+tempo, um engenheiro utilizou uma técnica de mo-
+delagem baseada na física do processo, obtendo um
+modelo de terceira ordem. Ao simular o modelo a
+uma entrada ao degrau, o engenheiro observou que
+a resposta do mesmo se aproximava da resposta de
+um sistema de segunda ordem.
+No que concerne à validade de tal aproximação,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+l. Um procedimento possível para verificar
+a validade de uma aproximação de ordem
+inferior é analisar a dominância modal, por
+meio da observação das constantes de tempo
+envolvidas.
+PORQUE
+Il. Se existir uma constante de tempo muito
+menor do que a maior constante de tempo
+associada ao polo dominante, esse modo
+pode ser descartado.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a II é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="831,293 1538,293 1538,1131 1539,1131 1539,1395 1538,1395 1538,1917 1537,1917 1537,2002 833,2002 833,2001 832,2001 832,1396 831,1396"/>
+	<ImageRegion id="r2">
+	<Coords points="839,463 839,1107 1539,1107 1539,463"/></ImageRegion>
+	<TextEquiv conf="0.95977">
+	<Unicode>QUESTÃO 32 - Telecomunicações
+A emissão de ondas eletromagnéticas no espaço é
+obtida, de maneira mais eficiente, com a ajuda de
+estruturas condutoras ou dielétricas conhecidas
+como antenas. Modelos típicos de antenas são
+mostrados nas figuras abaixo.
+Todos esses modelos apresentam características
+importantes que os qualificam como irradiadores
+de energia eletromagnética. Essas características
+incluem: diagrama de radiação, eficiência,
+diretividade e ganho de potência. Com relação ao
+assunto, o ganho de potência de uma antena, medido
+na região de campo distante, pode ser definido como
+a razão entre
+O a intensidade de irradiação de uma antena e a
+intensidade irradiada por uma antena isotrópica,
+com a mesma potência na entrada da antena.
+O a potência na entrada da antena e a potência
+irradiada pela antena em uma determinada
+direção.
+O a potência total, entregue pelo transmissor na
+entrada da antena, e a potência total irradiada
+pela antena em todas as direções do espaço
+físico.
+O a potência total, entregue pelo transmissor na
+entrada da antena, e a potência total irradiada,
+representada pelo diagrama de radiação da
+antena.
+Oa intensidade de irradiação máxima e a
+intensidade de irradiação média.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="810,231 810,2013 807,2013 807,231"/></SeparatorRegion></Page></PcGts>

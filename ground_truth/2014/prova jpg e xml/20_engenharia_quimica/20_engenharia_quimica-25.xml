@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:10:48</Created>
+	<LastChange>2020-11-22T02:20:52</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="832,238 1003,238 1003,294 1538,294 1538,1286 1322,1286 1322,1342 997,1342 997,1588 832,1588 832,1365 833,1365 833,1308 880,1308 880,1137 925,1137 925,945 880,945 880,607 832,607 832,431 831,431 831,294 832,294"/>
+	<TextEquiv conf="0.96667">
+	<Unicode>QUESTÃO 26
+Uma reação irreversível e de primeira ordem, em
+fase líquida, ocorre em um CSTR perfeitamente
+misturado. A espécie “A” reage para formar a
+espécie “B”.
+Sobre o comportamento dinâmico desse sistema
+e sua resposta a perturbações quando operado
+isoladamente ou em série, avalie as afirmações
+a seguir.
+|. O modelo que representa o perfil dinâmico
+de concentração molar do CSTR é de
+primeira ordem.
+Ill. Após atingir a operação em estado
+estacionário, o CSTR é submetido a
+uma perturbação do tipo degrau, e um
+novo estado estacionário é atingido
+instantaneamente.
+O perfil dinâmico de concentração molar
+de dois reatores CSTR operando em série
+pode ser representado por uma função de
+transferência de segunda ordem.
+IV. Os controles Proporcional-Integral (PI)
+e Proporcional-Integral-Derivativo (PID)
+garantem que não haverá erro quando o
+processo atingir a estabilidade.
+É correto apenas o que se afirma em
+Oie
+Oielv
+Oem.
+O Lev.
+O uMmelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,293 791,293 791,648 789,648 789,882 790,882 790,1128 789,1128 789,1231 790,1231 790,1485 789,1485 789,1717 574,1717 574,1761 217,1761 217,1986 84,1986 84,1781 85,1781 85,1727 130,1727 130,1652 132,1652 132,1500 177,1500 177,1264 132,1264 132,1128 83,1128 83,293 84,293"/>
+	<TextEquiv conf="0.96417">
+	<Unicode>QUESTÃO 25
+O cloro gasoso (Cl,) é extensivamente utilizado em
+processos químicos. No entanto, esse composto é
+tóxico e, mesmo em pequenas quantidades, pode
+provocar sérias lesões e até mesmo a morte. Nesse
+sentido, as legislações ambientais têm adotado
+limites altamente restritivos para a emissão de
+Cl,, de modo que são necessários processos para
+recuperação do cloro não reagido. Entre os métodos
+disponíveis, há a absorção reativa do Cl, em spray
+de solução aquosa alcalina.
+A equação abaixo representa a reação homogênea
+em fase líquida em um reator batelada entre cloro (B)
+e hidróxido de sódio (A), produzindo hipoclorito de
+sódio (C), água (D) e cloreto de sódio (E):
+2NaOH (A) + CI, (B) — NaOCI (C) + H,O (D) + NaCl (E)
+Admitindo-se que a taxa de transferência de
+massa entre o gás e as gotas de solução alcalina é
+suficientemente elevada; assumindo que a reação
+química é o mecanismo controlador do processo e a
+concentração dos reagentes não varia com o espaço
+no interior das gotas, avalie as afirmações a seguir.
+Se necessário, considere que In (2) = 0,7.
+|. A velocidade de decomposição de B é o dobro
+da velocidade de decomposição de A.
+Il. Considerando que a reação é elementar,
+pode-se expressar a velocidade global como
+r=k[A]J[B].
+III.A utilização de um método de pulverização
+mais eficiente, capaz de produzir gotas
+de solução alcalina com diâmetro menor,
+favorece a velocidade da reação.
+IV. Se Afor mantido em excesso no meio reacional,
+assumindo que a constante de velocidade
+vale 1,4 sº, a concentração inicial de B na fase
+líquida é reduzida pela metade em 0,5 s.
+V. A contínua remoção de C e E aumenta a
+velocidade de reação.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,2015 810,234"/></SeparatorRegion></Page></PcGts>

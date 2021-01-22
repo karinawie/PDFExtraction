@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:36:23</Created>
+	<LastChange>2020-11-21T19:47:49</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-32.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1537,298 1537,938 1538,938 1538,1110 1537,1110 1537,1286 574,1286 574,1343 249,1343 249,1588 84,1588"/>
+	<ImageRegion id="r1">
+	<Coords points="292,381 292,915 1331,915 1331,381"/></ImageRegion>
+	<TextEquiv conf="0.93909">
+	<Unicode>QUESTÃO 31
+O soft-starter é um dispositivo eletrônico formado por seis tiristores, sendo utilizado para a partida de motores
+de indução em gaiola. O diagrama a seguir ilustra uma aplicação desse dispositivo.
+Considerando o diagrama acima e os princípios de funcionamento de uma máquina de indução, avalie as
+afirmações a seguir.
+|. Afinalidade principal do soft-starter é reduzir a corrente de partida em motores de indução em gaiola.
+Il. A configuração do diagrama permite utilizar o soft-starter para realizar a frenagem do motor de indução.
+Ill. O soft-starter também pode ser utilizado para controlar a velocidade do motor de indução em gaiola
+para aplicações em servomecanismos.
+IV. Para realizar a partida suave do motor, o soft-starter varia a frequência da tensão aplicada ao motor,
+iniciando em O Hz (máquina parada) e aumentando gradativamente até atingir a frequência nominal.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T17:07:38</Created>
+	<LastChange>2020-10-27T17:36:38</LastChange></Metadata>
+	<Page imageFilename="06_DESIGN-17.jpg" imageWidth="1616" imageHeight="2166">
+	<SeparatorRegion id="r17">
+	<Coords points="810,189 810,2102 812,2102 812,189"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="821,260 821,634 1542,634 1542,260"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,176 401,176 401,243 790,243 790,525 789,525 789,774 790,774 790,1065 789,1065 789,1237 790,1237 790,1374 127,1374 127,1237 128,1237 128,1065 127,1065 127,929 128,929 128,798 81,798 81,622 80,622"/>
+	<TextEquiv conf="0.42854">
+	<Unicode>QUESTÃO 28
+A classificação dos sistemas de produção em função do
+fluxo do produto é importante para o planejamento e
+a gestão da produção. Normalmente, os sistemas de
+produção são agrupados em três grandes categorias:
+sistemas de produção contínuos ou de fluxo em linha;
+sistemas de produção por lotes ou por encomenda (fluxo
+intermitente) e sistemas de produção para grandes
+projetos sem repetição.
+No sistema de produção contínuo, ou de fluxo em linha,
+verifica-se que
+O os clientes apresentam seus próprios projetos de
+produto, devendo a empresa fabricá-lo segundo
+essas especificações.
+O os produtos são padronizados e fluem de um posto
+de trabalho a outro em sequência prevista, sendo
+esse sistema marcado pela alta eficiência e acentuada
+inflexibilidade dos produtos.
+as habilidades dos trabalhadores são agrupadas
+em conjunto, sendo os equipamentos de tipo
+genérico, que permitem adaptações necessárias
+ao produto específico.
+há uma sequência de tarefas, geralmente de
+longa duração, marcadas por especificidade e
+pouca repetitividade, o que exige planejamento e
+controle elaborados.
+há flexibilidade, conseguida com equipamentos
+genéricos, mas o volume de produção é reduzido,
+gerando problemas relativos ao controle de estoque e
+à qualidade dos produtos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="826,176 1146,176 1146,691 1535,691 1535,1733 1534,1733 1534,2013 872,2013 872,1854 869,1854 869,1692 826,1692 826,1332 825,1332 825,691 826,691"/>
+	<TextEquiv conf="0.45970">
+	<Unicode>QUESTÃO 29
+A administração da produção consiste em gerenciar o
+sistema representado na figura acima. Segundo Slack et al,
+“qualquer operação produz bens ou serviços, ou um misto
+dos dois, e faz isso por um processo de transformação.
+Em resumo, a produção envolve um conjunto de recursos
+de input usado para transformar algo ou para ser
+transformado em outputs de bens e serviços”.
+Segundo esses autores, as entradas dizem respeito
+aos recursos a serem transformados, tais
+materiais, informação e consumidores, e aos recursos
+de transformação, que agem sobre os primeiros, tais
+como instalações, equipamentos e funcionários. Já as
+como
+saídas configuram-se como resultado do processo de
+transformação das entradas, podendo ser artefatos físicos
+e/ou serviços.
+SLACK, N.; CHAMBERS, S.; JOHNSTON, R. Administração da Produção.
+2 ed. São Paulo: ATLAS, 2002 (adaptado).
+Considerando as informações acima, verifica-se que
+O material impresso e projeto gráfico são outputs de
+uma gráfica rápida.
+(8)
+papel, projeto de design, tinta, impressora e leitores
+são recursos de entrada para a produção de um livro.
+o
+passageiros, cargas transportadas e avião são outputs
+de uma empresa área.
+linha, tecido, máquina de costura, costureira e calça
+jeans são recursos de entrada para a confecção de
+uma calça jeans.
+injetora de plástico, projeto de design, responsável
+pela injetora e gerente de produção são recursos
+de entrada de transformação para a produção de
+garrafa PET.</Unicode></TextEquiv></TextRegion></Page></PcGts>

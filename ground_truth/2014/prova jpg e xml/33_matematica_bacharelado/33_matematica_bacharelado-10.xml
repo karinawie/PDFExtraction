@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:32:39</Created>
+	<LastChange>2020-12-06T00:05:16</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-10.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="145,299 474,299 474,355 1599,355 1599,552 1600,552 1600,836 1597,836 1597,968 1599,968 1599,1037 195,1037 195,1038 194,1038 194,946 144,946 144,864 145,864"/>
+	<TextEquiv conf="0.96494">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Atualmente, a maioria dos editores de texto oferece o recurso de correção ortográfica. Esse recurso consiste
+em destacar, entre as palavras digitadas, aquelas com possíveis erros de grafia. Por exemplo, quando se
+digita a palavra “caza”, o recurso de correção destaca essa palavra, pois a palavra “caza” não existe na língua
+portuguesa. Também é comum o recurso de correção ortográfica sugerir uma outra palavra para substituir a
+palavra incorreta.
+A sugestão de quais palavras podem substituir a palavra incorreta é feita com uma medida da distância entre
+a palavra incorreta e as palavras que constam no dicionário do editor de texto. Existem diversas maneiras de
+medir a distância entre duas palavras. Uma delas é a denominada Distância de Hamming, na qual a medida
+da distância entre duas palavras rx e y, com a mesma quantidade de letras, é feita da seguinte forma:
+d(x, y) = número de letras que são diferentes em x e y, em suas respectivas posições. Mais formalmente,
+Se T=LLL...X, 6 Y = YY,Y,3---y, São palavras em que x.e y,são letras do alfabeto, para 1=1,2,3,...,n, então
+d(x, y) = (1: 1 *y, com i=1,2,3...,n)), em que (A) representa o número de elementos do conjunto À.
+Por exemplo, d(caza, casa) = ft(13)) = 1, já que elas diferem apenas na terceira letra.
+A partir dessas informações, faça o que se pede nos itens a seguir.
+a) Mostre que a Distância de Hamming é uma métrica no conjunto das palavras com letras. (valor: 5,0 pontos)
+b) Mostre que o conjunto das palavras com letras, munido da Distância de Hamming, é um espaço
+métrico discreto. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

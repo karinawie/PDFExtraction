@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:42:10</Created>
+	<LastChange>2020-11-21T21:20:25</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,1259 977,1259 977,1503 832,1503 832,1259 831,1259 831,1070 832,1070"/>
+	<TableRegion id="r3">
+	<Coords points="836,507 836,1039 1536,1039 1536,507"/></TableRegion>
+	<TextEquiv conf="0.96930">
+	<Unicode>QUESTÃO 22
+Considere uma rede de distribuição para
+atendimento de três unidades consumidoras.
+Medições apontaram as características das cargas de
+cada unidade consumidora, conforme mostrado no
+quadro a seguir.
+Desprezando as perdas nos alimentadores da rede,
+assinale a alternativa que apresenta corretamente
+a menor potência nominal do transformador de
+distribuição, capaz de suprir simultaneamente as
+três unidades consumidoras a ele interligados.
+O 3 kva.
+O 5 kva.
+O 10 kva.
+O 15 kvAa.
+O 25 kvAa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,294 790,294 790,1687 574,1687 574,1745 234,1745 234,2002 84,2002 84,1770 85,1770 85,1711 132,1711 132,1014 83,1014 83,294 84,294"/>
+	<TextEquiv conf="0.95895">
+	<Unicode>QUESTÃO 21
+Até alguns anos atrás, bastava ligar um
+liquidificador na cozinha enquanto uma TV estava
+ligada na sala para perceber a interferência, mas
+o desenvolvimento de tecnologias já conseguiu
+diminuir, ou até mesmo eliminar a interferência
+entre alguns equipamentos. Para evitar o mau
+funcionamento dos eletroeletrônicos, foram
+criadas blindagens, geralmente feitas com algum
+tipo de metal.
+Disponível em &lt;http://www.osetoreletrico.com.br&gt;.
+Acesso em 02 out. 2014 (adaptado).
+A interferência citada no texto é de origem
+eletromagnética e pode causar degradação no
+desempenho de um equipamento eletroeletrônico
+devido à geração de campos eletromagnéticos no
+ambiente.
+No que se refere aos aspectos relacionados a esse
+fenômeno, avalie as afirmações a seguir.
+|. As causas de um problema de interferência
+eletromagnética podem ocorrer tanto dentro
+como fora do equipamento.
+Ill. As linhas de transmissão de energia,
+descargas elétricas e lâmpadas fluorescentes
+são consideradas causadoras de interferência
+eletromagnética.
+Ill. Quando dois ou mais dispositivos contribuem
+simultaneamente para a interferência
+eletromagnética, diz-se que eles possuem
+compatibilidade magnética.
+IV. Aterramento, blindagem e filtragem são
+soluções que podem ser utilizadas no projeto
+com o intuito de se controlar ou suprimir a
+interferência eletromagnética.
+É correto apenas o que se afirma em
+Oie
+O em.
+O ueiv
+O L11e.
+OLE.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,228 807,2013 810,2013 810,228"/></SeparatorRegion></Page></PcGts>

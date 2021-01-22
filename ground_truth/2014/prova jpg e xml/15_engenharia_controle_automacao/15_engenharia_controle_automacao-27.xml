@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:37:21</Created>
+	<LastChange>2020-11-21T19:51:31</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,303 1537,303 1537,1242 1538,1242 1538,1377 1537,1377 1537,1670 1536,1670 1536,1671 574,1671 574,1732 249,1732 249,2001 84,2001 84,1759 85,1759 85,557 84,557 84,556 83,556 83,303 84,303"/>
+	<ImageRegion id="r1">
+	<Coords points="310,586 310,1197 1263,1197 1263,586"/></ImageRegion>
+	<TextEquiv conf="0.96180">
+	<Unicode>QUESTÃO 24
+As redes de comunicação são essenciais para o processo de automação industrial. Existem diversos tipos de
+rede, as quais se diferenciam em alguns aspectos, como topologia de conexão, tipos de dispositivos aos quais se
+conectam e velocidade de transmissão, entre outros. São exemplos de redes industriais: ASI, HART, DeviceNet,
+Profibus, Ethernet. Não existe uma rede certa ou errada, mas, sim, uma rede mais apropriada para determinada
+aplicação. De acordo com o tipo de dispositivo que as redes conectam, elas são classificadas em Sensorbus,
+DeviceBus, FieldBus e Databus. A figura abaixo apresenta um esquema da faixa de aplicação das redes.
+Em relação à classificação das redes de comunicação para automação, avalie afirmações a seguir.
+|. As redes Sensorbus são de baixo custo, utilizadas para a comunicação de sensores e atuadores
+discretos, contemplando distâncias pequenas.
+Il. Asredes Devicebus conectam dispositivos como CLPs, controladores, sistemas de medição inteligentes,
+drivers e outros dispositivos que se comunicam por dados em formato de bytes.
+Ill. As redes Fieldbus conectam dispositivos microprocessados e podem transmitir vários tipos de dados:
+discretos, analógicos, parâmetros, programas e informações de usuários.
+IV. As redes Fieldbus são mais apropriadas para aplicações de controle de processos distribuídos porque
+possuem alta taxa de transmissão de dados.
+É correto apenas o que se afirma em
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

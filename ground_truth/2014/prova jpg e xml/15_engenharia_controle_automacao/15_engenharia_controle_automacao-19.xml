@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:38:42</Created>
+	<LastChange>2020-11-21T19:57:09</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="832,238 1003,238 1003,294 1538,294 1538,758 1537,758 1537,957 1538,957 1538,1368 1322,1368 1322,1421 966,1421 966,1647 965,1647 965,1648 832,1648 832,1647 833,1647 833,1387 880,1387 880,936 831,936 831,294 832,294"/>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 16
+Uma indústria de blocos cerâmicos pretende
+utilizar queima de biomassa resultante de resíduos
+de madeira, para gerar energia térmica para seus
+fornos, que, atualmente, utilizam gás natural. Tal
+iniciativa poderá reduzir o consumo de combustível,
+porém será necessário um investimento no valor de
+20% do consumo/ano atual de combustível, visando
+à adaptação dos fornos. Além disso, o transporte
+anual dos resíduos da fonte geradora até a indústria
+irá custar 5% do consumo/ano atual de combustível.
+Estima-se que essa alteração promova uma
+economia, no consumo/ano atual de combustível,
+de 10% ao ano.
+A partir da situação descrita, avalie as afirmações a
+seguir.
+|. A partir do quinto ano, a indústria começaria
+a ter benefícios econômicos.
+ll. Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+de energia com menor produção e emissão de
+partículas devido ao processo de combustão
+(particulados).
+Ill. Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+renovável de energia.
+IV. O valor do investimento supera os benefícios
+promovidos com a economia de combustível
+durante os 5 primeiros anos.
+É correto apenas o que se afirma em
+o.
+O Iv.
+Oie.
+Oie.
+OÔileiv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="84,238 255,238 255,297 789,297 789,1285 790,1285 790,1491 789,1491 789,1492 651,1492 651,1639 84,1639"/>
+	<ImageRegion id="r2">
+	<Coords points="84,384 84,1218 792,1218 792,384"/></ImageRegion>
+	<TextEquiv conf="0.96251">
+	<Unicode>QUESTÃO 15
+Observe o programa classificador (“sort”), em
+pseudocódigo, apresentado abaixo.
+Esse programa classifica, em ordem
+O decrescente, notas de alunos e nomes de alunos
+de mesma nota.
+O alfabética crescente, nomes e notas de alunos de
+mesmo nome.
+O decrescente, notas de alunos.
+O alfabética crescente, nomes de alunos.
+O crescente, notas de alunos.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,231 807,2023 810,2023 810,231"/></SeparatorRegion></Page></PcGts>

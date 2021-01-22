@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:45:49</Created>
+	<LastChange>2020-10-28T16:53:56</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-27.jpg" imageWidth="1613" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="974,430 974,466 625,466 624,808 993,808 994,430"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 410,235 410,303 808,303 808,304 1534,304 1534,419 974,419 974,826 1535,826 1535,1096 82,1096 82,887 80,887 80,825 81,825"/>
+	<TextEquiv conf="0.95382">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Paciente do sexo masculino de 60 anos de idade é tabagista e faz tratamento para diabetes. Recentemente,
+sofreu trombose venosa profunda. Repentinamente, ficou com muita dispneia e, ao chegar ao pronto-socorro,
+foi examinado pelo médico, que suspeitou de tromboembolismo pulmonar (TEP) e solicitou tomografia
+computadorizada de urgência, cuja imagem é apresentada a seguir.
+Com base no exame acima, o médico concluiu que este homem estava com TEP bilateral e iniciou o
+tratamento imediatamente.
+Com base no texto e no exame apresentado, faça o que se pede nos itens abaixo.
+a) Descreva o protocolo para realização da tomografia computadorizada multslice para pesquisa de TEP
+e fluxo e volume médio de contraste iodado a ser utilizado. (valor: 5,0 pontos)
+b) Mencione as estruturas anatômicas que devem ser visualizadas repletas de contraste. (valor: 2,5 pontos)
+c) Explique a importância de utilizar bomba injetora de contraste nesse exame. (valor: 2,5 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

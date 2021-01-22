@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:30:55</Created>
+	<LastChange>2020-12-06T03:35:46</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-30.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="145,1225 316,1225 316,1300 1599,1300 1599,1439 922,1439 922,1494 824,1494 824,1611 989,1611 989,1674 1046,1674 1046,1737 1599,1737 1599,2060 146,2060 146,1611 147,1611 147,1439 144,1439 144,1300 145,1300"/>
+	<TextEquiv conf="0.96707">
+	<Unicode>QUESTÃO 35
+A Qualidade de Serviço (QoS) é muito importante para as redes convergentes, tornando-as capazes de
+transportar, de maneira bem próxima ao ideal, os mais diversos tráfegos, como vídeo, voz e dados; de
+modo simultâneo e sem interferências mútuas. A QoS apresenta duas soluções para redes IP: Serviços
+Integrados (IntServ) e Serviços Diferenciados (DiffServ).
+Em relação a essas soluções, é correto afirmar que
+O o Diffserv é mais adequado em redes locais e intradomínio.
+O o IntServ é mais adequado para ser utilizado no núcleo da rede.
+O o IntServ estabelece priorização de tráfego baseado em classes de fluxo, seguindo as características de
+tráfego das aplicações.
+O o Diffserv e o Intserv fornecem melhor tratamento aos fluxos das aplicações quando comparadas com fluxos
+que seguem o modelo best-effort.
+O o Diffserv estabelece reservas de recursos ao longo de um caminho de rede, oferecendo valores absolutos
+de largura de banda, atraso e perda de pacotes para as aplicações.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,365 1346,365 1346,426 1600,426 1600,699 1598,699 1598,843 636,843 636,963 295,963 295,1094 302,1094 302,1147 311,1147 311,1178 146,1178 146,871 194,871 194,769 240,769 240,645 239,645 239,600 194,600 194,394 145,394"/>
+	<TextEquiv conf="0.93767">
+	<Unicode>QUESTÃO 34
+Com relação aos protocolos de segurança em redes sem fio, avalie as afirmações a seguir.
+|. O protocolo WPA?2 definido no padrão IEEE 802.11i utiliza o algoritmo RC4 para criptografar os pacotes
+que trafegam numa dada rede sem fios a fim de tentar garantir confidencialidade dos dados de cada
+usuário.
+Il. O protocolo WEP garante uma melhor confiabilidade quando trabalha com AES (Advanced Encryption
+Standard).
+III.O protocolo IEEE 802.11] ou WPA?2 foi o substituto formal do protocolo WEP, e define a utilização de
+diversos métodos e protocolos, por exemplo: AES, EAP, TKIP e RADIUS.
+IV. A utilização do protocolo RADIUS integrado com o padrão IEEE 802.11i permite o acesso às redes sem
+fio através de IDs (identificadores) de nomes de usuários.
+É correto apenas o que se afirma em
+Oie.
+O lleiv.
+O 1L,11e,
+O LI,elv.
+O 1Melv</Unicode></TextEquiv></TextRegion></Page></PcGts>

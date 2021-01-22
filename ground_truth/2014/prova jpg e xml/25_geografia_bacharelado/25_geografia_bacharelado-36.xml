@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T04:08:02</Created>
+	<LastChange>2020-11-22T13:57:34</LastChange></Metadata>
+	<Page imageFilename="25_geografia_bacharelado-36.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r24" type="heading">
+	<Coords points="85,888 1312,888 1312,944 1538,944 1538,1263 471,1263 471,1324 273,1324 273,1443 305,1443 305,1496 322,1496 322,1566 144,1566 144,1570 84,1570 84,1348 85,1348 85,1290 177,1290 177,1200 178,1200 178,917 85,917"/>
+	<TextEquiv conf="0.96499">
+	<Unicode>De acordo com as informações contidas no mapa e no gráfico, avalie as afirmações a seguir.
+I.Observando-se o mapa, verifica-se que as ocupações de terras concentram-se nas regiões Nordeste
+e Centro-Oeste do Brasil, pois nas regiões Sul e Sudeste não há conflitos de terras, em virtude do
+dinamismo da economia.
+II.O mapa revela que, na Região Norte, o Pará é o estado com maior número de ocupações de terras e
+os estados do Amapá e de Roraima apresentam o menor número de ocupações.
+III.O gráfico demonstra que, a partir de 2010, há um pequeno crescimento do número de ocupações de
+terras, indicando uma modesta retomada dessas ações que apresentaram números elevados entre os
+anos de 1998 e 2009.
+É correto o que se afirma em
+</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="89,218 89,863 1544,863 1544,218"/></ImageRegion></Page></PcGts>

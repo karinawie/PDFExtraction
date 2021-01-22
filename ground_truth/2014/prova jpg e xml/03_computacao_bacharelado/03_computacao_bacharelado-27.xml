@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:00:42</Created>
+	<LastChange>2020-09-24T18:00:42</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-27.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r0">
+	<Coords points="552,555 552,836 1073,836 1073,555"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1539,298 1539,527 1537,527 1537,1008 1538,1008 1538,1426 84,1426 84,1427 83,1427 83,1009 84,1009"/>
+	<TextEquiv conf="0.96103">
+	<Unicode>QUESTÃO 35
+Um prédio de 4 andares, sendo o primeiro o andar térreo, é servido por 2 elevadores. Por motivo de economia
+de energia, o elevador 2 só é acionado se for solicitado em mais de 2 andares. Considere um circuito proposto
+para habilitar o acionamento do elevador 2 conforme é mostrado a seguir. Ele utiliza um multiplexador 4x1,
+cuja saída é selecionada através da composição dos sinais A e B, que indicam se os andares 1 e 2 solicitaram
+o serviço do elevador. Assim, o valor AB=10,, indica que o primeiro andar solicitou elevador, mas não o
+segundo. Os sinais C e D indicam se os andares 3 e 4 solicitaram o serviço, respectivamente.
+Com base na análise do circuito proposto para o problema, avalie as seguintes asserções e a relação proposta
+entre elas.
+|. Ocircuito não atende às especificações do projeto.
+PORQUE
+Ill. A entrada superior do multiplexador com valor constante O indica que a saída será O
+independentemente dos valores dos sinais A, B/ Ce D.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O A asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

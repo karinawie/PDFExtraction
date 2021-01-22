@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:30:53</Created>
+	<LastChange>2020-12-05T22:39:55</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,360 1600,360 1600,662 1598,662 1598,790 1599,790 1599,1386 1598,1386 1598,1490 1599,1490 1599,1563 1488,1563 1488,1611 895,1611 895,1612 894,1612 894,1136 893,1136 893,1135 942,1135 942,764 894,764 894,663 893,663 893,361 892,361 892,360 893,360"/>
+	<TextEquiv conf="0.96695">
+	<Unicode>QUESTÃO 26
+Para se criar um mapa-múndi, isto é, uma mapa da
+Terra, é preciso fazer uma projeção cartográfica, que
+é uma correspondência entre os pontos da Terra (em
+geral uma esfera) e os pontos do mapa (um plano) de
+modo que as distâncias sejam preservadas. Existem
+diversas projeções cartográficas da Terra destinadas
+à confecção de mapas-múndi, feitas a partir de um
+modelo esférico da Terra.
+Nesse contexto, avalie as seguintes asserções e a
+relação proposta entre elas.
+|. Não existe uma projeção cartográfica perfeita
+de toda a Terra, isto é, uma isometria que
+associe a cada ponto de uma esfera um ponto
+no plano.
+PORQUE
+Il. A curvatura gaussiana da esfera é positiva,
+enquanto a curvatura gaussiana do plano
+é zero.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a segunda é uma justificativa correta da primeira.
+O As asserções | e 1l são proposições verdadeiras,
+mas a segunda não é uma justificativa correta da
+primeira.
+O A asserção | é uma proposição verdadeira, e a
+asserção || é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a asserção
+Il é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,361 852,361 852,722 851,722 851,1200 852,1200 852,1229 851,1229 851,1560 278,1560 278,1813 146,1813 146,1585 147,1585 147,1173 145,1173 145,1018 146,1018 146,1017 147,1017 147,723 145,723"/>
+	<TextEquiv conf="0.78863">
+	<Unicode>QUESTÃO 25
+Se Vé um espaço vetorial com produto interno
+sobre o corpo dos números complexos, então, a
+cada operador linear T: V — V, está associado o
+operador adjunto de 7, denotado por T*: V—&gt;YV,
+que se relaciona com 7 por intermédio do produto
+interno definido em V. Usando esses dois operadores,
+é possível definir diversas classes de operadores
+lineares que possuem aplicações na Matemática e na
+Física, entre as quais se incluem:
+* operadores autoadjuntos são aqueles tais que
+T*— TT.
+º* operadores anti-autoadjuntos são aqueles tais que
+T*=-T,
+* operadores unitários são aqueles tais que
+T*=T,
+Considerando à é C um autovalor complexo
+qualquer do operador linear Te V um espaço
+vetorial com produto interno, sobre o corpo CD,
+avalie as afirmações a seguir.
+|. O número complexo à também é autovalor
+de T*.
+Il. Se Té autoadjunto, então à e R
+Ill. Se Té anti-autoadjunto, então à é um número
+imaginário puro, isto é, à = bi, com b número
+real não nulo.
+IV. Se Té unitário, então À = louá=-1.
+É correto apenas o que se afirma em
+O:
+oO.
+Oie
+O lei.
+O eiv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,291 869,2086 875,2086 875,291"/></SeparatorRegion></Page></PcGts>

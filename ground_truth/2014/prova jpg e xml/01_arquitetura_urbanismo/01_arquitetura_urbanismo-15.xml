@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T04:07:56</Created>
+	<LastChange>2020-09-24T04:08:02</LastChange></Metadata>
+	<Page imageFilename="01_arquitetura_urbanismo-15.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r0">
+	<Coords points="444,248 443,1483 1182,1483 1183,248"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,1511 1144,1511 1144,1714 470,1714 470,1777 265,1777 265,1913 313,1913 313,1967 322,1967 322,2003 84,2003"/>
+	<TextEquiv conf="0.79014">
+	<Unicode>Considerando o texto e as imagens apresentadas, avalie as afirmações a seguir.
+|. O projeto representado na figura 1 exemplifica o conceito de Relevos.
+Ill. O espaço que aparece na figura 2 exemplifica o conceito de Tapetes.
+Ill. A figura 3 exemplifica o conceito de Dobras.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

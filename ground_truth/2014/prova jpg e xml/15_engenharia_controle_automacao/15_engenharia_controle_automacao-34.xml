@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:36:03</Created>
+	<LastChange>2020-11-21T19:46:18</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-34.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="789,242 789,311 84,311 84,242"/>
+	<TextEquiv conf="0.96462">
+	<Unicode>Com base nas informações apresentadas, conclui-se que a
+linha 3 que completa o código corretamente no diagrama é</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="832,238 833,238 833,239 1003,239 1003,297 1539,297 1539,649 1538,649 1538,810 1537,810 1537,987 1218,987 1218,1035 1021,1035 1021,1153 1071,1153 1071,1280 1070,1280 1070,1281 832,1281 832,1057 833,1057 833,1000 880,1000 880,810 831,810 831,566 832,566"/>
+	<TextEquiv conf="0.95575">
+	<Unicode>QUESTÃO 33
+Um veículo aéreo não tripulado (VANT), também
+chamado UAV (do inglês Unmaned Aerial Vehicle), é
+todo e qualquer tipo de aeronave que não necessita de
+pilotos embarcados para ser guiada. Esses veículos são
+controlados por meios eletrônicos e computacionais,
+sob a supervisão humana remota ou sem a sua
+intervenção.
+Disponível em: &lt;http://pt.wikipedia.org/&gt;. Acesso em: 13 ago. 2014
+(adaptado).
+A respeito da navegação autônoma dos VANTs, avalie
+as afirmações a seguir.
+|. O GPS tem como funcionalidade básica
+determinar coordenadas geográficas.
+ll. O acelerômetro tem como funcionalidade
+básica determinar variação na orientação.
+Ill. O giroscópio tem como funcionalidade básica
+determinar variação no posicionamento .
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 11,11.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="65,350 65,636 526,636 526,350"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="75,696 75,982 536,982 536,696"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="75,1020 75,1306 536,1306 536,1020"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="64,1359 64,1645 525,1645 525,1359"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="80,1685 80,1971 541,1971 541,1685"/></ImageRegion>
+	<SeparatorRegion id="r12">
+	<Coords points="810,2023 810,231"/></SeparatorRegion></Page></PcGts>

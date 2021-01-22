@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:41:47</Created>
+	<LastChange>2020-11-21T21:18:30</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1538,298 1538,1332 1054,1332 1054,1333 570,1333 570,1334 249,1334 249,1580 84,1580"/>
+	<ImageRegion id="r1">
+	<Coords points="173,452 173,1039 1542,1039 1542,452"/></ImageRegion>
+	<TextEquiv conf="0.96768">
+	<Unicode>QUESTÃO 24
+O circuito representado na figura a seguir utiliza um opto-acoplador 4N33 para isolar a linha de alimentação
+em baixa tensão (entrada) do lado de alta tensão (terminal comum em + 1 000 V). O gráfico da figura mostra
+a corrente do coletor relacionada com a corrente do LED, que é a característica de transferência de um 4N33
+para um fototransistor não-saturado.
+MALVINO, A. P. Eletrônica, v.1, 7.ed. São Paulo: McGraw-Hill Book, 2007.
+Considerando V,r (sat) = 0,7 V, avalie as seguintes afirmações.
+|. SeV,, for 5 V, o valor da tensão coletor-emissor do fototransistor é 10 V.
+Il. No circuito, a máxima corrente possível para o fototransistor é de 5 mA.
+Ill. Se a tensão no resistor de 1 kOQ for de 1 V, o valor da tensão Vas será 1,13 V.
+IV. Se o LED estiver aberto e V.g=3Va tensão medida entre o coletor do 2N3904 e o terra é de 10 V.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O eilv.
+O Lilelv.
+O IMeiv</Unicode></TextEquiv></TextRegion></Page></PcGts>

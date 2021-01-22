@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:50:31</Created>
+	<LastChange>2020-12-06T02:55:21</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="146,299 317,299 317,359 1204,359 1204,388 1190,388 1190,1679 1334,1679 1334,1708 636,1708 636,1770 303,1770 303,2047 145,2047 145,1455 146,1455 146,330 145,330 145,329 146,329"/>
+	<ImageRegion id="r1">
+	<Coords points="152,422 152,1427 1605,1427 1605,422"/></ImageRegion>
+	<TextEquiv conf="0.95695">
+	<Unicode>QUESTÃO 34
+O esquema elétrico abaixo representa um sistema de partida estrela-triângulo.
+Com base no circuito acima, avalie as afirmações a seguir.
+|. Ocontator 1K3 é responsável pelo fechamento em triângulo no motor.
+Il. O sistema não permite o controle do sentido de rotação do motor.
+Ill. O temporizador dT1 possui retardo na ativação.
+IV. O fusível 1FO0 deve ser dimensionado para a condição do motor ligado em estrela.
+É correto apenas o que se afirma em
+Oie.
+O le.
+O lelv.
+O 111el.
+O Lev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

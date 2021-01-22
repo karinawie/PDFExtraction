@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:19:28</Created>
+	<LastChange>2020-11-22T03:31:18</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1539,297 1539,1221 1538,1221 1538,1222 1537,1222 1537,1711 1218,1711 1218,1821 1217,1821 1217,1918 1070,1918 1070,2011 832,2011 832,1916 833,1916 833,1731 880,1731 880,1359 832,1359 832,1358 831,1358 831,1249 832,1249 832,767 831,767 831,766 832,766"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>QUESTÃO 19
+No Brasil, as microcentrais hidrelétricas podem ser
+uma alternativa viável para comunidades isoladas,
+onde o denominado Sistema Interligado Nacional
+(SIN) ainda não atende de forma eficaz à demanda
+por energia elétrica. Essas centrais de pequeno porte
+trazem benefícios como a diminuição de perdas
+de transmissão, redução de investimentos para
+construção de novas linhas e maior confiabilidade
+ao sistema. Segundo a Agência Nacional de Energia
+Elétrica (ANEEL), uma microcentral hidrelétrica
+possui potência instalada de até 100 kW e eficiência
+global da ordem de 50 %.
+Suponha que esse limite de potência se encaixe
+na geração de energia elétrica em um curso
+d'água situado em um pequeno povoado de
+150 habitantes. O curso dágua possui um desnível
+de 9 m de altura e vazão média de 600 litros/s,
+estimada pelo método experimental do flutuador,
+que utiliza flutuadores (garrafa plástica, boia etc.)
+para determinar a velocidade superficial do
+escoamento e, a partir do produto dessa velocidade
+pela área da seção transversal por onde ocorre o
+escoamento, determina-se a vazão.
+Considerando as informações acima, a aceleração da
+gravidade igual a 10 m/s? e a densidade da água igual
+a 1 000 kg/m, avalie as afirmações a seguir.
+|. A potência elétrica média gerada pela usina
+será inferior a 30 kW.
+Il. Se a tensão na linha de transmissão for de 69 kV,
+a energia seria transmitida por essa linha em
+corrente elétrica de magnitude inferior a 2 A.
+Ill. Para um consumo per capita mensal igual
+a 120 kWh, seria possível atender com essa
+geração de energia todo o povoado.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+OLE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,311 791,311 791,550 790,550 790,603 789,603 789,1121 735,1121 735,1403 322,1403 322,1508 84,1508 84,1144 132,1144 132,1098 178,1098 178,984 133,984 133,983 132,983 132,930 84,930 84,929 83,929 83,794 84,794 84,706 88,706 88,603 85,603 85,551 83,551 83,311 84,311"/>
+	<TextEquiv conf="0.94872">
+	<Unicode>QUESTÃO 18
+Varia-se a tensão V aplicada aos terminais de um
+resistor para se conhecer o comportamento de sua
+resistência. Simultaneamente à variação da tensão
+V, mede-se a corrente 4 que flui através do resistor.
+Com os valores obtidos, plota-se o gráfico V x 2, cujo
+resultado é uma curva que se aproxima da função
+1 as :
+————, bara valores positivos de 1, em
+(1 +1)?
+que C é uma constante em unidades adequadas.
+Vi) =C
+Acerca desse resultado, avalie as afirmações a seguir.
+|. Aresistência não obedece à lei de Ohm, mas seu
+valor pode ser conhecido para cada par (V, 1).
+Il. Qualquer — resistor — utilizado em um
+experimento desse tipo sempre apresentará
+o comportamento descrito.
+Ill. Variações de tensão induzem um
+comportamento não linear em resistores.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1, 11e.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,234 810,2010 813,2010 813,234"/></SeparatorRegion></Page></PcGts>

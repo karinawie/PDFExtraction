@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:34:34</Created>
+	<LastChange>2020-12-06T03:49:04</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-12.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 473,299 473,352 1599,352 1599,501 145,501"/>
+	<TextEquiv conf="0.96226">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Uma empresa deseja estabelecer um novo canal de negócios utilizando a internet. Para isso, desenvolveu
+uma aplicação para internet - um portal - e criou um mecanismo de segurança, com base no uso do protocolo
+SSL (Secure Socket Layer) e de certificados digitais, de forma a proteger as informações de seus clientes
+durante o acesso. Parte do certificado digital dessa empresa aparece na imagem abaixo.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="158,538 158,1408 1569,1408 1569,538"/></ImageRegion></Page></PcGts>

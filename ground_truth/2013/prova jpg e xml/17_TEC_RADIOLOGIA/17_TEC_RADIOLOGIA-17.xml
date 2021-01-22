@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:47:43</Created>
+	<LastChange>2020-10-28T17:01:41</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-17.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="81,235 252,235 252,295 1536,295 1536,484 1492,484 1492,1495 1534,1495 1534,1583 1535,1583 1535,1917 809,1917 809,1918 83,1918 83,1919 82,1919 82,484 81,484"/>
+	<ImageRegion id="r1">
+	<Coords points="418,500 418,1405 1547,1405 1547,500"/></ImageRegion>
+	<TextEquiv conf="0.95554">
+	<Unicode>QUESTÃO 23
+A imagem por ressonância magnética (IRM) é obtida através da interação de um campo magnético de
+alta intensidade com as moléculas que compõem o tecido humano, mais diretamente com os prótons de
+hidrogênio. Nos conceitos físicos da IRM, a variável tempo T1 representa o tempo de retorno da magnetização
+para o eixo longitudinal e a variável tempo T2 referencia a redução da magnetização no plano transversal. As
+figuras 1 e 2 ilustram, respectivamente, a variação temporal das variáveis de tempo T1 e 12.
+Considerando os fenômenos físicos das ponderações T1 e T2 e analisando as figuras 1 e 2, conclui-se que
+O o valor de T1 corresponde ao tempo necessário para a magnetização longitudinal recuperar 63% do seu
+valor inicial.
+O o decaimento da magnetização transversal diminui linearmente até um valor mínimo após o qual se
+mantém constante.
+O o valor de T2 corresponde ao tempo necessário para que a magnetização no plano transversal aumente
+em 37% do valor inicial.
+O o retorno da magnetização longitudinal aumenta linearmente com o tempo até um valor máximo e em
+seguida mantém-se constante.
+O os valores de T1 e T2, somados, resultam em 100% do valor da magnetização inicial (Mo), o que pode
+produzir uma IRM com alto contraste e boa qualidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:39:53</Created>
+	<LastChange>2020-11-21T20:06:15</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-12.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,242 1017,242 1017,306 1537,306 1537,409 1538,409 1538,534 1252,534 1252,631 1003,631 1003,716 1002,716 1002,717 891,717 891,889 922,889 922,1091 276,1091 276,1084 275,1084 275,883 276,883 276,767 586,767 586,614 370,614 370,613 369,613 369,534 84,534"/>
+	<TextEquiv conf="0.63328">
+	<Unicode>Com base na situação proposta, faça o que se pede nos itens a seguir.
+a) Demonstre a partir de qual instante de tempo se garante que a medida das balanças estará adequada.
+(valor: 6,0 pontos)
+b) Na qualidade de perito contratado, apresente seu parecer para o caso, justificando-o com base em dados
+técnicos. (valor: 4,0 pontos)
+Considere as seguintes informações complementares:
+Função de transferência normalizada de um sistema de 2º ordem:
+2
+W,
+G(s) =
+8 +26 Wws+w?
+Sobressinal máximo: Mpz= =6T
+= P TO
+Tempo de pico: tp=
+Tempo de acomodação: ts=4</Unicode></TextEquiv></TextRegion></Page></PcGts>

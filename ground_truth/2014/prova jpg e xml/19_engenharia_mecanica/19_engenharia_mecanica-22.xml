@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:36:22</Created>
+	<LastChange>2020-11-22T01:57:18</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="84,1341 255,1341 255,1397 1537,1397 1537,1486 1538,1486 1538,1719 1255,1719 1255,1834 1353,1834 1353,1910 1095,1910 1095,1954 678,1954 678,2002 84,2002 84,1771 83,1771 83,1742 132,1742 132,1603 84,1603 84,1486 85,1486 85,1372 84,1372"/>
+	<TextEquiv conf="0.96769">
+	<Unicode>QUESTÃO 25
+Para o funcionamento do sistema pneumático de determinada empresa, é necessária uma vazão de 45
+metros cúbicos por hora (m?/h) de ar comprimido à pressão de 8 bar.
+Considerando a situação descrita, avalie as seguintes asserções e a relação proposta entre elas.
+|. Para atender a necessidade estabelecida, podem ser utilizados dois compressores com capacidade de
+30 m?/h cada, trabalhando em paralelo.
+PORQUE
+Il. Na associação em paralelo de compressores, tanto a vazão quanto o acréscimo de pressão dos
+compressores devem ser somados.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a |l é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,294 1538,294 1538,656 1537,656 1537,1087 277,1087 277,1226 260,1226 260,1270 252,1270 252,1312 84,1312 84,539 83,539 83,294 84,294"/>
+	<ImageRegion id="r2">
+	<Coords points="165,660 165,1010 1447,1010 1447,660"/></ImageRegion>
+	<TextEquiv conf="0.96803">
+	<Unicode>QUESTÃO 24
+Um fabricante de eixos roscados, que são empregados como fusos de transmissão, decidiu fabricar as suas
+peças em um único passe de torneamento a fim de reduzir o tempo de produção. Assim, optou por alterar o
+processo de usinagem, no qual os fusos eram fabricados em 8 passes de torneamento com ferramentas de
+aço rápido, e passou a fabricar esses fusos em um único passe, com ferramentas de metal duro revestidas.
+Antes dessa alteração na linha de produção, o fabricante ficou na dúvida se seria possível implementar essa
+modificação e resolveu calcular a potência de corte para saber se os tornos da sua fábrica teriam condição
+de atender tal alteração.
+O engenheiro de processos, utilizando os dados abaixo, calculou a força de corte (Fc) e a potência de corte
+(Pc) necessárias para a fabricação desse tipo de rosca, que tem perfil quadrado com dimensões de 16 mm
+externo, 13 mm de diâmetro interno e passo de 2 mm.
+Considerando esses dados, os valores da força de corte, em kgf, e da potência de corte, em CV, são,
+respectivamente, iguais a
+O 150 e7,5.
+O 300 e 10.
+O 300 e 12,5.
+O 1450 e 7,5.
+O 450 e 10.</Unicode></TextEquiv></TextRegion></Page></PcGts>

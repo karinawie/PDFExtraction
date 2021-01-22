@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:11:11</Created>
+	<LastChange>2020-12-06T03:17:27</LastChange></Metadata>
+	<Page imageFilename="42_tecnologia_gestao_producao_industrial-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="893,299 1064,299 1064,358 1600,358 1600,618 1598,618 1598,745 1599,745 1599,1538 1598,1538 1598,1626 1488,1626 1488,1673 894,1673 894,1365 893,1365 893,1242 942,1242 942,719 894,719 894,618 893,618"/>
+	<TextEquiv conf="0.96621">
+	<Unicode>QUESTÃO 31
+No planejamento de projeto, deve-se analisar
+a viabilidade econômica-financeira do produto,
+que significa estimar e analisar as perspectivas de
+desempenho financeiro do produto resultante do
+projeto. Para obter as informações necessárias para
+realizar essa viabilidade, é necessária a participação
+contínua de todos os envolvidos.
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Para o sucesso do desenvolvimento do
+produto, deve ocorrer revisão periódica
+da viabilidade econômica-financeira ao
+longo do projeto. Conforme as fases
+do desenvolvimento vão ocorrendo,
+aproximam-se as condições reais do produto.
+PORQUE
+Ill. Os principais indicadores financeiros do
+projeto são: valor presente líquido, taxa
+interna de retorno, método do payback,
+custo-alvo do produto, fluxo de caixa esperado
+e previsões de retorno de investimento.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,360 853,360 853,989 852,989 852,1072 851,1072 851,1424 335,1424 335,1542 385,1542 385,1668 384,1668 384,1669 146,1669 146,1423 145,1423 145,1106 244,1106 244,989 145,989 145,988 144,988 144,359 145,359"/>
+	<TextEquiv conf="0.95665">
+	<Unicode>QUESTÃO 30
+Para inovar a função manutenção, é requerido, no
+contexto organizacional, o uso de modelos para a
+análise da situação da gestão, de maturidade, de
+causalidade e financeiros. Isso define as variáveis
+que são matérias de estudo e análise, sua relação
+com as demais funções produtivas e administrativas
+e a concentração naquilo que é importante para
+melhorar o desempenho. Diversas abordagens de
+gestão de manutenção têm sido propostas e cada uma
+delas com distintos graus de sucesso ou insucesso
+nas suas aplicações. As três concepções mais
+publicadas e usadas nas empresas são: Manutenção
+Centrada na Confiabilidade — MCC, Manutenção
+Produtiva Total (Total Productive Maintenance) —
+TPM e Manutenção Centrada no Risco (Risk Based
+Maintenance) — RBM.
+FUENTES, F. F. E. Metodologia para inovação da gestão de
+manutenção industrial. Florianópolis: UFSC, 2006 (adaptado).
+Uma das bases da TPM é a Manutenção Autônoma,
+que prevê
+|. a realização pelos próprios operadores.
+Il. o aumento da vida útil do equipamento.
+Ill. o foco basicamente na limpeza, lubrificação,
+reapertos e inspeção diária.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 1I1e.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,291 872,2083 877,2083 877,291"/></SeparatorRegion></Page></PcGts>

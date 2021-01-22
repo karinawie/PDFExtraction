@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:31:35</Created>
+	<LastChange>2020-12-06T00:01:47</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="893,299 1065,299 1065,360 1600,360 1600,741 1601,741 1601,1215 1598,1215 1598,1320 1040,1320 1040,1538 1059,1538 1059,1568 894,1568 894,1321 893,1321 893,1251 894,1251 894,742 893,742"/>
+	<TextEquiv conf="0.96469">
+	<Unicode>QUESTÃO 18
+Em uma festa infantil, um grupo de 7 crianças — Ana,
+Beatriz, Carlos, Davi, Eduardo, Fernanda e Gabriela —
+reuniu-se próximo a uma mesa para brincar de “esconde-
+esconde”, um jogo no qual uma criança é separada dos
+demais, que procuram locais para se esconder, sem
+que a escolhida as veja, pois essa tentará encontrá-las
+após algum tempo estabelecido previamente. Assim,
+era necessário escolher qual delas seria aquela que iria
+procurar todas as outras.
+Para efetuar essa escolha, as crianças se dispuseram
+em um círculo na mesma ordem descrita
+anteriormente e, simultaneamente, mostraram
+um número de dedos das mãos. Os números de
+dedos mostrados foram somados, resultando em
+uma quantidade que vamos chamar de TOTAL. Ana
+começou a contar de 1 até o TOTAL, e, a cada número
+dito, apontava para uma criança da seguinte forma:
+1- Ana, 2 - Beatriz, 3 - Carlos, 4 - Davi, e assim por
+diante. Quando chegasse ao número TOTAL, a criança
+correspondente a esse número seria aquela que iria
+procurar as demais.
+Se o número TOTAL é igual a 64, a criança designada
+para procurar as demais é
+O Ana.
+O Beatriz.
+O carlos.
+O Davi.
+O Eduardo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,859 149,859 149,860 155,860 155,861 160,861 160,862 316,862 316,930 851,930 851,965 618,965 618,1051 531,1051 531,1069 535,1069 535,1109 381,1109 381,1178 223,1178 223,1281 214,1281 214,1321 213,1321 213,1368 147,1368 147,1369 146,1369 146,966 145,966"/>
+	<TextEquiv conf="0.87942">
+	<Unicode>QUESTÃO 17
+Considere (7), neN, uma sequência de números
+LC
+n
+n+l
+reais positivos tal que x, =
+Nesse caso, lim 7, é igual a
+note.
+O +--.
+O o.
+Ox.
+O 1.
+O.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="145,299 317,299 317,348 851,348 851,349 852,349 852,446 851,446 851,557 316,557 316,860 161,860 161,859 156,859 156,858 150,858 150,857 145,857"/>
+	<TextEquiv conf="0.77638">
+	<Unicode>QUESTÃO 16
+Considere uma função f: R &gt; R diferenciável em todo
+o seu domínio, com f'/(t) &lt; x, Vre R.
+Se /(1) = 1, então, pelo Teorema do Valor Médio, o
+valor máximo de f(3) é igual a
+o:.
+O.
+O 7.
+Os.
+O 11.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="869,291 869,2086 877,2086 877,291"/></SeparatorRegion></Page></PcGts>

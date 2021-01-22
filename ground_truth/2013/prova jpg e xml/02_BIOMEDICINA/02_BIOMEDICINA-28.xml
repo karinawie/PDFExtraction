@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:20:33</Created>
+	<LastChange>2020-09-25T03:39:23</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-28.jpg" imageWidth="1610" imageHeight="2164">
+	<ImageRegion id="r0">
+	<Coords points="307,560 307,1297 1557,1297 1557,560"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="268,1297 268,1992 1555,1992 1555,1297"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="78,231 407,231 407,286 1533,286 1533,557 806,557 806,558 79,558 79,559 78,559"/>
+	<TextEquiv conf="0.96586">
+	<Unicode>QUESTÃO DISCURSIVA 4
+A diabetes é um importante problema de saúde pública. No Brasil, sua prevalência média atingiu 5,6%
+em 2011, de acordo com o Ministério da Saúde, e estima-se que a doença aumente nas próximas décadas.
+A doença é uma condição de grande impacto social e econômico, onerosa para o Estado e para o indivíduo,
+além de ter uma elevada morbidade devido a complicações cardíacas, cerebrovasculares, vasculares
+periféricas, oculares, renais e neuropáticas, incapacitando o indivíduo e acelerando a morte dos doentes.
+Atualmente, também se reconhece a existência do indivíduo pré-diabético, com grande risco de desenvolver
+a doença. As figuras a seguir apresentam dados referentes a prevalência de diabetes (Figura 1) e a projeção
+de crescimento populacional brasileiro (Figura 2) de acordo com a idade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

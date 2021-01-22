@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:19:39</Created>
+	<LastChange>2020-11-22T03:31:54</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,293 1537,293 1537,417 1538,417 1538,519 1537,519 1537,607 745,607 745,1160 1377,1160 1377,1256 1537,1256 1537,1336 1539,1336 1539,1437 470,1437 470,1541 313,1541 313,1715 84,1715 84,395 83,395 83,293 84,293"/>
+	<TextEquiv conf="0.96121">
+	<Unicode>QUESTÃO 17
+Pelas leis de Faraday e Ampére, combinadas, é possível transmitir e captar informações entre duas
+espiras. Um circuito RLC, constituído por uma fonte, um resistor, um solenoide e um capacitor, têm em seu
+funcionamento os aspectos fundamentais do processo de captação desses sinais.
+Esse sistema, circuito RLC, é um oscilador elétrico onde ora a energia magnética armazenada no campo
+magnético do solenoide é convertida em energia elétrica armazenada no campo elétrico do capacitor, ora
+ocorre o inverso, com uma frequência natural de oscilação.
+Quando o circuito é forçado a oscilar com essa frequência, a resposta acontece em fase com a excitação,
+como ocorre em qualquer oscilador forçado. Nessas condições, o sistema encontra-se em ressonância.
+Observe o circuito representado na figura abaixo.
+Considerando que o circuito da figura encontra-se em ressonância, avalie as afirmações a seguir.
+|. Afrequência da fonte de 100 V é de 1 000 KHz.
+Il. Quanto menor o valor da resistência R, maior a resposta do circuito em termos de corrente elétrica,
+que, nesse caso, tem amplitude igual a 1,25 A.
+Ill. De acordo com a lei de Ampére, quando o capacitor se descarrega, surge uma força contra-eletromotriz
+nos terminais do solenoide, que tende a se contrapor à variação da corrente, e a corrente passa a fluir
+no sentido contrário, de modo a carregar novamente o capacitor.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O LINE.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="507,676 507,1139 1086,1139 1086,676"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:01:14</Created>
+	<LastChange>2020-09-24T18:01:34</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,523 811,523 811,524 722,524 722,657 605,657 605,791 775,791 775,890 600,890 600,1007 443,1007 443,1125 582,1125 582,1164 605,1164 605,1203 705,1203 705,1303 635,1303 635,1420 460,1420 460,1528 1289,1528 1289,1584 1537,1584 1537,1756 1353,1756 1353,1908 1071,1908 1071,1956 678,1956 678,2004 85,2004 85,2005 84,2005 84,1758 83,1758 83,1528 85,1528 85,1474 86,1474 86,1108 83,1108 83,1086 85,1086 85,657 83,657 83,297 84,297"/>
+	<TextEquiv conf="0.92574">
+	<Unicode>QUESTÃO 34
+Considere a implementação de um compilador em que as etapas de análise léxica e sintática possam
+compartilhar o mesmo processador de forma concorrente. Considere, ainda, uma solução para o problema,
+cujo pseudocódigo é mostrado abaixo. O analisador léxico Ilê os lexemas e identifica os respectivos tokens do
+arquivo-fonte por meio da chamada ao procedimento Leia. O analisador sintático verifica a sequência dos
+tokens por meio da chamada ao procedimento Case. Os dois processos compartilham a constante Ne as
+variáveis buffer, vez econt.
+constante N = 10;
+02 enquanto verdadeiro faça
+o3 Leia (token);
+04 enquanto cont = N - 1 aguarde;
+o5 enquanto vez = 1 aguarde;
+06 buffer[in] = token;
+07 cont = cont + 1;
+o8 vez = 1;
+09 in = (in + 1) mod N;
+10 fim enquanto
+Analisador Sintatico:
+11 inteiro token, out = O;
+12 enquanto verdadeiro faça
+13 enquanto cont = O aguarde;
+14 enquanto vez = O aguarde;
+15 token buffer [out];
+16 cont = cont - 1;
+17 vez = O;
+18 out (out + 1) mod N;
+19 Case (token);
+20 fim enquanto
+inteiro buffer[N], vez = O, cont = O;
+Analisador Lexico:
+01 inteiro token, in = O;
+A partir da análise da solução, avalie as asserções a seguir e a relação proposta entre elas.
+|. Aeliminação da variável cont e das linhas 4, 7,13 e 16 causa erro de sincronismo entre os processos.
+PORQUE
+Il. A variável cont é responsável pelo controle do acesso à seção crítica do código.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a |l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

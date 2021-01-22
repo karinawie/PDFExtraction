@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:40:05</Created>
+	<LastChange>2020-11-21T20:06:53</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-11.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,238 85,238 85,239 412,239 412,305 1538,305 1538,415 1537,415 1537,1490 1538,1490 1538,1826 1539,1826 1539,2015 83,2015 83,2014 84,2014 84,1490 85,1490 85,415 84,415"/>
+	<ImageRegion id="r1">
+	<Coords points="144,413 144,1328 1536,1328 1536,413"/></ImageRegion>
+	<TextEquiv conf="0.96196">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Em determinada rodovia, a pesagem obrigatória de caminhões é realizada por balanças automatizadas. Além
+da plataforma e do indicador como itens básicos da balança rodoviária, o sistema de pesagem é constituído
+por diversos componentes, conforme ilustrado na figura abaixo.
+No momento da pesagem, o caminhão desloca-se por uma pequena inclinação e acomoda-se para que a
+medição seja realizada e registrada. Assim, do solo até a acomodação do caminhão, o sinal aplicado à balança
+pode ser aproximado por um degrau unitário.
+Suponha que o caminhão de uma empresa de transporte de cargas tenha passado por duas balanças em uma
+rodovia com pesagem automatizada. O gerente da empresa constatou que o caminhão havia sido multado
+na segunda balança, após ter sido liberado pela primeira. Para recorrer da multa, solicitou-se parecer de
+um perito com relação ao sistema de controle de pesagem das balanças. Para análise e emissão do laudo, o
+perito recebeu do fabricante da balança a sua função de transferência, representada por:
+indicaobalanca(s) 16
+pesocaminhao(s) — s+4s+16
+Suponha, ainda, que a empresa responsável pela manutenção do sistema de aquisição de dados informou ao
+perito que, na primeira balança, o peso é adquirido 3 s após a entrada do caminhão e, na segunda balança,
+1,2 s após a entrada do veículo. Considere que, no percurso entre as balanças, não houve variação de carga
+no caminhão, que as diferenças causadas pelo consumo de combustível são desprezíveis e que o peso é
+fixado após a acomodação do sistema.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:33:24</Created>
+	<LastChange>2020-12-06T03:44:48</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="146,299 318,299 318,359 1236,359 1236,360 1599,360 1599,428 1216,428 1216,1274 1237,1274 1237,1275 1599,1275 1599,1371 1600,1371 1600,1440 1599,1440 1599,1599 703,1599 703,1846 146,1846 146,1599 145,1599 145,1248 144,1248 144,1247 145,1247 145,426 144,426 144,359 145,359 145,329 146,329"/>
+	<ImageRegion id="r1">
+	<Coords points="211,452 211,1172 1502,1172 1502,452"/></ImageRegion>
+	<TextEquiv conf="0.95997">
+	<Unicode>QUESTÃO 16
+Um administrador de rede necessita escolher a categoria de cabo junto à fornecedora para realizar a instalação
+física do switch LAN ao roteador MPLS conforme a figura a seguir.
+As especificações técnicas necessárias do cabo, segundo o projeto de rede, são:
+* Suporte para sistema de cabeamento estruturado para tráfego de voz, dados e imagens com aplicação
+para cabeamento vertical ou horizontal.
+º*º Proteção extra contra ingresso e egresso de EMI (Indução Eletromagnética) e RFI (Interferência por
+Radiofrequência), pois no local há altas fontes de ruído e interferência.
+* —Cabodefinido pela Norma ISO/IEC 11801 e IEC 61156-5 para frequência até 600 MHz.
+Considerando a classificação do cabeamento estruturado da ABNT NBR 14565:2013 - Cabeamento estruturado
+para edifícios comerciais e data centers - o administrador de rede escolherá o cabo
+O classe F.
+O classe E/Categoria 6.
+O classe F com blindagem.
+O classe D/Categoria 6 com blindagem.
+O classe E/Categoria 6A com blindagem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

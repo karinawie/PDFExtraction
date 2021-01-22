@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-07T02:59:11</Created>
+	<LastChange>2020-11-16T00:36:20</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_fincanceira-19.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="80,1143 1536,1143 1536,1174 1533,1174 1533,1325 295,1325 295,1604 80,1604 80,1355 81,1355 81,1174 80,1174"/>
+	<TextEquiv conf="0.56067">
+	<Unicode>QUESTÃO 20
+Um cidadão procurou um banco para contratar financiamento de um imóvel cujo valor é de R$ 450 mil,
+utilizando o Sistema de Amortização Constante (SAC). O Custo Efetivo Total (CET) da operação realizada é de
+10% ao ano. Sendo o financiamento em 100 parcelas, o valor da amortização mensal seria igual a
+O R$4000,00.
+O R$4500,00.
+O R$4950,00.
+O R$ 5 200,00.
+OQ R$ 5 500,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,233 1536,233 1536,264 1534,264 1534,415 898,415 898,746 1534,746 1534,1004 1486,1004 1486,1059 1429,1059 1429,1113 81,1113 81,1114 80,1114 80,416 79,416 79,308 80,308"/>
+	<TableRegion id="r2">
+	<Coords points="78,447 78,652 1534,652 1534,447"/></TableRegion>
+	<TextEquiv conf="0.46243">
+	<Unicode>QUESTÃO 19
+O gerente financeiro de uma empresa de serviços analisou as opções de investimento A e B, apresentadas na
+tabela a seguir, sobre um capital de R$ 100 000,00 no período de três anos. Em ambas as opções, os juros são
+capitalizados anualmente à taxa de 10% ao ano, segundo regimes de capitalização diferentes.
+Com base na análise dos dados apresentados, conclui-se que
+O o investimento A gerou para a empresa o valor de R$ 30 000,00, o que corresponde à apuração de juros
+sobre juros, ao final do período de três anos.
+O oinvestimento B é mais atrativo, porque os juros são calculados de forma linear e incidem sobre o capital
+inicial investido pela empresa.
+O o investimento B é mais atrativo, porque os juros são calculados sobre o montante, o qual inclui os juros
+do período anterior.
+O o investimento A é menos atrativo, porque os juros aumentam a cada período de forma exponencial.
+O oinvestimento A gera para a empresa montante inferior ao investimento B, ao final de cada ano.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:43:24</Created>
+	<LastChange>2020-11-21T03:51:49</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-26.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r2">
+	<Coords points="856,442 856,850 1501,850 1501,442"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="833,238 1003,238 1003,299 1538,299 1538,1279 1539,1279 1539,1349 1538,1349 1538,1497 997,1497 997,1751 833,1751 833,1752 832,1752 832,1523 833,1523 833,985 832,985 832,413 831,413 831,300 832,300 832,239 833,239"/>
+	<TextEquiv conf="0.96947">
+	<Unicode>QUESTÃO 32
+A figura abaixo representa uma estrutura plana, na
+qual as forças P1 e P2 têm módulos iguais a 5 kN e
+10 kN, respectivamente.
+Com relação à situação apresentada, avalie as
+afirmações a seguir.
+|. O momento fletor na extremidade da barra
+horizontal (ponto E) vale M = 15 kN.m.
+Il. O módulo de elasticidade e as medidas
+da seção transversal não influenciam na
+determinação dos esforços nas barras, por se
+tratar de uma estrutura isostática.
+A força P1 faz com que a barra AC fique
+submetida à flexão oblíqua.
+IV. O diagrama de esforços axiais na barra CE é
+nulo.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Ole
+O LIlelv.
+OQ uMeiv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,304 790,304 790,1679 470,1679 470,1733 346,1733 346,1870 362,1870 362,2009 84,2009 84,1762 85,1762 85,1699 132,1699 132,1081 178,1081 178,733 132,733 132,671 84,671"/>
+	<TextEquiv conf="0.94916">
+	<Unicode>QUESTÃO 31
+O aproveitamento de águas pluviais para fins não
+potáveis pode contribuir para a redução do consumo
+de água potável nas edificações, sendo uma opção
+interessante quando se trata de temas relevantes
+como o da conservação da água.
+Com relação ao aproveitamento de águas pluviais
+em edificações residenciais, avalie as afirmações a
+seguir.
+|. A viabilidade de utilização de águas pluviais
+como fonte abastecedora alternativa
+depende da quantidade de água captável do
+sistema, que varia de acordo com a área de
+captação e o volume de armazenamento de
+água de chuva, sendo influenciada também
+pelo índice pluviométrico da região e pelo
+coeficiente de escoamento superficial.
+ll. O sistema de aproveitamento da água da
+chuva, por ser descentralizado do sistema
+de abastecimento de água, requer cuidados
+específicos como, por exemplo, reservatório
+independente, para que não se misture com a
+água proveniente da rede de distribuição.
+Ill. A utilização da água da chuva pode auxiliar
+na redução do escoamento superficial,
+minimizando os problemas com enchentes
+nas grandes cidades.
+IV. A água proveniente da chuva,
+passando por processo de desinfecção, não
+deve ser aproveitada para fins potáveis.
+mesmo
+É correto o que se afirma em
+O 1, Il elll, apenas.
+O |, IlelV, apenas.
+O 1, Il elV, apenas.
+O Il, Il e IV, apenas.
+OLI,NMEeIv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="810,236 810,2010 813,2010 813,236"/></SeparatorRegion></Page></PcGts>

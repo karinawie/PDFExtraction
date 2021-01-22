@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:04:44</Created>
+	<LastChange>2020-09-24T18:05:39</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1277,298 1277,352 1364,352 1364,524 1538,524 1538,592 1060,592 1060,1107 907,1107 907,676 832,676 832,592 831,592 831,524 832,524"/>
+	<TextEquiv conf="0.96490">
+	<Unicode>QUESTÃO 27
+Considere o seguinte argumento:
+1- Se existe fogo, então existe oxigênio.
+2 - Não há oxigênio.
+3 - Então não há fogo.
+A regra de inferência que justifica a validade do
+argumento acima é
+PQ, -P
+-Q
+P&gt;Q,-Q
+-P
+P&gt;2Q0,Q
+P
+P&gt;Q,-Q
+—=P
+PSQ,P
+Q
+o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,293 789,293 789,493 790,493 790,847 789,847 789,1061 790,1061 790,1446 792,1446 792,1510 790,1510 790,1729 470,1729 470,1781 265,1781 265,1886 322,1886 322,2003 84,2003 84,1799 85,1799 85,1747 132,1747 132,1560 133,1560 133,1448 132,1448 132,1353 85,1353 85,1304 84,1304 84,1240 83,1240 83,1061 84,1061 84,848 83,848 83,493 84,493"/>
+	<TextEquiv conf="0.96033">
+	<Unicode>QUESTÃO 26
+Um conjunto indutivo S é definido de acordo com os
+seguintes passos:
+[Base] Declaração dos elementos iniciais, atômicos.
+[Indução] Definição de regras que constroem
+expressões a partir de elementos já existentes em S.
+[Fecho] Uma declaração de que nada mais está em
+S a não ser os elementos construídos pelos passos
+Base e Indução.
+Os operadores que constroem as expressões nos
+passos Base e Indução são chamados de construtores
+do conjunto S. Como um exemplo, a definição
+abaixo especifica um conjunto indutivo Prop, das
+proposições booleanas formadas pelos construtores
+V (valor verdadeiro), F (valor falso), ! (para negação
+de expressões) e and (para conjunção de expressões).
+1. [Base] V, F estão em Prop.
+2. [Indução] Se B está em Prop, então (! B) está em
+Prop.
+3. [Indução] Se B1 e B2 estão em Prop, então (and
+B1 B2) está em Prop.
+4. [Fecho] Nada mais está em Prop, a não ser o
+especificado em Base e Indução.
+Expressões (termos) em Prop incluem V, E, ! E IV,
+(and V F), (and (! V) (| F)) e assim por diante. De
+forma análoga, linguagens funcionais permitem a
+declaração de tipos indutivos com seus respectivos
+construtores.
+Neste contexto, avalie as seguintes afirmações.
+|. Conjuntos indutivos são conjuntos
+enumeráveis.
+Il. Conjuntos
+especificados
+indutivas.
+Ill. Para estender a linguagem Prop de tal forma
+a considerar expressões para disjunção
+e implicação de proposição, é necessário
+acrescentar mais dois construtores à definição
+de Prop anterior.
+infinitos
+por
+não podem ser
+meio de definições
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1LI1elm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

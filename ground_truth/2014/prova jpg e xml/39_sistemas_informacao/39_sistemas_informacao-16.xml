@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:57:10</Created>
+	<LastChange>2020-12-06T02:07:24</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,840 1601,840 1601,1070 1600,1070 1600,1071 1599,1071 1599,1404 1598,1404 1598,1492 1488,1492 1488,1540 895,1540 895,1539 894,1539 894,1227 893,1227 893,1102 987,1102 987,1069 988,1069 988,624 942,624 942,565 894,565 894,564 893,564"/>
+	<TextEquiv conf="0.95762">
+	<Unicode>QUESTÃO 15
+Os sistemas de informação podem ser classificados
+em sistemas OLTP (Online Transaction Processing) e
+sistemas OLAP (Online Analytical Processing).
+A respeito desses tipos de sistemas, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. Em sistemas OLTP, os dados são normalmente
+estruturados em um modelo relacional
+normalizado, e em sistemas OLAP, os dados
+são normalmente estruturados em um modelo
+multidimensional; contudo, esses sistemas
+estão inter-relacionados.
+PORQUE
+Os sistemas OLAP, na maioria das vezes,
+obtêm dados a partir de processos ETL
+(Extract, Transform, Load), que recuperam e
+transformam os dados obtidos a partir das
+bases de dados dos sistemas OLTP.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,304 851,304 851,804 532,804 532,916 367,916 367,1027 375,1027 375,1106 146,1106 146,1010 147,1010 147,826 240,826 240,678 194,678 194,647 239,647 239,474 194,474 194,413 145,413"/>
+	<TextEquiv conf="0.74499">
+	<Unicode>Considerando a classificação das linguagens de
+programação apresentada na tabela, avalie as
+afirmações a seguir.
+|. O ranking é liderado por uma linguagem de
+terceira geração e de paradigma funcional.
+II.Linguagens com licença livre têm participação
+inferior a 20%, se somados os percentuais de
+popularidade.
+Ill. É maior, no ranking, a participação de
+linguagens que utilizam o paradigma
+orientado a objetos que a das linguagens que
+utilizam os demais paradigmas.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,2080 872,294"/></SeparatorRegion></Page></PcGts>

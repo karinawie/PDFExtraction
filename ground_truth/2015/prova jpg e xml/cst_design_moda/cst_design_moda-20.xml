@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T17:46:12</Created>
+	<LastChange>2020-11-06T18:00:47</LastChange></Metadata>
+	<Page imageFilename="cst_design_moda-20.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,234 1536,234 1536,264 941,264 941,337 797,337 797,1126 695,1126 695,1784 320,1784 320,1948 233,1948 233,2001 80,2001 80,336 79,336 79,308 80,308"/>
+	<ImageRegion id="r2">
+	<Coords points="65,1134 65,1647 1315,1647 1315,1134"/></ImageRegion>
+	<TextEquiv conf="0.84751">
+	<Unicode>QUESTÃO 18
+A imagem a seguir representa o desenho técnico de um vestido.
+Considerando esse modelo, avalie os moldes a seguir.
+Qual(is) desses moldes compõe(m) o vestido?
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="521,336 521,1078 1107,1078 1107,336"/></ImageRegion></Page></PcGts>

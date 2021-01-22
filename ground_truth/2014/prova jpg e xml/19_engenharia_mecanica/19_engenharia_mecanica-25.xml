@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:35:51</Created>
+	<LastChange>2020-11-22T01:50:52</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-25.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r1">
+	<Coords points="179,764 178,1596 695,1596 696,764"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1538,297 1538,1937 1426,1937 1426,2008 833,2008 833,2007 832,2007 832,1665 831,1665 831,1636 832,1636"/>
+	<ImageRegion id="r4">
+	<Coords points="1007,560 1007,1042 1357,1042 1357,560"/></ImageRegion>
+	<TextEquiv conf="0.96694">
+	<Unicode>QUESTÃO 30
+Rotâmetro é um medidor de vazão de área variável,
+no qual um flutuador é arrastado pelo fluido para
+cima, dentro de um tubo cônico transparente, de
+modo que a velocidade do escoamento em torno
+do flutuador resulta em uma força de arraste que
+equilibra o seu peso. Dessa forma, dependendo
+da vazão, o flutuador irá se localizar em uma certa
+posição relativa à escala, como ilustra a figura abaixo.
+Sabendo que a força de arraste é proporcional
+à massa específica do fluido, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. Em um rotâmetro calibrado para a medição de
+vazão de água (massa específica = 1 000 kg/m?),
+se for medida a vazão de um fluxo de óleo Diesel
+(massa específica = 850 kg/m?), a leitura de
+vazão na escala do rotâmetro será menor que a
+vazão real.
+PORQUE
+Il. Com menor massa específica, a velocidade
+para se obter o equilíbrio entre peso e arrasto
+será maior, posicionando-se o flutuador em
+uma parte inferior do tubo cônico, onde a
+área de passagem é menor que a necessária
+para uma mesma vazão de água.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,297 790,297 790,745 789,745 789,1747 336,1747 336,1910 327,1910 327,2010 84,2010 84,1747 83,1747 83,297 84,297"/>
+	<TextEquiv conf="0.75465">
+	<Unicode>QUESTÃO 29
+Um vaso de pressurização de uma linha hidráulica
+para pressão de 4,0 N/mm?, conforme ilustra a
+figura, tem seu bocal de inspeção com diâmetro
+interno de 200 mm fixada por oito parafusos
+de cabeça sextavada M14 x 2 x 40 com porca.
+Considere que tanto a tampa quanto o espelho
+de fixação são confeccionados em aço e que a
+espessura total da junta (espelho + tampa) é de
+28 mm, a rigidez do parafuso (k,) torna-se igual a
+1 100,0 kN/mm e a rigidez das peças unidas (k )
+torna-se igual a 4 400,0 kN/mm.
+Na situação descrita, qual a menor força de aperto (F,)
+que deve ser especificada para se fixar os parafusos,
+garantindo-se a integridade da junta?
+O rF.=156,87 N.
+O F,=10007 N.
+O F=1254,47 N.
+O rF.=40007 N.
+O r,=32 0007 N.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,2021 807,226"/></SeparatorRegion></Page></PcGts>

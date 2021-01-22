@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:14:54</Created>
+	<LastChange>2020-12-06T02:32:53</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 894,299 894,300 1064,300 1064,350 1600,350 1600,1332 1599,1332 1599,1818 1384,1818 1384,1870 1061,1870 1061,2069 895,2069 895,2068 894,2068 894,2037 895,2037 895,1836 939,1836 939,1733 942,1733 942,1195 894,1195 894,1194 893,1194"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>QUESTÃO 33
+As vezes, garantia de qualidade significa
+simplesmente a definição de procedimentos,
+processos e padrões que visam reforçar que a
+qualidade de software seja atingida. Em outros
+casos, a garantia de qualidade também inclui todo
+o gerenciamento de configuração, atividades de
+verificação e validação aplicados após o produto ter
+sido entregue por uma equipe de desenvolvimento.
+SOMMERVILLE, |. Engenharia de Software. 9. ed., São Paulo, 2011, p.455.
+Qualquer alteração inserida no processo de
+desenvolvimento de software aumenta a
+amplitude de erros e tende a descaracterizar
+o projeto inicialmente planejado, afetando a
+qualidade do produto ou serviço. O controle e a
+garantia da qualidade de software visam satisfazer
+as necessidades dos stakeholders; assegurar que
+os requisitos dos usuários sejam atendidos pelas
+especificações dos produtos ou serviços; definir
+os processos para que o desenvolvimento do
+sistema atenda esses requisitos; gerenciar versões,
+mudanças, releases e a construção do sistema. A fim
+de assegurar a garantia da qualidade do software
+é indispensável definir um processo para controlar
+a documentação elaborada durante o processo de
+desenvolvimento.
+Considerando essa situação, avalie as afirmações a seguir.
+|. As técnicas de verificação e validação de
+software estabelecem a confiança de que
+o sistema que esteja sendo desenvolvido é
+adequado ao seu propósito.
+Il. A gerência de configuração provê pontos
+de controle sobre os artefatos produzidos e
+modificados por diferentes recursos.
+IIl. O gerenciamento de mudanças deve
+documentar a detecção de bugs e problemas
+introduzidos após a construção de uma nova
+versão do software.
+IV. Faz parte das atribuições da equipe de
+garantia de qualidade examinar se os testes
+do sistema proporcionam cobertura dos
+requisitos e manter registros adequados do
+processo de teste.
+V. A revisão de software tem por objetivo
+armazenar os documentos num repositório
+central.
+É correto apenas o que se afirma em
+OU, IVev</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,362 851,362 851,913 720,913 720,1117 851,1117 851,1169 850,1169 850,1306 852,1306 852,1756 532,1756 532,1819 375,1819 375,1988 384,1988 384,2067 146,2067 146,1843 147,1843 147,1785 194,1785 194,1278 145,1278 145,1208 238,1208 238,1081 145,1081 145,913 144,913 144,362 145,362"/>
+	<TextEquiv conf="0.96252">
+	<Unicode>QUESTÃO 32
+Vivemos em um mundo de produtos de alta
+tecnologia e praticamente todos requerem interação
+humana. Para que um produto de software seja
+bem-sucedido, deve apresentar boa usabilidade.
+Se os mecanismos de interface tiverem sido bem
+projetados, o usuário flui suavemente através da
+interação usando um ritmo cadenciado que permite
+que o trabalho seja realizado sem grandes esforços.
+Entretanto, se ainterfacefor mal concebida, o usuário
+se move aos trancos e barrancos, e o resultado será
+frustração e baixa eficiência no trabalho.
+Três regras de ouro são a base para um conjunto de
+princípios para o projeto de interfaces do usuário:
+1 — deixar o usuário no comando;
+2 — reduzir a carga de memória do usuário;
+3 — tornar a interface consistente.
+PRESSMAN, R. S.; Engenharia de Software: uma abordagem
+profissional. 7 ed., McGraw Hill,2011, p. 287-288 (adaptado).
+Com base nessas três regras, avalie as afirmações a
+seguir.
+|. Um sistema que permita ao usuário desfazer
+qualquer ação, respeita a regra de ouro 1.
+Il. Um sistema de pagamento de contas que
+usa uma imagem de um cartão de crédito
+para orientar o usuário pelo processo de
+pagamento de uma conta, respeita a regra de
+ouro 2.
+Ill. Um conjunto de aplicações ou produtos que
+implementam as mesmas regras de projeto
+de modo padronizado, respeita a regra de
+ouro 3.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1LIelm.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,291 872,2077 869,2077 869,291"/></SeparatorRegion></Page></PcGts>

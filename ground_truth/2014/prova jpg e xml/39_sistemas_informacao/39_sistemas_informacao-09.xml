@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:58:28</Created>
+	<LastChange>2020-12-06T02:10:25</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-09.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="145,299 473,299 473,359 1599,359 1599,693 873,693 873,692 146,692 146,691 145,691"/>
+	<TextEquiv conf="0.96566">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Uma aplicação mantém um grande conjunto de dados ordenados em uma lista linear em memória,
+implementada na forma de array. Os dados são estáveis, ou seja, são realizadas poucas operações de inserção
+e remoção, e a aplicação exige grande quantidade de pesquisas. Sabe-se que vários algoritmos permitem
+realizar pesquisas em um conjunto de dados, sendo alguns mais eficientes que outros. Nesse sentido, a
+pesquisa binária apresenta características bem definidas para se encontrar um dado procurado.
+Considerando o contexto apresentado, desenvolva um algoritmo de pesquisa binária, de forma imperativa ou
+orientada a objetos, utilizando qualquer notação em português estruturado ou em uma linguagem de alto
+nível, como o Pascal, C ou Java. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

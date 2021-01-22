@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:11:00</Created>
+	<LastChange>2020-11-22T02:21:44</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="832,238 1003,238 1003,294 1538,294 1538,927 1218,927 1218,1038 1062,1038 1062,1149 1070,1149 1070,1228 832,1228 832,948 926,948 926,801 880,801 880,779 897,779 897,556 880,556 880,495 832,495 832,431 831,431 831,294 832,294"/>
+	<TextEquiv conf="0.96760">
+	<Unicode>QUESTÃO 24
+O incentivo ao uso de energia gerada por fontes
+renováveis é uma tendência mundial. Consideram-se
+fontes renováveis a hidraúlica, a solar, a eólica, os
+biocombustíveis, o biogás e a biomassa.
+Sobre esse assunto, avalie as afirmações a seguir.
+|. A construção de hidrelétricas relaciona-se,
+também, à preocupação com a crise energética
+mundial prevista para as próximas décadas.
+. As usinas térmicas a gás natural geram tanto
+monóxido de carbono quanto as usinas
+movidas a petróleo ou a carvão mineral.
+WI.
+No processo de geração de energia limpa de
+origem vegetal emite-se menor quantidade
+de poluentes atmosféricos do que no
+processo de fontes de origem fóssil.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+OÔLIeN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,295 791,295 791,882 790,882 790,1496 791,1496 791,1705 470,1705 470,1817 305,1817 305,1920 313,1920 313,1996 84,1996 84,1730 178,1730 178,1480 149,1480 149,1317 132,1317 132,1122 84,1122 84,882 83,882 83,295 84,295"/>
+	<TextEquiv conf="0.95765">
+	<Unicode>QUESTÃO 23
+Uma empresa de reciclados, localizada em uma
+região do Brasil onde a temperatura ambiente
+média é de 30 ºC, deseja reaproveitar garrafas de
+politereftalato de etileno (do tipo PET) utilizadas
+no armazenamento de heptano. Cada uma dessas
+garrafas contém 0,01 g de heptano residual, sendo
+o volume da garrafa igual a 2 L. A empresa estuda
+qual deveria ser a melhor forma de lavagem das
+garrafas, usando três solventes: água a 30 “C,
+água pré-aquecida a 40 ºC e etanol pré-aquecido a
+40 ºC, cujos coeficientes de atividade do heptano na
+diluição infinita são, respectivamente, 6 000, 4 000
+e 10. Serão utilizados 200 g de solvente no processo
+de limpeza. As massas molares dessas substâncias
+são: água — 18 g/mol, etanol — 46 g/mol e heptano —
+100 g/mol.
+Com base na teoria do Equilíbrio Líquido-Líquido
+(ELL), nos valores de coeficientes de atividade na
+diluição infinita (ou na saturação) do heptano nesses
+solventes e considerando que a atividade do heptano
+no solvente (água ou etanol) é igual a 1,0, avalie as
+afirmações a seguir.
+|. As frações molares do heptano na saturação
+são aproximadamente iguais a 1,7x10?, 2,5x10*
+e 1,0x107, nas condições termodinâmicas dos
+solventes — água a 30 ºC, água a 40 ºC e etanol
+a 40ºC.
+II. Ao analisar os valores de concentração
+do heptano na quantidade estipulada do
+solvente, verifica-se que não é necessário
+aquecer a água para lavar as garrafas.
+III.Ao considerar a condição de saturação do
+heptano no etanol a 40 ºC, nota-se que
+a quantidade de etanol empregada no
+processo de lavagem é 4200 vezes menor
+que a quantidade estipulada, ou seja, 200 g
+desse solvente.
+É correto o que se afirma em
+O 1l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O LIeM.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,2015 810,234"/></SeparatorRegion></Page></PcGts>

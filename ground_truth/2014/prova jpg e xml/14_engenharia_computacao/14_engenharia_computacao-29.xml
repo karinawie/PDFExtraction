@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:14:20</Created>
+	<LastChange>2020-11-21T19:18:50</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-29.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,235 255,235 255,295 1195,295 1195,324 1116,324 1116,627 1156,627 1156,810 996,810 996,1312 1142,1312 1142,1386 316,1386 316,1482 299,1482 299,1576 85,1576 85,1577 84,1577 84,1312 89,1312 89,1259 163,1259 163,574 83,574 83,351 84,351"/>
+	<TextEquiv conf="0.83403">
+	<Unicode>QUESTÃO 35
+O código a seguir mostra um programa escrito na linguagem de programação Java.
+public class Java (|
+private static void trocaB(String a, String b )(
+String tmp = a;
+a =b;
+b = tmp;
+)
+private static void trocaC(int array[], String a)
+for(int x = 0; x &lt; array.length; x++)(
+array[x] = array[x] * Integer.valueOf(a);
+)
+)
+public static void main(String[] args) (
+int array[] = ( 1, 2, 3, 4, 5) ;
+String a = “2”, b = “5”;
+trocaB(a, b);
+trocaC(array, a);
+System.out.print(a + “ “ + b +“);
+for(int x = 0; x &lt; array.length; x++)(
+System.out.print(array[x] + “ “);
+)
+)
+Após ser executado o código, o valor impresso na saída padrão do usuário será
+O 52510152025.
+O 25246810.
+O 52246810.
+O 5212345.
+O 2512345.</Unicode></TextEquiv></TextRegion></Page></PcGts>

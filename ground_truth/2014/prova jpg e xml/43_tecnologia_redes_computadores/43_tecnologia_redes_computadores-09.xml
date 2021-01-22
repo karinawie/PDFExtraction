@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:35:01</Created>
+	<LastChange>2020-12-06T03:50:27</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-09.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="145,299 310,299 310,300 473,300 473,359 1309,359 1309,360 1599,360 1599,1015 1600,1015 1600,1164 146,1164 146,1163 145,1163 145,1162 146,1162 146,508 145,508"/>
+	<ImageRegion id="r1">
+	<Coords points="186,544 186,983 1530,983 1530,544"/></ImageRegion>
+	<TextEquiv conf="0.92886">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Uma empresa na área de construção civil, inicialmente, atuava somente na cidade A. Devido ao seu crescimento,
+essa construtora decidiu abrir um escritório na cidade B. Para garantir a troca de informações, a construtora
+realizou a interligação entre as redes das duas cidades, utilizando para isso dois roteadores que não utilizam
+protocolo de roteamento algum. A figura abaixo apresenta a topologia da rede do cenário descrito.
+Com base nesse cenário apresentado e considerando que as interfaces dos roteadores são FastEthernet,
+sendo que as interfaces Fa0/0 (FastEthernet 0/0) de cada roteador estão ligadas às redes locais e
+FaO/1 (FastEthernet 0/1) interligam os roteadores, apresente a tabela de roteamento dos roteadores
+R1 e R2. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

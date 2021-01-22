@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T20:17:16</Created>
+	<LastChange>2020-11-18T20:39:23</LastChange></Metadata>
+	<Page imageFilename="cst_logistica-29.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,233 288,233 288,234 496,234 496,235 704,235 704,236 912,236 912,237 1120,237 1120,238 1328,238 1328,239 1536,239 1536,264 1534,264 1534,410 1533,410 1533,1677 571,1677 571,1744 209,1744 209,2003 208,2003 208,2004 81,2004 81,2003 80,2003"/>
+	<ImageRegion id="r1">
+	<Coords points="286,415 286,1239 1342,1239 1342,415"/></ImageRegion>
+	<TextEquiv conf="0.95562">
+	<Unicode>QUESTÃO 33
+Por meio de um gráfico de gestão de estoques demonstrado pelo Enterprise Resource Planning (ERP), os
+seguintes pontos de pedidos, as quantidades e reposições de um determinado produto foram demonstrados
+ao longo do tempo.
+Considerando o comportamento de reposição contínua demonstrado no gráfico, avalie as afirmações a seguir.|. As quantidades pedidas possuem uma variação a cada pedido para atender ao estoque máximo,
+e o tempo de reposição também é variável.
+Il. As quantidade pedidas são fixas, porém o tempo de reposição sofre variação.
+Ill. O gráfico demonstra que o Lote de Reposição para o produto é 125, o Estoque de Segurança: 25,
+e o Ponto de Pedido: 50.
+IV. O gráfico demonstra que o Lote de Reposição para o produto é 100, o Estoque de Segurança: 25,
+e o Ponto de Pedido: 50.
+V. O gráfico demonstra que o Lote de Reposição para o produto é 100, o Estoque de Segurança: 50,
+e o Ponto de Pedido: 25.
+É correto apenas o que se afirma em
+O el.
+Oie
+O Ie.
+O llelv.
+O iev</Unicode></TextEquiv></TextRegion></Page></PcGts>

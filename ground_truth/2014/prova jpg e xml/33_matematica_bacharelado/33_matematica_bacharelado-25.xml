@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:30:02</Created>
+	<LastChange>2020-12-05T22:35:38</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="893,299 1064,299 1064,362 1599,362 1599,600 1600,600 1600,714 1192,714 1192,976 884,976 884,783 893,783"/>
+	<TextEquiv conf="0.96634">
+	<Unicode>QUESTÃO 35
+Os anéis quociente são frequentemente utilizados
+para se obter extensões de corpos. Se F é um
+corpo e P é um polinômio irredutível em F[X],
+então L = F[X]/&lt; P&gt; é um corpo cujo polinômio
+minimal sobre Fé P.
+Considerando essas informações, assinale a opção
+que representa um corpo cujo polinômio minimal é
+indicado pelo gerador do ideal.
+A Zl1/&lt;x2-1&gt;
+B Rl5)/ &lt;x2 +2&gt;
+C Cx/ &lt;x2-3&gt;
+D Qx/ &lt;x2-4&gt;
+E Rx/ &lt;x2-5&gt;
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,376 852,376 852,856 850,856 850,926 828,926 828,1258 851,1258 851,1292 683,1292 683,1461 850,1461 850,1540 851,1540 851,1950 740,1950 740,2075 146,2075 146,1490 144,1490 144,1461 257,1461 257,1292 145,1292 145,1258 147,1258 147,979 146,979 146,856 144,856 144,376 145,376"/>
+	<TextEquiv conf="0.57945">
+	<Unicode>QUESTÃO 34
+O teorema fundamental do cálculo é uma poderosa
+ferramenta para a Matemática, pois é amplamente
+utilizado em suas diversas subáreas. Ao longo da história,
+diversas versões desse teorema foram demonstradas.
+Fazendo uso livremente dessas versões, considerando
+duas funções /, g : [a, b] &gt; R contínuas no intervalo
+fechado e limitado [a, b| e definindo F, G': [a, | &gt; R por
+F(x)=a f Íf(t)dt e G(x) = b o g9(t) dt,
+para todo x e [a, b], avalie as seguintes asserções e a
+relação proposta entre elas.
+Para todo x e [a, b], tem-se que
+F(x) G(x) - F(o)G(0) = f Ú(G(t) + F(t)g(t) dt
+PORQUE
+Se Y : [a, ] &gt; R possui derivada integrável, então
+W$(b) = P(a) -/ Tn Dat
+Acerca dessas asserções, assinale a alternativa correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e 1l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="869,291 869,2086 872,2086 872,291"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T06:03:12</Created>
+	<LastChange>2020-11-16T01:06:04</LastChange></Metadata>
+	<Page imageFilename="04_ciencias_economicas-23.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,233 80,234 1536,234 1536,264 1534,264 1534,443 1533,443 1533,551 1535,551 1535,719 1534,719 1534,922 81,922 81,921 80,921 80,551 81,551 81,442 80,442"/>
+	<TextEquiv conf="0.47890">
+	<Unicode>QUESTÃO 19
+De 2001 a 2005, o grau de desigualdade de renda no Brasil declinou de forma acentuada e contínua, tendo
+atingido, em 2005, o nível mais baixo dos últimos 30 anos. O coeficiente de Gini declinou quase 5%, e a razão
+entre a renda dos 20% mais ricos e a dos 20% mais pobres, mais de 20%. Essa redução na desigualdade
+contribuiu para a diminuição substancial da pobreza e para a melhoria das condições de vida da população
+mais pobre, mesmo em um período de relativa estagnação da renda per capita.
+BARROS, R. P. et al. Determinantes Imediatos da Queda da Desigualdade de Renda Brasileira.
+Texto para Discussão, n. 1253, IPEA, 2007 (adaptado).
+O fragmento de texto acima retrata uma alteração importante no cenário da economia brasileira na primeira
+metade da década de 2000. Essa mudança pode ser representada por instrumentos que a Economia
+do Bem-Estar nomeia de Escolha Social, obtida pela comparação entre a Fronteira de Possibilidade de
+Produção de uma economia e a sua Curva de Indiferença Social, na qual a utilidade pode ser associada ao
+nível de renda dos indivíduos.
+Considerando o exposto e assumindo que: (1) a redução na desigualdade de renda no Brasil ocorreu
+apesar de a capacidade de produção de bens e serviços no país ter-se mantido constante no mesmo
+período; e (2) o país saiu de um ponto de equilíbrio em 2001 para outro ponto de equilíbrio em 2005,
+assinale a opção em que o gráfico representa a passagem da economia brasileira de 2001 (ponto A) para
+2005 (ponto B).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="78,965 78,1281 736,1281 736,965"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="813,965 813,1284 1481,1284 1481,965"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="815,1321 815,1650 1486,1650 1486,1321"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="68,1318 68,1636 731,1636 731,1318"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="57,1671 57,2000 736,2000 736,1671"/></ImageRegion></Page></PcGts>

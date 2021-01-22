@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:17:12</Created>
+	<LastChange>2020-12-06T02:45:26</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-12.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="146,296 316,296 316,357 1599,357 1599,1116 1600,1116 1600,1327 1599,1327 1599,1592 1248,1592 1248,1593 193,1593 193,1550 146,1550 146,1118 145,1118 145,297 146,297"/>
+	<ImageRegion id="r1">
+	<Coords points="147,716 147,1113 1600,1113 1600,716"/></ImageRegion>
+	<TextEquiv conf="0.96268">
+	<Unicode>QUESTÃO 09
+Confome definido pelo Corpo de Conhecimento para Gerenciamento de Projeto de Software PMBOK,
+um dos artefatos de maior importância dentro do planejamento de um projeto de software é a Estrutura
+Analítica do Projeto (EAP).
+PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK. 4 ed. EUA: Project Management Institute, 2008.
+A EAP apresentada na figura a seguir mapeia o processo de produção de um software de uma empresa e os
+pacotes de trabalho que fazem parte desse projeto de software. Percebe-se que as atividades de “codificação”
+e “teste” não possuem pacotes de trabalho. A empresa Alfa optou por terceirizá-las para uma parceira em
+uma operação de outsourcing.
+Analisando-se o EAP da empresa, conclui-se que as atividades de “codificação” e “teste”
+O devem ser inseridas no planejamento do projeto, uma vez que a empresa é a responsável pela implantação
+do software (a terceirização foi uma opção da própria empresa).
+O devem ser inseridas no planejamento do projeto porque é obrigatório que um processo de software
+tenha as atividades de “codificação” e “teste” dentro de seu conjunto de atividades.
+o
+não devem ser inseridas no planejamento do projeto, porque, como elas foram terceirizadas, não é
+necessário realizar o controle de qualidade dessas atividades.
+o
+não devem ser inseridas no planejamento do projeto porque, como elas foram terceirizadas, não é
+necessário realizar o controle de produção - tempo, esforço e custo - dessas atividades.
+o
+não devem ser inseridas no planejamento do projeto, porque em um processo de software não é
+obrigatório que as atividades de “codificação” e “teste” estejam dentro de seu conjunto de atividades.</Unicode></TextEquiv></TextRegion></Page></PcGts>

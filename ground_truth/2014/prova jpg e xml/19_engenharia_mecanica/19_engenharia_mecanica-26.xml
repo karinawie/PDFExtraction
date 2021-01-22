@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:35:39</Created>
+	<LastChange>2020-11-22T01:49:41</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1539,298 1539,774 1538,774 1538,1039 1537,1039 1537,1268 1538,1268 1538,1510 879,1510 879,1472 832,1472 832,1039 831,1039 831,298 832,298"/>
+	<TextEquiv conf="0.96945">
+	<Unicode>QUESTÃO 32
+Um amortecedor viscoso é um elemento de máquina
+cuja construção apresenta um cilindro no interior do
+qual um êmbolo contendo furos axiais desloca-se
+por ação de uma força, transmitida através de uma
+haste a ele acoplada, igual à força de amortecimento
+viscoso. Os furos do êmbolo têm áreas de seção
+transversal devidamente projetadas para atender
+uma dada aplicação. A força de amortecimento
+viscoso (F) é dada pela expressão F, = c.T, em
+que c é o coeficiente de amortecimento e £ é a
+velocidade de deslocamento do êmbolo no interior
+do cilindro.
+Suponha que um amortecedor viscoso exibe uma
+velocidade de deslocamento que se mostrou
+insuficiente. Pretende-se triplicar a velocidade de
+deslocamento do êmbolo sem alterar o diâmetro
+interno do cilindro, o comprimento do cilindro e o
+tipo de fluido viscoso.
+Na situação descrita, a solução mais adequada à
+alteração de projeto do amortececedor viscoso é
+reduzir o diâmetro da haste do êmbolo.
+aumentar o diâmetro da haste do êmbolo.
+reduzir a área total de passagem de fluido viscoso
+do êmbolo.
+aumentar a área total de passagem de fluido
+viscoso do êmbolo.
+o O DOO
+reduzir a espessura do êmbolo e aumentar o
+diâmetro da haste do êmbolo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,1173 470,1173 470,1285 313,1285 313,1397 322,1397 322,1429 234,1429 234,1475 84,1475 84,1196 132,1196 132,742 84,742"/>
+	<TextEquiv conf="0.96573">
+	<Unicode>QUESTÃO 31
+Uma empresa de fundição de sistemas de exaustão de
+motores de combustão interna está com problemas
+no seu processo de fundição por gravidade, tendo
+encontrado falhas de preenchimento dos produtos. Os
+engenheiros responsáveis atribuíram o problema ao
+erro de dimensionamento dos massalotes no processo.
+Dessa forma, um trabalho minucioso foi realizado
+para recalcular a dimensão e a posição corretas desses
+massalotes dentro dos moldes de fundição.
+Com base na situação descrita, avalie as afirmações
+a seguir.
+|. O massalote é um elemento que realimenta
+as zonas esvaziadas pelas contrações líquidas
+durante a mudança de fase no processo de
+fundição.
+Il. O massalote deve ser posicionado do mesmo
+lado do canal de descida do material que está
+sendo vazado.
+Ill. O massalote é moldado por meio de um
+modelo simples na caixa superior, conectando-
+se com o molde (caixa inferior).
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 111e,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,2013 807,231"/></SeparatorRegion></Page></PcGts>

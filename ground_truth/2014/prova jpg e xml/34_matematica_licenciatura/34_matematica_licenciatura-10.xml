@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T00:14:58</Created>
+	<LastChange>2020-12-06T00:21:43</LastChange></Metadata>
+	<Page imageFilename="34_matematica_licenciatura-10.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 474,299 474,359 1602,359 1602,589 1598,589 1598,684 1364,684 1364,784 1302,784 1302,833 1021,833 1021,858 972,858 972,833 241,833 241,834 240,834 240,685 145,685"/>
+	<TextEquiv conf="0.95718">
+	<Unicode>QUESTÃO DISCURSIVA 4
+O número de ouro é conhecido há mais de dois mil anos, sendo encontrado nas artes, nas pirâmides do Egito
+e na natureza. Para construir o número de ouro apenas com o auxílio de uma régua não graduada e de um
+compasso, utiliza-se o seguinte procedimento: dado um segmento AB qualquer, marca-se o seu ponto médio;
+constrói-se o segmento BC perpendicular a AB e com a metade do comprimento de AB; marca-se o ponto E
+sobre a hipotenusa do triângulo ABC, tal que EC e BC sejam iguais; e determina-se o ponto D no segmento
+ABtal que AD e AF sejam iguais. Com esse procedimento, o ponto D divide o segmento AB na razão áurea.
+A partir da construção geométrica do número de ouro e considerando x como o comprimento do segmento
+AB, faça o que se pede nos itens a seguir, apresentando os cálculos utilizados na sua resolução.
+a) Determine o comprimento do segmento AC em função de z. ( valor: 4,0 pontos)
+b) Determine o comprimento do segmento AD em função de z. ( valor: 4,0 pontos)
+c) Determine o número de ouro dado pelo quociente . (valor: 2,0 pontos)
+AB
+AD</Unicode></TextEquiv></TextRegion></Page></PcGts>

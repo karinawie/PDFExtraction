@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:31:57</Created>
+	<LastChange>2020-12-06T00:03:19</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,356 1600,356 1600,624 1602,624 1602,693 1601,693 1601,694 1600,694 1600,1022 1599,1022 1599,1269 403,1269 403,1628 436,1628 436,1948 717,1948 717,2039 146,2039 146,1269 145,1269 145,892 144,892 144,717 145,717"/>
+	<TextEquiv conf="0.34854">
+	<Unicode>QUESTÃO 13
+Muitos fenômenos probabilísticos seguem uma lei de distribuição denominada Normal, na qual os valores
+mais frequentes se encontram próximos à média. A curva que representa essa distribuição tem a forma de um
+sino, é simétrica em torno da média u, tem no eixo das abscissas uma assíntota horizontal e é determinada
+pela seguinte função de densidade:
+1 1/2—-nV2
+f(x) = en s(S)
+V2no?
+Levando em consideração que cada curva de distribuição Normal é determinada pela sua média u e pelo seu
+desvio-padrão o, Gauss desenvolveu uma forma de padronizá-las em uma única Normal, caracterizada por
+1
+V2T
+na qual cada um dos valores x da função de distribuição Normal N(u, o0)é convertido em uma nova variável
+adimensional, designada genericamente por 2, a qual tem distribuição Normal N(0, 1). A conversão dessa
+T—u
+z
+e ?,
+ter média O e desvio-padrão 1. Assim, a Normal Padrão é determinada pela função f(2) =
+variável se dá por meio da seguinte expressão: 2 =
+Sabe-se que a área sob o gráfico da função de densidade de probabilidade em determinado intervalo fornece
+a probabilidade de ocorrência de um valor dentro desse intervalo. Assim, considera-se que a área entre a
+curva Normal e a assíntota determinada pelo eixo das abscissas é igual a 1.
+De acordo com dados obtidos no portal do INEP/MEC relativos aos 11 303 estudantes de Licenciatura em
+Matemática que realizaram a prova do Enade em 2011, a média e o desvio-padrão do desempenho geral
+desses estudantes foram, respectivamente, iguais a 32,4 e 11,6 pontos.
+Considerando que a distribuição do desempenho desses alunos no ENADE 2011 pode ser aproximada
+pela distribuição Normal, assinale a alternativa cuja expressão fornece o percentual de estudantes com
+desempenho inferior a 20,8 pontos ou superior a 55,6 pontos.
+o f soa:
+55,6
+o " f(2)dz
+0,8
+(C) 1-/ soa:
+e 1- (f. fada + f[ fada)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:55:58</Created>
+	<LastChange>2020-12-06T02:03:28</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="145,1410 316,1410 316,1470 1599,1470 1599,1659 1505,1659 1505,1778 1598,1778 1598,1954 1600,1954 1600,2066 146,2066 146,1659 144,1659 144,1470 145,1470"/>
+	<TextEquiv conf="0.96690">
+	<Unicode>QUESTÃO 25
+No desenvolvimento de um certo produto de software, foi determinado que um dos requisitos do produto
+seria a exibição de informações em planilhas eletrônicas. Contudo, durante uma reunião de revisão, a equipe
+do projeto verificou que esse formato não facilitava a interpretação das informações e sugeriu que fosse
+construído um gráfico, que permitiria a identificação mais rápida de informações importantes. Diante desse
+fato, o gerente do projeto deve
+O autorizar a equipe do projeto a implementar o gráfico e registrar a mudança.
+O solicitar à equipe do projeto que ignore a sugestão, uma vez que ela está fora do escopo definido.
+O analisar o impacto da modificação e submetê-la à aprovação do cliente, independentemente da
+relevância do impacto.
+O analisar o impacto da modificação e, somente se o impacto no projeto for grande, submetê-la à
+aprovação do cliente.
+O autorizar a equipe do projeto a implementar o gráfico e desprezar o registro da mudança, atendendo à
+recomendação de que sejam rastreadas apenas mudanças cujo impacto seja significativo no custo ou nos
+prazos do projeto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="145,299 317,299 317,359 1600,359 1600,548 1599,548 1599,1133 1076,1133 1076,1380 146,1380 146,1133 145,1133"/>
+	<TableRegion id="r2">
+	<Coords points="266,563 266,1038 1472,1038 1472,563"/></TableRegion>
+	<TextEquiv conf="0.96540">
+	<Unicode>QUESTÃO 24
+Uma empresa mantém um serviço de software que atende a centenas de clientes pelo mundo. O serviço é
+bastante complexo e requer um esforço contínuo de manutenção. Para melhor gerenciar a manutenção do
+sistema, a empresa decidiu implantar um programa de medição, em que várias métricas foram agregadas,
+cada uma delas associada a determinada questão que se desejava responder. A tabela a seguir apresenta as
+questões e suas métricas associadas.
+O objetivo atual da empresa é reduzir o prazo de suas entregas, sem comprometer o que foi acordado com o
+cliente. A métrica que permite avaliar se esse objetivo está sendo atingido é o
+O custo por entrega.
+O número de mudanças por tipo.
+O número de solicitações de mudanças.
+O número de recursos computacionais a serem utilizados.
+O tempo entre levantamento do problema e aceitação da mudança.</Unicode></TextEquiv></TextRegion></Page></PcGts>

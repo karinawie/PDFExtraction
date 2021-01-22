@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:15:44</Created>
+	<LastChange>2020-09-24T18:15:58</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-17.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 811,298 811,299 1537,299 1537,522 1538,522 1538,734 313,734 313,980 84,980 84,757 85,757 85,733 86,733 86,609 132,609 132,407 84,407"/>
+	<TextEquiv conf="0.95548">
+	<Unicode>QUESTÃO 17
+Considerando que o gerente de qualidade é o responsável por definir os meios necessários para se obter um
+produto com a qualidade desejada, bem como por estabelecer técnicas para aferir a qualidade do produto,
+avalie as afirmações a seguir.
+|. O uso de processos de desenvolvimento padronizados, sem adaptações, independente do tipo de
+software a ser desenvolvido, assegura que o produto terá a qualidade desejada.
+Ill. O controle de qualidade pode ser realizado por meio de revisões, incluindo inspeções de programas
+e de artefatos de projeto.
+Ill. Fatores de qualidade de software estão diretamente relacionados a um único atributo interno de
+software.
+É correto o que se afirma em
+O |l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1LI1elm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,1011 255,1011 255,1072 1429,1072 1429,1123 1442,1123 1442,1176 1536,1176 1536,1263 1537,1263 1537,1331 470,1331 470,1443 305,1443 305,1555 322,1555 322,1629 84,1629 84,1354 132,1354 132,1102 86,1102 86,1101 85,1101 85,1042 84,1042"/>
+	<TextEquiv conf="0.96650">
+	<Unicode>QUESTÃO 18
+Em relação à aplicação adequada das técnicas de Inteligência Artificial, avalie as afirmações a seguir.
+|. Indução em Árvore de Decisão é utilizada para identificação de fraudes em cartões de crédito.
+Ill. Redes Neurais Artificiais são utilizadas no desenvolvimento de sistemas de análise de risco em
+aplicações financeiras.
+1.
+Sistemas Especialistas baseados em regras são utilizados no desenvolvimento de sistemas de
+diagnóstico de falhas em hardware.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il el, apenas.
+O Lite.</Unicode></TextEquiv></TextRegion></Page></PcGts>

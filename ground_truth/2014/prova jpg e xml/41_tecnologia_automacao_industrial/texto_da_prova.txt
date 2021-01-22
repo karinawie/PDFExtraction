@@ -1,0 +1,659 @@
+QUESTÃO DISCURSIVA 3
+NORMA REGULAMENTADORA N.º 10
+SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE
+10.1 — OBJETIVO E CAMPO DE APLICAÇÃO
+10.1.1 Esta Norma Regulamentadora - NR estabelece os requisitos e condições mínimas objetivando a
+implementação de medidas de controle e sistemas preventivos, de forma a garantir a segurança e a saúde dos
+trabalhadores que, direta ou indiretamente, interajam em instalações elétricas e serviços com eletricidade.
+Portaria n.º 3.214/1978, alterada pela Portaria n.º 598/2004. Disponível em: <http://portal.mte.org.br>. Acesso em 25 jul. de 2014 (adaptado).
+Considerando a Norma Regulamentadora n.º 10 e supondo que você seja o responsável pelo planejamento da
+substituição de um motor elétrico bifásico de um ventilador industrial, faça uma descrição dos equipamentos
+de proteção individual que um eletricista deveria utilizar nessa situação, bem como dos procedimentos de
+proteção coletiva que deveriam ser adotados. (valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+No tanque esquematizado na figura abaixo, deseja-se controlar o nível de líquido por meio de um controlador
+lógico programável (CLP). A saída do líquido é demandada por outro processo.
+A tabela verdade abaixo estabelece a lógica de funcionamento desse sistema.
+Considere como nível lógico:
+* —Eletroválvula de entrada: O para válvula fechada e 1 para válvula aberta.
+* Sensor de nível: O para ausência de líquido e 1 para presença de líquido.
+º Botão:O para não pressionado (desabilitado) e 1 para pressionado (habilitado).
+
+Com base no problema apresentado, faça o que se pede nos itens a seguir.
+a) Identifique as linhas com condições irrelevantes e explique os critérios considerados para estabelecer tais
+condições na tabela verdade. (valor: 3,0 pontos)
+b) Determine as expressões algébricas mais simplificadas para o controle de cada eletroválvula.
+(valor: 3,0 pontos)
+c) Desenvolva um programa em linguagem ladder para executar o controle de cada eletroválvula.
+(valor: 4,0 pontos)
+
+Com base no problema apresentado, faça o que se pede nos itens a seguir.
+a) Identifique as linhas com condições irrelevantes e explique os critérios considerados para estabelecer tais
+condições na tabela verdade. (valor: 3,0 pontos)
+b) Determine as expressões algébricas mais simplificadas para o controle de cada eletroválvula.
+(valor: 3,0 pontos)
+c) Desenvolva um programa em linguagem ladder para executar o controle de cada eletroválvula.
+(valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Uma planta industrial é controlada por um controlador lógico programável (CLP) e todo o processo é
+monitorado por um sistema supervisório, no qual é possível observar os valores das variáveis de processo.
+Uma delas é a vazão, cuja variável manipulada para seu controle é a abertura de uma válvula proporcional.
+Considerando-se uma situação em que uma perturbação faça com que o valor da vazão saia do seu valor de
+referência ajustado (set point), responda às seguintes perguntas.
+a) Quais devem ser as ações executadas pelo sistema supervisório? (valor: 4,0 pontos)
+b) Quais devem ser as ações do CLP? (valor: 3,0 pontos)
+c) Quais devem ser as ações do operador? (valor: 3,0 pontos)
+
+QUESTÃO 10
+O o LED será desligado quando a temperatura ou a pressão atingirem valores acima de 24 ºC e 30 psi,
+respectivamente.
+O o LED será energizado, quando a temperatura e a pressão alcançarem valores abaixo de 24 ºC e 30 psi,
+respectivamente.
+O o LED será energizado, quando a temperatura ou a pressão alcançarem valores acima de 24 “C e 30 psi,
+respectivamente.
+O o LED será apagado, quando a temperatura ou a pressão alcançarem valores abaixo de 30 “ºC e de 24 psi,
+respectivamente.
+O o LED será alimentado, quando o sensor de temperatura ou de pressão registrar valor abaixo de 24 ºC ou
+30 psi, respectivamente.
+O responsável técnico de uma indústria optou por instalar um sistema microcontrolado com sensores de
+temperatura (ºC) e pressão (psi) para monitorar uma linha de produção em tempo real. O trecho da rotina
+abaixo será responsável pelo monitoramento da condição desejada e sinalização com LED:
+If ((temperatura < 24) || (pressão < 30)) f(digitalWrite (ledPort, HIGH);])
+Sabendo que a função digitalWrite escreve um dado digital, com determinado nível lógico
+(HIGH = alto e LOW = baixo) em uma porta de saída do microcontrolador (LedPort), conclui-se
+que, de acordo com essa programação,
+
+QUESTÃO 09
+Apesar da complexidade e diversidade do tema sustentabilidade, é de senso comum que o conceito de
+desenvolvimento de uma região precisa considerar aspectos relativos ao crescimento econômico e às
+questões ambientais e sociais, que dizem respeito ao bem-estar geral da população. O desenvolvimento
+sustentável envolve a consideração de três elementos interdependentes, a saber: desenvolvimento
+econômico, desenvolvimento social e garantia da proteção ambiental, denominada Triple Bottom Line (TBL).
+GOMES JÚNIOR, S. F.; GOMES, A. R. As vantagens da sustentabilidade empresarial.
+Revista Ingepro — Inovação, Gestão e Produção, v. 2, n. 6, p. 62-71, 2010 (adaptado).
+De forma a atender às exigências nas três dimensões do Triple Bottom Line, avalie as seguintes
+ações empresariais.
+|. Priorizar as questões sociais e ambientais, e deixar para segundo plano uma perspectiva de rentabilidade
+econômica no médio e longo prazo.
+Il. Evitar depender de recursos esgotáveis ou sujeitos à escassez, reduzir resíduos e promover a reciclagem
+dos materiais que descarta.
+Ill. Desenvolver produtos e serviços que contribuam para o que é percebido pela sociedade como um
+benefício social ou ambiental.
+IV. Manter relação de respeito com os entes envolvidos direta ou indiretamente com a empresa
+(stakeholders), incluindo uma prática de transparência na gestão.
+V. Utilizar propagandas que induzam o público a ter uma ótima visão da atuação da empresa, mesmo
+que a realidade seja diferente do que foi divulgado.
+Para atender aos requisitos propostos pelo TBL, é correto apenas o que se afirma em
+Oilev
+O LIelv.
+O uMmelv
+O II, Vev.
+
+QUESTÃO 12
+Uma guilhotina é utilizada para cortar folhas de papel em diferentes tamanhos. O operador do equipamento
+pressiona dois botões simultâneos (S1 e S2) e um atuador de dupla ação, acionado por uma válvula direcional
+de duplo solenoide, avança e corta a folha de papel. O retorno da guilhotina é feito com o acionamento de
+um terceiro botão (S3), mas somente se o atuador estiver em sua posição final detectada pela chave final de
+curso (PF).
+Nesse equipamento, é possível verificar que o circuito eletropneumático que controla a guilhotina
+O associa o botão S3 em paralelo com a chave final de curso PF.
+O associa os botões S1 e S2 em série, para fazer o retorno da guilhotina.
+O possui os botões S1, S2 e S3 ligados em paralelo, para fazer o comando de retorno da guilhotina.
+O associa os botões S1 e S2 em série, de maneira que a guilhotina corte o papel com a ação simultânea dos
+botões.
+O possui os botões S1 e S3 ligados em paralelo no circuito, para fazer o comando de dupla ação para cortar
+a folha de papel.
+
+QUESTÃO 11
+No processo de partida de um motor trifásico a contator, parte do programa aplicativo, representando a
+lógica de controle de partida, está apresentado na figura abaixo.
+Em relação ao funcionamento do circuito, assinale a opção correta.
+O O acionamento do selo YO0001 desliga a saída.
+O O acionamento da entrada XO002 liga o motor.
+O O acionamento da entrada X0001 desliga o motor.
+O O acionamento das entradas XO002 e X0003 desliga o motor.
+O O acionamento da entrada XO0001 e do selo YO001 em série desliga o motor.
+
+QUESTÃO 13
+Uma indústria resolveu trocar seus esquemas convencionais de partida de motores trifásicos por sistemas de
+acionamento eletrônicos. Para decidir qual tecnologia adotar, foi consultado um tecnólogo em automação
+industrial, que repassou as características de funcionamento dos motores dentro dos processos dessa
+indústria. Essas características são apresentadas no quadro abaixo.
+Assumindo que existam diversos fabricantes e tecnologias de acionamento diferentes no mercado, conclui-se
+que a solução mais simples e economicamente viável consiste em utilizar um dispositivo de acionamento tipo
+O inversor de frequência com controle escalar para o grupo 1; soft-starter para o grupo 2; inversor de
+frequência com controle vetorial para o grupo 3.
+O inversor de frequência com controle vetorial para o grupo 1; inversor de frequência com controle escalar
+para o grupo 2; soft-starter para o grupo 3.
+O inversor de frequência com controle vetorial para o grupo 1; soft-starter para o grupo 2; inversor de
+frequência com controle escalar para o grupo 3.
+O soft-starter para o grupo 1; inversor de frequência com controle vetorial para o grupo 2; inversor de
+frequência com controle escalar para o grupo 3.
+O soft-starter para o grupo 1; inversor de frequência com controle escalar para o grupo 2; inversor de
+frequência com controle vetorial para o grupo 3.
+
+QUESTÃO 15
+O manual de operação de um equipamento
+industrial recomenda a instalação de um sistema
+de aterramento que utiliza o esquema TT. Nesse
+sistema, as correntes de falta direta fase-massa
+podem provocar o surgimento de tensões de contato
+perigosas.
+Dessa forma, de acordo com a NBR 5410,
+O o esquema de aterramento TT não possui um
+ponto de alimentação diretamente aterrado para
+instalação do equipamento.
+O o esquema de aterramento TT é caracterizado
+pela ligação do equipamento industrial no
+mesmo eletrodo de aterramento da alimentação
+e da rede de alta tensão.
+O oeletrodo de aterramento do ponto de instalação
+do equipamento não será o mesmo eletrodo da
+entrada da alimentação.
+O o esquema de aterramento TT não possui um
+ponto diretamente aterrado, mas tem isolação
+de todas as partes vivas com aterramento de um
+ponto através de alta impedância.
+O as massas da instalação, para o aterramento no
+esquema TT, são ligadas nos mesmos eletrodos
+de aterramento da alimentação, o que garante
+maior segurança e eficiência do sistema.
+
+QUESTÃO 14
+A figura abaixo representa um exemplo de um
+sistema de controle em malha fechada no qual a
+variável controlada é a temperatura de saída do
+fluido aquecido, enquanto a variável manipulada é
+a vazão do vapor, ou seja, o controle da temperatura
+do fluido é realizado através da vazão do vapor.
+Com base na figura acima, avalie as afirmações
+a seguir.
+|. A medição da temperatura é feita pelo
+elemento TT, transmissor de temperatura,
+que transmite um sinal elétrico proporcional
+à temperatura lida.
+Il. A comparação do valor medido pelo TT com
+o ponto de ajuste é realizada em um CLP,
+que transmite um sinal de controle para o
+elemento TY.
+Ill. O elemento TY recebe um sinal de tensão
+elétrica proporcional ao controle que deve
+exercer na válvula.
+IV. O controlador TRC está na sala de controle,
+enquanto os elementos TY e TT estão no
+campo.
+É correto apenas o que se afirma em
+O:
+O.
+Oie
+O le.
+O llelv.
+
+QUESTÃO 18
+O controlador lógico programável (CLP) foi
+desenvolvido no fim dos anos de 1960, com o
+objetivo de substituir painéis de relés. Ele pode
+ser visto como um computador dedicado, no qual
+os módulos com diversas funções específicas são
+integrados em um rack ou bastidor, de acordo com
+a necessidade e complexidade da aplicação que se
+deseja automatizar.
+Considerando os diversos tipos de módulos que podem
+ser comumente encontrados em CLPs comerciais,
+avalie as características apresentadas a seguir.
+l. Em alguns modelos de CLP, existe a
+necessidade de um módulo de fonte de
+alimentação enquanto, em outros, a fonte de
+alimentação está presente na própria unidade
+central de processamento (UCP).
+Il. Os principais periféricos de entrada e de saída
+são, respectivamente, o teclado e as unidades
+de disco e de vídeo.
+Ill. Entre os diversos módulos de comunicação de
+dados disponíveis, podem ser citados os das
+redes industriais Ethernet, Modbus, Profibus,
+DeviceNet e AS-Interface.
+IV. O módulo contador de entradas rápidas
+é responsável pela aquisição dos dados
+analógicos.
+É correto apenas o que se afirma em
+Oem.
+Ole
+Ole
+O L11el.
+O 1, Meiv.
+
+QUESTÃO 16
+O projetista de uma indústria de peças automotivas
+pretende divulgar um catálogo de produtos entre seus
+clientes. Para isso, disponibilizou uma impressora
+e papéis no formato A4, com 210 mm de largura e
+297 mm de altura. Se a maior peça que o projetista
+deverá representar na folha de papel A4 tem 70 mm
+de largura e 99 mm de altura, então
+O a impressão na escala 5:1 será possível nessa
+folha.
+O o desenho na escala natural não poderá ser
+impresso nessa folha.
+O o desenho na escala 2:1 poderá ser impresso e
+visualizado pelo cliente nessa folha.
+O a escala natural será a maior escala possível para
+representação dessa peça na folha.
+O o desenho na escala 1:3 não poderá ser impresso
+nessa folha devido a seu tamanho ampliado.
+
+QUESTÃO 17
+Sabendo-se que a transformada de Laplace
+s+a
+£L (e * cos(wt)) = CI II
+então a resposta ao impulso de um sistema cuja
+planta no domínio da frequência tem valor
+s +10
+Gs) = ET 05 + 161
+é dada por
+O e cos(8t).
+O e" cos(—8t).
+O e” cos(10t).
+O e cos(—10t).
+QB e” cos(10t).
+
+QUESTÃO 19
+A figura 1 mostra a pilha de protocolos do modelo de referência OSI (Open Systems Interconnection), em que
+cada uma das sete camadas realiza funções específicas. Por outro lado, nas redes industriais, protocolos de
+comunicação, tais como Profibus, Foundation Field bus e CAN bus, tipicamente, utilizam o modelo apresentado
+na figura 2, que contém apenas 3 camadas, equivalentes às camadas Física, de Enlace e Aplicação do modelo OSI.
+Considerando a pilha de protocolo do modelo OS! e a pilha de protocolo típica das redes industriais, avalie as
+afirmações a seguir.
+|. Nasredes industriais, não há roteamento, considerando-se o modelo de pilha típico de redes industriais
+da figura 2.
+Il. As redes industriais seguem o modelo TCP/IP (Transmission Control Protocol/Internet Protocol), e não
+o modelo OS|.
+Ill. Nas redes industriais, o programa de aplicação do usuário acessa diretamente a camada de Enlace.
+IV. Nas redes industriais, a comunicação sem erros é garantida pela confiablidade do hardware da camada
+física.
+É correto apenas o que se afirma em
+O:
+o.
+Oie,
+O lelv.
+OÔieiv
+
+QUESTÃO 21
+Um processo de medição automatizado pré-posiciona pinos e, ao final, executa a medição de seus
+comprimentos. Os pinos são de dois tipos: os de cabeça roscada e os de cabeça quadrada. Em um relatório
+final de medição, consta que 1500 pinos foram medidos e a média de seus comprimentos é de 78 mm. Se a
+média dos comprimentos dos pinos de cabeça roscada é de 74 mm e a dos pinos de cabeça quadrada é de 84
+mm, quantos pinos de cabeça quadrada foram medidos nesse processo?
+O 500.
+O 600.
+O 750.
+O 900.
+O 1000.
+
+QUESTÃO 20
+De acordo com a tabela acima, para um eixo cilíndrico de aço ABNT 1020, com diâmetro de 20 mm, a largura
+e a altura da chaveta a ser aplicada são iguais, respectivamente, a
+O 5mme5mm.
+O 6mme6mm.
+O 6mme6,3 mm.
+O 6,035 mm e 6 mm.
+O 20 mme6mm.
+
+QUESTÃO 24
+O espaço de trabalho de um robô é uma característica
+fundamental para adequá-lo a sua aplicação.
+Suponha que se tem à disposição um robô planar
+tipo RR com dois graus de liberdade e cuja dimensão
+de seus dois elos é a, = 50 mm e a, = 30 mm, de
+acordo com a convenção de Denavit-Hartenberg.
+Considere que todos os valores apresentados estão
+em milímetros (mm) e que o robô se desloca no
+plano de coordenadas cartesianas xy apenas, sendo
+a coordenada 2z, correspondente à altura, constante
+e nula. A origem do sistema de coordenadas da
+base, o ponto (0, O), coincide com o eixo da primeira
+junta rotativa. A origem do sistema de coordenadas
+do efetuador final, de acordo com a convenção de
+Denavit-Hartenberg, situa-se em sua posição inicial,
+no ponto (80, O).
+Considerando a situação acima, avalie as seguintes
+afirmações.
+|. A origem do sistema de coordenadas da base
+pode ser alcançada pelo efetuador final.
+Ill. O ponto (40, 0) pode ser alcançado pelo
+efetuador final.
+Ill. O ponto (0, 50) pode ser alcançado pelo
+efetuador final.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.
+
+QUESTÃO 22
+Na construção de um sistema automatizado, uma
+das peças necessárias ao conjunto é um eixo de aço
+ABNT 1020.
+Nesse eixo, existem 3 diâmetros distintos: o primeiro
+com 25 mm para assento de rolamento; o segundo
+é um diâmetro de ligação, com 35 mm; e o terceiro é
+destinado à execução de perfil sextavado, com 45 mm.
+Para confecção desse eixo, está disponível uma
+barra cilíndrica de 50 mm de diâmetro.
+Conforme os fundamentos da fabricação mecânica,
+os processos de execução recomendados para
+a sequência, do menor diâmetro para a maior
+dimensão, são
+O torneamento, fresagem, retífica e torneamento.
+O torneamento, retífica, fresagem e torneamento.
+O torneamento, torneamento, retífica e fresagem.
+O torneamento, fresagem, torneamento e
+torneamento.
+O torneamento, torneamento, torneamento e
+fresagem.
+
+QUESTÃO 23
+Um funcionário que trabalha no setor de
+automação industrial de determinada empresa deve
+apresentar um relatório a seus superiores acerca
+do funcionamento de um circuito analógico que
+compare a velocidade de dois motores elétricos,
+conforme circuito ilustrado abaixo.
+Considerando que as tensões de entrada são tensões
+equivalentes às velocidades dos motores e possuem
+valores de Ve1=0,1 Ve Ve2=0,2V, conclui-se que a
+tensão de saída Vo é igual a
+O -1,0v.
+O 10v.
+O 19v
+O 21v.
+O 21v
+
+QUESTÃO 26
+Para o projeto de um sistema eletrônico digital de
+supervisão industrial, foi verificado que a saída (S)
+desejada do circuito de monitoramento com três
+sensores (A, B e C) poderá ser obtida com a expressão
+lógica abaixo:
+S=(AC+AB)
+Ao avaliar o resultado da expressão lógica,
+conclui-se que
+O a expressão original pode ser simplificada até
+obter S = A+ BC.
+O a saída do sistema de monitoramento é
+compatível com a expressão S = A+ ABC +C,
+O a simplificação da expressão lógica está restrita
+à inserção de mais uma variável no sistema de
+monitoramento.
+O a expressão S=A+B+BC também
+apresentaria os mesmos resultados de
+monitoramento da expressão original.
+O a saída do sistema de monitoramento
+é compatível com a expressão
+S = ABC + ABC + ABC.
+
+QUESTÃO 25
+Os circuitos transistorizados são amplamente
+utilizados em automação industrial, podendo operar
+como chaves, trabalhar entre o corte e a saturação
+ou servir apenas como amplificadores de sinais de
+tensão ou corrente.
+No circuito acima, se B = 100 e LL, = 10uA, o valor de
+Veg é igual a
+O 11,20 vV.
+O ov
+Oiv
+O 16v.
+O 2v.
+
+QUESTÃO 28
+Considere que um sistema supervisório esteja
+conectado a um controlador lógico programável
+(CLP) de forma a receber informações provenientes
+do processo. A comunicação entre o sistema
+supervisório e o CLP é realizada por meio de uma
+rede industrial do tipo mestre-escravo.
+Na situação descrita acima, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O sistema supervisório deve ser configurado
+como o escravo da rede de comunicação.
+PORQUE
+Il. O CLP fornece as informações do processo
+ao sistema supervisório, uma vez que O
+CLP recebe as informações das entradas e
+determina o estado das saídas.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 27
+Um grupo de estudantes de automação industrial,
+durante uma aula de eletricidade básica, mediu
+uma corrente i utilizando um multímetro, em função
+da tensão aplicada, para dois circuitos simples,
+constituídos de uma fonte de tensão e um resistor.
+A partir dos dados coletados, foi construído o gráfico
+abaixo.
+Com base na situação descrita acima, avalie as
+afirmações a seguir.
+|. Os resistores utilizados são ôhmicos.
+Il. O resistor 1 apresenta maior resistência que
+o resistor 2.
+Ill. O multímetro deve ser colocado em série com
+o resistor para se medir a tensão.
+IV. O multímetro foi colocado em paralelo com o
+resistor para se medir a corrente.
+É correto apenas o que se afirma em
+Oie
+Ole
+Quem.
+O 1, elv.
+O uMelv
+
+QUESTÃO 29
+Uma empresa que fabrica peças mecânicas adquiriu um novo sistema de usinagem automático. Essa
+empresa contratou um especialista em automação para analisar o sistema de comando do motor existente,
+representado nos diagramas a seguir.
+Com base nos diagramas acima, avalie as afirmações abaixo.
+|. O sistema de usinagem é acionado por um motor trifásico, com acionamento de partida direta, com
+dois sentidos de rotação.
+Il. O circuito de comando de partida através da botoeira B2 e do contator K2 não consegue manter o
+motor em funcionamento no seu sentido de giro.
+Ill. O motor desligará em caso de sobrecarga.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O ll elll, apenas.
+O leilll, apenas.
+O Le.
+
+QUESTÃO 31
+O controle estatístico de processos (CEP) é
+amplamente utilizado na avaliação da qualidade de
+produtos manufaturados, o que fornece indicadores
+objetivos da necessidade e da viabilidade econômica
+da automação dos sistemas de produção. Uma das
+principais ferramentas do CEP são os gráficos de
+controle para atributos. A construção desses gráficos
+requer o uso de estimativas como, por exemplo,
+a da média de unidades não conformes. Ao se
+fazer uma estimativa, ela deve estar acompanhada
+de um intervalo de confiança, para que se tenha
+uma referência da confiabilidade das informações
+verificadas.
+Considere que a estimativa do comprimento médio
+de uma peça produzida é de 100 mm, com uma
+variação de +5 mm e com um intervalo de confiança
+de 0,95. Nessa situação,
+O o comprimento das peças produzidas variam no
+máximo t5%.
+O o comprimento das peças produzidas tem
+probabilidade de 95% de variarem +5%.
+O a confiabilidade da estimativa independe da
+qualidade do processo de fabricação.
+O o comprimento de uma peça produzida, se
+escolhida ao acaso, tem probabilidade de 5% de
+ser superior a 95 mm.
+O o comprimento de uma peça produzida, se
+escolhida ao acaso, tem probabilidade de 95% de
+ser inferior a 95 mm.
+
+QUESTÃO 30
+Em uma morsa pneumática são fixadas peças para
+posterior furação. A figura abaixo ilustra o diagrama
+eletropneumático.
+Com base no diagrama acima, avalie as afirmações
+a seguir.
+|. A válvula direcional 1V2 é responsável por
+selecionar a pressão máxima de fixação da
+peça.
+Il. A válvula de fluxo 1V5 ajusta a velocidade de
+avanço do atuador pneumático.
+Ill. A válvula 1V3 é uma válvula de escape rápido.
+IV. O atuador pneumático é um cilindro de ação
+simples com retorno por mola.
+É correto apenas o que se afirma em
+Oie
+O el.
+O Meiv.
+O Lev.
+O LMelv
+
+QUESTÃO 32
+A Profibus é uma das tecnologias de redes industriais atualmente disponíveis para sistemas de automação
+industrial. A figura a seguir mostra uma topologia típica para essa tecnologia de rede industrial.
+Com relação a essa tecnologia, avalie as seguintes afirmações.
+|. No nível de atuadores/sensores, o AS-Interface é o sistema de comunicação de dados indicado, pois
+os sinais binários de dados são transmitidos via barramento simples e de baixo custo, juntamente
+com a tensão de 24 Vcc necessária para alimentar esses sensores e atuadores. Outra característica
+importante é que os dados são transmitidos ciclicamente, de uma maneira eficiente.
+Il. O PROFIBUS DP (periferia descentralizada) permite sistemas mono e multi-mestre, oferecendo
+alto grau de flexibilidade na configuração do sistema e possibilitando que até 126 dispositivos
+(mestres ou escravos) sejam ser ligados a um barramento.
+Acopladores de segmento são conversores de sinal que adaptam os sinais RS-485 para os níveis de
+sinal da norma IEC 61158-2 (antiga IEC 1158-2).
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O leilll, apenas.
+O Il elll, apenas.
+OIE.
+
+QUESTÃO 33
+O controlador proporcional-integral-derivativo (PID) é o tipo de controle mais utilizado na indústria. Esse
+controlador, para uma grande gama de processos industriais, oferece bom desempenho, além de ser de
+fácil entendimento. O controle PID é implementado em praticamente todos os controladores industriais
+disponíveis comercialmente.
+Considerando esse tipo de controlador, avalie as afirmações a seguir no que diz respeito às características de
+cada um de seus componentes.
+|. Ao se adicionar um polo na função de transferência de malha fechada, a ação integral melhora a
+estabilidade relativa do sistema.
+Il. A ação proporcional por si só não garante a eliminação do erro em regime permanente.
+Ill. A ação derivativa só atua em situações em que há variação do erro no tempo.
+IV. A ação derivativa deve ser utilizada em processos cujos sinais apresentam ruídos, uma vez que ela é
+responsável por antecipar o aparecimento do erro.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+Oie.
+O L1lelv.
+OuMmMelm
+
+QUESTÃO 34
+O esquema elétrico abaixo representa um sistema de partida estrela-triângulo.
+Com base no circuito acima, avalie as afirmações a seguir.
+|. Ocontator 1K3 é responsável pelo fechamento em triângulo no motor.
+Il. O sistema não permite o controle do sentido de rotação do motor.
+Ill. O temporizador dT1 possui retardo na ativação.
+IV. O fusível 1FO0 deve ser dimensionado para a condição do motor ligado em estrela.
+É correto apenas o que se afirma em
+Oie.
+O le.
+O lelv.
+O 111el.
+O Lev.
+
+QUESTÃO 35
+Em um sistema de controle de caldeira, um tecnólogo em automação industrial utilizou um microcontrolador
+para desenvolver uma aplicação capaz de ajustar automaticamente a referência (set point) da malha de
+controle da temperatura, de acordo com os seguintes períodos do dia:
+*º 6hàs18h,areferência de temperatura deve estar em seu valor máximo;
+*º 18hàs22h,areferência de temperatura deve estar em 50% de seu valor máximo;
+*º 22hàs6h,areferência de temperatura deve estar em 20% do seu valor máximo.
+O fluxograma que representa essa especificação é apresentado na figura abaixo.
+De acordo com as especificações e com o fluxograma apresentado, o tecnólogo escreveu a função
+ReferenciaTemperatura apresentada a seguir:
+void ReferenciaTemperatura (float hora, double temperatura)
+(
+double valorMax = temperatura; % Temperatura máxima da caldeira (ºC)
+CÓDIGO
+
+Sabendo-se que a função analogWrite escreve uma variável double em uma saída analógica do
+microcontrolador, para funcionar corretamente, o trecho CÓDIGO deve ser substituído por qual dos
+trechos abaixo?
+if (hora >= 6) &&
+analogWrite (val
+if (hora >= 18) &
+analogWrite (va
+else
+analogWrite (va
+if (hora >= 6) &&
+analogWrite (va
+if (hora >= 18) &
+analogWrite (val
+else
+analogWrite (val
+if (hora <= 6) |
+analogWrite (va
+if (hora <= 18)
+analogWrite (va
+else
+analogWrite (val
+if (hora >= 6) ||
+analogWrite (va
+if (hora >= 18)
+analogWrite (va
+else
+analogWrite (va
+if (hora >= 6) &&
+analogWrite (va
+if (hora >= 18) &
+analogWrite (va
+else
+analogWrite (val
+(hora < 18)
+orMax) ;
+& (hora < 22)
+orMax/2);
+orMax/5);
+(hora < 18)
+orMax*100);
+& (hora < 22)
+orMax*50);
+orMax*20);
+(hora > 18)
+orMax) ;
+| (hora > 22)
+orMax/5);
+orMax/2);
+(hora < 18)
+orMax*100);
+| (hora < 22)
+orMax*50);
+orMax*20);
+(hora < 18)
+orMax*100%);
+& (hora < 22)
+orMax*50%);
+orMax*20%);
+

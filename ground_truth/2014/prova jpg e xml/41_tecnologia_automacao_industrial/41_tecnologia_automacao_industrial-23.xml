@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:51:14</Created>
+	<LastChange>2020-12-06T02:57:34</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="146,299 316,299 316,365 1600,365 1600,482 1310,482 1310,483 1019,483 1019,484 955,484 955,1530 1599,1530 1599,1702 1248,1702 1248,1703 897,1703 897,1704 802,1704 802,1757 532,1757 532,1879 384,1879 384,1973 375,1973 375,2069 147,2069 147,2070 146,2070 146,1498 145,1498 145,1470 146,1470 146,367 145,367 145,300 146,300"/>
+	<TextEquiv conf="0.96405">
+	<Unicode>QUESTÃO 29
+Uma empresa que fabrica peças mecânicas adquiriu um novo sistema de usinagem automático. Essa
+empresa contratou um especialista em automação para analisar o sistema de comando do motor existente,
+representado nos diagramas a seguir.
+Com base nos diagramas acima, avalie as afirmações abaixo.
+|. O sistema de usinagem é acionado por um motor trifásico, com acionamento de partida direta, com
+dois sentidos de rotação.
+Il. O circuito de comando de partida através da botoeira B2 e do contator K2 não consegue manter o
+motor em funcionamento no seu sentido de giro.
+Ill. O motor desligará em caso de sobrecarga.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O ll elll, apenas.
+O leilll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="327,511 327,1436 1600,1436 1600,511"/></ImageRegion></Page></PcGts>

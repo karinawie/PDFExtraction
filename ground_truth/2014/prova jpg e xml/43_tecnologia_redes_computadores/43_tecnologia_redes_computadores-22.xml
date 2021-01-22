@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:32:37</Created>
+	<LastChange>2020-12-06T03:41:25</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="146,299 316,299 316,356 1600,356 1600,516 1599,516 1599,1551 1600,1551 1600,1644 1599,1644 1599,1823 1438,1823 1438,1824 1415,1824 1415,1969 1148,1969 1148,2013 740,2013 740,2056 623,2056 623,2057 147,2057 147,1955 146,1955 146,1829 145,1829 145,300 146,300"/>
+	<ImageRegion id="r1">
+	<Coords points="477,547 477,1452 1594,1452 1594,547"/></ImageRegion>
+	<TextEquiv conf="0.95909">
+	<Unicode>QUESTÃO 22
+O Gerenciamento de Redes inclui o fornecimento, integração e coordenação de hardware, software e
+elementos humanos para monitorar, testar, configurar, consultar, analisar, avaliar e controlar a rede. Além
+disso, disponibiliza recursos para atender aos requisitos de desempenho, qualidade de serviço e operação
+em tempo real, dentro de um custo aceitável pela empresa. A figura a seguir ilustra um ambiente de
+Gerenciamento de Redes.
+Considerando a utilização do protocolo SNMP (Simple Network Management Protocol) no gerenciamento de
+redes, avalie as asserções a seguir e a relação proposta entre elas.
+|. O SNMP é o protocolo mais usado para transmitir informações e comandos entre a entidade
+gerenciadora e os agentes que os executam em nome da entidade, dentro de um dispositivo de rede
+gerenciado.
+PORQUE
+Il. Os agentes coletam informações através de objetos gerenciados que, juntos, formam um banco virtual
+de informações, conhecido como MIB (Management Information Base).
+Acerca dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a Il é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa e a |l é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T04:10:11</Created>
+	<LastChange>2020-11-22T14:03:55</LastChange></Metadata>
+	<Page imageFilename="25_geografia_bacharelado-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="832,238 1003,238 1003,300 1537,300 1537,1283 1538,1283 1538,1989 832,1989 832,1257 831,1257 831,1185 832,1185"/>
+	<ImageRegion id="r3">
+	<Coords points="828,452 828,1160 1536,1160 1536,452"/></ImageRegion>
+	<TextEquiv conf="0.96917">
+	<Unicode>QUESTÃO 22
+O gráfico abaixo mostra a relação entre a precipitação
+e a vazão de corrente em duas situações distintas, que
+representam uma importante mudança ambiental.
+A referida mudança e sua principal consequência
+expressa no gráfico é a
+O urbanização, com consequente antecipação
+no pico de vazão fluvial gerada pela maior
+concentração de chuvas.
+O inundação, com consequente aumento da
+infiltração de água, gerando aumento do
+escoamento superficial.
+O urbanização, com consequente aumento
+no escoamento superficial! gerado pela
+impermeabilização dos solos.
+O inundação, com consequente aumento no
+escoamento superficial associado ao grande
+volume de água acumulado nos canais fluviais.
+O urbanização, com intensa edificação e
+impermeabilização do solo, gerando mudanças
+microclimáticas com consequente aumento de
+pluviosidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="83,242 789,242 789,734 790,734 790,1092 791,1092 791,1251 790,1251 790,1992 84,1992 84,883 83,883 83,734 328,734 328,603 83,603"/>
+	<TextEquiv conf="0.96362">
+	<Unicode>A atividade sísmica na região de Sobral vem
+ocorrendo na Serra da Meruoca, no limite dos
+municípios de Sobral, Alcântaras e Meruoca,
+desde janeiro de 2008. O evento de maior magnitude
+(4.2) ocorreu em maio de 2008 e, desde então,
+ocasionalmente, ocorre um tremor sentido pela
+população. Como acontece normalmente em tais
+circunstâncias, não é possível prever qual a evolução
+futura dessa atividade sísmica.
+Disponível em: &lt;http://www.geologia.ufc.br&gt;.
+Acesso em: 05 ago. 2014 (adaptado).
+Os excertos acima retratam dois episódios
+sísmicos registrados em estações sísmicas no Brasil.
+A diferença entre esses eventos é que o ocorrido na
+cadeia meso-oceânica
+O está associado à movimentação divergente de
+placas tectônicas, e o evento de Sobral-CE está
+associado à movimentação convergente de
+placas tectônicas.
+O está associado à sua localização na borda leste
+da placa tectônica Sul-americana, e o tremor
+registrado em Sobral-CE está associado à sua
+localização na borda oeste da placa.
+O é atípico, por não serem comuns eventos
+sísmicos nessa região, enquanto o evento de
+Sobral-CE não é único, sendo um de muitos que
+ocorrem na região.
+O está associado ao fato dessa se localizar
+no encontro de duas placas tectônicas com
+movimentação convergente, e o evento
+de Sobral-CE está associado a movimentos
+tectônicos menores, não relacionados ao
+encontro de placas tectônicas.
+O está associado ao fato dessa se localizar no
+encontro de duas placas tectônicas, e o evento
+de Sobral-CE está associado a movimentos
+tectônicos menores, não associados a encontro
+de placas tectônicas, uma vez que o Brasil
+encontra-se inteiramente no interior de uma
+única placa tectônica.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="810,231 810,2018 813,2018 813,231"/></SeparatorRegion></Page></PcGts>

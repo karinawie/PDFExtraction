@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:39:51</Created>
+	<LastChange>2020-11-21T21:07:02</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-35.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="265,295 1539,295 1539,465 1538,465 1538,882 1357,882 1357,883 1175,883 1175,884 993,884 993,885 812,885 812,1587 1538,1587 1538,1783 438,1783 438,1874 437,1874 437,1961 436,1961 436,2003 266,2003 266,2004 85,2004 85,2005 84,2005 84,1682 83,1682 83,1589 84,1589 84,466 83,466 83,296 265,296"/>
+	<ImageRegion id="r1">
+	<Coords points="618,465 618,802 992,802 992,465"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="163,913 163,1550 786,1550 786,913"/></ImageRegion>
+	<TextEquiv conf="0.95953">
+	<Unicode>QUESTÃO 34 - Eletrônica
+Uma empresa fornecedora de dispositivos eletrônicos para a indústria automobilística recebeu uma
+encomenda para desenvolver um controlador de luminosidade inteligente. O dispositivo deverá acionar faróis
+automaticamente, a partir de uma determinada quantidade de luminosidade ambiente. Para este projeto,
+foi desenvolvido um protótipo utilizando como elemento de controle e chaveamento um transistor MOSFET
+acionado através de um LDR (Light Dependent Resistor), conforme apresentado na figura 1.
+Para concluir o projeto, deve-se calcular a faixa de valores de RX, utilizando as curvas características do LDR
+(figura 2) e do MOSFET (figura 3).
+Considerando que o MOSFET inicia a condução com 3,0 V aplicado entre os terminais da porta (gate) e da
+fonte (source) e que o mesmo será acionado quando a iluminância do ambiente for reduzida para o intervalo
+entre 50 e 100 lux.
+De acordo com as especificações fornecidas no problema, é correto afirmar que a faixa para RX adequada
+para o projeto é de
+O 12000 O até 18 000 OQ
+O 12000 O até 24 000 O
+O 18000 O até 24 000 OQ
+O 18 000 O até 30 000 O
+O 24 000 O até 30 000 OQ</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="863,913 863,1560 1539,1560 1539,913"/></ImageRegion></Page></PcGts>

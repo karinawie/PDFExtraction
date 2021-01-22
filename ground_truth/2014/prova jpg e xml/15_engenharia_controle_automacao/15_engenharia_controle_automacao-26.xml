@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:37:29</Created>
+	<LastChange>2020-11-21T19:52:14</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1537,297 1537,366 938,366 938,1356 511,1356 511,1681 507,1681 507,1980 267,1980 267,1959 84,1959 84,1357 83,1357 83,1261 84,1261"/>
+	<ImageRegion id="r1">
+	<Coords points="221,400 221,1292 1384,1292 1384,400"/></ImageRegion>
+	<TextEquiv conf="0.96383">
+	<Unicode>QUESTÃO 23
+Na modelagem um sistema linear invariante no tempo estável, foi levantada a sua resposta em frequência,
+obtendo-se os seguintes diagramas de Bode:
+Frequência (rad/s)
+A função de transferência que melhor representa o sistema é
+G s—-0,1
+o 5 FT 10)(s + 100)
+sl
+G o
+o 5 1 0,D(s + 100)
+s+0,1
+O CT) = qo) + 100)
+o sô
+es
+so
+s—-0,1)
+so
+Fl
+(s + 100)
+Fl
+s+0,1)
+(s + 100)</Unicode></TextEquiv></TextRegion></Page></PcGts>

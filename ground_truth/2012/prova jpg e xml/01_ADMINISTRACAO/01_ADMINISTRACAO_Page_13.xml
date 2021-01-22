@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T04:09:03</Created>
+	<LastChange>2020-10-27T18:35:04</LastChange></Metadata>
+	<Page imageFilename="01_ADMINISTRACAO_Page_13.jpeg" imageWidth="1595" imageHeight="2167">
+	<TableRegion id="r0">
+	<Coords points="536,368 536,671 1039,671 1039,368"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="160,718 160,1286 1421,1286 1421,718"/></TableRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="60,176 1516,176 1516,204 1514,204 1514,1671 1132,1671 1132,1907 991,1907 991,1959 609,1959 609,2010 62,2010 62,2011 61,2011 61,1737 60,1737 60,1709 61,1709 61,343 60,343"/>
+	<TextEquiv conf="0.15776">
+	<Unicode>QUESTÃO 16
+As tabelas a seguir apresentam estimativas de regressão entre os retornos da empresa Alfa, que atua na produção e
+comercialização de piscinas e implementos para piscinas nas cidades de São Paulo, Rio de Janeiro, Belo Horizonte e
+Vitória, e retornos do Ibovespa (índice da bolsa de valores de São Paulo).
+Considerando que o modelo estimado é robusto à presença de autocorrelação e heterocedasticidade nos resíduos,
+avalie as asserções a seguir e a relação proposta entre elas.
+|. O risco de mercado da empresa Alfa é menor do que o do Ibovespa (carteira de mercado), o que significa que os
+retornos esperados para a Alfa serão menores do que os retornos esperados para o índice Bovespa.
+PORQUE
+Il. O modelo é estatisticamente não significante tendo em vista que não se pode rejeitar a hipótese de que os
+coeficientes da regressão sejam estatisticamente diferentes de zero.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a |l é uma justificativa da |.
+O As asserções | e Il são proposições verdadeiras, mas a Il não é uma justificativa da |.
+O A asserção | é uma proposição verdadeira, e a 11 é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

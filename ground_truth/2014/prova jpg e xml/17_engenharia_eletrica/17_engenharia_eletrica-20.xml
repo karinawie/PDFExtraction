@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:42:21</Created>
+	<LastChange>2020-11-21T21:20:56</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,843 255,843 255,901 1539,901 1539,1118 1537,1118 1537,1553 1394,1553 1394,1645 1212,1645 1212,1693 84,1693"/>
+	<ImageRegion id="r2">
+	<Coords points="110,1147 110,1392 1505,1392 1505,1147"/></ImageRegion>
+	<TextEquiv conf="0.96672">
+	<Unicode>QUESTÃO 20
+O desenvolvimento da tecnologia de processamento de sinais transformou fortemente a sociedade atual.
+Como exemplos de aplicações que surgiram desse desenvolvimento têm-se: áudio e vídeo codificados
+eficientemente de forma a permitir seu uso na internet, telefones celulares multitarefa (reprodutor MP3,
+câmera digital, GPS, etc.), TV digital, equipamentos médicos mais versáteis e poderosos. A figura abaixo
+ilustra um conceito possível de aplicação do processamento de sinais, no qual um sinal analógico é convertido
+para a sua representação digital e, posteriormente, retorna à forma analógica após o processamento digital.
+Nesse contexto, o bloco “Filtro analógico” é responsável pela
+O amplificação dos níveis de amplitude da entrada analógica para melhoria da precisão do processamento.
+O atenuação de componentes espectrais acima da frequência de Nyquist.
+O compensação dos efeitos do filtro de reconstrução ao final do processo.
+O correção no padrão espectral da entrada analógica com aplicação da transformada de Fourier.
+O remoção de ruídos na faixa de frequência de interesse do sinal a ser processado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="83,242 1005,242 1005,293 1537,293 1537,582 249,582 249,813 84,813 84,609 85,609 85,272 84,272 84,271 83,271"/>
+	<TextEquiv conf="0.96412">
+	<Unicode>A partir das informações apresentadas, avalie as afirmações a seguir.
+|. Atensão induzida no secundário do transformador depende da resistência do enrolamento.
+Il. As correntes induzidas nas lâminas do núcleo laminado são proporcionais à espessura das mesmas.
+Ill. As perdas por correntes induzidas nas lâminas do núcleo são proporcionais à densidade de fluxo (B ,,)
+no núcleo.
+IV. A utilização da dopagem de silício junto com o ferro tem a função de aumentar a resistência elétrica
+do material e assim reduzir as perdas por correntes induzidas.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O Lev.
+O ,IMelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

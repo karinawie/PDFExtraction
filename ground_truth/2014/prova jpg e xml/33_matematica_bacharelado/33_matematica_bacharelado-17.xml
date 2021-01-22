@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:31:25</Created>
+	<LastChange>2020-12-06T00:00:01</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="893,299 1065,299 1065,363 1599,363 1599,1332 1488,1332 1488,1384 895,1384 895,1385 894,1385 894,1043 893,1043 893,909 894,909 894,908 942,908 942,625 893,625"/>
+	<TextEquiv conf="0.96313">
+	<Unicode>QUESTÃO 20
+Considere uma parábola de foco F' e reta diretriz d.
+Denote por P um ponto pertencente à parábola e
+por Da sua projeção ortogonal na reta diretriz d.
+Representado por r a reta bissetriz do ângulo FPD,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Areta ré tangente à parábola no ponto P.
+PORQUE
+Il. Para qualquer ponto Q pertencente à reta
+r, Q* P, a distância de Q ao ponto D é
+maior que a distância de Q à reta d.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,297 316,297 316,357 851,357 851,1172 852,1172 852,1173 853,1173 853,1281 636,1281 636,1337 278,1337 278,1581 146,1581 146,1360 147,1360 147,1303 195,1303 195,1173 194,1173 194,1031 145,1031 145,786 144,786 144,357 145,357"/>
+	<TextEquiv conf="0.37751">
+	<Unicode>QUESTÃO 19
+Para realizar seu trabalho cotidiano, um engenheiro
+civil precisa modelar matematicamente algumas
+tarefas. Em determinado projeto, uma situação
+problema, depois de modelada, recaiu em um sistema
+de equações lineares com m equações e nincógnitas,
+para o qual a matriz dos coeficientes foi denominada M.
+Após a modelagem, o engenheiro descobriu que o
+posto da matriz ampliada do sistema (Pa) era igual ao
+posto da matriz dos coeficientes (Pc) e que ambos,
+(Pa) e (Pc), têm valor equivalente ao número de
+incógnitas do sistema, ou seja, Pa = Pc = n.
+Admitindo que o modelo construído pelo engenheiro
+está matematicamente correto, avalie as afirmações
+a seguir.
+|. Amatriz M é singular.
+Il. O sistema de equações lineares modelado
+admite uma única solução.
+III.É impossível encontrar a solução do problema
+utilizando o sistema conforme modelado.
+IV. O valor de Pc é calculado obtendo-se a maior
+ordem possível das submatrizes quadradas de
+M que tenham determinantes não nulos.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,297 869,2080 866,2080 866,297"/></SeparatorRegion></Page></PcGts>

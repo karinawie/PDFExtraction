@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:32:02</Created>
+	<LastChange>2020-12-06T03:39:30</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,963 1600,963 1600,1110 1599,1110 1599,1653 894,1653 894,812 893,812 893,708 892,708 892,359 893,359"/>
+	<TextEquiv conf="0.96219">
+	<Unicode>QUESTÃO 27
+Virtualização não é uma tecnologia nova e está
+presente desde o tempo dos primeiros sistemas de
+grande porte. Recentemente, o termo tornou-se
+onipresente em infraestrutura de TI, representando
+qualquer tipo de método de ofuscação, em que,
+um processo de TI é removido do seu ambiente
+operacional físico, tornando-se virtual. Por isso, a
+virtualização pode ser aplicada a quase todas as
+partes de uma infraestrutura de TI.
+Sobre as diversas formas de virtualização de
+infraestrutura de TI é correto afirmar que
+O a virtualização de switches implica em um controle
+direto das interfaces de rede de um equipamento
+hospedeiro por suas máquinas virtuais.
+O as Redes Locais Virtuais — VLANs — não podem ser
+consideradas exemplos de virtualização de rede,
+pois não permitem independência no acesso a
+rede.
+O o uso de servidores de terminais, um exemplo
+de virtualização de desktops, torna complexa
+a entrega de novas estações de trabalho e sua
+respectiva administração.
+O a virtualização de armazenamento trata da
+técnica na qual os discos de dados são abstraídos
+do sistema operacional que os utiliza, não
+importando onde estejam fisicamente instalados.
+O os valores maiores de manutenção e um
+tempo maior de indisponibilidade são custos
+associados à virtualização de servidores, e são
+mais elevados quando comparados ao modelo
+de servidores físicos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,364 851,364 851,914 852,914 852,1078 851,1078 851,1996 740,1996 740,2049 146,2049 146,1596 145,1596 145,1567 194,1567 194,882 145,882 145,708 144,708 144,364 145,364"/>
+	<TextEquiv conf="0.96022">
+	<Unicode>QUESTÃO 26
+A partir de agora, o Brasil possui uma legislação
+ampla, o Marco Civil da Internet, que estabelece não
+apenas a atuação do poder público e o intuito do uso
+da internet no Brasil, como também indica, de forma
+expressa, obrigações e direitos, identifica termos
+técnicos, agentes, procedimentos relacionados ao
+uso e armazenamento de dados, assim como sanções
+em caso de infrações.
+Disponível em: &lt;http://www.administradores.com.br&gt;.
+Acesso em: 28 jul. 2014 (adaptado).
+Em relação ao Marco Civil da Internet, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. Os provedores de aplicação não podem retirar
+conteúdos disponibilizados por terceiros sem
+determinação judicial, exceto nos casos de
+nudez ou de atos sexuais de caráter privado.
+PORQUE
+Il. De acordo com o Marco Civil da Internet, a
+fim de assegurar a liberdade de expressão e
+impedir a censura, o provedor de aplicações
+somente será responsabilizado por danos
+decorrentes de conteúdo com nudez ou atos
+sexuais de caráter privado se, após ordem
+judicial, ou da notificação em caso de material
+sexual, não tomar as medidas necessárias para
+tornar indisponível o conteúdo em questão.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+um proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="875,291 875,2075 869,2075 869,291"/></SeparatorRegion></Page></PcGts>

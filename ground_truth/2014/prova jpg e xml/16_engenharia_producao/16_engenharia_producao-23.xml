@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:12:59</Created>
+	<LastChange>2020-11-21T20:25:10</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="85,238 255,238 255,298 1539,298 1539,605 1538,605 1538,1447 905,1447 905,1599 871,1599 871,1693 812,1693 812,1694 84,1694 84,299 83,299 83,298 84,298 84,239 85,239"/>
+	<ImageRegion id="r1">
+	<Coords points="165,639 165,1347 1539,1347 1539,639"/></ImageRegion>
+	<TextEquiv conf="0.96796">
+	<Unicode>QUESTÃO 24
+A figura abaixo ilustra um sistema produtivo que opera na produção de dois tipos de produtos: P e Q. Os preços
+de venda líquidos de P e Q são, respectivamente, de R$ 80,00 e R$ 90,00 por unidade. A demanda semanal
+do produto P é de 100 unidades e a demanda do produto Q é de 50 unidades. Existem quatro centros de
+trabalho (ou recursos) no sistema produtivo: A, B, Ce D. Cada centro de trabalho possui capacidade máxima de
+processamento igual a 2 400 minutos por semana (8 h x 60 min x 5 dias). A figura identifica, ainda, (1) o tempo,
+em minutos (min), requerido em cada centro de trabalho para realizar a operação específica necessária para
+a produção de cada unidade (und) dos produtos finais; e (ii) as matérias-primas (MP e embalagem) utilizadas
+nos produtos, com os respectivos custos de aquisição.
+Considerando as informações apresentadas, é correto afirmar que o mix de produtos semanal que maximiza
+economicamente a utilização da capacidade do sistema produtivo é composto por
+O 100 unidades do produto P e 30 unidades do produto Q.
+O 100 unidades do produto P e 50 unidades do produto Q.
+O 100 unidades do produto P e 100 unidades do produto Q.
+O 75 unidades do produto P e 75 unidades do produto Q.
+O 60 unidades do produto P e 50 unidades do produto Q.</Unicode></TextEquiv></TextRegion></Page></PcGts>

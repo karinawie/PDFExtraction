@@ -1,0 +1,1063 @@
+QUESTÃO DISCURSIVA 3
+Um consumidor registrou queixa junto à empresa de distribuição de energia elétrica por causa da forte
+oscilação do brilho de lâmpadas incandescentes em sua residência. Segundo o reclamante, isso ocorria
+devido ao uso de equipamentos de solda elétrica em uma oficina vizinha ao seu domicílio.
+Sabendo que esses eram os dois únicos consumidores conectados ao transformador de distribuição de
+energia, um engenheiro da concessionária foi enviado para fazer uma verificação. Ele instalou um analisador
+de energia que registrou, simultaneamente, a tensão no ponto de conexão da residência (Vres) do consumidor
+que fez a queixa e a corrente consumida pela oficina (lof). Durante a medição, todas as cargas da residência
+estavam desligadas.
+Em um dos registros obtidos durante as medições, os padrões de tensão e corrente mostraram uma corrente
+de 100 A, correspondente a uma queda de tensão de 20 V. Nessa situação, o fator de potência medido foi
+indutivo com valor nulo. A tensão medida em Vres, quando a corrente da oficina também era nula, foi igual
+a 220 V. Todos os valores são eficazes.
+Para explicar o que acontecia, o engenheiro desenhou o circuito equivalente mostrado na figura abaixo.
+Informou que XL se referia ao comportamento do transformador de distribuição (reatância de dispersão).
+Afirmou também que desconsiderou os cabos de conexão entre o transformador e os pontos de medição,
+pois eram distâncias relativamente muito curtas.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Determine o módulo da tensão V. (valor: 4,0 pontos)
+b) Desenhe, em escala, o diagrama fasorial com as três tensões (Vx, Vres e V) e a corrente da oficina (lof) do
+circuito equivalente, para a condição de corrente indicada (100 A), tomando como referência a tensão V
+(fase 0º) na fonte. (valor: 6,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+A figura a seguir ilustra um motor de indução trifásico acionado por um inversor de frequência, cuja entrada
+é ligada à rede com frequência constante e igual a 60 Hz. Pela variação da corrente de referência (| .) de4 a
+20 mA, a velocidade de rotação do motor varia linearmente de O a 2 000 rpm.
+REF
+A corrente de referência provém de um circuito analógico com amplificadores operacionais nas configurações
+“amplificador inversor” e “conversor tensão corrente”. A entrada do amplificador inversor é ligada a uma
+fonte de tensão constante e igual a 1 V.
+Considerando esse sistema, calcule o valor da resistência do potenciômetro que levará o motor à rotação de
+1 000 rpm, justificando sua resposta. (valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+O gráfico abaixo mostra a resposta em frequência, H(f), de um sistema linear e invariante no tempo. O eixo
+vertical representa a relação dos valores de tensão eficaz entre saída e entrada do sistema em função da
+frequência f. Desse modo, para frequências f menores do que fA , o valor da tensão eficaz na saída dividido
+pelo valor da tensão eficaz na entrada do sistema vale A.
+A partir dessas informações, faça o que se pede nos itens a seguir.
+a) Considerando A = 1, determine o valor de B para que ocorra uma atenuação de 60 dB entre entrada e
+saída para frequências acima de f,., apresentando os cálculos realizados. (valor: 4,0 pontos)
+b) Considerando que f, = 3,8 kHz, f, = 4,0 kHz e que esse sistema será utilizado como filtro imediatamente
+antes de um conversor analógico-digital para o processamento digital dos sinais produzidos, qual deverá
+ser a mínima frequência de amostragem adotada para se reduzir corretamente a sobreposição espectral
+(aliasing)? Justifique sua resposta. (valor: 4,0 pontos)
+c) A partir das informações apresentadas nos itens (a) e (b), indique o tipo de filtro que melhor caracteriza
+esse comportamento de resposta em frequência. (valor: 2,0 pontos)
+
+QUESTÃO 10
+Denominam-se cargas os elementos de um circuito
+elétrico que se opõem à passagem de corrente
+elétrica. Essencialmente, distinguem-se três tipos de
+cargas: resistivas, capacitivas e indutivas. As cargas
+resistivas dissipam energia, enquanto as puramente
+capacitivas ou puramente indutivas são consideradas
+armazenadoras de energia.
+Se o circuito mostrado acima é alimentado por uma
+fonte de tensão contínua de 12 V e as lâmpadas são
+de 12 V/6 W, observa-se que, em regime permanente,
+O as três lâmpadas, L1, L2 e 13, ficarão apagadas,
+pois lâmpadas incandescentes só operam com
+corrente alternada.
+O somente L2 e L3 ficarão acesas, pois a corrente
+que passa em L2 é a soma das correntes em L3 e
+no indutor.
+O as três lâmpadas, L1, L2 e L3, ficarão acesas, pois
+estão ligadas à fonte de alimentação.
+O somente L2 ficará acesa, pois está em série com a
+fonte de alimentação.
+O somente L1 ficará acesa, pois está em série com o
+capacitor.
+
+QUESTÃO 09
+Suponha que a distância percorrida por um ciclista
+que pedala regularmente pode ser inferida pela
+variável aleatória x, com densidade de probabilidade
+normal,
+nos — E
+fíg;no) ==" 20º
+com 1u=25kme 0º = 25km?. A duração média do
+seu treino é de 12h15min.
+Com base nesses dados, avalie as afirmações abaixo.
+|. A velocidade média de cada treino é de
+21,7 km/h.
+Il. A distância média percorrida em cada treino
+é de 25 km.
+Ill. A área média percorrida em cada treino é de
+25 km?.
+IV. A distância percorrida de cada treino, em um
+desvio-padrão, está entre 20 km e 30 km.
+V. A velocidade média de cada treino, em um
+desvio-padrão, está entre 16 km/h e 24 km/h.
+É correto apenas o que se afirma em
+o.
+Oie
+Oie.
+O lev
+O, WVev.
+
+QUESTÃO 11
+A DBO (Demanda Bioquímica de Oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+para oxidar a matéria orgânica por decomposição aeróbia. Quando a amostra é guardada por 5 dias em uma
+temperatura de incubação de 20ºC, ela é referida como DBO, ,,, que é normalmente utilizada como um dos
+parâmetros para verificação da qualidade da água.
+O seguinte quadro classifica um curso d'água em função da sua DBO, ,,
+A imagem abaixo mostra um trecho de um rio com 5 seções (X, Y, Z, W e T), em que são coletadas amostras
+de água para a determinação de DBO, ,, em laboratório.
+O quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+Considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada,
+no mínimo, como “razoável”?
+O x.
+or
+Oz.
+Ow.
+er
+
+QUESTÃO 13
+Engenheiros de uma empresa holandesa encontraram
+uma maneira de fazer com que os elevadores terrestres
+subam até o topo de edifícios com 1 000 metros de
+altura, pois os cabos de aço usados nos elevadores atuais
+só conseguem alçá-los a alturas de, aproximadamente,
+500 metros. Isso será possível com a criação de um
+novo cabo superleve e superforte, ou seja, uma espécie
+de cinta, tecida com fibras de carbono. Em vez dos fios
+de aço entrelaçados usados nos cabos de aço comuns,
+a cinta é formada por quatro fitas de fibra de carbono
+seladas em plástico transparente. O plástico é necessário
+para proteger do atrito as fibras de carbono e aumentar
+a vida útil do conjunto. Cada fita tem 4 centímetros de
+largura por 4 milímetros de espessura. Elas são parecidas
+com uma régua escolar flexível. Esse novo material
+supera ligeiramente a resistência à tensão do aço, mas
+pesa sete vezes menos que o atualmente usado. Assim,
+a força gasta para sustentar o peso do próprio cabo
+passa a ser aplicada para sustentar apenas o elevador, e
+o consumo de energia dos elevadores também é cerca
+de 15% menor do que os anteriores.
+Disponível em: <http://www.inovacaotecnologica.com.br>.
+Acesso em: 27 jul. 2014 (adaptado).
+Tendo em vista a situação descrita, avalie as
+afirmações a seguir.
+|. O cabo de fibra de carbono suporta elevadas
+cargas devido à sua elevada resistência à tração.
+Il. A fibra de carbono torna o cabo bem mais
+flexível, o que, aliado a sua resistência à tração,
+proporciona a esse material uma vantagem
+em relação aos cabos de aço convencionais.
+Ill. A relação resistência/peso do cabo de fibra de
+carbono assegura vantagem desse material em
+relação aos cabos de aço, pois a economia do peso
+próprio do cabo pode ser usada para sustentar o
+elevador e reduzir o consumo de energia.
+IV. Apesar da resistência à tensão ser apenas
+ligeiramente maior no cabo de fibra de
+carbono, a vantagem principal de seu uso é a
+alta relação resistência/peso.
+É correto apenas o que se afirma em
+o.
+oO.
+Biel.
+O llelv.
+O lllelv.
+
+QUESTÃO 12
+Um ambiente termicamente confortável é uma das
+condições que devem ser consideradas em projetos
+de edificações. A fim de projetar um ambiente interno
+com temperatura de 20ºC para uma temperatura
+externa média de 35ºC, um engenheiro considerou,
+no dimensionamento, um fluxo de calor através de
+uma parede externa de 105 W/m?, conforme ilustra
+a figura abaixo.
+A tabela a seguir apresenta os valores da condutividade
+térmica para alguns materiais de construção.
+A fim de se obter a temperatura interna desejada,
+qual deve ser o material selecionado, entre os
+apresentados na tabela acima, para composição da
+parede externa?
+O Concreto.
+O Pedra natural.
+O Placa de madeira prensada.
+O Placa com espuma rígida de poliuretano.
+O Placa de aglomerado de fibras de madeira.
+
+Com base nessas informações, verifica-se que a
+solução da equação é obtida pela seguinte associação
+das etapas do algoritmo com o fluxograma
+
+QUESTÃO 14
+O transporte de um fluido entre dois pontos no interior
+de um tubo ocorre simultaneamente, com perda de
+energia, devido ao atrito do fluido com a parede e ao
+escoamento turbulento. Portanto, quanto maior for
+a rugosidade da parede da tubulação ou mais viscoso
+for o fluido, maior será a perda de energia. A forma
+de determinação do fator de atrito foi estabelecida
+em 1939, por intermédio da equação de Colebrook-
+White, apresentada a seguir.
++ = —21og (5 2.51 )
+VS VA3,7D RA/f
+em que
+f éofatordeatritode Darcy-Weisbach (adimensional);
+k é a rugosidade equivalente da parede do tubo (m);
+D é o diâmetro interno do tubo (m);
+R é o número de Reynolds (adimensional).
+A resolução dessa equação requer um processo
+iterativo, pois a função é implícita em relação ao fator
+de atrito (presente nos dois membros da equação).
+Em 1939, a resolução de equações por procedimentos
+iterativos demandava excesso de tempo, mas,
+com o desenvolvimento dos conhecimentos de
+computação, esse problema foi solucionado.
+As etapas de um algoritmo que soluciona a equação,
+sem ordenação lógica, assim como seu fluxograma
+são apresentados a seguir.
+A)D=1
+B) f,= 0,03
+C) Início
+D) Cálculo de f, através da equação de Colebrook-
+White
+E) | ff | <0,00001
+F) Término
+G) R,=10 000
+H) k = 0,0001
+VV Lh=h
+J) Visualização do resultado
+
+QUESTÃO 16
+Uma indústria de blocos cerâmicos pretende
+utilizar queima de biomassa resultante de resíduos
+de madeira, para gerar energia térmica para seus
+fornos, que, atualmente, utilizam gás natural. Tal
+iniciativa poderá reduzir o consumo de combustível,
+porém será necessário um investimento no valor de
+20% do consumo/ano atual de combustível, visando
+à adaptação dos fornos. Além disso, o transporte
+anual dos resíduos da fonte geradora até a indústria
+irá custar 5% do consumo/ano atual de combustível.
+Estima-se que essa alteração promova uma
+economia, no consumo/ano atual de combustível,
+de 10% ao ano.
+A partir da situação descrita, avalie as afirmações a
+seguir.
+|. A partir do quinto ano, a indústria começaria
+a ter benefícios econômicos.
+Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+de energia com menor produção e emissão de
+partículas devido ao processo de combustão
+(particulados).
+Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+renovável de energia.
+O valor do investimento supera os benefícios
+promovidos com a economia de combustível
+durante os 5 primeiros anos.
+É correto apenas o que se afirma em
+o.
+O Iv.
+Oie.
+Oie.
+OÔileiv.
+
+QUESTÃO 15
+Observe o programa classificador (“sort”), em
+pseudocódigo, apresentado abaixo.
+Esse programa classifica, em ordem
+O decrescente, notas de alunos e nomes de alunos
+de mesma nota.
+O alfabética crescente, nomes e notas de alunos de
+mesmo nome.
+O decrescente, notas de alunos.
+O alfabética crescente, nomes de alunos.
+O crescente, notas de alunos.
+
+QUESTÃO 18
+No Brasil, é comercializada uma cadeira de rodas de alumínio com peso aproximado de 12 kg, que representa
+cerca da metade do peso de um modelo convencional. Construída em estrutura tubular de uma liga de
+alumínio aeronáutico, essa cadeira de rodas possui alta resistência mecânica, além de ter custo reduzido.
+Disponível em:<http://www.hospitalar.com>. Acesso em: 26 jul. 2014 (adaptado).
+O alumínio aeronáutico possui uma combinação única de propriedades que o torna um material de construção
+versátil, altamente utilizável e atrativo. Essas características são devidas a quais propriedades?
+O Alta resistência mecânica e baixa densidade.
+O Baixa plasticidade e alto ponto de fusão.
+O Alta dureza a quente e baixa dutilidade.
+O Baixa plasticidade e alta soldabilidade.
+O Alta dureza e alta densidade.
+
+QUESTÃO 17
+Existem controvérsias acerca da magnitude dos fatores que influenciam o voto do eleitor. Embora, atualmente,
+as pesquisas eleitorais possam ser divulgadas próximo ao dia da eleição, durante muito tempo essa divulgação
+não era permitida sob a alegação de que as mesmas influenciavam a decisão de um tipo particular de eleitor,
+o qual desejava “votar no candidato ganhador” e tendia a votar nos candidatos cuja suposta probabilidade
+de vitória é maior, independentemente do conteúdo da proposta política apresentada.
+Considerando que o Candidato B esteja interessado no voto do tipo de eleitor mencionado no texto e esteja
+examinando os dois gráficos acima para apresentar, em seu material de propaganda, os resultados de uma
+pesquisa eleitoral, avalie as afirmações que se seguem.
+|. Os dois gráficos apresentam resultados diferentes.
+Il. Em relação aos objetivos do Candidato B, o gráfico | é mais adequado que o |l.
+Ill. A decisão a ser tomada apresenta implicações de natureza ética, além das de natureza técnica.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LI1elm.
+
+QUESTÃO 19
+Um transformador monofásico consiste essencialmente de duas bobinas com núcleo comum. Alimentando
+um dos enrolamentos com tensão alternada, com o respectivo valor de tensão nominal, tem-se um fluxo
+magnético variável que, agindo no interior do núcleo, atinge o outro enrolamento, provocando o aparecimento
+de uma tensão alternada nesse enrolamento por conta da indução magnética. O núcleo do transformador
+monofásico normalmente é constituído de material ferromagnético e o fluxo magnético variável atuará
+também sobre o núcleo e produzirá correntes induzidas (parasitas) nesse ferro. Para minimizar os efeitos das
+correntes parasitas são utilizadas chapas de ferro magnético, de espessura reduzida, isoladas eletricamente
+uma da outra e montadas em forma de núcleo.
+Considere um transformador monofásico 220V/110V, 60 Hz, que possui um núcleo formado por lâminas
+de material ferro-silício (Fe-Si), conforme ilustrado na figura 1 e que está operando a vazio, com o primário
+alimentado com os valores nominais de tensão e frequência.
+Sabe-se ainda que a densidade de fluxo mágnético (B ) em função das perdas por quilograma de material,
+em 60 Hz, varia conforme mostrado na figura 2.
+
+QUESTÃO 20
+O desenvolvimento da tecnologia de processamento de sinais transformou fortemente a sociedade atual.
+Como exemplos de aplicações que surgiram desse desenvolvimento têm-se: áudio e vídeo codificados
+eficientemente de forma a permitir seu uso na internet, telefones celulares multitarefa (reprodutor MP3,
+câmera digital, GPS, etc.), TV digital, equipamentos médicos mais versáteis e poderosos. A figura abaixo
+ilustra um conceito possível de aplicação do processamento de sinais, no qual um sinal analógico é convertido
+para a sua representação digital e, posteriormente, retorna à forma analógica após o processamento digital.
+Nesse contexto, o bloco “Filtro analógico” é responsável pela
+O amplificação dos níveis de amplitude da entrada analógica para melhoria da precisão do processamento.
+O atenuação de componentes espectrais acima da frequência de Nyquist.
+O compensação dos efeitos do filtro de reconstrução ao final do processo.
+O correção no padrão espectral da entrada analógica com aplicação da transformada de Fourier.
+O remoção de ruídos na faixa de frequência de interesse do sinal a ser processado.
+
+A partir das informações apresentadas, avalie as afirmações a seguir.
+|. Atensão induzida no secundário do transformador depende da resistência do enrolamento.
+Il. As correntes induzidas nas lâminas do núcleo laminado são proporcionais à espessura das mesmas.
+Ill. As perdas por correntes induzidas nas lâminas do núcleo são proporcionais à densidade de fluxo (B ,,)
+no núcleo.
+IV. A utilização da dopagem de silício junto com o ferro tem a função de aumentar a resistência elétrica
+do material e assim reduzir as perdas por correntes induzidas.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O Lev.
+O ,IMelv.
+
+QUESTÃO 22
+Considere uma rede de distribuição para
+atendimento de três unidades consumidoras.
+Medições apontaram as características das cargas de
+cada unidade consumidora, conforme mostrado no
+quadro a seguir.
+Desprezando as perdas nos alimentadores da rede,
+assinale a alternativa que apresenta corretamente
+a menor potência nominal do transformador de
+distribuição, capaz de suprir simultaneamente as
+três unidades consumidoras a ele interligados.
+O 3 kva.
+O 5 kva.
+O 10 kva.
+O 15 kvAa.
+O 25 kvAa.
+
+QUESTÃO 21
+Até alguns anos atrás, bastava ligar um
+liquidificador na cozinha enquanto uma TV estava
+ligada na sala para perceber a interferência, mas
+o desenvolvimento de tecnologias já conseguiu
+diminuir, ou até mesmo eliminar a interferência
+entre alguns equipamentos. Para evitar o mau
+funcionamento dos eletroeletrônicos, foram
+criadas blindagens, geralmente feitas com algum
+tipo de metal.
+Disponível em <http://www.osetoreletrico.com.br>.
+Acesso em 02 out. 2014 (adaptado).
+A interferência citada no texto é de origem
+eletromagnética e pode causar degradação no
+desempenho de um equipamento eletroeletrônico
+devido à geração de campos eletromagnéticos no
+ambiente.
+No que se refere aos aspectos relacionados a esse
+fenômeno, avalie as afirmações a seguir.
+|. As causas de um problema de interferência
+eletromagnética podem ocorrer tanto dentro
+como fora do equipamento.
+Ill. As linhas de transmissão de energia,
+descargas elétricas e lâmpadas fluorescentes
+são consideradas causadoras de interferência
+eletromagnética.
+Ill. Quando dois ou mais dispositivos contribuem
+simultaneamente para a interferência
+eletromagnética, diz-se que eles possuem
+compatibilidade magnética.
+IV. Aterramento, blindagem e filtragem são
+soluções que podem ser utilizadas no projeto
+com o intuito de se controlar ou suprimir a
+interferência eletromagnética.
+É correto apenas o que se afirma em
+Oie
+O em.
+O ueiv
+O L11e.
+OLE.
+
+QUESTÃO 23
+A figura 1 apresenta um sistema fotovoltaico isolado
+com armazenamento, suprindo apenas cargas que
+funcionam em corrente contínua, já que o sistema
+não conta com inversor.
+O circuito ilustrado na figura 2 representa um modelo
+simplificado do sistema mostrado na figura 1. Na célula
+fotovoltaica ocorre uma queda de tensão quando os
+portadores de carga migram do semicondutor para
+os contatos elétricos, representada pela resistência
+série R. Este parâmetro representa a resistência
+da própria célula, sendo composta pela resistência
+elétrica do material e dos contatos metálicos que
+resultam nas perdas por efeito Joule. O modelo do
+painel é completado com uma resistência paralela,
+R, que representa as perdas devido às correntes
+inversas de fuga e parasitas que circulam na
+célula causadas, principalmente, pelas pequenas
+imperfeições na estrutura do material.
+
+Sendo os condutores de interligação ideais,
+desprezando — qualquer parcela reativa dos
+componentes do circuito e considerando o
+funcionamento simultâneo de todas as cargas
+descritas, avalie os itens a seguir.
+|. A resistência equivalente das três cargas
+supridas pelo sistema é igual a 1 O.
+Ill. A corrente gerada pelo painel fotovoltaico,
+Ipv, no instante considerado, é igual a 9,1 A.
+Ill. A tensão sobre a resistência Rp, Vp, apresenta
+o valor de 18 V.
+IV. No instante considerado, a bateria contribui
+com 3 A para suprir as necessidades das
+cargas em funcionamento.
+V. A força eletromotriz da bateria, fem, tem o
+valor de 17,4 V.
+É correto apenas o que se afirma em
+O Lev.
+O LIelv
+OLIMev
+O nMmev
+O 1, Ivev.
+
+QUESTÃO 24
+O circuito representado na figura a seguir utiliza um opto-acoplador 4N33 para isolar a linha de alimentação
+em baixa tensão (entrada) do lado de alta tensão (terminal comum em + 1 000 V). O gráfico da figura mostra
+a corrente do coletor relacionada com a corrente do LED, que é a característica de transferência de um 4N33
+para um fototransistor não-saturado.
+MALVINO, A. P. Eletrônica, v.1, 7.ed. São Paulo: McGraw-Hill Book, 2007.
+Considerando V,r (sat) = 0,7 V, avalie as seguintes afirmações.
+|. SeV,, for 5 V, o valor da tensão coletor-emissor do fototransistor é 10 V.
+Il. No circuito, a máxima corrente possível para o fototransistor é de 5 mA.
+Ill. Se a tensão no resistor de 1 kOQ for de 1 V, o valor da tensão Vas será 1,13 V.
+IV. Se o LED estiver aberto e V.g=3Va tensão medida entre o coletor do 2N3904 e o terra é de 10 V.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O eilv.
+O Lilelv.
+O IMeiv
+
+QUESTÃO 26
+Diversos parâmetros podem ser obtidos a partir
+da resposta de um sistema de controle de segunda
+ordem a uma entrada do tipo degrau unitário,
+conforme mostrado no gráfico a seguir.
+Considerando que a função de transferência
+Y(s) do sistema de segunda ordem é dada por
+Y(s) = ————— o valor do tempo de
+(9) Ss +14s8+4
+acomodação 7 para que a resposta do sistema
+esteja dentro de uma faixa de +2% do valor final
+será de
+O 2,855.
+O 3,755.
+O 14,00 s.
+O 5,00 s.
+O 10,00 s.
+
+QUESTÃO 25
+Considerando um concurso onde os candidatos
+serão avaliados a partir da combinação das respostas
+binárias (sim - 1 ou não - O) a quatro questões (A, B,
+C e D), construiu-se o seguinte circuito digital para
+selecionar os citados candidatos.
+Sabendo que o LED L1 só acenderá para o nível lógico
+1 na sua entrada, e que isso seria a indicação de
+aprovação, qual das alternativas a seguir apresenta
+corretamente possíveis combinações binárias das
+respostas às questões A, B, C e D, nessa sequência,
+que garantem a aprovação de um candidato?
+O 0011, 0001 e 0010
+O 1001, 1101 e 1110
+O 0111, 1001 e 1011
+O 0110, 1010 e 1000
+O 1011, 1101 e 1010
+
+QUESTÃO 27
+Os diagramas de Bode são construções gráficas que permitem esboçar a resposta de um sistema de controle.
+Esses diagramas são constituídos de duas curvas, uma representando o módulo e a outra a fase da função de
+transferência em relação à frequência.
+A figura a seguir apresenta os diagramas de Bode de um determinado sistema.
+Assinale a alternativa que apresenta corretamente a função de transferência do sistema descrito pelas curvas
+da figura acima.
+100
+O no = (s + 1) (s + 200)
+O ns —— Ho
+6) = T10) (81100)
+sSº
+9 n- (s + 10) (s + 200)
+10s
+O no) = (s + 1) (s + 200)
+O nu 100
+6) = s (s + 100)
+
+QUESTÃO 29
+As lâmpadas a LED (Light Emitting Diode) possuem
+vida útil muito superior aos outros tipos de lâmpadas
+disponíveis no mercado. Além disso, elas apresentam
+um Índice de reprodução de cor (IRC) considerado
+aceitável mesmo pelos padrões mais exigentes de
+iluminação de interiores. Oferecem, ainda, eficiência
+luminosa bastante superior às fluorescentes
+compactas e às incandescentes. Com tamanhas
+vantagens, verifica-se que existe uma tendência
+da iluminação tradicional, composta por lâmpadas
+incandescentes, dicroicas e fluorescentes tubulares
+ou compactas, ser gradualmente substituída pelas
+lâmpadas de LED.
+Com relação aos LED, avalie as afirmações a seguir.
+|. A diferença entre os semicondutores
+intrínsecos e extrínsecos é que os intrínsecos
+apresentam impurezas dopantes inseridas
+de forma a ficarem retidas dentro do cristal
+semicondutor, e os extrínsecos possuem
+dopantes posicionados
+cristal semicondutor.
+externamente ao
+Il. Quando a junção P-N de um LED é diretamente
+polarizada, elétrons e lacunas se recombinam,
+resultando na emissão de fótons.
+Ill. A luz emitida pelo LED tem comprimento de
+onda relacionado ao tipo de material utilizado
+na dopagem do semicondutor, por exemplo,
+gálio, alumínio, arsênio, fósforo, índio ou
+nitrogênio.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 11e.
+
+QUESTÃO 28
+O projeto de transformadores visa à construção
+de dispositivos eficientes, porém com custos que
+viabilizem a produção em maior escala. Desse
+modo, a busca por materiais que proporcionem
+a redução de perdas, atendendo aos requisitos
+econômicos desejados, consiste em um desafio para
+os profissionais da área.
+Nesse contexto, avalie as afirmações a seguir.
+|. Nocaso dos transformadores, é desejável que
+os condutores dos enrolamentos do primário
+e secundário tenham alta permeabilidade
+magnética de modo a reduzir as perdas no
+cobre.
+Il. Materiais ferromagnéticos são altamente
+recomendáveis na constituição do núcleo
+de transformadores por promover um
+bom acoplamento magnético entre os
+enrolamentos do primário e secundário.
+Ill. As perdas por correntes parasitas independem
+do material escolhido para o núcleo, sendo
+proporcionais à resistividade do material
+utilizado para confecção dos enrolamentos e
+ao valor da corrente elétrica que neles circula.
+IV. O aumento no teor de silício do núcleo de
+transformadores permite redução nas perdas
+por correntes parasitas e promove melhora
+nas propriedades magnéticas das chapas.
+V. Os materiais que compõem o núcleo são
+geralmente produzidos sob forma de chapas
+de reduzida espessura, o que promove a
+diminuição do caminho de circulação de
+correntes induzidas no núcleo e atenua as
+perdas por correntes parasitas.
+É correto o que se afirma em
+
+
+QUESTÃO 31
+A levitação magnética (maglev) é uma forma de
+levitar objetos, a partir de campos magnéticos,
+de modo silencioso e sem necessidade do uso de
+combustíveis. Países, como Japão e Alemanha,
+têm investido bilhões de dólares em pesquisas e
+desenvolvimento nessa área, principalmente com
+foco no trem maglev.
+Sobre os fenômenos eletromagnéticos envolvidos
+nesse tipo de levitação, assinale a alternativa correta.
+O Os campos magnéticos necessários para se obter
+a levitação magnética, em geral, são pouco
+intensos.
+O Materiais com propriedade supercondutora não
+são indicados nesse tipo de levitação, uma vez
+que eles repelem o campo magnético.
+O Para que a levitação seja garantida, é necessário
+que a força repulsiva sobre um objeto
+diamagnético seja menor do que o peso desse
+objeto.
+OA levitação emprega o diamagnetismo,
+propriedade que alguns materiais possuem de se
+magnetizarem em oposição ao campo magnético
+aplicado, repelindo-se mutuamente.
+O Para a aplicabilidade em veículos (como trens,
+por exemplo), a levitação magnética é suficiente
+para a locomoção, sendo dispensável o uso de
+um motor de propulsão.
+
+QUESTÃO 30
+Em um sistema de automação industrial, um
+motor será ligado quando ocorrer determinadas
+combinações do acionamento de chaves e sensores.
+Dessa forma, deverá ser criada uma função lógica
+combinacional X = f (A, B, C, D)) em que Ae C
+representam chaves, B e D representam sensores e X
+representa o acionamento do motor.
+Para isso, construiu-se a Tabela Verdade das variáveis
+envolvidas, conforme mostrado abaixo.
+Na Tabela Verdade, A, B, Ce D são as entradas e
+X é a saída. O símbolo ? representa a condição de
+don't care ou não importa para a saída X. O símbolo *
+representa inversão lógica. Dessa forma, B', por
+exemplo, significa B invertido ou complementado.
+A expressão lógica minimizada para a função X pode
+ser representada por
+O X=AB+AD+AC.
+O X=AD+A'C+AB.
+O x=ABD' + BD + AC.
+O Xx=AC'D+ACD' + AB.
+O x=AB'C'D+AB'C'D+AB'CD'.
+
+QUESTÃO 32 - Eletrônica
+Um engenheiro recém-contratado em uma empresa
+é incumbido de projetar um novo sistema de
+sensoriamento para a medição de temperatura
+em uma das linhas de produção da fábrica. A faixa
+de temperatura a ser medida é de 250 ºC a 450 ºC,
+com precisão de +2 ºC. Para atender essa demanda,
+o engenheiro utiliza um sensor resistivo, cuja
+resistência varia linearmente de 280 O a10000O
+na faixa de temperatura a ser medida. A fim de não
+danificar o sensor, a potência nele dissipada deve
+ficar abaixo de 5 mW. A saída do sensor é ligada a
+um circuito condicionador de sinais, cuja saída varia
+linearmente de —6 V a +6 V na faixa de temperatura
+a ser medida.
+Com base nos dados acima, avalie as afirmações a
+seguir.
+|. Asaída do sistema varia a uma taxa 25 mV/ OQ.
+ll. A precisão do sistema de medição deve ser
+maior do que +0,8%.
+Ill. A corrente no sensor de ser mantida abaixo
+de 2 mA.
+IV. O sensor deve variar de 3,6 0)/ºC para manter
+a precisão de medição da temperatura.
+É correto apenas o que se afirma em
+Oie.
+O el.
+Oie
+O Lilelv.
+OL WMeIv.
+
+QUESTÃO 32 - Sistemas de Energia Elétrica
+As figuras a seguir mostram esquemas típicos
+utilizados em redes de distribuição, empregando
+arranjos com suprimento único e arranjos com duas
+fontes de suprimento e suas respectivas chaves.
+KAGAN, N., OLIVEIRA, C. C. B., ROBBA, E. J.. Introdução aos sistemas
+de distribuição de energia elétrica. 2.ed. São Paulo:
+Blucher, 2010, p. 8-11. (adaptado)
+Considerando as redes apresentadas, avalie as
+afirmações a seguir.
+|. Narede 1, qualquer defeito na rede ocasiona
+a interrupção de fornecimento à subestação.
+Il. Na rede 2, para defeitos a montante de uma
+das barras extremas da rede de distribuição,
+o suprimento da carga não é interrompido
+permanentemente.
+Ill. Na rede 3, um defeito no barramento de alta
+da subestação impõe o seccionamento da
+rede, pelo fechamento das duas chaves de
+entrada.
+IV. O arranjo da rede 4 é conhecido como sangria
+da linha, utilizado em regiões onde há vários
+centros de carga, com alta densidade de carga.
+É correto apenas o que se afirma em
+Oie
+O elv
+O leiv.
+O L11e.
+OLWelv
+
+QUESTÃO 32 - Controle e Automação
+Na tentativa de obter um modelo matemático refe-
+rente a um sistema dinâmico linear e invariante no
+tempo, um engenheiro utilizou uma técnica de mo-
+delagem baseada na física do processo, obtendo um
+modelo de terceira ordem. Ao simular o modelo a
+uma entrada ao degrau, o engenheiro observou que
+a resposta do mesmo se aproximava da resposta de
+um sistema de segunda ordem.
+No que concerne à validade de tal aproximação,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+l. Um procedimento possível para verificar
+a validade de uma aproximação de ordem
+inferior é analisar a dominância modal, por
+meio da observação das constantes de tempo
+envolvidas.
+PORQUE
+Il. Se existir uma constante de tempo muito
+menor do que a maior constante de tempo
+associada ao polo dominante, esse modo
+pode ser descartado.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a II é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 32 - Telecomunicações
+A emissão de ondas eletromagnéticas no espaço é
+obtida, de maneira mais eficiente, com a ajuda de
+estruturas condutoras ou dielétricas conhecidas
+como antenas. Modelos típicos de antenas são
+mostrados nas figuras abaixo.
+Todos esses modelos apresentam características
+importantes que os qualificam como irradiadores
+de energia eletromagnética. Essas características
+incluem: diagrama de radiação, eficiência,
+diretividade e ganho de potência. Com relação ao
+assunto, o ganho de potência de uma antena, medido
+na região de campo distante, pode ser definido como
+a razão entre
+O a intensidade de irradiação de uma antena e a
+intensidade irradiada por uma antena isotrópica,
+com a mesma potência na entrada da antena.
+O a potência na entrada da antena e a potência
+irradiada pela antena em uma determinada
+direção.
+O a potência total, entregue pelo transmissor na
+entrada da antena, e a potência total irradiada
+pela antena em todas as direções do espaço
+físico.
+O a potência total, entregue pelo transmissor na
+entrada da antena, e a potência total irradiada,
+representada pelo diagrama de radiação da
+antena.
+Oa intensidade de irradiação máxima e a
+intensidade de irradiação média.
+
+QUESTÃO 33 - Sistemas de Energia Elétrica
+Uma linha de transmissão de energia elétrica (LT) interliga uma usina hidrelétrica (UHE) e um centro de carga
+(SE) que demanda potência ativa e reativa equivalentes a 1,0 pu e 0,2 pu, respectivamente, como ilustrado
+no diagrama unifilar da figura a seguir. Sabe-se que essa LT é curta, possui uma reatância série equivalente de
+valor igual a 0,25 pu e suas perdas podem ser desprezadas.
+Considerando que um estudo de fluxo de potência, ou fluxo de carga, deverá ser realizado para o planejamento
+da operação desse Sistema Elétrico de Potência (SEP), avalie as afirmações a seguir.
+|. Somente o fluxo de potência ativa nessa LT dar-se-á no sentido da usina geradora para o centro de
+carga.
+Il. Atensão na barra da usina geradora será maior do que na barra do centro de carga.
+1.O fluxo de potência reativa da barra da usina geradora para o centro de carga terá valor maior do que
+0,2 pu.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1, 11el.
+
+QUESTÃO 33 - Eletrônica
+Foi solicitado a um engenheiro o projeto de um
+conversor CC-CC capaz de elevar a tensão de um
+banco de 6 baterias de 12 V, conectadas em série,
+de modo a se adequar ao nível de tensão necessário
+para alimentar um conversor CC-CA em 200 V.
+Além de atender ao requisito básico de realizar
+o ajuste de tensão necessário, considerando a
+operação em regime permanente, sem perdas, são
+especificações adicionais do projeto:
+* a corrente fornecida pelas baterias deve
+apresentar pequena ondulação (ripple);
+º* atensãoCC de saída (Vcc) deve ser positiva em
+relação ao baixo potencial da tensão de entrada
+(Vbat);
+* —ocircuitodo conversor CC-CC deve ter capacidade
+de proteção contra curto-circuito na saída;
+* oO conversor deve operar com modulação por
+largura de pulso, em que o comando do transistor
+(M) se dá em frequência fixa, alterando-se
+o intervalo de tempo em que o transistor
+permanece em condução.
+Considere a largura de pulso (6 ) como a relação entre
+o intervalo de condução do transistor e o período de
+comutação, assumindo valores entre O e 1.
+Dado que foram omitidos os circuitos de comando e
+dos transistores, assinale a alternativa em que o
+conversor CC-CC atende simultaneamente a todos os
+requisitos do projeto.
+
+QUESTÃO 33 - Telecomunicações
+Em 1990, a International Engineering Task Force
+(IETF), órgão responsável pelas especificações
+da Internet, regulamentou, através da RFC1149,
+procedimentos para a transmissão de datagramas do
+Internet Protocol (IP) usando pombo-correio.
+Considere que:
+um pombo-correio pode carregar um cartão SD
+de 64 Gigabytes a uma velocidade de 100 km/h;
+a taxa de gravação de um cartão SD é 250 Mbps;
+existe uma alternativa de envio dos 64 Gigabytes
+via um sistema de transmissão com fibra ótica a
+100 Mbps;
+atrasos de propagação e de processamento dos
+datagramas |P são desprezíveis em relação ao
+tempo de gravação de um cartão SD.
+Com base nessas informações, até que distância
+é mais rápido utilizar um pombo-correio para
+transmissão de datagramas |P do que um sistema de
+transmissão com fibra ótica a 100 Mbps?
+O 3,5 km.
+O 17,8 km.
+O 28,0 km.
+O 85,3 km.
+O 142,0 km.
+
+QUESTÃO 33 - Controle e Automação
+Com o recente descobrimento de mais reservas
+petrolíferas no fundo do mar, a demanda por
+pequenos submarinos tem aumentado. Nesse
+contexto, os engenheiros de uma companhia
+decidiram projetar o controlador mais simples
+que pudessem implementar com amplificadores
+operacionais para controlar a força F' que o motor de
+empuxo é capaz de impor a um submarino de massa
+M ao longo do eixo vertical Y. O único requisito
+desejado para o controlador é que seja capaz de
+manter o erro em regime permanente nulo, mesmo
+após perturbações.
+Admita que a função de transferência adotada para o
+sistema de controle do submarino é
+G(s) = XY -
+F(s)
+em que C é a viscosidade da água. Considerando
+ainda a disponibilidade de sensores para medir a
+profundidade no fundo do mar, os engenheiros
+tiveram sucesso usando um controlador do tipo
+O integral.
+O derivativo.
+O proporcional.
+1
+Msº + Cs
+O proporcional integral.
+O proporcional derivativo.
+
+QUESTÃO 34 - Sistemas de Energia Elétrica
+A Resolução Normativa ANEEL n.º 414/2010, atualizada em 2013, dispõe sobre as condições gerais de
+fornecimento de energia elétrica, onde se define, entre outros pontos, a estrutura tarifária horária branca
+para os consumidores do Grupo B. Assuma que o quadro a seguir mostra tarifas de energia elétrica referentes
+à classe residencial, subclasse B1, a serem praticadas a partir de 2015 por empresas distribuidoras autorizadas
+pela ANEEL.
+P: posto tarifário ponta (das 18h00min às 20h59min); INT: posto tarifário intermediário (1 hora imediatamente anterior e 1 hora
+imediatamente posterior ao posto tarifário ponta); FP: posto tarifário fora de ponta (período complementar aos postos tarifários
+ponta e intermediário); BVD: bandeira tarifária verde; BAM: bandeira tarifária amarela; BVM: bandeira tarifária vermelha.
+Considerando o sistema de bandeiras tarifárias, a estrutura tarifária horária branca apresentada no quadro e
+um mês de 30 dias, avalie as afirmações a seguir.
+|. Osistemade bandeiras tarifárias foi criado com o objetivo de refletir os custos de compra de energia sem
+um grande lapso de tempo entre os acionamentos das usinas de diferentes tipos e a correspondente
+repercussão tarifária, eliminando o sinal sazonal de período seco e úmido para as tarifas de energia
+dos clientes atendidos em alta tensão.
+Il. Na vigência da bandeira tarifária que reflete o menor custo de geração de energia, caso o consumidor
+opte por deslocar banhos diários de duração de 1 h do horário de ponta para o horário fora de ponta,
+em um chuveiro elétrico de 5 kW, a economia mensal é de R$ 15,00.
+Ill. Considerando que o consumo de um chuveiro a gás natural (GN) é de 0,1 m?/h e que o custo do GN é
+de R$ 4,00/m?, é economicamente vantajoso utilizar um chuveiro elétrico de 5 kW em detrimento de
+um chuveiro a GN, na vigência da bandeira verde, no horário fora de ponta (FP).
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1, 11e.
+
+QUESTÃO 34 - Eletrônica
+Uma empresa fornecedora de dispositivos eletrônicos para a indústria automobilística recebeu uma
+encomenda para desenvolver um controlador de luminosidade inteligente. O dispositivo deverá acionar faróis
+automaticamente, a partir de uma determinada quantidade de luminosidade ambiente. Para este projeto,
+foi desenvolvido um protótipo utilizando como elemento de controle e chaveamento um transistor MOSFET
+acionado através de um LDR (Light Dependent Resistor), conforme apresentado na figura 1.
+Para concluir o projeto, deve-se calcular a faixa de valores de RX, utilizando as curvas características do LDR
+(figura 2) e do MOSFET (figura 3).
+Considerando que o MOSFET inicia a condução com 3,0 V aplicado entre os terminais da porta (gate) e da
+fonte (source) e que o mesmo será acionado quando a iluminância do ambiente for reduzida para o intervalo
+entre 50 e 100 lux.
+De acordo com as especificações fornecidas no problema, é correto afirmar que a faixa para RX adequada
+para o projeto é de
+O 12000 O até 18 000 OQ
+O 12000 O até 24 000 O
+O 18000 O até 24 000 OQ
+O 18 000 O até 30 000 O
+O 24 000 O até 30 000 OQ
+
+QUESTÃO 34 - Telecomunicações
+Em um sistema de comunicações, ponto a ponto,
+deseja-se transmitir três sinais de mensagens,
+m,(t), m,(t) e m,(t), cujos gráficos de densidade
+espectral de potência são s,/(&), s,(&) e s,(0&),
+respectivamente, apresentados abaixo. Esses sinais
+serão multiplexados em frequência por meio de
+portadoras moduladas em amplitude (AM). O sinal
+m,(t) modula em AM-DSB (banda lateral dupla -
+Double Sideband) uma portadora com frequência
+&,=4 000 rad/s. Os outros dois sinais de mensagem,
+m,(t) e m,(t), modulam em AM-SSB (banda lateral
+única - Single Sideband) portadoras de frequências
+O,E O,, Nessa sequência, sendo O0,<0,<O,.
+Considerando que, no receptor do sistema de
+comunicação, serão utilizados demoduladores e
+filtros ideais, quais são os menores valores de &, e
+&,, em rad/s, para que seja possível a recuperação
+dos três sinais de mensagem multiplexados?
+O 4000 e 5 000, respectivamente.
+O 4000 e 6 000, respectivamente.
+O 5000 e 6 000, respectivamente.
+O 5000 e 7 000, respectivamente.
+O 6 000 e 7 000, respectivamente.
+
+QUESTÃO 34 - Controle e Automação
+Em uma fábrica de cimento, o controle detemperatura
+de um forno é realizado por uma malha, conforme
+o diagrama de blocos do sistema ilustrado na figura
+abaixo.
+Considere que o sistema possui uma entrada
+T(t), uma saída y(t), um sinal de erro e(t) e as
+correspondentes transformadas de Laplace desses
+sinais, a saber, X(s), Y(s), E(s), além das constantes
+Ke T,maiores do que zero.
+Para a sintonia do ganho da malha de controle,
+realizou-se um teste aplicando-se na entrada do
+sistema um sinal do tipo degrau unitário, X(s) = 1/s.
+Nesse caso, espera-se que o sinal de erro e(t) tenda
+ao valor
+Oo.
+1
+Ox:
+1
+o K+1
+—K
+K+1
+Q oc.
+
+QUESTÃO 35 - Sistemas de Energia Elétrica
+O gráfico abaixo apresenta as curvas de desempenho de um motor de indução trifásico de 50 cv em função
+da potência fornecida pelo motor à carga. A curva A representa o rendimento, a curva B, o fator de potência,
+a curva C, o escorregamento e a curva D, a corrente elétrica.
+Disponível em: <http://ecatalog.weg.net>. Acesso em: 27 ago. 2014 (adaptado).
+Considerando que o motor opera a 220 V e 60 Hz, avalie as afirmações a seguir.
+|. A diminuição da potência fornecida pelo motor à carga implica diminuição de sua corrente elétrica,
+diminuindo seu aquecimento e reduzindo seu rendimento.
+Il. Quando o motor opera com 100% de carregamento, a corrente elétrica assume valores muito altos,
+acima da corrente nominal.
+Ill. O motor deve ser especificado para ter potência nominal o mais próximo possível da potência
+demandada pela carga, de maneira a operar nas faixas mais altas de rendimento e fator de potência,
+apresentando maior eficiência energética.
+IV. Esse motor não pode operar a vazio, sem fornecer potência à carga, visto que o escorregamento seria
+nulo, o que implicaria velocidade angular (rotação) do motor tendendo a infinito.
+V. Omotor apresenta corrente de partida de aproximadamente 45 A, que aumenta até aproximadamente
+120 A quando o motor entra em regime de operação nominal.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+Oielv
+O ev
+O IWvev.
+
+QUESTÃO 35 - Elétrica
+Nos sistemas com microprocessador, o pulso de inicialização reset é usado para colocar a UCP (Unidade
+Central de Processamento) em um estado conhecido. Esse pulso precisa ser gerado automaticamente no ato
+da energização do sistema e deve ser o mais curto possível, desde que não fique aquém da especificação da
+UCP.
+A figura abaixo apresenta um esquema típico para atender a essas necessidades. O reset deve ser ativado
+em nível alto (lógico 1) durante um intervalo não inferior a 100 períodos de relógio, gerado a partir de um
+oscilador a cristal. A especificação da UCP indica nível mínimo de tensão de reset igual a 50% da tensão de
+alimentação do sistema.
+Considerando que o capacitor é de 1 uF e quE In 0,5 =-— 0,69, o valor mínimo do resistor R deve ser
+de aproximadamente
+O 770.
+O 1150.
+O 190 O.
+O 770 O.
+O 14500.
+
+QUESTÃO 35 - Telecomunicação
+Um determinado sinal de áudio, com densidade
+espectral de potência apresentada no gráfico abaixo,
+deve ser gravado em CD (Compact Disc) utilizando
+um conversor analógico-digital (A/D) com 1 024
+níveis. Na saída do conversor, aos bits codificados
+serão adicionados bits para correção de erros,
+bits de sincronismo e bits de controle. Esses bits
+adicionais representam uma sobrecarga de 200%,
+isto é, para cada bit gerado no conversor A/D, 2 bits
+de sobrecarga são adicionados.
+Para essa situação, a taxa do sistema de gravação do
+sinal de áudio no CD, em kbit/s, deve ser igual a
+O 1764,0.
+O 13230.
+O 882,0.
+O 661,5.
+O 11,0.
+
+QUESTÃO 35 - Controle e Automação
+O estudo de sistemas lineares é importante em
+engenharia pelo fato de que boa parte dos fenômenos
+físicos pode ser aproximadamente descrita por
+comportamentos lineares, ao menos em torno dos
+pontos de operação. Por outro lado, a teoria de
+sistemas lineares é muito útil também no estudo do
+comportamento local de sistemas não-lineares.
+É importante salientar que os sistemas físicos
+podem ser representados por equações algébricas
+e equações diferenciais, lineares e não-lineares, e
+o estudo de tais sistemas envolve a modelagem e a
+solução dessas equações.
+No caso específico da equação abaixo, para uma
+entrada z(t), y(t) é a saída de um sistema dada por
+yY(t) = (x(t))+bx(t)+e.
+Para algumas combinações dos valores das
+constantes a, be c, o sistema poderá ser linear ou
+não-linear. O sistema resultante será linear quando
+a=0,b=1,c=O0.
+a=1,b=1,c=O0.
+a=1,b=0,c=1.
+a=2,b=0,c=1l.
+a=2,b=0,c=O0.
+
+

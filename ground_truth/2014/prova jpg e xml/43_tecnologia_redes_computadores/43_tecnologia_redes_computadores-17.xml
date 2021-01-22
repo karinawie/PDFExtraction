@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:33:40</Created>
+	<LastChange>2020-12-06T03:45:50</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 1064,299 1064,368 1600,368 1600,886 1599,886 1599,1722 1384,1722 1384,1786 1026,1786 1026,1968 1043,1968 1043,2023 1042,2023 1042,2065 894,2065 894,1816 895,1816 895,1752 942,1752 942,1255 988,1255 988,1149 893,1149"/>
+	<TextEquiv conf="0.95777">
+	<Unicode>QUESTÃO 15
+Uma empresa multinacional fornecedora de peças
+e acessórios automotivos planeja a realização de
+um evento em um resort para os seus parceiros de
+negócio. O objetivo principal do evento é realizar
+o treinamento da equipe de vendas, por meio
+de acesso aos sistemas da empresa e de forma
+secundária disponibilizar acesso a sites da web e
+correio eletrônico para uso particular dos parceiros.
+Conforme recomendação de padronização da área
+de TI, contratou-se um link de internet e configurou-
+se uma rede sem fio denominada “parceiros”.
+Considerando os mecanismos de segurança em redes
+sem fio e para alcançar o objetivo desejado, avalie as
+afirmações a seguir.
+|. Para garantir a confidencialidade dos dados
+trafegados, recomenda-se a utilização
+de um protocolo de algoritmo simétrico,
+denominado WEP.
+Il. Os usuários devem solicitar autenticação
+através de um portal web (HTTPS) e
+posteriormente o seu acesso será limitado à
+navegação web, correio eletrônico e acesso
+aos sistemas da empresa.
+Ill. Recomenda-se a utilização do padrão de
+segurança WPS (Wi-Fi Protected Setup) para
+garantir todos os requisitos citados.
+IV. Para aumentar a segurança da informação
+trafegada deve-se optar pela utilização do
+WPA?, pois este usa o algoritmo AES.
+É correto apenas o que se afirma em
+Oie.
+O lelv.
+O eiv.
+O L,11e.
+O Lev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,348 851,348 851,1654 850,1654 850,1782 851,1782 851,2043 494,2043 494,2075 192,2075 192,1971 146,1971 146,1486 145,1486 145,1362 144,1362 144,1080 206,1080 206,954 144,954 144,348 145,348"/>
+	<TextEquiv conf="0.96125">
+	<Unicode>QUESTÃO 14
+A internet é uma rede de computadores que
+interconecta milhares de dispositivos computacionais
+ao redor do mundo. Há pouco tempo, esses
+dispositivos eram basicamente computadores de
+mesa, estações de trabalho e os servidores que
+armazenam e transmitem informações, como páginas
+da web e mensagens de email. No entanto, cada vez
+mais sistemas finais modernos da internet, como TVs,
+laptops, consoles para jogos, smartphones, webcams
+e automóveis, estão conectados à rede. O termo rede
+de computadores está começando a soar um tanto
+desatualizado, dados os muitos equipamentos não
+tradicionais que estão ligados à internet. No jargão da
+internet, todos esses equipamentos são denominados
+hospedeiros ou sistemas finais que são conectados
+entre si por enlaces (links) de comunicação e
+comutadores de pacotes.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet:
+Uma Abordagem Top-Down. 5 ed. São Paulo:
+Addison Wesley, 2010 (adaptado).
+A função de comutação em uma rede de comunicação
+se refere ao uso dos recursos disponíveis (meios
+de transmissão, roteadores, switches e entre
+outros) para possibilitar a transmissão de dados
+pelos diversos dispositivos conectados. Para isso,
+basicamente existem algumas técnicas como:
+comutação de circuitos, comutação de mensagens e
+comutação de pacotes.
+Em relação a diferença entre as técnicas de
+comutação de circuito e comutação de pacotes,
+assinale a opção correta.
+O Na comutação de pacotes, os bits simplesmente
+fluem de forma contínua pelo fio.
+O Na comutação de circuitos e na comutação de
+pacotes as transmissões são orientadas à conexão.
+O Na comutação de pacotes ocorre um aumento na
+largura de banda, porém essa técnica necessita da
+existência de um caminho dedicado e exclusivo.
+O Nacomutação de circuitos utiliza-se a transmissão
+store-and-forward, em que um pacote é
+acumulado na memória de um roteador, e depois
+é enviado ao roteador seguinte.
+O Na comutação de circuitos ocorre uma reserva
+de largura de banda em todo o percurso, desde
+o transmissor até o receptor e todos os pacotes
+seguem esse caminho.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,294 869,2080 872,2080 872,294"/></SeparatorRegion></Page></PcGts>

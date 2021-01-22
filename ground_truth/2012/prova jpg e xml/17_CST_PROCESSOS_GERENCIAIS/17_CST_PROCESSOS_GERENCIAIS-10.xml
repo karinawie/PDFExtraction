@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T00:55:11</Created>
+	<LastChange>2020-10-28T02:29:31</LastChange></Metadata>
+	<Page imageFilename="17_CST_PROCESSOS_GERENCIAIS-10.jpg" imageWidth="1616" imageHeight="2165">
+	<SeparatorRegion id="r1">
+	<Coords points="806,188 807,2007 809,2007 808,188"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="825,175 1153,175 1153,245 1535,245 1535,589 1536,589 1536,1434 1534,1434 1534,1664 1535,1664 1535,1932 1534,1932 1534,1961 1485,1961 1485,2009 872,2009 872,1897 873,1897 873,1734 872,1734 872,1688 826,1688 826,1434 824,1434 824,245 825,245"/>
+	<TextEquiv conf="0.58011">
+	<Unicode>QUESTÃO 14
+Imagine que sua empresa venda quatro produtos diferentes
+— porcas, pinos, arruelas e parafusos — nas regiões leste,
+oeste e central. Se você perguntasse: “Quantas arruelas
+foram vendidas durante o último trimestre?”, poderia
+facilmente achar a resposta consultando seu banco de
+dados de vendas. Mas, e se você quisesse saber quantas
+arruelas foram vendidas em cada região e também
+comparar os resultados reais com a projeção de vendas?
+Para obter essa resposta, você precisaria do processamento
+analítico online (OLAP). O OLAP permite a análise
+multidimensional de dados, de forma que os usuários
+vejam os mesmos dados de diferentes maneiras, pois
+usa múltiplas dimensões. Cada aspecto da informação
+— produto, preço, custo, região ou período de tempo —
+representa uma dimensão diferente. Dessa forma, um
+gerente de produto poderia utilizar uma ferramenta de
+análise multidimensional de dados para saber quantas
+arruelas foram vendidas na região leste no mês de junho,
+comparar esses dados com os dados do mês anterior
+e(ou) com os dados de junho do ano anterior e, ainda,
+confrontá-los com a previsão de vendas. O OLAP permite
+que os usuários obtenham respostas online a questões
+específicas com boa velocidade, mesmo quando os dados
+estão armazenados em bancos de dados gigantescos,
+como números de vendas de vários anos.
+LAUDON, K. C. Sistemas de informação gerenciais. São Paulo:
+Pearson Prentice Hall, 2007 (adaptado).
+A partir do texto acima, conclui-se que as aplicações
+OLAP são utilizadas para
+O mostrar a lista dos vendedores que conseguiram
+atingir as metas do trimestre.
+o
+analisar as movimentações financeiras da área
+comercial, por trimestre, para a tomada de decisão.
+o
+controlar as vendas de itens para se ter controles por
+vendedor, produto, trimestre e por região.
+controlar a entrada e saída dos itens de estoques, o
+que possibilita gerar relatórios de necessidades ou de
+disponibilidades de materiais.
+fornecer métodos para acessar, integrar e analisar
+dados corporativos flexibilidade
+performance, o que facilita a tomada de decisão.
+com alta e</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,175 408,175 408,245 790,245 790,1040 789,1040 789,1173 435,1173 435,1222 303,1222 303,1476 129,1476 129,1475 81,1475 81,1192 174,1192 174,1089 129,1089 129,1070 155,1070 155,1068 174,1068 174,765 129,765 129,695 80,695"/>
+	<TextEquiv conf="0.95090">
+	<Unicode>QUESTÃO 13
+Uma empresa, para controlar a qualidade, utiliza três
+ferramentas. A ferramenta X contém um conjunto de
+itens que podem aparecer em determinado processo e
+cuja ocorrência ou não ocorrência devem ser assinaladas,
+geralmente, em forma de tabelas. A ferramenta Y é
+um gráfico de barras que ordena as frequências de
+ocorrência. A ferramenta Z é um diagrama com o formato
+de espinha de peixe, que facilita a visualização das causas
+de determinado problema.
+Considerando o que foi descrito, avalie as seguintes
+afirmações.
+|. A ferramenta X é a Folha de Verificação, cujo uso
+facilita as ações de coletar, organizar e classificar
+dados, localizar defeitos e identificar a relação de
+causa e efeito.
+A ferramenta Y é o Diagrama de Pareto,
+que mostra a informação e torna evidente a
+priorização dos problemas, além de separar as
+causas críticas das triviais.
+Ill. A ferramenta Z é o Diagrama de Ishikawa, que
+apresenta a relação entre os resultados de um
+processo (efeito) e seus fatores (causas).
+É correto o que se afirma em
+|, apenas.
+Il, apenas.
+lelll, apenas.
+Il e ll, apenas.
+Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

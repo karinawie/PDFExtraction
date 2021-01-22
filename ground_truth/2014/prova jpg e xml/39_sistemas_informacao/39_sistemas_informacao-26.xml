@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:55:10</Created>
+	<LastChange>2020-12-06T02:01:15</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,359 1602,359 1602,628 846,628 846,772 1279,772 1279,892 1310,892 1310,893 1600,893 1600,1092 1602,1092 1602,1194 636,1194 636,1256 392,1256 392,1255 279,1255 279,1500 278,1500 278,1501 146,1501 146,1279 147,1279 147,1221 194,1221 194,1072 146,1072 146,1071 145,1071 145,891 156,891 156,628 145,628"/>
+	<TextEquiv conf="0.95413">
+	<Unicode>QUESTÃO 30
+Considere que uma empresa que presta serviços de transporte de pacientes em ambulâncias para clientes
+conveniados disponha de um sistema de controle e gerenciamento de atendimentos e viagens realizados.
+Considere, ainda, que, em atendimento, é utilizada uma ambulância e são registrados a data e o convênio
+a que o atendimento está vinculado. Em um atendimento, uma ambulância realiza uma ou mais viagens
+e, a cada viagem, é incrementado um número sequencial que começa em 1. Nessa situação, o esquema
+relacional simplificado, mostrado a seguir, foi projetado para suportar um banco de dados que controle a
+operação. No esquema, as chaves primárias têm seus atributos componentes sublinhados.
+Paciente (CodPaciente, Nome, Endereço)
+Convênio (CodConvênio, Empresa, Plano)
+Atendimento (CodAtendimento, CodPaciente, CodConvênio, Data, Finalidade)
+Viagem (CodAtendimento, Sequência, Origem, Destino)
+Com base nas informações e no esquema apresentado, avalie as afirmações a seguir.
+|. CodConvênio é uma chave estrangeira na tabela Atendimento.
+Il. CodAtendimento não pode ser chave estrangeira na tabela Viagem porque faz parte da chave primária.
+Ill. CodPaciente nunca pode assumir valores nulos na tabela Atendimento porque é uma chave estrangeira.
+IV. CodPaciente &gt; Nome, Endereço; CodConvênio &gt; Empresa, Plano; CodAtendimento &gt; CodPaciente,
+CodConvênio, Data, Finalidade; CodAtendimento, Sequência &gt; Origem, Destino; são dependências
+funcionais corretamente deduzidas.
+É correto apenas o que se afirma em
+O.
+o.
+Oie
+O el.
+O eiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

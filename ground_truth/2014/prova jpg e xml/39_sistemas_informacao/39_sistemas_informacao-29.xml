@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:54:36</Created>
+	<LastChange>2020-12-06T01:59:40</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="893,299 1064,299 1064,356 1601,356 1601,787 1600,787 1600,1145 1599,1145 1599,1768 1598,1768 1598,1769 1280,1769 1280,1829 1132,1829 1132,2029 1043,2029 1043,2066 894,2066 894,1857 895,1857 895,1795 942,1795 942,1310 893,1310 893,1145 892,1145 892,787 893,787"/>
+	<TextEquiv conf="0.96612">
+	<Unicode>QUESTÃO 35
+Way back in the late twentieth century, 1997 to be
+exact, the Object Management Group (OMG) released
+the Unified Modeling Language (UML). One of the
+purposes of UML was to provide the development
+community with a stable and common design
+language that could be used to develop and build
+computer applications. UML brought forth a unified
+standard modeling notation that IT professionals had
+been wanting for years. Using UML, IT professionals
+could now read and disseminate system structure
+and design plans, just as construction workers have
+been doing for years with blueprints of buildings.
+lt is now the twenty-first century, 2003 to be
+precise, and UML has gained traction in our
+profession. On 75 percent of the resumes | see,
+there is a bullet point claiming knowledge of UML.
+However, after speaking with a majority of these job
+candidates, it becomes clear that they do not truly
+know UML. Typically, they are either using it as a buzz
+word, or they have had a sliver of exposure to UML.
+BELL, D. UML basics: an introduction to the unified modeling language.
+IBM Corporation, 2003. Disponível em: &lt;http://www.ibm.com&gt;.
+Acesso em: 28 jul. 2014 (adaptado).
+Com base no texto e nos conceitos de UML, avalie as
+afirmações a seguir.
+l. Na maioria dos currículos analisados
+pelo autor, existe alguma indicação de
+conhecimento da linguagem UML pelo
+candidato ao emprego.
+Il. A UML é composta por diversos diagramas,
+como diagrama de caso de uso, diagrama de
+especificação e diagrama de componentes.
+Ill. A UML não é uma linguagem de programação,
+mas, sim, uma linguagem de modelagem
+padronizada para os profissionais de TI cuja
+notação independe de processos.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1L1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,356 852,356 852,835 851,835 851,1618 850,1618 850,1697 849,1697 849,1698 739,1698 739,1742 146,1742 146,1741 145,1741 145,1457 144,1457 144,1340 194,1340 194,930 146,930 146,929 145,929 145,565 144,565 144,564 145,564"/>
+	<TextEquiv conf="0.95043">
+	<Unicode>QUESTÃO 34
+No órgãos públicos, o desafio da gestão do
+conhecimento é contribuir para a modernização da
+gestão pública no contexto de um Estado, de forma
+a garantir-se a participação de toda a sociedade nas
+atividades desenvolvidas por seus representantes no
+Executivo, Legislativo e Judiciário.
+Considere soluções de TI para a implementação de
+uma política pública cujo objetivo seja proporcionar
+maior transparência aos gastos de um órgão público
+e que, para tal, tenha-se optado por uma solução
+baseada em Web Semântica, sendo uma das fases
+para seu desenvolvimento a disponibilização dos
+dados referentes aos gastos do órgão.
+Considerando esse cenário, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. A publicação de dados na forma de dados
+abertos vinculados (Linked Open Data - LOD)
+é apropriada para o uso generalizado dos
+dados no âmbito da Web Semântica.
+PORQUE
+Il. Um dos papéis do formato LOD para a Web
+Semântica é facilitar a integração de dados
+quando houver ambiguidade de termos
+utilizados nos diferentes conjuntos de dados.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta de |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,297 869,2083 872,2083 872,297"/></SeparatorRegion></Page></PcGts>

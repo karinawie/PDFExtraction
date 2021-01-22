@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:34:26</Created>
+	<LastChange>2020-12-06T03:48:39</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="145,304 146,304 146,305 1374,305 1374,431 1599,431 1599,541 1294,541 1294,605 146,605 146,604 145,604 145,574 146,574 146,396 145,396"/>
+	<TextEquiv conf="0.96008">
+	<Unicode>Em relação aos aspectos de segurança da informação, faça o que se pede nos itens a seguir.
+a) Conceitue criptografia simétrica e criptografia assimétrica; (valor: 3,0 pontos)
+b) Utilizando o certificado digital mostrado na figura, indique: quem o assina, a quem se destina, o algoritmo
+hash da assinatura desse certificado, o algoritmo de criptografia pública da assinatura desse certificado e
+o tamanho da chave pública utilizada; (valor: 4,0 pontos)
+c) Explique o processo de geração da assinatura digital desse site. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

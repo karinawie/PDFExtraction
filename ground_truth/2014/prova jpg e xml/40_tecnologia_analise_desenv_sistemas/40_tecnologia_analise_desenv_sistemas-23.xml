@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:15:16</Created>
+	<LastChange>2020-12-06T02:34:52</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r96" type="paragraph">
+	<Coords points="1599,304 1599,369 894,369 894,370 893,370 893,304"/>
+	<TextEquiv conf="0.96418">
+	<Unicode>Utilizando a engenharia reversa nesse trecho de
+código, o diagrama UML de classes correspondente é</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords points="145,299 316,299 316,359 851,359 851,782 852,782 852,971 413,971 413,1102 784,1102 784,1221 812,1221 812,1241 784,1241 784,1279 641,1279 641,1316 618,1316 618,1418 649,1418 649,1438 513,1438 513,1576 735,1576 735,1615 832,1615 832,1754 727,1754 727,1892 841,1892 841,1986 244,1986 244,2029 199,2029 199,2068 146,2068 146,1773 147,1773 147,1316 146,1316 146,971 145,971 145,782 234,782 234,668 144,668 144,359 145,359"/>
+	<TextEquiv conf="0.96647">
+	<Unicode>QUESTÃO 29
+UML é uma linguagem padrão para desenvolver e
+documentar projetos de software e permite que
+desenvolvedores visualizem os produtos de seus
+trabalhos em diagramas padronizados. Ela surgiu
+como uma proposta de ser uma linguagem para
+modelagem de dados que usava diversos artefatos
+para representar o modelo de negócio e um desses
+artefatos é o diagrama de classes.
+PRESSMAN, R. S. Engenharia de software. 6 ed. Porto Alegre:
+Bookman, 2006 (adaptado).
+Se um projeto não tem a documentação apropriada
+ou se está com a documentação desatualizada, uma
+opção é a engenharia reversa que possibilita mapear
+códigos para diagramas UML. A seguir, é apresentado
+um código na linguagem de programação JAVA.
+package default;
+public class Funcionario extends Pessoa (
+public Funcionario(int rg, String nome,
+double
+1
+2
+3
+4 private double salario;
+5
+6
+7 salario) (
+8
+super (rg, nome);
+9 this.salario= salario;
+10 )
+11 public double getSalario() (
+12 return salario;
+13
+14 )
+15 public double obterSalario (double
+16 percentualAcrescimo) (
+17 double salarioReajustado = salario +
+18 salario * percentualAcrescimo / 100;
+19 return salarioReajustado;
+20
+21 )
+22 public double obterSalario (double
+23 adicional, double desconto) (
+24 return this.getSalario() + adicional — desconto;
+25
+26 )
+27)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="888,391 888,697 1580,697 1580,391"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="883,713 883,1050 1591,1050 1591,713"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="888,1055 888,1391 1580,1391 1580,1055"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="888,1394 888,1713 1580,1713 1580,1394"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="888,1727 888,2055 1591,2055 1591,1727"/></ImageRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="869,283 869,2088 875,2088 875,283"/></SeparatorRegion></Page></PcGts>

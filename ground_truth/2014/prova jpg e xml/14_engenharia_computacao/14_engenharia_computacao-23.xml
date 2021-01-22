@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:15:27</Created>
+	<LastChange>2020-11-21T19:22:53</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="84,238 255,238 255,297 811,297 811,298 1538,298 1538,372 1537,372 1537,1708 1538,1708 1538,1742 1477,1742 1477,2106 84,2106 84,2105 83,2105 83,1707 84,1707 84,370 83,370 83,297 84,297"/>
+	<TableRegion id="r1">
+	<Coords points="465,378 465,655 1150,655 1150,378"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="255,707 255,994 636,994 636,707"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="981,713 981,857 1365,857 1365,713"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="255,1178 255,1692 1373,1692 1373,1178"/></TableRegion>
+	<TextEquiv conf="0.96509">
+	<Unicode>QUESTÃO 26
+Após o treinamento, uma rede neural perceptron com 2 sinais de entrada e um neurônio de saída será capaz
+de classificar quatro indivíduos ( lv lr ly l, ) em duas classes, conforme o quadro a seguir.
+O primeiro passo é codificar as informações em base binária. Os sinais devem ser representados da seguinte forma:
+Considerando aprendizado supervisionado (com uso do algoritmo de correção de erros), verifique se cada
+indivíduo é professor (0) ou dentista (1). Considere uma taxa de aprendizagem igual a 1, pesos iniciais iguais
+a zero para cada entrada e a seguinte função de ativação: Se x &gt; O, então f(x) = 1, caso contrário f(x) = O.
+O quadro a seguir apresenta a entrada dos dados, a saída calculada pela RNA e a saída esperada.
+Com base nas informações apresentadas, conclui-se que a atualização dos pesos a cada nova entrada, no
+treinamento dessa rede neural, é igual a
+O [1,1], [1,0], [1,0], [1,0], [1,0], [1,0].
+O [1,1], [1,0], [0,0], [0,0], [1,0], [1,0].
+O [1,0], [1,1], [1,1], [1,1], [0,0], [1,0].
+O [1,1], [1,0], [1,0], [0,0], [0,0], [1,0].
+O [1,1], [1,0], [1,0], [0,0], [0,0], [0,0].</Unicode></TextEquiv></TextRegion></Page></PcGts>

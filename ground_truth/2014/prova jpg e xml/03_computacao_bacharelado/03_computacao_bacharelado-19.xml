@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:08:11</Created>
+	<LastChange>2020-09-24T18:08:17</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,302 1537,302 1537,439 1325,439 1325,720 885,720 885,863 1387,863 1387,1030 1538,1030 1538,1285 1539,1285 1539,1398 1004,1398 1004,1520 899,1520 899,1669 574,1669 574,1735 242,1735 242,2009 241,2009 241,2010 84,2010 84,1770 85,1770 85,1700 132,1700 132,1520 84,1520 84,1434 86,1434 86,1257 85,1257 85,1228 86,1228 86,1001 84,1001 84,861 85,861 85,862 204,862 204,720 143,720 143,439 83,439 83,302 84,302"/>
+	<TextEquiv conf="0.89514">
+	<Unicode>QUESTÃO 21
+O fragmento de código a seguir, escrito em Java, descreve duas implementações diferentes para um lock.
+Ambas possuem um método denominado acquire e um método denominado release.
+class LockA ( class LockB (
+private int turn = O public void acquire() (
+public void acquire(int tid) (| disableInterrupts();
+while (turn == (1 - tid)); )
+) public void release() (
+public void release(int tid) (| enableInterrupts();
+turn = (1 - tid); )
+)
+Considera-se que:
+* asduasimplementações de lock são utilizadas por aplicações com, no máximo, duas threads;
+º uma aplicação que utilizar qualquer uma destas implementações invocará o método acqui re antes de
+entrar em sua seção crítica e o método release após deixar a seção crítica;
+º*º tantoométodo acquire quanto o método release são operações atômicas nas duas implementações
+de lock;
+* paraaimplementação que requer um t id (thread id), assume-se que ele sempre será O ou 1;
+º osmétodosdisableInterrupts eenableInterrupts são utilizados para desabilitar e habilitar
+respectivamente as interrupções do processador onde o código for executado. O código desses dois
+métodos foi desenvolvido para ser utilizado em uma máquina com um ou dois processadores.
+A partir das informações apresentadas, avalie as afirmações a seguir.
+|. Aimplementação de LockaA garante progresso.
+Ill. Aimplementação de LockB garante progresso.
+Ill. A implementação de LockA garante exclusão mútua.
+IV. A implementação de LockB garante exclusão mútua.
+É correto apenas o que se afirma em
+Oie
+O em.
+O Ieiv.
+O Llelv.
+OL Mel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

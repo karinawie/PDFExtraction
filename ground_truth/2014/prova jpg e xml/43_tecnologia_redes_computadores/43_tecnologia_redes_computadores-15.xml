@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:34:05</Created>
+	<LastChange>2020-12-06T03:47:26</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-15.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1599,359 1599,680 1251,680 1251,1208 1599,1208 1599,1326 1598,1326 1598,1448 1291,1448 1291,1501 636,1501 636,1557 271,1557 271,1801 146,1801 146,1580 147,1580 147,680 144,680 144,611 145,611"/>
+	<ImageRegion id="r1">
+	<Coords points="141,688 141,1094 1588,1094 1588,688"/></ImageRegion>
+	<TextEquiv conf="0.96144">
+	<Unicode>QUESTÃO 11
+O protocolo FTP trabalha na camada de aplicação do modelo OSI e possibilita que um usuário em
+um computador transfira, renomeie ou remova arquivos remotos. A implementação do protocolo FTP
+ocorre por meio de um programa, conhecido como servidor de FTP, sendo o programa ProFTPD um
+exemplo de sua utilização.
+SOARES, L. F. G.; LEMOS, G.; COLCHER, S. Redes de computadores: das LANS, MANS e WANS às redes ATM. 1 ed.
+Rio de Janeiro: Campus, 1995 (adaptado).
+A figura abaixo apresenta a análise de tráfego, por meio de um sniffer, de uma comunicação FTP entre a
+origem 192.168.56.1 e o destino 192.168.56.10, portanto, dentro de uma LAN.
+Em relação ao protocolo FTP e a sua implementação, avalie as afirmações a seguir.
+|. Não háa necessidade de estabelecimento do handshake de três vias por se tratar de um conexão TCP.
+Il. Trata-se de um protocolo inseguro, pois não oferece criptografia, sendo recomendado a utilização de
+um protocolo mais seguro, como SFTP (Secure File Transfer Protocol).
+Ill. A operação do FTP baseia-se no estabelecimento de duas conexões entre o cliente e o servidor,
+em que a primeira é a conexão de controle, usada para transferência de comandos, e a outra uma
+conexão de transferência de dados.
+IV. O protocolo FTP permite somente um modo de transferência, o modo binário.
+É correto apenas o que se afirma em
+O.
+O.
+Oie.
+O le.
+OÔielv</Unicode></TextEquiv></TextRegion></Page></PcGts>

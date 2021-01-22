@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T00:55:38</Created>
+	<LastChange>2020-10-28T02:32:44</LastChange></Metadata>
+	<Page imageFilename="17_CST_PROCESSOS_GERENCIAIS-08.jpg" imageWidth="1616" imageHeight="2165">
+	<TableRegion id="r0">
+	<Coords points="81,321 81,560 1547,560 1547,321"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="468,955 468,1300 1147,1300 1147,955"/></TableRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords points="80,917 345,917 345,920 1140,920 1140,919 1536,919 1536,938 1252,938 1252,1373 1533,1373 1533,1547 1534,1547 1534,1622 1535,1622 1535,1680 1534,1680 1534,1756 1183,1756 1183,1757 832,1757 832,1758 481,1758 481,1759 130,1759 130,1760 129,1760 129,1723 81,1723 81,1434 80,1434 80,1374 81,1374 81,1373 363,1373 363,942 80,942"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 10
+Dado: lucro desejado pela empresa acima do ponto de equilíbrio contábil: R$ 10 600,00.
+Considerando esse Demonstrativo de Resultados, qual o valor e o significado do ponto de equilíbrio contábil (PEC)
+da Empresa X?
+o
+R$ 25 000,00, valor que indica o valor mínimo que a empresa deve obter com as vendas para não ter prejuízo.
+R$ 59 000,00, valor que indica o valor mínimo que a empresa deve obter com as vendas para não ter prejuízo.
+R$ 60 000,00, valor que indica o valor mínimo que a empresa deve obter com as vendas para não ter prejuízo
+nem lucrar.
+R$ 76 000,00, valor que indica o valor mínimo que a empresa deve obter com as vendas para ter lucro de
+R$ 10 600,00.
+R$ 100 000,00, valor que indica o valor mínimo que a empresa deve obter com as vendas para ter lucro de
+R$ 25 000,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="81,175 252,175 252,241 1533,241 1533,268 253,268 253,589 1208,589 1208,773 1436,773 1436,818 1534,818 1534,873 1183,873 1183,874 832,874 832,875 480,875 480,876 129,876 129,877 128,877 128,841 81,841 81,590 80,590 80,176 81,176"/>
+	<TextEquiv conf="0.96660">
+	<Unicode>QUESTÃO 09
+Uma empresa produz três tipos de bicicletas: X, Y e Z. A tabela a seguir ilustra o demonstrativo de resultados para
+cada produto.
+Considerando esse demonstrativo de resultados, a empresa deverá incentivar a venda da(s)
+bicicleta Z, porque tem o maior preço de venda.
+bicicleta X, porque tem a maior margem de contribuição.
+bicicleta Y, porque tem o preço de venda e a margem de lucro com valores medianos.
+bicicletas X e Z, porque têm, respectivamente, a maior margem de contribuição e o maior preço de venda.
+Cocos
+bicicletas X, Y e Z, porque a venda de todas elas irá resultar em lucro para a empresa, independentemente de
+outros fatores.</Unicode></TextEquiv></TextRegion></Page></PcGts>

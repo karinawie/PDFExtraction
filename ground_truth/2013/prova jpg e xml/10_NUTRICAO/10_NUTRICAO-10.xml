@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T12:44:17</Created>
+	<LastChange>2020-10-28T13:03:52</LastChange></Metadata>
+	<Page imageFilename="10_NUTRICAO-10.jpg" imageWidth="1613" imageHeight="2164">
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="81,232 252,232 252,289 1535,289 1535,353 693,353 693,1495 1536,1495 1536,1683 1535,1683 1535,2008 83,2008 83,2009 82,2009 82,263 81,263"/>
+	<TextEquiv conf="0.96595">
+	<Unicode>QUESTÃO 11
+A tabela abaixo apresenta exemplos das quantidades das porções dos grupos de alimentos recomendadas
+para crianças de 12 a 24 meses de idade.
+Com base nessas informações, conclui-se que
+O as dietas com baixo teor de gordura e de colesterol são amplamente recomendadas para adultos e
+também são indicadas para crianças durante os dois primeiros anos de vida.
+O arecusa alimentar, mesmo que mantidos os mesmos alimentos apresentados na tabela, é muito frequente
+no segundo ano de vida, quando a velocidade de crescimento diminui em relação ao primeiro ano, com
+consequente diminuição do apetite.
+O as crianças devem ser estimuladas a comer alimentos com diferentes gostos, cores, consistência,
+temperaturas e texturas e consumir grandes volumes de sucos, como garantia do aporte necessário de
+vitaminas e minerais.
+O a absorção intestinal, tanto do ferro heme, presente nos alimentos de origem animal, quanto do ferro
+não-heme, presente nos alimentos de origem vegetal, ocorre por difusão facilitada dirigida por um
+gradiente de concentração.
+O arecomendação diária de 400 a 800 mg de cálcio cobre as necessidades de crianças de dois anos de idade
+que consomem, pelo menos, uma porção de alimentos do grupo do leite e seus derivados.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="86,355 86,1436 1555,1436 1555,355"/></TableRegion></Page></PcGts>

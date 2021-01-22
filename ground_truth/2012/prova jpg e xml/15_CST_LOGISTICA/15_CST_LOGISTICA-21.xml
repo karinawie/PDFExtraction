@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T19:26:07</Created>
+	<LastChange>2020-11-18T16:32:21</LastChange></Metadata>
+	<Page imageFilename="15_CST_LOGISTICA-21.jpg" imageWidth="1615" imageHeight="2165">
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="80,192 808,192 808,193 954,193 954,194 1099,194 1099,195 1245,195 1245,196 1390,196 1390,197 1535,197 1535,218 1298,218 1298,466 1297,466 1297,607 1389,607 1389,608 1534,608 1534,737 80,737 80,606 316,606 316,462 315,462 315,218 80,218"/>
+	<TextEquiv conf="0.35153">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Em qualquer estoque que contenha mais de um item, alguns serão mais
+importantes para a organização do que outros. Alguns itens, por exemplo, podem
+ter uma taxa de uso muito alta, de modo que, se faltassem, muitos consumidores
+ficariam desapontados. Outros podem ter valores particularmente altos, de
+modo que níveis de estoque excessivos seriam particularmente caros. Uma
+forma comum de discriminar diferentes itens de estoque é fazer uma lista deles,
+de acordo com suas movimentações de valor.
+SLACK, N.; CHAMBERS, S.; JOHNSTON, R. Administração da Produção.
+2 ed. São Paulo: Atlas, 2002 (adaptado).
+O consumo anual e o preço unitário de cada item de determinada empresa estão descritos na tabela a seguir. A empresa
+quer saber quais são os itens em estoque com maior movimentação de valor para que se tenha maior controle do
+estoque. Com o auxílio das informações do texto acima, estabeleça a ordem de prioridade de controle dos itens em
+estoque para essa empresa, apresentando os cálculos efetuados em uma tabela. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="484,760 484,1102 1128,1102 1128,760"/></TableRegion></Page></PcGts>

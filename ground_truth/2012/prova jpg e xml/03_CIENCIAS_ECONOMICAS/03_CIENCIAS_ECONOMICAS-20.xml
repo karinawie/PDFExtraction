@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T04:58:52</Created>
+	<LastChange>2020-10-27T18:44:16</LastChange></Metadata>
+	<Page imageFilename="03_CIENCIAS_ECONOMICAS-20.jpg" imageWidth="1615" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,182 1536,182 1536,203 1535,203 1535,415 1534,415 1534,684 1535,684 1535,749 1337,749 1337,874 1128,874 1128,875 884,875 884,923 633,923 633,924 452,924 452,1037 1534,1037 1534,1072 1535,1072 1535,1190 1301,1190 1301,1191 1067,1191 1067,1192 832,1192 832,1193 598,1193 598,1194 363,1194 363,1195 129,1195 129,1196 128,1196 128,1151 81,1151 81,1124 129,1124 129,924 128,924 128,875 81,875 81,811 80,811"/>
+	<TextEquiv conf="0.96205">
+	<Unicode>QUESTÃO 28
+Com o objetivo de captar o impacto de uma expansão do investimento público, Ig, sobre o investimento privado, Ip,
+optou-se por estimar a equação In(Ip); = By + Ba.ri + Pa.In(Ig); + ui, em que Ti é a taxa de juros de mercado,
+1,2 e 3 são os coeficientes da regressão e u;, é o termo de erro aleatório, com média zero e variância constante.
+A partir de uma amostra de 33 observações temporais para um dado país, foram encontrados os seguintes resultados,
+usando-se o método de mínimos quadrados ordinários.
+In(Ip), = 10 — 0,35.r; + 0,15.In(Ig); + ui
+(2,5) (0,1) — (0,25)
+Sº = 16,55 SQT =1100; F =14,31818; puvalor(F) =0,00004; t30:0,025 = 2,042272
+Observa-se que, entre parênteses, estão os erros-padrão dos coeficientes estimados; Sº é a variância estimada
+da regressão; SQT é a soma dos quadrados totais; F é a estatística F da regressão; t30:0,025 é o valor crítico de uma
+distribuição t com 30 graus de liberdade e 5% de significância.
+A interpretação da equação de regressão estimada permite concluir que
+O 45% das variações do investimento privado são, com base nessa amostra, explicadas pelo modelo.
+a soma dos quadrados dos resíduos do modelo é igual a 16,5.
+nível de 95% de confiança.
+um aumento de 1 ponto percentual na taxa de juros produz um aumento de 0,35% no investimento privado, que é
+o
+O o impacto produzido pelo investimento público sobre o investimento privado é estatisticamente significante ao
+oO
+significante ao nível de 5% de significância.
+e
+as variáveis taxa de juros e logaritmo do Investimento público, em uma análise conjunta, não são estatisticamente
+significativas ao nível de 1% de significância.</Unicode></TextEquiv></TextRegion></Page></PcGts>

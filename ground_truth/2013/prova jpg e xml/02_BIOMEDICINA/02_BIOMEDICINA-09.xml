@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:22:58</Created>
+	<LastChange>2020-09-25T03:27:25</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-09.jpg" imageWidth="1610" imageHeight="2164">
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="78,232 249,232 249,286 1532,286 1532,492 1533,492 1533,688 78,688 78,492 79,492 79,263 78,263"/>
+	<TextEquiv conf="0.96429">
+	<Unicode>QUESTÃO 09
+Os exames de malária no Brasil, especialmente na Região Amazônica, são realizados por detecção ativa
+(DA), quando há busca de casos nos domicílios em áreas de risco, ou por detecção passiva (DP), por meio dos
+atendimentos da demanda dos pacientes que procuram os postos de diagnóstico.
+No período de 2003 a 2011, foi observado um aumento no percentual de exames realizados de forma
+ativa na região, especialmente a partir de 2007, quando passa a ocorrer uma inversão na proporção entre
+DA e DP (Figura |). Ao final desse período, o incremento de exames por DA foi de 83,4%, o que correspondeu
+a um aumento de 647 143 exames. Esse aumento pode ser explicado, em parte, pela inserção da coleta de
+lâminas para diagnóstico de malária nas ações da Atenção Básica e, também, pela intensificação das ações de
+detecção ativa pelos agentes de controle de endemias. A positividade da DP na Região Amazônica foi sempre
+superior à da DA em todos os anos do período estudado (Figura II). Em 2011, o percentual de exames por DA
+na Região representou mais de 50,0% dos exames realizados; no entanto, 77,4% dos casos foram detectados
+de forma passiva.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="207,681 207,1652 1539,1652 1539,681"/></ImageRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords points="78,1663 1532,1663 1532,2004 79,2004 79,1689 78,1689"/>
+	<TextEquiv conf="0.96202">
+	<Unicode>Disponível em: &lt;http://portalsaude.saude.gov.br&gt;. Acesso em: 11 jul. 2013 (adaptado).
+A partir das informações do texto e dos gráficos acima, conclui-se que
+O o aumento de 647 143 exames está relacionado com a detecção ativa (DA), demonstrando a vantagem
+dessa estratégia em relação à detecção passiva (DP) no controle da endemia.
+O a detecção ativa (DA) corresponde a 83,4% dos exames realizados na Região Amazônica.
+O a inversão na proporção entre detecção ativa (DA) e detecção passiva (DP) está relacionada ao aumento
+de positividade na detecção passiva (DP).
+O a positividade mais expressiva da detecção passiva (DP) ocorre pela inserção da coleta de lâminas para
+diagnóstico de malária nas ações da Atenção Básica.
+O o aumento no número de exames ocorreu por causa da detecção ativa (DA); entretanto, a detecção
+passiva (DP) continua identificando maior número de casos positivos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

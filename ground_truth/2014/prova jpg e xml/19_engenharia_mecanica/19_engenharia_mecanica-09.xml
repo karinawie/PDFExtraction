@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:38:17</Created>
+	<LastChange>2020-11-22T02:06:11</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-09.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r1">
+	<Coords points="578,371 578,802 1024,802 1024,371"/></ImageRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="84,238 412,238 412,298 1537,298 1537,368 1442,368 1442,996 1537,996 1537,1106 85,1106 85,1105 84,1105 84,367 83,367 83,298 84,298"/>
+	<TextEquiv conf="0.96227">
+	<Unicode>QUESTÃO DISCURSIVA 3
+A figura a seguir apresenta parte do projeto de um equipamento mecânico para utilização no preparo de solo
+submetido a esforços combinados de flexão e torção.
+Considerando que as propriedades do material são conhecidas, faça o que se pede nos itens a seguir.
+a) Esboce o diagrama do momento fletor. (valor: 3,0 pontos)
+b) Esboce o diagrama do momento torçor. (valor: 3,0 pontos)
+c) Descreva o procedimento que deve ser feito para dimensionar o perfil quadrado tubular do
+equipamento, a fim de atender as solicitações medidas experimentalmente, que são mostradas no
+desenho. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

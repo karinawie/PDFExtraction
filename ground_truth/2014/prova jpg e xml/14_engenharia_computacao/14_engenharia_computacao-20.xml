@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:16:07</Created>
+	<LastChange>2020-11-21T19:25:42</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="832,238 833,238 833,239 1003,239 1003,298 1539,298 1539,802 1538,802 1538,1424 1540,1424 1540,1566 1538,1566 1538,1693 1539,1693 1218,1693 1218,1753 1062,1753 1062,2000 833,2000 833,1999 832,1999 832,1693 880,1693 880,1233 832,1233 832,1138 831,1138 831,833 832,833"/>
+	<TextEquiv conf="0.96930">
+	<Unicode>QUESTÃO 22
+Dois conhecidos problemas de pesquisa operacional
+possuem uma ampla gama de aplicações em
+comunicação, transporte e planejamento: o
+problema do carteiro chinês (PCC), e o problema
+do caixeiro viajante (PCV). O primeiro consiste em
+minimizar o esforço de um carteiro que precisa
+percorrer todas as ruas de uma cidade. O segundo
+consiste em minimizar o deslocamento do vendedor
+que precisa visitar todas as cidades interconectadas
+de uma dada região, retornando à cidade de origem.
+Esses problemas têm sido modelados com teoria
+dos grafos, de onde se destacam dois conceitos
+relacionados: circuito euleriano e ciclo hamiltoniano.
+Umatrilha é uma sequência de arestas adjacentes em
+que não há repetição de arestas, e seu comprimento
+é a quantidade de arestas. A trilha é dita fechada se
+inicia e finaliza no mesmo vértice. Assim, um grafo
+com m arestas é euleriano se nele existe uma trilha
+fechada de comprimento m (trilha euleriana). Um
+ciclo hamiltoniano é uma trilha fechada que passa
+sem repetir por todos os vértices.
+Com base nos conceitos acima, avalie as afirmações
+a seguir.
+|. Se o grafo das cidades e suas interconexões
+for euleriano, então o PCV pode ser resolvido
+de uma forma tal que o caixeiro não terá que
+fazer visitas repetidas.
+Il. Se todas as cidades se conectam com todas
+as outras, então a solução do PCV é um ciclo
+hamiltoniano correspondente ao menor
+deslocamento.
+Ill. Se o grafo for euleriano e possuir um ciclo
+hamiltoniano, então o PCC e o PCV darão
+como resultado a mesma trilha.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+OIE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,238 254,238 254,297 790,297 790,715 789,715 789,884 790,884 790,1707 470,1707 470,1761 273,1761 273,1877 321,1877 321,1956 233,1956 233,2007 84,2007 84,1784 85,1784 85,1727 132,1727 132,858 85,858 85,829 136,829 136,715 82,715 82,297 83,297"/>
+	<TextEquiv conf="0.95674">
+	<Unicode>QUESTÃO 21
+A compressão de dados pode ser realizada por
+intermédio de diversos algoritmos de compressão,
+reduzindo a quantidade de bits para representar
+um conjunto de dados. A compressão de imagem
+é a forma de armazenar informações visuais
+mais compactamente. A maioria desses métodos
+considera a identificação e o uso de estruturas e
+redundâncias que existem nos dados da imagem. Os
+tipos de redundância encontrados nas imagens são
+ligados à codificação de tons ou cor, redundância da
+informação inter-pixel, espectral e psicovisual.
+CONCI, A.; AZEVEDO, E.; LETA, F. R. Computação Gráfica: teoria e
+prática. v. 2, Rio de Janeiro: Elsevier, 2008 (adaptado).
+Nesse contexto, avalie as afirmações a seguir.
+|. A redundância de codificação de tons ou cor
+ocorre quando os níveis de cinza ou as cores
+de uma imagem são codificados com mais
+símbolos de codificação que o necessário.
+A redundância inter-pixel (redundâncias
+espaciais) são as resultantes das relações
+geométricas ou estruturais entre os objetos
+na imagem.
+Il. A redundância espectral é a que ocorre em
+imagens com mais de uma faixa espectral,
+quando os valores espectrais para a mesma
+posição na matriz de pixels de cada banda são
+correlacionados. Nesse caso, apenas um canal
+precisa ser armazenado com mais detalhes.
+Ill. As redundâncias psicovisuais ou baseadas na
+percepção são aquelas relacionadas ao fato
+de o sistema visual humano responder com a
+mesma sensibilidade a todas as informações
+visuais. Tais informações não podem ser
+eliminadas sem prejudicar significativamente
+a qualidade da imagem.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,2026 805,234"/></SeparatorRegion></Page></PcGts>

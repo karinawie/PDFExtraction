@@ -1,0 +1,660 @@
+QUESTÃO DISCURSIVA 3
+Uma aplicação mantém um grande conjunto de dados ordenados em uma lista linear em memória,
+implementada na forma de array. Os dados são estáveis, ou seja, são realizadas poucas operações de inserção
+e remoção, e a aplicação exige grande quantidade de pesquisas. Sabe-se que vários algoritmos permitem
+realizar pesquisas em um conjunto de dados, sendo alguns mais eficientes que outros. Nesse sentido, a
+pesquisa binária apresenta características bem definidas para se encontrar um dado procurado.
+Considerando o contexto apresentado, desenvolva um algoritmo de pesquisa binária, de forma imperativa ou
+orientada a objetos, utilizando qualquer notação em português estruturado ou em uma linguagem de alto
+nível, como o Pascal, C ou Java. (valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Considere a situação em que o presidente de uma fábrica de embalagens tenha questionado os investimentos
+em Tecnologia da Informação (TI) realizados por seus antecessores, principalmente após seguidas paradas
+não programadas nos sistemas de informação da empresa. Em conversa com os executivos seniores, ele
+notou que era geral o descontentamento com os serviços prestados por TI. Expôs, então, o problema ao
+diretor de TI, que, demonstrando surpresa, afirmou: “Sei que temos passado por problemas ultimamente,
+mas esses detalhes não eram do meu conhecimento.” E continuou: “Temos trabalhado muito e prestado
+bons serviços para as áreas de negócio. Acredito que temos que melhorar nossa comunicação.”
+O presidente da empresa concordou e solicitou-lhe a elaboração de um plano. Na semana seguinte, o
+diretor de Tl apresentou um plano de ação em que propunha a adoção de várias práticas do ITIL (Information
+Technology Infrastructure Library).
+Considerando a proposta desse profissional de TI, redija um texto esclarecendo, na perspectiva do ITIL, o
+que são Central de Serviços (Service Desk) e SLAs (Service Level Agreement) e como a adoção de ambos pode
+ajudar a área de TI da referida empresa a melhorar sua comunicação. (valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Uma empresa deseja lançar um sistema de comércio eletrônico para vender seus produtos. Essa empresa
+vende produtos de diversas categorias, como roupas, perfumes e eletrônicos, e aceita diversas formas de
+pagamento, como cartão de crédito e boleto bancário. No sistema de vendas implementado, cada produto
+deve ser cadastrado com sua descrição, preço de venda, quantidade em estoque e respectiva categoria.
+Cada cliente que deseja realizar compras tem de se cadastrar no sistema indicando seu nome, endereço e
+e-mail. Se o cliente for corporativo, deve cadastrar seu CNPJ e, se for individual, seu CPF. O cliente cadastrado
+pode realizar um pedido de compra dos produtos em estoque na quantidade que desejar. O cliente escolhe
+uma forma de pagamento disponível e recebe, por e-mail, o número do pedido e informações do status
+do pedido. Após a confirmação do pagamento, a loja realiza a entrega dos itens solicitados no endereço do
+cliente e envia, por e-mail, a nota fiscal eletrônica. Tendo em vista que os preços dos produtos podem ser
+atualizados a qualquer momento, o sistema tem de ser capaz de reemitir uma nota fiscal de um pedido de
+compra de qualquer produto e respectivo preço na data da compra realizada pelo cliente.
+Considerando esse cenário, proponha um Diagrama de Classes, segundo a UML (Unified Modeling Language),
+indicando nome de cada classe, respectivos atributos e relacionamentos entre as classes com as respectivas
+cardinalidades. Em sua proposta, identifique, pelo menos, um relacionamento de generalização e um
+relacionamento de composição, não sendo necessário indicar as operações de cada classe. (valor: 10,0 pontos)
+
+QUESTÃO 10
+A área de complexidade de algoritmos abrange a
+medição da eficiência de um algoritmo frente à
+quantidade de operações realizadas até que ele
+encontre seu resultado final.
+A respeito desse contexto, suponha que um
+arquivo texto contenha o nome de N cidades de
+determinado estado, que cada nome de cidade
+esteja separado do seguinte por um caracter
+especial de fim de linha e classificado em ordem
+alfabética crescente. Considere um programa
+que realize a leitura linha a linha desse arquivo, à
+procura de nome de cidade.
+Com base nessa descrição, verifica-se que a
+complexidade desse programa é
+O O(1), em caso de busca sequencial.
+O O(N), em caso de busca sequencial.
+o O(log,N), em caso de busca binária.
+O O(N), em caso de transferência dos nomes para
+uma árvore binária e, então, realizar a busca.
+O O(logN), em caso de transferência dos nomes
+para uma árvore binária e, então, realizar a busca.
+
+QUESTÃO 09
+Considere uma situação em que um professor que
+queira saber se existem alunos cursando, ao mesmo
+tempo, as disciplinas A e B, tenha implementado um
+programa que:
+1) inicializa um array a de 30 posições que contém
+as matrículas dos alunos da disciplina A;
+2) inicializa outro array b de 40 posições, que
+contém as matrículas dos alunos da disciplina B;
+3) imprime a matrícula dos alunos que estão
+cursando as disciplinas A e B ao mesmo tempo.
+Considere, ainda, que os arrays foram declarados e
+inicializados, não estão necessariamente ordenados,
+e seus índices variam entre O e n— 1, sendo n o
+tamanho do array.
+for (i=
+for (
+0 to29) |
+j=0to39) (
+1
+2
+3-
+4,
+5
+6
+TO)
+Com base nessas informações, conclui-se que
+o trecho a ser incluído nas linhas 3, 4 e 5 do
+código acima, para que Oo programa funcione
+corretamente, é
+O 3. if (a[i] == b[3])
+4, print(a[i]l);
+)
+o if (a
+if (a[li] == b[3]) (
+if (a
+Ms UBRQ UBE MQW UBRQO O
+—
+
+QUESTÃO 12
+Considere a situação em que uma empresa que comercializa software customizado precisa definir a alocação
+de quantidade de horas de trabalho para um programador e um desenvolvedor. Considere, ainda, que os
+profissionais estão envolvidos no projeto de um sistema composto por módulos de controle de estoque
+e vendas e que os recursos financeiros a serem investidos para realizar as atividades de programação
+e desenvolvimento para cada hora trabalhada nos respectivos módulos são indicados na tabela abaixo.
+Assim, por exemplo, o custo unitário por hora trabalhada na atividade de programação no módulo de
+estoque é $ 3, ao passo que o custo do desenvolvimento do respectivo módulo é $ 6.
+O valor previsto em orçamento para a atividade de programação é de $ 30, e para a de desenvolvimento é
+de $ 48. Ao modelar esse problema para ser resolvido com a técnica de pesquisa operacional, define-se V
+como a quantidade de horas alocadas no módulo de vendas e E como a quantidade de horas alocadas no
+módulo de estoque. Nesse modelo, uma das restrições a serem utilizadas é representada por
+O 3E+3V <30.
+O 3E + 3V > 30.
+O 3E +3V <48.
+O 6E + 3V <30.
+O 6E +3V > 48.
+
+QUESTÃO 11
+Considere que uma rede de supermercados tenha contratado um analista de informática para elaborar um
+plano de prevenção de erros na operação do software das lojas. Com o objetivo de melhorar a tomada de
+decisão, o analista classificou os erros quanto ao tempo de emprego do operador (linha) e quanto aos setores
+que originaram os erros (coluna). Os dados levantados são apresentados na tabela abaixo.
+Considerando essas informações, conclui-se que a probabilidade aproximada de um erro ser cometido por
+um operador com tempo de emprego correspondente a 4 anos ou menos é de
+O 17%.
+O 33%.
+O 50%.
+O 67%.
+O 83%.
+
+QUESTÃO 13
+Na figura 1, abaixo, está representado, esquematicamente, um processo de tradução de um programa
+(arquivo fonte) em um código binário. Esse processo de compilação clássica é utilizado em compiladores
+como os das linguagens C e Pascal.
+Na figura 2, abaixo, está representado, esquematicamente, um processo de tradução de um programa
+(arquivo fonte) em um código intermediário. Esse processo híbrido é utilizado em compiladores como os das
+linguagens Java e CH.
+Considerando que, em ambos os processos, o código binário é o que será executado pelo computador,
+e que a execução de dois programas gerados, cada qual por um dos processos apresentados, ocorre em
+situações equivalentes, avalie as afirmações a seguir.
+|. Há portabilidade para a execução de ambos os programas gerados em cada processo.
+Il. Na execução do programa gerado por meio do processo híbrido, o consumo de memória é maior que
+na execução pelo processo de compilação clássica.
+Ill. O desempenho na execução do programa gerado pelo processo de compilação clássica é melhor que
+na execução pelo processo híbrido.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.
+
+QUESTÃO 14
+A tabela abaixo apresenta o ranking das 20 linguagens de programação mais populares.
+
+QUESTÃO 15
+Os sistemas de informação podem ser classificados
+em sistemas OLTP (Online Transaction Processing) e
+sistemas OLAP (Online Analytical Processing).
+A respeito desses tipos de sistemas, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. Em sistemas OLTP, os dados são normalmente
+estruturados em um modelo relacional
+normalizado, e em sistemas OLAP, os dados
+são normalmente estruturados em um modelo
+multidimensional; contudo, esses sistemas
+estão inter-relacionados.
+PORQUE
+Os sistemas OLAP, na maioria das vezes,
+obtêm dados a partir de processos ETL
+(Extract, Transform, Load), que recuperam e
+transformam os dados obtidos a partir das
+bases de dados dos sistemas OLTP.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+Considerando a classificação das linguagens de
+programação apresentada na tabela, avalie as
+afirmações a seguir.
+|. O ranking é liderado por uma linguagem de
+terceira geração e de paradigma funcional.
+II.Linguagens com licença livre têm participação
+inferior a 20%, se somados os percentuais de
+popularidade.
+Ill. É maior, no ranking, a participação de
+linguagens que utilizam o paradigma
+orientado a objetos que a das linguagens que
+utilizam os demais paradigmas.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O Le.
+
+QUESTÃO 17
+Os estados que um processo alcança podem ser
+modelados por meio do diagrama exibido a seguir.
+No diagrama de estados apresentado, as transições
+causadas pelo escalonador de processos são
+Oie?
+O 1e3.
+O lea.
+O 2e3.
+O 2e4.
+
+QUESTÃO 16
+A virtualização de servidores, acompanhada
+de solução para Gerenciamento Eletrônico de
+Documentos (GED), trouxe uma série de benefícios
+para as escolas de uma instituição: acumulados ao
+longo de 50 anos, os prontuários dos estudantes
+passaram a ser acessados em tempo real, as
+atividades pedagógicas realizadas em ambiente mais
+sólido e o gerenciamento centralizado do ambiente
+passou a permitir que a equipe da instituição se
+concentre em tarefas estratégicas. No médio prazo, a
+meta da instituição é virtualizar toda a infraestrutura
+de servidores e eliminar o uso de papel nos processos,
+trocando documentos em papel por documentos
+eletrônicos armazenados nos servidores virtuais e
+acessíveis em qualquer unidade da rede de escolas.
+Computerworld. Virtualização: quatro casos de sucesso no Brasil. Disponível em:
+<http://cio.com.br>. Acesso em: 29 jul. 2014 (adaptado).
+Em relação ao estudo de caso mencionado acima,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. A tecnologia de virtualização de servidores
+está proporcionando diversos benefícios para
+as organizações, como redução de custos e
+de downtime e melhoria no desempenho,
+na segurança e no gerenciamento da
+infraestrutura de Tecnologia da Informação (TI).
+No entanto, sozinha, a virtualização não é
+suficiente para permitir que as organizações
+se concentrem em tarefas estratégicas.
+PORQUE
+Il. A virtualização, se associada a outras
+tecnologias atuais como GED, Cloud
+Computing e Grid Computing, possibilita
+que as organizações foquem no negócio,
+eliminando os riscos associados à área de TI.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a l|l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 18
+Uma empresa que comercializa seguros conta atualmente com diferentes sistemas de informação,
+perfazendo cada um deles uma atividade pelos departamentos de marketing, finanças, operações e
+tecnologia da informação (TI), conforme ilustra a figura a seguir. Considerando a importância estratégica
+de uma arquitetura empresarial de sistemas de informação funcionalmente integrada, a empresa, após
+um estudo de viabilidade, identificou que haveria redução significativa de custos caso as atividades fossem
+gerenciadas como um processo integrado.
+Ao estruturar uma arquitetura de negócios orientada à integração do processo, que forma funcional a
+empresa deve adotar?
+O Orientação vertical.
+O Orientação horizontal.
+O Orientação a processos de TI.
+O Orientação a processos departamentais.
+O Orientação a processos colaborativos.
+
+QUESTÃO 19
+Um analista de sistemas usa um computador para executar apenas 2 tipos de operações: processamento
+lógico/aritmético e acesso a disco.
+O computador é um servidor com apenas um processador de um núcleo (core). Além do sistema operacional
+multitarefa e dos processos do sistema, tal servidor serializa os acessos a disco e é usado para executar
+apenas os programas que o analista solicita. O analista trabalha com dois tipos de programas: aqueles
+que realizam em torno de 100% de operações lógicas/aritméticas (quantidade desprezível de acesso a
+disco), denominados cpu-bound, e aqueles que executam em torno de 70% de acesso a disco e 30% de
+operações lógicas/aritméticas, denominados io-bound. Certa vez, o analista executou alguns programas
+isoladamente e mediu os tempos de execução de cada um. Os dados obtidos foram registrados na tabela |.
+Em seguida, ele combinou programas e os submeteu simultaneamente em grupos. Os resultados foram
+registrados na tabela |l.
+Dias depois, revendo as tabelas, ele teve dúvida quanto à correção dos tempos anotados.
+Considere ut = unidade de tempo.
+Com relação a essa situação, avalie as afirmações a seguir.
+|. É possível que o tempo total do grupo 4 seja 306 ut.
+Il. O tempo total do grupo 1 deveria ser, no mínimo, de 100 ut.
+Ill. O tempo total do grupo 2 deveria ser, no mínimo, de 300 ut.
+IV. O tempo total do grupo 3 deveria estar acima de 175 e abaixo de 310 ut.
+É correto o que se afirma em
+O ll, apenas.
+O lell, apenas.
+O lelV, apenas.
+O Il, Il e IV, apenas.
+OÔ1ILHMEIV.
+19
+
+QUESTÃO 22
+As transações eletrônicas na Internet precisam
+de mecanismos de segurança capazes de garantir
+autenticidade, confidencialidade e integridade das
+informações.
+Com relação a esse contexto, avalie as afirmações
+a seguir.
+|. Criptografia assimétrica é um método em que
+é utilizado um par de chaves: uma pública e
+uma privada.
+ll. Certificado “digital é um documento
+eletrônico assinado digitalmente que
+permite associar uma pessoa ou entidade a
+uma chave pública.
+III. Assinatura digital é um método de
+autenticação de informação digital
+tipicamente tratado como análogo à
+assinatura física em papel.
+IV. VPN (Virtual Private Network) é um
+dispositivo de uma rede de computadores
+por meio do qual se aplica uma política de
+segurança a determinado ponto da rede.
+É correto apenas o que se afirma em
+Oie
+Oie
+O Meiv.
+O 1t11e.
+O 1, Ielv.
+
+QUESTÃO 21
+Um gerente de projetos acabou de assumir um
+projeto em andamento, em que foram identificados
+vários problemas. Os recursos são limitados e, por
+isso, é necessário priorizar os problemas a serem
+solucionados. Nessa situação, a ferramenta que o
+gerente deve utilizar é
+O o gráfico de controle.
+O o diagrama de pareto.
+O o diagrama de dispersão.
+O a amostragem estatística.
+O o diagrama de causa e efeito.
+
+QUESTÃO 20
+A Internet se encontra organizada em Sistemas
+Autônomos (SA), que são administrados
+autonomamente por uma entidade ou organização.
+Para que uma comunicação ocorra com Sucesso
+entre hospedeiros situados em SAs diferentes,
+é necessário que pacotes sejam eficientemente
+transportados do SA origem ao SA destino.
+Protocolos de roteamento são responsáveis pelo
+estabelecimento de rotas a serem seguidas pelos
+pacotes. Para que essas rotas sejam estabelecidas,
+deve-se usar
+O Border Gateway Protocol (BGP).
+O Open Shortest Path First (OSPF).
+O Routing Information Protocol (RIP).
+O Interior Gateway Routing Protocol! (IGRP).
+O Intermediate System To Intermediate System (IS-IS).
+
+QUESTÃO 23
+Uma companhia com abrangência global decidiu implantar um novo sistema de compartilhamento de
+informações empresariais. Após estudos de campo, a empresa identificou alguns cenários de utilização das
+informações. No primeiro cenário, detectou-se que um volume massivo de dados relativos a documentos
+históricos, normas e regulamentos da organização eram consumidos, em escala global, exclusivamente
+para leitura. No segundo cenário, verificou-se que documentos eram produzidos de forma colaborativa por
+equipes regionais de colaboradores. Esses colaboradores, na maioria das vezes, estavam na mesma filial ou
+geograficamente muito próximos. O terceiro cenário envolvia apenas 10% dos documentos da empresa,
+acessados concorrentemente por todas as regionais do globo, tanto para leitura quanto para atualização.
+Com base nesses cenários e em relação às arquiteturas de software distribuídas coerentemente com as
+necessidades da empresa, avalie as afirmações a seguir.
+|. A utilização de arquitetura peer-to-peer (P2P) para disponibilizar os documentos do cenário 1 poderá
+reduzir o consumo da rede.
+Il. O compartilhamento baseado no modelo cliente-servidor com cache no cliente pode aumentar o
+desempenho da edição colaborativa, sem comprometer a consistência no cenário 2.
+Ill. A utilização de replicação baseada em cópia primária pode aumentar a escalabilidade do sistema, sem
+comprometer, de forma significativa, a consistência de dados no cenário 3.
+IV. Se o modelo cliente-servidor de compartilhamento for empregado no cenário 2, a replicação passiva
+(backup ou mirroring) poderá ser utilizada como mecanismo de tolerância a falhas.
+V. A arquitetura peer-to-peer baseada em rede overlay, tal como o DHT, pode oferecer transparência de
+migração para os documentos compartilhados no cenário 1.
+É correto o que se afirma em
+O ll, apenas.
+O lell, apenas.
+O ll, IVe V, apenas.
+O 1, 1II,IVe V, apenas.
+O LI,11,IVev
+
+QUESTÃO 25
+No desenvolvimento de um certo produto de software, foi determinado que um dos requisitos do produto
+seria a exibição de informações em planilhas eletrônicas. Contudo, durante uma reunião de revisão, a equipe
+do projeto verificou que esse formato não facilitava a interpretação das informações e sugeriu que fosse
+construído um gráfico, que permitiria a identificação mais rápida de informações importantes. Diante desse
+fato, o gerente do projeto deve
+O autorizar a equipe do projeto a implementar o gráfico e registrar a mudança.
+O solicitar à equipe do projeto que ignore a sugestão, uma vez que ela está fora do escopo definido.
+O analisar o impacto da modificação e submetê-la à aprovação do cliente, independentemente da
+relevância do impacto.
+O analisar o impacto da modificação e, somente se o impacto no projeto for grande, submetê-la à
+aprovação do cliente.
+O autorizar a equipe do projeto a implementar o gráfico e desprezar o registro da mudança, atendendo à
+recomendação de que sejam rastreadas apenas mudanças cujo impacto seja significativo no custo ou nos
+prazos do projeto.
+
+QUESTÃO 24
+Uma empresa mantém um serviço de software que atende a centenas de clientes pelo mundo. O serviço é
+bastante complexo e requer um esforço contínuo de manutenção. Para melhor gerenciar a manutenção do
+sistema, a empresa decidiu implantar um programa de medição, em que várias métricas foram agregadas,
+cada uma delas associada a determinada questão que se desejava responder. A tabela a seguir apresenta as
+questões e suas métricas associadas.
+O objetivo atual da empresa é reduzir o prazo de suas entregas, sem comprometer o que foi acordado com o
+cliente. A métrica que permite avaliar se esse objetivo está sendo atingido é o
+O custo por entrega.
+O número de mudanças por tipo.
+O número de solicitações de mudanças.
+O número de recursos computacionais a serem utilizados.
+O tempo entre levantamento do problema e aceitação da mudança.
+
+QUESTÃO 26
+Uma empresa de desenvolvimento de software está sendo avaliada no nível E do MPS.BR. O grupo de melhoria
+de processos fez um levantamento para avaliar as práticas relacionadas à gerência de recursos humanos e
+obteve as evidências a seguir.
+Evidência 1. A empresa possui um processo de avaliação de desempenho e promoção de indivíduos bem
+estabelecido, em plano de cargos e carreira.
+Evidência 2. A empresa contrata externamente instrutores capacitados para realizar treinamentos
+internos a seus funcionários sempre que verifica a necessidade de ampliar a capacitação da equipe.
+Esses treinamentos, registrados como parte do portfólio de cada funcionário, são avaliados pelos
+funcionários em relação à sua qualidade e aderência às necessidades de capacitação da equipe. Cada
+funcionário também é avaliado ao final de cada treinamento.
+De acordo com o Modelo de Referência do MPS.BR, alguns dos resultados esperados para o processo de
+Gerência de Recursos Humanos são:
+GRH 6. Os treinamentos identificados como sendo responsabilidade da organização são conduzidos e
+registrados;
+GRH 7. A efetividade do treinamento é avaliada;
+GRH 8. Critérios objetivos para avaliação do desempenho de grupos e indivíduos são definidos e
+monitorados para prover informações sobre o desempenho e melhorá-lo.
+Associação para Promoção da Excelência do Software Brasileiro. SOFTEX. MPS.BR — Guia Geral MPS de Software. 2012.
+Disponível em: <http://www.softex.br>. Acesso em: 20 jul. 2014 (adaptado).
+Com base no levantamento inicial das práticas da empresa, verifica-se que a evidência 1
+O atende totalmente ao GRH 8, enquanto a evidência 2 atende totalmente ao GRH 6 e ao GRH 7.
+O atende parcialmente ao GRH 8, enquanto a evidência 2 atende totalmente ao GRH 6 e ao GRH 7.
+O atende parcialmente ao GRH 8, enquanto a evidência 2 atende parcialmente ao GRH 6 e ao GRH 7.
+O atende totalmente ao GRH 8, enquanto a evidência 2 não atende ao GRH 6, mas atende totalmente ao
+GRH7.
+O atende parcialmente ao GRH 8, enquanto a evidência 2 atende totalmente ao GRH 6, mas não atende ao
+GRH7.
+
+QUESTÃO 27
+O gráfico a seguir, elaborado pelo diretor de tecnologia da informação de uma empresa, apresenta um
+modelo para a qualidade de produto de software com base no seu custo e no seu valor para a organização.
+A região representada no gráfico em que o produto de software deve ser lançado no mercado para permitir
+que a organização tenha o melhor valor de retorno do investimento é a
+Oo:
+o.2?.
+o 3.
+O.
+O.
+
+QUESTÃO 29
+Na auditoria externa independente, contratada por uma empresa para verificar o plano de contingência e
+recuperação de desastres, é necessário analisar
+O os sistemas de backup e a facilidade de recuperação dos dados.
+O os registros de tentativas de violação de segurança nos sistemas.
+O os pontos de vulnerabilidade na rede de computadores da empresa.
+O a documentação dos sistemas de informação da empresa e sua utilidade para os usuários.
+O os mecanismos de monitoramento dos sistemas de informação que permitam identificar problemas de
+desempenho.
+
+QUESTÃO 28
+Conforme a norma ISO 9241, a usabilidade é definida como a capacidade que um sistema interativo de
+software oferece a seus usuários, em um contexto específico de operação, para a realização de tarefas
+de maneira eficaz, eficiente e agradável. Com fundamento nesse conceito, uma empresa deseja medir a
+satisfação dos consumidores de seus produtos e, para isso, desenvolverá um sistema de software. A equipe
+de desenvolvimento do sistema de software elencou os requisitos listados na tabela abaixo.
+Entre os requisitos listados na tabela, o código do que se refere à usabilidade é
+O RQ1.
+O Ro.
+O Roz.
+O RQ4.
+O Ros.
+
+QUESTÃO 30
+Considere que uma empresa que presta serviços de transporte de pacientes em ambulâncias para clientes
+conveniados disponha de um sistema de controle e gerenciamento de atendimentos e viagens realizados.
+Considere, ainda, que, em atendimento, é utilizada uma ambulância e são registrados a data e o convênio
+a que o atendimento está vinculado. Em um atendimento, uma ambulância realiza uma ou mais viagens
+e, a cada viagem, é incrementado um número sequencial que começa em 1. Nessa situação, o esquema
+relacional simplificado, mostrado a seguir, foi projetado para suportar um banco de dados que controle a
+operação. No esquema, as chaves primárias têm seus atributos componentes sublinhados.
+Paciente (CodPaciente, Nome, Endereço)
+Convênio (CodConvênio, Empresa, Plano)
+Atendimento (CodAtendimento, CodPaciente, CodConvênio, Data, Finalidade)
+Viagem (CodAtendimento, Sequência, Origem, Destino)
+Com base nas informações e no esquema apresentado, avalie as afirmações a seguir.
+|. CodConvênio é uma chave estrangeira na tabela Atendimento.
+Il. CodAtendimento não pode ser chave estrangeira na tabela Viagem porque faz parte da chave primária.
+Ill. CodPaciente nunca pode assumir valores nulos na tabela Atendimento porque é uma chave estrangeira.
+IV. CodPaciente > Nome, Endereço; CodConvênio > Empresa, Plano; CodAtendimento > CodPaciente,
+CodConvênio, Data, Finalidade; CodAtendimento, Sequência > Origem, Destino; são dependências
+funcionais corretamente deduzidas.
+É correto apenas o que se afirma em
+O.
+o.
+Oie
+O el.
+O eiv.
+
+QUESTÃO 31
+Um sistema de informação usa um banco de dados relacional que possui tabelas cujos esquemas em
+SQL estão representados a seguir.
+CREATE TABLE Artista
+(
+id INTEGER PRIMARY KEY,
+nome VARCHAR (40) NOT NULL,
+CPF CHAR(11) NOT NULL,
+dataNascimento DATE,
+UNIQUE (CPF)
+);
+CREATE TABLE Evento
+(
+id INTEGER PRIMARY KEY,
+descricao VARCHAR(60) NOT NULL,
+numMaxConvidados INTEGER DEFAULT O,
+CHECK (numMaxConvidados >= O)
+);
+CREATE TABLE Atuacao
+(
+idaArtista INTEGER,
+idEvento INTEGER,
+PRIMARY KEY (idArtista, idEvento),
+FOREIGN KEY (idArtista) REFERENCES Artista,
+FOREIGN KEY (idEvento) REFERENCES Evento(id)
+);
+O sistema também possui uma consulta que integra um de seus relatórios, conforme indicado a seguir.
+SELECT A.nome, E.descricao
+FROM Evento E FULL JOIN Atuacao T ON E.id = T.idEvento
+FULL OUTER JOIN Artista A ON T.idArtista = A.id
+Considerando que todas as tabelas possuem dados, o resultado da consulta utilizada no relatório é
+O o nome de todos os artistas combinados com a descrição de todos os eventos.
+O a descrição de todos os eventos e, caso haja artistas alocados, os seus nomes.
+O o nome de todos os artistas e a descrição de todos os eventos em que eles atuam.
+O o nome de todos os artistas e, caso eles participem de eventos, a descrição do evento.
+O onomedetodos os artistas, a descrição de todos os eventos e, caso eles se relacionem, os dois combinados.
+
+QUESTÃO 33
+Um dos recursos utilizados no processo de inclusão digital por meio da utilização de Tecnologias de
+Informação e Comunicação (TIC) é a implantação de Telecentros Comunitários.
+A esse respeito, avalie as asserções a seguir e a relação proposta entre elas.
+|. Proporcionar à população mais carente o acesso às tecnologias de informação por meio de Telecentros
+Comunitários e mediante a capacitação para a utilização desse conhecimento favorece a promoção
+da cidadania.
+PORQUE
+Il. Telecentros Comunitários possibilitam à população carente o acesso a informações e conhecimentos,
+estimula a criatividade e garante a inserção profissional no mercado de trabalho.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a Il é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 32
+Considere um cenário de venda de passagens aéreas cujo processo de negócio apresenta-se modelado no
+diagrama abaixo, usando-se BPMN (Business Process Modeling and Notation).
+Para que essa companhia aérea obtenha mais retorno, será necessário
+O retirar o evento intermediário de tempo colocado após a tarefa “Pedido de passagem”.
+O adicionar uma tarefa para oferecimento de outro voo na raia “Comercial”.
+O modelar a tarefa “Enviar fatura” como tarefa de serviço (service task).
+O transformar o gateway “Crédito OK?” em um gateway inclusivo.
+O transformar a tarefa “Checar crédito” em um subprocesso.
+
+QUESTÃO 35
+Way back in the late twentieth century, 1997 to be
+exact, the Object Management Group (OMG) released
+the Unified Modeling Language (UML). One of the
+purposes of UML was to provide the development
+community with a stable and common design
+language that could be used to develop and build
+computer applications. UML brought forth a unified
+standard modeling notation that IT professionals had
+been wanting for years. Using UML, IT professionals
+could now read and disseminate system structure
+and design plans, just as construction workers have
+been doing for years with blueprints of buildings.
+lt is now the twenty-first century, 2003 to be
+precise, and UML has gained traction in our
+profession. On 75 percent of the resumes | see,
+there is a bullet point claiming knowledge of UML.
+However, after speaking with a majority of these job
+candidates, it becomes clear that they do not truly
+know UML. Typically, they are either using it as a buzz
+word, or they have had a sliver of exposure to UML.
+BELL, D. UML basics: an introduction to the unified modeling language.
+IBM Corporation, 2003. Disponível em: <http://www.ibm.com>.
+Acesso em: 28 jul. 2014 (adaptado).
+Com base no texto e nos conceitos de UML, avalie as
+afirmações a seguir.
+l. Na maioria dos currículos analisados
+pelo autor, existe alguma indicação de
+conhecimento da linguagem UML pelo
+candidato ao emprego.
+Il. A UML é composta por diversos diagramas,
+como diagrama de caso de uso, diagrama de
+especificação e diagrama de componentes.
+Ill. A UML não é uma linguagem de programação,
+mas, sim, uma linguagem de modelagem
+padronizada para os profissionais de TI cuja
+notação independe de processos.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1L1em.
+
+QUESTÃO 34
+No órgãos públicos, o desafio da gestão do
+conhecimento é contribuir para a modernização da
+gestão pública no contexto de um Estado, de forma
+a garantir-se a participação de toda a sociedade nas
+atividades desenvolvidas por seus representantes no
+Executivo, Legislativo e Judiciário.
+Considere soluções de TI para a implementação de
+uma política pública cujo objetivo seja proporcionar
+maior transparência aos gastos de um órgão público
+e que, para tal, tenha-se optado por uma solução
+baseada em Web Semântica, sendo uma das fases
+para seu desenvolvimento a disponibilização dos
+dados referentes aos gastos do órgão.
+Considerando esse cenário, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. A publicação de dados na forma de dados
+abertos vinculados (Linked Open Data - LOD)
+é apropriada para o uso generalizado dos
+dados no âmbito da Web Semântica.
+PORQUE
+Il. Um dos papéis do formato LOD para a Web
+Semântica é facilitar a integração de dados
+quando houver ambiguidade de termos
+utilizados nos diferentes conjuntos de dados.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta de |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+

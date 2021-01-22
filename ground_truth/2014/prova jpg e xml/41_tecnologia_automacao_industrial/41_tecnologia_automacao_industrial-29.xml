@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:50:12</Created>
+	<LastChange>2020-12-06T02:54:25</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="144,302 872,302 872,303 1599,303 1599,406 725,406 725,565 660,565 660,711 725,711 725,840 676,840 676,987 708,987 708,1059 725,1059 725,1116 659,1116 659,1263 698,1263 698,1335 725,1335 725,1392 676,1392 676,1538 725,1538 725,1667 693,1667 693,1739 507,1739 507,1741 268,1741 268,1701 234,1701 234,1466 225,1466 225,1262 268,1262 268,1149 234,1149 234,1131 235,1131 235,914 234,914 234,406 144,406"/>
+	<TextEquiv conf="0.93726">
+	<Unicode>Sabendo-se que a função analogWrite escreve uma variável double em uma saída analógica do
+microcontrolador, para funcionar corretamente, o trecho CÓDIGO deve ser substituído por qual dos
+trechos abaixo?
+if (hora &gt;= 6) &amp;&amp;
+analogWrite (val
+if (hora &gt;= 18) &amp;
+analogWrite (va
+else
+analogWrite (va
+if (hora &gt;= 6) &amp;&amp;
+analogWrite (va
+if (hora &gt;= 18) &amp;
+analogWrite (val
+else
+analogWrite (val
+if (hora &lt;= 6) |
+analogWrite (va
+if (hora &lt;= 18)
+analogWrite (va
+else
+analogWrite (val
+if (hora &gt;= 6) ||
+analogWrite (va
+if (hora &gt;= 18)
+analogWrite (va
+else
+analogWrite (va
+if (hora &gt;= 6) &amp;&amp;
+analogWrite (va
+if (hora &gt;= 18) &amp;
+analogWrite (va
+else
+analogWrite (val
+(hora &lt; 18)
+orMax) ;
+&amp; (hora &lt; 22)
+orMax/2);
+orMax/5);
+(hora &lt; 18)
+orMax*100);
+&amp; (hora &lt; 22)
+orMax*50);
+orMax*20);
+(hora &gt; 18)
+orMax) ;
+| (hora &gt; 22)
+orMax/5);
+orMax/2);
+(hora &lt; 18)
+orMax*100);
+| (hora &lt; 22)
+orMax*50);
+orMax*20);
+(hora &lt; 18)
+orMax*100%);
+&amp; (hora &lt; 22)
+orMax*50%);
+orMax*20%);</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:39:22</Created>
+	<LastChange>2020-11-21T21:01:13</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-38.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,304 1538,304 1538,1358 244,1358 244,1635 84,1635 84,664 83,664 83,500 84,500"/>
+	<ImageRegion id="r1">
+	<Coords points="444,676 444,1252 1136,1252 1136,676"/></ImageRegion>
+	<TextEquiv conf="0.85978">
+	<Unicode>QUESTÃO 35 - Elétrica
+Nos sistemas com microprocessador, o pulso de inicialização reset é usado para colocar a UCP (Unidade
+Central de Processamento) em um estado conhecido. Esse pulso precisa ser gerado automaticamente no ato
+da energização do sistema e deve ser o mais curto possível, desde que não fique aquém da especificação da
+UCP.
+A figura abaixo apresenta um esquema típico para atender a essas necessidades. O reset deve ser ativado
+em nível alto (lógico 1) durante um intervalo não inferior a 100 períodos de relógio, gerado a partir de um
+oscilador a cristal. A especificação da UCP indica nível mínimo de tensão de reset igual a 50% da tensão de
+alimentação do sistema.
+Considerando que o capacitor é de 1 uF e quE In 0,5 =-— 0,69, o valor mínimo do resistor R deve ser
+de aproximadamente
+O 770.
+O 1150.
+O 190 O.
+O 770 O.
+O 14500.</Unicode></TextEquiv></TextRegion></Page></PcGts>

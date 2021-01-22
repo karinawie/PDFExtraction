@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:40:29</Created>
+	<LastChange>2020-11-21T21:09:24</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-31.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,299 1538,299 1538,888 1537,888 1537,1232 322,1232 322,1325 84,1325 84,1102 85,1102 85,792 84,792 84,449 83,449"/>
+	<ImageRegion id="r1">
+	<Coords points="497,460 497,692 1142,692 1142,460"/></ImageRegion>
+	<TextEquiv conf="0.94757">
+	<Unicode>QUESTÃO 33 - Sistemas de Energia Elétrica
+Uma linha de transmissão de energia elétrica (LT) interliga uma usina hidrelétrica (UHE) e um centro de carga
+(SE) que demanda potência ativa e reativa equivalentes a 1,0 pu e 0,2 pu, respectivamente, como ilustrado
+no diagrama unifilar da figura a seguir. Sabe-se que essa LT é curta, possui uma reatância série equivalente de
+valor igual a 0,25 pu e suas perdas podem ser desprezadas.
+Considerando que um estudo de fluxo de potência, ou fluxo de carga, deverá ser realizado para o planejamento
+da operação desse Sistema Elétrico de Potência (SEP), avalie as afirmações a seguir.
+|. Somente o fluxo de potência ativa nessa LT dar-se-á no sentido da usina geradora para o centro de
+carga.
+Il. Atensão na barra da usina geradora será maior do que na barra do centro de carga.
+1.O fluxo de potência reativa da barra da usina geradora para o centro de carga terá valor maior do que
+0,2 pu.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1, 11el.</Unicode></TextEquiv></TextRegion></Page></PcGts>

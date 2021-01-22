@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T23:58:17</Created>
+	<LastChange>2020-11-07T00:08:27</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_fincanceira-24.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="825,233 1180,233 1180,234 1536,234 1536,264 1534,264 1534,1063 938,1063 938,1341 937,1341 937,1342 825,1342"/>
+	<TableRegion id="r3">
+	<Coords points="823,600 823,891 1534,891 1534,600"/></TableRegion>
+	<TextEquiv conf="0.46131">
+	<Unicode>QUESTÃO 27
+Uma empresa, cujo Balanço Patrimonial está
+demonstrado na tabela a seguir, está participando
+de um processo licitatório para a prestação de
+determinado serviço. Uma das condições previstas
+no edital de licitação diz respeito ao endividamento
+de curto prazo das empresas licitantes, que não pode
+ser maior que 50%.
+Considerando o Balanço Patrimonial dessa empresa,
+observa-se que ela atende ao requisito do referido
+edital, porque apresenta endividamento de curto
+prazo de
+O 10%.
+O 20%.
+O 30%.
+O 140%.
+O 50%.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="79,169 790,169 790,264 789,264 789,1168 555,1168 555,1484 554,1484 554,1485 80,1485 80,606 79,606"/>
+	<TableRegion id="r4">
+	<Coords points="81,642 81,1000 789,1000 789,642"/></TableRegion>
+	<TextEquiv conf="0.76946">
+	<Unicode>QUESTÃO 26
+Uma empresa de comercialização de doces pretende
+adotar um controle de custos. Sabe-se que o Método
+de Custeio por Absorção e o Método de Custeio
+Variável são os indicados para tais necessidades.
+A tabela a seguir resume as informações necessárias
+para as decisões a serem tomadas.
+Nesse caso, o lucro mensal da empresa, calculado
+pelo Método de Custeio por Absorção e pelo Método
+de Custeio Variável, é igual, respectivamente, a
+O R$ 100 000,00 e R$ 180 000,00.
+O R$ 150 000,00 e R$ 130 000,00.
+O R$210 000,00 e R$ 240 000,00.
+O R$ 240 000,00 e R$ 220 000,00.
+O R$ 244 000,00 e R$ 234 000,00.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,223 805,2039 807,2039 807,223"/></SeparatorRegion></Page></PcGts>

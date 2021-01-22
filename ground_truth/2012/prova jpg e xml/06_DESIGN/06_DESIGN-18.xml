@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T17:07:24</Created>
+	<LastChange>2020-10-27T17:35:24</LastChange></Metadata>
+	<Page imageFilename="06_DESIGN-18.jpg" imageWidth="1616" imageHeight="2166">
+	<ImageRegion id="r0">
+	<Coords points="386,486 386,1484 1221,1484 1221,486"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,182 1536,182 1536,202 1535,202 1535,451 1533,451 1533,1706 1534,1706 1534,1916 1373,1916 1373,1917 1212,1917 1212,1918 1050,1918 1050,1919 1011,1919 1011,1965 857,1965 857,1966 702,1966 702,1967 629,1967 629,2012 447,2012 447,2013 81,2013 81,1715 80,1715"/>
+	<TextEquiv conf="0.20148">
+	<Unicode>QUESTÃO 30
+O matemático francês Gaspar Monge, no século XVIII, criou uma forma de representação que permite representar,
+em um plano, figuras tridimensionais. Esse método constitui-se de dois planos perpendiculares entre si, chamados
+de plano horizontal e plano vertical, os quais se cortam ao meio, formando quatro regiões, chamadas diedros.
+O sistema foi denominado de projeções mongeanas e deu origem ao sistema de representação de desenhos
+técnicos adotado mundialmente. No Brasil, a ABNT é o órgão responsável pela normatização que determina a
+forma de representação em todos os seus aspectos. As figuras a seguir representam o desenho de um objeto.
+Considerando esse contexto e o desenho acima, avalie as seguintes asserções e a relação proposta entre elas.
+|. O objeto está representado no 3.º diedro, de acordo com a normatização da ABNT.
+PORQUE
+Il. Estão representadas as vistas: frontal com corte parcial, lateral esquerda e corte AA, em substituição da vista superior.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e Il são proposições verdadeiras, e a Il é uma justificativa da |.
+O As asserções | e Il são proposições verdadeiras, mas a 1l não é uma justificativa da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

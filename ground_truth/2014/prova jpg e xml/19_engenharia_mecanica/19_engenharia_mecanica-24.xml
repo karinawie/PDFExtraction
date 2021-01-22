@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:36:02</Created>
+	<LastChange>2020-11-22T01:51:42</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,647 1537,647 1537,773 1538,773 1538,1073 1537,1073 1537,1228 1538,1228 1538,1528 1537,1528 1537,1616 1426,1616 1426,1664 832,1664 832,1353 831,1353 831,1228 880,1228 880,1073 831,1073 831,949 832,949 832,773 910,773 910,647 832,647"/>
+	<TextEquiv conf="0.96499">
+	<Unicode>QUESTÃO 28
+Segundo a American Society of Heating, Refrigerating
+and Air-Conditioning Engineers (ASHRAE), a qualidade
+de ar aceitável para um ambiente interno é aquela
+na qual o ar está isento de contaminantes em
+concentrações prejudiciais e na qual uma substancial
+maioria (mais de 80%) das pessoas expostas não
+expressem insatisfação. Dentro desse contexto, a taxa
+de renovação de ar recomendada para uma sala de
+aula é de 8 litros por segundo, por pessoa.
+ASHRAE 62-1999: ventilation for acceptable indoor air quality.
+Atlanta, GA: ASHRAE, 1999 (adaptado).
+Para garantir que uma sala de aula para 50 pessoas,
+com 100 m? de área, mantenha uma qualidade de
+ar aceitável, foi proposto um sistema com uma
+capacidade de vazão de 1 600 m?/h.
+A respeito dessa proposição, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. Osistema é capaz de atender à demanda.
+PORQUE
+ll. O sistema tem capacidade de fornecer mais
+de 15% de ar acima do mínimo necessário.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,299 791,299 791,488 790,488 790,1257 334,1257 334,1500 333,1500 333,1501 84,1501 84,1256 83,1256 83,298 84,298"/>
+	<ImageRegion id="r2">
+	<Coords points="86,505 86,1076 792,1076 792,505"/></ImageRegion>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 27
+O pino apresentado na figura abaixo é solicitado por
+uma carga de 72 000 N e tem diâmetro de 12 mm.
+As dimensões das peças são a = 12 mm e b= 18 mm.
+O pino foi fabricado com um aço que possui uma
+resistência ao escoamento à tração de 500 MPa.
+Aplicando o critério de falha de Tresca, assinale a
+opção que apresenta o coeficiente de segurança
+correto contra escoamento por cisalhamento no
+pino e a informação se a peça falha ou não.
+O n/4; falha.
+O n/8; falha.
+O 4/n; não falha.
+O n/2 ; não falha.
+O n/4; não falha.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,234 807,2023 813,2023 813,234"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:20:46</Created>
+	<LastChange>2020-11-22T03:51:59</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-12.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="heading">
+	<Coords points="84,238 411,238 411,292 1539,292 1539,392 923,392 923,1015 1538,1015 1538,1079 359,1079 359,1114 85,1114 85,1079 84,1079 84,460 83,460 83,292 84,292"/>
+	<ImageRegion id="r1">
+	<Coords points="355,571 355,1000 671,1000 671,571"/></ImageRegion>
+	<TextEquiv conf="0.91579">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Um experimento que utiliza o circuito elétrico da figura 1 abaixo, é composto por uma fonte ajustável de
+tensão V, um amperímetro ideal A, uma resistência R (fixa e pequena) e um dispositivo de teste. Foi levantada
+a curva de corrente elétrica | versus tensão da fonte V para três diferentes tipos de materiais (1, iji e iii) por
+troca do dispositivo de teste.
+O resultado do experimento é mostrado no gráfico da figura 2.
+Com base nos dados obtidos no experimento, discuta a natureza física dos materiais i, ii e iii, dê exemplos
+de materiais com essas propriedades e cite suas aplicações nas construções de dispositivos elétricos.
+(valor: 10,0 pontos).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="765,473 765,1002 1257,1002 1257,473"/></ImageRegion></Page></PcGts>

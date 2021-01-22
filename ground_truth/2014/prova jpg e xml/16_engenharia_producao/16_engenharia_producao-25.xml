@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:12:39</Created>
+	<LastChange>2020-11-21T20:24:19</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1539,298 1539,560 1538,560 1538,561 1537,561 1537,694 1538,694 1538,909 1539,909 1539,1278 832,1278 832,664 831,664 831,601 832,601"/>
+	<TextEquiv conf="0.96490">
+	<Unicode>QUESTÃO 27
+O lote econômico de compra é uma ferramenta
+importante para empresas que desejam minimizar o
+custo total anual de estoques. Esse custo é formado
+pelo somatório dos custos de pedidos anual, de
+armazenagem anual e de aquisição anual, sendo o
+lote econômico de compra o ponto mínimo da curva
+de custo total anual.
+A respeito do lote econômico, assinale a alternativa
+correta.
+O O custo de armazenagem anual é independente
+do tamanho do lote econômico de compra.
+O O custo de pedidos anual pode ser considerado
+igual a zero, caso a empresa faça todas as compras
+de materiais sem atrasos.
+O A demanda não precisa ser conhecida para que o
+lote econômico de compra seja encontrado, pois
+ela não é utizada no cálculo do custo total anual.
+O O custo de aquisição anual é calculado a partir
+dos valores do nível de estoque de segurança que
+a empresa pretende utilizar durante todo o ano.
+O O lote econômico de compra também pode
+ser encontrado desconsiderando-se o custo de
+aquisição anual, pois este é sempre constante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 791,298 791,926 790,926 790,927 487,927 487,1146 404,1146 404,1200 308,1200 308,1339 791,1339 791,1442 170,1442 170,1692 84,1692 84,1442 83,1442 83,1339 85,1339 85,1146 83,1146 83,926 84,926"/>
+	<TextEquiv conf="0.69489">
+	<Unicode>QUESTÃO 26
+Considere que um prefeito tem como prioridade
+a saúde dos munícipes conterrâneos. Seu último
+projeto é a implantação de um processo de vacinação
+rápida, que consiste em vacinadores que recebem
+os munícipes e aplicam um conjunto de anticorpos
+manipulados, melhorando o sistema imunológico do
+cidadão. De acordo com as normas técnicas de saúde
+vigentes nessa região, o procedimento vacinatório,
+incluindo atendimento prévio, triagem e a aplicação
+em si, ocorre em 30 minutos (u). Estima-se que a
+população irá procurar os postos de vacinação a uma
+taxa (1) de 1,25 pessoas por hora. Devido a limitação
+do posto de saúde, não é possível aguardar em fila,
+de forma que a espera é considerada como perda.
+Considere que tanto a chegada de cidadãos como a
+aplicação de vacinas são processos markovianos.
+Dado:
+Taxa de ocupação:
+=.
+Pa
+Probabilidade de perda:
+log (5) = 0,69897
+Se o prefeito deseja que a taxa de perdas seja inferior
+a 1%, quantos vacinadores, no mínimo, deverão ser
+contratados?
+o:.»&gt;.
+O:.
+O:.
+O 10.
+O 12.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,234 810,2018 805,2018 805,234"/></SeparatorRegion></Page></PcGts>

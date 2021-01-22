@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:32:13</Created>
+	<LastChange>2020-12-06T03:40:09</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="145,299 316,299 316,368 1599,368 1599,1159 1600,1159 1600,1551 1599,1551 1599,1739 532,1739 532,1860 384,1860 384,2070 146,2070 146,1455 145,1455 145,1159 769,1159 769,591 145,591 145,590 144,590 144,368 145,368"/>
+	<TableRegion id="r1">
+	<Coords points="500,633 500,1066 1205,1066 1205,633"/></TableRegion>
+	<TextEquiv conf="0.96380">
+	<Unicode>QUESTÃO 25
+Os dados estão nas nuvens e a infraestrutura responsável pelos diversos serviços são os data centers. Segundo
+estudos técnicos os grandes data centers são os novos vilões do meio ambiente por consumirem cerca de
+1% de toda a energia elétrica gerada no mundo. Para reverter esse quadro as grandes empresas do setor de
+tecnologia estão investindo em data centers verdes e algumas apresentam registros de economia energética
+entre 30% e 50%. O quadro a seguir traz o ranking do Greenpeace das empresas preocupadas com TI Verde.
+Disponível em &lt;http://www.greenpeace.org&gt;. Acesso em: 06 jul. 2014 (adaptado).
+Considerando abordagens sustentáveis para construção de data centers verdes com melhor eficiência
+energética, avalie as afirmações a seguir.
+|. Considera-se a localização geográfica para utilização de métodos alternativos para refrigeração dos
+servidores do data center, além do tradicional ar condicionado, por exemplo, através da filtragem e
+purificação do ar externo natural ou da utilização de água.
+Il. Com novas opções de equipamentos de redes “verdes” disponíveis no mercado que são mais
+eficientes em termos de consumo de energia, a substituição de equipamentos antigos de TI por
+novos pode reduzir consideravelmente as necessidades de energia e resfriamento em geral.
+Ill. É importante amadurecer o entendimento de que o investimento em soluções verdes para construção
+de data centers com melhor eficiência energética é fundamental não apenas à sustentabilidade e
+ao meio ambiente, mas também porque traz redução de custo para os negócios, este último é um
+benefício mais ligado ao retorno financeiro para a indústria.
+É correto o que se afirma em
+O |l, apenas.
+O lell, apenas.
+O leilll, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

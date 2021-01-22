@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:34:51</Created>
+	<LastChange>2020-12-06T03:49:59</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-10.jpg" imageWidth="1745" imageHeight="2296">
+	<ImageRegion id="r1">
+	<Coords points="140,841 139,1984 1604,1985 1605,842"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="145,299 474,299 474,369 1599,369 1599,815 146,815 146,814 145,814"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Um componente muito importante no protocolo |P é o endereço de rede. Quando um bloco de endereços é
+concedido a uma organização, essa passa a ser livre para alocar os endereços aos dispositivos que precisarem
+ser conectados à internet. O primeiro endereço na classe, normalmente, é tratado como um endereço
+especial denominado endereço da rede, e que define a rede na organização. Para suplantar o esgotamento
+de endereços que esse cenário oferece e proporcionar acesso à internet a um número maior de organizações,
+o endereçamento sem classes foi desenvolvido e implementado. Neste método, não existem classes, no
+entanto, os endereços ainda são concedidos em blocos.
+Sendo assim um bloco de endereços é concedido a uma pequena empresa. Sabemos que um dos endereços
+é 205.16.37.39/28, conforme a figura abaixo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

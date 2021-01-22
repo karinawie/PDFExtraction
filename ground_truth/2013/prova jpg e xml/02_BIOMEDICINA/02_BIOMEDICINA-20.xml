@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:21:31</Created>
+	<LastChange>2020-09-25T03:33:27</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-20.jpg" imageWidth="1610" imageHeight="2164">
+	<ImageRegion id="r0">
+	<Coords points="76,576 76,1500 1560,1500 1560,576"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="79,231 249,231 249,286 1532,286 1532,481 1531,481 1531,1613 1533,1613 1533,1833 1532,1833 1532,1985 1242,1985 1242,1986 951,1986 951,1987 79,1987 79,486 78,486 78,232 79,232"/>
+	<TextEquiv conf="0.96473">
+	<Unicode>QUESTÃO 25
+A flebite e a infiltração são complicações comumente identificadas na terapia intravenosa periférica.
+A flebite pode ser classificada como química, mecânica ou infecciosa. No caso da flebite química, sua causa
+pode advir, entre outros fatores, dos extremos de potencial hidrogeniônico (pH), ocasionando, assim, resposta
+inflamatória na camada íntima da veia, que pode levar à infiltração, edema, trombose e morte celular. A faixa
+de pH de risco para as complicações da terapia corresponde aos valores de pH inferiores a 5,5 e superiores
+a8,0.
+Os gráficos abaixo mostram a variação do pH de antimicrobianos diluídos em NaCl 0,9% , na presença ou
+ausência de luz.
+Com base no texto e nos gráficos apresentados e considerando as soluções testadas, tanto na ausência
+quanto na presença de luz, assinale a opção correta.
+O A solução de Sulfato de Amicacina possui concentração de íons H+ semelhante à concentração de íons
+OH- indicativa de neutralidade da solução, e impõe risco a pacientes submetidos à terapia intravenosa.
+O A solução de Sulfato de Amicacina possui concentração de íons H+ semelhante à concentração de íons OH-
+indicativa de neutralidade da solução, e não impõe risco a pacientes submetidos à terapia intravenosa.
+O A solução de Cloridrato de Vancomicina é a que possui maior concentração de íons H+ e não impõe risco
+a pacientes submetidos à terapia intravenosa.
+O A solução de Cloridrato de Vancomicina é a que possui maior concentração de íons H+ e impõe risco a
+pacientes submetidos à terapia intravenosa.
+O A solução de Penicilina G Potássica é a que possui maior concentração de íons OH-, em todos os tempos
+analisados, e não impõe risco a pacientes submetidos à terapia intravenosa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

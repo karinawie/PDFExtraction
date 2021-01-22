@@ -1,0 +1,857 @@
+QUESTÃO DISCURSIVA 3
+Uma empresa na área de construção civil, inicialmente, atuava somente na cidade A. Devido ao seu crescimento,
+essa construtora decidiu abrir um escritório na cidade B. Para garantir a troca de informações, a construtora
+realizou a interligação entre as redes das duas cidades, utilizando para isso dois roteadores que não utilizam
+protocolo de roteamento algum. A figura abaixo apresenta a topologia da rede do cenário descrito.
+Com base nesse cenário apresentado e considerando que as interfaces dos roteadores são FastEthernet,
+sendo que as interfaces Fa0/0 (FastEthernet 0/0) de cada roteador estão ligadas às redes locais e
+FaO/1 (FastEthernet 0/1) interligam os roteadores, apresente a tabela de roteamento dos roteadores
+R1 e R2. (valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Um componente muito importante no protocolo |P é o endereço de rede. Quando um bloco de endereços é
+concedido a uma organização, essa passa a ser livre para alocar os endereços aos dispositivos que precisarem
+ser conectados à internet. O primeiro endereço na classe, normalmente, é tratado como um endereço
+especial denominado endereço da rede, e que define a rede na organização. Para suplantar o esgotamento
+de endereços que esse cenário oferece e proporcionar acesso à internet a um número maior de organizações,
+o endereçamento sem classes foi desenvolvido e implementado. Neste método, não existem classes, no
+entanto, os endereços ainda são concedidos em blocos.
+Sendo assim um bloco de endereços é concedido a uma pequena empresa. Sabemos que um dos endereços
+é 205.16.37.39/28, conforme a figura abaixo.
+
+Com base nas informações apresentadas, faça que se pede nos itens a seguir.
+a) Encontre o primeiro endereço do bloco de endereços da sub-rede; (valor: 4,0 pontos)
+b) Encontre o último endereço do bloco de endereços da sub-rede; (valor: 4,0 pontos)
+c) Encontre o número de endereços utilizáveis do bloco de endereços da sub-rede. (valor: 2,0 pontos)
+
+Com base nas informações apresentadas, faça que se pede nos itens a seguir.
+a) Encontre o primeiro endereço do bloco de endereços da sub-rede; (valor: 4,0 pontos)
+b) Encontre o último endereço do bloco de endereços da sub-rede; (valor: 4,0 pontos)
+c) Encontre o número de endereços utilizáveis do bloco de endereços da sub-rede. (valor: 2,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Uma empresa deseja estabelecer um novo canal de negócios utilizando a internet. Para isso, desenvolveu
+uma aplicação para internet - um portal - e criou um mecanismo de segurança, com base no uso do protocolo
+SSL (Secure Socket Layer) e de certificados digitais, de forma a proteger as informações de seus clientes
+durante o acesso. Parte do certificado digital dessa empresa aparece na imagem abaixo.
+
+Em relação aos aspectos de segurança da informação, faça o que se pede nos itens a seguir.
+a) Conceitue criptografia simétrica e criptografia assimétrica; (valor: 3,0 pontos)
+b) Utilizando o certificado digital mostrado na figura, indique: quem o assina, a quem se destina, o algoritmo
+hash da assinatura desse certificado, o algoritmo de criptografia pública da assinatura desse certificado e
+o tamanho da chave pública utilizada; (valor: 4,0 pontos)
+c) Explique o processo de geração da assinatura digital desse site. (valor: 3,0 pontos)
+
+Em relação aos aspectos de segurança da informação, faça o que se pede nos itens a seguir.
+a) Conceitue criptografia simétrica e criptografia assimétrica; (valor: 3,0 pontos)
+b) Utilizando o certificado digital mostrado na figura, indique: quem o assina, a quem se destina, o algoritmo
+hash da assinatura desse certificado, o algoritmo de criptografia pública da assinatura desse certificado e
+o tamanho da chave pública utilizada; (valor: 4,0 pontos)
+c) Explique o processo de geração da assinatura digital desse site. (valor: 3,0 pontos)
+
+QUESTÃO 10
+Em relação ao protocolo MPLS (Multi Protocol Label
+Switching), avalie as asserções a seguir e a relação
+proposta entre elas.
+|. Para prover qualidade de serviço na
+internet é preciso ter uma maior eficiência
+no roteamento de pacotes, e para isso, o
+protocolo MPLS é uma solução.
+PORQUE
+O protocolo MPLS adiciona um rótulo em
+cada pacote que será transmitido por um
+caminho virtual, permitindo uma comutação
+mais rápida e independente dos protocolos
+das camadas de rede e enlace.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e Il são proposições verdadeiras, e
+a 1|l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 09
+A figura a seguir ilustra, por meio do modelo em
+camadas, o processamento da informação em uma
+transmissão de dados utilizando comutadores,
+roteadores e hospedeiros.
+Considerando as funções de cada dispositivo nesse
+processo, avalie as afirmações a seguir.
+|. Comutadores e analisam
+de
+encaminhamento de pacotes.
+hospedeiros
+endereços camada 3 para oO
+Roteadores — precisam — processar
+quantidade de informações
+cabeçalho do que comutadores.
+uma
+maior de
+Ill. Comutadores examinam o endereço de
+destino de camada 2 do quadro e tentam
+repassá-lo para a interface que leva a
+esse destino.
+Roteadores atuam até a camada de rede,
+pois não fornecem isolamento de tráfego
+rotas entre os
+e utilizam inteligentes
+hospedeiros da rede.
+É correto apenas o que se afirma em
+O.
+O Iv.
+Gel
+O e.
+OÔ leilv.
+
+QUESTÃO 11
+O protocolo FTP trabalha na camada de aplicação do modelo OSI e possibilita que um usuário em
+um computador transfira, renomeie ou remova arquivos remotos. A implementação do protocolo FTP
+ocorre por meio de um programa, conhecido como servidor de FTP, sendo o programa ProFTPD um
+exemplo de sua utilização.
+SOARES, L. F. G.; LEMOS, G.; COLCHER, S. Redes de computadores: das LANS, MANS e WANS às redes ATM. 1 ed.
+Rio de Janeiro: Campus, 1995 (adaptado).
+A figura abaixo apresenta a análise de tráfego, por meio de um sniffer, de uma comunicação FTP entre a
+origem 192.168.56.1 e o destino 192.168.56.10, portanto, dentro de uma LAN.
+Em relação ao protocolo FTP e a sua implementação, avalie as afirmações a seguir.
+|. Não háa necessidade de estabelecimento do handshake de três vias por se tratar de um conexão TCP.
+Il. Trata-se de um protocolo inseguro, pois não oferece criptografia, sendo recomendado a utilização de
+um protocolo mais seguro, como SFTP (Secure File Transfer Protocol).
+Ill. A operação do FTP baseia-se no estabelecimento de duas conexões entre o cliente e o servidor,
+em que a primeira é a conexão de controle, usada para transferência de comandos, e a outra uma
+conexão de transferência de dados.
+IV. O protocolo FTP permite somente um modo de transferência, o modo binário.
+É correto apenas o que se afirma em
+O.
+O.
+Oie.
+O le.
+OÔielv
+
+QUESTÃO 13
+Considere que um computador pertencente à
+rede local, foi invadido, e, para que o tráfego seja
+encaminhado para o servidor IDS é necessário
+configurar uma funcionalidade em um dispositivo da
+rede apresentada na figura acima. Nessa situação, o
+equipamento e a funcionalidade a ser configurada,
+são, respectivamente,
+O o roteador e a Analyser.
+O o switch e a Port Security.
+O o switch e a Port Mirroring.
+O eoswitch e o protocolo STP.
+O o roteador e o protocolo VTP.
+
+QUESTÃO 12
+Um ponto de acesso é um dispositivo de camada 2
+que funciona como um hub 802.3 Ethernet. A rádio
+frequência é um meio compartilhado, e pontos
+de acesso escutam todo o tráfego de rádio. Assim
+como no padrão IEEE 802.3 Ethernet, dispositivos
+que operam no padrão IEEE 802.11 WLAN também
+disputam o meio para transmitir. Apesar disso,
+diferentemente das placas de rede Ethernet,
+dispositivos de rádio em vez de detectarem colisões
+são criados para evitá-las.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet:
+Uma Abordagem Top-Down. 5 ed. São Paulo:
+Addison Wesley, 2010 (adaptado).
+Sobre a operação dos padrões IEEE 802.3 e 802.11,
+avalie as afirmações a seguir.
+|. O padrão IEEE 802.3 permite detecção de
+colisão.
+Il. O método de acesso para o padrão 802.3 é o
+CSMA/CD, enquanto o padrão 802.11 faz uso
+de CSMA/CA.
+Ill. O padrão IEEE 802.11 usa o CSMA/CD como
+protocolo de acesso múltiplo ao meio.
+IV. O quadro 802.11, assim como o quadro 802.3,
+inclui uma verificação de redundância
+cíclica (CRC).
+IEEE 802.11
+inicia-se assim que a estação percebe que
+V. A transmissão no padrão
+o canal está ocioso.
+É correto apenas o que se afirma em
+Oie
+O le.
+O Meiv.
+O Lev.
+O LIMeIv.
+
+QUESTÃO 15
+Uma empresa multinacional fornecedora de peças
+e acessórios automotivos planeja a realização de
+um evento em um resort para os seus parceiros de
+negócio. O objetivo principal do evento é realizar
+o treinamento da equipe de vendas, por meio
+de acesso aos sistemas da empresa e de forma
+secundária disponibilizar acesso a sites da web e
+correio eletrônico para uso particular dos parceiros.
+Conforme recomendação de padronização da área
+de TI, contratou-se um link de internet e configurou-
+se uma rede sem fio denominada “parceiros”.
+Considerando os mecanismos de segurança em redes
+sem fio e para alcançar o objetivo desejado, avalie as
+afirmações a seguir.
+|. Para garantir a confidencialidade dos dados
+trafegados, recomenda-se a utilização
+de um protocolo de algoritmo simétrico,
+denominado WEP.
+Il. Os usuários devem solicitar autenticação
+através de um portal web (HTTPS) e
+posteriormente o seu acesso será limitado à
+navegação web, correio eletrônico e acesso
+aos sistemas da empresa.
+Ill. Recomenda-se a utilização do padrão de
+segurança WPS (Wi-Fi Protected Setup) para
+garantir todos os requisitos citados.
+IV. Para aumentar a segurança da informação
+trafegada deve-se optar pela utilização do
+WPA?, pois este usa o algoritmo AES.
+É correto apenas o que se afirma em
+Oie.
+O lelv.
+O eiv.
+O L,11e.
+O Lev.
+
+QUESTÃO 14
+A internet é uma rede de computadores que
+interconecta milhares de dispositivos computacionais
+ao redor do mundo. Há pouco tempo, esses
+dispositivos eram basicamente computadores de
+mesa, estações de trabalho e os servidores que
+armazenam e transmitem informações, como páginas
+da web e mensagens de email. No entanto, cada vez
+mais sistemas finais modernos da internet, como TVs,
+laptops, consoles para jogos, smartphones, webcams
+e automóveis, estão conectados à rede. O termo rede
+de computadores está começando a soar um tanto
+desatualizado, dados os muitos equipamentos não
+tradicionais que estão ligados à internet. No jargão da
+internet, todos esses equipamentos são denominados
+hospedeiros ou sistemas finais que são conectados
+entre si por enlaces (links) de comunicação e
+comutadores de pacotes.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet:
+Uma Abordagem Top-Down. 5 ed. São Paulo:
+Addison Wesley, 2010 (adaptado).
+A função de comutação em uma rede de comunicação
+se refere ao uso dos recursos disponíveis (meios
+de transmissão, roteadores, switches e entre
+outros) para possibilitar a transmissão de dados
+pelos diversos dispositivos conectados. Para isso,
+basicamente existem algumas técnicas como:
+comutação de circuitos, comutação de mensagens e
+comutação de pacotes.
+Em relação a diferença entre as técnicas de
+comutação de circuito e comutação de pacotes,
+assinale a opção correta.
+O Na comutação de pacotes, os bits simplesmente
+fluem de forma contínua pelo fio.
+O Na comutação de circuitos e na comutação de
+pacotes as transmissões são orientadas à conexão.
+O Na comutação de pacotes ocorre um aumento na
+largura de banda, porém essa técnica necessita da
+existência de um caminho dedicado e exclusivo.
+O Nacomutação de circuitos utiliza-se a transmissão
+store-and-forward, em que um pacote é
+acumulado na memória de um roteador, e depois
+é enviado ao roteador seguinte.
+O Na comutação de circuitos ocorre uma reserva
+de largura de banda em todo o percurso, desde
+o transmissor até o receptor e todos os pacotes
+seguem esse caminho.
+
+QUESTÃO 16
+Um administrador de rede necessita escolher a categoria de cabo junto à fornecedora para realizar a instalação
+física do switch LAN ao roteador MPLS conforme a figura a seguir.
+As especificações técnicas necessárias do cabo, segundo o projeto de rede, são:
+* Suporte para sistema de cabeamento estruturado para tráfego de voz, dados e imagens com aplicação
+para cabeamento vertical ou horizontal.
+º*º Proteção extra contra ingresso e egresso de EMI (Indução Eletromagnética) e RFI (Interferência por
+Radiofrequência), pois no local há altas fontes de ruído e interferência.
+* —Cabodefinido pela Norma ISO/IEC 11801 e IEC 61156-5 para frequência até 600 MHz.
+Considerando a classificação do cabeamento estruturado da ABNT NBR 14565:2013 - Cabeamento estruturado
+para edifícios comerciais e data centers - o administrador de rede escolherá o cabo
+O classe F.
+O classe E/Categoria 6.
+O classe F com blindagem.
+O classe D/Categoria 6 com blindagem.
+O classe E/Categoria 6A com blindagem.
+
+QUESTÃO 17
+A série de normas ANSI/TIA/EIA-568-B recebeu ao longo dos anos dezenas de adendos, boletins e
+atualizações. A ANSI determina que as normas criadas por seus comitês sejam revisadas em períodos de
+cinco anos. Por essas razões, e para desenvolver documentos mais completos e de consulta mais simples, a
+nova série de normas ANSI/TIA/EIA-568-C foi desenvolvida para substituir a série ANSI/TIA/EIA-568-B.
+MARIN, P. S. Cabeamento Estruturado - Desvendando cada passo: do projeto a instalação. 4 ed. São Paulo: Érica, 2013 (adaptado).
+Uma novidade na série ANSI/TIA/EIA/-568-C é a sua divisão em cinco documentos principais, como mostra
+o quadro abaixo:
+Em relação aos assuntos, no projeto de cabeamento estruturado, que tratam esses documentos, avalie as
+afirmações a seguir.
+|. Atomada onde é conectado o equipamento do usuário é chamada de tomada de equipamento e tem
+a sigla EO na ANSI/EIA/TIA-568-C.4.
+Il. Os requisitos mecânicos, códigos de cores e padrões de terminação do cabeamento em par trançado
+estão definidos na ANSI/EIA/TIA-568-C.1.
+As fibras multimodo de 50/125 um otimizadas para laser são recomendadas para o backbone óptico
+na ANSI/EIA/TIA-568-C.1.
+IV. As especificações dos componentes ópticos, como comprimento de onda, atenuação, largura de
+banda modal estão na ANSI/EIA/TIA-568-C.3.
+V. Os cabos categoria 6A passaram a ser reconhecidos pela ANSI/EIA/TIA-568-C.1
+É correto apenas o que se afirma em
+O Le.
+O Llev
+O, Melv.
+O 1,IVev.
+O UN, IVev
+
+QUESTÃO 19
+A solução de gerência padronizada mais usada
+no mundo chama-se /nternet-Standard Network
+Management Framework. Essa solução é mais
+conhecida como Gerência SNMP (Simple Network
+Management Protocol). Esse modelo descreve não
+apenas o protocolo de gerenciamento, mas também
+um conjunto de regras que são usadas para definir as
+informações que podem ser utilizadas.
+Rose, T. M. The Simple Book: An Introduction to Network Management.
+2 Ed. Editora Prentice Hall, 1996 (adaptado).
+Em relação aos protocolos de gerenciamento de
+rede, avalie as afirmações a seguir.
+|. O SNMP atua na camada 7 do modelo OS|.
+Il. Apenaso SNMPv1usaa noçãode comunidades
+para estabelecer um grau de confiança entre
+Os agentes e os gerentes, o SNMPvV2 e o
+SNMPv3 utilizam um subsistema de segurança
+que fornece serviços de autenticação e
+privacidade baseado no usuário.
+III. O SNMPv2 fornece gerenciamento de
+rede centralizado e distribuído incluindo
+aprimoramentos na sua estrutura e
+gerenciamento.
+IV. O SNMPv3 foi criado para solucionar as
+questões de segurança das versões anteriores,
+fornecendo acesso seguro às informações de
+gerenciamento por meio de autenticação e
+criptografia de pacotes.
+É correto apenas o que se afirma em
+Oie
+O le.
+Ole
+O L11el.
+O Lev.
+
+QUESTÃO 18
+No mercado atual, é crescente a necessidade
+de preocupação com o uso racional de recursos
+naturais, descarte de lixo eletrônico, eficiência
+energética e outras temáticas ligadas ao conceito
+de sustentabilidade. As empresas de construção
+civil passaram a construir edifícios inteligentes
+que possuem melhor planejamento do consumo
+energético destinado a iluminação, elevadores, entre
+outros. No que se refere ao projeto de redes de dados
+nesses edifícios, não é diferente. Com o crescimento
+do conceito de TI Verde, torna-se essencial o uso de
+tecnologias que atendam essa nova necessidade. Uma
+delas envolve a consolidação de servidores (blades)
+de forma a reduzir o espaço físico nos racks de data
+centers, consequentemente reduzindo o consumo
+elétrico e o nível de calor produzido, o que implica
+diretamente na redução de consumo energético
+de aparelhos de ar condicionado e uma série de
+outros benefícios correlatos, além de possibilitar o
+gerenciamento centralizado, maior flexibilização de
+distribuição de recursos (CPU, memória e disco) e
+provisionamento de serviços.
+Nesse sentido, o que fundamentalmente tem
+permitido essa consolidação de servidores e a
+redução do consumo energético é
+O aTI Verde.
+O a Virtualização.
+O a Governança de TI.
+O a Sustentabilidade Digital.
+O a BYOD ou Consumerização.
+
+QUESTÃO 21
+Em um cenário de administração de Servidores de
+Redes, um administrador realiza a publicação de
+um site no servidor web com a funcionalidade de
+vhost (virtual host) no arquivo de configuração do
+sistema operacional. Em seguida, ele cria o diretório
+e armazena nesse local todo o conteúdo necessário
+para o correto funcionamento do site. Após essas
+ações, no entanto, o administrador percebe que o
+site não está funcionando, mesmo após o reinício do
+daemon do serviço do servidor web.
+Considerando que o servidor de DNS (Domain
+Name System) está configurado corretamente,
+o procedimento pendente a ser realizado pelo
+administrador para o correto funcionamento do site é
+O habilitar a funcionalidade de DNS no vhost do site.
+O iniciar o daemon do serviço web em modo seguro.
+O verificar as permissões dos arquivos declarados
+no vhost.
+O habilitar a porta 80 para atender o vhost no
+arquivo de configuração.
+O adicionar a entrada NS no servidor de DNS
+apontando para o endereço do vhost do site.
+
+QUESTÃO 20
+Os Sistemas Operacionais de Redes (SOR) são uma
+extensão dos Sistemas Operacionais Locais (SOL),
+voltados para tornar transparente o uso dos recursos
+compartilhados, com funções de gerenciamento do
+acesso ao sistema de comunicação e às estações
+remotas para utilização de recursos de hardware e
+software remotos.
+Com relação aos SOR, avalie as afirmações a seguir.
+|. A extensão do sistema operacional das
+estações é feita por meio de um módulo
+redirecionador que funciona interceptando
+as chamadas das aplicações ao sistema
+operacional local, desviando aquelas que
+dizem respeito a recursos remotos para O
+módulo do sistema operacional de rede, que
+providencia o acesso ao dispositivo remoto.
+II. A interface entre as aplicações e o sistema
+operacional! baseia-se em interações
+solicitação/resposta. A aplicação solicita um
+serviço, por meio de uma chamada ao sistema
+operacional que executa o serviço solicitado e
+responde, informando o status da operação e
+transferindo os dados resultantes da execução
+para a aplicação, quando for o caso.
+III.A interação cliente-servidor constitui-se no
+modo básico dos sistemas operacionais de
+redes. As estações que disponibilizam seus
+recursos a outras estações devem possuir a
+entidade (ou módulo) servidor. As estações
+que permitem que suas aplicações utilizem
+recursos compartilhados com outras estações
+devem possuir a entidade (ou módulo) cliente.
+IV. Pode-se classificar os módulos de um SOR
+instalados nas estações em dois tipos: SORC
+(módulo cliente) e SORS (módulo servidor do
+sistema operacional).
+É correto o que se afirma em
+O |, apenas.
+O lell, apenas.
+O Ill elV, apenas.
+O 1, Il e IV, apenas.
+OI,
+
+QUESTÃO 22
+O Gerenciamento de Redes inclui o fornecimento, integração e coordenação de hardware, software e
+elementos humanos para monitorar, testar, configurar, consultar, analisar, avaliar e controlar a rede. Além
+disso, disponibiliza recursos para atender aos requisitos de desempenho, qualidade de serviço e operação
+em tempo real, dentro de um custo aceitável pela empresa. A figura a seguir ilustra um ambiente de
+Gerenciamento de Redes.
+Considerando a utilização do protocolo SNMP (Simple Network Management Protocol) no gerenciamento de
+redes, avalie as asserções a seguir e a relação proposta entre elas.
+|. O SNMP é o protocolo mais usado para transmitir informações e comandos entre a entidade
+gerenciadora e os agentes que os executam em nome da entidade, dentro de um dispositivo de rede
+gerenciado.
+PORQUE
+Il. Os agentes coletam informações através de objetos gerenciados que, juntos, formam um banco virtual
+de informações, conhecido como MIB (Management Information Base).
+Acerca dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a Il é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa e a |l é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 24
+As empresas que utilizam as tecnologias da
+informação estão cada vez mais compromissadas com
+as questões de sustentabilidade e meio ambiente. As
+tecnologias convergentes visam, entre as diversas
+vantagens, proporcionar economia nos custos,
+possibilitando às empresas praticarem um preço
+final competitivo, preservando o meio ambiente e
+mantendo o negócio sustentável.
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Atecnologia de VolP é utilizada para substituir
+redes telefônicas convencionais portando
+o tráfego de voz para a redes de dados e
+proporcionando economia nos custos de
+telefonia da empresa.
+PORQUE
+Il. Sustentabilidade é a habilidade em manter
+alguma condição, ou seja, possibilitar que um
+processo exista e permaneça.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são falsas.
+
+QUESTÃO 23
+A gestão de elementos de redes baseada na pilha de
+protocolos TCP/IP tem como seu principal protocolo
+de gerenciamento o SNMP (Simple Network
+Management Protocol).
+Acerca do protocolo SMTP, avalie as afirmações a
+seguir.
+|. É baseado numa estrutura de comunicação
+requisição/resposta, não suportando outro
+tipo de comunicação.
+ll. É implementado por diversas aplicações,
+como PING e TRACERT, nas quais o comando
+é emitido pelo dispositivo cliente.
+III.Permite o monitoramento de elementos de
+rede, como roteadores e switches, podendo
+ser utilizado para servidores e estações de
+trabalho, desde que se tenha o suporte ao
+SNMP instalado.
+IV. Gerencia elementos em qualquer rede |P
+alcançável, e permite o encaminhamento de
+pacotes de uma rede para outra.
+É correto apenas o que se afirma em
+O:
+o.
+Oie.
+O lelv.
+O eiv.
+
+QUESTÃO 25
+Os dados estão nas nuvens e a infraestrutura responsável pelos diversos serviços são os data centers. Segundo
+estudos técnicos os grandes data centers são os novos vilões do meio ambiente por consumirem cerca de
+1% de toda a energia elétrica gerada no mundo. Para reverter esse quadro as grandes empresas do setor de
+tecnologia estão investindo em data centers verdes e algumas apresentam registros de economia energética
+entre 30% e 50%. O quadro a seguir traz o ranking do Greenpeace das empresas preocupadas com TI Verde.
+Disponível em <http://www.greenpeace.org>. Acesso em: 06 jul. 2014 (adaptado).
+Considerando abordagens sustentáveis para construção de data centers verdes com melhor eficiência
+energética, avalie as afirmações a seguir.
+|. Considera-se a localização geográfica para utilização de métodos alternativos para refrigeração dos
+servidores do data center, além do tradicional ar condicionado, por exemplo, através da filtragem e
+purificação do ar externo natural ou da utilização de água.
+Il. Com novas opções de equipamentos de redes “verdes” disponíveis no mercado que são mais
+eficientes em termos de consumo de energia, a substituição de equipamentos antigos de TI por
+novos pode reduzir consideravelmente as necessidades de energia e resfriamento em geral.
+Ill. É importante amadurecer o entendimento de que o investimento em soluções verdes para construção
+de data centers com melhor eficiência energética é fundamental não apenas à sustentabilidade e
+ao meio ambiente, mas também porque traz redução de custo para os negócios, este último é um
+benefício mais ligado ao retorno financeiro para a indústria.
+É correto o que se afirma em
+O |l, apenas.
+O lell, apenas.
+O leilll, apenas.
+O Il elll, apenas.
+O Le.
+
+QUESTÃO 27
+Virtualização não é uma tecnologia nova e está
+presente desde o tempo dos primeiros sistemas de
+grande porte. Recentemente, o termo tornou-se
+onipresente em infraestrutura de TI, representando
+qualquer tipo de método de ofuscação, em que,
+um processo de TI é removido do seu ambiente
+operacional físico, tornando-se virtual. Por isso, a
+virtualização pode ser aplicada a quase todas as
+partes de uma infraestrutura de TI.
+Sobre as diversas formas de virtualização de
+infraestrutura de TI é correto afirmar que
+O a virtualização de switches implica em um controle
+direto das interfaces de rede de um equipamento
+hospedeiro por suas máquinas virtuais.
+O as Redes Locais Virtuais — VLANs — não podem ser
+consideradas exemplos de virtualização de rede,
+pois não permitem independência no acesso a
+rede.
+O o uso de servidores de terminais, um exemplo
+de virtualização de desktops, torna complexa
+a entrega de novas estações de trabalho e sua
+respectiva administração.
+O a virtualização de armazenamento trata da
+técnica na qual os discos de dados são abstraídos
+do sistema operacional que os utiliza, não
+importando onde estejam fisicamente instalados.
+O os valores maiores de manutenção e um
+tempo maior de indisponibilidade são custos
+associados à virtualização de servidores, e são
+mais elevados quando comparados ao modelo
+de servidores físicos.
+
+QUESTÃO 26
+A partir de agora, o Brasil possui uma legislação
+ampla, o Marco Civil da Internet, que estabelece não
+apenas a atuação do poder público e o intuito do uso
+da internet no Brasil, como também indica, de forma
+expressa, obrigações e direitos, identifica termos
+técnicos, agentes, procedimentos relacionados ao
+uso e armazenamento de dados, assim como sanções
+em caso de infrações.
+Disponível em: <http://www.administradores.com.br>.
+Acesso em: 28 jul. 2014 (adaptado).
+Em relação ao Marco Civil da Internet, avalie as
+asserções a seguir e a relação proposta entre elas.
+|. Os provedores de aplicação não podem retirar
+conteúdos disponibilizados por terceiros sem
+determinação judicial, exceto nos casos de
+nudez ou de atos sexuais de caráter privado.
+PORQUE
+Il. De acordo com o Marco Civil da Internet, a
+fim de assegurar a liberdade de expressão e
+impedir a censura, o provedor de aplicações
+somente será responsabilizado por danos
+decorrentes de conteúdo com nudez ou atos
+sexuais de caráter privado se, após ordem
+judicial, ou da notificação em caso de material
+sexual, não tomar as medidas necessárias para
+tornar indisponível o conteúdo em questão.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+um proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 28
+Quando o artigo Time Sharing Processing in Large Fast Computers, foi publicado na Conferência Internacional
+de Processamento de Informação, realizada em Nova York, no ano de 1959, surgiu a ideia da virtualização. No
+trabalho apresentado, o foco era o uso da multiprogramação em tempo compartilhado, assim estabelecendo um
+novo conceito na utilização dos computadores de grande porte. A figura a seguir apresenta o posicionamento
+da camada de abstração (virtualização).
+Em relação aos conceitos e características de virtualização e o seu uso como tecnologia emergente atualmente
+nas empresas, avalie as afirmações a seguir.
+|. A virtualização pode ser utilizada para algumas finalidades tais como: implementar a consolidação de
+servidores, reduzir custos, prover alta disponibilidade, implementar uma solução para recuperação de
+desastres e simplificar testes no desenvolvimento de softwares.
+Ill. Os serviços de data centers oferecem segurança, economia e produtividade para empresas que
+precisam de infraestrutura atualizada para seus servidores. A virtualização é a tecnologia central de
+um data center.
+III.A camada de virtualização de servidores mais conhecida é o Hipervisor ou Monitor de Máquina Virtual
+(Virtual Machine Monitor).
+IV. São exemplos de tipos de virtualização: virtualização completa, paravirtualização e virtualização
+incompleta.
+É correto apenas o que se afirma em
+Oie
+Ole.
+O ueiv.
+O 1L,11e.
+O LIMMelv.
+
+QUESTÃO 29
+A figura a seguir mostra um cenário típico do uso do padrão 802.1X para autenticação de uma estação/
+dispositivo em uma rede.
+Em relação às entidades mostradas na figura, assinale a opção correta.
+O O Autenticador é responsável por intermediar a comunicação entre entidades, o 802.1X é responsável
+por fazer a verificação de credenciais de usuários, o Servidor de Autenticação busca acesso aos recursos
+da rede e o Requisitante é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O O Servidor de Autenticação é responsável por intermediar a comunicação entre entidades, o Autenticador
+é responsável por fazer a verificação de credenciais de usuários, o Requisitante busca acesso aos recursos
+da rede e o 802.1X é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O O Autenticador é responsável por intermediar a comunicação entre entidades, o Servidor de Autenticação
+é responsável por fazer a verificação de credenciais de usuários, o Requisitante busca acesso aos recursos
+da rede e o 802.1X é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O ORequisitante é responsável por intermediar a comunicação entre entidades, o Autenticador é responsável
+por fazer a verificação de credenciais de usuários, o 802.1X busca acesso aos recursos da rede e o Servidor
+de Autenticação é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O O Servidor de Autenticação é responsável por intermediar a comunicação entre entidades, o 802.1X é
+responsável por fazer a verificação de credenciais de usuários, o Requisitante busca acesso aos recursos
+da rede e o Autenticador é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+
+QUESTÃO 31
+Umempreendedor na área de redes de computadores
+tem um bom faturamento com as mensalidades
+que seus vizinhos de condomínio pagam para ter
+acesso à internet. Seu link de banda larga residencial
+compartilhado é de 35 Mbps, contratado junto a
+uma grande prestadora desse serviço. Com seus
+conhecimentos técnicos ele provê, informalmente,
+acesso aos seus “assinantes”. Um antigo professor
+o alertou que seu negócio deve ser legalizado com
+base na Resolução da Anatel, nº 614, de 28 de maio
+de 2013, que regulamenta a modalidade de Serviço
+de Comunicação Multimídia (SCM).
+Em relação às providências que o empreendedor
+deve tomar para legalizar seu negócio, avalie as
+afirmações a seguir.
+|. O empreendedor deve elaborar um projeto
+de redes de computadores definindo a faixa
+de frequências, o tipo de equipamento e a
+tecnologia a ser empregada, utilizando sempre
+equipamentos certificados pela Anatel.
+Il. O empreendedor deve requerer a licença
+SCM junto ao seu provedor para a realização
+da transmissão e distribuição do sinal de
+internet, independente do meio que será
+utilizado.
+III.O empreendedor deve tornar disponíveis ao
+assinante informações sobre as características
+e especificações técnicas dos terminais,
+necessárias à conexão dos mesmos à sua rede.
+IV. O empreendedor deve contratar uma equipe
+técnica com profissionais experientes no ramo
+de redes de computadores, TCP/IP e acesso à
+internet, além de cadastrar-se junto ao CREA
+de seu Estado.
+V. O empreendedor deve manter o seu link de
+banda larga residencial pré-existente para
+compartilhar acesso entre seus assinantes.
+É correto apenas o que se afirma em
+O ilellev.
+O LIelv
+O 1LIVev
+O lIev
+O 1, Iv.
+
+QUESTÃO 30
+Tão importante quanto a instalação dos
+computadores e demais dispositivos de interconexão
+da infraestrutura de uma rede de computadores
+é a etapa prévia de instalação do cabeamento
+e os devidos testes de certificação através de
+equipamentos especializados. O processo de
+certificação do cabeamento de uma rede envolve uma
+série de testes que avaliam parâmetros importantes
+determinados pelas normas EIA/TIA-568-B (2001) e
+EIA/TIA-568-C (2009), com o objetivo de assegurar a
+qualidade geral do cabeamento de uma rede local.
+A partir do texto apresentado e das recomendações
+das normas EIA/TIA-568, avalie as asserções a seguir
+e a relação proposta entre elas.
+|. Os tradicionais testes NEXT e FEXT não são
+suficientes nas redes modernas, pois foram
+inicialmente estabelecidos para certificar
+cabeamento de par trançado que utiliza
+apenas dois pares de fios do total de quatro
+pares disponíveis nesses cabos, sendo os
+pinos 1 e 3 utilizados na transmissão (TX) e os
+pinos 2 e 6 na recepção (RX).
+PORQUE
+Il. Devido às altas taxas de transmissão das redes
+Ethernet atuais que utilizam todos os quatro
+pares de fios na transmissão e recepção de
+dados, recomendam-se os testes PS-NEXT
+e PS-FEXT para certificação de cabeamento
+de alto nível de desempenho, uma vez que
+esses testes consideram a somatória de
+interferências do sinal aplicado em três pares
+sobre o quarto.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 33
+Uma cooperativa de provedores de internet busca
+levar tecnologia de banda larga a preços acessíveis
+para comunidades rurais distantes dos grandes
+centros. Essas comunidades rurais não possuem
+qualquer infraestrutura de telecomunicações, estão
+situadas em regiões planas e distantes num raio
+máximo de 30 km dos grandes centros. A cooperativa
+já possui uma infraestrutura de rede adequada
+nos grandes centros e necessita utilizar tecnologias
+economicamente viáveis para atingir o seu objetivo
+de alcançar as comunidades rurais.
+Assim, o modo de acesso e a tecnologia mais
+indicados para este cenário são
+O via rádio utilizando WiMAX IEEE 802.16.
+O via satélite utilizando DTH (Direct To Home).
+O via telefonia móvel utilizando tecnologia 4G.
+O via telefonia fixa utilizando ADSL (Asymmetric
+Digital Subscriber Line).
+O via cabeamento óptico utilizando uma rede ATM
+(Asynchronous Transfer Mode).
+
+QUESTÃO 32
+É comum o estabelecimento de uma VPN (Virtual
+Private Network) na modalidadesite-to-site
+para a comunicação entre unidades remotas de
+uma empresa. Seu custo é convidativo porque a
+infraestrutura da internet pública é aproveitada
+através da(s) conexão(ões) existente(s). A conexão
+com a internet viabiliza a criação de uma VPN
+através da configuração de interfaces do tipo túnel,
+como se a empresa tivesse contratado um link
+dedicado de longa distância de alguma operadora de
+telecomunicações.
+Considerando as melhores práticas recomendadas
+na configuração de uma VPN, avalie as afirmações
+a seguir.
+|. É recomendável que seja empregada alguma
+solução de confidencialidade para criptografar
+os dados, como por exemplo, o padrão IPSec,
+uma vez que esses dados irão trafegar na
+internet que é uma rede pública e acessível
+a todos, o que aumenta o risco de ataques de
+interceptação.
+II. A configuração de uma solução de
+confidencialidade para criptograr os dados
+não é crucial, visto que, em VPNs do tipo
+site-to-site, somente os roteadores de borda
+configurados com as devidas interfaces
+virtuais do tipo túnel podem ter acesso ao
+tráfego entre as unidades remotas.
+III.A garantia de segurança na implementação
+de uma VPN do tipo site-to-site está na
+configuração de interfaces virtuais do tipo
+túnel nos roteadores de borda, o que torna
+necessária a configuração de endereços lógicos
+na mesma subrede sendo recomendado o uso
+do prefixo /30.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O LIel.
+
+QUESTÃO 35
+A Qualidade de Serviço (QoS) é muito importante para as redes convergentes, tornando-as capazes de
+transportar, de maneira bem próxima ao ideal, os mais diversos tráfegos, como vídeo, voz e dados; de
+modo simultâneo e sem interferências mútuas. A QoS apresenta duas soluções para redes IP: Serviços
+Integrados (IntServ) e Serviços Diferenciados (DiffServ).
+Em relação a essas soluções, é correto afirmar que
+O o Diffserv é mais adequado em redes locais e intradomínio.
+O o IntServ é mais adequado para ser utilizado no núcleo da rede.
+O o IntServ estabelece priorização de tráfego baseado em classes de fluxo, seguindo as características de
+tráfego das aplicações.
+O o Diffserv e o Intserv fornecem melhor tratamento aos fluxos das aplicações quando comparadas com fluxos
+que seguem o modelo best-effort.
+O o Diffserv estabelece reservas de recursos ao longo de um caminho de rede, oferecendo valores absolutos
+de largura de banda, atraso e perda de pacotes para as aplicações.
+
+QUESTÃO 34
+Com relação aos protocolos de segurança em redes sem fio, avalie as afirmações a seguir.
+|. O protocolo WPA?2 definido no padrão IEEE 802.11i utiliza o algoritmo RC4 para criptografar os pacotes
+que trafegam numa dada rede sem fios a fim de tentar garantir confidencialidade dos dados de cada
+usuário.
+Il. O protocolo WEP garante uma melhor confiabilidade quando trabalha com AES (Advanced Encryption
+Standard).
+III.O protocolo IEEE 802.11] ou WPA?2 foi o substituto formal do protocolo WEP, e define a utilização de
+diversos métodos e protocolos, por exemplo: AES, EAP, TKIP e RADIUS.
+IV. A utilização do protocolo RADIUS integrado com o padrão IEEE 802.11i permite o acesso às redes sem
+fio através de IDs (identificadores) de nomes de usuários.
+É correto apenas o que se afirma em
+Oie.
+O lleiv.
+O 1L,11e,
+O LI,elv.
+O 1Melv
+

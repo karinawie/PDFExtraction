@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:38:10</Created>
+	<LastChange>2020-11-22T02:05:46</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-10.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,241 412,241 412,301 1457,301 1457,355 1538,355 1538,639 1054,639 1054,640 914,640 914,765 916,765 916,835 921,835 921,932 1273,932 1273,996 1538,996 1538,1064 1055,1064 1055,1065 86,1065 86,997 85,997 85,962 84,962 84,932 717,932 717,741 712,741 712,640 569,640 569,641 85,641 85,642 84,642 84,472 83,472 83,358 84,358"/>
+	<TextEquiv conf="0.96191">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Para determinada aplicação, é necessária a utilização de um motor térmico com potência útil de 5 kW.
+Para isso, duas alternativas de motor foram propostas, com o motor |, que consome 10 000 J/s de taxa de
+calor e trabalha com T,=300 K e T, = 1 200 K ou com o motor |l, que consome 8 000 J/s de taxa de calor e
+trabalha com T, = 300 K e T, = 900 K.
+Denotando por Ty, T,WedQ, respectivamente, a temperatura da fonte fria, a temperatura da fonte quente,
+a potência desenvolvida e a taxa de calor fornecida, e considerando que a máxima eficiência teórica que uma
+máquina térmica pode desenvolver corresponde à do ciclo de Carnot, faça o que se pede nos itens a seguir,
+sabendo que:
+=1- T
+2
+Ncarot
+W
+Muáquino =
+a) As duas máquinas são teoricamente viáveis? Justifique a resposta. (valor: 4,0 pontos)
+b) Considerando que os custos das duas máquinas sejam idênticos, indique qual das duas deve ser escolhida
+e justifique a resposta. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

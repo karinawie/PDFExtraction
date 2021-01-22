@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:49:14</Created>
+	<LastChange>2020-10-28T17:07:53</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-10.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="830,235 1000,235 1000,291 1536,291 1536,645 1535,645 1535,1327 1536,1327 1536,1467 831,1467 831,1468 830,1468 830,646 829,646 829,236 830,236"/>
+	<TextEquiv conf="0.96683">
+	<Unicode>QUESTÃO 12
+A tomografia Cone Beam, ou feixe cônico, tem
+sido o exame que mais cresceu nas solicitações de
+auxílio ao diagnóstico dos dentistas. Ela oferece uma
+imagem volumétrica, possibilitando uma melhor
+visualização de altura, largura e profundidade em
+um mesmo exame. A implantodontia foi uma das
+primeiras especialidades a utilizar os recursos da
+tomografia, pois lhe possibilitava verificar tanto
+altura como largura de rebordo para o planejamento
+de implantes e enxertos.
+Considerando as principais características desse
+exame, assinale a opção correta.
+O O quantitativo de dose de radiação é maior que
+o utilizado na técnica Fan Beam, por se tratar de
+uma aquisição de imagem convencional.
+O O voxel, utilizado neste exame, é a menor unidade
+de volume de uma imagem digital, possuindo
+uma aquisição de altura, largura e profundidade
+da estrutura a ser demonstrada.
+O Para a realização da imagem, o conjunto fonte de
+raios-X e receptor de imagens gira 180º uma única
+vez em torno da região de interesse, realizando
+uma projeção bidimensional.
+O A técnica Cone Beam adquire as imagens em
+planos corporais, utilizando o pixel para imagens
+digitais; enquanto o Fan Beam registra as imagens
+volumétricas, por meio da profundidade.
+O O tamanho do voxel é determinado pelo tamanho
+de cada pixel no receptor de imagem, gerando voxels
+anisotrópicos (altura = largura &lt; profundidade),
+que resultam em imagens com nitidez superior.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,296 787,296 787,763 788,763 788,838 787,838 787,979 788,979 788,1453 82,1453 82,884 168,884 168,742 81,742"/>
+	<TextEquiv conf="0.96216">
+	<Unicode>QUESTÃO 11
+A seriografia do esôfago, estômago e duodeno
+(SEED), também conhecido por radiografias do
+esôfago, estômago e duodeno (REED), é um exame
+que tem por objetivo avaliar a forma, a função e
+detectar as anormalidades do trato gastrointestinal
+alto. Normalmente, utiliza meio de contraste baritado
+(sulfato de bário). Quando tal exame é solicitado com
+duplo contraste, são utilizados, além do sulfato de
+bário (contraste positivo), cristais de citrato de cálcio
+e magnésio carbonatado para produzir no interior do
+estômago o CO, (contraste negativo).
+BONTRAGER, K. L. Tratado de Posicionamento Radiográfico e
+Anatomia Associada. 5 ed. Rio de Janeiro:
+Guanabara Koogan, 2001.
+Considerando o texto acima, quando o paciente é
+posicionado em
+O decúbito dorsal, o CO, encontrar-se-á na porção
+antropilórica.
+O ortostase, o Co, localizar-se-á no antropiloro e
+bulbo duodenal.
+O posição de Sims, oblíqua anterior direita (OAD), o
+bário localizar-se-á no fundo do estômago.
+O decúbito dorsal, o CO, localizar-se-á na extremidade
+proximal do estômago (fundo do estômago).
+O semidecúbito dorsal em posição oblíqua posterior
+esquerda (OPE), o bário localizar-se-á na parte
+inferior do corpo e na porção pilórica do estômago.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,226 805,2021 813,2021 813,226"/></SeparatorRegion></Page></PcGts>

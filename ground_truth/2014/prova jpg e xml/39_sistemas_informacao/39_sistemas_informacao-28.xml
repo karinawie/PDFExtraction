@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:54:48</Created>
+	<LastChange>2020-12-06T02:00:24</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="145,1401 316,1401 316,1440 317,1440 317,1441 958,1441 958,1442 1599,1442 1599,1835 1414,1835 1414,1975 1157,1975 1157,2019 740,2019 740,2063 146,2063 146,1835 145,1835"/>
+	<TextEquiv conf="0.95998">
+	<Unicode>QUESTÃO 33
+Um dos recursos utilizados no processo de inclusão digital por meio da utilização de Tecnologias de
+Informação e Comunicação (TIC) é a implantação de Telecentros Comunitários.
+A esse respeito, avalie as asserções a seguir e a relação proposta entre elas.
+|. Proporcionar à população mais carente o acesso às tecnologias de informação por meio de Telecentros
+Comunitários e mediante a capacitação para a utilização desse conhecimento favorece a promoção
+da cidadania.
+PORQUE
+Il. Telecentros Comunitários possibilitam à população carente o acesso a informações e conhecimentos,
+estimula a criatividade e garante a inserção profissional no mercado de trabalho.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a Il é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="145,299 316,299 316,347 1599,347 1599,413 1359,413 1359,1243 1358,1243 1358,1376 752,1376 752,1375 146,1375 146,413 145,413"/>
+	<ImageRegion id="r2">
+	<Coords points="144,422 144,1091 1591,1091 1591,422"/></ImageRegion>
+	<TextEquiv conf="0.96512">
+	<Unicode>QUESTÃO 32
+Considere um cenário de venda de passagens aéreas cujo processo de negócio apresenta-se modelado no
+diagrama abaixo, usando-se BPMN (Business Process Modeling and Notation).
+Para que essa companhia aérea obtenha mais retorno, será necessário
+O retirar o evento intermediário de tempo colocado após a tarefa “Pedido de passagem”.
+O adicionar uma tarefa para oferecimento de outro voo na raia “Comercial”.
+O modelar a tarefa “Enviar fatura” como tarefa de serviço (service task).
+O transformar o gateway “Crédito OK?” em um gateway inclusivo.
+O transformar a tarefa “Checar crédito” em um subprocesso.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:06:26</Created>
+	<LastChange>2020-09-24T18:30:02</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,293 1539,293 1539,461 1538,461 1538,679 516,679 516,860 576,860 576,964 836,964 836,1013 1538,1013 1538,1115 1223,1115 1223,1344 1493,1344 1493,1404 1538,1404 1538,1464 887,1464 887,1577 1238,1577 1238,1621 1268,1621 1268,1654 1248,1654 1248,1698 84,1698 84,1464 83,1464 83,1404 86,1404 86,1166 84,1166 84,933 83,933 83,578 84,578"/>
+	<TextEquiv conf="0.85482">
+	<Unicode>QUESTÃO 25
+Uma gramática livre do contexto (GLC) é um modelo computacional geralmente utilizado para definir
+linguagens de programação e, quando está de acordo com a Forma de Backus-Naur (BNF), permite que
+alguns operadores sejam utilizados no lado direito de suas produções, como o operador | (pipe) que indica
+seleção, o operador [ ] que indica que o operando em questão é opcional, e o operador * que indica repetição
+de O ou mais vezes.
+Projetar um compilador para uma determinada linguagem envolve, entre outras coisas, especificar quais são
+os símbolos válidos nesta linguagem, bem como quais são as regras sintáticas que a definem.
+A linguagem de programação Java é uma linguagem com suporte à orientação a objetos que não permite
+herança múltipla e que permite que uma classe implemente múltiplas interfaces. A seguir, exibem-se trechos
+de código sintaticamente válidos na linguagem Java.
+Trecho 1:
+class A extends B ( )
+Trecho 2:
+class F implements C ( )
+Trecho 3:
+class J extends A implements C, D ( +
+No trecho 1, cria-se uma classe chamada A que herda de uma classe chamada B. No trecho 2, cria-se uma
+classe chamada F que implementa uma interface chamada C. No trecho 3, cria-se uma classe chamada J que
+herda de uma classe chamada A e implementa duas interfaces, chamadas Ce D.
+Considere que:
+º &lt;classdecl&gt; é um não terminal cujo intuito é dar origem a declarações de classes;
+* &lt;classbody&gt;é um não terminal cujo intuito é dar origem ao corpo de classes;
+*º osterminais aparecem entre aspas duplas;
+*º “id” é um símbolo que representa qualquer identificador válido, como nomes de classes ou variáveis.
+A gramática que especifica uma linguagem que não permita herança múltipla e que implemente zero ou mais
+interfaces é
+O &lt;classdecl&gt; “class” “id” [ “extends “ ] “id” &lt;classbody&gt;
+O &lt;classdecl&gt; “class” “id” (“extends “ “id”)* &lt;classbody&gt;
+O &lt;classdecl&gt; “class” “id” [ “extends “ ] “id” [“implements” (, |[“id”)*] &lt;classbody&gt;
+O &lt;classdecl&gt; “class” “id” [ “extends “ “id”] [“implements”. “id” (4 “id”)'*] &lt;classbody&gt;
+O &lt;classdecl&gt; “class” “id” [“extends “ “id”] “implements” “id” (“” “id”)* &lt;classbody&gt;</Unicode></TextEquiv></TextRegion></Page></PcGts>

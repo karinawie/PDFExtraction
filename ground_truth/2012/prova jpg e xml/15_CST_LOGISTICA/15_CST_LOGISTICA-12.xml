@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T19:27:45</Created>
+	<LastChange>2020-11-18T19:47:47</LastChange></Metadata>
+	<Page imageFilename="15_CST_LOGISTICA-12.jpg" imageWidth="1615" imageHeight="2165">
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="80,1292 1537,1292 1537,1316 1535,1316 1535,1440 1245,1440 1245,1642 1295,1642 1295,1669 1061,1669 1061,1813 1150,1813 1150,1843 1010,1843 1010,1981 81,1981 81,1982 80,1982 80,1890 79,1890 80,1890 80,1728 79,1728 79,1702 81,1702 81,1501 80,1501 80,1441 79,1441 79,1349 80,1349"/>
+	<TextEquiv conf="0.04574">
+	<Unicode>QUESTÃO 20
+Em logística, existem dois prazos cruciais para a eficiência do processo: o prazo logístico, resultante da soma dos tempos
+de aquisição dos insumos, de manufatura do produto e de entrega ao cliente; e o ciclo do pedido do cliente, que é o
+tempo decorrido entre o pedido e o recebimento do produto pelo cliente.
+Considerando essa observação, avalie as seguintes asserções e a relação proposta entre elas.
+|. Um dos desafios da logística está em igualar o prazo logístico ao ciclo do pedido do cliente.
+PORQUE
+Il. Os consumidores querem os bens e serviços no tempo, no lugar e com a qualidade contratada.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a |l é uma justificativa da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa da |.
+O A asserção | é uma proposição verdadeira, e a 11 é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,182 1537,182 1537,206 1535,206 1535,1025 200,1025 200,1246 80,1246 80,1026 79,1026 79,927 80,927"/>
+	<ImageRegion id="r2">
+	<Coords points="105,389 105,894 771,894 771,389"/></ImageRegion>
+	<TableRegion id="r3">
+	<Coords points="944,397 944,889 1384,889 1384,397"/></TableRegion>
+	<TextEquiv conf="0.17456">
+	<Unicode>QUESTÃO 19
+Uma empresa do setor metal mecânico foi contratada para produzir 10 000 espelhos retrovisores para uma montadora
+de veículos, devendo entregar 1 000 peças por mês. De acordo com a equipe responsável pela gestão de estoques, foi
+sugerido adquirir 10 000 kits para a produção do equipamento, mas, com o início da produção, observou-se um índice
+de refugo na confecção do retrovisor que gerou os seguintes dados.
+Ao final do 9º mês, a equipe de produção e logística verificou que não seria possível produzir os 1 000 retrovisores
+da última remessa. Desse modo, foram solicitados novos kits para a reposição de estoques e, consequentemente, o
+cumprimento do contrato. Qual a quantidade mínima de kits necessária nessa situação?
+O 5385.
+O 650.
+O 935.
+O 1000.
+O 1065.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:15:51</Created>
+	<LastChange>2020-11-21T19:25:02</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1538,297 1538,298 1539,298 1539,881 1538,881 1538,1535 935,1535 935,1779 832,1779 832,298 831,298 831,297 832,297"/>
+	<ImageRegion id="r2">
+	<Coords points="994,889 994,1407 1344,1407 1344,889"/></ImageRegion>
+	<TextEquiv conf="0.96785">
+	<Unicode>QUESTÃO 24
+Acerca do protocolo de transporte TCP (Transmission
+Control Protocol) utilizado na Internet, considere o
+esquema abaixo, que mostra a comunicação entre
+dois processos A e B. No diagrama, o tempo cresce
+de cima para baixo e as setas diagonais representam
+segmentos TCP enviados de A para B ou de B para A,
+dependendo da orientação da seta. Os números de
+sequência dos dados de aplicação enviados de A para
+B estão indicados sobre as setas. O processo A enviou
+segmentos com 40 bytes de dados de aplicação
+para B. O número de sequência do primeiro byte
+enviado através da conexão de A para B foi 20. Dos
+quatro segmentos enviados de A para B, o segundo
+segmento foi perdido pela rede e não alcançou o
+destino.
+Com base na situação descrita acima, o número de
+confirmação (ACK) enviado pelo TCP de B para A, no
+instante de tempo t0, é igual a
+O 20.
+O 5º.
+OQ so.
+O 100.
+O 140.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,238 255,238 255,293 790,293 790,294 791,294 791,792 790,792 790,1783 269,1783 269,2012 84,2012 84,1783 83,1783 83,1682 84,1682"/>
+	<ImageRegion id="r3">
+	<Coords points="107,963 107,1668 736,1668 736,963"/></ImageRegion>
+	<TextEquiv conf="0.94531">
+	<Unicode>QUESTÃO 23
+Um componente bastante usado em circuitos lógicos
+é a matriz lógica programável (ou PLA, do inglês
+Programmable Logic Array). Uma PLA usa como
+entrada um conjunto de sinais e os complementos
+desses sinais (que podem ser implementados por um
+conjunto de inversores). A lógica é implementada a
+partir de dois estágios: o primeiro é uma matriz de
+portas AND, que formam o conjunto de termos-
+produto (também chamados mintermos); o segundo
+estágio é uma matriz de portas OR, cada uma
+efetuando uma soma lógica de qualquer quantidade
+dos mintermos. Cada um dos mintermos pode ser o
+resultado do produto lógico de qualquer dos sinais
+de entrada ou de seus complementos.
+É comum, em lugar de desenhar todas as portas
+lógicas de cada um dos estágios, representar apenas
+a posição das portas lógicas em uma matriz, conforme
+ilustra a figura a seguir.
+A partir da figura apresentada, infere-se que as
+entradas JKL = 000 e JKL = 101 levam a saídas MNO
+iguais, respectivamente, a
+O 000 e 000.
+O 000 e 010.
+O 100 e 101.
+O 101 e 000.
+O 101 e 010.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="810,231 810,2018 815,2018 815,231"/></SeparatorRegion></Page></PcGts>

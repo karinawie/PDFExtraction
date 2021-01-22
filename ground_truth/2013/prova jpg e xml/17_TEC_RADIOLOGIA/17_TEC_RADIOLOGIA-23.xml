@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:46:36</Created>
+	<LastChange>2020-10-28T16:57:41</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-23.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="829,235 1000,235 1000,295 1535,295 1535,747 1534,747 1534,939 1536,939 1536,1179 1534,1179 1534,1395 830,1395 830,747 829,747"/>
+	<TextEquiv conf="0.96235">
+	<Unicode>QUESTÃO 31
+A revelação de filmes radiográficos ainda é uma
+realidade mesmo nos serviços de radiologia das
+grandes cidades e, por uma questão econômica,
+continuará sendo utilizada por um longo
+período de tempo. Desta forma, a revelação dos
+filmes radiográficos constitui etapa de extrema
+importância na hora de produzir imagens de
+qualidade diagnóstica, devendo-se evitar os
+possíveis artefatos do processo.
+Com relação aos artefatos gerados na imagem e suas
+causas, é correto afirmar que
+O a manipulação de filmes radiográficos em
+ambientes muito secos pode gerar artefatos na
+imagem do tipo pontos negros ou estrias em
+formato de árvore.
+O a revelação de filmes radiográficos de forma
+manual pode gerar artefatos na imagem do tipo
+marcas e arranhões de repetição sistemática.
+O a variação da temperatura do revelador e fixador
+durante o processo de revelação pode gerar
+artefatos do tipo riscos ou estrias isoladas.
+O a manipulação de filmes radiográficos em
+ambientes muito úmidos pode gerar artefatos na
+imagem do tipo manchas amareladas.
+O o uso de lâmpadas de segurança na câmara
+escura geram artefatos do tipo manchas leitosas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,295 787,295 787,851 788,851 788,1387 787,1387 787,1555 82,1555 82,718 81,718"/>
+	<TextEquiv conf="0.91351">
+	<Unicode>QUESTÃO 30
+A aplicação de protocolos estabelecidos para
+adultos nos exames pediátricos de tomografia
+computadorizada (TC) resulta em doses elevadas
+e superiores às que seriam necessárias para uma
+qualidade de imagem adequada para o diagnóstico.
+A falta de conhecimento das doses aplicadas nos
+exames, bem como dos valores de referência
+estabelecidos nas recomendações internacionais
+para TC pediátrica, tem dificultado a otimização
+desses procedimentos nos serviços de radiologia
+do Brasil.
+De acordo com os fatores relacionados à proteção
+radiológica pediátrica, é correto afirmar que
+O o princípio ALARA justifica a necessidade de
+um protocolo de TC adequado para pacientes
+pediátricos.
+O as superexposições dos pacientes pediátricos em
+exames de TC são recomendadas para melhor
+qualidade de imagem.
+O as crianças possuem o mesmo risco de
+desenvolvimento de neoplasias relacionadas à
+radiação, comparado com a população adulta.
+Oa Portaria nº 453 determina que todo
+equipamento de TC deve estar localizado em
+ambiente protegido por uma gaiola de Faraday
+contra radiações externas.
+O a redução do número de fases na TC do abdome
+infantil com contraste não resulta na redução da
+dose de radiação, do tempo de exame e do custo
+do procedimento.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,231 805,2010 807,2010 807,231"/></SeparatorRegion></Page></PcGts>

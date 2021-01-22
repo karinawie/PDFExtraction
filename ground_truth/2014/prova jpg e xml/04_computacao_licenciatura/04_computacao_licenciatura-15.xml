@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T22:05:45</Created>
+	<LastChange>2020-11-22T23:08:37</LastChange></Metadata>
+	<Page imageFilename="04_computacao_licenciatura-15.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r4">
+	<Coords points="128,576 128,950 705,950 705,576"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,299 791,299 791,533 790,533 790,1111 791,1111 791,1705 790,1705 790,1706 574,1706 574,1762 249,1762 249,2014 84,2014 84,1787 85,1787 85,1728 132,1728 132,1083 85,1083 85,1082 84,1082 84,533 83,533 83,532 84,532"/>
+	<TextEquiv conf="0.94392">
+	<Unicode>QUESTÃO 13
+A figura a seguir apresenta uma árvore binária de
+pesquisa, que mantém a seguinte propriedade
+fundamental: o valor associado à raiz é sempre
+menor do que o valor de todos os nós da subárvore
+à direita e sempre maior do que o valor de todos os
+nós da subárvore à esquerda.
+Em relação à árvore apresentada na figura, avalie as
+afirmações a seguir.
+|. A árvore possui a vantagem de realizar a
+busca de elementos de forma eficiente, como
+a busca binária em um vetor.
+Ill. Aárvore está desbalanceada, pois a subárvore
+da esquerda possui um número de nós maior
+do que a subárvore da direita.
+Ill. Quando a árvore é percorrida utilizando
+o método de caminhamento pós-ordem,
+os valores são encontrados em ordem
+decrescente.
+IV. O número de comparações realizadas em
+função do número n de elementos na árvore
+em uma busca binária realizada com sucesso
+é O(log n).
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O LIlelv.
+O IMelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1538,297 1538,446 1401,446 1401,569 1538,569 1538,598 1290,598 1290,638 1218,638 1218,893 1002,893 1002,954 994,954 994,955 988,955 988,956 984,956 984,957 981,957 981,958 977,958 977,959 832,959 832,892 833,892 833,660 880,660 880,446 833,446 833,269 832,269"/>
+	<TextEquiv conf="0.59988">
+	<Unicode>QUESTÃO 14
+Seja o universo U = (10, 20, 30, 40) e o conjunto dos
+números naturais N. Com base no conhecimento
+sobre a lógica de predicados, avalie as afirmações
+a seguir.
+ll. H=(VxEeN)(3y E U)(x&lt;y) é válida.
+Il. H=(VxE N)(3y E N)(y &lt;x) é válida.
+Il. H=(Vx E U)(Ay E U)(x &gt; y) é inválida, sendo
+x=10 um contra-exemplo.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="832,1037 1537,1037 1537,1105 1066,1105 1066,1243 1539,1243 1539,1273 1256,1273 1256,1384 1289,1384 1289,1432 1537,1432 1537,1647 1539,1647 1539,1679 1538,1679 1538,1680 1537,1680 1537,1754 879,1754 879,1680 832,1680 832,1243 880,1243 880,1105 832,1105"/>
+	<TextEquiv conf="0.91726">
+	<Unicode>QUESTÃO 15
+Considere as seguintes expressões regulares cujo
+alfabeto é (a, b).
+R1=a(aUb)*
+R2 = b(a U b)*
+Se L(R) é a linguagem associada a uma expressão
+regular R, é correto afirmar que
+O L(R1) = L(R2).
+O L(R2) = (w | w termina com b).
+O existe um autômato finito determinístico cuja
+linguagem é igual a L(R1) U L(R2).
+O se R3 é uma expressão regular tal que
+L(R3) = L(R1) ON L(R2), então L(R3) é uma
+linguagem infinita.
+O um autômato finito não determinístico que
+reconheça L(R1) U L(R2) tem, pelo menos, quatro
+estados.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r17">
+	<Coords points="802,236 802,2015 805,2015 805,236"/></SeparatorRegion></Page></PcGts>

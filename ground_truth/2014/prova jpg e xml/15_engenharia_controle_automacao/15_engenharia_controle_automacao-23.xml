@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:38:00</Created>
+	<LastChange>2020-11-21T19:54:05</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r16" type="heading">
+	<Coords points="85,1136 1537,1136 1537,1164 1376,1164 1376,1165 785,1165 785,1215 230,1215 230,1331 247,1331 247,1332 248,1332 248,1460 249,1460 249,1587 85,1587 85,1588 84,1588 84,1137 85,1137"/>
+	<TextEquiv conf="0.94314">
+	<Unicode>Considerando o circuito e os dados da figura Il, em que valor deverá ser ajustada a resistência variável R1 para
+que, em condições normais, a tensão Vab seja nula?
+O 5kO.
+O 10 kO.
+O 12k0O.
+O 15 kk.
+O 20 k(O.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="226,239 226,1102 1552,1102 1552,239"/></ImageRegion></Page></PcGts>

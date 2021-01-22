@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T04:54:32</Created>
+	<LastChange>2020-10-27T18:45:26</LastChange></Metadata>
+	<Page imageFilename="03_CIENCIAS_ECONOMICAS-14.jpg" imageWidth="1615" imageHeight="2166">
+	<SeparatorRegion id="r3">
+	<Coords points="804,189 807,2008 811,2008 808,189"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,176 791,176 791,206 790,206 790,643 789,643 789,777 696,777 696,912 786,912 786,1011 790,1011 790,1287 520,1287 520,1418 789,1418 789,1782 790,1782 790,2003 82,2003 82,2004 81,2004 81,1288 80,1288 80,1011 81,1011 81,825 79,825 79,805 80,805 80,644 79,644 79,244 80,244"/>
+	<TextEquiv conf="0.96165">
+	<Unicode>QUESTÃO 20
+Dois estudantes de Economia, João e Pedro, estão
+debatendo sobre a estimação de modelos de crescimento
+econômico. João propõe uma formulação em que a taxa
+de crescimento do PIB dos países, gy , depende da taxa de
+crescimento do capital físico, 1x; da taxa de crescimento
+do capital humano, t4; e da taxa de crescimento da força
+de trabalho, n. Pedro propõe incluir na formulação de
+João uma proxy para captar o diferencial de qualidade
+institucional, /NST. Segundo a argumentação de Pedro,
+quanto maior o nível de qualidade institucional, maior
+será a taxa de crescimento do PIB.
+Assuma que a variável /NST tenha alguma correlação
+com as outras variáveis incluídas nos modelos, de
+acordo com as formulações a seguir.
+João:
+Ivj = Di + Baik; + Pain; + Oan;+uU
+Pedro:
+Iv; = A +Agik;+O3ig;+A4n;+as INST; +e;
+Nesses modelos, j = 1,..., N representa os N países
+da amostra e as variáveis u; e E; são os termos de
+erro aleatório.
+Se forem estimados os dois modelos pelo método de
+mínimos quadrados ordinários, pode-se ter um problema
+de inclusão de variável irrelevante ou de exclusão de
+variável relevante. Nesse contexto, testa-se a hipótese nula
+Ho: a5ç=0.
+Na situação acima descrita,
+O se for rejeitada H,, então, na estimativa do modelo
+proposto por João, os coeficientes estimados
+são viesados.
+O se não for rejeitada H, então, na estimativa
+do modelo proposto por João, os coeficientes
+estimados são viesados.
+O se não for rejeitada H,, então, na estimativa do
+modelo proposto por Pedro, os coeficientes
+estimados são eficientes.
+O seforrejeitada H,, então, na estimativa do modelo
+proposto por Pedro, os coeficientes estimados
+são não eficientes.
+O se não for rejeitada H,, então, na estimativa
+do modelo proposto por João, os coeficientes
+estimados são não eficientes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

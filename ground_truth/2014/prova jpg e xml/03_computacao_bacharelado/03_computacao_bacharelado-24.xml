@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:03:29</Created>
+	<LastChange>2020-09-24T18:29:23</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="832,238 1003,238 1003,299 1538,299 1538,569 1539,569 1539,805 1538,805 1538,949 1011,949 1011,1197 1537,1197 831,1197 832,1197 832,949 831,949 831,839 832,839"/>
+	<TextEquiv conf="0.96546">
+	<Unicode>QUESTÃO 31
+Na transmissão de dados em sistemas
+computacionais, o dispositivo de verificação de erros
+conhecido como bit de paridade consiste da adição
+de um bit extra durante a transmissão. O valor
+associado a esse bit é uma função da quantidade de
+bits de dados iguais a 1 a serem transmitidos.
+Nesse contexto, considere a transmissão de 7 bits de
+dados, com um bit extra de paridade, em um sistema
+de comunicação no qual a probabilidade de transmitir
+um bit de forma incorreta é igual a 10º e independe
+de outros erros ocorridos. O bit de paridade também
+pode sofrer erros.
+A probabilidade da ocorrência de transmissão de
+2 bits errados, que seria erroneamente detectada
+como uma transmissão sem erros, é
+O 1,0 x10”.
+O 2,0 x10”.
+O 2,8x107.
+O 2,0 x10º.
+O 2,8 x10”.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,296 791,296 791,513 790,513 790,880 789,880 789,1054 790,1054 790,1206 789,1206 789,1336 790,1336 790,1947 788,1947 788,1979 316,1979 316,2016 84,2016 84,1336 162,1336 162,1122 132,1122 132,1121 131,1121 131,939 84,939 84,938 83,938 83,909 84,909 84,667 85,667 85,514 84,514"/>
+	<TextEquiv conf="0.94208">
+	<Unicode>QUESTÃO 30
+Uma fazenda possui um único poço artesiano que
+deve abastecer n bebedouros para o gado. Deseja-se
+determinar um projeto de ligação entre esses n+1
+pontos através de encanamentos com a menor
+extensão total. Um algoritmo proposto para a solução
+do problema executa os seguintes passos:
+1. Crie n+1 conjuntos unitários, cada um contendo
+um dos pontos a serem ligados entre si e insira
+esses conjuntos em um conjunto C.
+2. Crie um conjunto D contendo um registro
+para cada combinação possível de dois pontos
+distintos a serem ligados. Cada registro deve
+conter os campos ci , cj e d, em que ci e cj são
+os dois pontos a serem ligados e d é a distância
+entre eles.
+3. Enquanto D não estiver vazio faça:
+3.1.Remova o registro de D com o menor valor de
+distância d.
+3.2.Se os valores de c, e c, do registro removido
+pertencerem a conjuntos distintos de C, então:
+3.2.1.Substitua estes dois conjuntos pela união
+entre eles.
+3.2.2.Guarde o registro removido em um
+conjunto-solução.
+Com base na descrição do problema e do algoritmo
+proposto, conclui-se que
+O oproblema exemplifica a obtenção de uma árvore
+geradora mínima, portanto está no conjunto P.
+O o algoritmo é uma heurística para o Problema do
+Caixeiro Viajante, logo apresenta complexidade
+polinomial.
+O o problema descrito é de otimização, logo
+pertence ao conjunto NP—difícil, mas não ao
+conjunto NP-completo.
+O uma alternativa para a solução do problema é
+usar o algoritmo de Dijkstra para obtenção do
+caminho mínimo entre dois pontos.
+O o passo de maior custo do algoritmo é a criação
+do conjunto D com as combinações de pontos,
+apresentando
+Of(n!).
+complexidade — computacional</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="802,231 802,2021 805,2021 805,231"/></SeparatorRegion></Page></PcGts>

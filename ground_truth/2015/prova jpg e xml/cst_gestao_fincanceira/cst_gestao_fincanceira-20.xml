@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T23:58:58</Created>
+	<LastChange>2020-11-07T00:11:49</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_fincanceira-20.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="79,169 1536,169 1536,264 1533,264 1533,442 912,442 912,1379 962,1379 962,1443 1131,1443 1131,1507 1197,1507 1197,1539 81,1539 81,1540 80,1540 80,264 79,264"/>
+	<TableRegion id="r1">
+	<Coords points="221,460 221,1152 1397,1152 1397,460"/></TableRegion>
+	<TextEquiv conf="0.79018">
+	<Unicode>QUESTÃO 21
+Uma empresa comercial realizou uma análise de viabilidade econômico-financeira para a abertura de
+uma filial com investimento inicial de R$ 60 000,00; estando dispostas, na tabela a seguir, as informações
+consideradas na análise, dada uma Taxa Mínima de Atratividade (TMA) de 10% ao ano.
+Com base no cenário proposto, verifica-se que o investimento
+O é viável, porque o VPL é positivo.
+O não é viável, visto que a TIR é maior do que a TMA.
+O é viável, já que o Custo da Mercadoria Vendida é decrescente.
+O não é viável, visto que a Receita Líquida apresenta resultados decrescentes.
+O não é viável, uma vez que o Lucro Líquido apresenta resultados decrescentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:52:08</Created>
+	<LastChange>2020-12-06T03:01:05</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1599,359 1599,1248 1600,1248 1600,1693 278,1693 278,1920 146,1920 146,1693 145,1693 145,488 144,488 144,359 145,359"/>
+	<ImageRegion id="r1">
+	<Coords points="169,538 169,1180 844,1180 844,538"/></ImageRegion>
+	<TextEquiv conf="0.96709">
+	<Unicode>QUESTÃO 19
+A figura 1 mostra a pilha de protocolos do modelo de referência OSI (Open Systems Interconnection), em que
+cada uma das sete camadas realiza funções específicas. Por outro lado, nas redes industriais, protocolos de
+comunicação, tais como Profibus, Foundation Field bus e CAN bus, tipicamente, utilizam o modelo apresentado
+na figura 2, que contém apenas 3 camadas, equivalentes às camadas Física, de Enlace e Aplicação do modelo OSI.
+Considerando a pilha de protocolo do modelo OS! e a pilha de protocolo típica das redes industriais, avalie as
+afirmações a seguir.
+|. Nasredes industriais, não há roteamento, considerando-se o modelo de pilha típico de redes industriais
+da figura 2.
+Il. As redes industriais seguem o modelo TCP/IP (Transmission Control Protocol/Internet Protocol), e não
+o modelo OS|.
+Ill. Nas redes industriais, o programa de aplicação do usuário acessa diretamente a camada de Enlace.
+IV. Nas redes industriais, a comunicação sem erros é garantida pela confiablidade do hardware da camada
+física.
+É correto apenas o que se afirma em
+O:
+o.
+Oie,
+O lelv.
+OÔieiv</Unicode></TextEquiv></TextRegion></Page></PcGts>

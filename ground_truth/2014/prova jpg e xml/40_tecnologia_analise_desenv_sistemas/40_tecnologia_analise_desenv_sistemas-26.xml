@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:14:40</Created>
+	<LastChange>2020-12-06T02:31:56</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 1064,299 1064,367 1599,367 1599,1004 895,1004 895,1005 894,1005 894,557 892,557 892,367 893,367"/>
+	<TextEquiv conf="0.96682">
+	<Unicode>QUESTÃO 35
+José discutindo futebol com João declarou que se
+o time X venceu o último jogo, então o time Y é
+campeão. João depois de algumas horas descobriu
+que a declaração era falsa. Em consequência, teve
+certeza de que é verdade que
+O o time X não venceu o último jogo e o time Y é
+campeão.
+O o time X venceu o último jogo e o time Y não é
+campeão.
+O ou o time X não venceu o último jogo ou o time
+Yé campeão.
+O otime X não venceu o último jogo e o time Y não
+é campeão.
+O se o time Y não é campeão, então o time X não
+venceu o último jogo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="147,299 318,299 318,359 854,359 854,707 852,707 852,1216 294,1216 294,1460 147,1460 147,1461 147,1216 146,1216 146,1148 147,1148 147,361 146,361 146,300 147,300"/>
+	<TableRegion id="r3">
+	<Coords points="144,727 144,1111 850,1111 850,727"/></TableRegion>
+	<TextEquiv conf="0.96241">
+	<Unicode>QUESTÃO 34
+O gerenciamento de projetos de sistemas é
+essencial para a engenharia de software. Um mau
+gerenciamento acarreta atraso na entrega do
+programa, custo maior do que o programado e falha
+no atendimento aos requisitos. O quadro a seguir
+representa de forma hipotética algumas tarefas
+de um projeto de desenvolvimento de software.
+Esse quadro mostra as atividades, sua duração e as
+respectivas interdependências.
+Com base na análise do quadro, o tempo mínimo
+necessário para terminar o projeto é de
+O 13 dias.
+O 15 dias.
+O 16 dias.
+O 20 dias.
+O 28 dias.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,288 869,2086 877,2086 877,288"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:47:21</Created>
+	<LastChange>2020-10-28T17:00:35</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-19.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="81,235 252,235 252,274 253,274 253,275 524,275 524,1410 1392,1410 1392,1461 1536,1461 1536,1746 468,1746 468,1836 319,1836 319,2012 318,2012 318,2013 82,2013 82,1845 83,1845 83,1802 128,1802 128,309 82,309 82,308 81,308"/>
+	<TextEquiv conf="0.96074">
+	<Unicode>QUESTÃO 25
+Observe os esquemas abaixo:
+A respeito da detecção da radiação em equipamentos de PET-CT, avalie as afirmações a seguir.
+|. Detectores com cristal de cintilação convertem a radiação incidente em fótons de luz, os quais interagem
+no fotocatodo liberando elétrons, sendo que a quantidade de elétrons gerados é multiplicada no tubo
+fotomultiplicador, o que amplifica o sinal a ser medido.
+Il. Os fótons que incidem nos detectores em CT são resultado da atenuação do feixe de raios-X pelos
+tecidos, e permitem a obtenção de imagens anatômicas que posteriormente são fundidas às imagens
+funcionais produzidas pelo PET.
+Os processos de aniquilação de pares pósitron-elétron dão origem aos fótons incidentes nos detectores
+utilizados no PET, e os eventos de coincidência na detecção desses fótons são empregados na formação
+da imagem.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Ô Ie.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="321,310 321,1402 1550,1402 1550,310"/></ImageRegion></Page></PcGts>

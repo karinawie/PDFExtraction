@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:31:09</Created>
+	<LastChange>2020-12-06T03:36:39</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-29.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,892 1529,892 1529,1011 1536,1011 1536,1059 1601,1059 1601,1131 1598,1131 1598,1219 894,1219 894,892 893,892 893,788 891,788 891,359 893,359"/>
+	<TextEquiv conf="0.96415">
+	<Unicode>QUESTÃO 33
+Uma cooperativa de provedores de internet busca
+levar tecnologia de banda larga a preços acessíveis
+para comunidades rurais distantes dos grandes
+centros. Essas comunidades rurais não possuem
+qualquer infraestrutura de telecomunicações, estão
+situadas em regiões planas e distantes num raio
+máximo de 30 km dos grandes centros. A cooperativa
+já possui uma infraestrutura de rede adequada
+nos grandes centros e necessita utilizar tecnologias
+economicamente viáveis para atingir o seu objetivo
+de alcançar as comunidades rurais.
+Assim, o modo de acesso e a tecnologia mais
+indicados para este cenário são
+O via rádio utilizando WiMAX IEEE 802.16.
+O via satélite utilizando DTH (Direct To Home).
+O via telefonia móvel utilizando tecnologia 4G.
+O via telefonia fixa utilizando ADSL (Asymmetric
+Digital Subscriber Line).
+O via cabeamento óptico utilizando uma rede ATM
+(Asynchronous Transfer Mode).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,355 853,355 853,789 851,789 851,946 852,946 852,1773 851,1773 851,1774 532,1774 532,1884 375,1884 375,1995 384,1995 384,2036 295,2036 295,2074 146,2074 146,1794 239,1794 239,1493 211,1493 211,1492 210,1492 210,984 194,984 194,925 146,925 146,924 145,924 145,788 144,788 144,354 145,354"/>
+	<TextEquiv conf="0.94430">
+	<Unicode>QUESTÃO 32
+É comum o estabelecimento de uma VPN (Virtual
+Private Network) na modalidadesite-to-site
+para a comunicação entre unidades remotas de
+uma empresa. Seu custo é convidativo porque a
+infraestrutura da internet pública é aproveitada
+através da(s) conexão(ões) existente(s). A conexão
+com a internet viabiliza a criação de uma VPN
+através da configuração de interfaces do tipo túnel,
+como se a empresa tivesse contratado um link
+dedicado de longa distância de alguma operadora de
+telecomunicações.
+Considerando as melhores práticas recomendadas
+na configuração de uma VPN, avalie as afirmações
+a seguir.
+|. É recomendável que seja empregada alguma
+solução de confidencialidade para criptografar
+os dados, como por exemplo, o padrão IPSec,
+uma vez que esses dados irão trafegar na
+internet que é uma rede pública e acessível
+a todos, o que aumenta o risco de ataques de
+interceptação.
+II. A configuração de uma solução de
+confidencialidade para criptograr os dados
+não é crucial, visto que, em VPNs do tipo
+site-to-site, somente os roteadores de borda
+configurados com as devidas interfaces
+virtuais do tipo túnel podem ter acesso ao
+tráfego entre as unidades remotas.
+III.A garantia de segurança na implementação
+de uma VPN do tipo site-to-site está na
+configuração de interfaces virtuais do tipo
+túnel nos roteadores de borda, o que torna
+necessária a configuração de endereços lógicos
+na mesma subrede sendo recomendado o uso
+do prefixo /30.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O LIel.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,288 869,2080 875,2080 875,288"/></SeparatorRegion></Page></PcGts>

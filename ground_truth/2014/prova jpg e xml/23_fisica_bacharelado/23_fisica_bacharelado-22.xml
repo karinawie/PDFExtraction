@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:19:05</Created>
+	<LastChange>2020-11-22T03:30:10</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,303 1539,303 1539,474 1538,474 1538,969 1539,969 1539,1181 1537,1181 1537,1592 1380,1592 1380,1652 1105,1652 1105,1705 84,1705 84,1181 83,1181 83,969 84,969"/>
+	<ImageRegion id="r1">
+	<Coords points="552,576 552,905 1065,905 1065,576"/></ImageRegion>
+	<TextEquiv conf="0.93594">
+	<Unicode>QUESTÃO 21
+Para auxiliar seus alunos a reconhecer os padrões que são encontrados na Física de Partículas, um professor
+lhes apresenta uma imagem que mostra as trajetórias das partículas em uma câmara de bolhas durante o
+decaimento de um nêutron (E, = 939,6 MeV) livre através da produção de um próton (E, = 938,3 MeV), um
+elétron (E, = 0,511 MeV) e um antineutrino (E, = 1x107 MeV), de acordo com a reação ny p+e +v,
+Na câmara de bolhas, existe um campo magnético uniforme de intensidade 5x10? T, perpendicular ao plano
+do papel e no sentido de fora para dentro deste.
+O professor comenta que a imagem revela um nêutron inicialmente em repouso e a ausência de rastros
+deixados pelo antineutrino na câmara de bolhas. Por fim, solicitando que seus alunos considerem, por
+simplificação, que o nêutron livre decai produzindo um próton e um elétron, apenas, o professor lhes pediu
+que fizessem inferências qualitativas e quantitativas a respeito do fenômeno. Considerando que a energia
+total relativística é dada por E = Y/p?ºcº + m2ct, em que p é o momento linear, c é a velocidade da luz,
+1
+m é a massa, e que / = —== ,em que v é a velocidade da partícula, conclui-se que
+v2
+c2
+O o módulo da velocidade do próton gerado no decaimento que, inicialmente, é da ordem de 1,27x10? c,
+diminui ao longo da sua trajetória.
+O o momento linear do elétron gerado no decaimento, cuja trajetória é representada pelo rastro ||,
+é da ordem de 0,897 MeV/c.
+O oraio inicial da trajetória curvilínea do próton gerado no decaimento, que ocorre no sentido anti-horário,
+é inferior a 5 cm.
+O ambas as partículas, elétron e próton, geradas no decaimento, têm velocidades relativísticas.
+O a energia cinética do elétron gerado no decaimento é inferior a 0,5 MeV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

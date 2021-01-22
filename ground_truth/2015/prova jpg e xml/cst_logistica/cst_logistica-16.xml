@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T20:19:45</Created>
+	<LastChange>2020-11-18T21:08:07</LastChange></Metadata>
+	<Page imageFilename="cst_logistica-16.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="79,169 80,169 80,170 807,170 807,171 1533,171 1533,259 1531,259 1531,901 1532,901 1532,1374 1531,1374 1531,1561 80,1561 80,1086 79,1086"/>
+	<ImageRegion id="r1">
+	<Coords points="157,450 157,868 1478,868 1478,450"/></ImageRegion>
+	<TextEquiv conf="0.96317">
+	<Unicode>QUESTÃO 13
+Uma fábrica precisa decidir como organizará sua rede de distribuição para entregar seus produtos para
+varejistas. A figura abaixo apresenta duas opções de configuração que envolvem (a) a distribuição direta e (b)
+a distribuição indireta por meio de um intermediário.
+Cada configuração possível terá impacto no custo logístico, pois ensejará adaptações e diferenças decorrentes
+da manutenção do estoque, do processamento de pedidos, das formas de aquisição, da armazenagem, do
+manuseio de materiais, da manutenção de informações e da programação de produtos. Considerando as
+informações e as situações apresentadas, para que a rede de distribuição da proposta (b) da figura seja
+viável, é necessário que
+O os custos logísticos da distribuição do fabricante até os varejistas sejam menores que os custos logísticos
+da distribuição do fabricante até o intermediário.
+O os custos logísticos da distribuição do intermediário até os varejistas sejam menores que os custos
+logísticos da distribuição do fabricante até os varejistas.
+O os custos logísticos da distribuição do fabricante até o intermediário sejam menores que os custos
+logísticos da distribuição do fabricante até os varejistas.
+O a consolidação de cargas possibilitada ao fabricante no projeto de rede da proposta em (b) seja realizada
+em apenas uma viagem.
+O a consolidação de cargas possibilitada ao fabricante no projeto de rede proposta em (b) tenha volume
+menor que a possibilitada ao fabricante no projeto de rede proposta em (a).</Unicode></TextEquiv></TextRegion></Page></PcGts>

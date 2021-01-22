@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:14:07</Created>
+	<LastChange>2020-12-06T03:27:46</LastChange></Metadata>
+	<Page imageFilename="42_tecnologia_gestao_producao_industrial-09.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,299 473,299 473,372 1599,372 1599,625 1598,625 1598,709 1356,709 1356,710 1095,710 1095,762 1070,762 1070,1674 1599,1674 1599,1824 1357,1824 1357,1825 596,1825 596,1877 396,1877 396,1878 195,1878 195,1879 194,1879 194,1825 146,1825 146,1704 145,1704 145,1674 147,1674 147,763 146,763 146,710 145,710"/>
+	<ImageRegion id="r1">
+	<Coords points="208,786 208,1602 1530,1602 1530,786"/></ImageRegion>
+	<TextEquiv conf="0.96572">
+	<Unicode>QUESTÃO DISCURSIVA 3
+O Diagrama de Pareto é uma ferramenta utilizada para priorizar as ações para melhoria da Qualidade. A regra
+80/20 indica que cerca de 80% da quantidade de causas contribuem em cerca de 20% dos efeitos observados
+e que cerca de 20% da quantidade de causas contribuem em cerca de 80% dos efeitos observados. Por isso o
+diagrama de Pareto é também conhecido como “Técnica 80-20”.
+CAMPOS, V. F. TQC: Controle da Qualidade Total. Belo Horizonte: Fundação Christiano Ottoni, 1992 (adaptado).
+Considere que uma empresa fez o levantamento dos defeitos ocorridos em sua linha de produção. Foram
+identificados 1 000 defeitos, conforme representado no gráfico abaixo.
+Utilizando o método de Pareto, faça o que se pede nos itens a seguir.
+a) Identifique e justifique, com os devidos cálculos, os defeitos que deveriam ser prioritariamente analisados
+para melhoria da Qualidade. (valor: 5,0 pontos)
+b) Indique e justifique a ferramenta da Qualidade que deve ser aplicada para a identificação da causa dos
+problemas. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

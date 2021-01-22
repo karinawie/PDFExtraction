@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:09:45</Created>
+	<LastChange>2020-11-22T02:16:35</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-30.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="832,238 1003,238 1003,293 1538,293 1538,951 1539,951 1539,1060 1367,1060 1367,1179 1491,1179 1491,1275 1527,1275 1527,1307 832,1307 832,915 831,915 831,293 832,293"/>
+	<TextEquiv conf="0.96112">
+	<Unicode>QUESTÃO 34
+A matriz energética brasileira é composta,
+principalmente, por usinas hidrelétricas. No entanto,
+as usinas termelétricas ganharam importância como
+complementação das fontes hidráulicas. Elas têm
+recebido incentivos para ampliação e otimização
+dos seus processos, especialmente a partir do final
+da década de 90.
+Nesse contexto, o carvão mineral adquire grande
+importância para a matriz energética brasileira.
+No entanto, o controle ambiental sobre essa
+fonte requer um rigoroso planejamento e gestão
+das fontes estacionárias de emissão, pois a
+queima produz gases poluentes como SOx, NOx,
+CO e material particulado, com distribuição
+granulométrica da ordem de micrômetros, que
+podem escapar às operações de controle, sendo
+emitidos para a atmosfera.
+Com base na composição citada, é possível realizar
+o tratamento da emissão gasosa de um processo de
+queima do carvão mineral por meio de
+O ciclones e filtros manga.
+O colunas de absorção e filtros manga.
+O ciclones e coletores mecânicos gravitacionais.
+O colunas de absorção e colunas de adsorção.
+O coletores mecânicos gravitacionais e filtros manga.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,294 790,294 790,467 729,467 729,593 790,593 790,1265 789,1265 789,1266 655,1266 655,1561 234,1561 234,1607 84,1607 84,1277 177,1277 177,1265 178,1265 178,1060 132,1060 132,1038 161,1038 161,1036 177,1036 177,775 132,775 132,723 85,723 85,664 83,664 83,593 141,593 141,467 83,467 83,294 84,294"/>
+	<TextEquiv conf="0.60857">
+	<Unicode>QUESTÃO 33
+Para determinar a taxa molar total da mistura gasosa
+binária (A+B) deve-se somar as contribuições da
+transferência de massa por difusão e da transferência
+de massa por convecção em relação a um ponto
+estacionário, como apresentado na equação a seguir:
+YA
+Oz
+sendo D,, o coeficiente difusivo, C a concentração
+total e y, a fração molar do gás A.
+Naz=-C Dag +H+yYaA(Na+Ng)
+Nesse contexto, avalie as afirmações a seguir.
+|. Quando há contradifusão, a equação
+a
+Oz
+II.Considerando apenas a direção z, o fluxo
+molar de um componente numa dada
+fronteira pode ser calculado com a integração
+da equação apresentada no enunciado.
+simplifica-se para: Na z = —-C Da,
+Ill. A segunda lei de Fick é o resultado da
+simplificação da equação da continuidade
+mássica, considerando o regime transiente,
+a velocidade do meio nula, a temperatura e
+pressão constantes e a ausência de reação
+química no meio onde ocorre o fenômeno de
+transferência de massa por difusão.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Ile Ill, apenas.
+Oem,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,228 807,2015 810,2015 810,228"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,701 @@
+QUESTÃO DISCURSIVA 3
+Os principais efeitos visuais da computação gráfica vistos em uma tela são resultados de aplicações de
+transformações lineares. Translação, rotação, redimensionamento e alteração de cores são apenas alguns
+exemplos.
+Considere que uma tela é cortada por dois eixos, x e y, ortogonais entre si, formando um sistema de
+coordenadas com origem no centro da tela. Suponha que, nessa tela plana, existe a imagem de uma
+elipse com eixo maior de tamanho 4, paralelo ao eixo x, e cujos focos têm coordenadas (-1, 2) e (1, 2).
+Considere T um operador linear definido em Rº?.
+De acordo com as informações acima, faça o que se pede nos itens a seguir, apresentando os cálculos
+utilizados na sua resolução.
+a) Mostre que o ponto (0, 2 + 1/3) pertence à elipse. (valor: 3,0 pontos)
+b) Suponha que, em cada ponto da tela, seja aplicado o operador linear T(x, y) = (x + y, 2x + 44).
+Quais serão as coordenadas dos focos da elipse após a aplicação de 7? (valor: 3,0 pontos)
+c) Calcule os autovalores do operador linear T(x, y) = (x + y, -2x + 44). (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Atualmente, a maioria dos editores de texto oferece o recurso de correção ortográfica. Esse recurso consiste
+em destacar, entre as palavras digitadas, aquelas com possíveis erros de grafia. Por exemplo, quando se
+digita a palavra “caza”, o recurso de correção destaca essa palavra, pois a palavra “caza” não existe na língua
+portuguesa. Também é comum o recurso de correção ortográfica sugerir uma outra palavra para substituir a
+palavra incorreta.
+A sugestão de quais palavras podem substituir a palavra incorreta é feita com uma medida da distância entre
+a palavra incorreta e as palavras que constam no dicionário do editor de texto. Existem diversas maneiras de
+medir a distância entre duas palavras. Uma delas é a denominada Distância de Hamming, na qual a medida
+da distância entre duas palavras rx e y, com a mesma quantidade de letras, é feita da seguinte forma:
+d(x, y) = número de letras que são diferentes em x e y, em suas respectivas posições. Mais formalmente,
+Se T=LLL...X, 6 Y = YY,Y,3---y, São palavras em que x.e y,são letras do alfabeto, para 1=1,2,3,...,n, então
+d(x, y) = (1: 1 *y, com i=1,2,3...,n)), em que (A) representa o número de elementos do conjunto À.
+Por exemplo, d(caza, casa) = ft(13)) = 1, já que elas diferem apenas na terceira letra.
+A partir dessas informações, faça o que se pede nos itens a seguir.
+a) Mostre que a Distância de Hamming é uma métrica no conjunto das palavras com letras. (valor: 5,0 pontos)
+b) Mostre que o conjunto das palavras com letras, munido da Distância de Hamming, é um espaço
+métrico discreto. (valor: 5,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+Uma equação diofantina linear nas incógnitas re y é uma equação da forma ax + by = c em quea, be c
+são inteiros, e as únicas soluções (7, y,) que interessam são aquelas em que 1, y, € Z.
+Nesse contexto, considere que os ingressos de um cinema custam R$ 9,00 para estudantes e R$ 15,00 para o
+público geral, e que, em certo dia, durante determinado período, a arrecadação nas bilheterias desse cinema
+foi de R$ 246,00.
+A partir das informações acima, faça o que se pede nos itens a seguir.
+a) Obtenha uma equação diofantina linear que modele a situação acima, indicando o significado das
+incógnitas. (valor: 3,0 pontos)
+b) Quantas e quais são as soluções do problema descrito no item (a)? (valor: 7,0 pontos)
+
+QUESTÃO 10
+No contexto de investimento e formação de capital,
+se M(t) representa o montante do capital de
+uma empresa existente em cada instante t e I(t)
+representa a taxa de investimento líquido por um
+período de tempo, então
+Me f 109
+fornece o montante acumulado no período a <t <b.
+Disponível em: <http://www.ime.uerj.br>. Acesso em: 3 ago. 2014
+(adaptado).
+Considere que a função T(t) = tIn(t) definida para
+t > 1, representa a taxa de investimento líquido, em
+milhares de reais, de uma empresa de cosméticos.
+Nesse caso, utilizando In(3) =1,1, o valor do
+montante acumulado no período 1 < t < 3 é igual a
+O R$1100,00.
+O R$ 2100,00.
+O R$ 2.950,00.
+O R$3 750,00.
+OQ R$ 4950,00.
+
+QUESTÃO 09
+O conjunto MZ) é formado pelas matrizes
+quadradas de ordem 2 com entradas inteiras. Esse
+conjunto é fechado sob as operações usuais de soma
+e multiplicação de matrizes, uma vez que as entradas
+das matrizes resultantes da soma e da multiplicação
+são números inteiros.
+Com relação à estrutura algébrica desse conjunto
+com as operações descritas, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. O conjunto M,(Z), munido das operações usuais
+de soma e multiplicação, forma um anel.
+PORQUE
+ll. O conjunto M,(Z), munido da operação usual
+de soma de matrizes, forma um grupo e existe O
+elemento unidade dado pela matriz identidade de
+ordem 2.
+A respeito dessas asserções, assinale a alternativa
+correta.
+O As asserções | e II são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a II é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 12
+Deseja-se pintar a superfície externa e lateral de
+um monumento em forma de um paraboloide, que
+pode ser descrita pela equação 2 = x? + 4?, situada
+na região do espaço de coordenadas cartesianas
+(x, y, 2) dada pela condição z < 9. Os eixos
+coordenados estão dimensionados em metros
+e gasta-se um litro e meio de tinta a cada metro
+quadrado de área da superfície a ser pintada.
+A quantidade de tinta, em litros, necessária para se
+pintar a superfície lateral do monumento é dada pela
+integral dupla
+3 VOZ
+Oo 1 / (4º + yYº)drdy
+o Jo z
+3 pVOT?
+o 6/ / (x? + y/º)drdy
+o Jo :
+n/2 53
+o af / V1+4r? rdrdô
+o o :
+n/2 53
+o 6 / V1+4r? rdrdô
+o o :
+n/2 53
+e 6 / V1+4r? rdrdo
+o 3 :
+
+QUESTÃO 11
+Em uma loja de material escolar, as mercadorias
+caneta, lápis e borracha, de um único tipo cada
+uma, são vendidas para três estudantes. O primeiro
+comprou uma caneta, três lápis e duas borrachas
+pagando R$ 10,00; o segundo adquiriu duas canetas,
+um lápis e uma borracha pagando R$ 9,00; o terceiro
+comprou três canetas, quatro lápis e três borrachas
+pagando R$ 19,00.
+Os estudantes, após as compras, sem verificarem
+os valores de cada mercadoria, procuraram resolver
+o problema: “A partir das compras efetuadas e dos
+respectivos valores totais pagos por eles, qual o
+preço da caneta, do lápis e da borracha?”. Para isso,
+montaram um sistema de equações lineares cujas
+incógnitas são os preços das mercadorias.
+Esse sistema de equações é
+O possível determinado, sendo o preço da borracha
+mais caro que o do lápis.
+O impossível, pois saber os totais das compras não
+garante a existência de solução.
+O possível determinado, podendo admitir como
+solução o valor do preço da caneta, do lápis e da
+borracha.
+O possível indeterminado, de forma que a soma
+dos valores possíveis da caneta, do lápis e da
+borracha é igual a cinco vezes o preço do lápis
+subtraído de R$ 9,00.
+O possível indeterminado, de forma que a soma dos
+valores possíveis da caneta, do lápis e da borracha
+é igual a 1/5 da adição do preço da borracha com
+R$ 28,00.
+
+QUESTÃO 13
+Muitos fenômenos probabilísticos seguem uma lei de distribuição denominada Normal, na qual os valores
+mais frequentes se encontram próximos à média. A curva que representa essa distribuição tem a forma de um
+sino, é simétrica em torno da média u, tem no eixo das abscissas uma assíntota horizontal e é determinada
+pela seguinte função de densidade:
+1 1/2—-nV2
+f(x) = en s(S)
+V2no?
+Levando em consideração que cada curva de distribuição Normal é determinada pela sua média u e pelo seu
+desvio-padrão o, Gauss desenvolveu uma forma de padronizá-las em uma única Normal, caracterizada por
+1
+V2T
+na qual cada um dos valores x da função de distribuição Normal N(u, o0)é convertido em uma nova variável
+adimensional, designada genericamente por 2, a qual tem distribuição Normal N(0, 1). A conversão dessa
+T—u
+z
+e ?,
+ter média O e desvio-padrão 1. Assim, a Normal Padrão é determinada pela função f(2) =
+variável se dá por meio da seguinte expressão: 2 =
+Sabe-se que a área sob o gráfico da função de densidade de probabilidade em determinado intervalo fornece
+a probabilidade de ocorrência de um valor dentro desse intervalo. Assim, considera-se que a área entre a
+curva Normal e a assíntota determinada pelo eixo das abscissas é igual a 1.
+De acordo com dados obtidos no portal do INEP/MEC relativos aos 11 303 estudantes de Licenciatura em
+Matemática que realizaram a prova do Enade em 2011, a média e o desvio-padrão do desempenho geral
+desses estudantes foram, respectivamente, iguais a 32,4 e 11,6 pontos.
+Considerando que a distribuição do desempenho desses alunos no ENADE 2011 pode ser aproximada
+pela distribuição Normal, assinale a alternativa cuja expressão fornece o percentual de estudantes com
+desempenho inferior a 20,8 pontos ou superior a 55,6 pontos.
+o f soa:
+55,6
+o " f(2)dz
+0,8
+(C) 1-/ soa:
+e 1- (f. fada + f[ fada)
+
+QUESTÃO 15
+Uma função diferenciável, f, crescente a partir da
+origem e situada no primeiro quadrante é tal que
+a área da região sob seu gráfico e acima do eixo
+das abscissas, de O até x, vale um quinto da área
+do triângulo com vértices nos pontos (0, O), (x,y)
+e (x, 0), em que y = f (x).
+A equação diferencial que descreve essa situação é
+O nw-NW=rx
+O 1 -9y=0.
+O Py-9y=O0.
+O y-9nm=0.
+O y-97y=0.
+
+QUESTÃO 14
+Um problema muito comum em geometria é o das
+trajetórias ortogonais, o que equivale a dizer que,
+dada uma curva de uma família, ela intercepta uma
+curva da outra família de modo que suas tangentes
+são perpendiculares entre si, no ponto de interseção.
+Esse problema pode ser abordado, também, pelo
+cálculo diferencial e integral e, consequentemente,
+pelas equações diferenciais ordinárias.
+Com o auxílio dessas informações, conclui-se que,
+para c e k números reais não nulos, no plano de
+coordenadas cartesianas xOy, a família de trajetórias
+ortogonais à família de hipérboles xy = c é dada por
+Oxs-y=k
+Or+y=k
+Or-y=k
+Or+y
+exr-y
+
+QUESTÃO 18
+Em uma festa infantil, um grupo de 7 crianças — Ana,
+Beatriz, Carlos, Davi, Eduardo, Fernanda e Gabriela —
+reuniu-se próximo a uma mesa para brincar de “esconde-
+esconde”, um jogo no qual uma criança é separada dos
+demais, que procuram locais para se esconder, sem
+que a escolhida as veja, pois essa tentará encontrá-las
+após algum tempo estabelecido previamente. Assim,
+era necessário escolher qual delas seria aquela que iria
+procurar todas as outras.
+Para efetuar essa escolha, as crianças se dispuseram
+em um círculo na mesma ordem descrita
+anteriormente e, simultaneamente, mostraram
+um número de dedos das mãos. Os números de
+dedos mostrados foram somados, resultando em
+uma quantidade que vamos chamar de TOTAL. Ana
+começou a contar de 1 até o TOTAL, e, a cada número
+dito, apontava para uma criança da seguinte forma:
+1- Ana, 2 - Beatriz, 3 - Carlos, 4 - Davi, e assim por
+diante. Quando chegasse ao número TOTAL, a criança
+correspondente a esse número seria aquela que iria
+procurar as demais.
+Se o número TOTAL é igual a 64, a criança designada
+para procurar as demais é
+O Ana.
+O Beatriz.
+O carlos.
+O Davi.
+O Eduardo.
+
+QUESTÃO 17
+Considere (7), neN, uma sequência de números
+LC
+n
+n+l
+reais positivos tal que x, =
+Nesse caso, lim 7, é igual a
+note.
+O +--.
+O o.
+Ox.
+O 1.
+O.
+
+QUESTÃO 16
+Considere uma função f: R > R diferenciável em todo
+o seu domínio, com f'/(t) < x, Vre R.
+Se /(1) = 1, então, pelo Teorema do Valor Médio, o
+valor máximo de f(3) é igual a
+o:.
+O.
+O 7.
+Os.
+O 11.
+
+QUESTÃO 20
+Considere uma parábola de foco F' e reta diretriz d.
+Denote por P um ponto pertencente à parábola e
+por Da sua projeção ortogonal na reta diretriz d.
+Representado por r a reta bissetriz do ângulo FPD,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Areta ré tangente à parábola no ponto P.
+PORQUE
+Il. Para qualquer ponto Q pertencente à reta
+r, Q* P, a distância de Q ao ponto D é
+maior que a distância de Q à reta d.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 19
+Para realizar seu trabalho cotidiano, um engenheiro
+civil precisa modelar matematicamente algumas
+tarefas. Em determinado projeto, uma situação
+problema, depois de modelada, recaiu em um sistema
+de equações lineares com m equações e nincógnitas,
+para o qual a matriz dos coeficientes foi denominada M.
+Após a modelagem, o engenheiro descobriu que o
+posto da matriz ampliada do sistema (Pa) era igual ao
+posto da matriz dos coeficientes (Pc) e que ambos,
+(Pa) e (Pc), têm valor equivalente ao número de
+incógnitas do sistema, ou seja, Pa = Pc = n.
+Admitindo que o modelo construído pelo engenheiro
+está matematicamente correto, avalie as afirmações
+a seguir.
+|. Amatriz M é singular.
+Il. O sistema de equações lineares modelado
+admite uma única solução.
+III.É impossível encontrar a solução do problema
+utilizando o sistema conforme modelado.
+IV. O valor de Pc é calculado obtendo-se a maior
+ordem possível das submatrizes quadradas de
+M que tenham determinantes não nulos.
+É correto apenas o que se afirma em
+
+QUESTÃO 22
+Um dos problemas mais importantes estudados pelo
+cálculo diferencial e integral diz respeito à maximização
+e minimização de funções. Um desses problemas está
+relacionado à função cúbica definida por
+fx) = aP + br + cr+ dd,
+em que a, b, ce dsão constantes reais, com a é O.
+Acerca dessa cúbica, avalie as afirmações a seguir.
+|. A função f possui apenas um ponto de
+inflexão, independentemente dos valores de
+a, b, ce d.
+Il. Se ?º — 3ac > O, então f possui um ponto de
+máximo local e um ponto de mínimo local.
+Ill. Se f possui um ponto de máximo local e
+um ponto de mínimo local, então a média
+aritmética das abscissas desses dois pontos
+extremos corresponde à abscissa do ponto de
+inflexão.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.
+
+QUESTÃO 21
+No estudo de funções de variáveis reais, buscam-se
+informações sobre continuidade, diferenciabilidade,
+entre outras. Considere uma função de duas variáveis f:
+Rº > R, definida por
+1292
+T+ se (x,y) £ (0,0)
+f(x,y) =
+O, se (, y) = (0, O).
+A respeito dessa função, avalie as afirmações a seguir.
+|. Aolongo das retas y = cx, o valor da função
+fé constante.
+Il. A função fé descontínua em (0, O).
+Ill. A função f satisfaz If (x, y)| <= quaisquer
+que sejam (x, y) e Rº, com x = y.
+É correto o que se afirma em
+O 1l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O leilll, apenas.
+O Le.
+
+QUESTÃO 24
+Um pesquisador necessita da solução de uma
+equação diferencial ordinária para implementar em
+seu código computacional. Resolvendo por meio de
+série de potências, ele encontra a seguinte solução:
+oo
+xo
+y = na
+n=1 nº
+O pesquisador necessita que a solução seja
+computada com uma precisão de 0,01 no intervalo
+—2 < x < 2. Para isso, ele escreve os primeiros
+200 termos da série no código. No entanto, ao
+rodar o programa nesse intervalo, ele percebe um
+comportamento anômalo.
+Considerando que o pesquisador não tenha cometido
+erro ao implementar a série, avalie as afirmações a
+seguir.
+|. A série não pode representar uma solução
+no intervalo —2 < x < 2, pois diverge para
+|x|>1
+Il. São necessários mais termos do que os que o
+pesquisador escreveu para atingir a precisão
+requerida no intervalo -L < x < 1.
+Ill. A precisão 0,01 não pode ser atingida por
+essa série de potências.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 1I1em.
+
+QUESTÃO 23
+Avalie as seguintes afirmações a respeito das
+estruturas algébricas.
+l Se I] é um ideal de Z,
+I=mZ=(íma:aEZ), para
+mez.
+Il. O conjunto das classes de equivalência módulo
+n, Dr = L/nZ, para nº primo, munido das
+operações usuais de adição e multiplicação,
+é um corpo.
+III.O conjunto dos números complexos com
+parte real nula, munido da operação usual de
+adição, forma um grupo abeliano.
+IV. O conjunto das matrizes quadradas de ordem
+2 com entradas reais, munido das operações
+usuais de adição e multiplicação, é um anel
+não comutativo com unidade.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O 1, Ill elV, apenas.
+O Il, Il e IV, apenas.
+O LI,NMeIv
+
+QUESTÃO 26
+Para se criar um mapa-múndi, isto é, uma mapa da
+Terra, é preciso fazer uma projeção cartográfica, que
+é uma correspondência entre os pontos da Terra (em
+geral uma esfera) e os pontos do mapa (um plano) de
+modo que as distâncias sejam preservadas. Existem
+diversas projeções cartográficas da Terra destinadas
+à confecção de mapas-múndi, feitas a partir de um
+modelo esférico da Terra.
+Nesse contexto, avalie as seguintes asserções e a
+relação proposta entre elas.
+|. Não existe uma projeção cartográfica perfeita
+de toda a Terra, isto é, uma isometria que
+associe a cada ponto de uma esfera um ponto
+no plano.
+PORQUE
+Il. A curvatura gaussiana da esfera é positiva,
+enquanto a curvatura gaussiana do plano
+é zero.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a segunda é uma justificativa correta da primeira.
+O As asserções | e 1l são proposições verdadeiras,
+mas a segunda não é uma justificativa correta da
+primeira.
+O A asserção | é uma proposição verdadeira, e a
+asserção || é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a asserção
+Il é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 25
+Se Vé um espaço vetorial com produto interno
+sobre o corpo dos números complexos, então, a
+cada operador linear T: V — V, está associado o
+operador adjunto de 7, denotado por T*: V—>YV,
+que se relaciona com 7 por intermédio do produto
+interno definido em V. Usando esses dois operadores,
+é possível definir diversas classes de operadores
+lineares que possuem aplicações na Matemática e na
+Física, entre as quais se incluem:
+* operadores autoadjuntos são aqueles tais que
+T*— TT.
+º* operadores anti-autoadjuntos são aqueles tais que
+T*=-T,
+* operadores unitários são aqueles tais que
+T*=T,
+Considerando à é C um autovalor complexo
+qualquer do operador linear Te V um espaço
+vetorial com produto interno, sobre o corpo CD,
+avalie as afirmações a seguir.
+|. O número complexo à também é autovalor
+de T*.
+Il. Se Té autoadjunto, então à e R
+Ill. Se Té anti-autoadjunto, então à é um número
+imaginário puro, isto é, à = bi, com b número
+real não nulo.
+IV. Se Té unitário, então À = louá=-1.
+É correto apenas o que se afirma em
+O:
+oO.
+Oie
+O lei.
+O eiv.
+
+QUESTÃO 28
+Com aplicações em eletrostática e mecânica, o
+Teorema de Green relaciona integrais de linha com
+integrais duplas. Seu resultado pode ser expresso
+pela igualdade
+fo [ [ER
+Nesse contexto, avalie as afirmações a seguir.
+l ré uma curva plana simples, fechada,
+diferenciável ou diferenciável por partes e À
+é a região delimitada por r.
+1. F=(F,F)é um campo vetorial de classe C'
+definido em um conjunto aberto do R?º que
+contém a região A.
+oOFz OF,
+Il. << — —- é uma expressão que se anula
+Ox Oy
+para campos vetoriais conservativos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LI1e,.
+
+QUESTÃO 27
+Ao se trabalhar com funções de variáveis complexas a
+valores complexos é possível, por meio das equações
+de Cauchy-Riemann, utilizar algumas propriedades
+estudadas no cálculo diferencial para funções de duas
+variáveis reais a valores reais. Para isso, considere
+UcCT um subconjunto aberto, não vazio e conexo
+do plano complexo Ce f: Vc T —> CT uma função
+definida por f(x + iy) = u(x, y) + iv(x, y), para
+quaisquer x + iy e U onde uv: D c Rº > R são
+funções reais de variáveis reais e D é um subconjunto
+aberto de R?.
+A partir dessas informações, avalie as afirmações a
+seguir.
+|. Se fé uma função analítica tal que ((U) < R,
+então fé uma função constante.
+Il. Se fé uma função analítica e a sua conjugada
+f :UC CT —> C também é analítica, então f é
+uma função constante.
+III. Se fé uma função analítica e a função módulo
+de f |f| : Vc TC > C, é constante, então f
+também é uma função constante.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1Iel,.
+
+QUESTÃO 30
+A respeito do valor da integral fe — a)” dz, em
+i”
+que n é um inteiro, z é uma variável complexa e 7,
+uma curva fechada no plano complexo, avalie as
+afirmações a seguir.
+l. 2
+É nulo para todo n O e qualquer curva
+fechada y, uma vez que (z— a)" é a derivada
+de (z — ay
+n+1l
+É nulo para todo n < O, n*=-—l, e qualquer
+curva fechada y que não passe por a.
+. Énulo, sen =-1 ey for a circunferência dada
+por yYí=a+ re", 0 <t<2m.
+É igual a 271, se n = —l e y for uma curva
+fechada contida no semi-espaço do plano,
+Imz > O, em que a não pertença a esse
+semi-espaço.
+É correto apenas o que se afirma em
+O 1.
+O Iv.
+Bien
+Oie.
+Ole
+
+QUESTÃO 29
+Em topologia dos espaços métricos, é comum
+o estudo de propriedades relativas a conjuntos
+abertos, fechados, compactos, conexos, conexos
+por caminhos, entre outras. Essas caracterísitcas
+permitem comparar espaços métricos e verificar se
+são topologicamente equivalentes. A respeito disso,
+avalie as afirmações a seguir.
+l. Se um espaço métrico M pode ser escrito
+como união de dois conjuntos À e B, disjuntos,
+abertos e fechados, então M não é conexo.
+II.Se Mé um espaço métrico, então um conjunto
+Kc M é compacto se, e somente se, K é
+fechado e limitado.
+IM. 
+III.Se J = [0, 5[ é um intervalo com a métrica
+induzida de R, então o intervalo [0, 1[ é aberto
+em J.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Le.
+
+QUESTÃO 31
+Aintegração de funções é um dos principais tópicos da Análise essencialmente teórica, enquanto as equações
+diferenciais possuem diversas aplicações dentro e fora da Matemática. Em ambos os casos, o estudo das
+sequências e séries de funções com relação a convergência, derivação e integração termo a termo, ocupa um
+papel essencial. Diante disso, analise as afirmações a seguir.
+|. Considere a sequência de funções Ín : [0,1] — R, dada por fn(x) = — para todo n = 1,2,...
+nº 
+Se f(x) = > fO), então f(x) é O para todo x E [0,1].
+n=l(1) = 1 sereQnNnJ
+Il. Considere J = [0,1) e 9: J] > R dada por º 0 ser gQNJ. Observe que QN IJ
+tem medida nula, ou seja, g(x) = O em quase todo ponto de J. Logo, / g(x)dx =0O,
+on
+Ill. A sequência de funções fn : [0, 1) — R, dada por fn(x) = = para todo n = 1,2,... satisfaz
+nº> sa = | Xso.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas
+O Le.
+
+QUESTÃO 33
+O cilindro reto sobre o círculo x? + y? a
+admite parametrização X' U—> Rô,
+X(u,v) = (cos(u), sen(u),v)
+e
+U=((uv)ER:0<u<2m,-0o<uv<+ook
+Para se encontrar a primeira forma fundamental dessa
+superfície regular, 1 = Edu? + 2Fdudv + Gdv?
+em que
+foram utilizadas as expressões a seguir.
+1 Xu=(sen(u), —cos(u), O).
+IM. Xv =(0,0,1)
+Mm. E(u,yv)=1
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Le.
+
+QUESTÃO 32
+O Teorema de Green é uma grande ferramenta para
+o cálculo de integrais de linha. Seu resultado permite
+relacionar uma integral de linha ao longo de um
+caminho fechado com uma integral dupla sobre a
+região delimitada por esse caminho.
+Utilizando o Teorema de Green, conclui-se que a integral
+de linha do campo vetorial, F: Rº > R?, definido por
+F(x, y) = (y, —x), ao longo do caminho fechado definido
+pelas curvas h(x) = In(x); y = 0; x =2,éiguala
+O 2 m(2)
+O 21n(2)- 1.
+O 4 n(2) +2.
+O 14n(2) -2.
+O Mm(2)-1.
+Fl
+
+QUESTÃO 35
+Os anéis quociente são frequentemente utilizados
+para se obter extensões de corpos. Se F é um
+corpo e P é um polinômio irredutível em F[X],
+então L = F[X]/< P> é um corpo cujo polinômio
+minimal sobre Fé P.
+Considerando essas informações, assinale a opção
+que representa um corpo cujo polinômio minimal é
+indicado pelo gerador do ideal.
+A Zl1/<x2-1>
+B Rl5)/ <x2 +2>
+C Cx/ <x2-3>
+D Qx/ <x2-4>
+E Rx/ <x2-5>
+
+
+QUESTÃO 34
+O teorema fundamental do cálculo é uma poderosa
+ferramenta para a Matemática, pois é amplamente
+utilizado em suas diversas subáreas. Ao longo da história,
+diversas versões desse teorema foram demonstradas.
+Fazendo uso livremente dessas versões, considerando
+duas funções /, g : [a, b] > R contínuas no intervalo
+fechado e limitado [a, b| e definindo F, G': [a, | > R por
+F(x)=a f Íf(t)dt e G(x) = b o g9(t) dt,
+para todo x e [a, b], avalie as seguintes asserções e a
+relação proposta entre elas.
+Para todo x e [a, b], tem-se que
+F(x) G(x) - F(o)G(0) = f Ú(G(t) + F(t)g(t) dt
+PORQUE
+Se Y : [a, ] > R possui derivada integrável, então
+W$(b) = P(a) -/ Tn Dat
+Acerca dessas asserções, assinale a alternativa correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e 1l são proposições falsas.
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:38:10</Created>
+	<LastChange>2020-11-21T19:54:40</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,319 1539,319 1539,531 1229,531 1229,1656 1539,1656 1539,1869 1121,1869 1121,1929 603,1929 603,1930 85,1930 85,1931 84,1931"/>
+	<ImageRegion id="r1">
+	<Coords points="192,634 192,1613 1550,1613 1550,634"/></ImageRegion>
+	<TextEquiv conf="0.96004">
+	<Unicode>QUESTÃO 19
+Um detector de fumaça é uma câmara formada por dois compartimentos nos quais são inseridas duas
+células fotocondutoras, que são elementos cuja resistência varia com a luminosidade, e uma fonte de luz,
+conforme ilustra a figura |. Em condições normais, os raios de luz provenientes da fonte atingem as duas
+células igualmente. Na ocorrência de um incêndio, apenas a câmara inferior será preenchida pela fumaça e,
+assim, a luminosidade na célula será alterada, causando mudança na sua resistência.
+O circuito do detector de fumaça é mostrado na figura Il, no qual existe uma ponte de Wheatstone.
+Em condições normais, as resistências das duas células são iguais e o circuito está equilibrado, de modo que
+a tensão Vab é nula. Na presença de fumaça, as resistências das células fotocondutivas tornam-se diferentes
+e, assim, surge uma diferença de potencial entre os pontos a e b. Se essa tensão for maior que um valor pré-
+estabelecido, um relé será acionado, o que por sua vez, disparará um alarme.</Unicode></TextEquiv></TextRegion></Page></PcGts>

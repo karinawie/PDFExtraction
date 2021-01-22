@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:30:30</Created>
+	<LastChange>2020-12-05T22:38:14</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="893,299 1065,299 1065,360 1598,360 1598,432 1599,432 1599,562 1598,562 1598,732 1600,732 1600,1108 1384,1108 1384,1162 1018,1162 1018,1407 894,1407 894,1186 895,1186 895,1128 967,1128 967,865 988,865 988,656 987,656 987,610 942,610 942,562 894,562 894,561 893,561"/>
+	<TextEquiv conf="0.96645">
+	<Unicode>QUESTÃO 30
+A respeito do valor da integral fe — a)” dz, em
+i”
+que n é um inteiro, z é uma variável complexa e 7,
+uma curva fechada no plano complexo, avalie as
+afirmações a seguir.
+l. 2
+É nulo para todo n O e qualquer curva
+fechada y, uma vez que (z— a)" é a derivada
+de (z — ay
+n+1l
+É nulo para todo n &lt; O, n*=-—l, e qualquer
+curva fechada y que não passe por a.
+. Énulo, sen =-1 ey for a circunferência dada
+por yYí=a+ re", 0 &lt;t&lt;2m.
+É igual a 271, se n = —l e y for uma curva
+fechada contida no semi-espaço do plano,
+Imz &gt; O, em que a não pertença a esse
+semi-espaço.
+É correto apenas o que se afirma em
+O 1.
+O Iv.
+Bien
+Oie.
+Ole</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,363 851,363 851,686 852,686 852,937 851,937 851,1078 532,1078 532,1294 384,1294 384,1388 146,1388 146,1108 240,1108 240,989 194,989 194,963 239,963 239,722 194,722 194,657 146,657 146,656 145,656"/>
+	<TextEquiv conf="0.92556">
+	<Unicode>QUESTÃO 29
+Em topologia dos espaços métricos, é comum
+o estudo de propriedades relativas a conjuntos
+abertos, fechados, compactos, conexos, conexos
+por caminhos, entre outras. Essas caracterísitcas
+permitem comparar espaços métricos e verificar se
+são topologicamente equivalentes. A respeito disso,
+avalie as afirmações a seguir.
+l. Se um espaço métrico M pode ser escrito
+como união de dois conjuntos À e B, disjuntos,
+abertos e fechados, então M não é conexo.
+II.Se Mé um espaço métrico, então um conjunto
+Kc M é compacto se, e somente se, K é
+fechado e limitado.
+IM. 
+III.Se J = [0, 5[ é um intervalo com a métrica
+induzida de R, então o intervalo [0, 1[ é aberto
+em J.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,291 869,2077 875,2077 875,291"/></SeparatorRegion></Page></PcGts>

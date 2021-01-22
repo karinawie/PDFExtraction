@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:09:33</Created>
+	<LastChange>2020-11-22T02:15:38</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-31.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r0">
+	<Coords points="343,345 344,1180 1255,1179 1254,344"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,238 255,238 255,294 1378,294 1378,323 1111,323 1111,1245 837,1245 837,1744 686,1744 686,1991 85,1991 85,1992 84,1992 84,1745 83,1745 83,1217 84,1217"/>
+	<TableRegion id="r2">
+	<Coords points="481,1289 481,1697 1142,1697 1142,1289"/></TableRegion>
+	<TextEquiv conf="0.96615">
+	<Unicode>QUESTÃO 35
+O fluxograma abaixo foi proposto na etapa preliminar do projeto da planta de um novo produto.
+As composições dos componentes previstas são mostradas na tabela abaixo.
+A partir das informações apresentadas, conclui-se que C
+O um reagente.
+O um solvente inerte.
+O o produto com valor comercial.
+O o componente chave leve da coluna 1.
+O o componente chave pesada da coluna 1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

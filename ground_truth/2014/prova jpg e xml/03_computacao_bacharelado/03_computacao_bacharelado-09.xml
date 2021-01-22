@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:27:02</Created>
+	<LastChange>2020-09-24T18:27:02</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TableRegion id="r0">
+	<Coords points="663,318 663,644 1565,644 1565,318"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,238 411,238 411,280 1537,280 1537,660 1538,660 1538,1108 83,1108 83,827 82,827 82,660 83,660"/>
+	<TextEquiv conf="0.94278">
+	<Unicode>QUESTÃO DISCURSIVA 3
+O jogo Sudoku consiste em uma matriz 9x9 dividida em 9 sub-matrizes 3x3, como mostrado na figura a seguir.
+A matriz está parcialmente preenchida com números de 1 a 9, e o objetivo do jogo é completar a matriz, de
+forma que cada linha, coluna e sub-matriz contenham todos os números de 1a 9.
+A partir dessas informações, escreva um algoritmo recursivo baseado em retrocesso (backtracking) para
+resolver o jogo. A matriz foi transformada em um vetor V de 81 posições, contendo zeros nas posições que
+faltam para serem preenchidas.
+Considere que existem duas funções implementadas. A primeira função, NaoHaViolacao(x,i,V),
+retorna verdadeiro se a inserção do número x na posição i do vetor V não causa violação das restrições
+do jogo (número repetido em linha, coluna ou sub-matriz). A segunda função, Imprime (V), realiza a
+impressão do vetor V.
+Considere, ainda, que o algoritmo deve imprimir o vetor V com a solução encontrada, se esta existir.
+(valor: 10,0 pontos)
+Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos pode
+ser utilizada, assim como em uma linguagem de alto nível, como Pascal, C ou Java.</Unicode></TextEquiv></TextRegion></Page></PcGts>

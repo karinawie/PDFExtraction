@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:53:16</Created>
+	<LastChange>2020-12-06T03:05:23</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="145,1331 284,1331 284,1332 288,1332 288,1333 292,1333 292,1334 296,1334 296,1335 301,1335 301,1336 306,1336 306,1337 311,1337 311,1338 316,1338 316,1339 327,1339 327,1394 1599,1394 1599,1576 1600,1576 1600,1641 1598,1641 1598,2073 147,2073 147,2074 146,2074 146,1680 145,1680 145,1502 144,1502 144,1394 145,1394"/>
+	<TextEquiv conf="0.95949">
+	<Unicode>QUESTÃO 10
+O o LED será desligado quando a temperatura ou a pressão atingirem valores acima de 24 ºC e 30 psi,
+respectivamente.
+O o LED será energizado, quando a temperatura e a pressão alcançarem valores abaixo de 24 ºC e 30 psi,
+respectivamente.
+O o LED será energizado, quando a temperatura ou a pressão alcançarem valores acima de 24 “C e 30 psi,
+respectivamente.
+O o LED será apagado, quando a temperatura ou a pressão alcançarem valores abaixo de 30 “ºC e de 24 psi,
+respectivamente.
+O o LED será alimentado, quando o sensor de temperatura ou de pressão registrar valor abaixo de 24 ºC ou
+30 psi, respectivamente.
+O responsável técnico de uma indústria optou por instalar um sistema microcontrolado com sensores de
+temperatura (ºC) e pressão (psi) para monitorar uma linha de produção em tempo real. O trecho da rotina
+abaixo será responsável pelo monitoramento da condição desejada e sinalização com LED:
+If ((temperatura &lt; 24) || (pressão &lt; 30)) f(digitalWrite (ledPort, HIGH);])
+Sabendo que a função digitalWrite escreve um dado digital, com determinado nível lógico
+(HIGH = alto e LOW = baixo) em uma porta de saída do microcontrolador (LedPort), conclui-se
+que, de acordo com essa programação,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="145,299 316,299 316,348 1599,348 1599,1042 1286,1042 1286,1088 303,1088 303,1200 311,1200 311,1294 327,1294 327,1337 317,1337 317,1336 312,1336 312,1335 307,1335 307,1334 302,1334 302,1333 297,1333 297,1332 293,1332 293,1331 289,1331 289,1330 285,1330 285,1329 145,1329 145,1294 146,1294 146,1109 147,1109 147,1059 148,1059 148,1058 192,1058 192,977 194,977 194,665 145,665"/>
+	<TextEquiv conf="0.63987">
+	<Unicode>QUESTÃO 09
+Apesar da complexidade e diversidade do tema sustentabilidade, é de senso comum que o conceito de
+desenvolvimento de uma região precisa considerar aspectos relativos ao crescimento econômico e às
+questões ambientais e sociais, que dizem respeito ao bem-estar geral da população. O desenvolvimento
+sustentável envolve a consideração de três elementos interdependentes, a saber: desenvolvimento
+econômico, desenvolvimento social e garantia da proteção ambiental, denominada Triple Bottom Line (TBL).
+GOMES JÚNIOR, S. F.; GOMES, A. R. As vantagens da sustentabilidade empresarial.
+Revista Ingepro — Inovação, Gestão e Produção, v. 2, n. 6, p. 62-71, 2010 (adaptado).
+De forma a atender às exigências nas três dimensões do Triple Bottom Line, avalie as seguintes
+ações empresariais.
+|. Priorizar as questões sociais e ambientais, e deixar para segundo plano uma perspectiva de rentabilidade
+econômica no médio e longo prazo.
+Il. Evitar depender de recursos esgotáveis ou sujeitos à escassez, reduzir resíduos e promover a reciclagem
+dos materiais que descarta.
+Ill. Desenvolver produtos e serviços que contribuam para o que é percebido pela sociedade como um
+benefício social ou ambiental.
+IV. Manter relação de respeito com os entes envolvidos direta ou indiretamente com a empresa
+(stakeholders), incluindo uma prática de transparência na gestão.
+V. Utilizar propagandas que induzam o público a ter uma ótima visão da atuação da empresa, mesmo
+que a realidade seja diferente do que foi divulgado.
+Para atender aos requisitos propostos pelo TBL, é correto apenas o que se afirma em
+Oilev
+O LIelv.
+O uMmelv
+O II, Vev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

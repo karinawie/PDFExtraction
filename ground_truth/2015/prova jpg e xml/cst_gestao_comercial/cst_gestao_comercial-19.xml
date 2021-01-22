@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T22:50:00</Created>
+	<LastChange>2020-11-06T23:04:06</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_comercial-19.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="80,233 80,234 1536,234 1536,264 1533,264 1533,632 81,632 81,631 80,631 80,399 79,399 79,296 80,296"/>
+	<TableRegion id="r1">
+	<Coords points="326,405 326,552 1278,552 1278,405"/></TableRegion>
+	<TextEquiv conf="0.42351">
+	<Unicode>QUESTÃO 15
+A empresa Gestores S/A está construindo um novo empreendimento, no setor de fabricação de sorvetes.
+A empresa realizou diversas estimativas, tais como preço de venda do sorvete, margem de lucro a ser alcançada
+com a venda e quantidade de sorvetes a serem vendidos por mês, conforme mostrado no quadro abaixo:
+Com base na estimativa do preço de venda e no custeio por absorção, qual estrutura de custos é necessária
+para que a estimativa representada acima se concretize?</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="171,644 171,884 1534,884 1534,644"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="171,916 171,1156 1534,1156 1534,916"/></TableRegion>
+	<TableRegion id="r6">
+	<Coords points="176,1185 176,1425 1539,1425 1539,1185"/></TableRegion>
+	<TableRegion id="r8">
+	<Coords points="169,1445 169,1685 1532,1685 1532,1445"/></TableRegion>
+	<TableRegion id="r10">
+	<Coords points="169,1751 169,1991 1532,1991 1532,1751"/></TableRegion></Page></PcGts>

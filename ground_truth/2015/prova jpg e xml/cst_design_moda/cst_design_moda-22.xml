@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T17:45:58</Created>
+	<LastChange>2020-11-06T17:58:47</LastChange></Metadata>
+	<Page imageFilename="cst_design_moda-22.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,233 1536,233 1536,264 1534,264 1534,414 648,414 648,1492 1535,1492 1535,1603 287,1603 287,1936 80,1936 80,1603 79,1603 79,310 80,310"/>
+	<TextEquiv conf="0.80817">
+	<Unicode>QUESTÃO 20
+Utilizando o desenho técnico como ferramenta de desenvolvimento de produto, o designer de moda
+facilita o processo de modelagem e determina corte e enfesto da peça, assegurando a fiel reprodução
+da sua ideia.
+Analise o desenho técnico da saia a seguir.
+Considere os seguintes moldes que compõem esse modelo: frente, costas, bolsos dianteiros, bolsos
+traseiros, cós e passantes. Indique, respectivamente, quantas vezes cada um desses moldes deve ser
+cortado no tecido para produzir uma peça.
+O 2-2-2-2-2-5.
+O 2-1-1-1-2-5.
+O 2-1-1-1-8-5.
+O 1-2-2-2-8-5.
+O 1-2-2-2-1-5.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="155,518 155,1460 1444,1460 1444,518"/></ImageRegion></Page></PcGts>

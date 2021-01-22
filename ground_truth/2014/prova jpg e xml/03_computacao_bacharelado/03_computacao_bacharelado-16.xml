@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:20:35</Created>
+	<LastChange>2020-09-24T18:21:18</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-16.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,306 790,306 790,771 530,771 530,1168 775,1168 775,1295 689,1295 689,1629 780,1629 780,1755 779,1755 779,1858 355,1858 355,1907 207,1907 207,1858 86,1858 86,1498 83,1498 83,1167 84,1167 84,770 83,770 83,306 84,306"/>
+	<TextEquiv conf="0.91230">
+	<Unicode>QUESTÃO 16
+Uma pilha é uma estrutura de dados que armazena
+uma coleção de itens de dados relacionados e que
+garante o seguinte funcionamento: o último elemento
+a ser inserido é o primeiro a ser removido. É comum
+na literatura utilizar os nomes push e pop para as
+operações de inserção e remoção de um elemento
+em uma pilha, respectivamente. O seguinte trecho
+de código em linguagem C define uma estrutura de
+dados pilha utilizando um vetor de inteiros, bem
+como algumas funções para sua manipulação.
+tinclude &lt;stdlib.h&gt;
+tinclude &lt;stdio.h&gt;
+typedef struct (|
+int elementos[100];
+int topo;
+Ipilha;
+pilha * cria pilha() (
+pilha * p =malloc(sizeof(pilha));
+p-&gt;topo = -—1;
+return pilha;
+void push(pilha *p, int elemento) (
+if (p-&gt;topo &gt;= 99)
+return;
+p-&gt;elementos [++p-&gt;topo] = elemento;
+)
+int pop(pilha *p)
+int a = p-&gt;elementos [p-&gt;topo];
+p-&gt;topo--;
+return a;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="832,242 1340,242 1340,369 1383,369 1383,393 1138,393 1138,644 1190,644 1190,700 1365,700 1365,739 1157,739 1157,865 1226,865 1226,887 1182,887 1182,888 1104,888 1104,942 955,942 955,888 954,888 954,777 955,777 955,668 953,668 953,335 833,335 833,271 832,271"/>
+	<TextEquiv conf="0.96574">
+	<Unicode>O programa a seguir utiliza uma pilha.
+int main() (
+pilha * p = cria pilha();
+Push(p, 2);
+Push(p, 3);
+Push(p, 4);
+POP (P) ;
+push(p, 2);
+int a = pop(p) + pop(p);
+push(p, a);
+a += pop(p);
+printf (“%d”, a);
+return 0;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="831,1046 832,1046 832,1047 1437,1047 1437,1114 1538,1114 1538,1525 1236,1525 1236,1644 1021,1644 1021,1802 1071,1802 1071,1894 1070,1894 1070,1895 982,1895 982,1954 832,1954 832,1894 833,1894 833,1548 927,1548 927,1414 880,1414 880,1076 832,1076 832,1075 831,1075"/>
+	<TextEquiv conf="0.96290">
+	<Unicode>A esse respeito, avalie as afirmações a seguir.
+|. A complexidade computacional de ambas
+funções push e pop é O(1).
+Il. O valor exibido pelo programa seria o mesmo
+caso a instrução a += popí(p); fosse
+trocadapora += a;
+Il. Em
+(memory leak), é opcional chamar a função
+relação ao vazamento de memória
+free (p), pois o vetor usado pela pilha é
+alocado estaticamente.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 111el,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="805,236 805,2013 810,2013 810,236"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T14:09:37</Created>
+	<LastChange>2020-09-25T16:24:51</LastChange></Metadata>
+	<Page imageFilename="05_FARMACIA-14.jpg" imageWidth="1614" imageHeight="2165">
+	<ImageRegion id="r0">
+	<Coords points="323,797 323,1336 1307,1336 1307,797"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="87,247 512,247 512,276 788,276 788,247 788,312 1535,312 1535,784 81,784 81,276 79,276 87,276"/>
+	<TextEquiv conf="0.96580">
+	<Unicode>Texto para as questões 16 e 17
+A malária é uma doença infecciosa de distribuição predominante nas regiões tropicais e subtropicais,
+causada por protozoários do gênero Plasmodium. É caracterizada por febre alta acompanhada de calafrios,
+suores e cefaleia, que ocorrem em padrões cíclicos, a depender da espécie do parasito infectante, sendo a
+infecção causada pelo P. falciparum, a qual apresenta a forma clínica mais grave. O tratamento preconizado
+pelo Ministério da Saúde para a infecção causada pelo P. falciparum é uma combinação de artemeter e
+lumefantrina, porém, durante muito tempo a quinina foi utilizada como principal medicamento antimalárico.
+A quinina pode ser obtida a partir da casca do caule da quina (Cinchona) por extração em meio aquoso e
+ácido, porém, junto com a quinina inúmeras outras substâncias também são extraídas. A separação da quinina
+e outros alcalóides das demais substâncias hidrossolúveis presentes no extrato pode ser realizada por partição
+através da sua transformação em uma forma de menor solubilidade em água. Este procedimento permite
+que a adição de um solvente hidrofóbico ao extrato concentre a quinina na sua forma menos hidrossolúvel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,1334 252,1334 252,1396 1535,1396 1535,1467 1137,1467 1137,1595 1356,1595 1356,1644 1390,1644 1390,1673 571,1673 571,1730 246,1730 246,1985 81,1985 81,1755 82,1755 82,1697 129,1697 129,1467 81,1467"/>
+	<TextEquiv conf="0.94972">
+	<Unicode>QUESTÃO 16
+Considerando o esquema acima e o processo de extração e pré-purificação da quinina, avalie as afirmações
+que se seguem.
+|. A água é o solvente de escolha para a extração da forma 1 da quinina.
+Ill. O éter etílico pode ser utilizado como solvente no processo de partição.
+Ill. A forma 1 da quinina pode ser convertida na forma 2 por meio da adição de HCI diluído.
+IV. A forma 2 da quinina pode ser convertida na forma 1 por meio da adição de NaOH diluído.
+É correto apenas o que se afirma em
+Oie
+Oielv
+O el.
+O L1elv.
+O uMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

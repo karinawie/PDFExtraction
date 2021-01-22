@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:56:41</Created>
+	<LastChange>2020-09-24T19:08:33</LastChange></Metadata>
+	<Page imageFilename="04_computacao_licenciatura-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="832,238 1003,238 1003,306 1538,306 1538,398 1539,398 1539,718 1538,718 1538,901 1539,901 1539,1222 832,1222"/>
+	<TextEquiv conf="0.96529">
+	<Unicode>QUESTÃO 25
+Em relação ao projeto e implementação de espaços
+de ensino, assinale a alternativa correta.
+O A utilização de realidade aumentada deve ser
+restrita, visto que tal ferramenta não apresenta
+fatos reais e concretos, apenas uma simulação
+virtual da realidade.
+O As normas de administração de laboratórios
+devem permitir a instalação irrestrita de
+software pelos alunos, permitindo o exercício da
+curiosidade e da busca pelo conhecimento.
+O Os aspectos de inclusão digital devem ser
+considerados, buscando a democratização do acesso
+às tecnologias da informação e o atendimento às
+restrições dos alunos do ponto de vista físico.
+O A utilização de ferramentas de ensino a distância
+(EAD) deve ser limitada, para não colocar em
+risco a segurança das informações utilizadas nos
+cursos oferecidos pelas instituições de ensino.
+O Os espaços não escolares, fora dos limites físicos
+dos campi das instituições de ensino, não fazem
+parte do escopo a ser considerado pelo professor
+para atender o processo de ensino-aprendizagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,290 791,290 791,1402 790,1402 790,1748 486,1748 486,1848 330,1848 330,2014 84,2014 84,1764 133,1764 133,1415 132,1415 132,871 85,871 85,828 83,828 83,290 84,290"/>
+	<TextEquiv conf="0.91237">
+	<Unicode>QUESTÃO 24
+O ensino de algoritmos é um processo delicado
+e complexo, e seu sucesso depende de diversos
+fatores, tais como: habilidade do aluno em
+matemática e lógica, metodologia de ensino
+do professor, uso de ferramentas de simulação,
+realização eficiente de exercícios de fixação
+e práticas laboratoriais, apoio extra-classe na
+solução de dúvidas, trabalhos em grupo, dedicação
+do aluno entre outros. A escolha da linguagem
+de programação também merece atenção. Uns
+defendem o uso de linguagens orientadas a objetos,
+que possuem facilidades de programação de alto
+nível e facilitam a vida do desenvolvedor. Outros
+defendem o uso de linguagens mais básicas, que
+forçam o desenvolvedor a implementar muitas das
+estruturas e funções que necessita.
+Nesse contexto, avalie as afirmações a seguir.
+1. O uso da linguagem de programação
+Pascal é adequado ao processo de ensino-
+aprendizagem de algoritmos porque, entre
+outros motivos, permite ao aluno entender
+melhor os diferentes tipos de dados, pois ela
+verifica os tipos das variáveis no momento
+da compilação, sendo considerada uma
+linguagem fortemente tipificada.
+Ill. O uso da linguagem de programação C
+padrão é adequado ao processo de ensino-
+aprendizagem de algoritmos porque, entre
+outros motivos, permite ao aluno entender
+melhor sobre alocação e endereçamento
+de memória para as variáveis, pois esse
+aprendizado necessita do uso de ponteiros.
+II. O uso da linguagem de programação
+Python é adequado ao processo de
+ensino-aprendizagem “de algoritmos
+porque, entre outros motivos, permite
+ao aluno conhecer as estruturas de
+dados e as formas de manipulação, sem
+precisar implementá-las, permitindo o
+desenvolvimento de programas mais
+elaborados, mesmo por alunos com pouco
+conhecimento de algoritmos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il el, apenas.
+Biel.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="805,236 805,2021 813,2021 813,236"/></SeparatorRegion></Page></PcGts>

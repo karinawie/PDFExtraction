@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:41:30</Created>
+	<LastChange>2020-11-21T21:16:35</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="85,238 255,238 255,297 1538,297 1538,403 1296,403 1296,404 1140,404 1140,1330 1538,1330 1538,1395 1296,1395 1296,1396 1054,1396 1054,1397 811,1397 811,1398 569,1398 569,1399 552,1399 552,1635 537,1635 537,1749 529,1749 529,1862 484,1862 484,1976 84,1976 84,1401 83,1401 83,299 84,299 84,239 85,239"/>
+	<ImageRegion id="r1">
+	<Coords points="284,471 284,1260 1307,1260 1307,471"/></ImageRegion>
+	<TextEquiv conf="0.96555">
+	<Unicode>QUESTÃO 27
+Os diagramas de Bode são construções gráficas que permitem esboçar a resposta de um sistema de controle.
+Esses diagramas são constituídos de duas curvas, uma representando o módulo e a outra a fase da função de
+transferência em relação à frequência.
+A figura a seguir apresenta os diagramas de Bode de um determinado sistema.
+Assinale a alternativa que apresenta corretamente a função de transferência do sistema descrito pelas curvas
+da figura acima.
+100
+O no = (s + 1) (s + 200)
+O ns —— Ho
+6) = T10) (81100)
+sSº
+9 n- (s + 10) (s + 200)
+10s
+O no) = (s + 1) (s + 200)
+O nu 100
+6) = s (s + 100)</Unicode></TextEquiv></TextRegion></Page></PcGts>

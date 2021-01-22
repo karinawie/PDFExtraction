@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T04:09:18</Created>
+	<LastChange>2020-11-22T14:01:02</LastChange></Metadata>
+	<Page imageFilename="25_geografia_bacharelado-29.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="832,238 1003,238 1003,306 1538,306 1538,307 1539,307 1539,526 1538,526 1538,647 1537,647 1537,1085 1538,1085 1538,1171 1537,1171 1537,1284 1538,1284 1538,1491 1539,1491 1539,1663 997,1663 997,1948 832,1948 832,1491 880,1491 880,1284 927,1284 927,1172 926,1172 926,915 880,915 880,700 832,700 832,653 831,653 831,555 832,555"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>QUESTÃO 27
+Em um SIG, a introdução de dados se dá, entre
+outras formas, pela aquisição de produtos de
+Sensoriamento Remoto, confecção de planilhas
+de dados, uso do sistema de posicionamento por
+satélite e dos processos de vetorização.
+FITZ, P. R. Geoprocessamento sem Complicação.
+São Paulo: Oficina de Textos, 2008 (adaptado).
+A respeito do assunto abordado, avalie as
+afirmações a seguir.
+|. Scanner é um dispositivo ótico de varredura,
+que captura imagens e as transfere para um
+computador no formato raster.
+Ill. Pantógrafo é um instrumento de desenho
+que permite efetuar transferências,
+ampliações ou reduções de uma figura,
+utilizando a homotetia.
+Satélites artificiais são dispositivos lançados
+no espaço que orbitam a Terra e transmitem
+diversas
+informações (ambientais,
+meteorológicas e de posicionamento).
+IV. Mesa digitalizadora é um instrumento dotado
+de uma malha eletrônica e um cursor para
+captura de informações, que utiliza caracteres
+numéricos para representar dados contínuos.
+Considerando os processos de introdução de dados
+em um SIG, os equipamentos capazes de converter
+um mapa em formato analógico para o formato
+digital estão descritos apenas em
+Oie
+Oie
+O Ieiv.
+O Le.
+OuMmelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="84,238 255,238 255,301 792,301 792,460 790,460 790,1953 85,1953 85,1954 84,1954 84,461 83,461 83,301 84,301"/>
+	<TableRegion id="r3">
+	<Coords points="84,542 84,1055 786,1055 786,542"/></TableRegion>
+	<TextEquiv conf="0.96506">
+	<Unicode>QUESTÃO 26
+Os dados contidos no quadro abaixo podem ser
+representados em um mapa temático, instrumento
+utilizado em estudos comparativos para representar
+fenômenos que diferem em quantidade.
+Levando-se em consideração a elaboração de
+um mapa temático, assinale a alternativa que
+indica a representação gráfica correta dos dados
+apresentados no quadro acima.
+O Formas geométricas diferentes, de tamanhos
+iguais para cada região.
+O Formas geométricas iguais, de tamanhos iguais
+para todas as regiões.
+O Formas geométricas iguais para regiões com
+mais de 30 000 000 de habitantes e diferentes
+para as demais.
+O Formas geométricas iguais, de tamanhos
+diferentes, onde a de maior tamanho represente a
+região Sudeste e a de menor tamanho represente
+a região Centro-Oeste.
+O Formas geométricas diferentes, de tamanhos
+diferentes, onde a de maior tamanho represente
+a região Nordeste e a de menor tamanho
+represente a região Centro-Oeste.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,239 807,2028 805,2028 805,239"/></SeparatorRegion></Page></PcGts>

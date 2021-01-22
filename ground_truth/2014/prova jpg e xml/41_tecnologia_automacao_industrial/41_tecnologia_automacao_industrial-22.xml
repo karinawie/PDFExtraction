@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:51:24</Created>
+	<LastChange>2020-12-06T02:58:22</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,588 1598,588 1598,711 1599,711 1599,1315 1598,1315 1598,1403 1488,1403 1488,1451 894,1451 894,1139 893,1139 893,1015 942,1015 942,684 893,684"/>
+	<TextEquiv conf="0.96727">
+	<Unicode>QUESTÃO 28
+Considere que um sistema supervisório esteja
+conectado a um controlador lógico programável
+(CLP) de forma a receber informações provenientes
+do processo. A comunicação entre o sistema
+supervisório e o CLP é realizada por meio de uma
+rede industrial do tipo mestre-escravo.
+Na situação descrita acima, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O sistema supervisório deve ser configurado
+como o escravo da rede de comunicação.
+PORQUE
+Il. O CLP fornece as informações do processo
+ao sistema supervisório, uma vez que O
+CLP recebe as informações das entradas e
+determina o estado das saídas.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="145,299 316,299 316,368 851,368 851,1715 636,1715 636,1781 311,1781 311,2071 146,2071 146,1393 145,1393"/>
+	<ImageRegion id="r2">
+	<Coords points="141,711 141,1208 830,1208 830,711"/></ImageRegion>
+	<TextEquiv conf="0.92318">
+	<Unicode>QUESTÃO 27
+Um grupo de estudantes de automação industrial,
+durante uma aula de eletricidade básica, mediu
+uma corrente i utilizando um multímetro, em função
+da tensão aplicada, para dois circuitos simples,
+constituídos de uma fonte de tensão e um resistor.
+A partir dos dados coletados, foi construído o gráfico
+abaixo.
+Com base na situação descrita acima, avalie as
+afirmações a seguir.
+|. Os resistores utilizados são ôhmicos.
+Il. O resistor 1 apresenta maior resistência que
+o resistor 2.
+Ill. O multímetro deve ser colocado em série com
+o resistor para se medir a tensão.
+IV. O multímetro foi colocado em paralelo com o
+resistor para se medir a corrente.
+É correto apenas o que se afirma em
+Oie
+Ole
+Quem.
+O 1, elv.
+O uMelv</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="875,294 875,2083 869,2083 869,294"/></SeparatorRegion></Page></PcGts>

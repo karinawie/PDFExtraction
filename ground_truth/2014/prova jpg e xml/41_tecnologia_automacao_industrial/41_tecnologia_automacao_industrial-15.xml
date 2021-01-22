@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:52:46</Created>
+	<LastChange>2020-12-06T03:03:19</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-15.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="145,299 316,299 316,370 1599,370 1599,500 1042,500 1042,1007 1599,1007 1599,1229 1600,1229 1600,1312 1599,1312 1599,1639 146,1639 146,1086 145,1086 145,1007 146,1007 146,500 145,500"/>
+	<TableRegion id="r1">
+	<Coords points="147,561 147,969 1597,969 1597,561"/></TableRegion>
+	<TextEquiv conf="0.96470">
+	<Unicode>QUESTÃO 13
+Uma indústria resolveu trocar seus esquemas convencionais de partida de motores trifásicos por sistemas de
+acionamento eletrônicos. Para decidir qual tecnologia adotar, foi consultado um tecnólogo em automação
+industrial, que repassou as características de funcionamento dos motores dentro dos processos dessa
+indústria. Essas características são apresentadas no quadro abaixo.
+Assumindo que existam diversos fabricantes e tecnologias de acionamento diferentes no mercado, conclui-se
+que a solução mais simples e economicamente viável consiste em utilizar um dispositivo de acionamento tipo
+O inversor de frequência com controle escalar para o grupo 1; soft-starter para o grupo 2; inversor de
+frequência com controle vetorial para o grupo 3.
+O inversor de frequência com controle vetorial para o grupo 1; inversor de frequência com controle escalar
+para o grupo 2; soft-starter para o grupo 3.
+O inversor de frequência com controle vetorial para o grupo 1; soft-starter para o grupo 2; inversor de
+frequência com controle escalar para o grupo 3.
+O soft-starter para o grupo 1; inversor de frequência com controle vetorial para o grupo 2; inversor de
+frequência com controle escalar para o grupo 3.
+O soft-starter para o grupo 1; inversor de frequência com controle escalar para o grupo 2; inversor de
+frequência com controle vetorial para o grupo 3.</Unicode></TextEquiv></TextRegion></Page></PcGts>

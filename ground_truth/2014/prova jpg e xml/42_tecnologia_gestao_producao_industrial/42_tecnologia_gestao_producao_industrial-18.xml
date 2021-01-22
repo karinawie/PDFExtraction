@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:12:27</Created>
+	<LastChange>2020-12-06T03:22:32</LastChange></Metadata>
+	<Page imageFilename="42_tecnologia_gestao_producao_industrial-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="893,299 1064,299 1064,364 1600,364 1600,793 1599,793 1599,911 1598,911 1598,1064 1599,1064 1599,1065 1600,1065 1600,1269 1599,1269 1599,1730 1281,1730 1281,1851 1123,1851 1123,1975 1132,1975 1132,2058 895,2058 895,2059 894,2059 894,1757 988,1757 988,1547 942,1547 942,1525 972,1525 972,1524 988,1524 988,1270 943,1270 943,1066 942,1066 942,1033 893,1033 893,959 982,959 982,794 892,794 892,364 893,364"/>
+	<TextEquiv conf="0.96778">
+	<Unicode>QUESTÃO 19
+As organizações são compostas de equipes, conjuntos
+de pessoas interdependentes que buscam objetivos
+comuns e, para isso, precisam estabelecer um
+relacionamento interpessoal satisfatório. A tentativa
+da realização desses objetivos cria, no grupo,
+um processo de interação entre pessoas que se
+influenciam reciprocamente. Buscando intensificar
+o desenvolvimento desse relacionamento
+interpessoal, o gestor eficaz faz uso de técnicas de
+trabalho em equipe.
+REIS, A. M. V.; BECKER JR, L. C.; TONETTO, H.; COSTA, M. E. B.
+Desenvolvimento de Equipes. Rio de Janeiro: FGV,
+2009 (adaptado).
+No que diz respeito às técnicas de trabalho em
+equipe, avalie as seguintes afirmações.
+|. A etapa na qual as equipes são formadas
+merece atenção especial, na medida em
+que os seus membros não se conhecem
+adequadamente, o que pode favorecer o
+surgimento de conflitos.
+O incentivo à competitividade, com um
+sistema de recompensas por objetivos
+individuais, favorece a formação de equipes
+cooperativas, pois cada indivíduo esforça-se
+mais para alcançar os resultados.
+Ill. Em estruturas com alto grau de centralização,
+a falta de objetivos claros e a incongruência
+entre as políticas definidas e a prática
+constituem disfunções organizacionais que
+podem prejudicar o trabalho em equipe.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,299 317,299 317,367 852,367 852,677 851,677 851,1163 852,1163 852,1915 850,1915 850,2018 740,2018 740,2074 147,2074 147,2075 146,2075 146,1597 145,1597 145,1568 194,1568 194,1129 145,1129"/>
+	<ImageRegion id="r3">
+	<Coords points="150,708 150,1019 850,1019 850,708"/></ImageRegion>
+	<TextEquiv conf="0.95899">
+	<Unicode>QUESTÃO 18
+Controlar a capabilidade de um processo é garantir o
+atendimento ao cliente. Normalmente, os processos
+de usinagem são para obtenção da peça acabada,
+portanto há necessidade de controlar medidas
+especificadas no projeto, que são informadas com a
+variação admissível ou o desvio aceitável, chamada
+de tolerância dimensional.
+Considerando a peça apresentada, avalie as asserções
+a seguir e a relação proposta entre elas.
+|. Para a peça apresentada, usinada em torno
+convencional, o instrumento mais adequado
+para medir a dimensão do diâmetro externo
+(mm) é o paquímetro universal.
+PORQUE
+II.O paquímetro universal possui orelhas,
+adequadas para realizar a medição na
+tolerância dimensional especificada.
+Acerca dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,286 872,2083 869,2083 869,286"/></SeparatorRegion></Page></PcGts>

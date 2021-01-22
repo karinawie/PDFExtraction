@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:44:39</Created>
+	<LastChange>2020-11-21T03:57:25</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="830,238 1002,238 1002,297 1537,297 1537,743 1536,743 1536,945 1537,945 1537,1102 1536,1102 1536,1103 1321,1103 1321,1159 981,1159 981,1403 831,1403 831,1181 832,1181 832,1124 879,1124 879,1101 880,1101 880,926 879,926 879,743 831,743 831,742 830,742"/>
+	<TextEquiv conf="0.96801">
+	<Unicode>QUESTÃO 20
+A equação da linha elástica é muito importante
+quando se pretende determinar as deflexões ao
+longo do eixo longitudinal de vigas. Para o caso de
+pequenas deflexões, é possível estabelecer-se a
+seguinte equação diferencial: (E.I).v' = — M.
+Considerando que ré o eixo longitudinal da viga, E é
+o módulo da elasticidade longitudinal, Té o momento
+de inércia da seção transversal da viga, v é a deflexão
+do eixo da viga, M é a expressão do momento fletor
+e v é a derivada de segunda ordem de v em relação
+a x, avalie as afirmações seguintes.
+|. A máxima deflexão deverá ocorrer em um
+ponto de rotação nula.
+Ill. A equação da linha elástica é obtida por dupla
+integração de v” emrelaçãoar.
+Ill. A máxima deflexão deverá ocorrer no ponto
+de máximo momento fletor.
+IV. A quarta derivada da equação da linha elástica
+em relação a r representa o esforço cortante.
+É correto apenas o que se afirma em
+O.
+o.
+O v.
+O Meilv.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 771,298 771,913 772,913 772,1056 771,1056 771,1191 470,1191 470,1301 354,1301 354,1412 362,1412 362,1492 470,1492 470,1460 470,1492 85,1492 85,1491 84,1491 84,1211 156,1211 156,1081 178,1081 178,1055 179,1055 179,895 133,895 133,894 132,894 132,470 86,470 86,469 85,469 85,407 84,407 84,406 83,406 83,298 84,298"/>
+	<TextEquiv conf="0.94332">
+	<Unicode>QUESTÃO 19
+A corrosão do aço em estruturas de concreto
+armado é considerada uma manifestação patológica
+não muito rara nas construções.
+Nesse contexto, avalie as seguintes afirmações.
+|. A corrosão do aço é um processo
+eletroquímico que se inicia e prossegue
+devido a características construtivas da
+estrutura de concreto armado, além de
+condições climáticas e de exposição.
+Il. A colocação de espaçadores que auxiliam
+o correto posicionamento das armaduras
+dentro das formas é uma prática que procura
+garantir o cobrimento especificado e a vida
+útil prevista das estruturas em projeto.
+III.Os produtos da corrosão são expansivos e
+podem ocasionar fissuras em vigas e pilares
+e, até mesmo, o destacamento de pedaços
+de concreto.
+IV. A utilzação de adições minerais em
+concretos pouco influencia a deterioração
+por corrosão da armadura.
+É correto o que se afirma em
+O Lilelll, apenas.
+O L,IlelV, apenas.
+O 1, Il elV, apenas.
+O Il, Il e IV, apenas.
+O LI,HMEeI.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,2007 807,228"/></SeparatorRegion></Page></PcGts>

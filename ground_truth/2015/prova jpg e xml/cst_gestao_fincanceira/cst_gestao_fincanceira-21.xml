@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T23:58:49</Created>
+	<LastChange>2020-11-07T00:11:14</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_fincanceira-21.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,233 1536,233 1536,264 1534,264 1534,1190 1171,1190 1171,1191 1089,1191 1089,1541 754,1541 754,1542 418,1542 418,1543 82,1543 82,1544 81,1544 81,1489 80,1489 80,1125 79,1125 79,1124 80,1124"/>
+	<ImageRegion id="r1">
+	<Coords points="86,628 86,1078 1518,1078 1518,628"/></ImageRegion>
+	<TextEquiv conf="0.96140">
+	<Unicode>QUESTÃO 22
+Uma indústria de autopeças tem apresentado preços pouco atrativos, o que tem acarretado perda de
+clientes para suas concorrentes. Para reverter esse quadro e aumentar sua participação no mercado,
+a empresa pretende investir em um projeto de reestruturação de sua linha de produção, com a aquisição
+de novos equipamentos que resultariam em ganhos de produtividade e redução dos custos. Assim,
+a reestruturação tornaria seus produtos mais competitivos (com projeções de retornos maiores),
+conforme análise elaborada pelo departamento de estudos econômicos. Sendo de 10 anos a vida útil
+do projeto, o investimento necessário é de R$1 000 000,00; os retornos estimados são apresentados
+no fluxo de caixa a seguir.
+A decisão para a empresa investir no projeto deve ocorrer somente se o prazo de retorno do investimento,
+calculado pelo método do Payback Simples, for inferior a seis anos.
+Com base nas informações fornecidas, conclui-se que o projeto deve ser
+O rejeitado, pois o retorno calculado supera seis anos.
+O rejeitado, pois o retorno calculado ocorrerá em seis anos.
+O aceito, pois o retorno calculado ocorrerá ao final de seis anos.
+O aceito, pois o retorno calculado ocorrerá em cinco anos e seis meses.
+O aceito, pois o retorno calculado ocorrerá em cinco anos e cinco meses.</Unicode></TextEquiv></TextRegion></Page></PcGts>

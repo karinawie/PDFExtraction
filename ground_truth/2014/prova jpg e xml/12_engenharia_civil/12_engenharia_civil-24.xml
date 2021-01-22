@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:43:45</Created>
+	<LastChange>2020-11-21T03:53:11</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-24.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r1">
+	<Coords points="407,392 407,1251 1536,1251 1536,392"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1537,298 1537,1277 1538,1277 1538,1717 470,1717 470,1830 362,1830 362,1967 273,1967 273,2013 84,2013 84,1743 85,1743 85,365 83,365 83,298 84,298"/>
+	<TextEquiv conf="0.95723">
+	<Unicode>QUESTÃO 28
+A figura abaixo representa uma estrutura para cobertura em madeira, formada por tesouras e peças da trama
+secundária (terças, caibros e ripas), bem como de telhas (cerâmicas ou de concreto).
+Em relação a esse tipo de estrutura de telhado, avalie as afirmações abaixo.
+|. Seadistância entre tesouras tivesse que ser alterada no telhado, isso afetaria o dimensionamento das
+terças.
+Il. Se as telhas empregadas (cerâmicas ou de concreto) fossem substituídas por telhas de fibrocimento
+ou de aço, a trama do telhado dispensaria os elementos caibro e ripa.
+Ill. Para propiciar melhor estanqueidade à água e maior durabilidade às estruturas de cobertura em
+madeira, é aconselhável a adoção de mantas de subcobertura, as quais são vendidas em rolos e devem
+ser instaladas logo acima das tesouras, antes da colocação das terças.
+IV. As terças devem ser posicionadas preferencialmente sobre os nós da tesoura, caso contrário,
+acarretarão flexocompressão às barras do banzo superior da tesoura, diminuindo sua capacidade
+resistente.
+É correto o que se afirma em
+O Lilelll, apenas.
+O |, IlelV, apenas.
+O Il elV, apenas.
+O Il, Il e IV, apenas.
+O L1,HMelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

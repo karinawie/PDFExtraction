@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:58:07</Created>
+	<LastChange>2020-12-06T02:09:56</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-11.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="145,299 473,299 473,359 1600,359 1600,828 1599,828 1599,1012 145,1012 145,828 144,828 144,359 145,359"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Uma empresa deseja lançar um sistema de comércio eletrônico para vender seus produtos. Essa empresa
+vende produtos de diversas categorias, como roupas, perfumes e eletrônicos, e aceita diversas formas de
+pagamento, como cartão de crédito e boleto bancário. No sistema de vendas implementado, cada produto
+deve ser cadastrado com sua descrição, preço de venda, quantidade em estoque e respectiva categoria.
+Cada cliente que deseja realizar compras tem de se cadastrar no sistema indicando seu nome, endereço e
+e-mail. Se o cliente for corporativo, deve cadastrar seu CNPJ e, se for individual, seu CPF. O cliente cadastrado
+pode realizar um pedido de compra dos produtos em estoque na quantidade que desejar. O cliente escolhe
+uma forma de pagamento disponível e recebe, por e-mail, o número do pedido e informações do status
+do pedido. Após a confirmação do pagamento, a loja realiza a entrega dos itens solicitados no endereço do
+cliente e envia, por e-mail, a nota fiscal eletrônica. Tendo em vista que os preços dos produtos podem ser
+atualizados a qualquer momento, o sistema tem de ser capaz de reemitir uma nota fiscal de um pedido de
+compra de qualquer produto e respectivo preço na data da compra realizada pelo cliente.
+Considerando esse cenário, proponha um Diagrama de Classes, segundo a UML (Unified Modeling Language),
+indicando nome de cada classe, respectivos atributos e relacionamentos entre as classes com as respectivas
+cardinalidades. Em sua proposta, identifique, pelo menos, um relacionamento de generalização e um
+relacionamento de composição, não sendo necessário indicar as operações de cada classe. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

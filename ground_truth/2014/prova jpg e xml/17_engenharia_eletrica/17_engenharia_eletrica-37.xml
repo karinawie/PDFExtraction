@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:39:32</Created>
+	<LastChange>2020-11-21T20:48:08</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-37.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="84,299 1538,299 1538,407 1537,407 1537,1619 1538,1619 1538,1688 835,1688 835,1689 575,1689 575,1743 210,1743 210,1989 84,1989"/>
+	<ImageRegion id="r1">
+	<Coords points="373,426 373,1155 1542,1155 1542,426"/></ImageRegion>
+	<TextEquiv conf="0.95468">
+	<Unicode>QUESTÃO 35 - Sistemas de Energia Elétrica
+O gráfico abaixo apresenta as curvas de desempenho de um motor de indução trifásico de 50 cv em função
+da potência fornecida pelo motor à carga. A curva A representa o rendimento, a curva B, o fator de potência,
+a curva C, o escorregamento e a curva D, a corrente elétrica.
+Disponível em: &lt;http://ecatalog.weg.net&gt;. Acesso em: 27 ago. 2014 (adaptado).
+Considerando que o motor opera a 220 V e 60 Hz, avalie as afirmações a seguir.
+|. A diminuição da potência fornecida pelo motor à carga implica diminuição de sua corrente elétrica,
+diminuindo seu aquecimento e reduzindo seu rendimento.
+Il. Quando o motor opera com 100% de carregamento, a corrente elétrica assume valores muito altos,
+acima da corrente nominal.
+Ill. O motor deve ser especificado para ter potência nominal o mais próximo possível da potência
+demandada pela carga, de maneira a operar nas faixas mais altas de rendimento e fator de potência,
+apresentando maior eficiência energética.
+IV. Esse motor não pode operar a vazio, sem fornecer potência à carga, visto que o escorregamento seria
+nulo, o que implicaria velocidade angular (rotação) do motor tendendo a infinito.
+V. Omotor apresenta corrente de partida de aproximadamente 45 A, que aumenta até aproximadamente
+120 A quando o motor entra em regime de operação nominal.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+Oielv
+O ev
+O IWvev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

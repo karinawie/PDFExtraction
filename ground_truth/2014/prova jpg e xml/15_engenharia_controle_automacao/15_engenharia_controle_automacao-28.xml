@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:37:11</Created>
+	<LastChange>2020-11-21T19:50:54</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-28.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="832,238 1003,238 1003,293 1539,293 1539,1738 1538,1738 1538,1739 1218,1739 1218,1832 1217,1832 1217,2007 833,2007 833,2006 832,2006 832,2005 833,2005 833,1754 897,1754 897,1094 832,1094 832,575 831,575 831,574 832,574"/>
+	<ImageRegion id="r3">
+	<Coords points="928,594 928,984 1428,984 1428,594"/></ImageRegion>
+	<TextEquiv conf="0.96485">
+	<Unicode>QUESTÃO 26
+Os sistemas integrados de manufatura (SIM)
+apresentam uma abordagem estratégica embasada
+em tecnologia, que respondem aos desafios
+competitivos de fabricação. Uma forma de
+caracterizar esses sistemas é a partir da matriz de
+variedade (de partes/peças diferentes) e volume
+(da quantidade de partes/peças produzidas) da
+manufatura, conforme ilustra a figura abaixo.
+Considerando a matriz de variedade x volume
+representada na figura, avalie as afirmações a seguir.
+|. Sistemas — totalmente — dedicados são
+adequados para produzir uma variedade
+limitada de configurações de partes/peças,
+no entanto, podem trabalhar com volumes
+muito altos de produção, ocupando a faixa A3
+da matriz.
+. Sistemas flexíveis de manufatura (FMS)
+podem ocupar o nível mais alto da matriz
+de volume e variedade, ocupando a faixa
+C3, ou seja, são capazes de se adequar a alta
+variedade de partes/peças e alto volume de
+produção de partes/peças.
+Sistemas que utilizam máquinas baseadas
+em CNC (computador numericamente
+controlado) podem trabalhar com alta
+variedade de programação de partes/peças,
+ocupando a faixa C1 da matriz, mas podem
+ser inviáveis economicamente se os volumes
+não forem baixos.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1L1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,238 255,238 255,297 791,297 791,558 790,558 790,1456 791,1456 791,1688 574,1688 574,1743 285,1743 285,1981 284,1981 284,1982 84,1982 84,1764 85,1764 85,559 83,559 83,297 84,297"/>
+	<ImageRegion id="r2">
+	<Coords points="84,568 84,1034 797,1034 797,568"/></ImageRegion>
+	<TextEquiv conf="0.96380">
+	<Unicode>QUESTÃO 25
+A figura abaixo representa um sensor de vazão
+de vórtice volumétrico (composto por transdutor
+e transmissor) instalado em uma tubulação para
+medição de vazão de água que abastece uma
+caldeira, na qual é arbitrado um sentido de fluxo.
+Esse sensor pode ser adquirido na configuração
+4-20 mA/0-20 m?/h ou 0-10 V/0-20 m?/h.
+Nesse contexto, avalie as afirmações a seguir.
+|. As duas configurações apresentam o mesmo
+alcance (span).
+. As duas configurações apresentam a mesma
+faixa de medida (range).
+. A medição de vazão de água independe
+do sentido de passagem de fluxo de água
+arbitrado no sensor.
+O sensor com configuração 0-10 V/0-20 m?/h
+fornece menor confiabilidade que o sensor
+com configuração 4-20 mA/0-20 m?/h.
+A configuração 0-10 V/0-20 m?/h tem melhor
+imunidade a ruído, enquanto a configuração
+4-20 mA/0-20 m?/h é melhor para aplicações
+em pequenas distâncias.
+É correto apenas o que se afirma em
+Oiev
+O LIlelv.
+OL, Ieilv
+O !Iev
+Ou,uIvVev.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="807,228 807,2021 813,2021 813,228"/></SeparatorRegion></Page></PcGts>

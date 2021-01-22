@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:35:28</Created>
+	<LastChange>2020-11-22T01:48:34</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,238 255,238 255,1069 790,1069 790,1212 468,1212 468,1470 84,1470 84,1471 83,1471 83,1069 84,1069"/>
+	<TextEquiv conf="0.93839">
+	<Unicode>QUESTÃO 33
+A figura acima mostra uma viga biapoiada com
+cargas concentradas que representam um elemento
+de máquina. Se P,&gt;P,&gt;P,ea,&gt;a,&gt;a,&gt; by então o
+maior valor do momento fletor está no
+O apoio A.
+O apoio B.
+O ponto de aplicação de P..
+O ponto de aplicação de P,.
+O ponto de aplicação de P,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="832,238 1003,238 1003,299 1538,299 1538,1329 1539,1329 1539,1461 1538,1461 1538,1860 1537,1860 1537,1950 1426,1950 1426,2000 833,2000 833,2001 832,2001 832,1680 831,1680 831,1553 832,1553"/>
+	<ImageRegion id="r4">
+	<Coords points="834,547 834,936 1536,936 1536,547"/></ImageRegion>
+	<TextEquiv conf="0.96536">
+	<Unicode>QUESTÃO 34
+Uma placa é fabricada com três lâminas de materiais
+diferentes. Um ensaio foi realizado em regime
+permanente, sem geração de calor, para verificar qual
+dos materiais possui a maior condutividade térmica.
+O gráfico do comportamento da temperatura nesse
+experimento é apresentado a seguir.
+Com base nessa situação, avalie as seguintes
+asserções e a relação proposta entre elas.
+l. No experimento, constata-se que, entre
+os três materiais da placa, a maior e a
+menor condutividade térmica pertencem,
+respectivamente, ao material B e ao material A.
+PORQUE
+II. Como o fluxo de calor no experimento é
+unidimensional e constante, quanto maior for
+ovalor de LL maior será a sua condutividade
+semi AZ
+térmica.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e II são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a II é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a II é uma
+proposição verdadeira.
+O As asserções | e II são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,231 805,2018 810,2018 810,231"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="94,297 94,1036 794,1036 794,297"/></ImageRegion></Page></PcGts>

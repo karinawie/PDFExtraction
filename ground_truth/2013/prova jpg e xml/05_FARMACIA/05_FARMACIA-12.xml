@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T14:09:55</Created>
+	<LastChange>2020-09-25T16:25:51</LastChange></Metadata>
+	<Page imageFilename="05_FARMACIA-12.jpg" imageWidth="1614" imageHeight="2165">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="87,247 512,247 512,276 788,276 788,247 788,315 1535,315 1535,1159 82,1159 82,1051 80,1051 80,276 79,276 87,276"/>
+	<TextEquiv conf="0.96565">
+	<Unicode>Texto para as questões 13 e 14
+A aterosclerose é uma doença crônica, de evolução lenta e silenciosa, caracterizada por uma placa
+gordurosa endurecida, pela presença anormal de células e outros elementos na parede arterial. As
+manifestações clínicas tardias incluem o infarto e o derrame cerebral, que são considerados os principais
+causadores de mortes no mundo. Hábitos alimentares centrados na ingestão de altas taxas de carboidratos
+e lipídios, associados ao sedentarismo, ao estresse e ao hábito de fumar contribuem para a instalação da
+doença. O componente genético também exerce papel de destaque nesse processo fisiopatológico, associado
+à regulação da biossíntese de colesterol, à distribuição relativa das lipoproteínas e à disponibilidade de
+receptores celulares de LDL.
+O principal exame laboratorial, na prática clínica, que auxilia na evidenciação do risco da formação do
+ateroma e fornece parâmetros para a conduta clínica é o perfil lipídico. Esse exame determina os níveis de
+colesterol! total (CT) e suas frações (HDL, LDL e VLDL colesterol), triglicerídeos e permite a análise do aspecto
+do soro em condições padronizadas. Dessa forma, é possível identificar situações como a de dois pacientes do
+gênero masculino (A e B); da mesma faixa etária; ambos fumantes e não sedentários; os dois apresentam os
+mesmos valores de CT = 205 mg/dL e colesterol HDL = 30 mg/dL; mas o paciente A tem um soro lipêmico sem
+sobrenadante e triglicerídeos igual a 375 mg/dL; enquanto o paciente B, um soro sem lipemia e triglicerídeos
+igual a 80 mg/dL.
+Valores de referência: CT até 160 mg/dL; HDL maior que 50 mg/dL; LDL até 100 mg/dL; Triglicerídeos até
+150 mg/dL (Portaria nº 200, de 25 de fevereiro de 2013 - Ministério da Saúde)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,1204 251,1204 251,1278 856,1278 856,1336 1534,1336 1534,1436 1535,1436 1535,1560 1534,1560 1534,1994 81,1994 81,1875 82,1875 82,1306 80,1306 80,1278 81,1278"/>
+	<TextEquiv conf="0.95342">
+	<Unicode>QUESTÃO 13
+A partir dos casos apresentados, assinale a opção correta.
+O O paciente B apresenta maior risco à doença e a conduta clínica deverá estar focada no uso de estatina,
+enquanto que, para o paciente A, o foco seria a dieta hipolipídica, para se evitar o diabetes.
+O O paciente A apresenta maior risco à doença e a conduta clínica deverá estar focada no uso de estatina,
+pois, diferentemente do paciente B, somente a dieta hipocolesterolêmica não será suficiente para diminuir
+o risco de formação de ateroma.
+O O paciente B apresenta maior risco à doença e a conduta clínica deverá estar focada no uso de dieta
+hipocolesterolêmica, enquanto que a do paciente A deverá adotar dieta hipocolesterolêmica/hipolipídica
+associada ao uso de estatina.
+O O paciente A apresenta maior risco à doença e a conduta clínica deverá estar focada na dieta
+hipocolesterolêmica, enquanto o paciente B deverá receber orientações para hábitos saudáveis e
+minimizar outros fatores.
+O Não há como comparar o risco entre os pacientes, visto que a análise do aspecto do soro revela a presença
+de lipemia, evidenciando que o jejum de 12 horas não foi respeitado pelo paciente A e que novo material
+deverá ser colhido.</Unicode></TextEquiv></TextRegion></Page></PcGts>

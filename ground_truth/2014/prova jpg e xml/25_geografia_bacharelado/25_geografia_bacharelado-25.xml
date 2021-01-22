@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T04:09:58</Created>
+	<LastChange>2020-11-22T14:03:05</LastChange></Metadata>
+	<Page imageFilename="25_geografia_bacharelado-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="84,236 255,236 255,296 1539,296 1539,407 1537,407 1537,458 1174,458 1174,1765 1535,1765 1535,1989 85,1989 85,1988 84,1988 84,1711 352,1711 352,407 85,407 85,406 84,406"/>
+	<ImageRegion id="r1">
+	<Coords points="221,465 221,1671 1539,1671 1539,465"/></ImageRegion>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO 23
+Os dados geográficos tornam-se mais significativos quando observados num contexto espacial. Por isso,
+o geógrafo utiliza-se da cartografia para visualizar a distribuição espacial dos fenômenos, como pode ser
+observado no mapa a seguir.
+FERREIRA, C. C.; SIMÕES, N. N. Tratamento estatístico e gráfico em geografia. Lisboa: Gravida, 2 ed, 1987 (adaptado).
+Qual afirmação corresponde à classificação correta do mapa apresentado acima?
+O Mapa quantitativo, coropleto, adequado para representar distribuições espaciais de dados que se refiram a áreas.
+O Mapa qualitativo, de isolinhas, com representação de fenômenos cuja medição se refere a um ponto no espaço.
+O Mapa quantitativo, numérico, com distribuição de pontos de acordo com o fenômeno representado.
+O Mapa qualitativo, pictórico, com simbologia geométrica proporcional aos dados cartografados.
+O Mapa qualitativo, figurativo, com signos relacionados à quantidade da variável representada.</Unicode></TextEquiv></TextRegion></Page></PcGts>

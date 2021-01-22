@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:18:14</Created>
+	<LastChange>2020-11-22T03:26:48</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="832,238 1003,238 1003,302 1538,302 1538,731 1537,731 1537,867 1538,867 1538,1482 1537,1482 1537,1763 1538,1763 1538,1840 1537,1840 1537,1937 1426,1937 1426,1989 832,1989 832,1646 831,1646 831,1513 880,1513 880,836 833,836 833,731 831,731 831,302 832,302"/>
+	<TextEquiv conf="0.96727">
+	<Unicode>QUESTÃO 30
+A Lei de Dulong e Petit oferece uma boa previsão para
+o calor específico de muitos sólidos com estrutura
+cristalina relativamente simples. Essa lei estabelece
+que o calor específico (a volume constante) de todos
+os sólidos, Cc, é igual a 6 cal/mol *C ou, simplesmente,
+C, = 3R, em que R é a constante universal dos gases.
+Contudo, foram descobertas exceções a essa lei. Além
+disso, experiências mostram que o calor específico
+varia ao se reduzir a temperatura, tendendo a zero
+quando a temperatura tende a O K.
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Albert Einstein introduziu um modelo para
+descrever o calor específico dos sólidos, o
+qual foi bem-sucedido quando comparado
+com os dados experimentais para qualquer
+valor de temperatura, tanto qualitativamente
+quanto quantitativamente.
+PORQUE
+Ill. Para dar conta das propriedades térmicas
+de sólidos cristalinos, o modelo de Einstein
+considerou o sólido formado por uma rede
+de osciladores em que todos os átomos
+da rede vibram em torno de suas posições
+de equilíbrio com a mesma frequência de
+forma quantizada.
+A respeito das asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,294 790,294 790,543 789,543 789,1579 790,1579 790,1644 789,1644 789,1726 470,1726 470,1778 322,1778 322,2007 84,2007 84,543 83,543 83,294 84,294"/>
+	<TextEquiv conf="0.90747">
+	<Unicode>QUESTÃO 29
+A figura abaixo mostra a representação esquemática
+de dois microestados de um sistema de dois níveis
+de energia. Os círculos representam partículas e
+os quadrados estados possíveis de energia dessas
+partículas. Um macroestado de um sistema é
+caracterizado por um conjunto de microestados, todos
+compatíveis com as propriedades macroscópicas.
+Sobre a situação descrita, avalie as afirmações a seguir.
+|. Os microestados A e B pertencem a um
+mesmo macroestado.
+Il. Os microestados A e B têm as mesmas
+energias totais.
+Ill. Os microestados A e Btêm os níveis de energia
+com as mesmas degenerescências.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+OEM,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,239 807,2021 813,2021 813,239"/></SeparatorRegion></Page></PcGts>

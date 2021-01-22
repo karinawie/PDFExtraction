@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:04:14</Created>
+	<LastChange>2020-09-24T18:04:22</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,292 1537,292 1537,392 872,392 872,504 1538,504 1538,567 1353,567 1353,811 85,811 85,810 84,810 84,613 83,613 83,584 124,584 124,392 85,392 85,391 84,391"/>
+	<TextEquiv conf="0.89230">
+	<Unicode>QUESTÃO 28
+Um cientista afirma ter encontrado uma redução polinomial de um problema NP-Completo para um
+problema pertencente à classe P. Considerando que esta afirmação tem implicações importantes no que
+diz respeito à complexidade computacional, avalie as seguintes asserções e a relação proposta entre elas.
+|. A descoberta do cientista implica P = NP.
+PORQUE
+Il. A descoberta do cientista implica na existência de algoritmos polinomiais para todos os problemas
+NP-Completos.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a |l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="83,833 255,833 255,875 256,875 256,876 1538,876 1538,1172 1255,1172 1255,1382 1540,1382 1540,1447 1538,1447 1538,1739 1537,1739 1537,1740 574,1740 574,1783 217,1783 217,1984 84,1984 84,1800 85,1800 85,1748 130,1748 130,1738 131,1738 131,1676 132,1676 132,1447 85,1447 85,1446 84,1446 84,982 83,982"/>
+	<TextEquiv conf="0.96354">
+	<Unicode>QUESTÃO 29
+Diferentes implementações da linguagem de programação PROLOG permitem predicados com parâmetros,
+aceitam as operações de conjunção e disjunção lógica, utilizando os símbolos vírgula (conjunção) e ponto e
+vírgula (disjunção), e a negação lógica com o predicado not.
+Considere que um programador propoz as cláusulas mostradas a seguir, definidas em uma linguagem de
+programação como PROLOG, como parte da verificação de critérios para seleção de candidatos a uma chapa
+de presidente e vice-presidente de uma empresa. Estas cláusulas apresentam as premissas para chegar às
+conclusões selecionados, desconsiderados e descartado, a partir da possibilidade da existência de fatos ou
+regras com o identificador superior.
+superior (jorge).
+superior (ana).
+selecionados (P,Q) :- superior(P), superior (0).
+desconsiderados (P,Q) :- not (superior (P)); not (superior (Q)).
+descartado(P) :- not (superior (P)).
+Considerando apenas as colocações e cláusulas acima e a hipótese de mundo fechado (closed world
+assumption), avalie as afirmações a seguir.
+|. Para todos valores dos parâmetros P e Q, o predicado selecionados retornará um valor lógico falso.
+ll. Para todos valores de P e Q, os predicados selecionados e desconsiderados retornarão
+valores lógicos diferentes.
+Ill. A conjunção dos predicados selecionados e desconsiderados, para quaisquer valores de PeQ,
+retornará um valor lógico verdadeiro.
+IV. Para qualquer valor do parâmetro P, o predicado descartado retornará um valor verdadeiro.
+V. A disjunção dos predicados selecionados e desconsiderados, para quaisquer valores de Pe Q,
+retornará um valor lógico verdadeiro.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oiliev
+O lIlelv.
+O Wvev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

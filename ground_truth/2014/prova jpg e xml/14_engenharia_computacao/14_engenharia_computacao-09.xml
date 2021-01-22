@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:18:22</Created>
+	<LastChange>2020-11-21T19:32:50</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,238 411,238 411,297 1537,297 1537,497 1538,497 1538,926 131,926 131,925 130,925 130,704 84,704 84,646 83,646 83,433 85,433 85,269 83,269"/>
+	<TextEquiv conf="0.93052">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Um grafo orientado com n vértices pode ser armazenado na seguinte matriz de adjacência: para cada i, j, com
+1€&lt;1i,j&lt; n, M[ill[]] =1, se a aresta orientada (i, j|) pertence ao conjunto de arestas do grafo; caso contrário,
+ML] = O.
+Com base nessas informações, faça o que se pede nos itens a seguir.
+a) Escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e produza
+a matriz de adjacência do grafo com as arestas reversas. O grafo representado pela matriz resultante
+deverá conter a aresta (i, j) se, e somente se, a aresta (/, i) pertence ao grafo representado pela matriz de
+entrada. (valor: 5,0 pontos)
+b
+Escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e
+imprima todos os ciclos orientados de tamanho 3 desse grafo. Para isso, considere que o ciclo orientado
+(1,2,3) é o mesmo que (2,3,1), porém o ciclo orientado (1,2,3) é diferente do ciclo orientado (3,2,1), de
+forma que ambos devem ser impressos, caso pertençam ao grafo. (valor: 5,0 pontos)
+Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos
+pode ser utilizada, assim como em uma linguagem de alto nível, como Pascal, C ou Java.</Unicode></TextEquiv></TextRegion></Page></PcGts>

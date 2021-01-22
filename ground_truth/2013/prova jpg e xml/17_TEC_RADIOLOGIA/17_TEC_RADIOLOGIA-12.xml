@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:48:49</Created>
+	<LastChange>2020-10-28T17:06:27</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-12.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="81,235 252,235 252,293 1535,293 1535,2007 809,2007 809,2008 83,2008 83,2009 82,2009 82,510 81,510"/>
+	<ImageRegion id="r1">
+	<Coords points="228,610 228,1505 1531,1505 1531,610"/></ImageRegion>
+	<TextEquiv conf="0.96337">
+	<Unicode>QUESTÃO 15
+A Eficiência Biológica Relativa (EBR) mede a influência da qualidade de um tipo de radiação na
+produção de efeitos radiobiológicos no tecido e nos sistemas biológicos irradiados. Ela depende da dose
+de radiação, da taxa de dose, do fracionamento da dose e da idade da pessoa exposta. A EBR é uma função
+da qualidade da radiação, a qual é expressa pela Transferência Linear de Energia (LET), que representa
+a perda média de energia, por colisão, de uma partícula carregada por unidade de comprimento da
+trajetória no tecido irradiado.
+A figura abaixo ilustra a probabilidade de surgimento de efeitos biológicos estocásticos em função da dose
+de radiação administrada.
+Com base na figura apresentada, assinale a opção correta.
+A Considerando uma mesma dose total de radiação absorvida, o efeito estocástico é maior quando a dose
+de radiação for fracionada, tanto para radiações de alto quanto para baixo LET.
+B Considerando as radiações de alto e baixo LET, conclui-se que nos dois casos os efeitos biológicos
+estocásticos crescem na mesma proporção.
+C Utilizando radiação de alto LET, a probabilidade de surgimento de efeito estocástico é maior quando a
+dose de radiação absorvida for fracionada.
+D Utilizando radiação de baixo LET, a probabilidade de surgimento de efeito estocástico diminui com o
+aumento da dose de radiação absorvida.
+E Considerando uma mesma dose de radiação absorvida, o efeito estocástico é maior quando a dose de
+radiação for liberada em fração única, tanto para radiações de alto quanto para baixo LET.</Unicode></TextEquiv></TextRegion></Page></PcGts>

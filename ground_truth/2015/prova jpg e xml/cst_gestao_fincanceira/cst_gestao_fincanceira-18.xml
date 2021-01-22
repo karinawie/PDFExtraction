@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T23:59:20</Created>
+	<LastChange>2020-11-07T00:14:20</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_fincanceira-18.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="825,233 1536,233 1536,264 1533,264 1533,417 1532,417 1532,418 1509,418 1509,563 1435,563 1435,740 1533,740 1533,810 1056,810 1056,1098 825,1098 825,810 824,810 824,740 826,740 826,563 825,563 825,418 823,418 823,417 824,417 824,308 825,308"/>
+	<TextEquiv conf="0.38481">
+	<Unicode>QUESTÃO 18
+Uma empresa efetuou três depósitos mensais de
+R$ 20 000,00 em uma aplicação que remunera em
+juros compostos a uma taxa de 10% ao mês.
+Considerando que
+(1+1)" — |
+Fórmula: Montante = prestação * |
+1
+Fator: [2 =3,1=10%)=3,31
+2
+Ao final do período, o valor do montante da série de
+pagamentos é igual a
+O R$ 60 000,00.
+O R$ 64 300,00.
+O R$ 65 000,00.
+O R$ 66 200,00.
+O R$ 70 000,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,233 790,233 790,264 788,264 788,374 202,374 202,1295 788,1295 788,1407 194,1407 194,1697 80,1697 80,1407 79,1407 79,1295 80,1295 80,339 79,339 79,310 80,310"/>
+	<TextEquiv conf="0.38277">
+	<Unicode>QUESTÃO 17
+A seguir são apresentados os demostrativos de
+resultados de dois anos consecutivos de uma
+empresa.
+Com base nos números apresentados nas tabelas,
+verifica-se que o grau de alavancagem financeira da
+empresa é igual a
+O 5,00.
+O 2,50.
+OE 2,00.
+O 0,60.
+O 0,40.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="78,436 78,976 789,976 789,436"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="76,1002 76,1252 789,1252 789,1002"/></TableRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="802,231 802,2031 810,2031 810,231"/></SeparatorRegion></Page></PcGts>

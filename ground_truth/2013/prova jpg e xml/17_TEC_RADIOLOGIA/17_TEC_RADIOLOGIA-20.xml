@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:47:11</Created>
+	<LastChange>2020-10-28T17:00:01</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-20.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="830,235 1000,235 1000,294 1537,294 1537,1012 1535,1012 1535,1091 1534,1091 1534,1223 1535,1223 1535,1292 1534,1292 1534,1433 1535,1433 1535,1756 1536,1756 1536,1980 1176,1980 1176,1981 1175,1981 1175,2009 877,2009 877,2010 876,2010 876,1756 877,1756 877,1540 876,1540 876,1459 830,1459 830,1135 831,1135 831,1134 841,1134 841,1014 829,1014 829,236 830,236"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 27
+O desenvolvimento das novas tecnologias para
+o radiodiagnóstico proporcionou a substituição dos
+sistemas convencionais de aquisição de imagens
+(analógica), por tecnologias digitais. A fim de
+serem verdadeiramente efetivas, as tecnologias
+digitais necessitam de sistemas informatizados
+para a aquisição, o processamento, a exibição,
+Oo armazenamento e a transmissão das imagens
+médicas. Paratanto, a padronização através da DICOM
+(Comunicação de imagens digitais em Medicina) foi
+fundamental para o desenvolvimento e implantação
+dos sistemas PACS (Sistema de arquivamento e
+comunicação de imagens). O PACS é uma opção
+tecnológica para as referidas tarefas necessárias nos
+serviços de radiodiagnóstico, formando, em conjunto
+comRiIS (Sistemas de Informação em Radiologia) e o
+HIS (Sistema de Informação Hospitalar), a base para
+um serviço de radiologia com sistema CR (Computed
+Radiography) ou DR (Digital Radiography).
+BUSHONG, S. C. Manual de Radiologia para Técnicos. 9 ed. Houston:
+Elsevier Mosby, 2010 (adaptado).
+Com relação aos sistemas digitais de imagens em
+radiodiagnóstico, é correto afirmar que
+O a tecnologia DR é a única que pode ser utilizada
+com o padrão DICOM, juntamente com o PACS.
+O os sistemas conhecidos como DR necessitam da
+utilização de placas de imagem (Image Plate) em
+substituição ao chassi e ao filme radiográfico.
+O os sistemas CR são mais eficazes, pois as imagens
+digitais são produzidas no próprio aparelho de
+raios-X e enviadas para o computador na forma
+de sinais elétricos.
+os sistemas CR e DR são considerados tecnologias
+digitais, e seus produtos finais, as imagens
+médicas, podem ser utilizados em formato
+DICOM, juntamente com o PACS.
+o padrão DICOM desenvolve protocolos
+de linguagens diferentes para cada tipo de
+equipamento digital, mas as diferenças entre
+equipamentos e seus respectivos programas
+informatizados não prejudicam a transferência
+de imagens e informações entre dispositivos de
+fabricantes diferentes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,295 787,295 787,707 786,707 786,819 787,819 787,931 786,931 786,1243 787,1243 787,1395 84,1395 84,1396 83,1396 83,1243 129,1243 129,1104 82,1104 82,708 81,708"/>
+	<TextEquiv conf="0.84239">
+	<Unicode>QUESTÃO 26
+A mamografia periódica é importante na detecção
+precoce do câncer de mama, tendo em vista que as
+lesões mamárias podem ser diagnosticadas antes de
+se tornarem sintomáticas ou formarem metastases.
+Atualmente, para o diagnóstico do câncer de mama
+existem três diferentes formas para aquisição de
+imagem mamográfica por raios-X: convencional,
+digital e computadorizada.
+Sobre o sistema de mamografia e suas características,
+é correto afirmar que
+Oa mamografia computadorizada
+apresentação das imagens em 3D.
+permite a
+O amelhor maneira de controlar a dose da paciente
+na mamografia convencional é por meio do uso
+de filmes mais rápidos.
+O os benefícios do sistema de mamografia
+convencional são a alta resolução da imagem e a
+menor dose possível de radiação.
+O na mamografia digital, o processamento e a
+manipulação da imagem pós-exposição evitam
+novas exposições do paciente, além de reduzir a
+dose de radiação.
+O em uma mamografia convencional,
+independentemente da qualidade da imagem,
+não se consegue uma boa visualização de
+detalhes, nitidez, margens e tecidos moles.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="805,223 805,2010 813,2010 813,223"/></SeparatorRegion></Page></PcGts>

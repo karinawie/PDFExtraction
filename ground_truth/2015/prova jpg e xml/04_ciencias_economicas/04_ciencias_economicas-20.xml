@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T06:01:25</Created>
+	<LastChange>2020-11-16T01:05:38</LastChange></Metadata>
+	<Page imageFilename="04_ciencias_economicas-20.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="110,1231 110,1505 1528,1505 1528,1231"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="76,1581 76,1907 1528,1907 1528,1581"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,233 1536,233 1536,264 1533,264 1533,912 1534,912 1534,1018 1535,1018 1535,1202 80,1202 80,1203 79,1203 79,1018 80,1018 80,881 79,881 79,307 80,307"/>
+	<TextEquiv conf="0.46831">
+	<Unicode>QUESTÃO 16
+A decisão do Comitê de Política Monetária (Copom) do Banco Central do Brasil, divulgada em 29/07/2015,
+de elevar a taxa de juros básica da economia em 0,5%, para o nível de 14,25% ao ano, corresponde a uma
+contração monetária e implica menor nível de atividade econômica nos próximos períodos. A relação entre o
+nível de atividade econômica, medido pela taxa de desemprego, e a taxa de inflação é estudada por meio da
+versão moderna da Curva de Phillips. Os dados mensais no período de novembro de 2012 a abril de 2015
+(30 observações) para essas duas variáveis foram obtidos na página do Instituto de Pesquisa Econômica
+Aplicada (IPEA). A componente cíclica do desemprego foi obtida utilizando-se o filtro Hodrick-Prescott.
+A Curva de Phillips aumentada pelas expectativas pode ser especificada como:
+Tm=Tº-e(u-Un)
+em que se presume que as expectativas de inflação são a própria inflação passada 7º = Tr, 1,0 que
+resulta em
+AT = —e (ur — Un),
+em que AT = T;, — T, | é a variação da inflação, u, é o nível de desemprego, u,, é a taxa natural de
+desemprego e € é a resposta da inflação aos desvios do desemprego em relação à taxa natural de desemprego.
+Utilizando-se um modelo de regressão simples entre a variação da inflação e o ciclo de desemprego, o
+coeficiente E foi estimado em -0,7, com uma probabilidade exata do teste (p-valor ou nível empírico de
+significância) associado de 0,0865. Nas figuras abaixo, estão dispostos a evolução da variação da inflação
+(em azul) e do ciclo de desemprego (em vermelho) e também o diagrama de dispersão para essas duas
+variáveis, com a reta de regressão ajustada (em preto) para os dados da economia brasileira.</Unicode></TextEquiv></TextRegion></Page></PcGts>

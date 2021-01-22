@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:42:32</Created>
+	<LastChange>2020-11-21T21:23:01</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r65" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,632 1539,632 1539,740 1537,740 1537,1252 1053,1252 1053,1253 568,1253 568,1254 84,1254 84,1255 83,1255 83,1185 84,1185 84,602 83,602 83,298 84,298"/>
+	<ImageRegion id="r1">
+	<Coords points="460,755 460,1165 1173,1165 1173,755"/></ImageRegion>
+	<TextEquiv conf="0.96526">
+	<Unicode>QUESTÃO 19
+Um transformador monofásico consiste essencialmente de duas bobinas com núcleo comum. Alimentando
+um dos enrolamentos com tensão alternada, com o respectivo valor de tensão nominal, tem-se um fluxo
+magnético variável que, agindo no interior do núcleo, atinge o outro enrolamento, provocando o aparecimento
+de uma tensão alternada nesse enrolamento por conta da indução magnética. O núcleo do transformador
+monofásico normalmente é constituído de material ferromagnético e o fluxo magnético variável atuará
+também sobre o núcleo e produzirá correntes induzidas (parasitas) nesse ferro. Para minimizar os efeitos das
+correntes parasitas são utilizadas chapas de ferro magnético, de espessura reduzida, isoladas eletricamente
+uma da outra e montadas em forma de núcleo.
+Considere um transformador monofásico 220V/110V, 60 Hz, que possui um núcleo formado por lâminas
+de material ferro-silício (Fe-Si), conforme ilustrado na figura 1 e que está operando a vazio, com o primário
+alimentado com os valores nominais de tensão e frequência.
+Sabe-se ainda que a densidade de fluxo mágnético (B ) em função das perdas por quilograma de material,
+em 60 Hz, varia conforme mostrado na figura 2.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="276,1278 276,1915 1363,1915 1363,1278"/></ImageRegion></Page></PcGts>

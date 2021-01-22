@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:32:50</Created>
+	<LastChange>2020-12-06T03:42:19</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,783 1600,783 1600,1035 1599,1035 1599,1227 1600,1227 1600,1298 895,1298 895,1299 894,1299 894,1036 893,1036 893,748 892,748 892,359 893,359"/>
+	<TextEquiv conf="0.96586">
+	<Unicode>QUESTÃO 21
+Em um cenário de administração de Servidores de
+Redes, um administrador realiza a publicação de
+um site no servidor web com a funcionalidade de
+vhost (virtual host) no arquivo de configuração do
+sistema operacional. Em seguida, ele cria o diretório
+e armazena nesse local todo o conteúdo necessário
+para o correto funcionamento do site. Após essas
+ações, no entanto, o administrador percebe que o
+site não está funcionando, mesmo após o reinício do
+daemon do serviço do servidor web.
+Considerando que o servidor de DNS (Domain
+Name System) está configurado corretamente,
+o procedimento pendente a ser realizado pelo
+administrador para o correto funcionamento do site é
+O habilitar a funcionalidade de DNS no vhost do site.
+O iniciar o daemon do serviço web em modo seguro.
+O verificar as permissões dos arquivos declarados
+no vhost.
+O habilitar a porta 80 para atender o vhost no
+arquivo de configuração.
+O adicionar a entrada NS no servidor de DNS
+apontando para o endereço do vhost do site.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,356 851,356 851,687 852,687 852,976 851,976 851,1298 852,1298 852,1744 532,1744 532,1797 367,1797 367,1908 424,1908 424,2029 146,2029 146,1817 147,1817 147,1763 240,1763 240,1633 217,1633 217,1595 239,1595 239,1281 210,1281 210,976 195,976 195,687 194,687 194,662 145,662 145,609 144,609 144,356 145,356"/>
+	<TextEquiv conf="0.95106">
+	<Unicode>QUESTÃO 20
+Os Sistemas Operacionais de Redes (SOR) são uma
+extensão dos Sistemas Operacionais Locais (SOL),
+voltados para tornar transparente o uso dos recursos
+compartilhados, com funções de gerenciamento do
+acesso ao sistema de comunicação e às estações
+remotas para utilização de recursos de hardware e
+software remotos.
+Com relação aos SOR, avalie as afirmações a seguir.
+|. A extensão do sistema operacional das
+estações é feita por meio de um módulo
+redirecionador que funciona interceptando
+as chamadas das aplicações ao sistema
+operacional local, desviando aquelas que
+dizem respeito a recursos remotos para O
+módulo do sistema operacional de rede, que
+providencia o acesso ao dispositivo remoto.
+II. A interface entre as aplicações e o sistema
+operacional! baseia-se em interações
+solicitação/resposta. A aplicação solicita um
+serviço, por meio de uma chamada ao sistema
+operacional que executa o serviço solicitado e
+responde, informando o status da operação e
+transferindo os dados resultantes da execução
+para a aplicação, quando for o caso.
+III.A interação cliente-servidor constitui-se no
+modo básico dos sistemas operacionais de
+redes. As estações que disponibilizam seus
+recursos a outras estações devem possuir a
+entidade (ou módulo) servidor. As estações
+que permitem que suas aplicações utilizem
+recursos compartilhados com outras estações
+devem possuir a entidade (ou módulo) cliente.
+IV. Pode-se classificar os módulos de um SOR
+instalados nas estações em dois tipos: SORC
+(módulo cliente) e SORS (módulo servidor do
+sistema operacional).
+É correto o que se afirma em
+O |, apenas.
+O lell, apenas.
+O Ill elV, apenas.
+O 1, Il e IV, apenas.
+OI,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,288 869,2080 877,2080 877,288"/></SeparatorRegion></Page></PcGts>

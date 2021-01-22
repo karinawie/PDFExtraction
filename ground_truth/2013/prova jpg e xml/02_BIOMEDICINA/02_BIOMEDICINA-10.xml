@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:22:50</Created>
+	<LastChange>2020-09-25T03:27:55</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-10.jpg" imageWidth="1610" imageHeight="2164">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="78,232 250,232 250,292 1532,292 1532,1346 1249,1346 1249,1469 1347,1469 1347,1546 1089,1546 1089,1592 672,1592 672,1639 79,1639 79,1640 79,1403 78,1403 78,1375 127,1375 127,935 128,935 128,817 79,817 79,601 78,601"/>
+	<TextEquiv conf="0.96804">
+	<Unicode>QUESTÃO 10
+Os mecanismos envolvidos na expressão e interação dos genes, assim como a compreensão das redes
+funcionais estabelecidas pelas proteínas, fazem com que, no cenário científico atual, a genômica e a proteômica
+estejam cada vez mais em evidência. Quatro são os principais bancos de dados utilizados para as diferentes
+análises de nucleotídeos. Um deles é o INSDC (INTERNATIONAL NUCLEOTIDE SEQUENCE DATABASE), que
+disponibiliza um repertório de sequências e é resultado da associação de três bancos de dados parceiros,
+o DDBJ (DATA BANK OF JAPAN), o EMBL (EMBL NUCLEOTIDE SEQUENCE DATABASE) e o GenBank. Devido à
+sua designação como provedor de dados primários, EMBL/DDBJ/GenBak é fonte inicial de muitos bancos de
+dados em biologia molecular.
+Como exemplos de bancos de dados de sequências genômicas secundárias, pode-se citar o Ensembl,
+o RefSseg e o Genome Review, que representa uma versão da sequência original de um cromossomo ou
+plasmídeo, com informações importadas de fontes que incluem o UniProt (UNIVERSAL PROTEIN RESOURCE),
+o Gene Ontology (GO), o projeto GOA (GO ANNOTATION), o InterPro e o HoGenom, além de serem
+disponibilizadas referências cruzadas com 18 bancos de dados .
+ESPINDOLA, F. S. et al. Recursos de bioinformática aplicados às ciências ômicas como genômica, transcriptômica, proteômica, interatômica e
+metabolômica. Bioscience Journal, Uberlândia, v. 26, n. 3, p. 463-477, Maio/Junho 2010 (adaptado).
+Nesse contexto, avalie as seguintes asserções e a relação proposta entre elas.
+|. As informações disponíveis nos bancos de dados de sequências possibilitam o desenvolvimento de
+pesquisas in silico, dependendo dos métodos interpretativos e programas de análises envolvidos,
+sendo que os bancos de dados de sequências fornecem informações sobre diversos genes, que podem
+ser utilizadas de forma rápida, independentemente do tipo de processamento.
+PORQUE
+Il. As informações contidas nos bancos de dados de sequências são validadas quando analisadas
+juntamente com as informações provenientes dos bancos INSDC, Ensembl, RefSseq e Genome Review,
+sendo que as informações dos bancos de dados secundários são independentes das informações
+presentes nos bancos primários.
+Acerca dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a |l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

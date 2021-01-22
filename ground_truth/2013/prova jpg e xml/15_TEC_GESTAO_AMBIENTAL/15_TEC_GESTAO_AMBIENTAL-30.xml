@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T14:29:25</Created>
+	<LastChange>2020-10-28T14:35:55</LastChange></Metadata>
+	<Page imageFilename="15_TEC_GESTAO_AMBIENTAL-30.jpg" imageWidth="1614" imageHeight="2165">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="82,235 408,235 408,308 1535,308 1535,337 1534,337 1534,497 945,497 945,549 730,549 730,550 212,550 212,1596 1535,1596 1535,1930 1301,1930 1301,1931 1067,1931 1067,1932 833,1932 833,1933 599,1933 599,1934 365,1934 365,1935 355,1935 355,1972 180,1972 180,1973 179,1973 179,1936 130,1936 130,1551 129,1551 129,550 81,550 81,236 82,236"/>
+	<TextEquiv conf="0.96404">
+	<Unicode>QUESTÃO DISCURSIVA 5
+As áreas úmidas como o Pantanal são reconhecidamente importantes pela diversidade biológica que
+contêm e pelas funções ecológicas que oferecem, estando entre os ecossistemas mais produtivos da Terra.
+Proporcionam um conjunto complexo de bens e serviços, cujos benefícios têm substancial valor econômico.
+Contudo, esse reconhecimento é recente; até poucos anos atrás essas áreas eram vistas como áreas que
+deveriam ser “melhoradas”, isto é, convertidas para outros usos.
+Notas:
+*º Osvalores máximos (A e C) consideram o valor de existência como sendo 91% da soma do valor de
+uso com o valor de opção; os valores mínimos (B e D) consideram o valor de existência como sendo
+$ 6 /ha/ano.
+*º EmAeB,ovalor de opção foi calculado como sendo 16% do valor de uso.
+º EmCebD,ovalor de opção foi calculado como sendo 3% do valor de uso.
+º A diferença entre A e Be entre C e D está somente no valor de existência.
+º As diferenças no valor de uso direto se devem aos diferentes valores de ecoturismo utilizados
+nos cálculos.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="84,581 84,1497 1552,1497 1552,581"/></TableRegion></Page></PcGts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:30:41</Created>
+	<LastChange>2020-12-05T22:39:10</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,508 1490,508 1490,666 1501,666 1501,733 1599,733 1599,974 1243,974 1243,1084 1598,1084 1598,1113 1480,1113 1480,1424 1132,1424 1132,1533 894,1533 894,1164 942,1164 942,1084 988,1084 988,974 942,974 942,695 895,695 895,666 896,666 896,508 892,508 892,359 893,359"/>
+	<TextEquiv conf="0.96685">
+	<Unicode>QUESTÃO 28
+Com aplicações em eletrostática e mecânica, o
+Teorema de Green relaciona integrais de linha com
+integrais duplas. Seu resultado pode ser expresso
+pela igualdade
+fo [ [ER
+Nesse contexto, avalie as afirmações a seguir.
+l ré uma curva plana simples, fechada,
+diferenciável ou diferenciável por partes e À
+é a região delimitada por r.
+1. F=(F,F)é um campo vetorial de classe C'
+definido em um conjunto aberto do R?º que
+contém a região A.
+oOFz OF,
+Il. &lt;&lt; — —- é uma expressão que se anula
+Ox Oy
+para campos vetoriais conservativos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LI1e,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 851,359 851,1126 858,1126 858,1235 532,1235 532,1347 375,1347 375,1458 384,1458 384,1537 146,1537 146,1257 239,1257 239,1150 194,1150 194,1034 145,1034 145,783 144,783 144,359 145,359"/>
+	<TextEquiv conf="0.86958">
+	<Unicode>QUESTÃO 27
+Ao se trabalhar com funções de variáveis complexas a
+valores complexos é possível, por meio das equações
+de Cauchy-Riemann, utilizar algumas propriedades
+estudadas no cálculo diferencial para funções de duas
+variáveis reais a valores reais. Para isso, considere
+UcCT um subconjunto aberto, não vazio e conexo
+do plano complexo Ce f: Vc T —&gt; CT uma função
+definida por f(x + iy) = u(x, y) + iv(x, y), para
+quaisquer x + iy e U onde uv: D c Rº &gt; R são
+funções reais de variáveis reais e D é um subconjunto
+aberto de R?.
+A partir dessas informações, avalie as afirmações a
+seguir.
+|. Se fé uma função analítica tal que ((U) &lt; R,
+então fé uma função constante.
+Il. Se fé uma função analítica e a sua conjugada
+f :UC CT —&gt; C também é analítica, então f é
+uma função constante.
+III. Se fé uma função analítica e a função módulo
+de f |f| : Vc TC &gt; C, é constante, então f
+também é uma função constante.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1Iel,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="875,2083 875,297"/></SeparatorRegion></Page></PcGts>

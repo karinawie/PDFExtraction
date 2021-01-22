@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:31:45</Created>
+	<LastChange>2020-12-06T00:02:41</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-15.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="893,299 1064,299 1064,355 1599,355 1599,356 1600,356 1600,570 1579,570 1579,859 894,859 894,860 893,860"/>
+	<TextEquiv conf="0.95794">
+	<Unicode>QUESTÃO 15
+Uma função diferenciável, f, crescente a partir da
+origem e situada no primeiro quadrante é tal que
+a área da região sob seu gráfico e acima do eixo
+das abscissas, de O até x, vale um quinto da área
+do triângulo com vértices nos pontos (0, O), (x,y)
+e (x, 0), em que y = f (x).
+A equação diferencial que descreve essa situação é
+O nw-NW=rx
+O 1 -9y=0.
+O Py-9y=O0.
+O y-9nm=0.
+O y-97y=0.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,356 852,356 852,938 371,938 371,1011 298,1011 298,1017 145,1017 145,642 144,642 144,356 145,356"/>
+	<TextEquiv conf="0.66577">
+	<Unicode>QUESTÃO 14
+Um problema muito comum em geometria é o das
+trajetórias ortogonais, o que equivale a dizer que,
+dada uma curva de uma família, ela intercepta uma
+curva da outra família de modo que suas tangentes
+são perpendiculares entre si, no ponto de interseção.
+Esse problema pode ser abordado, também, pelo
+cálculo diferencial e integral e, consequentemente,
+pelas equações diferenciais ordinárias.
+Com o auxílio dessas informações, conclui-se que,
+para c e k números reais não nulos, no plano de
+coordenadas cartesianas xOy, a família de trajetórias
+ortogonais à família de hipérboles xy = c é dada por
+Oxs-y=k
+Or+y=k
+Or-y=k
+Or+y
+exr-y</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,297 869,2088 872,2088 872,297"/></SeparatorRegion></Page></PcGts>

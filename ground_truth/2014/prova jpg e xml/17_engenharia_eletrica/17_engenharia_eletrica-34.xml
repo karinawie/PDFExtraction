@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:40:02</Created>
+	<LastChange>2020-11-21T21:07:19</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-34.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="83,306 1538,306 1538,1180 1539,1180 1539,1346 1538,1346 1538,1656 470,1656 470,1783 313,1783 313,2004 84,2004 84,1685 132,1685 132,1146 84,1146 84,527 83,527"/>
+	<TableRegion id="r1">
+	<Coords points="310,542 310,900 1313,900 1313,542"/></TableRegion>
+	<TextEquiv conf="0.96205">
+	<Unicode>QUESTÃO 34 - Sistemas de Energia Elétrica
+A Resolução Normativa ANEEL n.º 414/2010, atualizada em 2013, dispõe sobre as condições gerais de
+fornecimento de energia elétrica, onde se define, entre outros pontos, a estrutura tarifária horária branca
+para os consumidores do Grupo B. Assuma que o quadro a seguir mostra tarifas de energia elétrica referentes
+à classe residencial, subclasse B1, a serem praticadas a partir de 2015 por empresas distribuidoras autorizadas
+pela ANEEL.
+P: posto tarifário ponta (das 18h00min às 20h59min); INT: posto tarifário intermediário (1 hora imediatamente anterior e 1 hora
+imediatamente posterior ao posto tarifário ponta); FP: posto tarifário fora de ponta (período complementar aos postos tarifários
+ponta e intermediário); BVD: bandeira tarifária verde; BAM: bandeira tarifária amarela; BVM: bandeira tarifária vermelha.
+Considerando o sistema de bandeiras tarifárias, a estrutura tarifária horária branca apresentada no quadro e
+um mês de 30 dias, avalie as afirmações a seguir.
+|. Osistemade bandeiras tarifárias foi criado com o objetivo de refletir os custos de compra de energia sem
+um grande lapso de tempo entre os acionamentos das usinas de diferentes tipos e a correspondente
+repercussão tarifária, eliminando o sinal sazonal de período seco e úmido para as tarifas de energia
+dos clientes atendidos em alta tensão.
+Il. Na vigência da bandeira tarifária que reflete o menor custo de geração de energia, caso o consumidor
+opte por deslocar banhos diários de duração de 1 h do horário de ponta para o horário fora de ponta,
+em um chuveiro elétrico de 5 kW, a economia mensal é de R$ 15,00.
+Ill. Considerando que o consumo de um chuveiro a gás natural (GN) é de 0,1 m?/h e que o custo do GN é
+de R$ 4,00/m?, é economicamente vantajoso utilizar um chuveiro elétrico de 5 kW em detrimento de
+um chuveiro a GN, na vigência da bandeira verde, no horário fora de ponta (FP).
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1, 11e.</Unicode></TextEquiv></TextRegion></Page></PcGts>

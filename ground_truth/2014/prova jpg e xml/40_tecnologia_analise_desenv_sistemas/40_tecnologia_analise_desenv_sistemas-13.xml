@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:17:01</Created>
+	<LastChange>2020-12-06T02:44:56</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="893,304 1600,304 1600,468 1515,468 1515,644 1592,644 1592,772 1599,772 1599,1091 894,1091 894,1092 894,413 893,413"/>
+	<TextEquiv conf="0.96127">
+	<Unicode>Para que o algoritmo funcione corretamente,
+atendendo o requisito proposto, a mudança em sua
+estrutura que deve ser aplicada é
+O alteraralinha 15, de: return 0;para: ceturn
+count (countValue, array, O);
+O alterar a linha 18, de: if —(array[i]
+countValue) para: if (array[c]
+countValue)
+O alteraralinha21,de:c += count (countvalue,
+array, i);para:ic += count (countValue,
+array, i + 1);
+O alterar a linha 14, de: if
+(!hasValue (countValue, array, 1)
+|| i &gt;= array.length) para: if (i &gt;=
+array.length)
+O alterar a linhha 10) de return
+hasValue (searchValue, array, i+1);
+para: return hasValue(searchValue,
+array, i 1);</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,359 851,359 851,587 579,587 579,741 843,741 843,807 485,807 485,933 631,933 631,951 472,951 472,1076 815,1076 815,1219 844,1219 844,1332 418,1332 418,1458 604,1458 604,1476 472,1476 472,1601 699,1601 699,1620 379,1620 379,1666 220,1666 220,1792 740,1792 740,1840 818,1840 818,1888 832,1888 832,1905 818,1905 818,1954 147,1954 147,1955 146,1955 146,1859 145,1859 146,1859 146,1713 145,1713 145,1649 146,1649 146,708 145,708 145,694 146,694 146,588 144,588 144,359 145,359"/>
+	<TextEquiv conf="0.89950">
+	<Unicode>QUESTÃO 10
+A classe CountOccurrence escrita na linguagem
+Java, tem por objetivo localizar e contar quantas
+ocorrências de um determinado valor existem em
+um conjunto predeterminado de valores, retornando
+a quantidade de vezes que um determinado valor se
+repete no conjunto.
+1 public class CountConcurrence (
+2
+3 public boolean hasValue(int searchvalue, int[] array, int i) (
+4 if (i &gt;= array.length)
+5 return false;
+7 if (array[i] == searchValuve)
+8 return true;
+9 else
+10 return hasValue (searchValue, array, i + 1);
+11 )
+12
+13 public int count (int countvalue, int[] array, int i) (
+14 if (!hasvalue(countValue, array, i) || i &gt;= array.length)
+15 return O;
+16
+17 int c = O;
+18 if (array[i] == contValue)
+19 c++;
+20
+21 c += count (countValue, array, i);
+22 return c;
+23 )
+24
+25 public static void main(String[] args) (
+26 int[] array = (2, 3, 5, 6, 9, 7, 8, 8, 9);
+27 CountOccurrence co = new CountOccurrence();
+28 System.out .println(co.count(5, array, 0));</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,2088 869,288"/></SeparatorRegion></Page></PcGts>

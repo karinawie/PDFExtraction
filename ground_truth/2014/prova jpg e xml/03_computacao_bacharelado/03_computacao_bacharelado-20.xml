@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:07:19</Created>
+	<LastChange>2020-09-24T18:07:43</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="832,238 1003,238 1003,276 1537,276 1537,329 1538,329 1538,527 1441,527 1441,788 1325,788 1325,1166 1357,1166 1357,1351 1326,1351 1326,1619 1417,1619 1417,1643 1357,1643 1357,1956 832,1956 832,1771 886,1771 886,1618 887,1618 887,1351 886,1351 886,1035 887,1035 887,788 832,788 832,527 831,527 831,457 832,457"/>
+	<TextEquiv conf="0.96743">
+	<Unicode>QUESTÃO 24
+Considere as seguintes tabelas de um banco de dados:
+1. Fornecedor (cod fornec, nome fornec, telefone,
+cidade, UF)
+2. Estado (UF, nome estado)
+A expressão SQL que obtém os nomes dos estados
+para os quais não há fornecedores cadastrados é
+SELECT E.UF
+FROM Estado AS E
+O WHERE E.nome estado NOT IN (
+SELECT F.UF
+FROM Fornecedor AS F);
+SELECT E.nome estado
+FROM Estado AS E, FROM
+Fornecedor AS F
+WHERE E.UF = F.UF;
+SELECT E.nome estado
+FROM Estado AS E
+WHERE E.UF NOT IN (
+SELECT F.UF
+FROM Fornecedor AS F);
+SELECT E.nome estado
+FROM Estado AS E, FROM
+Fornecedor AS F
+WHERE E.nome estado = F.UF;
+SELECT E.nome estado
+FROM Estado AS E
+O WHERE E.UF IN (
+SELECT F.UF
+FROM Fornecedor AS F);</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,296 790,296 790,823 791,823 791,1330 790,1330 790,1476 84,1476 84,804 83,804 83,295 84,295"/>
+	<TextEquiv conf="0.96091">
+	<Unicode>QUESTÃO 22
+Considere o processo de fabricação de um produto
+siderúrgico que necessita passar por n tratamentos
+térmicos e químicos para ficar pronto. Cada uma das
+n etapas de tratamento é realizada uma única vez na
+mesma caldeira. Além do custo próprio de cada etapa
+do tratamento, existe o custo de se passar de uma etapa
+para outra, uma vez que, dependendo da sequência
+escolhida, pode ser necessário alterar a temperatura da
+caldeira e limpá-la para evitar a reação entre os produtos
+químicos utilizados. Assuma que o processo de fabricação
+inicia e termina com a caldeira limpa. Deseja-se projetar
+um algoritmo para indicar a sequência de tratamentos
+que possibilite fabricar o produto com o menor custo
+total. Nessa situação, conclui-se que
+O a solução do problema é obtida em tempo de
+ordem O(nlogn), utilizando-se um algoritmo
+ótimo de ordenação.
+O uma heurística para a solução do problema de
+coloração de grafos solucionará o problema em
+tempo polinomial.
+O oproblema se reduz a encontrar a árvore geradora
+mínima para o conjunto de etapas do processo,
+requerendo tempo de ordem polinomial para ser
+solucionado.
+O a utilização do algoritmo de Dijkstra para se
+determinar o caminho de custo mínimo entre o
+estado inicial e o final soluciona o problema em
+tempo polinomial.
+O qualquer algoritmo conhecido para a solução do
+problema descrito possui ordem de complexidade
+de tempo não-polinomial, uma vez que o
+problema do caixeiro viajante se reduz a ele.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,1491 255,1491 255,1545 789,1545 789,1574 461,1574 461,1705 757,1705 757,1782 170,1782 170,2012 84,2012 84,1819 154,1819 154,1698 85,1698 85,1573 84,1573"/>
+	<TextEquiv conf="0.96566">
+	<Unicode>QUESTÃO 23
+Qual o valor de retorno da função a seguir, caso n = 27?
+int recursao (int n) (
+if (n &lt;= 10) (
+return n * 2;
+)
+else (
+return recursao (recursao (n/3));
+)
+O:.
+O:.
+O 12.
+O 16.
+O 18.</Unicode></TextEquiv></TextRegion></Page></PcGts>

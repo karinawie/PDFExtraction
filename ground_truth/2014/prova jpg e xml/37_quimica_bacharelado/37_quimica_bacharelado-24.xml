@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:14:19</Created>
+	<LastChange>2020-12-06T01:25:33</LastChange></Metadata>
+	<Page imageFilename="37_quimica_bacharelado-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,1175 316,1175 316,1234 1599,1234 1599,1462 1598,1462 1598,1621 1599,1621 1599,1690 1598,1690 1598,1832 278,1832 278,2073 146,2073 146,1854 147,1854 147,1707 194,1707 194,1462 145,1462 145,1461 144,1461 144,1234 145,1234"/>
+	<TextEquiv conf="0.96623">
+	<Unicode>QUESTÃO 27
+Uma amostra formada por polietileno (MM: 20 000 g.mol*), poliacetato de vinila (MM: 25000 g.mol*?*)
+e poliestireno (MM: 18 000 g.mol*) foi preparada e analisada em um cromatógrafo líquido de
+alta eficiência com detector de índice de refração (CLAE-IR). Para separar os componentes da
+mistura, empregou-se uma coluna com fase estacionária microporosa de exclusão molecular, cujo
+cromatograma apresentou 3 picos baixos, próximos à linha de base, largos e com alta resolução.
+Tendo em vista as características citadas, avalie as afirmações a seguir.
+|. A ordem de eluição observada é: poliestireno, polietileno e poliacetato de vinila.
+Il. A técnica de RMN “PC poderia identificar cada polímero separado pela Cromatografia Líquida de Alta
+Eficiência com detector de índice de refração.
+Ill. O detector de infravermelho poderia ser empregado, com a vantagem de identificar cada polímero
+separado.
+IV. A obtenção dos íons moleculares de cada polímero separado, via espectrometria de massas, seria
+ineficiente para identificá-los.
+É correto apenas o que se afirma em
+Oo.
+Oo.
+Oielv
+O le.
+O lleiv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="145,303 1599,303 1599,610 1601,610 1601,720 1599,720 1599,846 636,846 636,901 311,901 311,1144 146,1144 146,923 147,923 147,867 194,867 194,736 240,736 240,634 194,634 194,519 145,519"/>
+	<TextEquiv conf="0.90062">
+	<Unicode>Com base nas informações apresentadas, e considerando as seguintes massas moleculares: Cl = 35,5 g.mol?,
+N = 14,0 g.mol?, C=12,0 g.mol*, H = 1,0 g.mol*?, avalie as afirmações a seguir.
+|. Na Figura 2, observa-se que a substância presente nos comprimidos investigados apresenta tempo de
+retenção de aproximadamente 7,4 minutos.
+Il. Na Figura 3, observa-se que a substância investigada apresenta significativa absorção em 208 e 248 nm,
+mostrando grande identificação com todas as substâncias usadas como padrão, cujas absorções ocorrem
+em comprimentos de onda semelhantes.
+1.
+Na Figura 4, observa-se que o espectro obtido apresentou dois picos abundantes de relações massa/
+carga (m/z) iguais a 197,1 e 199,1. Essa informação é coerente com a estrutura química da CPP, que
+possui massa molar de 196,0 g.mol*.
+IV. No estudo conjunto dos três métodos de análise (Cromatografia, UV/Vis e Espectrometria de massas),
+aplicando-se os cálculos adequados, é possível concluir qual dos isômeros (o-CPP, m-CPP ou p-CPP)
+está presente nos comprimidos analisados.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O Meiv.
+O L1lelv.
+Oumel</Unicode></TextEquiv></TextRegion></Page></PcGts>

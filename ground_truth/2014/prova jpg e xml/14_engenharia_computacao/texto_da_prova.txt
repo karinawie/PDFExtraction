@@ -1,0 +1,808 @@
+QUESTÃO DISCURSIVA 3
+Um grafo orientado com n vértices pode ser armazenado na seguinte matriz de adjacência: para cada i, j, com
+1€<1i,j< n, M[ill[]] =1, se a aresta orientada (i, j|) pertence ao conjunto de arestas do grafo; caso contrário,
+ML] = O.
+Com base nessas informações, faça o que se pede nos itens a seguir.
+a) Escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e produza
+a matriz de adjacência do grafo com as arestas reversas. O grafo representado pela matriz resultante
+deverá conter a aresta (i, j) se, e somente se, a aresta (/, i) pertence ao grafo representado pela matriz de
+entrada. (valor: 5,0 pontos)
+b
+Escreva um algoritmo que receba como entrada uma matriz de adjacência de um grafo orientado e
+imprima todos os ciclos orientados de tamanho 3 desse grafo. Para isso, considere que o ciclo orientado
+(1,2,3) é o mesmo que (2,3,1), porém o ciclo orientado (1,2,3) é diferente do ciclo orientado (3,2,1), de
+forma que ambos devem ser impressos, caso pertençam ao grafo. (valor: 5,0 pontos)
+Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos
+pode ser utilizada, assim como em uma linguagem de alto nível, como Pascal, C ou Java.
+
+QUESTÃO DISCURSIVA 4
+A criação dos serviços em nuvens (clouds) teve como consequência o fato de as tarefas de processamento
+(como ferramentas para edição de documentos), armazenamento de dados (como arquivos e documentos) e
+mensagens (webmail) deixarem de ser executadas em estações cliente locais sem conexão à rede e passarem
+a ser delegadas a equipamentos remotos conectados através da Internet.
+Cada vez mais surgem empresas que oferecem nuvens de equipamentos conectados através da Internet,
+com clusters de equipamentos e redundância em múltiplos sites para prestação terceirizada desse tipo de
+serviço, de modo a oferecer maior desempenho e disponibilidade. Por outro lado, aumentam os riscos de
+quebra da privacidade dos dados armazenados.
+Nesse contexto de mudança de um sistema local para a adoção de serviços em nuvens, responda as questões
+a seguir.
+a) Como mudam os requisitos da plataforma do cliente? (valor: 2,5 pontos)
+b) Que requisitos devem ser atendidos pela infraestrutura local de rede e telecomunicações?
+(valor: 2,5 pontos)
+c) Como esse tipo de serviço pode apresentar melhor disponibilidade e menor risco de perda de dados?
+(valor: 2,5 pontos)
+d) Que benefícios são esperados com a adoção de serviços em nuvens? (valor: 2,5 pontos)
+
+QUESTÃO DISCURSIVA 5
+Um processo monitora três parâmetros para controle de qualidade: A, B, C. Cada parâmetro possui um
+valor na decisão final da qualidade. A existência do parâmetro A pesa 30% na decisão final, enquanto os
+parâmetros B e C pesam 30% e 40%, respectivamente. O grau de aprovação do processo é dado pela soma
+dos percentuais desses três parâmetros. O produto gerado pelo processo é considerado aprovado, caso o
+grau de qualidade seja superior ou igual a 60%, e reprovado, se o grau de qualidade for inferior ou igual a
+30%. Caso o grau de qualidade esteja entre 30% e 60%, a decisão de aprovação ou reprovação é indiferente.
+Por exemplo, se um produto apresentar os parâmetros A e B, terá grau de qualidade de 30%+30% = 60%,
+levando à sua aprovação.
+Com base na situação descrita, projete um circuito lógico com o menor número possível de portas lógicas,
+para determinar a aprovação ou não do produto de acordo com a presença de seus parâmetros. As entradas
+do circuito serão os sinais A, B, C, e a saída será um sinal Z. Para atingir esse objetivo, faça o que se pede nos
+itens a seguir.
+a) Monte uma tabela verdade do sistema com a formação ABC. (valor: 4,0 pontos)
+b) Desenhe o circuito final otimizado utilizando portas lógicas. (valor: 6,0 pontos)
+
+QUESTÃO 10
+Denominam-se cargas os elementos de um circuito
+elétrico que se opõem à passagem de corrente
+elétrica. Essencialmente, distinguem-se três tipos de
+cargas: resistivas, capacitivas e indutivas. As cargas
+resistivas dissipam energia, enquanto as puramente
+capacitivas ou puramente indutivas são consideradas
+armazenadoras de energia.
+Se o circuito mostrado acima é alimentado por uma
+fonte de tensão contínua de 12 V e as lâmpadas são
+de 12 V/6 W, observa-se que, em regime permanente,
+O as três lâmpadas, L1, L2 e 13, ficarão apagadas,
+pois lâmpadas incandescentes só operam com
+corrente alternada.
+O somente L2 e L3 ficarão acesas, pois a corrente
+que passa em L2 é a soma das correntes em L3 e
+no indutor.
+O as três lâmpadas, L1, L2 e L3, ficarão acesas, pois
+estão ligadas à fonte de alimentação.
+O somente L2 ficará acesa, pois está em série com a
+fonte de alimentação.
+O somente L1 ficará acesa, pois está em série com o
+capacitor.
+
+QUESTÃO 09
+Suponha que a distância percorrida por um ciclista
+que pedala regularmente pode ser inferida pela
+variável aleatória x, com densidade de probabilidade
+normal,
+f(x; un,0º) =
+com 1u=25kme 0º = 25km?. A duração média do
+seu treino é de 12h15min.
+Com base nesses dados, avalie as afirmações abaixo.
+|. A velocidade média de cada treino é de
+21,7 km/h.
+A distância média percorrida em cada treino
+é de 25 km.
+Ill. A área média percorrida em cada treino é de
+25 km?.
+IV. A distância percorrida de cada treino, em um
+desvio-padrão, está entre 20 km e 30 km.
+V. A velocidade média de cada treino, em um
+desvio-padrão, está entre 16 km/h e 24 km/h.
+É correto apenas o que se afirma em
+o.
+Oie
+Oie.
+O lev
+O, WVev.
+
+QUESTÃO 11
+A DBO (Demanda Bioquímica de Oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+para oxidar a matéria orgânica por decomposição aeróbia. Quando a amostra é guardada por 5 dias em uma
+temperatura de incubação de 20ºC, ela é referida como DBO, ,,, que é normalmente utilizada como um dos
+parâmetros para verificação da qualidade da água.
+O seguinte quadro classifica um curso d'água em função da sua DBO, ,,
+A imagem abaixo mostra um trecho de um rio com 5 seções (X, Y, Z, W e T), em que são coletadas amostras
+de água para a determinação de DBO, ,, em laboratório.
+O quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+Considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada,
+no mínimo, como “razoável”?
+O x.
+or
+Oz.
+Ow.
+er
+
+QUESTÃO 13
+Engenheiros de uma empresa holandesa encontraram
+uma maneira de fazer com que os elevadores terrestres
+subam até o topo de edifícios com 1 000 metros de
+altura, pois os cabos de aço usados nos elevadores atuais
+só conseguem alçá-los a alturas de, aproximadamente,
+500 metros. Isso será possível com a criação de um
+novo cabo superleve e superforte, ou seja, uma espécie
+de cinta, tecida com fibras de carbono. Em vez dos fios
+de aço entrelaçados usados nos cabos de aço comuns,
+a cinta é formada por quatro fitas de fibra de carbono
+seladas em plástico transparente. O plástico é necessário
+para proteger do atrito as fibras de carbono e aumentar
+a vida útil do conjunto. Cada fita tem 4 centímetros de
+largura por 4 milímetros de espessura. Elas são parecidas
+com uma régua escolar flexível. Esse novo material
+supera ligeiramente a resistência à tensão do aço, mas
+pesa sete vezes menos que o atualmente usado. Assim,
+a força gasta para sustentar o peso do próprio cabo
+passa a ser aplicada para sustentar apenas o elevador, e
+o consumo de energia dos elevadores também é cerca
+de 15% menor do que os anteriores.
+Disponível em: <http://www.inovacaotecnologica.com.br>.
+Acesso em: 27 jul. 2014 (adaptado).
+Tendo em vista a situação descrita, avalie as
+afirmações a seguir.
+|. O cabo de fibra de carbono suporta elevadas
+cargas devido à sua elevada resistência à tração.
+Il. A fibra de carbono torna o cabo bem mais
+flexível, o que, aliado a sua resistência à tração,
+proporciona a esse material uma vantagem
+em relação aos cabos de aço convencionais.
+Ill. A relação resistência/peso do cabo de fibra de
+carbono assegura vantagem desse material em
+relação aos cabos de aço, pois a economia do peso
+próprio do cabo pode ser usada para sustentar o
+elevador e reduzir o consumo de energia.
+IV. Apesar da resistência à tensão ser apenas
+ligeiramente maior no cabo de fibra de
+carbono, a vantagem principal de seu uso é a
+alta relação resistência/peso.
+É correto apenas o que se afirma em
+o.
+oO.
+Biel.
+O llelv.
+O lllelv.
+
+QUESTÃO 12
+Um ambiente termicamente confortável é uma das
+condições que devem ser consideradas em projetos
+de edificações. A fim de projetar um ambiente interno
+com temperatura de 20ºC para uma temperatura
+externa média de 35ºC, um engenheiro considerou,
+no dimensionamento, um fluxo de calor através de
+uma parede externa de 105 W/m?, conforme ilustra
+a figura abaixo.
+A tabela a seguir apresenta os valores da condutividade
+térmica para alguns materiais de construção.
+A fim de se obter a temperatura interna desejada,
+qual deve ser o material selecionado, entre os
+apresentados na tabela acima, para composição da
+parede externa?
+O Concreto.
+O Pedra natural.
+O Placa de madeira prensada.
+O Placa com espuma rígida de poliuretano.
+O Placa de aglomerado de fibras de madeira.
+
+Com base nessas informações, verifica-se que a
+solução da equação é obtida pela seguinte associação
+das etapas do algoritmo com o fluxograma
+
+QUESTÃO 14
+O transporte de um fluido entre dois pontos no interior
+de um tubo ocorre simultaneamente, com perda de
+energia, devido ao atrito do fluido com a parede e ao
+escoamento turbulento. Portanto, quanto maior for
+a rugosidade da parede da tubulação ou mais viscoso
+for o fluido, maior será a perda de energia. A forma
+de determinação do fator de atrito foi estabelecida
+em 1939, por intermédio da equação de Colebrook-
+White, apresentada a seguir.
++ = —21og (5 2.51 )
+VS VA3,7D RA/f
+em que
+f éofatordeatritode Darcy-Weisbach (adimensional);
+k é a rugosidade equivalente da parede do tubo (m);
+D é o diâmetro interno do tubo (m);
+R é o número de Reynolds (adimensional).
+A resolução dessa equação requer um processo
+iterativo, pois a função é implícita em relação ao fator
+de atrito (presente nos dois membros da equação).
+Em 1939, a resolução de equações por procedimentos
+iterativos demandava excesso de tempo, mas,
+com o desenvolvimento dos conhecimentos de
+computação, esse problema foi solucionado.
+As etapas de um algoritmo que soluciona a equação,
+sem ordenação lógica, assim como seu fluxograma
+são apresentados a seguir.
+A)D=1
+B) f,= 0,03
+C) Início
+D) Cálculo de f, através da equação de Colebrook-
+White
+E) | ff | <0,00001
+F) Término
+G) R,= 10 000
+H) k = 0,0001
+LA
+J) Visualização do resultado
+
+QUESTÃO 16
+Uma indústria de blocos cerâmicos pretende
+utilizar queima de biomassa resultante de resíduos
+de madeira, para gerar energia térmica para seus
+fornos, que, atualmente, utilizam gás natural. Tal
+iniciativa poderá reduzir o consumo de combustível,
+porém será necessário um investimento no valor de
+20% do consumo/ano atual de combustível, visando
+à adaptação dos fornos. Além disso, o transporte
+anual dos resíduos da fonte geradora até a indústria
+irá custar 5% do consumo/ano atual de combustível.
+Estima-se que essa alteração promova uma
+economia, no consumo/ano atual de combustível,
+de 10% ao ano.
+A partir da situação descrita, avalie as afirmações a
+seguir.
+|. A partir do quinto ano, a indústria começaria
+a ter benefícios econômicos.
+ll. Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+de energia com menor produção e emissão de
+partículas devido ao processo de combustão
+(particulados).
+Ill. Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+renovável de energia.
+IV. O valor do investimento supera os benefícios
+promovidos com a economia de combustível
+durante os 5 primeiros anos.
+É correto apenas o que se afirma em
+o.
+O Iv.
+Oie.
+Oie.
+OÔileiv.
+
+QUESTÃO 15
+Observe o programa classificador (“sort”), em
+pseudocódigo, apresentado abaixo.
+Esse programa classifica, em ordem
+O decrescente, notas de alunos e nomes de alunos
+de mesma nota.
+O alfabética crescente, nomes e notas de alunos de
+mesmo nome.
+O decrescente, notas de alunos.
+O alfabética crescente, nomes de alunos.
+O crescente, notas de alunos.
+
+QUESTÃO 17
+Existem controvérsias acerca da magnitude dos fatores que influenciam o voto do eleitor. Embora, atualmente,
+as pesquisas eleitorais possam ser divulgadas próximo ao dia da eleição, durante muito tempo essa divulgação
+não era permitida sob a alegação de que as mesmas influenciavam a decisão de um tipo particular de eleitor,
+o qual desejava “votar no candidato ganhador” e tendia a votar nos candidatos cuja suposta probabilidade
+de vitória é maior, independentemente do conteúdo da proposta política apresentada.
+Considerando que o Candidato B esteja interessado no voto do tipo de eleitor mencionado no texto e esteja
+examinando os dois gráficos acima para apresentar, em seu material de propaganda, os resultados de uma
+pesquisa eleitoral, avalie as afirmações que se seguem.
+|. Os dois gráficos apresentam resultados diferentes.
+Il. Em relação aos objetivos do Candidato B, o gráfico | é mais adequado que o |l.
+Ill. A decisão a ser tomada apresenta implicações de natureza ética, além das de natureza técnica.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1L1em,
+
+QUESTÃO 18
+No Brasil, é comercializada uma cadeira de rodas de alumínio com peso aproximado de 12 kg, que representa
+cerca da metade do peso de um modelo convencional. Construída em estrutura tubular de uma liga de
+alumínio aeronáutico, essa cadeira de rodas possui alta resistência mecânica, além de ter custo reduzido.
+Disponível em:<http://www.hospitalar.com>. Acesso em: 26 jul. 2014 (adaptado).
+O alumínio aeronáutico possui uma combinação única de propriedades que o torna um material de construção
+versátil, altamente utilizável e atrativo. Essas características são devidas a quais propriedades?
+O Alta resistência mecânica e baixa densidade.
+O Baixa plasticidade e alto ponto de fusão.
+O Alta dureza a quente e baixa dutilidade.
+O Baixa plasticidade e alta soldabilidade.
+O Alta dureza e alta densidade.
+
+QUESTÃO 20
+Os filtros digitais são parte importante do
+processamento digital de sinais, dada a versatilidade
+em sua implementação, que é feita por software.
+Esses filtros são classificados em resposta infinita
+ao impulso (IIR, ou recursivos) e resposta finita ao
+impulso (FIR, ou não recursivos), tendo cada classe
+vantagens e desvantagens bem definidas. Um
+exemplo de algoritmo em Portugol para um filtro
+digital é apresentado a seguir.
+algoritmo
+defina u, Cy Ly Y numérico
+T1,€O;
+1,€ O;
+repita
+leia u;
+y€2*x-Xy
+x1,€ XL;
+rn EU;
+escreva y;
+fim-repita
+fim-algoritmo
+A partir do algoritmo apresentado, avalie as asserções
+a seguir e a relação proposta entre elas.
+|. Ofiltro digital do algoritmo é do tipo FIR.
+PORQUE
+Il. O filtro digital do algoritmo não possui termo
+de transmissão direta.
+A respeito das asserções, assinale a afirmação
+correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 19
+De todas as propostas do Marco Civil da Internet, uma
+das mais polêmicas e importantes é a denominada
+“neutralidade da rede”. O Marco Civil defende que
+não deve haver “pedágios” na internet, ou seja,
+nenhuma empresa poderá criar barreiras para algum
+tipo de conteúdo com qualquer tipo de interesse
+financeiro.
+As empresas dizem que a neutralidade total mata a
+possibilidade de oferecer pacotes mais acessíveis. Os
+defensores do projeto, por outro lado, dizem que a
+não aprovação seria uma medida antipopular, que
+criaria mais exclusão social, impedindo que os mais
+pobres usem os serviços mais caros.
+Disponível em: <http://olhardigital.uol.com.br>. Acesso em: 20 jul 2014
+(adaptado).
+A partir das informações apreentadas e em relação à
+“neutralidade da rede”, avalie as afirmações a seguir.
+|. Coma lei da neutralidade da rede brasileira,
+o roteamento interno na rede de uma
+corporação deve tratar todos os protocolos
+ou serviços (como VoIP e SMTP) de modo
+igualitário.
+Il. A mudança de cenário com a adoção da lei
+da neutralidade da rede é exemplo de como
+as empresas e profissionais de tecnologia
+devem estar continuamente se atualizando e
+estar prontos para readequar seus produtos
+e serviços aos novos requisitos técnicos e
+sociais.
+IIl. A lei brasileira da neutralidade da rede
+permite que um provedor de acesso à
+Internet, notando que seus usuários usam
+mais serviços de mensagens instantâneas
+que de transferências de arquivos, possa
+aumentar a prioridade do primeiro tráfego
+em relação ao do segundo para melhorar a
+satisfação de seus clientes.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll apenas.
+Oem
+
+QUESTÃO 22
+Dois conhecidos problemas de pesquisa operacional
+possuem uma ampla gama de aplicações em
+comunicação, transporte e planejamento: o
+problema do carteiro chinês (PCC), e o problema
+do caixeiro viajante (PCV). O primeiro consiste em
+minimizar o esforço de um carteiro que precisa
+percorrer todas as ruas de uma cidade. O segundo
+consiste em minimizar o deslocamento do vendedor
+que precisa visitar todas as cidades interconectadas
+de uma dada região, retornando à cidade de origem.
+Esses problemas têm sido modelados com teoria
+dos grafos, de onde se destacam dois conceitos
+relacionados: circuito euleriano e ciclo hamiltoniano.
+Umatrilha é uma sequência de arestas adjacentes em
+que não há repetição de arestas, e seu comprimento
+é a quantidade de arestas. A trilha é dita fechada se
+inicia e finaliza no mesmo vértice. Assim, um grafo
+com m arestas é euleriano se nele existe uma trilha
+fechada de comprimento m (trilha euleriana). Um
+ciclo hamiltoniano é uma trilha fechada que passa
+sem repetir por todos os vértices.
+Com base nos conceitos acima, avalie as afirmações
+a seguir.
+|. Se o grafo das cidades e suas interconexões
+for euleriano, então o PCV pode ser resolvido
+de uma forma tal que o caixeiro não terá que
+fazer visitas repetidas.
+Il. Se todas as cidades se conectam com todas
+as outras, então a solução do PCV é um ciclo
+hamiltoniano correspondente ao menor
+deslocamento.
+Ill. Se o grafo for euleriano e possuir um ciclo
+hamiltoniano, então o PCC e o PCV darão
+como resultado a mesma trilha.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+OIE.
+
+QUESTÃO 21
+A compressão de dados pode ser realizada por
+intermédio de diversos algoritmos de compressão,
+reduzindo a quantidade de bits para representar
+um conjunto de dados. A compressão de imagem
+é a forma de armazenar informações visuais
+mais compactamente. A maioria desses métodos
+considera a identificação e o uso de estruturas e
+redundâncias que existem nos dados da imagem. Os
+tipos de redundância encontrados nas imagens são
+ligados à codificação de tons ou cor, redundância da
+informação inter-pixel, espectral e psicovisual.
+CONCI, A.; AZEVEDO, E.; LETA, F. R. Computação Gráfica: teoria e
+prática. v. 2, Rio de Janeiro: Elsevier, 2008 (adaptado).
+Nesse contexto, avalie as afirmações a seguir.
+|. A redundância de codificação de tons ou cor
+ocorre quando os níveis de cinza ou as cores
+de uma imagem são codificados com mais
+símbolos de codificação que o necessário.
+A redundância inter-pixel (redundâncias
+espaciais) são as resultantes das relações
+geométricas ou estruturais entre os objetos
+na imagem.
+Il. A redundância espectral é a que ocorre em
+imagens com mais de uma faixa espectral,
+quando os valores espectrais para a mesma
+posição na matriz de pixels de cada banda são
+correlacionados. Nesse caso, apenas um canal
+precisa ser armazenado com mais detalhes.
+Ill. As redundâncias psicovisuais ou baseadas na
+percepção são aquelas relacionadas ao fato
+de o sistema visual humano responder com a
+mesma sensibilidade a todas as informações
+visuais. Tais informações não podem ser
+eliminadas sem prejudicar significativamente
+a qualidade da imagem.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.
+
+QUESTÃO 24
+Acerca do protocolo de transporte TCP (Transmission
+Control Protocol) utilizado na Internet, considere o
+esquema abaixo, que mostra a comunicação entre
+dois processos A e B. No diagrama, o tempo cresce
+de cima para baixo e as setas diagonais representam
+segmentos TCP enviados de A para B ou de B para A,
+dependendo da orientação da seta. Os números de
+sequência dos dados de aplicação enviados de A para
+B estão indicados sobre as setas. O processo A enviou
+segmentos com 40 bytes de dados de aplicação
+para B. O número de sequência do primeiro byte
+enviado através da conexão de A para B foi 20. Dos
+quatro segmentos enviados de A para B, o segundo
+segmento foi perdido pela rede e não alcançou o
+destino.
+Com base na situação descrita acima, o número de
+confirmação (ACK) enviado pelo TCP de B para A, no
+instante de tempo t0, é igual a
+O 20.
+O 5º.
+OQ so.
+O 100.
+O 140.
+
+QUESTÃO 23
+Um componente bastante usado em circuitos lógicos
+é a matriz lógica programável (ou PLA, do inglês
+Programmable Logic Array). Uma PLA usa como
+entrada um conjunto de sinais e os complementos
+desses sinais (que podem ser implementados por um
+conjunto de inversores). A lógica é implementada a
+partir de dois estágios: o primeiro é uma matriz de
+portas AND, que formam o conjunto de termos-
+produto (também chamados mintermos); o segundo
+estágio é uma matriz de portas OR, cada uma
+efetuando uma soma lógica de qualquer quantidade
+dos mintermos. Cada um dos mintermos pode ser o
+resultado do produto lógico de qualquer dos sinais
+de entrada ou de seus complementos.
+É comum, em lugar de desenhar todas as portas
+lógicas de cada um dos estágios, representar apenas
+a posição das portas lógicas em uma matriz, conforme
+ilustra a figura a seguir.
+A partir da figura apresentada, infere-se que as
+entradas JKL = 000 e JKL = 101 levam a saídas MNO
+iguais, respectivamente, a
+O 000 e 000.
+O 000 e 010.
+O 100 e 101.
+O 101 e 000.
+O 101 e 010.
+
+QUESTÃO 25
+O lugar das raízes, também chamado root locus, é importante procedimento para a análise de sistemas de
+controle, bem como para a síntese de compensadores para esses sistemas. Por exemplo, deseja-se controlar,
+com um compensador série e realimentação negativa e unitária, um sistema sujeito a uma entrada degrau,
+cuja planta tem função de transferência
+e cujo lugar das raízes tem a forma ilustrada na figura abaixo.
+A partir do sistema acima, avalie as asserções a seguir e a relação proposta entre elas.
+|. Um compensador proporcional sempre produz um sistema em malha fechada contendo termos de
+resposta oscilatória.
+PORQUE
+II. As raízes do sistema em malha fechada são complexas para um compensador proporcional com ganho
+acima de 2,25.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a II é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+OQ A asserção | é uma proposição verdadeira, e a II é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a II é uma proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 26
+Após o treinamento, uma rede neural perceptron com 2 sinais de entrada e um neurônio de saída será capaz
+de classificar quatro indivíduos ( lv lr ly l, ) em duas classes, conforme o quadro a seguir.
+O primeiro passo é codificar as informações em base binária. Os sinais devem ser representados da seguinte forma:
+Considerando aprendizado supervisionado (com uso do algoritmo de correção de erros), verifique se cada
+indivíduo é professor (0) ou dentista (1). Considere uma taxa de aprendizagem igual a 1, pesos iniciais iguais
+a zero para cada entrada e a seguinte função de ativação: Se x > O, então f(x) = 1, caso contrário f(x) = O.
+O quadro a seguir apresenta a entrada dos dados, a saída calculada pela RNA e a saída esperada.
+Com base nas informações apresentadas, conclui-se que a atualização dos pesos a cada nova entrada, no
+treinamento dessa rede neural, é igual a
+O [1,1], [1,0], [1,0], [1,0], [1,0], [1,0].
+O [1,1], [1,0], [0,0], [0,0], [1,0], [1,0].
+O [1,0], [1,1], [1,1], [1,1], [0,0], [1,0].
+O [1,1], [1,0], [1,0], [0,0], [0,0], [1,0].
+O [1,1], [1,0], [1,0], [0,0], [0,0], [0,0].
+
+QUESTÃO 27
+O protótipo de tela apresentado a seguir foi desenvolvido para atender um requisito de cadastro de
+classificados de jornal, via smartphone.
+Com base nesse protótipo de tela, infere-se que o modelo lógico correto para um banco de dados relacional
+que irá armazenar os dados cadastrados por esse sistema é representado por
+O classificado (cod, nome, email, telefone, anuncio, categoria, preco)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codànu, texto, codCategoria)
+codCategoria referencia Categoria
+Categoria (codCategoria, nome)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codânu, texto, codCategoria, aceiteTermos)
+codCategoria referencia Categoria
+Categoria (codCategoria, nome)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codànu, texto, codCliente, aceiteTermos)
+codCliente referencia Cliente
+Categoria (codCategoria, nome)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codànu, texto, codCategoria, codCli, aceiteTermos)
+codCategoria referencia Categoria
+codCli referencia Cliente
+Categoria (codCategoria, nome)
+
+QUESTÃO 28
+As vibrações em um ônibus em movimento serão analisadas através da medida da aceleração durante
+períodos de tempo, por meio do sistema de aquisição formado por quatro módulos: um sensor de aceleração,
+um amplificador, um Sample & Hold e um conversor A/D, conforme esquema a seguir.
+O sensor é um acelerômetro que converte linearmente leituras entre -1,0 m/s? e +1,0 m/s? em sinal de tensão
+V,, entre -800 mV e +800 mV. Esse sinal passa por um amplificador operacional com ganho de tensão dado por
+Av=1+R// R, em que R,=R,=10 kO. Uma vez amplificado, o sinal V,,, é submetido a um Sample & Hold, cuja
+chave de amostragem pode ser controlada por software através de seu ponto de controle “c”. O conversor
+A/D converte linearmente valores entre -2,00 V e + 2,00 V para valores binários que podem, então, ser lidos
+por software. Com esse sistema de aquisição, serão feitas coletas de dados de 1 000 aquisições a uma taxa de
+500 aquisições por segundo, ou seja, cada coleta dura dois segundos.
+A análise desse sistema de aquisição de dados revela que
+O o amplificador tem ganho unitário e alta impedância de entrada, isolando o sensor do resto do circuito.
+O o conversor A/D deverá ser de 12 ou mais bits, para que as leituras obtidas tenham uma resolução de
+0,001 m/s?.
+O o software que fará o processamento da aquisição necessitará trocar o sinal da leitura feita, já que a
+montagem do amplificador é inversora.
+O a faixa de passagem do amplificador deve ficar pelo menos entre O e 250 Hz, correspondentes à taxa de
+Nyquist, já que ocorrerão 500 aquisições por segundo.
+O o Sample & Hold vai ser ligado no início da coleta de dados e desligado ao seu final, com a chave mantida
+fechada durante todos os 2 segundos de cada coleta.
+
+QUESTÃO 30
+Uma arquitetura clássica de 32 bits de espaço de
+endereçamento de memória permite até 4 GB de
+memória principal. Para um bom gerenciamento
+dessa memória, algumas técnicas podem ser
+utilizadas: paginação, segmentação e swapping.
+Em relação a essas técnicas de gerenciamento de
+memória, avalie as afirmações a seguir.
+|. Utilizando páginas de 4 KB de tamanho,
+o endereço virtual de memória utiliza os
+220 bits mais significativos para o número
+da página virtual e os demais 212 bits para
+o deslocamento interno da página.
+. O acesso à memória física, utilizando
+segmentação, é feito por meio de uma
+estrutura de hardware específica do
+processador.
+. Utilizando a paginação ou a segmentação,
+a memória física não sofrerá fragmentação
+interna ou externa.
+. É possível utilizar a técnica de swapping
+para qualquer tamanho de página, mas não
+a segmentação, pois esta tem espaço de
+endereçamento variável.
+O algoritmo de substituição de página,
+denominado LFU, utiliza o princípio de
+localidade temporal, enquanto o algoritmo
+LRU utiliza o princípio de localidade espacial.
+É correto apenas o que se afirma em
+O.
+Qiel
+Oilev
+O Ivev.
+QÔuMeilv
+
+QUESTÃO 29
+Expressões regulares constituem formas sucintas
+de descrever linguagens regulares. Uma de suas
+aplicações é descrever padrões a serem procurados
+em um texto. As expressões regulares R1, R2, R3 e
+R4 a seguir utilizam a seguinte convenção: o fecho de
+Kleene é denotado por * e a união é denotada pelo
+símbolo |.
+º R1=a*ba*ba*ba*
+* R2=a*(alb)a(a|b)*
+º*º R3=a*ab*a(a|b)
+º R4=(alb)*
+Em relação às linguagens definidas pelas expressões
+regulares apresentadas, conclui-se que a cadeia abbb
+está contida apenas nas linguagens definidas por
+O Ri eR4.
+O R2eR3.
+O R2eR4.
+O Ri eR3.
+O R2, R3 e RA.
+
+QUESTÃO 33
+O advento da indústria de alta tecnologia, ou seja,
+a indústria com base na microeletrônica e assistida
+por computadores, introduziu uma nova lógica de
+localização industrial. As empresas eletrônicas,
+produtoras dos novos dispositivos da tecnologia da
+informação, foram as primeiras a utilizar a estratégia
+de localização, possibilitada e exigida pelo processo
+produtivo embasado na informação.
+CASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 1999
+(adaptado).
+Em relação ao contexto do “novo espaço industrial”,
+avalie as afirmações a seguir.
+|. Apesar da existência de novos e importantes
+centros de inovação para desenvolvimento
+de tecnologia da informação, os principais
+centros metropolitanos do mundo continuam
+a acumular fatores indutores de inovação
+e a gerar sinergia na indústria e serviços
+avançados.
+Ill. A indústria de alta tecnologia depende da
+força de trabalho de um grupo de profissionais
+altamente qualificados com base científica e
+tecnológica. A localização da mão de obra não
+qualificada ou semiqualificada, necessária
+para a realização de operações auxiliares, não
+influencia a escolha da localização industrial.
+Il. O novo espaço industrial caracteriza-se,
+entre outros aspectos, pela capacidade
+organizacional! de separar O processo
+produtivo em diferentes localizações.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas
+O lelll, apenas.
+O Il elll, apenas.
+O Le.
+
+QUESTÃO 31
+Em uma rede local de computadores em barramento,
+um dos métodos de controle de acesso ao meio,
+denominado CSMA/CD, tem uma característica
+peculiar: se uma estação começar a transmitir sozinha
+no meio em determinado instante e permanecer
+sozinha por um intervalo T (conhecido como s/ot de
+contenção), sem que qualquer outra estação comece
+a transmitir, então não haverá colisão e o acesso ao
+meio estará garantido para essa transmissão.
+Considere que uma rede tenha N estações com
+transmissões completamente independentes e que
+a probabilidade de uma estação transmitir dentro de
+um intervalo T seja igual a P e, que, portanto, 1 - P
+seja a probabilidade de a estação não transmitir nesse
+intervalo. A probabilidade de se ter um intervalo Tno
+qual apenas uma das estações transmita e ganhe o
+acesso ao meio é igual a
+Oo (1 = Pp)
+O P(1- Pp)!
+O NP(1-P)Y!
+O NPY1-P)
+e PN(1 — p)NIN)
+
+QUESTÃO 32
+Suponha que, para armazenar exatamente 999 999
+chaves de um Índice, um engenheiro de computação
+tenha escolhido a estrutura de uma árvore B, de
+grau mínimo 5, com todos os nós completos. Nessa
+situação, a profundidade dessa árvore é igual a
+Oo.
+Os.
+O e.
+oO 7.
+o:.
+
+QUESTÃO 34
+Suponha que um banco de investimentos possua um sistema que controla, para cada cliente, os tipos de
+investimentos que eles mesmos realizam ao longo do tempo. Cada cliente pode ter apenas uma aplicação de
+cada tipo de investimento oferecido pelo banco.
+Considere as tabelas Cliente, Tipolnvestimento e Investimento pertencentes a um modelo relacional do
+sistema citado (as chaves primárias estão sublinhadas).
+Cliente (codCliente, nomeCliente, enderCliente, cidadeCliente, anoIngressoCliente)
+TipoInvestimento (codInvestimento, descricaoInvestimento, taxaRemuneracao)
+Investimento (codCliente, codInvestimento, valor, dataDeposito)
+A partir do modelo relacional apresentado, avalie as afirmações a seguir.
+|. O comando SQL que lista todos os pares de clientes que residem na mesma cidade é:
+select cl.NomeCliente, c2.NomeCliente
+from Cliente cl, Cliente c2
+where cl.CidadeCliente = c2.CidadeCliente
+and cl.CodCliente < c2.CodCliente;
+Il. O comando SQL que retorna, para cada cidade, os clientes mais antigos é:
+select codCliente, nomeCliente, cidadeCliente, anoIngressoCliente
+from Cliente
+where anoIngressoCliente in (select min(anoIngressoCliente)
+from Cliente
+group by cidadeCliente);
+Ill. O comando SQL que retorna, para cada cidade (de um cliente), o ano de ingresso mais antigo, porém
+apenas para as cidades com mais de um cliente, é:
+select cidadeCliente, min(AnoIngressoCliente)
+from Cliente
+group by cidadeCliente
+having count(*) > 1;
+IV. O comando SQL que retorna o maior valor de cada investimento de cada cliente é:
+select codCliente, max(valor)
+from Cliente c, Investimento i
+where c.codCliente = i.codCliente
+group by codCliente,codInvestimento
+É correto apenas o que se afirma em
+
+QUESTÃO 35
+O código a seguir mostra um programa escrito na linguagem de programação Java.
+public class Java (|
+private static void trocaB(String a, String b )(
+String tmp = a;
+a =b;
+b = tmp;
+)
+private static void trocaC(int array[], String a)
+for(int x = 0; x < array.length; x++)(
+array[x] = array[x] * Integer.valueOf(a);
+)
+)
+public static void main(String[] args) (
+int array[] = ( 1, 2, 3, 4, 5) ;
+String a = “2”, b = “5”;
+trocaB(a, b);
+trocaC(array, a);
+System.out.print(a + “ “ + b +“);
+for(int x = 0; x < array.length; x++)(
+System.out.print(array[x] + “ “);
+)
+)
+Após ser executado o código, o valor impresso na saída padrão do usuário será
+O 52510152025.
+O 25246810.
+O 52246810.
+O 5212345.
+O 2512345.
+

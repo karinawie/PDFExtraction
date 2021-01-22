@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:46:24</Created>
+	<LastChange>2020-10-28T16:56:58</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-24.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="829,235 1000,235 1000,295 1535,295 1535,1275 830,1275 830,524 829,524"/>
+	<TextEquiv conf="0.96547">
+	<Unicode>QUESTÃO 33
+Um dos atributos da imagem médica digital é
+o tamanho da matriz. Dependendo do campo de
+visão, Field Of View (FOV), e da matriz escolhida, é
+possível provocar perdas de informações na imagem
+ou distorções, que, do ponto de vista médico, podem
+implicar em falsos diagnósticos.
+Com base no que se conhece atualmente sobre
+imagens médicas digitais, conclui-se que
+O a imagem de mamografia possui um campo de
+visão pequeno e uma matriz grande, gerando
+imagens de alta resolução espacial, o que permite
+a identificação das microcalcificações.
+O a resolução espacial é um fator de qualidade que
+melhora com a aplicação de matrizes menores
+em exames de radiologia digital.
+O na tomografia computadorizada são utilizados
+amplos campos de visão e matrizes grandes, com
+a finalidade de evidenciar o ruído.
+O a imagem de RM possui baixa resolução e alto
+contraste devido ao FOV pequeno e à matriz
+quadrada.
+O em PET/CT o campo de visão e a matriz são iguais,
+tanto no PET quanto no CT.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,294 787,294 787,1035 786,1035 786,1164 788,1164 788,1512 787,1512 787,1714 468,1714 468,1824 311,1824 311,1931 319,1931 319,2010 82,2010 82,1735 176,1735 176,1553 130,1553 130,1531 175,1531 175,1198 130,1198 130,1138 81,1138 81,984 80,984 80,294 81,294"/>
+	<TextEquiv conf="0.95296">
+	<Unicode>QUESTÃO 32
+O expressivo progresso da radiologia nas
+últimas décadas, associado ao aparecimento e
+aperfeiçoamento de novos métodos de imagem
+digital, fez do diagnóstico por imagem uma das mais
+relevantes áreas da medicina. Seu impacto é tão
+grande que a abordagem diagnóstica médica vem
+sofrendo sua influência e sendo bastante modificada.
+Entre as várias modificações, a implantação de
+sistemas de armazenamento e comunicação de
+imagens (Picture Archiving and Communication
+System - PACS) é provavelmente a de maior impacto.
+O PACS é um sistema de arquivamento e comunicação
+voltado para o diagnóstico por imagem que permite
+o pronto acesso, em qualquer setor do hospital ou
+clínica, de imagens médicas em formato digital, sendo
+caracterizado por quatro subsistemas: aquisição,
+exibição, disponibilização e armazenamento de
+imagens.
+Disponível em:&lt; http://dx.doi.org&gt;. Acesso em: 16 jul. 2013. (adaptado).
+Considerando a utilização da tecnologia PACS,
+avalie as afirmações a seguir.
+|. A tecnologia PACS possibilita que o médico
+possa elaborar o diagnóstico das imagens em
+um computador fora do ambiente hospitalar
+com adequadas condições de visualização.
+Com base na tecnologia PACS, o registro
+das imagens juntamente com os dados dos
+pacientes pode ser efetuado em mídias de
+gravação (como pen drive, disco rígido etc.),
+e(ou) métodos de impressão.
+WI.
+É recomendado, com a utilização da tecnologia
+PACS, que os registros de dados contidos no
+sistema possuam cópias de segurança, para
+não haver risco de perda de informações e
+imagens dos pacientes.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Ô1I1el,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="807,228 807,2023 813,2023 813,228"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:31:14</Created>
+	<LastChange>2020-12-05T23:59:15</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-18.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="893,298 1064,298 1064,355 1599,355 1599,495 1586,495 1586,674 1599,674 1599,1044 1280,1044 1280,1154 1279,1154 1279,1244 1132,1244 1132,1331 894,1331 894,1242 895,1242 895,1068 942,1068 942,651 894,651 894,650 893,650"/>
+	<TextEquiv conf="0.96686">
+	<Unicode>QUESTÃO 22
+Um dos problemas mais importantes estudados pelo
+cálculo diferencial e integral diz respeito à maximização
+e minimização de funções. Um desses problemas está
+relacionado à função cúbica definida por
+fx) = aP + br + cr+ dd,
+em que a, b, ce dsão constantes reais, com a é O.
+Acerca dessa cúbica, avalie as afirmações a seguir.
+|. A função f possui apenas um ponto de
+inflexão, independentemente dos valores de
+a, b, ce d.
+Il. Se ?º — 3ac &gt; O, então f possui um ponto de
+máximo local e um ponto de mínimo local.
+Ill. Se f possui um ponto de máximo local e
+um ponto de mínimo local, então a média
+aritmética das abscissas desses dois pontos
+extremos corresponde à abscissa do ponto de
+inflexão.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,298 316,298 316,366 851,366 851,496 458,496 458,602 792,602 792,695 850,695 850,837 851,837 851,938 852,938 852,1443 851,1443 851,1444 146,1444 146,1443 147,1443 147,938 194,938 194,802 144,802 144,644 145,644"/>
+	<TextEquiv conf="0.83608">
+	<Unicode>QUESTÃO 21
+No estudo de funções de variáveis reais, buscam-se
+informações sobre continuidade, diferenciabilidade,
+entre outras. Considere uma função de duas variáveis f:
+Rº &gt; R, definida por
+1292
+T+ se (x,y) £ (0,0)
+f(x,y) =
+O, se (, y) = (0, O).
+A respeito dessa função, avalie as afirmações a seguir.
+|. Aolongo das retas y = cx, o valor da função
+fé constante.
+Il. A função fé descontínua em (0, O).
+Ill. A função f satisfaz If (x, y)| &lt;= quaisquer
+que sejam (x, y) e Rº, com x = y.
+É correto o que se afirma em
+O 1l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O leilll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,288 869,2083 872,2083 872,288"/></SeparatorRegion></Page></PcGts>

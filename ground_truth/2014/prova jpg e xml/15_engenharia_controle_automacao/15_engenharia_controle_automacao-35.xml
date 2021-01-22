@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:35:54</Created>
+	<LastChange>2020-11-21T19:45:02</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-35.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r132" type="paragraph">
+	<Coords points="84,238 255,238 255,303 1539,303 1539,423 1537,423 1537,529 84,529 84,421 85,421 85,269 84,269"/>
+	<TextEquiv conf="0.96636">
+	<Unicode>QUESTÃO 34
+Um projeto de automação de um sistema consiste em botoeiras de liga e desliga locais com requisito de
+desligamento seguro, de modo que, em caso de desconexão da botoeira de desliga do CLP, o sistema deverá
+desligar automaticamente e não permitir novo ligamento local até que a botoeira de desliga seja destravada.
+Considerando que BL é a botoeira de liga, BD é a botoeira de desliga e K1 é a carga a ser acionada, o circuito
+que implementa a lógica de liga/desliga com selo e com o desligamento seguro requisitado é</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="73,573 73,1002 778,1002 778,573"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="76,1028 76,1457 781,1457 781,1028"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="63,1462 63,1891 768,1891 768,1462"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="808,575 808,1004 1513,1004 1513,575"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="800,1022 800,1451 1505,1451 1505,1022"/></ImageRegion></Page></PcGts>

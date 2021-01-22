@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T00:14:36</Created>
+	<LastChange>2020-12-06T00:20:46</LastChange></Metadata>
+	<Page imageFilename="34_matematica_licenciatura-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1601,359 1601,947 1600,947 1600,1476 1599,1476 1599,1618 1047,1618 1047,2067 894,2067 894,1618 893,1618 893,1476 892,1476 892,1173 893,1173 893,947 894,947 894,330 893,330"/>
+	<ImageRegion id="r1">
+	<Coords points="1072,955 1072,1169 1402,1169 1402,955"/></ImageRegion>
+	<TextEquiv conf="0.96630">
+	<Unicode>QUESTÃO 24
+Uma tendência no ensino de geometria é adotar
+metodologias que partem de uma situação
+problema, oportunizando o envolvimento do aluno
+na manipulação de material concreto, construções,
+experimentações e conjecturas para a construção do
+seu conhecimento. Nessa perspectiva, um professor
+propõe aos seus alunos que determinem a
+quantidade de papel necessário para confeccionar
+balões para enfeitar a festa junina da escola.
+Deseja-se fazer 10 balões de diversas cores. O professor
+informa que devem ser comprados 20% a mais de
+papel de cada cor, devido a recortes, colagem e perdas
+eventuais. Além disso, os balões devem ter a forma de
+um octaedro regular cuja planificação está representada
+na figura abaixo.
+Os alunos observam, pela planificação do octaedro,
+que ele é um sólido com 8 faces semelhantes, sendo
+todas elas triângulos equiláteros. Em certa fase do
+trabalho, eles concluem que, para obter a resposta do
+problema, precisam saber que altura o professor quer
+que os balões tenham. Nesse momento, o professor
+informa que deseja um balão cuja característica seja
+ter todas as faces com 20 centímetros de altura.
+Com base nessas informações, a quantidade total
+de papel necessária para confeccionar os 10 balões
+solicitados, em metros quadrados, é igual a
+A4N3,
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="146,299 318,299 318,359 852,359 852,581 851,581 851,994 533,994 533,1099 368,1099 368,1210 385,1210 385,1289 147,1289 147,1010 195,1010 195,678 146,678 146,582 145,582 145,359 146,359"/>
+	<TextEquiv conf="0.93782">
+	<Unicode>QUESTÃO 23
+Um professor de Matemática, após trabalhar pontos
+notáveis e áreas de triângulos com uma de suas
+turmas, propõe a seguinte atividade aos alunos:
+divida um triângulo escaleno , no qual os ângulos
+internos são inferiores a 90º, em três triângulos de
+mesma área.
+Avalie as seguintes propostas de solução feitas pelos
+estudantes.
+|. Os triângulos ABH, BCH e CAH, em que
+H é o ortocentro de ABC, têm a mesma área.
+Il. Os triângulos ABI, BCI e CAI, em que
+Ié oincentro de ABC, têm a mesma área.
+IIl. Os triângulos AMC, ANM e ABN em que
+M e N dividem o lado OB em três partes de
+mesma medida, têm a mesma área.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O ll elll, apenas.
+OEM,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="869,294 869,2077 866,2077 866,294"/></SeparatorRegion></Page></PcGts>

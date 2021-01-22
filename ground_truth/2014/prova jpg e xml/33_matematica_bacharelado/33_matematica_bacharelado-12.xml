@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:32:19</Created>
+	<LastChange>2020-12-06T00:04:45</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-12.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,548 1360,548 1360,659 1599,659 1599,717 1600,717 1600,770 1598,770 1598,941 1599,941 1599,1257 894,1257 894,915 893,915 893,806 932,806 932,688 892,688 892,659 1128,659 1128,548 893,548"/>
+	<TextEquiv conf="0.96609">
+	<Unicode>QUESTÃO 10
+No contexto de investimento e formação de capital,
+se M(t) representa o montante do capital de
+uma empresa existente em cada instante t e I(t)
+representa a taxa de investimento líquido por um
+período de tempo, então
+Me f 109
+fornece o montante acumulado no período a &lt;t &lt;b.
+Disponível em: &lt;http://www.ime.uerj.br&gt;. Acesso em: 3 ago. 2014
+(adaptado).
+Considere que a função T(t) = tIn(t) definida para
+t &gt; 1, representa a taxa de investimento líquido, em
+milhares de reais, de uma empresa de cosméticos.
+Nesse caso, utilizando In(3) =1,1, o valor do
+montante acumulado no período 1 &lt; t &lt; 3 é igual a
+O R$1100,00.
+O R$ 2100,00.
+O R$ 2.950,00.
+O R$3 750,00.
+OQ R$ 4950,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 851,359 851,1030 850,1030 850,1163 851,1163 851,1499 740,1499 740,1547 146,1547 146,1133 144,1133 144,1070 145,1070"/>
+	<TextEquiv conf="0.92780">
+	<Unicode>QUESTÃO 09
+O conjunto MZ) é formado pelas matrizes
+quadradas de ordem 2 com entradas inteiras. Esse
+conjunto é fechado sob as operações usuais de soma
+e multiplicação de matrizes, uma vez que as entradas
+das matrizes resultantes da soma e da multiplicação
+são números inteiros.
+Com relação à estrutura algébrica desse conjunto
+com as operações descritas, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. O conjunto M,(Z), munido das operações usuais
+de soma e multiplicação, forma um anel.
+PORQUE
+ll. O conjunto M,(Z), munido da operação usual
+de soma de matrizes, forma um grupo e existe O
+elemento unidade dado pela matriz identidade de
+ordem 2.
+A respeito dessas asserções, assinale a alternativa
+correta.
+O As asserções | e II são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a II é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,291 872,2080 875,2080 875,291"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:52:33</Created>
+	<LastChange>2020-12-06T03:02:44</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="893,299 1064,299 1064,367 1599,367 1599,596 1598,596 1598,811 1599,811 1599,1427 894,1427 894,596 893,596"/>
+	<TextEquiv conf="0.95740">
+	<Unicode>QUESTÃO 15
+O manual de operação de um equipamento
+industrial recomenda a instalação de um sistema
+de aterramento que utiliza o esquema TT. Nesse
+sistema, as correntes de falta direta fase-massa
+podem provocar o surgimento de tensões de contato
+perigosas.
+Dessa forma, de acordo com a NBR 5410,
+O o esquema de aterramento TT não possui um
+ponto de alimentação diretamente aterrado para
+instalação do equipamento.
+O o esquema de aterramento TT é caracterizado
+pela ligação do equipamento industrial no
+mesmo eletrodo de aterramento da alimentação
+e da rede de alta tensão.
+O oeletrodo de aterramento do ponto de instalação
+do equipamento não será o mesmo eletrodo da
+entrada da alimentação.
+O o esquema de aterramento TT não possui um
+ponto diretamente aterrado, mas tem isolação
+de todas as partes vivas com aterramento de um
+ponto através de alta impedância.
+O as massas da instalação, para o aterramento no
+esquema TT, são ligadas nos mesmos eletrodos
+de aterramento da alimentação, o que garante
+maior segurança e eficiência do sistema.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="145,299 317,299 317,345 851,345 851,1262 852,1262 852,1830 851,1830 851,1831 636,1831 636,1910 278,1910 278,2075 146,2075 146,1831 145,1831 145,541 144,541 144,345 145,345"/>
+	<ImageRegion id="r3">
+	<Coords points="155,550 155,1247 847,1247 847,550"/></ImageRegion>
+	<TextEquiv conf="0.96666">
+	<Unicode>QUESTÃO 14
+A figura abaixo representa um exemplo de um
+sistema de controle em malha fechada no qual a
+variável controlada é a temperatura de saída do
+fluido aquecido, enquanto a variável manipulada é
+a vazão do vapor, ou seja, o controle da temperatura
+do fluido é realizado através da vazão do vapor.
+Com base na figura acima, avalie as afirmações
+a seguir.
+|. A medição da temperatura é feita pelo
+elemento TT, transmissor de temperatura,
+que transmite um sinal elétrico proporcional
+à temperatura lida.
+Il. A comparação do valor medido pelo TT com
+o ponto de ajuste é realizada em um CLP,
+que transmite um sinal de controle para o
+elemento TY.
+Ill. O elemento TY recebe um sinal de tensão
+elétrica proporcional ao controle que deve
+exercer na válvula.
+IV. O controlador TRC está na sala de controle,
+enquanto os elementos TY e TT estão no
+campo.
+É correto apenas o que se afirma em
+O:
+O.
+Oie
+O le.
+O llelv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,2091 872,288"/></SeparatorRegion></Page></PcGts>

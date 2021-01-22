@@ -1,0 +1,846 @@
+QUESTÃO DISCURSIVA 3
+O jogo Sudoku consiste em uma matriz 9x9 dividida em 9 sub-matrizes 3x3, como mostrado na figura a seguir.
+A matriz está parcialmente preenchida com números de 1 a 9, e o objetivo do jogo é completar a matriz, de
+forma que cada linha, coluna e sub-matriz contenham todos os números de 1a 9.
+A partir dessas informações, escreva um algoritmo recursivo baseado em retrocesso (backtracking) para
+resolver o jogo. A matriz foi transformada em um vetor V de 81 posições, contendo zeros nas posições que
+faltam para serem preenchidas.
+Considere que existem duas funções implementadas. A primeira função, NaoHaViolacao(x,i,V),
+retorna verdadeiro se a inserção do número x na posição i do vetor V não causa violação das restrições
+do jogo (número repetido em linha, coluna ou sub-matriz). A segunda função, Imprime (V), realiza a
+impressão do vetor V.
+Considere, ainda, que o algoritmo deve imprimir o vetor V com a solução encontrada, se esta existir.
+(valor: 10,0 pontos)
+Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos pode
+ser utilizada, assim como em uma linguagem de alto nível, como Pascal, C ou Java.
+
+QUESTÃO DISCURSIVA 4
+A educação não se caracteriza apenas pelas práticas de ensino institucionalizadas como aquelas existentes
+nas escolas, mas abrange todos os processos de formação dos indivíduos, de modo que toda troca de saberes
+se constitui como uma prática educativa e pode se desenvolver nos mais variados ambientes sociais.
+BRANDÃO, C. F. Estrutura e funcionamento do ensino. São Paulo: Avercamp, 2004 (adaptado).
+A Educação Popular, fundamentada na teoria de Paulo Freire, busca promover a integração e participação
+dos sujeitos na construção da sociedade por meio de uma educação comprometida com a conscientização e
+politização do educando com o meio em que vive como sujeito ativo capaz de refletir e agir sobre ele. Nessa
+proposta, o ato de educar deve estar intrinsecamente associado à realidade vivenciada pelos educandos como
+modo de tornar a prática educativa um ato repleto de significações para os sujeitos que nele estão envolvidos.
+FREIRE, P. Pedagogia do Oprimido. 10 ed. Rio de Janeiro: Paz e Terra, 1981 (adaptado).
+Na educação não-formal existe a intencionalidade de criar ou buscar determinadas qualidades e/ou objetivos
+em espaços não escolares atuando em várias dimensões que visam a formação do indivíduo no sentido de
+politizar os sujeitos de seus direitos enquanto cidadãos, de capacitar os indivíduos para o trabalho, por meio
+da aprendizagem de habilidades e/ou desenvolvimento de potencialidades, de promover a aprendizagem
+e exercício de práticas que capacitem os indivíduos a se organizarem com objetivos comunitários, como
+também, o ensino-aprendizagem diferenciado dos conteúdos da escolarização formal.
+GOHN, M. G. M. Educação não formal e cultura política: impactos do associativismo no Terceiro Setor. São Paulo: Cortez, 1999 (adaptado).
+A partir das considerações apresentadas nos textos, faça o que se pede nos itens a seguir.
+a) Como a educação pode ser caracterizada, independente do ambiente onde é aplicada? (valor: 4,0 pontos)
+b) Como a educação popular e a educação não-formal podem ser aplicadas de forma conjunta? (valor: 6,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+A aplicabilidade de tecnologias de informação e comunicação digital tem sido vista como uma possibilidade
+de modernização para o sistema escolar. A utilização das tecnologias de informação e comunicação digital
+pode propiciar processos de ensino/aprendizagem cada vez mais interativos, interdependentes e plurais,
+de forma articulada com a realidade dos sujeitos envolvidos. Nesse sentido, torna-se inevitável alguns
+questionamentos, tais como: as escolas estão preparadas para trabalhar junto à esfera digital?
+FERREIRA, M. H. M.; FRADE, |. C. A. S. Tecnologias Digitais = Tecnologias Educacionais? Pressupostos para uma avaliação.
+Disponível em: <http://www.ufpe.br>. Acesso em: 22 jul. 2014 (adaptado).
+A partir do texto apresentado, elabore um texto dissertativo sobre o tema a seguir.
+Tecnologias de informação e comunicação digital em processos de ensino-aprendizagem
+Em seu texto, aborde os seguintes aspectos:
+a) dificuldades a serem superadas no uso das tecnologias da informação e da comunicação digital em
+processos de ensino-aprendizagem; (valor: 4,0 pontos)
+b) três recursos tecnológicos, explicando como eles podem ser utilizados em processos de ensino-
+aprendizagem. (valor: 6,0 pontos)
+
+QUESTÃO 09
+A figura a seguir apresenta duas telas de um sistema de venda de passagens aéreas de uma empresa. Na tela 1,
+o usuário selecionou sua origem, seu destino, e, logo em seguida, sua data de ida. Ao mudar o foco para o
+campo de preenchimento da data de retorno, a ferramenta de calendário apresentou automaticamente a
+data do dia da compra (01/09/2014), conforme exibido na tela 2.
+Com base nas telas apresentadas e em dimensões de qualidade, tais como facilidade de aprendizagem,
+prevenção de erros, eficiência, memorização e satisfação subjetiva, avalie as afirmações a seguir.
+|. O botão “Ir” apresenta uma metáfora adequada com o mundo real, facilitando a aprendizagem.
+Il. Na tela 1, o uso do calendário clicável não auxilia na prevenção de erros, visto que a entrada de datas
+pode ser realizada manualmente pelos usuários.
+Ill. Na tela 2, o fato de o calendário selecionar a data da compra prejudica a eficiência da interface, já
+que a data preenchida é anterior à data de ida.
+IV. A memorização é prejudicada pois a interface apresenta elementos gráficos em demasia.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oielv
+O Lev.
+ÔuMmelv
+
+QUESTÃO 10
+O gerenciamento de um projeto inclui atividades
+com o objetivo de garantir que todos os produtos
+definidos no seu escopo sejam entregues no prazo
+estimado. Nesse contexto, avalie as afirmações a
+seguir.
+|. Técnicas como PERT e CPM são utilizadas para
+obtenção de estimativas de esforço e como
+apoio para definição de atividades.
+. Séries históricas, quando utilizadas para obter
+estimativas de esforço no desenvolvimento
+de um novo sistema, levam à obtenção de
+estimativas consistentes, independentemente
+do domínio de aplicação dos sistemas que
+deram origem às séries históricas.
+Ill. No caso de atraso na execução do cronograma,
+a contratação de novos desenvolvedores
+assegura que o produto será entregue de
+acordo com o cronograma inicialmente
+proposto.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+OL I1elm.
+
+QUESTÃO 11
+Considere um esquema de gerência de memória por
+paginação simples, onde a memória física é dividida
+em quadros (frames) de 1 Kbyte e endereçada por
+byte. Os espaços de endereçamento dos processos
+são múltiplos de 1 Kbyte. A tabela de páginas para
+um determinado processo P é apresentada a seguir,
+em que o primeiro bit (BV) mostra se a página é
+válida (1) ou inválida (O).
+Com base na tabela apresentada, avalie as afirmações
+a seguir.
+|. O endereço físico é composto por 13 bits.
+Il. O esquema de gerência de memória
+apresentado reduz a fragmentação externa.
+III.A tradução do endereço lógico
+0110000000110 para endereço físico
+causa exceção.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Le.
+
+QUESTÃO 12
+Analise o custo computacional dos algoritmos a seguir, que calculam o valor de um polinômio de grau n, da
+forma: P(x)= a Xº +a, x" +...+axt+a, onde os coeficientes são números de ponto flutuante armazenados
+no vetor a/O..n]J, e o valor de n é maior que zero. Todos os coeficientes podem assumir qualquer valor, exceto
+o coeficiente a, que é diferente de zero.
+Algoritmo 1:
+soma = a[0]
+Repita para i = 1 até n
+Se a[i] é 0.0 então
+potência = x
+Repita para j = 2 até 1
+1
+potência potência * x
+Fim repita
+soma = soma + a[i] * potencia
+Fim se
+Fim repita
+Imprima (soma)
+Algoritmo 2:
+soma = aí[n]
+Repita para i = n-l até O passo -1
+soma = soma * x + a[i]
+Fim repita
+Imprima (soma)
+Com base nos algoritmos 1 e 2, avalie as asserções a seguir e a relação proposta entre elas.
+|. Os algoritmos possuem a mesma complexidade assintótica.
+PORQUE
+ll. Para o melhor caso, ambos os algoritmos possuem complexidade O(n).
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e ll são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 13
+A figura a seguir apresenta uma árvore binária de
+pesquisa, que mantém a seguinte propriedade
+fundamental: o valor associado à raiz é sempre
+menor do que o valor de todos os nós da subárvore
+à direita e sempre maior do que o valor de todos os
+nós da subárvore à esquerda.
+Em relação à árvore apresentada na figura, avalie as
+afirmações a seguir.
+|. A árvore possui a vantagem de realizar a
+busca de elementos de forma eficiente, como
+a busca binária em um vetor.
+Ill. Aárvore está desbalanceada, pois a subárvore
+da esquerda possui um número de nós maior
+do que a subárvore da direita.
+Ill. Quando a árvore é percorrida utilizando
+o método de caminhamento pós-ordem,
+os valores são encontrados em ordem
+decrescente.
+IV. O número de comparações realizadas em
+função do número n de elementos na árvore
+em uma busca binária realizada com sucesso
+é O(log n).
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O LIlelv.
+O IMelv
+
+QUESTÃO 14
+Seja o universo U = (10, 20, 30, 40) e o conjunto dos
+números naturais N. Com base no conhecimento
+sobre a lógica de predicados, avalie as afirmações
+a seguir.
+ll. H=(VxEeN)(3y E U)(x<y) é válida.
+Il. H=(VxE N)(3y E N)(y <x) é válida.
+Il. H=(Vx E U)(Ay E U)(x > y) é inválida, sendo
+x=10 um contra-exemplo.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+
+QUESTÃO 15
+Considere as seguintes expressões regulares cujo
+alfabeto é (a, b).
+R1=a(aUb)*
+R2 = b(a U b)*
+Se L(R) é a linguagem associada a uma expressão
+regular R, é correto afirmar que
+O L(R1) = L(R2).
+O L(R2) = (w | w termina com b).
+O existe um autômato finito determinístico cuja
+linguagem é igual a L(R1) U L(R2).
+O se R3 é uma expressão regular tal que
+L(R3) = L(R1) ON L(R2), então L(R3) é uma
+linguagem infinita.
+O um autômato finito não determinístico que
+reconheça L(R1) U L(R2) tem, pelo menos, quatro
+estados.
+
+O programa a seguir utiliza uma pilha.
+int main() (
+pilha * p = cria pilha();
+Ppush(p, 2);
+push(p, 3);
+Ppush(p, 4);
+POP (Pp) ;
+Ppush(p, 2);
+int a = pop(p) + pop(p);
+push(p, a);
+a += pop(p);
+printf (“%&d”", a);
+return O;
+A esse respeito, avalie as afirmações a seguir.
+|. A complexidade computacional de ambas
+funções push e pop é O(1).
+Il. O valor exibido pelo programa seria o mesmo
+caso a instrução a += popí(p); fosse
+trocadapora += a;
+Ill. EM relação ao vazamento de memória
+(memory leak), é opcional chamar a função
+free (p), pois o vetor usado pela pilha é
+alocado estaticamente.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O LI1elm.
+
+QUESTÃO 16
+Uma pilha é uma estrutura de dados que armazena
+uma coleção de itens de dados relacionados e que
+garante o seguinte funcionamento: o último elemento
+a ser inserido é o primeiro a ser removido. É comum
+na literatura utilizar os nomes push e pop para as
+operações de inserção e remoção de um elemento
+em uma pilha, respectivamente. O seguinte trecho
+de código em linguagem C define uma estrutura de
+dados pilha utilizando um vetor de inteiros, bem
+como algumas funções para sua manipulação.
+tinclude <stdlib.h>
+tinclude <stdio.h>
+typedef struct (|
+int elementos[100];
+int topo;
+Ipilha;
+pilha * cria pilha() (
+pilha * p =malloc(sizeof(pilha));
+p->topo = -—1;
+return pilha;
+void push(pilha *p, int elemento) (
+if (p->topo >= 99)
+return;
+p->elementos [++p->topo] = elemento;
+)
+int pop(pilha *p)
+int a = p->elementos [p->topo];
+p->topo--;
+return a;
+
+QUESTÃO 18
+Em relação à aplicação adequada das técnicas de Inteligência Artificial, avalie as afirmações a seguir.
+|. Indução em Árvore de Decisão é utilizada para identificação de fraudes em cartões de crédito.
+Ill. Redes Neurais Artificiais são utilizadas no desenvolvimento de sistemas de análise de risco em
+aplicações financeiras.
+1.
+Sistemas Especialistas baseados em regras são utilizados no desenvolvimento de sistemas de
+diagnóstico de falhas em hardware.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il el, apenas.
+O Lite.
+
+QUESTÃO 17
+Considerando que o gerente de qualidade é o responsável por definir os meios necessários para se obter um
+produto com a qualidade desejada, bem como por estabelecer técnicas para aferir a qualidade do produto,
+avalie as afirmações a seguir.
+|. O uso de processos de desenvolvimento padronizados, sem adaptações, independente do tipo de
+software a ser desenvolvido, assegura que o produto terá a qualidade desejada.
+Ill. O controle de qualidade pode ser realizado por meio de revisões, incluindo inspeções de programas
+e de artefatos de projeto.
+Ill. Fatores de qualidade de software estão diretamente relacionados a um único atributo interno de
+software.
+É correto o que se afirma em
+O |l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1LI1elm.
+
+QUESTÃO 19
+O desenvolvimento de tecnologias educacionais na
+Computação deve ser bem planejado, pois além
+das questões técnicas, que são fundamentais em
+qualquer tipo de desenvolvimento tecnológico
+computacional, existe a peculiaridade de se
+abarcar requisitos pedagógicos e didáticos de
+ensino-aprendizagem. Assim, no planejamento do
+desenvolvimento e elaboração de tais tecnologias
+é importante a inclusão desses requisitos, que
+norteiam
+O os documentos usados pela equipe de
+desenvolvimento do sistema no qual estão
+definidos detalhes, em um nível mais técnico,
+acerca da implementação do sistema e sua
+arquitetura.
+a escolha e o modo de aplicação de uma
+tecnologia considerando, por um lado, a
+natureza do conteúdo a ser desenvolvido e, por
+outro, os recursos disponíveis na mesma.
+os gastos para o usuário utilizar a tecnologia, a
+relação custo benefício e os tipos de contratos
+de uso.
+as tendências sociais, aceitabilidade, métodos
+de interação social e sociabilidade.
+Oa interface do usuário, adaptação,
+confiabilidade, conectividade e segurança.
+
+QUESTÃO 20
+O computador pode ser considerado um grande
+aliado no desenvolvimento cognitivo dos alunos,
+em especial através da utilização de softwares
+educacionais. Por isso, mais importante que o
+software em si, é o modo como ele será utilizado.
+Assim, o papel do professor é fundamental e
+indispensável na escolha do software educacional.
+DANIELLE, C.; SÔNIA, M. S. B. Critérios para Avaliação de Softwares
+Educacionais. IX ANPEDSUL — Seminário de Pesquisa em Educação da
+Região Sul, 2012. Disponível em: <http://www.ucs.br>.
+Acesso em: 25 jul. 2014.
+Com base no texto apresentado e nos critérios de
+qualidade de software para aplicações educacionais,
+avalie as afirmações a seguir.
+|. A escolha do software educacional deve
+considerar o público-alvo e a adequação da
+interface do software em relação à disciplina
+em que será utilizado.
+ll. A proposta pedagógica da disciplina deve
+ser elaborada ou alterada com o objetivo
+de atender os requisitos e características do
+software educacional escolhido.
+Ill. A escolha do software educacional deve
+considerar a aplicabilidade deste como
+ferramenta no processo de
+aprendizagem e não apenas como um
+instrumento para realização de tarefas.
+ensino-
+A escolha do software educacional deve
+considerar a existência de diferentes caminhos
+para apresentação do conteúdo e resolução
+de problemas, principalmente quanto aos
+critérios de usabilidade e acessibilidade.
+É correto apenas o que se afirma em
+Oie
+O ue.
+O eilv.
+O Lev.
+OLMelv
+
+QUESTÃO 22
+As novas tecnologias de informação e comunicação
+possibilitam novos recursos e metodologias de
+ensino e aprendizagem. Os objetos de aprendizagem
+são elementos importantes que podem fazer parte e
+enriquecer um projeto de educação a distância.
+Nesse contexto, avalie as afirmações a seguir.
+|. Os objetos de aprendizagem podem
+ser utilizados em diferentes contextos
+e em diferentes ambientes virtuais de
+aprendizagem.
+. Os objetos de aprendizagem podem ser
+recursos digitais interativos, permitindo que
+os usuários dialoguem com os mesmos.
+. Os objetos de aprendizagem são itens a serem
+utilizados em contextos específicos, já que é
+difícil sua reutilização em outras situações.
+. Os objetos de aprendizagem são unidades,
+instâncias ou recursos digitais que podem ser
+utilizados no ensino presencial, a distância ou
+híbrido.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O eiv.
+O Lilelv.
+O IMeiv
+
+QUESTÃO 21
+O processo de desenvolvimento de um software
+educacional é uma atividade complexa, em que
+diversos problemas podem ocorrer, como, por
+exemplo, a insatisfação dos usuários em relação aos
+problemas de usabilidade, que estão relacionados
+à facilidade do usuário utilizar o sistema. Há
+diversos princípios consolidados que fornecem as
+características básicas que todo produto precisa
+possuir para conseguir uma boa usabilidade.
+Nesse contexto, avalie as afirmações a seguir.
+|. Design centrado no usuário é o processo
+de projetar produtos interativos que
+satisfaçam as necessidades do usuário.
+. As avaliações de interface baseiam-se em
+objetivos de usabilidade como eficácia,
+eficiência, segurança, utilidade, facilidade
+de aprender e lembrar.
+1.
+Os critérios de usabilidade podem oferecer
+indicadores quantitativos que possibilitam
+melhorar a produtividade, porém eles não
+cobrem a qualidade da experiência do
+usuário, que é melhor analisada pelas metas
+da experiência do usuário.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+Oem.
+
+QUESTÃO 23
+A figura a seguir apresenta o processo de ensino-aprendizagem usando os métodos Ensino sob Medida (EsM)
+e Instrução pelos Colegas (IpC), descrevendo o fluxo de atividades realizadas pelo professor e pelos alunos
+antes e durante a aula.
+Em relação ao processo descrito na figura, avalie as afirmações a seguir.
+|. Os ambientes virtuais de aprendizagem podem ser utilizados como suporte aos métodos Ensino sob
+Medida (EsM) e Instrução pelos Colegas (IpC).
+Il. Os métodos descritos consideram o conhecimento prévio do aluno e favorecem interações sociais
+voltadas para a construção do conhecimento.
+Il. O professor deve limitar as interações sociais em sala de aula, pois elas trazem prejuízo aos alunos já
+que estimulam a cópia de trabalhos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+Oem,
+
+QUESTÃO 25
+Em relação ao projeto e implementação de espaços
+de ensino, assinale a alternativa correta.
+O A utilização de realidade aumentada deve ser
+restrita, visto que tal ferramenta não apresenta
+fatos reais e concretos, apenas uma simulação
+virtual da realidade.
+O As normas de administração de laboratórios
+devem permitir a instalação irrestrita de
+software pelos alunos, permitindo o exercício da
+curiosidade e da busca pelo conhecimento.
+O Os aspectos de inclusão digital devem ser
+considerados, buscando a democratização do acesso
+às tecnologias da informação e o atendimento às
+restrições dos alunos do ponto de vista físico.
+O A utilização de ferramentas de ensino a distância
+(EAD) deve ser limitada, para não colocar em
+risco a segurança das informações utilizadas nos
+cursos oferecidos pelas instituições de ensino.
+O Os espaços não escolares, fora dos limites físicos
+dos campi das instituições de ensino, não fazem
+parte do escopo a ser considerado pelo professor
+para atender o processo de ensino-aprendizagem.
+
+QUESTÃO 24
+O ensino de algoritmos é um processo delicado
+e complexo, e seu sucesso depende de diversos
+fatores, tais como: habilidade do aluno em
+matemática e lógica, metodologia de ensino
+do professor, uso de ferramentas de simulação,
+realização eficiente de exercícios de fixação
+e práticas laboratoriais, apoio extra-classe na
+solução de dúvidas, trabalhos em grupo, dedicação
+do aluno entre outros. A escolha da linguagem
+de programação também merece atenção. Uns
+defendem o uso de linguagens orientadas a objetos,
+que possuem facilidades de programação de alto
+nível e facilitam a vida do desenvolvedor. Outros
+defendem o uso de linguagens mais básicas, que
+forçam o desenvolvedor a implementar muitas das
+estruturas e funções que necessita.
+Nesse contexto, avalie as afirmações a seguir.
+1. O uso da linguagem de programação
+Pascal é adequado ao processo de ensino-
+aprendizagem de algoritmos porque, entre
+outros motivos, permite ao aluno entender
+melhor os diferentes tipos de dados, pois ela
+verifica os tipos das variáveis no momento
+da compilação, sendo considerada uma
+linguagem fortemente tipificada.
+Ill. O uso da linguagem de programação C
+padrão é adequado ao processo de ensino-
+aprendizagem de algoritmos porque, entre
+outros motivos, permite ao aluno entender
+melhor sobre alocação e endereçamento
+de memória para as variáveis, pois esse
+aprendizado necessita do uso de ponteiros.
+II. O uso da linguagem de programação
+Python é adequado ao processo de
+ensino-aprendizagem “de algoritmos
+porque, entre outros motivos, permite
+ao aluno conhecer as estruturas de
+dados e as formas de manipulação, sem
+precisar implementá-las, permitindo o
+desenvolvimento de programas mais
+elaborados, mesmo por alunos com pouco
+conhecimento de algoritmos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il el, apenas.
+Biel.
+
+QUESTÃO 26
+A elaboração e a disponibilização de material
+didático interativo é importante para a motivação
+do estudante. O material pode ter a função de
+apresentar os objetivos do conteúdo a ser abordado
+em formato de tópicos ou aulas. Entre os materiais
+que podem ser elaborados, têm-se: as áudio-aulas,
+captura de tela, vídeo-aulas e o quadro digital.
+Nesse contexto e em relação aos requisitos a serem
+adotados para a elaboração de uma vídeo-aula, o
+professor deve
+O utilizar vídeos com conteúdos temáticos
+diversificados e disponíveis em diferentes
+formatos como, por exemplo, a apresentação de
+uma atividade no laboratório ou no campo, um
+depoimento do professor ou uma conversa de
+um grupo.
+usar uma lousa com sensor de localização que
+amplia a capacidade de controle de softwares e
+que permite usar uma espécie de tinta eletrônica
+para interagir com o material exibido por uma
+projeção.
+usar um software para capturar em formato de
+vídeo tudo o que é feito na tela do computador,
+enquanto é gravada a sua voz ao realizar uma
+tarefa específica.
+O preparar uma apresentação em ferramentas para
+criação de slides, a qual receberá uma narração e,
+finalmente, exportar para um formato compatível.
+O preparar uma simulação de um processo ou
+sistema que exija a intervenção do estudante.
+
+QUESTÃO 27
+Objetos de aprendizagem podem ser definidos por
+uma unidade de conteúdo organizado em forma
+digital ou não digital, que possa ser utilizada e
+reutilizada durante o processo de aprendizagem
+por meio de tecnologias. Tais objetos podem ser
+desenvolvidos nas diversas áreas de conhecimento,
+diferenciando-se apenas os conteúdos didáticos.
+Considerando essas informações e com base nos
+conceitos sobre objetos de aprendizagem, avalie as
+afirmações a seguir.
+|. Autores não podem combinar objetos antigos
+e novos para satisfazer às necessidades de
+suas demandas, visto que não são permitidas
+alterações em um objeto de aprendizagem já
+desenvolvido.
+. Objetos de aprendizagem são um importante
+instrumento de ensino-aprendizagem e
+podem ser utilizados de diferentes formas,
+inclusive na educação a distância.
+Il. O desenvolvimento de um objeto de
+aprendizagem, por si só, pode ser considerado
+construção do conhecimento.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O LI1elm.
+
+QUESTÃO 28
+Cursos online Abertos e Massivos (Massive Online Open Courses - MOOC) possibilitam a educação de nível
+universitário livre em grande escala. Uma preocupação frequentemente levantada sobre MOOCs é que,
+embora milhares possam se inscrever para os cursos, uma proporção muito pequena realmente o conclui,
+como é possível observar na figura a seguir, que representa os tipos de estudantes e a taxa de retenção a cada
+semana em MOOCs.
+A partir das informações apresentadas, avalie as afirmações a seguir.
+|. A evasão de alunos nos MOOCs aumenta a cada semana.
+Il. A maior parte dos estudantes que concluem os cursos participam ativa ou passivamente.
+Ill. Os observadores, pessoas que apenas assistem sem participar de discussões, nunca concluem
+OS CUrsos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas
+O ll elll, apenas.
+O Ie
+
+QUESTÃO 29
+As pesquisas mostram que dos milhares de inscritos
+nos MOOCs (Massive Online Open Courses) apenas
+uma pequena parcela conclui o curso. Dados recentes
+indicam que a quantidade de matrículas está
+crescendo, entretanto a quantidade de estudantes
+que terminam os cursos não é proporcional a tal
+crescimento. Uma análise desses dados indica que a
+evasão se deve, entre outros fatores, às dificuldades
+na utilização das tecnologias empregadas.
+Nesse sentido, avalie as asserções a seguir e a relação
+proposta entre elas.
+l. É necessário aprimorar o ferramental
+tecnológico utilizado pelos MOOCs para
+possibilitar o aumento na taxa de retenção
+dos estudantes.
+PORQUE
+Ill. Os estudantes nem sempre conhecem os pré-
+requisitos dos conteúdos disponibilizados.
+A respeito dessas asserções, assinale a opção correta.
+O Aasserções | e 1l são proposições verdadeiras, e a
+Il é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 30
+O desenvolvimento de um projeto na modalidade
+de educação a distância (EAD) exige profissionais
+capacitados e planejamento minucioso das
+diversas — atividades — envolvidas em cursos,
+disciplinas ou unidades a serem ofertadas. Algumas
+particularidades encontradas em um projeto
+de EAD, e especialmente os recursos e critérios
+utilizados para a avaliação, estão marcadas por
+algumas características fundamentais, como a
+distância, a virtualidade e o assincronismo.
+Nesse contexto e em relação as atividades de
+avaliação na EAD, avalie as afirmações a seguir.
+|. A elaboração de textos ou
+colaborativos é uma
+avaliação na EAD.
+projetos
+possibilidade de
+Il. Orecurso conhecido como fórum de discussão
+não deve ser considerado como instrumento
+ou critério de avaliação na EAD.
+Ill. Atividades de avaliação que permitam
+construir — conhecimento ou consolidar
+conceitos em diferentes etapas são adequadas
+em um contexto de EAD.
+IV. As atividades de avaliação na EAD devem
+ser planejadas para acontecer em instantes
+ou períodos que permitam a participação
+simultânea de professores e alunos.
+É correto apenas o que se afirma em
+Oie.
+Oielv
+O lelv
+O Le.
+O IMeiv
+
+QUESTÃO 31
+A gestão democrática pode ser definida como um processo político no qual as pessoas que atuam na e sobre
+a escola identificam problemas, discutem, deliberam, planejam, encaminham, acompanham, controlam e
+avaliam o conjunto das ações voltadas ao desenvolvimento da própria escola, na busca da solução daqueles
+problemas. Esse processo, sustentado no diálogo, na alteridade e no reconhecimento das especificidades
+técnicas das diversas funções presentes na escola, tem como base a participação efetiva de todos os
+segmentos da comunidade escolar, o respeito às normas coletivamente construídas para os processos de
+tomada de decisões e a garantia de amplo acesso às informações aos sujeitos da escola.
+SOUZA, A. R. Explorando e construindo um conceito de gestão escolar democrática. Educação em Revista,
+Belo Horizonte, v.25, n.03, dez. 2009, p. 125-126 (adaptado).
+Com base nos textos apresentados, conclui-se que a gestão democrática da educação
+|. implica colocar as instituições a serviço da formação qualificada dos estudantes, tendo a participação
+como prática cotidiana de todos os envolvidos.
+Il. propicia a criação de uma cultura institucional crítico-reflexiva, cujos envolvidos tenham discernimento
+em relação aos conteúdos que necessitam ou não para tomarem decisões sempre coletivas.
+Ill. pressupõe a existência de líderes capazes de orientar pessoas para o desenvolvimento de ações que
+visem ao cumprimento de objetivos definidos por eles.
+IV. efetiva-se pelo processo de construção coletiva do projeto pedagógico e de seu acompanhamento e
+avaliação.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O ueiv
+O Lev.
+O uMmelv
+
+QUESTÃO 32
+O Plano Nacional de Educação (PNE) inclui 20 metas e estratégias traçadas para o setor nos próximos 10
+anos. Entre as metas, está a aplicação de valor equivalente a 10% do Produto Interno Bruto (PIB) na educação
+pública, promovendo a universalização do acesso à educação infantil para crianças de quatro a cinco anos,
+do ensino fundamental e do ensino médio. Esse plano também prevê a abertura de mais vagas no ensino
+superior, investimentos maiores em educação básica em tempo integral e em educação profissional, além da
+valorização do magistério.
+BRASIL. Conheça as 20 metas definidas pelo PNE. Disponível em:<http://www.brasil.gov.br>. Acesso em: 4 jul. 2014 (adaptado).
+A Lei n.º 13.005, de 25 de junho de 2014, que aprova o PNE, prevê importantes dispositivos, tais como:
+Art. 5º A execução do PNE e o cumprimento de suas metas serão objeto de monitoramento contínuo e de
+avaliações periódicas.
+Art. 10 O plano plurianual, as diretrizes orçamentárias e os orçamentos anuais da União, dos Estados, do
+Distrito Federal e dos Municípios serão formulados de maneira a assegurar a consignação de dotações
+orçamentárias compatíveis com as diretrizes, metas e estratégias deste PNE e com os respectivos planos de
+educação, a fim de viabilizar sua plena execução.
+Art. 11 O Sistema Nacional de Avaliação da Educação Básica, coordenado pela União, em colaboração com os
+Estados, o Distrito Federal e os Municípios, constituirá fonte de informação para a avaliação da qualidade da
+educação básica e para a orientação das políticas públicas desse nível de ensino.
+Art. 13 O poder público deverá instituir, em lei específica, contados 2 (dois) anos da publicação desta Lei,
+o Sistema Nacional de Educação, responsável pela articulação entre os sistemas de ensino, em regime de
+colaboração, para efetivação das diretrizes, metas e estratégias do Plano Nacional de Educação.
+Considerando as informações acima, conclui-se que o PNE
+O possibilita ao país iniciar seu processo de desenvolvimento, pois prevê aumento anual de 10% nos
+patamares de aplicação do PIB em educação e sistema de monitoramento da aplicação de investimentos,
+o Sistema de Avaliação da Educação Básica, a ser instituído nos próximos dois anos.
+O prevê meta de aplicação de 10% do PIB em educação, sinalizando que os gestores escolares terão 10
+vezes mais possibilidades de atingir patamares mais elevados de educação nos próximos 10 anos, pois
+vincula os investimentos com a educação aos níveis de desenvolvimento do país, aferidos pelo PIB.
+O estabelece que a melhoria da educação básica — universalização do acesso à educação infantil, aumento
+de vagas no ensino superior, maior investimento em educação em tempo integral e em educação
+profissional — evidencia a base para o desenvolvimento, pois o crescimento econômico é o indicador do
+percentual de recursos do PIB a ser aplicado em educação.
+O disponibiliza para os gestores escolares o crescimento de 10% dos investimentos do PIB em educação,
+ao ano, durante os próximos 10 anos e um Sistema Nacional de Avaliação para verificar a efetivação das
+diretrizes e metas dispostas no referido Plano.
+O permite planejar a educação para os próximos 10 anos e institui mecanismos de monitoramento e
+avaliação, tanto da execução do Plano como da qualidade da educação, por meio do estabelecimento de
+metas educacionais e definição dos investimentos a serem disponibilizados para o alcance dessas metas.
+
+QUESTÃO 34
+O Projeto Político-Pedagógico (PPP) relaciona-se à
+organização do trabalho pedagógico da escola,
+indicando uma direção, explicitando os fundamentos
+teórico-metodológicos, os objetivos, o tipo de
+organização e as formas de implementação e
+avaliação da escola.
+VEIGA, |. P. A.; RESENDE, L.M.G. (Org.). Escola: espaço do Projeto
+Político-Pedagógico. 4. ed. Campinas-SP: Papirus, 1998 (adaptado).
+Considerando a elaboração do PPP, avalie as
+seguintes afirmações.
+|. O PPP constitui-se em processo participativo
+de decisões para instaurar uma forma de
+organização do trabalho pedagógico que
+desvele os conflitos e as contradições no
+interior da escola.
+Il. A discussão do PPP exige uma reflexão acerca
+da concepção de educação e sua relação com
+a sociedade e a escola, o que implica refletir
+sobre o homem a ser formado.
+Ill. A construção do PPP requer o convencimento
+dos professores, da equipe escolar e dos
+funcionários para trabalharem em prol do
+plano estabelecido pela gestão educacional.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1, I1e.
+
+QUESTÃO 33
+Os currículos organizam conhecimentos, culturas,
+valores e artes a que todo ser humano tem direito.
+Assim, o currículo deve ser analisado conforme as
+experiências vividas pelos estudantes, nas quais se
+articulam os saberes, aprendidos por eles na vivência
+e na convivência em suas comunidades, com os
+conhecimentos sistematizados que a escola deve
+lhes tornar acessíveis.
+ARROYO, M. G. Educandos e educadores: seus direitos e o currículo.
+In: ARROYO, M. G. Indagações sobre o currículo: educandos e educadores:
+seus direitos e o currículo. Brasília: Ministério da Educação,
+Secretaria de Educação Básica, 2007, p. 67 (adaptado).
+A partir da definição de currículo abordada pelo
+autor, avalie as afirmações a seguir.
+|. A construção do currículo constitui um
+processo de seleção cultural, o que pode
+colocar em desvantagem determinados
+grupos sociais e culturais.
+Ill. O sistema educativo confere ao currículo
+efetividade que envolve uma multiplicidade
+de relações, razão pela qual este deve ser
+considerado práxis e sua materialização
+corresponder à forma como foi idealizado.
+Ill. As teorias críticas reconhecem a existência de
+poderes diversos diluídos nas relações sociais,
+conferindo ao currículo a função de atuar em
+processos para a inclusão escolar.
+IV. É desafio da escola incluir no currículo
+experiências culturais diversificadas, que não
+reproduzam estruturas da vida social em suas
+assimetrias e desigualdades.
+É correto o que se afirma em
+O |, apenas.
+O ll elll, apenas.
+O Il elV, apenas.
+O LI elV, apenas.
+O LINE.
+
+QUESTÃO 35
+Da visão dos direitos humanos e do conceito de cidadania fundamentado no reconhecimento das diferenças
+e na participação dos sujeitos, decorre uma identificação dos mecanismos e processos de hierarquização que
+operam na regulação e produção de desigualdades. Essa problematização explicita os processos normativos
+de distinção dos alunos em razão de características intelectuais, físicas, culturais, sociais e linguísticas,
+estruturantes do modelo tradicional de educação escolar.
+BRASIL, MEC. Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva, 2008, p. 6 (adaptado).
+As questões suscitadas no texto ratificam a necessidade de novas posturas docentes, de modo a atender a
+diversidade humana presente na escola. Nesse sentido, no que diz respeito a seu fazer docente frente aos
+alunos, o professor deve
+|. desenvolver atividades que valorizem o conhecimento historicamente elaborado pela humanidade e
+aplicar avaliações criteriosas com o fim de aferir, em conceitos ou notas, o desempenho dos alunos.
+Il. instigar ou compartilhar as informações e a busca pelo conhecimento de forma coletiva, por meio
+de relações respeitosas acerca dos diversos posicionamentos dos alunos, promovendo o acesso às
+inovações tecnológicas.
+Ill. planejar ações pedagógicas extraescolares, visando ao convívio com a diversidade; selecionar e
+organizar os grupos, a fim de evitar conflitos.
+IV. realizar práticas avaliativas que evidenciem as habilidades e competências dos alunos, instigando
+esforços individuais para que cada um possa melhorar o desempenho escolar.
+V. utilizar recursos didáticos diversificados, que busquem atender a necessidade de todos e de cada um
+dos alunos, valorizando o respeito individual e coletivo.
+É correto apenas o que se afirma em
+Oem.
+Olev
+O u,Mmeiv.
+O LI,IVev.
+OU, IVev
+

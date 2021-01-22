@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:48:12</Created>
+	<LastChange>2020-10-28T17:03:52</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-15.jpg" imageWidth="1613" imageHeight="2167">
+	<ImageRegion id="r2">
+	<Coords points="1457,778 1458,816 882,817 882,1475 1540,1474 1539,778"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="829,236 1000,236 1000,295 1535,295 1535,768 1408,768 1408,1483 1535,1483 1535,1584 1534,1584 1534,2005 831,2005 831,2006 830,2006 830,799 829,799"/>
+	<TextEquiv conf="0.96892">
+	<Unicode>QUESTÃO 20
+A tomografia computadorizada (TC) é um método
+de diagnóstico por imagem bastante preciso para a
+detecção de diversas patologias, tais como neoplasias,
+traumas e acidentes vasculares. Seus princípios
+físicos são os mesmos da Radiologia Convencional, na
+qual se utiliza o raio-X para a atenuação da radiação
+com a matéria. O grande diferencial é que a TC está
+associada a um sistema computacional que consegue
+transformar a radiação, através dos seus detectores,
+em sinal digital, produzindo uma imagem muitas
+vezes mais fidedigna do que a radiografia. O tecnólogo
+em radiologia deve ter conhecimento amplo sobre
+esse método. Entre os vários assuntos que devem
+ser conhecidos, a anatomia é fundamental.
+Com base no texto, analise a imagem acima e
+relacione os números que nela aparecem com a
+região anatômica ali representada.
+O 1- veia cava inferior; 2 - rim esquerdo; 3 - artéria
+aorta; 4 - artéria mesentérica inferior; 9 - fígado.
+O 1 - veia cava inferior; 2 - rim direito; 3 - artéria
+aorta; 4 - artéria mesentérica superior; 9 - baço.
+O 1 - veia cava inferior; 2 - rim direito; 3 - artéria
+aorta; 4 - artéria mesentérica superior; 9 - fígado.
+O 1-artéria aorta; 2 - rim direito; 3 - veia cava inferior;
+4 - artéria mesentérica superior; 9 - fígado.
+O 1 - artéria aorta; 2 - rim esquerdo; 3 - veia cava
+inferior; 4 - artéria mesentérica superior; 9 - fígado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,236 252,236 252,304 787,304 787,622 786,622 786,775 787,775 787,776 788,776 788,1091 787,1091 787,1630 788,1630 788,1748 787,1748 787,1998 82,1998 82,1821 129,1821 129,1603 82,1603 82,1121 83,1121 83,776 82,776 82,477 81,477 81,390 82,390 82,266 81,266"/>
+	<TextEquiv conf="0.94950">
+	<Unicode>QUESTÃO 19
+Efeitos radiobiológicos deletérios das radiações
+ionizantes podem surgir quando pessoas são
+submetidas a doses de radiação acima dos limites
+máximos permissíveis (LMP). Para assegurar a
+integridade física dos indivíduos ocupacionalmente
+expostos (IOE), dos indivíduos do público e dos
+pacientes, a legislação prevê a obrigatoriedade da
+monitoração de área e individual.
+Considerando a legislação vigente, é correto afirmar que
+O a dose de referência de radiodiagnóstico em
+exames de tomografia computadorizada para
+paciente adulto típico é de 50 mMGy na média para
+cortes múltiplos na região da cabeça (Portaria MS
+nº 453/1998) e o paciente não deve realizar mais
+do que 5 exames por ano, a fim de não extrapolar
+o LMP.
+O os detectores do tipo Geiger Múller devem
+ser utilizados durante a realização dos exames
+de tomografia computadorizada, a fim de se
+monitorar a dose de radiação à qual o paciente
+está sendo exposto e de garantir os níveis de
+exposição permitidos para o paciente e o IOF.
+O nos procedimentos de radiografia do tórax, deve
+se utilizar colimação para a área cardíaca a fim de
+se reduzir a dose abaixo de 1,0 mSv/ano.
+O a monitoração individual dos IOE é realizada
+com dosímetros termoluminescentes, que
+devem ser substituídos mensalmente e lidos por
+laboratórios de dosimetria legalmente habilitados
+e credenciados.
+O o limite máximo permissível para IOE é de
+1,0 mSv/ano e nenhum exame radiográfico
+do tórax deve expor o paciente a uma dose
+superior a esse valor.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="805,231 805,2023 807,2023 807,231"/></SeparatorRegion></Page></PcGts>

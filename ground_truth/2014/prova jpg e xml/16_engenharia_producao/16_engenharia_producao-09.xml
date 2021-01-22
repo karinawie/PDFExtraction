@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:15:18</Created>
+	<LastChange>2020-11-21T20:34:40</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="83,238 411,238 411,298 1539,298 1539,487 1538,487 1538,970 1539,970 1539,1079 83,1079"/>
+	<TableRegion id="r1">
+	<Coords points="223,705 223,944 1402,944 1402,705"/></TableRegion>
+	<TextEquiv conf="0.96557">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Uma empresa comercializa produtos de limpeza para restaurantes, hotéis, hospitais e escolas. O ambiente em
+que ela atua possui um cenário altamente competitivo, de forma que o prazo de entrega dos pedidos pode
+determinar a viabilidade de uma venda. O sistema de distribuição deve ser projetado de maneira a proporcionar
+diferentes níveis médios de prazo de entrega de acordo com o número e a localização dos armazéns, níveis
+de estoques, além de uma adequada previsão de demanda e procedimentos de processamento de pedidos.
+Com base na previsão da demanda, pode-se analisar a prioridade e a urgência de se atender o pedido,
+considerando que, embora o ambiente seja competitivo, o produto possui baixa perecibilidade.
+O gerente da distribuição física fez as estimativas a respeito do custo de fornecer tais níveis e de como o
+serviço afeta as vendas:
+Com base no quadro das estimativas das porcentagens de vendas no mesmo dia e o custo para se manter
+este nível, no curto e no médio/longo prazo, apresente subsídios para um adequado dimensionamento e
+planejamento para entregas, de acordo com suas urgências e prioridades. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

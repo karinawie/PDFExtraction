@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:16:28</Created>
+	<LastChange>2020-12-06T02:42:57</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,1400 894,1400 894,1033 893,1033"/>
+	<ImageRegion id="r3">
+	<Coords points="919,469 919,875 1572,875 1572,469"/></ImageRegion>
+	<TextEquiv conf="0.95709">
+	<Unicode>QUESTÃO 15
+Considere o arranjo computacional apresentado a
+seguir.
+A característica fundamental esperada para tais
+sistemas de modo a ter o menor impacto sobre a
+experiência do usuário final é
+O atransparência entre as entidades do sistema.
+O alinguagem de programação orientada a eventos.
+O o hardware com elevada taxa de processamento
+de dados.
+O a base de dados deve estar localizada no mesmo
+espaço físico.
+O a independência quanto à disponibilidade de
+conexão à rede de comunicação de dados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="145,299 317,299 317,355 851,355 851,962 787,962 787,1306 851,1306 851,1788 532,1788 532,1887 384,1887 384,2062 146,2062 146,1802 194,1802 194,1375 145,1375 145,1247 144,1247 144,355 145,355"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 14
+Para fins estatísticos, uma empresa precisa
+armazenar os trajetos que seus representantes
+comerciais percorrem entre pontos de venda.
+É importante que para cada local visitado sejam
+armazenados, além da informação do próprio
+local, o local de origem do representante (ponto
+de venda anterior), o local de destino (ponto de
+venda posterior), as distâncias percorridas e os
+tempos de viagem. Esse procedimento permite
+que estes trajetos possam ser analisados, de forma
+rápida, do local de origem ao local de destino, bem
+como no sentido inverso, do local de destino (final
+do trajeto) ao local de origem (início do trajeto).
+O analista responsável pelo sistema que utilizará
+os dados armazenados e produzirá os relatórios
+estatísticos, projetou o seguinte esboço de uma
+classe que representa um ponto de venda:
+public class Local (
+private String nome estabelecimento;
+private String endereco;
+private Local origem;
+private Local destino;
+private float distancia origem;
+private float tempo origem;
+!
+A respeito do esboço da classe, avalie as afirmações
+a seguir.
+|. O esboço acima representa uma lista
+duplamente encadeada.
+Il. Utilizar um nó de uma estrutura de dados
+do tipo árvore de busca multivias de grau 3,
+seria a solução ideal para o problema porque
+providenciaria a economia de recursos de
+memória e de disco.
+Ill. A utilização de uma árvore de pesquisa binária
+para a solução do problema é normal, desde
+que o atributo de ordenação da árvore seja
+distancia origem.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Lie.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="875,283 875,2083 877,2083 877,283"/></SeparatorRegion></Page></PcGts>

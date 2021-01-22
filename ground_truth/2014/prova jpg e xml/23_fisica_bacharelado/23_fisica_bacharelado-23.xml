@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:18:57</Created>
+	<LastChange>2020-11-22T03:29:38</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,561 1537,561 1537,664 994,664 994,885 1018,885 1018,916 832,916 832,561 831,561 831,298 832,298"/>
+	<TextEquiv conf="0.96340">
+	<Unicode>QUESTÃO 23
+Considere que, em uma aula experimental de Física,
+uma fonte sonora, emitindo um som de frequência
+igual a 220 Hz, foi colocada perto de uma guitarra
+de 6 cordas, todas com 60 cm de comprimento.
+Após desligar a fonte, foi possível perceber que
+uma das cordas continuava a vibrar no harmônico
+fundamental.
+Na situação descrita, estima-se que a velocidade da
+onda transversal na corda é de
+O 66 m/s.
+O 132 m/s.
+O 264 m/s.
+O 792 m/s.
+O 1584 m/s.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,305 791,305 791,848 790,848 790,1655 789,1655 789,1656 470,1656 470,1782 305,1782 305,1915 314,1915 314,2001 84,2001 84,1685 132,1685 132,1006 84,1006 84,1005 83,1005 83,305 84,305"/>
+	<TextEquiv conf="0.96087">
+	<Unicode>QUESTÃO 22
+A teoria da relatividade foi apresentada por Albert
+Einstein, em 1905, na sua forma restrita, aplicada
+apenas a movimentos não acelerados. Essa teoria
+propôs mudanças radicais nos conceitos de espaço e
+tempo e postulou que a velocidade da luz no vácuo
+seria o limite para todas as velocidades. Alguns
+anos depois, em 1915, Einstein generalizou sua
+teoria para incluir os movimentos acelerados. Como
+consequência, desenvolveu-se uma nova teoria da
+gravitação, que implicaria a reformulação das ideias
+sobre gravitação universal estabelecidas por Isaac
+Newton ao final do século XVII.
+A partir do contexto histórico apresentado acima,
+avalie as afirmações a seguir sobre a Relatividade
+Geral de Einstein.
+|. A Teoria elucidou fenômenos que a teoria da
+gravitação newtoniana não explicava, como,
+por exemplo, os desvios observados na órbita
+do planeta Mercúrio.
+ll. A Teoria previu o desvio na trajetória dos
+raios luminosos quando esses passassem
+perto de grandes massas, como o Sol, que era
+incompatível com a previsão da gravitação
+Newtoniana.
+Ill. A Teoria afirmou que o tipo de curvatura
+do espaço-tempo é determinado pela
+distribuição de massas e que espaço e tempo
+eram facetas de uma única grandeza.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll apenas.
+O ll elll apenas.
+OL I1elm.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,231 805,2021 807,2021 807,231"/></SeparatorRegion></Page></PcGts>

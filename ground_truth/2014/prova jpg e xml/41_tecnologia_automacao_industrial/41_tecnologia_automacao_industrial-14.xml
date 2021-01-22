@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:52:58</Created>
+	<LastChange>2020-12-06T03:04:02</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="145,1055 316,1055 316,1116 1600,1116 1600,1305 1489,1305 1489,1536 1599,1536 1599,1624 1600,1624 1600,1696 147,1696 147,1695 146,1695 146,1304 145,1304"/>
+	<TextEquiv conf="0.96687">
+	<Unicode>QUESTÃO 12
+Uma guilhotina é utilizada para cortar folhas de papel em diferentes tamanhos. O operador do equipamento
+pressiona dois botões simultâneos (S1 e S2) e um atuador de dupla ação, acionado por uma válvula direcional
+de duplo solenoide, avança e corta a folha de papel. O retorno da guilhotina é feito com o acionamento de
+um terceiro botão (S3), mas somente se o atuador estiver em sua posição final detectada pela chave final de
+curso (PF).
+Nesse equipamento, é possível verificar que o circuito eletropneumático que controla a guilhotina
+O associa o botão S3 em paralelo com a chave final de curso PF.
+O associa os botões S1 e S2 em série, para fazer o retorno da guilhotina.
+O possui os botões S1, S2 e S3 ligados em paralelo, para fazer o comando de retorno da guilhotina.
+O associa os botões S1 e S2 em série, de maneira que a guilhotina corte o papel com a ação simultânea dos
+botões.
+O possui os botões S1 e S3 ligados em paralelo no circuito, para fazer o comando de dupla ação para cortar
+a folha de papel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1598,359 1598,429 1047,429 1047,993 1210,993 1210,1026 147,1026 147,1025 146,1025 146,330 145,330"/>
+	<ImageRegion id="r2">
+	<Coords points="191,452 191,722 1583,722 1583,452"/></ImageRegion>
+	<TextEquiv conf="0.91726">
+	<Unicode>QUESTÃO 11
+No processo de partida de um motor trifásico a contator, parte do programa aplicativo, representando a
+lógica de controle de partida, está apresentado na figura abaixo.
+Em relação ao funcionamento do circuito, assinale a opção correta.
+O O acionamento do selo YO0001 desliga a saída.
+O O acionamento da entrada XO002 liga o motor.
+O O acionamento da entrada X0001 desliga o motor.
+O O acionamento das entradas XO002 e X0003 desliga o motor.
+O O acionamento da entrada XO0001 e do selo YO001 em série desliga o motor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

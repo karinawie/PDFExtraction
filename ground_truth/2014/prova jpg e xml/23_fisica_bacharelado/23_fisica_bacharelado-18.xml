@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:19:52</Created>
+	<LastChange>2020-11-22T03:32:17</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-18.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,298 1539,298 1539,481 1537,481 1537,1018 1538,1018 1538,1350 470,1350 470,1460 322,1460 322,1645 84,1645 84,992 83,992 83,807 84,807 84,298 83,298 83,297 84,297"/>
+	<TableRegion id="r1">
+	<Coords points="86,500 86,786 1542,786 1542,500"/></TableRegion>
+	<TextEquiv conf="0.96481">
+	<Unicode>QUESTÃO 16
+Após uma maré alta que atingiu vários carros parados nas proximidades de uma praia, um grupo de
+estudantes procurou estudar o fenômeno com o objetivo de estabelecer algumas previsões. Cientes de que
+o fenômeno é causado pelas forças de atração gravitacionais diferenciais da Lua sobre a Terra, os estudantes
+acompanharam as variações da altura da maré em determinado ponto apenas nos dias de passagem de fase
+da Lua. A tabela a seguir mostra os valores máximos e mínimos obtidos.
+Ao pesquisar sobre o tema, os estudantes concluíram que a força diferencial gravitacional, obtida pela
+derivada da equação da força da gravitação universal, é diretamente proporcional à massa do corpo
+que provoca a maré e inversamente proporcional ao cubo da distância entre os corpos. Eles utilizaram
+os seguintes dados referentes às massas e às distâncias envolvidas: distância Terra-Lua = 3,8xX10º km,
+distância Sol-Terra = 1,5x10º km, massa do Sol = 2,0x10ºº kg e massa da Lua = 7,3x10” kg.
+Nesse contexto, avalie as seguintes afirmações feitas pelos estudantes.
+|. As marés altas de maior amplitude ocorrem nas proximidades das luas cheia e nova, constatação que
+evidencia a não dependência da atração gravitacional do Sol na ocorrência do fenômeno.
+Il. Embora a massa do Sol seja muito maior que a massa da Lua, o fato de ele estar muito mais distante
+da Terra do que a Lua faz com que a maré provocada por ele tenha 1/10 da maré provocada pela Lua.
+Ill. Durante o intervalo de tempo de um dia, ocorrem, em um mesmo local, duas marés altas e duas marés
+baixas, de forma que, quando ocorre maré alta em dado lugar da Terra, simultaneamente ocorre maré
+alta no lado da Terra diametralmente oposto.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LIelm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

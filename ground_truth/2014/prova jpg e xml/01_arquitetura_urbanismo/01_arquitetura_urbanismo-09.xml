@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T04:05:15</Created>
+	<LastChange>2020-09-24T04:05:15</LastChange></Metadata>
+	<Page imageFilename="01_arquitetura_urbanismo-09.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r1">
+	<Coords points="540,476 543,1055 1521,1052 1518,474"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="113,1057 113,1544 760,1544 760,1057"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="831,1057 831,1552 1515,1552 1515,1057"/></ImageRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="84,238 411,238 411,297 1539,297 1539,444 1535,444 1535,1673 1539,1673 1539,1819 1332,1819 1332,1820 1124,1820 1124,1821 916,1821 916,1822 709,1822 709,1823 85,1823 85,1674 84,1674 84,1639 83,1639 83,300 82,300 82,299 83,299 83,239 84,239"/>
+	<TextEquiv conf="0.96530">
+	<Unicode>QUESTÃO DISCURSIVA 3
+O sistema estrutural laje-viga-pilar é o sistema básico das edificações. Esse sistema é empregado no Palácio
+Capanema, no Rio de Janeiro, e no Palácio do Planalto, em Brasília. Invertendo-se o sentido do caminho das
+forças, foi concebido o sistema estrutural do Palácio Tiradentes, em Belo Horizonte. Nesse edifício, os cabos
+compõem o subsistema vertical no interior da fachada envidraçada.
+Considerando as informações apresentadas, faça o que se pede a seguir.
+a) Apresente o caminhamento das forças gravitacionais nas estruturas dos três edifícios. (valor: 5,0 pontos)
+b) Os pilares e as vigas dos três edifícios devem ser mais robustos que os cabos do Palácio Tiradentes.
+Explique esta afirmação considerando o seguinte modelo simplificado de comportamento estrutural:
+pilares e cabos submetidos a esforços axiais centrados, vigas submetidas à flexão pura e validade da lei de
+Hooke e da flambagem de Euler. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

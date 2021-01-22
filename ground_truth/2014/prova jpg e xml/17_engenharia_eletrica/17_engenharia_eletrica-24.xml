@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:41:39</Created>
+	<LastChange>2020-11-21T21:17:35</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="832,238 1003,238 1003,299 1539,299 1539,1097 1538,1097 1538,1180 1537,1180 1537,1341 1536,1341 1536,1594 832,1594"/>
+	<ImageRegion id="r2">
+	<Coords points="834,447 834,1000 1536,1000 1536,447"/></ImageRegion>
+	<TextEquiv conf="0.96473">
+	<Unicode>QUESTÃO 26
+Diversos parâmetros podem ser obtidos a partir
+da resposta de um sistema de controle de segunda
+ordem a uma entrada do tipo degrau unitário,
+conforme mostrado no gráfico a seguir.
+Considerando que a função de transferência
+Y(s) do sistema de segunda ordem é dada por
+Y(s) = ————— o valor do tempo de
+(9) Ss +14s8+4
+acomodação 7 para que a resposta do sistema
+esteja dentro de uma faixa de +2% do valor final
+será de
+O 2,855.
+O 3,755.
+O 14,00 s.
+O 5,00 s.
+O 10,00 s.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,1191 789,1191 789,1437 84,1437"/>
+	<ImageRegion id="r3">
+	<Coords points="144,500 144,928 715,928 715,500"/></ImageRegion>
+	<TextEquiv conf="0.96420">
+	<Unicode>QUESTÃO 25
+Considerando um concurso onde os candidatos
+serão avaliados a partir da combinação das respostas
+binárias (sim - 1 ou não - O) a quatro questões (A, B,
+C e D), construiu-se o seguinte circuito digital para
+selecionar os citados candidatos.
+Sabendo que o LED L1 só acenderá para o nível lógico
+1 na sua entrada, e que isso seria a indicação de
+aprovação, qual das alternativas a seguir apresenta
+corretamente possíveis combinações binárias das
+respostas às questões A, B, C e D, nessa sequência,
+que garantem a aprovação de um candidato?
+O 0011, 0001 e 0010
+O 1001, 1101 e 1110
+O 0111, 1001 e 1011
+O 0110, 1010 e 1000
+O 1011, 1101 e 1010</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="810,231 810,2013 813,2013 813,231"/></SeparatorRegion></Page></PcGts>

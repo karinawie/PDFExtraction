@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:44:02</Created>
+	<LastChange>2020-11-21T21:30:14</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="85,238 86,238 86,239 413,239 413,297 1175,297 1175,298 1538,298 1538,433 1539,433 1539,622 1538,622 1538,792 1537,792 1537,974 836,974 836,1580 1175,1580 1175,1581 1538,1581 1538,1690 86,1690 86,1689 85,1689 85,1546 84,1546 84,1545 85,1545 85,974 83,974 83,433 84,433 84,268 85,268"/>
+	<ImageRegion id="r1">
+	<Coords points="268,989 268,1434 1357,1434 1357,989"/></ImageRegion>
+	<TextEquiv conf="0.95976">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Um consumidor registrou queixa junto à empresa de distribuição de energia elétrica por causa da forte
+oscilação do brilho de lâmpadas incandescentes em sua residência. Segundo o reclamante, isso ocorria
+devido ao uso de equipamentos de solda elétrica em uma oficina vizinha ao seu domicílio.
+Sabendo que esses eram os dois únicos consumidores conectados ao transformador de distribuição de
+energia, um engenheiro da concessionária foi enviado para fazer uma verificação. Ele instalou um analisador
+de energia que registrou, simultaneamente, a tensão no ponto de conexão da residência (Vres) do consumidor
+que fez a queixa e a corrente consumida pela oficina (lof). Durante a medição, todas as cargas da residência
+estavam desligadas.
+Em um dos registros obtidos durante as medições, os padrões de tensão e corrente mostraram uma corrente
+de 100 A, correspondente a uma queda de tensão de 20 V. Nessa situação, o fator de potência medido foi
+indutivo com valor nulo. A tensão medida em Vres, quando a corrente da oficina também era nula, foi igual
+a 220 V. Todos os valores são eficazes.
+Para explicar o que acontecia, o engenheiro desenhou o circuito equivalente mostrado na figura abaixo.
+Informou que XL se referia ao comportamento do transformador de distribuição (reatância de dispersão).
+Afirmou também que desconsiderou os cabos de conexão entre o transformador e os pontos de medição,
+pois eram distâncias relativamente muito curtas.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Determine o módulo da tensão V. (valor: 4,0 pontos)
+b) Desenhe, em escala, o diagrama fasorial com as três tensões (Vx, Vres e V) e a corrente da oficina (lof) do
+circuito equivalente, para a condição de corrente indicada (100 A), tomando como referência a tensão V
+(fase 0º) na fonte. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

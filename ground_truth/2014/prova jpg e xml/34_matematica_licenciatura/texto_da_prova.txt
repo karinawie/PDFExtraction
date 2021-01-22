@@ -1,0 +1,734 @@
+QUESTÃO DISCURSIVA 3
+Os principais efeitos visuais da computação gráfica vistos em uma tela são resultados de aplicações de
+transformações lineares. Translação, rotação, redimensionamento e alteração de cores são apenas alguns
+exemplos.
+Considere que uma tela é cortada por dois eixos, x e y, ortogonais entre si, formando um sistema de
+coordenadas com origem no centro da tela. Suponha que, nessa tela plana, existe a imagem de uma
+elipse com eixo maior de tamanho 4, paralelo ao eixo x, e cujos focos têm coordenadas (-1, 2) e (1, 2).
+Considere T um operador linear definido em Rº?.
+De acordo com as informações acima, faça o que se pede nos itens a seguir, apresentando os cálculos
+utilizados na sua resolução.
+a) Mostre que o ponto (0, 2 + 1/3) pertence à elipse. (valor: 3,0 pontos)
+b) Suponha que, em cada ponto da tela, seja aplicado o operador linear T(x, y) = (x + y, 2x + 44).
+Quais serão as coordenadas dos focos da elipse após a aplicação de 7? (valor: 3,0 pontos)
+c) Calcule os autovalores do operador linear T(x, y) = (x + y, -2x + 44). (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+O número de ouro é conhecido há mais de dois mil anos, sendo encontrado nas artes, nas pirâmides do Egito
+e na natureza. Para construir o número de ouro apenas com o auxílio de uma régua não graduada e de um
+compasso, utiliza-se o seguinte procedimento: dado um segmento AB qualquer, marca-se o seu ponto médio;
+constrói-se o segmento BC perpendicular a AB e com a metade do comprimento de AB; marca-se o ponto E
+sobre a hipotenusa do triângulo ABC, tal que EC e BC sejam iguais; e determina-se o ponto D no segmento
+ABtal que AD e AF sejam iguais. Com esse procedimento, o ponto D divide o segmento AB na razão áurea.
+A partir da construção geométrica do número de ouro e considerando x como o comprimento do segmento
+AB, faça o que se pede nos itens a seguir, apresentando os cálculos utilizados na sua resolução.
+a) Determine o comprimento do segmento AC em função de z. ( valor: 4,0 pontos)
+b) Determine o comprimento do segmento AD em função de z. ( valor: 4,0 pontos)
+c) Determine o número de ouro dado pelo quociente . (valor: 2,0 pontos)
+AB
+AD
+
+QUESTÃO DISCURSIVA 5
+A Torre de Hanói foi inventada por Edouard Lucas em 1883. Há uma história sobre a Torre, imaginada pelo próprio Lucas:
+No começo dos tempos, Deus criou a Torre de Brahma, que contém três pinos de diamante e colocou no primeiro
+pino 64 discos de ouro maciço. Deus, então, chamou seus sacerdotes e ordenou-lhes que transferissem todos os discos
+para o terceiro pino, seguindo certas regras. Os sacerdotes, então, obedeceram e começaram o seu trabalho, dia e noite.
+Quando eles terminassem, a Torre de Brahma iria ruir e o mundo acabaria.
+Disponível em: <http://www.obm.or.br> (adaptado). Acesso em: 17 set. 2014.
+Esse é um dos quebra-cabeças matemáticos mais populares, que consiste de n discos com um
+furo em seu centro e de tamanhos diferentes e de uma base com três pinos na posição vertical
+onde são colocados os discos. O jogo mais simples é constituído de três pinos, mas a quantidade
+pode variar, deixando o jogo mais difícil à medida que o número de discos aumenta. Os discos
+formam uma torre onde todos são colocados em um dos pinos em ordem decrescente de
+tamanho. O objetivo do quebra-cabeça é transferir toda a torre de discos para um dos outros
+pinos, que estão inicialmente vazios, de modo que cada movimento é feito somente com um
+disco, nunca havendo um disco maior sobre um disco menor, como mostra a figura ao lado.
+Disponível em: <http://www.puzzlesdeingenio.com>. Acesso em: 17 set. 2014.
+Considerando uma Torre de Hanói de 3 pinos, faça o que se pede nos itens a seguir.
+a) Aoplanejar uma aula de matemática utilizando-se a Torre de Hanói, quais seriam os objetivos a serem alcançados
+de acordo com os Parâmetros Curriculares Nacionais e o que se espera com o uso de jogos no processo de
+ensino-aprendizagem? (valor: 3,0 pontos)
+b) Citetrês conceitos matemáticos da Educação Básica que podem ser explorados em sala de aula utilizando-se a
+Torre de Hanói? (valor: 3,0 pontos)
+c) Obtenha uma fórmula para o número mínimo de movimentos necessários para resolver a Torre de Hanói com
+discos. Justifique a sua resposta. (valor: 4,0 pontos)
+
+QUESTÃO 10
+No contexto de investimento e formação de capital,
+se M(t) representa o montante do capital de
+uma empresa existente em cada instante t e I(t)
+representa a taxa de investimento líquido por um
+período de tempo, então
+Me f 109
+fornece o montante acumulado no período a <t <b.
+Disponível em: <http://www.ime.uerj.br>. Acesso em: 3 ago. 2014
+(adaptado).
+Considere que a função T(t) = tIn(t) definida para
+t > 1, representa a taxa de investimento líquido, em
+milhares de reais, de uma empresa de cosméticos.
+Nesse caso, utilizando In(3) =1,1, o valor do
+montante acumulado no período 1 < t < 3 é igual a
+O R$1100,00.
+O R$ 2100,00.
+O R$ 2.950,00.
+O R$3 750,00.
+OQ R$ 4950,00.
+
+QUESTÃO 09
+O conjunto MZ) é formado pelas matrizes
+quadradas de ordem 2 com entradas inteiras. Esse
+conjunto é fechado sob as operações usuais de soma
+e multiplicação de matrizes, uma vez que as entradas
+das matrizes resultantes da soma e da multiplicação
+são números inteiros.
+Com relação à estrutura algébrica desse conjunto
+com as operações descritas, avalie as seguintes
+asserções e a relação proposta entre elas.
+|. O conjunto M,(Z), munido das operações usuais
+de soma e multiplicação, forma um anel.
+PORQUE
+ll. O conjunto M,(Z), munido da operação usual
+de soma de matrizes, forma um grupo e existe O
+elemento unidade dado pela matriz identidade de
+ordem 2.
+A respeito dessas asserções, assinale a alternativa
+correta.
+O As asserções | e II são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a II é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 12
+Deseja-se pintar a superfície externa e lateral de
+um monumento em forma de um paraboloide, que
+pode ser descrita pela equação 2 = x? + 4?, situada
+na região do espaço de coordenadas cartesianas
+(x, y, 2) dada pela condição z < 9. Os eixos
+coordenados estão dimensionados em metros
+e gasta-se um litro e meio de tinta a cada metro
+quadrado de área da superfície a ser pintada.
+A quantidade de tinta, em litros, necessária para se
+pintar a superfície lateral do monumento é dada pela
+integral dupla
+3 VOZ
+Oo 1 / (4º + yYº)drdy
+o Jo z
+3 pVOT?
+o 6/ / (x? + y/º)drdy
+o Jo :
+n/2 53
+o af / V1+4r? rdrdô
+o o :
+n/2 53
+o 6 / V1+4r? rdrdô
+o o :
+n/2 53
+e 6 / V1+4r? rdrdo
+o 3 :
+
+QUESTÃO 11
+Em uma loja de material escolar, as mercadorias
+caneta, lápis e borracha, de um único tipo cada
+uma, são vendidas para três estudantes. O primeiro
+comprou uma caneta, três lápis e duas borrachas
+pagando R$ 10,00; o segundo adquiriu duas canetas,
+um lápis e uma borracha pagando R$ 9,00; o terceiro
+comprou três canetas, quatro lápis e três borrachas
+pagando R$ 19,00.
+Os estudantes, após as compras, sem verificarem
+os valores de cada mercadoria, procuraram resolver
+o problema: “A partir das compras efetuadas e dos
+respectivos valores totais pagos por eles, qual o
+preço da caneta, do lápis e da borracha?”. Para isso,
+montaram um sistema de equações lineares cujas
+incógnitas são os preços das mercadorias.
+Esse sistema de equações é
+O possível determinado, sendo o preço da borracha
+mais caro que o do lápis.
+O impossível, pois saber os totais das compras não
+garante a existência de solução.
+O possível determinado, podendo admitir como
+solução o valor do preço da caneta, do lápis e da
+borracha.
+O possível indeterminado, de forma que a soma
+dos valores possíveis da caneta, do lápis e da
+borracha é igual a cinco vezes o preço do lápis
+subtraído de R$ 9,00.
+O possível indeterminado, de forma que a soma dos
+valores possíveis da caneta, do lápis e da borracha
+é igual a 1/5 da adição do preço da borracha com
+R$ 28,00.
+
+QUESTÃO 13
+Muitos fenômenos probabilísticos seguem uma lei de distribuição denominada Normal, na qual os valores
+mais frequentes se encontram próximos à média. A curva que representa essa distribuição tem a forma de um
+sino, é simétrica em torno da média u, tem no eixo das abscissas uma assíntota horizontal e é determinada
+pela seguinte função de densidade:
+1 1/2—-nV2
+f(x) = en s(S)
+V2no?
+Levando em consideração que cada curva de distribuição Normal é determinada pela sua média u e pelo seu
+desvio-padrão o, Gauss desenvolveu uma forma de padronizá-las em uma única Normal, caracterizada por
+1
+V2T
+na qual cada um dos valores x da função de distribuição Normal N(u, o0)é convertido em uma nova variável
+adimensional, designada genericamente por 2, a qual tem distribuição Normal N(0, 1). A conversão dessa
+T—u
+z
+e ?,
+ter média O e desvio-padrão 1. Assim, a Normal Padrão é determinada pela função f(2) =
+variável se dá por meio da seguinte expressão: 2 =
+Sabe-se que a área sob o gráfico da função de densidade de probabilidade em determinado intervalo fornece
+a probabilidade de ocorrência de um valor dentro desse intervalo. Assim, considera-se que a área entre a
+curva Normal e a assíntota determinada pelo eixo das abscissas é igual a 1.
+De acordo com dados obtidos no portal do INEP/MEC relativos aos 11 303 estudantes de Licenciatura em
+Matemática que realizaram a prova do Enade em 2011, a média e o desvio-padrão do desempenho geral
+desses estudantes foram, respectivamente, iguais a 32,4 e 11,6 pontos.
+Considerando que a distribuição do desempenho desses alunos no ENADE 2011 pode ser aproximada
+pela distribuição Normal, assinale a alternativa cuja expressão fornece o percentual de estudantes com
+desempenho inferior a 20,8 pontos ou superior a 55,6 pontos.
+o f soa:
+55,6
+o " f(2)dz
+0,8
+(C) 1-/ soa:
+e 1- (f. fada + f[ fada)
+
+QUESTÃO 15
+Uma função diferenciável, f, crescente a partir da
+origem e situada no primeiro quadrante é tal que
+a área da região sob seu gráfico e acima do eixo
+das abscissas, de O até x, vale um quinto da área
+do triângulo com vértices nos pontos (0, O), (x,y)
+e (x, 0), em que y = f (x).
+A equação diferencial que descreve essa situação é
+O nw-NW=rx
+O 1 -9y=0.
+O Py-9y=O0.
+O y-9nm=0.
+O y-97y=0.
+
+QUESTÃO 14
+Um problema muito comum em geometria é o das
+trajetórias ortogonais, o que equivale a dizer que,
+dada uma curva de uma família, ela intercepta uma
+curva da outra família de modo que suas tangentes
+são perpendiculares entre si, no ponto de interseção.
+Esse problema pode ser abordado, também, pelo
+cálculo diferencial e integral e, consequentemente,
+pelas equações diferenciais ordinárias.
+Com o auxílio dessas informações, conclui-se que,
+para c e k números reais não nulos, no plano de
+coordenadas cartesianas xOy, a família de trajetórias
+ortogonais à família de hipérboles xy = c é dada por
+Oxs-y=k
+Or+y=k
+Or-y=k
+Or+y
+exr-y
+
+QUESTÃO 18
+Em uma festa infantil, um grupo de 7 crianças — Ana,
+Beatriz, Carlos, Davi, Eduardo, Fernanda e Gabriela —
+reuniu-se próximo a uma mesa para brincar de “esconde-
+esconde”, um jogo no qual uma criança é separada dos
+demais, que procuram locais para se esconder, sem
+que a escolhida as veja, pois essa tentará encontrá-las
+após algum tempo estabelecido previamente. Assim,
+era necessário escolher qual delas seria aquela que iria
+procurar todas as outras.
+Para efetuar essa escolha, as crianças se dispuseram
+em um círculo na mesma ordem descrita
+anteriormente e, simultaneamente, mostraram
+um número de dedos das mãos. Os números de
+dedos mostrados foram somados, resultando em
+uma quantidade que vamos chamar de TOTAL. Ana
+começou a contar de 1 até o TOTAL, e, a cada número
+dito, apontava para uma criança da seguinte forma:
+1- Ana, 2 - Beatriz, 3 - Carlos, 4 - Davi, e assim por
+diante. Quando chegasse ao número TOTAL, a criança
+correspondente a esse número seria aquela que iria
+procurar as demais.
+Se o número TOTAL é igual a 64, a criança designada
+para procurar as demais é
+O Ana.
+O Beatriz.
+O carlos.
+O Davi.
+O Eduardo.
+
+QUESTÃO 17
+Considere (7), neN, uma sequência de números
+LC
+n
+n+l
+reais positivos tal que x, =
+Nesse caso, lim 7, é igual a
+note.
+O +--.
+O o.
+Ox.
+O 1.
+O.
+
+QUESTÃO 16
+Considere uma função f: R > R diferenciável em todo
+o seu domínio, com f'/(t) < x, Vre R.
+Se /(1) = 1, então, pelo Teorema do Valor Médio, o
+valor máximo de f(3) é igual a
+o:.
+O.
+O 7.
+Os.
+O 11.
+
+QUESTÃO 20
+Considere uma parábola de foco F' e reta diretriz d.
+Denote por P um ponto pertencente à parábola e
+por Da sua projeção ortogonal na reta diretriz d.
+Representado por r a reta bissetriz do ângulo FPD,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. Areta ré tangente à parábola no ponto P.
+PORQUE
+Il. Para qualquer ponto Q pertencente à reta
+r, Q* P, a distância de Q ao ponto D é
+maior que a distância de Q à reta d.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 19
+Para realizar seu trabalho cotidiano, um engenheiro
+civil precisa modelar matematicamente algumas
+tarefas. Em determinado projeto, uma situação
+problema, depois de modelada, recaiu em um sistema
+de equações lineares com m equações e nincógnitas,
+para o qual a matriz dos coeficientes foi denominada M.
+Após a modelagem, o engenheiro descobriu que o
+posto da matriz ampliada do sistema (Pa) era igual ao
+posto da matriz dos coeficientes (Pc) e que ambos,
+(Pa) e (Pc), têm valor equivalente ao número de
+incógnitas do sistema, ou seja, Pa = Pc = n.
+Admitindo que o modelo construído pelo engenheiro
+está matematicamente correto, avalie as afirmações
+a seguir.
+|. Amatriz M é singular.
+Il. O sistema de equações lineares modelado
+admite uma única solução.
+III.É impossível encontrar a solução do problema
+utilizando o sistema conforme modelado.
+IV. O valor de Pc é calculado obtendo-se a maior
+ordem possível das submatrizes quadradas de
+M que tenham determinantes não nulos.
+É correto apenas o que se afirma em
+
+QUESTÃO 22
+Um dos problemas mais importantes estudados pelo
+cálculo diferencial e integral diz respeito à maximização
+e minimização de funções. Um desses problemas está
+relacionado à função cúbica definida por
+fx) = aP + br + cr+ dd,
+em que a, b, ce dsão constantes reais, com a é O.
+Acerca dessa cúbica, avalie as afirmações a seguir.
+|. A função f possui apenas um ponto de
+inflexão, independentemente dos valores de
+a, b, ce d.
+Il. Se ?º — 3ac > O, então f possui um ponto de
+máximo local e um ponto de mínimo local.
+Ill. Se f possui um ponto de máximo local e
+um ponto de mínimo local, então a média
+aritmética das abscissas desses dois pontos
+extremos corresponde à abscissa do ponto de
+inflexão.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.
+
+QUESTÃO 21
+No estudo de funções de variáveis reais, buscam-se
+informações sobre continuidade, diferenciabilidade,
+entre outras. Considere uma função de duas variáveis f:
+Rº > R, definida por
+1292
+T+ se (x,y) £ (0,0)
+f(x,y) =
+O, se (, y) = (0, O).
+A respeito dessa função, avalie as afirmações a seguir.
+|. Aolongo das retas y = cx, o valor da função
+fé constante.
+Il. A função fé descontínua em (0, O).
+Ill. A função f satisfaz If (x, y)| <= quaisquer
+que sejam (x, y) e Rº, com x = y.
+É correto o que se afirma em
+O 1l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O leilll, apenas.
+O Le.
+
+QUESTÃO 24
+Uma tendência no ensino de geometria é adotar
+metodologias que partem de uma situação
+problema, oportunizando o envolvimento do aluno
+na manipulação de material concreto, construções,
+experimentações e conjecturas para a construção do
+seu conhecimento. Nessa perspectiva, um professor
+propõe aos seus alunos que determinem a
+quantidade de papel necessário para confeccionar
+balões para enfeitar a festa junina da escola.
+Deseja-se fazer 10 balões de diversas cores. O professor
+informa que devem ser comprados 20% a mais de
+papel de cada cor, devido a recortes, colagem e perdas
+eventuais. Além disso, os balões devem ter a forma de
+um octaedro regular cuja planificação está representada
+na figura abaixo.
+Os alunos observam, pela planificação do octaedro,
+que ele é um sólido com 8 faces semelhantes, sendo
+todas elas triângulos equiláteros. Em certa fase do
+trabalho, eles concluem que, para obter a resposta do
+problema, precisam saber que altura o professor quer
+que os balões tenham. Nesse momento, o professor
+informa que deseja um balão cuja característica seja
+ter todas as faces com 20 centímetros de altura.
+Com base nessas informações, a quantidade total
+de papel necessária para confeccionar os 10 balões
+solicitados, em metros quadrados, é igual a
+A4N3,
+
+
+QUESTÃO 23
+Um professor de Matemática, após trabalhar pontos
+notáveis e áreas de triângulos com uma de suas
+turmas, propõe a seguinte atividade aos alunos:
+divida um triângulo escaleno , no qual os ângulos
+internos são inferiores a 90º, em três triângulos de
+mesma área.
+Avalie as seguintes propostas de solução feitas pelos
+estudantes.
+|. Os triângulos ABH, BCH e CAH, em que
+H é o ortocentro de ABC, têm a mesma área.
+Il. Os triângulos ABI, BCI e CAI, em que
+Ié oincentro de ABC, têm a mesma área.
+IIl. Os triângulos AMC, ANM e ABN em que
+M e N dividem o lado OB em três partes de
+mesma medida, têm a mesma área.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O ll elll, apenas.
+OEM,
+
+QUESTÃO 25
+As políticas educacionais no Brasil e no mundo têm avaliado a qualidade da educação, ou mesmo das políticas
+públicas, por meio de indicadores quantitativos. A análise de um indicador não pode ser feita sem levar em
+consideração as características do meio em que ele está inserido. Por sua natureza, um indicador fornece
+uma visão parcial do que se pretende aferir. Essa parcialidade é inerente ao método, ao processo ou às
+escolhas para a constituição do indicador.
+De qualquer forma, indicadores educacionais como taxas de acesso, de repetência, de reprovações, de
+defasagem idade-série e de evasão são sinais que orientam uma avaliação diagnóstica no que diz respeito às
+suas implicações com a permanência e o sucesso dos estudantes nas escolas.
+Com base nos dados apresentados, avalie as afirmações a seguir.
+|. A evolução da taxa de abandono escolar no ensino médio brasileiro mostra a tendência de queda,
+sinalizando que não há mais necessidade de políticas públicas para corrigir esse problema.
+Il. Ao contrário das demais taxas, a taxa de reprovação no ensino médio brasileiro sinaliza uma tendência
+de estabilidade, aproximando-se de 12%.
+Ill. A taxa de defasagem idade-série apresentou grande variação de ano para ano no período de 2001 a 2012.
+IV. Um diagnóstico feito a partir dos três gráficos aponta para uma situação favorável em termos de
+aprendizado dos estudantes brasileiros que concluem o ensino médio.
+É correto apenas o que se afirma em
+O.
+oO.
+Oie.
+O lelv.
+O Ieiv.
+
+QUESTÃO 26
+No século XII surgiu, na Índia, um matemático conhecido historicamente como Bháskara Il. Esse matemático
+fez grandes avanços para a resolução da equação quadrática. Bháskara Il dedicou-se a estudar Astronomia e
+Matemática, escreveu obras sobre aritmética e resolveu equações do tipo axº + br = c, utilizando o método
+de “completar quadrados”. Atribui-se a ele o seguinte problema: “A oitava parte de um bando de macacos,
+elevada ao quadrado, brinca em um bosque. Além disso, 12 macacos podem ser vistos sobre uma colina.
+Qual o total de macacos?”
+PITOMBEIRA, João Bosco. Revisitando Uma Velha Conhecida. Departamento de Matemática. PUC-Rio. p.1 a 41, pg. 24.
+Disponível em: <http://www.bienasbm.ufba.br>. Acesso em: 21 jul.2014 (adaptado).
+Com base nessas informações, assinale a opção que apresenta um valor possível para o total de macacos no
+problema de Bháskara Il.
+O 16 macacos.
+O 18 macacos.
+O 20 macacos.
+O 76 macacos.
+O 96 macacos.
+
+QUESTÃO 27
+Os números complexos possuem diferentes representações, tais como: algébrica, geométrica e trigonométrica,
+conforme ilustra o quadro a seguir.
+Considerando as diferentes representações dos números complexos e o seu ensino, avalie as afirmações a seguir.
+|. A forma algébrica dos números complexos é a única representação presente nos livros didáticos do
+ensino médio.
+Il. Historicamente, os números complexos surgiram da tentativa de resolução de equações polinomiais
+do 2º grau com discriminante negativo.
+Ill. O ensino da forma trigonométrica dos números complexos facilita a compreensão do significado
+geométrico da operação de multiplicação de complexos: rotação de pontos (ou vetores) no plano.
+IV. A cada número real corresponde um número complexo 2 = p (cosô + isend), com A = 0º.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O 1,1 lelV apenas.
+O 1, Il e IV apenas.
+O LI,Melv
+
+QUESTÃO 30
+As imagens de uma tela plana de televisão digital
+são representadas por pontos, chamados pixels.
+Os movimentos das imagens correspondem
+às mudanças desses pontos representados
+em um sistema cartesiano ortogonal, que, em
+computação gráfica, são realizadas por operações
+de matrizes. Uma rotação de a graus de um
+ponto (x, y), no sentido anti-horário e em torno
+da origem desse sistema, é feita pela multiplicação da
+dada por (
+sena cosa
+coluna M,,, sendo x a primeira linha e y a segunda
+linha, gerando uma matriz coluna que dá a nova
+posição do ponto (, y) após a rotação.
+cosa — sena
+matriz M,,,
+) pela matriz
+Nessa situação, qual a nova posição do ponto (3, —1)
+após uma rotação de 150º no sentido anti-horário e
+em torno da origem do sistema cartesiano ortogonal?
+1-3V/3 343
+o (EXP)
+—3+V3 1+3/3
+o (EX)
+1+3V3 3-V3
+o (EE)
+,
+—1-3/3 -3+/3
+e (EO)
+e (= 22428)
+2 2
+
+QUESTÃO 28
+Assim como os sistemas de numeração, os números
+classificados como negativos, irracionais, racionais
+e complexos tiveram uma ordem de surgimento
+na linha do tempo. Esse conhecimento histórico
+é importante, pois, a partir dele, é possível
+compreender os obstáculos didáticos apresentados
+no processo de ensino-aprendizagem dos números.
+Arespeito do tema, assinale a alternativa que contém
+a ordem cronológica da origem dos números, na
+escrita atual, do conjunto fil, e,—3,1/2), sendo
+e a constante de Euler e i o número imaginário.
+1/2, e, 3, V2, i
+1/2,-3,V2, e, 1.
+1/2,)2,-8,i, e.
+—3,1/2,V2,i, e.
+—3,V2,1/2, e, i.
+
+QUESTÃO 29
+Os números perfeitos foram introduzidos na Grécia,
+antes de Cristo. Um número n é dito perfeito se ele
+for igual à soma dos seus divisores positivos e próprios,
+ou seja, dos divisores positivos menores que n. Assim,
+se 2º —1 é primo, k > 1, então o inteiro positivo
+n = 247!(24 — 1) é um número perfeito.
+Com base nessas informações, avalie as afirmações
+a seguir.
+l. O número 2º x 4º x 127 é perfeito e tem 17
+divisores próprios.
+Ill. O número 28 é um número perfeito.
+Ill. Ao se adicionar as potências 2º,2!,2º, 2%...
+até que a soma seja igual ao décimo primeiro
+número primo e, em seguida, multiplicar a
+soma obtida pelo último termo, encontra-se
+um número perfeito.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O LI1elm.
+
+QUESTÃO 31
+A gestão democrática pode ser definida como um processo político no qual as pessoas que atuam na e sobre
+a escola identificam problemas, discutem, deliberam, planejam, encaminham, acompanham, controlam e
+avaliam o conjunto das ações voltadas ao desenvolvimento da própria escola, na busca da solução daqueles
+problemas. Esse processo, sustentado no diálogo, na alteridade e no reconhecimento das especificidades
+técnicas das diversas funções presentes na escola, tem como base a participação efetiva de todos os
+segmentos da comunidade escolar, o respeito às normas coletivamente construídas para os processos de
+tomada de decisões e a garantia de amplo acesso às informações aos sujeitos da escola.
+SOUZA, A. R. Explorando e construindo um conceito de gestão escolar democrática. Educação em Revista,
+Belo Horizonte, v.25, n.03, dez. 2009, p. 125-126 (adaptado).
+Com base nos textos apresentados, conclui-se que a gestão democrática da educação
+|. implica colocar as instituições a serviço da formação qualificada dos estudantes, tendo a participação
+como prática cotidiana de todos os envolvidos.
+Il. propicia a criação de uma cultura institucional crítico-reflexiva, cujos envolvidos tenham discernimento
+em relação aos conteúdos que necessitam ou não para tomarem decisões sempre coletivas.
+Ill. pressupõe a existência de líderes capazes de orientar pessoas para o desenvolvimento de ações que
+visem ao cumprimento de objetivos definidos por eles.
+IV. efetiva-se pelo processo de construção coletiva do projeto pedagógico e de seu acompanhamento e
+avaliação.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O Ieiv.
+O LIlelv.
+O 1Melv
+
+QUESTÃO 32
+O Plano Nacional de Educação (PNE) inclui 20 metas e estratégias traçadas para o setor nos próximos 10
+anos. Entre as metas, está a aplicação de valor equivalente a 10% do Produto Interno Bruto (PIB) na educação
+pública, promovendo a universalização do acesso à educação infantil para crianças de quatro a cinco anos,
+do ensino fundamental e do ensino médio. Esse plano também prevê a abertura de mais vagas no ensino
+superior, investimentos maiores em educação básica em tempo integral e em educação profissional, além da
+valorização do magistério.
+BRASIL. Conheça as 20 metas definidas pelo PNE. Disponível em:<http://www.brasil.gov.br>. Acesso em: 4 jul. 2014 (adaptado).
+A Lei n.º 13.005, de 25 de junho de 2014, que aprova o PNE, prevê importantes dispositivos, tais como:
+Art. 5º A execução do PNE e o cumprimento de suas metas serão objeto de monitoramento contínuo e de
+avaliações periódicas.
+Art. 10 O plano plurianual, as diretrizes orçamentárias e os orçamentos anuais da União, dos Estados, do
+Distrito Federal e dos Municípios serão formulados de maneira a assegurar a consignação de dotações
+orçamentárias compatíveis com as diretrizes, metas e estratégias deste PNE e com os respectivos planos de
+educação, a fim de viabilizar sua plena execução.
+Art. 11 O Sistema Nacional de Avaliação da Educação Básica, coordenado pela União, em colaboração com os
+Estados, o Distrito Federal e os Municípios, constituirá fonte de informação para a avaliação da qualidade da
+educação básica e para a orientação das políticas públicas desse nível de ensino.
+Art. 13 O poder público deverá instituir, em lei específica, contados 2 (dois) anos da publicação desta Lei,
+o Sistema Nacional de Educação, responsável pela articulação entre os sistemas de ensino, em regime de
+colaboração, para efetivação das diretrizes, metas e estratégias do Plano Nacional de Educação.
+Considerando as informações acima, conclui-se que o PNE
+O possibilita ao país iniciar seu processo de desenvolvimento, pois prevê aumento anual de 10% nos
+patamares de aplicação do PIB em educação e sistema de monitoramento da aplicação de investimentos,
+o Sistema de Avaliação da Educação Básica, a ser instituído nos próximos dois anos.
+O prevê meta de aplicação de 10% do PIB em educação, sinalizando que os gestores escolares terão 10
+vezes mais possibilidades de atingir patamares mais elevados de educação nos próximos 10 anos, pois
+vincula os investimentos com a educação aos níveis de desenvolvimento do país, aferidos pelo PIB.
+O estabelece que a melhoria da educação básica — universalização do acesso à educação infantil, aumento
+de vagas no ensino superior, maior investimento em educação em tempo integral e em educação
+profissional — evidencia a base para o desenvolvimento, pois o crescimento econômico é o indicador do
+percentual de recursos do PIB a ser aplicado em educação.
+O disponibiliza para os gestores escolares o crescimento de 10% dos investimentos do PIB em educação,
+ao ano, durante os próximos 10 anos e um Sistema Nacional de Avaliação para verificar a efetivação das
+diretrizes e metas dispostas no referido Plano.
+O permite planejar a educação para os próximos 10 anos e institui mecanismos de monitoramento e
+avaliação, tanto da execução do Plano como da qualidade da educação, por meio do estabelecimento de
+metas educacionais e definição dos investimentos a serem disponibilizados para o alcance dessas metas.
+
+QUESTÃO 34
+O Projeto Político-Pedagógico (PPP) relaciona-se à
+organização do trabalho pedagógico da escola,
+indicando uma direção, explicitando os fundamentos
+teórico-metodológicos, os objetivos, o tipo de
+organização e as formas de implementação e
+avaliação da escola.
+VEIGA, |. P. A.; RESENDE, L.M.G. (Org.). Escola: espaço do Projeto
+Político-Pedagógico. 4. ed. Campinas-SP: Papirus, 1998 (adaptado).
+Considerando a elaboração do PPP, avalie as
+seguintes afirmações.
+|. O PPP constitui-se em processo participativo
+de decisões para instaurar uma forma de
+organização do trabalho pedagógico que
+desvele os conflitos e as contradições no
+interior da escola.
+A discussão do PPP exige uma reflexão acerca
+da concepção de educação e sua relação com
+a sociedade e a escola, o que implica refletir
+sobre o homem a ser formado.
+Ill. A construção do PPP requer o convencimento
+dos professores, da equipe escolar e dos
+funcionários para trabalharem em prol do
+plano estabelecido pela gestão educacional.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Lie.
+
+QUESTÃO 33
+Os currículos organizam conhecimentos, culturas,
+valores e artes a que todo ser humano tem direito.
+Assim, o currículo deve ser analisado conforme as
+experiências vividas pelos estudantes, nas quais se
+articulam os saberes, aprendidos por eles na vivência
+e na convivência em suas comunidades, com os
+conhecimentos sistematizados que a escola deve
+lhes tornar acessíveis.
+ARROYO, M. G. Educandos e educadores: seus direitos e o currículo.
+In: ARROYO, M. G. Indagações sobre o currículo: educandos e educadores:
+seus direitos e o currículo. Brasília: Ministério da Educação,
+Secretaria de Educação Básica, 2007, p. 67 (adaptado).
+A partir da definição de currículo abordada pelo
+autor, avalie as afirmações a seguir.
+|. A construção do currículo constitui um
+processo de seleção cultural, o que pode
+colocar em desvantagem determinados
+grupos sociais e culturais.
+II.O sistema educativo confere ao currículo
+efetividade que envolve uma multiplicidade
+de relações, razão pela qual este deve ser
+considerado práxis e sua materialização
+corresponder à forma como foi idealizado.
+Ill. As teorias críticas reconhecem a existência de
+poderes diversos diluídos nas relações sociais,
+conferindo ao currículo a função de atuar em
+processos para a inclusão escolar.
+É desafio da escola incluir no currículo
+experiências culturais diversificadas, que não
+reproduzam estruturas da vida social em suas
+assimetrias e desigualdades.
+É correto o que se afirma em
+O |, apenas.
+O ll elll, apenas.
+O Il elV, apenas.
+O 1, Ill elV, apenas.
+O LIHMelv.
+
+QUESTÃO 35
+Da visão dos direitos humanos e do conceito de cidadania fundamentado no reconhecimento das diferenças
+e na participação dos sujeitos, decorre uma identificação dos mecanismos e processos de hierarquização que
+operam na regulação e produção de desigualdades. Essa problematização explicita os processos normativos
+de distinção dos alunos em razão de características intelectuais, físicas, culturais, sociais e linguísticas,
+estruturantes do modelo tradicional de educação escolar.
+BRASIL, MEC. Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva, 2008, p. 6 (adaptado).
+As questões suscitadas no texto ratificam a necessidade de novas posturas docentes, de modo a atender a
+diversidade humana presente na escola. Nesse sentido, no que diz respeito a seu fazer docente frente aos
+alunos, o professor deve
+|. desenvolver atividades que valorizem o conhecimento historicamente elaborado pela humanidade e
+aplicar avaliações criteriosas com o fim de aferir, em conceitos ou notas, o desempenho dos alunos.
+Il. instigar ou compartilhar as informações e a busca pelo conhecimento de forma coletiva, por meio
+de relações respeitosas acerca dos diversos posicionamentos dos alunos, promovendo o acesso às
+inovações tecnológicas.
+Ill. planejar ações pedagógicas extraescolares, visando ao convívio com a diversidade; selecionar e
+organizar os grupos, a fim de evitar conflitos.
+IV. realizar práticas avaliativas que evidenciem as habilidades e competências dos alunos, instigando
+esforços individuais para que cada um possa melhorar o desempenho escolar.
+V. utilizar recursos didáticos diversificados, que busquem atender a necessidade de todos e de cada um
+dos alunos, valorizando o respeito individual e coletivo.
+É correto apenas o que se afirma em
+Oem.
+O lev
+O ue
+O L1,IVeV.
+OLULIVEeV
+

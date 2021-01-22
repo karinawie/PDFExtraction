@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:13:23</Created>
+	<LastChange>2020-11-21T20:26:42</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1538,298 1538,1311 1539,1311 1539,1421 1537,1421 1537,1702 574,1702 574,1764 265,1764 265,2009 84,2009"/>
+	<ImageRegion id="r1">
+	<Coords points="531,592 531,1284 1071,1284 1071,592"/></ImageRegion>
+	<TextEquiv conf="0.96536">
+	<Unicode>QUESTÃO 21
+Uma empresa desenvolve, fabrica e vende equipamentos de medição de alta tecnologia. Atualmente, a
+equipe de engenharia de um determinado produto desenvolve um novo instrumento de medição. Quatro
+protótipos do equipamento foram manufaturados e submetidos a teste. Uma peça padrão com dimensão de
+50,00 mm foi usada como padrão de referência. Cada protótipo do instrumento foi utilizado para fazer sete
+medições na dimensão da peça padrão por um mesmo operador.
+Os resultados são apresentados na figura a seguir. O centro do alvo representa o valor verdadeiro da dimensão
+da peça padrão. E os pontos representam os resultados das sete medidas da característica.
+Com relação aos resultados mostrados na figura e às definições de exatidão (capacidade de medir
+corretamente, em média, o verdadeiro valor da característica) e precisão (variabilidade inerente às medidas),
+avalie as seguintes afirmações conforme o que a equipe de engenharia do produto da empresa deveria inferir.
+|. Oinstrumento A é mais exato que o instrumento C e ambos são precisos.
+Il. O instrumento D é mais exato que o instrumento B e ambos não são precisos.
+Ill. Os instrumentos A e B são exatos, mas o instrumento A é mais preciso que o instrumento B.
+IV. Os instrumentos C e D são exatos, mas o instrumento C é mais preciso que o instrumento D.
+V. O instrumento A é mais exato que o instrumento D, mas o instrumento D é mais preciso que o
+instrumento A.
+É correto apenas o que se afirma em
+O leiv.
+OLMev
+O1WVev
+O 1, Meiv.
+OBuI,NMev</Unicode></TextEquiv></TextRegion></Page></PcGts>

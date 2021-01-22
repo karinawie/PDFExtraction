@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:46:45</Created>
+	<LastChange>2020-10-28T16:58:22</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-22.jpg" imageWidth="1613" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="74,287 74,1072 1536,1071 1536,286"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,1141 1535,1141 1535,2000 83,2000 83,2001 82,2001 82,1602 81,1602"/>
+	<TextEquiv conf="0.86837">
+	<Unicode>QUESTÃO 29
+A imagem de tomografia computadorizada permite aplicar técnicas de processamento de imagens,
+como o realce dos contornos, a suavização das imagens, a magnificação, além da inversão de cores etc.
+Nesse contexto, distinguimos dois tipos básicos de filtros digitais que influenciam no resultado das
+imagens: o filtro Low Pass e o filtro High Pass.
+- Low pass (Smoothing filter): suaviza a imagem reduzindo o ruído aparente.
+- High pass (Enhancing filter): aumenta o detalhe da imagem através do realce dos contornos, mas também
+aumenta o ruído aparente.
+Com base na análise do texto e das imagens, conclui-se que
+O a imagem A representa o uso de filtro High pass, enfatizando o trabeculado ósseo.
+O a imagem A representa o uso de filtro Enhancing, enfatizando as suturas cranianas.
+O a imagem B representa o uso de filtro Low pass (Smoothing filter), enfatizando o parênquima encefálico .
+O a imagem B representa o uso de filtro High pass, enfatizando os ossos do crânio e demais trabeculados
+ÓSSEOS.
+O a imagem B representa o uso de filtro High pass (Smoothing filter), enfatizando o parênquima do tronco
+encefálico.</Unicode></TextEquiv></TextRegion></Page></PcGts>

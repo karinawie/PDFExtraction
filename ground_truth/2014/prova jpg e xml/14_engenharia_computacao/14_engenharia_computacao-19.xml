@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:16:23</Created>
+	<LastChange>2020-11-21T19:26:44</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="832,238 1003,238 1003,296 1538,296 1538,632 1305,632 1305,1255 1538,1255 1538,1853 1537,1853 1537,1937 1426,1937 1426,1983 832,1983 832,1585 831,1585 831,1524 880,1524 880,1322 831,1322 831,296 832,296"/>
+	<TextEquiv conf="0.96782">
+	<Unicode>QUESTÃO 20
+Os filtros digitais são parte importante do
+processamento digital de sinais, dada a versatilidade
+em sua implementação, que é feita por software.
+Esses filtros são classificados em resposta infinita
+ao impulso (IIR, ou recursivos) e resposta finita ao
+impulso (FIR, ou não recursivos), tendo cada classe
+vantagens e desvantagens bem definidas. Um
+exemplo de algoritmo em Portugol para um filtro
+digital é apresentado a seguir.
+algoritmo
+defina u, Cy Ly Y numérico
+T1,€O;
+1,€ O;
+repita
+leia u;
+y€2*x-Xy
+x1,€ XL;
+rn EU;
+escreva y;
+fim-repita
+fim-algoritmo
+A partir do algoritmo apresentado, avalie as asserções
+a seguir e a relação proposta entre elas.
+|. Ofiltro digital do algoritmo é do tipo FIR.
+PORQUE
+Il. O filtro digital do algoritmo não possui termo
+de transmissão direta.
+A respeito das asserções, assinale a afirmação
+correta.
+O As asserções | e || são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="85,238 256,238 256,294 790,294 790,855 789,855 789,977 790,977 790,1718 471,1718 471,1770 306,1770 306,1999 85,1999 85,1790 86,1790 86,1736 133,1736 133,953 84,953 84,887 95,887 95,779 84,779 84,294 85,294"/>
+	<TextEquiv conf="0.95524">
+	<Unicode>QUESTÃO 19
+De todas as propostas do Marco Civil da Internet, uma
+das mais polêmicas e importantes é a denominada
+“neutralidade da rede”. O Marco Civil defende que
+não deve haver “pedágios” na internet, ou seja,
+nenhuma empresa poderá criar barreiras para algum
+tipo de conteúdo com qualquer tipo de interesse
+financeiro.
+As empresas dizem que a neutralidade total mata a
+possibilidade de oferecer pacotes mais acessíveis. Os
+defensores do projeto, por outro lado, dizem que a
+não aprovação seria uma medida antipopular, que
+criaria mais exclusão social, impedindo que os mais
+pobres usem os serviços mais caros.
+Disponível em: &lt;http://olhardigital.uol.com.br&gt;. Acesso em: 20 jul 2014
+(adaptado).
+A partir das informações apreentadas e em relação à
+“neutralidade da rede”, avalie as afirmações a seguir.
+|. Coma lei da neutralidade da rede brasileira,
+o roteamento interno na rede de uma
+corporação deve tratar todos os protocolos
+ou serviços (como VoIP e SMTP) de modo
+igualitário.
+Il. A mudança de cenário com a adoção da lei
+da neutralidade da rede é exemplo de como
+as empresas e profissionais de tecnologia
+devem estar continuamente se atualizando e
+estar prontos para readequar seus produtos
+e serviços aos novos requisitos técnicos e
+sociais.
+IIl. A lei brasileira da neutralidade da rede
+permite que um provedor de acesso à
+Internet, notando que seus usuários usam
+mais serviços de mensagens instantâneas
+que de transferências de arquivos, possa
+aumentar a prioridade do primeiro tráfego
+em relação ao do segundo para melhorar a
+satisfação de seus clientes.
+É correto o que se afirma em
+O |l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll apenas.
+Oem</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,221 805,2015 813,2015 813,221"/></SeparatorRegion></Page></PcGts>

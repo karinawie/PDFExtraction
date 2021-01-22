@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:21:14</Created>
+	<LastChange>2020-09-25T03:35:03</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-22.jpg" imageWidth="1610" imageHeight="2164">
+	<ImageRegion id="r1">
+	<Coords points="448,481 448,1034 1160,1033 1160,480"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="78,232 249,232 249,296 1532,296 1532,1409 1533,1409 1533,1475 1532,1475 1532,2005 80,2005 80,2006 79,2006 79,1476 78,1476"/>
+	<TextEquiv conf="0.96399">
+	<Unicode>QUESTÃO 28
+A Lacaziose ou doença de Jorge Lobo é infecção fúngica profunda, crônica, granulomatosa, causada pela
+implantação traumática do fungo Lacazia loboi (ou Paracoccidioides loboi et Loboa loboi) nos tecidos cutâneo
+e subcutâneo, que promove o aparecimento de lesões nodulares isoladas e coalescentes, em geral de aspecto
+queloidiano, conforme ilustrado na figura a seguir.
+Até o momento, o patógeno causador da doença não é cultivado em laboratório, o que dificulta os
+estudos sobre o fungo e a doença. Em alguns casos, o diagnóstico clínico da lesão pode ser complicado, uma
+vez que existem outros patógenos que provocam lesões cutâneas, como a hanseníase (causada pela bactéria
+Mycobacterium leprae) e a leishmaniose (causada pelo protozoário Leishmania sp.).
+Suponha que você foi contratado como biomédico responsável pelo setor de diagnóstico de uma Unidade
+de Saúde, localizada em uma área com alta taxa de ocorrência de Lacaziose, hanseníase e leishmaniose, para
+implantar um teste diagnóstico para essas doenças.
+Objetivando rapidez, eficácia e minimização de custos, qual a melhor opção para realização desse diagnóstico
+diferencial?
+O Utilizar técnicas microbiológicas de cultura com meios seletivos que proporcionariam o crescimento dos
+micro-organismos.
+O Realizar biópsias e cortes histológicos da lesão e identificar o agente causador por meio de coloração de
+Ziehl-Nielsen com auxílio do microscópio óptico.
+O Remover a lesão, fazer cortes histológicos e propor a implementação de métodos moleculares de
+hibridização com sondas de DNA específicas marcadas com substância radioativas para os agentes
+causadores.
+O Realizar biópsia e propor a implementação de métodos moleculares de Reação em Cadeia da Polimerase
+(PCR) com utilização de iniciadores específicos para os agentes causadores.
+O Realizar biópsia e cortes histológicos da lesão e propor a aquisição de um microscópio eletrônico, que
+eliminaria dúvidas na identificação do agente causador.</Unicode></TextEquiv></TextRegion></Page></PcGts>

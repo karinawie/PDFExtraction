@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:15:27</Created>
+	<LastChange>2020-12-06T02:35:57</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-22.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,1407 1280,1407 1280,1519 1115,1519 1115,1630 1132,1630 1132,1709 894,1709 894,1429 987,1429 987,1241 942,1241 942,1220 987,1220 987,1218 988,1218 988,797 942,797 942,736 895,736 895,707 1020,707 1020,588 893,588"/>
+	<TextEquiv conf="0.96705">
+	<Unicode>QUESTÃO 28
+A verificação e a validação de uma interface de
+usuário ocorre em três pontos distintos: análise,
+projeto e teste. Considerando um cenário de uma
+aplicação web, tal verificação pode ser realizada
+através de testes de interface, testes de usabilidade
+e testes de compatibilidade.
+PRESSMAN, R. Engenharia de Software: Uma Abordagem
+Profissional, 7 ed., Mc Graw Hill, 2011 (adaptado).
+Nesse contexto, avalie as afirmações a seguir.
+|. O teste de interface experimenta mecanismos
+de interação e valida aspectos estéticos
+da interface do usuário, apontando erros
+específicos de interface e erros na maneira
+como a interface implementa as semânticas
+de navegação, funcionalidade ou exibição de
+conteúdo.
+II.O teste de usabilidade avalia o grau com o qual
+os usuários podem interagir efetivamente
+com a aplicação e o grau em que a aplicação
+dirige as ações do usuário.
+III.O primeiro passo no teste de compatibilidade
+é definir uma série de configurações típicas
+encontradas do lado cliente e suas respectivas
+variantes, identificando características como
+plataforma, sistema operacional e navegador.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Lie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 852,359 852,360 853,360 853,822 851,822 851,1348 145,1348 145,955 180,955 180,822 145,822"/>
+	<TextEquiv conf="0.95562">
+	<Unicode>QUESTÃO 27
+O barramento é o elemento de conexão entre todos
+os componentes do computador, como memória,
+CPU e dispositivos de entrada e saída. O barramento
+de dados é o meio por onde serão trafegados os
+dados; o barramento de endereços transporta a
+informação do endereço do dispositivo que poderá
+acessar o barramento de dados; e o barramento de
+controle serve para determinar o sentido do fluxo de
+dados (se os dados são de entrada ou saída da CPU),
+e se os dados devem ser destinados à memória ou à
+dispositivos de 1/O e também para controlar o clock
+no barramento.
+STALLINGS, W. Arquitetura e Organização de Computadores. 8 ed.
+São Paulo: Pearson Pratice Hall, 2010 (adaptado).
+Considerando um computador com um barramento
+de dados de 4 bits e barramento de endereços de 3
+bits, ele poderá endereçar, respectivamente, quantas
+posições de memória e quantos dispositivos de 1/0?
+O 4e4.
+O 1e8.
+O 8e3.
+O Be.
+O 8 es.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,297 872,2083 880,2083 880,297"/></SeparatorRegion></Page></PcGts>

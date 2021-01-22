@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:15:33</Created>
+	<LastChange>2020-12-06T02:38:02</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,615 1600,615 1600,764 1599,764 1599,1333 1384,1333 1384,1395 1059,1395 1059,1641 894,1641 894,1418 895,1418 895,1361 942,1361 942,820 895,820 895,764 893,764"/>
+	<TextEquiv conf="0.96673">
+	<Unicode>QUESTÃO 26
+O serviço DNS (Domain Name System) traduz nomes
+alfanuméricos de hosts em endereços numéricos,
+de acordo com o protocolo IP (Internet Protocol).
+Essa ação é comumente chamada de resolução de
+endereço.
+TANENBAUM, A. S. Redes de Computadores.
+Rio de Janeiro: Campus, 2003 (adaptado).
+Considere um conjunto de computadores
+conectados em uma rede local, os quais têm à
+sua disposição um servidor DNS capaz de resolver
+endereços, sejam eles internos ou externos.
+Nesse contexto, avalie as afirmações a seguir.
+|. O servidor DNS também executa funções de
+cliente DNS quando não é autoritativo para
+determinado endereço.
+Il. A adoção do IPv6 (Internet Protocol, versão 6)
+dispensará serviços de DNS, pois suas funções
+serão incorporadas pelo próprio protocolo |P.
+IIl. O cache DNS permite que determinada
+requisição do cliente DNS possa ser resolvida
+sem que seja necessário recorrer a outro
+serviço DNS.
+IV. O protocolo DNS depende de um banco de
+dados distribuído.
+É correto apenas o que se afirma em
+Oie
+Oie.
+O lelv
+O Lev.
+O uMel</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,343 851,343 851,586 852,586 852,837 851,837 851,1135 804,1135 804,1188 803,1188 803,1240 146,1240 146,837 145,837"/>
+	<TextEquiv conf="0.96024">
+	<Unicode>QUESTÃO 24
+O RUP (Rational Unified Process) é subdividido em
+Fases, que indicam a ênfase que é dada ao projeto
+em um dado instante, e em Fluxos de trabalho, que
+definem os grupos de atividades a serem realizadas
+ao longo das fases.
+Considerando que no desenvolvimento de software
+utilizam-se técnicas de análise e projeto orientado
+a objetos e que as atividades sejam distribuídas
+de acordo com o RUP, o momento que devem ser
+elaborados os diagramas de classes e de interação
+entre os objetos do sistema é
+O na fase de Concepção, no fluxo de Modelagem de
+negócios.
+O na fase de Elaboração, no fluxo de Análise e
+Design.
+O na fase de Concepção, no fluxo de Análise e
+Design.
+O na fase de Elaboração, no fluxo de Requisitos.
+O na fase de Concepção, no fluxo de Requisitos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,1267 316,1267 316,1324 852,1324 852,1575 850,1575 850,1807 851,1807 851,2030 673,2030 673,2029 388,2029 388,2068 146,2068 146,1672 145,1672 145,1575 144,1575 144,1324 145,1324"/>
+	<TextEquiv conf="0.96573">
+	<Unicode>QUESTÃO 25
+Aengenharia de software considera diversos aspectos
+para a garantia da qualidade. Os requisitos funcionais
+definem como um sistema deverá se comportar
+em relação as suas funcionalidades básicas, já os
+requisitos não funcionais avaliam outros aspectos do
+software.
+São exemplos de requisitos não funcionais a serem
+considerados em um software:
+O segurança, desempenho, estresse e sistema.
+O usabilidade, segurança, aceitação econfiabilidade.
+O usabilidade, segurança, desempenho e 
+confiabilidade.
+O segurança, aceitação, testabilidade e 
+confidencialidade.
+O usabilidade, confidencialidade, aceitação e
+confiabilidade.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="869,300 869,2083 875,2083 875,300"/></SeparatorRegion></Page></PcGts>

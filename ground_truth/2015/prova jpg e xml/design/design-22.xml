@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T21:22:27</Created>
+	<LastChange>2020-11-18T21:33:34</LastChange></Metadata>
+	<Page imageFilename="design-22.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="80,233 1536,233 1536,264 1533,264 1533,611 1322,611 1322,1689 216,1689 216,1998 80,1998"/>
+	<ImageRegion id="r2">
+	<Coords points="607,278 607,526 1013,526 1013,278"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="76,644 76,1123 436,1123 436,644"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="578,636 578,1015 1042,1015 1042,636"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="350,1157 350,1568 786,1568 786,1157"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="965,1144 965,1610 1268,1610 1268,1144"/></ImageRegion>
+	<TextEquiv conf="0.43879">
+	<Unicode>QUESTÃO 23
+Considerando o desenho acima, que representa a vista superior de um objeto, avalie a possibilidade de cada
+uma das figuras apresentadas a seguir corresponder a uma perspectiva isométrica desse objeto.
+Correspondem a perspectivas isométricas do objeto apresentado apenas o que se ilustra em
+</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r6">
+	<Coords points="1189,636 1189,1097 1505,1097 1505,636"/></ImageRegion></Page></PcGts>

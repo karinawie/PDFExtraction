@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:30:11</Created>
+	<LastChange>2020-12-05T22:36:30</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="893,297 1064,297 1064,346 1593,346 1593,411 1599,411 1599,433 1598,433 1598,678 1417,678 1417,911 1280,911 1280,973 1075,973 1075,1115 1123,1115 1123,1171 1132,1171 1132,1257 894,1257 894,911 893,911 893,710 892,710 892,709 893,709"/>
+	<TextEquiv conf="0.96357">
+	<Unicode>QUESTÃO 33
+O cilindro reto sobre o círculo x? + y? a
+admite parametrização X' U—&gt; Rô,
+X(u,v) = (cos(u), sen(u),v)
+e
+U=((uv)ER:0&lt;u&lt;2m,-0o&lt;uv&lt;+ook
+Para se encontrar a primeira forma fundamental dessa
+superfície regular, 1 = Edu? + 2Fdudv + Gdv?
+em que
+foram utilizadas as expressões a seguir.
+1 Xu=(sen(u), —cos(u), O).
+IM. Xv =(0,0,1)
+Mm. E(u,yv)=1
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,297 316,297 316,365 851,365 851,619 852,619 852,794 379,794 379,1080 146,1080 146,620 145,620"/>
+	<TextEquiv conf="0.85535">
+	<Unicode>QUESTÃO 32
+O Teorema de Green é uma grande ferramenta para
+o cálculo de integrais de linha. Seu resultado permite
+relacionar uma integral de linha ao longo de um
+caminho fechado com uma integral dupla sobre a
+região delimitada por esse caminho.
+Utilizando o Teorema de Green, conclui-se que a integral
+de linha do campo vetorial, F: Rº &gt; R?, definido por
+F(x, y) = (y, —x), ao longo do caminho fechado definido
+pelas curvas h(x) = In(x); y = 0; x =2,éiguala
+O 2 m(2)
+O 21n(2)- 1.
+O 4 n(2) +2.
+O 14n(2) -2.
+O Mm(2)-1.
+Fl</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,297 872,2086 869,2086 869,297"/></SeparatorRegion></Page></PcGts>

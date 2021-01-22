@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:58:51</Created>
+	<LastChange>2020-10-27T18:31:54</LastChange></Metadata>
+	<Page imageFilename="01_ADMINISTRACAO_Page_27.jpeg" imageWidth="1595" imageHeight="2167">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="60,187 1376,187 1376,217 1278,217 1278,551 1279,551 1279,871 1472,871 1472,992 1514,992 1514,1097 378,1097 378,1129 108,1129 108,838 62,838 62,811 296,811 296,217 60,217"/>
+	<TextEquiv conf="0.15904">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Os gerentes de marketing e de finanças de uma empresa industrial discordam
+sobre a relação entre os investimentos em projetos comunitários e as vendas da
+empresa. O gerente de marketing assegura que esses investimentos dão retornos
+em relação ao aumento de vendas, além de serem relevantes para efeito de
+posicionamento de marca. Por outro lado, o executivo de finanças defende que
+esses investimentos não melhoram o desempenho de vendas e recomenda que
+futuros investimentos desse tipo sejam cancelados.
+Na tentativa de adotar uma referência mais consistente para análise, os dois gerentes
+coletaram dados de investimentos sociais da empresa e de vendas totais dos últimos
+30 meses, em três diferentes cidades (A, B e C), totalizando 90 observações (30 por
+cidade). A correlação entre as duas variáveis (investimentos sociais e vendas) na
+amostra total foi de 0,20. Por cidade, os coeficientes de correlação entre as duas
+variáveis foram: Cidade A, — 0,01; Cidade B, 0,22; Cidade C, 0,43.
+Levando em conta esses resultados, faça o que se pede nos itens a seguir.
+a) Comente a pertinência do uso da técnica de análise de correlação no contexto indicado. (valor: 3,0 pontos)
+b) Faça uma análise do resultado geral e do resultado segmentado por cidade. (valor: 3,0 pontos)
+c) Analise os posicionamentos de cada um dos gestores (marketing e finanças) e apresente uma proposta de
+decisão quanto aos investimentos sociais a serem efetuados pela empresa, considerando os coeficientes de
+correlação indicados e sugerindo outros possíveis dados que seriam relevantes para a tomada dessa decisão.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

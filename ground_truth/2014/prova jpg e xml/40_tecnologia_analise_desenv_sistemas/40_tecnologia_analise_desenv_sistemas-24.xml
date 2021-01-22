@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:15:04</Created>
+	<LastChange>2020-12-06T02:33:53</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1290,359 1290,832 1599,832 1599,1333 1280,1333 1280,1444 1132,1444 1132,1633 1131,1633 1131,1634 894,1634 894,962 893,962"/>
+	<ImageRegion id="r3">
+	<Coords points="911,419 911,791 1586,791 1586,419"/></ImageRegion>
+	<TextEquiv conf="0.96584">
+	<Unicode>QUESTÃO 31
+Analise o fluxograma a seguir.
+Em relação à execução de testes de caixa branca
+sobre este fluxograma, avalie as afirmações a seguir.
+|. Os caminhos 1-2-3-4-5, 1-2-3-4-6, 1-2-3-7-9,
+1-2-3-7-8-9 formam um conjunto de caminhos
+de execução independentes.
+II. Ocálculode complexidade ciclomática fornece
+a quantidade de caminhos independentes a
+testar.
+III.Testes sobre caminhos independentes podem
+ser executados em programas procedurais,
+mas não podem ser executados em programas
+orientados a objetos.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LI1el,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="145,299 317,299 317,359 851,359 851,1036 532,1036 532,1147 375,1147 375,1258 384,1258 384,1337 146,1337 146,1057 240,1057 240,950 194,950 194,928 210,928 210,625 194,625 194,565 146,565 146,564 145,564"/>
+	<TextEquiv conf="0.96517">
+	<Unicode>QUESTÃO 30
+A gerência de configuração de software, também
+chamada de gerência de mudança e configuração, é
+o processo que mantém atualizadas as informações
+dos elementos de configuração.
+A esse respeito, avalie as afirmações a seguir.
+|. A auditoria de software é um processo que
+consiste em verificar se a linha de base foi
+atendida ou se os requisitos do sistema foram
+atendidos.
+II. A linha de base é o marco de referência, a
+partir do qual serão feitos os controles de
+mudança, e pode ser a versão 1.0 de um
+software.
+III. Um item de configuração é um elemento
+unitário, que compõe aquele software e deve
+ser gerenciado.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1Iel,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,297 869,2094 872,2094 872,297"/></SeparatorRegion></Page></PcGts>

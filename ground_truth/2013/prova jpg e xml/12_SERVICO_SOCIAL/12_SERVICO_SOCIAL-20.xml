@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:26:01</Created>
+	<LastChange>2020-10-28T13:35:48</LastChange></Metadata>
+	<Page imageFilename="12_SERVICO_SOCIAL-20.jpg" imageWidth="1614" imageHeight="2165">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="82,235 251,235 251,1217 1535,1217 1535,1863 1295,1863 1295,1864 1052,1864 1052,1865 810,1865 810,1866 567,1866 567,1867 324,1867 324,1868 319,1868 319,1999 82,1999 82,2000 81,2000 81,236 82,236"/>
+	<TextEquiv conf="0.93626">
+	<Unicode>QUESTÃO 35
+IBGE. Censo 2010. Disponível em: &lt;http://www.ibge.gov.br&gt;. Acesso em: 31 jul. 2013.
+Com base na leitura do gráfico acima, avalie as afirmações que se seguem.
+|. De acordo com o gráfico, infere-se que 35,9% dos domicílios têm esgoto a céu aberto.
+ll. Em relação ao total de domicílios brasileiros, 31% não possuem calçada.
+Ill. Pode-se afirmar que nas regiões em que existe lixo acumulado nos logradouros, a renda per capita
+familiar é maior.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1LIIeN.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="218,265 218,1239 1547,1239 1547,265"/></ImageRegion></Page></PcGts>

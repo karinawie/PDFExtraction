@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:13:32</Created>
+	<LastChange>2020-12-06T01:21:09</LastChange></Metadata>
+	<Page imageFilename="37_quimica_bacharelado-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="146,299 316,299 316,360 1600,360 1600,673 1599,673 1599,810 145,810 145,809 144,809 144,700 145,700 145,329 146,329"/>
+	<TextEquiv conf="0.96617">
+	<Unicode>QUESTÃO 35
+Os filtros orgânicos são formados por moléculas orgânicas capazes de absorver a radiação UV (alta energia)
+e transformá-la em radiações com energias menores e inofensivas ao ser humano. Essas moléculas são,
+essencialmente, compostos aromáticos com grupos carboxílicos. No geral, apresentam um grupo doador de
+elétrons, como uma amina ou um grupo metoxila, na posição orto ou para do anel aromático. Ao absorver
+a radiação UV, os elétrons situados no orbital x HOMO (orbital molecular preenchido de mais alta energia)
+são excitados para orbital n* LUMO (orbital molecular vazio de mais baixa energia) e, ao retornarem para
+o estado inicial, o excesso de energia é liberado em forma de calor. As transições eletrônicas que estão
+envolvidas durante a absorção da luz UV ocorrem entre a diferença de energia HOMO — LUMO.
+A seguir são apresentadas as Figuras 1 e 2, que representam duas substâncias constituintes de filtros
+orgânicos e seus respectivos espectros de absorção. Na Figura 3, são ilustrados simplificadamente os orbitais
+moleculares do benzeno, por meio da Teoria de Orbitais Moleculares.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="211,836 211,1402 1502,1402 1502,836"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="280,1455 280,2058 1463,2058 1463,1455"/></ImageRegion></Page></PcGts>

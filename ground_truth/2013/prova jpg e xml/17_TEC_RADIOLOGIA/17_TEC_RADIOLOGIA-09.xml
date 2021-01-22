@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:49:25</Created>
+	<LastChange>2020-10-28T17:08:29</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-09.jpg" imageWidth="1613" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="75,449 74,1030 1541,1031 1542,450"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="81,1612 253,1612 253,1668 1536,1668 1536,1772 1244,1772 1244,1880 1255,1880 1255,1924 1310,1924 1310,2002 83,2002 83,2001 82,2001 82,1771 81,1771"/>
+	<TextEquiv conf="0.96529">
+	<Unicode>QUESTÃO 10
+A mamografia e a ultrassonografia são métodos de imagem que podem ser utilizados no diagnóstico do
+câncer de mama. No entanto, nas mulheres mais jovens, antes dos 30 anos de idade, o mais indicado como
+primeiro exame (depois da palpação) para pacientes que estão fora do grupo de risco é a
+O ultrassonografia, porque consegue distinguir entre lesões císticas e não císticas.
+O mamografia, já que pode detectar pequenas lesões ainda na fase inicial da doença.
+O mamografia, porque o exame apresenta menores riscos para a saúde das pacientes.
+O ultrassonografia, porque a mama em mulheres na faixa de idade citada é mais densa.
+O mamografia, porque quando a mama não tem gordura os raios-X têm melhor contraste.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,291 1535,291 1535,1059 1536,1059 1536,1355 311,1355 311,1583 82,1583 82,1374 83,1374 83,426 82,426 82,425 81,425"/>
+	<TextEquiv conf="0.78224">
+	<Unicode>QUESTÃO 09
+A radiologia intervencionista é a área em que se realizam os procedimentos diagnósticos e terapêuticos
+das doenças coronarianas, das válvulas e das cardiopatias congênitas. O Equipamento de hemodinâmica
+é capaz de gerar imagens de alta definição, através da combinação de injeção de contraste e de imagens
+de raios-X.
+Sobre esse contexto, avalie as afirmações a seguir.
+|. Nos exames hemodinâmicos, é preferencial que o tubo de raios-X se encontre abaixo do paciente, por
+motivos de proteção radiológica dos profissionais.
+Il. A hemodinâmica é o método de diagnóstico mais indicado para avaliar a viabilidade miocárdica.
+Ill. Nos exames hemodinâmicos, é possível a visualização de tecidos com coeficientes de atenuação
+similares aos das regiões vizinhas, devido à utilização dos meios de contraste.
+É correto o que se afirma em
+O |l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+Q11lei.</Unicode></TextEquiv></TextRegion></Page></PcGts>

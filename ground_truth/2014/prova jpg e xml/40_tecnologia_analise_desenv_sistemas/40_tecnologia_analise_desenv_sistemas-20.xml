@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:15:43</Created>
+	<LastChange>2020-12-06T02:39:03</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1600,359 1600,588 1599,588 1599,1196 1280,1196 1280,1252 1075,1252 1075,1370 1132,1370 1132,1498 895,1498 895,1497 894,1497 894,1275 895,1275 895,1217 942,1217 942,644 896,644 896,643 895,643 895,589 893,589"/>
+	<TextEquiv conf="0.96230">
+	<Unicode>QUESTÃO 23
+Os termos inovação e empreendedorismo
+dizem respeito à prática da gestão e à mudança
+criativa. A inovação preocupa-se, sobretudo,
+com o desenvolvimento de produtos. Já o
+empreendedorismo dedica-se mais à questão da
+criação de pequenas empresas.
+Nesse contexto, avalie as afirmações a seguir.
+|. Inovação e sustentabilidade são processos
+antagônicos, já que a inovação contribui
+de forma importante para a degradação do
+meio ambiente devido à sua associação com
+o aumento do crescimento econômico e do
+consumo.
+Il. A exploração de um problema social
+transformado em uma oportunidade de
+negócio visando a geração de lucro ao
+empreendedor é um dos principais objetivos
+do empreendedorismo social.
+Ill. Nem todo resultado de um processo criativo
+está associado a uma inovação.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 852,359 852,791 851,791 851,1025 510,1025 510,1143 703,1143 703,1271 702,1271 702,1272 194,1272 194,1271 193,1271 193,1268 146,1268 146,1024 145,1024 145,835 280,835 280,709 144,709 144,359 145,359"/>
+	<TextEquiv conf="0.92541">
+	<Unicode>QUESTÃO 22
+O modelo relacional representa o banco de dados
+como uma coleção de relações (tabelas). Na
+terminologia formal do modelo relacional, uma linha
+é chamada de “tupla”, otítuloda coluna é denominado
+“atributo” e a tabela é chamada de “relação”. O tipo
+de dado que descreve os tipos de valores que podem
+aparecer em cada coluna é denominado “domínio”.
+Um banco de dados relacional pode impor vários
+tipos de restrições nos dados armazenados.
+ELMASR|, R.; NAVATHE, S. B. Sistema de Banco de Dados
+Fundamentos e Aplicações. Rio de Janeiro: LTC, 2002.
+Restrições que permitem controlar situações como,
+por exemplo, “o salário de um empregado não deve
+exceder o salário do supervisor do empregado” e
+utilizam mecanismos chamados triggers (gatilhos) na
+sua implementação, são do tipo
+O restrições de domínio.
+O restrições de unicidade.
+O restrições de integridade referencial.
+O restrições de integridade da entidade.
+O restrições de integridade semântica.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,294 869,2086 875,2086 875,294"/></SeparatorRegion></Page></PcGts>

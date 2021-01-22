@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:32:08</Created>
+	<LastChange>2020-12-06T00:03:57</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,804 1405,804 1405,1467 1395,1467 1395,1636 894,1636 894,804 893,804"/>
+	<TextEquiv conf="0.96427">
+	<Unicode>QUESTÃO 12
+Deseja-se pintar a superfície externa e lateral de
+um monumento em forma de um paraboloide, que
+pode ser descrita pela equação 2 = x? + 4?, situada
+na região do espaço de coordenadas cartesianas
+(x, y, 2) dada pela condição z &lt; 9. Os eixos
+coordenados estão dimensionados em metros
+e gasta-se um litro e meio de tinta a cada metro
+quadrado de área da superfície a ser pintada.
+A quantidade de tinta, em litros, necessária para se
+pintar a superfície lateral do monumento é dada pela
+integral dupla
+3 VOZ
+Oo 1 / (4º + yYº)drdy
+o Jo z
+3 pVOT?
+o 6/ / (x? + y/º)drdy
+o Jo :
+n/2 53
+o af / V1+4r? rdrdô
+o o :
+n/2 53
+o 6 / V1+4r? rdrdô
+o o :
+n/2 53
+e 6 / V1+4r? rdrdo
+o 3 :</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,359 851,359 851,695 852,695 852,964 850,964 850,1131 851,1131 851,1666 146,1666 146,964 145,964"/>
+	<TextEquiv conf="0.96300">
+	<Unicode>QUESTÃO 11
+Em uma loja de material escolar, as mercadorias
+caneta, lápis e borracha, de um único tipo cada
+uma, são vendidas para três estudantes. O primeiro
+comprou uma caneta, três lápis e duas borrachas
+pagando R$ 10,00; o segundo adquiriu duas canetas,
+um lápis e uma borracha pagando R$ 9,00; o terceiro
+comprou três canetas, quatro lápis e três borrachas
+pagando R$ 19,00.
+Os estudantes, após as compras, sem verificarem
+os valores de cada mercadoria, procuraram resolver
+o problema: “A partir das compras efetuadas e dos
+respectivos valores totais pagos por eles, qual o
+preço da caneta, do lápis e da borracha?”. Para isso,
+montaram um sistema de equações lineares cujas
+incógnitas são os preços das mercadorias.
+Esse sistema de equações é
+O possível determinado, sendo o preço da borracha
+mais caro que o do lápis.
+O impossível, pois saber os totais das compras não
+garante a existência de solução.
+O possível determinado, podendo admitir como
+solução o valor do preço da caneta, do lápis e da
+borracha.
+O possível indeterminado, de forma que a soma
+dos valores possíveis da caneta, do lápis e da
+borracha é igual a cinco vezes o preço do lápis
+subtraído de R$ 9,00.
+O possível indeterminado, de forma que a soma dos
+valores possíveis da caneta, do lápis e da borracha
+é igual a 1/5 da adição do preço da borracha com
+R$ 28,00.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,297 869,2086 875,2086 875,297"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T21:44:40</Created>
+	<LastChange>2020-11-21T23:28:25</LastChange></Metadata>
+	<Page imageFilename="18_engenharia_florestal-15.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="1538,1087 1538,1197 832,1197 832,1087"/>
+	<TextEquiv conf="0.96349">
+	<Unicode>Com base nessas informações, verifica-se que a
+solução da equação é obtida pela seguinte associação
+das etapas do algoritmo com o fluxograma</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="84,238 255,238 255,295 791,295 791,627 789,627 789,1002 791,1002 791,1258 789,1258 789,1387 222,1387 222,1571 790,1571 790,1633 359,1633 359,1746 268,1746 268,1805 259,1805 259,1931 452,1931 452,1960 82,1960 82,1931 85,1931 85,1805 84,1805 84,1770 85,1770 85,1633 83,1633 83,983 78,983 78,683 83,683 83,295 84,295"/>
+	<TextEquiv conf="0.96675">
+	<Unicode>QUESTÃO 14
+O transporte de um fluido entre dois pontos no interior
+de um tubo ocorre simultaneamente, com perda de
+energia, devido ao atrito do fluido com a parede e ao
+escoamento turbulento. Portanto, quanto maior for
+a rugosidade da parede da tubulação ou mais viscoso
+for o fluido, maior será a perda de energia. A forma
+de determinação do fator de atrito foi estabelecida
+em 1939, por intermédio da equação de Colebrook-
+White, apresentada a seguir.
++ = —21og (5 2.51 )
+VS VA3,7D RA/f
+em que
+f éofatordeatritode Darcy-Weisbach (adimensional);
+k é a rugosidade equivalente da parede do tubo (m);
+D é o diâmetro interno do tubo (m);
+R é o número de Reynolds (adimensional).
+A resolução dessa equação requer um processo
+iterativo, pois a função é implícita em relação ao fator
+de atrito (presente nos dois membros da equação).
+Em 1939, a resolução de equações por procedimentos
+iterativos demandava excesso de tempo, mas,
+com o desenvolvimento dos conhecimentos de
+computação, esse problema foi solucionado.
+As etapas de um algoritmo que soluciona a equação,
+sem ordenação lógica, assim como seu fluxograma
+são apresentados a seguir.
+A)D=1
+B) f,= 0,03
+C) Início
+D) Cálculo de f, através da equação de Colebrook-
+White
+E) | ff | &lt;0,00001
+F) Término
+G) R,= 10 000
+H) k = 0,0001
+LA
+J) Visualização do resultado</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="807,236 807,2013 802,2013 802,236"/></SeparatorRegion>
+	<TableRegion id="r2">
+	<Coords points="881,1231 881,1355 1539,1355 1539,1231"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="884,1388 884,1512 1542,1512 1542,1388"/></TableRegion>
+	<TableRegion id="r6">
+	<Coords points="886,1545 886,1669 1544,1669 1544,1545"/></TableRegion>
+	<TableRegion id="r8">
+	<Coords points="884,1706 884,1830 1542,1830 1542,1706"/></TableRegion>
+	<TableRegion id="r10">
+	<Coords points="886,1864 886,1988 1544,1988 1544,1864"/></TableRegion>
+	<ImageRegion id="r11">
+	<Coords points="897,210 897,1071 1452,1071 1452,210"/></ImageRegion></Page></PcGts>

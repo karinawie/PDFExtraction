@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:56:58</Created>
+	<LastChange>2020-12-06T02:06:40</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="894,299 1064,299 1064,359 1600,359 1600,428 1599,428 1599,920 1011,920 1011,1163 895,1163 895,1164 894,1164 894,921 893,921 893,300 894,300"/>
+	<ImageRegion id="r1">
+	<Coords points="936,452 936,819 1597,819 1597,452"/></ImageRegion>
+	<TextEquiv conf="0.96408">
+	<Unicode>QUESTÃO 17
+Os estados que um processo alcança podem ser
+modelados por meio do diagrama exibido a seguir.
+No diagrama de estados apresentado, as transições
+causadas pelo escalonador de processos são
+Oie?
+O 1e3.
+O lea.
+O 2e3.
+O 2e4.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,356 851,356 851,1102 852,1102 852,1477 853,1477 853,1645 851,1645 851,1951 850,1951 850,2031 740,2031 740,2075 146,2075 146,1791 145,1791 145,1674 194,1674 194,1477 195,1477 195,1102 194,1102 194,1072 145,1072 145,1013 147,1013 147,890 144,890 144,356 145,356"/>
+	<TextEquiv conf="0.95969">
+	<Unicode>QUESTÃO 16
+A virtualização de servidores, acompanhada
+de solução para Gerenciamento Eletrônico de
+Documentos (GED), trouxe uma série de benefícios
+para as escolas de uma instituição: acumulados ao
+longo de 50 anos, os prontuários dos estudantes
+passaram a ser acessados em tempo real, as
+atividades pedagógicas realizadas em ambiente mais
+sólido e o gerenciamento centralizado do ambiente
+passou a permitir que a equipe da instituição se
+concentre em tarefas estratégicas. No médio prazo, a
+meta da instituição é virtualizar toda a infraestrutura
+de servidores e eliminar o uso de papel nos processos,
+trocando documentos em papel por documentos
+eletrônicos armazenados nos servidores virtuais e
+acessíveis em qualquer unidade da rede de escolas.
+Computerworld. Virtualização: quatro casos de sucesso no Brasil. Disponível em:
+&lt;http://cio.com.br&gt;. Acesso em: 29 jul. 2014 (adaptado).
+Em relação ao estudo de caso mencionado acima,
+avalie as asserções a seguir e a relação proposta
+entre elas.
+|. A tecnologia de virtualização de servidores
+está proporcionando diversos benefícios para
+as organizações, como redução de custos e
+de downtime e melhoria no desempenho,
+na segurança e no gerenciamento da
+infraestrutura de Tecnologia da Informação (TI).
+No entanto, sozinha, a virtualização não é
+suficiente para permitir que as organizações
+se concentrem em tarefas estratégicas.
+PORQUE
+Il. A virtualização, se associada a outras
+tecnologias atuais como GED, Cloud
+Computing e Grid Computing, possibilita
+que as organizações foquem no negócio,
+eliminando os riscos associados à área de TI.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a l|l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="869,294 869,2077 866,2077 866,294"/></SeparatorRegion></Page></PcGts>

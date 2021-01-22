@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:54:59</Created>
+	<LastChange>2020-12-06T02:00:52</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,364 1598,364 1598,437 1526,437 1526,1567 1384,1567 1384,1754 1474,1754 1474,1844 1297,1844 1297,1969 1353,1969 1353,2021 1598,2021 1598,2054 146,2054 146,1844 145,1844"/>
+	<TextEquiv conf="0.96122">
+	<Unicode>QUESTÃO 31
+Um sistema de informação usa um banco de dados relacional que possui tabelas cujos esquemas em
+SQL estão representados a seguir.
+CREATE TABLE Artista
+(
+id INTEGER PRIMARY KEY,
+nome VARCHAR (40) NOT NULL,
+CPF CHAR(11) NOT NULL,
+dataNascimento DATE,
+UNIQUE (CPF)
+);
+CREATE TABLE Evento
+(
+id INTEGER PRIMARY KEY,
+descricao VARCHAR(60) NOT NULL,
+numMaxConvidados INTEGER DEFAULT O,
+CHECK (numMaxConvidados &gt;= O)
+);
+CREATE TABLE Atuacao
+(
+idaArtista INTEGER,
+idEvento INTEGER,
+PRIMARY KEY (idArtista, idEvento),
+FOREIGN KEY (idArtista) REFERENCES Artista,
+FOREIGN KEY (idEvento) REFERENCES Evento(id)
+);
+O sistema também possui uma consulta que integra um de seus relatórios, conforme indicado a seguir.
+SELECT A.nome, E.descricao
+FROM Evento E FULL JOIN Atuacao T ON E.id = T.idEvento
+FULL OUTER JOIN Artista A ON T.idArtista = A.id
+Considerando que todas as tabelas possuem dados, o resultado da consulta utilizada no relatório é
+O o nome de todos os artistas combinados com a descrição de todos os eventos.
+O a descrição de todos os eventos e, caso haja artistas alocados, os seus nomes.
+O o nome de todos os artistas e a descrição de todos os eventos em que eles atuam.
+O o nome de todos os artistas e, caso eles participem de eventos, a descrição do evento.
+O onomedetodos os artistas, a descrição de todos os eventos e, caso eles se relacionem, os dois combinados.</Unicode></TextEquiv></TextRegion></Page></PcGts>

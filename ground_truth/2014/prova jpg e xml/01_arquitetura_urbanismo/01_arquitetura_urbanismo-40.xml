@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T03:44:47</Created>
+	<LastChange>2020-09-24T03:44:47</LastChange></Metadata>
+	<Page imageFilename="01_arquitetura_urbanismo-40.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r0">
+	<Coords points="73,605 73,1294 1560,1294 1560,605"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="81,1310 81,2013 1539,2013 1539,1310"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="85,238 86,238 86,239 255,239 255,299 1538,299 1538,495 1537,495 1537,581 457,581 457,580 97,580 97,579 96,579 96,495 83,495 83,299 84,299 84,268 85,268"/>
+	<TextEquiv conf="0.96565">
+	<Unicode>QUESTÃO 34
+A tecnologia CAD (Computer Aided Design) é a inovação mais importante dos últimos 40 anos. São três
+gerações distintas na evolução do uso do computador em arquitetura: a primeira é a do desenho assistido
+por computador, a segunda a modelagem geométrica e, por fim, a modelagem do produto, aliada a uma
+abordagem colaborativa de todo o ciclo de vida do empreendimento, compondo a tecnologia BIM (Building
+Information Modeling).
+SOUZA, L. L. A.; AMORIM, S. R. L.; LYRIO, A. M. Impactos do uso do BIM em escritórios de Arquitetura: oportunidades no mercado Imobiliário.
+Disponível em: &lt;http://www.revistas.usp.br&gt;. Acesso em: 27 jul. 2014 (adaptado).</Unicode></TextEquiv></TextRegion></Page></PcGts>

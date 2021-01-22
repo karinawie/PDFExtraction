@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T04:09:37</Created>
+	<LastChange>2020-11-21T04:17:19</LastChange></Metadata>
+	<Page imageFilename="13_engenharia_alimentos-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,235 255,235 255,298 1538,298 1538,713 1537,713 1537,1179 1538,1179 1538,1335 1353,1335 1353,1647 84,1647 84,1408 83,1408 83,1379 84,1379 84,712 83,712 83,297 84,297"/>
+	<TableRegion id="r1">
+	<Coords points="418,742 418,976 1402,976 1402,742"/></TableRegion>
+	<TextEquiv conf="0.96785">
+	<Unicode>QUESTÃO 22
+Uma indústria de biscoitos, visando à redução de custos e à agilidade na entrega dos produtos fabricados,
+adquiriu duas fábricas em diferentes regiões do país, passando a processar os mesmos produtos da Matriz
+nas novas Filiais. A direção da empresa, preocupada em saber se os produtos fabricados nessas unidades
+não seriam diferentes, solicitou que o engenheiro de alimentos responsável pelo Controle de Qualidade da
+empresa aplicasse um Teste de Diferença do Controle. Para o biscoito água e sal, esse teste foi realizado com
+trinta provadores que receberam as três amostras codificadas, além da amostra padrão, e foram solicitados a
+responder quanto cada amostra diferia da amostra padrão, utilizando uma escala que varia de zero (nenhuma
+diferença) até nove (extremamente diferente do padrão). Ao analisar os dados por meio da Análise de
+Variância (ANOVA) e do teste de médias de Dunnett, o engenheiro obteve os resultados apresentados na
+tabela a seguir.
+Com bases nos resultados apresentados, avalie as asserções a seguir e a relação proposta entre elas.
+|. Os biscoitos produzidos na Filial A não apresentam diferença daqueles produzidos na Matriz, enquanto
+os biscoitos produzidos na Filial B são diferentes daqueles produzidos na Matriz.
+PORQUE
+Il. Por meio da ANOVA, verificou-se, com 95% de certeza, que existem diferenças significativas entre as
+amostras testadas e, por intermédio do teste de médias de Dunnet, verificou-se qual(is) amostra(s)
+eram diferentes da amostra produzida na Matriz (amostra controle).
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

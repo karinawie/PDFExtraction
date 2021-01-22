@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:34:18</Created>
+	<LastChange>2020-12-06T03:48:25</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="894,299 1065,299 1065,359 1601,359 1601,466 1600,466 1600,885 1599,885 1599,1218 1598,1218 1598,1306 1488,1306 1488,1355 895,1355 895,1356 894,1356 894,1045 893,1045 893,920 894,920 894,919 988,919 988,531 942,531 942,468 892,468 892,360 893,360 893,300 894,300"/>
+	<TextEquiv conf="0.96652">
+	<Unicode>QUESTÃO 10
+Em relação ao protocolo MPLS (Multi Protocol Label
+Switching), avalie as asserções a seguir e a relação
+proposta entre elas.
+|. Para prover qualidade de serviço na
+internet é preciso ter uma maior eficiência
+no roteamento de pacotes, e para isso, o
+protocolo MPLS é uma solução.
+PORQUE
+O protocolo MPLS adiciona um rótulo em
+cada pacote que será transmitido por um
+caminho virtual, permitindo uma comutação
+mais rápida e independente dos protocolos
+das camadas de rede e enlace.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e Il são proposições verdadeiras, e
+a 1|l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="145,299 316,299 316,363 851,363 851,1672 684,1672 684,1678 636,1678 636,1785 278,1785 278,2048 146,2048 146,1812 147,1812 147,1751 194,1751 194,1047 145,1047 145,525 144,525 144,363 145,363"/>
+	<ImageRegion id="r2">
+	<Coords points="147,544 147,947 844,947 844,544"/></ImageRegion>
+	<TextEquiv conf="0.96203">
+	<Unicode>QUESTÃO 09
+A figura a seguir ilustra, por meio do modelo em
+camadas, o processamento da informação em uma
+transmissão de dados utilizando comutadores,
+roteadores e hospedeiros.
+Considerando as funções de cada dispositivo nesse
+processo, avalie as afirmações a seguir.
+|. Comutadores e analisam
+de
+encaminhamento de pacotes.
+hospedeiros
+endereços camada 3 para oO
+Roteadores — precisam — processar
+quantidade de informações
+cabeçalho do que comutadores.
+uma
+maior de
+Ill. Comutadores examinam o endereço de
+destino de camada 2 do quadro e tentam
+repassá-lo para a interface que leva a
+esse destino.
+Roteadores atuam até a camada de rede,
+pois não fornecem isolamento de tráfego
+rotas entre os
+e utilizam inteligentes
+hospedeiros da rede.
+É correto apenas o que se afirma em
+O.
+O Iv.
+Gel
+O e.
+OÔ leilv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="872,291 872,2091 875,2091 875,291"/></SeparatorRegion></Page></PcGts>

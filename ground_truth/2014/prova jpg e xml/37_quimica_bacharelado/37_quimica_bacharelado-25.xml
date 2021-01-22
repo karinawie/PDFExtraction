@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:14:06</Created>
+	<LastChange>2020-12-06T01:25:09</LastChange></Metadata>
+	<Page imageFilename="37_quimica_bacharelado-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="145,299 317,299 317,351 1599,351 1599,522 1410,522 1410,841 1598,841 1598,889 1599,889 1599,1219 1600,1219 1600,1279 1163,1279 1163,1406 1136,1406 1136,1484 147,1484 147,1485 146,1485 146,1280 145,1280 145,841 147,841 147,523 145,523"/>
+	<ImageRegion id="r6">
+	<Coords points="600,513 600,747 1130,747 1130,513"/></ImageRegion>
+	<TableRegion id="r7">
+	<Coords points="444,961 444,1169 1300,1169 1300,961"/></TableRegion>
+	<TextEquiv conf="0.96729">
+	<Unicode>QUESTÃO 28
+A fase estacionária de uma cromatografia de troca iônica consiste em uma matriz insolúvel contendo grupos
+ionizáveis ligados de forma covalente. Já a fase móvel consiste em solução tampão com faixa de pH definido.
+Matrizes carregadas negativamente se ligam a moléculas com carga positiva (cátions). O mesmo ocorre para
+as matrizes carregadas positivamente, que se ligam a moléculas com carga negativas (ânions), conforme
+representado na figura a seguir.
+A: resina trocadora de cátions; B: resina trocadora de ânions.
+Matrizes trocadoras de cátions e matrizes trocadoras de ânions estão disponíveis no mercado.
+CM-celulose, em pH neutro, está carregada negativamente (-CH,OCH,COO"), sendo uma matriz trocadora de cátions;
+DEAE-celulose contém um grupamento ionizável de amina terciária, está carregada positivamente, sendo
+uma matriz trocadora de ânions.
+uma mistura formada por estas proteínas for aplicada a uma coluna de cromatografia contendo as matrizes
+equilibradas com diferentes soluções tampão.
+O DEAE-celulose, em solução tampão pH 8,0, retém somente a proteína C.
+O DEAE-celulose, em solução tampão pH 5,2, retém somente a proteína A.
+O DEAE-celulose, em solução tampão pH 7,0, retém as proteínas Be C.
+O CM-celulose, em solução tampão pH 7,0, retém somente a proteína C.
+O CM-celulose, em solução tampão pH 5,2, retém as proteínas A e B.
+Considerando o quadro apresentado, escolha a opção que descreve o comportamento esperado quando</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="145,1507 316,1507 316,1559 1599,1559 1599,1651 1366,1651 1366,1699 1289,1699 1289,1802 1146,1802 1146,1935 1221,1935 1221,1974 1598,1974 1598,2014 1599,2014 1599,2078 146,2078 146,2008 145,2008 146,2008 146,1802 145,1802"/>
+	<TextEquiv conf="0.96642">
+	<Unicode>QUESTÃO 29
+O resfriamento de caldeiras usadas na produção de vapor gera, como efluentes, águas com elevado teor de
+cálcio e magnésio, normalmente chamadas de “águas duras”. O controle do teor desses metais nessas águas é
+importante, pois podem formar depósitos de carbonatos sólidos e provocar problemas nas tubulações usadas.
+O equilíbrio de solubilidade do carbonato de cálcio está representado na equação a seguir:
+= 2+ 2
+CaCO,;,, TT Ca ta) + CO; am)
+O K,, do CaCO, é 4,70 x 10º a 25 ºC e sua solubilidade nessa temperatura é 6,86 ppm.
+Nesse caso, o químico deve projetar um sistema em que seja possível
+O adicionar íons cálcio para que seu teor seja mantido em 6,86 ppm.
+O adicionar íons carbonato para que seu teor seja mantido em 6,86 ppm.
+O reduzir a temperatura da reação para diminuir a solubilidade dos íons cálcio.
+O adicionar ácido clorídrico, reduzindo assim o valor de pH do sistema e decompondo então os íons carbonato.
+O adicionar íons magnésio ao sistema para que sejam consumidos os íons carbonato, reduzindo assim
+sua concentração.</Unicode></TextEquiv></TextRegion></Page></PcGts>

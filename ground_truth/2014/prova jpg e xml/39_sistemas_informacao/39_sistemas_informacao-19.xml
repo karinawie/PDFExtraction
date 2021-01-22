@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:56:35</Created>
+	<LastChange>2020-12-06T02:05:26</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="145,299 146,299 146,300 316,300 316,361 1599,361 1599,459 1601,459 1601,816 1598,816 1598,1519 1215,1519 1215,1768 888,1768 888,2115 518,2115 518,2114 147,2114 147,2113 146,2113 146,1766 145,1766"/>
+	<TableRegion id="r1">
+	<Coords points="416,819 416,1166 1338,1166 1338,819"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="438,1177 438,1425 1294,1425 1294,1177"/></TableRegion>
+	<TextEquiv conf="0.96631">
+	<Unicode>QUESTÃO 19
+Um analista de sistemas usa um computador para executar apenas 2 tipos de operações: processamento
+lógico/aritmético e acesso a disco.
+O computador é um servidor com apenas um processador de um núcleo (core). Além do sistema operacional
+multitarefa e dos processos do sistema, tal servidor serializa os acessos a disco e é usado para executar
+apenas os programas que o analista solicita. O analista trabalha com dois tipos de programas: aqueles
+que realizam em torno de 100% de operações lógicas/aritméticas (quantidade desprezível de acesso a
+disco), denominados cpu-bound, e aqueles que executam em torno de 70% de acesso a disco e 30% de
+operações lógicas/aritméticas, denominados io-bound. Certa vez, o analista executou alguns programas
+isoladamente e mediu os tempos de execução de cada um. Os dados obtidos foram registrados na tabela |.
+Em seguida, ele combinou programas e os submeteu simultaneamente em grupos. Os resultados foram
+registrados na tabela |l.
+Dias depois, revendo as tabelas, ele teve dúvida quanto à correção dos tempos anotados.
+Considere ut = unidade de tempo.
+Com relação a essa situação, avalie as afirmações a seguir.
+|. É possível que o tempo total do grupo 4 seja 306 ut.
+Il. O tempo total do grupo 1 deveria ser, no mínimo, de 100 ut.
+Ill. O tempo total do grupo 2 deveria ser, no mínimo, de 300 ut.
+IV. O tempo total do grupo 3 deveria estar acima de 175 e abaixo de 310 ut.
+É correto o que se afirma em
+O ll, apenas.
+O lell, apenas.
+O lelV, apenas.
+O Il, Il e IV, apenas.
+OÔ1ILHMEIV.
+19</Unicode></TextEquiv></TextRegion></Page></PcGts>

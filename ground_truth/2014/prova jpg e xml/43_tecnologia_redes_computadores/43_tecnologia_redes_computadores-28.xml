@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:31:24</Created>
+	<LastChange>2020-12-06T03:37:35</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-28.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="893,299 1064,299 1064,356 1600,356 1600,923 1599,923 1599,1492 1600,1492 1600,1663 1599,1663 1599,1789 1384,1789 1384,1842 1061,1842 1061,2074 894,2074 894,1862 895,1862 895,1808 940,1808 940,1686 942,1686 942,1492 988,1492 988,1313 942,1313 942,923 893,923 893,795 892,795 892,356 893,356"/>
+	<TextEquiv conf="0.96578">
+	<Unicode>QUESTÃO 31
+Umempreendedor na área de redes de computadores
+tem um bom faturamento com as mensalidades
+que seus vizinhos de condomínio pagam para ter
+acesso à internet. Seu link de banda larga residencial
+compartilhado é de 35 Mbps, contratado junto a
+uma grande prestadora desse serviço. Com seus
+conhecimentos técnicos ele provê, informalmente,
+acesso aos seus “assinantes”. Um antigo professor
+o alertou que seu negócio deve ser legalizado com
+base na Resolução da Anatel, nº 614, de 28 de maio
+de 2013, que regulamenta a modalidade de Serviço
+de Comunicação Multimídia (SCM).
+Em relação às providências que o empreendedor
+deve tomar para legalizar seu negócio, avalie as
+afirmações a seguir.
+|. O empreendedor deve elaborar um projeto
+de redes de computadores definindo a faixa
+de frequências, o tipo de equipamento e a
+tecnologia a ser empregada, utilizando sempre
+equipamentos certificados pela Anatel.
+Il. O empreendedor deve requerer a licença
+SCM junto ao seu provedor para a realização
+da transmissão e distribuição do sinal de
+internet, independente do meio que será
+utilizado.
+III.O empreendedor deve tornar disponíveis ao
+assinante informações sobre as características
+e especificações técnicas dos terminais,
+necessárias à conexão dos mesmos à sua rede.
+IV. O empreendedor deve contratar uma equipe
+técnica com profissionais experientes no ramo
+de redes de computadores, TCP/IP e acesso à
+internet, além de cadastrar-se junto ao CREA
+de seu Estado.
+V. O empreendedor deve manter o seu link de
+banda larga residencial pré-existente para
+compartilhar acesso entre seus assinantes.
+É correto apenas o que se afirma em
+O ilellev.
+O LIelv
+O 1LIVev
+O lIev
+O 1, Iv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,358 851,358 851,798 852,798 852,930 853,930 853,1623 851,1623 851,1934 850,1934 850,2017 740,2017 740,2062 146,2062 146,1768 145,1768 145,1649 194,1649 194,905 144,905 144,358 145,358"/>
+	<TextEquiv conf="0.96764">
+	<Unicode>QUESTÃO 30
+Tão importante quanto a instalação dos
+computadores e demais dispositivos de interconexão
+da infraestrutura de uma rede de computadores
+é a etapa prévia de instalação do cabeamento
+e os devidos testes de certificação através de
+equipamentos especializados. O processo de
+certificação do cabeamento de uma rede envolve uma
+série de testes que avaliam parâmetros importantes
+determinados pelas normas EIA/TIA-568-B (2001) e
+EIA/TIA-568-C (2009), com o objetivo de assegurar a
+qualidade geral do cabeamento de uma rede local.
+A partir do texto apresentado e das recomendações
+das normas EIA/TIA-568, avalie as asserções a seguir
+e a relação proposta entre elas.
+|. Os tradicionais testes NEXT e FEXT não são
+suficientes nas redes modernas, pois foram
+inicialmente estabelecidos para certificar
+cabeamento de par trançado que utiliza
+apenas dois pares de fios do total de quatro
+pares disponíveis nesses cabos, sendo os
+pinos 1 e 3 utilizados na transmissão (TX) e os
+pinos 2 e 6 na recepção (RX).
+PORQUE
+Il. Devido às altas taxas de transmissão das redes
+Ethernet atuais que utilizam todos os quatro
+pares de fios na transmissão e recepção de
+dados, recomendam-se os testes PS-NEXT
+e PS-FEXT para certificação de cabeamento
+de alto nível de desempenho, uma vez que
+esses testes consideram a somatória de
+interferências do sinal aplicado em três pares
+sobre o quarto.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="875,288 875,2086 872,2086 872,288"/></SeparatorRegion></Page></PcGts>

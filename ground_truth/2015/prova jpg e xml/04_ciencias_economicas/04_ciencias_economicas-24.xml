@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T06:03:45</Created>
+	<LastChange>2020-11-16T01:06:14</LastChange></Metadata>
+	<Page imageFilename="04_ciencias_economicas-24.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,169 80,169 80,170 1536,170 1536,264 1533,264 1533,595 1534,595 1534,768 1301,768 1301,901 1533,901 1533,1030 1240,1030 1240,1140 1037,1140 1037,1278 1534,1278 1534,1354 1533,1354 1533,1490 1530,1490 1530,1680 1533,1680 1533,1799 1534,1799 1534,1879 1533,1879 1533,1998 81,1998 81,1997 80,1997 80,1679 81,1679 81,1489 80,1489 80,1353 81,1353 81,1278 561,1278 561,1140 353,1140 353,1139 352,1139 352,1030 81,1030 81,1029 80,1029 80,900 81,900 81,901 310,901 310,768 80,768 80,767 79,767"/>
+	<TextEquiv conf="0.96369">
+	<Unicode>QUESTÃO 20
+A utilização de dados em painel para a análise de políticas públicas tornou-se bastante comum
+recentemente, dada a disponibilidade de informações para anos consecutivos de variáveis de interesse.
+Ainda que se faça uma análise para apenas dois períodos, no que se refere à variável dependente, a
+existência de informações anuais para vários períodos consecutivos das variáveis explicativas permite a
+utilização de modelos de defasagem distribuída.
+Para análise da ocorrência de crimes e da influência das prisões, foi realizado um estudo na Noruega com
+dados para 53 distritos policiais, tendo sido medida a taxa de crimes (crime) para os anos 1972 e 1978.
+A variável explicativa foi definida como a porcentagem dos crimes que resultaram em prisão (pcp). O modelo
+com controle para efeitos fixos foi especificado como
+log (crime) = (Bo + do DT78, + Ba pepit + Dopepito+Ai++Uir
+em que D78, é uma variável dummy com valor igual a 1 para o ano 1978 e zero para 1972; d;
+corresponde ao controle para os efeitos fixos e u,; ; corresponde aos resíduos da regressão. Utilizando-se a
+primeira diferença da equação acima, a estimação resultou em
+Alog (crime) = 0,086 — 0,004Apcp..1 — 0,0132Apcp
+Rº = 0,193 (1,34) (0,85) (2,54)
+Os módulos dos valores entre parênteses são, respectivamente, as estatísticas / calculadas para cada um dos
+coeficientes estimados e o valor 1, tabelado ao nível de significância de 5%, é igual a 2,00.
+Considerando os resultados do estudo descrito acima e a influência das prisões sobre a criminalidade,
+conclui-se que
+O o modelo explica 0,193% da variabilidade da variável dependente, conforme o coeficiente de determinação.
+O os crimes seriam declinantes, conforme a constante estimada, na ausência de prisões no período considerado.
+O um aumento de 10% nas prisões resultaria, em média, em uma queda de 1,32% na taxa de crimes com
+dois períodos de defasagem.
+O as prisões efetuadas no ano de 1972 têm efeito negativo e são estatisticamente significativas, ao nível de
+significância de 0,05, para a redução da criminalidade.
+O as prisões efetuadas com a defasagem de dois períodos têm efeito negativo e exercem efeito significativo,
+ao nível de significância de 0,05, para a redução da criminalidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

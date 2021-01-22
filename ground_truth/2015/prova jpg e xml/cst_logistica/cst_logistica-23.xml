@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T20:18:20</Created>
+	<LastChange>2020-11-18T21:02:48</LastChange></Metadata>
+	<Page imageFilename="cst_logistica-23.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,233 80,234 1536,234 1536,264 1534,264 1534,532 960,532 960,1076 1497,1076 1497,1248 1505,1248 1505,1342 1534,1342 1534,1364 1533,1364 1533,1465 129,1465 129,1464 128,1464 128,1364 80,1364 80,1076 203,1076 203,532 80,532 80,493 79,493 79,307 80,307"/>
+	<TableRegion id="r1">
+	<Coords points="176,560 176,952 1442,952 1442,560"/></TableRegion>
+	<TextEquiv conf="0.42912">
+	<Unicode>QUESTÃO 24
+Uma empresa atua no comércio eletrônico, atendendo ao Brasil inteiro. Ela possui mais de 300 000 SKUs (*)
+e pretende duplicar este número nos próximos dez anos. Para que este crescimento planejado aconteça de
+forma sustentável, a organização fez uma pesquisa para entender os itens mais críticos e os impactos que
+geram no resultado final e, com isso, tomar decisões para os possíveis ajustes. O quadro a seguir apresenta
+alguns dados da pesquisa.
+(*)SKU: Stock Keeping Unit, em português: Unidade de Manutenção de Estoque.
+Legenda: +2 = bom; +1 = regular; -1 = ruim; -2 = péssimo
+Considerando essa situação hipotética e os dados apresentados, é correto concluir que a empresa deverá
+O minimizar a responsividade do pós-venda, do follow up e da troca de produtos incorretos.
+O extinguir a área de pós-vendas, uma vez que ela não contribui para os objetivos planejados.
+aumentar o tempo de lançamento dos produtos ao mercado, pois essa variável gera um impacto bom.
+O criar um departamento de logística reversa, visto que as variáveis mais problemáticas estão
+associadas a ela.
+reduzir a variedade de produtos, pois o impacto que essa variável gera é insignificante para uma cadeia
+de suprimentos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

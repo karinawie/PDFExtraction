@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:13:20</Created>
+	<LastChange>2020-12-06T03:25:27</LastChange></Metadata>
+	<Page imageFilename="42_tecnologia_gestao_producao_industrial-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="893,299 1064,299 1064,356 1599,356 1599,667 1601,667 1601,1039 1600,1039 1600,1040 1599,1040 1599,1373 1598,1373 1598,1461 1488,1461 1488,1508 894,1508 894,1196 893,1196 893,667 894,667 894,565 893,565"/>
+	<TextEquiv conf="0.96447">
+	<Unicode>QUESTÃO 12
+A globalização da economia tornou necessária a
+padronização dos requisitos de Sistemas de Garantia
+da Qualidade. Em 1987, foram editadas as normas
+internacionais, mundialmente conhecidas como
+Normas da Série ISO 9000, que possibilitaram a
+padronização desses requisitos em todo o mundo.
+Disponível em: &lt;http://www.inmetro.gov.br&gt;.
+Acesso em: 30 jul. 2014 (adaptado).
+Acerca do conjunto de ações embasadas em padrões
+da série ISO 9000, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. A utilização das normas da série ISO 9000
+garantem o atendimento da satisfação do
+cliente/consumidor.
+PORQUE
+Il. O uso de normas como a ISO 9000 favorece
+a habilitação de empresas para mercados
+internacionais.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,355 851,355 851,1536 532,1536 532,1639 384,1639 384,1814 146,1814 146,1107 145,1107"/>
+	<ImageRegion id="r3">
+	<Coords points="147,530 147,863 850,863 850,530"/></ImageRegion>
+	<TextEquiv conf="0.96643">
+	<Unicode>QUESTÃO 11
+A redução de custos associada a elevados níveis de
+serviço gera vantagens competitivas para empresas.
+O gráfico abaixo demonstra uma relação direta entre
+custo total, custo de transporte e custo de estoque.
+Considerando a influência do custo total no nível
+de serviço e a existência de trade-off (princípio
+das compensações) entre os elementos de custos
+envolvidos, avalie as afirmações a seguir.
+|. O custo de estoque é influenciado pelo
+planejamento da demanda do produto.
+Il. Os estoques de segurança têm por finalidade
+evitar O atraso na entrega do produto ao
+mercado, para não gerar transtornos aos
+clientes por falta de material e perda de
+vendas para a concorrência.
+Ill. Os custos de transporte são minizados
+quando as distâncias para realizar entregas
+aos clientes são reduzidas com a utilização de
+depósitos ou centros de distribuição.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,2080 872,288"/></SeparatorRegion></Page></PcGts>

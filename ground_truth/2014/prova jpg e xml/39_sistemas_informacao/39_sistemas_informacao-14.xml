@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:57:29</Created>
+	<LastChange>2020-12-06T02:08:19</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1599,359 1599,849 1598,849 1598,1293 1599,1293 1599,1752 146,1752 146,1219 145,1219 145,1110 146,1110 146,468 145,468"/>
+	<ImageRegion id="r1">
+	<Coords points="447,472 447,719 1258,719 1258,472"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="233,875 233,1091 1491,1091 1491,875"/></ImageRegion>
+	<TextEquiv conf="0.96481">
+	<Unicode>QUESTÃO 13
+Na figura 1, abaixo, está representado, esquematicamente, um processo de tradução de um programa
+(arquivo fonte) em um código binário. Esse processo de compilação clássica é utilizado em compiladores
+como os das linguagens C e Pascal.
+Na figura 2, abaixo, está representado, esquematicamente, um processo de tradução de um programa
+(arquivo fonte) em um código intermediário. Esse processo híbrido é utilizado em compiladores como os das
+linguagens Java e CH.
+Considerando que, em ambos os processos, o código binário é o que será executado pelo computador,
+e que a execução de dois programas gerados, cada qual por um dos processos apresentados, ocorre em
+situações equivalentes, avalie as afirmações a seguir.
+|. Há portabilidade para a execução de ambos os programas gerados em cada processo.
+Il. Na execução do programa gerado por meio do processo híbrido, o consumo de memória é maior que
+na execução pelo processo de compilação clássica.
+Ill. O desempenho na execução do programa gerado pelo processo de compilação clássica é melhor que
+na execução pelo processo híbrido.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+Oem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

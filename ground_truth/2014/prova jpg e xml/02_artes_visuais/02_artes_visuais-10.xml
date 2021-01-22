@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T17:27:46</Created>
+	<LastChange>2020-09-24T17:28:00</LastChange></Metadata>
+	<Page imageFilename="02_artes_visuais-10.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="412,238 412,269 84,269 84,238"/>
+	<TextEquiv conf="0.96675">
+	<Unicode>QUESTÃO DISCURSIVA 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="83,756 1536,756 1536,930 1537,930 1537,981 1536,981 1536,1102 85,1102 85,1103 84,1103 84,1038 85,1038 85,925 83,925"/>
+	<TextEquiv conf="0.96354">
+	<Unicode>As imagens de Sebastião Salgado e Diego Rivera têm como pano de fundo o trabalho com a colheita.
+Na imagem de Sebastião Salgado, o autor capta os gestos tradicionais do cultivo, colheita e secagem do café.
+Rivera, por sua vez, apresenta um trabalhador na colheita de flores. Apesar de serem de suportes diferentes,
+fotografia e pintura respectivamente, as imagens trazem semelhanças entre si, principalmente em relação à
+visualidade dada ao tema colheita, uma prática cotidiana do sujeito do campo.
+. . . . NEWBERY, E. Como e por que se faz arte. São Paulo: Ática, 2003 (adaptado).
+Redija um texto dissertativo a respeito do tema:
+Cotidiano e visualidades no ensino das Artes Visuais.
+Em sua resposta, considere as diferentes imagens que permeiam o cotidiano dos sujeitos na
+contemporaneidade, relacionando-as com o ensino das artes visuais. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="160,281 160,736 726,736 726,281"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="968,302 968,742 1371,742 1371,302"/></ImageRegion></Page></PcGts>

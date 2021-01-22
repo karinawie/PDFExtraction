@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-04T22:38:07</Created>
+	<LastChange>2020-12-04T23:51:06</LastChange></Metadata>
+	<Page imageFilename="29_letras_portugues_bacharelado-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="146,299 316,299 316,359 1128,359 1128,388 144,388 144,359 145,359 145,329 146,329"/>
+	<TextEquiv conf="0.95974">
+	<Unicode>QUESTÃO 17
+Assinale a opção que melhor expressa as ideias desenvolvidas no texto 2.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="141,400 141,769 877,769 877,400"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="136,777 136,1152 1019,1152 1019,777"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="122,1155 122,1466 977,1466 977,1155"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="122,1472 122,1736 1075,1736 1075,1472"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="119,1738 119,2052 930,2052 930,1738"/></ImageRegion></Page></PcGts>

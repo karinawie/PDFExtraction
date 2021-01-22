@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:17:39</Created>
+	<LastChange>2020-11-22T03:24:15</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-30.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1538,298 1538,409 1537,409 1537,545 1427,545 1427,1136 1505,1136 1505,1184 1537,1184 1537,1273 1538,1273 1538,1601 1537,1601 1537,1602 234,1602 234,1648 84,1648 84,1109 83,1109 83,1014 84,1014 84,408 83,408 83,298 84,298"/>
+	<ImageRegion id="r1">
+	<Coords points="239,565 239,1057 1392,1057 1392,565"/></ImageRegion>
+	<TextEquiv conf="0.96069">
+	<Unicode>QUESTÃO 35
+Um estudante realiza um experimento com um gás rarefeito, que consiste em colocar o gás em um forno a
+volume constante e à temperatura inicial de 20 K Em seguida, ele mede o calor fornecido ao gás em função
+de sua temperatura.
+O resultado do experimento está representado na figura abaixo, que ilustra o gráfico da energia absorvida,
+AQ, pelo número de mols do gás, n, e pela constante universal dos gases, R, versus a temperatura absoluta,
+T ,em kelvins.
+T(K)
+A partir das informações acima, avalie as afirmações a seguir feitas pelo estudante em seu relatório.
+|. O gás é diatômico, com três graus de liberdade de translação e dois graus de liberdade rotacionais.
+Il. O gás apresenta, nos intervalos aproximados de temperatura de 20 Ka 120 Ke de 180 Ka 300 K,
+valores de calor específico a volume constante iguais 1,5 Re 2,5 R, respectivamente.
+Ill. No intervalo de temperatura de 120 Ka 180 K, há ganho significativo de energia cinética rotacional nas
+moléculas do gás, que origina a mudança de calor específico a volume constante.
+É correto o que se afirma em</Unicode></TextEquiv></TextRegion></Page></PcGts>

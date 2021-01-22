@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:43:13</Created>
+	<LastChange>2020-11-21T03:50:59</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,241 255,241 255,305 1539,305 1539,513 1538,513 1538,2006 84,2006"/>
+	<ImageRegion id="r1">
+	<Coords points="334,523 334,1278 1284,1278 1284,523"/></ImageRegion>
+	<TextEquiv conf="0.96289">
+	<Unicode>QUESTÃO 33
+Um município planeja implantar um condomínio com 300 unidades habitacionais para fins de moradia popular
+em uma área de sua propriedade. Duas modalidades de construção estão em estudo: 300 casas térreas ou
+25 prédios de 4 pavimentos. Inicialmente, foram realizados ensaios do tipo CPT (Cone Penetration Test). Os
+resultados típicos representativos do terreno são apresentados na figura a seguir, em que q, e f, representam
+as resistências de ponta e lateral, respectivamente, e R é a relação entre essas resistências.
+Com relação à viabilidade técnica e econômica desse projeto, a partir das características do terreno
+apresentadas acima, conclui-se que
+O a opção pelas casas térreas demanda fundações superficiais no terreno, enquanto a opção por prédios de
+4 pavimentos demanda fundações profundas, portanto mais caras.
+O as duas opções em estudo demandam fundações superficiais no terreno, sendo necessário o prévio
+dimensionamento de cada uma delas para se avaliar a sua viabilidade econômica.
+O as duas opções em estudo demandam fundações profundas no terreno, sendo indispensável o
+dimensionamento dessas duas modalidades de fundação para se avaliar a viabilidade econômica de cada
+uma delas.
+O as duas opções em estudo demandam fundações profundas no terreno, mas como as dimensões das
+fundações dos prédios terão que ser maiores, o custo das fundações por unidade habitacional será mais
+alto para os prédios que para as casas térreas.
+O as duas opções em estudo demandam fundações profundas no terreno, mas as dimensões das fundações
+de ambas edificações serão similares, fazendo com que o custo das fundações por unidade habitacional
+para os prédios seja menor que para as casas térreas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

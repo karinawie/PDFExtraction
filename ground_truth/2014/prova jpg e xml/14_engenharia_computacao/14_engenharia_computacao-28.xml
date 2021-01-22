@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:14:32</Created>
+	<LastChange>2020-11-21T19:19:27</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-28.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1537,298 1537,426 1538,426 1538,495 1524,495 1524,606 1322,606 1322,769 1321,769 1321,770 1053,770 1053,960 1169,960 1169,1016 1536,1016 1536,1506 934,1506 934,1672 574,1672 574,1737 218,1737 218,1979 217,1979 217,1980 84,1980 84,1759 85,1759 85,1702 86,1702 86,1703 217,1703 217,1506 132,1506 132,960 217,960 217,769 83,769 83,686 84,686"/>
+	<TextEquiv conf="0.90566">
+	<Unicode>QUESTÃO 34
+Suponha que um banco de investimentos possua um sistema que controla, para cada cliente, os tipos de
+investimentos que eles mesmos realizam ao longo do tempo. Cada cliente pode ter apenas uma aplicação de
+cada tipo de investimento oferecido pelo banco.
+Considere as tabelas Cliente, Tipolnvestimento e Investimento pertencentes a um modelo relacional do
+sistema citado (as chaves primárias estão sublinhadas).
+Cliente (codCliente, nomeCliente, enderCliente, cidadeCliente, anoIngressoCliente)
+TipoInvestimento (codInvestimento, descricaoInvestimento, taxaRemuneracao)
+Investimento (codCliente, codInvestimento, valor, dataDeposito)
+A partir do modelo relacional apresentado, avalie as afirmações a seguir.
+|. O comando SQL que lista todos os pares de clientes que residem na mesma cidade é:
+select cl.NomeCliente, c2.NomeCliente
+from Cliente cl, Cliente c2
+where cl.CidadeCliente = c2.CidadeCliente
+and cl.CodCliente &lt; c2.CodCliente;
+Il. O comando SQL que retorna, para cada cidade, os clientes mais antigos é:
+select codCliente, nomeCliente, cidadeCliente, anoIngressoCliente
+from Cliente
+where anoIngressoCliente in (select min(anoIngressoCliente)
+from Cliente
+group by cidadeCliente);
+Ill. O comando SQL que retorna, para cada cidade (de um cliente), o ano de ingresso mais antigo, porém
+apenas para as cidades com mais de um cliente, é:
+select cidadeCliente, min(AnoIngressoCliente)
+from Cliente
+group by cidadeCliente
+having count(*) &gt; 1;
+IV. O comando SQL que retorna o maior valor de cada investimento de cada cliente é:
+select codCliente, max(valor)
+from Cliente c, Investimento i
+where c.codCliente = i.codCliente
+group by codCliente,codInvestimento
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion></Page></PcGts>

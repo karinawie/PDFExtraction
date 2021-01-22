@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:44:16</Created>
+	<LastChange>2020-11-21T03:55:27</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-21.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,1013 1467,1013 1467,1387 211,1387 211,1632 84,1632 84,1411 85,1411 85,485 83,485 83,297 84,297"/>
+	<ImageRegion id="r1">
+	<Coords points="426,494 426,907 1165,907 1165,494"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="300,1031 300,1328 1323,1328 1323,1031"/></TableRegion>
+	<TextEquiv conf="0.96370">
+	<Unicode>QUESTÃO 23
+Um importante corredor de transporte em uma cidade de porte médio apresenta pista dupla com três faixas
+de tráfego por sentido. Nele, operam três linhas de ônibus (ADEDA, BDEDB e CDEDC), conforme ilustra a
+figura abaixo. O órgão municipal responsável pela gestão do sistema de transporte público de passageiros
+pretende construir um terminal de integração no ponto D, no qual passarão a operar as linhas alimentadoras
+ADA, BDB e CDC e a linha troncal DED, esta em faixa exclusiva.
+Para esse fim, foi realizada uma pesquisa de origem e destino nas linhas ADEDA, BDEDB e CDEDC, cujos
+resultados, em termos de demanda diária (passageiros por dia), estão indicados no quadro abaixo.
+Nessas condições, a demanda diária prevista para a linha troncal DED, em passageiros por dia, é igual a
+O 2700.
+O 3600.
+O 5400.
+O 656300.
+OQ 7 200.</Unicode></TextEquiv></TextRegion></Page></PcGts>

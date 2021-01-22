@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:53:27</Created>
+	<LastChange>2020-12-06T03:05:37</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-12.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="145,299 473,299 473,359 1599,359 1599,563 1316,563 1316,691 981,691 981,755 146,755 146,756 145,756 145,495 146,495 146,330 145,330"/>
+	<TextEquiv conf="0.96347">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Uma planta industrial é controlada por um controlador lógico programável (CLP) e todo o processo é
+monitorado por um sistema supervisório, no qual é possível observar os valores das variáveis de processo.
+Uma delas é a vazão, cuja variável manipulada para seu controle é a abertura de uma válvula proporcional.
+Considerando-se uma situação em que uma perturbação faça com que o valor da vazão saia do seu valor de
+referência ajustado (set point), responda às seguintes perguntas.
+a) Quais devem ser as ações executadas pelo sistema supervisório? (valor: 4,0 pontos)
+b) Quais devem ser as ações do CLP? (valor: 3,0 pontos)
+c) Quais devem ser as ações do operador? (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

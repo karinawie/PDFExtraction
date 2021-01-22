@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T06:10:49</Created>
+	<LastChange>2020-11-16T01:08:08</LastChange></Metadata>
+	<Page imageFilename="04_ciencias_economicas-37.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,169 1535,169 1535,482 715,482 715,611 1135,611 1135,655 770,655 770,779 1050,779 1050,814 968,814 968,964 1533,964 1533,1039 1090,1039 1090,1134 1031,1134 1031,1274 1534,1274 1534,1349 1131,1349 1131,1496 1534,1496 1534,1617 466,1617 466,1687 321,1687 321,2000 320,2000 320,2001 80,2001 80,2000 81,2000 81,1653 129,1653 129,1348 81,1348 81,1347 80,1347 80,1274 176,1274 176,1039 81,1039 81,964 636,964 636,814 572,814 572,730 81,730 81,729 80,729 80,701 509,701 509,560 81,560 81,559 80,559 80,481 81,481 81,265 80,265"/>
+	<TextEquiv conf="0.81737">
+	<Unicode>QUESTÃO 33
+Sabe-se que o aumento de anos de experiência em certas atividades profissionais acarretam acréscimos
+salariais. Porém, acredita-se que esses acréscimos sejam descrescentes ao longo dos anos. Para estudar esse
+problema, foi obtida, a partir de uma amostra aleatória de 526 indivíduos, os dados de salário por hora (w),
+medidos em Reais (R$), e a experiência (x), medida em anos de exercício na profissão.
+O modelo econométrico foi especificado como:
+w = Bo + fix + Bor? + uu N(0,0?)
+Os resultados encontrados para a estimação foram:
+TD = 3,73 + 0,298 — 0,0061x?
+(0,35) (0,041)(0,0009)
+Nessa expressão, a probabilidade exata do teste / para cada parâmetro estimado encontra-se,
+respectivamente, entre parênteses (p-valor). Considere as seguintes hipóteses:
+Hç= a experiência não tem efeito sobre o salário ao longo dos anos;
+Hi=a experiência tem efeito sobre o salário ao longo dos anos.
+Considerando o comportamento do salário em relação à experiência, tendo em conta os resultados
+encontrados, avalie as afirmações a seguir.
+|. Não é possível rejeitar Ho ao nível de significância de 5%.
+Il. Em face dos resultados, ao nível de significância de 1%, rejeita-se a Hp.
+Ill. Ao serem representados graficamente os resultados acima, em que o salário por hora é função da
+experiência, observa-se que, inicialmente, a experiência pode exercer uma influência crescente sobre
+o salário, porém, após alguns anos, passa a ser decrescente.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion></Page></PcGts>

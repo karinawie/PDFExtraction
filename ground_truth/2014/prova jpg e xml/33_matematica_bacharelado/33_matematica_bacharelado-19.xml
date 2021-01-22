@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-05T22:31:03</Created>
+	<LastChange>2020-12-05T22:41:14</LastChange></Metadata>
+	<Page imageFilename="33_matematica_bacharelado-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,508 1346,508 1346,650 1599,650 1599,1297 1600,1297 1600,1366 1280,1366 1280,1414 1083,1414 1083,1533 1132,1533 1132,1660 894,1660 894,1437 895,1437 895,1380 942,1380 942,1015 893,1015 893,879 892,879 892,650 1164,650 1164,508 893,508"/>
+	<TextEquiv conf="0.96638">
+	<Unicode>QUESTÃO 24
+Um pesquisador necessita da solução de uma
+equação diferencial ordinária para implementar em
+seu código computacional. Resolvendo por meio de
+série de potências, ele encontra a seguinte solução:
+oo
+xo
+y = na
+n=1 nº
+O pesquisador necessita que a solução seja
+computada com uma precisão de 0,01 no intervalo
+—2 &lt; x &lt; 2. Para isso, ele escreve os primeiros
+200 termos da série no código. No entanto, ao
+rodar o programa nesse intervalo, ele percebe um
+comportamento anômalo.
+Considerando que o pesquisador não tenha cometido
+erro ao implementar a série, avalie as afirmações a
+seguir.
+|. A série não pode representar uma solução
+no intervalo —2 &lt; x &lt; 2, pois diverge para
+|x|&gt;1
+Il. São necessários mais termos do que os que o
+pesquisador escreveu para atingir a precisão
+requerida no intervalo -L &lt; x &lt; 1.
+Ill. A precisão 0,01 não pode ser atingida por
+essa série de potências.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 1I1em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,362 851,362 851,1066 539,1066 539,1131 327,1131 327,1258 424,1258 424,1391 146,1391 146,1157 147,1157 147,1097 194,1097 194,915 240,915 240,757 194,757 194,434 144,434 144,362 145,362"/>
+	<TextEquiv conf="0.95966">
+	<Unicode>QUESTÃO 23
+Avalie as seguintes afirmações a respeito das
+estruturas algébricas.
+l Se I] é um ideal de Z,
+I=mZ=(íma:aEZ), para
+mez.
+Il. O conjunto das classes de equivalência módulo
+n, Dr = L/nZ, para nº primo, munido das
+operações usuais de adição e multiplicação,
+é um corpo.
+III.O conjunto dos números complexos com
+parte real nula, munido da operação usual de
+adição, forma um grupo abeliano.
+IV. O conjunto das matrizes quadradas de ordem
+2 com entradas reais, munido das operações
+usuais de adição e multiplicação, é um anel
+não comutativo com unidade.
+É correto o que se afirma em
+O |, apenas.
+O 1l, apenas.
+O 1, Ill elV, apenas.
+O Il, Il e IV, apenas.
+O LI,NMeIv</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="866,291 866,2080 875,2080 875,291"/></SeparatorRegion></Page></PcGts>

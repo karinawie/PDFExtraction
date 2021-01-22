@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-07T01:02:32</Created>
+	<LastChange>2020-11-07T02:11:51</LastChange></Metadata>
+	<Page imageFilename="cst_processos_gerenciais-16.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r4">
+	<Coords points="333,1084 334,1681 1281,1680 1280,1083"/></ImageRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="80,233 1536,233 1536,264 1535,264 1535,1006 1285,1006 1285,1728 502,1728 502,1784 298,1784 298,1999 80,1999 80,1729 79,1729 79,308 80,308"/>
+	<TextEquiv conf="0.96416">
+	<Unicode>QUESTÃO 12
+A literatura apresenta algumas técnicas de mapeamento com diferentes enfoques, tornando a correta
+interpretação dessas técnicas fundamental no processo de mapeamento. Entre as diversas técnicas de
+mapeamento, podemos citar:
+SIPOC: ferramenta usada por um time para identificar todos os elementos pertinentes de um projeto
+de melhoria de processo antes de o trabalho começar.
+Blueprinting: fluxograma que representa todas as transações integrantes do processo de prestação de
+serviço.
+Fluxograma: técnica que permite o registro de ações de algum tipo e pontos de tomada de decisão que
+ocorrem no fluxo real.
+Mapofluxograma: fluxograma desenhado sobre a planta de um edifício ou layout, para se visualizar
+melhor o processo.
+Diagrama homem-máquina: tem por objetivo o estudo da inter-relação entre o trabalho do
+homem e o da máquina, identificando os tempos ociosos de ambos e balanceando a atividade do
+posto de trabalho.
+IDEFO: diagramas utilizados para modelar decisões, ações e atividades de uma organização.
+DE MELLO, A, E, N. S. Aplicação do Mapeamento de Processos e da simulação no desenvolvimento
+de projetos de processos produtivos. Itajubá: UNIFEI, 2008 (adaptado).
+A seguir, está ilustrada uma técnica de mapeamento de processo.
+A partir dessas informações, conclui-se que a figura acima representa símbolos usados no
+O diagrama homem-máquina.
+O fluxograma.
+O blueprinting.
+O siPOC.
+O IDEFO.</Unicode></TextEquiv></TextRegion></Page></PcGts>

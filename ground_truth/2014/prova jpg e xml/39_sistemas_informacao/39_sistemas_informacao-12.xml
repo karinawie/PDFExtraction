@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:57:54</Created>
+	<LastChange>2020-12-06T02:09:39</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-12.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,535 1600,535 1600,844 1599,844 1599,948 1415,948 1415,1115 1598,1115 1598,1202 1612,1202 1612,1274 893,1274 893,1202 894,1202 894,948 893,948"/>
+	<TextEquiv conf="0.96605">
+	<Unicode>QUESTÃO 10
+A área de complexidade de algoritmos abrange a
+medição da eficiência de um algoritmo frente à
+quantidade de operações realizadas até que ele
+encontre seu resultado final.
+A respeito desse contexto, suponha que um
+arquivo texto contenha o nome de N cidades de
+determinado estado, que cada nome de cidade
+esteja separado do seguinte por um caracter
+especial de fim de linha e classificado em ordem
+alfabética crescente. Considere um programa
+que realize a leitura linha a linha desse arquivo, à
+procura de nome de cidade.
+Com base nessa descrição, verifica-se que a
+complexidade desse programa é
+O O(1), em caso de busca sequencial.
+O O(N), em caso de busca sequencial.
+o O(log,N), em caso de busca binária.
+O O(N), em caso de transferência dos nomes para
+uma árvore binária e, então, realizar a busca.
+O O(logN), em caso de transferência dos nomes
+para uma árvore binária e, então, realizar a busca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,299 316,299 316,356 851,356 851,492 850,492 850,603 851,603 851,916 698,916 698,1005 407,1005 407,1003 177,1003 177,1159 218,1159 218,1208 851,1208 851,1343 633,1343 633,1396 273,1396 273,1507 357,1507 357,1508 358,1508 358,1532 272,1532 272,1648 633,1648 633,1676 272,1676 272,1790 357,1790 357,1815 272,1815 272,2033 202,2033 202,1537 146,1537 146,1344 145,1344 145,1208 146,1208 146,917 144,917 144,780 145,780 145,691 146,691 146,603 147,603 147,493 144,493 144,356 145,356"/>
+	<TextEquiv conf="0.96192">
+	<Unicode>QUESTÃO 09
+Considere uma situação em que um professor que
+queira saber se existem alunos cursando, ao mesmo
+tempo, as disciplinas A e B, tenha implementado um
+programa que:
+1) inicializa um array a de 30 posições que contém
+as matrículas dos alunos da disciplina A;
+2) inicializa outro array b de 40 posições, que
+contém as matrículas dos alunos da disciplina B;
+3) imprime a matrícula dos alunos que estão
+cursando as disciplinas A e B ao mesmo tempo.
+Considere, ainda, que os arrays foram declarados e
+inicializados, não estão necessariamente ordenados,
+e seus índices variam entre O e n— 1, sendo n o
+tamanho do array.
+for (i=
+for (
+0 to29) |
+j=0to39) (
+1
+2
+3-
+4,
+5
+6
+TO)
+Com base nessas informações, conclui-se que
+o trecho a ser incluído nas linhas 3, 4 e 5 do
+código acima, para que Oo programa funcione
+corretamente, é
+O 3. if (a[i] == b[3])
+4, print(a[i]l);
+)
+o if (a
+if (a[li] == b[3]) (
+if (a
+Ms UBRQ UBE MQW UBRQO O
+—</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,2080 872,291"/></SeparatorRegion></Page></PcGts>

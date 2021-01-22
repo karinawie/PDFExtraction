@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:18:47</Created>
+	<LastChange>2020-11-22T03:29:00</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1538,297 1538,1248 1218,1248 1218,1365 1061,1365 1061,1477 1070,1477 1070,1509 982,1509 982,1555 832,1555 832,1276 880,1276 880,958 832,958 832,767 831,767 831,297 832,297"/>
+	<TextEquiv conf="0.96528">
+	<Unicode>QUESTÃO 25
+Em geral, o efeito estufa é entendido como o
+processo pelo qual parte da energia infravermelha
+— emitida pela superfície do planeta e absorvida
+por determinados gases atmosféricos — é irradiada
+de volta, o que torna a temperatura da superfície
+da Terra mais elevada do que seria sem a presença
+da atmosfera. Porém, para a termodinâmica, a
+transferência de calor via condução e convecção é
+mais efetiva para o aquecimento da atmosfera e,
+portanto, a radiação infravermelha emitida pela
+superfície é capaz de aquecer apenas uma fração dos
+gases atmosféricos radiativamente ativos.
+Considerando os aspectos termodinâmicos, avalie as
+afirmações a seguir.
+|. A radiação térmica da atmosfera é resultado
+da sua temperatura e não a causa.
+ll. Uma quantidade de radiação superior à
+energia solar absorvida pela superfície do
+planeta causa aquecimento adicional da Terra.
+Il. A radiação infravermelha resultante da
+temperatura da superfície do planeta não
+pode induzir aquecimento adicional sobre a
+sua fonte.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 111el,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,297 789,297 789,1164 791,1164 791,1702 790,1702 790,1703 470,1703 470,1815 322,1815 322,2010 84,2010 84,487 83,487 83,297 84,297"/>
+	<ImageRegion id="r2">
+	<Coords points="147,502 147,1039 789,1039 789,502"/></ImageRegion>
+	<TextEquiv conf="0.95836">
+	<Unicode>QUESTÃO 24
+O cotidiano é repleto de máquinas térmicas:
+automóveis com motor de combustão interna,
+aparelhos de ar condicionado e refrigeradores.
+A figura abaixo representa o diagrama pV de uma
+máquina térmica que opera segundo o ciclo de Brayton.
+Considerando o diagrama pV representado na figura,
+avalie as afirmações a seguir.
+|. A área da região delimitada pela curva da
+figura é igual ao trabalho realizado sobre o
+gás para extrair calor (Q,) de um reservatório
+frio e rejeitar uma quantidade maior de calor
+(Q,) para o reservatório quente.
+Il. O gás deve sofrer uma expansão adiabática
+no processo de 2 para 1 para que sua
+temperatura fique abaixo da temperatura do
+reservatório frio.
+Ill. O gás deve sofrer uma compressão adiabática
+no processo de 4 para 3 para que sua
+temperatura fique acima da temperatura do
+reservatório quente.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="807,226 807,2015 810,2015 810,226"/></SeparatorRegion></Page></PcGts>

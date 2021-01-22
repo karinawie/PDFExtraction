@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T00:14:48</Created>
+	<LastChange>2020-12-06T00:21:18</LastChange></Metadata>
+	<Page imageFilename="34_matematica_licenciatura-11.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 473,299 473,360 1598,360 1598,408 1599,408 1599,590 1585,590 1585,926 1599,926 1599,1276 146,1276 192,1276 192,1003 145,1003 145,976 457,976 457,590 146,590 146,552 145,552"/>
+	<TextEquiv conf="0.95559">
+	<Unicode>QUESTÃO DISCURSIVA 5
+A Torre de Hanói foi inventada por Edouard Lucas em 1883. Há uma história sobre a Torre, imaginada pelo próprio Lucas:
+No começo dos tempos, Deus criou a Torre de Brahma, que contém três pinos de diamante e colocou no primeiro
+pino 64 discos de ouro maciço. Deus, então, chamou seus sacerdotes e ordenou-lhes que transferissem todos os discos
+para o terceiro pino, seguindo certas regras. Os sacerdotes, então, obedeceram e começaram o seu trabalho, dia e noite.
+Quando eles terminassem, a Torre de Brahma iria ruir e o mundo acabaria.
+Disponível em: &lt;http://www.obm.or.br&gt; (adaptado). Acesso em: 17 set. 2014.
+Esse é um dos quebra-cabeças matemáticos mais populares, que consiste de n discos com um
+furo em seu centro e de tamanhos diferentes e de uma base com três pinos na posição vertical
+onde são colocados os discos. O jogo mais simples é constituído de três pinos, mas a quantidade
+pode variar, deixando o jogo mais difícil à medida que o número de discos aumenta. Os discos
+formam uma torre onde todos são colocados em um dos pinos em ordem decrescente de
+tamanho. O objetivo do quebra-cabeça é transferir toda a torre de discos para um dos outros
+pinos, que estão inicialmente vazios, de modo que cada movimento é feito somente com um
+disco, nunca havendo um disco maior sobre um disco menor, como mostra a figura ao lado.
+Disponível em: &lt;http://www.puzzlesdeingenio.com&gt;. Acesso em: 17 set. 2014.
+Considerando uma Torre de Hanói de 3 pinos, faça o que se pede nos itens a seguir.
+a) Aoplanejar uma aula de matemática utilizando-se a Torre de Hanói, quais seriam os objetivos a serem alcançados
+de acordo com os Parâmetros Curriculares Nacionais e o que se espera com o uso de jogos no processo de
+ensino-aprendizagem? (valor: 3,0 pontos)
+b) Citetrês conceitos matemáticos da Educação Básica que podem ser explorados em sala de aula utilizando-se a
+Torre de Hanói? (valor: 3,0 pontos)
+c) Obtenha uma fórmula para o número mínimo de movimentos necessários para resolver a Torre de Hanói com
+discos. Justifique a sua resposta. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="138,611 138,936 436,936 436,611"/></ImageRegion></Page></PcGts>

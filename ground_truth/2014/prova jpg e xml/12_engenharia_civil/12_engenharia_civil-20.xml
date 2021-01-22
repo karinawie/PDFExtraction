@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:44:28</Created>
+	<LastChange>2020-11-21T03:56:18</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1539,298 1539,998 1537,998 1537,1128 1538,1128 1538,1198 943,1198 943,1443 832,1443 832,1119 831,1119 831,1024 834,1024 834,608 832,608 832,299 831,299 831,298 832,298"/>
+	<TextEquiv conf="0.96926">
+	<Unicode>QUESTÃO 22
+Visando o dimensionamento de um bueiro em
+uma ferrovia, o engenheiro encarregado do estudo
+hidrológico optou pela utilização do Método
+Racional, cuja equação é dada por Q = C.I.A, em
+que Q é a vazão, C é o coeficiente de escoamento
+superficial, 7 é a intensidade da chuva na região e À
+é a área da bacia hidrográfica. Nesse estudo, foram
+coletadas as informações a seguir.
+*º Em 40% da área da bacia, o valor de C a ser
+adotado é igual a 0,2 e, no restante da área, 0,5.
+* A intensidade da chuva na região (em mm/h) é
+obtida pela equação 1 = 400 TRº* /t, em que TR
+é o tempo de recorrência ou período de retorno
+(em anos), adotado igual a 25 anos; t é o tempo
+de duração da chuva ou tempo de concentração
+(em minutos), estimado em 20 minutos, em razão
+das características da bacia hidrográfica.
+*º Aáreada bacia hidrográfica é igual a 0,72 km?.
+A partir dos dados coletados no estudo hidrográfico,
+a vazão Q de projeto para o dimensionamento do
+bueiro, em litros por segundo, será de
+O 7,6.
+O 14,4.
+O 25,2.
+O 27,4.
+O 36,0.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="83,238 254,238 254,297 789,297 789,298 790,298 790,688 788,688 788,1435 387,1435 387,1680 84,1680 84,1681 84,1435 83,1435 83,689 82,689 82,637 83,637"/>
+	<ImageRegion id="r3">
+	<Coords points="113,776 113,1250 768,1250 768,776"/></ImageRegion>
+	<TextEquiv conf="0.96764">
+	<Unicode>QUESTÃO 21
+Segundo a definição da NBR 6118:2014, vigas “são
+elementos lineares em que a flexão é preponderante”.
+Sua função é basicamente vencer vãos e transmitir
+as ações nelas atuantes para os apoios. Para tanto,
+as armaduras das vigas são geralmente compostas
+por estribos, chamados “armadura transversal”,
+e por barras longitudinais, chamadas “armadura
+longitudinal”.
+Associação Brasileira de Normas Técnicas. NBR 6118 - Projeto e execução
+de obras de concreto armado, ABNT, Rio de Janeiro, 2003
+Considere a figura a seguir.
+Para a viga representada acima, assinale a alternativa
+que apresenta corretamente o comprimento total da
+armadura longitudinal e da armadura transversal,
+respectivamente.
+O 9,54 m e 17,20 m.
+O 9,54 m e 20,00 m.
+O 19,08 m e 17,20 m.
+O 19,08 m e 20,00 m.
+OQ 20,00 m e 19,08 m.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="813,2010 813,234"/></SeparatorRegion></Page></PcGts>

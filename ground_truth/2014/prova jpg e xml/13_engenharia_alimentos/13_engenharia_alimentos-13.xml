@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T04:11:02</Created>
+	<LastChange>2020-11-21T04:35:19</LastChange></Metadata>
+	<Page imageFilename="13_engenharia_alimentos-13.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,238 255,238 255,293 1538,293 1538,869 1286,869 1286,1722 1537,1722 1537,1786 162,1786 162,2012 84,2012 84,869 83,869 83,293 84,293"/>
+	<TableRegion id="r1">
+	<Coords points="455,481 455,794 1165,794 1165,481"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="457,1407 457,1700 1157,1700 1157,1407"/></TableRegion>
+	<ImageRegion id="r3">
+	<Coords points="502,871 502,1360 1136,1360 1136,871"/></ImageRegion>
+	<TextEquiv conf="0.96177">
+	<Unicode>QUESTÃO 11
+A DBO (Demanda Bioquímica de Oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+para oxidar a matéria orgânica por decomposição aeróbia. Quando a amostra é guardada por 5 dias em uma
+temperatura de incubação de 20ºC, ela é referida como DBO, ,,, que é normalmente utilizada como um dos
+parâmetros para verificação da qualidade da água.
+O seguinte quadro classifica um curso d'água em função da sua DBO, ,,
+A imagem abaixo mostra um trecho de um rio com 5 seções (X, Y, Z, W e T), em que são coletadas amostras
+de água para a determinação de DBO, ,, em laboratório.
+O quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+Considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada,
+no mínimo, como “razoável”?
+O x.
+or
+Oz.
+Ow.
+er</Unicode></TextEquiv></TextRegion></Page></PcGts>

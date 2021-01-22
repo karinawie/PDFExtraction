@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:16:17</Created>
+	<LastChange>2020-12-06T02:42:13</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="893,299 1064,299 1064,356 1599,356 1599,567 1600,567 1600,628 1599,628 1599,749 1600,749 1600,1226 1599,1226 1599,1792 1384,1792 1384,1844 1059,1844 1059,2073 894,2073 894,1864 895,1864 895,1810 942,1810 942,726 893,726 893,660 918,660 918,530 893,530"/>
+	<TextEquiv conf="0.96408">
+	<Unicode>QUESTÃO 17
+Casos de uso podem ser organizados agrupando-os
+em pacotes do mesmo modo como são organizadas
+as classes. Também podem ser organizados pela
+especificação de relacionamentos de generalização,
+inclusão e extensão, existentes entre eles.
+JACOBSORN, |.; BOOCH, G.; RUMBAUGH, J. UML - Guia Do
+Usuário. 1 ed. Campus, 2006 (adaptado).
+Considerando os relacionamentos existentes entre
+OS Casos de uso, avalie as afirmações a seguir.
+|. Paracasos de uso, a generalização significa que
+o caso de uso filho herda o comportamento e
+o significado do caso de uso pai e no caso de
+uso filho deverá acrescentar ou sobrescrever
+o comportamento de seu pai.
+Il. Um relacionamento de inclusão entre casos de
+uso significa que o caso de uso base incorpora
+explicitamente o comportamento de outro
+caso de uso em uma localização especificada.
+O caso de uso base poderá permanecer
+isolado, mas, sob certas condições, seu
+comportamento poderá ser incluído pelo
+comportamento de outro caso de uso.
+Ill. Um relacionamento estendido entre casos de
+uso significa que o caso de uso base incorpora
+implicitamente o comportamento de outro
+caso de uso em um local especificado
+indiretamente pelo caso de uso estendido.
+O caso de uso estendido nunca permanece
+isolado, mas é apenas instanciado como parte
+de alguma base maior que o estende.
+IV. Um relacionamento estendido é utilizado
+para a modelagem da parte de um caso de
+uso que o usuário poderá considerar como
+um comportamento opcional do sistema e
+para a modelagem de um subfluxo separado,
+que é executado somente sob determinadas
+condições.
+É correto apenas o que se afirma em
+Oie
+Oie
+O ue.
+O Lev.
+O 1, ev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,359 851,359 851,576 852,576 852,629 850,629 850,692 636,692 636,895 424,895 424,1033 596,1033 596,1087 844,1087 844,1111 500,1111 500,1165 272,1165 272,1302 851,1302 851,1433 823,1433 823,1497 231,1497 231,1741 146,1741 146,1433 145,1433 145,1302 147,1302 147,836 146,836 146,787 145,787 145,657 170,657 170,539 145,539"/>
+	<TextEquiv conf="0.77251">
+	<Unicode>QUESTÃO 16
+Uma função é denominada recursiva quando
+ela é chamada novamente dentro de seu corpo.
+Implementações recursivas tendem a ser menos
+eficientes, porém facilitam a codificação e seu
+entendimento.
+CELES, W.; CERQUEIRA, R.; RANGEL, J. L. Introdução a estruturas de
+dados. Rio de Janeiro, 2004 (adaptado).
+Considere a função recursiva £ (), a qual foi escrita
+em linguagem C:
+int f( int v[]l, int n) (
+if (n == O)
+return O;
+else |
+f( v, n-1);
+if (v[n-1] &gt; O)
+s=
+s=s+ v[n-1];
+1
+2
+3
+4
+5 int s;
+6
+7
+8 return s;
+9 )
+10
+Suponha que a função £() é acionada com os
+seguintes parâmetros de entrada:
+£(12,-4,7,0,-1,4),6);
+Nesse caso, o valor de retorno da função £ () será
+O 8.
+O 10.
+O 13.
+O 15.
+O i18</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,2080 869,291"/></SeparatorRegion></Page></PcGts>

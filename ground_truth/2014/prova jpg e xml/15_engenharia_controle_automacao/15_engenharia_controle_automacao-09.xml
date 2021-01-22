@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:40:20</Created>
+	<LastChange>2020-11-21T20:07:38</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="83,238 411,238 411,297 1537,297 1537,473 1538,473 1538,1640 1539,1640 1539,1707 1537,1707 1537,1812 1518,1812 1518,1877 84,1877 84,1814 83,1814 83,1640 84,1640 84,583 83,583 83,447 82,447 82,297 83,297"/>
+	<ImageRegion id="r1">
+	<Coords points="215,602 215,1465 1273,1465 1273,602"/></ImageRegion>
+	<TextEquiv conf="0.93441">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Considere um chuveiro elétrico no qual a temperatura da água pode ser selecionada pelo usuário entre a
+temperatura ambiente e 50 ºC. A resistência do chuveiro dissipa energia elétrica em forma de calor para
+aquecer a água, e é alimentada por um conversor CA/CC, de modo que a tensão pode ser alterada, variando,
+assim, a potência.
+Para levantar a característica dinâmica do sistema, um engenheiro aplicou um degrau de O V a 40 V no
+instante 10 segundos, com vazão de água constante, obtendo a resposta de temperatura mostrada na figura
+a seguir. Pode-se observar que, inicialmente, a água está em temperatura ambiente.
+Posteriormente, o engenheiro decidiu implementar um controle de temperatura em malha fechada utilizando
+um compensador proporcional-integral: G (s) = K, + K/s.
+Com base nos dados apresentados, e considerando que o sistema é linear e de primeira ordem, faça o que
+se pede nos itens a seguir.
+a) Obtenha a função de transferência de malha aberta (sem o controlador) que relaciona a tensão de entrada
+com a temperatura de saída. (valor: 6,0 pontos)
+b) Qual é o efeito da ação integradora do compensador no sistema em malha fechada? (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

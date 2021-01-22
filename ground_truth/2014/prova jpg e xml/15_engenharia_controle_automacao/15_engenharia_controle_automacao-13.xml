@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:39:45</Created>
+	<LastChange>2020-11-21T20:05:13</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-13.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,238 411,238 411,297 1540,297 1540,567 1539,567 1539,568 1471,568 1471,623 1030,623 1030,1037 1538,1037 1538,1475 85,1475 85,1474 84,1474 84,1037 85,1037 85,622 84,622"/>
+	<TableRegion id="r1">
+	<Coords points="84,639 84,955 1539,955 1539,639"/></TableRegion>
+	<TextEquiv conf="0.96588">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Considere que em uma célula de produção de determinada fábrica opera-se todos os dias em 3 turnos
+(4 funcionários, um por turno e um para revesamento) para executar os planos de produção de uma família de
+peças. O proprietário da fábrica, que possui conhecimento na área de automação, está avaliando a hipótese
+de substituir os funcionários da célula de produção por um robô manipulador. A instalação é composta por
+um centro de usinagem CNC e por um sistema de visão, sendo 160 cm a distância entre os respectivos pontos
+de manipulação. O peso das peças produzidas varia de 2 kgf a 5 kgf e optou-se pela utilização de um braço
+robótico equipado com uma garra pneumática de 1,5 kgf.
+O quadro a seguir apresenta as principais características de modelos robóticos disponíveis no mercado.
+Em relação ao caso apresentado, faça o que se pede nos itens a seguir.
+a) Indique o modelo mais econômico que seja adequado para realizar o transporte de peças entre os dois
+equipamentos, considerando os dados do quadro e o posicionamento central do robô em relação aos
+equipamentos e justifique sua escolha. (valor: 3,0 pontos)
+b
+Cite duas vantagens e duas desvantagens relacionadas à substituição do ser humano por robôs em
+sistemas de produção. (valor: 3,0 pontos).
+c) Determine o tempo necessário para a recuperação do investimento inicial, se a taxa mínima de atratividade
+for igual a zero. Considere que a solução robótica tenha um custo total de R$ 300 mil (incluindo a aquisição
+do manipulador e as despesas de instalação), que o custo de operação e manutenção seja de R$ 40
+mil/ano e que a produção anual seja de R$ 100 mil. Em contrapartida, o custo de cada funcionário já
+capacitado é de R$ 15 mil/ano e sua produção anual é de R$ 80 mil. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

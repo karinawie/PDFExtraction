@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:37:42</Created>
+	<LastChange>2020-11-21T19:52:57</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="832,238 1003,238 1003,294 1538,294 1538,1138 1537,1138 1537,1255 1538,1255 1538,1371 1539,1371 1539,1451 1540,1451 1540,1732 1539,1732 1539,1733 1218,1733 1218,1785 1021,1785 1021,1892 1070,1892 1070,2011 832,2011 832,1804 833,1804 833,1751 880,1751 880,1232 832,1232 832,1138 831,1138 831,1007 832,1007 832,650 833,650 833,503 831,503 831,294 832,294"/>
+	<TextEquiv conf="0.96929">
+	<Unicode>QUESTÃO 22
+Um engenheiro, preocupado com o uso racional de
+energia, desenvolveu para a sala de sua residência
+um sistema microcontrolado para ajuste gradativo
+da iluminação por meio do acionamento de sete
+diferentes circuitos de iluminação e da abertura ou
+fechamento de janelas. O sistema contempla:
+1. sensores analógicos de luminosidade interna e
+externa com variação linear nominal do sinal de
+0a5V;
+2. sensor digital de chuva, com nível alto quando
+está chovendo. O tratamento deste sinal deve
+ter prioridade sobre qualquer outra atividade
+do programa;
+3. sistema de comando para abertura e fechamento
+da janela, realizado com um motor CC de 6 V com
+consumo de 30 W, acionado por um sinal PWM
+com frequência de chaveamento de 1 kHz e
+resolução de 1% na variação da largura dos pulsos;
+4. comando digital de cada um dos circuitos
+de iluminação, possibilitando ajuste total da
+iluminação artificial do ambiente em diferentes
+níveis.
+Para seleção e programação do microcontrolador,
+avalie afirmações a seguir.
+|. O microcontrolador deve possuir no mínimo
+uma entrada com função de interrupção
+externa.
+Ill. Um circuito externo ao microcontrolador
+deve ser utilizado para acionar o motor.
+Ill. O sensor de luz utilizado possui variação
+nominal de O a 5 V, porém, na sua calibração
+no ambiente real, suponha que o engenheiro
+observou que a variação limita-se a valores
+entre 2 Ve 3 V. Nesse caso, para realizar a
+aquisição desta informação com 10 níveis de
+sensibilidade, é necessário que o conversor
+A/D tenha resolução mínima de 10 bits.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1,11e.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,488 789,488 789,657 790,657 790,767 789,767 789,914 790,914 790,1062 574,1062 574,1118 234,1118 234,1363 84,1363 84,1141 85,1141 85,1084 132,1084 132,639 86,639 86,638 85,638 85,488 84,488 84,487 83,487 83,298 84,298"/>
+	<TextEquiv conf="0.96299">
+	<Unicode>QUESTÃO 21
+Sensores ultrassônicos são usados na medição de
+grandezas como distância e nível. Alguns desses
+sensores emitem um sinal na frequência de 40 kHz
+que, ao atingir um objeto, retorna e, quando captado,
+permite calcular a distância do objeto ao sensor.
+Nesse contexto, avalie as afirmações a seguir.
+|. O cálculo da distância pode ser obtido
+usando-se equações da mecânica clássica.
+Il. Para evitar uma interferência entre o sinal
+enviado e sinais espúrios advindos de fontes
+eletromagnéticas, deve-se usar um filtro.
+Ill. No caso específico de um sensor ultrassônico,
+o cálculo da distância baseia-se na variação da
+velocidade e, dessa forma, no efeito doppler.
+IV. Para uma leitura adequada do sinal desse sensor
+em um sistema de aquisição de dados, deve-se
+utilizar uma taxa de amostragem de no mínimo
+80 kHz de forma a evitar o efeito aliasing.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,228 807,2013 810,2013 810,228"/></SeparatorRegion></Page></PcGts>

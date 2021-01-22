@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T20:20:09</Created>
+	<LastChange>2020-11-18T21:09:52</LastChange></Metadata>
+	<Page imageFilename="cst_logistica-14.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="825,228 1535,228 1535,259 1534,259 1534,549 1533,549 1533,692 1534,692 1534,1369 1211,1369 1211,1445 1049,1445 1049,1640 1065,1640 1065,1725 826,1725 826,1618 825,1618 825,1476 826,1476 826,1412 874,1412 874,658 824,658 824,287 825,287"/>
+	<TextEquiv conf="0.44609">
+	<Unicode>QUESTÃO 10
+A ISO 9001:2008, é a norma de referência que
+possui Requisitos de Qualidade para Implantação
+de um Sistema de Gestão da Qualidade (SGOQ).
+A implantação de um SGQ em uma organização
+consiste, entre outras atividades, em Mapeamento
+de Processos; implantação de Padrões de Trabalho e
+Monitoramento da Satisfação do cliente.
+A partir dessas informações, avalie as afirmações a
+seguir.
+|. São princípios que norteiam um Sistema
+de Gestão da Qualidade: Foco no Cliente,
+Liderança, Melhoria Contínua, Relação
+Mutuamente Benéfica entre Cliente e
+Fornecedor, Abordagem Sistêmica, Abordagem
+Factual à Tomada de Decisão, Envolvimento
+das Pessoas, Abordagem de Processo.
+Il. A Política da Qualidade de uma empresa
+representa a “porta de entrada“ para um
+Sistema de Gestão da Qualidade e deve
+ser conhecida e entendida por todos os
+colaboradores da organização.
+Ill. Uma ação corretiva é aquela estabelecida
+para a eliminação da causa de uma não
+conformidade, e a aplicação dessa ação
+tem por objetivo não tornar o problema
+reincidente.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O llelll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,228 234,228 234,238 235,238 235,239 790,239 790,801 788,801 788,1138 789,1138 789,1437 790,1437 790,1552 128,1552 128,1551 127,1551 127,1464 80,1464 80,800 79,800 79,306 80,306"/>
+	<TextEquiv conf="0.95778">
+	<Unicode>QUESTÃO 9
+A Logística Reversa domiciliar consiste no processo
+no qual o operador vai buscar o produto na casa do
+cliente. Normalmente essa coleta é programada e
+sincronizada junto ao SAC (Sistema de Atendimento
+ao Cliente) do Lojista/Fabricante. Do ponto de
+vista de oportunidade para o operador logístico,
+essa atividade possibilita agregar serviços como
+transporte, armazenagem dos itens indesejados,
+retrabalho com os itens (separação dos produtos
+que serão descartados e dos que podem ser
+reaproveitados), expedição e transporte, retornando
+para a fábrica ou local de descarte.
+Considerando o contexto, assinale a opção que
+apresenta, respectivamente, o fluxo sequencial
+correto da logística reversa e o elo forte nesse
+processo.
+O fabricante, revendedor e cliente, em que o cliente
+é o elo forte neste processo.
+fabricante, recondicionador e cliente, em que o
+cliente é o elo forte neste processo.
+cliente, reciclador e fabricante, em que o
+fabricante é o elo forte neste processo.
+transportador, cliente e fabricante, em que o
+transportador é o elo forte neste processo.
+cliente, operador logístico e o comerciante/
+fabricante, em que operador logístico é o elo
+forte neste processo.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,2036 805,221"/></SeparatorRegion></Page></PcGts>

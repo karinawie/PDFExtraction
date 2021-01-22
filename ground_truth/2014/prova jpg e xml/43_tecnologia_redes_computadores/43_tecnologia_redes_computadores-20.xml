@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:33:03</Created>
+	<LastChange>2020-12-06T03:43:16</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="893,299 1064,299 1064,367 1601,367 1601,923 1600,923 1600,924 1599,924 1599,1719 1384,1719 1384,1782 1051,1782 1051,2063 894,2063 894,1812 895,1812 895,1748 942,1748 942,1501 987,1501 987,1374 942,1374 942,924 893,924"/>
+	<TextEquiv conf="0.96772">
+	<Unicode>QUESTÃO 19
+A solução de gerência padronizada mais usada
+no mundo chama-se /nternet-Standard Network
+Management Framework. Essa solução é mais
+conhecida como Gerência SNMP (Simple Network
+Management Protocol). Esse modelo descreve não
+apenas o protocolo de gerenciamento, mas também
+um conjunto de regras que são usadas para definir as
+informações que podem ser utilizadas.
+Rose, T. M. The Simple Book: An Introduction to Network Management.
+2 Ed. Editora Prentice Hall, 1996 (adaptado).
+Em relação aos protocolos de gerenciamento de
+rede, avalie as afirmações a seguir.
+|. O SNMP atua na camada 7 do modelo OS|.
+Il. Apenaso SNMPv1usaa noçãode comunidades
+para estabelecer um grau de confiança entre
+Os agentes e os gerentes, o SNMPvV2 e o
+SNMPv3 utilizam um subsistema de segurança
+que fornece serviços de autenticação e
+privacidade baseado no usuário.
+III. O SNMPv2 fornece gerenciamento de
+rede centralizado e distribuído incluindo
+aprimoramentos na sua estrutura e
+gerenciamento.
+IV. O SNMPv3 foi criado para solucionar as
+questões de segurança das versões anteriores,
+fornecendo acesso seguro às informações de
+gerenciamento por meio de autenticação e
+criptografia de pacotes.
+É correto apenas o que se afirma em
+Oie
+O le.
+Ole
+O L11el.
+O Lev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,359 853,359 853,1227 852,1227 852,1228 850,1228 850,1372 395,1372 395,1491 457,1491 457,1539 539,1539 539,1587 568,1587 568,1619 146,1619 146,1228 144,1228 144,1227 145,1227"/>
+	<TextEquiv conf="0.92548">
+	<Unicode>QUESTÃO 18
+No mercado atual, é crescente a necessidade
+de preocupação com o uso racional de recursos
+naturais, descarte de lixo eletrônico, eficiência
+energética e outras temáticas ligadas ao conceito
+de sustentabilidade. As empresas de construção
+civil passaram a construir edifícios inteligentes
+que possuem melhor planejamento do consumo
+energético destinado a iluminação, elevadores, entre
+outros. No que se refere ao projeto de redes de dados
+nesses edifícios, não é diferente. Com o crescimento
+do conceito de TI Verde, torna-se essencial o uso de
+tecnologias que atendam essa nova necessidade. Uma
+delas envolve a consolidação de servidores (blades)
+de forma a reduzir o espaço físico nos racks de data
+centers, consequentemente reduzindo o consumo
+elétrico e o nível de calor produzido, o que implica
+diretamente na redução de consumo energético
+de aparelhos de ar condicionado e uma série de
+outros benefícios correlatos, além de possibilitar o
+gerenciamento centralizado, maior flexibilização de
+distribuição de recursos (CPU, memória e disco) e
+provisionamento de serviços.
+Nesse sentido, o que fundamentalmente tem
+permitido essa consolidação de servidores e a
+redução do consumo energético é
+O aTI Verde.
+O a Virtualização.
+O a Governança de TI.
+O a Sustentabilidade Digital.
+O a BYOD ou Consumerização.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="872,294 872,2086 875,2086 875,294"/></SeparatorRegion></Page></PcGts>

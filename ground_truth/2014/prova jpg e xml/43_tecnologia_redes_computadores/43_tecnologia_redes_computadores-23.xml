@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:32:26</Created>
+	<LastChange>2020-12-06T03:40:56</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,668 1598,668 1598,791 1600,791 1600,1148 1599,1148 1599,1475 1598,1475 1598,1563 1317,1563 1317,1611 894,1611 894,1299 893,1299 893,1175 942,1175 942,764 894,764 894,668 892,668 892,359 893,359"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>QUESTÃO 24
+As empresas que utilizam as tecnologias da
+informação estão cada vez mais compromissadas com
+as questões de sustentabilidade e meio ambiente. As
+tecnologias convergentes visam, entre as diversas
+vantagens, proporcionar economia nos custos,
+possibilitando às empresas praticarem um preço
+final competitivo, preservando o meio ambiente e
+mantendo o negócio sustentável.
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. Atecnologia de VolP é utilizada para substituir
+redes telefônicas convencionais portando
+o tráfego de voz para a redes de dados e
+proporcionando economia nos custos de
+telefonia da empresa.
+PORQUE
+Il. Sustentabilidade é a habilidade em manter
+alguma condição, ou seja, possibilitar que um
+processo exista e permaneça.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e 11 são proposições verdadeiras, e
+a 1l é uma justificativa correta da |.
+O As asserções | e 1l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e 11 são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,363 853,363 853,524 850,524 850,653 851,653 851,1282 636,1282 636,1341 278,1341 278,1605 146,1605 146,1368 147,1368 147,1307 194,1307 194,1165 239,1165 239,960 194,960 194,627 145,627 145,524 144,524 144,363 145,363"/>
+	<TextEquiv conf="0.95338">
+	<Unicode>QUESTÃO 23
+A gestão de elementos de redes baseada na pilha de
+protocolos TCP/IP tem como seu principal protocolo
+de gerenciamento o SNMP (Simple Network
+Management Protocol).
+Acerca do protocolo SMTP, avalie as afirmações a
+seguir.
+|. É baseado numa estrutura de comunicação
+requisição/resposta, não suportando outro
+tipo de comunicação.
+ll. É implementado por diversas aplicações,
+como PING e TRACERT, nas quais o comando
+é emitido pelo dispositivo cliente.
+III.Permite o monitoramento de elementos de
+rede, como roteadores e switches, podendo
+ser utilizado para servidores e estações de
+trabalho, desde que se tenha o suporte ao
+SNMP instalado.
+IV. Gerencia elementos em qualquer rede |P
+alcançável, e permite o encaminhamento de
+pacotes de uma rede para outra.
+É correto apenas o que se afirma em
+O:
+o.
+Oie.
+O lelv.
+O eiv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="866,288 866,2077 861,2077 861,288"/></SeparatorRegion></Page></PcGts>

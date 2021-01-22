@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:57:42</Created>
+	<LastChange>2020-12-06T02:09:02</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-13.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="145,1172 316,1172 316,1231 1599,1231 1599,1825 364,1825 364,2061 146,2061 146,1825 145,1825 145,1490 144,1490 144,1231 145,1231"/>
+	<TableRegion id="r3">
+	<Coords points="444,1494 444,1655 1288,1655 1288,1494"/></TableRegion>
+	<TextEquiv conf="0.96614">
+	<Unicode>QUESTÃO 12
+Considere a situação em que uma empresa que comercializa software customizado precisa definir a alocação
+de quantidade de horas de trabalho para um programador e um desenvolvedor. Considere, ainda, que os
+profissionais estão envolvidos no projeto de um sistema composto por módulos de controle de estoque
+e vendas e que os recursos financeiros a serem investidos para realizar as atividades de programação
+e desenvolvimento para cada hora trabalhada nos respectivos módulos são indicados na tabela abaixo.
+Assim, por exemplo, o custo unitário por hora trabalhada na atividade de programação no módulo de
+estoque é $ 3, ao passo que o custo do desenvolvimento do respectivo módulo é $ 6.
+O valor previsto em orçamento para a atividade de programação é de $ 30, e para a de desenvolvimento é
+de $ 48. Ao modelar esse problema para ser resolvido com a técnica de pesquisa operacional, define-se V
+como a quantidade de horas alocadas no módulo de vendas e E como a quantidade de horas alocadas no
+módulo de estoque. Nesse modelo, uma das restrições a serem utilizadas é representada por
+O 3E+3V &lt;30.
+O 3E + 3V &gt; 30.
+O 3E +3V &lt;48.
+O 6E + 3V &lt;30.
+O 6E +3V &gt; 48.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="145,299 316,299 316,357 873,357 873,358 1599,358 1599,838 1600,838 1600,905 255,905 255,1141 146,1141 146,905 145,905"/>
+	<TableRegion id="r2">
+	<Coords points="150,519 150,811 1600,811 1600,519"/></TableRegion>
+	<TextEquiv conf="0.96641">
+	<Unicode>QUESTÃO 11
+Considere que uma rede de supermercados tenha contratado um analista de informática para elaborar um
+plano de prevenção de erros na operação do software das lojas. Com o objetivo de melhorar a tomada de
+decisão, o analista classificou os erros quanto ao tempo de emprego do operador (linha) e quanto aos setores
+que originaram os erros (coluna). Os dados levantados são apresentados na tabela abaixo.
+Considerando essas informações, conclui-se que a probabilidade aproximada de um erro ser cometido por
+um operador com tempo de emprego correspondente a 4 anos ou menos é de
+O 17%.
+O 33%.
+O 50%.
+O 67%.
+O 83%.</Unicode></TextEquiv></TextRegion></Page></PcGts>

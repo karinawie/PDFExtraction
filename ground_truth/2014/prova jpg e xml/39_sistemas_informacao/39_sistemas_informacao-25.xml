@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:55:22</Created>
+	<LastChange>2020-12-06T02:01:47</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="145,1393 316,1393 316,1457 1600,1457 1600,1522 1061,1522 1061,1630 1109,1630 1109,1674 1403,1674 1403,1707 1599,1707 1599,1719 1600,1719 1600,1787 147,1787 147,1786 146,1786 146,1424 145,1424"/>
+	<TextEquiv conf="0.96742">
+	<Unicode>QUESTÃO 29
+Na auditoria externa independente, contratada por uma empresa para verificar o plano de contingência e
+recuperação de desastres, é necessário analisar
+O os sistemas de backup e a facilidade de recuperação dos dados.
+O os registros de tentativas de violação de segurança nos sistemas.
+O os pontos de vulnerabilidade na rede de computadores da empresa.
+O a documentação dos sistemas de informação da empresa e sua utilidade para os usuários.
+O os mecanismos de monitoramento dos sistemas de informação que permitam identificar problemas de
+desempenho.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="145,299 317,299 317,356 1600,356 1600,530 1205,530 1205,1140 255,1140 255,1364 146,1364 146,1158 147,1158 147,530 145,530 145,529 144,529 144,356 145,356"/>
+	<TableRegion id="r2">
+	<Coords points="144,563 144,1061 1608,1061 1608,563"/></TableRegion>
+	<TextEquiv conf="0.96741">
+	<Unicode>QUESTÃO 28
+Conforme a norma ISO 9241, a usabilidade é definida como a capacidade que um sistema interativo de
+software oferece a seus usuários, em um contexto específico de operação, para a realização de tarefas
+de maneira eficaz, eficiente e agradável. Com fundamento nesse conceito, uma empresa deseja medir a
+satisfação dos consumidores de seus produtos e, para isso, desenvolverá um sistema de software. A equipe
+de desenvolvimento do sistema de software elencou os requisitos listados na tabela abaixo.
+Entre os requisitos listados na tabela, o código do que se refere à usabilidade é
+O RQ1.
+O Ro.
+O Roz.
+O RQ4.
+O Ros.</Unicode></TextEquiv></TextRegion></Page></PcGts>

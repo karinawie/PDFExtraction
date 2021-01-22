@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:48:25</Created>
+	<LastChange>2020-10-28T17:05:05</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-14.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="829,235 1000,235 1000,300 1535,300 1535,603 1534,603 1534,792 1535,792 1535,986 1536,986 1536,1668 1535,1668 1535,1949 1445,1949 1445,1995 876,1995 876,1996 875,1996 875,1967 877,1967 877,1808 876,1808 876,1457 877,1457 877,1191 875,1191 875,962 830,962 830,604 829,604 829,430 830,430 830,266 829,266"/>
+	<TextEquiv conf="0.96505">
+	<Unicode>QUESTÃO 18
+Os dosímetros termoluminescentes (TLDs) são
+utilizados para a monitoração da dose de radiação
+recebida pelos indivíduos —ocupacionalmente
+expostos (IOE). As leituras dos dosímetros individuais
+são relacionadas com a leitura do dosímetro padrão
+do serviço, o qual deve ser armazenado em local onde
+não há exposição à radiação, somente à radiação
+natural do local (radiação de fundo).
+Em relação às características e à aplicação dos TLDs,
+é correto afirmar que
+O os TLDs são considerados equipamentos de
+proteção individual (EPI) e o seu uso se faz
+necessário para atenuação da dose de radiação
+espalhada no profissional monitorado.
+do ponto de vista de proteção radiológica, o IOE
+que tiver dois empregos nos quais desenvolva
+atividades que usem radiações ionizantes, deverá
+ter distintos TLDs: um para cada instituição de
+trabalho.
+do ponto de vista de proteção radiológica, o
+profissional não deve ficar exposto ao feixe
+primário de radiação, e, caso isso seja necessário,
+o TLD deve ficar fora da região do campo de
+radiação.
+quando a leitura do TLD do profissional acusar
+abaixo do nível de referência (ANR), isso indica
+que o dosímetro padrão do serviço de radiologia
+foi exposto a uma dose de radiação inferior ao
+nível de radiação natural do local.
+os TLDs devem ser fixados na região torácica
+do profissional monitorado e sua leitura deve
+ser feita mensalmente em laboratório de
+dosimetria com o densitômetro óptico; o seu
+uso é individualizado e obrigatório durante toda
+a jornada de trabalho, não podendo um mesmo
+TLD ser usado por diferentes profissionais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,295 787,295 787,524 786,524 786,651 788,651 788,763 787,763 787,995 788,995 788,996 789,996 789,1107 787,1107 787,1275 82,1275 82,627 81,627"/>
+	<TextEquiv conf="0.92696">
+	<Unicode>QUESTÃO 17
+O uso médico de fontes radioativas envolve
+pacientes, indivíduos ocupacionalmente
+expostos e indivíduos do público. No Brasil, a
+norma CNEN-NN-3.01 estabelece os requisitos
+básicos de proteção radiológica dos indivíduos
+em relação à exposição à radiação ionizante.
+Com relação à exposição à radiação ionizante em um
+serviço de Medicina Nuclear, conclui-se que
+O o controle da exposição ocupacional pode ser
+feito de duas formas, dividindo as áreas em livre
+e supervisionada.
+O aatividade do radiofármaco deve ser devidamente
+aferida no curiômetro, garantindo a aplicação do
+princípio ALARA.
+O a limitação de dose individual é uma medida legal
+suficiente para assegurar a proteção desejável.
+O existem três fatores básicos que podem ser
+usados para minimizar a dose de radiação: tempo,
+blindagem e tipo de radiofármaco.
+O o uso de equipamento de proteção individual
+(EPI) é dispensável na medicina nuclear, já
+que ele pode causar a formação de radiação
+de frenagem.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,231 805,2015 813,2015 813,231"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:14:46</Created>
+	<LastChange>2020-12-06T01:26:58</LastChange></Metadata>
+	<Page imageFilename="37_quimica_bacharelado-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1601,359 1601,1526 1602,1526 1602,1598 1599,1598 1599,1686 147,1686 147,1687 146,1687 146,1336 145,1336"/>
+	<ImageRegion id="r1">
+	<Coords points="147,486 147,1183 1602,1183 1602,486"/></ImageRegion>
+	<TextEquiv conf="0.95177">
+	<Unicode>QUESTÃO 25
+A estereoquímica proveniente da redução da cânfora com NaBH, está relacionada às questões de reatividade
+da carbonila e às questões estruturais do sistema norbonano. A aproximação do hidreto pode ocorrer por
+ambas as faces da carbonila da cânfora, conforme representado na figura a seguir.
+Sobre a proposta de mecanismo da redução citada, a aproximação do hidreto
+O é facilitada pela face inferior (aproximação do tipo endo), conduzindo ao álcool exo, devido ao menor
+impedimento estérico, sendo o isoborneol o produto majoritário dessa reação.
+O é facilitada pela face superior (aproximação do tipo exo), conduzindo ao álcool endo, sendo o borneol o
+produto majoritário dessa reação.
+O ocorre com menos eficiência pela face inferior (aproximação do tipo endo), devido a uma grande repulsão
+estérica criada pela proximidade do grupo metila.
+O é facilitada pela face inferior (aproximação do tipo endo), conduzindo ao álcool exo, devido ao menor
+impedimento estérico, sendo o isoborneol o produto minoritário dessa reação.
+O se dá indistintamente por ambas as faces do grupamento carbonila, conduzindo aos álcoois endo e exo,
+borneol e isoborneol, respectivamente, em igual concentração.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:18:08</Created>
+	<LastChange>2020-11-21T19:32:24</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-10.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,241 412,241 412,299 1538,299 1538,718 1537,718 1537,984 1309,984 1309,1046 84,1046 84,915 85,915 85,781 84,781 84,446 83,446 83,299 84,299"/>
+	<TextEquiv conf="0.96376">
+	<Unicode>QUESTÃO DISCURSIVA 4
+A criação dos serviços em nuvens (clouds) teve como consequência o fato de as tarefas de processamento
+(como ferramentas para edição de documentos), armazenamento de dados (como arquivos e documentos) e
+mensagens (webmail) deixarem de ser executadas em estações cliente locais sem conexão à rede e passarem
+a ser delegadas a equipamentos remotos conectados através da Internet.
+Cada vez mais surgem empresas que oferecem nuvens de equipamentos conectados através da Internet,
+com clusters de equipamentos e redundância em múltiplos sites para prestação terceirizada desse tipo de
+serviço, de modo a oferecer maior desempenho e disponibilidade. Por outro lado, aumentam os riscos de
+quebra da privacidade dos dados armazenados.
+Nesse contexto de mudança de um sistema local para a adoção de serviços em nuvens, responda as questões
+a seguir.
+a) Como mudam os requisitos da plataforma do cliente? (valor: 2,5 pontos)
+b) Que requisitos devem ser atendidos pela infraestrutura local de rede e telecomunicações?
+(valor: 2,5 pontos)
+c) Como esse tipo de serviço pode apresentar melhor disponibilidade e menor risco de perda de dados?
+(valor: 2,5 pontos)
+d) Que benefícios são esperados com a adoção de serviços em nuvens? (valor: 2,5 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

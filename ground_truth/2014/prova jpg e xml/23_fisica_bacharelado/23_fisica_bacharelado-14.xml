@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:20:28</Created>
+	<LastChange>2020-11-22T03:34:55</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-14.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1538,297 1538,750 968,750 968,997 1537,997 831,997 832,997 832,750 831,750 831,297 832,297"/>
+	<TextEquiv conf="0.96652">
+	<Unicode>QUESTÃO 11
+A norma reguladora 15 (NR-15), que dispõe sobre
+atividades e operações insalubres, indica que o limite
+do nível de intensidade sonora para um trabalhador
+não deve ultrapassar 120 dB. Suponha que, em uma
+fábrica, uma máquina (que pode ser considerada uma
+fonte esférica) emite um som uniforme e isotrópico.
+A 100 metros da fonte, o nível de intensidade sonora
+é de 80 decibéis.
+Até que distância um trabalhador pode se aproximar
+dessa máquina sem ultrapassar o limite do nível de
+intensidade sonora estabelecido pela NR-15?
+O 81,6m
+O 66,7m
+O 444m
+O 1,00 m
+O 0,78m</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,1014 772,1014 772,1054 470,1054 470,1262 322,1262 322,1355 84,1355 84,1076 178,1076 178,968 132,968 132,967 133,967 133,945 149,945 149,643 84,643 84,447 83,447 83,298 84,298"/>
+	<TextEquiv conf="0.91452">
+	<Unicode>QUESTÃO 10
+A interação entre dois corpos foi historicamente
+concebida como uma ação instantânea a distância.
+Por outro lado, ela pode ser pensada como uma ação
+intermediada por um campo.
+Considerando que a noção de força está associada à
+concepção de ação instantânea, avalie as afirmações
+a seguir.
+|. A existência de ondas eletromagnéticas
+pode ser definida a partir das concepções
+de campo eletromagnético e de ação
+instantânea a distância.
+II. O campo eletromagnético e a força
+eletromagnética não necessitam de meios
+materiais entre cargas de uma distribuição
+para existir.
+IIl. O campo elétrico depende da posição,
+enquanto a força eletrostática depende da
+distância entre a carga-fonte e a carga-teste.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+OL I1elm.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,231 807,2018 815,2018 815,231"/></SeparatorRegion></Page></PcGts>

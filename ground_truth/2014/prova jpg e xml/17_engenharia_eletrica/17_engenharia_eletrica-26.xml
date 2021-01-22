@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:41:23</Created>
+	<LastChange>2020-11-21T21:35:54</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="832,238 1003,238 1003,303 1538,303 1538,840 1513,840 1513,981 1538,981 1538,1671 1218,1671 1218,1733 1013,1733 1013,1870 1070,1870 1070,2009 832,2009 832,1762 833,1762 833,1699 880,1699 880,1311 926,1311 926,1010 880,1010 880,948 832,948 832,840 831,840 831,303 832,303"/>
+	<TextEquiv conf="0.96651">
+	<Unicode>QUESTÃO 29
+As lâmpadas a LED (Light Emitting Diode) possuem
+vida útil muito superior aos outros tipos de lâmpadas
+disponíveis no mercado. Além disso, elas apresentam
+um Índice de reprodução de cor (IRC) considerado
+aceitável mesmo pelos padrões mais exigentes de
+iluminação de interiores. Oferecem, ainda, eficiência
+luminosa bastante superior às fluorescentes
+compactas e às incandescentes. Com tamanhas
+vantagens, verifica-se que existe uma tendência
+da iluminação tradicional, composta por lâmpadas
+incandescentes, dicroicas e fluorescentes tubulares
+ou compactas, ser gradualmente substituída pelas
+lâmpadas de LED.
+Com relação aos LED, avalie as afirmações a seguir.
+|. A diferença entre os semicondutores
+intrínsecos e extrínsecos é que os intrínsecos
+apresentam impurezas dopantes inseridas
+de forma a ficarem retidas dentro do cristal
+semicondutor, e os extrínsecos possuem
+dopantes posicionados
+cristal semicondutor.
+externamente ao
+Il. Quando a junção P-N de um LED é diretamente
+polarizada, elétrons e lacunas se recombinam,
+resultando na emissão de fótons.
+Ill. A luz emitida pelo LED tem comprimento de
+onda relacionado ao tipo de material utilizado
+na dopagem do semicondutor, por exemplo,
+gálio, alumínio, arsênio, fósforo, índio ou
+nitrogênio.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 11e.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,1706 470,1706 470,1763 243,1763 243,2014 84,2014 84,1787 85,1787 85,1729 130,1729 130,1472 132,1472 132,631 85,631 85,574 83,574 83,298 84,298"/>
+	<TextEquiv conf="0.93173">
+	<Unicode>QUESTÃO 28
+O projeto de transformadores visa à construção
+de dispositivos eficientes, porém com custos que
+viabilizem a produção em maior escala. Desse
+modo, a busca por materiais que proporcionem
+a redução de perdas, atendendo aos requisitos
+econômicos desejados, consiste em um desafio para
+os profissionais da área.
+Nesse contexto, avalie as afirmações a seguir.
+|. Nocaso dos transformadores, é desejável que
+os condutores dos enrolamentos do primário
+e secundário tenham alta permeabilidade
+magnética de modo a reduzir as perdas no
+cobre.
+Il. Materiais ferromagnéticos são altamente
+recomendáveis na constituição do núcleo
+de transformadores por promover um
+bom acoplamento magnético entre os
+enrolamentos do primário e secundário.
+Ill. As perdas por correntes parasitas independem
+do material escolhido para o núcleo, sendo
+proporcionais à resistividade do material
+utilizado para confecção dos enrolamentos e
+ao valor da corrente elétrica que neles circula.
+IV. O aumento no teor de silício do núcleo de
+transformadores permite redução nas perdas
+por correntes parasitas e promove melhora
+nas propriedades magnéticas das chapas.
+V. Os materiais que compõem o núcleo são
+geralmente produzidos sob forma de chapas
+de reduzida espessura, o que promove a
+diminuição do caminho de circulação de
+correntes induzidas no núcleo e atenua as
+perdas por correntes parasitas.
+É correto o que se afirma em
+</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,2002 810,223"/></SeparatorRegion></Page></PcGts>

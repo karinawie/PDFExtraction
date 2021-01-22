@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:43:49</Created>
+	<LastChange>2020-11-21T21:29:24</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-11.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="84,238 412,238 412,297 1537,297 1537,817 1538,817 1538,1023 84,1023 84,927 83,927 83,297 84,297"/>
+	<ImageRegion id="r1">
+	<Coords points="471,410 471,789 1165,789 1165,410"/></ImageRegion>
+	<TextEquiv conf="0.96635">
+	<Unicode>QUESTÃO DISCURSIVA 4
+A figura a seguir ilustra um motor de indução trifásico acionado por um inversor de frequência, cuja entrada
+é ligada à rede com frequência constante e igual a 60 Hz. Pela variação da corrente de referência (| .) de4 a
+20 mA, a velocidade de rotação do motor varia linearmente de O a 2 000 rpm.
+REF
+A corrente de referência provém de um circuito analógico com amplificadores operacionais nas configurações
+“amplificador inversor” e “conversor tensão corrente”. A entrada do amplificador inversor é ligada a uma
+fonte de tensão constante e igual a 1 V.
+Considerando esse sistema, calcule o valor da resistência do potenciômetro que levará o motor à rotação de
+1 000 rpm, justificando sua resposta. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T19:04:11</Created>
+	<LastChange>2020-09-24T19:04:28</LastChange></Metadata>
+	<Page imageFilename="04_computacao_licenciatura-14.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,300 1538,300 1538,454 294,454 294,579 542,579 542,753 659,753 659,808 780,808 780,1057 779,1057 779,1058 333,1058 333,1112 259,1112 259,1219 294,1219 294,1274 758,1274 758,1412 333,1412 333,1514 1307,1514 1307,1544 1121,1544 1121,1771 1255,1771 1255,1821 1361,1821 1361,1903 1095,1903 1095,1953 678,1953 678,2007 85,2007 85,2006 84,2006 84,1745 83,1745 83,1716 124,1716 124,1543 85,1543 85,1542 84,1542 84,1514 86,1514 86,1412 83,1412 84,1412 84,1193 83,1193 83,1161 86,1161 86,1058 85,1058 85,1057 84,1057 84,1056 85,1056 85,850 86,850 86,851 204,851 204,726 85,726 85,725 84,725 84,550 83,550 83,300 84,300"/>
+	<TextEquiv conf="0.76810">
+	<Unicode>QUESTÃO 12
+Analise o custo computacional dos algoritmos a seguir, que calculam o valor de um polinômio de grau n, da
+forma: P(x)= a Xº +a, x" +...+axt+a, onde os coeficientes são números de ponto flutuante armazenados
+no vetor a/O..n]J, e o valor de n é maior que zero. Todos os coeficientes podem assumir qualquer valor, exceto
+o coeficiente a, que é diferente de zero.
+Algoritmo 1:
+soma = a[0]
+Repita para i = 1 até n
+Se a[i] é 0.0 então
+potência = x
+Repita para j = 2 até 1
+1
+potência potência * x
+Fim repita
+soma = soma + a[i] * potencia
+Fim se
+Fim repita
+Imprima (soma)
+Algoritmo 2:
+soma = aí[n]
+Repita para i = n-l até O passo -1
+soma = soma * x + a[i]
+Fim repita
+Imprima (soma)
+Com base nos algoritmos 1 e 2, avalie as asserções a seguir e a relação proposta entre elas.
+|. Os algoritmos possuem a mesma complexidade assintótica.
+PORQUE
+ll. Para o melhor caso, ambos os algoritmos possuem complexidade O(n).
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e ll são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

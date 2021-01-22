@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T01:56:11</Created>
+	<LastChange>2020-12-06T02:03:49</LastChange></Metadata>
+	<Page imageFilename="39_sistemas_informacao-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,363 1600,363 1600,696 1599,696 1599,799 1598,799 1598,922 1599,922 1599,995 1598,995 1598,1205 1599,1205 1599,1279 532,1279 532,1337 367,1337 367,1466 450,1466 450,1599 449,1599 449,1600 146,1600 146,1364 147,1364 147,1303 192,1303 192,1205 194,1205 194,799 146,799 146,798 145,798"/>
+	<TextEquiv conf="0.94941">
+	<Unicode>QUESTÃO 23
+Uma companhia com abrangência global decidiu implantar um novo sistema de compartilhamento de
+informações empresariais. Após estudos de campo, a empresa identificou alguns cenários de utilização das
+informações. No primeiro cenário, detectou-se que um volume massivo de dados relativos a documentos
+históricos, normas e regulamentos da organização eram consumidos, em escala global, exclusivamente
+para leitura. No segundo cenário, verificou-se que documentos eram produzidos de forma colaborativa por
+equipes regionais de colaboradores. Esses colaboradores, na maioria das vezes, estavam na mesma filial ou
+geograficamente muito próximos. O terceiro cenário envolvia apenas 10% dos documentos da empresa,
+acessados concorrentemente por todas as regionais do globo, tanto para leitura quanto para atualização.
+Com base nesses cenários e em relação às arquiteturas de software distribuídas coerentemente com as
+necessidades da empresa, avalie as afirmações a seguir.
+|. A utilização de arquitetura peer-to-peer (P2P) para disponibilizar os documentos do cenário 1 poderá
+reduzir o consumo da rede.
+Il. O compartilhamento baseado no modelo cliente-servidor com cache no cliente pode aumentar o
+desempenho da edição colaborativa, sem comprometer a consistência no cenário 2.
+Ill. A utilização de replicação baseada em cópia primária pode aumentar a escalabilidade do sistema, sem
+comprometer, de forma significativa, a consistência de dados no cenário 3.
+IV. Se o modelo cliente-servidor de compartilhamento for empregado no cenário 2, a replicação passiva
+(backup ou mirroring) poderá ser utilizada como mecanismo de tolerância a falhas.
+V. A arquitetura peer-to-peer baseada em rede overlay, tal como o DHT, pode oferecer transparência de
+migração para os documentos compartilhados no cenário 1.
+É correto o que se afirma em
+O ll, apenas.
+O lell, apenas.
+O ll, IVe V, apenas.
+O 1, 1II,IVe V, apenas.
+O LI,11,IVev</Unicode></TextEquiv></TextRegion></Page></PcGts>

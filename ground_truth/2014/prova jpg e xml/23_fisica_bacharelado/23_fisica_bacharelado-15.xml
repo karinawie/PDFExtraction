@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:20:17</Created>
+	<LastChange>2020-11-22T03:34:06</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-15.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,1058 1479,1058 1479,1551 1142,1551 1142,1906 322,1906 322,2000 84,2000 84,1058 83,1058 83,950 84,950"/>
+	<ImageRegion id="r1">
+	<Coords points="573,1076 573,1481 1052,1481 1052,1076"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="160,423 160,902 1452,902 1452,423"/></ImageRegion>
+	<TextEquiv conf="0.96443">
+	<Unicode>QUESTÃO 12
+Com o objetivo de estudar algumas características de uma bateria, realizaram-se alguns experimentos
+(a, b e c) de medidas de variáveis elétricas, utilizando-se uma lâmpada e um multímetro digital, no modo
+amperímetro ou no modo voltímetro.
+Ao utilizar o multímetro no modo adequado para cada experimento, foi possível construir, com as suas
+indicações, o seguinte gráfico de voltagem (V) versus intensidade de corrente elétrica (i) para a bateria em
+questão.
+Com base nos experimentos descritos e usando as informações do gráfico, avalie as afirmações a seguir.
+|. Aresistência interna da bateria é de 0,5 OQ.
+Il. A bateria pode fornecer uma potência máxima de 10 W.
+Ill. Nos experimentos A e C, o multímetro foi utilizado no modo voltímetro.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1, 11e,</Unicode></TextEquiv></TextRegion></Page></PcGts>

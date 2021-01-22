@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T14:54:12</Created>
+	<LastChange>2020-10-28T16:34:52</LastChange></Metadata>
+	<Page imageFilename="16_TEC_GESTAO_HOSPITALAR-17.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="81,235 252,235 252,291 1536,291 1536,362 1535,362 1535,874 1294,874 1294,1101 82,1101 82,391 81,391"/>
+	<TableRegion id="r2">
+	<Coords points="78,407 78,786 1536,786 1536,407"/></TableRegion>
+	<TextEquiv conf="0.96592">
+	<Unicode>QUESTÃO 22
+Um hospital está localizado em uma região com demanda turística sazonal. Nos períodos de férias, verifica-
+se uma oscilação na utilização do item do estoque Seringa Tipo 1, em virtude do número de procedimentos
+realizados, conforme se observa na tabela a seguir.
+Há incoerência, por parte do gestor, no planejamento orçamentário referente à compra do item Seringa Tipo 1,
+visto que a demonstração projetada no movimento de inventário de estoque
+O é linear, sem considerar a previsão de uso.
+O leva em conta apenas o saldo inicial, saldo final e as movimentações.
+O leva em conta a utilização do item baseada na sazonalidade da região.
+O apresenta um saldo final de um mês anterior similar ao saldo inicial do mês seguinte.
+O apresenta um subtotal que soma as compras com o saldo inicial do mês em referência.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r111" type="paragraph">
+	<Coords points="81,1128 252,1128 252,1184 1051,1184 1051,1185 1535,1185 1535,1393 960,1393 960,1803 1278,1803 1278,2011 81,2011"/>
+	<TableRegion id="r3">
+	<Coords points="78,1413 78,1731 1542,1731 1542,1413"/></TableRegion>
+	<TextEquiv conf="0.96491">
+	<Unicode>QUESTÃO 23
+No suporte à tomada de decisão em gestão hospitalar, profissionais utilizam-se de sistemas de gerenciamento
+de custos. Uma das estratégias aplicadas, nesse processo, é o método de classificação de materiais segundo a
+curva ABC. No quadro a seguir, apresentam-se os produtos da farmácia de um hospital com as quantidades
+consumidas, seguidos de informações sobre os percentuais em relação ao total das quantidades e valores de
+cada produto, além do custo total. Sabe-se que o hospital gerencia seus estoques subsidiado pelos conceitos da
+curva ABC, classificada em função das quantidades consumidas de cada produto.
+Com base nos dados apresentados, os grupos da curva ABC serão
+O ogrupo A, formado pelo item 1; o grupo B, pelos itens 2 e 3; e o grupo C, pelo item 4.
+O o grupo A, formado pelos itens 1 e 2; o grupo B, pelo item 3; o grupo C, pelo item 4.
+O o grupo A, formado pelo item 1; o grupo B, pelo item 2; o grupo C, pelos itens 3 e 4.
+O o grupo A formado pelo item 4; o grupo B, pelos itens 2 e 3; o grupo C, pelo item 1.
+O ogrupo A, formado pelos itens 3 e 4; o grupo B, pelo item 1; o grupo C, pelo item 2.</Unicode></TextEquiv></TextRegion></Page></PcGts>

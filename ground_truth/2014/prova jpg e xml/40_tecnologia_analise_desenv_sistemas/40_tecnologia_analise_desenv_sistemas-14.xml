@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:16:50</Created>
+	<LastChange>2020-12-06T02:44:09</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-14.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="145,299 316,299 316,833 1599,833 1599,972 1328,972 1328,1551 1288,1551 1288,1703 147,1703 147,1702 146,1702 146,971 145,971"/>
+	<TextEquiv conf="0.96642">
+	<Unicode>QUESTÃO 11
+O modelo de entidade relacionamento apresentado, representa de forma sucinta uma solução para
+persistência de dados de uma biblioteca. Considerando que um livro está emprestado quando possuir um
+registro vinculado a ele na tabela “Emprestimo”, e essa tupla não possuir valor na coluna “data dev”, o
+comando SQL que deve ser utilizado para listar os títulos dos livros disponíveis para empréstimo é
+O select titulo from livro
+except
+select l.titulo from emprestimo e inner join livro 1
+on e.livro cod = l.liv cod where e.data dev is null
+O select titulo from livro
+union
+select l.titulo from emprestimo e inner join livro 1
+on e.livro cod = l.liv cod where e.data dev is null
+O select titulo from livro
+except
+select l.titulo from emprestimo e inner join livro 1
+on e.livro cod = l.liv cod where e.data dev is not null
+O select titulo from livro
+union select l.titulo from emprestimo e left join livro 1
+on e.livro cod = l.liv cod where e.data dev is null
+O select titulo from livro
+except
+select l.titulo from emprestimo e right join livro 1
+on e.livro cod = l.liv cod where e.data dev is not null</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="283,338 283,830 1466,830 1466,338"/></ImageRegion></Page></PcGts>

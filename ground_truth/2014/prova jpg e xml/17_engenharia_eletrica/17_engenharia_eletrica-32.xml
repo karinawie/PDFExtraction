@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:40:21</Created>
+	<LastChange>2020-11-21T21:08:19</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-32.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="85,315 789,315 789,482 790,482 790,511 701,511 701,624 791,624 791,709 790,709 790,765 574,765 574,878 790,878 790,907 789,907 789,1187 790,1187 790,1314 791,1314 791,1315 792,1315 792,1399 791,1399 791,1510 790,1510 790,1700 657,1700 657,1806 862,1806 862,1849 790,1849 790,1941 370,1941 370,2002 85,2002 85,1941 84,1941 84,1861 85,1861 85,1756 84,1756 84,1611 134,1611 134,1399 86,1399 86,1315 85,1315 85,1005 86,1005 86,820 84,820 84,709 83,709 83,624 85,624 85,511 84,511 84,371 85,371"/>
+	<TextEquiv conf="0.96291">
+	<Unicode>QUESTÃO 33 - Eletrônica
+Foi solicitado a um engenheiro o projeto de um
+conversor CC-CC capaz de elevar a tensão de um
+banco de 6 baterias de 12 V, conectadas em série,
+de modo a se adequar ao nível de tensão necessário
+para alimentar um conversor CC-CA em 200 V.
+Além de atender ao requisito básico de realizar
+o ajuste de tensão necessário, considerando a
+operação em regime permanente, sem perdas, são
+especificações adicionais do projeto:
+* a corrente fornecida pelas baterias deve
+apresentar pequena ondulação (ripple);
+º* atensãoCC de saída (Vcc) deve ser positiva em
+relação ao baixo potencial da tensão de entrada
+(Vbat);
+* —ocircuitodo conversor CC-CC deve ter capacidade
+de proteção contra curto-circuito na saída;
+* oO conversor deve operar com modulação por
+largura de pulso, em que o comando do transistor
+(M) se dá em frequência fixa, alterando-se
+o intervalo de tempo em que o transistor
+permanece em condução.
+Considere a largura de pulso (6 ) como a relação entre
+o intervalo de condução do transistor e o período de
+comutação, assumindo valores entre O e 1.
+Dado que foram omitidos os circuitos de comando e
+dos transistores, assinale a alternativa em que o
+conversor CC-CC atende simultaneamente a todos os
+requisitos do projeto.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="881,239 881,557 1484,557 1484,239"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="875,583 875,901 1478,901 1478,583"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="872,943 872,1261 1475,1261 1475,943"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="870,1301 870,1619 1473,1619 1473,1301"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="872,1641 872,1959 1475,1959 1475,1641"/></ImageRegion>
+	<SeparatorRegion id="r10">
+	<Coords points="807,234 807,2023 813,2023 813,234"/></SeparatorRegion></Page></PcGts>

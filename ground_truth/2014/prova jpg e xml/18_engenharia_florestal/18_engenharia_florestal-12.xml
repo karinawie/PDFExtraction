@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T21:45:13</Created>
+	<LastChange>2020-11-21T23:30:42</LastChange></Metadata>
+	<Page imageFilename="18_engenharia_florestal-12.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="832,238 1003,238 1003,303 1538,303 1538,304 1539,304 1539,606 1538,606 1538,1212 1539,1212 1539,1621 989,1621 989,1687 831,1687 831,1659 833,1659 833,1072 832,1072 832,1044 831,1044 831,927 832,927"/>
+	<ImageRegion id="r2">
+	<Coords points="928,621 928,902 1447,902 1447,621"/></ImageRegion>
+	<TextEquiv conf="0.96715">
+	<Unicode>QUESTÃO 10
+Denominam-se cargas os elementos de um circuito
+elétrico que se opõem à passagem de corrente
+elétrica. Essencialmente, distinguem-se três tipos de
+cargas: resistivas, capacitivas e indutivas. As cargas
+resistivas dissipam energia, enquanto as puramente
+capacitivas ou puramente indutivas são consideradas
+armazenadoras de energia.
+Se o circuito mostrado acima é alimentado por uma
+fonte de tensão contínua de 12 V e as lâmpadas são
+de 12 V/6 W, observa-se que, em regime permanente,
+O as três lâmpadas, L1, L2 e 13, ficarão apagadas,
+pois lâmpadas incandescentes só operam com
+corrente alternada.
+O somente L2 e L3 ficarão acesas, pois a corrente
+que passa em L2 é a soma das correntes em L3 e
+no indutor.
+O as três lâmpadas, L1, L2 e L3, ficarão acesas, pois
+estão ligadas à fonte de alimentação.
+O somente L2 ficará acesa, pois está em série com a
+fonte de alimentação.
+O somente L1 ficará acesa, pois está em série com o
+capacitor.
+ÁREA LIVRE</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,294 789,294 789,429 413,429 413,596 790,596 790,1125 574,1125 574,1177 243,1177 243,1405 84,1405 84,1198 85,1198 85,1144 130,1144 130,1061 132,1061 132,900 178,900 178,764 84,764 84,596 204,596 204,429 84,429 84,430 83,430 83,294 84,294"/>
+	<TextEquiv conf="0.96752">
+	<Unicode>QUESTÃO 09
+Suponha que a distância percorrida por um ciclista
+que pedala regularmente pode ser inferida pela
+variável aleatória x, com densidade de probabilidade
+normal,
+f(x; un,0º) =
+com 1u=25kme 0º = 25km?. A duração média do
+seu treino é de 12h15min.
+Com base nesses dados, avalie as afirmações abaixo.
+|. A velocidade média de cada treino é de
+21,7 km/h.
+A distância média percorrida em cada treino
+é de 25 km.
+Ill. A área média percorrida em cada treino é de
+25 km?.
+IV. A distância percorrida de cada treino, em um
+desvio-padrão, está entre 20 km e 30 km.
+V. A velocidade média de cada treino, em um
+desvio-padrão, está entre 16 km/h e 24 km/h.
+É correto apenas o que se afirma em
+o.
+Oie
+Oie.
+O lev
+O, WVev.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="810,239 810,2013 815,2013 815,239"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:17:43</Created>
+	<LastChange>2020-12-06T02:46:55</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-09.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 473,299 473,359 1599,359 1599,428 1527,428 1527,590 1598,590 1598,734 1599,734 1599,859 1339,859 1339,803 147,803 147,556 145,556"/>
+	<TextEquiv conf="0.90623">
+	<Unicode>QUESTÃO DISCURSIVA 3
+As classes costumam possuir relacionamentos entre si, chamados de associações, que permitem que elas
+compartilhem informações entre si e colaborem para a execução dos processos executados pelo sistema.
+Com base nesse contexto, construa um diagrama de classes para representar as seguintes associações:
+*º umarevista científica possui título, ISSN e periodicidade;
+* essarevista publica diversas edições com os seguintes atributos: número da edição, volume da edição e data
+de edição. Importante destacar que cada instância da classe edição relaciona-se única e exclusivamente a
+uma instância da classe revista cientifica, não podendo relacionar-se com nenhuma outra;
+* umartigo possuitítuloe nome do autor. Um artigo é um conteúdo exclusivo de uma edição. E uma edição
+obrigatoriamente tem que possuir no mínimo 10 e no máximo 15 artigos.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

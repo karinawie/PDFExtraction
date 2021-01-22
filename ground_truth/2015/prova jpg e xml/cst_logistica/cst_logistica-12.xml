@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-18T20:20:25</Created>
+	<LastChange>2020-11-18T21:12:21</LastChange></Metadata>
+	<Page imageFilename="cst_logistica-12.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="80,228 1535,228 1535,259 1534,259 1534,1203 1098,1203 1098,1318 1534,1318 1534,1386 1533,1386 1533,1538 82,1538 82,1539 81,1539 81,1387 80,1387 80,940 79,940 79,793 80,793"/>
+	<TextEquiv conf="0.32046">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Um Prestador de Serviço Logístico (PSL) está instalado em uma região metropolitana e seu principal cliente é
+uma empresa que produz cosméticos para uma grande rede de franquias, a qual possui mais de 2 000 pontos
+de venda em todos os estados brasileiros, localizados em shoppings de grande e médio porte. O Centro
+de Distribuição do PSL opera na mesma planta do principal cliente e a partir desse Centro de Distribuição
+são abastecidos todos os pontos de vendas (franqueados). A empresa de cosméticos, ao final da produção,
+embala seus produtos em caixas de papelão, aloca-as em paletes de madeira e as transfere para o armazém
+do PSL. Cada palete contém apenas um tipo de produto. O material, ao chegar ao Centro de Distribuição,
+recebe uma etiqueta de identificação com código de barras. Em seguida, é feita a entrada do material no
+estoque, sendo disponibilizado seu endereçamento no local que será guardado. O PSL utiliza um Sistema
+de Gerenciamento de Armazém (Warehouse Management System — WMS) para gerenciar suas operações,
+inclusive os pedidos dos franqueados, que são recebidos eletronicamente e, em sua maioria, são feitos em
+pequenas quantidades e com grande variedade de produtos.
+A separação dos itens é feita com base em uma etiqueta de códigos de barras afixada na caixa que será
+enviada ao cliente. Essa operação é realizada em uma área de separação, onde são disponibilizados paletes
+para cada produto, que só então, são colocados nas caixas de cada franqueado. Ao final da separação, essas
+caixas são pesadas e colocadas nas plataformas de expedição.
+Faz-se a reposição do estoque por meio de um Sistema de Informação, de acordo com a rotatividade de cada
+item. A distribuição dos pedidos é feita em parceria com transportadoras que, por meio de romaneios de
+despacho, são informadas sobre os horários definidos para o carregamento. Cada carreta viaja com entregas
+de diversos franqueados e obedece rigorosamente aos prazos de entrega. Devido ao alto valor agregado
+dos produtos, os caminhões são rastreados via satélite o que confere maior confiabilidade e segurança às
+operações.
+Considerando a situação apresentada, faça o que se pede nos itens a seguir.
+a) Quais os ganhos proporcionados pela Tecnologia da Informação diante da atividade de processamento
+de pedido? (valor: 5,0 pontos)
+b) Explique como a Tecnologia da Informação auxilia as empresas envolvidas nas operações de forma
+a garantir um fluxo eficiente de materiais para atendimento às necessidades de seus clientes?
+(valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

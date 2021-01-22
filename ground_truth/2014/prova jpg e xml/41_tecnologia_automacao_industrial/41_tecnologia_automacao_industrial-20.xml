@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:51:46</Created>
+	<LastChange>2020-12-06T03:00:02</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-20.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1601,359 1601,988 1599,988 1599,1656 895,1656 895,1657 894,1657 894,1286 942,1286 942,1180 893,1180 893,989 891,989 891,359 893,359"/>
+	<TextEquiv conf="0.96639">
+	<Unicode>QUESTÃO 24
+O espaço de trabalho de um robô é uma característica
+fundamental para adequá-lo a sua aplicação.
+Suponha que se tem à disposição um robô planar
+tipo RR com dois graus de liberdade e cuja dimensão
+de seus dois elos é a, = 50 mm e a, = 30 mm, de
+acordo com a convenção de Denavit-Hartenberg.
+Considere que todos os valores apresentados estão
+em milímetros (mm) e que o robô se desloca no
+plano de coordenadas cartesianas xy apenas, sendo
+a coordenada 2z, correspondente à altura, constante
+e nula. A origem do sistema de coordenadas da
+base, o ponto (0, O), coincide com o eixo da primeira
+junta rotativa. A origem do sistema de coordenadas
+do efetuador final, de acordo com a convenção de
+Denavit-Hartenberg, situa-se em sua posição inicial,
+no ponto (80, O).
+Considerando a situação acima, avalie as seguintes
+afirmações.
+|. A origem do sistema de coordenadas da base
+pode ser alcançada pelo efetuador final.
+Ill. O ponto (40, 0) pode ser alcançado pelo
+efetuador final.
+Ill. O ponto (0, 50) pode ser alcançado pelo
+efetuador final.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="145,299 316,299 316,359 851,359 851,709 852,709 852,844 837,844 837,997 851,997 851,1145 146,1145 146,844 145,844"/>
+	<TextEquiv conf="0.95903">
+	<Unicode>QUESTÃO 22
+Na construção de um sistema automatizado, uma
+das peças necessárias ao conjunto é um eixo de aço
+ABNT 1020.
+Nesse eixo, existem 3 diâmetros distintos: o primeiro
+com 25 mm para assento de rolamento; o segundo
+é um diâmetro de ligação, com 35 mm; e o terceiro é
+destinado à execução de perfil sextavado, com 45 mm.
+Para confecção desse eixo, está disponível uma
+barra cilíndrica de 50 mm de diâmetro.
+Conforme os fundamentos da fabricação mecânica,
+os processos de execução recomendados para
+a sequência, do menor diâmetro para a maior
+dimensão, são
+O torneamento, fresagem, retífica e torneamento.
+O torneamento, retífica, fresagem e torneamento.
+O torneamento, torneamento, retífica e fresagem.
+O torneamento, fresagem, torneamento e
+torneamento.
+O torneamento, torneamento, torneamento e
+fresagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="145,1172 316,1172 316,1228 851,1228 851,1857 273,1857 273,2074 146,2074 146,1857 144,1857 144,1719 145,1719"/>
+	<ImageRegion id="r3">
+	<Coords points="150,1444 150,1719 822,1719 822,1444"/></ImageRegion>
+	<TextEquiv conf="0.96299">
+	<Unicode>QUESTÃO 23
+Um funcionário que trabalha no setor de
+automação industrial de determinada empresa deve
+apresentar um relatório a seus superiores acerca
+do funcionamento de um circuito analógico que
+compare a velocidade de dois motores elétricos,
+conforme circuito ilustrado abaixo.
+Considerando que as tensões de entrada são tensões
+equivalentes às velocidades dos motores e possuem
+valores de Ve1=0,1 Ve Ve2=0,2V, conclui-se que a
+tensão de saída Vo é igual a
+O -1,0v.
+O 10v.
+O 19v
+O 21v.
+O 21v</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="872,288 872,2088 877,2088 877,288"/></SeparatorRegion></Page></PcGts>

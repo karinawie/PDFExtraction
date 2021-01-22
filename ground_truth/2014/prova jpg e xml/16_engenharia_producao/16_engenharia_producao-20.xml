@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:13:34</Created>
+	<LastChange>2020-11-21T20:27:29</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-20.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1186,298 1186,299 1538,299 1538,637 1539,637 1539,719 1538,719 1538,1303 1537,1303 1537,1360 1186,1360 1186,1359 982,1359 982,1606 833,1606 833,1605 832,1605 832,1382 833,1382 833,1357 834,1357 834,1325 880,1325 880,824 833,824 833,823 832,823 832,755 881,755 881,601 832,601"/>
+	<TextEquiv conf="0.96782">
+	<Unicode>QUESTÃO 20
+Em projetos de desenvolvimento de novos produtos
+considera-se que a participação de uma equipe
+profissional multidisciplinar contribui para o
+sucesso do projeto. Com relação à participação do
+representante da manufatura na equipe do projeto,
+espera-se que sejam usados os princípios do DFMA
+(Design for Manufacturing and Assembly) nas fases
+do desenvolvimento.
+BOOTHROYD. G; DEWHURST. P; KNIGHT, W. A. Product design for
+manufacture and assembly. 3 ed. Boca Raton: Taylor and Francis
+Group, LCC, 2011 (adaptado).
+Considerando as especificidades e princípios do
+DFMA, avalie as afirmações a seguir.
+|. É esperado que o produto resultante passe
+por menos etapas de produção e, como
+consequência, tenha menor tempo de
+produção.
+Ill. O design do produto, resultante do projeto,
+terá maior grau de novidade.
+II. A particihpação do representante da
+manufatura reduzirá os custos de execução
+do projeto.
+IV. É almejado que o novo produto apresente
+menor número de componentes ou peças.
+É correto apenas o que se afirma em
+Oielv.
+O ue.
+O ueiv
+O Le.
+OLI1elv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,649 791,649 791,838 790,838 790,839 789,839 789,1016 791,1016 791,1125 790,1125 790,1256 791,1256 791,1485 369,1485 369,1604 427,1604 427,1731 790,1731 85,1731 85,1730 84,1730 84,1729 85,1729 85,1221 84,1221 84,839 83,839 83,838 82,838 82,837 83,837 83,649 84,649"/>
+	<TextEquiv conf="0.96027">
+	<Unicode>QUESTÃO 19
+Uma fábrica produz dois refrigerantes: A e B. Para
+produzi-los, utilizam-se vários recursos, entre os
+quais os extratos e a água são os mais limitantes,
+devido a problemas ecológicos.
+Para produzir um litro de refrigerante A, o processo
+envolve a dissolução de um pacote de extrato
+(denominado Delta) em um litro de água, além de
+outros recursos que não são limitantes.
+Já a produção de um litro de refrigerante B, além da
+dissolução de um pacote de extrato (denominado
+Gama) em um litro de água, exige mais um litro de
+água para o processo de arrefecimento, além de
+outros recursos que não são limitantes.
+Sabe-se que:
+a) O lucro gerado por litro de A é R$ 5, enquanto
+que o lucro por litro de B é R$ 2.
+b) O fornecedor de extratos só consegue entregar
+3 0OO pacotes de extrato Delta e 4 000 pacotes de
+extrato Gama, semanalmente.
+c) Há um fator ambiental limitante de 9 000 litros de
+água por semana.
+Denominando de X1 a quantidade de litros de
+refrigerante A e, de X2, a quantidade de litros de
+refrigerante B a serem produzidos, qual deverá
+ser o plano de produção semanal viável para gerar
+o maior lucro a essa fábrica, dentro das condições
+apresentadas?
+O x1=0;X2=0
+O X1=0;X2=4000
+O Xx1=3 000; X2 = 4 000
+O X1=3 000; X2 = 3 000
+O Xx1=1000; X2 = 4 000</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,2015 810,231"/></SeparatorRegion></Page></PcGts>

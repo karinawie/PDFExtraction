@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:53:44</Created>
+	<LastChange>2020-12-06T03:06:40</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-10.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="145,299 474,299 474,360 1600,360 1600,431 1188,431 1188,1728 1258,1728 1258,1757 148,1757 148,1758 147,1758 147,1703 145,1703 145,1043 146,1043 146,330 145,330"/>
+	<ImageRegion id="r1">
+	<Coords points="380,455 380,1002 1347,1002 1347,455"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="463,1088 463,1536 1269,1536 1269,1088"/></TableRegion>
+	<TextEquiv conf="0.96431">
+	<Unicode>QUESTÃO DISCURSIVA 4
+No tanque esquematizado na figura abaixo, deseja-se controlar o nível de líquido por meio de um controlador
+lógico programável (CLP). A saída do líquido é demandada por outro processo.
+A tabela verdade abaixo estabelece a lógica de funcionamento desse sistema.
+Considere como nível lógico:
+* —Eletroválvula de entrada: O para válvula fechada e 1 para válvula aberta.
+* Sensor de nível: O para ausência de líquido e 1 para presença de líquido.
+º Botão:O para não pressionado (desabilitado) e 1 para pressionado (habilitado).</Unicode></TextEquiv></TextRegion></Page></PcGts>

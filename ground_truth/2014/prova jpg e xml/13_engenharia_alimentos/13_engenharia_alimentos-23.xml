@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T04:09:11</Created>
+	<LastChange>2020-11-21T04:16:26</LastChange></Metadata>
+	<Page imageFilename="13_engenharia_alimentos-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,1084 1376,1084 1376,1331 832,1331 832,441 831,441 831,298 832,298"/>
+	<ImageRegion id="r3">
+	<Coords points="834,452 834,944 1528,944 1528,452"/></ImageRegion>
+	<TextEquiv conf="0.96514">
+	<Unicode>QUESTÃO 25
+Na figura abaixo, estão representados os distintos
+tipos de fluidos de acordo com seu comportamento
+de escoamento, quando submetidos a uma tensão
+de cisalhamento.
+Os fluidos que apresentam o comportamento das
+curvas destacadas pelas setas 1 e 2 são denominados,
+respectivamente,
+O dilatantes e newtonianos.
+O pseudoplásticos e newtonianos.
+O tixotrópicos e de Ostwald de Waele.
+O pseudoplásticos e tixotrópicos.
+O newtonianos e plásticos de Bingham.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,297 790,297 790,1296 789,1296 789,1470 574,1470 574,1675 251,1675 251,1771 84,1771 84,1491 130,1491 130,1321 132,1321 132,542 85,542 85,487 83,487 83,297 84,297"/>
+	<TextEquiv conf="0.94066">
+	<Unicode>QUESTÃO 24
+Várias indústrias de alimentos utilizam análises
+físico-químicas e análises bioquímicas para avaliar a
+qualidade da matéria-prima, para mensurar alguns
+parâmetros de processos e também a qualidade do
+produto.
+Nesse contexto, avalie as afirmações a seguir.
+l. Na recepção do leite em laticínios, é
+importante fazer o teste do alizarol para
+avaliar se a acidez do leite está dentro da faixa
+especificada na legislação brasileira.
+Il. Uma forma de avaliar a eficiência do
+branqueamento aplicado em produtos
+vegetais antes do seu processamento é
+verificar se enzimas como a catalase e a
+peroxidase foram inativadas.
+Ill. Na pasteurização do leite, tanto a enzima
+peroxidase quanto a fosfatase alcalina devem
+ser inativadas para comprovar a eficiência do
+tratamento térmico aplicado.
+IV. A composição química do alimento deve
+ser a mesma daquela declarada no rótulo
+do produto, sendo aceitável uma variação
+máxima de 5%, que é inerente a possíveis
+erros de análises.
+V. A redução do valor do pH de um
+produto durante o armazenamento
+pode ser decorrente do crescimento de
+micro-organismos.
+É correto apenas o que se afirma em
+O Lev.
+OLllev
+OL Meiv
+O!Mmev
+O, IVev</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,223 807,2021 810,2021 810,223"/></SeparatorRegion></Page></PcGts>

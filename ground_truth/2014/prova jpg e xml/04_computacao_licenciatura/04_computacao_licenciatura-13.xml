@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T19:03:40</Created>
+	<LastChange>2020-09-24T19:09:54</LastChange></Metadata>
+	<Page imageFilename="04_computacao_licenciatura-13.jpg" imageWidth="1622" imageHeight="2171">
+	<TableRegion id="r0">
+	<Coords points="926,605 926,923 1431,923 1431,605"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,238 255,238 255,298 791,298 791,869 790,869 790,1080 470,1080 470,1194 313,1194 313,1302 322,1302 322,1379 84,1379 84,1103 178,1103 178,913 132,913 132,891 149,891 149,544 132,544 132,490 84,490"/>
+	<TextEquiv conf="0.96499">
+	<Unicode>QUESTÃO 10
+O gerenciamento de um projeto inclui atividades
+com o objetivo de garantir que todos os produtos
+definidos no seu escopo sejam entregues no prazo
+estimado. Nesse contexto, avalie as afirmações a
+seguir.
+|. Técnicas como PERT e CPM são utilizadas para
+obtenção de estimativas de esforço e como
+apoio para definição de atividades.
+. Séries históricas, quando utilizadas para obter
+estimativas de esforço no desenvolvimento
+de um novo sistema, levam à obtenção de
+estimativas consistentes, independentemente
+do domínio de aplicação dos sistemas que
+deram origem às séries históricas.
+Ill. No caso de atraso na execução do cronograma,
+a contratação de novos desenvolvedores
+assegura que o produto será entregue de
+acordo com o cronograma inicialmente
+proposto.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+OL I1elm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="832,238 1003,238 1003,294 1539,294 1539,580 1538,580 1538,1277 1219,1277 1219,1384 1070,1384 1070,1559 832,1559 832,580 831,580 831,294 832,294"/>
+	<TextEquiv conf="0.96775">
+	<Unicode>QUESTÃO 11
+Considere um esquema de gerência de memória por
+paginação simples, onde a memória física é dividida
+em quadros (frames) de 1 Kbyte e endereçada por
+byte. Os espaços de endereçamento dos processos
+são múltiplos de 1 Kbyte. A tabela de páginas para
+um determinado processo P é apresentada a seguir,
+em que o primeiro bit (BV) mostra se a página é
+válida (1) ou inválida (O).
+Com base na tabela apresentada, avalie as afirmações
+a seguir.
+|. O endereço físico é composto por 13 bits.
+Il. O esquema de gerência de memória
+apresentado reduz a fragmentação externa.
+III.A tradução do endereço lógico
+0110000000110 para endereço físico
+causa exceção.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="807,231 807,2018 813,2018 813,231"/></SeparatorRegion></Page></PcGts>

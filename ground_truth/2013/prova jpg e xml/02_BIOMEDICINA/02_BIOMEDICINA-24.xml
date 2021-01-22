@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:21:02</Created>
+	<LastChange>2020-09-25T03:36:45</LastChange></Metadata>
+	<Page imageFilename="02_BIOMEDICINA-24.jpg" imageWidth="1610" imageHeight="2164">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1521,712 1521,845 1285,845 1285,846 1049,846 1049,847 813,847 813,848 812,848 812,713 811,713 811,712"/>
+	<TextEquiv conf="0.50037">
+	<Unicode>FTA
+r t</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="79,1315 917,1315 917,1366 1534,1366 1534,1527 1535,1527 1535,1671 1534,1671 1534,1811 1535,1811 1535,1896 1536,1896 1536,2005 79,2005 79,1344 78,1344 78,1316 79,1316"/>
+	<TextEquiv conf="0.96226">
+	<Unicode>Considerando o texto e as figuras acima, é correto afirmar que
+O as figuras 1 e 2 revelam características celulares que indicam provável infecção pelo Papiloma Vírus
+Humano (HPV), visto que a coilocitose e a binucleação observadas em células da figura 1, assim como, a
+presença de “células-guia”, recobertas por densas colônias de microorganismos, observadas na figura 2,
+são características da infeção por HPV.
+O as figuras 1 e 2 revelam características celulares que indicam provavél infecção por Gardnerella vaginalis,
+visto que a coilocitose e a binucleação observadas em células da figura 1, assim como a presença de “células-
+guia”, recobertas por densas colônias de microorganismos, são observadas na figura 2, características da
+infecção por Gardnerella vaginalis.
+O a figura 1 revela características celulares indicativas de provável infecção por Gardnerella vaginalis, visto
+que a coilocitose e a binucleação observadas em células desse esfregaço são típicas da infecção por esta
+bactéria.
+O a figura 2 revela características celulares indicativas da infecção por HPV, visto que a presença de “células-
+guia”, recobertas por densas colônias de microorganismos, são características da infeção por esse vírus.
+O afigura 1 revela características celulares indicativas de provável infeção pelo Papiloma Vírus Humano (HPV),
+visto que a coilocitose e a binucleação observadas em células desse esfregaço são típicas da infecção por
+HPV. A figura 2 revela características celulares indicativas de provável infecção por Gardnerella vaginalis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,233 249,233 249,291 1534,291 1534,639 1296,639 1296,703 125,703 125,589 79,589 79,444 78,444 78,234 79,234"/>
+	<TextEquiv conf="0.95449">
+	<Unicode>QUESTÃO 31
+A detecção precoce do câncer de colo uterino é feita por um exame tecnicamente simples e de baixo
+custo, a partir do esfregaço cérvico-vaginal. Esse exame também é conhecido como exame citológico, de
+lâmina, citopatológico ou citologia cérvico-vaginal. Embora o principal propósito da citologia cérvico-vaginal
+seja a detecção das lesões precursoras do câncer cervical, o achado de condições infecciosas/reativas também
+pode contribuir para a saúde da mulher. Um dos fatores de risco para o câncer de colo uterino é o histórico
+de infecções sexualmente transmissíveis, sendo comprovada essa relação por vários estudos epidemiológicos
+realizados no Brasil. Dessa forma, tem crescido o interesse na utilização do exame preventivo do câncer de colo
+uterino para o reconhecimento de infecções cérvico-vaginais, como uma importante alternativa diagnóstica.
+Disponível em: &lt;http://www.scientiaplena.org.br&gt;. Acesso em: 21 jul. 2013 (adaptado).
+As figuras 1 e 2 são fotografias de esfregaços cérvico-vaginais sob análise microscópica.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="81,728 81,1268 800,1268 800,728"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="810,705 810,1284 1523,1284 1523,705"/></ImageRegion></Page></PcGts>

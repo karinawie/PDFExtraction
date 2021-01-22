@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:15:16</Created>
+	<LastChange>2020-11-21T19:21:52</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="84,238 255,238 255,299 1538,299 1538,369 1536,369 1536,1152 1324,1152 1324,1213 1233,1213 1233,1959 668,1959 668,2009 131,2009 131,1959 130,1959 130,1828 84,1828"/>
+	<ImageRegion id="r1">
+	<Coords points="573,389 573,1050 1052,1050 1052,389"/></ImageRegion>
+	<TextEquiv conf="0.96553">
+	<Unicode>QUESTÃO 27
+O protótipo de tela apresentado a seguir foi desenvolvido para atender um requisito de cadastro de
+classificados de jornal, via smartphone.
+Com base nesse protótipo de tela, infere-se que o modelo lógico correto para um banco de dados relacional
+que irá armazenar os dados cadastrados por esse sistema é representado por
+O classificado (cod, nome, email, telefone, anuncio, categoria, preco)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codànu, texto, codCategoria)
+codCategoria referencia Categoria
+Categoria (codCategoria, nome)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codânu, texto, codCategoria, aceiteTermos)
+codCategoria referencia Categoria
+Categoria (codCategoria, nome)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codànu, texto, codCliente, aceiteTermos)
+codCliente referencia Cliente
+Categoria (codCategoria, nome)
+O cliente (codCli, nome, email, telefone)
+Anuncio (codànu, texto, codCategoria, codCli, aceiteTermos)
+codCategoria referencia Categoria
+codCli referencia Cliente
+Categoria (codCategoria, nome)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:13:14</Created>
+	<LastChange>2020-09-24T18:13:54</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-18.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r1">
+	<Coords points="86,904 86,1249 794,1248 794,904"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="129,1281 129,1671 793,1670 793,1280"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="73,457 73,873 800,873 800,457"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="85,238 256,238 256,297 790,297 790,1705 791,1705 791,1826 481,1826 481,1965 410,1965 410,2010 86,2010 86,2011 85,2011 85,1706 84,1706 84,298 85,298"/>
+	<TextEquiv conf="0.96598">
+	<Unicode>QUESTÃO 19
+O algoritmo de traçado de raios (ray-tracing) é
+considerado um marco no desenvolvimento de
+técnicas de computação gráfica para a geração de
+imagens realistas.
+A partir da análise das imagens apresentadas, conclui-se
+que a técnica de traçado de raios foi utilizada para a geração
+O apenas da imagem 1.
+O apenas da imagem 2.
+O apenas das imagens 1 e 3.
+O apenas das imagens 2 e 3.
+O das imagens 1, 2e 3.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="823,389 823,742 1544,742 1544,389"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1537,298 1537,770 1538,770 1538,1486 1322,1486 1322,1541 999,1541 999,1788 832,1788 832,1566 833,1566 833,1508 878,1508 878,1378 880,1378 880,839 831,839 831,770 832,770"/>
+	<TextEquiv conf="0.96785">
+	<Unicode>QUESTÃO 20
+Um processo tem um ou mais fluxos de execução,
+normalmente denominados apenas por threads.
+A partir das figuras 1 e 2 apresentadas, avalie as
+afirmações a seguir.
+|. Tanto na figura 1 quanto na figura 2, existem
+três threads que utilizam o mesmo espaço de
+endereçamento.
+Ill. Tanto na figura 1 quanto na figura 2, existem
+três threads que utilizam três espaços de
+endereçamento distintos.
+Ill. Na figura 2, existe um processo com um único
+espaço de endereçamento e três threads de
+controle.
+IV. Nafigura1, existemtrês processostradicionais,
+cada qual tem seu espaço de endereçamento
+e uma única thread de controle.
+V. As threads permitem que várias execuções
+ocorram no mesmo ambiente de processo de
+forma independente uma das outras.
+É correto apenas o que se afirma em
+O Lei.
+O LItelv.
+OLIMev
+O ,Ivev.
+Ou, IVev</Unicode></TextEquiv></TextRegion></Page></PcGts>

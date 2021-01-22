@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T01:23:35</Created>
+	<LastChange>2020-11-16T01:29:01</LastChange></Metadata>
+	<Page imageFilename="01_administracao-14.jpg" imageWidth="1614" imageHeight="2167">
+	<TableRegion id="r0">
+	<Coords points="821,581 821,842 1539,842 1539,581"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,284 81,284 81,285 790,285 790,574 789,574 789,1016 788,1016 788,1144 789,1144 789,1654 788,1654 788,1950 677,1950 677,2003 81,2003 81,2002 80,2002 80,1794 81,1794 81,1655 80,1655 80,1654 79,1654 79,1653 80,1653 80,1564 175,1564 175,1317 130,1317 130,1316 129,1316 129,1113 81,1113 81,1112 80,1112 80,678 118,678 118,575 80,575 80,574 79,574 79,573 80,573"/>
+	<TextEquiv conf="0.96399">
+	<Unicode>QUESTÃO 11
+Sistemas de Informação Gerencial (SIG) fornecem as
+informações necessárias para gerenciar com eficácia
+as organizações. Nesse sentido, gerenciar o volume
+de informações produzidas pelas organizações é um
+dos assuntos mais importantes nas operações de
+planejamento e controle. Portanto, é importante que
+todas as informações relevantes que estão dispersas
+na organização sejam reunidas.
+OLIVEIRA, D. P. R. Sistemas de Informações Gerenciais: estratégias
+táticas operacionais. 14 ed. São Paulo: Atlas, 2011 (adaptado).
+Considerando as ideias do texto, analise a seguinte
+situação hipotética.
+Uma empresa familiar que produz equipamentos
+agrícolas está planejando ampliar sua linha de
+produtos. Hoje, os controles operacionais da
+empresa são manuais e não há integração entre os
+departamentos. O proprietário da empresa acredita
+que a implantação de recursos tecnológicos poderá
+propiciar sucesso na expansão pretendida.
+Com base nessas informações, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. Aimplantação de um programa ERP (Enterprise
+Resource Planning) por essa empresa tornará
+as operações mais eficientes e rápidas,
+facilitando o planejamento, o controle e a
+tomada de decisão.
+PORQUE
+II O programa ERP proporcionará à empresa
+integração dos departamentos, possibilitando
+automação e armazenagem de informações
+de negócios.
+A respeito dessas asserções, assinale a opção correta.
+A As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+B As asserções | e |l são proposições verdadeiras,
+mas a || não é uma justificativa correta da |.
+C A asserção | é uma proposição verdadeira, e a II é
+uma proposição falsa.
+D A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+E As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="825,302 1535,302 1535,564 1534,564 1534,1061 1111,1061 1111,1341 825,1341 825,1061 824,1061 824,564 825,564"/>
+	<TextEquiv conf="0.96080">
+	<Unicode>QUESTÃO 12
+Os gestores de uma empresa realizaram avaliação
+de duas alternativas de investimento (A e B),
+com probabilidades de ocorrência para situações
+de mercado em recessão, em estabilidade e em
+expansão, respectivamente, de 25%, 50% e 25%.
+A tabela a seguir apresenta o retorno esperado em
+cada situação.
+A comparação das alternativas será feita com
+base na média ponderada dos retornos por suas
+probabilidades de ocorrência. Nesse caso, OS
+retornos esperados para as alternativas A e B são,
+respectivamente, de
+A 10,00% e 12,00%.
+B 11,00% e 12,75%.
+C 11,33% e 12,75%.
+D 11,33% e 13,00%.
+E 12,00% e 13,50%.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="793,221 793,2030 803,2030 803,221"/></SeparatorRegion></Page></PcGts>

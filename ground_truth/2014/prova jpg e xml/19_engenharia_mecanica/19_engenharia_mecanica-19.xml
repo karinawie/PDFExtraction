@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:36:52</Created>
+	<LastChange>2020-11-22T01:59:43</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-19.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,299 1539,299 1539,447 1538,447 1538,1054 1218,1054 1218,1165 1053,1165 1053,1277 1070,1277 1070,1309 982,1309 982,1355 832,1355 832,1076 925,1076 925,928 880,928 880,905 926,905 926,681 880,681 880,622 832,622 832,299 831,299 831,298 832,298"/>
+	<TextEquiv conf="0.96791">
+	<Unicode>QUESTÃO 20
+As turbinas Pelton são turbinas de ação que recebem
+um jato de fluido proveniente de um injetor. Esse jato
+incide tangencialmente ao rotor em pás distribuídas
+ao longo de sua periferia.
+Sabendo que a força aplicada nas pás é proporcional
+à variação da quantidade de movimento do fluido
+(segunda lei de Newton), avalie as afirmações a
+seguir.
+|. Parauma mesma velocidade do fluido na saída
+no bocal do injetor, quanto maior o diâmetro
+do rotor, maior será a velocidade angular.
+Para uma mesma velocidade do fluido na
+saída no bocal do injetor, quanto maior o
+diâmetro do rotor, maior será o torque.
+Ill. Para um mesmo formato e tamanho de
+pás, quanto maior a velocidade do fluido na
+saída do bocal do injetor, maior será a força
+tangencial.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 111el,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,299 791,299 791,687 789,687 789,809 791,809 791,1078 790,1078 790,1286 789,1286 789,1541 790,1541 790,1613 789,1613 789,1701 678,1701 678,1749 84,1749 84,1438 83,1438 83,1313 177,1313 177,1078 132,1078 132,782 85,782 85,687 83,687 83,298 84,298"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>QUESTÃO 19
+Um metal, em sua condição encruada, possui energia
+interna elevada em relação ao metal não-deformado
+plasticamente. Aumentando-se a temperatura,
+existe a tendência de o metal retornar à condição
+mais estável de menor energia interna. O tratamento
+térmico para se obter esse efeito é denominado
+recozimento e, além da recuperação da estrutura
+cristalina do metal, esse tratamento provoca a
+diminuição da resistência mecânica, bem como a
+elevação da ductilidade.
+Nesse contexto, avalie as asserções a seguir e a
+relação proposta entre elas.
+|. A fabricação de latas de alumínio de
+refrigerantes é realizada por estampagem em
+mais de uma etapa, ocorrendo a necessidade
+de se realizar tratamento térmico de
+recozimento entre as etapas para fornecer
+ao metal ductilidade suficiente para a
+continuidade do processo.
+PORQUE
+II.A estampagem das latas de refrigerante é
+realizada a frio, ocorrendo o encruamento em
+cada etapa, com alteração das propriedades
+mecânicas do material da chapa.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,2023 805,228"/></SeparatorRegion></Page></PcGts>

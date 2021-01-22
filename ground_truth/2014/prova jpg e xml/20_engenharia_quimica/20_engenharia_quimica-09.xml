@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:13:28</Created>
+	<LastChange>2020-11-22T02:31:48</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 85,238 85,239 412,239 412,297 1053,297 1053,298 1537,298 1537,1513 85,1513 85,1512 84,1512 84,487 83,487 83,297 84,297"/>
+	<ImageRegion id="r1">
+	<Coords points="250,507 250,986 1373,986 1373,507"/></ImageRegion>
+	<TextEquiv conf="0.96491">
+	<Unicode>QUESTÃO DISCURSIVA 3
+Visando ao conforto térmico e à economia de energia, um engenheiro propõe a instalação de um sistema de
+isolamento nas janelas de uma unidade industrial situada em um local frio, com vento intenso e constante,
+onde a temperatura média do ambiente externo é de 4,8 “C ao longo do ano. Para manter a temperatura da
+face interna da janela em 25 ºC, as aberturas foram adaptadas e criou-se uma lacuna de 50 mm preenchida
+por ar estagnado entre duas lâminas de vidro com espessura de 10 mm cada, conforme o esquema abaixo:
+Nessa situação, o fluxo de calor é dado pela razão entre a diferença de temperatura entre as faces interna
+e externa da janela e o somatório das resistências à transferência de calor, expressas como a razão entre a
+espessura da camada e a condutividade térmica (k) do material.
+Com base no exposto e admitindo que o sistema encontra-se em estado estacionário, faça o que se pede nos
+itens a seguir.
+a) Represente, por meio de um esquema, a direção do fluxo de calor no sistema e os perfis de temperatura
+nas duas lâminas de vidro e na camada de ar. (valor: 3,0 pontos)
+b) Calcule o fluxo de calor que deve ser suprido no sistema para que a temperatura na face interna da janela
+seja mantida em 25 ºC nas condições especificadas no problema. (valor: 3,0 pontos)
+c) Explique o que acontecerá com o sistema se a camada de ar interna não for estagnada, ou seja, se
+houver convecção nessa região. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:21:10</Created>
+	<LastChange>2020-11-22T03:53:25</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-09.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 412,238 412,324 1537,324 1537,569 604,569 604,893 801,893 801,948 1537,948 1537,1074 86,1074 86,1075 85,1075 85,1018 84,1018 84,948 85,948 85,636 84,636"/>
+	<TextEquiv conf="0.96318">
+	<Unicode>QUESTÃO DISCURSIVA 3
+O volume específico de um material é função da sua temperatura. Mantida constante a pressão, define-se o
+coeficiente de dilatação térmica volumétrica como o produto do inverso do volume específico pela derivada
+1/Ov
+parcial do volume específico em relação à temperatura, de acordo com a equação 71 = T (&amp;) .
+P
+Considere duas peças (troncos de cone ocos de materiais diferentes) rigidamente presas uma dentro da
+outra, conforme ilustra a figura abaixo.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Explique uma forma de separar essas duas peças metálicas utilizando o conceito de dilatação volumétrica.
+(valor: 5,0 pontos)
+b) Indique ao menos duas variáveis (ou condições) das quais o seu método poderá depender. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="489,647 489,842 1144,842 1144,647"/></ImageRegion></Page></PcGts>

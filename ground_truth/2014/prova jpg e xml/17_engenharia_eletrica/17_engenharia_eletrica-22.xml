@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:41:58</Created>
+	<LastChange>2020-11-21T21:19:31</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="84,238 255,238 255,301 790,301 790,1547 84,1547 84,1546 83,1546 83,301 84,301"/>
+	<ImageRegion id="r2">
+	<Coords points="100,484 100,939 792,939 792,484"/></ImageRegion>
+	<TextEquiv conf="0.96384">
+	<Unicode>QUESTÃO 23
+A figura 1 apresenta um sistema fotovoltaico isolado
+com armazenamento, suprindo apenas cargas que
+funcionam em corrente contínua, já que o sistema
+não conta com inversor.
+O circuito ilustrado na figura 2 representa um modelo
+simplificado do sistema mostrado na figura 1. Na célula
+fotovoltaica ocorre uma queda de tensão quando os
+portadores de carga migram do semicondutor para
+os contatos elétricos, representada pela resistência
+série R. Este parâmetro representa a resistência
+da própria célula, sendo composta pela resistência
+elétrica do material e dos contatos metálicos que
+resultam nas perdas por efeito Joule. O modelo do
+painel é completado com uma resistência paralela,
+R, que representa as perdas devido às correntes
+inversas de fuga e parasitas que circulam na
+célula causadas, principalmente, pelas pequenas
+imperfeições na estrutura do material.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="832,770 1537,770 1537,810 1539,810 1539,959 1538,959 1538,1055 1537,1055 1537,1249 1538,1249 1538,1502 992,1502 992,1746 991,1746 991,1747 832,1747 832,1525 833,1525 833,1377 880,1377 880,960 832,960 832,959 831,959 831,958 832,958"/>
+	<TextEquiv conf="0.96272">
+	<Unicode>Sendo os condutores de interligação ideais,
+desprezando — qualquer parcela reativa dos
+componentes do circuito e considerando o
+funcionamento simultâneo de todas as cargas
+descritas, avalie os itens a seguir.
+|. A resistência equivalente das três cargas
+supridas pelo sistema é igual a 1 O.
+Ill. A corrente gerada pelo painel fotovoltaico,
+Ipv, no instante considerado, é igual a 9,1 A.
+Ill. A tensão sobre a resistência Rp, Vp, apresenta
+o valor de 18 V.
+IV. No instante considerado, a bateria contribui
+com 3 A para suprir as necessidades das
+cargas em funcionamento.
+V. A força eletromotriz da bateria, fem, tem o
+valor de 17,4 V.
+É correto apenas o que se afirma em
+O Lev.
+O LIelv
+OLIMev
+O nMmev
+O 1, Ivev.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="84,1568 84,1978 786,1978 786,1568"/></ImageRegion>
+	<TableRegion id="r4">
+	<Coords points="826,228 826,750 1539,750 1539,228"/></TableRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="805,223 805,2021 815,2021 815,223"/></SeparatorRegion></Page></PcGts>

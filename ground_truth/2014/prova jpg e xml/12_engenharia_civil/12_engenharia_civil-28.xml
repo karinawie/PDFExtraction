@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T03:43:02</Created>
+	<LastChange>2020-11-21T03:50:32</LastChange></Metadata>
+	<Page imageFilename="12_engenharia_civil-28.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1538,298 1538,406 1537,406 1537,1771 222,1771 222,2008 84,2008 84,1436 83,1436 83,1248 84,1248"/>
+	<TableRegion id="r1">
+	<Coords points="234,418 234,1236 1386,1236 1386,418"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="223,1447 223,1678 1397,1678 1397,1447"/></TableRegion>
+	<TextEquiv conf="0.96536">
+	<Unicode>QUESTÃO 34
+No quadro abaixo é apresentado o resultado do cálculo de capacidade de carga para uma estaca do tipo raiz
+de 22 cm de diâmetro, considerando o arrasamento na cota —1,5 m, no qual se empregou o método semi-
+empírico de Décourt e Quaresma.
+Sabe-se que o carregamento de cálculo a ser suportado é de 500 kN. Para o dimensionamento final do
+projeto será realizada uma prova de carga, sendo executada, para tal, uma estaca-teste, devendo-se
+de antemão definir seu comprimento. No quadro a seguir são apresentados os fatores de segurança e
+coeficientes de minoração para solicitações de compressão em fundações profundas definidos pela norma
+ABNT NBR 6.122/2010.
+Com base nessas informações, conclui-se que a cota ou profundidade a ser executada a estaca-teste para a
+realização da prova de carga deve ser de
+O i6 m.
+O 15 m.
+O 14 m.
+O 13 m.
+O 12 m.</Unicode></TextEquiv></TextRegion></Page></PcGts>

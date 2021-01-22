@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:15:07</Created>
+	<LastChange>2020-11-21T19:21:27</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="83,238 255,238 255,279 1538,279 1538,810 1539,810 1539,1041 1538,1041 1538,1376 1537,1376 1537,1552 84,1552 84,1144 83,1144"/>
+	<ImageRegion id="r1">
+	<Coords points="107,428 107,768 1505,768 1505,428"/></ImageRegion>
+	<TextEquiv conf="0.93965">
+	<Unicode>QUESTÃO 28
+As vibrações em um ônibus em movimento serão analisadas através da medida da aceleração durante
+períodos de tempo, por meio do sistema de aquisição formado por quatro módulos: um sensor de aceleração,
+um amplificador, um Sample &amp; Hold e um conversor A/D, conforme esquema a seguir.
+O sensor é um acelerômetro que converte linearmente leituras entre -1,0 m/s? e +1,0 m/s? em sinal de tensão
+V,, entre -800 mV e +800 mV. Esse sinal passa por um amplificador operacional com ganho de tensão dado por
+Av=1+R// R, em que R,=R,=10 kO. Uma vez amplificado, o sinal V,,, é submetido a um Sample &amp; Hold, cuja
+chave de amostragem pode ser controlada por software através de seu ponto de controle “c”. O conversor
+A/D converte linearmente valores entre -2,00 V e + 2,00 V para valores binários que podem, então, ser lidos
+por software. Com esse sistema de aquisição, serão feitas coletas de dados de 1 000 aquisições a uma taxa de
+500 aquisições por segundo, ou seja, cada coleta dura dois segundos.
+A análise desse sistema de aquisição de dados revela que
+O o amplificador tem ganho unitário e alta impedância de entrada, isolando o sensor do resto do circuito.
+O o conversor A/D deverá ser de 12 ou mais bits, para que as leituras obtidas tenham uma resolução de
+0,001 m/s?.
+O o software que fará o processamento da aquisição necessitará trocar o sinal da leitura feita, já que a
+montagem do amplificador é inversora.
+O a faixa de passagem do amplificador deve ficar pelo menos entre O e 250 Hz, correspondentes à taxa de
+Nyquist, já que ocorrerão 500 aquisições por segundo.
+O o Sample &amp; Hold vai ser ligado no início da coleta de dados e desligado ao seu final, com a chave mantida
+fechada durante todos os 2 segundos de cada coleta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

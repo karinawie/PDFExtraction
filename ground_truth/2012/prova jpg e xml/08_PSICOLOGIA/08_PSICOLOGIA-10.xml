@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-27T19:30:19</Created>
+	<LastChange>2020-10-27T19:54:03</LastChange></Metadata>
+	<Page imageFilename="08_PSICOLOGIA-10.jpg" imageWidth="1616" imageHeight="2166">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="81,176 506,176 506,187 1536,187 1536,204 1534,204 1534,1381 1535,1381 1535,1626 1536,1626 1536,1698 855,1698 855,1729 435,1729 435,1776 303,1776 303,2013 129,2013 129,2011 81,2011"/>
+	<TableRegion id="r1">
+	<Coords points="139,405 139,1305 1465,1305 1465,405"/></TableRegion>
+	<TextEquiv conf="0.55535">
+	<Unicode>QUESTÃO 12
+Os pais e professores de Paulinho, que tem 6 anos e 3 meses de idade, gostariam de saber mais sobre seu desenvolvimento
+cognitivo. A professora diz que Paulinho parece ter dificuldades em se comunicar com as crianças de sua classe. Ele foi
+avaliado por meio de uma bateria de testes cognitivos. Os resultados dessa avaliação foram comparados aos do grupo
+normativo de crianças da mesma faixa etária. Os resultados da avaliação de Paulinho são apresentados na tabela a seguir.
+Considerando os resultados apresentados acima, avalie as afirmações a seguir.
+I. Em parte dos testes que requerem habilidades visuais, verifica-se que Paulinho tem desempenho acima do
+esperado para crianças de sua idade. Por exemplo, em tarefas que envolvem processamento visual, ele chega a
+ter desempenho classificado entre as 10% melhores notas obtidas por crianças da mesma faixa etária.
+II. Paulinho apresenta desempenhos muito baixos, em relação a crianças de sua idade, em tarefas de processamento
+auditivo e conhecimento de palavras. Isso poderá ajudar a compreender melhor as dificuldades de comunicação
+relatadas. Esses resultados alertam para possíveis dificuldades na aquisição de leitura e escrita.
+III. Considerando a capacidade global (combinando-se todos os subtestes), Paulinho tem desempenho superior
+à média, entre os 2% de notas mais altas. Esse resultado elimina a hipótese de explicações cognitivas para as
+dificuldades de comunicação relatadas pela professora.
+É correto o que se afirma em
+A I, apenas.
+B III, apenas.
+C I e II, apenas.
+D II e III, apenas.
+E I, II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

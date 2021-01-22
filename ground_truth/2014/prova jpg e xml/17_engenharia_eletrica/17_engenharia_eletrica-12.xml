@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:43:41</Created>
+	<LastChange>2020-11-21T21:29:04</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-12.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 411,238 411,294 811,294 811,295 1538,295 1538,432 969,432 969,791 1537,791 1537,1104 84,1104 84,769 83,769 83,294 84,294"/>
+	<ImageRegion id="r1">
+	<Coords points="544,436 544,726 1034,726 1034,436"/></ImageRegion>
+	<TextEquiv conf="0.92995">
+	<Unicode>QUESTÃO DISCURSIVA 5
+O gráfico abaixo mostra a resposta em frequência, H(f), de um sistema linear e invariante no tempo. O eixo
+vertical representa a relação dos valores de tensão eficaz entre saída e entrada do sistema em função da
+frequência f. Desse modo, para frequências f menores do que fA , o valor da tensão eficaz na saída dividido
+pelo valor da tensão eficaz na entrada do sistema vale A.
+A partir dessas informações, faça o que se pede nos itens a seguir.
+a) Considerando A = 1, determine o valor de B para que ocorra uma atenuação de 60 dB entre entrada e
+saída para frequências acima de f,., apresentando os cálculos realizados. (valor: 4,0 pontos)
+b) Considerando que f, = 3,8 kHz, f, = 4,0 kHz e que esse sistema será utilizado como filtro imediatamente
+antes de um conversor analógico-digital para o processamento digital dos sinais produzidos, qual deverá
+ser a mínima frequência de amostragem adotada para se reduzir corretamente a sobreposição espectral
+(aliasing)? Justifique sua resposta. (valor: 4,0 pontos)
+c) A partir das informações apresentadas nos itens (a) e (b), indique o tipo de filtro que melhor caracteriza
+esse comportamento de resposta em frequência. (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:50:41</Created>
+	<LastChange>2020-12-06T02:55:37</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-26.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="145,299 316,299 316,359 1310,359 1310,360 1600,360 1600,508 1599,508 1599,631 1600,631 1600,939 312,939 312,1184 311,1184 311,1185 146,1185 146,963 147,963 147,937 148,937 148,604 146,604 146,603 145,603 145,507 144,507 144,506 145,506"/>
+	<TextEquiv conf="0.96560">
+	<Unicode>QUESTÃO 33
+O controlador proporcional-integral-derivativo (PID) é o tipo de controle mais utilizado na indústria. Esse
+controlador, para uma grande gama de processos industriais, oferece bom desempenho, além de ser de
+fácil entendimento. O controle PID é implementado em praticamente todos os controladores industriais
+disponíveis comercialmente.
+Considerando esse tipo de controlador, avalie as afirmações a seguir no que diz respeito às características de
+cada um de seus componentes.
+|. Ao se adicionar um polo na função de transferência de malha fechada, a ação integral melhora a
+estabilidade relativa do sistema.
+Il. A ação proporcional por si só não garante a eliminação do erro em regime permanente.
+Ill. A ação derivativa só atua em situações em que há variação do erro no tempo.
+IV. A ação derivativa deve ser utilizada em processos cujos sinais apresentam ruídos, uma vez que ela é
+responsável por antecipar o aparecimento do erro.
+É correto apenas o que se afirma em
+Oie.
+Oie.
+Oie.
+O L1lelv.
+OuMmMelm</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:36:37</Created>
+	<LastChange>2020-11-21T19:48:38</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-31.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,593 1539,593 1539,741 1538,741 1538,938 1539,938 1539,1119 1538,1119 1538,1277 1537,1277 1537,1381 1538,1381 1538,1452 1537,1452 1537,1540 1426,1540 1426,1589 832,1589 832,1278 831,1278 831,1153 880,1153 880,742 832,742 832,594 831,594 831,593 832,593"/>
+	<TextEquiv conf="0.96727">
+	<Unicode>QUESTÃO 30
+Um engenheiro de controle e automação necessita
+especificar um transdutor de temperatura para
+um projeto de controle automático de um forno.
+É requisito de projeto que o controlador lógico
+programável (CLP) esteja localizado na sala de
+comando, a qual está a uma distância de 300 metros
+do forno.
+Nesse contexto, considerando-se que o engenheiro
+escolheu um transdutor com transmissão no padrão
+4 mA a 20 mA, avalie as seguintes asserções e a
+relação proposta entre elas.
+|. A transmissão de sinal de transdutores
+distantes do CLP é mais segura no padrão
+4 mA a 20 mA, que nos padrões OVa5V
+ou O mA a 20 mA.
+PORQUE
+Il. No padrão 4 mA a 20 mA é possível identificar
+perda de sinal nos cabos de transmissão, como,
+por exemplo, em problemas de rompimento
+de cabo ou desconexão com o CLP.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,238 255,238 255,297 791,297 791,675 789,675 789,1245 790,1245 790,1958 678,1958 678,2006 85,2006 85,2007 84,2007 84,1580 83,1580 83,1579 84,1579 84,676 83,676 83,297 84,297"/>
+	<TableRegion id="r2">
+	<Coords points="78,747 78,1128 794,1128 794,747"/></TableRegion>
+	<TextEquiv conf="0.96572">
+	<Unicode>QUESTÃO 29
+O estudo da cinemática direta de um manipulador
+robótico tem como objetivo obter equações para
+o cálculo da posição e da orientação do efetuador
+do robô em relação à sua base como função das
+variáveis das juntas. Para determinar as equações
+da cinemática direta de manipuladores robóticos
+de cadeia aberta, usualmente são utilizados os
+parâmetros de Denavit-Hartenberg. O quadro abaixo
+traz esses parâmetros para um robô comercial
+específico.
+Parâmetros de Denavit-Hartenberg
+Com base na situação descrita, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O robô comercial apresentado possui cinco
+graus de liberdade, sendo classificado como
+robô do tipo polar.
+PORQUE
+ll. Das cinco variáveis do robô, as que
+correspondem às três primeiras juntas
+são: uma de rotação e duas de translação,
+respectivamente.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="813,2018 813,234"/></SeparatorRegion></Page></PcGts>

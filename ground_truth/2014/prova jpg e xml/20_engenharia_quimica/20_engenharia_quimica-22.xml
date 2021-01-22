@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:11:22</Created>
+	<LastChange>2020-11-22T02:23:08</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-22.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,293 1174,293 1174,294 1537,294 1537,1103 1538,1103 1538,1492 323,1492 323,1737 322,1737 322,1738 84,1738"/>
+	<ImageRegion id="r1">
+	<Coords points="178,378 178,1092 1465,1092 1465,378"/></ImageRegion>
+	<TextEquiv conf="0.94938">
+	<Unicode>QUESTÃO 21
+Um engenheiro deseja calcular a energia potencial e a energia cinética da água que escoa em uma queda
+d'água com 80 m de altura, conforme esquematizado na figura abaixo.
+De acordo com a Primeira Lei da Termodinâmica, considerando que 1 kg de água escoa nessa queda d'água
+e admitindo que nenhuma energia é trocada entre a massa de água e as suas vizinhanças e, ainda, que a
+aceleração da gravidade é igual a 10 m.s?, avalie as afirmações a seguir.
+|. Aenergia potencial da água no topo da queda d'água, em relação à sua base, é igual a 800 J.
+Il. A energia cinética da água no instante imediatamente anterior ao seu choque com a base da queda
+d'água é igual a 400.
+Ill. A variação de energia potencial é essencialmente nula durante o processo de mistura da água,
+quando ela entra no curso do rio à jusante da queda.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+Oem</Unicode></TextEquiv></TextRegion></Page></PcGts>

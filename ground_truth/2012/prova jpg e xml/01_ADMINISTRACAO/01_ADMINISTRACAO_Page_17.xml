@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T04:06:26</Created>
+	<LastChange>2020-10-27T18:34:15</LastChange></Metadata>
+	<Page imageFilename="01_ADMINISTRACAO_Page_17.jpeg" imageWidth="1595" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="157,573 157,1176 1423,1176 1423,573"/></ImageRegion>
+	<TextRegion id="r17" type="caption">
+	<Coords points="60,242 1515,242 1515,489 1514,489 1514,1627 1513,1627 1513,1712 510,1712 510,1758 186,1758 186,2005 61,2005 61,489 60,489"/>
+	<TextEquiv conf="0.96621">
+	<Unicode>QUESTÃO 21
+Carlos, gerente de operações da fábrica de brinquedos RWZ, constatou que o estoque de um item componente de
+seu principal produto não atende adequadamente a política de gestão de materiais da fábrica, tendo em vista que os
+custos operacionais associados à manutenção do estoque desse item são muito elevados. Atento ao comportamento
+da demanda, Carlos passou a administrar o estoque utilizando o Modelo por Ponto de Pedido. Segundo esse modelo,
+sempre que o nível de estoque do item atingir o Ponto de Pedido, é providenciado um pedido de reposição de Qc unidades,
+as quais, se não ocorrer imprevisto, devem dar entrada em estoque dez (10) dias após a emissão do pedido. A figura a
+seguir ilustra esse modelo.
+Com base nas condições apresentadas no Modelo por Ponto de Pedido proposto por Carlos, avalie as afirmações a seguir.
+|. ARWZ deve administrar os custos operacionais relacionados ao capital empatado, ao espaço de armazenagem,
+à iluminação, à segurança e à obsolescência, já que o estoque médio é de 3 000 unidades.
+Il. A quantidade de itens que deve ser usada entre a data da encomenda e a data de recebimento do lote de
+compra, ou seja, a quantidade suficiente para atender à demanda durante o tempo de ressuprimento,
+é de 2000 unidades.
+Ill. O total de 4 500 unidades corresponde à parcela do estoque do item que será consumida até a data da
+encomenda do lote de compra, sendo de 2500 unidades o nível do estoque no ponto de pedido.
+IV. A demanda diária do item analisado por Carlos é de 200 unidades, e a quantidade a ser reposta, ou seja,
+o tamanho do lote de compra, é de 6000 unidades.
+É correto apenas o que se afirma em
+o.
+o.
+O Ie.
+O llelv.
+O eiv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

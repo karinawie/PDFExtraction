@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:19:14</Created>
+	<LastChange>2020-11-22T03:30:35</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-21.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r1">
+	<Coords points="521,422 521,842 1094,841 1094,421"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,307 1537,307 1537,979 1538,979 1538,1184 1418,1184 1418,1300 923,1300 923,1356 574,1356 574,1423 251,1423 251,1716 84,1716 84,387 83,387 83,307 84,307"/>
+	<TextEquiv conf="0.93628">
+	<Unicode>QUESTÃO 20
+O gráfico a seguir apresenta o diagrama PV (pressão-volume) de uma máquina térmica que opera com um
+gás ideal monoatômico. Os trechos BC e DA representam processos adiabáticos.
+Com base no diagrama PV e nas leis da termodinâmica, avalie as afirmações a seguir.
+|. A variação de energia interna no trecho AB é dada por AFint AB = InkT, (s — 1) , em que 7? éo
+número de moles do gás, R é a constante dos gases ideais e Ta é a temperatura no ponto À .
+Il. No trecho BC, a variação da energia interna é dada por AEint go = —Wrc, em que We é o
+trabalho executado pela expansão do gás.
+Ill. No trecho DA, o trabalho é executado pelo gás, o que produz a variação da energia interna.
+IV. No trecho CD, há aumento de energia interna do gás.
+V. Ociclo ABCDA tem variação de energia interna nula.
+É correto apenas o que se afirma em
+O L11em.
+OLllev
+OL, IVvev.
+O 1, Ieiv.
+OU, IVev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

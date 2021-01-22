@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:36:11</Created>
+	<LastChange>2020-11-22T01:56:38</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-23.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="84,238 255,238 255,302 1537,302 1537,407 1538,407 1538,1727 282,1727 282,2003 84,2003 84,1726 83,1726 83,1608 84,1608 84,574 83,574 83,407 84,407"/>
+	<ImageRegion id="r1">
+	<Coords points="271,778 271,1589 1334,1589 1334,778"/></ImageRegion>
+	<TextEquiv conf="0.96519">
+	<Unicode>QUESTÃO 26
+O número de Mach é a razão entre o módulo da velocidade do escoamento e a velocidade sônica local, ou
+seja, M = V/c. Considere a seguinte notação:
+T é a temperatura estática, definida e utilizada comumente na Termodinâmica; T, é a temperatura de
+estagnação, isto é, a temperatura que o escoamento atinge quando é desacelerado isentropicamente até
+o repouso; T* é a temperatura crítica, isto é, a temperatura que o escoamento atinge quando M = 1. Tanto
+T, como T* são valores de referênca no estudo de escoamentos, em particular escoamentos compressíveis.
+O gráfico abaixo representa, em um duto de seção transversal constante, as relações de temperatura do
+escoamento com a temperatura de estagnação (T/T,) e com a temperatura crítica (T/T*), em função do
+número de Mach. Na entrada do duto, o número de Mach M e a temperatura T são iguais a 1,82 e 300 K,
+respectivamente. Na saída do duto, tem-se M = 1,41.
+A partir do gráfico apresentado, desprezando-se o atrito e adotando-se o calor específico à pressão constante
+Cp = 1 kJ/(kg.K), conclui-se que o calor adicionado ao escoamento, por unidade de massa, da entrada à saída
+do duto, considerando a temperatura de estagnação, é de, aproximadamente,
+O 100 kJ/kg.
+O 60 kJ/kg.
+O 0 kJ/kg.
+O —60 kJ/kg.
+O —100 kJ/kg.</Unicode></TextEquiv></TextRegion></Page></PcGts>

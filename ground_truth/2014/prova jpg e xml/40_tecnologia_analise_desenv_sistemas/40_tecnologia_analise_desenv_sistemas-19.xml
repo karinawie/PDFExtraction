@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:15:53</Created>
+	<LastChange>2020-12-06T02:40:18</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1599,359 1599,502 1595,502 1595,1314 1600,1314 1600,1604 1599,1604 1599,1758 1385,1758 1385,2069 895,2069 895,2070 894,2070 894,1785 895,1785 895,503 893,503"/>
+	<ImageRegion id="r2">
+	<Coords points="908,525 908,1213 1572,1213 1572,525"/></ImageRegion>
+	<TextEquiv conf="0.96603">
+	<Unicode>QUESTÃO 21
+O modelo lógico de dados fornece uma visão da
+maneira como os dados serão armazenados. A figura
+a seguir representa o modelo lógico de um ambiente
+observado em um escritório contábil.
+Em relação ao modelo, avalie as afirmações a seguir.
+|. A entidade Declaração Imposto de Renda é
+uma entidade fraca.
+Il. Orelacionamento entre Contribuinte e Malha
+Fina é do tipo N:M (muitos para muitos).
+Ill. O atributo CPF da entidade Contribuinte
+tem a função de chave estrangeira na
+entidade Declaração Imposto de Renda e no
+relacionamento Contribuinte MalhaFina.
+IV. A entidade Malha Fina não possui chave
+primária somente chave estrangeira.
+V. O relacionamento Contribuinte MalhaFina é
+um relacionamento ternário.
+É correto apenas o que se afirma em
+O Le.
+O LIlelv.
+O 1 IVev
+O 1,Iev.
+O ML, IVev.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="872,2086 872,291"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 317,299 317,362 852,362 852,766 503,766 503,870 784,870 784,997 627,997 627,1032 616,1032 616,1232 684,1232 684,1233 685,1233 685,1736 850,1736 850,1806 404,1806 404,2072 147,2072 147,2073 146,2073 146,1807 145,1807 145,1736 266,1736 266,1152 146,1152 146,1153 145,1153 145,1080 355,1080 355,927 255,927 255,891 148,891 148,892 147,892 147,767 146,767 146,363 145,363"/>
+	<TextEquiv conf="0.94695">
+	<Unicode>QUESTÃO 20
+Existem várias maneiras de se percorrer uma árvore
+binária. A função a seguir, escrita em pseudo-
+código, percorre uma árvore na ordem esquerda-
+raiz-direita, conhecida por varredura e-r-d recursiva.
+A função erd() recebe por parâmetro a raiz r
+de uma árvore, e faz uso de seus elementos esq,
+dir e cont, que representam, respectivamente,
+ponteiros para uma sub-árvore à esquerda de rr,
+uma sub-árvore à direita de r e o conteúdo de r,
+respectivamente.
+função erd (árvore r)
+(
+se (r
+(
+!= NULO )
+erd( r -—-&gt; esq );
+escreva ( r-&gt; conteúdo );
+erd( r -&gt; dir );
+)
+Considere a árvore binária a seguir.
+A sequência correta de exibição do conteúdo da
+árvore utilizando a função erd () é
+O 5,3,8,0,1,7,2
+O 0,1,7,2,3,8,5
+O 0,3,5,1,7,8,2
+O 0,3,1,5,7,8,2
+O 2,7,8,5,0,3,1</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T14:53:10</Created>
+	<LastChange>2020-10-28T16:30:59</LastChange></Metadata>
+	<Page imageFilename="16_TEC_GESTAO_HOSPITALAR-22.jpg" imageWidth="1613" imageHeight="2167">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="829,235 1001,235 1001,295 1535,295 1535,959 1537,959 1537,1067 1535,1067 1535,1195 1216,1195 1216,1307 1059,1307 1059,1418 1067,1418 1067,1497 830,1497 830,1218 924,1218 924,993 878,993 878,764 828,764 828,295 829,295"/>
+	<TextEquiv conf="0.96503">
+	<Unicode>QUESTÃO 30
+O Serviço Auxiliar de Diagnóstico e
+Terapêutica (SADT) de um hospital privado,
+que atende pacientes internados e externos,
+registra muitas reclamações referentes ao
+longo tempo de espera no cadastramento.
+Foram identificadas, também, muitas falhas na
+abertura do cadastro, tal como o esquecimento
+do registro de um dos exames solicitados.
+Para o diagnóstico dos problemas relatados na
+situação acima, avalie o indicador de desempenho
+adequado para utilização e avaliação do gestor e sua
+respectiva fórmula.
+|. Tempo médio de Espera para o Cadastro
+(TEC) = somatório (hora inicial de atendimento
+- hora de retirada da senha) / total de
+atendimentos.
+Ill. Tempo Médio de Realização do Exame
+(TMRE) = somatório (hora final do exame —
+hora inicial do exame) / total de exames.
+Índice de não Conformidade de Cadastro
+(INCC) = (número de não conformidades de
+cadastro / total de pacientes atendidos) x 100.
+É correto o que se afirma em
+O |, apenas
+O 1l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O Le.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,296 787,296 787,518 788,518 788,669 786,669 786,796 787,796 787,1344 788,1344 788,1469 786,1469 786,1575 787,1575 787,1647 786,1647 786,1736 675,1736 675,1785 82,1785 82,1345 81,1345 81,796 82,796 82,670 81,670"/>
+	<TextEquiv conf="0.95572">
+	<Unicode>QUESTÃO 29
+O Serviço de Nutrição Dietético (SND) atua na
+produção diária das refeições, estabelece orientações
+gerais para manipuladores de alimentos, bem como
+critérios que definem o padrão e a qualidade das
+refeições oferecidas.
+Os funcionários do SND devem ser
+conscientizados a observar as medidas de higiene,
+a fim de proteger os alimentos da contaminação
+química, física e microbiológica.
+Nesse contexto, avalie as seguintes asserções e a
+relação proposta entre elas.
+|. Compete à área de produção planejar, receber,
+armazenar e distribuir as refeições conforme as
+normas da vigilância sanitária, sob a supervisão de
+nutricionistas que, junto com o gestor hospitalar,
+são responsáveis pelo planejamento e organização
+do setor.
+PORQUE
+Il. Cabe à área de produção preparar refeições
+com dietas especializadas de acordo com a
+prescrição dietoterápica e normas higiênico-
+sanitárias dos alimentos para garantir o
+fornecimento de refeições seguras.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e
+a 1|l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras,
+mas a ll não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 11 é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="807,2021 807,234"/></SeparatorRegion></Page></PcGts>

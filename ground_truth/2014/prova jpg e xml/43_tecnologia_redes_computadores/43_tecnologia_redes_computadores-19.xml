@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:33:14</Created>
+	<LastChange>2020-12-06T03:43:45</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-19.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="145,299 316,299 316,368 1599,368 1599,606 1598,606 1598,672 369,672 369,1114 1599,1114 1599,1627 1296,1627 1296,1686 636,1686 636,1750 313,1750 313,2043 146,2043 146,1783 147,1783 147,1716 192,1716 192,1654 194,1654 194,1193 145,1193 145,1164 147,1164 147,722 145,722"/>
+	<TextEquiv conf="0.96133">
+	<Unicode>QUESTÃO 17
+A série de normas ANSI/TIA/EIA-568-B recebeu ao longo dos anos dezenas de adendos, boletins e
+atualizações. A ANSI determina que as normas criadas por seus comitês sejam revisadas em períodos de
+cinco anos. Por essas razões, e para desenvolver documentos mais completos e de consulta mais simples, a
+nova série de normas ANSI/TIA/EIA-568-C foi desenvolvida para substituir a série ANSI/TIA/EIA-568-B.
+MARIN, P. S. Cabeamento Estruturado - Desvendando cada passo: do projeto a instalação. 4 ed. São Paulo: Érica, 2013 (adaptado).
+Uma novidade na série ANSI/TIA/EIA/-568-C é a sua divisão em cinco documentos principais, como mostra
+o quadro abaixo:
+Em relação aos assuntos, no projeto de cabeamento estruturado, que tratam esses documentos, avalie as
+afirmações a seguir.
+|. Atomada onde é conectado o equipamento do usuário é chamada de tomada de equipamento e tem
+a sigla EO na ANSI/EIA/TIA-568-C.4.
+Il. Os requisitos mecânicos, códigos de cores e padrões de terminação do cabeamento em par trançado
+estão definidos na ANSI/EIA/TIA-568-C.1.
+As fibras multimodo de 50/125 um otimizadas para laser são recomendadas para o backbone óptico
+na ANSI/EIA/TIA-568-C.1.
+IV. As especificações dos componentes ópticos, como comprimento de onda, atenuação, largura de
+banda modal estão na ANSI/EIA/TIA-568-C.3.
+V. Os cabos categoria 6A passaram a ser reconhecidos pela ANSI/EIA/TIA-568-C.1
+É correto apenas o que se afirma em
+O Le.
+O Llev
+O, Melv.
+O 1,IVev.
+O UN, IVev</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="144,738 144,1083 1597,1083 1597,738"/></TableRegion></Page></PcGts>

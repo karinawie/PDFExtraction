@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:36:49</Created>
+	<LastChange>2020-11-21T19:49:20</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-30.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,297 1538,297 1538,487 1537,487 1537,1331 1538,1331 1538,1577 1537,1577 1537,1665 1087,1665 1087,1705 574,1705 574,1761 210,1761 210,2005 84,2005 84,1784 85,1784 85,488 83,488 83,297 84,297"/>
+	<ImageRegion id="r1">
+	<Coords points="218,515 218,1163 1536,1163 1536,515"/></ImageRegion>
+	<TextEquiv conf="0.96005">
+	<Unicode>QUESTÃO 28
+A figura abaixo contém a representação esquemática de uma aplicação para o controle de temperatura de
+um forno utilizando um controlador lógico programável (CLP). O sensor de temperatura em conjunto com o
+transdutor fornece um sinal analógico 0-10 V / 20-150ºC enviado ao CLP, o qual por sua vez, envia um sinal
+de 0-20 mA para a válvula, permitindo a variação de sua abertura e a dosagem gradativa da quantidade de
+combustível enviado ao forno. Assim, pode-se modificar a temperatura do forno conforme a necessidade.
+Em relação ao sistema de automação apresentado, avalie as afirmações a seguir.
+|. O uso da unidade A/D de 8 bits no CLP permite aquisição de temperatura com uma resolução de,
+aproximadamente, 0,508 ºC.
+Il. A unidade D/A no CLP pode ser substituída por um módulo de saída digital a relé especificado para um
+valor de saída de corrente de até 10 A, valor maior que o sinal de saída enviado para a válvula.
+Ill. Para comunicação entre o CLP e um sistema SCADA (supervisory control and data acquisition), podem
+ser usadas, entre outras, rede industrial PROFIBUS ou comunicação serial com protocolo MODBUS,
+sendo a primeira mais onerosa que a segunda.
+IV. O sistema supervisório pode ser programado diretamente no CLP, sem a necessidade de dispositivos
+adicionais, reduzindo o custo de implementação do sistema como um todo.
+V. A realização dessa automação requer um CLP de grande porte, devido ao sistema operar em malha
+fechada, o que implica o uso de blocos específicos de programação.
+É correto apenas o que se afirma em
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T23:35:17</Created>
+	<LastChange>2020-11-22T01:44:30</LastChange></Metadata>
+	<Page imageFilename="19_engenharia_mecanica-28.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r2">
+	<Coords points="113,620 113,1219 1515,1220 1515,621"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,306 1538,306 1538,1565 813,1565 813,1676 139,1676 139,1670 84,1670"/>
+	<TextEquiv conf="0.95388">
+	<Unicode>QUESTÃO 35
+Considere que um eixo gira com velocidade angular w constante, mas apresenta vibração excessiva por causa
+do desbalanceamento das quatro massas concentradas, dispostas em torno e ao longo do eixo. Assuma que,
+por algum motivo, as massas não podem ser individual e estaticamente balanceadas dentro dos seus próprios
+planos, sendo necessário criar dois planos de correção A e B. As massas desbalanceadas apresentam valores
+de m,=m,=m,=m,=1 kg, raios R,=R,=R,=R,=1 cm e posições angulares 0,,02,03,0,4 indicadas na figura.
+Nessa situação, os produtos mR e o posicionamento angular para balanceamento dinâmico nos planos de
+correção A e B satisfazem às seguintes condições.
+m,R = m,R,=0,5 sen 45º [kg- cm], 914 = 90º, dg = 270.
+m,R,= m,R,=1,0 sen 45º [kg- cm], 91 =45º, Og = 225",
+m, R = m,R,=2,0 sen 45º [kg - cm], 914 = 90º, dg = 270º.
+m, R = m,R,=4,0 sen 45º [kg- em], da =45º, Og = 225,
+m, R,= m,R,=1,0 sen 45º [kg- cm], 914 =135º, Og =315".</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T19:02:45</Created>
+	<LastChange>2020-09-24T19:02:53</LastChange></Metadata>
+	<Page imageFilename="04_computacao_licenciatura-12.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r0">
+	<Coords points="157,471 157,1352 1460,1352 1460,471"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="85,238 255,238 255,294 1537,294 1537,353 1538,353 1538,1525 1539,1525 1539,1582 1538,1582 1538,1660 1430,1660 1430,1661 1375,1661 1375,1851 1258,1851 1258,1852 1141,1852 1141,1853 1023,1853 1023,1854 906,1854 906,1855 789,1855 789,1856 671,1856 671,1857 554,1857 554,1858 437,1858 437,1859 319,1859 319,1860 250,1860 250,2000 86,2000 86,2001 85,2001 85,1971 84,1971 84,366 83,366 83,294 84,294 84,239 85,239"/>
+	<TextEquiv conf="0.96578">
+	<Unicode>QUESTÃO 09
+A figura a seguir apresenta duas telas de um sistema de venda de passagens aéreas de uma empresa. Na tela 1,
+o usuário selecionou sua origem, seu destino, e, logo em seguida, sua data de ida. Ao mudar o foco para o
+campo de preenchimento da data de retorno, a ferramenta de calendário apresentou automaticamente a
+data do dia da compra (01/09/2014), conforme exibido na tela 2.
+Com base nas telas apresentadas e em dimensões de qualidade, tais como facilidade de aprendizagem,
+prevenção de erros, eficiência, memorização e satisfação subjetiva, avalie as afirmações a seguir.
+|. O botão “Ir” apresenta uma metáfora adequada com o mundo real, facilitando a aprendizagem.
+Il. Na tela 1, o uso do calendário clicável não auxilia na prevenção de erros, visto que a entrada de datas
+pode ser realizada manualmente pelos usuários.
+Ill. Na tela 2, o fato de o calendário selecionar a data da compra prejudica a eficiência da interface, já
+que a data preenchida é anterior à data de ida.
+IV. A memorização é prejudicada pois a interface apresenta elementos gráficos em demasia.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oielv
+O Lev.
+ÔuMmelv</Unicode></TextEquiv></TextRegion></Page></PcGts>

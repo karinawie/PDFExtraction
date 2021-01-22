@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:51:33</Created>
+	<LastChange>2020-12-06T02:59:12</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-21.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="893,299 1065,299 1065,359 1599,359 1599,549 1363,549 1363,657 1598,657 1598,747 1599,747 1599,1337 895,1337 895,1336 894,1336 894,726 893,726 893,657 1129,657 1129,549 894,549 894,548 893,548"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 26
+Para o projeto de um sistema eletrônico digital de
+supervisão industrial, foi verificado que a saída (S)
+desejada do circuito de monitoramento com três
+sensores (A, B e C) poderá ser obtida com a expressão
+lógica abaixo:
+S=(AC+AB)
+Ao avaliar o resultado da expressão lógica,
+conclui-se que
+O a expressão original pode ser simplificada até
+obter S = A+ BC.
+O a saída do sistema de monitoramento é
+compatível com a expressão S = A+ ABC +C,
+O a simplificação da expressão lógica está restrita
+à inserção de mais uma variável no sistema de
+monitoramento.
+O a expressão S=A+B+BC também
+apresentaria os mesmos resultados de
+monitoramento da expressão original.
+O a saída do sistema de monitoramento
+é compatível com a expressão
+S = ABC + ABC + ABC.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="146,299 317,299 317,359 853,359 853,543 852,543 852,1355 147,1355 147,1115 146,1115 146,542 145,542 145,359 146,359"/>
+	<ImageRegion id="r4">
+	<Coords points="313,550 313,1025 669,1025 669,550"/></ImageRegion>
+	<TextEquiv conf="0.81140">
+	<Unicode>QUESTÃO 25
+Os circuitos transistorizados são amplamente
+utilizados em automação industrial, podendo operar
+como chaves, trabalhar entre o corte e a saturação
+ou servir apenas como amplificadores de sinais de
+tensão ou corrente.
+No circuito acima, se B = 100 e LL, = 10uA, o valor de
+Veg é igual a
+O 11,20 vV.
+O ov
+Oiv
+O 16v.
+O 2v.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="869,291 869,2091 872,2091 872,291"/></SeparatorRegion></Page></PcGts>

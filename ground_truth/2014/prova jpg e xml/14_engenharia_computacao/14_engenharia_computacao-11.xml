@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:17:56</Created>
+	<LastChange>2020-11-21T19:31:59</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-11.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="84,238 411,238 411,307 1538,307 1538,896 1200,896 1200,970 1184,970 1184,1042 86,1042 86,1043 85,1043 85,971 84,971 84,678 83,678 83,307 84,307"/>
+	<TextEquiv conf="0.96583">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Um processo monitora três parâmetros para controle de qualidade: A, B, C. Cada parâmetro possui um
+valor na decisão final da qualidade. A existência do parâmetro A pesa 30% na decisão final, enquanto os
+parâmetros B e C pesam 30% e 40%, respectivamente. O grau de aprovação do processo é dado pela soma
+dos percentuais desses três parâmetros. O produto gerado pelo processo é considerado aprovado, caso o
+grau de qualidade seja superior ou igual a 60%, e reprovado, se o grau de qualidade for inferior ou igual a
+30%. Caso o grau de qualidade esteja entre 30% e 60%, a decisão de aprovação ou reprovação é indiferente.
+Por exemplo, se um produto apresentar os parâmetros A e B, terá grau de qualidade de 30%+30% = 60%,
+levando à sua aprovação.
+Com base na situação descrita, projete um circuito lógico com o menor número possível de portas lógicas,
+para determinar a aprovação ou não do produto de acordo com a presença de seus parâmetros. As entradas
+do circuito serão os sinais A, B, C, e a saída será um sinal Z. Para atingir esse objetivo, faça o que se pede nos
+itens a seguir.
+a) Monte uma tabela verdade do sistema com a formação ABC. (valor: 4,0 pontos)
+b) Desenhe o circuito final otimizado utilizando portas lógicas. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

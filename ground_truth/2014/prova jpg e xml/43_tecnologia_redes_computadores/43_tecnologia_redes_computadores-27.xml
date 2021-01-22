@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:31:36</Created>
+	<LastChange>2020-12-06T03:38:11</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-27.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="145,299 316,299 316,364 1601,364 1601,439 1093,439 1093,1246 1600,1246 1600,1819 1599,1819 1599,1984 1598,1984 1598,2036 896,2036 896,2037 194,2037 194,2038 193,2038 193,1986 146,1986 146,1246 147,1246 147,441 145,441"/>
+	<ImageRegion id="r1">
+	<Coords points="233,477 233,1127 1491,1127 1491,477"/></ImageRegion>
+	<TextEquiv conf="0.96540">
+	<Unicode>QUESTÃO 29
+A figura a seguir mostra um cenário típico do uso do padrão 802.1X para autenticação de uma estação/
+dispositivo em uma rede.
+Em relação às entidades mostradas na figura, assinale a opção correta.
+O O Autenticador é responsável por intermediar a comunicação entre entidades, o 802.1X é responsável
+por fazer a verificação de credenciais de usuários, o Servidor de Autenticação busca acesso aos recursos
+da rede e o Requisitante é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O O Servidor de Autenticação é responsável por intermediar a comunicação entre entidades, o Autenticador
+é responsável por fazer a verificação de credenciais de usuários, o Requisitante busca acesso aos recursos
+da rede e o 802.1X é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O O Autenticador é responsável por intermediar a comunicação entre entidades, o Servidor de Autenticação
+é responsável por fazer a verificação de credenciais de usuários, o Requisitante busca acesso aos recursos
+da rede e o 802.1X é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O ORequisitante é responsável por intermediar a comunicação entre entidades, o Autenticador é responsável
+por fazer a verificação de credenciais de usuários, o 802.1X busca acesso aos recursos da rede e o Servidor
+de Autenticação é responsável por padronizar o formato e o fluxo de mensagens entre entidades.
+O O Servidor de Autenticação é responsável por intermediar a comunicação entre entidades, o 802.1X é
+responsável por fazer a verificação de credenciais de usuários, o Requisitante busca acesso aos recursos
+da rede e o Autenticador é responsável por padronizar o formato e o fluxo de mensagens entre entidades.</Unicode></TextEquiv></TextRegion></Page></PcGts>

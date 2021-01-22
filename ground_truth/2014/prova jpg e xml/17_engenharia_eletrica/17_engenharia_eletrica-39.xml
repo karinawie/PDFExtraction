@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:39:15</Created>
+	<LastChange>2020-11-21T21:01:00</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-39.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="833,299 1538,299 1538,1031 1539,1031 1539,1099 984,1099 984,1201 960,1201 960,1345 833,1345 833,1346 832,1346 832,300 833,300"/>
+	<ImageRegion id="r2">
+	<Coords points="905,694 905,1000 1505,1000 1505,694"/></ImageRegion>
+	<TextEquiv conf="0.95444">
+	<Unicode>QUESTÃO 35 - Telecomunicação
+Um determinado sinal de áudio, com densidade
+espectral de potência apresentada no gráfico abaixo,
+deve ser gravado em CD (Compact Disc) utilizando
+um conversor analógico-digital (A/D) com 1 024
+níveis. Na saída do conversor, aos bits codificados
+serão adicionados bits para correção de erros,
+bits de sincronismo e bits de controle. Esses bits
+adicionais representam uma sobrecarga de 200%,
+isto é, para cada bit gerado no conversor A/D, 2 bits
+de sobrecarga são adicionados.
+Para essa situação, a taxa do sistema de gravação do
+sinal de áudio no CD, em kbit/s, deve ser igual a
+O 1764,0.
+O 13230.
+O 882,0.
+O 661,5.
+O 11,0.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,301 790,301 790,580 789,580 789,804 788,804 788,981 790,981 790,1151 417,1151 417,1349 133,1349 133,1346 84,1346 84,1151 83,1151"/>
+	<TextEquiv conf="0.68669">
+	<Unicode>QUESTÃO 35 - Controle e Automação
+O estudo de sistemas lineares é importante em
+engenharia pelo fato de que boa parte dos fenômenos
+físicos pode ser aproximadamente descrita por
+comportamentos lineares, ao menos em torno dos
+pontos de operação. Por outro lado, a teoria de
+sistemas lineares é muito útil também no estudo do
+comportamento local de sistemas não-lineares.
+É importante salientar que os sistemas físicos
+podem ser representados por equações algébricas
+e equações diferenciais, lineares e não-lineares, e
+o estudo de tais sistemas envolve a modelagem e a
+solução dessas equações.
+No caso específico da equação abaixo, para uma
+entrada z(t), y(t) é a saída de um sistema dada por
+yY(t) = (x(t))+bx(t)+e.
+Para algumas combinações dos valores das
+constantes a, be c, o sistema poderá ser linear ou
+não-linear. O sistema resultante será linear quando
+a=0,b=1,c=O0.
+a=1,b=1,c=O0.
+a=1,b=0,c=1.
+a=2,b=0,c=1l.
+a=2,b=0,c=O0.
+</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="805,234 805,2021 813,2021 813,234"/></SeparatorRegion></Page></PcGts>

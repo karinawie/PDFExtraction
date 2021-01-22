@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:13:00</Created>
+	<LastChange>2020-11-22T02:29:45</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-13.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,235 412,235 412,291 1537,291 1537,365 1280,365 1280,502 1538,502 1538,612 1536,612 1536,734 1538,734 1538,899 132,899 132,898 131,898 131,852 84,852 84,733 85,733 85,611 84,611 84,475 83,475 83,390 84,390"/>
+	<TextEquiv conf="0.94438">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Óxido de etileno é um importante intermediário químico produzido pela reação em fase gasosa entre
+etileno e oxigênio, catalisada por prata suportada em alumina, conforme a equação química a seguir:
+C,H, (A) + 0,5 O, (B) &gt; C,H,O (C)
+Assumindo que a reação é elementar e exotérmica, faça o que se pede nos itens a seguir.
+a) Represente graficamente o diagrama de energia da reação com catalisador, indicando os níveis energéticos
+inicial e final e o efeito da energia da ativação. Nesse diagrama, represente o comportamento esperado
+para essas variáveis, no caso da reação ser conduzida na ausência de catalisador. (valor: 3,0 pontos)
+b) Escreva a equação de velocidade de formação de “C” para a reação que ocorre com excesso de “B”.
+(valor: 2,0 pontos)
+c) Escreva a equação de velocidade de formação de “C” para a reação que ocorre quando “B” está presente
+em proporção estequiométrica. (valor: 2,0 pontos)
+d) Deduza a expressão para o cálculo do volume de um reator perfeitamente agitado (CSTR) para a condução
+dessa reação com excesso de “B”. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

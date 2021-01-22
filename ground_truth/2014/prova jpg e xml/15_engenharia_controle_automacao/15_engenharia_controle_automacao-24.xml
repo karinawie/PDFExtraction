@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:37:53</Created>
+	<LastChange>2020-11-21T19:53:36</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 1537,298 1537,1017 1538,1017 1538,1761 1537,1761 1537,1849 1506,1849 1506,1993 85,1993 85,1992 84,1992 84,367 83,367 83,298 84,298"/>
+	<ImageRegion id="r1">
+	<Coords points="168,397 168,976 1426,976 1426,397"/></ImageRegion>
+	<TextEquiv conf="0.95754">
+	<Unicode>QUESTÃO 20
+Considere o sistema de controle de um processo industrial descrito pelo diagrama de blocos apresentado na
+figura abaixo:
+No diagrama, X(s), Y(s), E(s), U(s), P(s) e R(s) representam, respectivamente, os sinais de referência, saída,
+erro, ação de controle, perturbação na entrada da planta e ruído de medição. G(s) é a função de transferência
+da planta a ser controlada. Os demais blocos constituem o controlador, que é descrito pelas seguintes funções
+de transferência:
+1
+1 HH (s) = —
+Ts
+Tas
+H. = ——
+2. a(s) 1+ ans
+3. H;3 (s) = K
+em queTi, 12, a e K são as constantes não nulas sintonizadas pelo projetista do sistema de controle.
+Considere que, nos testes, durante o comissionamento do sistema, verificou-se que a aplicação de um sinal
+de referência x(t) do tipo degrau resulta em uma ação de controle u(t) com um elevado pulso imediatamente
+após a aplicação do degrau. Esse pulso é inadequado para o processo, pois causa fadiga precoce do atuador.
+Para contornar esse problema, é necessário
+O alterar a estrutura do controlador, fazendo com que a ação proporcional atue somente sobre o percurso
+de retroação.
+O alterar a estrutura do controlador, fazendo com que a ação derivativa atue somente sobre o percurso
+de retroação.
+O inserir um filtro para atenuar o efeito da perturbação, após a alteração abrupta do valor de referência.
+O inserir um filtro para atenuar o efeito do ruído, após a alteração abrupta do valor de referência.
+O alterar a estrutura do controlador atual para um PID tradicional.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:02:01</Created>
+	<LastChange>2020-09-24T18:29:41</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-25.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="832,238 1003,238 1003,297 1538,297 1538,521 1070,521 1070,832 1539,832 1539,1061 1538,1061 1538,1367 1218,1367 1218,1484 1061,1484 1061,1595 1070,1595 1070,1674 832,1674 832,1394 926,1394 926,1239 880,1239 880,1061 832,1061 832,521 830,521 830,297 832,297"/>
+	<TextEquiv conf="0.96356">
+	<Unicode>QUESTÃO 33
+A seguinte sequência de instruções lógicas e
+aritméticas será executada por um processador em
+pipeline de 5 estágios: busca da instrução, leitura de
+registradores, execução, acesso à memória e escrita
+de registradores. A sequência, no entanto, apresenta
+conflito de dados.
+R5, R4, R3
+or R6, R4, R2
+add R1,R2,R2
+R3, R2, R1
+R1, R1, R4
+and
+mul
+sub
+O pipeline foi implementado sem hardware adicional
+para a resolução de conflitos, mas os valores dos
+registradores podem ser escritos na primeira metade
+do ciclo e lidos na segunda metade. Sabendo-se que
+o primeiro operando das instruções é o registrador
+destino, avalie as afirmações a seguir.
+|. A troca de posição entre as instruções or e
+add soluciona o conflito de dados.
+Il. A troca de posição entre as instruções add e
+and soluciona o conflito de dados.
+A inserção de uma operação nop (sem
+operação) entre add e mul soluciona o conflito
+de dados.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1LI1elm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,294 735,294 735,323 656,323 656,455 790,455 790,908 791,908 791,937 789,937 789,1054 791,1054 791,1701 789,1701 789,1738 574,1738 574,1788 232,1788 232,1931 284,1931 284,2004 84,2004 84,1805 85,1805 85,1754 130,1754 130,1636 132,1636 132,1487 178,1487 178,1087 132,1087 132,1054 178,1054 178,937 132,937 132,901 84,901 84,820 82,820 82,536 84,536"/>
+	<TextEquiv conf="0.96282">
+	<Unicode>QUESTÃO 32
+Considere as proposições lógicas simples P, OQ, R:
+P: o programador lê a literatura técnica
+OQ: o programador conhece o idioma inglês
+R: o programador será selecionado
+Pretende-se demonstrar a validade ou invalidade do
+seguinte argumento:
+Se o programador lê a literatura técnica, então ele
+conhece inglês.
+Se o programador conhece o idioma inglês, então ele
+será selecionado.
+O programador não será selecionado ou ele lê a
+literatura técnica.
+Logo, o programador Iê a literatura técnica se e
+somente se conhece o idioma inglês.
+Considerando as colocações acima,
+afirmações a seguir.
+avalie as
+l. As premissas do argumento podem ser
+expressas na forma: P &gt; Q, Q&gt;Re-RvP.
+A conclusão do argumento pode ser expressa
+na forma: P &lt;&gt; Q.
+Il. A validade do argumento se demostra com os
+passos: -Q v P (equivalente de uma premissa),
+P &gt; R (transitividade da implicação a partir das
+premissas) e conclusão Q &lt;&gt; R (conjunção de
+duas proposições condicionais e transformação
+em bicondicional).
+A validade do argumento se demostra com os
+passos: R &gt; P (equivalente de uma premissa),
+Q &gt; P (transitividade da implicação), chegamos
+à conclusão P &lt;&gt; Q (conjunção de duas
+proposições condicionais e transformação em
+bicondicional).
+IV. As premissas do argumento podem ser
+expressas na forma: P 3 Q, Q&gt;S Re-R&gt;P
+e a conclusão do argumento acima pode ser
+expressa na forma: P3 Q.
+V. Ainvalidade do argumento acima se demonstra
+desta forma: a proposição lógica P &lt;&amp;&amp; Q é
+diferente das premissas P 3 Q, Q&gt;Re-RvP.
+É correto apenas o que se afirma em
+Oie.
+O lelv
+OLIev
+O 1,1, IVeV.
+O,I,IVev.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="802,2023 802,236"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:50:51</Created>
+	<LastChange>2020-12-06T02:56:07</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-25.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,358 1599,358 1599,426 979,426 979,1380 1248,1380 1248,1381 1599,1381 1599,1755 532,1755 532,1869 384,1869 384,2064 147,2064 147,2063 146,2063 146,1352 145,1352 145,425 144,425 144,358 145,358"/>
+	<ImageRegion id="r1">
+	<Coords points="238,463 238,1288 1611,1288 1611,463"/></ImageRegion>
+	<TextEquiv conf="0.96177">
+	<Unicode>QUESTÃO 32
+A Profibus é uma das tecnologias de redes industriais atualmente disponíveis para sistemas de automação
+industrial. A figura a seguir mostra uma topologia típica para essa tecnologia de rede industrial.
+Com relação a essa tecnologia, avalie as seguintes afirmações.
+|. No nível de atuadores/sensores, o AS-Interface é o sistema de comunicação de dados indicado, pois
+os sinais binários de dados são transmitidos via barramento simples e de baixo custo, juntamente
+com a tensão de 24 Vcc necessária para alimentar esses sensores e atuadores. Outra característica
+importante é que os dados são transmitidos ciclicamente, de uma maneira eficiente.
+Il. O PROFIBUS DP (periferia descentralizada) permite sistemas mono e multi-mestre, oferecendo
+alto grau de flexibilidade na configuração do sistema e possibilitando que até 126 dispositivos
+(mestres ou escravos) sejam ser ligados a um barramento.
+Acopladores de segmento são conversores de sinal que adaptam os sinais RS-485 para os níveis de
+sinal da norma IEC 61158-2 (antiga IEC 1158-2).
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O leilll, apenas.
+O Il elll, apenas.
+OIE.</Unicode></TextEquiv></TextRegion></Page></PcGts>

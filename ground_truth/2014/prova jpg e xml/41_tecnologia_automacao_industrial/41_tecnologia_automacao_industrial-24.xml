@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:51:04</Created>
+	<LastChange>2020-12-06T02:56:50</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-24.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="893,299 1064,299 1064,359 1600,359 1600,861 1599,861 1599,1573 894,1573 894,1052 892,1052 892,861 893,861"/>
+	<TextEquiv conf="0.96604">
+	<Unicode>QUESTÃO 31
+O controle estatístico de processos (CEP) é
+amplamente utilizado na avaliação da qualidade de
+produtos manufaturados, o que fornece indicadores
+objetivos da necessidade e da viabilidade econômica
+da automação dos sistemas de produção. Uma das
+principais ferramentas do CEP são os gráficos de
+controle para atributos. A construção desses gráficos
+requer o uso de estimativas como, por exemplo,
+a da média de unidades não conformes. Ao se
+fazer uma estimativa, ela deve estar acompanhada
+de um intervalo de confiança, para que se tenha
+uma referência da confiabilidade das informações
+verificadas.
+Considere que a estimativa do comprimento médio
+de uma peça produzida é de 100 mm, com uma
+variação de +5 mm e com um intervalo de confiança
+de 0,95. Nessa situação,
+O o comprimento das peças produzidas variam no
+máximo t5%.
+O o comprimento das peças produzidas tem
+probabilidade de 95% de variarem +5%.
+O a confiabilidade da estimativa independe da
+qualidade do processo de fabricação.
+O o comprimento de uma peça produzida, se
+escolhida ao acaso, tem probabilidade de 5% de
+ser superior a 95 mm.
+O o comprimento de uma peça produzida, se
+escolhida ao acaso, tem probabilidade de 95% de
+ser inferior a 95 mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="145,299 317,299 317,359 851,359 851,1344 852,1344 852,1684 851,1684 851,1772 636,1772 636,1828 303,1828 303,2074 146,2074 146,1684 145,1684"/>
+	<ImageRegion id="r2">
+	<Coords points="250,469 250,1316 711,1316 711,469"/></ImageRegion>
+	<TextEquiv conf="0.96523">
+	<Unicode>QUESTÃO 30
+Em uma morsa pneumática são fixadas peças para
+posterior furação. A figura abaixo ilustra o diagrama
+eletropneumático.
+Com base no diagrama acima, avalie as afirmações
+a seguir.
+|. A válvula direcional 1V2 é responsável por
+selecionar a pressão máxima de fixação da
+peça.
+Il. A válvula de fluxo 1V5 ajusta a velocidade de
+avanço do atuador pneumático.
+Ill. A válvula 1V3 é uma válvula de escape rápido.
+IV. O atuador pneumático é um cilindro de ação
+simples com retorno por mola.
+É correto apenas o que se afirma em
+Oie
+O el.
+O Meiv.
+O Lev.
+O LMelv</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="869,288 869,2086 877,2086 877,288"/></SeparatorRegion></Page></PcGts>

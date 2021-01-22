@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T00:13:53</Created>
+	<LastChange>2020-12-06T00:18:20</LastChange></Metadata>
+	<Page imageFilename="34_matematica_licenciatura-23.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="893,296 1065,296 1065,361 1599,361 1599,914 1600,914 1600,1025 1211,1025 1211,1206 1236,1206 1236,1288 1211,1288 1211,1483 1263,1483 1263,1566 1236,1566 1236,1710 895,1710 895,1709 894,1709 894,1024 893,1024"/>
+	<TextEquiv conf="0.96663">
+	<Unicode>QUESTÃO 30
+As imagens de uma tela plana de televisão digital
+são representadas por pontos, chamados pixels.
+Os movimentos das imagens correspondem
+às mudanças desses pontos representados
+em um sistema cartesiano ortogonal, que, em
+computação gráfica, são realizadas por operações
+de matrizes. Uma rotação de a graus de um
+ponto (x, y), no sentido anti-horário e em torno
+da origem desse sistema, é feita pela multiplicação da
+dada por (
+sena cosa
+coluna M,,, sendo x a primeira linha e y a segunda
+linha, gerando uma matriz coluna que dá a nova
+posição do ponto (, y) após a rotação.
+cosa — sena
+matriz M,,,
+) pela matriz
+Nessa situação, qual a nova posição do ponto (3, —1)
+após uma rotação de 150º no sentido anti-horário e
+em torno da origem do sistema cartesiano ortogonal?
+1-3V/3 343
+o (EXP)
+—3+V3 1+3/3
+o (EX)
+1+3V3 3-V3
+o (EE)
+,
+—1-3/3 -3+/3
+e (EO)
+e (= 22428)
+2 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="144,296 315,296 315,351 850,351 850,815 431,815 431,936 433,936 433,1024 198,1024 198,1017 144,1017 144,759 143,759 143,351 144,351"/>
+	<TextEquiv conf="0.59829">
+	<Unicode>QUESTÃO 28
+Assim como os sistemas de numeração, os números
+classificados como negativos, irracionais, racionais
+e complexos tiveram uma ordem de surgimento
+na linha do tempo. Esse conhecimento histórico
+é importante, pois, a partir dele, é possível
+compreender os obstáculos didáticos apresentados
+no processo de ensino-aprendizagem dos números.
+Arespeito do tema, assinale a alternativa que contém
+a ordem cronológica da origem dos números, na
+escrita atual, do conjunto fil, e,—3,1/2), sendo
+e a constante de Euler e i o número imaginário.
+1/2, e, 3, V2, i
+1/2,-3,V2, e, 1.
+1/2,)2,-8,i, e.
+—3,1/2,V2,i, e.
+—3,V2,1/2, e, i.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="144,1057 315,1057 315,1117 851,1117 851,1443 849,1443 849,1586 851,1586 851,1773 850,1773 850,1774 530,1774 530,1876 374,1876 374,1989 382,1989 382,2068 144,2068 144,1786 192,1786 192,1443 144,1443"/>
+	<TextEquiv conf="0.96695">
+	<Unicode>QUESTÃO 29
+Os números perfeitos foram introduzidos na Grécia,
+antes de Cristo. Um número n é dito perfeito se ele
+for igual à soma dos seus divisores positivos e próprios,
+ou seja, dos divisores positivos menores que n. Assim,
+se 2º —1 é primo, k &gt; 1, então o inteiro positivo
+n = 247!(24 — 1) é um número perfeito.
+Com base nessas informações, avalie as afirmações
+a seguir.
+l. O número 2º x 4º x 127 é perfeito e tem 17
+divisores próprios.
+Ill. O número 28 é um número perfeito.
+Ill. Ao se adicionar as potências 2º,2!,2º, 2%...
+até que a soma seja igual ao décimo primeiro
+número primo e, em seguida, multiplicar a
+soma obtida pelo último termo, encontra-se
+um número perfeito.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O LI1elm.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="869,294 869,2094 872,2094 872,294"/></SeparatorRegion></Page></PcGts>

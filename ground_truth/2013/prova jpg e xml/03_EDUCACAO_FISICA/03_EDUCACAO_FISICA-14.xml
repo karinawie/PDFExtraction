@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T03:49:21</Created>
+	<LastChange>2020-09-25T03:58:14</LastChange></Metadata>
+	<Page imageFilename="03_EDUCACAO_FISICA-14.jpg" imageWidth="1613" imageHeight="2169">
+	<ImageRegion id="r0">
+	<Coords points="155,802 155,1363 1552,1363 1552,802"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="81,238 252,238 252,293 1535,293 1535,487 1536,487 1536,1552 1535,1552 1535,2010 1067,2010 1067,2011 598,2011 598,2012 129,2012 129,2013 128,2013 128,1941 82,1941 82,800 81,800"/>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 17
+A frequência cardíaca máxima (FCM) é o valor mais elevado da frequência cardíaca que um indivíduo
+pode atingir em um esforço máximo até o ponto de exaustão e constitui variável fisiológica relevante para
+quantificar o esforço máximo durante um teste ergométrico. A FCM é um importante marcador biológico
+para a prescrição e o monitoramento do exercício físico, com indicações que podem variar entre 60% e 85%
+da FCM para o desenvolvimento da resistência e da potência cardiorrespiratória, respectivamente.
+Questiona-se se o emprego de equações que predizem a FCM, como (220 — idade) de Karvonen
+ou (208 — [0,7 x idade]) de Tanaka, não induziria ao erro na prescrição da intensidade de treinamento
+cardiorrespiratório por superestimarem a FCM de indivíduos jovens (&lt; de 40 anos) e subestimarem a
+FCM de indivíduos idosos (&gt; de 60 anos). Para testar essa hipótese, Camarda e cols. (2008) realizaram
+um estudo comparativo entre a FEM medida em teste ergoespirométrico e as equações propostas por
+Karvonen e Tanaka. Para tanto foram avaliados 2 047 indivíduos (1 091 homens e 956 mulheres) com
+média + desvio-padrão de idade igual a 37,1 + 11,4. Estimou-se, portanto, o coeficiente de correlação de
+Pearson e o valor de p foi menor que 0,05, em ambos os casos. Os resultados estão representados nos
+gráficos 1 e 2.
+Considerando o texto e os gráficos apresentados, pode-se notar que
+O as equações de Karvonen e de Tanaka, apresentam moderada correlação com a FEM medida em teste de
+esforço máximo. Isso significa que é arriscado prescrever a intensidade do esforço físico de um exercício
+utilizando essas equações.
+O as equações de Karvonen e de Tanaka, apresentam forte correlação com a FEM medida em teste de
+esforço máximo. Isso significa que é seguro prescrever a intensidade do esforço físico de um exercício
+utilizando essas equações.
+O as equações de Karvonen e de Tanaka, apresentam forte correlação com a FEM medida em teste de
+esforço máximo. No entanto, a prescrição da intensidade de esforço depende de outros fatores como
+nível de aptidão física e volume da sessão de treinamento.
+O as equações de Karvonen e de Tanaka, apresentam fraca correlação com a FEM medida em teste de
+esforço máximo. Porém, a prescrição da intensidade de esforço pode depender de outros fatores como
+nível de aptidão física e frequência das sessões de treinamento.
+O as equações de Karvonen e de Tanaka, apresentam fraca correlação com a FEM medida em teste de
+esforço máximo. Isso significa que é seguro prescrever a intensidade do esforço físico de um exercício
+utilizando essas equações.</Unicode></TextEquiv></TextRegion></Page></PcGts>

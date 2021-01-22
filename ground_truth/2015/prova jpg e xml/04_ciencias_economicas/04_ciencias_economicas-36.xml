@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T06:10:06</Created>
+	<LastChange>2020-11-16T01:07:58</LastChange></Metadata>
+	<Page imageFilename="04_ciencias_economicas-36.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="81,602 81,1165 1547,1165 1547,602"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,169 1535,169 1535,547 1339,547 1339,1267 1534,1267 1534,1394 1533,1394 1533,1576 1066,1576 1066,1577 799,1577 799,1693 1253,1693 1253,1758 1352,1758 1352,1856 1094,1856 1094,1921 929,1921 929,1922 677,1922 677,1988 82,1988 82,1989 81,1989 81,1922 80,1922 80,1758 81,1758 81,1652 80,1652 80,1624 79,1624 79,1623 80,1623 80,265 79,265"/>
+	<TextEquiv conf="0.78917">
+	<Unicode>QUESTÃO 32
+Em estudo realizado em 2008, o Instituto de Pesquisa Econômica Aplicada (IPEA) analisou o efeito da
+desigualdade de renda sobre a condição de saúde individual no Brasil, tendo por base espacial os municípios
+brasileiros. A variável utilizada para analisar a desigualdade foi o coeficiente de Gini, enquanto a probabilidade
+de ser saudável foi baseada nas autodeclarações dos cidadãos, extraídas das Pesquisas Nacionais por Amostra
+de Domiícilio (PNADs). As conclusões estão apresentadas no gráfico abaixo.
+Com base nas informações acima, avalie as asserções a seguir e a relação proposta entre elas.
+|. Existe relação negativa entre desigualdade de renda e a proxy para saúde, de modo que políticas
+públicas que visem reduzir a desigualdade de renda tendem a gerar efeitos positivos sobre a saúde
+da população.
+PORQUE
+Il. Quanto maior o coeficiente de Gini, isto é, quanto mais perto da perfeita igualdade = 1, menor a
+probabilidade de as pessoas se autodeclararem saudáveis.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e || são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a |l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

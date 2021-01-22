@@ -1,0 +1,818 @@
+QUESTÃO DISCURSIVA 3
+O jogo Sudoku consiste em uma matriz 9x9 dividida em 9 sub-matrizes 3x3, como mostrado na figura a seguir.
+A matriz está parcialmente preenchida com números de 1 a 9, e o objetivo do jogo é completar a matriz, de
+forma que cada linha, coluna e sub-matriz contenham todos os números de 1a 9.
+A partir dessas informações, escreva um algoritmo recursivo baseado em retrocesso (backtracking) para
+resolver o jogo. A matriz foi transformada em um vetor V de 81 posições, contendo zeros nas posições que
+faltam para serem preenchidas.
+Considere que existem duas funções implementadas. A primeira função, NaoHaViolacao(x,i,V),
+retorna verdadeiro se a inserção do número x na posição i do vetor V não causa violação das restrições
+do jogo (número repetido em linha, coluna ou sub-matriz). A segunda função, Imprime (V), realiza a
+impressão do vetor V.
+Considere, ainda, que o algoritmo deve imprimir o vetor V com a solução encontrada, se esta existir.
+(valor: 10,0 pontos)
+Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos pode
+ser utilizada, assim como em uma linguagem de alto nível, como Pascal, C ou Java.
+
+QUESTÃO DISCURSIVA 4
+Muitas aplicações utilizam o sistema de localização (GPS) do dispositivo móvel do usuário para descobrir
+qual o melhor caminho a seguir. Algumas aplicações também permitem que o usuário notifique a ocorrência
+de eventos que ele presencia durante seu percurso, tais como acidentes ou trânsito lento. Em um possível
+cenário, esta notificação é enviada para um servidor centralizado, o qual é responsável por disseminar a
+notificação para os demais usuários do aplicativo. Uma equipe de desenvolvimento criou uma aplicação
+desse tipo utilizando uma base de dados relacional para o armazenamento de dados referentes aos
+usuários, eventos e notificações enviadas. A modelagem conceitual foi feita utilizando o diagrama entidade-
+relacionamento conforme apresentado na figura a seguir.
+A equipe de desenvolvimento deseja adicionar as seguintes características ao modelo:
+*º Cada notificação deve ter data e hora;
+º O grupo de usuários para o qual uma notificação é enviada deve ser restrito. Cada usuário deve ter um
+grupo com um número arbitrário de amigos, que também são usuários da aplicação, e as notificações
+enviadas por um usuário devem ser enviadas somente a seus amigos. Também se deseja armazenar
+informações sobre quais notificações foram enviadas para quais usuários.
+Nessa situação, adapte o diagrama ER da figura para atender os novos requisitos.(valor: 10,0 pontos)
+
+QUESTÃO DISCURSIVA 5
+As técnicas de projeto de algoritmos são essenciais para que os desenvolvedores possam implementar
+software de qualidade. Essas técnicas descrevem os princípios que devem ser adotados para se projetar
+soluções algorítmicas para um dado problema. Entre as principais técnicas, destacam-se os projetos de
+algoritmos por tentativa e erro, divisão e conquista, programação dinâmica e algoritmos gulosos.
+Nesse contexto, faça o que se pede nos itens a seguir.
+a) Descreva o que caracteriza o projeto de algoritmos por divisão e conquista. (valor: 6,0 pontos)
+b) Apresente uma situação de uso da técnica de projeto de algoritmos por divisão e conquista. (valor: 4,0 pontos)
+
+QUESTÃO 09
+A figura a seguir apresenta duas telas de um sistema de venda de passagens aéreas de uma empresa. Na tela 1,
+o usuário selecionou sua origem, seu destino, e, logo em seguida, sua data de ida. Ao mudar o foco para o
+campo de preenchimento da data de retorno, a ferramenta de calendário apresentou automaticamente a
+data do dia da compra (01/09/2014), conforme exibido na tela 2.
+Com base nas telas apresentadas e em dimensões de qualidade, tais como facilidade de aprendizagem,
+prevenção de erros, eficiência, memorização e satisfação subjetiva, avalie as afirmações a seguir.
+|. O botão “lr” apresenta uma metáfora adequada com o mundo real, facilitando a aprendizagem.
+Ill. Na tela 1, o uso do calendário clicável não auxilia na prevenção de erros, visto que a entrada de datas
+pode ser realizada manualmente pelos usuários.
+Ill. Na tela 2, o fato de o calendário selecionar a data da compra prejudica a eficiência da interface, já
+que a data preenchida é anterior à data de ida.
+IV. A memorização é prejudicada pois a interface apresenta elementos gráficos em demasia.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oieiv
+O L1lelv.
+O ,IMelv.
+
+QUESTÃO 10
+O gerenciamento de um projeto inclui atividades
+com o objetivo de garantir que todos os produtos
+definidos no seu escopo sejam entregues no prazo
+estimado. Nesse contexto, avalie as afirmações a
+seguir.
+|. Técnicas como PERT e CPM são utilizadas para
+obtenção de estimativas de esforço e como
+apoio para definição de atividades.
+. Séries históricas, quando utilizadas para obter
+estimativas de esforço no desenvolvimento
+de um novo sistema, levam à obtenção de
+estimativas consistentes, independentemente
+do domínio de aplicação dos sistemas que
+deram origem às séries históricas.
+No caso de atraso na execução do cronograma,
+a contratação de novos desenvolvedores
+assegura que o produto será entregue de
+acordo com o cronograma inicialmente
+proposto.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+OL I1elm.
+
+QUESTÃO 11
+Considere um esquema de gerência de memória por
+paginação simples, onde a memória física é dividida
+em quadros (frames) de 1 Kbyte e endereçada por
+byte. Os espaços de endereçamento dos processos
+são múltiplos de 1 Kbyte. A tabela de páginas para
+um determinado processo P é apresentada a seguir,
+em que o primeiro bit (BV) mostra se a página é
+válida (1) ou inválida (O).
+Com base na tabela apresentada, avalie as afirmações
+a seguir.
+|. O endereço físico é composto por 13 bits.
+Il. O esquema de gerência de memória
+apresentado reduz a fragmentação externa.
+III.A tradução do endereço lógico
+0110000000110 para endereço físico
+causa exceção.
+É correto o que se afirma em
+O |, apenas.
+O 1, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O Le.
+
+QUESTÃO 12
+Analise o custo computacional dos algoritmos a seguir, que calculam o valor de um polinômio de grau n, da
+forma: P(x)= a Xº +a, x" +...+axt+a, onde os coeficientes são números de ponto flutuante armazenados
+no vetor a/O..n]J, e o valor de n é maior que zero. Todos os coeficientes podem assumir qualquer valor, exceto
+o coeficiente a, que é diferente de zero.
+Algoritmo 1:
+soma = a[0]
+Repita para i = 1 até n
+Se a[i] é 0.0 então
+potência = x
+Repita para j = 2 até 1
+1
+potência potência * x
+Fim repita
+soma = soma + a[i] * potencia
+Fim se
+Fim repita
+Imprima (soma)
+Algoritmo 2:
+soma = aí[n]
+Repita para i = n-l até O passo -1
+soma = soma * x + a[i]
+Fim repita
+Imprima (soma)
+Com base nos algoritmos 1 e 2, avalie as asserções a seguir e a relação proposta entre elas.
+|. Os algoritmos possuem a mesma complexidade assintótica.
+PORQUE
+ll. Para o melhor caso, ambos os algoritmos possuem complexidade O(n).
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e ll são proposições verdadeiras, mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 14
+Seja o universo U = (10, 20, 30, 40) e o conjunto dos
+números naturais N. Com base no conhecimento
+sobre a lógica de predicados, avalie as afirmações
+a seguir.
+ll. H=(VxEeN)(3y E U)(x<y) é válida.
+Il. H=(VxE N)(3y E N)(y <x) é válida.
+Il. H=(Vx E U)(Ay E U)(x > y) é inválida, sendo
+x=10 um contra-exemplo.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+
+QUESTÃO 15
+Considere as seguintes expressões regulares cujo
+alfabeto é (a, b).
+R1=a(aUb)*
+R2 = b(a U b)*
+Se L(R) é a linguagem associada a uma expressão
+regular R, é correto afirmar que
+O L(R1) = L(R2).
+O L(R2) = (w | w termina com b).
+O existe um autômato finito determinístico cuja
+linguagem é igual a L(R1) U L(R2).
+O se R3 é uma expressão regular tal que
+L(R3) = L(R1) ON L(R2), então L(R3) é uma
+linguagem infinita.
+O um autômato finito não determinístico que
+reconheça L(R1) U L(R2) tem, pelo menos, quatro
+estados.
+
+QUESTÃO 13
+A figura a seguir apresenta uma árvore binária de
+pesquisa, que mantém a seguinte propriedade
+fundamental: o valor associado à raiz é sempre
+menor do que o valor de todos os nós da subárvore
+à direita e sempre maior do que o valor de todos os
+nós da subárvore à esquerda.
+Em relação à árvore apresentada na figura, avalie as
+afirmações a seguir.
+|. A árvore possui a vantagem de realizar a
+busca de elementos de forma eficiente, como
+a busca binária em um vetor.
+Ill. Aárvore está desbalanceada, pois a subárvore
+da esquerda possui um número de nós maior
+do que a subárvore da direita.
+Ill. Quando a árvore é percorrida utilizando
+o método de caminhamento pós-ordem,
+os valores são encontrados em ordem
+decrescente.
+IV. O número de comparações realizadas em
+função do número n de elementos na árvore
+em uma busca binária realizada com sucesso
+é O(log n).
+É correto apenas o que se afirma em
+Oie.
+Oielv
+Oem.
+O LIlelv.
+O IMelv
+
+QUESTÃO 16
+Uma pilha é uma estrutura de dados que armazena
+uma coleção de itens de dados relacionados e que
+garante o seguinte funcionamento: o último elemento
+a ser inserido é o primeiro a ser removido. É comum
+na literatura utilizar os nomes push e pop para as
+operações de inserção e remoção de um elemento
+em uma pilha, respectivamente. O seguinte trecho
+de código em linguagem C define uma estrutura de
+dados pilha utilizando um vetor de inteiros, bem
+como algumas funções para sua manipulação.
+tinclude <stdlib.h>
+tinclude <stdio.h>
+typedef struct (|
+int elementos[100];
+int topo;
+Ipilha;
+pilha * cria pilha() (
+pilha * p =malloc(sizeof(pilha));
+p->topo = -—1;
+return pilha;
+void push(pilha *p, int elemento) (
+if (p->topo >= 99)
+return;
+p->elementos [++p->topo] = elemento;
+)
+int pop(pilha *p)
+int a = p->elementos [p->topo];
+p->topo--;
+return a;
+
+O programa a seguir utiliza uma pilha.
+int main() (
+pilha * p = cria pilha();
+Push(p, 2);
+Push(p, 3);
+Push(p, 4);
+POP (P) ;
+push(p, 2);
+int a = pop(p) + pop(p);
+push(p, a);
+a += pop(p);
+printf (“%d”, a);
+return 0;
+
+A esse respeito, avalie as afirmações a seguir.
+|. A complexidade computacional de ambas
+funções push e pop é O(1).
+Il. O valor exibido pelo programa seria o mesmo
+caso a instrução a += popí(p); fosse
+trocadapora += a;
+Il. Em
+(memory leak), é opcional chamar a função
+relação ao vazamento de memória
+free (p), pois o vetor usado pela pilha é
+alocado estaticamente.
+É correto o que se afirma em
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 111el,.
+
+QUESTÃO 17
+Considerando que o gerente de qualidade é o responsável por definir os meios necessários para se obter um
+produto com a qualidade desejada, bem como por estabelecer técnicas para aferir a qualidade do produto,
+avalie as afirmações a seguir.
+|. O uso de processos de desenvolvimento padronizados, sem adaptações, independente do tipo de
+software a ser desenvolvido, assegura que o produto terá a qualidade desejada.
+Ill. O controle de qualidade pode ser realizado por meio de revisões, incluindo inspeções de programas
+e de artefatos de projeto.
+Ill. Fatores de qualidade de software estão diretamente relacionados a um único atributo interno de
+software.
+É correto o que se afirma em
+O |l, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.
+O 1LI1elm.
+
+QUESTÃO 18
+Em relação à aplicação adequada das técnicas de Inteligência Artificial, avalie as afirmações a seguir.
+|. Indução em Árvore de Decisão é utilizada para identificação de fraudes em cartões de crédito.
+Ill. Redes Neurais Artificiais são utilizadas no desenvolvimento de sistemas de análise de risco em
+aplicações financeiras.
+1.
+Sistemas Especialistas baseados em regras são utilizados no desenvolvimento de sistemas de
+diagnóstico de falhas em hardware.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il el, apenas.
+O Lite.
+
+QUESTÃO 19
+O algoritmo de traçado de raios (ray-tracing) é
+considerado um marco no desenvolvimento de
+técnicas de computação gráfica para a geração de
+imagens realistas.
+A partir da análise das imagens apresentadas, conclui-se
+que a técnica de traçado de raios foi utilizada para a geração
+O apenas da imagem 1.
+O apenas da imagem 2.
+O apenas das imagens 1 e 3.
+O apenas das imagens 2 e 3.
+O das imagens 1, 2e 3.
+
+QUESTÃO 20
+Um processo tem um ou mais fluxos de execução,
+normalmente denominados apenas por threads.
+A partir das figuras 1 e 2 apresentadas, avalie as
+afirmações a seguir.
+|. Tanto na figura 1 quanto na figura 2, existem
+três threads que utilizam o mesmo espaço de
+endereçamento.
+Ill. Tanto na figura 1 quanto na figura 2, existem
+três threads que utilizam três espaços de
+endereçamento distintos.
+Ill. Na figura 2, existe um processo com um único
+espaço de endereçamento e três threads de
+controle.
+IV. Nafigura1, existemtrês processostradicionais,
+cada qual tem seu espaço de endereçamento
+e uma única thread de controle.
+V. As threads permitem que várias execuções
+ocorram no mesmo ambiente de processo de
+forma independente uma das outras.
+É correto apenas o que se afirma em
+O Lei.
+O LItelv.
+OLIMev
+O ,Ivev.
+Ou, IVev
+
+QUESTÃO 21
+O fragmento de código a seguir, escrito em Java, descreve duas implementações diferentes para um lock.
+Ambas possuem um método denominado acquire e um método denominado release.
+class LockA ( class LockB (
+private int turn = O public void acquire() (
+public void acquire(int tid) (| disableInterrupts();
+while (turn == (1 - tid)); )
+) public void release() (
+public void release(int tid) (| enableInterrupts();
+turn = (1 - tid); )
+)
+Considera-se que:
+* asduasimplementações de lock são utilizadas por aplicações com, no máximo, duas threads;
+º uma aplicação que utilizar qualquer uma destas implementações invocará o método acqui re antes de
+entrar em sua seção crítica e o método release após deixar a seção crítica;
+º*º tantoométodo acquire quanto o método release são operações atômicas nas duas implementações
+de lock;
+* paraaimplementação que requer um t id (thread id), assume-se que ele sempre será O ou 1;
+º osmétodosdisableInterrupts eenableInterrupts são utilizados para desabilitar e habilitar
+respectivamente as interrupções do processador onde o código for executado. O código desses dois
+métodos foi desenvolvido para ser utilizado em uma máquina com um ou dois processadores.
+A partir das informações apresentadas, avalie as afirmações a seguir.
+|. Aimplementação de LockaA garante progresso.
+Ill. Aimplementação de LockB garante progresso.
+Ill. A implementação de LockA garante exclusão mútua.
+IV. A implementação de LockB garante exclusão mútua.
+É correto apenas o que se afirma em
+Oie
+O em.
+O Ieiv.
+O Llelv.
+OL Mel.
+
+QUESTÃO 24
+Considere as seguintes tabelas de um banco de dados:
+1. Fornecedor (cod fornec, nome fornec, telefone,
+cidade, UF)
+2. Estado (UF, nome estado)
+A expressão SQL que obtém os nomes dos estados
+para os quais não há fornecedores cadastrados é
+SELECT E.UF
+FROM Estado AS E
+O WHERE E.nome estado NOT IN (
+SELECT F.UF
+FROM Fornecedor AS F);
+SELECT E.nome estado
+FROM Estado AS E, FROM
+Fornecedor AS F
+WHERE E.UF = F.UF;
+SELECT E.nome estado
+FROM Estado AS E
+WHERE E.UF NOT IN (
+SELECT F.UF
+FROM Fornecedor AS F);
+SELECT E.nome estado
+FROM Estado AS E, FROM
+Fornecedor AS F
+WHERE E.nome estado = F.UF;
+SELECT E.nome estado
+FROM Estado AS E
+O WHERE E.UF IN (
+SELECT F.UF
+FROM Fornecedor AS F);
+
+QUESTÃO 22
+Considere o processo de fabricação de um produto
+siderúrgico que necessita passar por n tratamentos
+térmicos e químicos para ficar pronto. Cada uma das
+n etapas de tratamento é realizada uma única vez na
+mesma caldeira. Além do custo próprio de cada etapa
+do tratamento, existe o custo de se passar de uma etapa
+para outra, uma vez que, dependendo da sequência
+escolhida, pode ser necessário alterar a temperatura da
+caldeira e limpá-la para evitar a reação entre os produtos
+químicos utilizados. Assuma que o processo de fabricação
+inicia e termina com a caldeira limpa. Deseja-se projetar
+um algoritmo para indicar a sequência de tratamentos
+que possibilite fabricar o produto com o menor custo
+total. Nessa situação, conclui-se que
+O a solução do problema é obtida em tempo de
+ordem O(nlogn), utilizando-se um algoritmo
+ótimo de ordenação.
+O uma heurística para a solução do problema de
+coloração de grafos solucionará o problema em
+tempo polinomial.
+O oproblema se reduz a encontrar a árvore geradora
+mínima para o conjunto de etapas do processo,
+requerendo tempo de ordem polinomial para ser
+solucionado.
+O a utilização do algoritmo de Dijkstra para se
+determinar o caminho de custo mínimo entre o
+estado inicial e o final soluciona o problema em
+tempo polinomial.
+O qualquer algoritmo conhecido para a solução do
+problema descrito possui ordem de complexidade
+de tempo não-polinomial, uma vez que o
+problema do caixeiro viajante se reduz a ele.
+
+QUESTÃO 23
+Qual o valor de retorno da função a seguir, caso n = 27?
+int recursao (int n) (
+if (n <= 10) (
+return n * 2;
+)
+else (
+return recursao (recursao (n/3));
+)
+O:.
+O:.
+O 12.
+O 16.
+O 18.
+
+QUESTÃO 25
+Uma gramática livre do contexto (GLC) é um modelo computacional geralmente utilizado para definir
+linguagens de programação e, quando está de acordo com a Forma de Backus-Naur (BNF), permite que
+alguns operadores sejam utilizados no lado direito de suas produções, como o operador | (pipe) que indica
+seleção, o operador [ ] que indica que o operando em questão é opcional, e o operador * que indica repetição
+de O ou mais vezes.
+Projetar um compilador para uma determinada linguagem envolve, entre outras coisas, especificar quais são
+os símbolos válidos nesta linguagem, bem como quais são as regras sintáticas que a definem.
+A linguagem de programação Java é uma linguagem com suporte à orientação a objetos que não permite
+herança múltipla e que permite que uma classe implemente múltiplas interfaces. A seguir, exibem-se trechos
+de código sintaticamente válidos na linguagem Java.
+Trecho 1:
+class A extends B ( )
+Trecho 2:
+class F implements C ( )
+Trecho 3:
+class J extends A implements C, D ( +
+No trecho 1, cria-se uma classe chamada A que herda de uma classe chamada B. No trecho 2, cria-se uma
+classe chamada F que implementa uma interface chamada C. No trecho 3, cria-se uma classe chamada J que
+herda de uma classe chamada A e implementa duas interfaces, chamadas Ce D.
+Considere que:
+º <classdecl> é um não terminal cujo intuito é dar origem a declarações de classes;
+* <classbody>é um não terminal cujo intuito é dar origem ao corpo de classes;
+*º osterminais aparecem entre aspas duplas;
+*º “id” é um símbolo que representa qualquer identificador válido, como nomes de classes ou variáveis.
+A gramática que especifica uma linguagem que não permita herança múltipla e que implemente zero ou mais
+interfaces é
+O <classdecl> “class” “id” [ “extends “ ] “id” <classbody>
+O <classdecl> “class” “id” (“extends “ “id”)* <classbody>
+O <classdecl> “class” “id” [ “extends “ ] “id” [“implements” (, |[“id”)*] <classbody>
+O <classdecl> “class” “id” [ “extends “ “id”] [“implements”. “id” (4 “id”)'*] <classbody>
+O <classdecl> “class” “id” [“extends “ “id”] “implements” “id” (“” “id”)* <classbody>
+
+QUESTÃO 27
+Considere o seguinte argumento:
+1- Se existe fogo, então existe oxigênio.
+2 - Não há oxigênio.
+3 - Então não há fogo.
+A regra de inferência que justifica a validade do
+argumento acima é
+PQ, -P
+-Q
+P>Q,-Q
+-P
+P>2Q0,Q
+P
+P>Q,-Q
+—=P
+PSQ,P
+Q
+o
+
+QUESTÃO 26
+Um conjunto indutivo S é definido de acordo com os
+seguintes passos:
+[Base] Declaração dos elementos iniciais, atômicos.
+[Indução] Definição de regras que constroem
+expressões a partir de elementos já existentes em S.
+[Fecho] Uma declaração de que nada mais está em
+S a não ser os elementos construídos pelos passos
+Base e Indução.
+Os operadores que constroem as expressões nos
+passos Base e Indução são chamados de construtores
+do conjunto S. Como um exemplo, a definição
+abaixo especifica um conjunto indutivo Prop, das
+proposições booleanas formadas pelos construtores
+V (valor verdadeiro), F (valor falso), ! (para negação
+de expressões) e and (para conjunção de expressões).
+1. [Base] V, F estão em Prop.
+2. [Indução] Se B está em Prop, então (! B) está em
+Prop.
+3. [Indução] Se B1 e B2 estão em Prop, então (and
+B1 B2) está em Prop.
+4. [Fecho] Nada mais está em Prop, a não ser o
+especificado em Base e Indução.
+Expressões (termos) em Prop incluem V, E, ! E IV,
+(and V F), (and (! V) (| F)) e assim por diante. De
+forma análoga, linguagens funcionais permitem a
+declaração de tipos indutivos com seus respectivos
+construtores.
+Neste contexto, avalie as seguintes afirmações.
+|. Conjuntos indutivos são conjuntos
+enumeráveis.
+Il. Conjuntos
+especificados
+indutivas.
+Ill. Para estender a linguagem Prop de tal forma
+a considerar expressões para disjunção
+e implicação de proposição, é necessário
+acrescentar mais dois construtores à definição
+de Prop anterior.
+infinitos
+por
+não podem ser
+meio de definições
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O Il elll, apenas.
+O 1LI1elm.
+
+QUESTÃO 28
+Um cientista afirma ter encontrado uma redução polinomial de um problema NP-Completo para um
+problema pertencente à classe P. Considerando que esta afirmação tem implicações importantes no que
+diz respeito à complexidade computacional, avalie as seguintes asserções e a relação proposta entre elas.
+|. A descoberta do cientista implica P = NP.
+PORQUE
+Il. A descoberta do cientista implica na existência de algoritmos polinomiais para todos os problemas
+NP-Completos.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a |l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 29
+Diferentes implementações da linguagem de programação PROLOG permitem predicados com parâmetros,
+aceitam as operações de conjunção e disjunção lógica, utilizando os símbolos vírgula (conjunção) e ponto e
+vírgula (disjunção), e a negação lógica com o predicado not.
+Considere que um programador propoz as cláusulas mostradas a seguir, definidas em uma linguagem de
+programação como PROLOG, como parte da verificação de critérios para seleção de candidatos a uma chapa
+de presidente e vice-presidente de uma empresa. Estas cláusulas apresentam as premissas para chegar às
+conclusões selecionados, desconsiderados e descartado, a partir da possibilidade da existência de fatos ou
+regras com o identificador superior.
+superior (jorge).
+superior (ana).
+selecionados (P,Q) :- superior(P), superior (0).
+desconsiderados (P,Q) :- not (superior (P)); not (superior (Q)).
+descartado(P) :- not (superior (P)).
+Considerando apenas as colocações e cláusulas acima e a hipótese de mundo fechado (closed world
+assumption), avalie as afirmações a seguir.
+|. Para todos valores dos parâmetros P e Q, o predicado selecionados retornará um valor lógico falso.
+ll. Para todos valores de P e Q, os predicados selecionados e desconsiderados retornarão
+valores lógicos diferentes.
+Ill. A conjunção dos predicados selecionados e desconsiderados, para quaisquer valores de PeQ,
+retornará um valor lógico verdadeiro.
+IV. Para qualquer valor do parâmetro P, o predicado descartado retornará um valor verdadeiro.
+V. A disjunção dos predicados selecionados e desconsiderados, para quaisquer valores de Pe Q,
+retornará um valor lógico verdadeiro.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oiliev
+O lIlelv.
+O Wvev.
+
+QUESTÃO 31
+Na transmissão de dados em sistemas
+computacionais, o dispositivo de verificação de erros
+conhecido como bit de paridade consiste da adição
+de um bit extra durante a transmissão. O valor
+associado a esse bit é uma função da quantidade de
+bits de dados iguais a 1 a serem transmitidos.
+Nesse contexto, considere a transmissão de 7 bits de
+dados, com um bit extra de paridade, em um sistema
+de comunicação no qual a probabilidade de transmitir
+um bit de forma incorreta é igual a 10º e independe
+de outros erros ocorridos. O bit de paridade também
+pode sofrer erros.
+A probabilidade da ocorrência de transmissão de
+2 bits errados, que seria erroneamente detectada
+como uma transmissão sem erros, é
+O 1,0 x10”.
+O 2,0 x10”.
+O 2,8x107.
+O 2,0 x10º.
+O 2,8 x10”.
+
+QUESTÃO 30
+Uma fazenda possui um único poço artesiano que
+deve abastecer n bebedouros para o gado. Deseja-se
+determinar um projeto de ligação entre esses n+1
+pontos através de encanamentos com a menor
+extensão total. Um algoritmo proposto para a solução
+do problema executa os seguintes passos:
+1. Crie n+1 conjuntos unitários, cada um contendo
+um dos pontos a serem ligados entre si e insira
+esses conjuntos em um conjunto C.
+2. Crie um conjunto D contendo um registro
+para cada combinação possível de dois pontos
+distintos a serem ligados. Cada registro deve
+conter os campos ci , cj e d, em que ci e cj são
+os dois pontos a serem ligados e d é a distância
+entre eles.
+3. Enquanto D não estiver vazio faça:
+3.1.Remova o registro de D com o menor valor de
+distância d.
+3.2.Se os valores de c, e c, do registro removido
+pertencerem a conjuntos distintos de C, então:
+3.2.1.Substitua estes dois conjuntos pela união
+entre eles.
+3.2.2.Guarde o registro removido em um
+conjunto-solução.
+Com base na descrição do problema e do algoritmo
+proposto, conclui-se que
+O oproblema exemplifica a obtenção de uma árvore
+geradora mínima, portanto está no conjunto P.
+O o algoritmo é uma heurística para o Problema do
+Caixeiro Viajante, logo apresenta complexidade
+polinomial.
+O o problema descrito é de otimização, logo
+pertence ao conjunto NP—difícil, mas não ao
+conjunto NP-completo.
+O uma alternativa para a solução do problema é
+usar o algoritmo de Dijkstra para obtenção do
+caminho mínimo entre dois pontos.
+O o passo de maior custo do algoritmo é a criação
+do conjunto D com as combinações de pontos,
+apresentando
+Of(n!).
+complexidade — computacional
+
+QUESTÃO 33
+A seguinte sequência de instruções lógicas e
+aritméticas será executada por um processador em
+pipeline de 5 estágios: busca da instrução, leitura de
+registradores, execução, acesso à memória e escrita
+de registradores. A sequência, no entanto, apresenta
+conflito de dados.
+R5, R4, R3
+or R6, R4, R2
+add R1,R2,R2
+R3, R2, R1
+R1, R1, R4
+and
+mul
+sub
+O pipeline foi implementado sem hardware adicional
+para a resolução de conflitos, mas os valores dos
+registradores podem ser escritos na primeira metade
+do ciclo e lidos na segunda metade. Sabendo-se que
+o primeiro operando das instruções é o registrador
+destino, avalie as afirmações a seguir.
+|. A troca de posição entre as instruções or e
+add soluciona o conflito de dados.
+Il. A troca de posição entre as instruções add e
+and soluciona o conflito de dados.
+A inserção de uma operação nop (sem
+operação) entre add e mul soluciona o conflito
+de dados.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1LI1elm.
+
+QUESTÃO 32
+Considere as proposições lógicas simples P, OQ, R:
+P: o programador lê a literatura técnica
+OQ: o programador conhece o idioma inglês
+R: o programador será selecionado
+Pretende-se demonstrar a validade ou invalidade do
+seguinte argumento:
+Se o programador lê a literatura técnica, então ele
+conhece inglês.
+Se o programador conhece o idioma inglês, então ele
+será selecionado.
+O programador não será selecionado ou ele lê a
+literatura técnica.
+Logo, o programador Iê a literatura técnica se e
+somente se conhece o idioma inglês.
+Considerando as colocações acima,
+afirmações a seguir.
+avalie as
+l. As premissas do argumento podem ser
+expressas na forma: P > Q, Q>Re-RvP.
+A conclusão do argumento pode ser expressa
+na forma: P <> Q.
+Il. A validade do argumento se demostra com os
+passos: -Q v P (equivalente de uma premissa),
+P > R (transitividade da implicação a partir das
+premissas) e conclusão Q <> R (conjunção de
+duas proposições condicionais e transformação
+em bicondicional).
+A validade do argumento se demostra com os
+passos: R > P (equivalente de uma premissa),
+Q > P (transitividade da implicação), chegamos
+à conclusão P <> Q (conjunção de duas
+proposições condicionais e transformação em
+bicondicional).
+IV. As premissas do argumento podem ser
+expressas na forma: P 3 Q, Q>S Re-R>P
+e a conclusão do argumento acima pode ser
+expressa na forma: P3 Q.
+V. Ainvalidade do argumento acima se demonstra
+desta forma: a proposição lógica P <&& Q é
+diferente das premissas P 3 Q, Q>Re-RvP.
+É correto apenas o que se afirma em
+Oie.
+O lelv
+OLIev
+O 1,1, IVeV.
+O,I,IVev.
+
+QUESTÃO 34
+Considere a implementação de um compilador em que as etapas de análise léxica e sintática possam
+compartilhar o mesmo processador de forma concorrente. Considere, ainda, uma solução para o problema,
+cujo pseudocódigo é mostrado abaixo. O analisador léxico Ilê os lexemas e identifica os respectivos tokens do
+arquivo-fonte por meio da chamada ao procedimento Leia. O analisador sintático verifica a sequência dos
+tokens por meio da chamada ao procedimento Case. Os dois processos compartilham a constante Ne as
+variáveis buffer, vez econt.
+constante N = 10;
+02 enquanto verdadeiro faça
+o3 Leia (token);
+04 enquanto cont = N - 1 aguarde;
+o5 enquanto vez = 1 aguarde;
+06 buffer[in] = token;
+07 cont = cont + 1;
+o8 vez = 1;
+09 in = (in + 1) mod N;
+10 fim enquanto
+Analisador Sintatico:
+11 inteiro token, out = O;
+12 enquanto verdadeiro faça
+13 enquanto cont = O aguarde;
+14 enquanto vez = O aguarde;
+15 token buffer [out];
+16 cont = cont - 1;
+17 vez = O;
+18 out (out + 1) mod N;
+19 Case (token);
+20 fim enquanto
+inteiro buffer[N], vez = O, cont = O;
+Analisador Lexico:
+01 inteiro token, in = O;
+A partir da análise da solução, avalie as asserções a seguir e a relação proposta entre elas.
+|. Aeliminação da variável cont e das linhas 4, 7,13 e 16 causa erro de sincronismo entre os processos.
+PORQUE
+Il. A variável cont é responsável pelo controle do acesso à seção crítica do código.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a |l é uma justificativa correta da |.
+O As asserções | e |l são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a |l uma proposição falsa.
+O A asserção | é uma proposição falsa, e a Il uma proposição verdadeira.
+O As asserções | e 11 são proposições falsas.
+
+QUESTÃO 35
+Um prédio de 4 andares, sendo o primeiro o andar térreo, é servido por 2 elevadores. Por motivo de economia
+de energia, o elevador 2 só é acionado se for solicitado em mais de 2 andares. Considere um circuito proposto
+para habilitar o acionamento do elevador 2 conforme é mostrado a seguir. Ele utiliza um multiplexador 4x1,
+cuja saída é selecionada através da composição dos sinais A e B, que indicam se os andares 1 e 2 solicitaram
+o serviço do elevador. Assim, o valor AB=10,, indica que o primeiro andar solicitou elevador, mas não o
+segundo. Os sinais C e D indicam se os andares 3 e 4 solicitaram o serviço, respectivamente.
+Com base na análise do circuito proposto para o problema, avalie as seguintes asserções e a relação proposta
+entre elas.
+|. Ocircuito não atende às especificações do projeto.
+PORQUE
+Ill. A entrada superior do multiplexador com valor constante O indica que a saída será O
+independentemente dos valores dos sinais A, B/ Ce D.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e a 1l é uma justificativa correta da |.
+O As asserções | e || são proposições verdadeiras, mas a 1l não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é uma proposição falsa.
+O A asserção | é uma proposição falsa, e a |l é uma proposição verdadeira.
+O A asserções | e |l são proposições falsas.
+

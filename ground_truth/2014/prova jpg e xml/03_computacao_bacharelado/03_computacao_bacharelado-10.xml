@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-24T18:26:17</Created>
+	<LastChange>2020-09-24T18:26:17</LastChange></Metadata>
+	<Page imageFilename="03_computacao_bacharelado-10.jpg" imageWidth="1622" imageHeight="2171">
+	<ImageRegion id="r0">
+	<Coords points="315,555 315,807 1300,807 1300,555"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 412,238 412,282 1539,282 1539,536 1242,536 1242,924 1538,924 1538,1049 1441,1049 1441,1098 86,1098 86,1099 85,1099 85,905 83,905 83,829 84,829"/>
+	<TextEquiv conf="0.93483">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Muitas aplicações utilizam o sistema de localização (GPS) do dispositivo móvel do usuário para descobrir
+qual o melhor caminho a seguir. Algumas aplicações também permitem que o usuário notifique a ocorrência
+de eventos que ele presencia durante seu percurso, tais como acidentes ou trânsito lento. Em um possível
+cenário, esta notificação é enviada para um servidor centralizado, o qual é responsável por disseminar a
+notificação para os demais usuários do aplicativo. Uma equipe de desenvolvimento criou uma aplicação
+desse tipo utilizando uma base de dados relacional para o armazenamento de dados referentes aos
+usuários, eventos e notificações enviadas. A modelagem conceitual foi feita utilizando o diagrama entidade-
+relacionamento conforme apresentado na figura a seguir.
+A equipe de desenvolvimento deseja adicionar as seguintes características ao modelo:
+*º Cada notificação deve ter data e hora;
+º O grupo de usuários para o qual uma notificação é enviada deve ser restrito. Cada usuário deve ter um
+grupo com um número arbitrário de amigos, que também são usuários da aplicação, e as notificações
+enviadas por um usuário devem ser enviadas somente a seus amigos. Também se deseja armazenar
+informações sobre quais notificações foram enviadas para quais usuários.
+Nessa situação, adapte o diagrama ER da figura para atender os novos requisitos.(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

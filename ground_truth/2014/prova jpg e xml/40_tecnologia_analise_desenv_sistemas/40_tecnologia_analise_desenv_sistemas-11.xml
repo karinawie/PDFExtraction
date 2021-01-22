@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:17:23</Created>
+	<LastChange>2020-12-06T02:46:11</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-11.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 473,299 473,345 1599,345 1599,441 770,441 770,609 626,609 626,670 604,670 604,814 626,814 626,842 793,842 793,892 604,892 604,948 425,948 425,1072 1495,1072 1495,1167 145,1167 145,1072 146,1072 146,1058 147,1058 147,441 145,441"/>
+	<TextEquiv conf="0.91881">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Matrizes multidimensionais são vetores capazes de armazenarem mais de uma posição de cada elemento
+que será indicado por dois ou mais índices. Um exemplo de matrizes multidimensionais são as matrizes
+matemáticas, que representam valores tabulados em linhas e colunas.
+01 algoritmo “matriz”
+02 var
+03 i, j : inteiro;
+04 ml : vetor [1..3, 1..3] de inteiro;
+05 m2 : vetor [1..3, 1..3] de inteiro;
+06 inicio
+07 para i de 1 ate 3 faça
+o8 para j de 1 ate 3 faça
+o9 mi[i,3] := i + 1;
+10 m2[i,j] := 3 +41;
+11 fimpara;
+12 fimpara;
+13 para i de 1 ate 3 faça
+14 para j de 1 ate 3 faça
+15 se (ml[i,j] = m2[i,j]) então
+16 ml[i,3] := O;
+17 senão
+18 m2[i,3] := 1;
+19 fimse;
+20 fimpara;
+21 fimpara;
+22 fimalgoritmo
+Considerando o algoritmo acima e com base no teste de mesa, faça o que se pede nos itens a seguir.
+a) Apresente os dados dos vetores m1 e m2 ao término da execução da linha 12. (valor: 5,0 pontos)
+b) Apresente os dados dos vetores m1 e m2 ao término da execução da linha 21. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-25T04:59:16</Created>
+	<LastChange>2020-10-27T18:44:07</LastChange></Metadata>
+	<Page imageFilename="03_CIENCIAS_ECONOMICAS-21.jpg" imageWidth="1615" imageHeight="2166">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,182 1536,182 1536,207 1534,207 1534,1207 128,1207 128,1093 81,1093 81,1049 80,1049 80,1048 81,1048 81,619 80,619"/>
+	<TextEquiv conf="0.96482">
+	<Unicode>QUESTÃO 29
+Na discussão sobre os determinantes da renda dos indivíduos, argumenta-se que a experiência e a educação influenciam
+positivamente a renda no mercado de trabalho. Contudo, o efeito da educação é convexo, enquanto o da experiência
+é côncavo, ou seja, um ano a mais de educação aumenta cada vez mais a renda, ao passo que um ano a mais de
+experiência aumenta cada vez menos a renda.
+Além disso, indivíduos com mesmo nível de educação e escolaridade podem ter níveis de renda diferentes no mercado
+de trabalho devido a um efeito segmentação ou efeito discriminação. Entre os fatores que explicam a segmentação,
+incluem-se a formalidade do trabalho, o setor de atividade e a sindicalização. Já a discriminação se expressa pelos
+diferenciais de renda por gênero e etnia para indivíduos que possuem mesmos atributos produtivos.
+Suponha que um técnico do Ministério do Trabalho resolva testar as hipóteses mencionadas acima propondo o
+modelo seguinte.
+InY = 1 + SEDUC; + B3EDUC? + BEXP;+B.EXP?2+N y,XÍ+u
+j
+em que InY é o logaritmo da renda do trabalho; E DU C é a variável que expressa anos de escolaridade; E X P é a variável
+referente a anos de experiência; X* são as variáveis de controle para segmentação e discriminação; 11, Da, 03, Ba e Vj
+são os parâmetros a serem estimados; u é o termo de erro aleatório, com média zero e variância constante.
+Entre os resultados da estimação do modelo, seria adequado o técnico conjecturar que
+O bo&lt;b.
+O 63&gt;0eb;&lt;O.
+os parâmetros j são estatisticamente insignificantes.
+no mercado de trabalho.
+O um ano a mais de experiência produz um aumento percentual na renda igual a Às, para pessoas sem experiência
+um ano a mais de educação produz um aumento percentual na renda igual a D2 + 1063, para pessoas com 10 anos
+de educação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

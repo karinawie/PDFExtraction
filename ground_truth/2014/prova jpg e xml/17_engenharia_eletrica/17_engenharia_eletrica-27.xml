@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:41:10</Created>
+	<LastChange>2020-11-21T21:15:03</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-27.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="832,241 833,241 833,242 1002,242 1002,301 1538,301 1538,690 1539,690 1539,1432 1538,1432 1538,1433 832,1433 832,569 831,569 831,301 832,301"/>
+	<TextEquiv conf="0.96646">
+	<Unicode>QUESTÃO 31
+A levitação magnética (maglev) é uma forma de
+levitar objetos, a partir de campos magnéticos,
+de modo silencioso e sem necessidade do uso de
+combustíveis. Países, como Japão e Alemanha,
+têm investido bilhões de dólares em pesquisas e
+desenvolvimento nessa área, principalmente com
+foco no trem maglev.
+Sobre os fenômenos eletromagnéticos envolvidos
+nesse tipo de levitação, assinale a alternativa correta.
+O Os campos magnéticos necessários para se obter
+a levitação magnética, em geral, são pouco
+intensos.
+O Materiais com propriedade supercondutora não
+são indicados nesse tipo de levitação, uma vez
+que eles repelem o campo magnético.
+O Para que a levitação seja garantida, é necessário
+que a força repulsiva sobre um objeto
+diamagnético seja menor do que o peso desse
+objeto.
+OA levitação emprega o diamagnetismo,
+propriedade que alguns materiais possuem de se
+magnetizarem em oposição ao campo magnético
+aplicado, repelindo-se mutuamente.
+O Para a aplicabilidade em veículos (como trens,
+por exemplo), a levitação magnética é suficiente
+para a locomoção, sendo dispensável o uso de
+um motor de propulsão.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="84,241 255,241 255,301 790,301 790,693 791,693 791,882 790,882 790,1738 533,1738 533,2003 84,2003 84,1738 83,1738 83,693 84,693"/>
+	<TableRegion id="r3">
+	<Coords points="278,900 278,1639 597,1639 597,900"/></TableRegion>
+	<TextEquiv conf="0.96251">
+	<Unicode>QUESTÃO 30
+Em um sistema de automação industrial, um
+motor será ligado quando ocorrer determinadas
+combinações do acionamento de chaves e sensores.
+Dessa forma, deverá ser criada uma função lógica
+combinacional X = f (A, B, C, D)) em que Ae C
+representam chaves, B e D representam sensores e X
+representa o acionamento do motor.
+Para isso, construiu-se a Tabela Verdade das variáveis
+envolvidas, conforme mostrado abaixo.
+Na Tabela Verdade, A, B, Ce D são as entradas e
+X é a saída. O símbolo ? representa a condição de
+don't care ou não importa para a saída X. O símbolo *
+representa inversão lógica. Dessa forma, B', por
+exemplo, significa B invertido ou complementado.
+A expressão lógica minimizada para a função X pode
+ser representada por
+O X=AB+AD+AC.
+O X=AD+A'C+AB.
+O x=ABD' + BD + AC.
+O Xx=AC'D+ACD' + AB.
+O x=AB'C'D+AB'C'D+AB'CD'.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,234 805,2023 810,2023 810,234"/></SeparatorRegion></Page></PcGts>

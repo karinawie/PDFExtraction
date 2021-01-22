@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:40:50</Created>
+	<LastChange>2020-11-21T21:13:29</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-29.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="831,300 1538,300 1538,843 1537,843 1537,1019 1539,1019 1539,1088 1538,1088 1538,1193 1539,1193 1539,1319 990,1319 990,1564 989,1564 989,1565 832,1565 832,1564 833,1564 833,1193 880,1193 880,999 832,999 832,843 831,843"/>
+	<TextEquiv conf="0.95087">
+	<Unicode>QUESTÃO 32 - Eletrônica
+Um engenheiro recém-contratado em uma empresa
+é incumbido de projetar um novo sistema de
+sensoriamento para a medição de temperatura
+em uma das linhas de produção da fábrica. A faixa
+de temperatura a ser medida é de 250 ºC a 450 ºC,
+com precisão de +2 ºC. Para atender essa demanda,
+o engenheiro utiliza um sensor resistivo, cuja
+resistência varia linearmente de 280 O a10000O
+na faixa de temperatura a ser medida. A fim de não
+danificar o sensor, a potência nele dissipada deve
+ficar abaixo de 5 mW. A saída do sensor é ligada a
+um circuito condicionador de sinais, cuja saída varia
+linearmente de —6 V a +6 V na faixa de temperatura
+a ser medida.
+Com base nos dados acima, avalie as afirmações a
+seguir.
+|. Asaída do sistema varia a uma taxa 25 mV/ OQ.
+ll. A precisão do sistema de medição deve ser
+maior do que +0,8%.
+Ill. A corrente no sensor de ser mantida abaixo
+de 2 mA.
+IV. O sensor deve variar de 3,6 0)/ºC para manter
+a precisão de medição da temperatura.
+É correto apenas o que se afirma em
+Oie.
+O el.
+Oie
+O Lilelv.
+OL WMeIv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,299 790,299 790,1322 791,1322 791,1460 790,1460 790,1733 574,1733 574,1781 241,1781 241,2013 84,2013 84,439 83,439"/>
+	<ImageRegion id="r5">
+	<Coords points="84,442 84,1126 789,1126 789,442"/></ImageRegion>
+	<TextEquiv conf="0.95172">
+	<Unicode>QUESTÃO 32 - Sistemas de Energia Elétrica
+As figuras a seguir mostram esquemas típicos
+utilizados em redes de distribuição, empregando
+arranjos com suprimento único e arranjos com duas
+fontes de suprimento e suas respectivas chaves.
+KAGAN, N., OLIVEIRA, C. C. B., ROBBA, E. J.. Introdução aos sistemas
+de distribuição de energia elétrica. 2.ed. São Paulo:
+Blucher, 2010, p. 8-11. (adaptado)
+Considerando as redes apresentadas, avalie as
+afirmações a seguir.
+|. Narede 1, qualquer defeito na rede ocasiona
+a interrupção de fornecimento à subestação.
+Il. Na rede 2, para defeitos a montante de uma
+das barras extremas da rede de distribuição,
+o suprimento da carga não é interrompido
+permanentemente.
+Ill. Na rede 3, um defeito no barramento de alta
+da subestação impõe o seccionamento da
+rede, pelo fechamento das duas chaves de
+entrada.
+IV. O arranjo da rede 4 é conhecido como sangria
+da linha, utilizado em regiões onde há vários
+centros de carga, com alta densidade de carga.
+É correto apenas o que se afirma em
+Oie
+O elv
+O leiv.
+O L11e.
+OLWelv</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="805,234 805,2021 813,2021 813,234"/></SeparatorRegion></Page></PcGts>

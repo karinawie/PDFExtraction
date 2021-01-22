@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-28T16:46:56</Created>
+	<LastChange>2020-10-28T16:59:05</LastChange></Metadata>
+	<Page imageFilename="17_TEC_RADIOLOGIA-21.jpg" imageWidth="1613" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="76,509 76,1288 1542,1289 1542,510"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,235 252,235 252,303 1535,303 1535,429 1528,429 1528,1375 1536,1375 1536,1963 1535,1963 1535,1964 82,1964 82,475 81,475"/>
+	<TextEquiv conf="0.95861">
+	<Unicode>QUESTÃO 28
+A Ressonância Magnética possibilita a aquisição de imagens em diversos tipos de ponderações e
+sequências. Algumas sequências são utilizadas para estudo especial de determinadas estruturas do abdômen,
+como as vias biliares, rins etc. Um exemplo é a sequência Single Shot Fast Spin Echo (SSFSE), a qual possibilita
+a aquisição de imagens das vias biliares e (ou) do trato urinário.
+Entre as alternativas a seguir, qual expressa uma relação direta com a sequência Single Shot Fast Spin Echo?
+O Sequência fast spin eco com múltiplos disparos; utiliza diversas cadeias de ecos suficientes para preencher
+todas as linhas do espaço K após dois tempos de repetições (TR) (128 ou 256 codificações de fase).
+O Sequência ultra-fast spin eco com múltiplos disparos; utiliza diversas cadeias de ecos suficientes para
+preencher todas as linhas do espaço K após quatro tempos de repetições (TR) (256 ou 1 024 codificações
+de fase).
+O Sequência spin eco simples; utiliza uma cadeia de eco para preencher uma linha do espaço K após cinco
+tempos de repetições (TR) (128 ou 256 codificações de fase).
+O Sequência spin eco com disparo único; utiliza uma cadeia de ecos suficiente para preencher todas as
+linhas do espaço K após um único disparo TR (128 ou 256 codificações de fase).
+O Sequência spin eco turbo com dez disparos simultâneos; utiliza dez cadeias de ecos suficientes para
+preencher todas as linhas do espaço K após cinco tempos de repetições (TR) (128 ou 256 codificações
+de fase).</Unicode></TextEquiv></TextRegion></Page></PcGts>

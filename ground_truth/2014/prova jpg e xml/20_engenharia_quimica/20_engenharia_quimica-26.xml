@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T02:10:33</Created>
+	<LastChange>2020-11-22T02:19:54</LastChange></Metadata>
+	<Page imageFilename="20_engenharia_quimica-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="832,238 1003,238 1003,295 1539,295 1539,957 1538,957 1538,1682 1322,1682 1322,1735 965,1735 965,1966 832,1966 832,1756 833,1756 833,1701 880,1701 880,1047 832,1047 832,957 831,957 831,295 832,295"/>
+	<TextEquiv conf="0.96872">
+	<Unicode>QUESTÃO 28
+Uma enorme explosão destruiu uma planta industrial.
+O processo envolvia um reator em batelada,
+produzindo tricarbonilo metilciclopentadienil de
+manganês. Estudos efetuados pela Comissão de
+Investigação de Risco e Segurança de Processos
+Químicos concluíram que erros cometidos durante o
+projeto do sistema de resfriamento do reator foram
+a causa do acidente. O sistema de resfriamento
+consistia na troca térmica entre a mistura reagente
+e água de resfriamento. A água era alimentada por
+meio de uma válvula de controle na entrada de
+uma serpentina e, após a troca térmica, descartada
+para o ambiente na forma de vapor. Uma válvula
+de drenagem foi instalada para descartar a água
+não vaporizada, e um sistema de alívio de pressão
+foi instalado para situações de emergência. Todos
+os procedimentos de operação do reator eram
+efetuados na sala de controle por um operador.
+Sobre as prováveis causas do acidente, avalie as
+afirmações a seguir.
+|. O disco de ruptura do sistema de alívio de
+pressão escolhido rompe-se a uma pressão
+muito baixa. O projetista deveria escolher um
+disco de ruptura para uma pressão maior.
+Il. A válvula de alimentação da água de
+resfriamento escolhida foi a normalmente
+fechada. O projetista deveria escolher uma
+válvula normalmente aberta.
+II. A válvula de drenagem da água de
+resfriamento escolhida foi a normalmente
+aberta. O projetista deveria escolher uma
+válvula normalmente fechada.
+IVO controlador escolhido foi do tipo
+Proporcional-Integral (PI). O projetista
+deveria escolher um controlador do tipo
+Proporcional-Integral-Derivativo (PID).
+É correto apenas o que se afirma em
+o.
+O.
+Oie.
+O leiv.
+O leiv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,294 790,294 790,1409 789,1409 789,1540 790,1540 790,1714 574,1714 574,1766 249,1766 249,1992 84,1992 84,1785 85,1785 85,1732 132,1732 132,808 83,808 83,294 84,294"/>
+	<TextEquiv conf="0.95543">
+	<Unicode>QUESTÃO 27
+Como forma de aplicar os conceitos de transferência
+de calor em estado transiente, um estudante de
+engenharia calculou o tempo necessário para que o
+centro de um ovo com 5 cm de diâmetro, que estava
+numa geladeira à temperatura de 5 ºC, alcançasse
+a temperatura de 65 ºC. O ovo foi inserido em água
+fervendo à temperatura de 98 ºC. Considerou que
+O ovo era perfeitamente esférico e constituído
+em sua maior parte por água, e estimou sua
+condutividade térmica em 0,6 W/m.ºC e seu
+coeficiente de transferência de calor por convecção
+em 1 200 W/m?.ºC.
+A respeito do resultado do experimento, avalie as
+afirmações a seguir.
+|. A solução analítica de problemas de condução
+de calor transiente envolve séries infinitas e
+equações implícitas, difíceis de avaliar. Para
+simplificar os cálculos e usar gráficos ou relações
+simples que permitem expressar a solução
+com erro aceitável, deve-se avaliar o valor do
+número de Fourier calculado e considerar que
+o ovo está inicialmente a uma temperatura
+uniforme e constante, que não há geração de
+calor e que o coeficiente de transferência de
+calor por convecção é constante e uniforme.
+Il. Um pequeno valor para o número de Biot
+indica que a resistência interna do ovo
+à condução de calor é pequena, quando
+comparada à resistência devido à convecção
+entre a casca e a água.
+Ill. Com os dados e as propriedades determinadas
+no experimento, é correto afirmar que o
+número de Biot para o ovo é igual a 0,5.
+IV. Para calcular o tempo necessário para que a
+temperatura no centro do ovo alcance 65 ºC,
+basta multiplicar o número de Fourier pelo
+quadrado do raio do ovo e dividir o resultado
+pela difusividade do ovo.
+É correto apenas o que se afirma em</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="807,228 807,2015 810,2015 810,228"/></SeparatorRegion></Page></PcGts>

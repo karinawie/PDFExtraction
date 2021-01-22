@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T05:52:20</Created>
+	<LastChange>2020-12-06T04:39:34</LastChange></Metadata>
+	<Page imageFilename="41_tecnologia_automacao_industrial-17.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="893,299 1065,299 1065,361 1599,361 1599,1502 1384,1502 1384,1560 1059,1560 1059,1816 894,1816 894,1585 895,1585 895,1526 942,1526 942,829 893,829"/>
+	<TextEquiv conf="0.96453">
+	<Unicode>QUESTÃO 18
+O controlador lógico programável (CLP) foi
+desenvolvido no fim dos anos de 1960, com o
+objetivo de substituir painéis de relés. Ele pode
+ser visto como um computador dedicado, no qual
+os módulos com diversas funções específicas são
+integrados em um rack ou bastidor, de acordo com
+a necessidade e complexidade da aplicação que se
+deseja automatizar.
+Considerando os diversos tipos de módulos que podem
+ser comumente encontrados em CLPs comerciais,
+avalie as características apresentadas a seguir.
+l. Em alguns modelos de CLP, existe a
+necessidade de um módulo de fonte de
+alimentação enquanto, em outros, a fonte de
+alimentação está presente na própria unidade
+central de processamento (UCP).
+Il. Os principais periféricos de entrada e de saída
+são, respectivamente, o teclado e as unidades
+de disco e de vídeo.
+Ill. Entre os diversos módulos de comunicação de
+dados disponíveis, podem ser citados os das
+redes industriais Ethernet, Modbus, Profibus,
+DeviceNet e AS-Interface.
+IV. O módulo contador de entradas rápidas
+é responsável pela aquisição dos dados
+analógicos.
+É correto apenas o que se afirma em
+Oem.
+Ole
+Ole
+O L11el.
+O 1, Meiv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="872,288 872,2083 875,2083 875,288"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="317,299 317,367 851,367 851,636 850,636 850,747 852,747 852,820 851,820 851,1084 725,1084 725,1107 678,1107 678,1106 674,1106 674,1105 669,1105 669,1104 663,1104 663,1103 657,1103 657,1102 651,1102 651,1101 382,1101 382,1100 372,1100 372,1099 155,1099 155,1100 149,1100 149,1101 146,1101 146,636 145,636 145,299"/>
+	<TextEquiv conf="0.95224">
+	<Unicode>QUESTÃO 16
+O projetista de uma indústria de peças automotivas
+pretende divulgar um catálogo de produtos entre seus
+clientes. Para isso, disponibilizou uma impressora
+e papéis no formato A4, com 210 mm de largura e
+297 mm de altura. Se a maior peça que o projetista
+deverá representar na folha de papel A4 tem 70 mm
+de largura e 99 mm de altura, então
+O a impressão na escala 5:1 será possível nessa
+folha.
+O o desenho na escala natural não poderá ser
+impresso nessa folha.
+O o desenho na escala 2:1 poderá ser impresso e
+visualizado pelo cliente nessa folha.
+O a escala natural será a maior escala possível para
+representação dessa peça na folha.
+O o desenho na escala 1:3 não poderá ser impresso
+nessa folha devido a seu tamanho ampliado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="371,1101 371,1102 381,1102 381,1103 650,1103 650,1104 656,1104 656,1105 662,1105 662,1106 668,1106 668,1107 673,1107 673,1108 677,1108 677,1109 725,1109 725,1275 763,1275 763,1373 850,1373 850,1442 635,1442 635,1570 396,1570 396,1831 218,1831 218,1829 146,1829 146,1570 160,1570 160,1442 145,1442 145,1373 159,1373 159,1203 145,1203 145,1114 146,1114 146,1103 150,1103 150,1102 156,1102 156,1101"/>
+	<TextEquiv conf="0.95224">
+	<Unicode>QUESTÃO 17
+Sabendo-se que a transformada de Laplace
+s+a
+£L (e * cos(wt)) = CI II
+então a resposta ao impulso de um sistema cuja
+planta no domínio da frequência tem valor
+s +10
+Gs) = ET 05 + 161
+é dada por
+O e cos(8t).
+O e" cos(—8t).
+O e” cos(10t).
+O e cos(—10t).
+QB e” cos(10t).</Unicode></TextEquiv></TextRegion></Page></PcGts>

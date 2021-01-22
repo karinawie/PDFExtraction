@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T04:08:38</Created>
+	<LastChange>2020-11-21T04:14:36</LastChange></Metadata>
+	<Page imageFilename="13_engenharia_alimentos-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="84,238 255,238 255,301 1537,301 1537,449 1538,449 1538,785 892,785 892,1497 1539,1497 1539,2000 1538,2000 1538,2001 84,2001 84,1473 83,1473 83,1443 84,1443 84,418 83,418 83,301 84,301"/>
+	<ImageRegion id="r1">
+	<Coords points="150,802 150,1428 1544,1428 1544,802"/></ImageRegion>
+	<TextEquiv conf="0.96595">
+	<Unicode>QUESTÃO 29
+A Agência Nacional de Vigilância Sanitária (Anvisa) estabelece limites ao uso de aditivos, como, por exemplo,
+os corantes. Para detecção desses limites, são necessárias metodologias analíticas adequadas para sua
+quantificação.
+Nesse contexto, considere a seguinte situação: um refresco de cor amarela deve ser analisado
+para que seja verificado se ele atende ou não aos limites estabelecidos quanto à concentração
+de dois corantes: amarelo tartrazina e amarelo crepúsculo. A figura 1 apresenta as estruturas do
+amarelo crespúsculo (sal di-sódio 6-hidroxi-5-[(4-sulfofenil) azol-naftaleno-2-sulfonato) e do
+amarelo tartrazina (sal tri-sódico 5-hidroxi-1-(4-sulfofenil)-4-[(4-sulfofenil) azo]-pirazole-3-carboxilato).
+Um método que pode ser utilizado é o que se fundamenta na espectrofotometria, nesse caso, aplicado na
+região visível do espectro eletromagnético, como pode ser observado na figura 2, que apresenta os espectros
+das duas substâncias e, também, o da mistura.
+A situação apresentada para as duas substâncias sugere que
+O a análise por espectrofotometria não é possível, já que ambas são amarelas e absorvem nos mesmos
+comprimentos de onda.
+O a análise deve ser realizada por cromatografia, sendo a cromatografia em fase gasosa a mais indicada,
+pois é capaz de separar as duas substâncias.
+O a análise por espectrofotometria pode ser realizada aplicando-se o princípio da aditividade, sendo
+necessária uma curva padrão para cada substância.
+O a análise por espectrofotometria exige que se obtenham os espectros das duas substâncias nas condições
+de ensaio. Na figura 2, a curva x corresponde ao espectro do amarelo tartrazina e a curva y, ao espectro
+do amarelo crepúsculo.
+O a análise por espectrofotometria pode ser realizada aplicando-se o princípio da aditividade. No caso da
+substância que gerou a curva y (figura 2), a Lei de Beer-Lambert será obedecida em faixa mais ampla de
+concentrações em 450 nm do que em 425 ou 475 nm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

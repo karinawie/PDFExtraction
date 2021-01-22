@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:17:52</Created>
+	<LastChange>2020-11-22T03:25:16</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-29.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1538,298 1538,1078 1128,1078 1128,1282 1140,1282 1140,1365 1142,1365 1142,1398 888,1398 888,1389 832,1389 832,1078 831,1078 831,889 832,889 832,561 831,561 831,298 832,298"/>
+	<TextEquiv conf="0.96416">
+	<Unicode>QUESTÃO 34
+A iluminação de um ambiente deve favorecer as
+atividades que nele serão realizadas. Uma sala de
+cirurgias, por exemplo, deve ser mais iluminada que
+um ambiente para leitura, como uma biblioteca.
+Por outro lado, em alguns ambientes, como salas
+de repouso, é interessante que a iluminação seja
+minimizada.
+Suponha que um físico tenha sido consultado
+acerca da instalação de uma abertura no telhado
+de um ambiente de forma que a transmissão da
+radiação solar para esse local tenha intensidade de,
+no máximo, 240 W/m?. Para isso, a esquadria da
+abertura deve contar com um conjunto de 2 filtros
+polarizadores.
+Considerando que a intensidade máxima da radiação
+solar nesse local seja de 1080 W/m?, a consulta
+deve indicar que, para o efeito desejado, as direções
+de polarização dos dois filtros devem ser dispostas
+formando um ângulo 9, com 0º &lt; 6 &lt; 90º , tal que
+0 &gt; arccos(2/3).
+9 &gt; arcsen(2/3).
+0 &gt; arcsen(4/9).
+0 &gt; arccos(V2/3)
+(
+)
+cCoOoçcGoo
+0 &gt; arcsen 2/3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,298 790,298 790,962 789,962 789,1094 470,1094 470,1205 305,1205 305,1317 313,1317 313,1395 84,1395 84,1116 178,1116 178,1008 132,1008 132,987 161,987 161,985 180,985 180,879 85,879 85,878 84,878 84,643 83,643 83,297 84,297"/>
+	<TextEquiv conf="0.94590">
+	<Unicode>QUESTÃO 33
+Os múons são partículas subatômicas instáveis
+que podem decair com tempos de vida média de,
+aproximadamente, 2,2 us, medidos em laboratórios.
+Devido à alta incidência de energia solar sobre a
+atmosfera terrestre, há grande produção de múons
+a alturas de, aproximadamente, 10 km. Após suas
+formações, essas partículas podem ter velocidades de
+0, 999c , isto é, 1 = 22,4, em que c é a velocidade
+da luz no vácuo e 7 é o fator de Lorentz.
+Considerando o ponto de vista de um observador em
+repouso na superfície da Terra, avalie as afirmações
+a seguir.
+|. Oobservador não consegue medir a incidência
+de múons na superfície da Terra.
+II.Um múon teria condições de viajar somente
+660 m na atmosfera terrestre.
+Ill. Com os dados fornecidos, o tempo de vida
+média do múon, medido pelo observador,
+seria de 49,28 um .
+É correto o que se afirma em
+O l, apenas.
+O ll, apenas.
+O lell, apenas.
+O lelll, apenas.
+O LI1elm.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="805,234 805,2015 807,2015 807,234"/></SeparatorRegion></Page></PcGts>

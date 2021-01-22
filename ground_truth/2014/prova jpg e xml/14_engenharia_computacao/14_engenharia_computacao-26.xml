@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:14:56</Created>
+	<LastChange>2020-11-21T19:20:53</LastChange></Metadata>
+	<Page imageFilename="14_engenharia_computacao-26.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="832,238 1003,238 1003,298 1539,298 1539,487 1538,487 1538,817 1539,817 1539,1430 1322,1430 1322,1484 941,1484 941,1652 997,1652 997,1731 832,1731 832,1509 833,1509 833,1451 926,1451 926,1262 904,1262 904,1108 905,1108 905,966 904,966 904,853 903,853 903,852 897,852 897,799 880,799 880,583 833,583 833,488 832,488"/>
+	<TextEquiv conf="0.96722">
+	<Unicode>QUESTÃO 30
+Uma arquitetura clássica de 32 bits de espaço de
+endereçamento de memória permite até 4 GB de
+memória principal. Para um bom gerenciamento
+dessa memória, algumas técnicas podem ser
+utilizadas: paginação, segmentação e swapping.
+Em relação a essas técnicas de gerenciamento de
+memória, avalie as afirmações a seguir.
+|. Utilizando páginas de 4 KB de tamanho,
+o endereço virtual de memória utiliza os
+220 bits mais significativos para o número
+da página virtual e os demais 212 bits para
+o deslocamento interno da página.
+. O acesso à memória física, utilizando
+segmentação, é feito por meio de uma
+estrutura de hardware específica do
+processador.
+. Utilizando a paginação ou a segmentação,
+a memória física não sofrerá fragmentação
+interna ou externa.
+. É possível utilizar a técnica de swapping
+para qualquer tamanho de página, mas não
+a segmentação, pois esta tem espaço de
+endereçamento variável.
+O algoritmo de substituição de página,
+denominado LFU, utiliza o princípio de
+localidade temporal, enquanto o algoritmo
+LRU utiliza o princípio de localidade espacial.
+É correto apenas o que se afirma em
+O.
+Qiel
+Oilev
+O Ivev.
+QÔuMeilv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,238 255,238 255,280 790,280 790,281 791,281 791,559 417,559 417,752 791,752 791,1163 84,1163 84,752 125,752 125,559 84,559"/>
+	<TextEquiv conf="0.30588">
+	<Unicode>QUESTÃO 29
+Expressões regulares constituem formas sucintas
+de descrever linguagens regulares. Uma de suas
+aplicações é descrever padrões a serem procurados
+em um texto. As expressões regulares R1, R2, R3 e
+R4 a seguir utilizam a seguinte convenção: o fecho de
+Kleene é denotado por * e a união é denotada pelo
+símbolo |.
+º R1=a*ba*ba*ba*
+* R2=a*(alb)a(a|b)*
+º*º R3=a*ab*a(a|b)
+º R4=(alb)*
+Em relação às linguagens definidas pelas expressões
+regulares apresentadas, conclui-se que a cadeia abbb
+está contida apenas nas linguagens definidas por
+O Ri eR4.
+O R2eR3.
+O R2eR4.
+O Ri eR3.
+O R2, R3 e RA.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,228 810,2015 805,2015 805,228"/></SeparatorRegion></Page></PcGts>

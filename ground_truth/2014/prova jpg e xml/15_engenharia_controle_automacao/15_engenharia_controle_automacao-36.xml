@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:35:45</Created>
+	<LastChange>2020-11-21T19:44:21</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-36.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="85,235 255,235 255,295 1538,295 1538,1200 1196,1200 1196,1453 84,1453 84,403 83,403 83,295 84,295 84,265 85,265"/>
+	<ImageRegion id="r1">
+	<Coords points="350,428 350,1081 1536,1081 1536,428"/></ImageRegion>
+	<TextEquiv conf="0.96570">
+	<Unicode>QUESTÃO 35
+Um engenheiro de controle e automação, responsável por gerenciar a instalação de um sistema de controle
+de um reservatório de água quente de um hospital, deve assessorar a equipe encarregada de sua montagem.
+A malha de controle do tanque de aquecimento está representada na figura abaixo.
+Com base na análise do diagrama de instrumentação e controle, escolha a opção em que as variáveis
+manipuladas (MV) e as variáveis de processo (PV) estão corretamente relacionadas na forma MV / PV para
+uma mesma malha de controle.
+O Nível da água / Vazão de entrada; Temperatura da água / Tensão na resistência.
+O Nível da água / Vazão de entrada; Tensão na resistência /Temperatura da água.
+O Temperatura da água / Vazão de entrada; Nível da água / Tensão na resistência.
+O Vazão de entrada / Temperatura da água; Tensão na resistência / Nível da água.
+O Vazão de entrada / Nível da água; Tensão na resistência / Temperatura da água.</Unicode></TextEquiv></TextRegion></Page></PcGts>

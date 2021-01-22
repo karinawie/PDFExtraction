@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T03:33:51</Created>
+	<LastChange>2020-12-06T03:46:54</LastChange></Metadata>
+	<Page imageFilename="43_tecnologia_redes_computadores-16.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="893,299 1064,299 1064,1099 1599,1099 1599,1368 1333,1368 1333,1616 894,1616 894,1368 893,1368"/>
+	<TextEquiv conf="0.96391">
+	<Unicode>QUESTÃO 13
+Considere que um computador pertencente à
+rede local, foi invadido, e, para que o tráfego seja
+encaminhado para o servidor IDS é necessário
+configurar uma funcionalidade em um dispositivo da
+rede apresentada na figura acima. Nessa situação, o
+equipamento e a funcionalidade a ser configurada,
+são, respectivamente,
+O o roteador e a Analyser.
+O o switch e a Port Security.
+O o switch e a Port Mirroring.
+O eoswitch e o protocolo STP.
+O o roteador e o protocolo VTP.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 316,299 316,369 851,369 851,1637 636,1637 636,1754 303,1754 303,2010 146,2010 146,1779 147,1779 147,1720 240,1720 240,1587 192,1587 192,1558 194,1558 194,1156 145,1156 145,983 206,983 206,848 145,848 145,742 144,742 144,369 145,369"/>
+	<TextEquiv conf="0.93579">
+	<Unicode>QUESTÃO 12
+Um ponto de acesso é um dispositivo de camada 2
+que funciona como um hub 802.3 Ethernet. A rádio
+frequência é um meio compartilhado, e pontos
+de acesso escutam todo o tráfego de rádio. Assim
+como no padrão IEEE 802.3 Ethernet, dispositivos
+que operam no padrão IEEE 802.11 WLAN também
+disputam o meio para transmitir. Apesar disso,
+diferentemente das placas de rede Ethernet,
+dispositivos de rádio em vez de detectarem colisões
+são criados para evitá-las.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet:
+Uma Abordagem Top-Down. 5 ed. São Paulo:
+Addison Wesley, 2010 (adaptado).
+Sobre a operação dos padrões IEEE 802.3 e 802.11,
+avalie as afirmações a seguir.
+|. O padrão IEEE 802.3 permite detecção de
+colisão.
+Il. O método de acesso para o padrão 802.3 é o
+CSMA/CD, enquanto o padrão 802.11 faz uso
+de CSMA/CA.
+Ill. O padrão IEEE 802.11 usa o CSMA/CD como
+protocolo de acesso múltiplo ao meio.
+IV. O quadro 802.11, assim como o quadro 802.3,
+inclui uma verificação de redundância
+cíclica (CRC).
+IEEE 802.11
+inicia-se assim que a estação percebe que
+V. A transmissão no padrão
+o canal está ocioso.
+É correto apenas o que se afirma em
+Oie
+O le.
+O Meiv.
+O Lev.
+O LIMeIv.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="869,288 869,2066 872,2066 872,288"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="897,341 897,1055 1600,1055 1600,341"/></ImageRegion></Page></PcGts>

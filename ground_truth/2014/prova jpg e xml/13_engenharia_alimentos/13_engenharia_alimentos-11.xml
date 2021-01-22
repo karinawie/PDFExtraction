@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T04:11:21</Created>
+	<LastChange>2020-11-21T04:31:45</LastChange></Metadata>
+	<Page imageFilename="13_engenharia_alimentos-11.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="84,238 412,238 412,302 1539,302 1539,598 1537,598 1537,746 85,746 85,747 84,747 84,303 83,303 83,302 84,302"/>
+	<TextEquiv conf="0.96362">
+	<Unicode>QUESTÃO DISCURSIVA 5
+Aproximadamente 80% das laranjas produzidas no Brasil são processadas na forma de suco de laranja
+concentrado congelado. Considere duas indústrias brasileiras que produzem suco, ambas com evaporadores
+de duplo efeito, que recebem uma alimentação de suco integral de laranja com 10% de sólidos solúveis. No
+processo da primeira indústria, o primeiro estágio concentra o suco até 40%; no segundo estágio, ocorre a
+concentração final do suco de laranja, evaporando, neste estágio uma quantidade de água igual a 0,5 t/h.
+Na segunda indústria, o primeiro estágio concentra o suco até 20%, enquanto, no segundo estágio, ocorre a
+evaporação de 2,5 t/h de água. Todas as concentrações estão em base mássica.
+Considerando uma alimentação inicial de 10 t/h de suco integral de laranja, determine a concentração final
+do suco e a vazão total de água evaporada para as duas indústrias e justifique os resultados encontrados.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

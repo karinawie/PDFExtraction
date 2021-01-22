@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T19:36:13</Created>
+	<LastChange>2020-11-21T19:47:08</LastChange></Metadata>
+	<Page imageFilename="15_engenharia_controle_automacao-33.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,238 85,238 85,239 255,239 255,291 1538,291 1538,936 85,936 85,935 84,935"/>
+	<ImageRegion id="r1">
+	<Coords points="465,402 465,765 1136,765 1136,402"/></ImageRegion>
+	<TextEquiv conf="0.95974">
+	<Unicode>QUESTÃO 32
+O sistema de distribuição de peças mostrado na figura | é composto por uma esteira de entrada de peças (E1),
+uma esteira de distribuição de peças (E2), duas esteiras de saída (E3 e E4), e dois cilindros pneumáticos de
+ação simples com posição de repouso recuado (C1 e C2). As esteiras de saída E3 e E4 estão sempre ligadas.
+O sistema deve funcionar de forma que as peças devem ser distribuídas para as esteiras de saída E3 e E4,
+alternadamente, isto é, quando uma peça é empurrada pelo cilindro C1, a próxima deve ser empurrada pelo
+cilindro C2, e vice-versa. A primeira peça que entra no sistema deve ser distribuída para a esteira E3. Os sinais
+binários do sistema são apresentados no quadro 1 e a figura Il apresenta o diagrama Ladder que controla o
+sistema, em que a linha 3 está omitida.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="836,986 836,2015 1455,2015 1455,986"/></ImageRegion>
+	<TableRegion id="r3">
+	<Coords points="121,955 121,1642 815,1642 815,955"/></TableRegion></Page></PcGts>

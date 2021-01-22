@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-22T03:18:02</Created>
+	<LastChange>2020-11-22T03:26:05</LastChange></Metadata>
+	<Page imageFilename="23_fisica_bacharelado-28.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="832,238 1003,238 1003,306 1538,306 1538,531 1320,531 1320,643 1305,643 1305,761 1538,761 1538,1373 1539,1373 1539,1626 1218,1626 1218,1765 1053,1765 1053,1912 1062,1912 1062,2003 832,2003 832,1663 880,1663 880,1286 831,1286 831,874 832,874 832,761 1062,761 1062,643 832,643"/>
+	<TextEquiv conf="0.96945">
+	<Unicode>QUESTÃO 32
+Em física quântica, o comportamento de partículas
+subatômicas é descrito pela equação de onda v,
+que deve obedecer a equação de Schródinger. Para
+estados estacionários, a equação de Schródinger tem
+a sua forma geral dada por
+Áv(s) = Ev(z)
+em que Ãéo operador Hamiltoniano
+x h Pe *
+Asma tt
+em que V é o operador potencial que modela as
+características do meio no qual a partícula está inserida.
+Considere um elétron em uma rede cristalina
+unidimensional que será modelada por um potencial
+periódico dado por V(x) = V(x +a), em que a é a
+periodicidade da rede cristalina.
+A partir da equação de Schródinger, avalie as
+afirmações a seguir.
+|. Ooperador de translação T narede cristalina,
+definido como Túv(x) = (x +a) , comuta
+com o hamiltoniano H da rede.
+Il. A função de onda v(x) satisfaz a condição
+Vic) =Vv(x+a).
+Il. Para escrever úl(x) = et d(x) , deve-se fazer
+d(r) =d(r+a) e keN com k =nn/a,
+neN.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas
+O LIeM.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="84,238 255,238 255,297 790,297 790,1297 273,1297 273,1400 256,1400 256,1447 243,1447 243,1543 84,1543 84,607 83,607 83,297 84,297"/>
+	<ImageRegion id="r3">
+	<Coords points="81,668 81,1044 786,1044 786,668"/></ImageRegion>
+	<TextEquiv conf="0.96829">
+	<Unicode>QUESTÃO 31
+Em um laboratório didático de Física, foi
+realizado um experimento de fenda dupla de
+Young, utilizando luz monocromática. Uma tela
+foi colocada a 0,137 m de uma placa, onde foram
+cortadas duas fendas separadas por 0,0960 cm.
+As franjas de interferência observadas na tela são
+mostradas na figura abaixo, na qual as regiões
+escuras correspondem aos picos (interferência
+Com base nas informações acima e considerando
+que dsendô =mA»A, em que dé a distância entre
+as fendas, m é um valor inteiro correspondente
+ao primeiro máximo, conclui-se que o valor do
+comprimento de onda à da luz monocromática
+utilizada é igual a
+O 0,105 mm.
+O 0,210 mm.
+O 2,14 mm.
+O 1,05 cm.
+O 2,10 cm.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="810,2018 810,223"/></SeparatorRegion></Page></PcGts>

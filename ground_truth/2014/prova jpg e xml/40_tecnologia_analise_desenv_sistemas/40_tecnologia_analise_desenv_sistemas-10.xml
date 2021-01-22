@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-06T02:17:33</Created>
+	<LastChange>2020-12-06T02:46:34</LastChange></Metadata>
+	<Page imageFilename="40_tecnologia_analise_desenv_sistemas-10.jpg" imageWidth="1745" imageHeight="2296">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,299 474,299 474,365 1599,365 1599,439 872,439 872,440 697,440 697,503 616,503 616,578 476,578 476,647 456,647 456,756 896,756 896,825 1233,825 1233,855 1221,855 1221,963 1575,963 1575,993 1118,993 1118,1057 146,1057 146,1058 145,1058 145,963 146,963 146,855 145,855 145,825 147,825 147,716 145,716 145,689 147,689 147,578 145,578 145,551 147,551 147,441 144,441 144,365 145,365"/>
+	<TextEquiv conf="0.95545">
+	<Unicode>QUESTÃO DISCURSIVA 4
+Uma estrutura de dados do tipo pilha pode ser usada em um algoritmo que permite imprimir uma palavra de
+forma invertida. Exemplo: FELICIDADE deve ser impresso como EDADICILEF.
+Utilizando as variáveis declaradas abaixo:
+pilha[1..50]: caractere;
+i, topo: inteiro;
+palavra: string;
+Em pseudocódigo, faça o que se pede nos itens a seguir.
+a) Desenvolva a rotina push que inclui um elemento na pilha. (valor: 3,0 pontos)
+b) Desenvolva a rotina pop que retira um elemento da pilha. (valor: 3,0 pontos)
+c) Desenvolva a rotina que leia a palavra e, usando a pilha, a imprima de forma invertida. (valor: 4,0 pontos)
+Caso necessite de mais espaço, divida as linhas em duas ou três colunas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

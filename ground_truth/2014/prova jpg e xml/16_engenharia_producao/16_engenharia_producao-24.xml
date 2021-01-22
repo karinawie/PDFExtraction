@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:12:49</Created>
+	<LastChange>2020-11-21T20:24:46</LastChange></Metadata>
+	<Page imageFilename="16_engenharia_producao-24.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="84,238 85,238 85,239 255,239 255,300 1537,300 1537,1342 1538,1342 1538,1671 1539,1671 1539,1963 84,1963 84,1419 83,1419 83,300 84,300"/>
+	<ImageRegion id="r1">
+	<Coords points="184,428 184,1305 1536,1305 1536,428"/></ImageRegion>
+	<TextEquiv conf="0.96402">
+	<Unicode>QUESTÃO 25
+A figura a seguir apresenta os elos que integram uma rede de suprimentos em que a informação é um dos
+principais insumos nesse processo, apoiando a gestão e tomada de decisão.
+São exemplos de soluções de Tecnologia de Informação aplicadas à gestão da cadeia de suprimentos que
+relaciona fornecedores e empresa (1), gestão da empresa (2) e empresa e clientes (3), respectivamente,
+O plano mestre de produção (MPS), capacidade do plano de produção (CRP) e controle do chão de
+fábrica (SFC).
+O gestão de relacionamento com fornecedor (SRM), sistema de execução da produção (MES) e capacidade
+do plano de produção (CRP).
+O identificação por radiofrequência (RFID), gestão de relacionamento com o cliente (CRM) e sistema de
+planejamento avançado de produção (APS).
+O sistema de gerenciamento de armazém (WMS), sistema de gestão de transporte e logística (TMS) e
+planejamento das necessidades de distribuição (DRP).
+O intercâmbio eletrônico de dados (EDI), sistema integrado de gestão (ERP) e gestão de relacionamento
+com o cliente (CRM).</Unicode></TextEquiv></TextRegion></Page></PcGts>

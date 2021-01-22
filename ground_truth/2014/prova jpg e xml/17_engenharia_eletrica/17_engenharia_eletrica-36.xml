@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-21T20:39:42</Created>
+	<LastChange>2020-11-21T21:01:45</LastChange></Metadata>
+	<Page imageFilename="17_engenharia_eletrica-36.jpg" imageWidth="1622" imageHeight="2171">
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="832,300 1539,300 1539,813 1538,813 1538,1197 1307,1197 1307,1445 832,1445 832,1197 831,1197 831,1008 832,1008"/>
+	<TextEquiv conf="0.88137">
+	<Unicode>QUESTÃO 34 - Telecomunicações
+Em um sistema de comunicações, ponto a ponto,
+deseja-se transmitir três sinais de mensagens,
+m,(t), m,(t) e m,(t), cujos gráficos de densidade
+espectral de potência são s,/(&amp;), s,(&amp;) e s,(0&amp;),
+respectivamente, apresentados abaixo. Esses sinais
+serão multiplexados em frequência por meio de
+portadoras moduladas em amplitude (AM). O sinal
+m,(t) modula em AM-DSB (banda lateral dupla -
+Double Sideband) uma portadora com frequência
+&amp;,=4 000 rad/s. Os outros dois sinais de mensagem,
+m,(t) e m,(t), modulam em AM-SSB (banda lateral
+única - Single Sideband) portadoras de frequências
+O,E O,, Nessa sequência, sendo O0,&lt;0,&lt;O,.
+Considerando que, no receptor do sistema de
+comunicação, serão utilizados demoduladores e
+filtros ideais, quais são os menores valores de &amp;, e
+&amp;,, em rad/s, para que seja possível a recuperação
+dos três sinais de mensagem multiplexados?
+O 4000 e 5 000, respectivamente.
+O 4000 e 6 000, respectivamente.
+O 5000 e 6 000, respectivamente.
+O 5000 e 7 000, respectivamente.
+O 6 000 e 7 000, respectivamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="83,240 790,240 790,475 791,475 791,664 790,664 790,1117 208,1117 208,1423 232,1423 232,1502 279,1502 279,1570 181,1570 181,1660 180,1660 180,1661 84,1661 84,443 83,443"/>
+	<TextEquiv conf="0.93792">
+	<Unicode>QUESTÃO 34 - Controle e Automação
+Em uma fábrica de cimento, o controle detemperatura
+de um forno é realizado por uma malha, conforme
+o diagrama de blocos do sistema ilustrado na figura
+abaixo.
+Considere que o sistema possui uma entrada
+T(t), uma saída y(t), um sinal de erro e(t) e as
+correspondentes transformadas de Laplace desses
+sinais, a saber, X(s), Y(s), E(s), além das constantes
+Ke T,maiores do que zero.
+Para a sintonia do ganho da malha de controle,
+realizou-se um teste aplicando-se na entrada do
+sistema um sinal do tipo degrau unitário, X(s) = 1/s.
+Nesse caso, espera-se que o sinal de erro e(t) tenda
+ao valor
+Oo.
+1
+Ox:
+1
+o K+1
+—K
+K+1
+Q oc.</Unicode></TextEquiv></TextRegion></Page></PcGts>

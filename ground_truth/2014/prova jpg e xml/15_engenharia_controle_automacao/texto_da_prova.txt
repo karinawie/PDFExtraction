@@ -1,0 +1,752 @@
+QUESTÃO DISCURSIVA 3
+Considere um chuveiro elétrico no qual a temperatura da água pode ser selecionada pelo usuário entre a
+temperatura ambiente e 50 ºC. A resistência do chuveiro dissipa energia elétrica em forma de calor para
+aquecer a água, e é alimentada por um conversor CA/CC, de modo que a tensão pode ser alterada, variando,
+assim, a potência.
+Para levantar a característica dinâmica do sistema, um engenheiro aplicou um degrau de O V a 40 V no
+instante 10 segundos, com vazão de água constante, obtendo a resposta de temperatura mostrada na figura
+a seguir. Pode-se observar que, inicialmente, a água está em temperatura ambiente.
+Posteriormente, o engenheiro decidiu implementar um controle de temperatura em malha fechada utilizando
+um compensador proporcional-integral: G (s) = K, + K/s.
+Com base nos dados apresentados, e considerando que o sistema é linear e de primeira ordem, faça o que
+se pede nos itens a seguir.
+a) Obtenha a função de transferência de malha aberta (sem o controlador) que relaciona a tensão de entrada
+com a temperatura de saída. (valor: 6,0 pontos)
+b) Qual é o efeito da ação integradora do compensador no sistema em malha fechada? (valor: 4,0 pontos)
+
+QUESTÃO DISCURSIVA 4
+Em determinada rodovia, a pesagem obrigatória de caminhões é realizada por balanças automatizadas. Além
+da plataforma e do indicador como itens básicos da balança rodoviária, o sistema de pesagem é constituído
+por diversos componentes, conforme ilustrado na figura abaixo.
+No momento da pesagem, o caminhão desloca-se por uma pequena inclinação e acomoda-se para que a
+medição seja realizada e registrada. Assim, do solo até a acomodação do caminhão, o sinal aplicado à balança
+pode ser aproximado por um degrau unitário.
+Suponha que o caminhão de uma empresa de transporte de cargas tenha passado por duas balanças em uma
+rodovia com pesagem automatizada. O gerente da empresa constatou que o caminhão havia sido multado
+na segunda balança, após ter sido liberado pela primeira. Para recorrer da multa, solicitou-se parecer de
+um perito com relação ao sistema de controle de pesagem das balanças. Para análise e emissão do laudo, o
+perito recebeu do fabricante da balança a sua função de transferência, representada por:
+indicaobalanca(s) 16
+pesocaminhao(s) — s+4s+16
+Suponha, ainda, que a empresa responsável pela manutenção do sistema de aquisição de dados informou ao
+perito que, na primeira balança, o peso é adquirido 3 s após a entrada do caminhão e, na segunda balança,
+1,2 s após a entrada do veículo. Considere que, no percurso entre as balanças, não houve variação de carga
+no caminhão, que as diferenças causadas pelo consumo de combustível são desprezíveis e que o peso é
+fixado após a acomodação do sistema.
+
+Com base na situação proposta, faça o que se pede nos itens a seguir.
+a) Demonstre a partir de qual instante de tempo se garante que a medida das balanças estará adequada.
+(valor: 6,0 pontos)
+b) Na qualidade de perito contratado, apresente seu parecer para o caso, justificando-o com base em dados
+técnicos. (valor: 4,0 pontos)
+Considere as seguintes informações complementares:
+Função de transferência normalizada de um sistema de 2º ordem:
+2
+W,
+G(s) =
+8 +26 Wws+w?
+Sobressinal máximo: Mpz= =6T
+= P TO
+Tempo de pico: tp=
+Tempo de acomodação: ts=4
+
+Com base na situação proposta, faça o que se pede nos itens a seguir.
+a) Demonstre a partir de qual instante de tempo se garante que a medida das balanças estará adequada.
+(valor: 6,0 pontos)
+b) Na qualidade de perito contratado, apresente seu parecer para o caso, justificando-o com base em dados
+técnicos. (valor: 4,0 pontos)
+Considere as seguintes informações complementares:
+Função de transferência normalizada de um sistema de 2º ordem:
+2
+W,
+G(s) =
+8 +26 Wws+w?
+Sobressinal máximo: Mpz= =6T
+= P TO
+Tempo de pico: tp=
+Tempo de acomodação: ts=4
+
+QUESTÃO DISCURSIVA 5
+Considere que em uma célula de produção de determinada fábrica opera-se todos os dias em 3 turnos
+(4 funcionários, um por turno e um para revesamento) para executar os planos de produção de uma família de
+peças. O proprietário da fábrica, que possui conhecimento na área de automação, está avaliando a hipótese
+de substituir os funcionários da célula de produção por um robô manipulador. A instalação é composta por
+um centro de usinagem CNC e por um sistema de visão, sendo 160 cm a distância entre os respectivos pontos
+de manipulação. O peso das peças produzidas varia de 2 kgf a 5 kgf e optou-se pela utilização de um braço
+robótico equipado com uma garra pneumática de 1,5 kgf.
+O quadro a seguir apresenta as principais características de modelos robóticos disponíveis no mercado.
+Em relação ao caso apresentado, faça o que se pede nos itens a seguir.
+a) Indique o modelo mais econômico que seja adequado para realizar o transporte de peças entre os dois
+equipamentos, considerando os dados do quadro e o posicionamento central do robô em relação aos
+equipamentos e justifique sua escolha. (valor: 3,0 pontos)
+b
+Cite duas vantagens e duas desvantagens relacionadas à substituição do ser humano por robôs em
+sistemas de produção. (valor: 3,0 pontos).
+c) Determine o tempo necessário para a recuperação do investimento inicial, se a taxa mínima de atratividade
+for igual a zero. Considere que a solução robótica tenha um custo total de R$ 300 mil (incluindo a aquisição
+do manipulador e as despesas de instalação), que o custo de operação e manutenção seja de R$ 40
+mil/ano e que a produção anual seja de R$ 100 mil. Em contrapartida, o custo de cada funcionário já
+capacitado é de R$ 15 mil/ano e sua produção anual é de R$ 80 mil. (valor: 4,0 pontos)
+
+QUESTÃO 10
+Denominam-se cargas os elementos de um circuito
+elétrico que se opõem à passagem de corrente
+elétrica. Essencialmente, distinguem-se três tipos de
+cargas: resistivas, capacitivas e indutivas. As cargas
+resistivas dissipam energia, enquanto as puramente
+capacitivas ou puramente indutivas são consideradas
+armazenadoras de energia.
+Se o circuito mostrado acima é alimentado por uma
+fonte de tensão contínua de 12 V e as lâmpadas são
+de 12 V/6 W, observa-se que, em regime permanente,
+O as três lâmpadas, L1, L2 e 13, ficarão apagadas,
+pois lâmpadas incandescentes só operam com
+corrente alternada.
+O somente L2 e L3 ficarão acesas, pois a corrente
+que passa em L2 é a soma das correntes em L3 e
+no indutor.
+O as três lâmpadas, L1, L2 e L3, ficarão acesas, pois
+estão ligadas à fonte de alimentação.
+O somente L2 ficará acesa, pois está em série com a
+fonte de alimentação.
+O somente L1 ficará acesa, pois está em série com o
+capacitor.
+
+QUESTÃO 09
+Suponha que a distância percorrida por um ciclista
+que pedala regularmente pode ser inferida pela
+variável aleatória x, com densidade de probabilidade
+normal,
+f(x;n,0º) = SFaxção
+com 1u=25kme 0º = 25km?. A duração média do
+seu treino é de 12h15min.
+Com base nesses dados, avalie as afirmações abaixo.
+|. A velocidade média de cada treino é de
+21,7 km/h.
+Il. A distância média percorrida em cada treino
+é de 25 km.
+Ill. A área média percorrida em cada treino é de
+25 km?.
+IV. A distância percorrida de cada treino, em um
+desvio-padrão, está entre 20 km e 30 km.
+V. A velocidade média de cada treino, em um
+desvio-padrão, está entre 16 km/h e 24 km/h.
+É correto apenas o que se afirma em
+o.
+Oie
+Oie.
+O lev
+O, WVev.
+
+QUESTÃO 11
+A DBO (Demanda Bioquímica de Oxigênio) de uma amostra de água é a quantidade de oxigênio necessária
+para oxidar a matéria orgânica por decomposição aeróbia. Quando a amostra é guardada por 5 dias em uma
+temperatura de incubação de 20ºC, ela é referida como DBO, ,,, que é normalmente utilizada como um dos
+parâmetros para verificação da qualidade da água.
+O seguinte quadro classifica um curso d'água em função da sua DBO, ,,
+A imagem abaixo mostra um trecho de um rio com 5 seções (X, Y, Z, W e T), em que são coletadas amostras
+de água para a determinação de DBO, ,, em laboratório.
+O quadro abaixo apresenta os resultados, em diferentes unidades, das amostras colhidas.
+Considerando que pode ocorrer autodepuração no rio, em qual seção dele a água não pode ser classificada,
+no mínimo, como “razoável”?
+O x.
+or
+Oz.
+Ow.
+er
+
+QUESTÃO 13
+Engenheiros de uma empresa holandesa encontraram
+uma maneira de fazer com que os elevadores terrestres
+subam até o topo de edifícios com 1 000 metros de
+altura, pois os cabos de aço usados nos elevadores atuais
+só conseguem alçá-los a alturas de, aproximadamente,
+500 metros. Isso será possível com a criação de um
+novo cabo superleve e superforte, ou seja, uma espécie
+de cinta, tecida com fibras de carbono. Em vez dos fios
+de aço entrelaçados usados nos cabos de aço comuns,
+a cinta é formada por quatro fitas de fibra de carbono
+seladas em plástico transparente. O plástico é necessário
+para proteger do atrito as fibras de carbono e aumentar
+a vida útil do conjunto. Cada fita tem 4 centímetros de
+largura por 4 milímetros de espessura. Elas são parecidas
+com uma régua escolar flexível. Esse novo material
+supera ligeiramente a resistência à tensão do aço, mas
+pesa sete vezes menos que o atualmente usado. Assim,
+a força gasta para sustentar o peso do próprio cabo
+passa a ser aplicada para sustentar apenas o elevador, e
+o consumo de energia dos elevadores também é cerca
+de 15% menor do que os anteriores.
+Disponível em: <http://www.inovacaotecnologica.com.br>.
+Acesso em: 27 jul. 2014 (adaptado).
+Tendo em vista a situação descrita, avalie as
+afirmações a seguir.
+|. O cabo de fibra de carbono suporta elevadas
+cargas devido à sua elevada resistência à tração.
+Il. A fibra de carbono torna o cabo bem mais
+flexível, o que, aliado a sua resistência à tração,
+proporciona a esse material uma vantagem
+em relação aos cabos de aço convencionais.
+Ill. A relação resistência/peso do cabo de fibra de
+carbono assegura vantagem desse material em
+relação aos cabos de aço, pois a economia do peso
+próprio do cabo pode ser usada para sustentar o
+elevador e reduzir o consumo de energia.
+IV. Apesar da resistência à tensão ser apenas
+ligeiramente maior no cabo de fibra de
+carbono, a vantagem principal de seu uso é a
+alta relação resistência/peso.
+É correto apenas o que se afirma em
+o.
+oO.
+Biel.
+O llelv.
+O lllelv.
+
+QUESTÃO 12
+Um ambiente termicamente confortável é uma das
+condições que devem ser consideradas em projetos
+de edificações. A fim de projetar um ambiente interno
+com temperatura de 20ºC para uma temperatura
+externa média de 35ºC, um engenheiro considerou,
+no dimensionamento, um fluxo de calor através de
+uma parede externa de 105 W/m?, conforme ilustra
+a figura abaixo.
+A tabela a seguir apresenta os valores da condutividade
+térmica para alguns materiais de construção.
+A fim de se obter a temperatura interna desejada,
+qual deve ser o material selecionado, entre os
+apresentados na tabela acima, para composição da
+parede externa?
+O Concreto.
+O Pedra natural.
+O Placa de madeira prensada.
+O Placa com espuma rígida de poliuretano.
+O Placa de aglomerado de fibras de madeira.
+
+Com base nessas informações, verifica-se que a
+solução da equação é obtida pela seguinte associação
+das etapas do algoritmo com o fluxograma
+
+QUESTÃO 14
+O transporte de um fluido entre dois pontos no interior
+de um tubo ocorre simultaneamente, com perda de
+energia, devido ao atrito do fluido com a parede e ao
+escoamento turbulento. Portanto, quanto maior for
+a rugosidade da parede da tubulação ou mais viscoso
+for o fluido, maior será a perda de energia. A forma
+de determinação do fator de atrito foi estabelecida
+em 1939, por intermédio da equação de Colebrook-
+White, apresentada a seguir.
++ = —21og (5 2.51 )
+VS VA3,7D RA/f
+em que
+f éofatordeatritode Darcy-Weisbach (adimensional);
+k é a rugosidade equivalente da parede do tubo (m);
+D é o diâmetro interno do tubo (m);
+R é o número de Reynolds (adimensional).
+A resolução dessa equação requer um processo
+iterativo, pois a função é implícita em relação ao fator
+de atrito (presente nos dois membros da equação).
+Em 1939, a resolução de equações por procedimentos
+iterativos demandava excesso de tempo, mas,
+com o desenvolvimento dos conhecimentos de
+computação, esse problema foi solucionado.
+As etapas de um algoritmo que soluciona a equação,
+sem ordenação lógica, assim como seu fluxograma
+são apresentados a seguir.
+A)D=1
+B) f,= 0,03
+C) Início
+D) Cálculo de f, através da equação de Colebrook-
+White
+E) | ff | <0,00001
+F) Término
+G) R,=10 000
+H) k = 0,0001
+VV Lh=h
+J) Visualização do resultado
+
+QUESTÃO 16
+Uma indústria de blocos cerâmicos pretende
+utilizar queima de biomassa resultante de resíduos
+de madeira, para gerar energia térmica para seus
+fornos, que, atualmente, utilizam gás natural. Tal
+iniciativa poderá reduzir o consumo de combustível,
+porém será necessário um investimento no valor de
+20% do consumo/ano atual de combustível, visando
+à adaptação dos fornos. Além disso, o transporte
+anual dos resíduos da fonte geradora até a indústria
+irá custar 5% do consumo/ano atual de combustível.
+Estima-se que essa alteração promova uma
+economia, no consumo/ano atual de combustível,
+de 10% ao ano.
+A partir da situação descrita, avalie as afirmações a
+seguir.
+|. A partir do quinto ano, a indústria começaria
+a ter benefícios econômicos.
+ll. Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+de energia com menor produção e emissão de
+partículas devido ao processo de combustão
+(particulados).
+Ill. Na proposta apresentada, a indústria
+substituiria o combustível atual por uma fonte
+renovável de energia.
+IV. O valor do investimento supera os benefícios
+promovidos com a economia de combustível
+durante os 5 primeiros anos.
+É correto apenas o que se afirma em
+o.
+O Iv.
+Oie.
+Oie.
+OÔileiv.
+
+QUESTÃO 15
+Observe o programa classificador (“sort”), em
+pseudocódigo, apresentado abaixo.
+Esse programa classifica, em ordem
+O decrescente, notas de alunos e nomes de alunos
+de mesma nota.
+O alfabética crescente, nomes e notas de alunos de
+mesmo nome.
+O decrescente, notas de alunos.
+O alfabética crescente, nomes de alunos.
+O crescente, notas de alunos.
+
+QUESTÃO 17
+Existem controvérsias acerca da magnitude dos fatores que influenciam o voto do eleitor. Embora, atualmente,
+as pesquisas eleitorais possam ser divulgadas próximo ao dia da eleição, durante muito tempo essa divulgação
+não era permitida sob a alegação de que as mesmas influenciavam a decisão de um tipo particular de eleitor,
+o qual desejava “votar no candidato ganhador” e tendia a votar nos candidatos cuja suposta probabilidade
+de vitória é maior, independentemente do conteúdo da proposta política apresentada.
+Considerando que o Candidato B esteja interessado no voto do tipo de eleitor mencionado no texto e esteja
+examinando os dois gráficos acima para apresentar, em seu material de propaganda, os resultados de uma
+pesquisa eleitoral, avalie as afirmações que se seguem.
+|. Os dois gráficos apresentam resultados diferentes.
+Il. Em relação aos objetivos do Candidato B, o gráfico | é mais adequado que o |l.
+Ill. A decisão a ser tomada apresenta implicações de natureza ética, além das de natureza técnica.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1L1em,
+
+QUESTÃO 18
+No Brasil, é comercializada uma cadeira de rodas de alumínio com peso aproximado de 12 kg, que representa
+cerca da metade do peso de um modelo convencional. Construída em estrutura tubular de uma liga de
+alumínio aeronáutico, essa cadeira de rodas possui alta resistência mecânica, além de ter custo reduzido.
+Disponível em:<http://www.hospitalar.com>. Acesso em: 26 jul. 2014 (adaptado).
+O alumínio aeronáutico possui uma combinação única de propriedades que o torna um material de construção
+versátil, altamente utilizável e atrativo. Essas características são devidas a quais propriedades?
+O Alta resistência mecânica e baixa densidade.
+O Baixa plasticidade e alto ponto de fusão.
+O Alta dureza a quente e baixa dutilidade.
+O Baixa plasticidade e alta soldabilidade.
+O Alta dureza e alta densidade.
+
+QUESTÃO 19
+Um detector de fumaça é uma câmara formada por dois compartimentos nos quais são inseridas duas
+células fotocondutoras, que são elementos cuja resistência varia com a luminosidade, e uma fonte de luz,
+conforme ilustra a figura |. Em condições normais, os raios de luz provenientes da fonte atingem as duas
+células igualmente. Na ocorrência de um incêndio, apenas a câmara inferior será preenchida pela fumaça e,
+assim, a luminosidade na célula será alterada, causando mudança na sua resistência.
+O circuito do detector de fumaça é mostrado na figura Il, no qual existe uma ponte de Wheatstone.
+Em condições normais, as resistências das duas células são iguais e o circuito está equilibrado, de modo que
+a tensão Vab é nula. Na presença de fumaça, as resistências das células fotocondutivas tornam-se diferentes
+e, assim, surge uma diferença de potencial entre os pontos a e b. Se essa tensão for maior que um valor pré-
+estabelecido, um relé será acionado, o que por sua vez, disparará um alarme.
+
+Considerando o circuito e os dados da figura Il, em que valor deverá ser ajustada a resistência variável R1 para
+que, em condições normais, a tensão Vab seja nula?
+O 5kO.
+O 10 kO.
+O 12k0O.
+O 15 kk.
+O 20 k(O.
+
+Considerando o circuito e os dados da figura Il, em que valor deverá ser ajustada a resistência variável R1 para
+que, em condições normais, a tensão Vab seja nula?
+O 5kO.
+O 10 kO.
+O 12k0O.
+O 15 kk.
+O 20 k(O.
+
+QUESTÃO 20
+Considere o sistema de controle de um processo industrial descrito pelo diagrama de blocos apresentado na
+figura abaixo:
+No diagrama, X(s), Y(s), E(s), U(s), P(s) e R(s) representam, respectivamente, os sinais de referência, saída,
+erro, ação de controle, perturbação na entrada da planta e ruído de medição. G(s) é a função de transferência
+da planta a ser controlada. Os demais blocos constituem o controlador, que é descrito pelas seguintes funções
+de transferência:
+1
+1 HH (s) = —
+Ts
+Tas
+H. = ——
+2. a(s) 1+ ans
+3. H;3 (s) = K
+em queTi, 12, a e K são as constantes não nulas sintonizadas pelo projetista do sistema de controle.
+Considere que, nos testes, durante o comissionamento do sistema, verificou-se que a aplicação de um sinal
+de referência x(t) do tipo degrau resulta em uma ação de controle u(t) com um elevado pulso imediatamente
+após a aplicação do degrau. Esse pulso é inadequado para o processo, pois causa fadiga precoce do atuador.
+Para contornar esse problema, é necessário
+O alterar a estrutura do controlador, fazendo com que a ação proporcional atue somente sobre o percurso
+de retroação.
+O alterar a estrutura do controlador, fazendo com que a ação derivativa atue somente sobre o percurso
+de retroação.
+O inserir um filtro para atenuar o efeito da perturbação, após a alteração abrupta do valor de referência.
+O inserir um filtro para atenuar o efeito do ruído, após a alteração abrupta do valor de referência.
+O alterar a estrutura do controlador atual para um PID tradicional.
+
+QUESTÃO 22
+Um engenheiro, preocupado com o uso racional de
+energia, desenvolveu para a sala de sua residência
+um sistema microcontrolado para ajuste gradativo
+da iluminação por meio do acionamento de sete
+diferentes circuitos de iluminação e da abertura ou
+fechamento de janelas. O sistema contempla:
+1. sensores analógicos de luminosidade interna e
+externa com variação linear nominal do sinal de
+0a5V;
+2. sensor digital de chuva, com nível alto quando
+está chovendo. O tratamento deste sinal deve
+ter prioridade sobre qualquer outra atividade
+do programa;
+3. sistema de comando para abertura e fechamento
+da janela, realizado com um motor CC de 6 V com
+consumo de 30 W, acionado por um sinal PWM
+com frequência de chaveamento de 1 kHz e
+resolução de 1% na variação da largura dos pulsos;
+4. comando digital de cada um dos circuitos
+de iluminação, possibilitando ajuste total da
+iluminação artificial do ambiente em diferentes
+níveis.
+Para seleção e programação do microcontrolador,
+avalie afirmações a seguir.
+|. O microcontrolador deve possuir no mínimo
+uma entrada com função de interrupção
+externa.
+Ill. Um circuito externo ao microcontrolador
+deve ser utilizado para acionar o motor.
+Ill. O sensor de luz utilizado possui variação
+nominal de O a 5 V, porém, na sua calibração
+no ambiente real, suponha que o engenheiro
+observou que a variação limita-se a valores
+entre 2 Ve 3 V. Nesse caso, para realizar a
+aquisição desta informação com 10 níveis de
+sensibilidade, é necessário que o conversor
+A/D tenha resolução mínima de 10 bits.
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O ll elll, apenas.
+O 1,11e.
+
+QUESTÃO 21
+Sensores ultrassônicos são usados na medição de
+grandezas como distância e nível. Alguns desses
+sensores emitem um sinal na frequência de 40 kHz
+que, ao atingir um objeto, retorna e, quando captado,
+permite calcular a distância do objeto ao sensor.
+Nesse contexto, avalie as afirmações a seguir.
+|. O cálculo da distância pode ser obtido
+usando-se equações da mecânica clássica.
+Il. Para evitar uma interferência entre o sinal
+enviado e sinais espúrios advindos de fontes
+eletromagnéticas, deve-se usar um filtro.
+Ill. No caso específico de um sensor ultrassônico,
+o cálculo da distância baseia-se na variação da
+velocidade e, dessa forma, no efeito doppler.
+IV. Para uma leitura adequada do sinal desse sensor
+em um sistema de aquisição de dados, deve-se
+utilizar uma taxa de amostragem de no mínimo
+80 kHz de forma a evitar o efeito aliasing.
+É correto apenas o que se afirma em
+
+QUESTÃO 23
+Na modelagem um sistema linear invariante no tempo estável, foi levantada a sua resposta em frequência,
+obtendo-se os seguintes diagramas de Bode:
+Frequência (rad/s)
+A função de transferência que melhor representa o sistema é
+G s—-0,1
+o 5 FT 10)(s + 100)
+sl
+G o
+o 5 1 0,D(s + 100)
+s+0,1
+O CT) = qo) + 100)
+o sô
+es
+so
+s—-0,1)
+so
+Fl
+(s + 100)
+Fl
+s+0,1)
+(s + 100)
+
+QUESTÃO 24
+As redes de comunicação são essenciais para o processo de automação industrial. Existem diversos tipos de
+rede, as quais se diferenciam em alguns aspectos, como topologia de conexão, tipos de dispositivos aos quais se
+conectam e velocidade de transmissão, entre outros. São exemplos de redes industriais: ASI, HART, DeviceNet,
+Profibus, Ethernet. Não existe uma rede certa ou errada, mas, sim, uma rede mais apropriada para determinada
+aplicação. De acordo com o tipo de dispositivo que as redes conectam, elas são classificadas em Sensorbus,
+DeviceBus, FieldBus e Databus. A figura abaixo apresenta um esquema da faixa de aplicação das redes.
+Em relação à classificação das redes de comunicação para automação, avalie afirmações a seguir.
+|. As redes Sensorbus são de baixo custo, utilizadas para a comunicação de sensores e atuadores
+discretos, contemplando distâncias pequenas.
+Il. Asredes Devicebus conectam dispositivos como CLPs, controladores, sistemas de medição inteligentes,
+drivers e outros dispositivos que se comunicam por dados em formato de bytes.
+Ill. As redes Fieldbus conectam dispositivos microprocessados e podem transmitir vários tipos de dados:
+discretos, analógicos, parâmetros, programas e informações de usuários.
+IV. As redes Fieldbus são mais apropriadas para aplicações de controle de processos distribuídos porque
+possuem alta taxa de transmissão de dados.
+É correto apenas o que se afirma em
+
+
+QUESTÃO 26
+Os sistemas integrados de manufatura (SIM)
+apresentam uma abordagem estratégica embasada
+em tecnologia, que respondem aos desafios
+competitivos de fabricação. Uma forma de
+caracterizar esses sistemas é a partir da matriz de
+variedade (de partes/peças diferentes) e volume
+(da quantidade de partes/peças produzidas) da
+manufatura, conforme ilustra a figura abaixo.
+Considerando a matriz de variedade x volume
+representada na figura, avalie as afirmações a seguir.
+|. Sistemas — totalmente — dedicados são
+adequados para produzir uma variedade
+limitada de configurações de partes/peças,
+no entanto, podem trabalhar com volumes
+muito altos de produção, ocupando a faixa A3
+da matriz.
+. Sistemas flexíveis de manufatura (FMS)
+podem ocupar o nível mais alto da matriz
+de volume e variedade, ocupando a faixa
+C3, ou seja, são capazes de se adequar a alta
+variedade de partes/peças e alto volume de
+produção de partes/peças.
+Sistemas que utilizam máquinas baseadas
+em CNC (computador numericamente
+controlado) podem trabalhar com alta
+variedade de programação de partes/peças,
+ocupando a faixa C1 da matriz, mas podem
+ser inviáveis economicamente se os volumes
+não forem baixos.
+É correto o que se afirma em
+O |, apenas.
+O |l, apenas.
+O lelll, apenas.
+O ll elll, apenas.
+O 1L1em.
+
+QUESTÃO 25
+A figura abaixo representa um sensor de vazão
+de vórtice volumétrico (composto por transdutor
+e transmissor) instalado em uma tubulação para
+medição de vazão de água que abastece uma
+caldeira, na qual é arbitrado um sentido de fluxo.
+Esse sensor pode ser adquirido na configuração
+4-20 mA/0-20 m?/h ou 0-10 V/0-20 m?/h.
+Nesse contexto, avalie as afirmações a seguir.
+|. As duas configurações apresentam o mesmo
+alcance (span).
+. As duas configurações apresentam a mesma
+faixa de medida (range).
+. A medição de vazão de água independe
+do sentido de passagem de fluxo de água
+arbitrado no sensor.
+O sensor com configuração 0-10 V/0-20 m?/h
+fornece menor confiabilidade que o sensor
+com configuração 4-20 mA/0-20 m?/h.
+A configuração 0-10 V/0-20 m?/h tem melhor
+imunidade a ruído, enquanto a configuração
+4-20 mA/0-20 m?/h é melhor para aplicações
+em pequenas distâncias.
+É correto apenas o que se afirma em
+Oiev
+O LIlelv.
+OL, Ieilv
+O !Iev
+Ou,uIvVev.
+
+QUESTÃO 27
+Um processo que envolve uma antena pode ser representado pelo sistema de 32. ordem apresentado na figura |.
+A figura Il apresenta o lugar das raízes desse sistema, em malha aberta, quando se varia o ganho K.
+Considerando que o ganho K é positivo e pode variar de O a infinito, avalie as afirmações a seguir.
+|. Um sistema com 10 < K < 20 é estável.
+Il. Para K=60, o sistema é criticamente amortecido.
+Ill. Existe um valor de K que torna o sistema marginalmente estável.
+IV. O sistema com K = 30 apresenta resposta temporal, para uma entrada em degrau unitário, com
+oscilações constantes e de mesma amplitude.
+É correto apenas o que se afirma em
+Oie
+Oie.
+Oielv
+O Lev.
+O ,IMelv.
+
+QUESTÃO 28
+A figura abaixo contém a representação esquemática de uma aplicação para o controle de temperatura de
+um forno utilizando um controlador lógico programável (CLP). O sensor de temperatura em conjunto com o
+transdutor fornece um sinal analógico 0-10 V / 20-150ºC enviado ao CLP, o qual por sua vez, envia um sinal
+de 0-20 mA para a válvula, permitindo a variação de sua abertura e a dosagem gradativa da quantidade de
+combustível enviado ao forno. Assim, pode-se modificar a temperatura do forno conforme a necessidade.
+Em relação ao sistema de automação apresentado, avalie as afirmações a seguir.
+|. O uso da unidade A/D de 8 bits no CLP permite aquisição de temperatura com uma resolução de,
+aproximadamente, 0,508 ºC.
+Il. A unidade D/A no CLP pode ser substituída por um módulo de saída digital a relé especificado para um
+valor de saída de corrente de até 10 A, valor maior que o sinal de saída enviado para a válvula.
+Ill. Para comunicação entre o CLP e um sistema SCADA (supervisory control and data acquisition), podem
+ser usadas, entre outras, rede industrial PROFIBUS ou comunicação serial com protocolo MODBUS,
+sendo a primeira mais onerosa que a segunda.
+IV. O sistema supervisório pode ser programado diretamente no CLP, sem a necessidade de dispositivos
+adicionais, reduzindo o custo de implementação do sistema como um todo.
+V. A realização dessa automação requer um CLP de grande porte, devido ao sistema operar em malha
+fechada, o que implica o uso de blocos específicos de programação.
+É correto apenas o que se afirma em
+
+
+QUESTÃO 30
+Um engenheiro de controle e automação necessita
+especificar um transdutor de temperatura para
+um projeto de controle automático de um forno.
+É requisito de projeto que o controlador lógico
+programável (CLP) esteja localizado na sala de
+comando, a qual está a uma distância de 300 metros
+do forno.
+Nesse contexto, considerando-se que o engenheiro
+escolheu um transdutor com transmissão no padrão
+4 mA a 20 mA, avalie as seguintes asserções e a
+relação proposta entre elas.
+|. A transmissão de sinal de transdutores
+distantes do CLP é mais segura no padrão
+4 mA a 20 mA, que nos padrões OVa5V
+ou O mA a 20 mA.
+PORQUE
+Il. No padrão 4 mA a 20 mA é possível identificar
+perda de sinal nos cabos de transmissão, como,
+por exemplo, em problemas de rompimento
+de cabo ou desconexão com o CLP.
+Arespeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a 1l é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e || são proposições falsas.
+
+QUESTÃO 29
+O estudo da cinemática direta de um manipulador
+robótico tem como objetivo obter equações para
+o cálculo da posição e da orientação do efetuador
+do robô em relação à sua base como função das
+variáveis das juntas. Para determinar as equações
+da cinemática direta de manipuladores robóticos
+de cadeia aberta, usualmente são utilizados os
+parâmetros de Denavit-Hartenberg. O quadro abaixo
+traz esses parâmetros para um robô comercial
+específico.
+Parâmetros de Denavit-Hartenberg
+Com base na situação descrita, avalie as asserções a
+seguir e a relação proposta entre elas.
+|. O robô comercial apresentado possui cinco
+graus de liberdade, sendo classificado como
+robô do tipo polar.
+PORQUE
+ll. Das cinco variáveis do robô, as que
+correspondem às três primeiras juntas
+são: uma de rotação e duas de translação,
+respectivamente.
+A respeito dessas asserções, assinale a opção correta.
+O As asserções | e |l são proposições verdadeiras, e
+a |l é uma justificativa correta da |.
+O As asserções | e Il são proposições verdadeiras,
+mas a Il não é uma justificativa correta da |.
+O A asserção | é uma proposição verdadeira, e a Il é
+uma proposição falsa.
+O A asserção | é uma proposição falsa, e a 1l é uma
+proposição verdadeira.
+O As asserções | e |l são proposições falsas.
+
+QUESTÃO 31
+O soft-starter é um dispositivo eletrônico formado por seis tiristores, sendo utilizado para a partida de motores
+de indução em gaiola. O diagrama a seguir ilustra uma aplicação desse dispositivo.
+Considerando o diagrama acima e os princípios de funcionamento de uma máquina de indução, avalie as
+afirmações a seguir.
+|. Afinalidade principal do soft-starter é reduzir a corrente de partida em motores de indução em gaiola.
+Il. A configuração do diagrama permite utilizar o soft-starter para realizar a frenagem do motor de indução.
+Ill. O soft-starter também pode ser utilizado para controlar a velocidade do motor de indução em gaiola
+para aplicações em servomecanismos.
+IV. Para realizar a partida suave do motor, o soft-starter varia a frequência da tensão aplicada ao motor,
+iniciando em O Hz (máquina parada) e aumentando gradativamente até atingir a frequência nominal.
+É correto apenas o que se afirma em
+
+QUESTÃO 32
+O sistema de distribuição de peças mostrado na figura | é composto por uma esteira de entrada de peças (E1),
+uma esteira de distribuição de peças (E2), duas esteiras de saída (E3 e E4), e dois cilindros pneumáticos de
+ação simples com posição de repouso recuado (C1 e C2). As esteiras de saída E3 e E4 estão sempre ligadas.
+O sistema deve funcionar de forma que as peças devem ser distribuídas para as esteiras de saída E3 e E4,
+alternadamente, isto é, quando uma peça é empurrada pelo cilindro C1, a próxima deve ser empurrada pelo
+cilindro C2, e vice-versa. A primeira peça que entra no sistema deve ser distribuída para a esteira E3. Os sinais
+binários do sistema são apresentados no quadro 1 e a figura Il apresenta o diagrama Ladder que controla o
+sistema, em que a linha 3 está omitida.
+
+Com base nas informações apresentadas, conclui-se que a
+linha 3 que completa o código corretamente no diagrama é
+
+QUESTÃO 33
+Um veículo aéreo não tripulado (VANT), também
+chamado UAV (do inglês Unmaned Aerial Vehicle), é
+todo e qualquer tipo de aeronave que não necessita de
+pilotos embarcados para ser guiada. Esses veículos são
+controlados por meios eletrônicos e computacionais,
+sob a supervisão humana remota ou sem a sua
+intervenção.
+Disponível em: <http://pt.wikipedia.org/>. Acesso em: 13 ago. 2014
+(adaptado).
+A respeito da navegação autônoma dos VANTs, avalie
+as afirmações a seguir.
+|. O GPS tem como funcionalidade básica
+determinar coordenadas geográficas.
+ll. O acelerômetro tem como funcionalidade
+básica determinar variação na orientação.
+Ill. O giroscópio tem como funcionalidade básica
+determinar variação no posicionamento .
+É correto o que se afirma em
+O |, apenas.
+O ll, apenas.
+O lell, apenas.
+O Il elll, apenas.
+O 11,11.
+
+QUESTÃO 34
+Um projeto de automação de um sistema consiste em botoeiras de liga e desliga locais com requisito de
+desligamento seguro, de modo que, em caso de desconexão da botoeira de desliga do CLP, o sistema deverá
+desligar automaticamente e não permitir novo ligamento local até que a botoeira de desliga seja destravada.
+Considerando que BL é a botoeira de liga, BD é a botoeira de desliga e K1 é a carga a ser acionada, o circuito
+que implementa a lógica de liga/desliga com selo e com o desligamento seguro requisitado é
+
+QUESTÃO 35
+Um engenheiro de controle e automação, responsável por gerenciar a instalação de um sistema de controle
+de um reservatório de água quente de um hospital, deve assessorar a equipe encarregada de sua montagem.
+A malha de controle do tanque de aquecimento está representada na figura abaixo.
+Com base na análise do diagrama de instrumentação e controle, escolha a opção em que as variáveis
+manipuladas (MV) e as variáveis de processo (PV) estão corretamente relacionadas na forma MV / PV para
+uma mesma malha de controle.
+O Nível da água / Vazão de entrada; Temperatura da água / Tensão na resistência.
+O Nível da água / Vazão de entrada; Tensão na resistência /Temperatura da água.
+O Temperatura da água / Vazão de entrada; Nível da água / Tensão na resistência.
+O Vazão de entrada / Temperatura da água; Tensão na resistência / Nível da água.
+O Vazão de entrada / Nível da água; Tensão na resistência / Temperatura da água.
+

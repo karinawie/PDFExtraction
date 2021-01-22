@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-06T22:51:03</Created>
+	<LastChange>2020-11-06T22:51:03</LastChange></Metadata>
+	<Page imageFilename="cst_gestao_comercial-13.jpg" imageWidth="1614" imageHeight="2167">
+	<SeparatorRegion id="r0">
+	<Coords points="82,562 82,564 1531,564 1531,562"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="82,783 82,785 1530,785 1530,783"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="82,1059 82,1061 1532,1061 1532,1059"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="79,289 79,1113 81,1113 81,289"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="1533,289 1533,1113 1535,1113 1535,289"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="629,2064 629,2067 761,2067 761,2064"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1533,108 1533,160 1163,160 1163,108"/>
+	<TextEquiv conf="0.89207">
+	<Unicode>ENADE 20715</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1532,169 1532,180 1162,180 1162,169"/>
+	<TextEquiv conf="0.96450">
+	<Unicode>EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="284,247 284,273 93,273 93,247"/>
+	<TextEquiv conf="0.96709">
+	<Unicode>RASCUNHO</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1534,2056 1534,2120 795,2120 795,2056"/>
+	<TextEquiv conf="0.18356">
+	<Unicode>E DMA On o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1020,2097 1020,2120 593,2120 593,2097"/>
+	<TextEquiv conf="0.96537">
+	<Unicode>TECNOLOGIA EM GESTÃO COMERCIAL</Unicode></TextEquiv></TextRegion></Page></PcGts>
