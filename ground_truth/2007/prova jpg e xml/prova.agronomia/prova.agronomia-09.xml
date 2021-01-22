@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T05:35:20</Created>
+	<LastChange>2021-01-18T12:43:52</LastChange></Metadata>
+	<Page imageFilename="prova.agronomia-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="862,434 862,662 1585,662 1585,434"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="77,585 77,1185 810,1185 810,585"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,361 267,361 267,401 803,401 803,557 802,557 802,1629 80,1629 80,1239 79,1239 79,557 75,557 75,401 80,401"/>
+	<TextEquiv conf="0.96502">
+	<Unicode>QUESTÃO 11
+Sabendo-se que a produtividade do tomateiro pode ser
+reduzida por patógenos e que pode haver interação entre
+fungos micorrízicos arbusculares (p.ex. Glomus etunicatum
+e Gigaspora margarita) e o nematóide das galhas (Meloidogyne
+javanica), analise a figura a seguir.
+A análise da figura permite concluir que
+(A) a presença de nematóides reduziu a massa seca da
+parte aérea das plantas independente da micorrização.
+(B) a presença de nematóides reduziu a massa seca das
+plantas micorrizadas de forma mais intensa do que das
+plantas não micorrizadas.
+(C) a micorrização não interfere na tolerância das plantas aos
+nematóides.
+(D) na ausência de nematóides, as plantas micorrizadas apre-
+sentaram menor massa seca que as não micorrizadas.
+(E) plantas micorrizadas toleraram a presença de nematóides,
+pois apresentam aproximadamente a mesma massa seca
+que aquelas em que há ausência de nematóides.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="80,1663 273,1663 273,1703 803,1703 803,1932 346,1932 346,2068 80,2068 80,1932 79,1932 79,1703 80,1703"/>
+	<TextEquiv conf="0.96491">
+	<Unicode>QUESTÃO 12
+Em citros, nas combinações copa/porta-enxerto, pode ocorrer
+o fenômeno de incompatibilidade, que pode levar a planta a
+apresentar deficiências nutricionais, queda das folhas, seca
+dos ponteiros, podendo mesmo vir a morrer. No caso da ocor-
+rência de incompatibilidade localizada, quando se deseja man-
+ter a variedade copa e o porta-enxerto, o que se deve utilizar?
+(A) Sobreenxertia.
+(B) Subenxertia.
+(C) Interenxertia.
+(D) Garfagem lateral.
+(E) Garfagem de topo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="851,257 1572,257 1572,258 1573,258 1573,833 1243,833 1243,939 1238,939 1238,974 859,974 859,1009 852,1009 852,833 851,833"/>
+	<TextEquiv conf="0.93751">
+	<Unicode>QUESTÃO 13
+Para o cultivo de mamona em uma determinada região foi
+recomendada uma adubação de cobertura de 45 kg « ha”!
+de N. Os fertilizantes disponíveis na região são apresentados
+na tabela abaixo.
+Considerando a máxima economicidade no uso dos
+nutrientes (menor preço por kg de N) e sabendo que não
+há impedimento técnico para uso dos produtos relacionados,
+qual a quantidade e que tipo de fertilizante deve ser aplicado
+por hectare?
+(A) 45 kg de uréia.
+(B) 100 kg de uréia.
+(C) 130 kg de sulfato de amônio.
+(D) 136 kg de nitrato de amônio.
+(E) 225 kg de sulfato de amônio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="851,1047 1046,1047 1046,1089 1574,1089 1574,1356 1573,1356 1573,1821 1311,1821 1311,1896 976,1896 976,2063 884,2063 884,2069 852,2069 852,1865 853,1865 853,1356 850,1356 850,1089 851,1089"/>
+	<TextEquiv conf="0.96547">
+	<Unicode>QUESTÃO 14
+Em lavouras cultivadas extensivamente como soja, milho,
+cana-de-açúcar e algodão, uma emergente tecnologia de
+manejo que pode auxiliar na implantação das culturas é a
+denominada Agricultura de Precisão. Esta tecnologia diz
+respeito ao gerenciamento localizado da cultura, utilizando
+técnicas de informação para a coleta de dados e sua análise.
+A respeito deste assunto, são apresentadas as seguintes
+afirmativas:
+| — uma desvantagem do processo é o impacto ambiental
+resultante da maior seleção de plantas daninhas
+resistentes;
+ll — os modelos para a simulação de cenários agrícolas
+tornam-se tão mais precisos quanto maiores forem a
+quantidade e a qualidade das informações a serem
+introduzidas nos sistemas;
+Ill — as técnicas de modelagem tornam-se cada vez mais
+dependentes do uso da alta tecnologia tanto no campo
+como na interpretação dos resultados;
+IV — a adoção desta técnica eleva o custo de manutenção de
+máquinas em função do seu uso mais intensivo.
+Estão corretas, apenas, as afirmativas
+(A) IeII.
+(B) IeIII.
+(C) IeIV.
+(D) IIeIII.
+(E) IIIeIV.
+</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="820,254 820,2094 831,2094 831,254"/></SeparatorRegion></Page></PcGts>

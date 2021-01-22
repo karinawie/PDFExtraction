@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T06:38:27</Created>
+	<LastChange>2020-11-23T02:47:00</LastChange></Metadata>
+	<Page imageFilename="prova.enfermagem-18.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="365,1086 365,1507 1236,1507 1236,1086"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="57,392 57,928 1555,928 1555,392"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="60,165 247,165 247,199 1555,199 1555,354 811,354 811,386 60,386"/>
+	<TextEquiv conf="0.95694">
+	<Unicode>QUESTÃO 31
+Antonio de Pádua, 25 anos de idade, foi levado à Unidade Básica de Saúde por um colega. Antonio trabalha há 90 dias
+em uma construção civil, apresenta-se hoje com febre e exantema maculopapular, acompanhado de linfadenopatia
+retroauricular, não relata história de vacinação contra rubéola. Reside em alojamento da empresa com outros
+10 trabalhadores, visitou a esposa e as filhas no município vizinho há 30 dias. O caso foi notificado como suspeita de
+rubéola. A enfermeira da UBS fez algumas considerações para orientar as medidas de controle e prevenção. Qual a
+alternativa que apresenta a justificativa e a decisão corretas?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords points="59,966 251,966 251,996 1554,996 1554,1601 1555,1601 1555,1885 1554,1885 1554,1990 119,1990 119,1631 61,1631 61,1578 60,1578 60,1092 59,1092"/>
+	<TextEquiv conf="0.96089">
+	<Unicode>QUESTÃO 32
+Nadir, enfermeira auditora da Secretaria Municipal de Saúde de Castro Alves, analisou o consumo de hipoclorito de
+sódio 1% utilizado na desinfecção de artigos de inaloterapia das Unidades Básicas de Saúde e apresentou em reunião
+técnica o gráfico abaixo.
+jan fev mar abr mai jun
+Considerando o gráfico e que não houve mudança na quantidade de inalações realizadas no período de análise, é
+correto afirmar:
+(A) A média mensal de consumo foi inferior ao esperado, portanto, há risco de disseminação de microrganismos
+patogênicos entre os usuários do serviço.
+Os dados não podem ser utilizados isoladamente, sendo necessário verificar a ocorrência de casos de doença
+respiratória nos usuários para estabelecer o grau de risco decorrente da provável baixa concentração do cloro.
+A média mensal de consumo foi menor que o esperado, mas não oferece risco de infecção respiratória aos usuários
+das unidades, porque nelas não há circulação de microrganismos altamente patogênicos.
+Os traçados das duas médias de consumo de hipoclorito se mantêm paralelos sugerindo que o padrão de
+desinfecção vem se mantendo sem o comprometimento da biossegurança.
+O consumo médio mensal de hipoclorito está abaixo do esperado porque algumas unidades estariam utilizando
+concentrações de cloro menores, compensando com a imersão do material por mais tempo, sem oferecer,
+entretanto, risco aos usuários.</Unicode></TextEquiv></TextRegion></Page></PcGts>

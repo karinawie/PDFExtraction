@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:34:22</Created>
+	<LastChange>2020-11-17T00:14:05</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-23.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="285,248 288,862 1387,856 1384,242"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="432,1440 434,1970 1144,1966 1142,1436"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="270,944 1364,944 1364,1034 1573,1034 1573,1113 1575,1113 1575,1177 940,1177 940,1309 1090,1309 1090,1348 1143,1348 1143,1373 1014,1373 1014,1374 79,1374 79,1177 78,1177 78,1034 270,1034"/>
+	<TextEquiv conf="0.95846">
+	<Unicode>QUESTÃO 34
+Solot, Denise Chini. Paulo Mendes da Roca: estrutura: o êxito da forma. Rio de Janeiro, Viana &amp; Mosley, 2004
+O projeto do Museu Brasileiro da Escultura - MUBE - (1988), em São Paulo, do arquiteto Paulo Mendes da Rocha, é uma das
+obras mais representativas do vencedor do prêmio Pritzker em 2006.
+Nas imagens, observa-se uma fenda existente entre a viga de 60 metros de extensão e os dois pilares onde ele se apóia. A
+função da fenda é
+(A) obstruir a passagem de luz para realçar a leveza da estrutura aérea.
+(B) facilitar a instalação de equipamentos de iluminação.
+(C) dificultar a percepção da hierarquia dos elementos construtivos.
+(D) permitir a visualização da cidade a partir dos espaços internos da praça coberta.
+(E) permitir a instalação de macacos hidráulicos para futuras substituições do neoprene.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="77,2014 1137,2014 1137,2076 1106,2076 1106,2137 961,2137 961,2138 784,2138 784,2139 608,2139 608,2140 431,2140 431,2141 254,2141 254,2142 79,2142 79,2076 77,2076"/>
+	<TextEquiv conf="0.95680">
+	<Unicode>QUESTÃO 35
+Analisando-se a imagem, constata-se que o elemento construtivo assinalado com o X é
+(A) tirante (B) pilar metálico
+(C) viga vagão (D) armação da viga
+(E) peça da treliça de cobertura</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T07:30:42</Created>
+	<LastChange>2020-11-17T02:20:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-38.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="300,797 300,1542 1234,1542 1234,797"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,680 1573,680 1573,782 1076,782 1076,1684 1167,1684 1167,1720 1210,1720 1210,1746 1040,1746 1040,1813 80,1813 80,1646 79,1646"/>
+	<TextEquiv conf="0.93495">
+	<Unicode>QUESTÃO 56
+A figura a seguir representa a poligonal de projeto de uma estrada, passando pelos pontos A, B, C e D. O ângulo central da
+curva 1 é menor do que o da curva 2. O raio R, é menor do que R,. Ambas são curvas circulares simples.
+Analisando a figura, conclui-se que a(o)
+(A) tangente externa da curva 1 é maior do que a da curva 2.
+(B) rampa do terreno natural entre os pontos B e C é menor do que entre os pontos C e D.
+(C) ângulo central das duas curvas aumenta, deslocando-se o ponto B na direção do ponto A .
+(D) o desenvolvimento da curva 2 é maior do que o da curva 1.
+(E) comprimento total da estrada aumenta, aumentando-se os raios das curvas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,1850 273,1850 273,1890 1574,1890 1574,1984 1572,1984 1572,2050 1226,2050 1226,2116 444,2116 444,2150 81,2150 81,2151 80,2151"/>
+	<TextEquiv conf="0.96341">
+	<Unicode>QUESTÃO 57
+A Resolução nº 1, de 25 de fevereiro de 2005, do Presidente do IBGE (Fundação Instituto Brasileiro de Geografia e
+Estatística) estabelece o SIRGAS2000 como novo sistema geodésico de referência para o Sistema Geodésico Brasileiro
+(SGB) e para o Sistema Cartográfico Nacional (SCN).
+Durante o período de transição previsto na Resolução para o SGB, o SIRGAS2000 poderá ser utilizado em concomitância,
+com o(s) sistema(s)
+(A) SAD 69, apenas. (B) WGS 84, apenas.
+(C) Córrego Alegre, apenas. (D) SAD 69 e Córrego Alegre.
+(E) WGS 84 e Córrego Alegre.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 1573,183 1573,281 1076,281 1076,282 909,282 909,437 1522,437 1522,468 1213,468 1213,577 1110,577 1110,610 318,610 318,643 81,643 81,644 80,644"/>
+	<TextEquiv conf="0.89855">
+	<Unicode>QUESTÃO 55
+Uma cidade é servida por uma rede coletora de esgotos sanitários tipo separador absoluto. No levantamento efetuado em uma
+área piloto, obtiveram-se as seguintes informações:
+* População urbana efetivamente ligada à rede coletora = 20.000 hab
+* Volume médio diário de esgotos = 3.600 m? /dia
+. DBO; 29 média diária = 300 mg/l
+* Asindústrias nessa cidade contribuem com uma vazão de esgoto de 135 mº/dia com concentração de DBO = 1.000 mg/l
+Qual a população equivalente (EP) das indústrias, no que diz respeito à produção de DBO; »5?
+(A) 12.500 pessoas (B) 10.000 pessoas
+(C) 7.500 pessoas (D) 5.000 pessoas
+(E) 2.500 pessoas</Unicode></TextEquiv></TextRegion></Page></PcGts>

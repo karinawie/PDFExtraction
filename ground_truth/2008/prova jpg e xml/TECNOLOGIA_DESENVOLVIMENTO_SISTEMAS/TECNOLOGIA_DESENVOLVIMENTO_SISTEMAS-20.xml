@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:33:27</Created>
+	<LastChange>2020-10-26T12:47:27</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-20.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="104,209 516,209 516,282 1435,282 1435,538 1552,538 1552,1335 106,1335 106,1336 105,1336 105,565 103,565 103,538 104,538"/>
+	<TextEquiv conf="0.89211">
+	<Unicode>QUESTÃO 39 — DISCURSIVA
+Uma montadora de automóveis produz carros de luxo e esportivos. Um carro tem marca,
+modelo, chassi e ano de fabricação. As partes de um carro possuem características como: nome,
+quantidade, cor e preço. Um fornecedor da montadora tem CNPJ e razão social. O carro de luxo
+possui sistema GPS; o carro esporte não possui sistema GPS e somente pode ser fabricado na cor
+vermelha.
+Com base nessa situação, faça o que se pede a seguir.
+A Identifique e escreva o nome das classes correspondentes à situação apresentada. (valor: 2,0 pontos)
+B Desenhe o diagrama de classes, contendo somente os nomes das classes e seus relacionamentos.
+(valor: 3,0 pontos)
+RASCUNHO — QUESTÃO 39-B</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:27:45</Created>
+	<LastChange>2020-10-25T17:37:15</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-30.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="154,331 153,567 714,568 715,332"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="913,242 912,938 1519,939 1520,243"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="822,177 822,2154 831,2154 831,177"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="851,182 1045,182 1045,966 1490,966 1490,1037 1575,1037 1575,2099 1574,2099 1574,2101 851,2101 851,2099 850,2099 850,2096 851,2096"/>
+	<TextEquiv conf="0.96462">
+	<Unicode>QUESTÃO 50
+Velocidade de Rotação (rpm)
+Um motor de indução é utilizado para acionar as pás de um
+misturador, onde se encontra um líquido cuja viscosidade
+aumenta proporcionalmente com a velocidade de rotação das
+pás. Esse efeito é refletido como um torque resistente no
+eixo do motor, que também é proporcional à velocidade de
+rotação. A figura acima apresenta as curvas características
+torque-velocidade do motor e da carga. Considere o sistema
+em regime permanente e o motor operando em sua velocida-
+de nominal de rotação 6, . Para essa condição de operação,
+qual é o escorregamento do motor em função dos parâmetros
+aepf?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,267 273,267 273,632 803,632 803,1289 802,1289 802,1290 801,1290 801,1929 80,1929 80,1906 79,1906 79,632 80,632"/>
+	<TextEquiv conf="0.88247">
+	<Unicode>QUESTÃO 49
+Considere uma linha de transmissão monofásica ideal a
+vazio, energizada a partir de um barramento infinito de
+tensão U, volts e de frequência angular ow rad/s. O compri-
+14 , ; QT ; An
+mento elétrico equivalente da linha é — rade sua impedância
+3
+característica é Ts O. Para minimizar possíveis
+3
+sobretensões, são instalados dois reatores idênticos, em
+derivação, um em cada extremidade da linha, conforme mos-
+trado na figura acima. Para que a tensão no terminal recep-
+tor (U) seja, em regime permanente, igual à tensão do termi-
+nal emissor (U,) da linha, qual deve ser o valorda indutância,
+em H, de cada reator, em função da frequência angular?</Unicode></TextEquiv></TextRegion></Page></PcGts>

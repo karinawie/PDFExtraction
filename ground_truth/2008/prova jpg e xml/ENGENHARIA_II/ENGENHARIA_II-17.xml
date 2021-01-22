@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:29:53</Created>
+	<LastChange>2020-10-25T17:48:53</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="842,702 842,1705 1594,1705 1594,702"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="237,251 237,422 645,422 645,251"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="54,474 54,1028 802,1028 802,474"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="820,171 820,2134 825,2134 825,171"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="80,183 273,183 273,1070 802,1070 802,1328 788,1328 788,1644 801,1644 801,1770 779,1770 779,1837 498,1837 498,1869 441,1869 441,1870 80,1870 80,1871 79,1871 80,1871 80,1636 79,1636 79,1610 95,1610 95,1330 79,1330 79,1170 80,1170"/>
+	<TextEquiv conf="0.95809">
+	<Unicode>QUESTÃO 28
+O diagrama em bloco da Figura 1 mostra um sistema em
+malha fechada, obtido a partir da realimentação de saída da
+planta G(s).
+A Figura 2 apresenta o esboço do diagrama de BODE traça-
+do para a função de transferência G(s), que é de fase mínima.
+De acordo com as informações acima, analise as afirmações
+a seguir.
+O sistema em malha fechada será ESTÁVEL.
+PORQUE
+No diagrama de BODE, o módulo linear da função é maior
+que 1 na frequência em que a fase é -180º.
+Com relação às afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="851,186 1045,186 1045,233 1576,233 1576,571 1574,571 1574,653 1573,653 1573,1755 1572,1755 1572,1869 1076,1869 1076,2138 860,2138 860,2140 852,2140 852,1869 851,1869 851,654 850,654 850,583 851,583"/>
+	<TextEquiv conf="0.96901">
+	<Unicode>QUESTÃO 29
+Um engenheiro necessitava de um circuito eletrônico
+programável através do posicionamento de chaves e capaz
+de implementar expressões booleanas entre quatro sinais di-
+gitais (W, X, Y e Z). Ele solicitou a um técnico que montasse o
+circuito apresentado na figura, utilizando decodificadores com
+3 (três) entradas e 8 (oito) saídas, em que E3 representa o bit
+mais significativo da entrada. Sabe-se que o pino de enable,
+quando desativado, faz com que todas as saídas do
+decodificador (SO até S7) permaneçam em nível lógico 1.
+As chaves são independentes e têm duas posições de conta-
+to, conectadas à barra de +V .., ou ao terminal do decodificador.
+Quais os números das chaves que deverão ser conectadas
+aos decodificadores para que a expressão booleana do sinal
+F seja WXY+WXZ+WXYZ ?
+(A) 1,5,7, 126 14
+(8) 3,4,5, 11 e 14
+(0) 3,4,7, 12613
+(D) 3,6,8, 10e 12
+(E) 5,6,7, 11615</Unicode></TextEquiv></TextRegion></Page></PcGts>

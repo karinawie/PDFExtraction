@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:02:44</Created>
+	<LastChange>2020-10-26T14:08:23</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-13.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,971 273,971 273,1010 803,1010 803,1921 550,1921 550,2020 208,2020 208,2125 223,2125 223,2149 128,2149 128,2151 80,2151 80,1961 81,1961 81,1331 79,1331 79,1010 80,1010"/>
+	<TextEquiv conf="0.96826">
+	<Unicode>QUESTÃO 32
+Existem muitas vulnerabilidades nos protocolos e serviços
+da Internet. Boa parte delas existe porque segurança não era
+um requisito quando a Internet foi projetada e desenvolvida,
+nas décadas de 1960 e 1970, como um projeto de pesquisa
+do departamento de defesa norte-americano. Para remediar
+problemas de projeto, novos protocolos e serviços foram
+propostos em adição ou substituição aos originalmente
+concebidos. Sobre vulnerabilidades existentes em protoco-
+los e serviços TCP/IP e soluções propostas, considere as
+afirmações que se seguem.
+| - O envenenamento de cache do DNS (DNS cache
+poisoning) consiste em introduzir dados incorretos no
+servidor DNS para forçar uma resposta errada a uma
+consulta DNS, como forma de induzir o requerente a
+acessar um falso endereço |P, possivelmente de um
+atacante.
+Il - Ataques de negação de serviço não tencionam ganhar
+acesso à rede, mas tornar inacessível ou reduzir a
+qualidade de um serviço pelo esgotamento ou limitação
+de recursos.
+Il - O DNSSEC é uma extensão de segurança projetada para
+proteger o DNS de certos ataques, que provê, entre
+outras funções, autenticação da origem e integridade dos
+dados do DNS, mas não garante a confidencialidade nem
+protege contra ataques de negação de serviço.
+IV - IPSEC é usado para prover segurança, autenticação e
+integridade para aplicações que usam o SSL/TLS.
+Estão corretas APENAS as afirmações
+(A) le!
+B) Ile
+) NelV
+) Lille
+)
+(
+(C
+OD
+(E) IM elV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 269,183 269,223 802,223 802,932 80,932 80,282 79,282 79,256 80,256"/>
+	<TextEquiv conf="0.95535">
+	<Unicode>QUESTÃO 31
+Segundo a norma NBR 14.565, um projeto de cabeamento
+estruturado deve ser elaborado mediante uma sequência
+básica que inclui o projeto de cabeamento interno secundário
+(ou rede interna secundária). Entende-se por rede interna
+secundária
+(A) a rede que conecta uma sala de equipamento e uma sala
+de entrada de telecomunicações de dois prédios ou blo-
+cos de um campus.
+(B) a rede que serve para interconectar o distribuidor geral de
+telecomunicações com o distribuidor intermediário
+e/ou o distribuidor secundário da edificação.
+(C) a rede que conecta a sala de entrada de telecomunica-
+ções e o distribuidor geral de telecomunicações no
+prédio.
+(D) otrecho da rede compreendido entre o ponto de transição
+de cabos instalado na área de trabalho e o dispositivo de
+conexão instalado no armário de telecomunicações do
+andar.
+(E) o trecho da rede compreendido entre o ponto de teleco-
+municações instalado na área de trabalho e o dispositivo
+de conexão instalado no armário de telecomunicações
+do andar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="852,183 1045,183 1045,228 1574,228 1574,910 852,910 852,911 851,911 852,911 852,369 851,369 851,184 852,184"/>
+	<TextEquiv conf="0.96530">
+	<Unicode>QUESTÃO 33
+Quando um usuário acessa páginas Web na Internet, a partir
+de um navegador padrão, a resolução do nome das máquinas
+que hospedam as páginas de interesse é realizada tipica-
+mente por meio de
+(A) acesso a um arquivo na máquina do usuário (por exemplo,
+arquivo “hosts”) que contém uma lista dos nomes das
+máquinas da Internet e seus respectivos endereços |P.
+(B) consulta a um proxy HTTP que retorna a página solicitada
+pelo usuário.
+(OC) consulta a um servidor DHCP que possui as informações,
+armazenadas em cache, dos nomes das máquinas da
+Internet e seus respectivos endereços |P.
+(D) consulta a um servidor DNS que, de forma recursiva e/ou
+iterativa, consulta outros servidores DNS da Internet até o
+nome de interesse ser resolvido.
+(E) consulta a um servidor DNS raiz da Internet, que contém
+uma lista dos nomes das máquinas da Internet e seus
+respectivos endereços |P.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="851,955 1045,955 1045,1000 1574,1000 1574,1682 1572,1682 1572,2004 1574,2004 1574,2066 1572,2066 1572,2144 852,2144 852,2145 851,2145 852,2145 852,1721 851,1721 851,1618 852,1618 852,1103 851,1103"/>
+	<TextEquiv conf="0.96639">
+	<Unicode>QUESTÃO 34
+Na fase de análise dos objetivos e restrições técnicas do
+projeto de uma rede local para o novo escritório de uma
+grande empresa, os seguintes requisitos foram levantados:
+* deseja-se redundância de caminhos entre os comutadores
+(switches);
+* cada setor deverá ter uma sub-rede |P, e a mudança de
+computadores entre setores será frequente;
+* alguns departamentos terão autonomia para definir nomes
+de subdomínios;
+* deseja-se realizar a monitoração de tráfego de enlaces
+locais a partir de um único lugar central;
+* arede precisará de proteção contra ameaças externas;
+* a monitoração de URL externas visitadas será importante
+(mas sem proibições);
+* ataques internos à rede deverão ser monitorados e identifi-
+cados.
+Que conjunto de equipamentos, protocolos e aplicações
+poderá ser empregado para satisfazer todos os requisitos
+acima apresentados?
+(A) Firewall, Proxy, Comutadores com suporte a SNMP, STP,
+DNS com delegação de zona, IDS, DHCP.
+(B) Firewall, Proxy, Comutadores com suporte a SNMP, STP,
+DNS com delegação de zona, VPN, NAT.
+(OC) Firewall, Proxy, Comutadores com suporte a SNMP,
+Comutadores de nível 3, DNS com delegação de zona,
+IPS, Topologia hierárquica.
+(D) Firewall, Proxy, Analisador de protocolos, STP, DNS com
+DNSSEC, IPSEC, DHCP.
+(E) Firewall, Analisador de protocolos, Comutadores de nível 3,
+DNS com DNSSEC, IDS, DHCP.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="825,180 825,2171 831,2171 831,180"/></SeparatorRegion></Page></PcGts>

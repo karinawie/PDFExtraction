@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:34:36</Created>
+	<LastChange>2020-10-26T12:44:21</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-15.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="911,207 911,2106 913,2106 913,207"/></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="939,1279 1317,1279 1317,1404 1552,1404 1552,2106 990,2106 990,2100 939,2100 939,1886 936,1886 936,1584 938,1584 938,1404 939,1404"/>
+	<TextEquiv conf="0.96130">
+	<Unicode>QUESTÃO 29
+Considere a sentença a seguir.
+Se Maria for ao aniversário, João irá e ficará feliz,
+mas Maria ficará infeliz, ou, se João não for ao
+aniversário, Maria irá e ficará feliz, mas João ficará
+infeliz.
+Considere as seguintes proposições: P: João vai ao
+aniversário; Q: Maria vai ao aniversário; R: João
+feliz; e S: Maria feliz. Assinale a opção que contém
+fórmula de lógica proposicional com uma
+representação válida para a sentença proposta.
+Quanto à notação dos operadores, considere:
+junção = A; disjunção = V; negação = =;
+implica = &gt;.
+((Q&gt;(PAR)) &gt;7S) V(P&gt;(QAS))&gt;R)
+((PQ&gt;(PAR))&gt;S)V((P&gt;(QAS))&gt;-R)
+((Q&gt;(PAR)) &gt;78S) V((7P&gt;(QAS)) &gt; R)
+(PQ (PAR)) &gt;7S) V((7P&gt;(QAS)) &gt; R)
+(Q&gt; (PAR) &gt;S) V((P&gt;(QNAS))&gt;R)
+(
+(
+cogcoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r28">
+	<Coords points="1005,257 1005,577 1428,577 1428,257"/></ImageRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="939,215 1407,215 1407,606 1553,606 1553,741 1467,741 1467,1233 989,1233 989,1228 939,1228 939,1002 938,1002 938,606 939,606"/>
+	<TextEquiv conf="0.94238">
+	<Unicode>QUESTÃO 28
+A B
+A figura acima mostra 3 conjuntos — A, B e C —
+em que cada conjunto é representado, no diagrama
+de Venn, por um círculo no plano. Com relação aos
+conjuntos A, B e C, julgue os seguintes itens.
+| AUB=O
+Il A-(Bn C)=(A-B)n(A-C)
+MAN(BUC)=(AnB)U(AnC)
+IVANA=O
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e || estão certos.
+Apenas os itens || e Ill estão certos.
+Apenas os itens Ill e IV estão certos.
+Apenas os itens Il, Ill e IV estão certos.
+cocos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="104,215 294,215 294,263 899,263 899,1004 154,1004 154,475 104,475 104,416 103,416 103,263 104,263"/>
+	<TextEquiv conf="0.96698">
+	<Unicode>QUESTÃO 26
+Os métodos de projeto e análise de algoritmos são necessários
+para o desenvolvimento de algoritmos eficientes, pois eles
+permitem que se resolva problemas computacionais, reduzindo
+complexidade e tempo de execução. Acerca desses métodos,
+assinale a opção incorreta.
+o
+A abordagem de Divisão e Conquista propõe dividir o
+problema em vários subproblemas, resolvendo-os e
+combinando suas soluções para criar a solução final do
+problema original.
+AProgramação Dinâmica é umatécnicatipicamente aplicada
+a problemas de otimização em que pode haver várias soluções
+possíveis.
+O método Guloso nem sempre encontra a solução ótima,
+mas faz sempre a melhor escolha momentânea.
+A Programação Dinâmica € O Método Guloso têm em
+comum o fato de que se aplicam a problemas em que se
+observa a existência de sobreposição de subproblemas, ou
+seja, subproblemas que se repetem.
+Os métodos de Divisão e Conquista &amp; Programação
+Dinâmica apresentam a mesma eficiência quando resolvem
+problemas “combinando soluções de subproblemas
+dependentes uns dos outros.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,1041 790,1041 790,1115 785,1115 785,1250 899,1250 899,1276 800,1276 800,1542 899,1542 899,2086 154,2086 154,1935 155,1935 155,1805 156,1805 156,1726 104,1726 104,1596 103,1596 103,1542 104,1542"/>
+	<TextEquiv conf="0.94094">
+	<Unicode>QUESTÃO 27
+Os termos da sequência de Fibonacci são definidos por:
+Fibonacci (0)
+Fibonacci (1)
+Fibonacci (n)
+Uma solução
+o
+1
+Fi
+WA
+bonacci (n-1) + Fibonacci (n-2)
+recursiva para o cálculo do jésimo termo da
+sequência é dada pela função a seguir.
+JOUsQNHE
+funcao fibonacci (inteiro longo n)
+se((n=0) OU (n=1)) entao
+retorne n
+senao
+retorne fibonacci(n-l1) + fibonacci (n-2)
+fim se
+fim
+Acerca da execução recursiva dessa função, assinale a opção
+incorreta.
+o
+o
+À medida que o valor de n cresce, há um aumento no número
+de chamadas recursivas.
+Na linha 4, a ordem de execução é calcular o valor para
+fibonacci(n-1) e somente depois calcular o valor para
+fibonacci (n-2)
+O método recursivo é o mais eficiente para o cálculo do
+i-ésimo termo da sequência de Fibonacci, pois realiza duas
+chamadas por passo da recursão, cada uma mais simples do
+que a chamada original.
+As condições de parada da recursão são: o valor de n é O ou
+o valor de né 1.
+O uso da recursão para o problema da série de Fibonacci não
+é indicado, pois ele gera rapidamente uma explosão de
+chamadas do método.</Unicode></TextEquiv></TextRegion></Page></PcGts>

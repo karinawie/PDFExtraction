@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T19:36:09</Created>
+	<LastChange>2020-09-22T19:36:09</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-28.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="231,654 231,1922 1420,1922 1420,654"/></ImageRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="81,184 1574,184 1574,331 1575,331 1575,538 1576,538 1576,598 81,598"/>
+	<TextEquiv conf="0.92705">
+	<Unicode>QUESTÃO 40 - DISCURSIVA
+Dados um quarteirão de 100 m x 100 m, subdividido em módulos de 10 m x 10 m, e blocos lineares medindo 4 x 2,
+7 x 2 módulos e 10 x 2 módulos, disponha os blocos no terreno para atingir os seguintes resultados urbanísticos:
+a) criação de espaço aberto que favoreça a privacidade dos usuários em relação à rua, e que seja claramente definido;
+b) criação de espaços não hierarquizados entre os blocos;
+c) criação de uma única esplanada valorizando apenas um edifício;
+d) distribuição de edificações de modo a criar uma clara hierarquia de espaços abertos.
+(valor: 10,0 pontos)
+Obs.: os blocos podem ser dispostos na horizontal sobre o lado maior, sobre o lado menor, na vertical, assim como podem ser
+reunidos formando blocos mais largos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

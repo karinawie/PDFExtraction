@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T18:54:17</Created>
+	<LastChange>2021-01-19T15:04:43</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="51,1125 51,1625 965,1625 965,1125"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="91,1725 91,2154 748,2154 748,1725"/></ImageRegion>
+	<TableRegion id="r5">
+	<Coords points="71,628 71,925 1388,925 1388,628"/></TableRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords points="80,183 80,184 273,184 273,223 1574,223 1574,568 1402,568 1402,1006 80,1006 80,313 79,313 79,255 80,255"/>
+	<TextEquiv conf="0.96492">
+	<Unicode>QUESTÃO 18
+No projeto de um sistema embarcado de controle, deve ser escolhido um microcontrolador que atenda exatamente às
+especificações, dado que uma escolha inadequada levará a maior custo final. Após o desenvolvimento do sistema, foi escolhi-
+do um microcontrolador de 8 bits, com arquitetura Harvard. Foram levantadas as seguintes características necessárias ao
+microcontrolador em que será implantado o sistema:
+* o programa ocupará 1.200 linhas de programa;
+* será necessário o armazenamento de um conjunto de 255 bytes de dados permanentemente no microcontrolador;
+* a manipulação de grande quantidade de informações durante o processamento exigirá uma memória de dados com capaci-
+dade de 300 bytes;
+* a frequência de CLOCK deverá ser calculada levando-se em conta que o programa ficará em um loop contínuo com duração
+total de 0,32 ms, e que nesse loop existirão 400 linhas de programa. Sabe-se que cada linha de programa é executada num
+tempo que se encontra entre um e quatro ciclos de CLOCK.
+Dados dos microcontroladores pesquisados:
+Qual microcontrolador atende a todos os requisitos do projeto?
+(A) P (B) Q (O) R DS (E) T</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords points="80,1040 81,1040 81,1041 662,1041 662,1042 1243,1042 1243,1230 1573,1230 1573,1297 1572,1297 1572,1757 1588,1757 1588,1900 1559,1900 1559,2031 1272,2031 1272,2071 836,2071 836,2077 804,2077 804,1900 795,1900 795,1894 794,1894 794,1757 1020,1757 1020,1707 81,1707 81,1706 80,1706 80,1681 1020,1681 1020,1107 80,1107"/>
+	<TextEquiv conf="0.93616">
+	<Unicode>QUESTÃO 19
+No fluxograma abaixo são descritos o programa principal e a rotina de tratamento de interrupção.
+Sabe-se que o microcontrolador que implementa
+este código possui:
+• dois registradores que armazenam os valores
+presentes em suas entradas binárias (A e B);
+• um registrador de saída (C);
+• três registradores internos X, Y e W;
+• um bit de entrada (D), que aciona uma
+interrupção sempre que ocorre uma borda
+de subida no seu nível lógico.
+O registrador C terá o valor hexadecimal FF armazenado em seu
+conteúdo sempre que
+(A) forem iguais os sinais nas entradas A e B.
+(B) forem diferentes os sinais nas entradas A e B.
+(C) ocorrer uma borda de subida em D, sendo A e B iguais.
+(D) ocorrer uma borda de subida em D, sendo A e B diferentes.
+(E) ocorrer uma borda de subida em D.</Unicode></TextEquiv></TextRegion></Page></PcGts>

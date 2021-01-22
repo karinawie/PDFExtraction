@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:34:17</Created>
+	<LastChange>2020-10-25T20:49:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="542,1020 542,1422 1114,1422 1114,1020"/></ImageRegion>
+	<TextRegion id="r18" type="caption">
+	<Coords points="587,930 1081,930 1081,1448 1551,1448 1551,1483 1554,1483 1554,1547 1552,1547 1552,1761 1553,1761 1553,2111 1071,2111 1071,2112 588,2112 588,2113 106,2113 106,2114 105,2114 105,1762 104,1762 104,1716 103,1716 103,1483 104,1483 104,931 587,931"/>
+	<TextEquiv conf="0.96109">
+	<Unicode>QUESTÃO 31
+Do fundo de um reservatório de água, semelhante ao da figura acima, parte uma tubulação de grande diâmetro. No final
+dessa tubulação, instalou-se um bocal de diâmetro pequeno, cuja finalidade é proporcionar um jato de água para dar
+PV P, v
+condições à instalação de uma turbina Pelton. Considerando o teorema de Bernoulli Z, + 22, a =Z + + às (sendo
+Y Y
+Z a carga de posição, P a pressão, y o peso específico da água, v a velocidade do fluxo e g a aceleração da gravidade)
+e a equação da continuidade A, v, = A, v., (em que A é a área de seção transversal do fluxo) e, desprezando as perdas
+de carga inerentes ao sistema, assinale a opção correta.
+O A velocidade da água no bocal é proporcional a uma razão linear conforme a razão (D/d), sendo D o diâmetro da
+tubulação e d; o diâmetro do jato.
+O A pressão da água entre a turbina e o bocal é muito grande, pois a carga de posição ou de gravidade converte-se
+em carga piezométrica.
+O Acarga cinética produzida pela água logo após passar pelo bocal corresponde à soma das cargas piezométricas e
+de posição na barragem.
+O Mesmo conhecendo-se a carga cinética no bocal e seu diâmetro, não é possível realizar o cálculo da vazão que passa
+pelo jato.
+O Em estudos de fenômenos de transporte, não é possível associar a equação da continuidade com o teorema de
+Bernoulli.</Unicode></TextEquiv></TextRegion></Page></PcGts>

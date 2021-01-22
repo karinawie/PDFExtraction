@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:02:23</Created>
+	<LastChange>2020-10-26T14:07:29</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-14.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="80,1736 273,1736 273,1777 1573,1777 1573,1927 1574,1927 1574,2050 1442,2050 1442,2138 80,2138 80,2077 82,2077 82,1895 81,1895 81,1871 79,1871 79,1777 80,1777"/>
+	<TextEquiv conf="0.96610">
+	<Unicode>QUESTÃO 36
+Para um mesmo número de instâncias de objetos de interesse, mensagens GetBulk do SNMPv2, em comparação a mensa-
+gens GetNext, geram um menor número de bytes trocados entre estações de gerenciamento e dispositivos gerenciados.
+Explicam essa redução as razões que se seguem.
+| - Mensagens GetBulk possuem menos campos que mensagens GetNext.
+Il - Um menor número de mensagens de solicitação e resposta é gerado com o uso de mensagens GetBulk do que com
+mensagens GetNext.
+Ill - Mensagens GetBulk são encapsuladas em datagramas UDP, enquanto mensagens GetNext são encapsuladas em
+segmentos TCP.
+Está(ão) correta(s) APENAS a(s) razão(ões)
+(A)| (B)!I! (C) (D)lell (E)Ilelll</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="285,185 285,1348 1582,1348 1582,185"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,183 273,183 273,184 274,184 274,1374 702,1374 702,1407 1156,1407 1156,1440 1573,1440 1573,1698 1076,1698 1076,1699 578,1699 578,1700 81,1700 81,1701 80,1701 80,1375 79,1375 79,1374 80,1374"/>
+	<TextEquiv conf="0.96715">
+	<Unicode>QUESTÃO 35
+Analisando a rede ilustrada na figura, verifica-se que
+(A) as máquinas dos setores de Estoque e Vendas estão no mesmo domínio de colisão.
+(B) a Rede Interna não contém roteadores; portanto, para que as diferentes sub-redes IP se comuniquem sem passar pelo
+Firewall/NAT, são recomendados comutadores (switches) de nível 3.
+(C) os endereços |P públicos da sub-rede da Administração permitem que as suas estações acessem a Internet sem o
+auxílio do NAT.
+(D) o enlace de acesso à Internet deve ter uma capacidade C superior a 100 Mbps para evitar que o mesmo se torne um
+gargalo.
+(E) o default gateway das estações da sub-rede da Administração é o Firewall/NAT, quando se adotam comutadores
+(switches) de nível 3 para a Rede Interna.</Unicode></TextEquiv></TextRegion></Page></PcGts>

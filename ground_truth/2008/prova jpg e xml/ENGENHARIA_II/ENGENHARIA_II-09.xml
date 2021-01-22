@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:31:29</Created>
+	<LastChange>2021-01-19T12:09:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="851,188 1045,188 1045,237 1574,237 1574,1332 1573,1332 1573,1630 1550,1630 1550,1717 1396,1717 1396,1820 1573,1820 1573,1931 966,1931 966,2102 859,2102 859,2146 852,2146 852,1931 851,1931 851,1820 853,1820 853,1675 852,1675 852,1503 851,1503 851,1435 853,1435 853,1332 850,1332 850,707 851,707"/>
+	<TextEquiv conf="0.95802">
+	<Unicode>QUESTÃO 12
+O gerente da divisão de carros da Pontiac, nos Estados
+Unidos da América, recebeu uma curiosa carta de
+reclamação de um cliente:
+“(...) Eu posso parecer louco, mas o fato é que nós temos
+uma tradição em nossa família, que é a de comer sorvete
+depois do jantar. Repetimos este hábito todas as noites,
+variando apenas o tipo do sorvete, e eu sou o encarregado de
+ir comprá-lo. Sempre que eu compro sorvete de baunilha,
+quando volto da loja para casa, o carro não funciona.
+Se compro qualquer outro tipo de sorvete, o carro funciona
+normalmente.”
+Apesar das piadas, um engenheiro da empresa foi
+encarregado de atender à reclamação. Repetiu a exata
+rotina com o reclamante e constatou que, de fato, o carro só
+não funcionava quando se comprava sorvete de baunilha.
+Depois de duas semanas de investigação, o engenheiro
+descobriu que, quando escolhia sorvete de baunilha, o
+comprador gastava menos tempo, porque esse tipo de
+sorvete estava bem na frente da loja. Examinando o carro,
+fez nova descoberta: como o tempo de compra era muito
+menor no caso do sorvete de baunilha, os vapores na
+tubulação de alimentação de combustível não se dissipavam,
+impedindo que a nova partida fosse instantânea. A partir
+desse episódio, a Pontiac mudou o sistema de alimentação
+de combustível, introduzindo alteração em todos os modelos
+a partir da linha 99.
+Disponível em: &lt;http://newsworlds.wordpress.com&gt; (com adaptações).
+Suponha que o engenheiro tenha utilizado as seguintes
+etapas na solução do problema:
+I - fazer testes e ensaios para confirmar quais são as
+variáveis relevantes;
+II - constatar a natureza sistemática do problema;
+III - criar hipóteses sobre possíveis variáveis significativas;
+IV - propor alterações no sistema em estudo.
+Considerando que as etapas I, II e III não estão listadas na
+ordem em que devem ocorrer, qual é o ordenamento correto
+dessas três etapas?
+(A) I, III, II
+(B) II, I, III
+(C) II, III, I
+(D) III, I, II
+(E) III, II, I</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="825,180 825,2160 831,2160 831,180"/></SeparatorRegion>
+	<ImageRegion id="r13">
+	<Coords points="140,700 140,1620 740,1620 740,700"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,317 267,317 267,361 802,361 802,681 571,681 571,1694 802,1694 802,2153 80,2153 80,1687 79,1687 79,361 80,361"/>
+	<TextEquiv conf="0.95804">
+	<Unicode>QUESTÃO 11
+Na linguagem da representação gráfica, são utilizados
+recursos variados, que vão dos traços a mão livre às imagens
+resultantes de modelos tridimensionais (3D) em computador.
+Nas áreas técnicas, a comunicação por imagens se dá,
+principalmente, por meio de desenhos em que se empregam
+linhas, traçados, técnicas e métodos precisos e claramente
+definidos. É o chamado desenho técnico.
+As figuras abaixo mostram uma perspectiva técnica de um
+objeto e três de suas vistas ortográficas, desenhadas de acordo
+com a norma brasileira NBR 10067.
+Analisando essas figuras, conclui-se que
+(A) foi empregado, nas vistas ortográficas, o método de
+projeção chamado 3º diedro, no qual a vista inferior é de-
+senhada abaixo da vista frontal, e a vista lateral direita é
+desenhada à direita da vista frontal.
+(B) foi desenhada, além das vistas ortográficas, uma
+perspectiva isométrica que permite uma boa visualização
+do objeto.
+(C) as faces A e B são as faces frontais do objeto, de acordo
+com o posicionamento das vistas.
+(D) a linha tracejada no desenho das vistas indica a
+existência de uma aresta invisível, que não aparece na
+perspectiva.
+(E) a perspectiva e as três vistas apresentadas são insufici-
+entes para se determinar que a face oposta à D é vertical.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:26:57</Created>
+	<LastChange>2020-11-17T02:19:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-46.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="277,971 277,1351 1340,1351 1340,971"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="77,385 77,485 805,485 805,385"/></TableRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="842,177 842,794 1582,794 1582,177"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 67
+Um aproveitamento hidrelétrico tem vazão turbinada total de
+30 m3/s e uma altura de queda de 50 m.
+Considere:
+• P =8QH
+onde P = Potência em kW
+Q = vazão (m3/s)
+H = altura de queda (m)
+• vazão média turbinada = 25 m3/s
+• vazão mínima natural = 10 m3/s
+Qual será a energia gerada anualmente, em MWh/ano?
+(A) 10.000
+(B) 35.040
+(C) 57.600
+(D) 87.600
+(E) 105.120</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="65,162 825,162 825,365 820,365 820,797 62,797 62,508 65,508"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 66
+Considere que as vazões médias mensais, em um ano
+crítico, afluentes a um ponto onde será construída uma
+barragem de armazenamento para abastecer um perímetro
+irrigado com uma vazão constante de 1500 l/s, são:
+Desconsiderando os efeitos de evaporação e infiltração, qual
+o volume d’água mínimo a ser armazenado no reservatório?
+(A) 1,81 x 106 m3
+(B) 5,18 x 106 m3
+(C) 5,96 x 106 m3
+(D) 6,48 x 106 m3
+(E) 7,78 x 106 m3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="78,844 79,844 79,845 1573,845 1573,955 843,955 843,1585 1572,1585 1572,1612 81,1612 81,1611 80,1611 80,1478 79,1478 79,954 78,954"/>
+	<TextEquiv conf="0.94651">
+	<Unicode>QUESTÃO 68 - DISCURSIVA
+A figura a seguir mostra uma adutora composta por dois trechos em série, ligando dois reservatórios. Sabe-se que a vazão de
+escoamento é Q e que L,, L,, D, e D, representam, respectivamente, os comprimentos e diâmetros dos trechos 1 e 2.
+2
+Dados: Equação Universal de perda de carga &gt; Ah=k- e L
+D
+Onde: k= coeficiente proporcional ao fator de atrito.
+Despreze as perdas de carga localizadas.
+Determine analiticamente a diferença de nível H em função dos demais parâmetros. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:20</Created>
+	<LastChange>2020-10-25T18:10:37</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-24.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="179,470 178,978 1493,982 1494,474"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,181 378,181 378,182 486,182 486,222 1573,222 1573,414 1363,414 1363,1122 1572,1122 1572,1203 80,1203 80,1202 79,1202 79,1122 290,1122 290,414 79,414 79,222 80,222"/>
+	<TextEquiv conf="0.94852">
+	<Unicode>QUESTÃO 39 - DISCURSIVA
+Durante parte do Campeonato Mundial de Fórmula 1 de 2006, a Equipe Renault utilizou em seus carros absorvedores de
+vibração na dianteira e na traseira, com o objetivo de minimizar as oscilações do chassi provocadas pela passagem sobre as
+“zebras” e, consequentemente, melhorar seu desempenho. No detalhe está mostrado o dispositivo empregado na dianteira,
+que consiste basicamente em um sistema massa-mola-amortecedor de 1 grau de liberdade, com uma massa de 7 kg (1)
+apoiada sobre molas (2 e 3) de diferente rigidez, com relação 1:3, inseridas em uma carcaça (4) de fibra de carbono, e com um
+amortecedor regulável (5) contendo um fluido viscoso.
+PIOLA, G., Formula 1 Technical Analysis 2006-2007. Giorgio Nada Editore, 2007. (Adaptado).
+a) Sabendo que a frequência natural não amortecida do absorvedor de vibração utilizado na dianteira é de 12/2 Hz,
+determine a rigidez das molas empregadas. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

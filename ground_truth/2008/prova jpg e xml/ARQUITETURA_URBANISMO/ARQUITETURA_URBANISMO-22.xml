@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T19:33:54</Created>
+	<LastChange>2020-09-22T19:33:54</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="100,380 100,1117 788,1117 788,380"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="825,431 825,1111 1594,1111 1594,431"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="334,1200 334,1791 911,1791 911,1200"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,181 80,182 273,182 273,222 1574,222 1574,349 1470,349 1470,1856 1572,1856 1572,1922 1574,1922 1574,2148 80,2148 80,1822 922,1822 922,349 827,349 827,348 80,348 80,347 79,347 79,222 80,222"/>
+	<TextEquiv conf="0.96497">
+	<Unicode>QUESTÃO 33
+Uma das características mais marcantes do Centro de Informática da Universidade Católica de Santiago, Chile, projetado por
+Aravena, Murray, Montero e Torrejón, é o fato de ser formado por um volume interior — uma estrutura de concreto com fecha-
+mento de placas cimentícias — e um volume exterior de vidro, construído com tecnologia usual, separado do outro, e com
+aberturas na base e no topo.
+Planta do 8º pavimento
+Centro de Informática, Universidad Catolica de Chile,
+Campus San Joaquín, Santiago 2006, arqs. Alejandro
+Aravena, Charles Murray, Alfonso Montero e Ricardo
+Torrejón
+Considerando essa solução do ponto de vista do conforto ambiental, constata-se que
+(A) a pele exterior confere ao edifício uma aparência moderna e adequada ao seu programa, sendo o conforto ambiental
+secundário neste projeto.
+(B) a combinação de fachada de vidro com aberturas nos seus extremos gera circulação de ar no interior do edifício, propiciando
+conforto ambiental.
+(C) a utilização de uma cortina de vidro como solução de fachada significa, em si, uma construção cara e deficiente para o
+conforto ambiental.
+(D) a criação dos dois volumes foi uma decisão puramente formal e nada tem a ver com questões de conforto ambiental.
+(E) o mais adequado para o conforto ambiental teria sido inverter a posição dos dois volumes, passando a fachada de vidro a
+ser protegida pelas placas cimentícias.</Unicode></TextEquiv></TextRegion></Page></PcGts>

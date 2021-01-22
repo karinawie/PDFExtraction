@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T21:05:25</Created>
+	<LastChange>2020-09-22T21:07:03</LastChange></Metadata>
+	<Page imageFilename="BIOLOGIA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="222,275 223,571 744,570 743,274"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="875,207 879,2120 885,2120 881,207"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="294,215 294,243 105,243 105,244 104,244 104,216 105,216 105,215"/>
+	<TextEquiv conf="0.96406">
+	<Unicode>QUESTÃO 15</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="417,1260 417,1634 868,1634 868,1260"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="103,595 861,595 861,777 863,777 863,833 859,833 859,893 485,893 485,894 458,894 458,985 333,985 333,1177 157,1177 157,1178 156,1178 156,1174 104,1174 104,1020 105,1020 105,651 103,651"/>
+	<TextEquiv conf="0.94080">
+	<Unicode>Com base na figura acima, que expressa o custo energético do
+deslocamento de animais adultos, julgue os seguintes itens.
+| Independentemente do modo de locomoção, corpos maiores
+resutam em menor custo energético relativo ao
+deslocamento.
+Il A natação é o modo mais econômico de deslocamento por
+unidade de massa animal transportada.
+Il O custo de correr pode ser maior que o de voar,
+dependendo do tamanho do corpo do animal considerado.
+É correto o que se afirma em
+|, apenas.
+Il, apenas.
+le Ill, apenas.
+Il e Ill, apenas.
+Lie.
+cogEgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="105,1213 294,1213 294,1260 415,1260 415,1655 862,1655 862,1710 861,1710 861,2117 508,2117 508,2118 155,2118 155,2119 154,2119 154,1712 103,1712 103,1260 104,1260 104,1214 105,1214"/>
+	<TextEquiv conf="0.96785">
+	<Unicode>QUESTÃO 16
+A figura ao lado apresenta
+o crescimento de uma
+população de acordo
+com a equação logística
+de Pearl-Verhulst.
+O resultado é tipicamente
+uma curva de formato
+sigmoidal, na qual N
+representa o número de
+indivíduos da população
+e K, a capacidade de
+suporte do ambiente.
+Qual das opções a seguir apresenta uma interpretação correta
+do significado dos parâmetros N e K no modelo?
+Se K for menor que N o termo (K— N/K) terá valor positivo,
+e poderá haver superpopulação.
+Quando K = N, a taxa de crescimento instantâneo da
+população é zero, e a população se estabiliza.
+Se K permanece maior do que N, então a população pára
+de crescer e corre o risco de extinção.
+K representa algum recurso natural, como, por exemplo,
+disponibilidade de alimento, caso em que é expresso em
+unidades do tipo kg/m?.
+O termo (K — N/K) representa o efeito da densidade sobre
+o crescimento da própria população, quando a área
+ocupada estiver aumentando.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="901,215 1091,215 1091,270 1552,270 1552,661 1553,661 1553,1052 1552,1052 1552,1376 1551,1376 1551,1581 1552,1581 1552,1682 1550,1682 1550,1815 1552,1815 1552,2111 1227,2111 1227,2112 902,2112 902,2113 902,1996 901,1996 901,1815 902,1815 902,1682 901,1682 901,1163 1216,1163 1216,1053 902,1053 902,1054 901,1054 901,663 900,663 900,270 901,270"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>QUESTÃO 17
+Em 1985, foram contabilizados 8.959 registros
+de leishmaniose visceral desde os primeiros casos
+identificados por Henrique Penna em 1932. No
+entanto, esse quadro se agravou. O Ministério da
+Saúde registrou, no período compreendido entre 1990
+e 2007, 53.480 casos e 1.750 mortes. A leishmaniose
+visceral está mais agressiva. Matava três de cada cem
+pessoas que a contraíam em 2000. Hoje mata sete.
+Além disso, foi considerada por muito tempo um
+problema exclusivamente silvestre ou restrito às áreas
+rurais do Brasil. Não é mais. Nas últimas três décadas,
+desde que as autoridades da saúde começaram a
+identificar casos contraídos nas cidades, a
+leishmaniose visceral urbanizou-se e se espalhou por
+quase todo o território nacional. A chegada do
+mosquito-palha às cidades foi acompanhada de um
+complicador. Com a sombra e a terra fresca dos
+quintais, o inseto encontrou uma formidável fonte de
+sangue que as pessoas gostam de manter ao seu
+lado: o cão, que contrai a infecção facilmente e se
+torna tão debilitado quanto seus donos.
+Uma doença anunciada /nº Pesquisa
+FAPESP, n.º 151, set./2008 (com adaptações)
+A prefeitura de um município composto por uma
+cidade de médio porte, zona rural e áreas de mata
+nativa, solicitou a um biólogo que elaborasse um plano
+de ação para evitar o avanço da leishmaniose visceral
+em sua região. O plano elaborado sugeria várias
+ações.
+Considerando o texto e a situação hipotética acima
+apresentados, seria inadequada a ação que
+propusesse
+O adotar medidas de proteção contra as picadas do
+mosquito para trabalhadores que adentrem áreas
+de floresta próxima da cidade.
+O controlar a população de cães domésticos,
+incluindo a eutanásia de animais infectados em
+áreas com alta incidência de casos.
+O implementar sistema de coleta e tratamento de
+esgotos nas áreas em que houvesse alta
+incidência de casos.
+O controlar o desmatamento em áreas naturais
+próximas da área urbana da cidade em questão.
+O promover medidas educativas da população,
+principalmente em relação aos hábitos do
+mosquito transmissor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

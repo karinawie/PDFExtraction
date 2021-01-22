@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:01:34</Created>
+	<LastChange>2020-10-25T19:34:22</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="857,207 858,2141 861,2141 860,207"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="101,215 291,215 291,280 669,280 669,352 767,352 767,460 847,460 847,1091 846,1091 846,1129 845,1129 845,1351 847,1351 847,1550 845,1550 845,1805 817,1805 817,1840 456,1840 456,1912 277,1912 277,2036 285,2036 285,2075 323,2075 323,2140 153,2140 153,2135 101,2135 101,1958 102,1958 102,1882 140,1882 140,1708 141,1708 141,1591 102,1591 102,1306 101,1306 101,1092 100,1092 100,460 180,460 180,352 278,352 278,244 101,244"/>
+	<TextEquiv conf="0.96387">
+	<Unicode>QUESTÃO 23
+Resposta em poucos minutos
+Aparelho portátil mede hemoglobina e permite o
+diagnóstico da anemia em tempo real.
+Um método simples e prático para avaliação de anemia,
+composto de um aparelho portátil que mede a concentração
+de hemoglobina no sangue e instantaneamente dá o resultado,
+está em fase final de validação. A hemoglobina, proteína
+existente nas hemácias e no plasma, responsável pelo
+transporte de oxigênio, é o principal parâmetro utilizado para
+indicação da falta de ferro no organismo. Uma picada no dedo
+é suficiente para retirar o sangue com uma pipeta, que em
+seguida é transferido para uma ampola com reagente. Depois
+de o conteúdo líquido estar homogêneo, a ampola é encaixada
+em um espaço apropriado no equipamento. A leitura é feita por
+um fotômetro, composto por um diodo emissor de luz, ou LED
+(da sigla em inglês /ight emitting diode), na cor verde —
+comprimento de onda que a molécula de hemoglobina absorve
+— e de um detector de luz do outro lado. Pela quantidade de
+luz que é absorvida, é possível dosar a quantidade de
+hemoglobina na amostra. A leitura dos padrões de
+hemoglobina é feita por um chip.
+Revista FAPESP (com adaptações)
+O feixe de luz absorvido pode sofrer refração e/ou
+transmissão. Supondo que, nessa técnica, a ampola utilizada
+não tenha influência no resultado obtido, julgue os itens
+seguintes.
+| A velocidade do feixe de luz transmitido para o interior da
+ampola diminui, e, como resultado, esse feixe pode ser
+desviado da sua trajetória ao atingir o fluido. Esse
+fenômeno, denominado refração, é caracterizado pelo
+índice n, definido como a razão entre a velocidade da luz
+no vácuo e a velocidade da luz nesse meio.
+Il Diferentemente da absorção do feixe na ampola, o índice
+de refração do material fluido independe do comprimento
+de onda do feixe.
+Independentemente do ângulo de incidência, nenhuma
+fração do feixe de luz incidente é refletida ao passar do
+meio externo (ar) para o meio interno (fluido) na ampola, já
+que os meios são transparentes e o fenômeno de reflexão
+independe dos índices de refração de ambos os meios.
+É correto o que se afirma em
+O |, apenas.
+O |, apenas.
+O Ill, apenas.
+O lell, apenas.
+O lelll, apenas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="886,215 1077,215 1077,282 1362,282 1362,379 1521,379 1521,427 1546,427 1546,523 1562,523 1562,1772 1371,1772 1371,1820 1120,1820 1120,2120 886,2120 886,1820 885,1820 885,1794 886,1794 886,1408 885,1408 885,523 899,523 899,244 886,244"/>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO 24
+Banho de luz preciso
+Dispositivo eletrônico monitora dose de radiação
+usada no tratamento de icterícia em recém-nascidos.
+A icterícia é um problema que atinge entre 60% e
+80% dos neonatos no mundo e está relacionada à falta
+de maturidade do fígado, incapaz de metabolizar a
+bilirrubina, um pigmento normal, de cor amarelada,
+gerado pelo metabolismo das células vermelhas do
+sangue. A principal terapia em uso para icterícia é a
+fototerapia, com a exposição do recém-nascido a uma
+fonte luminosa equipada com lâmpadas fluorescentes,
+incandescentes halógenas ou LEDs azuis. A eficiência
+do tratamento é diretamente proporcional à quantidade
+de energia luminosa que incide sobre o bebê e à área de
+sua superfície corporal exposta a essa radiação.
+Para o controle e o monitoramento dessa luz
+sobre o recém-nascido, foi desenvolvido um dosímetro
+de radiação feito com uma solução de polímeros
+luminescentes conhecidos como meh-ppv. O dispositivo
+funciona a partir da mudança de cor dessa solução em
+razão do tempo de exposição à radiação. O material
+luminescente é capaz de absorver energia e, em
+seguida, reemitir luz visível.
+Revista FAPESP (com adaptações)
+Considerando que esse novo dispositivo funcione com
+luz visível, cujo comprimento de onda A está entre
+04 um e 077 um, que a velocidade da luz
+c = 3,0x10º m/s e que a constante de Planck
+h=41x10" eV:s, é correto afirmar que o dispositivo
+funciona com radiação de energia entre
+O 0e018ev.
+O 018e0,31eV.
+O 031e18eV.
+O 18e31eV.
+O 18e3leV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

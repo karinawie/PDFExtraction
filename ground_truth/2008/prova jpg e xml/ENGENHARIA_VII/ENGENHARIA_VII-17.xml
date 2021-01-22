@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:07:17</Created>
+	<LastChange>2020-10-25T20:21:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="132,280 132,589 742,589 742,280"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="145,1286 145,1542 763,1542 763,1286"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="786,212 786,2151 788,2151 788,212"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,220 294,220 294,624 774,624 774,1150 772,1150 772,1571 774,1571 774,1647 668,1647 668,1797 590,1797 590,2064 497,2064 497,2115 154,2115 154,2064 104,2064 104,1797 103,1797 103,1671 143,1671 143,1251 142,1251 142,1100 105,1100 105,800 102,800 102,774 103,774 103,624 104,624"/>
+	<TextEquiv conf="0.95417">
+	<Unicode>QUESTÃO 33
+O guindaste representado na figura acima exerce uma
+força de 50 kN por intermédio do cabo flexível. Com
+relação ao momento provocado por essa força no ponto
+A, julgue os próximos itens.
+| O momento no ponto A, provocado pela força
+de 50 kN, pode ser calculado pelo produto da
+força aplicada pelo comprimento do braço do
+guincho (3 m).
+1 O momento no ponto A pode ser obtido
+considerando-se as projeções ortogonais da força
+de 50 kN relativamente ao sistema de eixos xOy,
+esquematizadas na figura abaixo.
+O momento de uma força em relação a um ponto
+pode ser obtido somando-se os momentos das
+projeções em relação ao ponto em análise.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+o
+o
+O Apenas os itens | e Ill estão certos.
+O Apenas os itens || e Ill estão certos.
+e
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="814,220 1004,220 1004,267 1551,267 1551,529 1550,529 1550,1131 814,1131 814,650 813,650 813,267 814,267"/>
+	<TextEquiv conf="0.96757">
+	<Unicode>QUESTÃO 34
+Em 1824 um jovem engenheiro francês chamado Sadi
+Carnot concebeu uma máquina térmica ideal, cujo rendimento
+era calculado por:
+ne1t- T, Te
+Ta T,
+em que n é o rendimento de Carnot (grandeza adimensional);
+T;é atemperatura do depósito do calor não aproveitado (fonte
+fria), em kelvin, K; e T, é a temperatura da fonte de calor
+(fonte quente), em K.
+Com base no conceito de máquina térmica ideal, assinale a
+opção correta.
+O Éimpossível obter-se um rendimento de 100% para uma
+máquina térmica, visto que não se pode atingir o zero
+absoluto de temperaturas.
+O A temperatura média dos possíveis depósitos de calor,
+embora seja aproximadamente 27 ºC, não impõe
+limitação fundamental ao rendimento de Carnot.
+O É possível obter-se um rendimento de 100% para uma
+máquina térmica, visto que se pode atingir o zero
+absoluto de temperaturas.
+O A diminuição do rendimento, ao aumentar T, explica
+porque um avião tem menor dificuldade para alçar vôo
+em um dia especialmente quente.
+O Emvirtude da Segunda Lei da Termodinâmica, é evitável
+que se perca algo de calor em toda máquina térmica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="814,1163 1004,1163 1004,1210 1550,1210 1550,1851 1121,1851 1121,1954 1300,1954 1300,2113 814,2113 814,1918 813,1918 813,1892 852,1892 852,1580 815,1580 815,1516 811,1516 811,1210 814,1210"/>
+	<TextEquiv conf="0.96392">
+	<Unicode>QUESTÃO 35
+Recentemente, no Brasil, muita atenção vem sendo dada a
+produção de biodiesel. A produção de biocombustíveis, seja
+de biomassa sólida, como lenha ou carvão vegetal, ou
+líquidos, como o bio-etanol produzidos de cana-de-açúcar,
+óleo de dendê ou biodiesel produzido pela esterificação de
+óleos vegetais com metanol ou etanol, pode ter várias
+justificativas econômicas, sociais e ambientais. As vantagens
+ambientais do uso de biocombustíveis líquidos para veículos
+vêm de duas possíveis fontes. Acerca dessas vantagens,
+julgue os itens a seguir.
+| A possível mitigação das emissões de gases ou partículas
+pelos veículos que são diretamente prejudiciais à saúde
+humana ou ao meio ambiente, como monóxido de
+carbono, hidrocarbonetos e óxidos de enxofre e nitrogênio.
+A mitigação das emissões dos gases do chamado efeito
+estufa, principalmente o dióxido de carbono (CO,).
+A possibilidade de captar recursos internacionais por meio
+do Mecanismo de Desenvolvimento Limpo (MDL) ou Clean
+Development Mechanism (CDM) do Acordo de Quioto, ou
+do mercado internacional de créditos de carbono.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e || estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cooçcgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

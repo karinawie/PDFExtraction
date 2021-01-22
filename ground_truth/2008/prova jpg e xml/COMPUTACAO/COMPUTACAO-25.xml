@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:11:48</Created>
+	<LastChange>2020-09-22T22:11:48</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-25.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="101,209 494,209 494,293 1435,293 1435,559 1434,559 1434,756 1435,756 1435,835 1434,835 1434,966 1552,966 1552,1095 100,1095 100,966 220,966 220,837 219,837 219,757 220,757 220,601 219,601 219,575 220,575 220,295 219,295 219,238 102,238 102,239 101,239"/>
+	<TextEquiv conf="0.93577">
+	<Unicode>QUESTÃO 59 — Discursiva
+No projeto de sistemas de tempo real, normalmente são atribuídas prioridades às tarefas.
+Escalonadores orientados à preempção por prioridade são utilizados para ordenar a execução de
+tarefas de modo a atender seus requisitos temporais. Inversão de prioridade é o termo utilizado
+para descrever a situação na qual a execução de uma tarefa de mais alta prioridade é suspensa em
+benefício de uma tarefa de menor prioridade. A inversão de prioridade pode ocorrer quando tarefas
+com diferentes prioridades necessitam utilizar um mesmo recurso simultaneamente. A duração
+desta inversão pode ser longa o suficiente para causar a perda do deadline das tarefas suspensas.
+Protocolos de sincronização em tempo real auxiliam limitando e minimizando a inversão de
+prioridades.
+Considere o conjunto de três tarefas com as seguintes características:
+I T,tem prioridade 1 (mais alta), custo de execução total de 6 ut (unidades de tempo) e instante
+de chegada t, = 6. A partir de seu início, após executar durante 1 ut, essa tarefa necessita do
+recurso compartilhado R, durante 2 ut. Para concluir, utiliza o recurso compartilhado R, durante
+2 ut finais.
+1 T,tem prioridade 2, custo de execução total de 8 ut e instante de chegada t, = 3. A partir de
+seu início, após executar durante 2 ut, a tarefa necessita do recurso compartilhado R2
+durante 2 ut.
+II T; tem prioridade 3 (mais baixa), custo total de execução de 12 ut e instante de chegada
+t; = O. A partir de seu início, após executar durante 2 ut, essa tarefa necessita do recurso
+compartilhado R, durante 2 ut.
+A partir dessas informações, desenhe a(s) linha(s) de tempo(s) para que um escalonamento dessas três tarefas em um
+único processador seja possível, utilizando-se o protocolo de herança de prioridade.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

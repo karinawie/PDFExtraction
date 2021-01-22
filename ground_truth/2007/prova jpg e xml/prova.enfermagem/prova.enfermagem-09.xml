@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T03:33:32</Created>
+	<LastChange>2020-09-22T03:33:45</LastChange></Metadata>
+	<Page imageFilename="prova.enfermagem-09.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="342,344 342,810 1315,810 1315,344"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="331,847 331,1210 1286,1210 1286,847"/></TableRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords points="60,249 714,249 714,1232 1186,1232 1186,1288 1556,1288 1556,1380 1555,1380 1555,1641 1554,1641 1554,1706 1055,1706 1055,1761 246,1761 246,1971 57,1971 57,1793 60,1793 60,1734 61,1734 61,324 60,324"/>
+	<TextEquiv conf="0.96153">
+	<Unicode>QUESTÃO 11
+Considere o gráfico, a tabela e as afirmações abaixo:
+No período, o percentual da população com acesso a rede geral de abastecimento de água
+melhorou em todas as regiões do país. O acesso da população a esse serviço, traduz-se na redução da incidência
+de doenças de transmissão hídrica e, consequentemente, em menor número de óbitos no componente tardio do
+CMI, que diminuiu de uma maneira geral em todo o país.
+aumentou 7% e 18%, respectivamente, nas regiões Norte e Sudeste. Na região Sudeste, o CMI passou de 57,7
+para 22,2. Os dados sugerem que o acesso da população a esse serviço é um dos fatores que pode ser
+associado à queda do Coeficiente de Mortalidade Infantil.
+foi semelhante nas regiões Centro-Oeste e Nordeste, porém a queda da mortalidade infantil foi mais acentuada na
+região Nordeste. Os dados indicam que o acesso da população a esse serviço não interfere na mortalidade
+infantil.
+foi menor na região Sul e maior nas regiões Norte e Nordeste, comparado com as outras regiões. Os dados
+revelam que o CMI está diretamente relacionado com o acesso da população a esse serviço, porque o Coeficiente
+decresceu nas três regiões.
+Com relação aos dados apresentados, está correto APENAS o que se afirma em
+(A) IV.
+(B) III e IV.
+(C) II.
+(D) I e II.
+(E) I.</Unicode></TextEquiv></TextRegion></Page></PcGts>

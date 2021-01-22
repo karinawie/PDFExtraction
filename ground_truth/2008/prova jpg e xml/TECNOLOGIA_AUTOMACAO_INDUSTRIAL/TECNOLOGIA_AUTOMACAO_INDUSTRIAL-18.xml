@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T15:52:31</Created>
+	<LastChange>2021-01-19T15:08:48</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="277,274 277,445 1405,445 1405,274"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="48,645 48,2131 1600,2131 1600,645"/></ImageRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="80,187 493,187 493,224 1332,224 1332,484 1572,484 1572,517 1573,517 1573,588 644,588 644,623 80,623 80,548 79,548 79,522 80,522"/>
+	<TextEquiv conf="0.96407">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+O sistema de medição de vazão de um processo industrial pode ser representado pelo diagrama abaixo.
+Nesse sistema, a medição de vazão é feita por um sensor que, a partir do circuito apresentado a seguir, gera uma corrente I
+entre 4 mA a 20 mA, proporcional à vazão no processo. Sabe-se que a variável vazão (Q) está numa faixa entre 0 e 8 m3/s
+(range). A tensão sobre a resistência R
+p
+(250 ± 1%) é filtrada e amplificada, sendo aplicada a uma placa de aquisição de
+sinais, conforme esquema apresentado abaixo.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

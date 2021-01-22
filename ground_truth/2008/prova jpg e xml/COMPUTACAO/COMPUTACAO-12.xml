@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:24:47</Created>
+	<LastChange>2020-11-17T02:28:30</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r11">
+	<Coords points="834,207 836,1747 840,1747 838,207"/></SeparatorRegion>
+	<ImageRegion id="r12">
+	<Coords points="934,272 934,658 1484,658 1484,272"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="128,271 128,508 468,508 468,271"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="102,697 102,1482 742,1482 742,697"/></ImageRegion>
+	<TableRegion id="r4">
+	<Coords points="494,282 494,508 811,508 811,282"/></TableRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="865,215 1054,215 1054,708 1554,708 1554,853 1553,853 1553,1746 1235,1746 1235,1747 916,1747 916,1748 915,1748 915,949 914,949 914,935 864,935 864,709 863,709 863,708 864,708 864,216 865,216"/>
+	<TextEquiv conf="0.96707">
+	<Unicode>QUESTÃO 25
+A figura acima ilustra uma imagem binária com pixels
+brancos formando retas sobre um fundo preto. Com
+relação à aplicação de transformadas sobre essa
+imagem, assinale a opção correta.
+O A transformada de Fourier, quando aplicada à
+imagem descrita, produz como resultado um mapa de
+frequências que equivale ao histograma dos níveis de
+cinza das retas presentes.
+A transformada de Hadamard da imagem
+apresentada tem resultado equivalente à aplicação
+de um filtro passa-baixas, o que destaca as retas
+existentes.
+Ao se aplicar a transformada da distância à imagem
+binária, considerando pixels brancos como objetos,
+são geradas as distâncias entre as retas presentes e
+o centro da imagem, o que permite identificar as
+equações das retas formadas na imagem.
+O uso da transformada dos cossenos produz uma
+lista dos coeficientes lineares e angulares das
+diversas retas existentes nessa imagem binária.
+O resultado da aplicação da transformada de Hough
+usando parametrização de retas é um mapa cujos
+picos indicam os pixels colineares, permitindo que
+sejam identificados coeficientes que descrevem as
+diversas retas formadas na imagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="104,215 294,215 294,547 824,547 824,671 411,671 411,1577 488,1577 488,1613 575,1613 575,1649 590,1649 590,1741 154,1741 154,1742 153,1742 153,1741 104,1741 104,1537 103,1537 103,672 101,672 101,547 104,547"/>
+	<TextEquiv conf="0.96783">
+	<Unicode>QUESTÃO 24
+Considere o bloco decodificador ilustrado acima, o qual
+opera segundo atabela apresentada. Em cada item a seguir,
+julgue se a função lógica mostrada corresponde ao circuito
+lógico a ela associado.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+coogcgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

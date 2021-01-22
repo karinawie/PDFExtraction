@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:23:36</Created>
+	<LastChange>2021-01-19T11:47:37</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-50.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="81,183 1573,183 1573,281 1200,281 1200,282 909,282 909,437 1522,437 1522,468 1213,468 1213,708 836,708 836,709 458,709 458,710 81,710 81,711 80,711 80,184 81,184"/>
+	<TextEquiv conf="0.96229">
+	<Unicode>QUESTÃO 73
+Uma cidade é servida por uma rede coletora de esgotos sanitários tipo separador absoluto. No levantamento efetuado em uma
+área piloto, obtiveram-se as seguintes informações:
+* População urbana efetivamente ligada à rede coletora = 20.000 hab
+* Volume médio diário de esgotos = 3.600 m? /dia
+. DBO; 29 média diária = 300 mg/l
+* Asindústrias nessa cidade contribuem com uma vazão de esgoto de 135 mº/dia com concentração de DBO = 1.000 mg//
+Qual a população equivalente (EP) das indústrias, no que diz respeito à produção de DBO; 25?
+(A) 12.500 pessoas
+(B) 10.000 pessoas
+(C) 7.500 pessoas
+(D) 5.000 pessoas
+(E) 2.500 pessoas</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="491,880 491,1382 1122,1382 1122,880"/></TableRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="81,746 1573,746 1573,845 1200,845 1200,846 927,846 927,1698 1572,1698 1572,1756 1200,1756 1200,1757 827,1757 827,1758 454,1758 454,1759 225,1759 225,1942 74,1942 74,1757 79,1757 79,1490 80,1490 80,747 81,747"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 74
+Os resultados de um ensaio de adensamento executado em uma amostra de solo coletada no meio de uma camada de argila
+mole de 5 m de espessura estão apresentados na tabela a seguir.
+Considerações:
+Tensão total constante com o tempo, após a execução do aterro.
+Peso específico saturado médio da camada de argila mole = 15 kN/m?
+Nível d'água superficial — no nível do terreno natural
+Peso específico do aterro = 18,7 kN/m?
+Peso específico da água = 10 kN/m?
+Qual será o recalque primário médio, ao final do adensamento dessa camada de argila mole, em virtude da construção de um
+aterro de 2 m de espessura sobre essa camada?
+(A) 80 cm
+(B) 62 cm
+(C) 40 cm
+(D) 37 cm
+(E) 20 cm</Unicode></TextEquiv></TextRegion></Page></PcGts>

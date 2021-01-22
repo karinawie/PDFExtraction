@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:33:49</Created>
+	<LastChange>2020-10-26T12:46:49</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="491,1211 491,1625 1122,1625 1122,1211"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,209 294,209 294,266 1552,266 1552,428 1346,428 1346,521 343,521 343,769 278,769 278,821 155,821 155,816 104,816 104,769 155,769 155,665 154,665 154,521 104,521 104,431 103,431 103,266 104,266"/>
+	<TextEquiv conf="0.90921">
+	<Unicode>QUESTÃO 36
+Após realizar uma análise de mercado em busca de soluções para aprimorar o seu negócio, uma empresa adquiriu
+um sistema de ERP (enterprise resource planning) contendo um conjunto de módulos que integra todos os departamentos
+existentes. Após um ano de utilização, houve uma mudança na legislação e, para atender as novas exigências, foi
+necessária uma manutenção no sistema ERP.
+Considerando essa situação hipotética, é correto afirmar que a empresa irá realizar uma manutenção
+corretiva.
+adaptativa.
+o
+o
+O aperfeiçoadora.
+O preventiva.
+e
+perfectiva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="104,890 294,890 294,946 1552,946 1552,1195 1070,1195 1070,1196 1035,1196 1035,1734 1552,1734 1552,1951 1347,1951 1347,2003 1209,2003 1209,2055 104,2055 104,1666 103,1666 103,946 104,946"/>
+	<TextEquiv conf="0.96376">
+	<Unicode>QUESTÃO 37
+As comunicações de um software cliente com o respectivo servidor instalado em um equipamento em uma LAN
+(local area network) apresentam lentidão. Após várias reclamações dos usuários, o responsável pelo software e o gerente
+de redes foram convocados para analisar o problema. A partir de uma análise da topologia da rede, foi identificado que
+o departamento possuía 45 microcomputadores clientes na mesma LAN, interligados ao servidor por meio de um único
+hub, conforme ilustrado na figura a seguir. Concluiu-se que o problema de lentidão estava relacionado ao elevado número
+de colisões na LAN.
+servidor
+A solução correta para esse problema hipotético é a substituição do hub por
+O outros4 hubs interligados contendo, cada um, menos portas de conexão, o que resultaria na diminuição do volume
+de colisões na LAN e aumentaria o desempenho da rede.
+o
+um switch, que permitiria a diminuição do volume de colisões e uma melhoria no desempenho da rede.
+O um switch, que traria benefícios relacionados ao desempenho da rede, uma vez que o número de colisões
+permaneceria inalterado.
+o
+um switch, que diminuiria o desempenho da rede, uma vez que aumentaria o volume de colisões.
+O um switch, que aumentaria o volume de colisões e melhoraria o desempenho da rede.</Unicode></TextEquiv></TextRegion></Page></PcGts>

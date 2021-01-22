@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:37:55</Created>
+	<LastChange>2020-09-23T01:38:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-26.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="488,322 488,545 1128,545 1128,322"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="165,1600 165,1920 1002,1920 1002,1600"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,183 1572,183 1572,283 697,283 697,730 836,730 836,797 1573,797 1573,896 1451,896 1451,1076 892,1076 892,1203 874,1203 874,1320 1482,1320 1482,1346 709,1346 709,1549 1030,1549 1030,1575 80,1575 80,1549 264,1549 264,1346 79,1346 79,1320 195,1320 195,1203 80,1203 80,1121 79,1121 79,797 80,797"/>
+	<TextEquiv conf="0.96088">
+	<Unicode>QUESTÃO 40 - DISCURSIVA
+Um engenheiro foi encarregado de dimensionar um pavimento rodoviário, constituído das camadas mostradas na figura abaixo,
+utilizando o Método de Projeto de Pavimentos Flexíveis adotado pelo DNIT.
+Onde:
+R = espessura do revestimento (concreto asfáltico);
+B = espessura da base (brita graduada);
+SB = espessura da sub-base (solo granular com CBR &gt; 20%).
+O pavimento deverá ser dimensionado para um período de projeto (vida útil) igual a 10 anos, sabendo-se que o tráfego
+inicial estimado na rodovia é N = 5 x 10º (operações do eixo padrão de 8,2 ton) e que a taxa anual de crescimento do tráfego
+é 10% (linear).
+Segundo o método adotado, as espessuras das camadas do pavimento devem satisfazer as seguintes condições:
+R.Kg +B.Kg &gt; ha,
+R.Kp +B.Kg +SB.Kgãg &gt;hsg
+onde:
+Ka Kg e Kg 7 coeficientes estruturais das camadas do pavimento;
+h,, = espessura total do pavimento acima da sub-base;
+ha = espessura total do pavimento acima do subleito.
+A espessura do revestimento deve ser determinada em função do tráfego total durante o período de projeto, dada por:
+N&lt;108 o R=5cm
+10º &lt;N&lt;10/ o R=7,5 cm
+N&gt;100 nn R=10cm
+Os coeficientes estruturais das camadas podem ser obtidos na tabela a seguir.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:29:33</Created>
+	<LastChange>2020-10-25T18:40:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-25.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="851,272 1041,272 1041,316 1573,316 1573,441 1418,441 1418,508 1399,508 1399,607 1337,607 1337,608 861,608 878,608 878,475 852,475 852,441 851,441"/>
+	<TextEquiv conf="0.96156">
+	<Unicode>QUESTÃO 41
+Na indústria de alimentos são utilizados processos que
+aumentam a vida útil dos produtos. Quais dos processos
+abaixo utilizam a aplicação de calor como forma de
+conservação?
+(A) Membrana e irradiação.
+B) Alta pressão e campos elétricos pulsantes.
+C) Pasteurização e esterilização.
+D) Defumação e congelamento.
+E) Liofilização e radiações eletromagnéticas.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="140,1160 140,1582 725,1582 725,1160"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="820,180 820,2157 831,2157 831,180"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,187 272,187 272,230 803,230 803,256 795,256 795,327 517,327 517,351 453,351 453,377 367,377 367,378 167,378 167,504 279,504 279,650 800,650 800,971 803,971 803,1153 800,1153 800,1657 801,1657 801,1728 802,1728 802,1823 801,1823 801,1995 587,1995 587,2154 334,2154 334,2155 81,2155 81,2156 80,2156 80,1153 79,1153 79,971 94,971 94,439 80,439 80,188 81,188"/>
+	<TextEquiv conf="0.72467">
+	<Unicode>QUESTÃO 40
+Considere a equação básica para taxa de filtração em tortas
+incompressíveis e operação a pressão constante já integrada
+K,V
+t K, +B
+V 2
+em que
+K = uac,
+bp A? (ap)
+uR
+B="—— Mm.
+A(-4p)
+V = volume de filtrado coletado no tempo t
+nu = viscosidade do filtrado
+a = resistência específica da torta
+c, = fração mássica de sólidos na suspensão a ser filtrada
+Ap = queda de pressão na torta
+R,, = resistência do meio filtrante para o fluxo filtrado
+Realiza-se um ensaio de filtração em laboratório usando uma
+suspensão real a ser filtrada em uma indústria, em condições
+tão próximas quanto possível das condições encontradas na
+operação industrial, e obtém-se o volume de filtrado coletado
+durante o processo de filtração em determinados intervalos
+de tempo. Os dados estão representados no gráfico a seguir.
+Com base nessas informações, analise as afirmações a seguir.
+| - Conhecendo-se o valor da pressão, da área de filtração e
+da temperatura do ensaio, é possível calculara .
+ll - OvalordeR , é determinado a partir do valor da pressão,
+da área de filtração, da viscosidade do filtrado, da tempe-
+ratura do ensaio e das informações anteriores.
+Ill - Conhecendo-se o valor da pressão e de K , é possível
+calcular o tempo para coletar um determinado volume de
+filtrado.
+IV - O valor de B é calculado considerando o valor previsto
+pelo modelo para V= O.
+Estão corretas APENAS as afirmações
+(A) lelll (B) le IV
+(C) Ile (D) Ile IV
+(E) INelV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="852,648 1045,648 1045,691 1573,691 1573,891 1574,891 1574,951 1573,951 1573,1148 1354,1148 1354,1251 965,1251 965,1357 971,1357 971,1378 901,1378 901,1379 900,1379 900,1384 852,1384 852,1191 854,1191 854,972 853,972 853,746 851,746 851,649 852,649"/>
+	<TextEquiv conf="0.96573">
+	<Unicode>QUESTÃO 42
+Considere as afirmações a seguir, a respeito de compo-
+nentes de alimentos.
+| - O fenômeno conhecido como rancificação lipolítica ou
+hidrolítica é causado pela ação de determinadas enzimas
+que rompem a ligação éster dos lipídeos.
+Il - Todos os polissacarídeos formam soluções viscosas por
+serem pequenas moléculas.
+Ill - A vitamina C (ácido ascórbico) é encontrada fundamen-
+talmente em frutas e hortaliças e seu conteúdo em
+alimentos de origem animal é muito baixo.
+IV- A geleificação de proteínas consiste na formação de
+uma rede protéica desordenada a partir de proteínas
+previamente desnaturadas.
+Está correto APENAS o que se afirma em
+(A) lell
+B) lelll
+(C) Ile
+(D) Ile IV
+(E) IelV</Unicode></TextEquiv></TextRegion></Page></PcGts>

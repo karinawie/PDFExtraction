@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:27:46</Created>
+	<LastChange>2020-09-23T01:28:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-45.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="62,845 62,1237 1531,1237 1531,845"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="494,1571 494,1934 1208,1934 1208,1571"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,185 80,186 273,186 273,228 1573,228 1573,565 1486,565 1486,686 80,686 80,324 79,324 79,228 80,228"/>
+	<TextEquiv conf="0.93360">
+	<Unicode>QUESTÃO 63
+O pH (potencial hidrogeniônico) é um dos parâmetros químicos da água, e representa a concentração de íons hidrogênio (H*),
+dando uma indicação sobre a condição de acidez, neutralidade ou alcalinidade da água. Em relação ao pH, analise as
+afirmativas a seguir.
+| - Valores de pH afastados da neutralidade afetam os microrganismos responsáveis pelo tratamento biológico dos esgotos.
+Il - O pH baixo ocasiona corrosividade e agressividade nas tubulações e peças dos sistemas de abastecimento de água.
+Ill - O pH elevado possibilita incrustações nas tubulações e peças dos sistemas de abastecimento de água.
+IV- O pH é um nutriente essencial para o crescimento dos microorganismos responsáveis pela estabilização da matéria
+orgânica.
+Estão corretas APENAS as afirmativas
+(A)lell (B)llelll (C)lelV (D)l, Nell (E), MelV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,724 80,724 80,725 578,725 578,726 1076,726 1076,727 1573,727 1573,1407 79,1407"/>
+	<TextEquiv conf="0.95350">
+	<Unicode>QUESTÃO 64
+Uma barcaça tem 2L de largura, C de comprimento e flutua com um calado de H. A barcaça está carregada de tal forma que
+seu centro de gravidade G está exatamente sobre a linha d'água, conforme indica a figura a seguir.
+Sabendo que a distância do metacentro M ao centro de empuxo E é dada por ME = I/Volume submerso, a barcaça é
+estaticamente estável se
+(A) L&gt; H (B) L&lt;H (C) Lº &gt; 2Hº (D) L? &lt; 3H?/2 (E) Lº &gt; 3H?/2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,1478 80,1478 80,1479 524,1479 524,1480 969,1480 969,1481 1413,1481 1413,1542 919,1542 919,2049 1076,2049 1076,2050 1573,2050 1573,2149 79,2149 79,2049 80,2049 80,1542 79,1542"/>
+	<TextEquiv conf="0.90517">
+	<Unicode>QUESTÃO 65
+Afigura apresenta um aqúuífero livre, estratificado com dois perfis homogêneos ligando os corpos de água X e Y.
+Dado: Lei de Darcy: Q/A=V=K.Ah/AL
+Despreze uma eventual descontinuidade na velocidade entre os perfis.
+O fluxo horizontal por unidade de largura do aquífero, em mº/dia/m, com base nos coeficientes de permeabilidade, nos
+comprimentos dos extratos permeáveis e nas alturas de lâmina d'água apresentados, é
+(A) 24 (B) 2,6 (C) 2,8 (D) 3,0 (E) 3,2</Unicode></TextEquiv></TextRegion></Page></PcGts>

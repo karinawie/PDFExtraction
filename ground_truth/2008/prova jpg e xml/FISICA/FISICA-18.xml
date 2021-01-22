@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:29:24</Created>
+	<LastChange>2021-01-19T14:03:16</LastChange></Metadata>
+	<Page imageFilename="FISICA-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="80,1440 80,1441 273,1441 273,1482 1573,1482 1573,1674 1460,1674 1460,1708 443,1708 443,1745 441,1745 441,1874 442,1874 442,1905 90,1905 90,1865 89,1865 89,1745 80,1745 80,1674 79,1674 79,1482 80,1482"/>
+	<TextEquiv conf="0.96746">
+	<Unicode>QUESTÃO 32
+Num dia de chuva, uma nuvem eletricamente carregada pode se descarregar produzindo relâmpagos. Uma nuvem típica se
+encontra a uma altura de 5.000 m do solo, com uma diferença de potencial de 10 milhões de volts em relação ao solo. Em um
+laboratório, uma estudante de Física realiza uma experiência para medir a rigidez dielétrica do ar seco usando um capacitor de
+placas planas e paralelas cuja distância entre as placas pode ser variada. Mantendo uma diferença de potencial constante
+entre as placas e iguais a 24 kV, a estudante diminui lentamente a distância entre elas até que, na distância de 0,8 cm,
+observa uma centelha no ar entre as placas.
+Quais são os valores do campo elétrico entre a nuvem e o solo e da rigidez dielétrica do ar seco, respectivamente?
+(A) 2,0 kV/Im e 3,0 x 106º V/m
+B) 2,0 kKV]/m e 1,9x 10º V/m
+C) 5,0 kV/m e 3,0 x 10º V/m
+D) 10 kKV)Im e 3,0x10º V/m
+E) 20 ky/m e 1,9x106 V/m</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="391,360 391,880 1274,880 1274,360"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="80,270 81,270 81,271 563,271 563,272 1045,272 1045,273 1526,273 1526,912 1572,912 1572,971 1327,971 1327,1097 1131,1097 1131,1171 245,1171 245,1417 60,1417 60,1202 80,1202"/>
+	<TextEquiv conf="0.96028">
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

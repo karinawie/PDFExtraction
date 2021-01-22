@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:59:49</Created>
+	<LastChange>2020-10-25T19:28:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-22.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="836,220 836,2125 838,2125 838,220"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,1267 291,1267 291,1322 825,1322 825,1572 824,1572 824,2109 102,2109 102,1993 101,1993 101,1814 102,1814 102,1678 101,1678"/>
+	<TextEquiv conf="0.96712">
+	<Unicode>QUESTÃO 39
+A dureza de um material pode possuir mais de um
+significado. Em geral, para a maioria dos materiais, significa
+resistência à deformação e, para metais, essa propriedade
+é a medida de sua resistência à deformação plástica.
+Considerando a dureza à penetração como a de maior
+interesse para metais aplicáveis em engenharia, assinale a
+opção correta.
+O Dureza Brinell é a escala mais indicada para materiais
+de alta dureza.
+O Esferas de aço e carbeto de tungstênio são os
+penetradores mais indicados para se determinar a
+dureza Vickers.
+O No ensaio de dureza Rockwell, a profundidade da
+impressão, que é usada como base de medida, é
+causada pela pré-carga.
+O Para determinação de microdureza na escala Knoop,
+utiliza-se um penetrador de diamante de base quadrada.
+O Naescalade dureza Rockwell, podem ser usados como
+penetradores o cone de diamante de 120º ou esferas de
+aço, dependendo da faixa de dureza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="101,227 291,227 291,282 824,282 824,1218 102,1218 102,1097 101,1097 101,924 102,924 102,756 101,756"/>
+	<TextEquiv conf="0.96515">
+	<Unicode>QUESTÃO 38
+Os tratamentos térmicos apropriados em ligas
+metálicas possibilitam alterações substanciais nas suas
+propriedades mecânicas. É de fundamental importância ao
+engenheiro compreender, nos processamentos térmicos dos
+metais, os mecanismos presentes e suas correlações com
+o tempo, a temperatura e suas possíveis consequências nas
+propriedades previstas em projeto. Considerando os
+tratamentos térmicos convencionais utilizados na indústria
+metal-mecânica, assinale a opção correta.
+O O envelhecimento artificial é caracterizado pelo
+endurecimento por precipitação decorrente de
+envelhecimento à temperatura ambiente.
+O O recozimento pleno é caracterizado, para ligas
+ferrosas, pelo aquecimento da amostra até a
+temperatura de austenitização, seguido de resfriamento
+rápido.
+O Acementita globulizada, formada por lamelas alternadas
+de ferrita e cementita, é obtida pelo resfriamento rápido
+das ligas ferrosas.
+O Afase denominada martensita é formada quando ligas
+ferrosas austenitizadas são resfriadas lentamente.
+O Denomina-se recristalização a formação de um novo
+conjunto de grãos, livres de deformação, no interior de
+um material previamente deformado a frio.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="931,957 931,1394 1491,1394 1491,957"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="864,227 1054,227 1054,286 1550,286 1550,802 1548,802 1548,1429 1549,1429 1549,2124 864,2124 864,924 863,924 863,286 864,286"/>
+	<TextEquiv conf="0.96513">
+	<Unicode>QUESTÃO 40
+A resistência mecânica dos metais pode ser
+reduzida com o aumento da temperatura de ensaio.
+Tendo em vista que a mobilidade dos átomos aumenta
+com a temperatura, pode-se concluir que processos
+controlados por difusão têm efeito significativo nas
+propriedades mecânicas a temperaturas elevadas.
+Materials expostos a tensões em altas
+temperaturas, como, por exemplo, rotores de turbinas de
+aeronaves, linhas de vapor de alta pressão e paredes de
+reatores nucleares, sofrem deformações permanentes
+dependentes do tempo, denominadas fluência. Ensaios
+de fluência são realizados em altas temperaturas para
+caracterização mecânica a quente dos materiais.
+Considerando a curva típica de fluência apresentada na
+figura abaixo, assinale a opção correta.
+O Aconstância da taxa de fluência na fase secundária
+está relacionada ao equilíbrio entre os processos
+concorrentes de encruamento e recuperação.
+O Ensaios de fluência por compressão são mais
+apropriados para materiais dúcteis, pois, nesse caso,
+existirão amplificações de tensão e propagação de
+trincas.
+O Os parâmetros mais importantes do ensaio são as
+inclinações da porção terciária, conhecidas como
+taxas mínimas de fluência.
+O Oparâmetrode Larson-Miller permite a determinação
+do mecanismo predominante para um material
+específico.
+O O aumento da temperatura ou do nível de tensão no
+ensaio de fluência promove a redução da
+deformação inicialinstantânea e o aumento no tempo
+de vida até a ruptura.</Unicode></TextEquiv></TextRegion></Page></PcGts>

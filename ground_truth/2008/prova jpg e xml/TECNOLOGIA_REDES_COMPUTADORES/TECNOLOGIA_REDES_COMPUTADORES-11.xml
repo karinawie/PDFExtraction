@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T17:03:21</Created>
+	<LastChange>2021-01-19T15:14:21</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="817,177 817,2151 825,2151 825,177"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="77,1000 77,1445 805,1445 805,1000"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="860,1134 860,1582 1568,1582 1568,1134"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="80,183 273,183 273,225 802,225 802,670 692,670 692,807 217,807 217,836 135,836 135,840 113,840 113,842 80,842 80,749 81,749 81,321 79,321 79,225 80,225"/>
+	<TextEquiv conf="0.96467">
+	<Unicode>QUESTÃO 23
+A família de padrões IEEE 802 define protocolos e serviços
+para redes de computadores. Em relação aos padrões dessa
+família, considere as afirmações a seguir.
+I - O IEEE 802.3, comumente referenciado como Ethernet,
+é a solução mais popular para redes locais cabeadas da
+atualidade.
+II - Os padrões IEEE 802 organizam o nível de enlace do
+modelo de referência OSI em duas sub-camadas: LLC e
+MAC.
+III - O padrão IEEE 802.15.4, comumente referenciado como
+ZigBee, habilita comunicações sem fio em uma área de
+dimensões metropolitanas.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) I, apenas. (B) I e II, apenas.
+(C) I e III, apenas. (D) II e III, apenas.
+(E) I, II e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="851,183 1045,183 1045,224 1574,224 1574,883 852,883 852,184 851,184"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 25
+Considerando estações conectadas aos equipamentos de
+rede indicados, que modo de operação e que mecanismo de
+controle de acesso ao meio são possíveis no padrão IEEE
+802.3z (Gigabit Ethernet)?
+(A) Modo half-duplex, quando as estações estão conectadas
+a um concentrador (hub) e, nesse caso, é adotado o CSMA/
+CA como mecanismo de controle de acesso ao meio.
+(B) Modo half-duplex, quando as estações estão conectadas
+a um comutador (switch) e, nesse caso, é adotado o CSMA/
+CA como mecanismo de controle de acesso ao meio.
+(C) Modo full-duplex, quando as estações estão conectadas
+a um comutador (switch) ou concentrador (hub) e, nesse
+caso, não é necessário qualquer mecanismo de con-
+trole de acesso ao meio.
+(D) Modo full-duplex, quando as estações estão conectadas a
+um concentrador (hub) e, nesse caso, é adotado o CSMA/CD
+como mecanismo de controle de acesso ao meio.
+(E) Modo full-duplex, quando as estações estão conectadas
+a um comutador (switch) e, nesse caso, não é necessá-
+rio qualquer mecanismo de controle de acesso ao meio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="851,920 1045,920 1045,961 1574,961 1574,1628 1575,1628 1575,2141 851,2141 851,1120 849,1120 849,961 851,961"/>
+	<TextEquiv conf="0.96811">
+	<Unicode>QUESTÃO 26
+Durante a seleção de padrões de redes sem fio para um pro-
+jeto de rede corporativa, a figura abaixo foi encontrada em um
+“Guia de Seleção de Redes Sem Fio”, mostrando a relação
+aproximada entre o alcance espacial e a taxa de transmissão
+de algumas tecnologias de rede sem fio existentes.
+Adaptado de McCCULLAGH, M. J. Wireless Communications:
+Current and Future Technology
+Disponível em: http:/Mww.ria.ie/committees/pdfs/ursi/WirelessTech RIA.pdf.
+Acessado em 6/10/2008.
+Os padrões que se encaixam na figura acima para 1,2,3e4
+são, respectivamente,
+(A) IEEE 802.15.1 (Bluetooth), IEEE 802.15.4 (ZigBee), IEEE
+802.16 (WiMAX), IEEE 802.11 (Wi-Fi)
+(B) IEEE 802.15.4 (ZigBee), IEEE 802.15.1 (Bluetooth), IEEE
+802.11 (Wi-Fi), IEEE 802.16 (WiMAX)
+(C) IEEE 802.15.4 (ZigBee), IEEE 802.15.1 (Bluetooth), IEEE
+802.16 (WiMAX), IEEE 802.11 (Wi-Fi)
+(D) IEEE 802.15.4 (ZigBee), IEEE 802.11n (Wi-Fi MIMO), IEEE
+802.15.1 (Bluetooth), IEEE 802.11 (Wi-Fi)
+(E) IEEE 802.15.4 (ZigBee), IEEE 802.11a (Wi-Fi SGHz), IEEE
+802.16 (WiMAX), IEEE 802.11 (Wi-Fi)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="79,878 801,878 801,1471 802,1471 802,1642 803,1642 803,2144 81,2144 81,2145 80,2145 80,1610 81,1610 81,1573 103,1573 103,981 79,981"/>
+	<TextEquiv conf="0.96091">
+	<Unicode>QUESTÃO 24
+A figura abaixo apresenta o diagrama de duas redes locais
+interconectadas por uma ponte.
+Adaptado de STALLINGS, W. Redes e Sistemas de Comunicação
+de Dados. Rio de Janeiro: Campus. 2005. p. 211.
+Examinando o cenário apresentado na figura e considerando
+que não há perda de quadros, verifica-se que
+(A) os quadros que a ESTAÇÃO 1 envia para a ESTAÇÃO 4
+têm seus cabeçalhos MAC modificados ao passar pela
+PONTE.
+(B) os quadros que a ESTAÇÃO 1 envia para a ESTAÇÃO 2,
+em resposta a quadros na direção contrária, são replica-
+dos pela PONTE na LAN B.
+(C) os quadros que a ESTAÇÃO 1 envia para o endereço MAC
+de difusão (broadcast) não são replicados na LAN B.
+(D) a PONTE utiliza o endereço de destino do cabeçalho MAC
+dos quadros para aprender as estações pertencentes à
+LAN Ae à LAN B.
+(E) a PONTE é capaz de aprender quais estações perten-
+cem à LAN A e quais pertencem à LAN B e replicar os
+quadros apenas quando necessário.</Unicode></TextEquiv></TextRegion></Page></PcGts>

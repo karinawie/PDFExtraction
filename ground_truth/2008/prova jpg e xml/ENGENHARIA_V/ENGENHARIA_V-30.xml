@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:57:48</Created>
+	<LastChange>2020-10-25T19:20:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-30.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="833,225 836,2142 841,2142 838,225"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="1400,1408 1400,1042 1040,1042 1040,1408"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1540,1020 1540,517 888,517 888,1020"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,232 292,232 292,303 824,303 824,354 825,354 825,636 745,636 745,763 824,763 824,789 466,789 466,917 824,917 824,1338 825,1338 825,1479 826,1479 826,1569 824,1569 824,2091 294,2091 294,2142 152,2142 152,2041 102,2041 102,1511 101,1511 101,1338 102,1338 102,1128 152,1128 152,943 101,943 101,917 102,917 102,790 100,790 100,763 102,763 102,637 101,637"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>QUESTÃO 54
+Ao adicionar dispersantes em uma suspensão
+cerâmica de ALO;, pesquisadores concluíram que
+concentrações consideráveis de sólidos poderiam ser
+adicionadas ao líquido sem que ocorresse a formação de
+aglomerados. Os dispersantes usados possuíam mecanismo
+de estabilização estérico. Nesse mecanismo a estabilização
+se dá pela adsorção à superfície da partícula de um polímero
+neutro, com cadeia molecular suficientemente longa.
+Assinale a opção correta acerca do método de estabilização
+utilizado pelos pesquisadores.
+O O pH do meio
+constantemente, visando à alteração transitória das
+líquido deve ser monitorado
+cargas superficiais e permitindo, assim, a eficiente
+polimerização do material.
+O A polimerização parcial já é suficiente para a completa
+individualização das partículas, pois há uma redução
+considerável na energia superficial específica das
+partículas do sistema.
+O Para uma estabilização eficiente, é necessário que o
+polímero recubra totalmente a superfície da partícula e
+que a camada adsorvida possua uma espessura maior
+que a distância mínima na qual as forças atrativas de
+van der Waals sejam significativas.
+O Uma eficiente esterilidade das partículas se dá pela
+formação de espessuras poliméricas menores que a
+espessura de estabilidade das forças atrativas de van
+der Waals, obtida com a compensação iônica das
+cargas superficiais.
+O Como o processo de polimerização superficial das
+partículas não afeta as forças de ligação, devido à
+neutralidade eletrônica, é necessário que algumas
+regiões da superfície das partículas estejam isentas
+dessa camada polimérica, visando o ajuste de cargas
+superficiais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="864,232 1054,232 1054,284 1548,284 1548,502 982,502 982,503 981,503 981,1428 1549,1428 1549,1604 1550,1604 1550,1842 1548,1842 1548,2125 1208,2125 1208,2126 866,2126 866,2127 865,2127 865,1533 864,1533 864,1490 863,1490 863,1428 930,1428 930,504 863,504 863,284 864,284"/>
+	<TextEquiv conf="0.96536">
+	<Unicode>QUESTÃO 55
+A técnica de caracterização cerâmica por dilatometria
+permite, entre outras coisas, avaliar a retração de
+compactos cerâmicos em função da temperatura
+atingida. A figura | a seguir apresenta as curvas de
+retração de três amostras de um mesmo tipo de material
+prensadas em diferentes pressões de compactação.
+Em relação aos gráficos acima, em que a figura Il é a
+ampliação de parte da figura |, é correto afirmar que
+O asamostras não atingem densificação completa em
+menores pressões de compactação.
+O maiores pressões de compactação deslocam a
+temperatura de sinterização para cima, pois é
+necessário o aumento de temperatura para que os
+mecanismos de sinterização atuem.
+O omaterial atinge retração máxima em temperaturas
+entre 1.000 ºC e 1.200 ºC, independentemente da
+pressão com a qual foi compactado.
+O adensificaçãodos compactos não sofre interferência
+da pressão de compactação, pois, em temperaturas
+da ordem de 1.000 ºC, há acomodação total das
+partículas.
+O aagregação das partículas cresce com o aumento da
+pressão de compactação, o que facilita a ativação
+dos mecanismos de sinterização e reduz a
+temperatura máxima de retração.</Unicode></TextEquiv></TextRegion></Page></PcGts>

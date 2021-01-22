@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:59:22</Created>
+	<LastChange>2020-10-25T19:25:49</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-24.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="477,662 477,1191 1180,1191 1180,662"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="102,227 291,227 291,287 1553,287 1553,655 1552,655 1552,1618 1553,1618 1553,1773 1552,1773 1552,2119 1313,2119 1313,2120 1071,2120 1071,2121 829,2121 829,2122 102,2122 102,1897 101,1897 101,228 102,228"/>
+	<TextEquiv conf="0.95854">
+	<Unicode>QUESTÃO 42
+Uma peça metálica utilizada como componente na indústria automobilística é fabricada por um processo de
+conformação mecânica. O material utilizado é uma liga metálica cuja composição química, pelo diagrama de equilíbrio
+(não apresentado), indica a presença de uma única fase desde a sua solidificação até a temperatura ambiente. Na última
+etapa desse processo de conformação, a peça apresenta duas regiões distintas quanto à quantidade percentual de
+deformação a frio: região A = 15% e região B = 6%. A peça é resfriada rapidamente logo após essa última etapa de
+processamento. A etapa seguinte do processo de fabricação é o reaquecimento da peça em um forno cuja temperatura
+encontra-se entre 690 ºC e 700 ºC. Para aumentar a produtividade, o tempo de permanência das peças no forno deve
+ser muito curto, de modo a garantir que ocorram os processos de recuperação e recristalização, mas procura-se evitar
+crescimento de grão (se ocorrer, deverá ser insignificante). Após esse reaquecimento a peça é resfriada rapidamente.
+deformação — Percentual de trabalho a frio
+crítica
+Considerando o gráfico acima, da temperatura de recristalização em função da quantidade de deformação acumulada
+(trabalho a frio), e os fenômenos de recuperação, recristalização e crescimento de grão, assinale a opção que descreve
+corretamente a microestrutura esperada do material na temperatura ambiente e nas duas regiões A e B após os ciclos
+de processamento citados no texto.
+O Nasregiões AeB, as microestruturas apresentarão grãos equiaxiais e o tamanho médio desses grãos será pequeno
+em relação aos grãos nas demais regiões da peça, pois ocorre recristalização nessas duas regiões.
+O Otamanho médio de grão na região A será maior que o da região B, pois toda a deformação local é utilizada apenas
+para o processo de recuperação, e o tamanho de grão é proporcional à quantidade de recuperação da microestrutura.
+O Ocorre recristalização na região A, mas não na B. Na primeira etapa de processamento, as deformações locais na
+região B não alcançam valores capazes de promover a recristalização no reaquecimento, mas é possível ocorrer
+recuperação devido à faixa de temperaturas do processo. Deve haver, portanto, grãos bem menores na região A
+(grãos recristalizados), em comparação com os da região B (grãos recuperados).
+O Quando ocorre deformação plástica elevada, há, necessariamente, precipitação induzida por deformação nas ligas
+policristalinas monofásicas. Essa precipitação resulta em um retardo da recristalização. Assim, nas regiões A e B deve
+ocorrer apenas recuperação, e os tamanhos de grão serão de valores bem próximos, mudando-se apenas a razão
+de aspecto dos grãos localizados na região mais deformada.
+O NaregiãoB, deve haver recuperação induzida pela deformação acumulada, seguida de recristalização. A região A,
+que apresenta deformação acumulada mais elevada, não precisa passar pela etapa de recuperação e, assim, nessa
+região, deve haver somente recristalização. Não é possível comparar o tamanho de grão médio das duas regiões sem
+conhecer, antecipadamente, o tamanho de grão inicial da peça.</Unicode></TextEquiv></TextRegion></Page></PcGts>

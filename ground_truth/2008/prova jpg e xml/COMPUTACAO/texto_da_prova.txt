@@ -1,0 +1,1740 @@
+QUESTÃO 11
+Com relação às diferentes tecnologias de armazenamento
+de dados, julgue os itens a seguir.
+| Quando a tensão de alimentação de uma memória
+ROM é desligada, os dados dessa memória são
+apagados. Por isso, esse tipo de memória é
+denominado volátil.
+Il O tempo de acesso à memória RAM é maior que o
+tempo de acesso a um registrador da unidade central
+de processamento (UCP).
+Ill O tempo de acesso à memória cache da UCP é menor
+que o tempo de acesso a um disco magnético.
+IV O tempo de acesso à memória cache da UCP é maior
+que o tempo de acesso à memória RAM.
+Estão certos apenas os itens
+O ilel,
+O llelv.
+O lei.
+e llelv.
+Ole,
+
+QUESTÃO 12
+Ao longo de todo o desenvolvimento do software,
+devem ser aplicadas atividades de garantia de
+qualidade de software (GQS), entre as quais se
+encontra a atividade de teste. Um dos critérios
+de teste utilizados para gerar casos de teste é o
+denominado critério dos caminhos básicos, cujo
+número de caminhos pode ser determinado com
+base na complexidade ciclomática.
+Considerando-se o grafo de fluxo de controle
+apresentado na figura ao lado, no qual os nós
+representam os blocos de comandos e as (6)
+arestas representam a transferência de controle, (O)
+qual a quantidade de caminhos básicos que
+devem ser testados no programa associado a esse grafo
+de fluxo de controle, sabendo-se que essa quantidade é
+igual à complexidade ciclomática mais um?
+A 1. B 3. C 4. D 7. E 8
+
+QUESTÃO 13
+Considerando o conjunto A = {1, 2, 3, 4, 5, 6}, qual opção
+corresponde a uma partição desse conjunto?
+A {{1}, {2}, {3}, {4}, {5}, {6}}
+B {{1}, {1,2}, {3,4}, {5, 6}}
+C {{ }, {1, 2, 3}, {4, 5, 6}}
+D {{1, 2, 3}, {5, 6}}
+E {{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}
+
+QUESTÃO 14
+Um programador propôs um algoritmo não-recursivo
+para o percurso em preordem de uma árvore binária com
+as seguintes características.
+< Cada nó da árvore binária é representado por um
+registro com três campos: chave, que armazena seu
+identificador; esq e dir, ponteiros para os filhos
+esquerdo e direito, respectivamente.
+< O algoritmo deve ser invocado inicialmente tomando o
+ponteiro para o nó raiz da árvore binária como
+argumento.
+< O algoritmo utiliza push() e pop() como funções
+auxiliares de empilhamento e desempilhamento de
+ponteiros para nós de árvore binária, respectivamente.
+A seguir, está apresentado o algoritmo proposto, em
+que 8 representa o ponteiro nulo.
+Procedimento preordem (ptraiz : PtrNoArvBin)
+Var ptr : PtrNoArvBin;
+ptr := ptraiz;
+Enquanto (ptr … 8) Faça
+escreva (ptr8.chave);
+Se (ptr8.dir … 8) Então
+push(ptr8.dir);
+Se (ptr8.esq … 8) Então
+push(ptr8.esq);
+ptr := pop();
+Fim_Enquanto
+Fim_Procedimento
+Com base nessas informações e supondo que a raiz de
+uma árvore binária com n nós seja passada ao
+procedimento preordem(), julgue os itens seguintes.
+I O algoritmo visita cada nó da árvore binária exatamente
+uma vez ao longo do percurso.
+II O algoritmo só funcionará corretamente se o
+procedimento pop() for projetado de forma a retornar 8
+caso a pilha esteja vazia.
+III Empilhar e desempilhar ponteiros para nós da árvore
+são operações que podem ser implementadas com
+custo constante.
+IV A complexidade do pior caso para o procedimento
+preordem() é O(n).
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e IV estão certos.
+C Apenas os itens I, II e III estão certos.
+D Apenas os itens II, III e IV estão certos.
+
+E Todos os itens estão certos.
+
+QUESTÃO 15
+Além do acesso a páginas html, a Internet tem sido usada
+cada vez mais para a cópia e troca de arquivos de
+músicas, filmes, jogos e programas. Muitos desses
+arquivos possuem direitos autorais e restrições de uso.
+Considerando o uso das redes ponto-a-ponto para a troca
+de arquivos de músicas, filmes, jogos e programas na
+Internet, a quem cabe a identificação e o cumprimento das
+restrições de uso associados a esses arquivos?
+O aos programas de troca de arquivo
+O aos usuários
+O aosistema operacional
+O aos produtores dos arquivos
+O aos equipamentos roteadores da Internet
+
+QUESTÃO 16
+O gerenciamento de configuração de software (GCS) é
+uma atividade que deve ser realizada para identificar,
+controlar, auditar e relatar as modificações que ocorrem
+durante todo o desenvolvimento ou mesmo durante a fase
+de manutenção, depois que o software for entregue ao
+cliente. O GCS é embasado nos chamados itens de
+configuração, que são produzidos como resultado das
+atividades de engenharia de software e que ficam
+armazenados em um repositório. Com relação ao GCS,
+analise as duas asserções apresentadas a seguir.
+No GCS, o processo de controle das modificações
+obedece ao seguinte fluxo: começa com um pedido de
+modificação de um item de configuração, que leva à
+aceitação ou não desse pedido e termina com a
+atualização controlada desse item no repositório
+porque
+o controle das modificações dos itens de configuração
+baseia-se nos processos de check-in e check-out que
+fazem, respectivamente, a inserção de um item de
+configuração no repositório e a retirada de itens de
+configuração do repositório para efeito de realização das
+modificações.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+O As duas asserções são proposições falsas.
+
+QUESTÃO 17
+Uma fórmula bem formada da lógica de predicados é válida
+se ela é verdadeira para todas as interpretações possíveis.
+Considerando essa informação, analise as duas asserções
+apresentadas a seguir.
+A fórmula bem formada (3x) P(x) = (vx) P(x) é válida
+porque,
+em qualquer interpretação de uma fórmula da lógica de
+predicados, se todo elemento do conjunto universo tem a
+propriedade P, então existe um elemento do conjunto que
+tem essa propriedade.
+Assinale a opção correta com relação a essas asserções.
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+As duas asserções são proposições falsas.
+o O O O O
+
+QUESTÃO 18
+Os números de Fibonacci constituem uma sequência
+de números na qual os dois primeiros elementos são 0 e 1
+e os demais, a soma dos dois elementos imediatamente
+anteriores na sequência. Como exemplo, a sequência
+formada pelos 10 primeiros números de Fibonacci é: 0, 1,
+1, 2, 3, 5, 8, 13, 21, 34. Mais precisamente, é possível
+definir os números de Fibonacci pela seguinte relação de
+recorrência:
+,sen=o0
+,sen=1
+b (n - 1) +fib(n- 2), sen >1
+fib(n)= O
+fib (n)=1
+fib (n) = fi
+Abaixo, apresenta-se uma implementação em
+linguagem funcional para essa relação de recorrência:
+fib ::
+fib O
+fib 1
+fibn
+Integer -> Integer
+o
+1
+fib
+(n - 1) + fib (n - 2)
+Considerando que o programa acima não reutilize
+resultados previamente computados, quantas chamadas
+são feitas à função fib para computar fib 5?
+11
+12
+15
+24
+25
+cocos
+
+QUESTÃO 20 – DISCURSIVA
+Tabelas de dispersão (tabelas
+hash) armazenam elementos com
+base no valor absoluto de suas
+chaves e em técnicas de tratamento
+de colisões. As funções de dispersão
+transformam chaves em endereçosbase
+da tabela, ao passo que o
+tratamento de colisões resolve
+conflitos em casos em que mais de
+uma chave é mapeada para um
+mesmo endereço-base da tabela.
+Suponha que uma aplicação
+utilize uma tabela de dispersão com
+23 endereços-base (índices de 0 a 22)
+e empregue h(x) = x mod 23 como
+função de dispersão, em que x
+representa a chave do elemento cujo
+endereço-base deseja-se computar.
+Inicialmente, essa tabela de dispersão
+encontra-se vazia. Em seguida, a
+aplicação solicita uma seqüência de
+inserções de elementos cujas chaves
+aparecem na seguinte ordem: 44, 46,
+49, 70, 27, 71, 90, 97, 95.
+Com relação à aplicação descrita, faça o que se pede a seguir.
+A Escreva, no espaço reservado, o conjunto das chaves envolvidas em
+colisões.
+B Assuma que a tabela de dispersão trate colisões por meio de
+encadeamento exterior. Esboce a tabela de dispersão para mostrar
+seu conteúdo após a seqüência de inserções referida.
+
+QUESTÃO 19
+Uma alternativa para o aumento de desempenho de sistemas computacionais é o uso de processadores com múltiplos
+núcleos, chamados multicores. Nesses sistemas, cada núcleo, normalmente, tem as funcionalidades completas de um
+processador, já sendo comuns, atualmente, configurações com 2, 4 ou mais núcleos. Com relação ao uso de
+processadores multicores, e sabendo que threads são estruturas de execução associadas a um processo, que
+compartilham suas áreas de código e dados, mas mantêm contextos independentes, analise as seguintes asserções.
+Ao dividirem suas atividades em múltiplas threads que podem ser executadas paralelamente, aplicações podem se
+beneficiar mais efetivamente dos diversos núcleos dos processadores multicores
+porque
+o sistema operacional nos processadores multicores pode alocar os núcleos existentes para executar simultaneamente
+diversas sequências de código, sobrepondo suas execuções e, normalmente, reduzindo o tempo de resposta das
+aplicações às quais estão associadas.
+Acerca dessas asserções, assinale a opção correta.
+As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.
+
+
+QUESTÃO 23
+Considere o esquema de banco de dados relacional
+apresentado a seguir, formado por 4 relações, que
+representa o conjunto de estudantes de uma universidade
+que podem, ou não, morar em repúblicas (moradias
+compartilhadas por estudantes). A relação Estudante foi
+modelada como um subconjunto da relação Pessoa.
+Considere que os atributos grifados correspondam à
+chave primária da respectiva relação e os atributos que
+são seguidos da palavra referencia sejam chaves
+estrangeiras.
+Pessoa(IdPessoa:integer, Nome:varchar(40),
+Endereco:varchar(40))
+FonePessoa(IdPessoa:integer referencia Pessoa,
+DDD:varchar(3), Prefixo:char(4), Nro:char(4))
+Republica(IdRep:integer, Nome:varchar(30),
+Endereco:varchar(40))
+Estudante(RA:integer, Email:varchar(30),
+IdPessoa:integer referencia Pessoa,
+IdRep:integer referencia Republica)
+Suponha que existam as seguintes tuplas no banco de
+dados:
+Pessoa(1, ‘José Silva’, ‘Rua 1, 20’);
+Republica(20, ‘Várzea’, ‘Rua Chaves, 2001’)
+Qual opção apresenta apenas tuplas válidas para esse
+esquema de banco de dados relacional?
+A Estudante(10, ‘jsilva@ig.com.br’, null, 20);
+FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
+B Estudante(10, ‘jsilva@ig.com.br’, 1, null);
+FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
+C Estudante(10, ‘jsilva@ig.com.br’, 1, 20);
+FonePessoa(1, null, ‘3761’, ‘1370’)
+D Estudante(10, ‘jsilva@ig.com.br’, 1, 50);
+FonePessoa(1, ‘019’, ‘3761’, ‘1370’)
+E Estudante(10, ‘jsilva@ig.com.br’, 1, null);
+FonePessoa(1, ‘019’, ‘3761’, ‘1370’)
+
+QUESTÃO 21
+Considere a relação EMPREGADO (NumeroEmp, RG, nome,
+sobrenome, salario, endereco), em que o atributo grifado
+corresponde à chave primária da relação. Suponha que se
+deseje realizar as seguintes consultas:
+1 Listar o nome dos empregados com sobrenome Silva;
+2 Listar o nome dos empregados em ordem crescente de
+seus sobrenomes.
+Em relação à definição de um índice sobre o atributo
+sobrenome para melhorar o desempenho das consultas
+acima, julgue os itens a seguir.
+| Um índice que implemente Árvore-B+ será adequado
+para melhorar o desempenho da consulta 1.
+Ill Um índice que implemente Árvore-B+ será adequado
+para melhorar o desempenho da consulta 2.
+Il Um índice que implemente uma função hash será
+adequado para melhorar o desempenho da consulta 1.
+IV Um índice que implemente uma função hash será
+adequado para melhorar o desempenho da consulta 2.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens Ill e IV estão certos.
+Apenas os itens |, 1l e Ill estão certos.
+Todos os itens estão certos.
+cogcoo
+
+QUESTÃO 22
+Qual tipo de software tradutor deve ser utilizado para
+programas em geral, quando a velocidade de execução é
+uma exigência de alta prioridade?
+compiladores
+interpretadores
+tradutores híbridos
+macroprocessadores
+interpretadores de macroinstruções
+coogcoo
+
+QUESTÃO 25
+A figura acima ilustra uma imagem binária com pixels
+brancos formando retas sobre um fundo preto. Com
+relação à aplicação de transformadas sobre essa
+imagem, assinale a opção correta.
+O A transformada de Fourier, quando aplicada à
+imagem descrita, produz como resultado um mapa de
+frequências que equivale ao histograma dos níveis de
+cinza das retas presentes.
+A transformada de Hadamard da imagem
+apresentada tem resultado equivalente à aplicação
+de um filtro passa-baixas, o que destaca as retas
+existentes.
+Ao se aplicar a transformada da distância à imagem
+binária, considerando pixels brancos como objetos,
+são geradas as distâncias entre as retas presentes e
+o centro da imagem, o que permite identificar as
+equações das retas formadas na imagem.
+O uso da transformada dos cossenos produz uma
+lista dos coeficientes lineares e angulares das
+diversas retas existentes nessa imagem binária.
+O resultado da aplicação da transformada de Hough
+usando parametrização de retas é um mapa cujos
+picos indicam os pixels colineares, permitindo que
+sejam identificados coeficientes que descrevem as
+diversas retas formadas na imagem.
+
+QUESTÃO 24
+Considere o bloco decodificador ilustrado acima, o qual
+opera segundo atabela apresentada. Em cada item a seguir,
+julgue se a função lógica mostrada corresponde ao circuito
+lógico a ela associado.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+coogcgoo
+
+QUESTÃO 27
+Em redes locais de computadores, o protocolo de controle de
+acesso ao meio define um conjunto de regras que devem ser
+adotadas pelos múltiplos dispositivos para compartilhar o meio
+físico de transmissão. No caso de uma rede Ethernet IEEE
+802.3 conectada fisicamente a um concentrador (hub), em que
+abordagem se baseia o protocolo de controle de acesso ao
+meio?
+na passagem de permissão em anel
+na ordenação com contenção
+na ordenação sem contenção
+na contenção com detecção de colisão
+na arbitragem centralizada
+
+QUESTÃO 30
+Na comunicação sem fio, o espectro de radiofrequência
+adotado é um recurso finito e apenas determinada
+banda de frequência está disponível para cada serviço.
+Dessa forma, torna-se crítico explorar técnicas de
+múltiplo acesso que permitam o compartilhamento da
+banda de frequência do serviço entre os usuários. Qual
+opção apresenta apenas técnicas de múltiplo acesso
+para o compartilhamento da banda de frequência
+alocada a um serviço?
+Bluetooth, WiFi e WiMax
+CDMA, GSM, TOMA
+3G, WAP e ZigBee
+CDMA, FDMA e TDOMA
+CCMP, TKIP e WEP
+
+QUESTÃO 29
+Considere a gramática G definida pelas
+regras de produção ao lado, em que os
+símbolos não-terminais são s, AEB eOS
+símbolos terminais são a e b.
+Com relação a essa gramática, é correto afirmar que
+a gramática G é ambígua.
+a gramática G é uma gramática livre de contexto.
+a cadeia aabbb é gerada por essa gramática.
+é possível encontrar uma gramática regular
+equivalente a G.
+a gramática G gera a cadeia nula.
+
+QUESTÃO 28
+A figura acima mostra uma árvore de decisão
+construída por um algoritmo de aprendizado indutivo a
+partir de um conjunto de dados em que os objetos são
+descritos por 4 atributos: X1, X2, X3 e X4. Dado um
+objeto de classe desconhecida, essa árvore classifica
+o objeto na classe 1 ou na classe 2. A tabela a seguir
+apresenta três objetos a serem classificados: O1, O2 e
+O3.
+A que classes corresponderiam, respectivamente, os
+objetos O1, O2 e O3?
+A 1, 1 e 2 B 1, 2 e 1 C 2, 1 e 2
+D 2, 2 e 1 E 1, 1 e 1
+
+QUESTÃO 26
+As figuras | e |l apresentam duas imagens, ambas com
+resolução de 246 pixels x 300 pixels, sendo que a figura |
+apresenta 256 níveis de cinza e a figura Il, 4 níveis de cinza.
+Considere que a imagem da figura | seja a original, tendo sido
+manipulada em um único atributo para gerar a imagem da
+figura Il. Nessa situação, em qual atributo se diferenciam as
+imagens | e |l acima?
+O resolução
+O quantização
+O iluminação
+O escala
+O amostragem espacial
+
+QUESTÃO 31
+Julgue os itens a seguir, relativos a métodos de busca com
+informação (busca heurística) e sem informação (busca
+cega), aplicados a problemas em que todas as ações têm
+o mesmo custo, o grafo de busca tem fator de ramificação
+finito e as ações não retornam a estados já visitados.
+I Aprimeira solução encontrada pela estratégia de busca
+em largura é a solução ótima.
+Il Aprimeira solução encontrada pela estratégia de busca
+em profundidade é a solução ótima.
+III As estratégias de busca com informação usam funções
+heurísticas que, quando bem definidas, permitem
+melhorar a eficiência da busca.
+IV A estratégia de busca gulosa é eficiente porque
+expande apenas os nós que estão no caminho da
+solução.
+Estão certos apenas os itens
+lell.
+lei.
+lelv.
+Nelv.
+Meiv.
+
+QUESTÃO 32
+Uma empresa realizou uma avaliação de
+desempenho de um sistema web. Nessa avaliação, foram
+determinados o desvio padrão e a média do tempo de
+resposta do referido sistema, tendo como base 10
+consultas realizadas. Constatou-se que o tempo de
+resposta do sistema web possui distribuição normal. Para
+um nível de confiança de 95%, identificou-se o intervalo de
+confiança para a média do tempo de resposta das
+consultas.
+Com relação a essa avaliação de desempenho, julgue os
+itens abaixo.
+| Com amedição do tempo de resposta do sistema para
+10 consultas adicionais, é possível que a média e o
+desvio padrão do tempo de resposta para o conjunto
+das 20 consultas aumente ou diminua.
+Il Com a medição do tempo de resposta do sistema para
+15 consultas adicionais, com nível de confiança de
+95%, o intervalo de confiança para o conjunto das 25
+consultas é maior que o intervalo de confiança para o
+conjunto das 10 consultas iniciais.
+Na medição do tempo de resposta das 10 consultas
+iniciais, o intervalo de confiança com nível de confiança
+de 99% é maior que o intervalo de confiança com nível
+de confiança de 95%.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e 1l| estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 34
+Modems são dispositivos capazes de converter um sinal
+digital em um sinal analógico e vice-versa. No processo de
+modulação, para representar o sinal digital, o modem pode
+manipular as características de uma onda portadora
+(amplitude, frequência e fase), derivando diferentes técnicas
+de modulação, por exemplo: chaveamento da amplitude
+(ASK), chaveamento da frequência (FSK) e chaveamento
+da fase (PSK). Com relação a técnicas de modulação,
+julgue os itens a seguir.
+| Amodulação ASK é suscetível a ruídos.
+Il A modulação FSK possui maior imunidade a ruídos
+quando comparada à modulação ASK.
+Ill Na modulação PSK, a fase da portadora é modificada
+durante o intervalo de sinalização.
+IV Existem técnicas híbridas de modulação digital que
+modificam tanto a amplitude quanto a fase da portadora.
+V As diversas técnicas de modulação transmitem, no
+mínimo, um único bit e, no máximo, 2 bits, por intervalo
+de sinalização.
+Estão certos apenas os itens
+Llelv.
+Lev.
+Lev.
+I,WMev.
+MM, IVeV.
+
+QUESTÃO 33
+Compiladores de linguagens de programação traduzem
+programas-fonte, em uma linguagem de entrada, para
+programas-objeto, em uma linguagem de saída. Durante o
+processo de tradução, o compilador deve verificar se as
+sentenças do programa-fonte estão sintaticamente corretas.
+Esse processo de análise sintática pode ser realizado
+construindo-se uma árvore de análise segundo duas
+principais abordagens: top-down, quando a árvore é
+investigada da raiz às folhas; ou bottom-up, das folhas à
+raiz. Acerca desse assunto, julgue os itens seguintes.
+| A análise top-down é adequada quando a linguagem de
+entrada é definida por uma gramática recursiva à
+esquerda.
+Il Independentemente da abordagem adotada, top-down
+ou bottom-up, o analisador sintático utiliza informações
+resultantes da análise léxica.
+III Se os programas em uma linguagem podem ser
+analisados tanto em abordagem top-down como em
+bottom-up, a gramática dessa linguagem é ambígua.
+IV A análise bottom-up utiliza ações comumente
+conhecidas como deslocamentos e reduções sobre as
+sentenças do programa-fonte.
+Estão certos apenas os itens
+o lel,
+o lelll.
+o llelv,
+O Lev.
+e ILIMelv.
+
+QUESTÃO 37
+Considere que a correlação linear entre o
+número de erros de código de programação (Y)e o
+respectivo tamanho de um programa (X), em
+número de linhas de código, seja igual a 0,7.
+A variável aleatória Y segue uma distribuição
+Normal com média e desvio padrão iguais a 0,1 erro
+de código, enquanto que a variável X segue uma
+distribuição Normal com média 15 e desvio padrão
+5 linhas de código. A reta de regressão linear é uma
+esperança condicional na forma E(Y|)X = x) =
+ax — 0,11, em que x > 10 é um dado valor para o
+tamanho do programa e a é o coeficiente angular da
+reta de regressão. Nessa situação, para um
+programa cujo tamanho é x = 20, pela reta de
+regressão linear, qual é o número esperado de
+erros de código de programação?
+O 0,10 O 0,12
+O 0,20 O 0,22
+o 0,17
+
+QUESTÃO 38
+No circuito acima, que possui cinco entradas — A,
+B, C, De E — e uma saída f (A, B, C, D, E), qual
+opção apresenta uma expressão lógica equivalente
+à função f (A, B, C, D, E)?
+A.B+C.D+D.E
+(A+B).(C+D)+D.E
+A.B+C.D+D+E
+A.B+C.D+D+E
+AB+C.D+D.E
+
+QUESTÃO 36
+Redes locais sem fio que utilizam tecnologia IEEE 802.11,
+comumente referenciada como Wi-Fi, estão se tornando cada vez
+mais populares. Julgue os itens abaixo, relativos a essa tecnologia.
+I Computadores em redes IEEE 802.11 podem-se comunicar por
+dois modos básicos: usando uma infra-estrutura coordenada
+por pontos de acesso à rede (access points — AP), ou no modo
+ad hoc, em que cada computador troca informações
+diretamente com os demais.
+II Para poder transmitir por meio de um ponto de acesso, uma
+interface de rede deve realizar um procedimento de
+associação, que inclui o conhecimento de um campo
+identificador (service set identifier — SSI).
+III Um mecanismo de detecção de colisão durante a transmissão
+indica a necessidade de retransmissão e evita o envio de
+mensagens de confirmação.
+IV Um mecanismo de requisição para transmissão (request to
+send — RTS) e de liberação para transmissão (clear to send —
+CTS) pode ser usado para evitar colisões.
+V O protocolo WEP (wired equivalent privacy) impede que
+interfaces não-autorizadas recebam sinais propagados pelo
+meio.
+Estão certos apenas os itens
+A I, II e IV. B I, III e V. C I, IV e V.
+D II, III e IV. E II, III e V
+
+QUESTÃO 35
+Uma arquitetura de rede é usualmente organizada em um conjunto
+de camadas e protocolos com o propósito de estruturar o hardware
+e o software de comunicação. Como exemplos, têm-se as
+arquiteturas OSI| e TCP/IP. A arquitetura TCP/IP, adotada na
+Internet, é um exemplo concreto de tecnologia de interconexão de
+redes e sistemas heterogêneos usada em escala global. Com
+relação à arquitetura TCP/IP, assinale a opção correta.
+A camada de interface de rede, também denominada intra-
+rede, adota o conceito de portas para identificar os dispositivos
+da rede física. Cada porta é associada à interface de rede do
+dispositivo e os quadros enviados transportam o número das
+portas para identificar os dispositivos de origem e de destino.
+A camada de rede, também denominada inter-rede, adota
+endereços IP para identificar as redes e seus dispositivos.
+Para interconectar redes físicas que adotam diferentes
+tamanhos máximos de quadros, a camada de rede adota os
+conceitos de fragmentação e remontagem de datagramas.
+A camada de transporte é responsável pelo processo de
+roteamento de datagramas. Nesse processo, a camada de
+transporte deve selecionar os caminhos ou rotas que os
+datagramas devem seguir entre os dispositivos de origem e
+de destino, passando assim através das várias redes
+interconectadas.
+A camada de aplicação é composta por um conjunto de
+protocolos, que são implementados pelos processos
+executados nos dispositivos. Cada protocolo de aplicação
+deve especificar a interface gráfica ou textual oferecida pelo
+respectivo processo para permitir a interação com os usuários
+da aplicação.
+A arquitetura TCP/IP é uma implementação concreta da
+arquitetura conceitual OSI. Portanto, a arquitetura TCP/IP é
+também estruturada em 7 camadas, que são as camadas:
+física, de enlace, de rede, de transporte, de sessão, de
+apresentação e de aplicação.
+
+QUESTÃO 39 — DISCURSIVA
+Qualquer expressão aritmética binária pode ser convertida em uma expressão totalmente
+parentizada, bastando reescrever cada subexpressão binária a & b como (a & b), em que e denota
+um operador binário. Expressões nesse formato podem ser definidas por regras de uma gramática
+livre de contexto, conforme apresentado a seguir. Nessa gramática, os símbolos não-terminais E,
+S, O e L representam expressões, subexpressões, operadores e literais, respectivamente, e os
+demais símbolos das regras são terminais.
+E? (SOS)
+SS? LIE
+OoP+ | = |*|/
+L al blcl|dl|e
+Tendo como referência as informações acima, faça o que se pede a seguir.
+A Mostre que a expressão (a * (b / c)) pode ser obtida por derivações das regras acima. Para isso, desenhe a
+árvore de análise sintática correspondente.
+B Existem diferentes derivações para a expressão (((a + b) * c) + (d * e)). É correto, então, afirmar que a
+gramática acima é ambígua? Justifique sua resposta.
+
+QUESTÃO 40 — DISCURSIVA
+O banco de dados de um sistema de controle
+bancário implementado por meio de um SGBD relacional
+possui a relação Cliente, com as informações
+apresentadas a seguir, em que a chave primária da
+relação é grifada.
+Cliente (nroCliente,
+data nascimento,
+nome, endereco,
+renda, idade)
+Para essa relação, foram criados dois índices
+secundários: IndiceIdade, para o atributo idade, e
+IndiceRenda, para o atributo renda. Existe um tipo de
+serviço nesse banco cujo alvo são tanto os clientes que
+possuem menos de 40 anos de idade quanto aqueles que
+possuem renda mensal superior a 30.000 reais. Para
+recuperar esses clientes, a seguinte expressão de
+consulta em SQL foi utilizada:
+SELECT nome, endereco
+FROM Cliente
+WHERE idade < 40 OR renda > 30000;
+Com o aumento do número de clientes desse
+banco, essa consulta passou a apresentar problemas de
+desempenho. Verificou-se, então, que o otimizador de
+consultas não considerava os índices existentes para
+idade E renda, E a consulta era realizada mediante
+varredura sequencial na relação Cliente, tornando essa
+consulta onerosa. O plano de execução da consulta,
+usado pelo otimizador, é apresentado na árvore de
+consulta abaixo, na qual 7 e o representam as operações
+de projeção e de seleção, respectivamente.
+Para que o otimizador de consultas passasse a
+utilizar os índices, a solução encontrada foi elaborar a
+consulta em dois blocos separados — um que recupera os
+clientes com idade inferior a 40 anos, e outro que
+recupera os clientes com renda mensal superior a 30.000
+reais — para, então, juntar as tuplas das duas relações
+geradas.
+Considerando a situação apresentada, faça o que se pede
+a seguir.
+A Escreva o código de uma consulta em SQL que
+corresponda à solução proposta.
+(valor: 5,0 pontos)
+RASCUNHO — QUESTÃO 40 - A
+B Desenhe a árvore de consulta para essa solução.
+(valor: 5,0 pontos)
+RASCUNHO — QUESTÃO 40 - B
+
+QUESTÃO 42
+Ao se realizar o acesso a um servidor WWW usando o protocolo
+HTTPS, uma sessão SSL é estabelecida sobre a conexão TCP, entre
+o programa navegador do usuário e o processo servidor. Para tanto,
+usam-se mecanismos baseados em criptografia simétrica e
+assimétrica para prover serviços de segurança. Em relação ao
+acesso HTTP, sem SSL, que serviços de segurança são providos
+para o usuário?
+autenticação do servidor e controle de acesso do cliente
+autenticação do cliente e controle da velocidade de transmissão
+autenticação da rede e proteção contra vírus
+autenticação do servidor e confidencialidade das transmissões
+autenticação do cliente e temporização das ações executadas
+
+QUESTÃO 43
+Considere que seja necessário escrever um código para um
+microcontrolador capaz de identificar teclas acionadas em um teclado
+conectado como mostrado abaixo. O microcontrolador atribui valores
+lógicos às linhas X,z, X,, X, e X, de uma porta de saída do tipo coletor
+aberto, e lê os valores lógicos das linhas Y,3, Y,, Y, e Yçem uma porta
+de entrada.
+Caso apenas a tecla 9 do teclado esteja pressionada e o
+microcontrolador esteja atribuindo os valores lógicos 1011 às linhas
+X3, Ko, XE X,, respectivamente, qual o padrão binário que deverá ser
+lido nas linhas Y,, Y,, Y, e Y,, respectivamente?
+A 0111 B 1011 C 1101 D 1110 E 1111
+
+QUESTÃO 41
+Em ambientes de manufatura integrada, utilizam-
+se computadores para conectar processos
+concorrentes separados fisicamente, isto é, um
+sistema integrado requer dois ou mais
+computadores conectados para trocar
+informações. Quando integrados, os processos
+podem compartilhar informações e iniciar ações,
+permitindo decisões mais rápidas com menos
+erros. A automação também permite a execução
+de processos de manufatura sem necessidade
+de intervenções. Um exemplo simples pode ser
+um controlador de um robô e um controlador
+lógico programável trabalhando juntos em uma
+única máquina. Um exemplo complexo é uma
+planta inteira de manufatura envolvendo
+centenas de estações conectadas a bancos de
+dados com instruções e planejamento de
+operações e tarefas em tempo real, envolvendo
+sensores, atuadores, transdutores, conversores
+etc. Entender, projetar e construir esses sistemas
+é um grande desafio que impõe uma abordagem
+sistemática pelo uso de ferramentas e
+conhecimento conceitual de modelagem lógica,
+manipulação matemática, abstração,
+decomposição, concorrência etc. Nesse
+contexto, julgue os seguintes itens.
+I Controladores lógicos programáveis são
+computadores para processamento de
+entradas e saídas, sendo que a maioria
+permite múltiplos programas que podem ser
+utilizados como sub-rotinas.
+Il Para leituras de um sinal analógico que varia
+entre + 10 volts, com precisão de + 0,05 volts,
+é necessário um conversor AD com, no
+mínimo, 9 bits.
+III O principal objetivo das redes de Petri
+Coloridas é a redução do tamanho do modelo,
+permitindo que tokens individualizados
+(coloridos) representem diferentes processos
+OU recursos em uma mesma sub-rede.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 45
+Considere y = f(x) uma função contínua e não-negativa
+(f > O), definida em um intervalo [a, b], e R a região
+delimitada pelo eixo x, o gráfico de fe as retas x= a e
+x=b. Considere S o sólido obtido pela rotação do conjunto
+R em torno do eixo das abscissas, conforme ilustram as
+figuras a seguir. O volume V do sólido S pode ser obtido
+como resultado da integral [E
+Com base nessas informações, julgue os itens a seguir.
+I Cada seção transversal do sólido S obtida quando este
+é interceptado em x = c por um plano paralelo ao plano
+YOz é um círculo centrado no ponto (c, 0, 0) e de raio
+medindo f(x) e, portanto, de área igual a n(f(x))?.
+II SePé uma partição uniforme do intervalo [a, b], sendo
+P=fa=x <x <x<..<x,=b), tal que AX = XxX,
+n
+então V=lim DO nífic))Ax, parace[x,x,(] I<i<n.
+Ne ja1
+III É igual a 27 o volume do sólido gerado pela rotação em
+torno do eixo x da região do plano delimitada pelo
+eixo x, o gráfico de f(x) = x easretas x=0ex=2.
+Assinale a opção correta.
+A Apenas o item I está certo.
+B Apenas o item III está certo.
+C Apenas os itens I e II estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.
+
+QUESTÃO 44
+Considere um banco de dados relacional que contém
+as seguintes tabelas, em que o grifo representa a chave
+primeira da tabela
+Produtos (idProduto, descricao, valorUnitario)
+Estoque (idFilial, idProduto, quantidade)
+A tabela Produtos é populada com aproximadamente
+10.000 registros, enquanto a tabela Estoque é populada
+com aproximadamente 100.000 registros. Para escrever
+uma consulta em SQL que determine o valor total das
+mercadorias em estoque de uma filial cujo identificador é
+igual a 132, pode-se usar uma das duas codificações
+apresentadas a seguir.
+Consulta 1
+SELECT
+SUM(valorUnitario * quantidade)
+FROM
+Estoque, Produtos
+WHERE
+Estoque.idFilial = 132 AND
+Produtos.idProduto = Estoque.idProduto
+Consulta 2
+SELECT
+SUM(valorUnitario * quantidade)
+FROM
+Produtos, Estoque
+WHERE
+Estoque.idFilial = 132 AND
+Produtos.idProduto = Estoque.idProduto
+A partir dessas informações e considerando que a tabela
+Estoque possua um índice sobre a coluna idFilial,
+analise as seguintes asserções.
+O processamento da Consulta 1 tem melhor desempenho
+que o da Consulta 2
+porque
+a quantidade de registros processados na consulta 1 é, no
+pior caso, igual a 10.000, enquanto o pior caso na consulta
+2 terá (10.000)2 registros.
+Assinale a opção correta a respeito dessas asserções.
+A As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+E Tanto a primeira quanto a segunda asserções são
+proposições falsas
+
+QUESTÃO 49
+A segmentação de imagens é uma das partes essenciais
+na área de processamento de imagens. Assinale a opção
+incorreta em relação à detecção de bordas no contexto da
+segmentação de imagens.
+O Adetecção de bordas é a determinação dos limites de
+um objeto em uma imagem, envolvendo a avaliação da
+variação nos níveis de cinza dos pixels em uma
+vizinhança, sendo uma das formas de segmentação de
+imagens.
+O Sobel, Prewitt e Roberts são operadores usados para
+detecção de bordas, todos embasados em gradientes
+calculados sobre os níveis de cinza de uma imagem.
+O Adetecção de bordas é um processo de segmentação
+de imagens, mas com princípio diferente das técnicas
+que agrupam pixels vizinhos que compartilham
+determinado atributo.
+O Crescimento de regiões é um método de detecção de
+bordas embasado em gradientes, usando como critério
+a disparidade de valores entre pixels vizinhos.
+O O operador LoG (laplacian of gaussian) é empregado
+para detecção de bordas, usando os cruzamentos de
+zero na determinação dos pixels que formam o limiar
+entre um objeto e outro em uma imagem.
+
+QUESTÃO 48
+Considere f(x) = xº + 3x - 1, em que x e R. A fim de que
+sejam obtidas as raízes da função f, vários métodos de
+cálculo numérico podem ser aplicados, sendo a maioria
+deles embasada em processos iterativos, o que exige uma
+primeira aproximação para cada raiz que se deseje
+determinar e para o intervalo em que ela deva ser
+encontrada. Suponha que se esteja aplicando o princípio da
+bissecção para a determinação de uma raiz aproximada
+para a função f descrita acima e que, para isso, seja
+necessária a definição de um intervalo de busca inicial /,
+bem como uma primeira aproximação para a raiz x, de f
+que se encontra em /. Nesse sentido, qual das opções a
+seguir apresenta uma definição correta de / e a
+aproximação x, associada, de acordo com o método da
+bissecção?
+A =[-1, -1], x,=-61/16
+B I=[-%4,0], x,= 1/4
+C I=[-1,0], x,= -1/2
+D 1=[0,%], x,=1/4
+E =[-1,1], x,=1/4
+
+QUESTÃO 47
+A transmissão em fibra óptica é realizada pelo envio de
+feixes de luz através de um cabo óptico que consiste em
+um filamento de sílica ou plástico. A fibra óptica funciona
+com base nos princípios de refração e reflexão dos feixes
+de luz no interior do filamento condutor. Para controlar a
+direção da propagação dos feixes de luz, o núcleo e a
+casca do filamento condutor são produzidos com diferentes
+índices de refração. Variando-se os índices de refração do
+núcleo e da casca, diferentes categorias de fibras ópticas
+são produzidas. Qual opção apresenta três categorias de
+fibras ópticas?
+O monomodo, bimodo e multimodo
+O monomodo refratário, monomodo reflexivo e
+multimodo
+O monomodo, multimodo degrau e multimodo gradual
+O monomodo, multimodo sílico e multimodo plástico
+O monomodo digital, monomodo analógico e multimodo
+
+QUESTÃO 46
+No plano de coordenadas cartesianas xOy acima, está
+representado o gráfico de uma função contínua e derivável
+y=f(x). A partir dessas informações, qual opção apresenta
+características corretas acerca da função y?
+O Afunção y possui derivada de primeira ordem positiva
+em todo o seu domínio.
+O Afunçãoypossuiderivada de segunda ordem positiva
+em todo o seu domínio.
+O A função y possui exatamente dois pontos críticos de
+primeira ordem em todo o seu domínio.
+O Afunçãoy possui exatamente dois pontos de inflexão
+em todo o seu domínio.
+O Afunçãoytem exatamente dois zeros em todo o seu
+domínio.
+
+QUESTÃO 50
+Considere, a seguir, o circuito combinatório, a tensão
+analógica V, definida pela tabela |, e a tabela lógica
+definida pela tabela |l.
+Analise o circuito, os dados das tabelas | e |l e as seguintes
+asserções.
+O circuito apresentado converte a tensão analógica v, em
+uma palavra de três bits cujo valor binário é uma
+representação quantizada da tensão v, conforme
+apresentado na tabela |
+porque
+o circuito combinatório formado pelas portas lógicas
+apresenta o comportamento dado pela tabela lógica |l
+quando o circuito de comparação é excitado com uma
+tensão v, adequada.
+Assinale a opção correta, com relação às asserções acima.
+O Asduas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+
+QUESTÃO 52
+A identificação e o tratamento de erros em
+programas de computador estão entre as tarefas dos
+compiladores. Os erros de um programa podem ter
+variados tipos e precisam ser identificados e tratados em
+diferentes fases da compilação. Considere uma linguagem
+de programação que exige que as variáveis manipuladas
+por seus programas sejam previamente declaradas, não
+podendo haver duplicidade de identificadores para variáveis
+em um mesmo escopo. Considere, ainda, que a sintaxe
+dessa linguagem tenha sido definida por meio de uma
+gramática livre de contexto e as produções seguintes
+definam a forma das declarações de variáveis em seus
+programas.
+D > TL; | TL; D
+T > int | real
+L > id | id,L
+| char
+Considere os exemplos de sentenças — | e Il — a seguir,
+com a indicação — entre os delimitadores /* e */ — de
+diferentes tipos de erros.
+I int: a, bb; /*
+int */
+II int a,b; real a; /*
+variável a */
+dois pontos após a palavra
+declaração dupla da
+A partir dessas informações, assinale a opção correta.
+O A identificação e a comunicação do erro em qualquer
+uma das sentenças são funções do analisador léxico.
+O compilador não tem meios para identificar e relatar
+erros como o da sentença |.
+A identificação e a comunicação do erro na sentença
+I são funções da geração de código intermediário.
+A identificação e a comunicação do erro na sentença
+II são funções do analisador léxico.
+A identificação e a comunicação do erro na sentença
+II são funções da análise semântica.
+
+QUESTÃO 51
+Considere um jogo do tipo 8-puzzle, cujo objetivo é
+conduzir o tabuleiro esquematizado na figura abaixo para
+o seguinte estado final.
+Considere, ainda, que, em determinado instante do jogo, se
+tenha o estado EO a seguir.
+Pelas regras desse jogo, sabe-se que os próximos estados
+possíveis são os estados E1, E2 e E3 mostrados abaixo.
+Considere uma função heurística h embasada na soma das
+distâncias das peças em relação ao estado final desejado,
+em que a distância d a que uma peça p está da posição
+final é dada pela soma do número de linhas com o número
+de colunas que a separam da posição final desejada. Por
+exemplo, em E1, d(1) = 2 + 1=3. A partir dessas
+informações analise as asserções a seguir.
+Utilizando-se um algoritmo de busca gulosa pela melhor
+escolha que utiliza a função h, o próximo estado no
+desenvolvimento do jogo a partir do estado EO tem de
+ser E3
+porque,
+dos três estados E1, E2 e E3 possíveis, o estado com
+menor soma das distâncias entre a posição atual das
+peças e a posição final é o estado E3.
+Assinale a opção correta a respeito dessas asserções.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+O Asduas asserções são proposições falsas.
+
+QUESTÃO 55
+Considere que um sistema seja constituído por três
+componentes montados em paralelo que funcionam
+independentemente. Para cada um desses
+componentes, a probabilidade de que uma falha
+ocorra até o tempo t é dada por 1-2", em que
+t > O. Os componentes, após falharem, são
+irrecuperáveisó. Como os componentes estão
+montados em paralelo, o sistema falha no instante
+em que todos os três componentes tiverem falhado.
+O sistema é também irrecuperável. Considerando a
+situação apresentada, qual é a probabilidade de que
+o sistema falhe até o tempo t ?
+[1-6]
+1-[1-e"B
+e st
+1-6 0
+[1-e"B
+cogGgoo
+
+QUESTÃO 53
+Um sinal a ser registrado por um dispositivo, em intervalos
+regulares de tempo t=1,2,3,..., n, resultará em uma sequência
+de variáveis aleatórias contínuas X,, X,, ..., X,. Considere, nessa
+sequência, os eventos A e B apresentados a seguir, em que
+t=2,3,.., N=1.
+Xi, 17X <0eX-X,,>O0
+Xi ,-X >0OeX-XK,,<O
+Na hipótese de a sequência X,, X,, ..., X, ser independente e que
+seja impossível que X, =X, ,(t=2,3,..., n), julgue os seguintes
+itens.
+| A probabilidade de ocorrer o evento A em uma subsequência
+Xi Xp Ki11) é inferior a 0,3.
+Il O número esperado das ocorrências dos eventos A ou B na
+sequência X,, X,, ..., X, é igual a 200-2)
+3
+Ill Os eventos A e B são mutuamente exclusivos e, por isso, são
+independentes.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cogoo
+
+QUESTÃO 54
+No encaminhamento de pacotes na Internet, cabe a cada
+nó determinar se é possível entregar um pacote diretamente ao
+destino ou se é preciso encaminhá-lo a um nó intermediário. Para
+tanto, usa-se uma tabela de rotas. Um exemplo de tabela de rotas
+simplificada é apresentado a seguir e pertence a um computador
+com endereço IP 192.0.2.100 e máscara de rede 255.255.255.0.
+Na situação em que o referido computador precise enviar pacotes
+para os endereços 192.0.2.50 e 192.168.0.100, de acordo com a
+tabela de rotas apresentada, como ocorrerá a entrega desses
+pacotes?
+Diretamente para 71920.250 e diretamente
+192.168.0.100, respectivamente.
+Diretamente para 192.0250 e encaminhando para
+192.0.2.254, respectivamente.
+Diretamente para 192.0.2.50 e encaminhando para 192.0.2.1,
+respectivamente.
+Encaminhando para 192.02.50 e encaminhando para
+192.0.2.50, respectivamente.
+Encaminhado para 19202254 e diretamente para
+192.168.0.100, respectivamente.
+para
+o o coo0coc
+
+QUESTÃO 58
+Considerando o mecanismo de tradução de
+endereços e portas (network address port translation
+— NAPT), para redes que utilizam os endereços IP
+privados (10.0.0.0/8, 172.16.0.0/12 e
+192.168.0.0/16), analise as asserções a seguir.
+Ao passar por um roteador com NAPT, os
+endereços de origem nos pacotes originados pelas
+estações da rede privada são substituídos pelo
+endereço externo desse roteador
+porque
+não há rotas na Internet para o encaminhamento de
+pacotes destinados a endereços |P privados, de
+forma que pacotes destinados a esses endereços
+são descartados ou rejeitados.
+Em relação às asserções acima, assinale a opção
+correta.
+As duas asserções são proposições
+verdadeiras, e a segunda é uma justificativa
+correta da primeira.
+As duas asserções são proposições
+verdadeiras, e a segunda não é uma justificativa
+correta da primeira.
+A primeira asserção é uma proposição
+verdadeira, e a segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e
+a segunda é uma proposição verdadeira.
+As duas asserções são proposições falsas.
+
+QUESTÃO 56
+Julgue os itens abaixo, relativos à transmissão de dados em
+redes de computadores que utilizam fios metálicos.
+I Diferentes níveis de tensão no fio, como !5 V e +5 V, e
+transições entre os níveis definidos de tensão podem ser
+usados para representar bits durante a transmissão.
+II Diferentes tipos de modulação, com mudanças de fase e de
+amplitude, podem ser aplicados a uma onda portadora para
+representar bits durante a transmissão.
+III A taxa máxima de transmissão suportada por um canal é
+definida como função, entre outros parâmetros, do nível
+máximo de tensão suportado no canal.
+IV Largura de banda é definida como a freqüência mais alta que
+pode ser transmitida através de um meio de transmissão.
+V Informações transmitidas por meio de sinais modulados
+podem ser recuperadas no receptor usando-se taxa de
+amostragem com o dobro da freqüência máxima do sinal
+transmitido.
+Estão certos apenas os itens
+A I, II e IV.
+B I, II e V.
+C I, III e IV.
+D II, III e V.
+E III, IV e V
+
+QUESTÃO 57
+Deseja-se projetar um bloco lógico do tipo /ook-up table que fará
+parte de um dispositivo lógico programável. O bloco lógico,
+ilustrado abaixo, deve produzir em sua saída qualquer uma das
+diferentes funções lógicas possíveis envolvendo três entradas de
+dados, dependendo dos valores lógicos aplicados a n sinais
+binários de controle.
+Para esse bloco lógico, qual é o menor valor de n que pode ser
+usado para selecionar uma das diferentes funções lógicas
+possíveis?
+A 4
+B 8
+C 16
+D 256
+E 65.536
+
+QUESTÃO 59 — Discursiva
+No projeto de sistemas de tempo real, normalmente são atribuídas prioridades às tarefas.
+Escalonadores orientados à preempção por prioridade são utilizados para ordenar a execução de
+tarefas de modo a atender seus requisitos temporais. Inversão de prioridade é o termo utilizado
+para descrever a situação na qual a execução de uma tarefa de mais alta prioridade é suspensa em
+benefício de uma tarefa de menor prioridade. A inversão de prioridade pode ocorrer quando tarefas
+com diferentes prioridades necessitam utilizar um mesmo recurso simultaneamente. A duração
+desta inversão pode ser longa o suficiente para causar a perda do deadline das tarefas suspensas.
+Protocolos de sincronização em tempo real auxiliam limitando e minimizando a inversão de
+prioridades.
+Considere o conjunto de três tarefas com as seguintes características:
+I T,tem prioridade 1 (mais alta), custo de execução total de 6 ut (unidades de tempo) e instante
+de chegada t, = 6. A partir de seu início, após executar durante 1 ut, essa tarefa necessita do
+recurso compartilhado R, durante 2 ut. Para concluir, utiliza o recurso compartilhado R, durante
+2 ut finais.
+1 T,tem prioridade 2, custo de execução total de 8 ut e instante de chegada t, = 3. A partir de
+seu início, após executar durante 2 ut, a tarefa necessita do recurso compartilhado R2
+durante 2 ut.
+II T; tem prioridade 3 (mais baixa), custo total de execução de 12 ut e instante de chegada
+t; = O. A partir de seu início, após executar durante 2 ut, essa tarefa necessita do recurso
+compartilhado R, durante 2 ut.
+A partir dessas informações, desenhe a(s) linha(s) de tempo(s) para que um escalonamento dessas três tarefas em um
+único processador seja possível, utilizando-se o protocolo de herança de prioridade.
+(valor: 10,0 pontos)
+
+QUESTÃO 60 — DISCURSIVA
+Para transmissões de sinais em banda base, a largura de banda do canal limita a taxa de
+transmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de
+transmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação
+a seguir.
+C=2xWbauds
+No entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos
+eletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,
+é caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído
+térmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e
+apresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.
+SN
+C=Wxlog, (1 + 10*) bps
+Tendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão
+máxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16
+diferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.
+A Naausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em
+bits por segundo. Apresente os cálculos necessários.
+(valor: 3,0 pontos)
+RASCUNHO — QUESTÃO 60 - A
+B Na presença de ruído térmico, de acordo com a lei de Shannon, qual a taxa de transmissão máxima do canal, em bits
+por segundo? Apresente os cálculos necessário e considere que log,, (1.023) = 3,01.
+(valor: 3,0 pontos)
+RASCUNHO — QUESTÃO 60 - B
+C Na presença de ruído térmico, é possível adotar mais de 16 níveis de sinalização no referido canal? Justifique.
+(valor: 4,0 pontos)
+RASCUNHO — QUESTÃO 60 - C
+
+QUESTÃO 61
+A figura acima, adaptada do documento que descreve o
+gerenciamento de serviços de tecnologia da informação do modelo
+ITIL (Information Technology Infra-Structure Library), apresenta as
+relações entre elementos que participam dos estágios do ciclo de vida
+de um serviço de TI. Com base no modelo acima descrito, qual
+elemento detém maior responsabilidade por definir as necessidades
+de informação da organização que utilizará um serviço de TI?
+A usuário
+B cliente
+C operador de suporte técnico
+D gerente de serviços
+E gerente de desenvolvimento de aplicações
+
+QUESTÃO 62
+O código de ética da Organização Internacional de Instituições
+Supremas de Auditoria (INTOSAI) define como valores e princípios
+básicos da atuação da auditoria a independência, a objetividade, a
+imparcialidade, o segredo profissional e a competência. Ao iniciar um
+trabalho de auditoria sem definir claramente a finalidade da auditoria
+e o modelo de conformidade no qual a auditoria se apóia, qual valor
+ou princípio um auditor estaria primariamente falhando em atender?
+A independência
+B objetividade
+C imparcialidade
+D segredo profissional
+E competência
+
+QUESTÃO 63
+Considere a seguinte representação de
+abstração de generalização/especialização, com
+propriedade de cobertura parcial e sobreposta,
+segundo notação do diagrama entidade-
+relacionamento estendido.
+Qual opção apresenta um esquema de banco de
+dados relacional que representa corretamente a
+referida abstração?
+O A(pkA, atra) B(atrB) C(atrC).
+O A(pkA, atra, atrB, atrC,
+em que tipoBouc é booleano.
+O aA(pkA, atra, atrB, atrC, tipoB,
+tipoc), em que tipoB E tipoc São
+booleanos.
+O B(pkA, atrA,
+atrC).
+O aA(pkA, atra) B(pkB, atrB) C(pkcC,
+atrcC), emque pkB e pkc são atributos
+artificiais criados para ser a chave primária
+das relações B e C, respectivamente.
+tipoBouC),
+atrB) C(pkA, atra,
+
+QUESTÃO 64
+Afigura abaixo apresenta uma proposta de classificação de
+sistemas de informação, organizada tanto no que se refere
+ao nível hierárquico, no qual atuam os sistemas no âmbito
+de uma organização, quanto no que se refere às áreas
+funcionais nas quais esses sistemas são aplicados.
+Laudon & Laudon. Sistemas de Informação Gerencial. Pearson, 2004 (com
+adaptações).
+Considere a situação hipotética em que uma rede de
+supermercados deverá tomar uma decisão com relação à
+substituição do sistema de automação de “frente de loja”,
+que apóia as atividades dos caixas nos check-outs.
+A decisão envolve substituir o sistema atual, que emprega
+tecnologia de terminais “burros”, por um que emprega
+computadores pessoais e redes sem fio. Nesse sentido e
+considerando a proposta de classificação apresentada,
+qual das opções a seguir apresenta uma classificação
+adequada de nível hierárquico, área funcional e grupo
+atendido pelo sistema de informações, que oferece apoio
+direto à referida tomada de decisão?
+A estratégico, vendas e marketing, gerentes seniores
+B conhecimento, finanças, trabalhadores do
+conhecimento
+C gerencial, contabilidade, gerentes médios
+D operacional, vendas e marketing, gerentes
+operacionais
+E estratégico, recursos humanos, gerentes médios
+
+
+QUESTÃO 65
+Considere os seguintes itens: (i) características do produto;
+(ii) o modelo de maturidade e capacidade; (iii) o paradigma
+e os métodos de desenvolvimento. A quais níveis de
+abstração de processos esses itens estão,
+respectivamente, associados?
+A processo padrão, processo especializado e processo
+instanciado
+B processo padrão, processo instanciado e processo
+especializado
+C processo instanciado, processo padrão e processo
+especializado
+D processo instanciado, processo especializado e
+processo padrão
+E processo especializado, processo padrão e processo
+instanciado
+
+QUESTÃO 66
+Segundo o modelo COBIT (control objectives for
+information technology), os processos de TI devem ser
+auditados por meio de um processo composto pelas etapas
+de: (il) COMPREENSÃO dos riscos relacionados aos
+requisitos de negócios e das medidas de controle
+relevantes; (ii) avaliação da ADEQUABILIDADE
+(PROPRIEDADE) dos controles declarados; (iii) avaliação
+de CONFORMIDADE por meio do teste de funcionamento
+consistente e contínuo dos controles, conforme prescritos;
+e (iv) SUBSTANCIAÇÃO do risco dos objetivos de controle
+não serem alcançados por meio de técnicas analíticas
+e(ou) consulta a fontes alternativas. Com relação a essas
+etapas, assinale a opção correta.
+O Duranteaetapade SUBSTANCIAÇÃO, são realizadas
+entrevistas com o gestor e os empregados que
+desempenham o processo de TI, visando identificar
+leis e regulamentos aplicáveis.
+O Durante a etapa de CONFORMIDADE, são
+documentadas as fraquezas dos controles em prática,
+com a indicação das ameaças e vulnerabilidades
+presentes.
+O Durante a etapa de ADEQUABILIDADE, são obtidas
+evidências diretas e indiretas aplicáveis a
+determinados artefatos e períodos de tempo
+diretamente relacionados ao processo de TI, visando-
+se garantir que os procedimentos em prática sejam
+compatíveis com os controles declarados.
+O Durante a etapa de COMPREENSÃO, são
+identificados e documentados impactos reais e
+potenciais para a organização, empregando-se
+análises de causa-raiz.
+O Durante a etapa de ADEQUABILIDADE, é avaliada a
+conveniência das medidas de controle adotadas para
+o processo de TI, por meio da consideração de
+critérios bem definidos, práticas padronizadas da
+indústria, fatores críticos de sucesso para as medidas
+de controle, bem como o julgamento profissional pelo
+auditor.
+
+QUESTÃO 67
+No desenvolvimento e na programação de aplicações em
+redes TCP/IP, qual tipo de protocolo de transporte libera o
+programador da responsabilidade de detectar e corrigir
+erros durante a transmissão, objetivando tornar a
+programação da aplicação mais simples?
+sem conexão
+orientado a conexão
+orientado a bit
+orientado a byte
+datagrama confirmado
+
+QUESTÃO 68
+Considere as seguintes tabelas:
+CREATE TABLE Departamento
+(
+IdDep int NOT NULL,
+NomeDep varchar (15),
+CONSTRAINT Departamentopkey PRIMARY KEY (IdDep)
+);
+CREATE TABLE Empregado
+(
+IdEmpregado int NOT NULL,
+IdDep int,
+salario float,
+CONSTRAINT Empregadopkey PRIMARY KEY (IdEmpregado),
+CONSTRAINT EmpregadoIdDepfkey FOREIGN KEY (IdDep)
+REFERENCES Departamento (IdDep)
+ON UPDATE RESTRICT ON DELETE RESTRICT
+Considere as seguintes consultas SQL.
+I SELECT NomeDep, count (*)
+FROM Departamento D, Empregado E
+WHERE D.IdDep=E.IdDep and E.salario > 10000
+GROUP BY NomeDep
+HAVING count(*) > 5;
+II SELECT NomeDep, count (*)
+FROM Departamento D, Empregado E
+WHERE D.IdDep=E.IdDep and E.salario >10000 and
+E.IdDep IN (SELECT IdDep
+FROM Empregado
+GROUP BY IdDep
+HAVING count(*) > 5)
+GROUP BY NomeDep;
+Quando as consultas acima são realizadas, o que é recuperado em cada uma delas?
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados e o número de empregados que ganham
+mais de 10.000 reais.
+os nomes dos departamentos que possuem mais de 5 empregados e o número de empregados que ganham
+mais de 10.000 reais.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número total de funcionários do departamento.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número total de funcionários do departamento.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+
+QUESTÃO 72
+Uma empresa de crédito e financiamento
+utiliza um sistema de informação para analisar
+simulações, com base em cenários, e determinar
+como as variações da taxa básica de juros do país
+afetam seus lucros.
+Como deve ser classificado esse sistema de
+informação?
+sistema de processamento de transações
+sistema de controle de processos
+sistema de informação gerencial
+sistema de apoio à decisão
+sistema de informação executivo
+co oçcoo
+
+QUESTÃO 71
+Coesão e acoplamento são dois conceitos
+fundamentais para a qualidade do projeto modular de
+um software. A coesão diz respeito à funcionalidade
+dos módulos que compõem o software e é relacionada
+ao conceito de ocultação de informação.
+O acoplamento está relacionado aos dados e
+representa a interconexão entre os módulos. Suponha
+que determinado sistema possa ter a arquitetura de
+seus módulos projetada por meio das duas
+alternativas diferentes mostradas na figura acima,
+sendo a funcionalidade de um módulo a mesma nas
+duas alternativas. Nessa figura, os retângulos
+representam os módulos e as arestas representam
+chamadas a funcionalidades de outros módulos. A
+partir dessas informações, assinale a opção correta.
+O Acoesão e o acoplamento de todos os módulos
+são iguais nas duas alternativas.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é menor, a dos módulos B e
+C é maior e o acoplamento do projeto é maior.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é maior, a dos módulos B e
+C é menor e o acoplamento do projeto é maior.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é maior, a dos módulos B e
+C é maior e o acoplamento do projeto é menor.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é menor, a dos módulos B e
+C é maior e o acoplamento do projeto é menor.
+
+QUESTÃO 70
+Ethernet e suas evoluções de 100 Mbps e 1 Gbps são
+tecnologias padronizadas para comunicações em redes locais
+com infra-estrutura de transmissão compartilhada. Acerca das
+transmissões que usam essas tecnologias, assinale a opção
+incorreta.
+O Embora diversos segmentos de uma rede possam ser
+definidos com o uso de equipamentos de comutação
+(switches), transmissões de pacotes com endereço de
+broadcast (difusão) atingem todos os computadores na
+mesma rede.
+O O mecanismo de controle de acesso ao meio utilizado é
+distribuído e, nas redes com concentradores (hubs), cada
+interface de rede deve determinar quando é possível
+realizar uma transmissão.
+O Comutadores (switches) realizam o encaminhamento
+seletivo de quadros com base nos endereços |P de cada
+estação.
+O A escuta do meio durante as transmissões permite
+detectar colisões em segmentos compartilhados e a
+necessidade de retransmissões, mas não há envio de
+quadros (frames) de confirmação de recebimento.
+O Um mecanismo de controle de consistência é usado para
+verificar a integridade de cada quadro (frame) transmitido.
+
+QUESTÃO 69
+Um ponto crítico para as organizações é a gerência de seus
+sistemas legados. Quanto a esses sistemas, é importante
+decidir se eles devem sofrer uma reengenharia, sendo
+reimplementados, ou não. Essa decisão é tomada após se
+avaliarem os sistemas legados com base em dois parâmetros:
+valor estratégico para a organização, ou seja, o valor que ele
+agrega para os serviços e produtos da organização; e
+qualidade do sistema, ou seja, o custo de manutenção uma
+vez que sistemas de baixa qualidade possuem alto custo de
+manutenção. Essa avaliação classifica esses sistemas de
+acordo com as situações de | a IV indicadas abaixo.
+Apenas na situação |.
+Apenas na situação |V.
+Apenas nas situações | e |l.
+Apenas nas situações || e Ill.
+Apenas nas situações ll e IV.
+cocoo
+
+QUESTÃO 74
+No processo de desenvolvimento de software, todo
+software passa pelas fases de análise e projeto,
+associadas, respectivamente, com o que deve ser feito
+e como deve ser feito. A partir dessa informação,
+avalie a opções correta.
+O Nafase de análise, três modelos que devem ser
+considerados são: do domínio da informação, o
+funcional e o comportamental.
+O Na fase de projeto, dois níveis de projeto devem
+ser considerados: o projeto detalhado, que se
+preocupa com uma transformação dos requisitos
+em um projeto de dados e arquitetural; e o projeto
+preliminar, que se preocupa em aprimorar o
+projeto detalhado para que a implementação
+possa ser realizada em seguida.
+O O objetivo do projeto arquitetural é desenvolver
+uma estrutura de programa e representar os
+diversos fluxos de dados entre os módulos.
+O O projeto arquitetural independe do paradigma de
+desenvolvimento.
+O Para lidar com a complexidade do software,
+pode-se aplicar o princípio do particionamento,
+quebrando o problema em problemas menores.
+Esse princípio não é aplicado nas outras fases de
+desenvolvimento e ele não causa impacto nos
+custos de desenvolvimento.
+
+QUESTÃO 73
+Uma das técnicas que auxiliam na gerência de projetos
+de software é o gráfico de atividades, por meio do qual é
+possível calcular, por exemplo, a duração de um projeto, as
+atividades críticas e as atividades que possuem folga para sua
+execução. Nesse gráfico, os círculos representam os eventos
+iniciais e finais de cada atividade, as arestas representam as
+atividades, e os números associados às arestas representam
+a duração dessas atividades.
+Considerando-se o gráfico de atividades acima e a tabela de
+custo de aceleração das atividades da rede que podem ser
+aceleradas, qual(is) atividade(s) deve(m) ser acelerada(s) para
+que o tempo do projeto associado a esse gráfico seja reduzido
+em uma unidade de tempo e para que o custo total de
+aceleração seja o menor possível?
+apenas a atividade (C-F)
+apenas as atividades (D-E) e (E-G)
+apenas a atividade (E-G)
+apenas as atividades (E-G) e (F-H)
+apenas a atividade (E-H)
+cogcgoo
+
+QUESTÃO 75
+Considere que a figura ao lado ilustre o cenário de NAPT em uma empresa
+cujos equipamentos de rede interna (LAN) usam endereços |P privados.
+Considere, ainda, que haja apenas um endereço IP válido nas redes dessa
+empresa, que é atribuído à interface externa do roteador. Considerando que os
+computadores A e B façam acessos simultâneos a um servidor WWW externo 
+(www.inep.gov.br, por exemplo), quais deverão ser os endereços |P de origem 
+contidos nos pacotes de A e B, respectivamente, que chegarão a esse servidor? 
+A 10.0.0.1 e 10.0.0.2
+B 10.0.0.254 e 10.0.0.254
+C 138.76.28.4 e 138.76.28.4
+D 138.76.28.1 e 138.76.28.2
+E 169.254.1.1 e 169.254.1.2
+
+QUESTÃO 76
+Considere o esquema de relação cliente (CPF, nome, RGemissor,
+RGnro, endereco, loginemail, dominioemail) e as seguintes
+dependências funcionais (DF) válidas sobre o esquema:
+DF1: CPF * nome, RGemissor, RGnro, endereco, loginemail,
+dominioemail
+DF2: RGemissor, RGnro * CPF, nome, endereco, loginemail,
+dominioemail
+DF3: loginemail, dominioemail ? CPF
+Qual é o conjunto completo de chaves candidatas de cliente e em
+que forma normal mais alta essa relação está?
+O ((RGemissor, RGnro), (CPF)),naForma Normal de Boyce-
+Codd (FNBC).
+( (RGemissor, RGnro), (CPF)),na Segunda Forma Normal
+(2FN).
+((loginemail, dominicemail)),naForma Normalde Boyce-
+Codd (FNBC).
+( (RGemissor, RGnro), (loginemail, dominioemail),
+(CPF) ), na Forma Normal de Boyce-Codd (FNBC).
+( (RGemissor, RGnro), (loginemail, dominioemail),
+(CPF) ), na Segunda Forma Normal (2FN).
+
+QUESTÃO 77
+Considere que você trabalhe em uma empresa de desenvolvimento
+de software e que a empresa tenha decidido desenvolver um novo
+editor de texto para colocar no mercado. Esse editor deve ser um
+software que forneça recursos adicionais de apoio à autoria,
+embasado no estilo de escrita do usuário, o que o torna um software
+de funcionalidade mais complexa. Considere que a empresa deseje
+disponibilizar o produto no mercado em versões que agreguem esse
+suporte de forma gradativa, fazendo análise de risco para avaliar a
+viabilidade de desenvolvimento de uma nova versão. Tendo de
+escolher um modelo de processo para desenvolver esse editor, e
+conhecendo as características dos modelos existentes, entre os
+modelos abaixo, qual é o modelo apropriado para esse caso?
+cascata
+espiral
+RAD (rapid application development)
+prototipação
+cleanroom
+
+Texto para as questões 78 e 79
+A Secretaria de Saúde de determinado município está
+executando um projeto de automação do seu sistema de
+atendimento médico e laboratorial, atualmente manual. O objetivo
+do projeto é melhorar a satisfação dos usuários com relação aos
+serviços prestados pela Secretaria. O sistema automatizado deve
+contemplar os seguintes processos: marcação de consulta,
+manutenção de prontuário do paciente, além do pedido e do
+registro de resultados de exame laboratorial.
+A Secretaria possui vários postos de saúde e cada um
+deles atende a um ou mais bairros do município. As consultas a
+cada paciente são realizadas no posto de saúde mais próximo de
+onde ele reside. Os exames laboratoriais são realizados por
+laboratórios terceirizados e conveniados.
+A solução proposta pela equipe de desenvolvimento e
+implantação da automação contempla, entre outros, os seguintes
+aspectos:
+» sistemacomputacional do tipo cliente-servidor na web, em que
+cada usuário cadastrado utiliza login e senha para fazer uso do
+sistema;
+» uma aplicação, compartilhada por médicos e laboratórios,
+gerencia o pedido e o registro de resultados dos exames.
+Durante uma consulta o próprio médico registra o pedido de
+exames no sistema;
+» uma aplicação, compartilhada por médicos e pacientes,
+permite que ambos tenham acesso aos resultados dos
+exames laboratoriais;
+» uma aplicação, compartilhada por médicos e pacientes, que
+automatiza o prontuário dos pacientes, em que os registros em
+prontuário, efetuados por cada médico para cada paciente,
+estão disponíveis apenas para o paciente e o médico
+específicos. Além disso, cada médico pode fazer registros
+privados no prontuário do paciente, apenas visíveis por ele;
+» uma aplicação, compartilhada por pacientes e atendentes de
+postos de saúde, que permite a marcação de consultas por
+pacientes e(ou) por atendentes. Esses atendentes atendem o
+paciente no balcão ou por telefone.
+
+QUESTÃO 78
+Considerando o contexto acima, julgue os seguintes itens.
+| No contexto do projeto acima descrito, aquele que
+desempenha o papel de usuário do sistema de informação
+automatizado não é apenas o paciente, e aquele que
+desempenha o papel de cliente pode não ser um médico.
+ll O sistema de informação manual atualmente em uso na
+referida secretaria de saúde não dá suporte aos processos de
+negócio dessa secretaria.
+O projeto de automação dos serviços de saúde não é uma
+solução de outsourcing.
+IV No sistema acima, os riscos de não-repúdio são aumentados
+com a automação.
+V Para o gestor do sistema de informação a ser automatizado,
+a acessibilidade é uma característica de menor importância
+jurídica frente à necessidade de ampliar a confidencialidade.
+Estão certos apenas os itens
+O lel.
+O ev.
+o lei.
+O IWVev.
+O llelv.
+
+QUESTÃO 79 — DISCURSIVA
+Considerando as informações apresentadas no texto
+e considerando ainda que entre os principais
+benefícios de um projeto de melhoria de sistema de
+informação destacam-se o aumento da: (|)
+eficiência; (II) eficácia; (Ill) integridade; e (IV)
+disponibilidade, faça o que se pede a seguir.
+A Cite 4 vantagens da solução proposta, frente à
+atual, para tratar a interação entre pacientes e os
+serviços de saúde, sendo duas delas relativas à
+eficiência e duas relativas à eficácia.
+B Descreva 2 riscos de segurança da informação
+que aumentam quando se substitui o sistema
+atual pelo sistema proposto, e que são relativos
+à interação entre pacientes e os serviços da
+referida secretaria de saúde. Um dos riscos deve
+ser relativo à perda de disponibilidade e o outro,
+à perda de integridade.
+
+QUESTÃO 80 - DISCURSIVA
+Durante a análise de um sistema de controle de contas bancárias (SCCB), um analista elaborou
+o diagrama de classes acima, em que são especificados os objetos de negócio da aplicação, por meio
+do qual foram distribuídas as responsabilidades e colaborações entre os elementos do modelo. Foi
+atribuída a outro analista a tarefa de elaborar o diagrama de sequência do caso de uso chamado
+DUPLA CONTA, que apresenta o seguinte comportamento: cria um banco, cria uma agência bancária,
+cria um cliente e duas contas bancárias associadas ao cliente e agência bancária anteriormente
+criados, e, por fim, realiza uma transferência de valores entre essas duas contas bancárias. O
+diagrama de sequência em UML apresentado abaixo foi elaborado com o intuito de corresponder ao
+caso de uso em questão.
+
+No diagrama de sequência apresentado, há problemas conceituais, relativos à especificação do diagrama de classes e
+à descrição textual do caso de uso DUPLA-CONTA. Com relação a essa situação, faça o que se pede a seguir.
+A Descreva, textualmente, três falhas de tipos distintos presentes no diagrama de sequência apresentado, relativas ao
+uso da sintaxe e(ou) da semântica da UML.
+(valor: 4,0 pontos)
+B Descreva, textualmente, três falhas distintas presentes no diagrama de sequência apresentado, relativas à
+especificação das classes, responsabilidades e colaborações propostas no diagrama de classe mostrado.
+

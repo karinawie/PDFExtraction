@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:01:06</Created>
+	<LastChange>2021-01-18T13:48:17</LastChange></Metadata>
+	<Page imageFilename="prova.TR-19.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="60,1289 251,1289 251,1339 1554,1339 1554,1405 1231,1405 1231,1554 1554,1554 1554,1924 1555,1924 1555,2069 59,2069 59,1924 61,1924 61,1478 60,1478"/>
+	<TextEquiv conf="0.96850">
+	<Unicode>QUESTÃO 36
+Em uma amostra de qualquer material radioativo, a fração de átomos que desaparecem por unidade de tempo depende
+do número, N, de átomos do material existente na amostra. Este conceito pode ser descrito pela equação
+dN
+— = —AN
+dt
+Esta equação pode ser resolvida utilizando-se técnicas de cálculo diferencial e seu resultado é:
+(A) N=N,e?*!, onde N, é o número de átomos presentes quando t = O e 2 é a constante de decaimento radioativo do
+elemento químico que compõe a amostra.
+(B) N= Ne”, onde N, é o número de átomos presentes quando t = O e 2 é a constante de decaimento radioativo do
+elemento químico que compõe a amostra.
+(C) N= Noe?*, onde N, é o número de átomos presentes quando t = 0 e à é a meia-vida do elemento químico que
+compõe a amostra.
+(D) N= Noel, onde N, é o número de átomos presentes quando t = meia-vida e 2 é a constante de decaimento
+radioativo do elemento químico que compõe a amostra.
+(E) N=N,e?*, onde N, é o número de átomos presentes quando t = co e 1 é a constante de decaimento radioativo do
+elemento químico que compõe a amostra.
+MM
+Enade-Téc. Radiologia-2007</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="60,158 451,158 451,273 1555,273 1555,366 1553,366 1553,445 513,445 513,496 436,496 436,628 468,628 468,678 586,678 586,778 1554,778 1554,898 573,898 573,968 179,968 179,1010 160,1010 160,1166 246,1166 246,1236 122,1236 122,1241 61,1241 61,941 110,941 110,778 197,778 197,678 198,678 198,445 128,445 128,389 147,389 147,229 60,229"/>
+	<TextEquiv conf="0.96609">
+	<Unicode>QUESTÃO 35
+Considere as afirmativas abaixo.
+I. Para evitar contaminação de doenças de transmissão aérea, tais como tuberculose pulmonar e laríngea,
+H. influenzae tipo b, sarampo, varicela, herpes zoster, coqueluche, caxumba e rubéola, devem-se utilizar
+máscaras com filtro especial (N95).
+II. A especificação de cores para o acondicionamento de resíduos devem atender ao disposto em norma ABNT,
+a saber:
+a. Vermelho Plástico
+b. Verde— Vidro
+c. Azul Papel
+d. Amarelo — Metal
+e. Branco Risco biológico
+f. Lilás Resíduo radioativo
+III. O quarto destinado à internação de paciente para administração de radiofármacos deve possuir blindagem,
+paredes e pisos com cantos vivos revestidos de papel e que permitam sua descontaminação, sanitário
+privativo, biombo de plástico junto ao leito, sinalização externa da presença de radiação ionizante e acesso
+controlado.
+Está correto o que se afirma APENAS em
+(A) I.
+(B) II.
+(C) III..
+(D) IeII.
+(E) IIeIII.</Unicode></TextEquiv></TextRegion></Page></PcGts>

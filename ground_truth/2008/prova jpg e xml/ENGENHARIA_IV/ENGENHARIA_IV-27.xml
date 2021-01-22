@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:29:11</Created>
+	<LastChange>2020-10-25T18:38:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-27.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="157,568 157,980 702,980 702,568"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="817,177 817,2154 828,2154 828,177"/></SeparatorRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="851,187 1045,187 1045,230 1574,230 1574,650 1572,650 1572,722 852,722 852,188 851,188"/>
+	<TextEquiv conf="0.96366">
+	<Unicode>QUESTÃO 47
+Os microrganismos são utilizados há milênios na condução
+de processos com interesse comercial e estão na base
+da indústria biotecnológica que tem apresentado enorme
+expansão nos últimos 50 anos. Qual a importância do co-
+nhecimento adequado das informações fisiológicas sobre um
+microrganismo utilizado em uma unidade biotecnológica in-
+dustrial?
+(A) Avaliar a contaminação do sistema.
+(B) Obter informações sobre as exigências nutricionais do
+microrganismo empregado.
+(C) Auxiliar na recuperação do produto final.
+(D) Visualizar micro e macroscopicamente a linhagem de
+interesse.
+(E) Selecionar o método de separação da biomassa ao final
+do processo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="850,763 1573,763 1573,764 1574,764 1574,1762 894,1762 894,1676 893,1676 893,1641 852,1641 852,1298 850,1298"/>
+	<TextEquiv conf="0.86125">
+	<Unicode>QUESTÃO 48
+Determinada substância P é obtida em uma fermentação
+conduzida de modo descontínuo, na qual o fator de rendimento
+em relação às células é Y,,, de 0,5 g de P/g de células.
+O crescimento do bioagente dá-se de forma exponencial do
+início ao fim do processo, que apresenta um tempo de
+geração (tempo de duplicação da biomassa celular) de
+3,5 horas. O biorreator é utilizado contendo 20 mº? de meio de
+fermentação (mosto + inóculo com concentração inicial de
+células de 45 g.L*). Afermentação termina quando o substrato
+é totalmente exaurido do meio, verificando-se, então, a
+produção de 2.000 Kg de produto P. Quais os valores da velo-
+cidade específica de crescimento do microorganismo (h!) e
+do tempo de fermentação (h), respectivamente, para esse
+processo?
+Ln2 —(Ln245- Ln45).3,5
+— e sx
+3,5 Ln2
+Ln2 —(Ln155- Ln45).3,5
+to] 8 —————————————
+3,5 Ln2
+(Ln245 - Ln45)
+5 E ——————
+(Ln2) - 3,5
+(Lni55 - Ln45)
+e n——— —
+(Ln2) - 3,5
+35 — (Ln245- Ln45).Ln2
+—— e
+(Ln2) 3,5
+(A)
+(B)
+(C)LnN2) .3,
+(D)(Ln2) - 3,5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,316 273,316 273,359 803,359 803,1085 801,1085 801,1325 803,1325 803,1650 80,1650 80,1185 79,1185 79,1118 78,1118 78,1092 80,1092 80,552 79,552 79,359 80,359"/>
+	<TextEquiv conf="0.92806">
+	<Unicode>QUESTÃO 46
+O gráfico abaixo representa o perfil cinético de três
+bioprocessos industriais distintos (p1, p2 e p3), conduzidos
+de forma descontínua para obtenção de três produtos
+(P1, P2 e P3), sendo usados como bioagentes três
+diferentes espécies microbianas, que utilizam como fonte
+de carbono o mesmo substrato (S), glicose.
+No processo p1, o bioagente é a levedura Saccharomyces
+cerevisiae; no processo p2, é usada a bactéria Lactobacillus
+plantarum, e no p3, é usado o fungo Penicillium chrysogenum.
+Considerando as informações apresentadas e analisando o
+gráfico, conclui-se que o
+(A) processo p1 corresponde à produção de fermento de
+panificação cuja cinética de processo com formação de
+produto, não associada ao crescimento celular, segue
+metabolismo primário relacionado ao catabolismo.
+(B) processo p2 corresponde à produção de goma xantana,
+que ocorre em cinética de formação de produto parcial-
+mente associada ao crescimento celular.
+(C) processo p3 corresponde à produção de um metabólito
+secundário com formação de produto não associado ao
+crescimento celular.
+(D) processo p3, em relação aos demais, apresenta um
+tempo de fermentação muito inferior.
+(E) substrato é não específico para as espécies microbianas
+utilizadas nos três processos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

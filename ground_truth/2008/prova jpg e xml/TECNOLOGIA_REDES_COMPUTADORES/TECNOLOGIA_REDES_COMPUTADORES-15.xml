@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:02:10</Created>
+	<LastChange>2020-10-26T14:06:55</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-15.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 273,183 273,224 1574,224 1574,345 1408,345 1408,346 1242,346 1242,347 1214,347 1214,475 1270,475 1270,508 1395,508 1395,529 1231,529 1231,530 1067,530 1067,531 903,531 903,532 739,532 739,533 574,533 574,534 551,534 551,652 196,652 196,785 80,785 80,593 81,593 81,350 79,350 79,224 80,224"/>
+	<TextEquiv conf="0.94981">
+	<Unicode>QUESTÃO 37
+Nas redes Ethernet, define-se domínio de colisão como o conjunto de dispositivos de uma rede que compartilham o acesso
+ao meio. Define-se também domínio de difusão (broadcast) como o conjunto de dispositivos de uma rede que escutam
+as mesmas mensagens de difusão (quadros com endereço de difusão). Segundo essas definições, e considerando os
+equipamentos de rede, analise as afirmações a seguir.
+| - Todas as portas de um comutador (switch) de nível 2 estão no mesmo domínio de colisão.
+Il - Um roteador pode ser utilizado para separar dois domínios de difusão.
+Ill - Quando se interligam dois concentradores (hubs), criam-se dois domínios de colisão distintos.
+IV - Duas estações que estejam no mesmo domínio de colisão também estão no mesmo domínio de difusão.
+Estão corretas APENAS as afirmações
+(A)lell
+(B)lelll
+(C)lelV
+(D)llelV
+(E) elV</Unicode></TextEquiv></TextRegion></Page></PcGts>

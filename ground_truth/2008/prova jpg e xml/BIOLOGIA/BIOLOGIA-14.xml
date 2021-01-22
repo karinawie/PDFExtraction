@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T21:02:09</Created>
+	<LastChange>2020-09-22T21:02:32</LastChange></Metadata>
+	<Page imageFilename="BIOLOGIA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="829,207 829,2119 831,2119 831,207"/></SeparatorRegion>
+	<ImageRegion id="r8">
+	<Coords points="941,776 941,1160 1461,1160 1461,776"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,282 812,282 812,793 257,793 257,911 811,911 811,936 340,936 340,1056 811,1056 811,1131 700,1131 700,1179 195,1179 195,1348 811,1348 811,1423 617,1423 617,1542 740,1542 740,1638 811,1638 811,2070 388,2070 388,2119 155,2119 155,2070 104,2070 104,1568 103,1568 103,1542 104,1542 104,1423 103,1423 103,1348 104,1348 104,1179 103,1179 103,1056 104,1056 104,936 103,936 103,282 104,282"/>
+	<TextEquiv conf="0.95848">
+	<Unicode>QUESTÃO 27
+A qualidade da água e do solo vem sendo alterada
+pelo uso intensivo de agrotóxicos e de outros agentes
+contaminantes. A avaliação da mutagenicidade desses
+compostos fornece parâmetros para orientar o controle da
+emissão de poluentes. Entre os diversos organismos
+utilizados como biomarcadores, o peixe paulistinha (Danio
+rerio) destaca-se na avaliação do potencial mutagênico de
+agrotóxicos. Nesse caso, uma das metodologias adotadas
+pelos técnicos consiste em analisar a incidência de quebras
+cromossômicas em paulistinhas submetidos a amostras de
+água que contêm doses controladas do agrotóxico
+questionado.
+Tendo o texto acima como referência inicial, analise as
+asserções a seguir.
+As quebras cromossômicas observadas nos peixes e
+demais eucariotos levam à inativação gênica e à
+consequente modificação de uma via metabólica
+porque
+uma das consequências das quebras cromossômicas é a
+formação de fragmentos cromossomais acêntricos que
+serão perdidos na próxima divisão celular.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O Asduas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+O Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="851,215 1041,215 1041,301 1551,301 1551,651 1275,651 1275,1209 1551,1209 1551,2039 1007,2039 1007,2098 902,2098 902,2039 852,2039 852,1962 851,1962"/>
+	<TextEquiv conf="0.96573">
+	<Unicode>QUESTÃO 28
+Os pandas, incluindo-se os pandas gigantes e os
+pandas vermelhos, por muito tempo foram tratados como
+ursos, mas, posteriormente, verificou-se que uma série de
+características os aproximava dos guaxinins. A figura
+abaixo apresenta os resultados de estudos com hibridação
+de DNA à qual foi acrescentada uma escala temporal
+depois de feita a análise cladística.
+Qual das conclusões abaixo pode ser sustentada pela
+figura?
+O O panda vermelho tem menor similaridade com os
+guaxinins do que com o urso panda gigante.
+O Pandas gigantes, ursos pardos, ursos malaios e ursos
+de óculos formam um grupo parafilético.
+O O cachorro é a única espécie do diagrama que não
+pode ser chamada de urso.
+O A divergência entre as formas que originaram os
+pandas gigantes e pandas vermelhos ocorreu há mais
+de 80 milhões de anos.
+O O panda gigante eo panda vermelho estão em clados
+distintos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

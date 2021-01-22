@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T22:48:18</Created>
+	<LastChange>2021-01-18T13:28:10</LastChange></Metadata>
+	<Page imageFilename="prova.nutricao-15.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="825,220 825,2106 827,2106 827,220"/></SeparatorRegion>
+	<TextRegion id="r38" type="heading">
+	<Coords points="847,1379 1551,1379 1551,1544 1550,1544 1550,2104 886,2104 886,2034 885,2034 885,1905 886,1905 886,1609 847,1609"/>
+	<TextEquiv conf="0.92343">
+	<Unicode>QUESTÃO 29
+No caso de uma gestante de 35 anos de idade, na 26.º
+semana de gestação, com diabetes gestacional, sem uso
+de medicação hipoglicemiante e que foi encaminhada ao
+ambulatório de nutrição, entre as opções a seguir, a melhor
+orientação a ser estabelecida pelo nutricionista é dieta
+A hipoenergética, utilizando-se a técnica de contagem de
+carboidratos e permitindo-se ganho ponderal máximo
+de 100 g/semana.
+B hipoenergética, com almentos de baixo índice
+glicêmico, para evitar a microangiopatia fetal e a
+cetonúria pós-prandial.
+normoenergética, com o máximo de 30% de
+C carboidratos totais e consumo preferencial de proteínas
+de alto valor biológico.
+D balanceada, que permita ganho ponderal de
+300 g/semana a 400 g/semana e fracionamento das
+refeições, para obter melhor controle da glicemia de
+jejum e pós-prandial.
+E balanceada, isenta de carboidrato simples e com pelo
+menos 4 porções de frutas e 4 de hortaliças por dia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords points="847,227 1038,227 1038,282 1529,282 1529,491 1530,491 1530,621 938,621 938,738 1530,738 1530,832 1514,832 1514,948 1550,948 1550,1287 886,1287 886,1147 885,1147 885,1037 848,1037 848,967 847,967 847,621 846,621 846,491 847,491"/>
+	<TextEquiv conf="0.96464">
+	<Unicode>QUESTÃO 28
+Resultados de avaliação nutricional em pacientes
+internados com câncer mostram que grande parte deles
+apresentam-se desnutridos ou em risco nutricional.
+Acerca da relação entre desnutrição e câncer, analise as
+asserções a seguir.
+Fatores anoréticos do tumor ou hospedeiro, dor,
+depressão, obstruções gastrointestinais e agressões
+terapêuticas provocam a diminuição da ingestão
+alimentar realizada por pacientes oncológicos
+porque
+os pacientes com câncer em estágio avançado
+costumam apresentar intolerância à glicose, balanço
+nitrogrenado negativo e aumento da lipólise.
+Assinale a opção correta a respeito dessas asserções.
+A As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+C Tanto a primeira quanto a segunda asserções são
+proposições falsas.
+D A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+E A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,227 294,227 294,276 805,276 805,388 806,388 806,856 455,856 455,935 257,935 257,1157 144,1157 144,1154 103,1154 103,986 105,986 105,338 103,338 103,276 104,276"/>
+	<TextEquiv conf="0.96534">
+	<Unicode>QUESTÃO 26
+Com relação aos instrumentos utilizados na avaliação do
+consumo alimentar das pessoas, julgue os itens a seguir.
+| O questionário de frequência alimentar é um método
+retrospectivo de avaliação da ingestão de alimentos em
+determinado período.
+Il O recordatório de 24 horas é um método de avaliação
+de consumo alimentar que permite inferir acerca do
+grau de adequação do consumo de macronutrientes.
+Ill A importância da avaliação do consumo alimentar em
+crianças reside no fato de que deficiências quantitativas
+e(ou) qualitativas do consumo acarretam, no curto
+prazo, atrasos pôndero-estaturais.
+IV A relação cintura-quadril é um indicador que possibilita
+uma estimativa do consumo de gordura total a partir dos
+10 anos de idade.
+Estão certos apenas os itens
+leill.
+lei.
+Ie.
+Lei.
+II, NMeiv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="104,1204 294,1204 294,1269 789,1269 789,1634 806,1634 806,1695 805,1695 805,1820 807,1820 807,2067 712,2067 712,2106 142,2106 142,2082 143,2082 143,2063 105,2063 105,1917 104,1917 104,1807 103,1807 103,1746 104,1746 104,1634 162,1634 162,1233 104,1233"/>
+	<TextEquiv conf="0.96525">
+	<Unicode>QUESTÃO 27
+Duas mulheres, uma sedentária e a outra
+maratonista, com mesma idade e mesmo peso
+corporal, consultaram um nutricionista em busca
+de orientação alimentar e para estabelecer um
+plano alimentar. O nutricionista calculou, para cada
+uma, o gasto energético diário (GED), a partir da
+avaliação do gasto energético de repouso (GER),
+do efeito térmico dos alimentos (ETA) consumidos
+e do efeito térmico do exercício (ETE).
+Com relação a essa situação hipotética e sabendo que
+GED = GER + ETA + ETE, assinale a opção correta.
+A As duas mulheres devem apresentar o mesmo ETA,
+pois ambas têm a mesma idade e peso.
+B Na maratonista, o GER deve corresponder ao maior
+percentual do GED.
+C Na maratonista, o valor de GER + ETE deve
+corresponder a menos de 50% do valor do GED.
+D Na mulher sedentária, o GER deve corresponder ao
+maior percentual do GED.
+E Na mulher sedentária, o valor de ETA + ETE deve
+corresponder a mais de 50% do valor do GED.</Unicode></TextEquiv></TextRegion></Page></PcGts>

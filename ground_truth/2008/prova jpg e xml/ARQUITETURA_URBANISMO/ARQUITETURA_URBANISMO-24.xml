@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:35:04</Created>
+	<LastChange>2020-11-17T00:13:47</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-24.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="845,245 845,774 1565,774 1565,245"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="97,471 97,1374 860,1374 860,471"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="940,814 940,1525 1457,1525 1457,814"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="79,1599 1572,1599 1572,1822 1315,1822 1315,1900 752,1900 752,1939 675,1939 675,2056 80,2056 80,1822 79,1822"/>
+	<TextEquiv conf="0.96156">
+	<Unicode>QUESTÃO 36
+Acasa Baeta (1956), projeto de Vilanova Artigas, apresenta solução estrutural inusitada: seis apoios e três pórticos. Os dois
+pórticos da fachada, frente e fundo, contam com a altura estrutural das duas paredes de concreto (empenas) para realizar o
+balanço assimétrico de 4,5 metros. Por problemas na execução da obra, a escora idealizada por Artigos foi substituída por um
+pilar improvisado em concreto, construído do lado de fora da casa.
+Em reforma recente, o arquiteto Ângelo Bucci recuperou a integridade da estrutura original da casa (Figura 1), reconstituindo
+o elemento de sustentação central do projeto original, conforme ilustrações acima (Figuras 2€ 3).
+Qual das justificativas abaixo explica a necessidade desse elemento estrutural?
+(A) Impossibilidade de construção do pórtico central como uma empena, que cindiria o espaço interno.
+(B) Excesso de peso da estrutura da laje intermediária.
+(C) Peculiaridade da geometria do pilar.
+(D) Necessidade de atirantar a laje intermediária.
+(E) Ausência de elementos ornamentais internos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

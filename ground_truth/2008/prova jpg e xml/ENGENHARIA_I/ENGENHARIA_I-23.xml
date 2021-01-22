@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:39:21</Created>
+	<LastChange>2020-09-23T02:16:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="81,1086 81,1087 1573,1087 1573,1188 81,1188 81,1187 80,1187 80,1086"/>
+	<TextEquiv conf="0.96148">
+	<Unicode>QUESTÃO 37
+Em um circuito monofásico de 127 V de uma instalação elétrica residencial, há uma ligação em three-way. Nesse tipo de
+ligação são utilizados dois interruptores e, em cada um deles é ligado um conjunto de condutores composto de:</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="65,1205 65,1542 1011,1542 1011,1205"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="365,408 365,840 1282,840 1282,408"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,182 80,183 273,183 273,224 1573,224 1573,383 1425,383 1425,1050 80,1050 80,382 79,382 79,224 80,224"/>
+	<TextEquiv conf="0.96697">
+	<Unicode>QUESTÃO 36
+Um corte em solo tem sua geometria representada na figura a seguir. Sondagens indicaram a existência de dois horizontes de
+características geotécnicas bem diferentes, suscitando dúvidas quanto à estabilidade da escavação. Ensaios de laboratório
+determinaram que os parâmetros de resistência ao cisalhamento na interface solo X e solo Y são: coesão de 5 kPa e ângulo
+de atrito interno (4) tal que tg? = 0,5.
+(Considere: cos 30º = 0,9 e sen 30º = 0,5)
+Nessas condições, o coeficiente de segurança quanto ao deslizamento para a cunha de solo X sobre o solo Y é
+(A) 1,00
+(B) 1,50
+(C) 1,65
+D) 1,73
+(E) 2,00</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T06:10:18</Created>
+	<LastChange>2021-01-18T12:50:51</LastChange></Metadata>
+	<Page imageFilename="prova.biomedicina-11.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="61,1457 250,1457 250,1458 251,1458 251,1507 1555,1507 1555,1565 1257,1565 1257,1566 773,1566 773,1670 1187,1670 1187,1735 1554,1735 1554,1832 1555,1832 1555,1888 1554,1888 1554,1984 1256,1984 1256,1985 957,1985 957,1986 659,1986 659,1987 360,1987 360,1988 62,1988 62,1989 61,1989 61,1566 60,1566 60,1458 61,1458"/>
+	<TextEquiv conf="0.96849">
+	<Unicode>QUESTÃO 19
+Na gasometria arterial, além das medidas de pH e pressões parciais de gás carbônico e oxigênio, mede-se também a
+concentração plasmática do fon bicarbonato. O que se pode afirmar, corretamente, em relação a este eletrólito?
+(A) Normalmente é excretado por secreção tubular renal.
+(B) Em uma acidose metabólica, observa-se aumento na reabsorção renal de bicarbonato.
+(C) Em uma acidose respiratória, a gasometria arterial deve revelar uma diminuição na concentração plasmática do fon
+bicarbonato.
+(D) Ele é produzido pela dissociação de um ácido forte, o ácido carbônico, cuja concentração plasmática varia
+inversamente à pressão parcial de CO» no sangue arterial.
+(E) Em uma acidose metabólica, a gasometria arterial deve revelar um aumento na concentração plasmática do íon
+bicarbonato.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="61,989 252,989 252,1041 1555,1041 1555,1161 1442,1161 1442,1358 1166,1358 1166,1359 890,1359 890,1360 61,1360 61,1163 60,1163 60,990 61,990"/>
+	<TextEquiv conf="0.96869">
+	<Unicode>QUESTÃO 18
+No processo de regulação da pressão arterial, pressorreceptores carotídeos e aórticos detectam os níveis pressóricos
+arteriais. Essas informações são transmitidas a circuitos neurais encarregados de gerar respostas destinadas a manter
+os níveis de pressão arterial dentro de uma faixa de valores fisiológicos. Neste processo, identifica-se a presença do
+mecanismo de retroalimentação (feedback). Trata-se de retroalimentação
+(A) positiva, em que o aumento de uma variável leva a respostas que tendem a diminuir a mesma variável.
+(B) negativa, em que o aumento de uma variável leva a respostas que tendem a aumentar a mesma variável.
+(C) positiva, em que o aumento de uma variável leva a respostas que tendem a aumentar a mesma variável.
+(D) negativa, em que a diminuição de uma variável leva a respostas que tendem a aumentar a mesma variável.
+(E) positiva, em que a diminuição de uma variável leva a respostas que tendem a aumentar a mesma variável.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="61,158 252,158 252,208 1555,208 1555,396 1433,396 1433,506 1307,506 1307,618 1204,618 1204,805 1210,805 1210,877 86,877 86,882 61,882 61,619 60,619 60,534 184,534 184,398 59,398 59,208 60,208 60,159 61,159"/>
+	<TextEquiv conf="0.96451">
+	<Unicode>QUESTÃO 17
+A síndrome respiratória aguda severa (SARS) é causada por um coronavírus, cujo genoma é de RNA simples-fita e tem
+cerca de 30.000 bases. Tornou-se necessária a obtenção de uma técnica rápida para diagnóstico, o que pôde ser feito
+por RT-PCR (Polymerase Chain Reaction com transcriptase reversa). Para isso, pode ser utilizado um dos genes desse
+vírus, como por exemplo aquele que codifica a glicoproteína S do envelope. O esquema abaixo indica sequências de
+regiões desse gene, a partir das quais foram desenhados os iniciadores 1 e TT (16 nucleotídeos indicados pelo tamanho
+da seta) utilizados na PCR após a reação com a transcriptase reversa.
+iniciador - 1 180 bases
+5 -UUVAUUUUGCUGCCACAGAÇA...... EEN... GACACAUACUAUGAUAUUCG-3"
+iniciador - 11
+As sequências corretas desses iniciadores, de modo a garantir a amplificação por PCR, são:
+(A) Iniciador-I 5'-TATTTTGCTGCCACAG-3' e Iniciador-II 5'-ACATACTATGATAAAC-3'
+(B) Iniciador-I 5'-TATTTTGCTGCCACAG-3' e Iniciador-II 5'-TGTATGATACTATAAG-3'
+(C) Iniciador-I 5'-TATTTTGCTGCCACAG-3' e Iniciador-II 5'-GAATATCATAGTATGT-3'
+(D) Iniciador-I 5'-CTGTGGCAGCAAAATA-3' e Iniciador-II 5'-TGTATGATACTATAAG-3'
+(E) Iniciador-I 5'-CTGTGGCAGCAAAATA-3' e Iniciador-II 5'-ACATACTATGATATTC-3</Unicode></TextEquiv></TextRegion></Page></PcGts>

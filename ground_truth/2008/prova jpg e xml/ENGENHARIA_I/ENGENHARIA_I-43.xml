@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:29:05</Created>
+	<LastChange>2020-09-23T01:29:05</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-43.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="157,505 157,974 1457,974 1457,505"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="81,269 271,269 271,310 1577,310 1577,441 1079,441 1079,442 580,442 580,443 566,443 566,1513 1015,1513 1015,1611 1459,1611 1459,1670 81,1670 81,1150 80,1150 80,1084 81,1084"/>
+	<TextEquiv conf="0.95076">
+	<Unicode>QUESTÃO 61
+O esquema da figura abaixo mostra uma escadaria hidráulica sem colchão d'água que deverá ser usada num talude de
+uma estrada. Admita que a mesma funcione, patamar por patamar, como vertedouro de soleira espessa, que a vazão seja de
+340 L/s, que a largura (L) da escada seja de 80 cm, que a dimensão (b) do espelho seja igual à carga hidráulica do vertedouro
+(h), e que o comprimento do degrau (a) adotado seja a &gt; 10.b.
+Dados / Informações técnicas
+Vazão em vertedouro de soleira espessa
+3
+Q= 17.12
+onde:
+Q = vazão (m?/s);
+L = largura do vertedouro (m);
+h = carga sobre a soleira (m).
+Considere:
+2 2 2 .
+0,254 =040 05008 =063 0754 =083 » 12508 =116
+Qual o menor valor que poderá ser adotado para a dimensão a?
+(A) 5,0m (B) 4,0m (C) 3,0m (D) 2,0m (E) 1,0m</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:27</Created>
+	<LastChange>2020-10-25T18:10:55</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,187 1360,187 1360,188 1573,188 1573,1115 1360,1115 1360,1114 1342,1114 1342,1080 79,1080 79,987 80,987"/>
+	<TextEquiv conf="0.96102">
+	<Unicode>b) Qualé, teoricamente, o valor do COP (coeficiente de desempenho) máximo possível nessa situação?
+(valor: 2,0 pontos)
+c) Tipicamente, numa situação real, o processo de compressão não seria isentrópico, e o refrigerante seria superaquecido na
+saída do evaporador e sub-resfriado na saída do condensador. Esboce o ciclo de refrigeração por compressão de vapor,
+levando em conta estas características, em um diagrama temperatura - entropia. Despreze as perdas de carga.
+(valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:35:32</Created>
+	<LastChange>2020-10-26T12:40:14</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="702,207 704,2097 708,2097 706,207"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="104,215 294,215 294,270 686,270 686,830 440,830 440,938 687,938 687,1418 686,1418 686,1454 457,1454 457,1453 344,1453 344,1561 686,1561 686,1676 568,1676 568,1675 254,1675 254,1784 437,1784 437,1833 686,1833 686,1953 520,1953 520,1952 335,1952 335,1953 292,1953 292,2071 325,2071 325,2097 104,2097 104,1716 103,1716 103,1561 191,1561 191,1449 147,1449 147,871 142,871 142,825 105,825 105,563 103,563 103,270 104,270"/>
+	<TextEquiv conf="0.96495">
+	<Unicode>QUESTÃO 17
+Os alunos de uma disciplina deveriam
+escolher um sistema de média complexidade,
+contendo no mínimo 100 funcionalidades, para
+ser modelado em UML e codificado em uma
+linguagem orientada a objetos. Um dos grupos
+de alunos estabeleceu a seguinte estratégia para
+identificação e seleção do sistema.
+| Cada integrante do grupo deveria criar um
+nickname (apelido) em um software de chat.
+Il O grupo deveria se reunir em um horário
+predeterminado.
+Ill Durante o chat, os seguintes procedimentos
+deveriam ser realizados:
+* cada integrante deveria sugerir um ou
+mais sistemas e justificar sua escolha, e
+não poderia criticar as idéias dos outros;
+* —àmedidaqueas idéias fossem digitadas,
+o líder deveria copiá-las para um editor de
+texto e controlar o tempo de sugestão;
+* —quandoolimite de tempo fosse atingido,
+o líder disponibilizaria todas as sugestões
+para serem analisadas pelo grupo;
+* as5melhores idéias seriam selecionadas
+e colocadas em votação para a escolha
+da melhor idéia,
+predefinidos.
+segundo critérios
+Nessa situação, a estratégia utilizada pelo grupo
+de alunos é uma adaptação da técnica de
+levantamento e elicitaçção de requisitos
+denominada
+O joint application design.
+O PIECES
+economia controle eficiência e serviços).
+O facilitaded
+techniques.
+(perfomance informação/dados
+application — specification
+O entrevista.
+O brainstorming.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="726,215 916,215 916,275 1553,275 1553,410 1552,410 1552,791 1530,791 1530,912 1550,912 1550,939 1197,939 1197,1059 1552,1059 1552,1624 1462,1624 1462,1673 1034,1673 1034,1844 1204,1844 1204,1845 1205,1845 1205,2006 1213,2006 1213,2032 1120,2032 1120,2080 726,2080 726,1772 725,1772 725,1746 766,1746 766,1625 765,1625 765,1522 727,1522 727,940 726,940 726,912 727,912 727,694 726,694 726,447 725,447 725,275 726,275"/>
+	<TextEquiv conf="0.96405">
+	<Unicode>QUESTÃO 18
+Uma indústria de alimentos compra sementes de vários
+fornecedores. No recebimento das cargas, as sementes passam por
+uma operação de classificação por cor, em uma esteira adquirida do
+fabricante MAQ,
+processamento de imagens. Na etapa seguinte do processo, as
+equipada com sensores e sofiware de
+sementes são separadas em lotes, pelo critério de tamanho, e são,
+então, empacotadas. A separação dos lotes é realizada por um
+mecanismo robótico, controlado por computador e que, pelo fato de
+sofrer contínuo desgaste, necessita ser substituído a cada
+1.000 horas de uso. Durante a última troca, em razão da
+indisponibilidade do equipamento produzido pela empresa MAQ, a
+indústria instalou, com sucesso, um equipamento robótico similar.
+Considerando o processo descrito, julgue os itens a seguir,
+relacionados aos fatores de qualidade.
+| Asoperações de classificação e separação de sementes se inter-
+relacionam e não podem falhar, pois essa falha acarretaria
+prejuízos. O atributo de qualidade correspondente a essas
+operações, e que deve ser observado pelo software, é a
+interoperabilidade.
+Ill Caso o responsável pela instalação do sistema robotizado não
+tenha encontrado dificuldade em fazê-lo comunicar-se com o
+equipamento de outra marca, é correto concluir que o sistema que
+controla o robô é portável.
+UU
+A maneira como ocorre a interação com o sistema computacional
+sugere que alguns requisitos, como ergonomia, sejam observados
+na interface. Por isso, é correto concluir que o software utilizado
+pela indústria contempla o fator denominado usabilidade.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+o ocecooeo
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

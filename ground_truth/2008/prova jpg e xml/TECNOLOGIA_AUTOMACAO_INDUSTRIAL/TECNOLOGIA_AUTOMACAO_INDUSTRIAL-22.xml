@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:51:56</Created>
+	<LastChange>2020-10-26T13:05:01</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="334,402 334,985 1240,985 1240,402"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,190 230,190 230,191 379,191 379,192 493,192 493,232 1574,232 1574,392 241,392 241,994 401,994 401,995 562,995 562,996 722,996 722,997 882,997 882,998 1042,998 1042,1258 1573,1258 1573,1318 1565,1318 1565,1784 80,1784 80,1314 79,1314 79,1258 80,1258 80,390 79,390 79,389 80,389"/>
+	<TextEquiv conf="0.91984">
+	<Unicode>QUESTÃO 40 — DISCURSIVA
+Oberve o circuito de controle digital para o sistema apresentado na figura abaixo, cuja função é encher ou esvaziar um
+reservatório industrial por meio de duas eletroválvulas, sendo uma para entrada do líquido, e outra, para esvaziamento do
+reservatório. As informações fornecidas pelo sensor de nível máximo do tanque e pela chave C devem ser processadas pelo
+circuito de controle para atuar nas eletroválvulas, de forma a encher totalmente o tanque (chave C na posição encher) ou
+esvaziá-lo totalmente (chave C na posição esvaziar).
+Convenções:
+* Sensor A: - presença de líquido = nível lógico 1
+- ausência de líquido = nível lógico O
+* ChaveC: -encher= nível lógico 1
+- esvaziar = nível lógico O
+* Eletroválvulas E1 e E2: - abrir (deixar passar líquido) = nível lógico 1
+-fechar (bloquear passagem de líquido) = nível lógico O
+a) Tendo por referência as informações acima, elabore a tabela da verdade ou de funcionamento do circuito de controle para
+o acionamento das eletroválvulas E1 e E2, em função dos estados possíveis de Ce A; (valor 2,5 pontos)
+b) represente o circuito lógico por meio de portas lógicas para o controle da eletroválvula E1; (valor 2,5 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

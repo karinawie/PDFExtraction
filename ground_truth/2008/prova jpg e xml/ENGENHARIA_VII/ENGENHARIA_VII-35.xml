@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:04:29</Created>
+	<LastChange>2020-10-25T20:09:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-35.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="1553,1359 1553,1492 103,1492 103,1359"/>
+	<TextEquiv conf="0.95855">
+	<Unicode>QUESTÃO 60 — DISCURSIVA
+Considerando uma figura plana qualquer, de forma irregular, indique um procedimento que permita a identificação do
+centro de gravidade dessa figura. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="103,214 1552,214 1552,345 1371,345 1371,888 1552,888 1552,914 105,914 105,441 103,441"/>
+	<TextEquiv conf="0.95356">
+	<Unicode>QUESTÃO 59 — DISCURSIVA
+Para a alocação de obras civis, realiza-se usualmente levantamentos topográficos. Acerca desses levantamentos, faça
+o que se pede a seguir.
+A Descreva, sucintamente, como se efetua o levantamento plani-altimétrico de uma poligonal fechada.
+B Descreva pelo menos um modo pelo qual se pode efetuar a correção dos erros. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:12:28</Created>
+	<LastChange>2021-01-18T19:39:22</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-24.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r40">
+	<Coords points="891,194 891,2114 902,2114 902,194"/></SeparatorRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="924,215 1114,215 1114,269 1550,269 1550,608 1016,608 1016,731 1550,731 1550,1393 974,1393 974,1387 924,1387 924,1366 974,1366 974,1213 973,1213 973,1140 924,1140 924,859 923,859 923,731 924,731 924,607 923,607 923,431 922,431 922,269 924,269"/>
+	<TextEquiv conf="0.96383">
+	<Unicode>QUESTÃO 58
+Considerando o mecanismo de tradução de
+endereços e portas (network address port translation
+— NAPT), para redes que utilizam os endereços IP
+privados (10.0.0.0/8, 172.16.0.0/12 e
+192.168.0.0/16), analise as asserções a seguir.
+Ao passar por um roteador com NAPT, os
+endereços de origem nos pacotes originados pelas
+estações da rede privada são substituídos pelo
+endereço externo desse roteador
+porque
+não há rotas na Internet para o encaminhamento de
+pacotes destinados a endereços |P privados, de
+forma que pacotes destinados a esses endereços
+são descartados ou rejeitados.
+Em relação às asserções acima, assinale a opção
+correta.
+As duas asserções são proposições
+verdadeiras, e a segunda é uma justificativa
+correta da primeira.
+As duas asserções são proposições
+verdadeiras, e a segunda não é uma justificativa
+correta da primeira.
+A primeira asserção é uma proposição
+verdadeira, e a segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e
+a segunda é uma proposição verdadeira.
+As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,215 291,215 291,269 883,269 883,377 885,377 885,886 454,886 454,965 269,965 269,1184 153,1184 153,1180 101,1180 101,1014 102,1014 102,939 140,939 140,329 101,329"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 56
+Julgue os itens abaixo, relativos à transmissão de dados em
+redes de computadores que utilizam fios metálicos.
+I Diferentes níveis de tensão no fio, como !5 V e +5 V, e
+transições entre os níveis definidos de tensão podem ser
+usados para representar bits durante a transmissão.
+II Diferentes tipos de modulação, com mudanças de fase e de
+amplitude, podem ser aplicados a uma onda portadora para
+representar bits durante a transmissão.
+III A taxa máxima de transmissão suportada por um canal é
+definida como função, entre outros parâmetros, do nível
+máximo de tensão suportado no canal.
+IV Largura de banda é definida como a freqüência mais alta que
+pode ser transmitida através de um meio de transmissão.
+V Informações transmitidas por meio de sinais modulados
+podem ser recuperadas no receptor usando-se taxa de
+amostragem com o dobro da freqüência máxima do sinal
+transmitido.
+Estão certos apenas os itens
+A I, II e IV.
+B I, II e V.
+C I, III e IV.
+D II, III e V.
+E III, IV e V</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r43">
+	<Coords points="191,1480 191,1785 834,1785 834,1480"/></ImageRegion>
+	<TextRegion id="r12" type="heading">
+	<Coords points="101,1229 291,1229 291,1283 884,1283 884,1800 885,1800 885,1894 234,1894 234,2111 101,2111 101,1942 102,1942 102,1474 101,1474"/>
+	<TextEquiv conf="0.96581">
+	<Unicode>QUESTÃO 57
+Deseja-se projetar um bloco lógico do tipo /ook-up table que fará
+parte de um dispositivo lógico programável. O bloco lógico,
+ilustrado abaixo, deve produzir em sua saída qualquer uma das
+diferentes funções lógicas possíveis envolvendo três entradas de
+dados, dependendo dos valores lógicos aplicados a n sinais
+binários de controle.
+Para esse bloco lógico, qual é o menor valor de n que pode ser
+usado para selecionar uma das diferentes funções lógicas
+possíveis?
+A 4
+B 8
+C 16
+D 256
+E 65.536</Unicode></TextEquiv></TextRegion></Page></PcGts>

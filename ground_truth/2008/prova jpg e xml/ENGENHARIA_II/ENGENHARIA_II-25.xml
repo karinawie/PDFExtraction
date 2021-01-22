@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:28:47</Created>
+	<LastChange>2020-10-25T17:42:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-25.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="851,187 1044,187 1044,230 1573,230 1573,824 1568,824 1568,896 1561,896 1561,996 1268,996 1268,1103 1560,1103 1560,1236 1573,1236 1573,1362 1551,1362 1551,1429 1270,1429 1270,1462 852,1462 852,1229 850,1229 850,1203 862,1203 862,1103 1157,1103 1157,996 863,996 863,896 851,896 851,870 874,870 874,565 852,565 852,489 850,489 850,396 851,396"/>
+	<TextEquiv conf="0.96608">
+	<Unicode>QUESTÃO 40
+O técnico de um fabricante de computadores avaliou dois
+protótipos, P1 e P2, em relação ao desempenho de suas
+memórias virtuais, implementadas por paginação sob
+demanda. O relógio do computador P1 tem frequência
+de 1 GHze o de P2,de 1,6 GHz.
+Para essa avaliação, um grupo de programas T foi executado
+tanto em P1 quanto em P2, tendo o técnico observado o
+seguinte:
+* o tempo de acesso à memória, quando ocorreu falta de
+página, foi 0,2 ms para P1 e 0,3 ms para P2;
+o tempo de acesso à memória, quando não ocorreu falta de
+página, foi de 100 ciclos de relógio para P1 e 180 ciclos de
+relógio para P2;
+em P1, ocorreram 3 faltas de páginas em cada 1.000
+acessos à memória;
+em P2, ocorreram 2 faltas de páginas em cada 1.000
+acessos à memória.
+Com base nesses dados, considere as afirmações a seguir.
+Na execução do grupo de programas T, o tempo médio de
+acesso à memória foi menor para P2 do que para P1.
+PORQUE
+A duração do ciclo de relógio de P2 é menor do que a de P1,
+e a taxa de acerto de páginas de P2 é maior que a de P1.
+Analisando-se essas afirmações, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(OC) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r29">
+	<Coords points="822,174 822,2168 828,2168 828,174"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="80,271 273,271 273,314 802,314 802,983 78,983 78,314 80,314"/>
+	<TextEquiv conf="0.96239">
+	<Unicode>QUESTÃO 37
+Um programador deve propor um algoritmo para determinar o
+resultado de uma eleição. Sabe-se que o número n de eleito-
+res é tão grande que o armazenamento do vetor de eleitores
+em memória, ou em arquivo, torna-se inviável. O número de
+candidatos, no pior caso, pode ser igual ao de eleitores. Além
+disso, as cédulas de eleição podem ser reinseridas no siste-
+ma de contagem tantas vezes quantas forem necessárias.
+Nesta eleição, o candidato somente será eleito por maioria
+absoluta e cada eleitor votará uma única vez. Caso não exis-
+ta um candidato eleito, a eleição será anulada. Apenas duas
+variáveis inteiras devem ser utilizadas no algoritmo para de-
+terminar o resultado da eleição: uma para armazenamento do
+número do candidato vitorioso e a outra, a critério do progra-
+mador. O algoritmo ótimo para a solução deste problema tem
+complexidade</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,1020 273,1020 273,1063 802,1063 802,1122 633,1122 633,1230 700,1230 700,1263 800,1263 800,1330 802,1330 802,1389 80,1389"/>
+	<TextEquiv conf="0.93924">
+	<Unicode>QUESTÃO 38
+Uma empresa, no Brasil, recebeu o número IP 204.145.121.0
+para endereçar sua rede, respeitando a RFC 1812. Nessa
+configuração de endereço base,
+(A) o endereço de broadcast é 204.145.121.1.
+(B) o endereço recebido pertence à classe B.
+(C) o número máximo de hosts endereçáveis é 256.
+(D) se for necessário dividir a rede em quatro sub-redes,
+então o número máximo de hosts endereçáveis é 254.
+(E) se for necessário dividir a rede em oito sub-redes, então o
+endereço da máscara de rede será 255.255.255.224.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,1429 273,1429 273,1472 803,1472 803,1731 801,1731 801,1839 803,1839 803,1998 801,1998 801,2131 80,2131 80,1598 79,1598 79,1472 80,1472"/>
+	<TextEquiv conf="0.96777">
+	<Unicode>QUESTÃO 39
+A Empresa XYZ Ltda. possui sistemas de informação
+computadorizados desde o início de suas atividades, em 1992.
+Ao longo desses anos, acumulou informações sobre clien-
+tes, produtos e fornecedores. Essas informações encontram-
+se disponíveis em diversos sistemas heterogêneos em ope-
+ração na sua infra-estrutura de tecnologia da informação. De
+modo a manipular os dados dessas diferentes fontes, a em-
+presa utiliza uma tecnologia ETL para extração, transforma-
+ção e carga dos dados. Neste contexto, essa tecnologia
+(A) usa ferramentas OLAP (on-line Analytical Processing) para
+O acesso aos dados estruturados e semi-estruturados.
+(B) organiza os dados de modo que estes possam ser
+disponibilizados para atividades de mais alto nível, como
+por exemplo, em análises multidimensionais.
+(C) propaga as modificações de um Data Mart para os
+Sistemas de Processamento de Transações.
+(D) atua realizando a aglomeração e a segmentação de
+dados de um sistema de mineração de dados.
+(E) contribui de forma pouco significativa em um processo
+complexo como o de construção de um Data Warehouse.</Unicode></TextEquiv></TextRegion></Page></PcGts>

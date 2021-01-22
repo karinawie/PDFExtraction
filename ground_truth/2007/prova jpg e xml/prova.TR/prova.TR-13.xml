@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T14:02:17</Created>
+	<LastChange>2020-10-25T14:15:39</LastChange></Metadata>
+	<Page imageFilename="prova.TR-13.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="60,1449 251,1449 251,1505 1263,1505 1263,1739 1555,1739 1555,1795 1554,1795 1554,1907 1356,1907 1356,1987 61,1987 61,1479 60,1479"/>
+	<TextEquiv conf="0.96694">
+	<Unicode>QUESTÃO 23
+Em um equipamento de fluoroscopia, é correto afirmar:
+(A) aimagem possui baixo ruído, pois poucos fótons de raios X são utilizados para produzi-la.
+(B) aresolução espacial na porção central do intensificador de imagem é menor que nas bordas.
+(C) aumentando a espessura do fósforo de entrada do intensificador de imagem melhora-se a resolução espacial na
+imagem.
+(D) alterando o modo de magnificação de um intensificador de imagem de 30 cm para 15cm reduz-se a taxa de
+exposição na entrada da pele.
+(E) quanto maior o diâmetro do intensificador de imagem menor a resolução espacial obtida na imagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,771 1554,771 1554,886 1465,886 1465,1017 1554,1017 1554,1068 1553,1068 1553,1177 1445,1177 1445,1262 1306,1262 1306,1341 892,1341 892,1342 61,1342 61,887 60,887"/>
+	<TextEquiv conf="0.94533">
+	<Unicode>QUESTÃO 22
+ATC multi-slices ou multi-cortes foi introduzida no mercado há poucos anos. Esta técnica radiológica, que difere pouco
+da tomografia helicoidal, tem sido muito utilizada em exames cardíacos, pois
+(A) apresenta melhor contraste e permite a realização de exames com menores doses absorvidas nos pacientes.
+(B) permite a reconstrução de cortes com menor espessura e, consequentemente, as doses absorvidas nos pacientes
+são menores.
+(C) permite a redução de efeitos de movimentos rápidos de órgãos do corpo, apesar de as doses absorvidas serem
+maiores.
+(D) garante a reconstrução de imagens com melhor resolução espacial (detalhes) e doses absorvidas menores.
+(E) permite que imagens sejam realizadas sem apnéia, porém produzem doses absorvidas maiores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="60,158 247,158 247,214 1556,214 1556,273 1227,273 1227,351 1056,351 1056,430 929,430 929,559 1403,559 1403,586 1238,586 1238,663 846,663 846,664 61,664 61,159 60,159"/>
+	<TextEquiv conf="0.96316">
+	<Unicode>QUESTÃO 21
+Na tomografia computadorizada (TC), as medições de exposição são efetuadas com câmara de ionização posicionada
+na região central de um cilindro de acrílico e a 1 cm da sua superfície, porque a
+(A) dose absorvida na superfície em uma única varredura (scan) é a mesma que em 10 (dez).
+(B) dose efetiva de 10 (dez) imagens é equivalente à dose efetiva de 1 imagem.
+(C) dose absorvida no centro do cilindro é maior do que na superfície.
+(D) distribuição da radiação é homogênea e por isto a exposição na superfície é idêntica à da região central.
+(E) dose absorvida na superfície em uma única imagem é menor do que em 10 (dez) imagens.</Unicode></TextEquiv></TextRegion></Page></PcGts>

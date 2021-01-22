@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:22:50</Created>
+	<LastChange>2020-11-17T00:16:49</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="73,267 73,784 1584,783 1584,266"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="60,922 60,1480 1620,1480 1620,922"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="79,1547 1574,1547 1574,1690 1098,1690 1098,1807 596,1807 596,1846 405,1846 405,1884 80,1884 80,1885 80,1690 79,1690"/>
+	<TextEquiv conf="0.95884">
+	<Unicode>QUESTÃO 15
+O edifício do MASP, em São Paulo (1957-1969), de Lina Bo Bardi, apresenta uma estrutura que vence um vão de 70 metros,
+liberando o espaço do térreo, assim respeitando a exigência da Prefeitura de manter o belvedere pré-existente. A solução
+estrutural de Figueiredo Ferraz resolveu o problema em questão, gerando o conhecido “vão livre” que caracteriza o edifício.
+Analisando as imagens, constata-se que a viga principal
+(A) sustenta a cobertura.
+(B) sustenta a cobertura e atiranta, por meio de pendurais, todos os pavimentos.
+(C) sustenta a laje da pinacoteca e, por meio de pendurais, atiranta a laje do 1º piso.
+(D) coloca-se em balanço sobre o vão livre.
+(E) engasta-se nos pilares.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:30:53</Created>
+	<LastChange>2020-10-25T21:45:33</LastChange></Metadata>
+	<Page imageFilename="FISICA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r21">
+	<Coords points="1029,1612 1028,2150 1487,2152 1488,1614"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="397,891 397,1440 1257,1440 1257,891"/></ImageRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="80,313 267,313 267,361 1574,361 1574,553 921,553 921,720 80,720 80,552 79,552 79,512 78,512 78,361 80,361"/>
+	<TextEquiv conf="0.96505">
+	<Unicode>QUESTÃO 11
+No dia 19 de agosto de 2008 foi lançado, pelo foguete russo Proton Breeze M o 14-F3, um dos maiores satélites já construídos,
+que será utilizado para serviços de telefonia e Internet. O conjunto foguete + satélite partiu de uma posição vertical. Sendo a
+massa m do satélite igual a 6 toneladas, a massa M do foguete igual a 690 toneladas e a velocidade de escape dos gases no
+foguete (Vgases) igual a 1.500 m/s, qual é a quantidade mínima de gás expelida por segundo (Am 7At) para que o foguete
+eleve o conjunto no instante do lançamento?
+gases
+(Considere g = 10 m/s?)
+(A) 9,3 x 10º kg/s (B) 4,6 x 10º kg/s
+(0) 2,3 x 10º kg/s (D) 2,3 x 10º kg/s
+(E) 2,2 x 10º kg/s</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="79,764 378,764 378,765 677,765 677,766 975,766 975,767 1274,767 1274,768 1572,768 1572,1464 1573,1464 1573,1563 79,1563"/>
+	<TextEquiv conf="0.95987">
+	<Unicode>QUESTÃO 12
+A figura abaixo representa o movimento de uma bola, em um plano vertical, registrado com uma fonte de luz pulsada a 20 Hz.
+(As escalas vertical e horizontal são iguais.)
+Supondo que a aceleração da gravidade local seja igual a 10 m/s?, qual é o módulo da componente horizontal da velocidade
+da bola?
+(A) 2 m/s (B) 3 m/s (C)4 m/s (D)5 m/s (E) 6 m/s</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="80,1611 273,1611 273,1659 976,1659 976,1973 587,1973 587,2104 217,2104 217,2147 80,2147 80,1973 79,1973 79,1659 80,1659"/>
+	<TextEquiv conf="0.96574">
+	<Unicode>QUESTÃO 13
+Uma brincadeira de criança que mora perto de um riacho é atravessá-lo
+usando uma corda amarrada a uma árvore perto da margem. Dependendo
+da resistência da corda, essa travessia pode não se concretizar. Para avaliar
+o perigo da travessia, pode-se usar como modelo o movimento do pêndulo,
+e calcular a tensão máxima que a corda pode suportar. Considerando que a
+corda faz, inicialmente, um ângulo de 60º com a vertical, qual é a
+tensão máxima a ser suportada pela corda para que uma criança de 30 kg
+atravesse o riacho?
+(Considere g = 10 m/s? )
+(A) 200 N (B) 300 N
+(C) 600 N (D) 900 N
+(E) 1.200 N</Unicode></TextEquiv></TextRegion></Page></PcGts>

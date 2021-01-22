@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T19:48:02</Created>
+	<LastChange>2020-10-24T19:54:28</LastChange></Metadata>
+	<Page imageFilename="prova.nutricao-16.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="680,262 680,917 1554,917 1554,262"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="760,1485 760,1702 1551,1702 1551,1485"/></TableRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="104,222 294,222 294,282 650,282 650,980 1156,980 1156,1015 1467,1015 1467,1052 1548,1052 1548,1125 1550,1125 1550,1151 621,1151 621,1186 143,1186 143,1151 105,1151 105,1040 104,1040 104,966 103,966 103,282 104,282"/>
+	<TextEquiv conf="0.96429">
+	<Unicode>QUESTÃO 30
+Atualmente, no Brasil, o ganho de peso e a
+obesidade representam uma ameaça
+crescente à saúde, constituindo um desafio
+para os profissionais da área. Para a
+prevenção e o controle desse problema,
+necessita-se de uma abordagem integrada
+que contemple os vários fatores envolvidos na
+gênese da obesidade. O diagrama ao lado
+explicita os diferentes níveis de determinação
+da obesidade. Tendo-se como base esse
+diagrama, é correto inferir que
+A a forma hierárquica é a que permite
+melhor avaliar os fatores relacionados a
+prevenção e controle do ganho de peso e
+da obesidade.
+B existe uma rede de fatores que expressam
+as múltiplas interações entre saúde,
+mercado global de alimentos, mídia,
+processos de urbanização, perfil de educação e acesso aos transportes e ao lazer.
+C é preciso interromper o processo de globalização para que seja possível controlar a epidemia da obesidade.
+D abordagens de prevenção e controle da obesidade bem-sucedidas, tanto no âmbito individual quanto no coletivo,
+devem ser focalizadas em estratégias comportamentais.
+E o consumo de alimentos com elevada densidade energética representa, segundo o diagrama, o principal fator
+relacionado à obesidade na população.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="104,1214 508,1214 508,1256 1492,1256 1492,1422 202,1422 202,1421 201,1421 201,1238 103,1238 103,1237 104,1237"/>
+	<TextEquiv conf="0.96475">
+	<Unicode>Texto para as questões 31 e 32
+Um jovem de 17 anos de idade foi encaminhado para internação no serviço de emergência de um
+hospital, com diagnóstico de crise aguda de doença inflamatória intestinal (DII). O paciente tem história
+recente de distensão e dores abdominais, fezes líquidas e receio de alimentar-se, em função do quadro
+álgico. O jovem encontra-se visivelmente emagrecido. O nutricionista responsável prescreveu dieta por
+via oral, com característica constipante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="104,1455 290,1455 290,1698 733,1698 733,1736 1548,1736 1548,1918 1550,1918 1550,2127 105,2127 105,1979 104,1979 104,1722 103,1722 103,1698 104,1698"/>
+	<TextEquiv conf="0.95809">
+	<Unicode>QUESTÃO 31
+A A proteína total é um indicador bioquímico
+sensível do estado nutricional, estando o seu
+nível sanguíneo comprometido no paciente, provavelmente devido a baixa ingestão alimentar e má absorção de
+nutrientes.
+B A albumina sérica, apesar de ser indicador muito utilizado na prática clínica, se altera na DIIl devido a menor síntese
+realizada pelos enterócitos, sendo, portanto, pouco útil como parâmetro nutricional do referido paciente.
+C O valor de leucócitos observado deve-se, provavelmente, ao processo inflamatório ativo, característico da fase aguda
+da doença, e configura-se como parâmetro que indica desnutrição aguda do tipo evolutiva.
+D A contagem linfocitária total nesse paciente é indicador impreciso do seu estado nutricional, pois a nesma deve estar
+mascarada pelos valores de leucócitos aumentados.
+E O resultado da PCR é compatível com o estado de DIl agudizada, sendo que a melhora desse parâmetro é sugestivo
+de remissão da fase aguda e de anabolismo do paciente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

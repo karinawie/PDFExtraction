@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:10:42</Created>
+	<LastChange>2021-01-18T19:40:43</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-27.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r66">
+	<Coords points="937,1125 937,2122 951,2122 951,1125"/></SeparatorRegion>
+	<ImageRegion id="r67">
+	<Coords points="328,508 328,1122 1314,1122 1314,508"/></ImageRegion>
+	<ImageRegion id="r68">
+	<Coords points="1077,1351 1077,1585 1457,1585 1457,1351"/></ImageRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="101,1146 288,1146 288,1196 934,1196 934,1399 241,1399 241,1518 494,1518 494,1593 673,1593 673,1619 153,1619 153,1620 152,1620 152,1614 101,1614 101,1400 100,1400 100,1196 101,1196"/>
+	<TextEquiv conf="0.96630">
+	<Unicode>QUESTÃO 61
+A figura acima, adaptada do documento que descreve o
+gerenciamento de serviços de tecnologia da informação do modelo
+ITIL (Information Technology Infra-Structure Library), apresenta as
+relações entre elementos que participam dos estágios do ciclo de vida
+de um serviço de TI. Com base no modelo acima descrito, qual
+elemento detém maior responsabilidade por definir as necessidades
+de informação da organização que utilizará um serviço de TI?
+A usuário
+B cliente
+C operador de suporte técnico
+D gerente de serviços
+E gerente de desenvolvimento de aplicações</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="101,1639 291,1639 291,1690 935,1690 935,1892 397,1892 397,2116 152,2116 152,2110 101,2110"/>
+	<TextEquiv conf="0.96429">
+	<Unicode>QUESTÃO 62
+O código de ética da Organização Internacional de Instituições
+Supremas de Auditoria (INTOSAI) define como valores e princípios
+básicos da atuação da auditoria a independência, a objetividade, a
+imparcialidade, o segredo profissional e a competência. Ao iniciar um
+trabalho de auditoria sem definir claramente a finalidade da auditoria
+e o modelo de conformidade no qual a auditoria se apóia, qual valor
+ou princípio um auditor estaria primariamente falhando em atender?
+A independência
+B objetividade
+C imparcialidade
+D segredo profissional
+E competência</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords points="974,1146 1164,1146 1164,1196 1550,1196 1550,2118 975,2118 975,2119 974,2119 974,1335 973,1335 973,1196 974,1196"/>
+	<TextEquiv conf="0.96588">
+	<Unicode>QUESTÃO 63
+Considere a seguinte representação de
+abstração de generalização/especialização, com
+propriedade de cobertura parcial e sobreposta,
+segundo notação do diagrama entidade-
+relacionamento estendido.
+Qual opção apresenta um esquema de banco de
+dados relacional que representa corretamente a
+referida abstração?
+O A(pkA, atra) B(atrB) C(atrC).
+O A(pkA, atra, atrB, atrC,
+em que tipoBouc é booleano.
+O aA(pkA, atra, atrB, atrC, tipoB,
+tipoc), em que tipoB E tipoc São
+booleanos.
+O B(pkA, atrA,
+atrC).
+O aA(pkA, atra) B(pkB, atrB) C(pkcC,
+atrcC), emque pkB e pkc são atributos
+artificiais criados para ser a chave primária
+das relações B e C, respectivamente.
+tipoBouC),
+atrB) C(pkA, atra,</Unicode></TextEquiv></TextRegion></Page></PcGts>

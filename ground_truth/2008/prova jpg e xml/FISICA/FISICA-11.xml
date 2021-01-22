@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:30:32</Created>
+	<LastChange>2020-10-25T21:44:01</LastChange></Metadata>
+	<Page imageFilename="FISICA-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="94,1085 94,1648 1614,1648 1614,1085"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 80,185 273,185 273,231 1573,231 1573,382 252,382 252,506 285,506 285,653 769,653 769,654 1456,654 1456,712 80,712 80,616 79,616 79,615 80,615 80,506 81,506 81,382 80,382 80,304 79,304 79,231 80,231"/>
+	<TextEquiv conf="0.29100">
+	<Unicode>QUESTÃO 17
+Uma certa quantidade de um gás ideal ocupa um volume inicial V, à pressão p, e temperatura T,. O gás se expande até o
+volume V, (V, &gt; V,), segundo dois processos distintos: (1) a temperatura constante e (2) adiabaticamente.
+Com relação à quantidade de calor Q fornecida, ao trabalho W realizado e à variação de energia interna AE de cada
+processo, pode-se afirmar que
+1- Q,=0,
+1- Q,&gt;O,
+MN- AE,=ÃE,
+NV- AE,&lt;ÃE,
+V-OW,&gt;W,
+São verdadeiras APENAS as afirmações
+(A) lelll (B)lelV (C)lleV (D)lleV (E) IVeV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,752 80,753 273,753 273,800 1574,800 1574,1081 1172,1081 1172,2159 80,2159 80,1081 79,1081 79,800 80,800"/>
+	<TextEquiv conf="0.96258">
+	<Unicode>QUESTÃO 18
+Em 1816, o escocês Robert Stirling criou uma máquina térmica a ar quente que podia converter em trabalho boa parte
+da energia liberada pela combustão externa de matéria-prima. Numa situação idealizada, o ar é tratado como um gás ideal
+com calor específico molar C, = 5 R/2, onde R é a constante universal dos gases. A máquina idealizada por Stirling é
+representada pelo diagrama P versus V da figura abaixo. Na etapa C — D (isotérmica), a máquina interage com o reservatório
+quente, e na etapa A &gt; B (também isotérmica), com o reservatório frio. O calor liberado na etapa isovolumétrica D &gt; A
+é recuperado integralmente na etapa B — C, também isovolumétrica. São conhecidas as temperaturas das isotermas T, e T,,
+os volumes V, e V, e o número de moles n de ar contido na máquina.
+TT (V T
+(1 ne rn) (8) 12 e nr)
+T V. Vg Ta Vg</Unicode></TextEquiv></TextRegion></Page></PcGts>

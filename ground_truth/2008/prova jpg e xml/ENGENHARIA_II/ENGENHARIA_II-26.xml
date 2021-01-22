@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:28:30</Created>
+	<LastChange>2020-10-25T17:41:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-26.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="851,186 1574,186 1574,289 1454,289 1454,450 1290,450 1290,597 1322,597 1322,647 1518,647 1518,743 1566,743 1566,773 1305,773 1305,914 1558,914 1558,1089 1574,1089 1574,1255 1345,1255 1345,1396 1392,1396 1392,1608 1574,1608 1574,1637 1196,1637 1196,1872 1195,1872 1195,1873 1047,1873 1047,1878 1046,1878 1046,1879 851,1879 861,1879 861,1720 860,1720 860,1678 850,1678 850,1637 852,1637 852,1603 1035,1603 1035,1314 851,1314 851,1255 850,1255 850,1089 851,1089 851,572 852,572 852,503 971,503 971,289 851,289"/>
+	<TextEquiv conf="0.92457">
+	<Unicode>QUESTÃO 42
+Considere um pêndulo montado sobre um carrinho cuja dinâ-
+mica é governada pelas seguintes equações diferenciais:
+(M+m)X-mL$ cos(4)+mLh? sen(y)=f
+(J+ mL) = mgL sen(6) mx cos(6) = O
+Os significados dos parâmetros são:
+* massa do carrinho M = 9 kg;
+* massa da haste do pêndulo m = 1 kg;
+* metade do comprimento da haste do pêndulo L = 1 m;
+* inércia rotacional da haste do pêndulo J=4 kg-m? ;
+* aceleração provocada pela ação da gravidade g = 10 m/s?;
+e as variáveis são:
+* x - posição linear do carrinho, em m;
+*à- ângulo de inclinação da haste do pêndulo em relação
+à direção vertical, em rad;
+*f- força aplicada para movimentar o carrinho, em N.
+; NT
+Considere que z = (x x o Ô) seja o vetor de estado des-
+se sistema e que o pêndulo esteja equilibrado em é =0 rad.
+Adotando à? z=0 e utilizando um processo de linearização,
+é possível obter o seguinte modelo linear:
+0 o o
+ag O o 5/49 í
+O az o
+as O 1/49
+o
+O O O
+No modelo acima, os coeficientes 97,7; 273; Az, E 9,7, Tespec-
+tivamente, são:
+(A) O, 10/49, O
+(B) O, 10/49, 1
+(C) 0, 11/49, 1
+(D) 1, 10/49, 1
+(E) 1, 11/49, O
+101/49
+100/49
+100/49
+101/49
+101/49
+PD O O O O|</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="82,281 82,282 272,282 272,330 805,330 805,648 804,648 804,649 238,649 238,989 665,989 665,964 747,964 747,1014 791,1014 791,1096 804,1096 804,1642 129,1642 129,1641 128,1641 128,1552 82,1552 82,1331 81,1331 81,1096 82,1096 82,649 81,649 81,330 82,330"/>
+	<TextEquiv conf="0.96701">
+	<Unicode>QUESTÃO 41
+Os controladores com dois graus de liberdade são utilizados
+quando se deseja ajustar, de maneira independente, o
+seguimento de uma referência e a rejeição de perturbações.
+Na figura abaixo, é representado o diagrama de blocos de um
+sistema de controle com dois graus de liberdade, onde H (s)
+e Hs) são as funções de transferência dos controladores,
+G(s) é a função de transferência da planta, w(s) é uma entra-
+da de perturbação, ref(s) é a referência e y(s) é a saída.
+Supondo que
+(s+z,)
+(s+p )(s+p,)
+G(s)=
+sendo Z, P,EP, constantes reais positivas e N (s), D (s),
+N.(s) e D.(s) polinômios, para eliminar o efeito de uma
+perturbação do tipo degrau, garantindo uma especificação de
+desempenho, e acelerar a resposta para o seguimento da
+referência, utilizando o controlador H, pode-se alocar um
+fator s no polinômio
+(A) N.(s) e cancelar os pólos de G(s) com os zeros de N,(s).
+(B) Dj(s) e alocar pólos rápidos em D (s).
+(C) D.(s)e alocar pólos mais rápidos em N,(s).
+(D) D.(s) ecancelar os pólos de G(s) com os zeros de N,(s).
+(E) D.(s), alocar um zero desejado em N,(s) e cancelar um
+zero indesejado de malha fechada com D,(s) , caso este
+não esteja no semiplano direito.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="85,674 85,820 785,820 785,674"/></ImageRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="825,2157 825,182"/></SeparatorRegion></Page></PcGts>

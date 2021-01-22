@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:40:15</Created>
+	<LastChange>2020-09-23T01:40:41</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="422,311 422,854 1231,854 1231,311"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,183 1573,183 1573,283 897,283 897,1183 1176,1183 1176,1261 670,1261 670,1434 867,1434 867,1481 1045,1481 1045,1507 723,1507 723,1647 1258,1647 1258,1673 705,1673 705,1732 677,1732 677,1979 704,1979 704,2029 677,2029 677,2138 80,2138 80,1647 89,1647 89,1507 79,1507 79,1481 81,1481 81,1345 80,1345 80,1261 79,1261"/>
+	<TextEquiv conf="0.96493">
+	<Unicode>QUESTÃO 35
+Será executado um aterro de 3 m de altura sobre um perfil geotécnico composto de uma camada de areia de 1,5 m de
+espessura sobrejacente a 4 m de solo mole, conforme esquema a seguir.
+Considerações:
+Nível d'água (N.A.) na superfície do terreno natural.
+A tensão total é constante com o tempo após a execução do aterro.
+Peso específico saturado médio da camada mole = 14 kN/m?.
+Peso específico do aterro = 18 kN/m?.
+Peso específico da água = 10 kN/mº?.
+Peso específico saturado da areia = 16 kN/m?.
+Tensão de sobreadensamento ou pressão de pré-adensamento da argila = 25 kN/m? (6 m):
+Índice de vazios inicial médio da camada de argila (e)=1,8.
+Coeficiente de compressão da argila (C ) = 1,0.
+Coeficiente de recompressão da argila (C)=0,1.
+H = espessura da camada de argila.
+o' ,= Tensão efetiva final (kN/m?).
+6' , = Tensão efetiva inicial no meio da camada de argila (kKN/m?).
+A magnitude do recalque a tempo infinito pode ser estimada a partir da equação:
+= H ,
+So = (te, (CjJlog (6º 1 /
+vo) + Clog (0' / OS ))
+vo)
+Qual será o recalque primário no ponto R, ao final do adensamento dessa camada de argila mole?
+(A) So =, 24, (1109 (118/25) + 0,1 log (172/25))
+(1+18)
+(B) SEAB) (0,1 log (17/25) + 1 log (25/71))
+2 A
+(C) S- = rg, (01 log (25/17) + 1 log (71/25)
+Ps
+—
+(D) Ss. = qo (0,1 log (118/25) + 1 log (172/25))
+=)
+-
+=
+(E) S. = Ts (1 10g (25/17) + 0,1 log (71/25))</Unicode></TextEquiv></TextRegion></Page></PcGts>

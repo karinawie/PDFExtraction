@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:05:48</Created>
+	<LastChange>2020-10-25T18:17:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="1183,1687 1184,2111 1577,2110 1576,1686"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="320,357 320,1471 1580,1471 1580,357"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,183 273,183 273,224 1573,224 1573,1490 1574,1490 1574,1583 80,1583"/>
+	<TextEquiv conf="0.88503">
+	<Unicode>QUESTÃO 25
+Uma bomba centrífuga trabalha em condição plena, a 3.500 rpm, com vazão de 80 m?/h, carga de 140 m, e absorve uma
+potência de 65 HP. Por motivos operacionais, esta bomba deverá ter a sua rotação reduzida em 20%. O gráfico abaixo
+mostra a relação entre vazão, carga e potência absorvida em uma bomba centrífuga, conforme as leis de semelhança.
+Considerando essas informações, os valores aproximados da nova carga da bomba (m) e da nova potência absorvida (HP)
+serão, respectivamente,
+(A) 7e3 (B) 90 e 33 (C) 90 e 40 (D) 105 e 40 (E) 105 e 63</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,1664 273,1664 273,1711 812,1711 812,1750 1059,1750 1059,2043 570,2043 570,2044 81,2044 81,2045 80,2045"/>
+	<TextEquiv conf="0.96585">
+	<Unicode>QUESTÃO 26
+Os aços ABNT 1020 não são temperáveis. Isto ocorre porque
+(A) é baixo o teor de carbono desses aços, e o cotovelo da curva TTT toca o eixo
+das ordenadas.
+(B) se trincam quando submetidos a um resfriamento rápido.
+(C) possuem elementos de liga que deslocam o cotovelo da curva TTT para a
+esquerda.
+(D) só possuem fase austenítica.
+(E) somente os aços-ligas são passíveis de têmpera, pois os aços comuns ao
+carbono não são.</Unicode></TextEquiv></TextRegion></Page></PcGts>

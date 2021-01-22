@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:37:55</Created>
+	<LastChange>2020-10-26T00:52:03</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="852,296 854,2104 858,2104 856,296"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="182,337 182,731 348,731 348,337"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="442,354 442,731 768,731 768,354"/></ImageRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="104,300 290,300 290,761 837,761 837,786 836,786 836,870 637,870 637,1015 664,1015 664,1061 670,1061 670,1154 769,1154 769,1201 836,1201 836,1226 400,1226 400,1269 155,1269 155,1227 154,1227 154,1220 104,1220 104,957 103,957 103,761 104,761"/>
+	<TextEquiv conf="0.77184">
+	<Unicode>QUESTÃO 41
+O cilindro e o catenóide, representados nas figuras I e II, são
+superfícies regulares de rotação geradas, respectivamente, pelas
+curvas a, (1) = (1, 0, 1) e a.(1) = (coshr, 0, 1), com te R.
+Considerando essas informações, conclui-se que
+o
+o
+e
+o
+e
+a curvatura gaussiana do catenóide é negativa.
+as duas superfícies são localmente isométricas.
+as únicas geodésicas do cilindro são as retas.
+a curvatura gaussiana do cilindro é constante e positiva.
+as curvas a, (1) e a (f) são os paralelos das respectivas
+superfícies de rotação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="heading">
+	<Coords points="104,1327 294,1327 294,1387 837,1387 837,1413 835,1413 835,1556 837,1556 837,1667 813,1667 813,1752 422,1752 422,1836 320,1836 320,2060 254,2060 254,2104 155,2104 155,2101 104,2101 104,1642 152,1642 152,1499 103,1499 103,1472 104,1472"/>
+	<TextEquiv conf="0.96542">
+	<Unicode>QUESTÃO 42
+Um domínio de integridade é um domínio principal quando todo
+ideal é principal, isto é, pode ser gerado por um único elemento.
+Com base nesse conceito, avalie as seguintes afirmações.
+1
+O anel Z[x] — de polinômios sobre Z na variável x — é um
+domínio principal, em que Z é o anel dos inteiros.
+Se K é um corpo, K[x] — o anel de polinômios sobre K na
+variável x — é um domínio principal.
+II O anel dos inteiros gaussianos Z[i] é um domínio principal.
+E correto o que se afirma em
+6 ocoeo
+1, apenas.
+II, apenas.
+Te III, apenas.
+II e III, apenas.
+LI em.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="876,300 1066,300 1066,350 1553,350 1553,702 1454,702 1454,741 1397,741 1397,867 1553,867 1553,929 878,929 878,930 877,930 877,640 876,640 876,594 875,594 875,533 876,533"/>
+	<TextEquiv conf="0.96664">
+	<Unicode>QUESTÃO 43
+Considere o espaço vetorial V = (Rº, &lt;, &gt;) munido do
+seguinte produto interno: &lt;u, v&gt;, = xXx, = YX, “XYs + MW»,
+em que v = (x1, y,) e u = (x, y,) são vetores de R?. Considere
+T:V- Vo operador linear dado por T(x,y) = (2y, Com
+relação ao produto interno &lt; , &gt;, e ao operador 7, assinale a
+opção correta.
+O Os vetores e, =(1,0) e e, = (0, 1) são ortogonais em
+relação ao produto interno &lt;,&gt;,.
+O O operador 7 preserva o produto interno, isto é,
+&lt;T(u), TW) &gt;, = &lt;u, v&gt;,.
+O Tx y)=TVW, x), para todo (x, y) de Rº.
+O Ovetoru=(2,0) pertence ao núcleo de 7.
+O Existe um vetor v=(x,y)eR talquex +y =le
+&lt;v, v&gt;, =0.</Unicode></TextEquiv></TextRegion></Page></PcGts>

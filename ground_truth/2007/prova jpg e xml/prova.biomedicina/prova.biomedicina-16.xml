@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T06:16:21</Created>
+	<LastChange>2020-11-23T02:48:45</LastChange></Metadata>
+	<Page imageFilename="prova.biomedicina-16.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="389,1026 389,1376 1226,1376 1226,1026"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,165 252,165 252,203 1554,203 1554,338 1555,338 1555,398 1554,398 1554,545 1555,545 1555,708 1554,708 1554,812 62,812 62,811 61,811 61,294 60,294"/>
+	<TextEquiv conf="0.95391">
+	<Unicode>QUESTÃO 34
+A paracoccidioidomicose é a micose sistêmica mais importante da América Latina, sendo que 80% dos pacientes com
+esta micose são diagnosticados no Brasil. O exame direto e o cultivo do material clínico são fundamentais para o
+diagnóstico da doença. A identificação desse fungo é caracterizada pela presença de
+(A) leveduras e hifas no exame direto do material clínico, crescimento de leveduras multibrotantes durante o cultivo a
+37 ºC e fungos filamentosos à temperatura ambiente.
+(B) hifas septadas no exame direto do material clínico, crescimento de fungos filamentosos durante o cultivo a 37 ºC e
+leveduras multibrotantes à temperatura ambiente.
+(C) leveduras multibrotantes no exame direto do material clínico e crescimento de leveduras e hifas durante o cultivo a
+37 ºC e à temperatura ambiente.
+(D) hifas cenocíticas e leveduras multibrotantes (não septadas) no exame direto do material clínico e cultura negativa
+nas temperaturas ambiente e a 37 ºC.
+(E) leveduras multibrotantes no exame direto do material clínico, crescimento de leveduras durante o cultivo a 37 ºC e
+de fungos filamentosos à temperatura ambiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="60,892 61,892 61,893 1555,893 1555,996 1484,996 1484,1518 1553,1518 1553,1621 1555,1621 1555,1991 62,1991 62,1990 61,1990 61,1483 60,1483"/>
+	<TextEquiv conf="0.95484">
+	<Unicode>QUESTÃO 35
+No gráfico abaixo está representada a evolução de uma infecção com o vírus da hepatite B, assim como a resposta
+imune (anti-HBc, IgM e IgG) a essa infecção.
+Considerando um indivíduo doador de sangue, potencialmente será seu sangue fonte inadvertida de contaminação.
+Pode-se afirmar corretamente que
+(A) na etapa A há risco para transmissão do vírus, mas este pode ser detectado com métodos que identificam
+antígenos virais.
+(B) na etapa B observa-se a geração de anticorpos de memória, IgM, que não podem ser identificados em ensaios
+imunológicos.
+(C) ensaios imunológicos podem detectar facilmente a presença de partículas de vírus na etapa C, sendo estes
+considerados de referência.
+(D) os anticorpos gerados tardiamente após a infecção (IG, etapa C) penetram no hepatócito, destruindo
+completamente os vírus.
+(E) a chamada janela imunológica corresponde a uma etapa tardia após a infecção, na qual não se podem detectar
+anticorpos contra o vírus da hepatite B.</Unicode></TextEquiv></TextRegion></Page></PcGts>

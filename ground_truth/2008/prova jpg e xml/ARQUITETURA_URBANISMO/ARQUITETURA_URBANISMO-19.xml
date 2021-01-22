@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T19:30:41</Created>
+	<LastChange>2020-09-22T19:31:03</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="117,371 117,1040 1554,1040 1554,371"/></ImageRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="81,183 275,183 275,224 1576,224 1576,1145 1427,1145 1427,1146 1278,1146 1278,1147 1128,1147 1128,1148 979,1148 979,1149 829,1149 829,1150 81,1150 81,317 80,317 80,224 81,224"/>
+	<TextEquiv conf="0.96757">
+	<Unicode>QUESTÃO 26
+Uma residência com áreas livres para lazer e recreação infantil, destinada a um casal com 4 filhos, com idades entre 2 e 10
+anos, deverá ser construída em um terreno localizado em Cervantes (RS), às margens de um lago. Sobre este terreno são
+fornecidas informações relativas a topografia, tipo de subsolo, recursos naturais e recuos exigidos, conforme figuras abaixo.
+Levando em conta o menor custo estrutural, o conforto ambiental, o aproveitamento das potencialidades físicas do terreno e da
+vista do lago, a opção adequada para implantação da edificação e das áreas livres, é</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="68,1188 68,1442 477,1442 477,1188"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="62,1500 62,1762 480,1762 480,1500"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="57,1822 57,2082 471,2082 471,1822"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="851,1185 851,1445 1257,1445 1257,1185"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="848,1485 848,1762 1260,1762 1260,1485"/></ImageRegion></Page></PcGts>

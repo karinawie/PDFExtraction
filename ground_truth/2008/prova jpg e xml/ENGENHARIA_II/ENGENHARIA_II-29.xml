@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:27:53</Created>
+	<LastChange>2020-10-25T17:37:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-29.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="847,185 850,2150 854,2150 851,185"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="54,237 54,814 814,814 814,237"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,186 273,186 273,852 801,852 801,955 802,955 802,1264 801,1264 801,1607 679,1607 679,1643 81,1643 81,1644 80,1644 80,1265 79,1265 79,955 81,955 81,216 80,216"/>
+	<TextEquiv conf="0.93519">
+	<Unicode>QUESTÃO 48
+MUNSON, Jon e COX, Frank. Video Circuit Collection, Application Note 57.
+Linear Technology, 1994.
+Existe atualmente um grande número de padrões de vídeo,
+cada qual com suas características, o que obriga os usuários
+de equipamentos de vídeo a adquirir módulos conversores para
+interligar padrões distintos. O circuito eletrônico proposto na
+figura acima é um desses circuitos conversores, que realiza
+a conversão de sinal do padrão RGB para o YPgPpg: sendo
+ambos padrões analógicos. Este circuito utiliza amplificado-
+res operacionais especiais para amplificação de sinais de
+vídeo.
+Considerando os amplificadores operacionais como ideais,
+este circuito apresenta
+(A) impedância de entrada no valor de 1.070 O na conexãoR.
+(B) impedância de entrada no valor de 86,6 O na conexão G.
+(C) impedância de saída no valor de 261 OQ na conexão P,.
+(D) tensão na saída do amplificador operacional A3 igual à
+diferença entre as tensões das conexões B e Y, quando
+as saídas Y, Pz e pr estão desconectadas.
+(E) acoplamento CA das entradas para as saídas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

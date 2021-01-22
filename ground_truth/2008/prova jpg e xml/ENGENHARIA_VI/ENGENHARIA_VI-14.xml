@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:43:04</Created>
+	<LastChange>2020-10-25T20:00:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="784,207 786,2151 790,2151 788,207"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="74,897 74,1405 785,1405 785,897"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="104,215 294,215 294,282 774,282 774,835 773,835 773,1674 775,1674 775,2150 105,2150 105,2151 104,2151 104,1598 103,1598 103,1482 105,1482 105,878 103,878 103,282 104,282"/>
+	<TextEquiv conf="0.96541">
+	<Unicode>QUESTÃO 23
+A figura a seguir apresenta um fluxograma simplificado
+de um processo de fabricação contínua para produção
+de álcool! hidratado. O caldo proveniente da moagem da
+cana-de-açúcar passa por um tratamento para obtenção
+do mosto, sendo a ele adicionada uma massa,
+composta de xarope e mel, que é processada em um
+tanque misturador, seguida da adição do fermento. O
+vinho obtido passa por colunas de destilação, que
+alimentam 5 linhas de envase. Para o volume atual de
+produção, os níveis de utilização das capacidades
+instaladas são os seguintes: 80% no tanque misturador;
+50% nas colunas de destilação; e 100% nas 5 linhas de
+envase.
+Para atender a um aumento de produção de 50%, qual
+das afirmações abaixo é correta quanto às capacidades
+do tanque misturador, das colunas de destilação e das
+linhas de envase?
+O As capacidades instaladas são suficientes para
+atender ao aumento da produção.
+O Há necessidade de aumentar a capacidade
+instalada do tanque misturador em 20%.
+O Há necessidade de aumentar a capacidade das
+colunas de destilação em 50%.
+O Há necessidade de duplicar o número de linhas de
+envase.
+O Há necessidade de aumentar a capacidade do
+tanque misturador em 10% da capacidade atual.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="814,215 1004,215 1004,271 1553,271 1553,720 1552,720 1552,927 1554,927 1554,991 1552,991 1552,1106 1167,1106 1167,1184 986,1184 986,1471 815,1471 815,1425 814,1425 814,1235 815,1235 815,721 813,721 813,271 814,271"/>
+	<TextEquiv conf="0.96676">
+	<Unicode>QUESTÃO 24
+O custeio com base em atividades, também chamado de ABC
+(activity based cost), parte da suposição de que todas as
+atividades geram custos. Os produtos e serviços realizados
+utilizam atividades e absorvem os custos gerados por elas. A
+crescente complexidade dos processos de produção e o
+aumento desproporcional dos custos indiretos nas estruturas
+de custos evidenciaram insuficiências dos métodos
+tradicionais de custeio. Ao direcionar os custos indiretos para
+as atividades, o ABC identifica o consumo de recursos,
+monitora processos e se torna uma ferramenta gerencial
+importante para sugerir melhorias nos processos e atividades.
+Acerca desse assunto, é correto afirmar que
+| o ABC reduz distorções provenientes de alocação de
+custos indiretos aos produtos.
+Il o direcionador de custos (cost driver) que elimina
+distorções é a quantidade produzida por período.
+Ill os custos da capacidade ociosa no ABC devem ser
+alocados aos produtos.
+IV o ABC auxilia o controle dos processos, pois parte do
+princípio de que as atividades geram os custos e os
+produtos absorvem os custos das atividades.
+Estão certos apenas os itens
+lell.
+ev.
+Nell.
+INelv.
+Lie,
+RASCUNHO
+cogcgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

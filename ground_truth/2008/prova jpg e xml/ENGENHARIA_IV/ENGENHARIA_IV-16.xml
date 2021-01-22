@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:31:06</Created>
+	<LastChange>2021-01-19T12:54:19</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-16.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="223,259 223,892 673,894 673,260"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="80,1799 80,1800 273,1800 273,1840 803,1840 803,1966 787,1966 787,2128 86,2128 86,2132 80,2132 80,1966 79,1966 79,1840 80,1840"/>
+	<TextEquiv conf="0.96562">
+	<Unicode>QUESTÃO 25
+A água é uma das poucas substâncias que apresenta
+uma anomalia no diagrama PT (P é pressão, T é temperatura)
+referente à curva de equilíbrio sólido-líquido. A justificativa para
+essa anomalia é que
+(A) a temperatura de ebulição da água é elevada.
+(B) a entropia da fase líquida é menor que a da fase sólida.
+(C) a entalpia da fase líquida é menor que a da fase sólida.
+(D) o volume da fase líquida é menor que o da fase sólida.
+(E) o valor da massa molar da água é muito baixo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="851,187 852,187 852,188 1573,188 1573,290 1139,290 1139,477 1380,477 1380,510 1573,510 1573,770 851,770 852,770 852,502 850,502 850,476 851,476"/>
+	<TextEquiv conf="0.96065">
+	<Unicode>QUESTÃO 26
+O valor da variação da energia de Gibbs padrão de reação a
+298,15 K para a reação
+Ha9) + 1/2027, = HO,
+é igual a (-218 kJ.-mol!)
+A partir desse valor, conclui-se que a reação
+(A) ocorre, pois hidrogênio e oxigênio são estáveis na fase
+gasosa a 298,15 K.
+(B) ocorre, pois hidrogênio e oxigênio não são estáveis a
+298,15 K.
+(OC) ocorre, pois a água não é estável na fase gasosa a
+298,15 K.
+(D) é termodinamicamente favorável a 298,15 K.
+(E) é termodinamicamente favorável, pois é exotérmica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="851,809 851,810 1045,810 1045,852 1573,852 1573,1352 1574,1352 1574,1607 852,1607 852,1378 851,1378 851,946 850,946 850,852 851,852"/>
+	<TableRegion id="r5">
+	<Coords points="1005,1014 1005,1291 1405,1291 1405,1014"/></TableRegion>
+	<TextEquiv conf="0.96750">
+	<Unicode>QUESTÃO 27
+Atabela abaixo apresenta valores da Constante de Henry (H)
+de um certo gás dissolvido em água a uma pressão parcial
+de 1 bar a várias temperaturas.
+Com base nos dados apresentados, verifica-se que a solubi-
+lidade desse gás em água
+(A) independe da temperatura.
+(B) depende do valor da pressão do sistema.
+(C) depende da razão pressão/temperatura do sistema.
+(D) é muito baixa tornando inválida a aplicação da Lei de Henry.
+(E) aumenta com o aumento da temperatura na faixa consi-
+derada.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="825,2145 825,180"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,187 273,187 273,950 803,950 803,1524 550,1524 550,1763 81,1763 81,1762 80,1762 80,1109 79,1109 79,950 80,950"/>
+	<TextEquiv conf="0.95396">
+	<Unicode>QUESTÃO 24
+O diagrama mostra um corte da parede metálica, de espes-
+sura L, de um tanque com líquido no seu interior. O exterior
+do tanque está exposto ao ar circulante, conforme represen-
+tado no diagrama. Considerando essas informações, analise
+as afirmações a seguir.
+| - Aresistência à transferência de calor no filme de líquido
+é desprezível.
+A resistência à transferência de calor na parede é menor
+do que a do filme de ar estagnado próximo à parede.
+Il - O coeficiente global de troca de calor, U, pode ser calcu-
+lado por 1/U = 1h, + kK/L, onde h, é o coeficiente de
+película do lado do ar, e Kk, é a condutividade térmica do
+material da parede.
+O gradiente de temperatura na chapa (T, - T,) determina
+a espessura da camada limite formada pelo ar
+circundante.
+&lt;
+Estão corretas APENAS as afirmações
+(A) lell
+(B) le!
+(C) Ile
+(D) Ie IV
+(E) Ile IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

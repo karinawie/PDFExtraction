@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:22:04</Created>
+	<LastChange>2021-01-18T19:12:21</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="810,207 811,2119 814,2119 813,207"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="101,215 288,215 288,265 799,265 799,745 454,745 454,807 235,807 235,996 101,996 101,842 102,842 102,660 140,660 140,535 102,535 102,413 101,413"/>
+	<TextEquiv conf="0.96180">
+	<Unicode>QUESTÃO 31
+Julgue os itens a seguir, relativos a métodos de busca com
+informação (busca heurística) e sem informação (busca
+cega), aplicados a problemas em que todas as ações têm
+o mesmo custo, o grafo de busca tem fator de ramificação
+finito e as ações não retornam a estados já visitados.
+I Aprimeira solução encontrada pela estratégia de busca
+em largura é a solução ótima.
+Il Aprimeira solução encontrada pela estratégia de busca
+em profundidade é a solução ótima.
+III As estratégias de busca com informação usam funções
+heurísticas que, quando bem definidas, permitem
+melhorar a eficiência da busca.
+IV A estratégia de busca gulosa é eficiente porque
+expande apenas os nós que estão no caminho da
+solução.
+Estão certos apenas os itens
+lell.
+lei.
+lelv.
+Nelv.
+Meiv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="101,1035 291,1035 291,1082 799,1082 799,1345 798,1345 798,1477 800,1477 800,1866 588,1866 588,2113 101,2113 101,1927 100,1927 100,1901 140,1901 140,1627 102,1627 102,1437 101,1437"/>
+	<TextEquiv conf="0.96784">
+	<Unicode>QUESTÃO 32
+Uma empresa realizou uma avaliação de
+desempenho de um sistema web. Nessa avaliação, foram
+determinados o desvio padrão e a média do tempo de
+resposta do referido sistema, tendo como base 10
+consultas realizadas. Constatou-se que o tempo de
+resposta do sistema web possui distribuição normal. Para
+um nível de confiança de 95%, identificou-se o intervalo de
+confiança para a média do tempo de resposta das
+consultas.
+Com relação a essa avaliação de desempenho, julgue os
+itens abaixo.
+| Com amedição do tempo de resposta do sistema para
+10 consultas adicionais, é possível que a média e o
+desvio padrão do tempo de resposta para o conjunto
+das 20 consultas aumente ou diminua.
+Il Com a medição do tempo de resposta do sistema para
+15 consultas adicionais, com nível de confiança de
+95%, o intervalo de confiança para o conjunto das 25
+consultas é maior que o intervalo de confiança para o
+conjunto das 10 consultas iniciais.
+Na medição do tempo de resposta das 10 consultas
+iniciais, o intervalo de confiança com nível de confiança
+de 99% é maior que o intervalo de confiança com nível
+de confiança de 95%.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e 1l| estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="839,1229 1029,1229 1029,1274 1552,1274 1552,1868 1192,1868 1192,1928 1007,1928 1007,2117 891,2117 891,2113 839,2113 839,1868 837,1868 837,1782 840,1782 840,1540 836,1540 836,1274 839,1274"/>
+	<TextEquiv conf="0.96569">
+	<Unicode>QUESTÃO 34
+Modems são dispositivos capazes de converter um sinal
+digital em um sinal analógico e vice-versa. No processo de
+modulação, para representar o sinal digital, o modem pode
+manipular as características de uma onda portadora
+(amplitude, frequência e fase), derivando diferentes técnicas
+de modulação, por exemplo: chaveamento da amplitude
+(ASK), chaveamento da frequência (FSK) e chaveamento
+da fase (PSK). Com relação a técnicas de modulação,
+julgue os itens a seguir.
+| Amodulação ASK é suscetível a ruídos.
+Il A modulação FSK possui maior imunidade a ruídos
+quando comparada à modulação ASK.
+Ill Na modulação PSK, a fase da portadora é modificada
+durante o intervalo de sinalização.
+IV Existem técnicas híbridas de modulação digital que
+modificam tanto a amplitude quanto a fase da portadora.
+V As diversas técnicas de modulação transmitem, no
+mínimo, um único bit e, no máximo, 2 bits, por intervalo
+de sinalização.
+Estão certos apenas os itens
+Llelv.
+Lev.
+Lev.
+I,WMev.
+MM, IVeV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="839,215 1029,215 1029,261 1552,261 1552,589 1553,589 1553,946 1191,946 1191,1005 965,1005 965,1137 1004,1137 1004,1194 891,1194 891,1190 839,1190 839,1039 840,1039 840,860 877,860 877,705 840,705 840,556 839,556"/>
+	<TextEquiv conf="0.96570">
+	<Unicode>QUESTÃO 33
+Compiladores de linguagens de programação traduzem
+programas-fonte, em uma linguagem de entrada, para
+programas-objeto, em uma linguagem de saída. Durante o
+processo de tradução, o compilador deve verificar se as
+sentenças do programa-fonte estão sintaticamente corretas.
+Esse processo de análise sintática pode ser realizado
+construindo-se uma árvore de análise segundo duas
+principais abordagens: top-down, quando a árvore é
+investigada da raiz às folhas; ou bottom-up, das folhas à
+raiz. Acerca desse assunto, julgue os itens seguintes.
+| A análise top-down é adequada quando a linguagem de
+entrada é definida por uma gramática recursiva à
+esquerda.
+Il Independentemente da abordagem adotada, top-down
+ou bottom-up, o analisador sintático utiliza informações
+resultantes da análise léxica.
+III Se os programas em uma linguagem podem ser
+analisados tanto em abordagem top-down como em
+bottom-up, a gramática dessa linguagem é ambígua.
+IV A análise bottom-up utiliza ações comumente
+conhecidas como deslocamentos e reduções sobre as
+sentenças do programa-fonte.
+Estão certos apenas os itens
+o lel,
+o lelll.
+o llelv,
+O Lev.
+e ILIMelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

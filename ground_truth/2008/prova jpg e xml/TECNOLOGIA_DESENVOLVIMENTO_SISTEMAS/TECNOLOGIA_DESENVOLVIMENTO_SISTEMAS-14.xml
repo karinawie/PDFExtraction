@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:34:50</Created>
+	<LastChange>2020-10-26T12:43:26</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r9">
+	<Coords points="910,207 911,2112 914,2112 913,207"/></SeparatorRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="940,215 1129,215 1129,283 1554,283 1554,995 1069,995 1069,1116 1552,1116 1552,1432 1550,1432 1550,1568 1552,1568 1552,1928 1553,1928 1553,1949 1552,1949 1552,2051 1068,2051 1068,2097 990,2097 990,2098 989,2098 989,2082 990,2082 990,1950 939,1950 939,996 938,996 938,319 939,319 939,216 940,216"/>
+	<TextEquiv conf="0.96622">
+	<Unicode>QUESTÃO 25
+Durante as eleições o eleitor deverá
+comparecer à sua seção e zona, munido de um
+documento válido. Ao chegar ao local, apresenta o
+documento ao mesário, que verifica se o eleitor
+está apto a votar. Caso afirmativo, o mesário
+informa ao sistema o número do título de eleitor. O
+sistema valida o título e habilita o voto eletrônico
+para o eleitor. O eleitor informa os números de seus
+candidatos, podendo anular ou confirmar seu voto.
+Ao final do dia, termina o processo eleitoral da
+seção, o mesário finaliza o sistema, que gera os
+dados em tela ou em papel do resultado da urna,
+listando os votos para cada candidato. A totalização
+das urnas ocorre em um processo distinto em que
+o resultado final da eleição é apresentado à
+população.
+Partindo dessa descrição, assinale a opção correta
+que corresponde à modelagem conceitual,
+utilizando diagrama de caso de uso com UML.
+O verificar o Documento do eleitor e
+Habilitar o Voto Eletrônico Sãocasosde
+uso.
+O No processo eleitoral da seção, os atores são:
+Eleitor, Mesário E População.
+O O caso de uso Informar Título tem uma
+associação do tipo &lt;&lt;extends&gt;&gt; Com O Caso
+de uso Validar Título.
+O Ocasode uso Informar Número Candidato
+tem uma associação do tipo &lt;&lt;extends&gt;&gt;
+com os casos de uso Anular Voto e
+Confirmar Voto.
+O Gerar Dados em Tela E Gerar Dados em
+Papel têm uma associação do tipo
+&lt;&lt;implements&gt;&gt; Com O caso de uso Gerar
+Dados.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="157,951 157,1657 840,1657 840,951"/></ImageRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="104,215 294,215 294,270 897,270 897,373 899,373 899,862 154,862 154,394 104,394 104,330 103,330 103,270 104,270"/>
+	<TextEquiv conf="0.96588">
+	<Unicode>QUESTÃO 23
+Com relação à forma como o RUP trata a análise de requisitos,
+assinale a opção correta.
+o
+A análise de requisitos ocorre na fase de construção, quando
+são descritos todos os casos de uso, e em seguida modelados
+por meio de diagramas de casos de uso UML.
+A análise de requisitos ocorre na fase de elaboração, em que
+são feitas entrevistas com usuários e definição do escopo do
+projeto.
+A maior parte da análise de requisitos ocorre durante a fase de
+elaboração.
+Por se tratar de um processo iterativo e evolutivo, a análise de
+requisitos ocorre na fase de construção juntamente com a
+programação, o que permite que os requisitos sejam revistos.
+A análise de requisitos deve acontecer antes da programação
+e testes do sistema, não podendo sofrer alterações a partir do
+momento que estejam definidos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords points="104,904 295,904 295,1677 580,1677 580,1734 900,1734 900,2106 154,2106 154,1814 104,1814 104,1704 103,1704 103,1677 104,1677"/>
+	<TextEquiv conf="0.96524">
+	<Unicode>QUESTÃO 24
+A figura acima mostra um diagrama de
+o
+o
+comunicação, pois modela o comportamento do sistema e
+ilustra as interações entre atores e objetos.
+estados, pois apresenta os possíveis estados do objeto urna
+eletrônica, além dos eventos que dão início à transição de
+um estado para outro.
+estados, pois, a partir de um estado inicial, descreve a
+sequência de possíveis estados que todos os objetos podem
+assumir.
+atividades, pois as ações ilustram a forma como o ator
+Eleitor interage com os objetos em um caso de uso.
+atividades, pois modela o fluxo de controle de um processo
+composto por ações sequencias e paralelas partindo de um
+estado inicial.</Unicode></TextEquiv></TextRegion></Page></PcGts>

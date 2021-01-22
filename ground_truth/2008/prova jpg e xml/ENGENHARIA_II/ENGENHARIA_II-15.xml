@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:30:19</Created>
+	<LastChange>2021-01-19T12:34:41</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r9">
+	<Coords points="78,400 78,840 807,839 807,399"/></ImageRegion>
+	<ImageRegion id="r20">
+	<Coords points="885,1262 885,1637 1528,1635 1528,1261"/></ImageRegion>
+	<TableRegion id="r0">
+	<Coords points="848,448 848,705 1585,705 1585,448"/></TableRegion>
+	<TextRegion id="r23" type="caption">
+	<Coords points="80,360 269,360 269,873 803,873 803,1040 801,1040 801,1155 191,1155 191,1339 87,1339 87,1155 79,1155 79,873 80,873"/>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 21
+A figura acima apresenta um circuito contendo algumas
+simetrias, alimentado por duas fontes de tensão contínua.
+Os valores das resistências estão em ohms. Considere
+que o circuito esteja funcionando em regime permanente,
+com a chave S fechada.
+Em determinado instante, a chave S é aberta. O módulo da
+corrente lo: indicada na figura, em amperes, imediatamente
+após a abertura da chave S, é
+A) 0,125
+(B) 0,250
+(C) 0,375
+(D) 0,500
+(E) 0,625</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,1379 331,1379 331,1716 804,1716 804,2137 80,2137 80,2139 79,2139 79,1716 80,1716"/>
+	<TextEquiv conf="0.79086">
+	<Unicode>QUESTÃO 22
+ica 50 Hz
+Um gerador síncrono de oito pólos é acionado por um motor
+de indução de dois pólos, conforme ilustrado na figura acima.
+O gerador alimenta uma carga que está isolada da rede elétri-
+ca, cuja frequência é de 50 Hz. Observou-se que a frequência
+da tensão gerada pelo gerador síncrono é igual a 192 Hz.
+Com base nas informações dadas, qual é o valor percentual
+do escorregamento do motor de indução?
+(A) 5,0
+(B) 4,0
+(C) 3,0
+(D) 2,0
+(E) 1,0</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="80,1417 80,1694 802,1694 802,1417"/></ImageRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="851,182 1045,182 1045,224 1574,224 1574,350 1573,350 1573,407 973,407 973,408 972,408 972,713 1573,713 1573,766 1564,766 1564,930 1573,930 1573,989 1402,989 1402,1108 1247,1108 1247,1109 1246,1109 1246,1043 1009,1043 1009,1176 852,1176 852,930 932,930 932,767 850,767 850,713 851,713 851,351 850,351 850,224 851,224"/>
+	<TextEquiv conf="0.96716">
+	<Unicode>QUESTÃO 23
+Um técnico em informática deve construir um dispositivo
+para auxiliar no diagnóstico de determinada doença W. Ado-
+ença é diagnosticada através da análise do valor do volume de
+três substâncias, S1, S2 e S3, encontradas no sangue.
+Considera-se que a pessoa tem a doença W nas seguintes
+situações:
+As variáveis lógicas T, V e X foram definidas da seguinte
+maneira:
+- 1,se S3&gt;45
+0,se S1&lt;10
+Para indicar que a pessoa tem a doença W, a expressão
+lógica que deverá ser implementada no dispositivo é
+(A) XV+XT 
+(B) XV+TV
+(C) XV+TV
+(D) XV+XT
+(E) XV+XT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="851,1229 1050,1229 1050,1713 1575,1713 1575,1864 1572,1864 1572,1962 1480,1962 1480,2092 859,2092 859,2130 852,2130 852,1923 851,1923"/>
+	<TextEquiv conf="0.82748">
+	<Unicode>QUESTÃO 24
+No circuito eletrônico acima, a entrada é representada
+pela fonte de tensão V, e a saída é dada pela tensão V..
+Os resistores R, e R, apresentam resistências compre-
+endidas no intervalo de 100 O a 10.000 O.
+Com base nos dados acima, conclui-se que este circuito é um
+(A) amplificador não inversor com ganho G = (1+R//R),).
+(B) amplificador não inversor com ganho G = R,y/R,.
+(C) amplificador inversor com ganho G = -Ry/R,.
+(D) amplificador inversor com ganho G = -(1+R,y/R,).
+(E) multivibrador biestável.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="825,174 825,2157 828,2157 828,174"/></SeparatorRegion></Page></PcGts>

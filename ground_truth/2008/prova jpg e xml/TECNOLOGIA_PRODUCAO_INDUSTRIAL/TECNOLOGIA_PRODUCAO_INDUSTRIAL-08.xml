@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T16:43:10</Created>
+	<LastChange>2021-01-19T15:11:09</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_PRODUCAO_INDUSTRIAL-08.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,177 822,2151 828,2151 828,177"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="71,671 71,974 728,974 728,671"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,277 267,277 267,327 802,327 802,656 79,656 79,327 80,327"/>
+	<TextEquiv conf="0.96350">
+	<Unicode>QUESTÃO 11
+Uma das funções da administração da produção é projetar o
+sistema produtivo mais adequado aos objetivos estratégicos
+da empresa, selecionando os tipos de processo e de
+sistemas a serem utilizados na organização. Esse projeto é
+influenciado pela relação entre o volume e a variedade dos
+produtos a serem comercializados. Que processo e que
+sistema de produção devem ser utilizados quando há alto
+volume e baixa variedade de produto?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,1057 273,1057 273,1107 803,1107 803,1133 801,1133 801,1237 803,1237 803,1566 801,1566 801,1714 803,1714 803,1870 801,1870 801,2124 80,2124 80,1566 79,1566 79,1150 80,1150"/>
+	<TextEquiv conf="0.96657">
+	<Unicode>QUESTÃO 12
+Numa empresa, uma peça era fabricada por processo
+de forjamento, muito demorado porque, para melhorar o
+acabamento, eram realizadas outras operações como
+rebarbação e tamboreamento. Decidiu-se fabricar a peça por
+operação de repuxo, que, por apresentar acabamento
+adequado, eliminava essas duas operações. No entanto,
+no nível operacional, constatou-se que a fábrica não dispunha
+de prensa de repuxo; no nível tático, verificou-se que era
+necessário adquirir ou terceirizar a peça. Assim, a decisão
+passou para o nível estratégico, que optou pela terceirização.
+Analisando-se esse caso, conclui-se que ao nível hierárquico
+(A) operacional coube o levantamento de dados da prensa e
+da ferramenta de repuxo e a cotação da peça para uma
+possível terceirização.
+(B) operacional coube a decisão sobre as marcas e os
+modelos e o fornecedor da ferramenta e da peça.
+(C) operacional coube a análise das consequências da deci-
+são sobre os planos de longo prazo da empresa.
+(D) tático, em consenso com o operacional, coube a decisão
+de como seria a alocação de investimentos considerando
+esta decisão e os demais negócios da empresa.
+(E) tático coube o estudo de como a alavancagem financeira
+e o fluxo de caixa a longo prazo seriam afetados pela
+decisão.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="851,1646 1045,1646 1045,1689 1574,1689 1574,2146 851,2146"/>
+	<TextEquiv conf="0.96341">
+	<Unicode>QUESTÃO 15
+Uma empresa de cosméticos está planejando investir
+em uma segunda empilhadeira para sua área de manufatura.
+Ela já utiliza uma empilhadeira para movimentar paletes
+com peças em processo de uma estação de trabalho
+para outra, a partir do recebimento de um cartão kanban.
+São realizadas 5 requisições por hora. A capacidade da
+empilhadeira atual é de atendimento a 10 requisições por hora.
+Qual é o tempo médio, em minutos, na fila de atendimento?
+(A) 30
+(B) 10
+(C) 5
+(D) 0,6
+(E) 0,1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="851,935 1046,935 1046,977 1573,977 1573,1602 852,1602 852,1140 851,1140 851,1074 850,1074 850,977 851,977"/>
+	<TextEquiv conf="0.96497">
+	<Unicode>QUESTÃO 14
+A Empresa X explora minério de ferro na região de Minas
+Gerais. A Empresa Y compra e beneficia minério de
+ferro para posterior comercialização. X e Y fazem uma
+aliança e decidem, em conjunto, comercializar minério
+de ferro beneficiado nos mercados interno e externo.
+Nessa situação, verifica-se que a aliança feita
+(A) pressupõe a solução de problemas a partir de uma
+decisão que permita juntar três elementos: viabilidade
+técnica, recursos financeiros e mercado consumidor.
+(B) é uma joint venture, meio pelo qual duas empresas
+concordam em produzir conjuntamente produtos e/ou
+serviços.
+(C) é uma decisão tomada sob risco e deve ser previsível a
+ocorrência de resultados não satisfatórios.
+(D) deve ser um processo empresarial em nível de gestão
+operacional.
+(E) pode ser utilizada desde que as empresas tenham
+acesso a mercados exteriores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="851,182 1045,182 1045,226 1574,226 1574,905 850,905 850,656 853,656 853,359 851,359"/>
+	<TextEquiv conf="0.96461">
+	<Unicode>QUESTÃO 13
+Uma empresa prestadora de serviços, negócios e projetos
+contratou um Tecnólogo em Gestão da Produção Industrial
+para seu departamento de engenharia e a ele foram atribuí-
+das as seguintes tarefas:
+| - desenvolver estudos de produtividade para um arranjo
+físico do setor de robótica em um centro automotivo;
+ll - desenvolver e gerenciar, no modelo celular, um restau-
+rante por quilo em uma indústria;
+Ill - desenvolver uma nova área de produção em indústria de
+equipamento hospitalar.
+Pode(m) ser considerada(s) como projeto(s) APENAS a(s)
+tarefa(s)
+(A) I
+(B) III
+(C) I e II
+(D) I e III
+(E) II e III</Unicode></TextEquiv></TextRegion></Page></PcGts>

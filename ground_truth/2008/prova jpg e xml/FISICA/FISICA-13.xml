@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:30:10</Created>
+	<LastChange>2020-10-25T21:42:22</LastChange></Metadata>
+	<Page imageFilename="FISICA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="971,307 971,445 1562,444 1562,306"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="965,508 965,711 1635,710 1635,507"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="600,1125 600,1440 1040,1440 1040,1125"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="400,1557 400,1900 1282,1900 1282,1557"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,184 1573,184 1573,281 829,281 829,454 525,454 525,709 828,709 828,858 1460,858 1460,918 80,918 80,858 81,858 81,455 79,455"/>
+	<TextEquiv conf="0.94440">
+	<Unicode>QUESTÃO 22
+Uma onda se propaga em uma corda, representada na figura abaixo em dois momentos sucessivos. O intervalo de tempo entre
+esses dois momentos é de 0,2s.
+Com relação à propagação dessa onda, foram feitas as afirma-
+tivas a seguir.
+| - A velocidade da onda é 40 cm/s.
+Il - Afrequência da onda é 1,25 Hz.
+Ill - As ondas estão defasadas de z
+IV - As ondas estão deslocadas de meio comprimento de onda.
+São corretas APENAS as afirmações
+(A) lell (B) le IV (C) Ile! DD) Ile IV (E) IelV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,988 1573,988 1573,1527 1097,1527 1097,2145 81,2145 81,2146 80,2146 80,1091 79,1091"/>
+	<TextEquiv conf="0.95128">
+	<Unicode>QUESTÃO 23
+Em uma experiência de interferência entre duas fendas iguais, utilizou-se um feixe de luz monocromática, de comprimento de
+onda 4 = 500 nm, incidindo perpendicularmente ao plano que contém as fendas.
+O padrão de interferência observado no anteparo, posicionado a uma distância L = 1,0 m do plano das fendas, está
+representado na figura a seguir com a intensidade | em função da posição x.
+Considerando-se os dados apresentados, qual é a distância d entre as duas fendas?
+(A) 1,70 cm
+(B) 0,85 cm
+(C) 1,50 mm
+(D) 0,380 mm
+(E) 0,15 mm</Unicode></TextEquiv></TextRegion></Page></PcGts>

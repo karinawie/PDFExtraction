@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:37:35</Created>
+	<LastChange>2020-10-26T00:50:01</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-21.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="104,215 294,215 294,264 471,264 471,336 704,336 704,392 573,392 573,433 359,433 359,504 214,504 214,707 104,707 104,504 103,504 103,478 201,478 201,290 103,290 103,264 104,264"/>
+	<TextEquiv conf="0.96406">
+	<Unicode>QUESTÃO 46
+Considere as integrais complexas
+L = coSTZ 1, e L = cosTz
+z(-1)2 zE-1)2
+1 1
+= 2 el
+le) Ines
+A soma /, + /, é igual a
+4Ti.
+2Ti.
+0.
+-2Ti.
+ATi.
+cocos</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="202,1451 202,1777 740,1777 740,1451"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="817,202 817,2128 825,2128 825,202"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,755 294,755 294,804 808,804 808,895 443,895 443,1006 808,1006 808,1164 154,1164 154,1125 104,1125 104,895 103,895 103,804 104,804"/>
+	<TextEquiv conf="0.93869">
+	<Unicode>QUESTÃO 47
+Considere o grupo G das raízes 6-ésimas da unidade, isto é, o
+grupo formado pelos números complexos z, tais que 2º = 1. Com
+relação ao grupo G, assinale a opção correta.
+O grupo G é cíclico.
+G é um grupo de ordem 3.
+27i
+O número complexo e * é um elemento primitivo de G.
+Existe um subgrupo de G que não é cíclico.
+Se z é um elemento primitivo de G, então 2º também é um
+elemento primitivo de G.
+c6ooo oo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="104,1206 294,1206 294,1253 808,1253 808,1444 571,1444 571,1895 699,1895 699,1930 808,1930 808,2095 580,2095 580,2128 155,2128 155,2095 154,2095 154,2089 104,2089 104,1813 103,1813 103,1444 102,1444 102,1253 104,1253"/>
+	<TextEquiv conf="0.96533">
+	<Unicode>QUESTÃO 48
+No plano R?, considere que o conjunto Q consiste dos lados de
+um quadrado de lado unitário. Nesse conjunto, pode-se
+definir uma métrica d da seguinte maneira: dados dois pontos
+distintos, A, B e O, d(A, B) é definida como o comprimento
+euclidiano da menor poligonal contida em OQ e com extremidades
+AeB,ed(A,B)=0,se A = B, conforme ilustra a figura abaixo.
+O espaço métrico Q, munido da métrica d,
+O temdiâmetro iguala /2.
+O possui um par de pontos tais que d(x, y) = d(y, x).
+O é um subespaço métrico do plano R?º munido da métrica
+euclidiana.
+O coincide com uma bola aberta de centro em um dos vértices
+de O e de raio 3 na métrica d.
+O éigualà união de duas bolas abertas de centros em vértices
+distintos de O e de raio 1 na métrica d.</Unicode></TextEquiv></TextRegion></Page></PcGts>

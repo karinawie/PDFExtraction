@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:30:21</Created>
+	<LastChange>2021-01-19T13:59:59</LastChange></Metadata>
+	<Page imageFilename="FISICA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="460,1665 460,1905 1180,1905 1180,1665"/></ImageRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="80,184 80,185 273,185 273,226 1574,226 1574,389 1229,389 1229,560 1166,560 1166,594 627,594 627,832 81,832 81,559 80,559 80,388 79,388 79,226 80,226"/>
+	<TextEquiv conf="0.96661">
+	<Unicode>QUESTÃO 19
+Em fins do século XVIII, a Academia de Ciências da França publicou o trabalho de C.A. de Coulomb intitulado
+“Primeira memória sobre a eletricidade e o magnetismo”, no qual foram relatados a construção de uma “balança de torção”
+e experimentos que relacionavam corpos carregados eletricamente com forças a distância entre esses corpos.
+Posteriormente, M. Faraday concebeu um sistema de “linhas invisíveis” que existiriam no espaço entre as cargas elétricas,
+contribuindo para o desenvolvimento do conceito de campo elétrico.
+Considerando esse contexto, analise as afirmações a seguir.
+| - Para Coulomb, as interações elétricas eram forças a distância entre as cargas.
+Il - Aslinhas invisíveis de Faraday não correspondem às linhas de força de um campo elétrico.
+Il - O conceito de campo elétrico permitiu a substituição do conceito de ação a distância.
+Está(ão) correta(s) APENAS a(s) afirmativa(s)
+(A) I
+(B) II
+(C) III
+(D) I e II
+(E) I e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,870 81,870 81,871 1485,871 1485,942 273,942 273,1107 418,1107 418,1510 80,1510"/>
+	<TextEquiv conf="0.94862">
+	<Unicode>QUESTÃO 20
+Qual das equações do eletromagnetismo apresentadas a seguir implica a não-existência de monopólos magnéticos?
+(A) V.-E=p/e,
+(B) V-B=0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,1535 81,1535 81,1536 1573,1536 1573,1611 680,1611 680,1927 1572,1927 1572,2001 1439,2001 1439,2101 461,2101 461,2100 460,2100 460,2079 80,2079 80,2000 79,2000 79,1927 80,1927"/>
+	<TextEquiv conf="0.95569">
+	<Unicode>QUESTÃO 21
+Uma barra metálica é puxada de modo a deslocar-se, com velocidade v , sobre dois trilhos paralelos e condutores, separados
+Um resistor de resistência elétrica R conecta os dois trilhos, e um campo magnético uniforme B atravessa, perpendicularmente,
+o plano do conjunto, preenchendo todo o espaço. Qual é a intensidade da corrente elétrica que atravessa o resistor?
+por uma distância 4, como mostra a figura abaixo.
+o) É o e) 2
+(A) BRtv (B) —
+R Rv BR [=YA</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:30:42</Created>
+	<LastChange>2020-10-25T18:44:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-18.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,174 822,2151 828,2151 828,174"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="857,314 857,1322 1571,1322 1571,314"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="81,187 82,187 82,188 272,188 272,230 803,230 803,656 801,656 801,790 802,790 441,790 441,789 80,789 80,322 79,322 79,296 80,296 80,214 81,214"/>
+	<TextEquiv conf="0.96504">
+	<Unicode>QUESTÃO 30
+O escoamento de fluidos através de leitos empacotados é
+aplicado em operações como filtração, adsorção, secagem e
+e outras. No escoamento através de um leito constituído por
+partículas irregulares, observa-se que
+(A) a fase fluida que escoa através dos canais é repetida-
+mente acelerada e desacelerada com perda de energia
+cinética.
+(B) atransição do escoamento laminar para o turbulento, nos
+canais largos, ocorre a uma vazão do fluido muito maior
+do que ocorre nos canais estreitos.
+(C) a queda de pressão por unidade de comprimento do leito
+é a mesma para o fluido que segue uma trajetória mais
+tortuosa e para o que segue por canais mais retos.
+(D) o escoamento através de canais largos é mais lento que
+o escoamento através de canais estreitos e paralelos.
+(E) os canais e poros apresentam uma mesma seção reta
+média e mesmo comprimento total constante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="79,829 80,829 80,830 441,830 441,831 802,831 802,933 616,933 616,1066 557,1066 557,1179 800,1179 800,1300 801,1300 801,1520 802,1520 802,1578 550,1578 550,1678 235,1678 235,1812 80,1812 80,1811 81,1811 81,1578 79,1578 79,1520 81,1520 81,1137 80,1137 80,1112 262,1112 262,932 80,932 80,931 79,931"/>
+	<TextEquiv conf="0.86571">
+	<Unicode>QUESTÃO 31
+A respeito da expressão abaixo, que representa a saída B(s)
+de um controlador de processos,
+s+1 s+1
+B(s)=K, | * 2
+SA TS ATZS +1
+Ep MAE
+2 3
+considere as afirmações a seguir.
+| - Os termos da expressão, assinalados como 1,2 e3,
+representam as ações proporcional, integral e derivativa,
+respectivamente, de um controlador PID.
+ll - Asfrequências 1/1, e 1/at, podem ser modificadas para
+se ajustar o controlador.
+Ill - K é uma característica do processo e, portanto, é um
+parâmetro que não pode ser ajustado.
+IV- T,e 1, são constantes de tempo do processo.
+V - A estabilidade da resposta depende do ajuste dos
+parâmetros do controlador.
+Estão corretas APENAS as afirmações
+(A) L, Ie IV
+(B) Ile V
+(OC) Il, e IV
+DD) Il, IVeV
+(E) Il, IVe V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="852,187 1045,187 1045,230 1573,230 1573,257 983,257 983,1359 1574,1359 1574,1473 1575,1473 1575,1832 1574,1832 1574,1900 851,1900 851,1473 897,1473 897,284 852,284 852,257 851,257 851,256 850,256 850,230 851,230 851,215 852,215"/>
+	<TextEquiv conf="0.96746">
+	<Unicode>QUESTÃO 32
+A tabela abaixo apresenta a DBO de alguns efluentes
+industriais.
+SCHMIDELL, W., SOARES, H. M., ECHEBERRE, C., MENES, R.J.,
+BERTOLA, N., CONTRERA, E.M. Tratamento Biológico de Águas
+Residuárias. 1. ed., Florianópolis:Tribo da Ilha, 2007, 720 p.
+Qual das afirmações abaixo expressa adequadamente a rela-
+ção da DBO com as características do efluente industrial?
+(A) Efluentes de refinaria de petróleo possuem alta DBO
+devido à presença de metais.
+(B) O efluente do processo de destilação de álcool tem con-
+centração zero de DBO, que é ocasionada pelo baixo teor
+de oxigênio.
+(C) Em lavanderias de lã e tinturarias, a DBO é alta devido à
+presença de álcalis no efluente.
+(D) Na indústria de tintas, o efluente possui baixa DBO devi-
+do às descargas contínuas de matéria biodegradável.
+(E) No processo de alvejamento utilizado na indústria têxtil, a
+DBO é baixa devido à presença de agentes oxidantes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:36</Created>
+	<LastChange>2020-10-25T18:11:45</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="197,408 197,1011 1448,1011 1448,408"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="197,1040 197,1331 1454,1331 1454,1040"/></TableRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="80,181 330,181 330,182 486,182 486,222 1574,222 1574,1508 1573,1508 1573,1509 1324,1509 1324,1508 1075,1508 1075,1507 826,1507 826,1506 577,1506 577,1505 328,1505 328,1504 79,1504 79,386 80,386"/>
+	<TextEquiv conf="0.94660">
+	<Unicode>QUESTÃO 38 - DISCURSIVA
+Pretende-se instalar um sistema de refrigeração por compressão de vapor no qual a temperatura de evaporação do
+refrigerante é 10ºC e a sua temperatura de condensação, 40 ºC. Para tanto, dispõe-se de dois refrigerantes, R, e R,, cujas
+características estão apresentadas na tabela abaixo. Numa análise preliminar, considera-se que o processo de compressão é
+isentrópico e que o refrigerante entra no compressor como vapor saturado e deixa o condensador como líquido saturado,
+conforme representado nos diagramas temperatura - entropia e pressão - entalpia.
+a) Baseado nessa análise preliminar e sob o ponto de vista da eficiência térmica e da preservação do meio ambiente, qual dos
+dois refrigerantes deve ser selecionado para atender ao sistema de refrigeração? Justifique sua resposta.
+(valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

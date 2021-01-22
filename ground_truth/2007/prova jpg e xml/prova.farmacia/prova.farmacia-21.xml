@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T19:55:08</Created>
+	<LastChange>2020-09-08T19:55:08</LastChange></Metadata>
+	<Page imageFilename="prova.farmacia-21.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,265 80,266 484,266 484,309 1573,309 1573,1476 1572,1476 1572,1842 81,1842 81,1841 80,1841 80,1142 79,1142 79,309 80,309"/>
+	<TextEquiv conf="0.94780">
+	<Unicode>QUESTÃO 39 - DISCURSIVA
+Um usuário do sexo masculino, com 46 anos, 1,60 m e 89,6 kg, foi atendido por um Médico endocrinologista numa
+Unidade Básica Distrital de Saúde do SUS. Durante a consulta médica, o profissional analisou e interpretou os exames
+laboratoriais, fornecendo o diagnóstico de diabetes mellitus tipo 2 ao paciente. Nesse momento, o Médico solicitou a presença
+do Farmacêutico para discutirem sobre a melhor opção terapêutica para esse usuário. Dessa forma, analise os dados laboratoriais
+abaixo e auxilie na escolha do fármaco.
+* Glicemia de jejum: 198 mg/dL (valor de referência até 100 mg/dL).
+* Hemoglobina glicosilada: 11% (valor de referência até 7%).
+* Insulina: 45 yuUl/mL (valor de referência até 26 uUl/mL).
+Sabe-se que o cálculo do valor de HOMA (resistência à insulina) e do IMC (índice de massa corporal) são fundamentais para
+a escolha do tratamento farmacológico mais apropriado. O IMC pode ser calculado pela razão do peso (kg) sobre o quadrado
+da altura, e a resistência à insulina é avaliada através da seguinte fórmula:
+HOMA = glicemia de jejum (mg/dL) / 18 x insulina (UIl/ML) / 22,5
+Para interpretação dos cálculos de IMC e HOMA, você deve utilizar os seguintes parâmetros:
+* HOMA: &gt; 3,5 diagnóstico de resistência à insulina.
+* IMC: &gt; 30 kg/m? paciente considerado obeso.
+A partir dos dados acima,
+a) calcule os valores de IMC e HOMA do indivíduo, realizando uma interpretação dos resultados encontrados; (valor: 2,0 pontos)
+b) indique, dentre os medicamentos disponíveis no município (insulina, glibenclamida e metformina), aquele que constitui a
+escolha mais racional para esse usuário. Justifique a escolha baseando-se no mecanismo de ação do medicamento e nas
+características clínicas, laboratoriais e antropométricas do paciente; (valor: 4,0 pontos)
+c) relacione as principais orientações que devem ser fornecidas ao paciente para a utilização correta do fármaco, durante a
+dispensação. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

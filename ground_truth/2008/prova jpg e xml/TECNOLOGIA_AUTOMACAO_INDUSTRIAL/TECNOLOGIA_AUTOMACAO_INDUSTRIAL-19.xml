@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:52:21</Created>
+	<LastChange>2020-10-26T13:06:21</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-19.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="79,187 1573,187 1573,287 1568,287 1568,1174 1573,1174 1573,1721 80,1721 80,1267 79,1267 79,1174 80,1174 80,287 79,287"/>
+	<TextEquiv conf="0.93712">
+	<Unicode>Considerando essas informações, resolva os itens a seguir.
+a) Apresente os cálculos para a determinação da vazão Q no processo, quando a tensão V, em R, éiguala2 V.
+(valor: 2,0 pontos)
+b) Determine o ganho total de tensão no circuito do amplificador/filtro (V]/V,) na frequência de 10 rad/s. (valor: 3,0 pontos)
+c) Apresente os cálculos para a determinação do número de bits de resolução da placa de aquisição de sinais, sabendo que a
+máxima amplitude de entrada do Conversor A/D da placa se encontra entre 0 e 10,24 V (range), com uma precisão de 20 m V.
+(valor: 3,0 pontos)
+d) Identifique e explique a frequência de amostragem em hertz (Hz) do sistema descrito, considerando que a largura de banda
+do sinal do sensor é igual a 100 Hz, e que a escolha da frequência de amostragem do sistema de aquisição de sinais deve
+ser feita de modo a obedecer ao Teorema da Amostragem de Nyquist-Shannon. (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

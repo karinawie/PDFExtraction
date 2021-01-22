@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T03:17:49</Created>
+	<LastChange>2020-09-22T03:17:49</LastChange></Metadata>
+	<Page imageFilename="prova.biomedicina-19.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="536,300 536,726 1173,726 1173,300"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="60,161 274,161 274,162 488,162 488,163 701,163 701,164 915,164 915,165 1128,165 1128,166 1342,166 1342,167 1555,167 1555,264 1064,264 1064,850 1556,850 1556,999 1555,999 1555,1085 1554,1085 1554,1164 1553,1164 1553,1165 1552,1165 1552,1212 60,1212 60,998 59,998 59,997 60,997 60,850 552,850 552,264 60,264"/>
+	<TextEquiv conf="0.94839">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Duas amostras de DNA (a e b) de diferentes procedências foram analisadas quanto à absorção de luz ultravioleta
+(260 nm), em diferentes temperaturas. Os dados estão apresentados no gráfico abaixo.
+—
+A absorção relativa é determinada a 260 nm e está
+expressa em relação à absorbância máxima de
+cada molécula.
+Como pode ser visto, ocorre um aumento sigmoidal da absorção da luz UV a partir de determinada temperatura, sendo
+que a temperatura onde se verifica uma absorbância relativa de 50% é conhecida como Tm (temperatura de melting, ou
+temperatura de fusão). Este valor de Tm é muito útil em vários procedimentos que empregam a molécula de DNA e é
+específico dependendo da sequência da molécula. Claramente, a molécula DNAb tem uma Tm maior do que a molécula
+DNAa.
+a) Que fenômeno ocorre com a molécula de DNA quando ela é aquecida em solução a temperaturas superiores a sua
+Tm? (valor: 4,0 pontos)
+b) O que se pode dizer da diferença entre as duas sequências de DNA, considerando que a Tm do DNAb é maior que
+a do DNAa? (valor: 4,0 pontos)
+c) Porque ocorre o aumento da absorbância pela molécula de DNA em função da temperatura? (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

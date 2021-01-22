@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:11:12</Created>
+	<LastChange>2020-09-22T22:11:29</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-26.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,209 514,209 514,294 1435,294 1435,750 1552,750 1552,970 1553,970 1553,1381 1552,1381 1552,1854 1133,1854 1133,1803 102,1803 102,1804 101,1804 101,1735 1133,1735 1133,1381 103,1381 103,1382 102,1382 102,1322 1134,1322 1134,954 101,954 101,955 100,955 100,895 101,895 101,750 218,750 218,239 101,239"/>
+	<TextEquiv conf="0.93429">
+	<Unicode>QUESTÃO 60 — DISCURSIVA
+Para transmissões de sinais em banda base, a largura de banda do canal limita a taxa de
+transmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de
+transmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação
+a seguir.
+C=2xWbauds
+No entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos
+eletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,
+é caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído
+térmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e
+apresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.
+SN
+C=Wxlog, (1 + 10*) bps
+Tendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão
+máxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16
+diferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.
+A Naausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em
+bits por segundo. Apresente os cálculos necessários.
+(valor: 3,0 pontos)
+RASCUNHO — QUESTÃO 60 - A
+B Na presença de ruído térmico, de acordo com a lei de Shannon, qual a taxa de transmissão máxima do canal, em bits
+por segundo? Apresente os cálculos necessário e considere que log,, (1.023) = 3,01.
+(valor: 3,0 pontos)
+RASCUNHO — QUESTÃO 60 - B
+C Na presença de ruído térmico, é possível adotar mais de 16 níveis de sinalização no referido canal? Justifique.
+(valor: 4,0 pontos)
+RASCUNHO — QUESTÃO 60 - C</Unicode></TextEquiv></TextRegion></Page></PcGts>

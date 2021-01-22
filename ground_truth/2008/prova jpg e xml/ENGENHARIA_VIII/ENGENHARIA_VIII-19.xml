@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:33:47</Created>
+	<LastChange>2020-10-25T20:48:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-19.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="820,201 822,2102 826,2102 824,201"/></SeparatorRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="850,1462 1040,1462 1040,1521 1552,1521 1552,1522 1553,1522 1553,1836 1001,1836 1001,2096 850,2096 850,1836 847,1836 847,1521 850,1521"/>
+	<TextEquiv conf="0.96562">
+	<Unicode>QUESTÃO 37
+Em uma fazenda se cultiva soja em uma área de
+280 hectares. Para realizar a colheita em toda a área,
+existem 2 colhedoras com largura da plataforma de corte
+igual a 4 metros. Nessas condições, a eficiência de
+trabalho dessas colhedoras, trabalhando em uma
+velocidade de 5 km/h, é igual a 70%. Considerando que a
+jornada de trabalho diária é igual a 10 horas, o tempo
+necessário para realizar toda a colheita é igual a
+6,7 dias.
+10 dias.
+12 dias.
+15 dias.
+20 dias.
+cogcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="850,207 1040,207 1040,267 1552,267 1552,268 1553,268 1553,582 1552,582 1552,1078 1203,1078 1203,1161 972,1161 972,1403 850,1403 850,1217 851,1217 851,582 849,582 849,267 850,267"/>
+	<TextEquiv conf="0.96800">
+	<Unicode>QUESTÃO 36
+Um dos grandes problemas durante o armazenamento de
+grãos em silos graneleiros é a migração de umidade e a
+consequente formação de regiões com teores de umidade
+diferenciados em relação ao teor inicial de umidade da
+massa de grãos. Para evitar esse fenômeno, dois
+processos são normalmente realizados: a aeração e a
+transilagem. Relativamente a esses processos, julgue os
+itens subsequentes.
+| A transilagem é economicamente mais vantajosa
+quando comparada com a aeração.
+Il Aaeração pode ser feita succionando-se ou insuflando-
+se ar na massa de grãos, tendo a primeira forma como
+vantagem em relação à segunda, menor probabilidade
+de condensação da umidade do ar na superfície da
+massa de grãos e no teto do silo.
+Ill Nainsuflação de ar, o risco de entupimento dos orifícios
+dos dutos de condução de ar é maior que na sucção.
+IV Na insuflação de ar, o calor acumulado imediatamente
+abaixo do teto do silo é facilmente expelido.
+Estão certos apenas os itens
+O ilel,
+Oo lei.
+O llelll.
+O llelv.
+e lNelv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="104,207 295,207 295,274 811,274 811,405 810,405 810,490 539,490 539,537 463,537 463,680 449,680 449,796 524,796 524,822 142,822 142,775 104,775 104,537 103,537 103,451 104,451 104,275 103,275 103,274 104,274"/>
+	<TextEquiv conf="0.96532">
+	<Unicode>QUESTÃO 34
+Os eixos estão presentes em grande parte das máquinas
+agrícolas e constituem uma estrutura mecânica que, na
+maioria das vezes, suporta duas ou mais polias. Podem ser
+instalados horizontalmente ou verticalmente. No
+dimensionamento de um eixo horizontal, os principais
+esforços a serem considerados são
+a flambagem e a torção.
+a torção e o cisalhamento.
+o
+o
+O atorção e a flexão.
+O aflexãoe a compressão.
+e
+o cisalhamento e a flambagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,888 294,888 294,954 475,954 475,1049 809,1049 809,1169 195,1169 195,1336 809,1336 809,1430 810,1430 810,1456 738,1456 738,1670 809,1670 809,2042 682,2042 682,2094 105,2094 105,2095 104,2095 104,1599 103,1599 103,1336 104,1336 104,1170 103,1170 103,954 104,954"/>
+	<TextEquiv conf="0.96402">
+	<Unicode>QUESTÃO 35
+Analise as asserções a seguir.
+O conhecimento da tensão de ruptura (tensão estática) dos
+materiais é fundamental para o dimensionamento de peças
+estruturais de máquinas agrícolas,
+porque
+a tensão de ruptura é a relação entre a carga máxima que
+determinado material suporta e a área de seção transversal
+da peça estrutural, multiplicada pelo coeficiente de
+segurança ou de trabalho.
+Acerca dessas assertivas, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda asserção é uma proposição verdadeira.
+O As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

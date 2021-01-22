@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:29:42</Created>
+	<LastChange>2020-09-23T01:29:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-40.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="80,183 230,183 230,184 379,184 379,185 495,185 495,224 1573,224 1573,384 229,384 229,383 80,383 80,382 79,382 79,381 80,381"/>
+	<TextEquiv conf="0.94581">
+	<Unicode>QUESTÃO 59 - DISCURSIVA
+Na contratação de um serviço de aerolevantamento fotogramétrico na escala 1:10.000, considerou-se a adoção de um filme
+com resolução de 50 linhas/mm. Serão utilizados uma câmera fotogramétrica de distância focal conhecida e um filme de
+tamanho padrão. A velocidade da aeronave será de 360 km/h. Calcule o valor máximo do tempo de exposição da câmera, em
+segundos, de modo a se obter um arrastamento da imagem aceitável em função da escala pretendida e resolução do filme.
+Apresente seus cálculos. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

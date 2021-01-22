@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:41:56</Created>
+	<LastChange>2020-10-25T19:55:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-19.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="785,198 786,2119 789,2119 788,198"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="104,206 294,206 294,266 774,266 774,880 773,880 773,1064 774,1064 774,1065 775,1065 775,1757 457,1757 457,1846 245,1846 245,1950 268,1950 268,2113 156,2113 156,2109 104,2109 104,1904 105,1904 105,1757 103,1757 103,1610 105,1610 105,1526 143,1526 143,1258 105,1258 105,1007 103,1007 103,266 104,266"/>
+	<TextEquiv conf="0.96579">
+	<Unicode>QUESTÃO 33
+Técnicas aperfeiçoadas na indústria japonesa têm
+tido grande influência na engenharia de produção desde
+o início da década de 80 do século passado. Uma delas
+é o desdobramento da função qualidade, ou QFD
+(quality function deployment), que tem como função
+primordial garantir a qualidade do produto desde a fase
+do projeto. Para isso, consideram-se as exigências dos
+clientes, traduzindo-as em especificações, que são
+discutidas de forma estruturada entre as diversas áreas
+funcionais envolvidas no projeto: desenvolvimento,
+produção e comercialização do produto. Aplicado com
+sucesso em empresas como a Toyota, esse método
+chegou ao Brasil na década de 90 do século passado, e
+tem sido utilizado por várias empresas do ramo
+industrial e de serviços.
+Acerca do assunto tratado no texto acima, julgue os
+itens a seguir.
+| OQFDé uma técnica incompatível com a ES, pois
+concentra tempo e esforço na etapa de especificação
+do produto, em vez de abreviar as etapas de projeto,
+desenvolvimento e manufatura do produto.
+I|l Asespecificações do produto obtidas a partir do QFD
+são características explícitas, tanto para o caso de
+manufatura quanto para o caso de serviços.
+Uma das vantagens do QFD está na redução de
+reclamações decorrentes da falta de qualidade no
+início de comercialização do produto (fase de
+lançamento).
+IV As matrizes geradas no QFD são relevantes para a
+confecção da documentação do projeto do produto.
+V Ao traduzir a “voz do cliente”, a técnica do QFD
+prioriza as especificações do produto pelo seu grau
+de compatibilidade com os processos internos da
+fábrica.
+Estão certos apenas os itens
+Lev.
+LU eiv.
+| IVeV.
+I,Meilv.
+WWev.
+cogcoeo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="814,206 1005,206 1005,252 1552,252 1552,668 1190,668 1190,795 1198,795 1198,828 1300,828 1300,914 864,914 864,915 863,915 863,914 814,914 814,728 813,728 813,702 815,702 815,429 813,429 813,252 814,252"/>
+	<TextEquiv conf="0.96580">
+	<Unicode>QUESTÃO 34
+A engenharia simultânea (ES) é uma metodologia de
+desenvolvimento integrado de produto que considera todos os
+aspectos do ciclo de vida do produto, desde a concepção,
+produção, remanufatura, reciclagem e descarte, incluindo
+atividades de planejamento, projeto e produção. Com base
+nesse conceito, é correto afirmar que a ES
+| promove o encadeamento sequencial das atividades de
+desenvolvimento, desde o planejamento até a produção.
+I|l se beneficia da informática, que pode colocar a mesma
+informação disponível simultaneamente a vários
+participantes do projeto.
+Ill não se aplica aos projetos de produtos que são montados
+a partir de famílias de componentes.
+Assinale a opção correta.
+Apenas o item | está certo.
+Apenas o item || está certo.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cooçcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="814,953 1004,953 1004,999 1554,999 1554,1234 1552,1234 1552,1359 1553,1359 1553,1861 1166,1861 1166,1926 982,1926 982,2118 866,2118 866,2114 814,2114 814,1862 812,1862 812,1781 815,1781 815,1690 852,1690 852,1506 815,1506 815,1326 814,1326 814,1235 813,1235 813,999 814,999"/>
+	<TextEquiv conf="0.96861">
+	<Unicode>QUESTÃO 35
+Uma grande empresa de âmbito nacional deseja ter um
+sistema computacional integrado de gestão de operações e
+vendas. Tal sistema atenderia a uma ampla gama de usuários
+em muitos locais diferentes e em diferentes níveis
+hierárquicos. A empresa pretendia desenvolver o sistema
+internamente, mas vários fornecedores especializados em
+software ofereceram seus produtos para a empresa avaliar
+sua compra.
+Considerando a situação apresentada, julgue os itens que se
+seguem.
+| O software adquirido pela empresa pode ser implantado
+imediatamente após sua compra, pois adaptações
+específicas à empresa (customizações) serão
+desnecessárias.
+Il O desenvolvimento interno de um programa é sempre
+mais caro que a compra do software de um fornecedor
+especializado, considerando-se o ciclo de vida total do
+sistema.
+A especificação detalhada de funcionalidades do sistema
+deve ser feita por pessoal experiente da área de tecnologia
+de informação.
+IV Hardware e software disponíveis na empresa devem ser
+considerados no custo, pois pode ser necessária a
+aquisição de novos equipamentos ou software de apoio.
+V O uso de software livre é uma alternativa de baixo custo
+que pode ser empregada no caso do desenvolvimento
+interno do sistema.
+Estão certos apenas os itens
+Lie,
+LIVeilv.
+l,Mev.
+I,IVeV.
+MM, IVeV.
+cogGoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

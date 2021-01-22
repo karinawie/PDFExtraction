@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T01:49:05</Created>
+	<LastChange>2021-01-18T13:24:38</LastChange></Metadata>
+	<Page imageFilename="prova.nutricao-12.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="824,220 825,2124 828,2124 827,220"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="1316,274 1316,457 1552,457 1552,274"/></ImageRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords points="104,1322 294,1322 294,1360 806,1360 806,2124 142,2124 142,2022 105,2022 105,2003 142,2003 142,1893 105,1893 105,1797 104,1797 104,1778 105,1778 105,1681 142,1681 142,1571 103,1571 103,1360 104,1360"/>
+	<TextEquiv conf="0.81266">
+	<Unicode>QUESTÃO 19
+A preparação de alimentos para fins especiais requer a
+adequada seleção de matérias-primas e ingredientes e a
+escolha adequada do método e da técnica de cocção.
+Nesse sentido e considerando o preparo de uma dieta para
+cardiopatas, assinale a opção correta.
+A Recomenda-se a cocção pelo calor úmido para quase
+todos os alimentos, pois o volume de água adicionado
+contribui para a dissolução de substâncias lipossolúveis
+no meio de cocção.
+B Para o preparo de carnes bovinas, recomenda-se o uso
+de cortes dianteiros, como o acém, uma vez que esses
+cortes apresentam baixo teor de gordura insaturada.
+C O sal de potássio (light), indicado para a dieta de
+cardiopatas, tem o mesmo poder de condimentação
+que o sal tradicional (NaC').
+D Grelhar, método de cocção de calor seco, por meio do
+qual selam-se os poros superficiais e retém-se o suco
+do alimento, é forma recomendada para o preparo de
+dieta para cardiopatas, por não requerer o uso de óleo.
+E O azeite de oliva extravirgem é indicado tanto para os
+métodos de cocção ao calor seco como para os
+métodos de calor úmido, devido a sua estabilidade em
+altas temperaturas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords points="104,227 294,227 294,299 788,299 788,614 806,614 806,1098 808,1098 808,1181 806,1181 806,1282 142,1282 142,1212 105,1212 105,1020 104,1020 104,1000 105,1000 105,826 103,826 103,614 162,614 162,257 104,257"/>
+	<TextEquiv conf="0.96826">
+	<Unicode>QUESTÃO 18
+Uma UAN utiliza o sistema de auto-serviço
+no processo de distribuição das refeições.
+O cardápio oferece diversos molhos que podem ser
+acrescentados a pratos frios e quentes. Esperando
+garantir a qualidade higiênico-sanitária dos
+molhos, o nutricionista dessa UAN optou por usar
+recipientes de menor dimensão, de modo a se
+fazer a reposição contínua dos alimentos durante
+o período de distribuição.
+Considerando que, além da referida medida adotada pelo
+nutricionista, outros procedimentos retardam o crescimento
+microbiano em preparações durante a distribuição de
+refeições em UANs, assinale a opção correta acerca
+desses procedimentos.
+A O emprego da temperatura adequada na fase de
+preparo dos molhos quentes impede o crescimento
+microbiano durante a fase de distribuição.
+B A disposição dos molhos nas mesas do refeitório
+garante a qualidade desses molhos durante o período
+de distribuição.
+C Durante a distribuição, é adequado que os molhos
+frios sejam mantidos em balcões refrigerados, com
+temperatura abaixo de 10 ºC.
+D Durante a distribuição, os molhos quentes devem ser
+mantidos em balcões térmicos em temperatura acima
+de 90 ºC.
+E Durante o período de distribuição, o reabastecimento
+dos molhos frios por um mesmo copeiro evita a
+contaminação cruzada.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="908,545 908,1057 1505,1057 1505,545"/></TableRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="847,227 1037,227 1037,283 1302,283 1302,446 1539,446 1539,1084 1549,1084 1549,1276 1551,1276 1551,1847 1199,1847 1199,1914 1003,1914 1003,2118 887,2118 887,2115 847,2115 847,1084 886,1084 886,257 847,257"/>
+	<TextEquiv conf="0.96502">
+	<Unicode>QUESTÃO 20
+Descrição: pizza de calabresa,
+muçarela e champignon, 460 9.
+Ingredientes: farinha de trigo
+enriquecida com ferro e ácido fólico,
+calabresa, queijo muçarela, polpa de
+tomate, champignon, azeitonas 7
+pretas, gordura vegetal hidrogenada, /
+fermento biológico, sal, açúcar, azeite
+de oliva e orégano. Contém glúten.
+As informações acima foram retiradas do rótulo de um
+produto semipronto para o consumo, comercializado no
+mercado de alimentação. A partir dessas informações e
+considerando as funções nutricionais atribuídas aos
+ingredientes do produto, julgue os itens a seguir.
+| O consumo de glúten, proteína de alta digestibilidade
+encontrada na farinha de trigo, é recomendado para
+dieta de indivíduos portadores de doença celíaca.
+Il A farinha de trigo enriquecida com ferro e ácido fólico
+atende à regulamentação brasileira que visa ao
+combate à anemia.
+III A gordura vegetal hidrogenada presente nos
+ingredientes indica que esse produto possui gordura
+trans, considerada fator de risco para doença
+coronariana.
+IV O consumo de uma porção do referido produto
+representa 8% das necessidades energéticas diárias
+de um indivíduo adulto, portanto, trata-se de alimento
+de baixa densidade energética.
+V Esse produto contém elevada densidade de sódio,
+nutriente de fácil absorção pelo organismo e deve ser
+consumido com moderação.
+Estão certos apenas os itens
+Lie.
+Lei.
+LIVevV.
+IhWmev.
+WMM, IVeV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

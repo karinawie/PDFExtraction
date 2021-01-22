@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:07:32</Created>
+	<LastChange>2020-10-25T20:23:07</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="836,1082 835,2120 838,2120 839,1082"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="560,425 560,745 1120,745 1120,425"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,214 294,214 294,268 1552,268 1552,404 1541,404 1541,968 1552,968 1552,995 1227,995 1227,1072 154,1072 154,1071 153,1071 153,1065 104,1065 104,403 103,403 103,268 104,268"/>
+	<TextEquiv conf="0.92173">
+	<Unicode>QUESTÃO 30
+O modelo de gestão econômica (GECON) — um modelo para o gerenciamento de organizações por resultados
+econômicos — foi desenvolvido com base em levantamentos e estudos das necessidades da gestão. O princípio básico
+da gestão é a clara definição do modelo a adotar e a integração deste com os modelos de decisão, informação e
+mensuração. Uma possível decisão a tomar está relacionada com o volume de bens a produzir.
+Considerando as informações e a figura acima, que corresponde a uma situação hipotética, assinale a opção correta.
+oegcoo
+A curva | corresponde ao caso de venda elástica em situação de concorrência.
+A curva || representa o caso típico de venda de um produto de consumo supérfluo.
+O lucro da venda correspondente à curva | apresenta taxa decrescente com a quantidade vendida.
+O ponto de interseção das duas curvas representa o ponto de equilíbrio de vendas em caso de situação de
+A diferença de preço entre as duas curvas corresponde ao custo marginal de produção.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="864,1089 1054,1089 1054,1142 1552,1142 1552,1452 1551,1452 1551,1453 1550,1453 1550,1811 1171,1811 1171,1927 1392,1927 1392,2109 915,2109 915,2108 864,2108 864,1881 863,1881 863,1855 865,1855 865,1453 863,1453 863,1142 864,1142"/>
+	<TextEquiv conf="0.96636">
+	<Unicode>QUESTÃO 32
+Sistemas de administração da produção permitem apoiar
+a tomada de decisões, tanto táticas quanto operacionais.
+Usualmente, esses sistemas estão voltados à solução de
+questões logísticas associadas à definição de o que
+produzir, quanto e quando produzir e comprar, além de
+com que recursos produzir, para que sejam atingidos os
+objetivos estratégicos da organização. Entre as eventuais
+atividades gerenciais que podem ser apoiadas por
+sistemas de administração da produção, inclui-se
+| planejar os materiais a comprar (quantidade e tempo
+certos).
+Il planejar níveis apropriados de estoques (matéria-
+prima, semi-acabados e acabados).
+Il identificar o estado (estoque, horas utilizadas, situação
+funcional, entre outros) dos recursos (máquinas,
+materiais, pessoas etc.).
+IV integrar a produção a outras funções/setores da
+empresa.
+Assinale a opção correta.
+Apenas dois itens estão certos.
+Apenas os itens |, Il e Ill estão certos.
+Apenas os itens |, Ill e IV estão certos.
+Apenas os itens Il, Ill e IV estão certos.
+Todos os itens estão certos.
+cogoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="caption">
+	<Coords points="104,1089 290,1089 290,1146 825,1146 825,1878 822,1878 822,2015 825,2015 825,2119 154,2119 154,1567 104,1567 104,1482 103,1482 103,1146 104,1146"/>
+	<TextEquiv conf="0.96425">
+	<Unicode>QUESTÃO 31
+Entre outras potencialidades, sistemas de informação
+geográfica (SIG) permitem referenciar espacialmente o
+cadastro de uma organização. Por exemplo, uma consulta
+ao banco de dados da organização pode permitir o
+reconhecimento do local em que determinado equipamento
+foi alocado. O registro pode estar vinculado à hora da
+alocação, à pessoa que o recebeu, ao responsável pelo
+equipamento, entre outras informações cadastrais. Acerca
+desse assunto, assinale a opção correta.
+O Seocadastroda organização for atualizado por meio do
+SIG, pode-se identificar para qual destino determinado
+equipamento foi removido.
+Se o profissional responsável pelo equipamento for
+transferido, o equipamento não poderá mais ser
+localizado.
+O horário em que se efetuou a vinculação do
+equipamento a um agente patrimonial não tem
+relevância para a definição de responsabilidades.
+Por meio do SIG, é possível consultar, em tempo real,
+o número de horas de utilização do equipamento,
+mesmo que haja diversos operadores.
+Todos os equipamentos devem estar, no cadastro,
+referenciados por coordenadas geográficas do sistema
+universal transversa mercator (UTM).</Unicode></TextEquiv></TextRegion></Page></PcGts>

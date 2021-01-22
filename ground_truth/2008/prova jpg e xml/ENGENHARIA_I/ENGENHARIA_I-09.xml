@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:51:58</Created>
+	<LastChange>2020-09-23T01:54:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="302,691 302,1057 597,1057 597,691"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="174,1077 174,1620 728,1620 728,1077"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,319 267,319 267,362 802,362 802,682 571,682 571,1695 802,1695 802,2155 80,2155 80,1688 79,1688 79,362 80,362"/>
+	<TextEquiv conf="0.95623">
+	<Unicode>QUESTÃO 11
+Na linguagem da representação gráfica, são utilizados
+recursos variados, que vão dos traços a mão livre às imagens
+resultantes de modelos tridimensionais (3D) em computador.
+Nas áreas técnicas, a comunicação por imagens se dá,
+principalmente, por meio de desenhos em que se empregam
+linhas, traçados, técnicas e métodos precisos e claramente
+definidos. É o chamado desenho técnico.
+As figuras abaixo mostram uma perspectiva técnica de um
+objeto e três de suas vistas ortográficas, desenhadas de acordo
+com a norma brasileira NBR 10067.
+Analisando essas figuras, conclui-se que
+(A) foi empregado, nas vistas ortográficas, o método de
+projeção chamado 3º diedro, no qual a vista inferior é de-
+senhada abaixo da vista frontal, e a vista lateral direita é
+desenhada à direita da vista frontal.
+(B) foi desenhada, além das vistas ortográficas, uma
+perspectiva isométrica que permite uma boa visualização
+do objeto.
+(C) as faces A e B são as faces frontais do objeto, de acordo
+com o posicionamento das vistas.
+(D) a linha tracejada no desenho das vistas indica a
+existência de uma aresta invisível, que não aparece na
+perspectiva.
+(E) a perspectiva e as três vistas apresentadas são insufici-
+entes para se determinar que a face oposta à D é vertical.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="851,189 1045,189 1045,238 1574,238 1574,1333 1573,1333 1573,1631 1550,1631 1550,1719 1396,1719 1396,1821 1573,1821 1573,1932 966,1932 966,2144 862,2144 862,2145 860,2145 860,2147 852,2147 852,1932 851,1932 851,1821 853,1821 853,1505 851,1505 851,1436 853,1436 853,1334 850,1334 850,709 851,709"/>
+	<TextEquiv conf="0.95716">
+	<Unicode>QUESTÃO 12
+O gerente da divisão de carros da Pontiac, nos Estados
+Unidos da América, recebeu uma curiosa carta de
+reclamação de um cliente:
+“(...) Eu posso parecer louco, mas o fato é que nós temos
+uma tradição em nossa família, que é a de comer sorvete
+depois do jantar. Repetimos este hábito todas as noites,
+variando apenas o tipo do sorvete, e eu sou o encarregado de
+ir comprá-lo. Sempre que eu compro sorvete de baunilha,
+quando volto da loja para casa, o carro não funciona.
+Se compro qualquer outro tipo de sorvete, o carro funciona
+normalmente.”
+Apesar das piadas, um engenheiro da empresa foi
+encarregado de atender à reclamação. Repetiu a exata
+rotina com o reclamante e constatou que, de fato, o carro só
+não funcionava quando se comprava sorvete de baunilha.
+Depois de duas semanas de investigação, o engenheiro
+descobriu que, quando escolhia sorvete de baunilha, o
+comprador gastava menos tempo, porque esse tipo de
+sorvete estava bem na frente da loja. Examinando o carro,
+fez nova descoberta: como o tempo de compra era muito
+menor no caso do sorvete de baunilha, os vapores na
+tubulação de alimentação de combustível não se dissipavam,
+impedindo que a nova partida fosse instantânea. A partir
+desse episódio, a Pontiac mudou o sistema de alimentação
+de combustível, introduzindo alteração em todos os modelos
+a partir da linha 99.
+Disponível em: &lt;http://newsworlds.wordpress.com&gt; (com adaptações).
+Suponha que o engenheiro tenha utilizado as seguintes
+etapas na solução do problema:
+| - fazer testes e ensaios para confirmar quais são as
+variáveis relevantes;
+ll - constatar a natureza sistemática do problema;
+Ill - criar hipóteses sobre possíveis variáveis significativas;
+IV - propor alterações no sistema em estudo.
+Considerando que as etapas |, |l e Ill não estão listadas na
+ordem em que devem ocorrer, qual é o ordenamento correto
+dessas três etapas?
+(A) 1, 111,11
+(B) 11, 1,111
+(C) II, 111,1
+(D) IL, 1,11
+(E) MM, 11,1</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="820,185 820,2160 831,2160 831,185"/></SeparatorRegion></Page></PcGts>

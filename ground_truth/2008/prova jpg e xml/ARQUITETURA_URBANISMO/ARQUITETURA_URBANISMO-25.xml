@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:35:21</Created>
+	<LastChange>2020-11-17T00:13:36</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-25.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="80,262 80,994 1508,994 1508,262"/></ImageRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="79,1054 1308,1054 1308,1119 1056,1119 1056,1249 1123,1249 1123,1275 694,1275 694,1276 80,1276 80,1277 79,1277 80,1277 80,1119 79,1119"/>
+	<TextEquiv conf="0.95557">
+	<Unicode>QUESTÃO 37
+Analisando a planta de um projeto executivo de estruturas em concreto armado, acima, verifica-se que
+(A) as vigas VC4 e VC16 possuem a mesma seção, com altura de 100 cm.
+(B) as vigas VC5, VC12 e VC13 possuem a mesma seção, com altura de 60 cm.
+(C) a viga VC16 balança 100 cm em relação ao eixo da viga VC14.
+(D) a altura da viga VC13 é 35 cm.
+(E) VC11, VC4 e VC14 são vigas de borda e possuem o mesmo detalhe de pingadeira.</Unicode></TextEquiv></TextRegion></Page></PcGts>

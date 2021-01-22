@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:11</Created>
+	<LastChange>2020-10-25T18:10:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-25.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="1200,128 1200,129 1573,129 1573,143 78,143 78,128"/>
+	<TextEquiv conf="0.26634">
+	<Unicode>E aco nr sto nos mca</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="1573,187 1573,280 80,280 80,187"/>
+	<TextEquiv conf="0.95564">
+	<Unicode>b) Ográfico a seguir apresenta uma possível configuração do fator de amplificação da resposta da parte dianteira do veículo
+em função da frequência de excitação, para o sistema sem e com o absorvedor de vibração, empregando um determinado
+ajuste do amortecimento no absorvedor. Analise a influência do absorvedor de vibrações no comportamento do sistema.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="271,325 271,908 1354,908 1354,325"/></ImageRegion></Page></PcGts>

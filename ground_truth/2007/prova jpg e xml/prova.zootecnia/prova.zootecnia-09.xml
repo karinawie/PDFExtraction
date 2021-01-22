@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:44:08</Created>
+	<LastChange>2021-01-18T13:50:40</LastChange></Metadata>
+	<Page imageFilename="prova.zootecnia-09.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="100,262 100,622 814,622 814,262"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="825,205 825,2105 834,2105 834,205"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="851,214 1041,214 1041,289 1551,289 1551,734 1420,734 1420,866 1550,866 1550,1468 1549,1468 1549,1626 1225,1626 1225,1678 1203,1678 1203,1783 973,1783 973,2041 969,2041 969,2093 851,2093 851,1864 852,1864 852,1759 890,1759 890,1626 889,1626 889,1568 851,1568 851,1549 852,1549 852,786 851,786 851,734 850,734 850,289 851,289"/>
+	<TextEquiv conf="0.96528">
+	<Unicode>QUESTÃO 15
+Considere que um zootecnista tenha sido contratado por
+uma empresa de grande porte que exporta carne bovina,
+especialmente para os mercados dos Estados Unidos da
+América e países da antiga União Soviética. Considere,
+ainda, que essa empresa, que pretende instalar uma nova
+planta frigorífica em alguma região do Brasil, tenha
+solicitado a esse zootecnista um estudo comparativo
+das regiões brasileiras para a instalação da referida
+planta. Com base nessa situação, julgue as seguintes
+informações, apresentadas no referido estudo.
+| Aincorporação de novas áreas para a bovinocultura de
+corte na região Sul aumentou significativamente o
+tamanho do rebanho nessa região na última década, o
+que reduziu o preço da carne.
+Il A região Sudeste possui grandes extensões de áreas
+disponíveis para a implantação de pastagens em
+sistema extensivo de produção.
+Ill A região Nordeste apresenta grande disponibilidade de
+mão-de-obra qualificada para dar suporte à expansão
+da bovinocultura de corte em curto prazo.
+IV A adoção de sistemas de integração lavoura-pecuária
+tende a aumentar a disponibilidade e a produtividade de
+pastagens na região Centro-Oeste.
+A região Norte apresenta condições ambientais
+favoráveis para o desenvolvimento do gado zebuíno,
+base da produção nacional.
+Estão certos apenas os itens
+A IeII.
+B IeV.
+C IIeIII.
+D IIIeIV.
+E IVeV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,668 809,668 809,720 811,720 811,845 810,845 810,1124 811,1124 811,1294 808,1294 808,1427 811,1427 811,1653 512,1653 512,1804 200,1804 200,1932 226,1932 226,2102 104,2102 104,1900 103,1900 103,1881 104,1881 104,1578 105,1578 105,894 103,894 103,668 104,668"/>
+	<TextEquiv conf="0.95944">
+	<Unicode>QUESTÃO 14
+Considerando a figura acima, que representa a curva de
+desenvolvimento dos tecidos corporais de animais
+ruminantes, em que a ordenada corresponde à velocidade
+de crescimento dos tecidos corporais, julgue os itens a
+seguir.
+| A velocidade de crescimento até a maturidade pode
+variar entre as raças, o que pode fazer que elas tenham
+diferentes idades ideais para o abate.
+II O grande desenvolvimento muscular durante a
+puberdade, associado a um bom grau de acabamento
+da carcaça, indica que essa é a melhor idade para o
+abate.
+Ill Animais abatidos com idade avançada apresentam
+melhor relação econômica custo versus benefício.
+IV No caso de ovinos, o acúmulo de gordura após a
+maturidade melhora o grau de acabamento da carcaça
+e a qualidade da carne.
+V Animais precoces ou superprecoces apresentam
+crescimento rápido de tecido adiposo e crescimento
+moderado de tecido muscular.
+Estão certos apenas os itens
+A leill.
+B lelV.
+C llev.
+D WlelV.
+E WevV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

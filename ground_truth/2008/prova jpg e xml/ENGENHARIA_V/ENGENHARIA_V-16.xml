@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:01:03</Created>
+	<LastChange>2020-10-25T19:32:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="857,220 858,2137 861,2137 860,220"/></SeparatorRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="886,1518 1073,1518 1073,1567 1551,1567 1551,1568 1552,1568 1552,1919 1085,1919 1085,2136 936,2136 936,2131 886,2131 886,1919 885,1919 885,1567 886,1567"/>
+	<TextEquiv conf="0.96658">
+	<Unicode>QUESTÃO 31
+Vários processos foram desenvolvidos para
+conformação de metais. As inúmeras formas que o
+metal assume, tais como tubos, barras e placas, podem
+ser geradas por meio de dois processos básicos:
+deformação plástica (no qual o volume e a massa do
+metal são conservados) e usinagem (metal é removido
+para geração da peça final. O processo de
+conformação no qual um bloco metálico é forçado
+através de um orifício em uma matriz, por meio de alta
+pressão —“compressiva aplicada a um êmbolo,
+denomina-se
+estiramento.
+extrusão.
+forjamento.
+trefilação.
+laminação.
+cogoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="886,227 1076,227 1076,277 1553,277 1553,1198 1194,1198 1194,1305 1270,1305 1270,1341 1372,1341 1372,1471 886,1471 886,1265 885,1265 885,1239 887,1239 887,668 885,668 885,277 886,277"/>
+	<TextEquiv conf="0.96472">
+	<Unicode>QUESTÃO 30
+O processo de deformação plástica, para uma
+quantidade significativa de materiais metálicos, ocorre
+devido ao fenômeno da movimentação das
+discordâncias (também chamada de “deslocações” em
+alguns textos). O movimento dessas discordâncias se
+faz pela ação dos componentes de tensões cisalhantes
+que atuam nos cristais. Entretanto, a movimentação
+dessas discordâncias pode ser dificultada pela presença
+de defeitos na estrutura cristalina. Como consequência
+da interferência desses defeitos na movimentação das
+discordâncias, há aumento do limite de escoamento. À
+respeito desse assunto, julgue os itens a seguir.
+| Átomos intersticiais são mais eficientes em dificultar
+a movimentação de discordâncias que átomos
+substitucionais e, portanto, promovem um aumento
+significativo do limite de escoamento.
+Il O refino de grão não é uma barreira muito eficaz à
+movimentação das discordâncias. O efeito desse
+refino somente é significativo quando há uma
+quantidade elevada de precipitados grandes e
+dispersos nos contornos de grão.
+Ill Um aumento da fração volumétrica de precipitados
+finos na matriz retada a movimentação das
+discordâncias. Consequentemente, um material que
+contém dispersão de precipitados finos possui limite
+de escoamento significativamente maior que outro
+que não contém.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e || estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cogoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="101,1394 291,1394 291,1443 846,1443 846,1657 845,1657 845,2131 102,2131 102,2132 102,2059 101,2059"/>
+	<TextEquiv conf="0.96791">
+	<Unicode>QUESTÃO 29
+O tratamento térmico efetuado em ligas ferrosas permite
+alteraçõesmicroestruturais fundamentais para o
+comportamento mecânico. Dependendo da velocidade de
+resfriamento, entre outros fatores, a microestrutura obtida
+pode apresentar uma ou mais fases. Considerando-se as
+fases oriundas de tratamentos térmicos de ligas ferrosas,
+denomina-se bainita
+O o produto da transformaçãoaustenítica, cuja
+microestrutura consiste em ferrita («) com fina dispersão
+de cementita.
+O o ferro puro com estrutura cristalina cúbica de face
+centrada.
+O oproduto da transformação austenítica com composição
+eutetóide, cuja estrutura consiste de camadas alternadas
+de ferrita e cementita.
+O afase metaestável composta por ferro supersaturado de
+carbono, sendo produto de uma transformação atérmica
+da austenita.
+O acementita primária, que existe adicionalmente à perlita
+para aços hipereutetóides.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="97,260 97,808 845,808 845,260"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="101,227 291,227 291,829 843,829 843,926 846,926 846,1320 843,1320 843,1354 102,1354 102,1355 102,1320 101,1320"/>
+	<TextEquiv conf="0.95530">
+	<Unicode>QUESTÃO 28
+Em relação ao diagrama Cobre-Prata mostrado acima,
+assinale a opção correta.
+O Na composição 71,9 % em peso de prata, o ponto
+eutetóide ocorre a 779 ºC e é caracterizado pela
+transformação, no resfriamento, de uma fase líquida em
+duas fases sólidas.
+O A curva CBA estabelece o limite de solubilidade da
+solução sólida rica em cobre.
+O A linha BEG também pode ser considerada uma curva
+liquidus e representa a temperatura mais baixa em que o
+líquido pode existir para quaisquer das composições.
+O Uma regra geral para construção de diagramas binários
+estabelece que as regiões monofásicas estejam sempre
+separadas umas das outras por outra região monofásica.
+O AcurvaHGF delimita a solução sólida da prata no cobre.</Unicode></TextEquiv></TextRegion></Page></PcGts>

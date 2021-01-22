@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:29:22</Created>
+	<LastChange>2020-10-25T17:45:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-20.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="42,377 42,1102 477,1102 477,377"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="514,317 514,1117 1034,1117 1034,317"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1077,302 1077,1100 1597,1100 1597,302"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,187 484,187 484,1146 1574,1146 1574,1411 1573,1411 1573,1889 80,1889 80,1549 79,1549 79,1257 80,1257"/>
+	<TextEquiv conf="0.94743">
+	<Unicode>QUESTÃO 34 - DISCURSIVA
+Eminstalações elétricas, o sistema de aterramento é projetado de modo que as diferenças de potenciais (ddp) de toque e de
+passo fiquem abaixo do limite de risco de fibrilação ventricular do coração. A Figura 1 mostra um equivalente elétrico simplifi-
+cado do corpo humano, em que Z, = 500 O.
+Nas Figuras 2 e 3, estão apresentadas, respectivamente, as ddp de toque (U,) e de passo (U,) para uma instalação sem
+aterramento. As resistências do solo R,, e R., dependem da resistividade do solo, p,=10 O. m, e das distâncias dos trechos
+correspondentes. A resistência de contato R de cada pé com o solo depende da área da superfície de contato e da resistividade
+do solo, podendo ser aproximada por R, =k. p,., com k=8 mº.
+Dessa forma, calcule:
+a) a corrente de choque (|, ,) e a ddp de toque (U,), indicadas na Figura 2, quando a corrente |, na estrutura for igual a 10,5A;
+(valor: 5,0 pontos)
+b) a ddp de passo (U,) e a corrente de choque (|), indicadas na Figura 3, quando a corrente | for igual a 585 A.
+(valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

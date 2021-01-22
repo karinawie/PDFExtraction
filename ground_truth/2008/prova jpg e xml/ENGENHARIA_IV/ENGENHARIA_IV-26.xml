@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:29:21</Created>
+	<LastChange>2021-01-19T12:55:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-26.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="825,2151 825,180"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="71,362 71,1420 774,1420 774,362"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="982,791 982,1594 1485,1594 1485,791"/></ImageRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="80,187 273,187 273,230 802,230 802,356 79,356 79,230 80,230"/>
+	<TextEquiv conf="0.96534">
+	<Unicode>QUESTÃO 43
+Como regra geral, as vitaminas são divididas, pela sua solubi-
+lidade, em hidrossolúveis e lipossolúveis. Considerando as
+estruturas das vitaminas apresentadas abaixo, qual delas é
+lipossolúvel?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords points="851,496 1045,496 1045,539 1573,539 1573,1698 1466,1698 1466,1765 1388,1765 1388,1864 876,1864 876,1865 852,1865 852,765 851,765"/>
+	<TextEquiv conf="0.96715">
+	<Unicode>QUESTÃO 45
+Na indústria de alimentos, o Plano de Análise de Perigos e
+Pontos Críticos de Controle (APPCC) é uma das ferramentas
+utilizadas para garantir que um produto está sendo produzido
+de forma segura. Para tal, são monitorados os Pontos
+Críticos de Controle (PCC) do processo.
+Observe as etapas básicas do processo para produção de
+salsicha (produto cárneo cozido resfriado).
+No processamento da salsicha, são etapas consideradas
+Pontos Críticos de Controle (PCC) Microbiológicos:
+(A) Preparo da Carne, Embutimento e Estocagem.
+(B) Preparo da Carne, Embutimento e Embalagem.
+(C) Carne, Embalagem e Estocagem.
+(D) Cozimento, Resfriamento e Estocagem.
+(E) Trituração, Embutimento e Resfriamento</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="851,187 1045,187 1045,230 1574,230 1574,289 1170,289 1170,396 1301,396 1301,430 1345,430 1345,456 852,456 852,289 851,289"/>
+	<TextEquiv conf="0.96465">
+	<Unicode>QUESTÃO 44
+Qual das seguintes características é obrigatória em embala-
+gem a ser utilizada em produtos alimentícios?
+(A) Ser opaca.
+(B) Ser biodegradável.
+(C) Ser impermeável à luz.
+(D) Conter informações de rotulagem.
+(E) Liberar conservantes para o alimento.</Unicode></TextEquiv></TextRegion></Page></PcGts>

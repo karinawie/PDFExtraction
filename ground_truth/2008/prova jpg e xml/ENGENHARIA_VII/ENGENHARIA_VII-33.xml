@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:04:47</Created>
+	<LastChange>2020-10-25T20:28:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-33.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="836,550 833,2098 838,2098 841,550"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="88,622 88,1014 740,1014 740,622"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="104,560 294,560 294,1029 824,1029 824,1389 825,1389 825,1979 824,1979 824,2047 823,2047 823,2048 736,2048 736,2099 155,2099 155,2098 154,2098 154,2048 105,2048 105,2047 104,2047 104,1289 103,1289 103,1234 102,1234 102,1029 104,1029"/>
+	<TextEquiv conf="0.96580">
+	<Unicode>QUESTÃO 56
+A figura acima mostra um reservatório de fundo horizontal,
+em repouso, que contém dois fluidos imiscíveis, identificados
+por A e B, no qual há uma esfera de diâmetro conhecido,
+submersa. Com base nessas informações, assinale a opção
+correta.
+O Ofluido“B” possui densidade relativa igual ou menor
+que a do fluido “A”.
+O O empuxo que os fluidos exercem sobre a esfera
+depende das alturas “h1” e “h2”.
+O Apressão exercida pelos fluidos sobre uma das paredes
+verticais está corretamente representada pelo diagrama
+de pressões na figura.
+O A pressão em um ponto localizado na interface dos
+fluidos é igual ao produto do peso específico do fluido
+“A” pela altura “h1".
+O Apressão sobre o fundo do recipiente é maior no centro
+do que nas proximidades das paredes verticais.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="1114,897 1114,1225 1385,1225 1385,897"/></TableRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="864,560 1054,560 1054,630 1550,630 1550,809 1504,809 1504,1390 1550,1390 1550,1491 1552,1491 1552,1568 1551,1568 1551,1619 1485,1619 1485,1668 1350,1668 1350,2039 1257,2039 1257,2090 864,2090 864,1768 863,1768 863,1743 864,1743 864,860 863,860 863,630 864,630"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 57
+Considere que a velocidade de queda v(f) de um objeto,
+desde uma altura suficientemente grande, seja
+representada, em função do tempo tt, pela equação
+vV(H) = 53,39(1-e/219º% A partir dessa equação, pode-se
+construir a tabela a seguir.
+Com base nessa situação, julgue os itens seguintes.
+| O objeto acelera desde o início da queda e atinge
+velocidade terminal entre 47,49 m/s e 53,39 m/s.
+I|l Entre6e8 segundos, a aceleração do objeto é menor
+do que entre 4 e 6 segundos.
+Ill Avelocidade terminal é atingida em razão do equilíbrio
+entre a força da gravidade e a resistência do ar.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e || estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+o 0oceoeo
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

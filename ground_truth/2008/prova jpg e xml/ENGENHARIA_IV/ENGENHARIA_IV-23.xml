@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:29:57</Created>
+	<LastChange>2020-10-25T18:42:22</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-23.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="145,542 145,1311 1485,1311 1485,542"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,317 273,317 273,360 1573,360 1573,452 950,452 950,1432 956,1432 956,1503 1573,1503 1573,2029 80,2029 80,1696 79,1696 79,1570 80,1570 80,452 78,452 78,360 80,360"/>
+	<TextEquiv conf="0.96501">
+	<Unicode>QUESTÃO 36
+Propõe-se um novo processo para produzir 1,2-butadieno a partir do butano. Emprega-se para isso um reator que opera
+em fase líquida, com catalisador na forma de partículas sólidas muito finas, dispersas no líquido, operando a 80 ºC e 9 bar.
+A figura abaixo mostra o fluxograma do processo.
+Memorial Descritivo:
+Butano é alimentado ao reator pela corrente 1. No reator ocorre a reação
+CH, &gt; CiH;+t2H,
+com conversão de 60% da carga. A descarga é feita pela evaporação dos produtos e do reagente, que deixam o reator pela
+corrente 2, de modo a evitar operações para a recuperação do catalisador. O condensador parcial TO1 condensa e resfria parte
+da descarga. O vaso V1 separa a fase líquida do hidrogênio formado. A fase líquida é separada na destiladora T1, obtendo-se
+no fundo o 1,2-butadieno com pureza de 98% molar. O butano é recuperado no topo da torre e reciclado para o reator.
+A destiladora opera a uma pressão de 2,7 bar.
+Analisando o processo proposto, constata-se que a
+(A) produção da unidade será controlada de forma muito eficiente pelo medidor de vazão instalado na corrente de butadieno
+que deixa o fundo da torre destiladora.
+(B) corrente 3, que descarta o hidrogênio formado na reação a partir do vaso V1, sairá saturada com butano e 1,2-butadieno,
+o que exigirá a instalação adicional de uma torre lavadora (scrubber) para reduzir as perdas desses compostos.
+(C) pressão de operação da torre destiladora, sabendo-se que a saturação do butano a 2,7 bar ocorre a 28 ºC, está adequada
+ao uso de água como fluido de resfriamento do condensador de topo, como proposto no fluxograma.
+(D) válvula de controle instalada na tubulação que deixa o fundo da torre e que controla o nível do selo líquido está na posição
+correta.
+(E) destiladora pode ser substituída por um tambor flash, que permitirá a separação do 1,2-butadieno na pureza desejada
+(98% molar), com evidente economia no capital investido e na energia empregada na separação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

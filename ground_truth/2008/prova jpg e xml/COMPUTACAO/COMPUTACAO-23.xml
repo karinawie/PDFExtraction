@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:13:11</Created>
+	<LastChange>2020-09-22T22:13:30</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-23.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r42">
+	<Coords points="891,197 891,2131 908,2131 908,197"/></SeparatorRegion>
+	<TableRegion id="r43">
+	<Coords points="128,1437 128,1637 854,1637 854,1437"/></TableRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="924,215 1114,215 1114,265 1551,265 1551,629 1127,629 1127,768 1095,768 1095,848 978,848 978,843 924,843 924,630 923,630 923,265 924,265"/>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO 55
+Considere que um sistema seja constituído por três
+componentes montados em paralelo que funcionam
+independentemente. Para cada um desses
+componentes, a probabilidade de que uma falha
+ocorra até o tempo t é dada por 1-2", em que
+t &gt; O. Os componentes, após falharem, são
+irrecuperáveisó. Como os componentes estão
+montados em paralelo, o sistema falha no instante
+em que todos os três componentes tiverem falhado.
+O sistema é também irrecuperável. Considerando a
+situação apresentada, qual é a probabilidade de que
+o sistema falhe até o tempo t ?
+[1-6]
+1-[1-e"B
+e st
+1-6 0
+[1-e"B
+cogGgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,215 291,215 291,265 885,265 885,410 644,410 644,553 884,553 884,901 409,901 409,1009 588,1009 588,1163 152,1163 152,1164 151,1164 151,1163 101,1163 101,969 100,969 100,943 102,943 102,635 101,635 101,553 307,553 307,410 103,410 103,411 102,411 102,266 101,266"/>
+	<TextEquiv conf="0.91438">
+	<Unicode>QUESTÃO 53
+Um sinal a ser registrado por um dispositivo, em intervalos
+regulares de tempo t=1,2,3,..., n, resultará em uma sequência
+de variáveis aleatórias contínuas X,, X,, ..., X,. Considere, nessa
+sequência, os eventos A e B apresentados a seguir, em que
+t=2,3,.., N=1.
+Xi, 17X &lt;0eX-X,,&gt;O0
+Xi ,-X &gt;0OeX-XK,,&lt;O
+Na hipótese de a sequência X,, X,, ..., X, ser independente e que
+seja impossível que X, =X, ,(t=2,3,..., n), julgue os seguintes
+itens.
+| A probabilidade de ocorrer o evento A em uma subsequência
+Xi Xp Ki11) é inferior a 0,3.
+Il O número esperado das ocorrências dos eventos A ou B na
+sequência X,, X,, ..., X, é igual a 200-2)
+3
+Ill Os eventos A e B são mutuamente exclusivos e, por isso, são
+independentes.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cogoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="101,1206 292,1206 292,1256 885,1256 885,1432 884,1432 884,1869 885,1869 885,2115 154,2115 154,2116 153,2116 153,2080 101,2080"/>
+	<TextEquiv conf="0.96728">
+	<Unicode>QUESTÃO 54
+No encaminhamento de pacotes na Internet, cabe a cada
+nó determinar se é possível entregar um pacote diretamente ao
+destino ou se é preciso encaminhá-lo a um nó intermediário. Para
+tanto, usa-se uma tabela de rotas. Um exemplo de tabela de rotas
+simplificada é apresentado a seguir e pertence a um computador
+com endereço IP 192.0.2.100 e máscara de rede 255.255.255.0.
+Na situação em que o referido computador precise enviar pacotes
+para os endereços 192.0.2.50 e 192.168.0.100, de acordo com a
+tabela de rotas apresentada, como ocorrerá a entrega desses
+pacotes?
+Diretamente para 71920.250 e diretamente
+192.168.0.100, respectivamente.
+Diretamente para 192.0250 e encaminhando para
+192.0.2.254, respectivamente.
+Diretamente para 192.0.2.50 e encaminhando para 192.0.2.1,
+respectivamente.
+Encaminhando para 192.02.50 e encaminhando para
+192.0.2.50, respectivamente.
+Encaminhado para 19202254 e diretamente para
+192.168.0.100, respectivamente.
+para
+o o coo0coc</Unicode></TextEquiv></TextRegion></Page></PcGts>

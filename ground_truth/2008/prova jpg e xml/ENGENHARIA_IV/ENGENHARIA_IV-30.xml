@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:28:31</Created>
+	<LastChange>2020-10-25T18:34:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-30.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="294,1337 294,1688 1354,1688 1354,1337"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="74,560 74,1097 1582,1097 1582,560"/></TableRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="82,188 83,188 83,189 581,189 581,190 1079,190 1079,191 1576,191 1576,290 1436,290 1436,357 333,357 333,524 332,524 332,525 83,525 83,524 82,524 82,523 83,523 83,289 82,289"/>
+	<TextEquiv conf="0.95885">
+	<Unicode>QUESTÃO 54
+Os corantes, atualmente sintéticos, são compostos orgânicos complexos que, quando aplicados às fibras têxteis, conferem a
+elas uma cor, em virtude da presença de grupos químicos denominados cromóforos e auxocromos.
+Qual é a combinação de tipos de corantes e tipo de fibra compatível com as respectivas estruturas moleculares?
+Considere
+XX: casos normais
+X: casos especiais
+— : não é usado</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="82,1206 83,1206 83,1207 697,1207 697,1208 1310,1208 1310,1275 569,1275 569,1774 203,1774 203,1908 83,1908 83,1273 82,1273"/>
+	<TextEquiv conf="0.96244">
+	<Unicode>QUESTÃO 55
+Analise a tabela seguir, que mostra várias relações entre o sistema de título e a espessura de fio/fibra.
+Estão corretas as relações APENAS em
+(A) leill
+(B) lelll
+(C) le IV
+(D) Ile
+(E) INelV</Unicode></TextEquiv></TextRegion></Page></PcGts>

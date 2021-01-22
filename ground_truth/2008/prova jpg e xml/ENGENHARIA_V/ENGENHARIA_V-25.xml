@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:59:07</Created>
+	<LastChange>2020-10-25T19:25:05</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-25.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="101,232 291,232 291,287 809,287 809,570 770,570 770,1034 809,1034 809,1183 810,1183 810,2120 809,2120 809,2121 101,2121 102,2121 102,1924 101,1924 101,1601 102,1601 102,1395 101,1395 101,1129 100,1129 100,1033 141,1033 141,570 102,570 102,569 101,569"/>
+	<TextEquiv conf="0.96234">
+	<Unicode>QUESTÃO 43
+O Brasil se destaca como um dos países que detém
+grandes reservas de minérios, e as empresas que
+exploram e beneficiam os minérios dessas reservas já são
+consideradas líderes mundiais em alguns setores. Trata-se,
+portanto, de uma atividade promissora para engenheiros
+especializados nesse setor. No texto que se segue, é
+apresentada uma descrição de uma das etapas do
+tratamento de minérios.
+Em uma planta de tratamento de minérios, o
+processamento começa por uma etapa de
+cominuição. O primeiro estágio é constituído de
+britadores e peneiras que reduzem o tamanho do
+minério proveniente da mina para 100% abaixo de
+1cm. Após essa etapa, segue-se uma operação de
+moagem na qual moinhos de bolas operam em
+circuito fechado com ciclones. O produto deve estar
+90% abaixo de 100 um. Nessa última etapa, a carga
+circulante dos moinhos é de 90%.
+A partir dessa descrição do processo, assinale a opção que
+apresenta o significado correto do termo “carga circulante”,
+referido no texto.
+O Paracada 900 kg de minério que saem dos britadores,
+há uma tonelada que também chega aos moinhos, pois
+100 kg são devolvidos pelos ciclones por estarem
+acima da especificação, não se contabilizando a massa
+de água utilizada para a formação da polpa de
+moagem.
+O Para cada tonelada de minério que sai dos moinhos,
+900 kg atendem à especificação e seguem para a
+etapa seguinte de concentração do minério, após a
+eliminação do excesso de água utilizada na moagem a
+úmido e os 100 kg restantes retornam aos moinhos.
+O Para cada tonelada de minério, 900 kg são ganga e,
+portanto, têm de ser separados e destinados a um
+processo de circulação para a pilha de rejeitos, após a
+eliminação da água utilizada na moagem a úmido.
+O Para cada tonelada de minério, proveniente da
+britagem, que é alimentado no sistema, há 900 kg de
+minério já moído que, por estarem com tamanho acima
+da especificação, são separados pelos ciclones e
+retornam ao moinho.
+O Paracada tonelada de minério, há necessidade de se
+fazer a cominuição de 900 kg para que seja atingido o
+grau de liberação adequado à etapa posterior do
+processamento, não se contabilizando a massa de
+água existente na polpa de moagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="850,232 1041,232 1041,295 1548,295 1548,757 1154,757 1154,875 1549,875 1549,2024 1548,2024 1548,2073 1482,2073 1482,2120 899,2120 899,2024 849,2024 849,805 848,805 848,431 849,431 849,261 850,261"/>
+	<TextEquiv conf="0.96563">
+	<Unicode>QUESTÃO 44
+É sabido que o principal equipamento de uma usina
+siderúrgica é o alto-forno. Nesse equipamento (um
+gigantesco reator químico), o minério de ferro,
+essencialmente constituído de hematita, é alimentado pela
+parte superior do forno juntamente com carvão
+coqueificado. Na parte inferior do forno, perto de sua base,
+é soprado ar quente. O ar reage com o carbono,
+oxidando-o. O monóxido de carbono produzido reage,
+então, com o minério de ferro, reduzindo-o. Considerando
+essa descrição sucinta do funcionamento de um alto-forno,
+assinale a opção correta.
+O Oalto-forno produz, além do ferro gusa, retirado pela
+parte inferior do equipamento, um gás que é uma
+mistura essencialmente de nitrogênio, proveniente do
+ar, e dióxido de carbono, proveniente da queima do
+carvão. Esse gás é descartado após um procedimento
+de despoeiramento.
+O O ferro gusa produzido nada mais é do que uma liga
+de ferro com carbono, com teor de carbono em torno
+de 0,76% peso. Esse é o teor da composição eutética
+no diagrama Fe-C, sendo, portanto, o de menor ponto
+de fusão.
+O O alto-forno é um reator em contra-corrente, pois os
+gases em ascensão reagem com a carga, de minério
+e carbono, que desce lentamente à medida em que o
+carbono é consumido pela reação e o ferro gusa é
+retirado na parte inferior.
+O Como o minério de ferro e o coque são alimentados
+juntos, pela parte superior, e saem, após as reações,
+pela parte inferior do forno, na forma de ferro gusa,
+deduz-se que o alto-forno não é um reator em
+contra-corrente.
+O Paraque as reações ocorram e o ferro passe para o
+estado líquido, o que permite sua saída do forno, é
+necessário fornecer calor. Isso é feito pela queima de
+carvão mineral
+gás natural, ou vegetal em
+equipamentos localizados ao lado do alto-forno.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r24">
+	<Coords points="822,220 822,2120 825,2120 825,220"/></SeparatorRegion></Page></PcGts>

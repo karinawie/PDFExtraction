@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T01:36:40</Created>
+	<LastChange>2020-10-26T12:23:10</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="473,418 477,855 1162,849 1157,413"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="551,1331 551,1637 1151,1637 1151,1331"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,185 273,185 273,228 1574,228 1574,350 1460,350 1460,351 1345,351 1345,352 1246,352 1246,978 1534,978 1534,1038 1460,1038 1460,1187 1346,1187 1346,1188 80,1188 80,354 79,354 79,228 80,228"/>
+	<TextEquiv conf="0.96660">
+	<Unicode>QUESTÃO 26
+As lipases são enzimas capazes de catalisar a reação de bio-transformação dos triésteres de glicerol presentes nos óleos
+vegetais com álcool etílico, produzindo monoésteres de etanol, o “biodiesel brasileiro”.
+Abaixo é apresentado um gráfico qualitativo da variação da concentração com o tempo de reação, obtido na
+bio-transesterificação do triexadecanoato de glicerila com etanol, catalisada por lipase.
+Sobre o comportamento dessa reação e sua curva cinética, foram feitas as seguintes afirmativas:
+| - as curvas 1,2,3 e 4representam as variações das concentrações dos produtos formados ao longo da reação;
+l|l - a curva 5 representa a variação da concentração do triéster de glicerol com o tempo de reação;
+Ill - a curva 4 representa a variação da concentração do glicerol formado na reação;
+IV - a curva 1 representa a variação da concentração de hexadecanoato de etila com o tempo de reação.
+Estão corretas APENAS as afirmativas
+(A) lell (B) le (C) Ilelll (D) Ile IV (E) IelV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="81,1227 273,1227 273,1271 1573,1271 1573,1327 1459,1327 1459,1328 1344,1328 1344,1329 1229,1329 1229,1330 1133,1330 1133,1693 1213,1693 1213,1694 1214,1694 1214,1743 1112,1743 1112,1744 1065,1744 1065,1978 1210,1978 1210,2071 1098,2071 1098,2072 985,2072 985,2073 688,2073 688,2141 567,2141 567,2142 445,2142 445,2143 80,2143 80,1807 79,1807 79,1781 387,1781 387,1658 79,1658 79,1609 80,1609 80,1608 203,1608 203,1607 327,1607 327,1606 451,1606 451,1605 575,1605 575,1604 664,1604 664,1542 665,1542 665,1541 800,1541 800,1540 912,1540 912,1539 934,1539 934,1334 654,1334 654,1335 539,1335 539,1336 79,1336 79,1271 80,1271 80,1228 81,1228"/>
+	<TextEquiv conf="0.96490">
+	<Unicode>QUESTÃO 27
+A Célula de Weston, representada abaixo, foi usada durante muitos anos como padrão de potencial devido à reprodutibilidade
+do valor de seu potencial (1,0180 Va 25ºC).
+1CdSO, * 8/3H,0 (s)
+Hg Cd(Hg)
+A notação dessa pilha é dada por:
+8
+Cd(Hg)|CdSO, - 3H20(s) Cd?* (aq,sat), SO (aq sat)|Hg2SO,(s)|Hg
+Analisando as informações a respeito da Célula de Weston, conclui-se que
+(A) a reação anódica é: Cd(Hg)+SOZ (aq)+ SHO(0) — CdSO, SH20(s)+ 28
+(B) a reação catódica é: Cd?* (aq) + 2e” &gt; Cd(Hg)
+(C) o potencial da pilha não é afetado pela retirada de qualquer quantidade de carga da célula.
+(D) o fluxo de elétrons parte do eletrodo de Hg para o eletrodo de Cd(Hg) pelo circuito externo.
+(E) o catodo é formado pelo amálgama de cádmio.</Unicode></TextEquiv></TextRegion></Page></PcGts>

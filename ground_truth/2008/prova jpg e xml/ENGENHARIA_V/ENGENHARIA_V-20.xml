@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:00:11</Created>
+	<LastChange>2020-10-25T19:30:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-20.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="100,225 1552,225 1552,1348 102,1348 102,1349 101,1349 101,1280 102,1280 102,291 100,291"/>
+	<TextEquiv conf="0.96042">
+	<Unicode>A) A partir das informações fornecidas, determine o valor aproximado do fator de concentração de tensões (K,) para a
+peça e justifique como esse valor foi obtido. (valor: 4,0 pontos)
+B) Considerando as condições de carregamento, e a partir do valor da tensão máxima local originada pela presença dos
+entalhes, estime a vida em fadiga da peça. Descreva como esse resultado foi alcançado. (valor: 4,0 pontos)
+C) Descreva como estimar graficamente, a partir da figura Ill, a vida em fadiga da peça sem entalhe e compare as
+diferenças da vida em fadiga das duas peças (com e sem entalhe). (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

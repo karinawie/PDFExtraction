@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:43:18</Created>
+	<LastChange>2020-10-25T20:00:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-13.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="736,501 736,2118 738,2118 738,501"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,508 290,508 290,569 724,569 724,1300 725,1300 725,1412 724,1412 724,2112 104,2112 104,1412 103,1412 103,569 104,569"/>
+	<TextEquiv conf="0.95995">
+	<Unicode>QUESTÃO 21
+Uma confecção pretende rever o projeto de
+arranjo físico para expandir sua capacidade de
+produção. O gargalo dos processos de produção
+para a totalidade dos produtos, em número de
+peças, está na máquina de tingimento.
+A seção onde está a máquina tem uma área de
+30 m?, dos quais 18 m? já estão ocupados com a
+própria máquina, com o corredor de acesso, com a
+área de carga, descarga e espera e com a área de
+manutenção, contígua à máquina. O tempo-padrão
+para o ciclo de tingimento é de 10 min para um lote
+de 50 peças. A previsão de vendas para 3 anos
+indica a necessidade de expandir a capacidade da
+seção de tingimento em 30%. O período de
+recuperação de capital, usualmente aceito, é de 3 a
+4 anos.
+Tendo como referência a situação acima, a melhor
+opção de projeto para essa confecção é instalar
+uma máquina adicional capaz de tingir
+O 20 peças em 30 min e que ocupe 6 m?, com um
+período de recuperação de capital de 4 anos.
+O 45 peças em 60 min e que ocupe 10 m?, com
+um período de recuperação de capital de
+3 anos.
+O 120 peças em 15 min e que ocupe 25 m?, com
+um período de recuperacão de capital de
+5 anos, se mantido o crescimento da demanda
+e a máquina atual for vendida.
+O 50 peças em 30 min e que ocupe 13 m?, com
+um período de recuperacão de capital de
+5 anos.
+O 30 peças em 20 min e que ocupe 10 m?, com
+um período de recuperação de capital de
+4 anos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="763,508 1552,508 1552,1577 1087,1577 1087,1606 814,1606 814,1571 764,1571 764,1217 763,1217"/>
+	<TextEquiv conf="0.94154">
+	<Unicode>QUESTÃO 22
+A análise de capacidade do processo de produção em uma
+empresa de cerâmica para pisos parte dos seguintes dados, para
+os tempos-padrão dos ciclos de máquina:
+» prensa: ciclos de 72 segundos para 2 peças por ciclo;
+» esmalte: ciclos de 30 min, em uma esmaltadeira capaz de
+processar simultaneamente 60 peças;
+» forno para queima: ciclos de queima de 1 h, com até
+240 placas de cerâmica a cada ciclo.
+A empresa já trabalha em 3 turnos diários de 8 horas, sem
+interrupção e as necessidades de paradas das máquinas, para
+preparação e manutenção são desprezíveis. A previsão de
+demanda indica a possibilidade de aumento de vendas de 10%
+ao ano, nos próximos 3 anos. A fábrica vende, atualmente,
+2.000 peças de piso por dia, em média.
+FREITAS PEREIRA, Claudio Levi de, 2003 (com adaptações).
+Assinale a melhor opção para a expansão da capacidade
+produtiva para atender a demanda nos próximos 4 anos, com
+criação de mínima capacidade ociosa total.
+O Aumentaracapacidade máxima de produção da esmaltadeira
+em 20%.
+Dobrar a capacidade máxima de produção do forno de
+queima.
+O Aumentar a capacidade máxima de produção da prensa em
+50%.
+O Aumentar a capacidade máxima de produção da prensa em
+30%.
+Aumentar a capacidade máxima de produção da prensa e da
+esmaltadeira em 20%.
+o
+o</Unicode></TextEquiv></TextRegion></Page></PcGts>

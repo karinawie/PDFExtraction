@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-17T00:04:39</Created>
+	<LastChange>2020-11-17T00:04:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="160,866 160,1126 710,1126 710,866"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="156,1232 156,1488 700,1488 700,1232"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="828,207 829,2082 832,2082 831,207"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="848,1222 848,1529 1557,1529 1557,1222"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,1575 294,1575 294,1633 811,1633 811,1820 390,1820 390,2081 153,2081 153,2076 104,2076 104,1821 103,1821 103,1633 104,1633"/>
+	<TextEquiv conf="0.96363">
+	<Unicode>QUESTÃO 13
+Considere que t seja o tempo, em horas, de modo que t= O
+corresponda ao meio-dia (GMT). Escolha a opção que
+descreve o modelo mais preciso do deslocamento da curva
+que separa a área iluminada da região de sombra na Terra,
+no dia representado nas figuras.
+y=75 cos(x+1574)
+y=75 sen(x— 2414)
+y=75sen(x+ 154)
+)=90 cos(x + 24 4)
+y=90 sen(x-— 24!)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="103,219 509,219 509,301 811,301 811,813 104,813 104,814 103,814"/>
+	<TextEquiv conf="0.96634">
+	<Unicode>Texto para as questões 13 e 14
+As duas figuras abaixo mostram uma representação
+da Terra iluminada pelo Sol. As duas figuras correspondem
+ao 1.º dia do verão no hemisfério sul. A primeira foi obtida
+às 9 h da manhã com relação ao meridiano de Greenwich
+(GMT — Greenwich Mean Time). A segunda imagem foi
+obtida três horas depois, ou seja, ao meio-dia (GMT). As
+imagens podem ser usadas para se determinar o horário do
+amanhecer e do pôr-do-sol em qualquer cidade do mundo.
+Nas figuras, foi introduzido um sistema de coordenadas
+cartesianas, no qual a linha do Equador é representada
+pelo eixo dos x (dado em graus) e o meridiano de
+Greenwich, pelo eixo dos y (também dado em graus), de
+modo que y = +90 no pólo norte e y = -90 no pólo sul.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="852,1539 1551,1539 1551,1569 1552,1569 1552,1618 1551,1618 1551,2075 851,2075 851,1618 850,1618 850,1568 852,1568"/>
+	<TextEquiv conf="0.95082">
+	<Unicode>QUESTÃO 15
+Paralelamente à mensagem jocosa, existe, na charge
+acima, outra mensagem subjacente, que remete ao
+fenômeno conhecido como
+O efeito estufa, observado a partir da Revolução
+Industrial, o qual corresponde ao aumento da
+temperatura global da Terra.
+O aquecimento global que pode causar secas,
+inundações, furacões, desertificação e elevação dos
+níveis dos oceanos.
+O escurecimento global, que é causado pela presença,
+na atmosfera, de material particulado oriundo da
+poluição.
+mudança sazonal no trajeto das correntes marinhas,
+que altera o ciclo migratório dos pinguins.
+aumento do buraco na camada de ozônio, causado
+pela presença, na estratosfera, de gases utilizados em
+sistemas de refrigeração.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="851,215 1042,215 1042,260 1551,260 1551,1143 852,1143 852,993 851,993 851,764 852,764 852,638 851,638 851,491 850,491 850,260 851,260"/>
+	<TextEquiv conf="0.96684">
+	<Unicode>QUESTÃO 14
+As figuras do texto podem ser utilizadas para se explicar o
+horário de verão. De fato, durante o verão no hemisfério
+sul, a duração do dia é maior que a duração da noite. O
+Operador Nacional do Sistema (ONS) relatou que, no
+verão de 2007 para 2008, houve uma redução da carga
+máxima da região Sul do Brasil da ordem de 4% e uma
+redução do consumo de energia da ordem de 1%.
+Considerando essas informações, é correto afirmar que
+O asmaiores vantagens econômicas do horário de verão
+ocorrem nos países cortados pela linha do Equador,
+onde os dias de verão têm aproximadamente a
+mesma duração que os dias de inverno.
+O osganhos econômicos proporcionados pelo horário de
+verão são menores nos países do hemisfério norte
+porque, naquela região, o número de horas dos dias
+de verão é inferior ao do hemisfério sul.
+O oSol, durante o horário de verão no Brasil, nasce mais
+cedo, sendo reduzido o consumo de energia no
+período matinal, o que acarreta significativa economia
+de energia para o país.
+O os dados do ONS apontam para uma redução de
+cerca de 5% da conta mensal de eletricidade dos
+consumidores da região Sul do Brasil durante o horário
+de verão.
+O o$Sol no verão, nasce aproximadamente no mesmo
+momento em Natal — RN e em Porto Alegre — RS; no
+entanto, ele se põe primeiro na região Nordeste, o que
+motiva a aplicação do horário de verão nos estados do
+sul do Brasil.</Unicode></TextEquiv></TextRegion></Page></PcGts>

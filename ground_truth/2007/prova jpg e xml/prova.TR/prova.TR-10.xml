@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:02:53</Created>
+	<LastChange>2021-01-18T13:46:29</LastChange></Metadata>
+	<Page imageFilename="prova.TR-10.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r14" type="heading">
+	<Coords points="60,1250 251,1250 251,1304 1554,1304 1554,1411 1555,1411 1555,1606 1554,1606 1554,1792 1556,1792 1556,1880 1553,1880 1553,1987 1076,1987 1076,1988 598,1988 598,1989 120,1989 120,1990 119,1990 119,1957 61,1957 61,1931 119,1931 119,1792 120,1792 120,1497 119,1497 119,1437 61,1437 61,1363 60,1363"/>
+	<TextEquiv conf="0.96161">
+	<Unicode>QUESTÃO 15
+Em um exame radiológico de tórax, utilizando um equipamento de raios X digital (DR), a seqüência correta das etapas
+do processo são:
+(A) posicionar o paciente, inserir IP (Chassis), executar o protocolo, retirar e escanear o IP, verificar a imagem, refazer
+o processo (se necessário). Com a imagem obtida, ajustar a escala de cinza na estação de trabalho, imprimir e
+armazenar no servidor PACS-RIS.
+(B) posicionar o paciente, executar o protocolo, imprimir a imagem obtida e armazenar no servidor PACS-RIS. Ajustar a
+escala de cinza na estação de trabalho, verificar a imagem e refazer o processo (se necessário).
+(C) posicionar o paciente, executar o protocolo, digitalizar o filme obtido, verificar imagem, refazer o processo (se
+necessário). Com a imagem obtida, ajustar a escala de cinza na estação de trabalho, imprimir e armazenar no
+servidor PACS-RIS.
+(D) posicionar o paciente com fluoroscopia, inserir IP (Chassis), executar o protocolo, retirar e escanear o IP, verificar
+imagem, refazer o processo (se necessário). Com a imagem obtida, ajustar a escala de cinza na estação de
+trabalho, imprimir e armazenar no servidor PACS-RIS.
+(E) posicionar o paciente, executar o protocolo, verificar imagem, refazer o processo (se necessário). Com a imagem
+obtida, ajustar a escala de cinza na estação de trabalho, imprimir e armazenar no servidor PACS-RIS.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,699 1355,699 1355,780 926,780 926,928 741,928 741,1002 542,1002 542,1123 653,1123 653,1148 121,1148 121,1149 120,1149 120,853 61,853 61,780 60,780"/>
+	<TextEquiv conf="0.94055">
+	<Unicode>QUESTÃO 14
+O sinal de Ressonância Magnética (RM) é o resultado da excitação de prótons do tecido biológico devido
+(A) à ação de ondas eletromagnéticas em uma frequência específica.
+(B) à existência de um campo magnético forte.
+(C) ao desequilíbrio entre prótons e elétrons do tecido.
+(D) à orientação do campo magnético.
+(D) à concentração e abundância dos mesmos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="60,159 622,159 622,275 1169,275 1169,302 1056,302 1056,423 1226,423 1226,572 1230,572 1230,598 119,598 119,572 120,572 120,229 60,229"/>
+	<TextEquiv conf="0.95611">
+	<Unicode>QUESTÃO 13
+É característica dos detectores Geiger-Muller:
+(A) precisão que auxilia na identificação do tipo de achado em imagens para diagnóstico.
+(B) alta sensibilidade para contar as interações da radiação no volume sensível.
+(C) alta capacidade de absorver a energia da radiação e fornecer o fluxo de fótons incidentes.
+(D) precisão na discriminação do tipo de radiação incidente no volume sensível.
+(E) capacidade de produzir informações sobre a distribuição da energia da radiação incidente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

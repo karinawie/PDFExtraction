@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T19:55:10</Created>
+	<LastChange>2020-09-09T01:28:46</LastChange></Metadata>
+	<Page imageFilename="prova.farmacia-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="348,500 348,985 1325,985 1325,500"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,265 486,265 486,307 1574,307 1574,484 1573,484 1573,1838 79,1838 79,307 80,307"/>
+	<TextEquiv conf="0.94838">
+	<Unicode>QUESTÃO 37 - DISCURSIVA
+A RDC 67, de 08/10/2007, no item Controle de Qualidade dos Medicamentos Manipulados, diz que: “A farmácia pode manipular
+e manter estoque mínimo de preparações oficinais (...), desde que garanta a qualidade das preparações”. Desta forma, a
+Farmácia Joãozinho produz 6.000 cápsulas de minoxidil de 5mg. Seu teor é determinado por espectrofotometria no ultravioleta,
+utilizando a curva de calibração abaixo, cujo coeficiente de correlação determinado foi r=0,99265. Após uma cápsula ser diluída
+em balão volumétrico de 100,0ml, deste foi retirada uma alíquota de 3,0ml para balão volumétrico de 10,0ml e, deste último, foi
+realizada a leitura no espectrofotômetro, obtendo-se 0,602 de absorbância.
+Responda às perguntas a seguir, considerando a forma farmacêutica, sua dosagem e a Resolução em vigor.
+a) Qual a principal análise requerida para esta cápsula? Por quê? (valor: 2,0 pontos)
+b) Qual a melhor concentração a ser escolhida para a amostra, analisando o gráfico da curva de calibração? (valor: 2,0 pontos)
+c) O coeficiente de correlação obtido está apropriado para a utilização da curva? Explique. (valor: 2,0 pontos)
+d) Qual a massa de minoxidil presente em uma cápsula? (Apresente todos os passos para chegar à resposta)
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

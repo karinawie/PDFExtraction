@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:08:57</Created>
+	<LastChange>2020-09-22T22:31:19</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-29.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,215 490,215 490,317 1212,317 1212,790 581,790 581,924 1096,924 1096,1094 1143,1094 1143,1390 1146,1390 1146,1438 1552,1438 1552,1494 1551,1494 1551,1642 1552,1642 1552,1982 1553,1982 1553,2038 1552,2038 1552,2106 878,2106 878,2107 204,2107 204,2108 203,2108 203,1417 101,1417 101,1390 378,1390 378,901 102,901 102,902 101,902 101,876 378,876 378,318 377,318 377,295 102,295 102,296 101,296"/>
+	<TextEquiv conf="0.96387">
+	<Unicode>QUESTÃO 68
+Considere as seguintes tabelas:
+CREATE TABLE Departamento
+(
+IdDep int NOT NULL,
+NomeDep varchar (15),
+CONSTRAINT Departamentopkey PRIMARY KEY (IdDep)
+);
+CREATE TABLE Empregado
+(
+IdEmpregado int NOT NULL,
+IdDep int,
+salario float,
+CONSTRAINT Empregadopkey PRIMARY KEY (IdEmpregado),
+CONSTRAINT EmpregadoIdDepfkey FOREIGN KEY (IdDep)
+REFERENCES Departamento (IdDep)
+ON UPDATE RESTRICT ON DELETE RESTRICT
+Considere as seguintes consultas SQL.
+I SELECT NomeDep, count (*)
+FROM Departamento D, Empregado E
+WHERE D.IdDep=E.IdDep and E.salario &gt; 10000
+GROUP BY NomeDep
+HAVING count(*) &gt; 5;
+II SELECT NomeDep, count (*)
+FROM Departamento D, Empregado E
+WHERE D.IdDep=E.IdDep and E.salario &gt;10000 and
+E.IdDep IN (SELECT IdDep
+FROM Empregado
+GROUP BY IdDep
+HAVING count(*) &gt; 5)
+GROUP BY NomeDep;
+Quando as consultas acima são realizadas, o que é recuperado em cada uma delas?
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados e o número de empregados que ganham
+mais de 10.000 reais.
+os nomes dos departamentos que possuem mais de 5 empregados e o número de empregados que ganham
+mais de 10.000 reais.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número total de funcionários do departamento.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número total de funcionários do departamento.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.</Unicode></TextEquiv></TextRegion></Page></PcGts>

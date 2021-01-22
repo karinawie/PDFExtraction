@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:05:04</Created>
+	<LastChange>2020-10-25T20:12:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-31.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r9">
+	<Coords points="836,212 836,2145 838,2145 838,212"/></SeparatorRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="104,220 516,220 516,283 824,283 824,1427 105,1427 105,633 103,633 103,283 104,283"/>
+	<TextEquiv conf="0.90870">
+	<Unicode>QUESTÃO 53 — DISCURSIVA
+As gimnospermas possuem uma estrutura anatômica mais
+simples e menos especializada do que as angiospermas.
+Com relação à estrutura anatômica desses dois grupos de
+plantas produtoras de madeira, responda as perguntas a
+seguir.
+A Qualo principal elemento anatômico das gimnospermas,
+seu percentual de ocorrência e suas funções?
+(valor: 5,0 pontos)
+B Qual o elemento anatômico capaz de diferenciar a
+madeira desses dois grupos de plantas e qual a sua
+função no lenho?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="864,220 1276,220 1276,284 1550,284 1550,678 1549,678 1549,1458 865,1458 865,678 863,678 863,284 864,284"/>
+	<TextEquiv conf="0.90602">
+	<Unicode>QUESTÃO 54 — DISCURSIVA
+A madeira pode ser definida como um compósito
+orgânico, constituído primariamente pela associação de
+um polímero de origem fenólica com polissacarídeos.
+A respeito desses constituintes, faça o que se pede a
+seguir.
+A Cite e descreva cada um dos constituintes
+polissacarídeos.
+(valor: 5,0 pontos)
+B Cite e descreva o constituinte polifenólico.
+(valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

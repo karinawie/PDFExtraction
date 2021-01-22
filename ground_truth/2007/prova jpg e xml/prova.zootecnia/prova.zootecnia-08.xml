@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:44:21</Created>
+	<LastChange>2021-01-18T13:49:24</LastChange></Metadata>
+	<Page imageFilename="prova.zootecnia-08.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="819,269 818,1558 821,1558 822,269"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="824,269 823,1558 826,1558 827,269"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="897,1220 897,1537 1557,1537 1557,1220"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,271 290,271 290,320 805,320 805,404 606,404 606,532 805,532 805,733 804,733 804,734 489,734 489,866 526,866 526,920 105,920 105,854 104,854 104,799 103,799 103,532 182,532 182,404 103,404 103,319 104,319"/>
+	<TextEquiv conf="0.93703">
+	<Unicode>QUESTÃO 11
+Suponha que uma dieta elaborada para coelhos em
+crescimento tenha apresentado a seguinte composição
+química.
+* proteína bruta = 16,00%
+* energia digestível = 2.500 kcal/kg
+* cálcio = 0,80%
+* fósforo total = 0,40%
+* fibra bruta = 6,00%
+Suponha também que a ingestão dessa dieta tenha
+acarretado um quadro de enterite, uma das mais sérias e
+frequentes causas de mortalidade em coelhos jovens
+criados em condições intensivas. Nessa situação, que
+característica da dieta pode ter provocado o referido
+distúrbio?
+A Baixo teor de proteína bruta.
+B Alto teor de cálcio.
+C Baixo teor de fósforo total.
+D Baixo teor de material fibroso.
+E Baixa concentração energética.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="104,951 294,951 294,1000 805,1000 805,1535 143,1535 143,1534 142,1534 142,1503 105,1503 105,1412 104,1412 104,1269 103,1269 103,1000 104,1000"/>
+	<TextEquiv conf="0.96773">
+	<Unicode>QUESTÃO 12
+Na dieta de cavalos adultos, a relação recomendada entre
+alimentos volumosos e alimentos concentrados varia de
+100:0 a 80:20. Essa recomendação se deve ao fato de o
+cavalo adulto conseguir aproveitar parte dos nutrientes
+presentes no capim de boa qualidade. Que característica
+fisiológica e(ou) anatômica possibilita a esse animal
+aproveitar os nutrientes de forrageiras?
+A Produção das enzimas celulase e hemicelulase pelo
+estômago.
+B Produção das enzimas tripsina, quimiotripsina, e
+carboxipeptidase pelo cólon proximal.
+C Existência de rúmen, retículo, omaso e abomaso.
+D Maior capacidade volumétrica do intestino grosso em
+comparação a outros animais monogástricos, como os
+suínos.
+E Produção das enzimas amilase, quitinase e lipase pelo
+cólon distal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="847,271 1038,271 1038,317 1549,317 1549,1127 1114,1127 1114,1176 866,1176 866,1522 847,1522 847,1333 848,1333 848,1127 847,1127 847,1081 846,1081 846,700 847,700"/>
+	<TextEquiv conf="0.95762">
+	<Unicode>QUESTÃO 13
+Em cruzamento animal, a heterose, definida como a
+superioridade média dos descendentes em relação à
+média dos pais, é considerada um importante objetivo a
+ser alcançado. A heterose (H) de determinado parâmetro
+zootécnico pode ser calculada pela fórmula
+E-P
+P
+H
+x 100,
+em que F representa a média dos filhos e P, a média dos
+pais. Com base nessas informações, considere um
+acasalamento entre duas raças de suínos A e B (pais) que
+tenha resultado em filhos AB. Considere também que, na
+avaliação do número de leitões desmamados, tenham sido
+contados 10 leitões desmamados da raça A, 6 leitões
+desmamados da raça B e 9 leitões desmamados dos
+animais AB. Nessa situação, qual foi o efeito do
+cruzamento no valor da heterose e no número médio de
+leitões desmamados?</Unicode></TextEquiv></TextRegion></Page></PcGts>

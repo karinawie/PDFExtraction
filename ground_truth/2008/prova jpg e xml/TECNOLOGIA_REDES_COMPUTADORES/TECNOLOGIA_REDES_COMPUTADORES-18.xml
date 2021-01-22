@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:01:44</Created>
+	<LastChange>2020-10-26T14:05:35</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,182 1576,182 1576,322 1578,322 1578,409 1575,409 1575,482 1570,482 1570,622 1575,622 1575,748 80,748 80,324 79,324"/>
+	<TextEquiv conf="0.96050">
+	<Unicode>QUESTÃO 40 - DISCURSIVA
+Ana tem duas mensagens para enviar de forma criptografada para dois amigos: Beto e Carlos. Beto deseja receber a
+mensagem de maneira que apenas ele possa decifrá-la. Carlos não está preocupado com o sigilo da mensagem, mas deseja
+ter certeza de que foi mesmo Ana que a enviou.
+Assuma que todos têm seu par de chaves pública e privada, que todas as chaves públicas são conhecidas e que as
+funções C(K,M) e D(K,M) podem ser usadas para cifrar e decifrar, respectivamente, a mensagem M com a chave K
+(pública ou privada). Visando a atender os requisitos de Beto e Carlos, descreva
+a) como Ana deverá cifrar a mensagem antes de enviar para Beto; (valor: 2,5 pontos)
+b) como Beto deverá decifrar a mensagem de Ana corretamente; (valor: 2,5 pontos)
+c) como Ana deverá cifrar a mensagem antes de enviar para Carlos; (valor: 2,5 pontos)
+d) como Carlos deverá decifrar a mensagem de Ana corretamente. (valor: 2,5 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

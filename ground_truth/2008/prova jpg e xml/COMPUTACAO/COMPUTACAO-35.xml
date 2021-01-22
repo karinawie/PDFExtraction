@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:03:17</Created>
+	<LastChange>2020-11-17T02:37:33</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-35.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="101,213 1552,213 1552,336 1553,336 1553,445 1552,445 1552,1238 103,1238 103,1237 102,1237 102,442 101,442 101,441 100,441 100,440 101,440"/>
+	<TextEquiv conf="0.96119">
+	<Unicode>No diagrama de sequência apresentado, há problemas conceituais, relativos à especificação do diagrama de classes e
+à descrição textual do caso de uso DUPLA-CONTA. Com relação a essa situação, faça o que se pede a seguir.
+A Descreva, textualmente, três falhas de tipos distintos presentes no diagrama de sequência apresentado, relativas ao
+uso da sintaxe e(ou) da semântica da UML.
+(valor: 4,0 pontos)
+B Descreva, textualmente, três falhas distintas presentes no diagrama de sequência apresentado, relativas à
+especificação das classes, responsabilidades e colaborações propostas no diagrama de classe mostrado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

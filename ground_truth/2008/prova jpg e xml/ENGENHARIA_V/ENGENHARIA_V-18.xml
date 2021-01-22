@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T22:00:33</Created>
+	<LastChange>2021-01-19T13:08:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="101,222 514,222 514,290 1451,290 1451,291 1452,291 1452,663 1552,663 1552,717 1005,717 1005,1446 1552,1446 1552,1536 1125,1536 1125,1501 101,1501 101,1446 141,1446 141,1101 102,1101 102,717 100,717 100,663 101,663 101,607 203,607 203,251 101,251"/>
+	<TextEquiv conf="0.93622">
+	<Unicode>QUESTÃO 34 — DISCURSIVA
+A articulação é um componente importante no sistema do esqueleto humano. A parte superior
+do fêmur termina em um cabeçote com formato esférico, que se ajusta no interior de uma cavidade
+em forma de copo (o acetábulo).
+Alguns materiais metálicos e cerâmicos têm sido utilizados, com relativo grau de sucesso, na
+fabricação dos componentes de próteses. As restrições quanto às propriedades dos materiais usados
+para compor estes elementos são muito rígidas, devido à complexidade química e à mecânica da
+articulação da bacia. Além de serem biocompatíveis e terem alta resistência à corrosão, os
+componentes artificiais utilizados como próteses devem suportar forças de natureza complexa. Dessa
+forma, as características mecânicas, tais como módulo de elasticidade, limite de escoamento, limite
+de resistência à tração, resiliência e a tenacidade, são importantes na seleção de materiais para
+compor uma prótese de bacia.
+Considerando o texto acima, faça o que pede a seguir.
+A) Redija um parágrafo explicando a correlação entre tensão e deformação segundo a lei de Hooke.
+(valor: 1,0 ponto)
+B) Desenhe uma curva padrão de tensão-deformação de um ensaio de
+tração uniaxial, e indentifique, nessa curva, com as letras a, becos
+seguintes pontos notáveis:
+(valor: 6,0 pontos)
+a) limite de proporcionalidade;
+b) limite de escoamento;
+C) limite de resistência à tração.
+C) Defina tenacidade e os módulos de elasticidade e de resiliência, na situação estática, e descreva como essas
+grandezas podem ser identificadas na curva de tensão-deformação. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

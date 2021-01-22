@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:08:03</Created>
+	<LastChange>2020-10-25T20:25:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="215,987 215,1478 813,1478 813,987"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="936,207 936,2144 938,2144 938,207"/></SeparatorRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="964,1229 1154,1229 1154,1282 1551,1282 1551,1538 1550,1538 1550,1866 1271,1866 1271,1971 1348,1971 1348,2007 1450,2007 1450,2138 964,2138 964,1932 963,1932 963,1906 965,1906 965,1538 961,1538 961,1282 964,1282"/>
+	<TextEquiv conf="0.96572">
+	<Unicode>QUESTÃO 27
+A modelagem ambiental tem um papel
+fundamental na análise e na previsão do
+comportamento futuro dos ecossistemas. Nesse
+sentido, duas ferramentas muito utilizadas são os
+sistemas de informações geográficas (SIG) e as
+técnicas de sensoriamento remoto (TSR). À
+respeito desses instrumentos de modelagem,
+julgue os itens subsequentes.
+| Os SIG permitem integrar informações
+disponibilizadas em formatos diferentes, como
+o vetorial e o matricial.
+Il As TSR possibilitam a elaboração de mapas
+temáticos a partir do processamento de
+imagens hiperespectrais de radar.
+NOs SIG e as TSR destinam-se ao
+processamento de informações
+espacialmente referenciadas.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e || estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cogcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="964,215 1154,215 1154,264 1550,264 1550,1184 964,1184 964,520 963,520 963,264 964,264"/>
+	<TextEquiv conf="0.96602">
+	<Unicode>QUESTÃO 26
+Os plásticos podem ser definidos como materiais
+orgânicos que contêm moléculas de elevado
+peso molecular (entre 10º g/mol e 10º gmol) e
+que, sob pressão e temperaturas
+moderadamente elevadas, podem ser modelados
+na forma desejada. No que se refere à natureza
+e às propriedades dos polímeros sólidos,
+assinale a opção correta.
+O A presença de ramificações laterais nas
+moléculas de alguns polímeros resulta
+geralmente na diminuição de resistência e da
+dureza desses polímeros.
+O Asforças que agem entre átomos individuais
+no interior de uma molécula de um polímero
+são do tipo secundária, enquanto que
+aquelas que agem entre moléculas
+adjacentes são do tipo de valência primária.
+O As forças secundárias são muito fortes e
+dificultam a separação das moléculas em um
+polímero.
+O A resistência dos polímeros depende, em
+grande parte, das ligações covalentes no
+interior das cadeias de moléculas.
+O Quando um polimero se cristaliza livremente
+na ausência de quaisquer forças externas,
+os cristalitos formados têm uma orientação
+bem definida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="104,215 294,215 294,259 924,259 924,402 925,402 925,635 923,635 923,694 154,694 154,661 104,661 104,366 103,366 103,259 104,259"/>
+	<TextEquiv conf="0.96771">
+	<Unicode>QUESTÃO 24
+O material de construção ideal é aquele capaz de, com poucas
+deformações, resistir a tensões elevadas. A respeito das
+propriedades dos materiais de construção, assinale a opção
+incorreta.
+O Tensão é uma medida da densidade de força, sendo definida
+como força por unidade de área (N/m?).
+O módulo de elasticidade é a relação entre a tensão aplicada e
+a deformação elástica que ela produz.
+Maleabilidade é a capacidade do material de se deformar
+quando submetido a esforço de tração.
+A dureza, em linhas gerais, é definida como a capacidade de o
+material resistir à abrasão superficial.
+A tenacidade é a medida da energia necessária para fraturar um
+corpo-de-prova.
+o o0ooeco</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,726 294,726 294,770 924,770 924,1620 925,1620 925,1900 457,1900 457,1958 238,1958 238,2134 104,2134 104,966 103,966 103,770 104,770"/>
+	<TextEquiv conf="0.96240">
+	<Unicode>QUESTÃO 25
+Os componentes estruturais devem, na maior parte dos casos,
+ser projetados de forma que não sejam deformados pelas tensões
+envolvidas durante o serviço. Nos ensaios de materiais, além de
+analisar as fraturas ocorridas nos corpos-de-prova, os diagramas do
+tipo carga versus deformação, como os apresentados na figura a
+seguir, fornecem importantes informações a respeito do
+comportamento dos materiais.
+engenharia. Difel, 1982, p.357 (com adaptações).
+Considerando a figura acima, que mostra tipos de fratura nos
+materiais, julgue os itens a seguir.
+| O material na situação (i) é frágil, o que é indicado pela fratura e
+pela existência da região plástica no diagrama tensão versus
+deformação.
+Il Materiais frágeis são aqueles nos quais ocorre fratura após
+qualquer deformação plástica apreciável.
+II A situação (ii) exemplifica um caso típico de ocorrência de
+material dútil, com o diagrama tensão versus deformação
+evidenciando as fases elástica e plástica.
+IV Fraturas frágeis ocorrem tipicamente em materiais como ferro
+fundido, vidro e concreto.
+Estão certos apenas os itens
+lell.
+lei,
+Nell,
+Ielv.
+Meilv.
+cocoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

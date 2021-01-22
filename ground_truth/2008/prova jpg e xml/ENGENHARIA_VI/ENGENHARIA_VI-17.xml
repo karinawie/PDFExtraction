@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:42:20</Created>
+	<LastChange>2020-10-25T19:57:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="868,242 868,617 1551,617 1551,242"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="842,620 842,1031 1534,1031 1534,620"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="140,260 140,802 785,802 785,260"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="817,191 817,2140 825,2140 825,191"/></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="104,207 294,207 294,775 808,775 808,1614 457,1614 457,1777 212,1777 212,1920 219,1920 219,1979 227,1979 227,2039 230,2039 230,2099 238,2099 238,2119 104,2119 104,1860 105,1860 105,1233 103,1233 103,775 104,775"/>
+	<TextEquiv conf="0.93310">
+	<Unicode>QUESTÃO 29
+X-N(u;o)
+Uma empresa produz eixos de motor, todos com a mesma
+especificação, utilizando dois processos diferentes de
+usinagem, A e B. O valor nominal (VN), a tolerância
+especificada com os limites superior (LSE) e inferior (LIE)
+e as curvas de processo de usinagem do diâmetro dos
+eixos (X) de um lote estatisticamente significativo são
+mostrados na figura acima. A partir dessas informações e
+das curvas apresentadas na figura, é correto afirmar que
+| ambos os processos estão sob variações de causas
+aleatórias.
+Il ambosos processos atendem àtolerância especificada.
+Ill amédia de cada processo está adequada em ambos os
+casos, considerando-se o valor nominal (VN).
+IV o número de eixos fora de especificação, em ambos os
+Casos, é elevado.
+Estão certos apenas os itens
+lell.
+o
+lei.
+o
+e llell.
+O llelv.
+o
+Welv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="848,207 1038,207 1038,1044 1554,1044 1554,1343 1552,1343 1552,1806 1335,1806 1335,2092 848,2092 848,1879 847,1879 847,1044 848,1044"/>
+	<TextEquiv conf="0.96398">
+	<Unicode>QUESTÃO 30
+A figura | mostra a evolução dos componentes de
+custos da qualidade ao longo de um período de 17 meses
+de implantação de um programa de qualidade em uma
+empresa, representados por um gráfico de linhas
+empilhadas. Os custos da qualidade são compostos por
+quatro parcelas: custos de prevenção (CP); custos de
+inspeção (CI); custos de falha interna (FI) e custos de falha
+externa (FE). A figura || apresenta o índice de desempenho
+do custo de qualidade (IDCQ), calculado por:
+IiDca - — CP+Cl
+CP+CI+FI+FE
+Com base apenas nessas figuras, julgue os itens
+seguintes.
+| A faselV indica que o programa de qualidade colocou
+a empresa em um novo patamar de qualidade, com
+custos da qualidade inferiores em relação ao início do
+programa.
+Il A maior redução de FE provocou o maior crescimento
+do IDCQ.
+Ill O aumento do CP na fase |l provocou aumento de FE
+na fase ||.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e |l| estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+cogcgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

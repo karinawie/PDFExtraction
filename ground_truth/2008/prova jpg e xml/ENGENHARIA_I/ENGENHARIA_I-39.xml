@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:30:06</Created>
+	<LastChange>2020-09-23T01:30:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-39.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="580,308 580,840 1514,840 1514,308"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="81,182 486,182 486,219 1573,219 1573,1083 1572,1083 1572,1216 80,1216 80,984 79,984 79,890 80,890 80,183 81,183"/>
+	<TextEquiv conf="0.94274">
+	<Unicode>QUESTÃO 58 - DISCURSIVA
+Para se planejar um trabalho de campo, buscou-se o auxílio do Mapa Índice referente ao mapeamento sistemático brasileiro,
+cujo extrato encontra-se na figura a seguir.
+Considerando o valor do erro gráfico como 0,2 mm na escala da carta, responda às perguntas a seguir.
+a) Paraumerro gráfico correspondente a 24 m no terreno, qual o valor mínimo de escala do mapeamento sistemático em que
+a carta deverá ser solicitada? Apresente seus cálculos. (valor: 2,0 pontos)
+b) Qualo índice de nomenclatura da folha, na escala 1:100.000, que contém o ponto P? (valor: 3,0 pontos)
+c) Quais os números MI das folhas, na escala 1:100.000, enquadradas pelas coordenadas Leste = -56º, Oeste = -57º,
+Norte = -8º, Sul = -9º? (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

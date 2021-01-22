@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:33:36</Created>
+	<LastChange>2020-10-26T12:47:09</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-19.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="105,209 311,209 311,210 516,210 516,335 1193,335 1193,336 1435,336 1435,537 851,537 851,716 1070,716 1070,717 1311,717 1311,718 1552,718 1552,841 346,841 346,840 105,840 105,839 104,839 104,793 103,793 103,792 102,792 102,791 103,791 103,716 104,716 104,618 221,618 221,239 104,239 104,238 105,238"/>
+	<TextEquiv conf="0.96313">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Uma montadora de automóveis produz carros de luxo e esportivos. Um carro é formado de
+várias partes e cada parte pode ser fabricada por diferentes fornecedores. Um gerente ou um
+operador possui permissão para cadastrar partes do carro, desde que ainda inexistentes no
+sistema, e consultar a sua disponibilidade para a fabricação dos carros. Se o estoque dessas partes
+está abaixo do limite mínimo estipulado, o sistema envia um pedido ao respectivo fornecedor.
+Considerando a situação acima, faça o que se pede a seguir.
+A desenhe o diagrama de caso de uso correspondente a situação apresentada. (valor: 5,0 pontos)
+B escolha um caso de uso no diagrama elaborado e descreva-o em termos de ator e fluxo principal. (valor: 2,0 pontos)
+C descreva um tratamento de exceção para cada caso de uso do diagrama elaborado. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

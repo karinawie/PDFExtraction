@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T18:53:09</Created>
+	<LastChange>2021-01-19T15:07:07</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-15.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="81,182 81,183 275,183 275,221 803,221 803,496 805,496 805,552 804,552 804,613 803,613 803,736 514,736 514,865 548,865 548,919 546,919 546,920 542,920 542,921 536,921 536,922 530,922 530,923 523,923 523,924 475,924 475,923 470,923 470,922 465,922 465,921 459,921 459,920 454,920 454,919 449,919 449,918 443,918 443,917 437,917 437,916 433,916 433,915 430,915 430,914 426,914 426,913 423,913 423,912 420,912 420,911 416,911 416,910 411,910 411,909 403,909 403,908 395,908 395,907 389,907 389,906 385,906 385,905 381,905 381,904 376,904 376,903 372,903 372,902 368,902 368,901 136,901 136,900 128,900 128,891 81,891 81,890 82,890 82,736 80,736 80,649 81,649 81,247 80,247 80,221 81,221"/>
+	<TextEquiv conf="0.96617">
+	<Unicode>QUESTÃO 32
+A seguir são apresentados alguns impactos da nova norma
+regulamentadora NR10 em atividades e tecnologias no
+contexto da automação industrial.
+* Estende a regulamentação às atividades realizadas nas
+proximidades de instalações elétricas.
+* Estabelece diretrizes básicas para implementação das
+medidas de controle e sistemas preventivos ao risco elétrico.
+* Cria “prontuário das instalações elétricas” de forma a
+organizar todos os documentos das instalações e registros.
+* Estabelece o relatório técnico das inspeções de conformi-
+dade das instalações elétricas.
+Adaptado da nova norma regulamentadora NR 10 — Segurança em
+Serviços e Instalações Elétricas.
+Analisando-se os impactos apresentados, verifica-se que, no
+contexto da automação industrial, os serviços mais afetados
+pela NR-10 foram:
+(A) combate a incêndio e hospitalar.
+(B) instalações e projetos elétricos.
+(C) logística e usinagem.
+(D) montagem e produção.
+(E) operação e manutenção mecânica.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="1000,454 1000,617 1400,617 1400,454"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="274,1160 274,1720 1380,1720 1380,1160"/></TableRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="851,184 852,184 852,185 1045,185 1045,227 1573,227 1573,899 851,899"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 33
+Para o ajuste de uma peça de certo equipamento é necessário
+utilizar um instrumento que tenha resolução menor ou igual a
+1/16 de polegada. No laboratório de metrologia de uma
+empresa, encontrou-se disponível um instrumento com
+certificado de calibração em período de validade, que tem a
+seguinte escala:
+Chegou-se à conclusão de que ele poderá ser usado, pois a
+resolução da escala do instrumento, em polegadas, é
+(A) 1/8
+(B) 1/16
+(C) 1/32
+(D) 1/64
+(E) 1/128</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="233,901 312,901 312,902 320,902 320,903 367,903 367,904 371,904 371,905 375,905 375,906 380,906 380,907 384,907 384,908 388,908 388,909 394,909 394,910 402,910 402,911 410,911 410,912 415,912 415,913 419,913 419,914 422,914 422,915 425,915 425,916 429,916 429,917 432,917 432,918 436,918 436,919 442,919 442,920 448,920 448,921 548,921 548,980 1574,980 1574,1158 1573,1158 1573,2057 1445,2057 1445,2148 1444,2148 1444,2149 710,2149 710,2150 396,2150 396,2149 81,2149 81,2148 80,2148 80,1883 79,1883 79,1833 78,1833 78,980 80,980 80,916 128,916 128,902 233,902"/>
+	<TextEquiv conf="0.96533">
+	<Unicode>QUESTÃO 34
+Motivadas por questões econômicas e ambientais, muitas empresas têm procurado melhorar seus processos utilizando
+novas tecnologias e metodologias. A empresa X analisa a viabilidade de substituir máquinas CNC convencionais por
+máquinas com controle inteligente (ICNC), de forma a aumentar a velocidade de produção e a vida útil de ferramentas.
+Pretende também diminuir o custo de manutenção, diminuindo a quantidade de intervenções do operador, além de facilitar o
+trabalho de programação. Considere o estudo detalhado, para 3 tipos de processos e 3 tipos de materiais, que foi realizado
+para comparação e análise de redução de tempos de processamento de peças, mostrado na tabela a seguir.
+Adicionalmente, a empresa analisa o possível impacto do repasse dos custos da energia elétrica das fundições de alumínio
+em seu suprimento desta matéria-prima. Em termos econômicos, o efeito do aumento no custo da matéria-prima alumínio
+inviabilizará sua utilização pela empresa.
+Com base nas informações apresentadas, analise as afirmações a seguir.
+| - O processo do Tipo 3 é o mais demorado de todos, independente da matéria-prima e do tipo de máquina utilizada.
+ll - Considerando somente os tempos de produção, caso haja repasse dos custos do alumínio, a empresa deverá priorizar o
+processamento da matéria-prima aço.
+Ill - Sob todas as condições apresentadas, a máquina ICNC tem melhor performance do que a CNC convencional,
+principalmente utilizando a matéria-prima titânio.
+É(São) correta(s) APENAS a(s) afirmação(ões)
+(A) | (B) 1 (C) el! OD) le (E) em</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="828,180 828,908 831,908 831,180"/></SeparatorRegion></Page></PcGts>

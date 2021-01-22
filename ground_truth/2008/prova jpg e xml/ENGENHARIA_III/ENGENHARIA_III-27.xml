@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:03:55</Created>
+	<LastChange>2020-10-25T18:09:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-27.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="608,1120 608,1388 1065,1388 1065,1120"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,187 1573,187 1573,1080 79,1080 79,987 80,987"/>
+	<TextEquiv conf="0.90439">
+	<Unicode>c) Com relação à ferramenta de corte, o operador da máquina tem as seguintes opções de escolha: metal duro da classe
+P10, aço-rápido M32, cerâmica mista (AI,O, + TiC), metal duro da classe K40, cermet. Relacione estes materiais de
+ferramentas de corte em ordem decrescente de tenacidade. (valor: 3,0 pontos)
+d) Após a usinagem, o operador conferiu a medida do diâmetro do eixo usinado em 5 posições diferentes ao longo do
+comprimento e apresentou os valores listados na tabela. Observa-se que uma das leituras foi muito diferente das demais.
+Explique o que pode ter acontecido e determine o diâmetro médio desse eixo. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

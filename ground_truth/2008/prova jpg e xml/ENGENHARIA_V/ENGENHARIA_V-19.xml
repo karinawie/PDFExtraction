@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:00:22</Created>
+	<LastChange>2020-10-25T19:30:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-19.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="101,222 514,222 514,313 826,313 826,312 1448,312 1448,313 1449,313 1449,536 1451,536 1451,671 1449,671 1449,888 1274,888 1274,1020 101,1020 101,950 204,950 204,519 203,519 203,251 101,251"/>
+	<TextEquiv conf="0.94032">
+	<Unicode>QUESTÃO 35 — DISCURSIVA
+No projeto de fabricação de uma peça, confeccionada a partir de chapa metálica, foi verificada
+a necessidade se fazerem dois entalhes, como mostrado na figura |. Esses entalhes permitem a
+passagem de pinos que atuam como guias de posicionamento e ajuste da peça na sua montagem
+final. Quando em operação, essa peça será submetida a cargas que resultam em tensões de tração
+(cíclicas), com a direção indicada esquematicamente na figura |. As análises das tensões na peça, sem
+os entalhes, indicaram valores de tensão máxima de 114 MPa.
+Com a presença dos entalhes ocorre alteração no campo de tensões à frente deles, e o valor
+da tensão de tração máxima na região adjacente à ponta do entalhe, perpendicular ao plano desse
+entalhe, pode ser calculado utilizando-se o fator de concentração de tensões (K,), de acordo com as
+curvas da figura |l.
+Na figura Ill é apresentada a curva de resistência à fadiga do material utilizado na confecção
+da peça, nas mesmas condições ambientais e de temperatura nas quais o material será utilizado.
+Nessa figura, a tensão de tração (cíclica) que atua na peça é máxima e N representa o número
+de ciclos para a fratura associado a essa tensão máxima. O material possui limite de escoamento
+de 750 MPa e limite de resistência de 850 MPa, e a peça possui dimensões h = 80cm, b = 64cm,
+r= l6cm.
+Com base nessas informações e nas figuras apresentadas abaixo, faça o que se pede a seguir.
++ 38</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="242,1011 242,1400 760,1400 760,1011"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="811,991 811,1480 1342,1480 1342,991"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="502,1494 502,1997 1171,1997 1171,1494"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:58:51</Created>
+	<LastChange>2020-10-25T19:24:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-26.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="903,225 904,2131 907,2131 906,225"/></SeparatorRegion>
+	<ImageRegion id="r8">
+	<Coords points="922,1114 922,1302 1185,1302 1185,1114"/></ImageRegion>
+	<ImageRegion id="r13">
+	<Coords points="926,1311 926,1499 1189,1499 1189,1311"/></ImageRegion>
+	<ImageRegion id="r14">
+	<Coords points="920,1537 920,1722 1234,1722 1234,1537"/></ImageRegion>
+	<ImageRegion id="r15">
+	<Coords points="922,1748 922,1951 1225,1951 1225,1748"/></ImageRegion>
+	<ImageRegion id="r16">
+	<Coords points="914,1968 914,2160 1405,2160 1405,1968"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="926,236 1483,236 1483,365 1549,365 1549,366 1550,366 1550,977 1515,977 1515,1051 927,1051 927,977 926,977"/>
+	<TextEquiv conf="0.96125">
+	<Unicode>lentamente, cuja estrutura final é ferrítica.
+QUESTÃO 46
+Estruturas cerâmicas de alumina e compostos
+poliméricos de polimetilmetacrilato (PMMA) são dois
+novos materiais, recentemente desenvolvidos, para
+a confecção de ossos artificiais. A novidade é a
+estrutura superficial porosa e a presença de
+substâncias que lhes conferem atividade biológica.
+O que os pesquisadores fizeram foi modificar as
+propriedades da cerâmica de alumina e do PMMA.
+Na construção de uma prótese por polimerização de
+PMMA, ocorre a repetição do mero descrito por</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="101,232 291,232 291,282 886,282 886,283 887,283 887,866 886,866 886,2126 102,2126 102,1855 101,1855 101,1306 102,1306 102,1030 101,1030 101,866 100,866 100,282 101,282"/>
+	<TextEquiv conf="0.96670">
+	<Unicode>QUESTÃO 45
+Em um laboratório de processamento termomecânico
+foram realizadas as seguintes experiências associadas à
+transformação de aços. Duas amostras de uma mesma chapa de
+aço (baixo teor de carbono) foram submetidas a um mesmo
+processo de austenitização (temperatura e tempo iguais de
+austenitização; mesmo tamanho de grão austenítico) e l aminadas
+sob um mesmo esquema de passes. Essas amostras, no entanto,
+ao serem retiradas do laminador, foram resfriadas de maneira
+distintas. Uma delas foi submetida a uma rota de resfriamento
+lento, resultando numa microestrutura predominantemente
+ferrítica, e a outra sofreu resfriamento rápido. Neste caso, o que
+se obteve foi microestrutura martensítica. A identificação das
+microestruturas foi realizada por microscopia ótica. Ensaios de
+tração realizados com esses materiais revelaram valores de limite
+de escoamento muito baixos para o aço ferrítico, em comparação
+com aço martensítico. Assinale a opção que contém explicações
+corretas quanto às diferenças do limite de escoamento
+observadas entre esses aços.
+O A transformação da austenita em martensita envolve
+deformação plástica, o que corresponde a um encruamento
+do material. Esse encruamento explica integralmente o
+aumento da resistência da martensita em relação à ferrita.
+O A transformação de austenita (CFC) para martensita (TCC)
+ocorre sem difusão de C. A grande quantidade de C em
+solução sólida (ocupando os interstícios da martensita),
+juntamente com grande densidade de discordâncias da
+martensita (formada na transformação CFC -TCC), dificulta
+a movimentação das discordâncias na martensita, o que
+explica o aumento do limite de escoamento associado a essa
+microestrutura.
+O Para formar ferrita, em que a solubilidade máxima de C é da
+ordem de 0,022% (% peso), é necessário que ocorra a
+difusão de C para os contornos de grão da ferrita (a difusão
+ocorre devido à baixa velocidade de resfriamento). Os átomos
+de carbono segregados nos contornos de grão não
+contribuem para a resistência mecânica, o que explica o baixo
+valor do limite de escoamento do aço ferrítico, em
+comparação com o do aço martensítico.
+O Para ocorrer a transformação martensítica, é necessário
+haver formação de Fe,zC durante o resfriamento rápido. Essa
+rede de precipitados finos e dispersos na matriz (precipitação
+na martensita) impede a movimentação de discordâncias,
+aumentando o limite de escoamento. Nos aços ferríticos, o C
+em solução sólida forma carbetos de maior tamanho, que não
+são eficazes para impedir a movimentação das discordâncias,
+o que explica a queda no limite de escoamento dos aços
+ferríticos.
+O Por se tratar de um aço de baixo carbono, uma certa fração
+de austenita é retida junto com a martensita (a fase austenita
+não é visível nas análises por microscopia ótica). A austenita
+apresenta valor de dureza muito elevado, pois essa fase
+mantém maior quantidade de carbono em solução sólida.
+Portanto, a amostra resfriada mais rapidamente, devido à
+presença da austenita retida, apresentará um valor de dureza
+bem mais elevado que a da amostra resfriada mais</Unicode></TextEquiv></TextRegion></Page></PcGts>

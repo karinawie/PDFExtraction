@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:31:16</Created>
+	<LastChange>2020-10-25T20:40:37</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-32.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="431,562 431,1022 1217,1022 1217,562"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="1137,1774 1137,1962 1548,1962 1548,1774"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,202 294,202 294,269 1553,269 1553,487 1106,487 1106,1145 1257,1145 1257,1193 1553,1193 1553,1363 1520,1363 1520,1645 102,1645 102,1433 103,1433 103,269 104,269"/>
+	<TextEquiv conf="0.96235">
+	<Unicode>QUESTÃO 56
+Para fins de construção de barragem para aqúuicultura, após o levantamento planialtimétrico, investigações
+geológicas e levantamento das condições hidrológicas da bacia, a etapa seguinte, para o estabelecimento do projeto,
+consiste nos cálculos de remoção de terra para o nivelamento do piso em função da declividade a ser estabelecida e na
+elaboração do memorial descritivo de seus itens constitutivos, quais sejam, a necessidade de renovação de água, o
+dimensionamento do extravasor (vertedouro ou sangrador), altura da coluna da água, área da bacia hidrológica, superfície
+do lago e volume de acumulação, entre outros.
+A partir das informações do texto e da figura acima, julgue os itens subsequentes.
+| A melhor localização para a construção da barragem está assinalada na figura pela letra B.
+Il Considerando-se o perfil do terreno mostrado na figura, caso a barragem seja construída no local ideal, sua altura
+máxima será de 2 metros.
+Ill Todo o material vegetal, como raízes, galhos e troncos de árvores, deve ser deixado na área inundada, para fertilizar
+o solo e assim aumentar a produtividade primária.
+IV Para o estudo da fundação, é necessário, principalmente em solos rasos, localizar a rocha-mãe.
+V A necessidade de renovação da água refere-se principalmente aos aspectos de oxigenação desse ambiente.
+Estão certos apenas os itens
+O lel. O lell. e lelv. O ev. O IVev.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="104,1717 294,1717 294,1784 1411,1784 1411,1934 1417,1934 1417,1965 929,1965 929,2084 1504,2084 1504,2105 104,2105 104,1967 103,1967 103,1936 104,1936"/>
+	<TextEquiv conf="0.96550">
+	<Unicode>QUESTÃO 57
+Os dados da tabela ao lado são registros da produção de uma frota pesqueira
+Para que seja feita uma análise mais adequada dessa frota, é necessário determinar
+a produtividade por meio do índice de captura por unidade de esforço de pesca
+(CPUE). Nessa situação, os maiores CPUEs ocorreram nos barcos
+O BleB2. O B2eB3. O B1leB3. O B2eB4. O BieB4.</Unicode></TextEquiv></TextRegion></Page></PcGts>

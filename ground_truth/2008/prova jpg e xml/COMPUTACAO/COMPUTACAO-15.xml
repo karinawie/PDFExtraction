@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:21:38</Created>
+	<LastChange>2021-01-18T19:13:59</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-15.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="913,207 913,2099 915,2099 915,207"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="962,868 962,1145 1542,1145 1542,868"/></ImageRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="935,215 1125,215 1125,259 1552,259 1552,712 1459,712 1459,767 1368,767 1368,712 1261,712 1261,795 935,795 935,712 934,712 934,259 935,259"/>
+	<TextEquiv conf="0.96434">
+	<Unicode>QUESTÃO 37
+Considere que a correlação linear entre o
+número de erros de código de programação (Y)e o
+respectivo tamanho de um programa (X), em
+número de linhas de código, seja igual a 0,7.
+A variável aleatória Y segue uma distribuição
+Normal com média e desvio padrão iguais a 0,1 erro
+de código, enquanto que a variável X segue uma
+distribuição Normal com média 15 e desvio padrão
+5 linhas de código. A reta de regressão linear é uma
+esperança condicional na forma E(Y|)X = x) =
+ax — 0,11, em que x &gt; 10 é um dado valor para o
+tamanho do programa e a é o coeficiente angular da
+reta de regressão. Nessa situação, para um
+programa cujo tamanho é x = 20, pela reta de
+regressão linear, qual é o número esperado de
+erros de código de programação?
+O 0,10 O 0,12
+O 0,20 O 0,22
+o 0,17</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="935,1151 1552,1151 1552,1263 1232,1263 1232,1477 935,1477"/>
+	<TextEquiv conf="0.89907">
+	<Unicode>QUESTÃO 38
+No circuito acima, que possui cinco entradas — A,
+B, C, De E — e uma saída f (A, B, C, D, E), qual
+opção apresenta uma expressão lógica equivalente
+à função f (A, B, C, D, E)?
+A.B+C.D+D.E
+(A+B).(C+D)+D.E
+A.B+C.D+D+E
+A.B+C.D+D+E
+AB+C.D+D.E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords points="101,1290 291,1290 291,1334 895,1334 895,1448 896,1448 896,1952 793,1952 793,2069 562,2069 562,2098 417,2098 417,2014 254,2014 254,2097 142,2097 142,2094 101,2094 101,2045 102,2045 102,1988 141,1988 141,1872 140,1872 140,1789 141,1789 141,1582 140,1582 140,1417 101,1417"/>
+	<TextEquiv conf="0.96506">
+	<Unicode>QUESTÃO 36
+Redes locais sem fio que utilizam tecnologia IEEE 802.11,
+comumente referenciada como Wi-Fi, estão se tornando cada vez
+mais populares. Julgue os itens abaixo, relativos a essa tecnologia.
+I Computadores em redes IEEE 802.11 podem-se comunicar por
+dois modos básicos: usando uma infra-estrutura coordenada
+por pontos de acesso à rede (access points — AP), ou no modo
+ad hoc, em que cada computador troca informações
+diretamente com os demais.
+II Para poder transmitir por meio de um ponto de acesso, uma
+interface de rede deve realizar um procedimento de
+associação, que inclui o conhecimento de um campo
+identificador (service set identifier — SSI).
+III Um mecanismo de detecção de colisão durante a transmissão
+indica a necessidade de retransmissão e evita o envio de
+mensagens de confirmação.
+IV Um mecanismo de requisição para transmissão (request to
+send — RTS) e de liberação para transmissão (clear to send —
+CTS) pode ser usado para evitar colisões.
+V O protocolo WEP (wired equivalent privacy) impede que
+interfaces não-autorizadas recebam sinais propagados pelo
+meio.
+Estão certos apenas os itens
+A I, II e IV. B I, III e V. C I, IV e V.
+D II, III e IV. E II, III e V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="101,215 291,215 291,259 896,259 896,1260 151,1260 151,507 101,507"/>
+	<TextEquiv conf="0.96430">
+	<Unicode>QUESTÃO 35
+Uma arquitetura de rede é usualmente organizada em um conjunto
+de camadas e protocolos com o propósito de estruturar o hardware
+e o software de comunicação. Como exemplos, têm-se as
+arquiteturas OSI| e TCP/IP. A arquitetura TCP/IP, adotada na
+Internet, é um exemplo concreto de tecnologia de interconexão de
+redes e sistemas heterogêneos usada em escala global. Com
+relação à arquitetura TCP/IP, assinale a opção correta.
+A camada de interface de rede, também denominada intra-
+rede, adota o conceito de portas para identificar os dispositivos
+da rede física. Cada porta é associada à interface de rede do
+dispositivo e os quadros enviados transportam o número das
+portas para identificar os dispositivos de origem e de destino.
+A camada de rede, também denominada inter-rede, adota
+endereços IP para identificar as redes e seus dispositivos.
+Para interconectar redes físicas que adotam diferentes
+tamanhos máximos de quadros, a camada de rede adota os
+conceitos de fragmentação e remontagem de datagramas.
+A camada de transporte é responsável pelo processo de
+roteamento de datagramas. Nesse processo, a camada de
+transporte deve selecionar os caminhos ou rotas que os
+datagramas devem seguir entre os dispositivos de origem e
+de destino, passando assim através das várias redes
+interconectadas.
+A camada de aplicação é composta por um conjunto de
+protocolos, que são implementados pelos processos
+executados nos dispositivos. Cada protocolo de aplicação
+deve especificar a interface gráfica ou textual oferecida pelo
+respectivo processo para permitir a interação com os usuários
+da aplicação.
+A arquitetura TCP/IP é uma implementação concreta da
+arquitetura conceitual OSI. Portanto, a arquitetura TCP/IP é
+também estruturada em 7 camadas, que são as camadas:
+física, de enlace, de rede, de transporte, de sessão, de
+apresentação e de aplicação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

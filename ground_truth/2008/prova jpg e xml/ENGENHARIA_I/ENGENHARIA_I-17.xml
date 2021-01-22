@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:44:17</Created>
+	<LastChange>2020-09-23T01:44:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r10">
+	<Coords points="839,1339 840,1729 1579,1728 1578,1338"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="460,260 460,860 1177,860 1177,260"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,183 1049,183 1049,891 1304,891 1304,1219 80,1219"/>
+	<TextEquiv conf="0.96014">
+	<Unicode>QUESTÃO 25
+Considere um ciclo petrogênico e os processos representados na figura a seguir.
+Qual é a sequência que representa o produto dos processos descritos neste ciclo petrogênico?
+1 2 3 4 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,1284 273,1284 273,1338 803,1338 803,1885 1472,1885 1472,1918 1574,1918 1574,2038 1436,2038 1436,2142 1077,2142 1077,2143 80,2143 80,2117 81,2117 81,1860 80,1860 80,1794 79,1794 79,1338 80,1338"/>
+	<TextEquiv conf="0.96689">
+	<Unicode>QUESTÃO 26
+Para a obtenção do desnível entre dois pontos por nivelamento
+geométrico, utiliza-se um equipamento conhecido como
+nível. Coloca-se uma “régua graduada” chamada mira em
+um ponto P, de altitude conhecida, e faz-se a visada a este
+por meio do nível N (visada à ré), efetuando-se a leitura L,.
+Faz-se, então, a visada da mira no ponto P, cuja altitude se
+deseja determinar, fazendo nova medição L, (visada à vante)
+e obtém-se o desnível AH desse lance, conforme ilustrado
+na figura. Repete-se o procedimento, transportando as
+altitudes pela medição dos desníveis até concluir-se a
+linha de nivelamento. Nesse transporte de altitudes, os
+desníveis podem sofrer o erro de índice da mira, ou seja, o
+valor inicial da graduação em cada mira pode apresentar
+uma pequena diferença entre elas.
+Para precaver-se desse erro, podem ser empregados os
+seguintes procedimentos:
+| — executar o levantamento da linha usando-se duas miras: sempre uma mesma mira à ré e outra sempre à vante;
+Il — iniciar sempre alinha de nivelamento com uma das miras e terminar com a outra, sem preocupação com a ordem em que
+as duas miras são empregadas;
+Ill — alternar o uso das miras ao longo da linha de nivelamento e ocupar um número de pontos, de tal modo que a mira que
+iniciou a linha também a termine.
+É (São) correta(s) APENAS a(s) afirmativa(s)
+(A) | (B) Il (C) (D)lell (E)lelll</Unicode></TextEquiv></TextRegion></Page></PcGts>

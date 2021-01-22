@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T15:34:20</Created>
+	<LastChange>2021-01-19T15:00:30</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="929,207 929,2128 931,2128 931,207"/></SeparatorRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="951,1114 1141,1114 1141,1158 1553,1158 1553,1506 1552,1506 1552,1756 1550,1756 1550,1880 1552,1880 1552,2122 952,2122 952,2011 951,2011 951,1880 952,1880 952,1756 951,1756"/>
+	<TextEquiv conf="0.96530">
+	<Unicode>QUESTÃO 33
+Após atuar como programador em uma
+empresa de desenvolvimento de software por
+aproximadamente 10 anos, um funcionário que se
+destacou por nunca atrasar um cronograma foi
+nomeado gerente de projetos. Ao assumir o
+primeiro projeto, o funcionário foi informado que
+sua principal responsabilidade era a realização da
+entrega conforme o cronograma estabelecido no
+contrato. Para o gerenciamento de tempo, o
+gerente de projetos irá utilizar o PMBOK.
+Considerando essa situação, é correto afirmar que
+o gerente de projetos deverá coordenar processos
+de
+A planejamento, garantia e controle da
+qualidade.
+B definição e seqüenciamento de atividades,
+estimativa de recursos e duração da atividade,
+desenvolvimento e controle do cronograma.
+C planejamento, definição, verificação e controle
+do escopo.
+D estimativa de custos, realização do orçamento
+e controle de custos.
+E planejamento de compra e contratações,
+seleção de fornecedores e encerramento do
+contrato</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="951,215 1141,215 1141,271 1550,271 1550,378 1552,378 1552,762 1304,762 1304,833 1078,833 1078,1062 951,1062 951,879 952,879 952,333 949,333 949,271 951,271"/>
+	<TextEquiv conf="0.96258">
+	<Unicode>QUESTÃO 32
+Com relação a conceitos de orientação a objetos,
+julgue os seguintes itens.
+| As variáveis ou métodos declarados com
+modificador de acesso private só são
+acessíveis a métodos da classe em que são
+declarados.
+Il Uma classe deve possuir
+declaração de método construtor.
+Ill Uma instância de uma classe abstrata herda
+atributos e métodos de sua superclasse direta.
+IV O polimorfismo permite substituir a lógica
+condicional múltipla (lógica switch ou faça
+caso).
+uma única
+Estão certos apenas os itens
+lell.
+le.
+lelv.
+Nell.
+Ielv.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,267 425,267 425,266 755,266 755,267 905,267 905,286 755,286 755,404 771,404 771,422 620,422 620,536 801,536 801,601 912,601 912,1172 104,1172 104,725 103,725 103,601 104,601 104,477 103,477 103,267 104,267"/>
+	<TextEquiv conf="0.96438">
+	<Unicode>QUESTÃO 30
+CREATE TABLE JOGADOR
+NOME VARCHAR (25)
+SENHA VARCHAR (6)
+PRIMARY KEY
+(PSEUDONIMO VARCHAR (10)
+NOT NULL,
+NOT NULL,
+(PSEUDONIMO) ) ;
+NOT NULL,
+CREATE TABLE NIVEL (NIVEL NUMERIC (3)
+NOMEPSEUD VARCHAR (10) NOT NULL,
+PONTOS NUMERIC(5) NOT NULL,
+BONUS NUMERIC(5) NOT NULL,
+PRIMARY KEY (NIVEL, NOMEPSEUD),
+FOREING KEY (NOMEPSEUD) REFERENCES PSEUDONIMO);
+NOT NULL,
+A partir do script SQL de criação de um banco de dados acima,
+assinale a opção que apresenta comando SQL que permite obter
+uma lista em ordem decrescente de quantidade de bônus e que
+contenha somente o pseudônimo do jogador e seu bônus.
+O SELECT NOME BONUS,
+NIVEL .BONUS DESC
+O sELECT * FROM
+JOGADOR. PSEUDONIMO =
+NIVEL .BONUS DESC
+O SELECT NOME, BONUS
+JOGADOR.PSEUDONIMO =
+NIVEL .BONUS DESC
+O SELECT NOME, PONTOS FROM JOGADOR,
+JOGADOR. PSEUDONIMO =NIVEL.NOMEPSEUD
+NIVEL .BONUS DESC
+O SELECT DISTINCT NOME, PONTOS FROM JOGADOR, NIVEL
+WHERE JOGADOR.PSEUDONIMO = NIVEL.NOMEJOGADOR ORDER
+BY NIVEL.BONUS DESC
+FROM JOGADOR, NIVEL ORDER BY
+JOGADOR, NIVEL
+NIVEL .NOMEPSEUD
+WHERE
+ORDER BY
+FROM JOGADOR,
+NIVEL .NOMEPSEUD
+NIVEL WHERE
+ORDER BY
+NIVEL WHERE
+ORDEY BY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="104,1216 290,1216 290,1257 911,1257 911,1550 912,1550 912,2109 104,2109 104,1512 103,1512 103,1257 104,1257"/>
+	<TextEquiv conf="0.96561">
+	<Unicode>QUESTÃO 31
+O plano de negócios, mais do que um documento de elaboração
+das ações de implementação de um novo empreendimento, serve
+como documento que estabelece o relacionamento entre
+empreendedores e investidores. O conhecimento de características
+dos atores envolvidos nessa relação interfere diretamente na
+elaboração do plano de negócios. Considerando os papéis do
+empreendedor, do investidor e de conceitos de fatores envolvidos
+na elaboração do plano de negócios, assinale a opção correta.
+O O verdadeiro empreendedor cria um negócio diante de uma
+oportunidade e procura, o mais breve possível, vendê-lo para
+um grupo de investidores.
+O Investidores inteligentes consideram, ao analisar onde investir,
+que projeções financeiras mês a mês para um período maior
+que um ano constituem um dos fatores que garante o sucesso
+de um novo empreendimento.
+O Oempreendedor é uma pessoa à procura de riscos, que diante
+de uma nova oportunidade de empreendimento transfere todos
+OS riscos para si.
+O As pessoas, as oportunidades, o contexto e as possibilidades
+de riscos e recompensas são quatro fatores fundamentais, que
+devem ser considerados para o sucesso de um novo
+empreendimento.
+O Um plano de negócios deve ser criado seguindo uma fórmula
+de sucesso preestabelecida apresentada em livros da área
+administração e implementada em aplicativos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

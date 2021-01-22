@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:34:04</Created>
+	<LastChange>2020-10-25T20:48:49</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="431,1000 431,1414 1225,1414 1225,1000"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,202 294,202 294,257 1552,257 1552,411 1553,411 1553,750 829,750 829,751 105,751 105,752 104,752 104,361 103,361 103,257 104,257"/>
+	<TextEquiv conf="0.94578">
+	<Unicode>QUESTÃO 32
+A escolha correta de uma bomba depende basicamente de dois parâmetros principais: a vazão a ser recalcada e a altura
+manométrica. No grupo das turbo-bombas ou bombas hidrodinâmicas, é possível distinguir três tipos de bombas: radiais
+ou centrífugas, axiais e mistas. Com relação a esse assunto, assinale a opção correta.
+O As bombas axiais devem ser usadas preferencialmente em situações em que se deseja pequena vazão e elevada
+altura manométrica.
+O Aalturamanométrica de uma estação elevatória corresponde somente à altura geométrica somada à pressão de
+operação do sistema.
+O Nas bombas axiais, a variação na direção do fluxo de água dentro do rotor corresponde a um ângulo de
+aproximadamente 90º.
+O Emrelação às bombas axiais, as bombas radiais têm como vantagem sua elevada capacidade de vazão.
+O As bombas radiais têm alteração de rendimento relativamente pequena quando se foge do ponto de ótimo
+rendimento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="104,808 294,808 294,864 1552,864 1552,1783 1553,1783 1553,1847 1552,1847 1552,2129 829,2129 829,2130 105,2130 105,2131 104,2131 104,1732 103,1732 103,864 104,864"/>
+	<TextEquiv conf="0.96481">
+	<Unicode>QUESTÃO 33
+Uma suinocultura localizada no estado de Minas Gerais produz água residuária que necessita passar por um
+tratamento antes de sua destinação final. Assim sendo, realizou-se o peneiramento dessa água, a fim de reduzir a carga
+de sólidos. As características da água residuária, antes e após o peneiramento, são apresentadas na tabela a seguir.
+As legislações federal e estadual que dispõem sobre as condições e padrões de efluentes que podem ser lançados
+em corpos d'água são a Resolução CONAMA n.º 357/2005 e a Deliberação Normativa COPAM n.º 010/1986, nas quais
+está estabelecido que o lançamento de efluentes nos corpos d'água somente poderá ser realizado caso o pH esteja entre
+5 e 9; o teor de zinco total seja inferior a 5 mg/L; a concentração de sólidos sedimentáveis seja inferior a 1 mL/L; não
+existam materiais flutuantes; e a DBO do efluente seja inferior a 60 mg/L, ou o sistema de tratamento apresente eficiência
+de 85% na redução da DBO.
+A partir das informações do texto acima, assinale a opção correta.
+O Aáguaresiduária peneirada da suinocultura enquadra-se nos padrões estabelecidos pela legislação para ser lançada
+em um rio, mas não em uma lagoa.
+O Aáguaresiduária bruta da suinocultura enquadra-se nos padrões estabelecidos pela legislação para ser lançada em
+um rio ou em uma lagoa, sem necessidade de peneiramento.
+O Aágua residuária bruta tem potencialidade para ser usada para irrigação, sem causar problemas ambientais.
+O Aáguaresiduária peneirada não se enquadra nos padrões estabelecidos pela legislação para ser lançada em rios,
+mas tem potencialidade para ser usada para irrigação em áreas com lenço! freático profundo.
+O A água residuária peneirada necessita passar novamente por processos de peneiramento, a fim de atingir as
+características necessárias para seu lançamento em corpos d'água.</Unicode></TextEquiv></TextRegion></Page></PcGts>

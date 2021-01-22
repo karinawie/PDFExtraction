@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:30:52</Created>
+	<LastChange>2020-10-25T18:45:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-17.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="245,291 245,631 1405,631 1405,291"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="168,1160 168,1557 1500,1557 1500,1160"/></TableRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="80,187 273,187 273,223 1272,223 1272,266 1015,266 1015,862 1125,862 1125,888 80,888 80,889 79,889 79,670 80,670"/>
+	<TextEquiv conf="0.93020">
+	<Unicode>QUESTÃO 28
+Os dados a seguir referem-se à cinética da reação entre o NO(g) e o O,(g) para produzir NO (g).
+Analisando-se os dados, verifica-se que
+(A) a expressão para a equação da velocidade da reação é: v = k (C, )(CO,).
+(B) a velocidade da reação independe da concentração de oxigênio.
+(C) a temperatura no último experimento é maior que 400 ºC.
+(D) o valor da velocidade específica da reação a 400 ºC é de 1,0 L.mol”*.
+(E) o valor da velocidade específica da reação é o mesmo em todos os experimentos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="80,930 946,930 946,1046 1047,1046 1047,1117 1115,1117 1115,1143 885,1143 885,1643 344,1643 344,1934 338,1934 338,2014 80,2014"/>
+	<TextEquiv conf="0.96602">
+	<Unicode>QUESTÃO 29
+Em um laboratório, foram efetuadas diversas experiências para a reação
+2H,(g) + 2NO(g) &gt; N.(g) + 2H,0(g)
+Os resultados das velocidades iniciais obtidos estão representados na tabela a seguir.
+Com base nesses dados, a equação da velocidade para a reação é
+(A) v=k(Cy,)
+(B) v=Kk(Cyo)
+(€) v =k(Cy, XCno)
+(D) v=K(Cy, (Cro)
+(E) v=Kk(Cy, XCno</Unicode></TextEquiv></TextRegion></Page></PcGts>

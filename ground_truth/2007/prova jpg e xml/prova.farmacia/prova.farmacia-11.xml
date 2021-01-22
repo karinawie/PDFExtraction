@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T00:24:50</Created>
+	<LastChange>2020-09-09T00:24:50</LastChange></Metadata>
+	<Page imageFilename="prova.farmacia-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="167,691 167,1104 763,1104 763,691"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="1008,665 1008,1188 1517,1188 1517,665"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1308,1425 1308,1154 325,1154 325,1425"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,264 273,264 273,309 1574,309 1574,616 1336,616 1336,1580 1573,1580 1573,1722 1435,1722 1435,1800 544,1800 544,1891 234,1891 234,2072 80,2072 80,1529 79,1529 79,309 80,309"/>
+	<TextEquiv conf="0.95942">
+	<Unicode>QUESTÃO 17
+Ácidos cinâmicos hidroxilados, como o ácido 4-cumárico e o ácido ferúlico, são importantes agentes antioxidantes.
+Eles podem ser obtidos por degradação enzimática de ligninas de madeira e o curso do processo pode ser monitorado por
+cromatografia líquida de alta eficiência (CLAE), usando coluna de fase reversa (octadecilsilano) de forma a garantir a qualidade
+dos mesmos. Durante o teste de um novo processo, visando à obtenção seletiva de ácido ferúlico, foi obtido o cromatograma
+1 após algumas horas de reação, e as concentrações correspondentes aos ácidos ferúlico e 4-cumárico calculadas a partir da
+área de cada um dos picos marcados. Em seguida, esta mesma amostra foi co-injetada com uma mistura de padrões destes
+dois ácidos nas concentrações de 0,0625 mM (cromatograma 2).
+Observando os cromatogramas e as estruturas dos ácidos em questão, considere as afirmações abaixo.
+| — O pico majoritário, de maior tempo de retenção, corresponde ao ácido ferúlico, devido à sua maior interação com a fase
+estacionária.
+ll — A formação de ligação hidrogênio intramolecular leva a uma diminuição da interação do ácido ferúlico com a fase
+estacionária, aumentando seu tempo de retenção.
+Ill — A concentração de ácido 4-cumárico na amostra injetada é de 0,003 mM.
+IV — A co-injeção com padrões é uma técnica que assegura a identidade dos compostos nas análises por CLAE.
+Estão corretas, apenas, as afirmações
+(A) lelll.
+(B) Ile lv.
+(O) LI elv.
+(D) L WelV.
+(E) Il, elV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

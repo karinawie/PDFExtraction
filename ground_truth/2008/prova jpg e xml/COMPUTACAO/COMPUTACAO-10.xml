@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:26:20</Created>
+	<LastChange>2020-11-17T02:30:52</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="653,912 654,2108 657,2108 656,912"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="662,902 1571,902 1571,1117 597,1117 597,1345 1565,1345 1565,1557 597,1557 597,1606 598,1606 598,1965 597,1965 597,2013 595,2013 595,2106 143,2106 143,2107 142,2107 142,977 662,977"/>
+	<TextEquiv conf="0.95119">
+	<Unicode>QUESTÃO 20 – DISCURSIVA
+Tabelas de dispersão (tabelas
+hash) armazenam elementos com
+base no valor absoluto de suas
+chaves e em técnicas de tratamento
+de colisões. As funções de dispersão
+transformam chaves em endereçosbase
+da tabela, ao passo que o
+tratamento de colisões resolve
+conflitos em casos em que mais de
+uma chave é mapeada para um
+mesmo endereço-base da tabela.
+Suponha que uma aplicação
+utilize uma tabela de dispersão com
+23 endereços-base (índices de 0 a 22)
+e empregue h(x) = x mod 23 como
+função de dispersão, em que x
+representa a chave do elemento cujo
+endereço-base deseja-se computar.
+Inicialmente, essa tabela de dispersão
+encontra-se vazia. Em seguida, a
+aplicação solicita uma seqüência de
+inserções de elementos cujas chaves
+aparecem na seguinte ordem: 44, 46,
+49, 70, 27, 71, 90, 97, 95.
+Com relação à aplicação descrita, faça o que se pede a seguir.
+A Escreva, no espaço reservado, o conjunto das chaves envolvidas em
+colisões.
+B Assuma que a tabela de dispersão trate colisões por meio de
+encadeamento exterior. Esboce a tabela de dispersão para mostrar
+seu conteúdo após a seqüência de inserções referida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,209 294,209 294,257 1552,257 1552,549 1553,549 1553,637 740,637 740,739 1389,739 1389,774 1480,774 1480,835 1217,835 1217,870 1012,870 1012,904 155,904 155,905 154,905 154,899 104,899 104,703 103,703 103,257 104,257"/>
+	<TextEquiv conf="0.96083">
+	<Unicode>QUESTÃO 19
+Uma alternativa para o aumento de desempenho de sistemas computacionais é o uso de processadores com múltiplos
+núcleos, chamados multicores. Nesses sistemas, cada núcleo, normalmente, tem as funcionalidades completas de um
+processador, já sendo comuns, atualmente, configurações com 2, 4 ou mais núcleos. Com relação ao uso de
+processadores multicores, e sabendo que threads são estruturas de execução associadas a um processo, que
+compartilham suas áreas de código e dados, mas mantêm contextos independentes, analise as seguintes asserções.
+Ao dividirem suas atividades em múltiplas threads que podem ser executadas paralelamente, aplicações podem se
+beneficiar mais efetivamente dos diversos núcleos dos processadores multicores
+porque
+o sistema operacional nos processadores multicores pode alocar os núcleos existentes para executar simultaneamente
+diversas sequências de código, sobrepondo suas execuções e, normalmente, reduzindo o tempo de resposta das
+aplicações às quais estão associadas.
+Acerca dessas asserções, assinale a opção correta.
+As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são proposições falsas.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

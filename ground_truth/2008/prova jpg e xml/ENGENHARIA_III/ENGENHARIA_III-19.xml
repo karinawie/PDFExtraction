@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:56</Created>
+	<LastChange>2020-10-25T18:13:29</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="1331,277 1332,542 1571,542 1570,277"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="265,697 265,1317 1334,1317 1334,697"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="231,1714 231,2160 691,2160 691,1714"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="784,1711 784,2157 1244,2157 1244,1711"/></ImageRegion>
+	<TableRegion id="r5">
+	<Coords points="340,1351 340,1694 1308,1694 1308,1351"/></TableRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="79,183 272,183 272,240 1275,240 1275,409 1277,409 1277,549 1575,549 1575,645 1077,645 1077,646 267,646 267,683 81,683 81,684 80,684 80,646 79,646 79,409 80,409 80,212 79,212"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>QUESTÃO 37
+O componente mostrado na figura é um acelerômetro tri-axial, desenvolvido através da tecnologia dos
+Micro Sistemas Eletro-Mecânicos (sigla em inglês MEMS), que tem tido diversas aplicações nas
+indústrias automotiva, aeronáutica, naval, de telecomunicações (telefonia celular), de entretenimento
+(joy-sticks para video-games), e em biomecânica e robótica, entre outras.
+Como ilustrado a seguir, em uma determinada configuração, os sensores empregados neste transdutor
+de aceleração são piezorresistores montados sobre células de carga e se encontram conectados
+segundo circuitos em ponte de Wheatstone. Quando há um movimento do elemento (veículo, aeroplano,
+telefone, membro de um ser humano ou de um robô, joy-stick) no qual o acelerômetro está instalado, Disponível em: http:/
+há variação nos valores das 4 piezorresistências associadas às três células de carga, o que — Www.oceancontrols.com.au
+sensibiliza as respectivas pontes e, consequentemente, gera a medida correspondente, conforme
+mostra a tabela.</Unicode></TextEquiv></TextRegion></Page></PcGts>

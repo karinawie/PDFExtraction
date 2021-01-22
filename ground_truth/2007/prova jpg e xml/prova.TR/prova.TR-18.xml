@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T14:01:18</Created>
+	<LastChange>2020-10-25T14:10:32</LastChange></Metadata>
+	<Page imageFilename="prova.TR-18.jpg" imageWidth="1614" imageHeight="2167">
+	<TableRegion id="r0">
+	<Coords points="115,421 115,765 1497,765 1497,421"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="60,158 252,158 252,208 1554,208 1554,1934 1555,1934 1555,2069 59,2069 59,1934 61,1934 61,1053 60,1053"/>
+	<TextEquiv conf="0.96685">
+	<Unicode>QUESTÃO 34
+A análise de rejeição de filmes é uma técnica de grande utilidade para a avaliação do desempenho de um departamento
+de radiologia. A tabela abaixo apresenta os resultados da análise de rejeição de um departamento com cinco salas
+radiológicas que foram avaliadas segundo cinco diferentes critérios.
+Considere que todos os equipamentos utilizados possuem controle automático de exposição (AEC), que o número total
+de filmes utilizados neste período foi de 5000 e que em cada sala foi realizado aproximadamente o mesmo número de
+procedimentos radiológicos no período considerado. Observando-se os resultados apresentados na tabela, pode-se
+afirmar que
+(A) as altas taxas de rejeição encontradas na sala 4 indicam que os operadores desta sala necessitam passar por um
+processo de reciclagem.
+(B) a taxa de rejeição desta clínica, superior a 15%, é inaceitavelmente alta quando se utilizam equipamentos com
+AEC.
+(C) apesar de a taxa de rejeição total da clínica ser da ordem de 10% neste período, as taxas de rejeição devido ao
+movimento dos pacientes em todas as salas representa 11% do total rejeitado, o que indica que os equipamentos
+foram utilizados com tempos de exposição muito curtos.
+(D) cerca de 24% dos filmes rejeitados foram obtidos na sala 4 e, desses filmes, cerca de 35% foram rejeitados devido
+a sub-exposições e cerca de 50% devido a super-exposições. Isto indica que há uma suspeita de calibração
+inadequada do AEC do equipamento instalado nesta sala.
+(E) se o objetivo da clínica é atingir taxas de rejeição totais de 5%, todos os equipamentos radiológicos devem ser
+substituídos por equipamentos digitais.
+——————————— ss ss ea sssaRpapcspr----ss..---—
+Enade-Téc. Radiologia-2007</Unicode></TextEquiv></TextRegion></Page></PcGts>

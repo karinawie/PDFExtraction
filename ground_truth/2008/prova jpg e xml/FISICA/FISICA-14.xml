@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:30:01</Created>
+	<LastChange>2021-01-19T14:01:07</LastChange></Metadata>
+	<Page imageFilename="FISICA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="820,171 820,2154 825,2154 825,171"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="54,368 54,600 802,600 802,368"/></ImageRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="79,184 790,184 790,308 486,308 486,643 791,643 791,961 79,961"/>
+	<TextEquiv conf="0.95992">
+	<Unicode>QUESTÃO 24
+Na flauta, o tubo sonoro ressoa notas diferentes, com
+frequências diferentes, de acordo com o número de furos
+fechados pelos dedos do flautista.
+Com os furos todos tampados, é gerada a nota lá, de
+440 Hz. Abrindo alguns furos, de modo a ressoar
+2/3 do tubo, a frequência, em hertz, será
+(A) 145
+(B) 293
+(C) 660
+(D) 880
+(E) 1.000</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,1011 273,1011 273,1059 790,1059 790,1377 703,1377 703,1479 790,1479 790,1655 792,1655 792,1854 661,1854 661,1979 173,1979 173,2120 200,2120 200,2146 80,2146 80,1911 81,1911 81,1419 79,1419 79,1059 80,1059"/>
+	<TextEquiv conf="0.96456">
+	<Unicode>QUESTÃO 25
+Microondas são ondas eletromagnéticas que, quando
+absorvidas pela água, geram calor no interior do alimento
+por aumentar a vibração de suas moléculas. Na porta
+de vidro de um forno de microondas existe uma rede
+metálica de proteção. A rede metálica tem orifícios de
+2 mm de diâmetro. Durante a operação, é possível ver o
+interior do forno. No entanto, o cozinheiro está protegido da
+radiação microondas.
+Aesse respeito, foram feitas as afirmativas a seguir.
+| - Aradiação com comprimento de onda no infravermelho
+próximo (-=v1um) é bloqueada pela grade.
+Il - Alargura dos orifícios é da ordem de grandeza do com-
+primento de onda da luz visível.
+Ill - A rede metálica impede a transmissão das microondas,
+mas não impede a transmissão da radiação visível, por
+causa da diferença entre as frequências.
+IV - O comprimento de onda da radiação microondas é maior
+do que o da luz visível.
+Está(ão) correta(s) APENAS a(s) afirmação(Ões)
+(A) |
+(B) Il
+(C) Il
+(DD) lell
+(E) WelV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="863,1411 1573,1411 1573,1833 1247,1833 1247,1970 1038,1970 1038,2075 1075,2075 1075,2101 1000,2101 1000,2143 872,2143 872,2145 864,2145 864,1531 863,1531"/>
+	<TextEquiv conf="0.96451">
+	<Unicode>QUESTÃO 28
+Em relação à Teoria da Relatividade Restrita, analise as
+afirmações a seguir.
+| - Omódulo da velocidade da luz no vácuo é independente
+das velocidades do observador ou da fonte.
+Il - ATeoria Eletromagnética de Maxwell é compatível com
+a Teoria da Relatividade Restrita.
+Ill - As leis da Física são as mesmas em todos os
+referenciais inerciais.
+Está correto o que se afirma em
+(A) |, apenas.
+(B) Il, apenas.
+(C) Ill, apenas.
+(D) lelll, apenas.
+(E) Ile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="863,777 1056,777 1056,830 1573,830 1573,1030 1574,1030 1574,1206 1552,1206 1552,1295 1347,1295 1347,1328 958,1328 958,1361 864,1361 864,1206 863,1206 863,1006 862,1006 862,830 863,830"/>
+	<TextEquiv conf="0.96499">
+	<Unicode>QUESTÃO 27
+A radiação térmica emitida por estrelas pode ser modelada
+como semelhante à de um corpo negro. A radiância espectral
+do corpo negro é máxima para uma frequência ou compri-
+mento de onda. A Lei de Wien estabelece uma relação entre
+esse comprimento de onda »,, ,, e a temperatura absoluta T
+máx
+do objeto, através de uma constante determinada, experi-
+mentalmente, como igual a 2,9 x 10º m.K. Usando a Lei de
+Wien para a estrela Polar, com 4.,.,= 350 nm, qual a tem-
+peratura absoluta dessa estrela, em milhares de kelvins?
+(A) 1,7 (B) 3,9
+(C) 5,7 (D) 8,3
+(E) 11,0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="863,181 1573,181 1573,562 1525,562 1525,673 1394,673 1394,707 969,707 969,740 864,740 864,612 865,612 865,446 864,446 864,294 863,294"/>
+	<TextEquiv conf="0.93421">
+	<Unicode>QUESTÃO 26
+Sobre o Modelo Atômico de Bôhr, são feitas as seguintes
+afirmações:
+| - oátomo é composto de um núcleo e de uma eletrosfera;
+Il - o momento angular orbital do elétron é um múltiplo
+inteiro de h/2n, onde h é a Constante de Planck;
+Ill - a frequência da radiação eletromagnética emitida pelo
+átomo varia continuamente entre os dois valores corres-
+pondentes às órbitas de maior e menor energia.
+Para Bôhr, é verdadeiro SOMENTE o que se afirma em
+(A) | (B)
+(C) Il (D)lell
+(E) Ile</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:41:26</Created>
+	<LastChange>2020-10-25T19:53:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-21.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r1">
+	<Coords points="428,774 428,1060 1317,1060 1317,774"/></TableRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="104,208 516,208 516,275 1435,275 1435,1112 1436,1112 1436,1555 1552,1555 1552,2119 142,2119 142,2120 141,2120 141,2010 142,2010 142,1576 103,1576 103,1555 104,1555 104,1473 221,1473 221,237 104,237"/>
+	<TextEquiv conf="0.96439">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Um pequeno fabricante de móveis recebeu os pedidos feitos hoje e registrou-os por ordem
+de chegada — de P1 a P5 — conforme indicado na primeira coluna da tabela abaixo. O supervisor
+da produção estimou o tempo de processamento ou duração da tarefa (segunda coluna da tabela)
+para produzir cada pedido. As datas prometidas, em dias corridos a partir de hoje, para entrega
+dos pedidos aos clientes estão na terceira coluna. Por razões como disponibilidade de pessoal,
+espaço físico e preocupação com qualidade, a empresa somente processa um único pedido de cada
+vez.
+Para fazer o programa de trabalho, isto é, a sequência com que os pedidos serão
+processados na oficina, o supervisor da produção verificou o que aconteceria caso ordenasse os
+pedidos aplicando a regra FIFO (first in first out), ou seja, primeiro que chega, primeiro que sai.
+A data calculada para o término do pedido está na quarta coluna da tabela. Os atrasos em relação
+à data prometida estão na última coluna.
+Para avaliar a regra FIFO, o supervisor da produção usou dois indicadores, o atraso total (AT)
+e o tempo médio de processamento (TMP), e constatou que o atraso total será de 30 dias (soma
+dos atrasos individuais). Pedidos como o P5, que poderia ser terminado rapidamente, sofrem
+atraso excessivo. O tempo médio do processamento (soma das datas de término dividido pelo total
+de pedidos) é de 15,4 dias. O supervisor poderia aplicar outras duas regras de priorização: menor
+tempo de processamento (MTP); e menor data de entrega (MDE). Considera-se também que todos
+os pedidos têm valor equivalente e os pagamentos são recebidos nas respectivas datas de término
+dos pedidos.
+Com base nas informações apresentadas acima, faça o que se pede a seguir.
+A
+Preencha a tabela | (sequência de pedidos), na próxima página, para as regras MTP e MDE e preencha a tabela ||
+(cálculo dos indicadores) para as regras MTP e MDE. Para facilitar o cálculo, há duas tabelas em branco.
+Considerando os resultados obtidos, você julga essas duas regras melhores que a FIFO? Justifique, usando os
+indicadores calculados.
+(valor: 6,0 pontos)
+Qual das três regras — MTP, MDE e FIFO — você julga mais adequada para acelerar os recebimentos (fluxo de
+caixa)? Utilize apenas as regras puras (sem adaptações ou modificações). Justifique, usando um dos indicadores
+mencionados (AT ou TMP).
+(valor: 2,0 pontos)
+Considere que haverá multa a cada dia de atraso na entrega do pedido. Para diminuir as multas, qual das três regras
+— FIFO, MTP, MDE — você escolheria? Justifique, usando um dos dois indicadores.
+(valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

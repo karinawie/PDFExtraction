@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:29:48</Created>
+	<LastChange>2020-10-25T21:40:21</LastChange></Metadata>
+	<Page imageFilename="FISICA-15.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,186 269,186 269,229 790,229 790,321 533,321 533,429 790,429 790,555 669,555 669,655 175,655 175,762 186,762 186,789 88,789 88,788 80,788 80,322 79,322 79,229 80,229"/>
+	<TextEquiv conf="0.96367">
+	<Unicode>QUESTÃO 29
+Do ponto de vista da Física Moderna, a respeito do espectro
+de energias do oscilador harmônico, são feitas as seguintes
+afirmações:
+| - oespectro de energia é contínuo;
+ll - o espectro de energia é discreto;
+Ill - em acordo com o Princípio da Correspondência de Bohr,
+para grandes números quânticos a separação de
+energias entre dois níveis consecutivos torna-se
+desprezível quando comparada com estas energias.
+Está(ão) correta(s) APENAS a(s) afirmação(ões)
+(A) |
+(B) 1!
+(C) III
+(D) lell
+(E) Ile</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="820,197 820,2134 825,2134 825,197"/></SeparatorRegion></Page></PcGts>

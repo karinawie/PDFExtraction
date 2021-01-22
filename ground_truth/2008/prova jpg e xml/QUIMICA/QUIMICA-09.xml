@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T01:37:38</Created>
+	<LastChange>2020-10-26T12:29:27</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,174 822,2160 825,2160 825,174"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="848,445 848,1160 1577,1160 1577,445"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="68,654 68,1000 797,1000 797,654"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,316 267,316 267,362 803,362 803,634 79,634 79,362 80,362"/>
+	<TextEquiv conf="0.95815">
+	<Unicode>QUESTÃO 11
+O íon complexo [Co(en),CL,]”, no qual en representa o ligante
+etilenodiamino, possui dois isômeros geométricos (cis/trans)
+e um par de enantiômeros (d ,é). Quando tratado com solu-
+ção diluída de NaOH, o diclorocomplexo sofre hidrólise alca-
+lina, convertendo-se no hidroxocomplexo [Co(en) CI(OH)]*.
+Quantos isômeros geométricos (cis/trans) e quantos pares
+de enantiômeros (d ,0) podem existir para o hidroxocomplexo?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="78,1040 804,1040 804,1275 805,1275 805,1511 801,1511 801,1725 803,1725 803,1794 802,1794 802,1946 801,1946 801,2098 563,2098 563,2099 80,2099 80,1718 79,1718 79,1349 78,1349"/>
+	<TextEquiv conf="0.91152">
+	<Unicode>QUESTÃO 12
+To prepare the Cr (VI) oxoanion, chromite ore, FeCr,O,, which
+contains Fe (11) and Cr (Ill), is dissolved in molten potassium
+hydroxide and oxidized with atmospheric oxygen. In this
+process, the iron and chromium, respectively, are converted
+to FeO, and Cro, so chromium reaches its maximum
+oxidation state (equal to the group number) but iron does not.
+Dissolution in water followed by filtration leads to a solution of
+the two oxoanions. The ions can be separated by taking
+advantage of the greater oxidizing power of Fe (VI) relative to
+that of Cr (VI) in acidic solution. Acidification leads to the
+reduction of FeO 7 and the conversion of Cro, to dichromate
+Cr,0,%; the latter conversionis a simple acid-base reaction,
+and not redox reaction.
+SHRIVER, D.F.; ATKINS, P. Inorganic Chemistry.
+Oxford: Oxford University Press, 1996.
+A partir da interpretação do texto, conclui-se que
+(A) os oxoânions FeO 2 e Cro, podem ser separados por
+filtração.
+(B) o ferro se reduz, quando o cromo atinge seu número de
+oxidação máximo.
+(C) o maior poder oxidante do FeO,? leva à oxidação do
+cromo, em solução ácida.
+(D) uma solução contendo o oxoânion Feo 2 não é estável
+em meio ácido.
+(E) um oxoânion de Cr (VI) é utilizado para preparar a cromita
+por dissolução em KOH e oxidação com ar atmosférico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="851,1384 1045,1384 1045,1423 1573,1423 1573,1714 1334,1714 1334,1715 1140,1715 1140,1884 1573,1884 1573,1944 1295,1944 1295,2044 860,2044 860,2144 852,2144 852,1977 851,1977 851,1884 852,1884 852,1717 850,1717 850,1423 851,1423"/>
+	<TextEquiv conf="0.96448">
+	<Unicode>QUESTÃO 14
+Antibióticos antifúngicos foram produzidos a partir de quatro
+cepas distintas de microrganismos da microbiota brasileira,
+tendo sido isolados derivados que apresentam estruturas con-
+tendo desde macrociclos tetraênicos (ciclos com quatro du-
+plas conjugadas) até macrociclos heptaênicos. Após cultivo
+dos microrganismos em meios de cultura apropriados, proce-
+deu-se à extração com metanol, e os filtrados (FI a FIV) foram
+analisados por espectrometria na região do ultravioleta-visível,
+fornecendo os seguintes máximos de absorção:
+F 1: 291, 304 e 308 nm
+F 11: 340, 358 e 380 nm
+F 111: 317, 331 e 350 nm
+F IV: 363, 382 e 405 nm
+Sabendo-se que cada cepa produz um único tipo de
+macrociclo, a associação entre o filtrado e o tipo de macrociclo
+ocorre na relação:
+(A) FI — tetraênico; FII| — pentaênico.
+(B) FI— heptaênico; FIIl — hexaênico.
+(C) FI — hexaênico; FIV — heptaênico.
+(D) FIl — pentaênico; FIll — hexaênico.
+(E) FIl — tetraênico; FIV — pentaênico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="851,186 1045,186 1045,229 1574,229 1574,420 1567,420 1567,1246 1573,1246 1573,1355 850,1355 850,1246 866,1246 866,423 850,423 850,229 851,229"/>
+	<TextEquiv conf="0.95888">
+	<Unicode>QUESTÃO 13
+Várias espécies atômicas ou moleculares podem ser
+responsáveis pela redução da camada de ozônio na
+estratosfera. A figura abaixo representa a evolução de
+algumas espécies encontradas na estratosfera, acima do
+Ártico, durante o inverno e a primavera, bem como algumas
+das reações que ocorrem nesse sistema.
+BAIRD, C.; CANN, M. Environmental Chemistry.
+New York: W. H. Freeman and Company, 2005. p.44. (com adaptação)
+Qual das espécies abaixo é responsável pela etapa de des-
+truição do O,, segundo o mecanismo apresentado na figura?
+(A) NO (B) CI (C)O (D) CIO (E) CLIO,</Unicode></TextEquiv></TextRegion></Page></PcGts>

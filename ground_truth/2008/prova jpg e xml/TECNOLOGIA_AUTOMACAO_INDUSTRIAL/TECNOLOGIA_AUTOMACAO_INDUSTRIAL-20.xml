@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:52:13</Created>
+	<LastChange>2020-10-26T13:05:59</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-20.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="78,182 327,182 327,183 491,183 491,221 1571,221 1571,278 1502,278 1502,370 1196,370 1196,496 1573,496 1573,584 77,584 77,496 78,496"/>
+	<TextEquiv conf="0.92888">
+	<Unicode>QUESTÃO 39 — DISCURSIVA
+Após inúmeros problemas de parada e manutenção em um sistema antigo de tratamento de efluentes, foi proposto à equipe de
+manutenção que modernize e automatize esse sistema. O sistema é composto por:
+* tanques * motores * chaves fim de curso
+* lânpadas de sinalização * chaves de nível * válvulas solenóide
+* medidores de nível * medidores de pressão * válvulas de controle proporcional
+Nessa automação serão utilizados os seguintes equipamentos:
+* Controlador Lógico Programável (CLP) * terminal de supervisão e controle
+a) A estrutura do sistema de automação é composta por blocos denominados: planta, processamento, entradas, saídas
+e interface homem-máquina (IHM). Com base nessas informações, elabore um diagrama de blocos do sistema a ser
+implantado, denominando cada bloco, e inserindo em cada um os componentes e equipamentos mencionados.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:39:38</Created>
+	<LastChange>2020-10-26T01:02:51</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="800,202 800,2120 805,2120 805,202"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="168,1417 168,1820 745,1820 745,1417"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="104,1264 294,1264 294,1319 787,1319 787,1427 458,1427 458,1969 779,1969 779,1994 762,1994 762,2083 333,2083 333,2121 104,2121 104,1428 103,1428 103,1319 104,1319"/>
+	<TextEquiv conf="0.96806">
+	<Unicode>QUESTÃO 22
+Uma transformação linear 7: Rº - R? faz uma reflexão em
+relação ao eixo horizontal, conforme mostrado na figura a
+seguir.
+Essa transformação 7
+é dada por T(x, y) = (-x, y).
+tem autovetor (0, - 1) com autovalor associado igual a 2.
+o
+o
+O tem autovetor (2, 0) com autovalor associado igual a 1.
+O tem autovalor de multiplicidade 2.
+e
+não é inversível.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="822,194 822,1051 1580,1051 1580,194"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 23
+Considere o sistema de equações a seguir.
+Analise as asserções seguintes relativas à resolução desse sistema
+de equações lineares.
+O sistema não tem solução
+porque
+o determinante da matriz dos coeficientes é igual a zero.
+A respeito dessa afirmação, assinale a opção correta.
+A As duas asserções são proposições verdadeiras e a segunda é
+uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas a segunda
+não é uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a segunda
+é falsa.
+D A primeira asserção é uma proposição falsa, e a segunda é
+verdadeira.
+E Ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="77,191 77,791 797,791 797,191"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 20
+Para cada número real x, considere o conjunto Cx formado por
+todos os números obtidos somando-se a x um número racional,
+isto é,
+.
+Sob essas condições, conclui-se que
+A o número B pertence ao conjunto C1 .
+B o conjunto C4 1 C5 possui um único elemento.
+C o número pertence ao conjunto .
+D os conjuntos C3 e C1/3 são iguais.
+E o número zero pertence ao conjunto .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="77,808 77,1231 794,1231 794,808"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 21
+Para que valores de k e m o polinômio P(x) = x3 – 3x2 + kx + m
+é múltiplo de Q(x) = x2 – 4?
+A k = !4 e m = 12
+B k = !3 e m = !4
+C k = !3 e m = !12
+D k = !4 e m = !3
+E k = !2 e m = 2</Unicode></TextEquiv></TextRegion></Page></PcGts>

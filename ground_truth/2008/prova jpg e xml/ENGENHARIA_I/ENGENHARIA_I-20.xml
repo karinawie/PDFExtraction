@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:42:07</Created>
+	<LastChange>2021-01-18T19:57:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-20.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="491,894 491,1685 1191,1685 1191,894"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,312 269,312 269,353 1573,353 1573,579 1071,579 1071,680 888,680 888,713 804,713 804,746 80,746 80,579 79,579 79,353 80,353"/>
+	<TextEquiv conf="0.95549">
+	<Unicode>QUESTÃO 31
+Argamassa para revestimento é definida como uma mistura homogênea de agregado(s) miúdo(s), aglomerante(s) inorgânico(s)
+e água, contendo ou não aditivos ou adições, com propriedades de aderência e endurecimento. O emprego das argamassas
+de cimento, cal hidratada e areia em revestimentos é bastante conveniente, uma vez que permite a combinação das
+vantagens desses materiais. No Brasil é bastante frequente também o uso de areia misturada com saibro (arenoso, caulim,
+piçarra, barro, etc.), o que, notoriamente, confere boas propriedades à mistura com Cimento Portland, mas pode resultar em
+manifestações patológicas nos revestimentos, caso seja aplicada sem critérios técnicos. Quais as propriedades desejadas
+para a argamassa de revestimento, ao se adicionar cal ou saibro?
+(A) Coesão, plasticidade e retenção de água.
+(B) Coesão, diminuição da retração e cura rápida.
+(C) Plasticidade, rápido ganho de resistência mecânica e diminuição da retração.
+(D) Plasticidade, diminuição da retração e endurecimento rápido.
+(E) Retenção de água, cura rápida e diminuição da retração.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,816 273,816 273,1727 1573,1727 1573,1824 1460,1824 1460,2144 80,2144 80,2037 79,2037 79,1727 80,1727"/>
+	<TextEquiv conf="0.96525">
+	<Unicode>QUESTÃO 32
+O esquema da figura mostra uma tubulação vertical com diâmetro constante, por onde escoa um líquido para baixo, e a ela
+estão conectados dois piezômetros com suas respectivas leituras, desprezando-se as perdas. A esse respeito, considere
+as afirmações a seguir.
+| - A energia cinética é a mesma nos pontos (1) e (2).
+Il - A pressão estática no ponto (1) é menor do que no ponto (2).
+Ill - A energia total no ponto (1) é menor do que no ponto (2).
+IV- A energia cinética e a pressão estática no ponto (1) são menores do que no ponto (2).
+V - A energia cinética e a pressão estática no ponto (1) são maiores do que no ponto (2).
+São corretas APENAS as afirmações
+(A) lell (B) lei (OC) Ile IV (D) Ile V (E) IVeV</Unicode></TextEquiv></TextRegion></Page></PcGts>

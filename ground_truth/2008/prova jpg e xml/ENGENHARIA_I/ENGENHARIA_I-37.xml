@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:31:16</Created>
+	<LastChange>2020-11-17T02:21:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-37.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="432,221 433,1026 1223,1025 1222,220"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1090 1573,1090 1573,1526 80,1526 80,1527 79,1527 80,1527 80,1185 79,1185"/>
+	<TextEquiv conf="0.96055">
+	<Unicode>QUESTÃO 53
+Afigura acima apresenta uma grade formada por círculos concêntricos, divididos em zonas. Tal grade é sobreposta à camada
+de altimetria de uma carta topográfica em escala grande (no exemplo, 1:10.000) e visa a auxiliar a quantificação de uma das
+anomalias da gravidade em um dado ponto. Assim, tal grade é utilizada na redução da anomalia da gravidade em virtude de
+(A) isostasia, em que o valor da gravidade em determinado ponto é reduzido, ignorando-se as massas situadas entre os níveis
+do ponto de observação e da superfície do elipsóide de referência.
+(B) isostasia, em que, devido às irregularidades do terreno circunvizinho, o valor da gravidade em um determinado ponto é
+reduzido para aquele que seria obtido se a camada de massa fosse plana e uniforme abaixo do ponto considerado.(C)
+Calota de Bouguer, em que ocorre redução do valor da gravidade em determinado ponto, ignorando-se as massas situadas
+entre os níveis do ponto de observação e da superfície do elipsóide de referência.
+(D) correção do terreno, em que o valor da gravidade em um determinado ponto, devido às irregularidades do terreno circunvizinho
+é reduzido para aquele que seria obtido se a camada de massa fosse plana e uniforme abaixo do ponto considerado.
+(E) anomalia do ar-livre, cuja correção corresponde à componente vertical da atração exercida por um platô horizontal de
+mesma altura do ponto a ser considerado, e tendo este sobre sua superfície.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,1562 282,1562 282,1603 1574,1603 1574,2068 1491,2068 1491,2141 80,2141 80,2142 79,2142 80,2142 80,1868 79,1868 79,1637 80,1637"/>
+	<TextEquiv conf="0.96538">
+	<Unicode>QUESTÃO 54
+Sistemas de Informações Geográficas (SIG) podem aplicar operadores espaciais sobre feições armazenadas sob a forma de
+dados matriciais (raster) ou vetoriais. Como exemplos, pode-se citar uma consulta sobre dados vetoriais de malha viária que
+vise a determinar todos os cruzamentos entre vias pavimentadas e não pavimentadas, ou a identificar quais bairros de uma
+determinada região são limitados por rodovias. Assim como nesses exemplos, a maior parte das consultas executadas em um
+SIG utilizam operadores espaciais que necessitam da posição relativa entre feições (pertinência, contigúidade e conectividade).
+Afim de agilizar esse tipo de consulta, as representações dessas feições podem ser estruturadas segundo o modelo topológico,
+utilizando o modelo de dados arco-nó. Em se tratando de dados vetoriais, a vantagem obtida pela utilização do modelo
+topológico do tipo arco-nó, no momento da consulta, se dá, principalmente, porque
+(A) os dados de dimensão geométrica diferente (pontos X linhas X polígonos) não podem ser relacionados topologicamente entre
+eles.
+(B) os dados vetoriais estão livres de incorreções, devido à duplicação de linhas, à falta de ligação entre feições contíguas e à
+interrupção de linhas que representam feições contínuas.
+(C) os cálculos a partir de coordenadas geográficas necessários para determinação do relacionamento espacial entre feições
+são evitados.
+(D) a toponímia das feições é utilizada, permitindo determinar o relacionamento.
+(E) as estruturas de indexação espacial são utilizadas para determinar a posição relativa entre as feições analisadas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

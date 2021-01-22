@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:35:18</Created>
+	<LastChange>2020-10-26T12:41:08</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r8">
+	<Coords points="953,207 954,2100 957,2100 956,207"/></SeparatorRegion>
+	<TableRegion id="r3">
+	<Coords points="162,968 162,1357 868,1357 868,968"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="88,1397 88,2100 937,2100 937,1397"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,267 976,267 976,218 1553,218 1553,392 1128,392 1128,514 1552,514 1552,640 1429,640 1429,762 1552,762 1552,1011 1553,1011 1553,1282 1551,1282 1551,1453 1553,1453 1553,1629 1329,1629 1329,1776 1106,1776 1106,2087 976,2087 976,1849 977,1849 977,1630 975,1630 975,1453 977,1453 977,938 103,938 103,733 105,733 105,591 106,591 106,472 103,472 103,267 104,267"/>
+	<TextEquiv conf="0.96081">
+	<Unicode>QUESTÃO 19
+Uma instituição de auxílio a desabrigados tem a preocupação
+de fornecer uma alimentação equilibrada a seus pensionistas. Para
+atingir esse objetivo, decidiu empregar um sistema informatizado e
+contratou um analista para projetá-lo. O analista, que deveria
+empregar UML na modelagem do sistema, recebeu as informações
+a seguir acerca das refeições.
+» Café da manhã: dois tipos de carboidrato, duas vitaminas e duas
+proteínas.
+» "Almoço: dois tipos de carboidrato e de proteínas, quatro tipos de
+vitamina e um tipo de lipídio.
+» Jantar: um tipo de carboidrato, uma proteína e uma vitamina.
+Cada tipo de alimento deve ser acompanhado por seu nome,
+sua porção recomendável, por refeição, e seu valor calórico, por
+porção. O cálculo para descobrir a quantidade de calorias para cada
+pensionista é dado pelo produto do fator de atividade (FA) pela taxa
+de metabolismo basal (TMB). Esses dois valores são obtidos nas
+tabelas | e |l a seguir.
+O cardápio de cada pensionista deve ser
+gerado, a cada dia, com base no cálculo da
+quantidade de calorias recomendada para cada
+um deles e, depois, deve ser encaminhado para
+a cozinheira.
+Considerando as necessidades da instituição no
+que se refere ao cardápio diário e a aspectos da
+modelagem conceitual com UML, julgue os itens
+a seguir, acerca da classe Refeição.
+| Para o cálculo do TMB, são precondições
+que a idade seja um valor maior do que 30
+anos e que seja relacionada uma das
+descrições da tabela || para o valor de FA.
+Ill Essa classe tem um método denominado
+montarCardápioDiário() que será
+sobrescrito nas subclasses.
+Ill Suas subclasses não implementam o método
+para calcular a quantidade de calorias,
+utilizando a implementação já definida na
+classe pai.
+IV Essa classe possui associações um-para-um
+Com aclassePensionista e agregação com
+a classe Alimento.
+V O conceito de acoplamento é um critério
+importante durante a modelagem da classe
+Refeição, pois diminui a quantidade de seus
+relacionamentos, o que contribui para o seu
+reúso.
+Estão certos apenas os itens
+lell.
+lelv.
+lei.
+WMev.
+IWVev.
+6 0o0coeo</Unicode></TextEquiv></TextRegion></Page></PcGts>

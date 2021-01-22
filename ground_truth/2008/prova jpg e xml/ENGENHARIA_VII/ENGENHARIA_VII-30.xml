@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:05:14</Created>
+	<LastChange>2020-10-25T20:13:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-30.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="188,640 188,900 739,900 739,640"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="835,552 836,2138 839,2138 838,552"/></SeparatorRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="864,559 1054,559 1054,648 1550,648 1550,1056 1551,1056 1551,2129 865,2129 865,2130 864,2130 864,946 863,946 863,921 864,921"/>
+	<TextEquiv conf="0.96065">
+	<Unicode>QUESTÃO 52
+O estudo das ligações de peças de madeira tem
+importância no uso da madeira para fins construtivos.
+Com relação aos principais tipos de ligações utilizadas na
+solidarização de peças de madeira, assinale a
+opção correta.
+O As ligações coladas caracterizam-se por baixa
+rigidez, o que permite a união de peças com grandes
+deformações sob ação de cargas elevadas.
+O As ligações pregadas são caracterizadas por
+proporcionarem elevada rigidez aos membros por
+elas unidas, quando sob ação de cargas elevadas.
+O Os conectores metálicos, mais usuais na forma de
+anéis, não possuem grande eficácia na transmissão
+de esforços.
+O Entre outras vantagens, as ligações cavilhadas não
+sofrem oxidação, são de baixo custo e de grande
+valor estético.
+O Ousode peças entalhadas e encaixadas como meio
+de ligação é, hoje em dia, muito comum face à
+grande disponibilidade de mão-de-obra especializada
+para execução desse tipo de ligação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,559 290,559 290,943 824,943 824,944 825,944 825,1074 824,1074 824,1648 682,1648 682,1699 457,1699 457,1804 212,1804 212,1939 230,1939 230,2111 238,2111 238,2132 104,2132 104,1882 105,1882 105,1778 143,1778 143,1648 105,1648 105,1126 101,1126 101,1100 103,1100 103,943 104,943"/>
+	<TextEquiv conf="0.95577">
+	<Unicode>QUESTÃO 51
+Nas figuras A, B e C acima, observa-se a arquitetura de
+pontoações que permitem a passagem de líquidos, célula a
+célula, no interior da madeira. Considerando essas figuras,
+julgue os itens a seguir.
+| Em A, a pontoação é aureolada e o tórus está em
+posição normal, o que permite uma fácil circulação de
+líquidos entre células.
+Il Em B, a pontoação é tipo guarnecida, o que dificulta a
+circulação de líquidos entre as células.
+Ill Em B, a pontoação é do tipo aspirada, em que o tórus
+obstrui a sua abertura, dificultando a circulação de
+líquidos.
+IV Em C, o margo na região central da figura é constituído
+por um adensamento de fibrilas de celulose.
+Estão certos apenas os itens
+lell.
+le.
+Nell.
+IN el.
+o oo ooeo
+WMelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

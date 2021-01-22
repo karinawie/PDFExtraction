@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:27:36</Created>
+	<LastChange>2021-01-19T12:37:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-31.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,177 822,2151 831,2151 831,177"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="62,237 62,534 808,534 808,237"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="857,222 857,682 1560,682 1560,222"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,186 271,186 271,570 386,570 386,607 545,607 545,652 547,652 547,699 789,699 789,815 804,815 804,1186 153,1186 153,1232 152,1232 152,1703 81,1703 81,1186 80,1186 80,699 81,699"/>
+	<TextEquiv conf="0.92202">
+	<Unicode>QUESTÃO 51
+Dados dos componentes:
+Gerador G,: 100 MVA, 20 kV, X = 10%
+Gerador G,: 100 MVA, 25 kV, X = 10%
+Transformadores T, e Ta : 50 MVA, 20 kV/250 kV, X = 10%
+Transformadores Tz e T, : 50 MVA, 25 kV/250 kV, X = 10%
+Afigura acima apresenta um sistema de potência sem perdas.
+Suponha que, inicialmente, a potência ativa transmitida do ge-
+rador G, para o G, seja igual a 1,0 p.u., e que os dois estejam
+operando em suas tensões nominais. Em um dado instante,
+uma das linhas de transmissão é perdida. Supondo que as
+tensões dos geradores e a abertura angular permaneçam
+inalteradas, qual será a nova potência ativa transmitida, em
+p.u., nessa condição de regime?
+(A)
+5 6
+(B)
+3 4
+(C)
+1 2
+(D) 1
+5
+(E)
+1
+10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="851,186 1045,186 1045,732 1573,732 1573,1444 1551,1444 1551,1517 1270,1517 1270,1553 852,1553 852,1300 850,1300 850,1274 851,1274"/>
+	<TextEquiv conf="0.96707">
+	<Unicode>QUESTÃO 52
+Um motor de corrente contínua série é acionado por um
+conversor trifásico a tiristores, conforme mostrado na figura
+acima.
+Com base nesse circuito avalie as afirmações a seguir.
+A velocidade do motor aumenta quando os ângulos de
+disparo dos tiristores aumentam.
+PORQUE
+A velocidade do motor de corrente contínua série é
+maior, quanto maior for sua tensão terminal, dentro dos
+limites permitidos.
+A esse respeito, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(OC) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

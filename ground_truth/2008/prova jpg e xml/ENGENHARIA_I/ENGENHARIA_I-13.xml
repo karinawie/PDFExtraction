@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:46:44</Created>
+	<LastChange>2020-09-23T01:46:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="82,1260 82,2154 1594,2154 1594,1260"/></ImageRegion>
+	<TextRegion id="r87" type="paragraph">
+	<Coords points="80,195 272,195 272,196 273,196 273,258 1573,258 1573,416 1382,416 1382,503 1057,503 1057,504 736,504 736,827 737,827 737,1148 1573,1148 1573,1214 1200,1214 1200,1215 79,1215 79,1148 80,1148 80,829 79,829 79,459 80,459"/>
+	<TextEquiv conf="0.96476">
+	<Unicode>QUESTÃO 20
+Pseudocódigo é uma forma genérica de se escrever um algoritmo, da forma mais detalhada possível, utilizando-se uma
+linguagem simples, nativa a quem o escreve, de modo a ser entendida sem necessidade de se conhecer a sintaxe de uma
+linguagem de programação específica. Apresenta-se abaixo o pseudocódigo de um algoritmo capaz de resolver equações
+dx(t)
+diferenciais da forma E = g(x), frequentemente encontrada em problemas de modelagem em engenharia.
+LER (T1);
+LER (T2);
+LER (N);
+SE ((T2 &gt; T1) E (N &gt; 0)) ENTÃO
+H € (T2- Tl) /N
+xi €&amp; x(T1);
+PARA (i € O) ENQUANTO (i &lt;N) FAZ
+K € Hx g(Xi);
+Xi &amp; Xi + K;
+VISUALIZAR (T1 + i x H, Xi);
+1 € i+1;
+FIM PARA
+FIM SE
+Uma forma equivalente, e algumas vezes complementar, ao pseudocódigo, utilizada para se representar um algoritmo é o
+diagrama de fluxos (fluxograma). Que fluxograma representa, de modo mais preciso, o pseudocódigo descrito acima?</Unicode></TextEquiv></TextRegion></Page></PcGts>

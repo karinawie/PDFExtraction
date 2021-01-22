@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:37:45</Created>
+	<LastChange>2020-10-26T00:51:00</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-20.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="929,207 929,2118 931,2118 931,207"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,272 911,272 911,445 912,445 912,473 404,473 404,486 366,486 366,473 239,473 239,593 595,593 595,697 685,697 685,859 912,859 912,1100 631,1100 631,1144 104,1144 104,804 103,804 103,697 104,697 104,532 103,532 103,313 104,313"/>
+	<TextEquiv conf="0.93757">
+	<Unicode>QUESTÃO 44
+Para cada número real &amp;, a equação diferencial y"(x) + 2y'(x) + hy(x) = O
+possui uma única solução y,(x) que satisfaz às condições iniciais
+(0) = 0 e y/(0)=1.
+Considere o limite L, = lim y,(x) eanalise as seguintes asserções a respeito
+xote
+desse limite.
+Para qualquer &amp; e (0, 1), o valor de L, é zero
+porque
+a equação diferencial dada é não-linear.
+A respeito dessa afirmação, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a segunda é uma
+justificativa correta da primeira.
+O Asduasasserções são proposições verdadeiras, e a segunda não é uma
+justificativa correta da primeira.
+O A primeira asserção é uma proposição verdadeira, e a segunda é falsa.
+O Aprimeira asserção é uma proposição falsa, e a segunda é verdadeira.
+O Ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="104,1199 294,1199 294,1257 912,1257 912,1505 430,1505 430,1676 833,1676 833,1832 912,1832 912,1899 911,1899 911,2073 631,2073 631,2118 104,2118 104,1778 103,1778 103,1257 104,1257"/>
+	<TextEquiv conf="0.96669">
+	<Unicode>QUESTÃO 45
+Considere uma função /: R »— R que possui segunda derivada em todo
+ponto e que satisfaz à seguinte propriedade:
+tim AZAR
+hoo hn?
+Um estudante de cálculo diferencial, ao deparar-se com essa situação,
+escreveu a afirmação seguinte.
+A segunda derivada /"(2)=1
+porque
+o g&amp;x+h)+g&amp;x-h)- 280)
+lim, VW
+=8"(x), qualquer que seja a função g.
+Com relação ao afirmado pelo estudante, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a segunda é uma
+justificativa correta da primeira.
+O Asduas asserções são proposições verdadeiras, mas a segunda não é
+uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a segunda é falsa.
+O A primeira asserção é uma proposição falsa, e a segunda é verdadeira.
+O Ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T21:03:31</Created>
+	<LastChange>2020-09-22T21:04:02</LastChange></Metadata>
+	<Page imageFilename="BIOLOGIA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="828,207 829,2122 832,2122 831,207"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="104,215 294,215 294,266 812,266 812,561 811,561 811,1052 809,1052 809,1129 104,1129 104,561 103,561 103,266 104,266"/>
+	<TextEquiv conf="0.96564">
+	<Unicode>QUESTÃO 20
+Considere que, para realizar as análises descritas no texto,
+estivessem disponíveis no laboratório de biologia forense
+as técnicas de PCR (reação em cadeia da polimerase),
+eletroforese e sequenciamento automático de DNA,
+indicadas para analisar marcadores genéticos dos tipos
+SNPs (polimorfismo de nucleotídeo único) do DNA
+mitocondrial, STR (repetições curtas em série) nucleares e
+SNPs nucleares. Acerca desse assunto, assinale a opção
+correta.
+O Casoa amostra contenha apenas hemácias, a análise
+de marcadores genéticos SNPs do DNA mitocondrial
+não poderá ser utilizada.
+O Para que se possa usar a técnica de PCR, é
+necessário acrescentar ao sistema microrganismos
+que secretem a enzima DNA polimerase.
+O Para a obtenção de um perfil genético individual, é
+necessária a análise de regiões genômicas do tipo
+STRs que apresentem repetições de sequências
+maiores que 1.024 bases.
+O Para se realizar a PCR, deve-se, antes, separar a
+amostra por eletroforese e(ou) sequenciamento
+automático.
+O As técnicas mencionadas são independentes e,
+portanto, não podem ser combinadas entre si.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="103,1172 494,1172 494,1173 495,1173 495,1287 812,1287 812,1386 195,1386 195,1499 811,1499 811,2122 154,2122 154,1804 104,1804 104,1725 103,1725 103,1499 104,1499 104,1386 103,1386"/>
+	<TextEquiv conf="0.95983">
+	<Unicode>QUESTÃO 21
+Analise as seguintes asserções.
+É mais fácil separar nucleotídios que unem as duas fitas
+complementares da molécula de DNA que separar
+nucleotídios que pertençam à mesma fita
+porque
+as ligações entre nucleotídios que unem as duas fitas são
+ligações de hidrogênio (também chamadas de pontes de
+hidrogênio), enquanto as ligações que unem nucleotídios
+da mesma fita são do tipo fosfodiéster.
+Acerca das asserções apresentadas, assinale a opção
+correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira asserção quanto a segunda são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="851,215 1041,215 1041,265 1552,265 1552,821 1551,821 1551,1031 1552,1031 1552,2119 852,2119 852,2120 851,2120 852,2120 852,1879 851,1879 851,1410 852,1410 852,1226 851,1226 851,767 850,767 850,265 851,265"/>
+	<TextEquiv conf="0.96512">
+	<Unicode>QUESTÃO 22
+A observação das formas atuais de vida demonstra
+que até mesmo o mais simples dos seres vivos com
+organização celular é um sistema complexo, no qual se
+destacam duas classes de moléculas: as proteínas e os
+ácidos nucléicos. É possível imaginar que, nos oceanos
+primitivos, existiam sistemas organizados de reações
+enzimáticas, do tipo coacervados. Mas como esses
+sistemas se perpetuariam e evoluirram sem um código
+genético? Os ácidos nucléicos também poderiam ter
+surgido nas condições da Terra primitiva. Mas como
+formariam um sistema complexo e organizado sem
+interagir com o aparato protéico/enzimático? A total
+interdependência entre essas moléculas essenciais remete
+a uma das principais questões ligadas à origem da vida,
+que poderia ser comparada ao dilema do ovo e da galinha.
+ANDRADE, L. A. e SILVA, E. P. O que é vida? /n: Ciência
+Hoje, v. 32, n.º 191, 2003, p. 16-23 (com adaptações).
+Considerando que as hipóteses acerca da origem da vida
+na Terra mencionadas no texto acima não são as únicas,
+responda: o que surgiu primeiro, os ácidos nucléicos ou as
+proteínas?
+O O DNA pode ter sido o precursor dos demais
+compostos, pois estoca e replica informação genética,
+é dotado de atividade catalítica e é facilmente
+degradado por hidrólise, o que facilita a reutilização de
+seus monômeros e, portanto, a colonização da Terra
+com polímeros primordiais de DNA.
+O Existe a possibilidade de o RNA ter sido o precursor
+das demais moléculas, visto que certas sequências de
+RNA, chamadas íntrons, são capazes de acelerar
+reações químicas e, além disso, mostraram
+capacidade de fazer cópias de si mesmas.
+O A favor da hipótese de que as proteínas
+desempenharam papel central na origem da vida,
+incluem-se estudos como o que mostrou a
+possibilidade de que aminoácidos tivessem se
+originado, sem a intervenção de seres vivos, a partir
+de uma atmosfera constituída de gases como metano,
+nitrogênio e oxigênio e de vapor d'água.
+O Admitindo-se a possibilidade de a Terra primitiva
+conter nucleotídios livres, o calor poderia ter sido a
+fonte de energia disponível para a formação de
+ligações covalentes entre eles, com a consequente
+formação de proteinóides, que, por sua vez, deram
+origem a microsferas, estruturas que poderiam ser
+precursoras das células primitivas.
+O O estudo de aminoácidos que contêm grupos tiol
+(tibésteres) fornece argumentos a favor da
+precedência de proteínas na origem da vida, entre
+os quais se incluem a abundância de sulfeto de
+hidrogênio (H/S) no ambiente primitivo e a alta
+concentração de oxigênio na atmosfera primitiva, que
+favoreceria a respiração aeróbica.</Unicode></TextEquiv></TextRegion></Page></PcGts>

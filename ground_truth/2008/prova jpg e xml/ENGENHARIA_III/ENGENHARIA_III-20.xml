@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:45</Created>
+	<LastChange>2020-10-25T18:12:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-20.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1572,194 1572,264 827,264 827,265 81,265 81,266 80,266 80,194"/>
+	<TextEquiv conf="0.90731">
+	<Unicode>Considerando que as pontes em X e Y (mostradas na página anterior) são balanceadas (R4x. R2x-R1x.R3x=0 e R4y. R2y-R1iy .R3y=0),
+uma possível configuração da ponte empregada para medidas em Z, também balanceada, é</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="51,291 51,668 548,668 548,291"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="57,689 57,1066 554,1066 554,689"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="37,1080 37,1457 534,1457 534,1080"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="846,692 846,1069 1343,1069 1343,692"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="846,317 846,694 1343,694 1343,317"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:34:47</Created>
+	<LastChange>2020-09-23T01:34:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-31.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="125,837 126,1427 126,1443 364,1443 760,1442 760,1427 293,1428 293,1427 761,1426 760,836"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="901,855 902,1426 1501,1425 1500,854"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,182 273,182 273,228 1574,228 1574,327 757,327 757,504 915,504 915,528 828,528 828,529 81,529 81,530 80,530"/>
+	<TextEquiv conf="0.95822">
+	<Unicode>QUESTÃO 45
+A Lei nº 9.433/97 institui a Política Nacional de Recursos Hídricos e cria o Sistema Nacional de Gerenciamento de Recursos
+Hídricos. Qual(is) o(s) órgão(s) com competência para analisar propostas de alteração da legislação pertinente a recursos
+hídricos e à Política Nacional de Recursos Hídricos?
+(A) Agência Nacional de Águas
+(B) Agências de Água dos Estados e do Distrito Federal
+(C) Comitês de Bacia Hidrográfica
+(D) Conselho Nacional de Recursos Hídricos
+(E) Conselhos de Recursos Hídricos dos Estados e do Distrito Federal</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,576 273,576 273,622 1575,622 1575,681 828,681 828,682 482,682 482,1729 942,1729 942,1772 1572,1772 1572,1859 1574,1859 1574,2097 978,2097 978,2144 828,2144 828,2145 81,2145 81,2146 80,2146 80,683 79,683 79,622 80,622"/>
+	<TextEquiv conf="0.96562">
+	<Unicode>QUESTÃO 46
+As figuras a seguir apresentam, em esquema, respectivamente, os sistemas ideal e real de circulação global de massa de ar
+na atmosfera da Terra.
+Onde:
+H — zona de alta pressão e
+L — zona de baixa pressão.
+Em relação ao fenômeno de circulação de massas de ar, verifica-se que
+(A) à latitude de 0º existe uma zona de baixa pressão, com correntes convectivas ascendentes de massas de ar úmidas,
+ativadas pelos ventos alísios, que podem provocar tempestades quase que diárias.
+(B) à latitude de 45º existem as zonas dos ventos de oeste, próximos ao solo, e dos ventos alísios, nas maiores altitudes, que
+ocorrem em sentido oposto e funcionam como retorno.
+(C) à latitude de 60º existem as zonas das altas pressões subtropicais, que recebem os ventos de leste polares e os
+empurram na direção do Equador.
+(D) à latitude de 90º existem as zonas polares, que funcionam próximo ao solo como centros de baixa pressão para os ventos
+mais frios e densos.
+(E) no Hemisfério Sul, a Força de Coriolis desloca os ventos para a direita.</Unicode></TextEquiv></TextRegion></Page></PcGts>

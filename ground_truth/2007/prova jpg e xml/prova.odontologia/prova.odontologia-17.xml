@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T20:10:20</Created>
+	<LastChange>2020-10-24T20:13:54</LastChange></Metadata>
+	<Page imageFilename="prova.odontologia-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="554,501 556,1003 935,1002 933,500"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,265 486,265 486,313 1573,313 1573,495 1495,495 1495,1011 1574,1011 1574,1723 81,1723 81,1631 80,1631 80,1285 834,1285 834,1011 954,1011 954,495 79,495 79,351 80,351"/>
+	<TextEquiv conf="0.94881">
+	<Unicode>QUESTÃO 38 - DISCURSIVA
+Sabe-se que a invasão do espaço biológico periodontal acarreta risco para a saúde periodontal e que os procedimentos para
+aumento de coroa clínica devem ser realizados para solucionar diferentes situações clínicas onde houve tal invasão. Neste
+contexto:
+a) identifique as estruturas periodontais que compõem o espaço biológico periodontal, numeradas no desenho esquemático;
+(valor: 1,5 ponto)
+Legenda: Esmalte (E); Junção cemento-esmalte (JCE);
+Cemento (C); Ligamento periodontal (LP); Crista óssea
+(CO); Tecido conjuntivo (TC); Epitélio oral (EO).
+LINDHE, J. et al. Tratado de Periodontia Clínica e Implantologia Oral.
+Rio de Janeiro, Editora Guanabara Koogan: 1997 (adaptado).
+b) cite duas situações clínicas onde há indicação de um procedimento para aumento de coroa clínica, com finalidade de
+recuperação do espaço biológico periodontal;
+(valor: 1,5 ponto)
+c) descreva sequencialmente as etapas de um procedimento cirúrgico para aumento de coroa clínica, com finalidade de
+recuperação do espaço biológico periodontal.
+(valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

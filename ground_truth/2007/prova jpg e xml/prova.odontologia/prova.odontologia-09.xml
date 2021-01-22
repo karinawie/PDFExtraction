@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T20:12:24</Created>
+	<LastChange>2020-10-24T20:21:26</LastChange></Metadata>
+	<Page imageFilename="prova.odontologia-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,2060 822,254"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="297,365 297,914 571,914 571,365"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="848,651 848,914 1580,914 1580,651"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,330 267,330 267,937 801,937 801,1024 803,1024 803,1317 669,1317 669,1350 667,1350 667,1384 272,1384 272,1416 80,1416 80,1417 80,1317 79,1317 79,1024 80,1024"/>
+	<TextEquiv conf="0.96317">
+	<Unicode>QUESTÃO 11
+WOLF, H.F. et al. Peridontia.
+São Paulo: Artmed, 2006.
+As técnicas biomoleculares contribuíram para o desenvolvi-
+mento de exames laboratoriais capazes de detectar os mi-
+crorganismos no sulco gengival, fornecendo diagnósticos mais
+precisos e identificando indivíduos de risco. A sonda de DNA,
+por exemplo, é um teste que permite o reconhecimento
+bacteriano através da identificação de sequências especifi-
+cas dos ácidos nucleicos que compõem seu DNA. No dese-
+nho esquemático acima, qual sequência corresponde aos
+oligonucleotídeos expressos à esquerda?
+(A) A, C,T GG (B) C, A, GTA
+(0) G TA,C,T (D) TA, C, GT
+(E) TC,A,TG</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="80,1450 273,1450 273,1489 803,1489 803,1612 802,1612 802,1903 725,1903 725,2035 473,2035 473,2002 325,2002 325,2035 256,2035 256,2067 81,2067 81,2068 80,2068 80,1944 81,1944 81,1646 79,1646 79,1489 80,1489"/>
+	<TextEquiv conf="0.96374">
+	<Unicode>QUESTÃO 12
+As células são capazes de produzir substâncias que irão
+influenciar outra célula ou tecido no desempenho de uma
+função na dinâmica inflamatória e/ou imunológica. Isto é
+evidente nos casos de periodontite.
+Sobre esse assunto, considere as afirmativas a seguir.
+| — AlL-1 aumenta a permeabilidade vascular e participa de
+processos de reabsorção óssea.
+Il — AIL-8 ativa funções de atrair neutrófilos.
+IN — A IL-1 é uma metaloproteínase que ativa o sistema
+imunológico.
+IV A IL-8 é uma enzima que participa do processo de
+regeneração tecidual.
+Estão corretas as afirmativas
+(A) lell, apenas.
+(OC) |, Il e IV, apenas.
+(E) LI, MelV.
+(B) lelll, apenas.
+(D) |, Ill e IV, apenas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="851,262 1045,262 1045,308 1574,308 1574,1475 1575,1475 1575,2069 853,2069 853,2070 852,2070 852,1273 851,1273"/>
+	<TextEquiv conf="0.96371">
+	<Unicode>QUESTÃO 13
+O fumo é um dos mais potentes agentes cancerígenos
+conhecidos que o ser humano introduz voluntariamente no
+organismo. Dependendo do tipo e da quantidade do tabaco
+utilizados, os tabagistas apresentam uma probabilidade
+4 a 15 vezes maior de desenvolver câncer de boca do que os
+não tabagistas. A tabela abaixo mostra os efeitos, no Brasil,
+da suspensão do tabagismo sobre o risco de câncer de boca
+estratificado pela localização anatômica.
+*CID-9: (141) Tumor maligno da língua; (143) Tumor maligno
+da gengiva; (144) Tumor maligno do pavimento da boca;
+(145) Tumor maligno de outras partes e de partes não
+especificadas da cavidade bucal.
+FRANCO e cols. Risk factors for oral cancer in Brazil: a case control
+study. International Journal of Cancer, 1989, vol. 43, p. 992-1000.
+Com base nos dados fornecidos e no conhecimento dos
+efeitos do tabagismo sobre o câncer de boca, conclui-se que
+(A) existe uma forte relação entre a quantidade de tabaco
+usada por dia e a duração do período de exposição,
+aumentando o risco com a cessação do tabagismo.
+(B) políticas educativas para a prevenção do câncer no país
+devem priorizar ações educativas voltadas para estimular
+a população a realizar o auto-exame da boca, ao invés de
+criar programas de cessação do hábito de fumar, pois
+estes somente mostram resultados a longo prazo.
+(OC) o câncer da boca é um dos mais incidentes em homens
+brasileiros, e sua ocorrência não está associada a outros
+fatores de risco além do tabagismo.
+(D) após 10 anos de abandono do hábito de fumar, o risco
+decresce para nível semelhante àquele observado entre
+os que nunca fumaram.
+(E) na cavidade bucal, a língua e o soalho bucal são as
+localizações preferenciais de ocorrência do câncer
+bucal, independente do hábito de fumar, sendo o Sarcoma
+de Kaposi o tipo histológico mais frequente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

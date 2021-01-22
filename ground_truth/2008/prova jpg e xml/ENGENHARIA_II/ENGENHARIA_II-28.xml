@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:28:06</Created>
+	<LastChange>2020-10-25T17:39:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-28.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="865,262 865,517 1545,517 1545,477 1504,477 1545,477 1545,262"/></ImageRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="851,186 1045,186 1045,619 1574,619 1574,1122 1573,1122 1573,1282 1574,1282 1574,1563 1397,1563 1397,1666 1573,1666 1573,1762 1342,1762 1342,1819 898,1819 898,1699 852,1699 852,1665 897,1665 897,1507 852,1507 852,1473 897,1473 897,1313 852,1313 852,1282 897,1282 897,1122 852,1122 852,861 850,861 850,619 851,619"/>
+	<TextEquiv conf="0.96366">
+	<Unicode>QUESTÃO 47
+A figura acima apresenta um circuito com amplificador
+operacional, considerado ideal, para alimentar uma carga Z.
+Atensãov, e a corrente |, da carga Z são determinadas pelas
+tensões v, e v,,, Atensão de alimentação V ,, é positiva, e
+o circuito opera na região linear. Esse circuito consiste em
+uma fonte de
+(A) tensão, em que v, = (V , e o transistor MOSFET
+DD Yo)
+tem como finalidade prover isolamento elétrico entre a
+saída do amplificador operacional e a carga Z.
+(B) tensão, em que v, = (VW -v,), e o transistor MOSFET
+DI
+tem como finalidade prover a corrente necessária para
+a carga Z.
+(OC) tensão, em que v = (V.n,-v,), eatensãov .tem de ser
+z e ref
+DD
+negativa de forma a garantir que iz tenha o mesmo sen-
+tido mostrado na figura.
+(R1+R&gt; ) — Vref
+e RR2 R2 '
+tor MOSFET tem como finalidade prover a corren-
+(D) corrente, em que EV e o transis-
+te necessária para a carga Z.
+(R1+R&gt; ) — Vref
+RR2R
+V,ertem de ser negativa de forma a garantir que i, tenha
+(E) corrente, em que i, =v, , e a tensão
+o mesmo sentido mostrado na figura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,1229 273,1229 273,1278 802,1278 802,1423 634,1423 634,1528 784,1528 784,1554 497,1554 497,1694 787,1694 787,1861 801,1861 801,2012 779,2012 779,2096 498,2096 498,2137 80,2137 80,1845 79,1845 79,1819 94,1819 94,1694 385,1694 385,1554 95,1554 95,1470 80,1470 80,1423 79,1423 79,1278 80,1278"/>
+	<TextEquiv conf="0.96542">
+	<Unicode>QUESTÃO 46
+Considere uma junção de semicondutores do tipo PN, em
+que o lado P possui 6 x 10” dopantes/cm? e o lado N
+possui 2 x 10º” dopantes/cm? e à qual não se aplica tensão
+externa.
+Neste caso, considere as afirmações a seguir.
+O campo elétrico fora das regiões de depleção não é nulo.
+PORQUE
+A profundidade da região de depleção do lado P é menor
+que a do lado N.
+Analisando essas afirmações, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,271 273,271 273,319 802,319 802,470 593,470 593,611 802,611 802,970 201,970 201,1179 80,1179 80,970 79,970 79,611 291,611 291,470 79,470 79,319 80,319"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>QUESTÃO 45
+Considere a topologia de Conversor Digital Analógico (CDA)
+que converte uma palavra digital de 8 bits, a partir de sua
+representação decimal d,,, em uma tensão analógica v,, em
+volts, segundo a fórmula abaixo.
+(dio 128)
+v.(di)=5,12
+s( ho) 256
+A não-linearidade percentual de um CDA é obtida para uma
+dada entrada pelo valor absoluto da razão do erro entre os
+valores gerado e calculado, em relação à faixa de variação
+total de tensão do conversor.
+Tomando como base um CDA fabricado com essa topologia,
+verificou-se, no teste em fábrica, que para d,, = 128, o
+dispositivo apresentou v, = 0,102 V. Portanto, a não-linearidade
+percentual do CDA para esse valor específico da palavra
+digital é
+(A) 1,00%
+(B) 1,28%
+(C) 2,00%
+(D) 2,32%
+(E) 2,56%</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="820,180 820,2148 825,2148 825,180"/></SeparatorRegion></Page></PcGts>

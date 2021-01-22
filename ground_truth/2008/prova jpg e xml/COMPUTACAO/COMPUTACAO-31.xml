@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:06:09</Created>
+	<LastChange>2020-09-22T22:07:01</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-31.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="860,207 859,1691 862,1691 863,207"/></SeparatorRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="889,220 1079,220 1079,300 1538,300 1538,476 1178,476 1178,620 1539,620 1539,696 1537,696 1537,1137 1539,1137 1539,1213 1537,1213 1537,1631 1277,1631 1277,1676 939,1676 939,1631 890,1631 890,1630 889,1630 889,525 888,525 888,300 889,300"/>
+	<TextEquiv conf="0.96767">
+	<Unicode>QUESTÃO 74
+No processo de desenvolvimento de software, todo
+software passa pelas fases de análise e projeto,
+associadas, respectivamente, com o que deve ser feito
+e como deve ser feito. A partir dessa informação,
+avalie a opções correta.
+O Nafase de análise, três modelos que devem ser
+considerados são: do domínio da informação, o
+funcional e o comportamental.
+O Na fase de projeto, dois níveis de projeto devem
+ser considerados: o projeto detalhado, que se
+preocupa com uma transformação dos requisitos
+em um projeto de dados e arquitetural; e o projeto
+preliminar, que se preocupa em aprimorar o
+projeto detalhado para que a implementação
+possa ser realizada em seguida.
+O O objetivo do projeto arquitetural é desenvolver
+uma estrutura de programa e representar os
+diversos fluxos de dados entre os módulos.
+O O projeto arquitetural independe do paradigma de
+desenvolvimento.
+O Para lidar com a complexidade do software,
+pode-se aplicar o princípio do particionamento,
+quebrando o problema em problemas menores.
+Esse princípio não é aplicado nas outras fases de
+desenvolvimento e ele não causa impacto nos
+custos de desenvolvimento.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="94,762 94,1268 854,1268 854,762"/></TableRegion>
+	<ImageRegion id="r2">
+	<Coords points="145,508 145,742 797,742 797,508"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="101,220 291,220 291,273 847,273 847,1464 846,1464 846,1465 581,1465 581,1685 152,1685 152,1679 101,1679"/>
+	<TextEquiv conf="0.95962">
+	<Unicode>QUESTÃO 73
+Uma das técnicas que auxiliam na gerência de projetos
+de software é o gráfico de atividades, por meio do qual é
+possível calcular, por exemplo, a duração de um projeto, as
+atividades críticas e as atividades que possuem folga para sua
+execução. Nesse gráfico, os círculos representam os eventos
+iniciais e finais de cada atividade, as arestas representam as
+atividades, e os números associados às arestas representam
+a duração dessas atividades.
+Considerando-se o gráfico de atividades acima e a tabela de
+custo de aceleração das atividades da rede que podem ser
+aceleradas, qual(is) atividade(s) deve(m) ser acelerada(s) para
+que o tempo do projeto associado a esse gráfico seja reduzido
+em uma unidade de tempo e para que o custo total de
+aceleração seja o menor possível?
+apenas a atividade (C-F)
+apenas as atividades (D-E) e (E-G)
+apenas a atividade (E-G)
+apenas as atividades (E-G) e (F-H)
+apenas a atividade (E-H)
+cogcgoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

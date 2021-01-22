@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:59:35</Created>
+	<LastChange>2020-10-25T19:27:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,227 288,227 288,280 693,280 693,954 692,954 692,1878 694,1878 694,2120 102,2120 102,1865 101,1865 101,1547 102,1547 102,1278 101,1278"/>
+	<TextEquiv conf="0.94654">
+	<Unicode>QUESTÃO 41
+Um componente mecânico na forma de
+uma barra cilíndrica tem as dimensões
+apresentadas na figura | ao lado. Os requisitos de
+projeto dessa peça exigem que, após a têmpera,
+sua superfície tenha dureza maior ou igual a
+50 HRC e o centro da barra, na parte de maior
+diâmetro, apresente dureza entre 50 e 40 HRC.
+Para se evitarem trincas de tratamento térmico e,
+portanto, melhorar a produtividade, é
+recomendado o uso de um meio de têmpera
+brando. Os critérios de escolha do material
+devem ser as curvas Jominy dos aços (figura ll);
+as velocidades de resfriamento associadas aos
+meios de têmpera (figuras llla e Illb); e custos
+para a obtenção do produto final. O preço por
+quilo de aços para tratamento térmico é tanto
+maior quanto maior for sua temperabilidade
+(endurecibilidade), conferida pela adição de
+elementos de liga.
+Com base nessas informações, assinale a opção
+que apresenta o aço mais adequado aos
+requisitos do projeto.
+O Oaço4340 atende aos requisitos de projeto
+(durezas adequadas, mesmo utilizando-se
+um meio de têmpera brando) com custos de
+produção mais baixos.
+O Osaços4140 e4340 atendem aos requisitos
+de projeto (durezas adequadas, utilizando-se
+um meio de têmpera brando), mas o mais
+adequado é o aço 4140, por ter menor custo,
+uma vez que os elementos de liga conferem
+menor temperabilidade em comparação com
+o aço 4340.
+O O aço 5140, a partir do critério de
+temperabilidade, tem baixo custo e atende
+plenamente aos requisitos de projeto (dureza
+adequada, utilizando-se um meio de têmpera
+brando).
+O Oaço1040,por apresentar menor custo (não
+tem elementos de liga), satisfaz os requisitos
+de projeto (alcança os valores de dureza nos
+dois tipos de têmpera, brando ou vigoroso).
+O O aço 8640 pode alcançar os valores de
+dureza especificados para a superfície e para
+o centro da peça utilizando o meio de
+têmpera brando. O requisito de custo, nesse
+caso, passa a ser irrelevante por não haver
+outro aço que atenda aos requisitos do
+projeto.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="805,257 805,488 1485,488 1485,257"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="734,537 734,1345 1525,1345 1525,537"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="700,1388 700,2128 1574,2128 1574,1388"/></ImageRegion></Page></PcGts>

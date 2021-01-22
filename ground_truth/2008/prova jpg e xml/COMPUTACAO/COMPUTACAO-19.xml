@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:17:07</Created>
+	<LastChange>2021-01-18T19:26:24</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-19.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="818,207 819,2100 822,2100 821,207"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="902,574 902,851 1514,851 1514,574"/></ImageRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="847,215 1037,215 1037,265 1552,265 1552,480 1317,480 1317,900 1530,900 1530,967 1552,967 1552,1328 1527,1328 1527,1441 1333,1441 1333,1650 897,1650 897,1651 896,1651 896,1650 847,1650 847,1442 846,1442 846,1338 848,1338 848,927 847,927 847,481 846,481 846,265 847,265"/>
+	<TextEquiv conf="0.96724">
+	<Unicode>QUESTÃO 45
+Considere y = f(x) uma função contínua e não-negativa
+(f &gt; O), definida em um intervalo [a, b], e R a região
+delimitada pelo eixo x, o gráfico de fe as retas x= a e
+x=b. Considere S o sólido obtido pela rotação do conjunto
+R em torno do eixo das abscissas, conforme ilustram as
+figuras a seguir. O volume V do sólido S pode ser obtido
+como resultado da integral [E
+Com base nessas informações, julgue os itens a seguir.
+I Cada seção transversal do sólido S obtida quando este
+é interceptado em x = c por um plano paralelo ao plano
+YOz é um círculo centrado no ponto (c, 0, 0) e de raio
+medindo f(x) e, portanto, de área igual a n(f(x))?.
+II SePé uma partição uniforme do intervalo [a, b], sendo
+P=fa=x &lt;x &lt;x&lt;..&lt;x,=b), tal que AX = XxX,
+n
+então V=lim DO nífic))Ax, parace[x,x,(] I&lt;i&lt;n.
+Ne ja1
+III É igual a 27 o volume do sólido gerado pela rotação em
+torno do eixo x da região do plano delimitada pelo
+eixo x, o gráfico de f(x) = x easretas x=0ex=2.
+Assinale a opção correta.
+A Apenas o item I está certo.
+B Apenas o item III está certo.
+C Apenas os itens I e II estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,215 292,215 292,265 806,265 806,358 783,358 783,489 807,489 807,718 636,718 636,920 747,920 747,971 636,971 636,1172 747,1172 747,1264 806,1264 806,1265 807,1265 807,1358 806,1358 806,1459 193,1459 193,1568 806,1568 806,1662 768,1662 768,1769 807,1769 807,2101 152,2101 152,2062 101,2062 101,1728 100,1728 100,1702 101,1702 101,1568 102,1568 102,1459 101,1459 101,1265 100,1265 100,1264 140,1264 140,1033 101,1033 101,1013 140,1013 140,900 141,900 141,781 101,781 101,718 100,718 100,489 101,489"/>
+	<TextEquiv conf="0.96224">
+	<Unicode>QUESTÃO 44
+Considere um banco de dados relacional que contém
+as seguintes tabelas, em que o grifo representa a chave
+primeira da tabela
+Produtos (idProduto, descricao, valorUnitario)
+Estoque (idFilial, idProduto, quantidade)
+A tabela Produtos é populada com aproximadamente
+10.000 registros, enquanto a tabela Estoque é populada
+com aproximadamente 100.000 registros. Para escrever
+uma consulta em SQL que determine o valor total das
+mercadorias em estoque de uma filial cujo identificador é
+igual a 132, pode-se usar uma das duas codificações
+apresentadas a seguir.
+Consulta 1
+SELECT
+SUM(valorUnitario * quantidade)
+FROM
+Estoque, Produtos
+WHERE
+Estoque.idFilial = 132 AND
+Produtos.idProduto = Estoque.idProduto
+Consulta 2
+SELECT
+SUM(valorUnitario * quantidade)
+FROM
+Produtos, Estoque
+WHERE
+Estoque.idFilial = 132 AND
+Produtos.idProduto = Estoque.idProduto
+A partir dessas informações e considerando que a tabela
+Estoque possua um índice sobre a coluna idFilial,
+analise as seguintes asserções.
+O processamento da Consulta 1 tem melhor desempenho
+que o da Consulta 2
+porque
+a quantidade de registros processados na consulta 1 é, no
+pior caso, igual a 10.000, enquanto o pior caso na consulta
+2 terá (10.000)2 registros.
+Assinale a opção correta a respeito dessas asserções.
+A As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, mas
+a segunda não é justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+E Tanto a primeira quanto a segunda asserções são
+proposições falsas</Unicode></TextEquiv></TextRegion></Page></PcGts>

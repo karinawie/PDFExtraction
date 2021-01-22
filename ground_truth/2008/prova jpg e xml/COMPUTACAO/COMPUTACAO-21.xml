@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:15:17</Created>
+	<LastChange>2021-01-18T19:27:31</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-21.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r9">
+	<Coords points="818,207 819,2126 822,2126 821,207"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="91,1728 91,2080 820,2080 820,1728"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="248,1225 248,1622 682,1622 682,1225"/></TableRegion>
+	<ImageRegion id="r2">
+	<Coords points="120,451 120,1188 794,1188 794,451"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="101,215 291,215 291,281 847,281 847,276 846,276 846,218 1552,218 1552,442 939,442 939,556 1552,556 1552,678 1550,678 1550,791 1552,791 1552,1115 897,1115 897,1078 847,1078 847,747 846,747 846,556 847,556 847,355 367,355 367,403 101,403"/>
+	<TextEquiv conf="0.96717">
+	<Unicode>QUESTÃO 50
+Considere, a seguir, o circuito combinatório, a tensão
+analógica V, definida pela tabela |, e a tabela lógica
+definida pela tabela |l.
+Analise o circuito, os dados das tabelas | e |l e as seguintes
+asserções.
+O circuito apresentado converte a tensão analógica v, em
+uma palavra de três bits cujo valor binário é uma
+representação quantizada da tensão v, conforme
+apresentado na tabela |
+porque
+o circuito combinatório formado pelas portas lógicas
+apresenta o comportamento dado pela tabela lógica |l
+quando o circuito de comparação é excitado com uma
+tensão v, adequada.
+Assinale a opção correta, com relação às asserções acima.
+O Asduas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:39:28</Created>
+	<LastChange>2020-10-26T01:00:16</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="262,1191 262,1477 620,1477 620,1191"/></ImageRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="826,1019 1016,1019 1016,1067 1270,1067 1270,1095 888,1095 888,1213 903,1213 903,1307 826,1307"/>
+	<TextEquiv conf="0.96633">
+	<Unicode>QUESTÃO 27
+Qual é o resto da divisão de 2*** por 23?
+2
+8
+16
+20</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="826,215 1016,215 1016,263 1551,263 1551,360 1370,360 1370,562 1551,562 1551,736 1553,736 1553,795 1552,795 1552,834 1551,834 1551,934 1354,934 1354,977 827,977 827,951 877,951 877,834 826,834 826,360 825,360 825,263 826,263"/>
+	<TextEquiv conf="0.96217">
+	<Unicode>QUESTÃO 26
+Analisando a função f(x, y) = x (x - 1) + y(2x - y), definida no
+domínio D=(f(x,y) E Rº; - 1 &lt;x &lt; 1,-1&lt;y&lt;1), um estudante de
+cálculo diferencial escreveu o seguinte:
+A função f/tem um ponto de mínimo global em D
+porque
+o ponto (0, 0) é um ponto crítico de f.
+A respeito da afirmação feita pelo estudante, assinale a opção
+correta.
+O Asduasasserções são proposições verdadeiras, e a segunda é
+uma justificativa correta da primeira.
+O Asduasasserções são proposições verdadeiras, mas a segunda
+não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a segunda
+é falsa.
+o
+A primeira asserção é uma proposição falsa, e a segunda é
+verdadeira.
+O Ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="104,215 104,216 294,216 294,266 786,266 786,368 787,368 787,415 266,415 266,423 162,423 162,916 161,916 161,917 158,917 158,897 104,897 104,876 158,876 158,407 107,407 107,361 104,361 104,360 103,360 103,266 104,266"/>
+	<TextEquiv conf="0.96782">
+	<Unicode>QUESTÃO 24
+Considere que Q, = fr, ra, 13, ...) Seja uma enumeração de
+todos os números racionais pertencentes ao intervalo [0, 1] e
+que, para cada número inteiro i &gt; 1,/, denote o intervalo aberto
+1 ; ; ; À:
+e » E) .
+(&amp;; n+— 7) cujo comprimento é /.. Qual é a soma da
+"
+2
+e
+ela eElb kM e= =</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="104,972 294,972 294,1022 787,1022 787,1186 786,1186 786,1812 785,1812 785,1813 422,1813 422,1880 320,1880 320,2096 155,2096 155,2092 104,2092 104,1599 103,1599 103,1022 104,1022"/>
+	<TextEquiv conf="0.95021">
+	<Unicode>QUESTÃO 25
+O projeto de construção de uma peça de artesanato foi realizado
+utilizando-se um software geométrico que permite interceptar
+um tetraedro regular com planos. A figura a seguir mostra o
+tetraedro RSTU e três pontos M, N e P do plano a de
+interseção.
+Sabendo que M, N e P são pontos médios de SR, SU e ST,
+respectivamente, e que o tetraedro RSTU tem volume iguala 1,
+avalie as seguintes afirmações.
+1 O volume da pirâmide SMNP é igual 1.
+2
+UM A interseção do plano a com o tetraedro é um
+paralelogramo.
+III As retas que contêm as arestas MP e RU são reversas.
+E correto o que se afirma em
+1, apenas.
+III, apenas.
+Tell, apenas.
+II e III, apenas.
+LIHTell.
+cocoo</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords points="800,202 800,2097 805,2097 805,202"/></SeparatorRegion></Page></PcGts>

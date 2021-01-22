@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:00:47</Created>
+	<LastChange>2020-10-25T19:31:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="371,1114 371,1720 1300,1720 1300,1114"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="101,222 291,222 291,267 1552,267 1552,707 1482,707 1482,738 853,738 853,739 153,739 153,740 152,740 152,734 101,734 101,438 100,438 100,267 101,267"/>
+	<TextEquiv conf="0.10087">
+	<Unicode>QUESTÃO 32
+Os compósitos endurecidos por dispersão são capazes de promover o endurecimento de ligas metálicas, enquanto
+mantêm inalteradas as demais propriedades mecânicas, mesmo quando solicitados a temperaturas relativamente
+elevadas. Isso porque não exibem superenvelhecimento, inibem o crescimento de grão e o coalescimento das fases
+dispersas. Um exemplo de compósito endurecido por dispersão é o AI-AI,Oz, produzido pela sinterização de pó de
+Alumínio com até 14% de AI,O;. Para a formação desses compósitos, qual deve ser o comportamento químico dos
+dispersóides em relação à matriz?
+O Devem ser incapazes de reagir quimicamente com a matriz durante o processo de fabricação e durante o trabalho
+em temperaturas elevadas.
+Devem ser incapazes de reagir com a matriz quando adicionados em concentrações superiores às da matriz para
+obterem as propriedades pretendidas.
+Devem possuir reatividade química com a matriz para que ocorra a formação de uma terceira fase com propriedades
+otimizadas.
+Devem apresentar concentrações similares às da matriz para que se possa dosar as propriedades de ambas as fases
+após a reação com a matriz.
+Devem reagir quimicamente com a matriz para formar um composto intermetálico durante o processamento.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,767 514,767 514,825 1434,825 1434,970 1436,970 1436,1748 1552,1748 1552,2229 827,2229 827,2230 102,2230 102,2231 101,2231 101,1748 219,1748 219,797 101,797"/>
+	<TextEquiv conf="0.95829">
+	<Unicode>QUESTÃO 33 — DISCURSIVA
+A fibra retirada das folhas de curauá (Ananas erectifolius), uma bromélia de grande porte
+da região amazônica e que pertence à mesma família do abacaxi, pelas suas propriedades
+mecânicas de alta resistência, baixa densidade — capaz de conferir leveza ao produto final — e
+potencial para reciclagem, está cotada para substituir a fibra de vidro empregada como reforço ao
+plástico na fabricação de peças de tamanho reduzido e finos detalhes geométricos.
+A fibra de vidro é uma matéria-prima que requer alto consumo de energia para ser
+produzida. Além disso, os produtos feitos com esse material não podem ser reciclados por nenhum
+processo conhecido atualmente. A fibra do curauá, por outro lado, pode ser reciclada e é produzida
+com baixo consumo energético, apenas o necessário para o processo de extração e moagem da
+planta.
+Considere que a fibra de curauá seja utilizada como reforço em uma matriz polimérica de comportamento mecânico
+predominantemente dúctil. Considerando, ainda, que a figura acima mostra as curvas de tensão-deformação para esses
+dois tipos de material, isoladamente, faça o que se pede a seguir.
+&gt; No gráfico de tensão-deformação, escreva as letras F e M ao lado das curvas correspondentes à fibra de carauá (F)
+e à matriz polimérica (M), respectivamente.
+(valor: 2,0 pontos)
+&gt; Desenhe no gráfico a curva correspondente ao compósito resultante fibra-polímero.
+(valor: 4,0 pontos)
+&gt; Por meio de um conjunto de linhas paralelas aos eixos do gráfico, delimite e indique os dois estágios de deformação
+do compósito fibra-polímero.
+(valor: 4,0 pontos)
+MNT 16 TT
+ENGENHARIA - GRUPO V.</Unicode></TextEquiv></TextRegion></Page></PcGts>

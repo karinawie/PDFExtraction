@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:42:36</Created>
+	<LastChange>2020-10-25T19:58:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r9">
+	<Coords points="886,207 886,2135 888,2135 888,207"/></SeparatorRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="914,1257 1104,1257 1104,1309 1552,1309 1552,1724 1551,1724 1551,1843 1553,1843 1553,2122 914,2122 914,1724 913,1724 913,1309 914,1309"/>
+	<TextEquiv conf="0.96690">
+	<Unicode>QUESTÃO 28
+Os arranjos produtivos locais (APL), também
+conhecidos como clusters ou redes de cooperação,
+são constituídos de empresas interconectadas e
+situadas dentro de uma microrregião geográfica. Um
+APL reunindo 30 micro e pequenas empresas do
+ramo de confecções, atendendo com sucesso ao
+mercado local, mas com pouco capital de giro,
+contratou um consultor para elaborar uma lista de
+atividades a serem desenvolvidas coletivamente
+pelas empresas. A atividade mais eficaz para o
+fortalecimento e a consolidação dessas empresas, a
+curto prazo, consiste em
+O realizar pesquisa de mercado para definir o perfil
+da concorrência.
+O preparar um catálogo coletivo bilíngue, visando
+aumentar as exportações.
+O implantar procedimentos rigorosos para garantir
+a qualidade.
+O criar uma central de compras e uma rede de
+fornecedores e prestadores de serviços.
+O fortalecer a organização sindical entre os
+trabalhadores.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="911,218 1552,218 1552,360 1553,360 1553,914 1267,914 1267,986 1082,986 1082,1210 966,1210 966,1207 914,1207 914,1031 915,1031 915,914 913,914 913,819 915,819 915,713 952,713 952,527 915,527 915,315 911,315"/>
+	<TextEquiv conf="0.96381">
+	<Unicode>Considerando as informações apresentadas, as
+equações de (1) a (7) e o conjunto de equações (8),
+julgue os próximos itens.
+| A equação (1) representa a função objetivo do
+modelo e significa que se deseja minimizar o custo
+total de matéria-prima para se atender a demanda
+do pedido.
+Il As equações (2) e (3) significam que as
+demandas por cada tipo de produto acabado
+serão plenamente atendidas.
+A equação (5) representa a restrição de mistura
+para o produto tipo europeu fino, que deve ter
+concentração de açúcar de, no máximo, 80.
+IV A equação (6) representa a restrição de mistura
+para produto tipo normal, que deve ter teor de
+acidez de, no máximo, 2%.
+V A equação (7) representa a restrição de mistura
+para produto tipo normal, que deve ter teor de
+acidez de, no mínimo, 1%.
+Estão certos apenas os itens
+Lie,
+LIVelv.
+Lev.
+I,IVeV.
+MM, IVeV.
+cogoo</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r46">
+	<Coords points="108,800 108,1014 874,1014 874,800"/></TableRegion>
+	<TableRegion id="r47">
+	<Coords points="102,1048 102,1262 874,1262 874,1048"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,269 875,269 875,771 874,771 874,2135 102,2135 102,1886 103,1886 103,1591 104,1591 104,771 103,771 103,269 104,269"/>
+	<TextEquiv conf="0.96675">
+	<Unicode>QUESTÃO 27
+O gerente de planejamento e controle da produção de
+uma empresa de suco concentrado de laranja precisa decidir a
+mistura de matérias-primas (lotes de sucos primários) para
+atender a um pedido de um importador europeu. Esse pedido
+inclui dois tipos de produto final — sucos N (normal) e
+E (europeu fino) — que diferem entre si pela concentração
+mínima de açúcar e teor máximo de acidez, conforme
+apresentado na tabela | abaixo. As quantidades de cada tipo
+foram definidas pela área de vendas, e precisam ser
+integralmente respeitadas. Para atender ao pedido, o gerente
+dispõe hoje, nos tanques da fábrica, de apenas dois tipos de
+suco primário — G (Grande Lima) e P (Pera) —, cujos custos,
+concentração mínima de açúcar e teor máximo de acidez estão
+apresentados na tabela || a seguir.
+Os custos de fabricação do produto final a partir de suco
+primário são idênticos, não importando o tipo de suco. Para
+produzir um tambor de produto final, é necessário um tambor de
+suco primário. Para definir a quantidade de cada tipo de suco
+primário que a indústria deve usar na mistura, o gerente montou
+um modelo de programação linear, denominado “problema de
+mistura” (blending problem), descrito a seguir.
+Variáveis de decisão: x, = quantidade (em tambores) de suco
+primário tipo i para produzir produto final j(i= G, Pj=N E)
+Minimizar
+C(X;) = 100(Xgv + Xee) + BO(Xpy F Xpe) «coli (1)
+Sujeito às seguintes restrições:
+Xen FXpy = 2.000 Luli (2)
+Xoe t Abe = LODO. 11. a aa a o GB)
+90Xev + BOXpy &gt; GO(Xey t Xpy) cc cc (4)
+90Xçe + BOXpe &gt; BO(Xge FXpe) «ici (5)
+0,005Xçgn + 0,03Xpy &lt; 0,02(Xev FXpy) coli (6)
+0,005xçe + 0,03Xpe &lt; 0,01(Xege FXpe) colilcccc0c cc (7)
+Xem Xee Xpw Xpe 2 O cc o (8)</Unicode></TextEquiv></TextRegion></Page></PcGts>

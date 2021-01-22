@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T18:53:36</Created>
+	<LastChange>2021-01-19T15:06:03</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="840,922 840,1794 1594,1794 1594,922"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="848,625 848,851 1597,851 1597,625"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="71,331 71,534 800,534 800,331"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="828,177 828,2140 825,2140 825,177"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="80,183 81,183 81,184 802,184 802,928 669,928 669,969 81,969 81,968 80,968"/>
+	<TextEquiv conf="0.88887">
+	<Unicode>QUESTÃO 26
+No sistema representado no diagrama abaixo, p, Kp, Ke e K
+são positivos.
+Considerando as especificações acima, esse sistema em
+malha fechada
+(A) pode tornar-se instável para algum valor de K,.
+(B) é um sistema de primeira ordem.
+(C) é um sistema de segunda ordem.
+(D) possui uma resposta subamortecida para determinados
+valores de K,, K. e K.
+(E) é instável para qualquer valor ajustado em K,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="80,1014 80,1015 273,1015 273,1061 803,1061 803,1331 801,1331 801,1588 802,1588 802,1710 804,1710 804,1776 803,1776 803,1858 527,1858 527,1955 252,1955 252,2145 80,2145 80,1913 81,1913 81,1452 80,1452 80,1330 79,1330 79,1061 80,1061"/>
+	<TextEquiv conf="0.96092">
+	<Unicode>QUESTÃO 27
+Em uma Interface Homem-Máquina (IHM) os gráficos de
+tendência mostram, através de sua imagem gráfica, como
+determinadas variáveis de processo mudam ao longo do
+tempo. Os dados mostrados podem ser obtidos em tempo
+real, sincronizados com o tempo de varredura do Controlador
+Lógico Programável (CLP), ou podem advir de um histórico
+arquivado.
+Com base nessas informações, considere as afirmações a
+seguir.
+| - Os dados mostrados na IHM podem ser utilizados na
+análise de tendência do processo.
+I|l - As variáveis de processo podem ser arquivadas para
+garantir a conformidade com leis federais ou outras
+regulamentações.
+Ill - Por meio da IHM o operador terá condições de monitorar
+a eficiência da produção.
+IV - Por meio da IHM o operador terá condições de alterar o
+tempo de varredura do CLP.
+São corretas APENAS as afirmações
+(A) le IV
+(B) Ile IV
+(C) L Ile
+(D) Il, e IV
+(E) LI, MM elVv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords points="851,183 1044,183 1044,233 1574,233 1574,589 1573,589 1573,590 1572,590 1572,2070 1574,2070 1574,2096 1020,2096 1020,2141 899,2141 899,2096 852,2096 852,590 850,590 850,589 851,589"/>
+	<TextEquiv conf="0.96869">
+	<Unicode>QUESTÃO 28
+Sabe-se que um motor de corrente contínua pode ser
+representado por uma função de transferência de primeira
+ordem quando se relaciona a velocidade W(s) de rotação
+de seu eixo com a tensão V(s) aplicada nos terminais de
+alimentação.
+As figuras abaixo apresentam o Diagrama de Blocos do
+sistema de controle de velocidade do motor e o painel frontal
+do controlador projetado.
+Nesse sistema em malha fechada, o erro estacionário
+(A) será eliminado com a adição de um controlador integrador.
+(B) será eliminado com a adição de um controlador derivativo.
+(C) será eliminado com o controlador que foi implementado.
+(D) aumentará quando o ganho K,, aumentar.
+(E) aumentará quando for adicionado um controlador
+integrador.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

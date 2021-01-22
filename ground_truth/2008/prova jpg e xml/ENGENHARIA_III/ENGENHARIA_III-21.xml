@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:04:39</Created>
+	<LastChange>2020-10-25T18:04:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-21.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="78,184 78,186 1576,186 1576,184"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="78,184 78,2149 80,2149 80,184"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1574,184 1574,2149 1576,2149 1576,184"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="78,2147 78,2149 1576,2149 1576,2147"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1574,80 1574,143 1344,143 1344,80"/>
+	<TextEquiv conf="0.62490">
+	<Unicode>ENADE!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1559,2192 1559,2249 80,2249 80,2192"/>
+	<TextEquiv conf="0.80104">
+	<Unicode>— 2
+ENGENHARIA - GRUPO III</Unicode></TextEquiv></TextRegion></Page></PcGts>

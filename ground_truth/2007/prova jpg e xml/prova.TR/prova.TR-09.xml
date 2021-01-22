@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:03:05</Created>
+	<LastChange>2020-11-23T02:14:18</LastChange></Metadata>
+	<Page imageFilename="prova.TR-09.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="60,1200 251,1200 251,1248 1555,1248 1555,1301 1399,1301 1399,1546 1554,1546 1554,1607 581,1607 581,1736 228,1736 228,1892 246,1892 246,1979 61,1979 61,1644 128,1644 128,1506 110,1506 110,1301 60,1301"/>
+	<TextEquiv conf="0.96547">
+	<Unicode>QUESTÃO 12
+Considere as afirmativas abaixo quanto à utilização das grades antiespalhamento em um equipamento de raios X
+convencional.
+IT. Melhoram a qualidade da imagem porque atenuam os elétrons produzidos pelo efeito fotoelétrico.
+II. Atenuam os fótons produzidos por efeito Compton.
+III. Exige que se aumente a intensidade da radiação emitida pelo equipamento.
+IV. Aumentam o contraste na imagem por atenuarem os fótons de raios X característicos mais do que os fótons
+devidos ao Bremsstrahlung.
+Está correto o que se afirma APENAS em:
+(A) I,ITeIImT.
+(B) IeIV.
+(C) ITeIV.
+(D) ITeIILT.
+(E) IITeIV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,159 1554,159 1554,285 1553,285 1553,620 1554,620 1554,714 573,714 573,842 246,842 246,909 228,909 228,1018 261,1018 261,1044 246,1044 246,1111 61,1111 61,751 128,751 128,582 110,582 110,481 59,481 59,290 60,290"/>
+	<TextEquiv conf="0.69180">
+	<Unicode>QUESTÃO 11
+Os efeitos biológicos das radiações ionizantes podem ser divididos em efeitos agudos, ou de curto prazo, e efeitos
+tardios, ou de longo prazo. Os efeitos tardios, por sua vez, podem ser classificados como efeitos genéticos ou somáticos.
+Analise as afirmativas abaixo.
+I. Os efeitos genéticos ocorrem nos descendentes do indivíduo irradiado.
+II. Os efeitos somáticos afetam tanto o indivíduo exposto quanto seus descendentes.
+III. São efeitos somáticos importantes que ocorrem em seres humanos: o aumento da incidência de câncer,
+anormalidades no desenvolvimento do embrião e indução de catarata.
+IV. Para a redução da probabilidade de ocorrência de efeitos agudos, o sistema de limitação de doses individuais
+estabelecido no Brasil define valores de dose efetiva anual de 20 mSv em qualquer período de 5 anos
+consecutivos, não podendo exceder 50 mSv em nenhum ano.
+Está correto o que se afirma APENAS em
+(A) Ie.
+(B) ITeIIL.
+(C) IeIIL.
+(D) 1,ITeTV.
+(E) IITeTIV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

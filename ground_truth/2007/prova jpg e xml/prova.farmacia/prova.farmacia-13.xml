@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T02:51:39</Created>
+	<LastChange>2020-09-29T01:25:46</LastChange></Metadata>
+	<Page imageFilename="prova.farmacia-13.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.22431">
+	<Unicode>os</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="1576,169 1576,220 1325,220 1325,169"/>
+	<TextEquiv conf="0.90590">
+	<Unicode>ENADE:</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r56">
+	<Coords points="822,257 822,2068 834,2068 834,257"/></SeparatorRegion>
+	<ImageRegion id="r63">
+	<Coords points="842,585 842,1037 1580,1037 1580,585"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,262 273,262 273,303 802,303 802,670 803,670 803,1363 80,1363 80,796 78,796 78,670 79,670 79,303 80,303"/>
+	<TableRegion id="r0">
+	<Coords points="71,405 71,651 800,651 800,405"/></TableRegion>
+	<TextEquiv conf="0.96619">
+	<Unicode>QUESTÃO 22
+Atabela abaixo mostra os resultados da avaliação leucocitária,
+durante os primeiros sete dias de internação, em UTI, de um
+paciente após uma grande cirurgia abdominal.
+Após a avaliação dos resultados e da periodicidade dos
+exames realizados, qual deve ser a recomendação do
+Farmacêutico responsável pelo laboratório, como participante
+da equipe multiprofissional de atenção ao paciente?
+(A) Não há necessidade de mudar a periodicidade dos
+exames, pois os resultados indicam uma diminuição do
+processo inflamatório.
+(B) Não é necessária a realização de outros exames, pois a
+diminuição gradativa do percentual de linfócitos indica a
+presença de uma infecção de origem viral.
+(C) Não é necessária a realização de outros exames, pois o
+aumento do número de leucócitos corresponde a uma
+reação de recuperação na qual os neutrófilos estariam
+envolvidos no processo de cicatrização.
+(D) Seria recomendável o exame diário devido ao aumento do
+número de leucócitos associado ao aumento do percentual
+de neutrófilos, o que indica uma infecção de origem
+bacteriana em evolução.
+(E) Devem ser feitos outros exames, pois os valores apre-
+sentados não são suficientes para qualquer conclusão
+acerca da evolução do paciente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="80,1399 273,1399 273,1440 803,1440 803,2066 80,2066 80,1633 79,1633 79,1599 78,1599 78,1573 79,1573 79,1507 80,1507"/>
+	<TextEquiv conf="0.96547">
+	<Unicode>QUESTÃO 23
+Uma das causas mais comuns de diarréia em crianças é a
+infecção por Escherichia coli, que pode ocorrer em berçários,
+creches, escolas e instituições de atendimento infantil,
+sendo frequentemente responsável por surtos endêmicos.
+A atenção à saúde da criança inclui medidas para o
+diagnóstico e a prevenção das doenças frequentes
+nessa faixa etária. A(s) recomendação(ões) principal(is)
+para a prevenção da diarréia por Escherichia coli em
+berçários é(são):
+(A) evitar as temperaturas elevadas, se possível, mantendo o
+ambiente refrigerado.
+(B) usar a antibioticoterapia em todos os funcionários que
+lidam com as crianças.
+(C) usar a antibioticoterapia profilática em todas as crianças
+em caso de infecção.
+(D) usar somente leite em pó na alimentação das crianças a
+fim de evitar a contaminação via leite materno.
+(E) lavar rigorosamente as mãos e fazer o isolamento dos
+pacientes com diarréia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="851,262 1045,262 1045,307 1571,307 1571,542 1428,542 1428,570 1419,570 1419,571 1417,571 1417,572 1415,572 1415,573 1413,573 1413,574 1411,574 1411,575 1409,575 1409,576 1276,576 1276,1349 1573,1349 1573,1465 1574,1465 1574,1800 1426,1800 1426,2071 852,2071 852,1414 851,1414 851,1296 850,1296 850,1272 851,1272 851,569 849,569 849,568 847,568 847,307 851,307"/>
+	<TextEquiv conf="0.96460">
+	<Unicode>QUESTÃO 24
+A linezolida (1) é um agente antibacteriano inibidor da
+biossíntese de proteínas, pertecente à classe química das
+oxazolidinonas. A equipe de desenvolvimento de fármacos de
+uma grande empresa farmacêutica, visando a desenvolver
+novos análogos dessa família de compostos, propôs as
+estruturas 2-4 para desenvolvimento. A rota de síntese
+desses compostos encontra-se descrita abaixo.
+FX Y YO
+DIPEA: Diisopropiletilamina (base não nucleofílica)
+DMF: Dimetilfomamida (solvente polar aprótico)
+1 (Linezolida): XK= C-F, Y= O
+2: X=C-OCH,Y=O
+3:X=C-F,Y=S
+4: X=N,Y=O
+Com base nessas informações, pode-se afirmar que são
+candidatos promissores a análogos da linezolida o composto:
+| — 2, já que o grupo metoxila irá mimetizar as propriedades
+eletrônicas do átomo de flúor de 1, favorecendo também
+a etapa de síntese de substituição nucleofílica aromática;
+|l — 3, sendo que o átomo de enxofre, devido à sua maior
+lipofilicidade, deverá proporcionar maior absorção entérica
+de 3 em relação a 1;
+Ill — 4, já que o anel piridínico irá mimetizar as propriedades
+eletrônicas do anel benzênico de 1, favorecendo também
+a etapa de síntese de substituição nucleofílica aromática.
+Está(ão) correta(s), apenas, a(s) afirmação(ões)
+(A) I.
+(B) II.
+(C) III.
+(D) I e II.
+(E) II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

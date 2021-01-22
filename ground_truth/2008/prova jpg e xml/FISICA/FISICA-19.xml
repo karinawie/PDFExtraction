@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:29:13</Created>
+	<LastChange>2021-01-19T14:04:17</LastChange></Metadata>
+	<Page imageFilename="FISICA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="292,1580 292,1858 616,1858 616,1580"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,1524 273,1524 273,1902 790,1902 790,2034 788,2034 788,2143 80,2143 80,2034 79,2034 79,1902 80,1902"/>
+	<TextEquiv conf="0.96594">
+	<Unicode>QUESTÃO 34
+O enxofre cristalino, um sólido transparente de cor ama-
+relo pálido por absorver apenas a luz azul e nenhuma
+outra cor, é um isolante elétrico. Qual é o gap de energia do
+enxofre cristalino?
+(Considere hc = 1,2 eV.um)
+(A) 2,5 (B) 4,5 (C)5,0 (D)5,5 (E)6,0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 273,184 273,226 790,226 790,452 576,452 576,769 789,769 789,848 653,848 653,990 785,990 785,1024 790,1024 790,1221 571,1221 571,1464 80,1464 80,1262 81,1262 81,942 79,942 79,853 80,853 80,769 81,769 81,607 79,607 79,226 80,226"/>
+	<TextEquiv conf="0.90685">
+	<Unicode>QUESTÃO 33
+Quando uma onda eletromagnética plana penetra em um meio
+material, a sua amplitude decai com a distância de penetra-
+ção, ou seja, ela tem a sua amplitude atenuada pelo meio.
+A profundidade de penetração da onda (5) é a profundidade
+na qual a intensidade do campo foi reduzida a aproxima-
+damente 1/3 do valor inicial. Define-se a profundidade da
+penetração como:
+onde
+o é a condutividade do meio;
+un é a permeabilidade magnética do meio;
+o é a frequência angular da onda.
+Para onda com frequência específica &amp;,, a condutividade na
+prata é o, =3x1 07 (mo) enomaréo = 4,0x107 (mo),
+ar
+e para ambos é u=4n7 x 1077 N/A?.
+A esse respeito, analise as afirmações a seguir.
+| - Apenetração da onda é maior na prata do que no mar.
+Il - Para um meio condutor com condutividade constante,
+uma onda com menor comprimento de onda tem uma
+profundidade de penetração maior do que outra onda
+com maior comprimento de onda.
+Ill - Auma profundidade de 2 5 da superfície, a sua amplitu-
+de será aproximadamente 10% da amplitude original.
+Estão corretas SOMENTE as afirmações
+(A) I
+(B) II
+(C) III
+(D) I e III
+(E) II e III</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="1041,1682 1043,1682 1043,1687 1056,1687 1056,1752 1573,1752 1573,2002 1433,2002 1433,2147 865,2147 865,2148 864,2148 864,2003 862,2003 862,1752 863,1752 863,1689 865,1689 865,1688 871,1688 871,1686 1034,1686 1034,1685 1035,1685 1035,1684 1037,1684 1037,1683 1041,1683"/>
+	<TextEquiv conf="0.91623">
+	<Unicode>QUESTÃO 37
+O urânio natural presente na Terra é uma mistura de
+2381) (99,3%) e 2ººU (0,7%). A vida média do ?*U é
+4,5 bilhões de anos e a do ?*U é 1,0 bilhão de anos.
+Supondo que, na explosão de uma supernova, esses
+isótopos tenham sido produzidos em quantidades iguais,
+há quanto tempo, em anos, deve ter ocorrido essa explosão?
+(Considere In(99,3/0,7) = 5)
+(A) 6 mil (B) 20 milhões
+(C) 1 bilhão OD) 6 bilhões
+(E) 15 bilhões</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="862,823 1575,823 1575,1405 1233,1405 1233,1436 1043,1436 1043,1680 1040,1680 1040,1681 1036,1681 1036,1682 1034,1682 1034,1683 1033,1683 1033,1684 1031,1684 1031,1685 1030,1685 1030,1686 1028,1686 1028,1687 1026,1687 1026,1688 1024,1688 1024,1689 1022,1689 1022,1690 1019,1690 1019,1691 1017,1691 1017,1692 1015,1692 1015,1693 979,1693 979,1692 976,1692 976,1691 973,1691 973,1690 970,1690 970,1689 967,1689 967,1688 964,1688 964,1687 949,1687 949,1686 945,1686 945,1685 940,1685 940,1684 871,1684 871,1668 864,1668 864,1405 863,1405 863,824 862,824"/>
+	<TextEquiv conf="0.72549">
+	<Unicode>QUESTÃO 36
+O LHC (Large Hadron Collider), acelerador de partículas
+que entrou em operação este ano, busca uma nova Física
+na escala de até 14 TeV. A principal busca é pela partícula
+chamada Higgs, que supostamente gera as massas das par-
+tículas responsáveis pela interação nuclear fraca, como
+o W* e o W". Essas partículas são muito massivas se com-
+paradas a outras como o próton e o elétron. Suas massas
+de repouso são da ordem de 82 GeV. Elas serão geradas
+em quantidade no LHC e com energias que podem chegar,
+em um experimento típico, a 500 GeV para o W* ou o W-.
+Essas partículas são muito instáveis, pois decaem rapida-
+mente. Estima-se que suas vidas médias sejam de
+3 x 10? s, em seu referencial de repouso. No referencial
+do laboratório (LHC), qual seria sua vida média, num
+experimento típico?
+(Dados: 1 TeV = 10º GeV = 10? eV
+1eV=1,6 x 107%)
+(A) s
+(B) 18x 10 ?s
+(C) 27 x 10 ?s
+OD) s
+(E) 18x 10 ?s</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="863,183 1057,183 1057,227 1574,227 1574,370 1478,370 1478,478 1468,478 1468,516 1448,516 1448,644 865,644 865,645 864,645 864,371 863,371"/>
+	<TextEquiv conf="0.96622">
+	<Unicode>QUESTÃO 35
+Um metal unidimensional tem um elétron de condução por
+átomo a temperatura T = 0 K. O espaçamento interatômico
+no metal é D. Supondo que os elétrons movem-se
+livremente, qual é a energia de Fermi E?
+(h=h/2né a Constante de Planck e m é a massa do elétron)
+- nho neh
+= B Exma
+F B8mD? DE, 8mD”?
+(A) E
+Pr
+(C)E = E (D)JE = ã
+F 6mD PF 2mD</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r39">
+	<Coords points="822,2180 822,165"/></SeparatorRegion></Page></PcGts>

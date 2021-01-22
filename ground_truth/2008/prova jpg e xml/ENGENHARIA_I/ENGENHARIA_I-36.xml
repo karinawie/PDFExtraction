@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:31:58</Created>
+	<LastChange>2021-01-19T11:44:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-36.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="1011,355 1011,906 1486,907 1486,356"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,270 80,270 80,271 1140,271 1140,338 335,338 335,477 549,477 549,503 499,503 499,622 848,622 848,649 769,649 769,748 383,748 383,856 452,856 452,877 769,877 769,856 769,877 105,877 105,882 80,882 80,648 79,648 79,609 78,609 78,411 79,411"/>
+	<TextEquiv conf="0.96564">
+	<Unicode>QUESTÃO 51
+Considere:
+C: centro da Terra
+Z: zênite
+O: observador na superfície da Terra
+: distância zenital geocêntrica
+: distância zenital observada
+A: astro
+A’, A”: posições aparentes do astro projetadas na esfera celeste
+Nessa situação, o ângulo â corresponde à correção da(o)
+(A) refração.
+(B) paralaxe.
+(C) esfericidade terrestre.
+(D) semidiâmetro solar.
+(E) erro de zênite instrumental.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="254,1174 254,1894 1582,1894 1582,1174"/></ImageRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="80,991 80,992 273,992 273,1033 1575,1033 1575,1161 1243,1161 1243,1992 523,1992 523,2151 80,2151 80,1161 79,1161 79,1033 80,1033"/>
+	<TextEquiv conf="0.96480">
+	<Unicode>QUESTÃO 52
+A figura a seguir representa o espectro de energia refletida por vários alvos na faixa de comprimentos de onda entre
+400 e 900 nm. Nessa figura foram superpostas as bandas 1, 2 e 3 do Sensor ETM (Satélite Landsat) e H1 até Hn do Sensor
+Hyperion (Satélite EO-1), evidenciando que cada banda do Sensor Hyperion abrange uma faixa de comprimentos de onda bem
+menor que as do Sensor ETM.
+Nesse caso, quanto à resolução do Sensor Hyperion, se comparado ao ETM, verifica-se que tem
+(A) maior resolução radiométrica.
+(B) maior resolução espectral.
+(C) menor resolução radiométrica.
+(D) menor resolução espectral.
+(E) menor resolução espacial.</Unicode></TextEquiv></TextRegion></Page></PcGts>

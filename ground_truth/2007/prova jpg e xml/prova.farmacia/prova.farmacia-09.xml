@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-09T00:30:41</Created>
+	<LastChange>2020-09-09T00:30:41</LastChange></Metadata>
+	<Page imageFilename="prova.farmacia-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r47">
+	<Coords points="820,254 820,2080 834,2080 834,254"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,326 267,326 267,368 803,368 803,1425 80,1425 80,821 79,821 79,404 80,404"/>
+	<TextEquiv conf="0.95390">
+	<Unicode>QUESTÃO 11
+O farmacêutico Epaminondas trabalha em uma instituição
+com carga horária de 40 horas semanais, entretanto,
+aceitou a responsabilidade técnica por uma drogaria cujo dono
+lhe comunicou que não precisaria ir lá todos os dias, pois
+ele próprio sabia preencher o livro e dar atenção à clientela.
+Os dias se passaram... até que a drogaria recebeu a fiscaliza-
+ção do Conselho Regional de Farmácia (CRF) e, como
+Epaminondas não estava presente dentro do horário declarado
+ao CRF, a fiscalização preencheu o termo de visita, anotando
+as irregularidades observadas. As ausências se repetiram e
+levaram Epaminondas à Comissão de Ética do CRF. Diante do
+exposto e do conhecimento da Resolução 417/2004, o artigo
+que o Farmacêutico Epaminondas infringiu foi
+(A) comunicar às autoridades sanitárias e profissionais, com
+discrição e fundamento, fatos que caracterizaram
+infringência ao Código de Ética e às normas que regulam
+o exercício das atividades farmacêuticas.
+(B) comunicar ao CRF e às autoridades sanitárias a recusa
+ou a demissão de cargo, função ou emprego, motivada
+pela necessidade de preservar os legítimos interesses da
+profissão, da sociedade ou da saúde pública.
+(C) comunicar ao CRF, por escrito, o afastamento de suas
+atividades profissionais, das quais detém responsabilida-
+de técnica, quando não houver outro Farmacêutico que,
+legalmente, o substitua.
+(D) comunicar ao CRF o exercício da profissão em estabe-
+lecimento que não esteja devidamente registrado nos
+órgãos de fiscalização sanitária e do exercício profissional.
+(E) prevalecer-se do cargo de chefia ou de empregador para
+desrespeitar a dignidade de subordinados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,1464 273,1464 273,1506 803,1506 803,1926 446,1926 446,2044 475,2044 475,2070 80,2070 80,1926 79,1926 79,1506 80,1506"/>
+	<TextEquiv conf="0.96398">
+	<Unicode>QUESTÃO 12
+Pela RDC 67, de 08/10/2007, todas as farmácias com
+manipulação devem garantir a qualidade físico-química e
+microbiológica da sua água potável. Esta será o ponto de
+partida para a obtenção da água purificada, a ser utilizada
+em todas as preparações farmacêuticas. Para melhorar a
+qualidade da água potável podem ser realizados alguns
+pré-tratamentos, além de um tratamento posterior de
+purificação, de forma a se obter a água purificada. Este
+método será escolhido pelo Farmacêutico responsável, de
+acordo com suas necessidades. Uma combinação possível
+das etapas de pré-tratamento e tratamento, respectivamente, é
+(A) filtração e abrandamento.
+(B) filtração e osmose reversa.
+(C) troca iônica e destilação.
+(D) destilação e troca iônica.
+(E) destilação e osmose reversa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="851,260 1045,260 1045,299 1573,299 1573,600 1558,600 1558,688 1370,688 1370,819 1573,819 1573,997 1374,997 1374,1126 1573,1126 1573,1153 851,1153 852,1153 852,997 850,997 850,819 855,819 855,687 854,687 854,600 851,600 851,503 850,503 850,299 851,299"/>
+	<TextEquiv conf="0.96159">
+	<Unicode>QUESTÃO 13
+As endonucleases de restrição são enzimas que reconhecem
+uma sequência específica de nucleotídeos do DNAe o
+digerem (cortam) num ponto determinado. O emprego
+dessas enzimas no diagnóstico de doenças infecciosas,
+neoplásicas e hereditárias vem crescendo dia a dia, e está
+preconizado em alguns programas de saúde pública do
+Governo Federal.
+O esquema abaixo mostra a sequência de bases reconhecida
+pela enzima Dde |, seu ponto de corte (representado pela
+seta) e dois fragmentos de DNA a serem examinados.
+erjie — sequência reconhecida pela Dde |. (N = nucleotídeo qualquer)
+Fragmento A = ... ACT CCT GAG GAG... + Ddel
+Fragmento S = ... ACT CCT GTG GAG... + Ddel
+Considerando a especificidade da enzima e os fragmentos
+em estudo, e sabendo que o fragmento “A” é o normal e o
+fragmento “S” representa uma mutação, qual a representação
+do resultado da corrida eletroforética dos fragmentos resul-
+tantes da digestão do DNA de um indivíduo normal e de um
+homozigoto doente?
+(A) Normal = 1 banda; doente = 1 banda.
+(B) Normal = 1 banda; doente = 2 bandas.
+(OC) Normal = 2 bandas; doente = 1 banda.
+(D) Normal = 2 bandas; doente = 2 bandas.
+(E) Não é possível diferenciar a mutação nestes fragmentos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="851,1182 1045,1182 1045,1216 1573,1216 1573,1443 1574,1443 1574,1925 1573,1925 1573,1926 1383,1926 1383,2074 852,2074 852,1984 851,1984 851,1958 853,1958 853,1422 851,1422 851,1421 850,1421 850,1216 851,1216"/>
+	<TextEquiv conf="0.78721">
+	<Unicode>QUESTÃO 14
+Uma indústria detentora da patente de um antiinflamatório
+desenvolveu recentemente um pró-fármaco a partir da
+molécula do antiinflamatório anteriormente patenteado.
+Sabendo que, por definição, um pró-fármaco é um composto
+que requer biotransformação metabólica depois da adminis-
+tração, para produzir o composto farmacologicamente ativo
+desejado é preciso considerar que
+| — para garantir a inovação e os direitos sobre o produto, a
+indústria precisará patentear o desenvolvimento do
+pró-fármaco;
+ll — para fins de registro junto ao Ministério da Saúde a
+forma farmacêutica contendo o pró-farmaco terá de
+ser submetida a todas as etapas de registro de um novo
+medicamento lançado no mercado;
+Ill — dependendo da velocidade metabólica de conversão de
+um pró-fármaco em fármaco ativo, ela pode ser útil para
+proporcionar liberação prolongada, aumentando a sua
+atividade terapêutica;
+IV — por tratar-se de um pró-fármaco de uma molécula já
+submetida a registro e na qual foi mantida a mesma
+forma farmacêutica, serão necessárias, para fins de
+registro, as avaliações de liberação, biodisponibilidade,
+estabilidade e toxicológicas.
+São corretas, apenas, as afirmações
+(A) le. (B)lelV.
+(C) Ilelll. (D)l, Ile IV.
+(E) L, WelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

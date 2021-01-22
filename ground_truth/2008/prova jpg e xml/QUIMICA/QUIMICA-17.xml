@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T01:35:51</Created>
+	<LastChange>2020-10-26T12:19:46</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="865,377 867,732 1556,728 1554,373"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="851,182 1045,182 1045,224 1574,224 1574,349 1573,349 1573,1124 1574,1124 1574,1213 1396,1213 1396,1214 1215,1214 1215,1215 1034,1215 1034,1216 854,1216 854,1217 853,1217 853,1064 852,1064 852,783 851,783"/>
+	<TextEquiv conf="0.96569">
+	<Unicode>QUESTÃO 37
+Os tensoativos possuem uma porção hidrofílica e outra lipofílica
+e, quando dissolvidos em concentrações superiores à
+concentração micelar crítica, formam micelas, que podem
+ser normais ou reversas, conforme a representação abaixo.
+Quanto às propriedades das micelas formadas pelo
+hexadecanoato de sódio em água, é correto afirmar que sua
+(A) estrutura, com uma cabeça polar e uma cauda apolar, é
+característica da micela reversa.
+(B) formação leva ao aumento da tensão superficial na interface
+ar-água.
+(OC) formação é termodinamicamente desfavorável por serem
+as micelas agregados de moléculas com contribuição
+entrópica positiva.
+(D) superfície encontra-se carregada positivamente e, porisso,
+as micelas permanecem dispersas na fase aquosa.
+(E) estabilidade é governada por Forças de Van der Waals e
+pelas forças entre as duplas camadas elétricas das partí-
+culas, segundo a teoria DLVO.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="180,1154 180,1542 662,1542 662,1154"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,991 273,991 273,1028 802,1028 802,1731 803,1731 803,2059 767,2059 767,2154 80,2154 80,1146 79,1146 79,1028 80,1028"/>
+	<TextEquiv conf="0.96717">
+	<Unicode>QUESTÃO 36
+Considere as curvas da análise termogravimétrica (TGA) obti-
+das para quatro polímeros: polietileno (PE), polipropileno (PP),
+politetrafluoretileno (PTFE) e policloreto de vinila (PVC),
+apresentadas na figura abaixo.
+STUART, B. Polymer Analysis. Chichester: John Wiley &amp; Sons, 2002.
+p. 203. (adaptado)
+Com base na análise do gráfico, foram feitas as seguintes
+afirmativas:
+| - oPTFE é termorrígido, pois apresenta a maior tempera-
+tura de decomposição;
+Il - o PTFE se decompõe em temperatura maior que o PE,
+pois a energia da ligação C-F é maior que a energia da
+ligação C-H;
+Ill - a cadeia ramificada do PP contribui para maior tempe-
+ratura de decomposição em relação à temperatura de
+decomposição do PE;
+IV - o patamar observado na curva do PVC deve-se à libera-
+ção de HCl, sendo este fato uma preocupação no seu
+processo de reciclagem.
+Estão corretas APENAS as afirmativas
+(A)lell (B)lelv (C)llell (D)llelvV (E)llelv</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,285 273,285 273,322 803,322 803,390 804,390 804,497 803,497 803,607 802,607 802,880 760,880 760,963 647,963 647,961 491,961 491,962 80,962 80,907 81,907 81,906 82,906 82,699 81,699 81,502 79,502 79,322 80,322"/>
+	<TextEquiv conf="0.58665">
+	<Unicode>QUESTÃO 35
+A bioquímica experimentou um grande avanço no século XX,
+graças ao desenvolvimento de métodos de análise como a
+eletroforese, a ultracentrifugação e a espectrometria de mas-
+sas, que permitiram separar, purificar e caracterizar
+biomoléculas. A respeito desses métodos, são feitas as se-
+guintes afirmações:
+| - a desvantagem da eletroforese em gel, em relação à
+ultracentrifugação, consiste na necessidade de inativar
+as biomoléculas;
+Il - na análise de espectrometria de massas por eletrospray,
+é necessário que as biomoléculas sejam dissolvidas em
+solventes de baixa volatilidade;
+IN - atécnica de ultracentrifugação permite separar uma mistu-
+ra de biomoléculas a partir das suas diferenças de massas;
+IV - a eletroforese em gel permite separar biomoléculas neu-
+tras em função da habilidade diferenciada das mesmas
+em se difundirem através do gel sob a ação de um cam-
+po elétrico.
+Está(ão) correta(s) APENAS a(s) afirmativa(s)
+(A) | (B) Il (C) lelll (D) lelV
+(E) ev</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r15">
+	<Coords points="825,2151 825,174"/></SeparatorRegion></Page></PcGts>

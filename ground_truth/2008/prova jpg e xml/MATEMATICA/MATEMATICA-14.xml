@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:39:00</Created>
+	<LastChange>2020-10-26T00:57:41</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r7">
+	<Coords points="853,988 854,2129 857,2129 856,988"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="105,1505 105,1602 840,1602 840,1505"/></TableRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="85,982 85,2151 842,2151 842,982"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 30
+As potencialidades pedagógicas da história no ensino de
+matemática têm sido bastante discutidas. Entre as justificativas para
+o uso da história no ensino de matemática, inclui-se o fato de ela
+suscitar oportunidades para a investigação. Considerando essa
+justificativa, um professor propôs uma atividade a partir da
+informação histórica de que o famoso matemático Pierre Fermat
+[1601-1665], que se interessava por números primos, percebeu
+algumas relações entre números primos ímpares e quadrados
+perfeitos.
+Para que os alunos também descobrissem essa relação, pediu
+que eles completassem a tabela a seguir, verificando quais números
+primos ímpares podem ser escritos como soma de dois quadrados
+perfeitos. Além disso, solicitou que observassem alguma
+propriedade comum a esses números.
+A partir da atividade de investigação proposta pelo professor,
+analise as afirmações seguintes.
+I Todo número primo da forma 4n + 1 pode ser escrito como a
+soma de dois quadrados perfeitos.
+II Todo número primo da forma 4n + 3 pode ser escrito como a
+soma de dois quadrados perfeitos.
+III Todo número primo da forma 2n + 1 pode ser escrito como a
+soma de dois quadrados perfeitos.
+Está correto o que se afirma em
+A I, apenas. D II e III, apenas.
+B II, apenas. E I, II e III.
+C I e III, apenas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="868,988 868,1897 1568,1897 1568,988"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 31
+Na discussão relativa a funções exponenciais, um professor
+propôs a seguinte questão:
+Para que valores não-nulos de k e m a função f(x) = mekx é uma
+função crescente?
+Como estratégia de trabalho para que os alunos respondam à
+questão proposta, é adequado e suficiente o professor sugerir
+que os alunos
+A considerem m = 1 e k = 1, utilizem uma planilha
+eletrônica para calcular valores da função f em muitos
+pontos e comparem os valores obtidos.
+B considerem m = 1 e k = 1, m = !1 e k = 1, esbocem os
+gráficos da função f e, em seguida, comparem esses dois
+gráficos.
+C formem pequenos grupos, sendo que cada grupo deve
+esboçar o gráfico de uma das funções , para m = 1,
+2, 3, 4 ou 5, e comparem, em seguida, os gráficos
+encontrados.
+D esbocem os gráficos das funções y = ex
+ e y = e!x
+ e
+analisem o que acontece com esses gráficos quando a
+variável e a função forem multiplicadas por constantes
+positivas ou negativas.
+E construam uma tabela com os valores de f para x número
+inteiro variando de !5 a 5, fixando m = 1 e k = 1 e, em
+seguida, comparem os valores encontrados.</Unicode></TextEquiv></TextRegion></Page></PcGts>

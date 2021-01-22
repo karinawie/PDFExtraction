@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:01:52</Created>
+	<LastChange>2020-10-26T14:05:51</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-17.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,1158 486,1158 486,1198 1573,1198 1573,1458 79,1458 79,1198 80,1198"/>
+	<TextEquiv conf="0.94876">
+	<Unicode>QUESTÃO 39 - DISCURSIVA
+Uma empresa recebeu do seu provedor a faixa de endereços IP, definida pelo prefixo 200.10.10.0/24, para a construção de sua
+rede interna de computadores. Essa empresa é dividida em cinco departamentos (Produção, Compras, Vendas, Pessoal e
+Pesquisa) e cada um terá sua própria sub-rede IP. Considere que cada departamento conta com a seguinte quantidade de
+máquinas: Produção=10, Compras=25, Vendas=40, Pessoal=100 e Pesquisa=8. Determine o prefixo de rede e o
+endereço de difusão (broadcast) de cada departamento para que todas as máquinas recebam um endereço. Os prefixos devem
+ser alocados de tal forma que departamentos com um maior número de máquinas recebam endereços mais próximos do
+início do espaço de endereçamento disponível. Os prefixos devem ser informados usando a notação X.Y.W.Z/Máscara,
+como na representação do prefixo fornecido pelo provedor. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

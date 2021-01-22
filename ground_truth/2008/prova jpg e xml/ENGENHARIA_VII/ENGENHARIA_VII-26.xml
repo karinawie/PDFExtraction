@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:05:50</Created>
+	<LastChange>2020-10-25T20:15:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-26.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="294,584 294,1166 631,1166 631,584"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="836,532 835,2132 838,2132 839,532"/></SeparatorRegion>
+	<ImageRegion id="r4">
+	<Coords points="1068,588 1068,1117 1347,1117 1347,588"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="864,538 1054,538 1054,1149 1550,1149 1550,1392 1552,1392 1552,1968 1549,1968 1549,2070 1522,2070 1522,2119 914,2119 914,2070 864,2070 864,1321 863,1321 863,1149 864,1149"/>
+	<TextEquiv conf="0.93289">
+	<Unicode>QUESTÃO 47
+Na figura acima, estão indicados, pelos números 1 a 7, os
+principais componentes de um poço equipado. Assinale
+a opção que apresenta a correta associação entre o
+componente indicado e o seu nome.
+O 1 -— local canhoneado, 2 — revestimento, 3 —
+cimentação, 4 — parede do poço, 5 — coluna de
+produção, 6 — espaço anular e 7 — reservatório
+O 1-espaço anular, 2 — revestimento, 3 — cimentação,
+4 — parede do poço, 5 — reservatório, 6 — coluna de
+produção e 7 — local canhoneado
+O 1 — parede do poço, 2 — revestimento, 3 —
+cimentação, 4 — coluna de produção, 5 — local
+canhoneado, 6 — espaço anular e 7 — reservatório
+O 1 - coluna de produção, 2 — revestimento, 3 —
+cimentação, 4 — parede do poço, 5 — local
+canhoneado, 6 — espaço anular e 7 — reservatório
+O 1 - coluna de produção, 2 — parede do poço,
+3 — revestimento, 4 — cimentação, 5 — local
+canhoneado, 6 — espaço anular e 7 — reservatório</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,538 294,538 294,1206 824,1206 824,1555 825,1555 825,2004 824,2004 824,2074 248,2074 248,2126 155,2126 155,2074 105,2074 105,2073 104,2073 104,1407 103,1407 103,1206 104,1206"/>
+	<TextEquiv conf="0.96158">
+	<Unicode>QUESTÃO 46
+Uma sonda de perfuração, conforme apresentada na figura
+acima, é composta de alguns equipamentos tais como bloco
+de coroamento, catarina, kelly, mesa rotativa e swivel.
+A sequência correta de disposição desses equipamentos da
+base ao topo da torre é
+O bloco de coroamento, swivel, mesa rotativa, kelly e
+catarina.
+O kelly, catarina, bloco de coroamento, mesa rotativa e
+swivel.
+O mesa rotativa, kelly, swivel, catarina e bloco de
+coroamento.
+O catarina, bloco de coroamento, kelly, swivel e mesa
+rotativa.
+O swivel, bloco de coroamento, kelly, catarina e mesa
+rotativa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

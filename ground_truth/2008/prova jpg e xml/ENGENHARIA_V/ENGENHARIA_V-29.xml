@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:58:02</Created>
+	<LastChange>2020-10-25T19:21:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-29.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="836,225 836,2126 838,2126 838,225"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,232 291,232 291,312 825,312 825,750 244,750 244,900 824,900 824,985 285,985 285,1135 824,1135 824,2067 377,2067 377,2126 153,2126 153,2067 102,2067 102,1885 101,1885 101,1500 102,1500 102,1280 101,1280 101,1135 102,1135 102,985 101,985 101,900 102,900 102,750 101,750"/>
+	<TextEquiv conf="0.95893">
+	<Unicode>QUESTÃO 52
+Uma das formas mais utilizadas na conformação de
+um pó cerâmico é a prensagem. Essa técnica pode ser
+realizada a partir da aplicação de pressões uniaxiais ou
+isostáticas. Ao desenvolver cerâmicas por compactação,
+pesquisadores de determinada empresa optaram por
+submeter amostras ao processo final de prensagem
+isostática em meio líquido, pois, nesse caso, os compactos
+a verde apresentariam melhor homogeneidade de densidade
+na amostra.
+Com relação a essa situação, assinale a opção que
+apresenta a justificativa correta para a escolha dos
+pesquisadores.
+O Háum aumento homogêneo do atrito entre o fluido e as
+paredes da peça cerâmica, fazendo com que o material
+sofra compactação homogênea.
+O A tensão de compactação na prensagem isostática
+apresenta dependência com a relação altura/diâmetro e
+com o coeficiente de atrito entre as paredes.
+O Existe uma compensação de pressão referente ao
+material que apresenta distribuição monomodal de
+tamanho de partículas, o que não acontece em materiais
+submetidos apenas a prensagem uniaxial.
+O As nanopartículas presentes no núcleo do compacto
+serão transportadas para a sua superfície, garantindo a
+homogeneidade do material cerâmico prensado.
+O Não há atrito entre as paredes da matriz de
+compactação e o material, e a pressão de compactação
+é uniforme em toda amostra devido à aplicação de
+pressão isostática.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="864,232 1054,232 1054,298 1549,298 1549,599 1548,599 1548,745 1268,745 1268,860 1549,860 1549,1504 1548,1504 1548,1623 1549,1623 1549,2039 1548,2039 1548,2075 1546,2075 1546,2122 915,2122 915,2070 864,2070 864,1623 914,1623 914,1452 864,1452 864,792 863,792 863,298 864,298"/>
+	<TextEquiv conf="0.96821">
+	<Unicode>QUESTÃO 53
+Nos últimos anos foram obtidos avanços
+expressivos no desenvolvimento de processos de
+sinterização, em especial quanto à redução de consumo
+de energia no processo. Tal redução de energia pode ser
+conseguida, por exemplo, reduzindo-se as temperaturas
+finais de sinterização pelo uso de materiais densos
+desenvolvidos a cerâmicos
+partir de pós
+nanoparticulados. Com base em conceitos de
+sinterização por fase sólida, assinale a opção que
+apresenta a justificativa correta para essa redução na
+temperatura final de sinterização.
+O Como a força motriz para o processo de sinterização
+é a eliminação de poros, pós mais finos, quando
+compactados, apresentam menor porosidade e,
+assim, menos tempo é necessário para a completa
+densificação desses materiais
+O A sinterização em materiais nanométricos ocorre
+mais facilmente devido à menor área superficial
+específica que partículas dessa ordem de tamanho
+possuem. Assim, há maior possibilidade de que os
+mecanismos de sinterização sejam ativados,
+reduzindo-se as temperaturas necessárias para total
+densificação.
+O O maior
+necessidade de maior taxa de difusão pelo volume
+grau de compatibilidade reduz a
+entre as partículas, as quais estão, necessariamente,
+relacionadas ao aumento da temperatura.
+O A redução da energia livre superficial total de um
+sistema de partículas é considerada a força motriz do
+processo de sinterização. Com a maior área
+superficial presente nos pós nanoparticulados, há
+maior facilidade para que aconteçam os fenômenos
+difusionais e de evaporação-condensação. Assim,
+temperaturas menores são requeridas.
+O Partículas nanométricas sofrem mais facilmente o
+processo de agitação térmica do que partículas
+micrométricas.
+Portanto, essas nanopartículas
+podem ser sinterizadas a temperaturas mais baixas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

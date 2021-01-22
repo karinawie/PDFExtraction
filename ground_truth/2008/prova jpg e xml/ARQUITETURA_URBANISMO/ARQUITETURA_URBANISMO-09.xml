@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:21:29</Created>
+	<LastChange>2020-11-17T00:17:05</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="74,1260 74,1888 1608,1888 1608,1260"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="365,368 365,740 1340,740 1340,368"/></ImageRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="79,266 1574,266 1574,359 1325,359 1325,360 1076,360 1076,361 827,361 827,362 525,362 525,790 1574,790 1574,1139 1326,1139 1326,1140 1077,1140 1077,1141 828,1141 828,1142 579,1142 579,1143 80,1143 80,362 79,362"/>
+	<TextEquiv conf="0.95416">
+	<Unicode>QUESTÃO 11
+Um construtor, executando sua casa, empregou o sistema estrutural viga-pilar-laje em concreto armado. Ao levantar as pare-
+des, em alvenaria de tijolo, adotou a solução de encunhá-las, segundo o desenho abaixo.
+Por que esse dispositivo foi adotado?
+(A) Porque o pedreiro queria inovar, criando uma forma inédita de distribuir o tijolo na parede. Não se trata de uma função
+construtiva, mas estrutural, pois é essencial para o sistema de viga-pilar-laje.
+(B) Porque se trata de uma solução estética sem implicações estruturais ou construtivas, a fim de que o edifício deixe
+aparente o material da parede e, assim, explicite a verdade dos materiais.
+(C) Porque ele adotou a solução usada pelos pedreiros italianos no final do século XVIII, que trouxeram para o Brasil sua lógica
+e conhecimentos construtivos, oriundos da cultura tectônica romana.
+(D) Porque ele quis desenhar uma trinca retilínea e ortogonal entre a parede e o elemento superior. Os tijolos inclinados
+ajudam a desenhar esse tipo de trinca e, assim, criam um vazio que distingue a vedação da estrutura.
+(E) Porque, durante a cura da argamassa, ocorre uma pequena redução das suas dimensões. Assim sendo, assentando as
+duas últimas fiadas de tijolos depois de um certo tempo da colocação das fiadas anteriores, os tijolos inclinados preenche-
+rão melhor esse intervalo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="81,1185 595,1185 595,1920 1573,1920 1573,1979 1542,1979 1542,2143 1326,2143 1326,2144 1078,2144 1078,2145 831,2145 831,2146 88,2146 88,2079 87,2079 87,2013 80,2013 80,1921 79,1921 79,1920 80,1920 80,1186 81,1186"/>
+	<TextEquiv conf="0.96078">
+	<Unicode>QUESTÃO 12
+Observe o gráfico e as ilustrações a seguir.
+Analisando o gráfico do momento fletor que descreve o comportamento estrutural da Igreja de Atlântida — cidade de Atlântida,
+Uruguai, 1952/1959 (arquitetura e engenharia: Eládio Dieste), e as demais ilustrações, verifica-se que
+(A) as paredes laterais formam com as lâminas de cobertura uma estrutura porticada.
+B) a base da parede, onde a curvatura é nula, funciona como um apoio engastado.
+C) se trata de um sistema estrutural que se utiliza de vigas simplesmente apoiadas nos pilares.
+D) se trata de uma estrutura porticada, permitindo que o conjunto apresente grandes dimensões dos seus componentes.
+E) se trata de uma estrutura em concreto armado, revestida com tijolos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

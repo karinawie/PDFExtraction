@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:34:17</Created>
+	<LastChange>2020-09-23T01:34:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-32.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="395,466 393,1286 1254,1288 1257,468"/></ImageRegion>
+	<TableRegion id="r0">
+	<Coords points="68,1437 68,1768 737,1768 737,1437"/></TableRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,183 80,184 273,184 273,224 1573,224 1573,1404 80,1404 80,389 79,389 79,224 80,224"/>
+	<TextEquiv conf="0.95817">
+	<Unicode>QUESTÃO 47
+Um modelo dos esforços de flexão composta, no plano horizontal de um reservatório de concreto armado de planta-baixa
+quadrada e duplamente simétrica, é apresentado esquematicamente na figura a seguir por meio do diagrama de momentos
+fletores em uma das suas paredes. Na figura, p é a pressão hidrostática no plano de análise, a é o comprimento da parede de
+eixo a eixo, h é a espessura das paredes (h&lt;&lt;a), M, e M, são os momentos fletores, respectivamente, no meio da parede e
+nas suas extremidades, e N é o esforço normal aproximado existente em cada parede.
+Considerando o reservatório cheio de água, verifica-se que, na direção longitudinal da parede, os pontos Q, Re S ilustrados
+na figura estão submetidos às seguintes tensões normais:</Unicode></TextEquiv></TextRegion></Page></PcGts>

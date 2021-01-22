@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T03:11:08</Created>
+	<LastChange>2020-09-22T03:11:50</LastChange></Metadata>
+	<Page imageFilename="prova.biomedicina-12.jpg" imageWidth="1614" imageHeight="2167">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="60,1609 251,1609 251,1658 1555,1658 1555,1811 1057,1811 1057,1812 739,1812 739,1861 732,1861 732,1989 61,1989 61,1814 59,1814 59,1659 60,1659"/>
+	<TextEquiv conf="0.96482">
+	<Unicode>QUESTÃO 22
+A geração de novas células nervosas é muito intensa durante o desenvolvimento embrionário, caindo drasticamente nas
+fases finais da ontogênese e após o nascimento. No entanto, em algumas regiões do sistema nervoso, a neurogênese
+continua durante toda a vida, assim como os processos de morte celular por apoptose. Esses processos podem ser
+manipulados para melhorar a qualidade de vida de pacientes com distúrbios neurológicos. No sistema nervoso de um
+indivíduo que melhora a sua condição geral por meio de exercícios físico e mental, observa-se
+(A) aumento da apoptose e aumento da neurogênese.
+(B) supressão total da apoptose e da neurogênese.
+(C) redução da apoptose e redução da neurogênese.
+(D) aumento da apoptose e redução da neurogênese.
+(E) redução da apoptose e aumento da neurogênese.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="60,1181 247,1181 247,1231 1554,1231 1554,1354 1385,1354 1385,1500 1288,1500 1288,1532 88,1532 88,1404 61,1404 61,1357 60,1357"/>
+	<TextEquiv conf="0.96397">
+	<Unicode>QUESTÃO 21
+Um paciente portador de diabetes do tipo IT, sob tratamento médico, realizou os exames laboratoriais periódicos de
+acompanhamento. Constatou-se uma glicemia de jejum no limite inferior da normalidade, mas os valores de glicose
+incorporada à hemoglobina (hemoglobina glicada) revelaram-se significativamente acima do percentual recomendado.
+Essas observações permitem concluir que
+(A) o paciente deve ter sofrido um episódio hiperglicêmico nas últimas 24 horas.
+) o paciente deve ter sofrido um episódio hipoglicêmico nas últimas 24 horas.
+) o sequestro de glicose pela hemoglobina deve estar provocando episódios frequentes de hipoglicemia.
+) o paciente deve ter apresentado episódios frequentes de hiperglicemia nos últimos 60 a 90 dias.
+) não há qualquer relação entre o nível de hemoglobina glicada e a evolução da curva glicêmica.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="486,257 486,660 1100,660 1100,257"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,158 1204,158 1204,233 1111,233 1111,841 597,841 597,912 246,912 246,1095 122,1095 122,1096 121,1096 121,1101 61,1101 61,693 60,693"/>
+	<TextEquiv conf="0.96199">
+	<Unicode>QUESTÃO 20
+O gráfico abaixo ilustra o efeito de três fármacos sobre a função contrátil de um músculo liso.
+Concentração de fármaco (M)
+Com base no gráfico, analise as proposições abaixo.
+IT. Os fármacos A e C são mais potentes do que o fármaco B.
+IT. AECB50 do fármaco B é menor do que as dos fármacos A e C.
+III. Ofármaco B apresenta eficácia máxima menor do que os fármacos A e C.
+Está correto o que se afirma SOMENTE em
+(A) I.
+(B) II.
+(C) I e II.
+(D) I e III.
+(E) II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

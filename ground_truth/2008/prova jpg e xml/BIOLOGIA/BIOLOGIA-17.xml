@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T21:00:53</Created>
+	<LastChange>2020-09-22T21:01:10</LastChange></Metadata>
+	<Page imageFilename="BIOLOGIA-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="911,568 911,980 1490,980 1490,568"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,321 290,321 290,385 808,385 808,1796 809,1796 809,1940 808,1940 808,2119 105,2119 105,2118 104,2118 104,1208 103,1208 103,385 104,385"/>
+	<TextEquiv conf="0.95998">
+	<Unicode>QUESTÃO 31
+A Teoria de Biogeografia de Ilhas é uma das mais
+influentes teorias ecológicas. Uma de suas predições é a
+de que ilhas maiores apresentam maior número de
+espécies do que ilhas menores. Desde os anos 70 do
+século passado, essa teoria tem influenciado o desenho de
+reservas naturais. Nesses casos, os fragmentos de
+vegetação remanescente seriam considerados ilhas em
+uma matriz de habitats alterados pela atividade humana.
+O proprietário de uma usina sucroalcooleira
+contratou um biólogo para o estabelecimento de reservas
+naturais dentro de sua propriedade em área de floresta
+atlântica. A vegetação nativa encontra-se fortemente
+fragmentada em pequenas manchas de tamanhos
+diversos, porém menores que 100 ha. Essas manchas são
+frequentemente acessadas pela comunidade local, que
+coleta madeira para usar como lenha e para fazer carvão.
+Considerando a aplicação crítica da Teoria de Biogeografia
+de Ilhas para a criação de reservas naturais na área, que
+noção deve nortear as ações do referido biólogo?
+O Segundo essa teoria, ilhas maiores suportam mais
+espécies. Portanto, fragmentos maiores são melhores
+que pequenos, independentemente das condições da
+matriz circundante.
+O Fragmentos grandes e pequenos são igualmente
+importantes para conservar qualquer espécie de
+animal ou planta, e deve-se equilibrar o número desses
+fragmentos.
+O Deve-se priorizar a conservação de fragmentos
+grandes, uma vez que as espécies encontradas em
+fragmentos maiores já se encontram adaptadas aos
+efeitos das atividades humanas.
+O Deve-se conservar o maior número de fragmentos,
+independentemente de seu tamanho, de modo a incluir
+em áreas protegidas a maior parcela dos habitats e da
+biodiversidade local.
+O É melhor investir apenas na conservação de
+fragmentos grandes, inquestionavelmente importantes,
+já que o valor de fragmentos pequenos para a
+conservação da biodiversidade é duvidoso.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="848,321 1038,321 1038,371 1552,371 1552,988 1553,988 1553,2119 848,2119 848,1180 847,1180 847,371 848,371"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 32
+A figura abaixo apresenta índices de diversidade
+para três regiões hipotéticas, cada uma com três
+montanhas, calculados a partir da distribuição de espécies
+(identificadas pelas letras de A a G) observada em cada
+montanha. Algumas espécies estão isoladas em apenas
+uma montanha por região, enquanto outras estão em duas
+ou três montanhas.
+Considerando esses dados, selecione quais deveriam ser
+as escolhas do tomador de decisões sobre medidas de
+conservação, no sentido de proteger a maior riqueza de
+espécies, nas seguintes situações: (a) se houver recursos
+financeiros para proteger apenas uma das regiões; e (b) se
+os recursos permitirem proteger apenas uma das
+montanhas.
+O Parase proteger apenas uma região, esta deveria ser
+a região 1, que apresenta a maior riqueza de espécies
+por montanha (diversidade alfa); para se proteger
+apenas uma montanha, deveria ser escolhida a
+terceira montanha da região 2, a única que tem a
+espécie J.
+O Parase proteger apenas uma região, esta deveria ser
+a região 3, que apresenta a maior diferenciação de
+espécies entre as três montanhas (diversidade beta);
+para se proteger apenas uma montanha, deveria ser
+escolhida qualquer montanha da região 3, pois, como
+há menos espécies por montanha, estas vivem com
+menor competição.
+O Parase proteger apenas uma região, esta deveria ser
+a região 1, que apresenta o maior número de espécies
+por montanha (diversidade alfa); para se proteger
+apenas uma montanha, deveria ser escolhida a
+terceira montanha da região 1, que tem a maior
+riqueza local (diversidade alfa).
+O Parase proteger apenas uma região, esta deveria ser
+a região 2, a que apresenta a maior diversidade total
+(diversidade gama); para se proteger apenas uma
+montanha, deveria ser escolhida a terceira montanha
+da região 2, que é a única que tem a espécie J.
+O Parase proteger apenas uma região, esta deveria ser
+a região 2, que apresenta a maior diversidade total
+(diversidade gama); para proteger apenas uma
+montanha, deveria ser escolhida a terceira montanha
+da região 1, que tem a maior riqueza local (diversidade
+alfa).</Unicode></TextEquiv></TextRegion></Page></PcGts>

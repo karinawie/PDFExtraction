@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T06:16:58</Created>
+	<LastChange>2020-11-23T02:48:36</LastChange></Metadata>
+	<Page imageFilename="prova.biomedicina-17.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="389,400 389,939 1271,939 1271,400"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="60,165 251,165 251,207 1558,207 1558,364 1531,364 1531,1245 1501,1245 1501,1310 61,1310 61,364 60,364"/>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 36
+Quando um teste diagnóstico produz uma medida contínua é conveniente selecionar um limiar de reatividade (LR, ou cut
+off) para calcular a sensibilidade e especificidade do método. Um teste perfeito seria aquele sem falsos positivos e falsos
+negativos, o que na prática não existe. No entanto, dependendo do objetivo do teste, devem ser utilizados LR diferentes.
+O gráfico abaixo apresenta a distribuição de títulos de anticorpos relacionados a uma determinada doença em indivíduos
+sadios (A) e doentes (B).
+Em bancos de sangue o melhor teste é aquele que apresenta o LR 1 e em laboratórios clínicos aquele com LR 2, porque em
+(A) bancos de sangue o teste precisa ter maior sensibilidade e LR1 reduz a chance de se obterem falsos positivos.
+(B) laboratórios clínicos o teste precisa ter maior sensibilidade e LR2 reduz a chance de se obterem falsos negativos.
+(C) bancos de sangue o teste precisa ter maior sensibilidade e LR1 reduz a chance de se obterem falsos negativos.
+(D) laboratórios clínicos o teste precisa ter maior especificidade e LR2 reduz a chance de se obterem falsos negativos.
+(E) bancos de sangue o teste precisa ter maior especificidade e LR1 reduz a chance de se obterem falsos positivos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

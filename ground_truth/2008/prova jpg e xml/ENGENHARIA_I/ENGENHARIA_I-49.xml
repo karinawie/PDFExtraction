@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T07:24:36</Created>
+	<LastChange>2021-01-19T11:48:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-49.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="1013,398 1013,919 1464,919 1464,398"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1096,1147 1096,1867 1567,1867 1567,1147"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,337 1140,337 1140,363 335,363 335,504 549,504 549,530 499,530 499,649 848,649 848,675 769,675 769,908 80,908 80,675 79,675 79,636 78,636 78,437 79,437"/>
+	<TextEquiv conf="0.96534">
+	<Unicode>QUESTÃO 71
+A figura ao lado representa a observação de um astro para determinações astronômicas.
+Considere:
+C: centro da Terra
+Z: zênite
+O: observador na superfície da Terra
+: distância zenital geocêntrica
+: distância zenital observada
+A: astro
+A’, A”: posições aparentes do astro projetadas na esfera celeste
+Nessa situação, o ângulo â corresponde à correção da(o)
+(A) refração.
+(B) paralaxe.
+(C) esfericidade terrestre.
+(D) semidiâmetro solar.
+(E) erro de zênite instrumental</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="79,1013 273,1013 273,1052 1573,1052 1573,1097 895,1097 895,1220 741,1220 741,1326 864,1326 864,1413 894,1413 894,1572 527,1572 527,1659 179,1659 179,1765 193,1765 193,1797 1065,1797 1065,1835 200,1835 200,1878 80,1878 80,1572 79,1572 79,1501 81,1501 81,1220 79,1220"/>
+	<TextEquiv conf="0.95687">
+	<Unicode>QUESTÃO 72
+O esquema da figura mostra uma tubulação vertical com diâmetro constante, por onde escoa um líquido para baixo, e a ela
+estão conectados dois piezômetros com suas respectivas leitu-
+ras, desprezando-se as perdas. A esse respeito, considere as afirma-
+ções a seguir.
+| - A energia cinética é a mesma nos pontos (1) e (2).
+Il - A pressão estática no ponto (1) é menor do que no ponto (2).
+Ill - A energia total no ponto (1) é menor do que no ponto (2).
+IV- A energia cinética e a pressão estática no ponto (1) são
+menores do que no ponto (2).
+V - A energia cinética e a pressão estática no ponto (1) são
+maiores do que no ponto (2).
+São corretas APENAS as afirmações
+(A) lell
+(B) leII
+(C) Ile IV
+(D) Ille V
+(E) Vev</Unicode></TextEquiv></TextRegion></Page></PcGts>

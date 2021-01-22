@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:29:12</Created>
+	<LastChange>2020-10-25T17:44:25</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="85,305 85,671 1497,671 1497,305"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="81,186 484,186 484,230 1573,230 1573,256 559,256 559,763 1569,763 1569,1296 1570,1296 1570,1696 1573,1696 1573,1722 1569,1722 1569,1756 1338,1756 1338,1723 224,1723 224,1753 121,1753 121,1754 120,1754 120,1723 80,1723 80,791 79,791 79,263 80,263 80,187 81,187"/>
+	<TextEquiv conf="0.94567">
+	<Unicode>QUESTÃO 35 - DISCURSIVA
+Considere o circuito digital combinacional, apresentado na figura abaixo, e o Mapa de Karnaugh do sinal F. Os sinais digitais
+A, B,/ Ce D são as entradas do circuito.
+Tendo por base as informações acima,
+a) preencha, no Caderno de Respostas, o Mapa de Karnaugh do sinal E;
+(valor: 4,0 pontos)
+b) preencha, no Caderno de Respostas, a tabela-verdade entre os sinais DE e F;
+(valor: 4,0 pontos)
+c) determine a porta lógica que deverá ser inserida no quadrado pontilhado da figura, para interligar corretamente os sinais
+D,EerF.
+(valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

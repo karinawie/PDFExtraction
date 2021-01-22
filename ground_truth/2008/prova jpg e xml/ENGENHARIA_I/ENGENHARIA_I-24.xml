@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:39:07</Created>
+	<LastChange>2020-09-23T01:39:07</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-24.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="208,325 208,917 1431,917 1431,325"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,183 284,183 284,184 486,184 486,217 487,217 487,218 704,218 704,219 922,219 922,220 1139,220 1139,221 1357,221 1357,222 1574,222 1574,1117 1573,1117 1573,1223 294,1223 294,1222 81,1222 81,1221 80,1221 80,1112 79,1112 79,313 80,313"/>
+	<TextEquiv conf="0.94707">
+	<Unicode>QUESTÃO 38 - DISCURSIVA
+Considere o galpão abaixo esquematizado, onde será construído um compartimento para depósito, com porta de 2,00 mx2,10m,
+cujo teto será rebaixado com forro de PVC com lâminas de 0,10 m de largura útil, colocadas perpendicularmente à menor
+dimensão, deixando um vé-direito interno de 3.00 m.
+A partir desses dados, sem considerar quaisquer perdas ou acréscimos, responda às questões.
+a) Quantos metros de forro de PVC serão necessários para o rebaixamento do teto do depósito? Justifique com cálculos.
+(valor: 3,0 pontos)
+b) Qual o volume de emboço das novas paredes, considerando apenas a parte interna do depósito, a espessura de 2cm e
+descontando vãos &gt; 2,00 m?? Justifique com cálculos. (valor: 7,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

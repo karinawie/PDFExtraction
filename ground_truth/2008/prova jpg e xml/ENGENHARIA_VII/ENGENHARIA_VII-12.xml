@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-17T00:02:59</Created>
+	<LastChange>2020-11-17T00:02:59</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r86" type="paragraph">
+	<Coords points="104,209 294,209 294,261 1553,261 1553,368 1550,368 1550,443 1261,443 1261,444 1100,444 1100,738 1101,738 1101,953 618,953 618,1055 1552,1055 1552,1122 1263,1122 1263,1123 103,1123 103,1055 617,1055 617,739 616,739 616,446 103,446 103,261 104,261"/>
+	<TextEquiv conf="0.96664">
+	<Unicode>QUESTÃO 20
+Pseudocódigo é uma forma genérica de se escrever um algoritmo, da forma mais detalhada possível, utilizando-se
+uma linguagem simples, nativa a quem o escreve, de modo a ser entendida sem necessidade de se conhecer a sintaxe
+de uma linguagem de programação específica. Apresenta-se abaixo o pseudocódigo de um algoritmo capaz de resolver
+equações diferenciais da forma a =g(x), frequentemente encontrada em problemas de modelagem em engenharia.
+LER (T1);
+LER (T2);
+LER (N);
+SE ((T2 &gt; T1) E (N &gt; 0)) ENTÃO
+H + (T2-T1)/N
+xi €— x(T1);
+PARA (i € O) ENQUANTO (i &lt; N) FAZ
+K + Hx g(Xi);
+Xi € Xi + K;
+VISUALIZAR (Tl + i x H, Xi);
+i€i+l;
+FIM PARA
+FIM SE
+Uma forma equivalente, e algumas vezes complementar, ao pseudocódigo, utilizada para se representar um algoritmo
+é odiagrama de fluxos (fluxograma). Que fluxograma representa, de modo mais preciso, o pseudocódigo descrito acima?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="97,1188 97,2074 377,2074 377,1188"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="385,1182 385,2068 665,2068 665,1182"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="660,1168 660,2054 940,2054 940,1168"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="948,1168 948,2054 1228,2054 1228,1168"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="1231,1177 1231,2065 1560,2065 1560,1177"/></ImageRegion></Page></PcGts>

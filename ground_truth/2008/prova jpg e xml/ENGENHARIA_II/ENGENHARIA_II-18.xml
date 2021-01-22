@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:29:42</Created>
+	<LastChange>2020-10-25T17:47:33</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-18.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="825,185 825,2171 828,2171 828,185"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="842,400 842,888 1597,888 1597,400"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="65,534 65,740 805,740 805,534"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,186 273,186 273,231 802,231 802,870 794,870 794,1206 801,1206 801,1341 779,1341 779,1413 498,1413 498,1448 441,1448 441,1449 80,1449 80,1450 79,1450 79,231 80,231"/>
+	<TextEquiv conf="0.96821">
+	<Unicode>QUESTÃO 30
+Um engenheiro recebeu como tarefa projetar um sistema de
+controle de temperatura para um forno elétrico. No entanto,
+movido por uma restrição de componentes, ele se viu obrigado
+a utilizar um elemento somador em vez de um elemento
+subtrator, normalmente empregado no cálculo do erro de
+controle. Dessa forma, ele chegou ao seguinte diagrama de
+blocos para realizar o projeto de controle empregando uma
+ação Proporcional-Integral (PI) :
+Nesse diagrama, T,..;(s) corresponde à referência de
+temperatura e T(s), à temperatura da planta (forno elétrico).
+Nessa situação, considere as afirmações a seguir.
+O sistema será instável se forem escolhidos k, &lt;1ekr&lt;o.
+PORQUE
+Um sistema dinâmico linear, com malha de realimentação
+utilizando um elemento somador, será sempre instável.
+Analisando as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="850,182 1573,182 1573,399 944,399 944,400 943,400 943,926 1456,926 1456,998 1557,998 1557,1178 1558,1178 1558,1323 1573,1323 1573,1457 1551,1457 1551,1529 1270,1529 1270,1565 852,1565 852,1313 850,1313 850,1287 866,1287 866,953 850,953 850,926 888,926 888,400 850,400"/>
+	<TextEquiv conf="0.93110">
+	<Unicode>QUESTÃO 31
+Três indutores (1, 1l e 111) foram construídos através do mesmo
+processo de fabricação, porém empregaram-se materiais com
+propriedades magnéticas distintas no núcleo de cada um deles.
+No gráfico abaixo, são apresentadas as regiões lineares das
+curvas características de cada núcleo.
+Aesse respeito, considere as afirmações a seguir.
+Para uma mesma corrente, o maior armazenamento de
+energia ocorre no indutor |.
+PORQUE
+Para uma mesma corrente, a energia é diretamente propor-
+cional à taxa de variação do fluxo em relação à corrente.
+Analisando as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:28:58</Created>
+	<LastChange>2021-01-19T14:04:58</LastChange></Metadata>
+	<Page imageFilename="FISICA-20.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="822,182 822,2148 828,2148 828,182"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 273,184 273,240 790,240 790,489 599,489 599,607 790,607 790,633 488,633 488,773 790,773 790,1273 792,1273 792,1410 791,1410 791,1411 554,1411 554,1633 292,1633 292,1773 298,1773 298,1799 217,1799 217,1855 80,1855 80,1606 81,1606 81,689 80,689 80,688 79,688 79,662 80,662"/>
+	<TextEquiv conf="0.88364">
+	<Unicode>QUESTÃO 38
+O céu é azul devido ao espalhamento da luz solar pelas
+moléculas da atmosfera distribuídas de forma
+inomogênea. Este espalhamento, denominado
+Espalhamento Rayleigh, também importante em propaga-
+ção de luz em fibras ópticas, varia com o inverso da quarta
+potência do comprimento de onda (1º).
+Considerando essas informações, analise as explicações dos
+fenômenos apresentados a seguir.
+| - Em propagação de luz em fibras ópticas de vidro, o
+Espalhamento Rayleigh é responsável por uma atenua-
+ção maior da intensidade na transmissão óptica
+para comprimentos de onda da luz visível do que para
+a radiação infravermelha.
+Il - A cor avermelhada do pôr do sol ocorre porque, ao
+entardecer, os raios solares incidem tangencialmente à
+superfície da Terra e as cores de maior frequência não
+conseguem atravessar toda a extensão da atmosfera.
+Ill - A cor azul do céu ocorre porque a luz solar, ao passar
+pela atmosfera, sofre um espalhamento maior para as
+radiações de menor comprimento de onda do que para
+as de maior comprimento de onda.
+Está(ão) correta(s) a(s) explicação(ões)
+(A) I, apenas.
+(B) I e II, apenas.
+(C) I e III, apenas.
+(D) II e III, apenas.
+(E) I, II e III</Unicode></TextEquiv></TextRegion></Page></PcGts>

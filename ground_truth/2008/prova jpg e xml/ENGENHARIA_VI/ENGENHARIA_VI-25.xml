@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:40:47</Created>
+	<LastChange>2020-10-25T19:51:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-25.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r8">
+	<Coords points="179,490 179,939 896,940 896,491"/></ImageRegion>
+	<TableRegion id="r0">
+	<Coords points="968,491 968,745 1508,745 1508,491"/></TableRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="104,200 516,200 516,261 1474,261 1474,1102 1552,1102 1552,1652 106,1652 106,1651 105,1651 105,1165 104,1165 104,1164 103,1164 103,1102 183,1102 183,230 104,230"/>
+	<TextEquiv conf="0.88115">
+	<Unicode>QUESTÃO 40 — DISCURSIVA
+Uma empresa precisa selecionar, entre dois investimentos — A e B — mutuamente excludentes, a opção
+mais adequada do ponto de vista econômico com base nos respectivos fluxos de caixa esperados (5 anos) e
+no gráfico que relaciona seu valor presente líquido para diversas taxas de desconto. A taxa interna de retorno
+(TIR) do projeto A é de 19,77% ao ano e a do projeto B é de 27,38% ao ano. O ponto de Fisher, isto é, a
+intersecção das equações de valor presente dos projetos, é de 8,51% ao ano. A empresa busca financiar seus
+projetos por meio de um banco de desenvolvimento e, nesse caso seu custo de capital será de 8% ao ano. Caso
+não consiga recursos desse banco, seu custo de capital deve ser acima de 10% ao ano.
+A Justifique a viabilidade econômica das 2 opções de investimento segundo os critérios da TIR e do VPL (valor presente
+líquido) ou NPV (net present value), para valores de taxa mínima de atratividade (TMA) abaixo de 15% ao ano.
+(valor: 4,0 pontos)
+B Selecione e justifique a melhor opção, para a empresa, com e sem financiamento do banco de desenvolvimento.
+(valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

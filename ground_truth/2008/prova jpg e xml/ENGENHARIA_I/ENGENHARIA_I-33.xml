@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:33:39</Created>
+	<LastChange>2020-09-23T01:33:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-33.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 1573,183 1573,281 1563,281 1563,438 1069,438 1069,439 575,439 575,440 454,440 454,615 1574,615 1574,645 1573,645 1573,717 79,717 79,650 80,650"/>
+	<TextEquiv conf="0.91400">
+	<Unicode>QUESTÃO 48 - DISCURSIVA
+Um importante parâmetro a ser considerado no projeto de reatores biológicos anaeróbios é a produção de metano em reações
+bioquímicas realizadas por microrganismos.
+Dados:
+Equação Estequiométrica de Buswell &gt; CHOW N; +(n—a/4-b/2+3d/4)H,O &gt; (n/2+a/8-b/4-3d/8) CH,
++ (n/2— a/8 + b/4 + 3d/8) CO, + (d ) NH,
+C=12g9/H=19g,/0=169g
+Carga = Concentração x Vazão
+Considerando o tratamento de um despejo composto exclusivamente de sacarose (C .,H,,O,,), com concentração de 300 mg/L
+e vazão de 190 mº/dia, determine a produção de metano, em kg/dia, a partir da degradação da sacarose, apresentando os
+cálculos. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:43:20</Created>
+	<LastChange>2020-09-23T01:43:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="345,1188 345,1460 1388,1460 1388,1188"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="428,217 428,771 1280,771 1280,217"/></ImageRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="80,816 1574,816 1574,965 1436,965 1436,1006 80,1006"/>
+	<TextEquiv conf="0.95426">
+	<Unicode>Considere que uma precipitação uniforme intensa, ocorrida sobre uma bacia hidrográfica, com intensidade de 120 mm/h
+e duração de 20 min, gerou sobre a foz um hidrograma de cheia triangular com vazão de pico de 80 m?/s, tempo de base de
+160 min e tempo de pico de 60 min, conforme a figura. Se a área da bacia é de 30 km?, qual o coeficiente de escoamento
+superficial (runoff) dessa bacia?
+(A) 0,12 (B) 0,16 (C) 0,24 (D) 0,32 (E) 0,64</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1056 1572,1056 1572,1170 1523,1170 1523,1573 79,1573"/>
+	<TextEquiv conf="0.95022">
+	<Unicode>QUESTÃO 28
+Na representação dos diagramas dos fluxos de caixa dos casos | e ||, a seguir representados, as setas para baixo representam
+os valores, em reais, desembolsados para empréstimo, e as setas para cima, as receitas ou economias realizadas.
+As taxas anuais dos juros dos empréstimos nos casos | e Il foram, respectivamente,
+(A) 0,2% e 0,15% (B) 2% e 1,5% (C) 2% e 4,5% (D) 20% e 15% (E) 20% e 45%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,1617 1424,1617 1424,1687 977,1687 977,1688 882,1688 882,1815 1573,1815 1573,1878 1076,1878 1076,1879 954,1879 954,2007 1007,2007 1007,2072 779,2072 779,2110 498,2110 498,2148 81,2148 81,2149 80,2149 80,1931 79,1931 79,1816 80,1816 80,1815 771,1815 771,1688 80,1688"/>
+	<TextEquiv conf="0.95997">
+	<Unicode>QUESTÃO 29
+É permitido ao empregador descontar do empregado os valores gastos com os EPI que serão por ele utilizados.
+PORQUE
+De acordo com a Norma Regulamentadora NR 6 — Equipamento de Proteção Individual (EPI) do Ministério do Trabalho, cabe ao
+empregado adquirir os EP| adequados aos riscos de sua atividade.
+Analisando as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

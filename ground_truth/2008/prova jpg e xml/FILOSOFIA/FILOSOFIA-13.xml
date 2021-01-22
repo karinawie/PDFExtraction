@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:03:19</Created>
+	<LastChange>2020-10-25T21:16:55</LastChange></Metadata>
+	<Page imageFilename="FILOSOFIA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="263,296 263,684 643,684 643,296"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="811,207 811,2106 813,2106 813,207"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="839,1111 1029,1111 1029,1161 1551,1161 1551,1305 1552,1305 1552,1341 1551,1341 1551,1817 1192,1817 1192,1885 1007,1885 1007,2100 891,2100 891,2096 839,2096 839,1927 840,1927 840,1817 838,1817 838,1757 840,1757 840,1446 839,1446 839,1288 838,1288 838,1161 839,1161"/>
+	<TextEquiv conf="0.96438">
+	<Unicode>QUESTÃO 35
+Julgamos conhecer cientificamente cada coisa, de
+modo absoluto e, não, à maneira sofística, por acidente,
+quando julgamos conhecer a causa pela qual a coisa é, que
+ela é a sua causa e que não pode ser de outra maneira.
+Aristóteles. Segundos Analíticos, |,2,71º*”?apud Oswaldo
+Porchat. Ciência e dialética em Aristóteles.
+No que concerne a esse texto à teoria aristotélica da
+ciência, julgue os itens subsequentes.
+| Um conhecimento é qualificado como científico, quando
+há a presença conjunta de causalidade e necessidade.
+Il Aciência não explica por que as coisas acontecem, mas
+descreve como acontecem.
+Ill A ciência diz respeito aos aspectos contingentes do
+individual.
+IV O conhecimento científico é um tipo de saber que se
+estabelece por meio da demonstração.
+V Há ciência do que é invariante nas coisas cambiantes e
+nos seus modos de mudança.
+Estão certos apenas os itens
+Lie.
+Lelv.
+| IVeV.
+WWMmev.
+MM, IVeV.
+cocos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="839,215 1030,215 1030,267 1551,267 1551,569 1061,569 1061,670 1057,670 1057,827 1192,827 1192,853 965,853 965,1064 839,1064 839,894 840,894 840,784 837,784 837,686 840,686 840,569 838,569 838,267 839,267"/>
+	<TextEquiv conf="0.96766">
+	<Unicode>QUESTÃO 34
+Considere que “—”, “N”, “v” e “&gt;” são, respectivamente,
+símbolos para a negação (“não”), conjunção (“e”), disjunção
+(“e/ou”) e para o condicional material (“se..., então...”) e que
+“V" e “3” são, respectivamente, o quantificador universal e
+o quantificador existencial. Considere, ainda que “Px”, “QX”,
+“Rx” e “Sx” são predicados monádicos (ou de aridade 1) e
+que as fórmulas “Vx[Px &gt; (Qx v Rx)]" e “VX(Qx v Rx)”
+são premissas de um argumento. As conclusões dedutíveis
+dessas premissas estão contidas nas fómulas
+| vVX(PX&gt;=-Sx).
+Il &lt;3Xx-PXx.
+MM 3x(Qx v Qx).
+IV VX(PXx a Sx).
+V 3Ix(RxA RX).
+Estão certos apenas os itens
+lei.
+lelv.
+Neilv.
+Ilev.
+Mmev.
+cocoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="104,215 632,215 632,710 798,710 798,806 755,806 755,1009 457,1009 457,1077 230,1077 230,1288 104,1288 104,1009 103,1009 103,710 104,710"/>
+	<TextEquiv conf="0.96509">
+	<Unicode>QUESTÃO 32
+Considere o seguinte quadro de oposições.
+Se X = o, isto é, se X for vazio, então o conteúdo
+existencial das mencionadas proposições de tipos A, E, |
+e O será tal que
+| as proposições dos tipos A e E serão verdadeiras.
+Il as proposições dos tipos | e O serão verdadeiras.
+Ill as proposições dos tipos | e O serão falsas.
+IV as proposições dos tipos A e E serão falsas.
+V as proposições dos tipos A e | serão falsas.
+Estão certos apenas os itens
+lei,
+lelv.
+IN elv.
+llev.
+MNev.
+cocos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,1320 797,1320 797,1421 799,1421 799,1583 485,1583 485,1618 386,1618 386,1864 457,1864 457,1890 238,1890 238,2101 104,2101 104,1931 105,1931 105,1817 103,1817 103,1796 105,1796 105,1618 103,1618 103,1421 104,1421"/>
+	<TextEquiv conf="0.56416">
+	<Unicode>QUESTÃO 33
+Considere que “—”, “W” e “&gt;” são, respectivamente,
+símbolos para a negação (“não”), conjunção (“e”) e
+condicional material (“se..., então..”) e que “D” e “q
+são variáveis proposicionais. Ao se empregar os
+procedimentos das tabelas veritativas e, em seguida,
+do cálculo proposicional, pode-se concluir que a
+fórmula “(p &gt;qg) &gt; (pa=-qg).
+| é uma contingência.
+Il é uma contradição.
+Ill é uma tautologia.
+IV é um teorema.
+V nãoé um teorema.
+Estão certos apenas os itens
+lell.
+lelv.
+llev.
+Melv.
+Mmev.
+cocoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

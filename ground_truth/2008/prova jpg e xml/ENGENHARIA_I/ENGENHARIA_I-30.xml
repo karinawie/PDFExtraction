@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:35:53</Created>
+	<LastChange>2020-09-23T01:36:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-30.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="165,1217 165,1605 780,1605 780,1217"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="934,1185 934,1622 1537,1622 1537,1185"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 80,184 273,184 273,228 1573,228 1573,331 739,331 739,461 1574,461 1574,517 1379,517 1379,589 648,589 648,728 794,728 794,883 793,883 793,884 80,884 80,331 79,331 79,228 80,228"/>
+	<TextEquiv conf="0.96029">
+	<Unicode>QUESTÃO 43
+Dureza da água é uma medida da sua capacidade de dissolver sabão, isto é, as águas chamadas duras devido à presença
+de cátions metálicos divalentes, principalmente cálcio e magnésio, são capazes de reagir com sabão formando precipita-
+dos (não é formada espuma até que se esgotem os cátions).
+Dados:
+* Adureza temporária pode ser eliminada por ebulição.
+* A dureza permanente ocorre em presença de sulfatos, nitratos e cloretos que são precipitados em presença de substân-
+cias alcalinas.
+Qual das equações estequiométricas a seguir mostra uma reação de abrandamento da dureza permanente?
+A 2
+(A) 2C,3H,5O0, + Ca? &gt; Ca(C,3H35O7)7a |
+A 2
+(B) 2C,gH350, +Fe *&gt; Fe(C g8H35O 2) 26) +
+(C) Ca”? +2HCO,"" &gt; CaCOz, | + COP +HO
+O) Mg"? +2HCO,"" &gt; MgCO,, | + CO, PT +HO
+(E) Ca(OH), + Ca"? +2HCO,? &gt; 2CaCO,, | +2H,0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,916 80,917 273,917 273,962 1573,962 1573,1154 317,1154 317,1819 601,1819 601,2044 1573,2044 1573,2105 80,2105 80,1945 79,1945 79,1818 80,1818 80,1152 79,1152 79,962 80,962"/>
+	<TextEquiv conf="0.96130">
+	<Unicode>QUESTÃO 44
+O acréscimo de tensão médio previsto pelo assentamento de uma sapata sobre uma camada de argila compressível normal-
+mente adensada é de 100 kPa, conforme mostra a figura abaixo. Uma amostra indeformada da região central dessa camada
+de argila foi retirada utilizando-se um amostrador tipo Shelby. O gráfico referente à curva de compressão do ensaio de adensamento
+oedométrico está apresentado a seguir. O peso específico aparente da areia é 15 kN/m?, o saturado da argila é 12 kN/môe o
+Índice de vazios inicial da amostra é 2,0.
+Dados:
+AH/H,=4e/(1+e,)
+Onde:
+e = índice de vazios;
+H, = espessura inicial da camada de argila;
+o' =tensão vertical efetiva.
+Na verificação da possibilidade de construção dessa sapata, qual o recalque médio previsto devido ao adensamento da argila?
+(A)2,0m (B)1,7m (0) 1 Am (D) 1,0m (E)O0,3m</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:25:29</Created>
+	<LastChange>2021-01-19T11:46:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-48.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="420,397 420,794 1217,794 1217,397"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 486,183 486,234 1039,234 1039,239 1572,239 1572,265 1100,265 1100,271 1039,271 1039,310 160,310 160,834 196,834 196,958 621,958 621,1079 1010,1079 1010,1148 1572,1148 1572,1208 79,1208 79,1207 78,1207 78,834 79,834 79,234 80,234"/>
+	<TextEquiv conf="0.91552">
+	<Unicode>QUESTÃO 70 - DISCURSIVA
+Um rio, com águas a 20 ºC, tem uma vazão mínima de 10,4 m?/s e uma DBO
+lançado um efluente com vazão de 0,6 m?/s e DBO, de 300 mg/L.
+útima dE S mg/l. Em um ponto da margem é
+Dados:
+e =0,37
+e?=0,14
+e =0,05
+Coeficiente de decaimento K1,, ec
+Carga = Vazão x Concentração
+L,=L1,x ex)
+Onde: L, é a concentração no tempo t e L, é a concentração no tempo inicial.
+=0,1 dia”!
+Utilizando os dados acima, calcule a DBO exercida e a DBO remanescente no rio, ambas após 10 dias do lançamento do
+esgoto. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T19:41:05</Created>
+	<LastChange>2020-10-25T19:52:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="448,817 448,1185 1262,1185 1262,817"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="104,200 517,200 517,288 1435,288 1435,712 1131,712 1131,1228 1481,1228 1481,1292 1553,1292 1553,1372 1552,1372 1552,1414 1315,1414 1315,1415 1314,1415 1314,1374 684,1374 684,1375 394,1375 394,1376 104,1376 104,1377 103,1377 103,1292 104,1292 104,1228 300,1228 300,715 222,715 222,290 221,290 221,230 104,230"/>
+	<TextEquiv conf="0.89810">
+	<Unicode>QUESTÃO 39 — DISCURSIVA
+Um engenheiro de produção está avaliando quatro tipos de máquina — M,, M,, M3, M, — com
+todas as unidades dos quatro tipos em idêntico estado de bom funcionamento (estado 1) no início
+de operação.
+As máquinas tipo M, e M, podem entrar em funcionamento precário (estado 2), antes de
+parar totalmente (estado 3), enquanto as máquinas tipo M; e M, passam diretamente do estado
+1 ao estado 3, sem passar pelo estado 2. Em todos os tipos de máquina, o tempo médio entre
+falhas (TMEF,) é de 100 horas, para i=1 e j=3 (estado 1 passando diretamente ao estado 3).
+Nas máquinas M, e M,, o TMEF é de 10 horas, para i=1 e j=2 (estado 1 ao estado 2) e para i=2
+e j=3 (estado 2 ao estado 3).
+Quanto à manutenção, as máquinas tipo M, e M; admitem reparo do estado 3 para o estado
+1, sem perda de qualidade, com tempo médio para reparo (TMPR;z,) igual a 10 horas, não existindo
+a possibilidade de reparo do estado 2 para o estado 1. Quando no estado 3, as máquinas tipo M, e
+M, exigem a instalação de novas unidades, com tempo médio para instalação (TMPI;,) igual a
+20 horas.
+A tabela a seguir sintetiza os dados de todos os tipos de máquina.
+Com base exclusivamente na situação acima, faça o que se pede a seguir, explicitando os cálculos necessários.
+A Calcule a disponibilidade inerente para as máquinas dos tipos M; e M,. Tomando como base apenas os valores
+calculados das disponibilidades inerentes para as máquinas dos tipos M; e M,, qual tipo de máquina deve ser
+escolhido?
+(valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

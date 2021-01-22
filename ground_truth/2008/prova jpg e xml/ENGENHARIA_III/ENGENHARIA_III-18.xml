@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:05:09</Created>
+	<LastChange>2020-10-25T18:14:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="68,357 68,974 1140,974 1140,357"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="1188,357 1188,897 1580,897 1580,357"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="302,1354 302,1860 1354,1860 1354,1354"/></ImageRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="80,1181 273,1181 273,1223 1573,1223 1573,1320 1572,1320 1572,1959 1012,1959 1012,2139 133,2139 133,2140 80,2140 80,1320 79,1320 79,1223 80,1223"/>
+	<TextEquiv conf="0.96354">
+	<Unicode>QUESTÃO 36
+Em um estudo para identificar as possíveis causas das perdas no processo de fabricação de peças mecânicas, aplicou-se
+a ferramenta do controle de qualidade conhecida como Diagrama de Causa e Efeito ou Diagrama de Ishikawa. Durante as
+discussões, foram identificadas algumas possíveis causas e/ou razões, as quais foram incluídas no diagrama mostrado abaixo.
+De forma a completar o diagrama, de acordo com a metodologia 6M, os quadros identificados com os números de 1 a 6 devem
+ser preenchidos, respectivamente, com os seguintes termos:
+(A) Meio ambiente, Medições, Materiais, Mão-de-obra, Máquinas e Métodos.
+(B) Meio ambiente, Materiais, Medições, Mão-de-obra, Máquinas e Métodos.
+(C) Meio ambiente, Medições, Máquinas, Métodos, Materiais e Mão-de-obra.
+(D) Medições, Materiais, Métodos, Máquinas, Meio ambiente e Mão-de-obra.
+(E) Medições, Materiais, Máquinas, Métodos, Meio ambiente e Mão-de-obra.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="80,183 273,183 273,224 1573,224 1573,1017 1574,1017 1574,1110 1508,1110 1508,1144 80,1144 80,1110 79,1110 79,224 80,224"/>
+	<TextEquiv conf="0.96478">
+	<Unicode>QUESTÃO 35
+Uma panela de pressão cozinha muito mais rápido do que uma panela comum, ao manter mais altas a pressão e a temperatura
+internas. A panela é bem vedada, e a tampa é provida de uma válvula de segurança com uma seção transversal (A) que deixa o
+vapor escapar, mantendo, assim, a pressão no interior da panela com valor constante e evitando o risco de acidentes.
+Considerando os dados fornecidos na figura e na tabela acima e uma situação em que a panela contém água saturada, a
+massa da válvula, em gramas, para garantir uma pressão manométrica interna constante de 100 kPa, e o correspondente valor
+aproximado da temperatura da água, em ºC, são, respectivamente
+(A) 4 e 100 (B) 4 e 120 (C) 40 e 100 (D) 40 e 120 (E) 400 e 100</Unicode></TextEquiv></TextRegion></Page></PcGts>

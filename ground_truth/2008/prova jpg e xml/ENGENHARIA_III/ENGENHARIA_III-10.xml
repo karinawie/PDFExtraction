@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:06:44</Created>
+	<LastChange>2020-10-25T18:21:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="847,406 847,731 1475,731 1475,421 1403,421 1403,406"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,181 273,181 273,221 802,221 802,981 80,981 80,414 79,414 79,255 80,255"/>
+	<TextEquiv conf="0.96396">
+	<Unicode>QUESTÃO 16
+Um chuveiro elétrico de uma residência alimentada com
+tensão de 220 V opera em duas posições: inverno (4.400 W)
+e verão (2.200 W).
+Considere que a carga desse chuveiro elétrico seja
+representada por uma resistência pura. Sabendo que
+a potência em uma carga é igual ao produto da tensão pela
+corrente (P= Vx/), que a relação entre tensão e corrente em
+uma carga resistiva é igual ao próprio valor da resistência
+(R = V/I) e que a energia em uma carga de potência
+constante é dada pelo produto da potência pelo tempo
+(E = Pxt), conclui-se que
+(A) é adequado o uso de um disjuntor de 15 A para proteger o
+circuito desse chuveiro.
+(B) a resistência do chuveiro na posição inverno é maior que
+a resistência na posição verão.
+(C) a quantidade de energia gasta em um banho de
+10 minutos independe da posição da chave do chuveiro:
+inverno ou verão.
+(D) a potência do chuveiro na posição inverno, se ele fosse
+instalado em uma residência alimentada em 110 V, seria
+de 1.100 W.
+(E) a potência independe do valor da resistência, visto que é
+dada pelo produto da tensão pela corrente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="850,181 1045,181 1045,216 1573,216 1573,351 1572,351 1572,769 1574,769 1574,1248 1575,1248 1575,1527 1299,1527 1299,1659 1295,1659 1295,1704 1104,1704 1104,1746 852,1746 852,1527 851,1527 851,1011 850,1011"/>
+	<TextEquiv conf="0.96255">
+	<Unicode>QUESTÃO 17
+Após a construção de uma barragem, detectou-se a presença
+de uma camada permeável de espessura uniforme igual a
+20 m e que se estende ao longo de toda a barragem, cuja
+seção transversal está ilustrada abaixo. Essa camada provoca,
+por infiltração, a perda de volume de água armazenada.
+Sabe-se que, sob condições de fluxo laminar, a velocidade de
+fluxo aparente da água através de um meio poroso pode ser
+calculada pela Lei de Darcy, que estabelece que essa veloci-
+dade é igual ao produto do coeficiente de permeabilidade do
+meio pelo gradiente hidráulico — perda de carga hidráulica
+por unidade de comprimento percorrido pelo fluido, ou seja,
+E . A vazão de água através do meio é o produto da
+L
+velocidade de fluxo pela área da seção atravessada pela água,
+normal à direção do fluxo.
+Suponha que o coeficiente de permeabilidade da camada
+permeável seja igual a 10* m/s, que ocorram perdas de carga
+hidráulica somente no trecho percorrido pela água dentro dessa
+camada e que a barragem e as demais camadas presentes
+sejam impermeáveis. Sob essas condições, a vazão (Q) por
+unidade de comprimento ao longo da extensão da barragem,
+que é perdida por infiltração através da camada permeável,
+satisfaz à seguinte condição:
+(A) Q&lt; 10º mê/s/m.
+(B) 10º msm &lt; Q &lt; 10º mê/s/m.
+(C) 10º mº/s/m &lt; Q &lt; 10º m?º/s/m.
+D) 10º mê/sum &lt; Q &lt; 10º mº/s/m.
+(E) Q&gt; 10º mê/s/m.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="825,171 825,2157 831,2157 831,171"/></SeparatorRegion></Page></PcGts>

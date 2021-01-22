@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:34:43</Created>
+	<LastChange>2020-10-25T20:50:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="377,497 377,1665 1271,1665 1271,497"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="104,202 294,202 294,256 1553,256 1553,2007 1554,2007 1554,2068 1380,2068 1380,2069 1370,2069 1370,2113 1190,2113 1190,2114 1009,2114 1009,2115 104,2115 104,1773 732,1773 732,469 103,469 103,256 104,256"/>
+	<TextEquiv conf="0.93740">
+	<Unicode>QUESTÃO 27
+Um trabalho de caracterização de madeira de poda da arborização de uma cidade foi conduzido para doze espécies
+florestais. A massa específica básica (p), a umidade máxima e a contração volumétrica máxima foram algumas das
+características determinadas, e uma regressão linear simples foi feita para verificar o comportamento da umidade máxima
+e da contração volumétrica máxima em função da massa específica básica, conforme mostram as figuras abaixo. À
+equação de regressão e seus coeficientes, assim como o coeficiente de determinação, foram significativos ao nível de
+5% de probabilidade.
+VALE, A. T., SARMENTO, T. R., ALMEIDA A. W. Caracterização e uso de madeiras de galhos de árvores
+provinientes da arborização de Brasilia-DF. Ciência Florestal. Santa Maria, v. 15, m-4, p. 411-420. 2005.
+Com base nas informações acima, assinale a opção correta.
+O Apapresenta relação inversa com a umidade máxima, de modo que, para p = 0,3 g/em?, a estimativa da umidade
+máxima é igual a 75%.
+A variação da p explica em torno de 32% da variação da umidade máxima.
+O coeficiente de correlação do gráfico de p versus umidade máxima é maior que 0,9.
+A p é diretamente relacionada com a contração volumétrica máxima, de modo que, para p = 0,7 g/em?, o valor
+estimado da contração volumétrica máxima é igual a 16%.
+O O coeficiente de correlação do gráfico de p versus contração volumétrica máxima é menor que 0,2.
+oçceo</Unicode></TextEquiv></TextRegion></Page></PcGts>

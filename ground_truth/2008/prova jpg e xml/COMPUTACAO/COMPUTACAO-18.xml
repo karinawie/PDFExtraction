@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:18:29</Created>
+	<LastChange>2021-01-18T19:16:19</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-18.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="703,457 704,2115 707,2115 706,457"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="825,1202 825,1911 1465,1911 1465,1202"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="726,470 916,470 916,511 1552,511 1552,853 1544,853 1544,920 778,920 778,921 777,921 777,916 726,916 726,723 725,723 725,511 726,511"/>
+	<TextEquiv conf="0.95094">
+	<Unicode>QUESTÃO 42
+Ao se realizar o acesso a um servidor WWW usando o protocolo
+HTTPS, uma sessão SSL é estabelecida sobre a conexão TCP, entre
+o programa navegador do usuário e o processo servidor. Para tanto,
+usam-se mecanismos baseados em criptografia simétrica e
+assimétrica para prover serviços de segurança. Em relação ao
+acesso HTTP, sem SSL, que serviços de segurança são providos
+para o usuário?
+autenticação do servidor e controle de acesso do cliente
+autenticação do cliente e controle da velocidade de transmissão
+autenticação da rede e proteção contra vírus
+autenticação do servidor e confidencialidade das transmissões
+autenticação do cliente e temporização das ações executadas</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="726,957 916,957 916,958 917,958 917,1004 1554,1004 1554,1179 1553,1179 1553,2054 1447,2054 1447,2110 726,2110"/>
+	<TextEquiv conf="0.96817">
+	<Unicode>QUESTÃO 43
+Considere que seja necessário escrever um código para um
+microcontrolador capaz de identificar teclas acionadas em um teclado
+conectado como mostrado abaixo. O microcontrolador atribui valores
+lógicos às linhas X,z, X,, X, e X, de uma porta de saída do tipo coletor
+aberto, e lê os valores lógicos das linhas Y,3, Y,, Y, e Yçem uma porta
+de entrada.
+Caso apenas a tecla 9 do teclado esteja pressionada e o
+microcontrolador esteja atribuindo os valores lógicos 1011 às linhas
+X3, Ko, XE X,, respectivamente, qual o padrão binário que deverá ser
+lido nas linhas Y,, Y,, Y, e Y,, respectivamente?
+A 0111 B 1011 C 1101 D 1110 E 1111</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,464 288,464 288,513 688,513 688,514 689,514 689,1352 688,1352 688,1541 686,1541 686,1684 688,1684 688,1835 409,1835 409,1944 486,1944 486,1980 588,1980 588,2107 101,2107 101,1905 100,1905 100,1879 102,1879 102,1352 101,1352"/>
+	<TextEquiv conf="0.96791">
+	<Unicode>QUESTÃO 41
+Em ambientes de manufatura integrada, utilizam-
+se computadores para conectar processos
+concorrentes separados fisicamente, isto é, um
+sistema integrado requer dois ou mais
+computadores conectados para trocar
+informações. Quando integrados, os processos
+podem compartilhar informações e iniciar ações,
+permitindo decisões mais rápidas com menos
+erros. A automação também permite a execução
+de processos de manufatura sem necessidade
+de intervenções. Um exemplo simples pode ser
+um controlador de um robô e um controlador
+lógico programável trabalhando juntos em uma
+única máquina. Um exemplo complexo é uma
+planta inteira de manufatura envolvendo
+centenas de estações conectadas a bancos de
+dados com instruções e planejamento de
+operações e tarefas em tempo real, envolvendo
+sensores, atuadores, transdutores, conversores
+etc. Entender, projetar e construir esses sistemas
+é um grande desafio que impõe uma abordagem
+sistemática pelo uso de ferramentas e
+conhecimento conceitual de modelagem lógica,
+manipulação matemática, abstração,
+decomposição, concorrência etc. Nesse
+contexto, julgue os seguintes itens.
+I Controladores lógicos programáveis são
+computadores para processamento de
+entradas e saídas, sendo que a maioria
+permite múltiplos programas que podem ser
+utilizados como sub-rotinas.
+Il Para leituras de um sinal analógico que varia
+entre + 10 volts, com precisão de + 0,05 volts,
+é necessário um conversor AD com, no
+mínimo, 9 bits.
+III O principal objetivo das redes de Petri
+Coloridas é a redução do tamanho do modelo,
+permitindo que tokens individualizados
+(coloridos) representem diferentes processos
+OU recursos em uma mesma sub-rede.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

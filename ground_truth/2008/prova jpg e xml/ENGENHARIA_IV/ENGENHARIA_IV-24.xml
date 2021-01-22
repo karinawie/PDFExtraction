@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:29:45</Created>
+	<LastChange>2020-10-25T18:41:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-24.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="850,187 1400,187 1400,569 1133,569 1133,710 1573,710 1573,1069 861,1069 861,1000 860,1000 860,930 859,930 859,807 852,807 852,677 853,677 853,676 866,676 866,570 852,570 852,337 851,337 851,306 850,306"/>
+	<TextEquiv conf="0.74907">
+	<Unicode>QUESTÃO 39
+A equação
+a
+PA = vxW, -kCa n(0)- al)
+ot
+em que
+C, = concentração molar do componente À
+t = tempo
+W, = fluxo molar de À
+k = constante de velocidade de reação
+n = fator de efetividade
+4 = Módulo de Thiele
+a = atividade catalítica
+representa um balanço
+(A) de massa, em regime estacionário, com reação de pri-
+meira ordem e resistência difusiva nos poros do catalisador.
+(B) de massa, em regime transiente, com desativação
+catalítica e resistência difusiva no exterior da partícula de
+catalisador.
+C) molar, em regime estacionário, com reação de ordem zero,
+não isotérmica.
+D) molar, em regime transiente, com reação de segunda
+ordem, isotérmica.
+E) molar, em regime transiente, com reação de primeira
+ordem, resistência difusiva e desativação catalítica.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="820,162 820,2137 825,2137 825,162"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,187 273,187 273,230 802,230 802,321 800,321 800,435 750,435 750,542 740,542 740,660 802,660 802,713 81,713 81,714 80,714 80,474 79,474 79,473 80,473 80,322 79,322 79,230 80,230"/>
+	<TextEquiv conf="0.09972">
+	<Unicode>QUESTÃO 37
+A expansão isoenergética de um certo gás cujas grandezas
+PVT são descritas pela equação de estado de Van der Waals
+é expressa por
+(6T/oV), = -4/(VºC,)
+em que C, é a capacidade calorífica molar a volume constante.
+Ao sofrer uma expansão isoenergética, o gás
+(A) se resfria ou se aquece, dependendo do valor de C,,.
+(B) se resfria ou se aquece, dependendo do valor de U.
+(C) se resíria para qualquer valor de C,,.
+(D) se aquece para qualquer valor de C,,.
+(E) não sofre variação de temperatura, pois sua energia é
+constante.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,759 273,759 273,802 802,802 802,1001 658,1001 658,1151 803,1151 803,1168 782,1168 782,1198 591,1198 591,1211 579,1211 579,1346 528,1346 528,1528 801,1528 801,1568 614,1568 614,1699 802,1699 802,1763 240,1763 240,1963 80,1963 80,1699 103,1699 103,1569 80,1569 80,1432 299,1432 299,1246 84,1246 84,1198 81,1198 81,1122 223,1122 223,1001 80,1001 80,1002 79,1002 79,802 80,802"/>
+	<TextEquiv conf="0.96826">
+	<Unicode>QUESTÃO 38
+A reação em fase gasosa entre enxofre e metano foi
+estudada em um reator tubular de 10,0 mL. Em uma corrida
+a 600 ºC e 1 bar, são produzidos 0,76 g de dissulfeto de
+carbono por hora, sendo as vazões de metano e enxofre de
+0,1 gmol.h”* e 0,2 gmol.h"!, respectivamente, como
+representado a seguir.
+CH,(g) + 2S,(g) &gt; CS,(g) + 2H,S(g)
+Produtos de
+- 1
+Fen, = 0,1gmol.h V=100mL 7
+Reação
+i
+1 T=600ºC À
+Fes.) = 0,2gmol.h
+fes, ) = Kk(Pen, )(Ps,)
+Sabe-se que
+* a massa molar do CS, é 76 g.mol*
+* a equação da taxa é: Cos, ) = K(Pen, ) (Ps, ) em
+que (es, ) [=] gmol.mL !.h”' e p [=] bar.
+Considerando-se essas informações, o valor da velocidade
+específica da reação, em gmol.mL!.bar?.h”!, é de
+(A) 1,0x 10?
+(B) 0,5x 10?
+(0) 1,0x 10?
+(D) 0,5x 10?
+(E) 1,0x 10º</Unicode></TextEquiv></TextRegion></Page></PcGts>

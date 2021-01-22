@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:14:31</Created>
+	<LastChange>2021-01-18T19:37:57</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-22.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="818,207 819,2109 822,2109 821,207"/></SeparatorRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="848,215 1037,215 1037,268 1553,268 1553,661 1321,661 1321,837 1552,837 1552,928 1551,928 1551,1063 1511,1063 1511,1211 1554,1211 1554,1339 1552,1339 1552,1545 896,1545 896,1507 847,1507 847,1166 846,1166 846,1139 848,1139 848,929 846,929 846,837 1004,837 1004,688 846,688 846,269 847,269 847,216 848,216"/>
+	<TextEquiv conf="0.96587">
+	<Unicode>QUESTÃO 52
+A identificação e o tratamento de erros em
+programas de computador estão entre as tarefas dos
+compiladores. Os erros de um programa podem ter
+variados tipos e precisam ser identificados e tratados em
+diferentes fases da compilação. Considere uma linguagem
+de programação que exige que as variáveis manipuladas
+por seus programas sejam previamente declaradas, não
+podendo haver duplicidade de identificadores para variáveis
+em um mesmo escopo. Considere, ainda, que a sintaxe
+dessa linguagem tenha sido definida por meio de uma
+gramática livre de contexto e as produções seguintes
+definam a forma das declarações de variáveis em seus
+programas.
+D &gt; TL; | TL; D
+T &gt; int | real
+L &gt; id | id,L
+| char
+Considere os exemplos de sentenças — | e Il — a seguir,
+com a indicação — entre os delimitadores /* e */ — de
+diferentes tipos de erros.
+I int: a, bb; /*
+int */
+II int a,b; real a; /*
+variável a */
+dois pontos após a palavra
+declaração dupla da
+A partir dessas informações, assinale a opção correta.
+O A identificação e a comunicação do erro em qualquer
+uma das sentenças são funções do analisador léxico.
+O compilador não tem meios para identificar e relatar
+erros como o da sentença |.
+A identificação e a comunicação do erro na sentença
+I são funções da geração de código intermediário.
+A identificação e a comunicação do erro na sentença
+II são funções do analisador léxico.
+A identificação e a comunicação do erro na sentença
+II são funções da análise semântica.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="351,377 351,517 557,517 557,377"/></TableRegion>
+	<TableRegion id="r3">
+	<Coords points="354,605 354,737 548,737 548,605"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="148,822 148,1011 785,1011 785,822"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,215 288,215 288,277 807,277 807,371 806,371 806,759 807,759 807,1050 808,1050 808,1453 199,1453 199,1582 806,1582 806,1676 768,1676 768,1799 806,1799 806,2072 680,2072 680,2109 102,2109 102,2072 101,2072 101,1750 100,1750 100,1724 101,1724 101,1582 102,1582 102,1453 101,1453 101,1283 100,1283 100,1050 102,1050 102,595 100,595 100,535 101,535"/>
+	<TextEquiv conf="0.93657">
+	<Unicode>QUESTÃO 51
+Considere um jogo do tipo 8-puzzle, cujo objetivo é
+conduzir o tabuleiro esquematizado na figura abaixo para
+o seguinte estado final.
+Considere, ainda, que, em determinado instante do jogo, se
+tenha o estado EO a seguir.
+Pelas regras desse jogo, sabe-se que os próximos estados
+possíveis são os estados E1, E2 e E3 mostrados abaixo.
+Considere uma função heurística h embasada na soma das
+distâncias das peças em relação ao estado final desejado,
+em que a distância d a que uma peça p está da posição
+final é dada pela soma do número de linhas com o número
+de colunas que a separam da posição final desejada. Por
+exemplo, em E1, d(1) = 2 + 1=3. A partir dessas
+informações analise as asserções a seguir.
+Utilizando-se um algoritmo de busca gulosa pela melhor
+escolha que utiliza a função h, o próximo estado no
+desenvolvimento do jogo a partir do estado EO tem de
+ser E3
+porque,
+dos três estados E1, E2 e E3 possíveis, o estado com
+menor soma das distâncias entre a posição atual das
+peças e a posição final é o estado E3.
+Assinale a opção correta a respeito dessas asserções.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+O Asduas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

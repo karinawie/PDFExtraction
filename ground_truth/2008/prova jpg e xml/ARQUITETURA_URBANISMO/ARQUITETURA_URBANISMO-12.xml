@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:23:12</Created>
+	<LastChange>2020-09-27T19:13:40</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="854,458 852,772 1468,776 1470,462"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="886,1253 884,1626 1502,1629 1504,1256"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="111,454 111,960 585,960 585,454"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="888,845 888,1217 1485,1217 1485,845"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="111,1002 111,1377 700,1377 700,1002"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,181 273,181 273,230 1575,230 1575,390 1307,390 1307,1831 1427,1831 1427,1873 1574,1873 1574,1941 1540,1941 1540,2024 1498,2024 1498,2149 80,2149 80,2023 79,2023 79,2022 80,2022 80,389 79,389 79,230 80,230"/>
+	<TextEquiv conf="0.96498">
+	<Unicode>QUESTÃO 16
+Considere o estudo preliminar para uma residência unifamiliar com área externa coberta. O projeto é constituído por dois
+volumes sobrepostos, mas não coincidentes, com base quadrada de 15 metros de lado e 4 metros de altura (Figura 1).
+O simples deslocamento do volume superior para criar a área protegida (Figura 2) não seria possível, pois resultaria no
+desabamento da edificação (Figura 3). Para resolver o problema, o Arquiteto pensou em duas soluções (Figuras 4€ 5).
+Considerando as figuras, analise as afirmações a seguir.
+| - O problema consiste na falta de um apoio para a parte em balanço do volume superior deslocado.
+ll - A única solução para o problema em questão seria colocar uma ou mais colunas sob o volume em balanço.
+Ill - O excesso de carga da parte em balanço pode ser neutralizado por meio da criação de um terceiro volume, colocado de
+maneira que o seu momento seja equivalente ao da carga em balanço.
+IV - Caso, no volume superior, predominassem superfícies envidraçadas, o problema da carga do balanço não existiria.
+V - Do ponto de vista estrutural, uma solução em balanço é mais eficiente do que outra utilizando apoios convencionais.
+Está(ão) correta(s) APENAS a(s) afirmação(ões)
+(A) Il (B) le IV (C) IlleV (D) LIlleV (E) Il, MN elV</Unicode></TextEquiv></TextRegion></Page></PcGts>

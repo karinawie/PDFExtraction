@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T15:36:01</Created>
+	<LastChange>2020-11-16T23:35:03</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="829,265 829,2117 831,2117 831,265"/></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="104,272 290,272 290,338 811,338 811,993 813,993 813,1066 811,1066 811,1368 812,1368 812,1441 811,1441 811,1488 809,1488 809,1602 811,1602 811,1676 263,1676 263,1790 457,1790 457,1816 233,1816 233,2111 104,2111 104,1885 105,1885 105,1790 143,1790 143,1482 105,1482 105,1066 103,1066 103,338 104,338"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>QUESTÃO 11
+Um analista foi contratado para desenvolver um
+sistema de pesquisa de DVDs em lojas virtuais. O sistema
+deverá solicitar ao usuário um título de DVD, que será
+usado para realizar a pesquisa nas bases de dados das
+lojas conveniadas. Ao detectar a disponibilidade do DVD
+solicitado, o sistema armazenará temporariamente os
+dados das lojas (nome, preço, data prevista para entrega
+do produto) e exibirá as informações ordenadas por preço.
+Após analisar as informações, o cliente poderá efetuar a
+compra. O contratante deverátestar algumas operações do
+sistema antes de ele ser finalizado. Há tempo suficiente
+para que o analista atenda a essa solicitação e efetue
+eventuais modificações exigidas pelo contratante.
+Com relação a essa situação, julgue os itens a seguir
+quanto ao modelo de ciclo de vida.
+| Oentendimento do sistema como um todo e a execução
+sequencial das fases sem retorno produzem um sistema
+que pode ser validado pelo contratante.
+Il A elaboração do protótipo pode ser utilizada para
+resolver dúvidas de comunicação, o que aumenta os
+riscos de inclusão de novas funcionalidades não-
+prioritárias.
+Ill A definição das restrições deve ser a segunda fase a
+ser realizada no desenvolvimento do projeto,
+correspondendo à etapa de engenharia.
+Um processo iterativo permite que versões progressivas
+mais completas do sistema sejam construídas e
+avaliadas.
+Estão certos apenas os itens
+lell.
+lei,
+lei.
+INelv.
+Melv
+cogçcoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="868,920 868,1597 1548,1597 1548,920"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="851,278 1041,278 1041,310 1552,310 1552,568 1551,568 1551,663 1065,663 1065,853 902,853 902,848 851,848"/>
+	<TextEquiv conf="0.91618">
+	<Unicode>QUESTÃO 12
+Uma pizzaria fez uma ampliação de suas
+instalações e o gerente aproveitou para melhorar o sistema
+informatizado, que era limitado e não atendia a todas as
+funções necessárias. O gerente, então, contratou uma
+empresa para ampliar o software. No desenvolvimento do
+novo sistema, a empresa aproveitou partes do sistema
+antigo e estendeu os componentes de maneira a usar
+código validado, acrescentando as novas funções
+solicitadas.
+Que conceito de orientação a objetos está descrito na
+situação hipotética acima?
+sobrecarga
+herança
+sobreposição
+abstração
+mensagem
+cogcgoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="851,872 1041,872 1041,1631 1549,1631 1549,1691 1552,1691 1552,2115 901,2115 901,1804 852,1804 852,1712 851,1712"/>
+	<TextEquiv conf="0.96034">
+	<Unicode>QUESTÃO 13
+Com relação ao diagrama acima, assinale a opção correta.
+O Paraeconomizartempo e memória, as mensagens de
+retorno 7: dados €&amp; 15: dados poderiam ser
+mescladas em uma única mensagem.
+O objeto controlador Acesso Utiliza uma estrutura
+de repetição para verificar os atributos de acesso a um
+arquivo.
+Amensagem5: obteraACL( ) podelevaràrepetição
+da chamada 4: lerPermissao( ).
+Sempre que um aplicativo fizer uma leitura, será
+construído e destruído um objeto Controlador
+Acesso.
+A mensagem 3: preparar ( ) ocorre
+simultaneamente (em paralelo) à mensagem 4:
+lerpermissao( ).
+o</Unicode></TextEquiv></TextRegion></Page></PcGts>

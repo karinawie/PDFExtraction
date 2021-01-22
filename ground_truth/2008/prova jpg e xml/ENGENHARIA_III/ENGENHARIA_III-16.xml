@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:05:39</Created>
+	<LastChange>2020-10-25T18:16:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-16.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="494,1340 494,1905 1145,1905 1145,1340"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,1171 273,1171 273,1211 1575,1211 1575,1297 1573,1297 1573,1978 1304,1978 1304,2046 1252,2046 1252,2139 80,2139 80,1927 79,1927 79,1211 80,1211"/>
+	<TextEquiv conf="0.96459">
+	<Unicode>QUESTÃO 29
+Uma central de potência a vapor opera segundo um Ciclo de Rankine e produz vapor saturado na caldeira. Deseja-se
+aumentar o rendimento térmico do ciclo sem que haja diminuição do título do fluido que deixa a turbina, a fim de evitar
+a erosão das palhetas.
+Analisando o diagrama temperatura-entropia relativo ao Ciclo de Rankine, acima representado, conclui-se que a ação
+a ser tomada é
+(A) aumentar a pressão na caldeira, mantendo a pressão do condensador constante.
+(B) aumentar a temperatura na seção de saída da turbina, mantendo a pressão da caldeira constante.
+(C) reduzir a pressão no condensador, mantendo a pressão da caldeira constante.
+(D) reduzir a temperatura na entrada da bomba, mantendo a pressão da caldeira constante.
+(E) superaquecer o vapor na caldeira, mantendo a pressão desta e a do condensador constantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,664 1101,664 1101,776 1574,776 1574,1035 1571,1035 1571,1135 80,1135 80,1076 81,1076 81,733 80,733"/>
+	<TextEquiv conf="0.96339">
+	<Unicode>QUESTÃO 28
+No contexto do processo de fundição sob pressão, considere as afirmações a seguir.
+| - O molde utilizado nesse processo geralmente é constituído de duas partes, que são hermeticamente fechadas no
+momento do vazamento do metal líquido. Ele pode ser utilizado frio ou aquecido à temperatura do metal líquido, o que
+exige materiais que suportem essas temperaturas.
+Il - O metal é bombeado na cavidade do molde e a sua quantidade deve ser tal que não só preencha inteiramente essa
+cavidade, como também os canais localizados em determinados pontos para evasão do ar. Esses canais servem também
+para garantir o preenchimento completo das cavidades do molde, sendo, simultaneamente, produzida alguma rebarba .
+Ill - Devido à pressão e à consequente alta velocidade de enchimento da cavidade do molde, o processo possibilita a fabrica-
+ção de peças de formas pouco complexas e de paredes mais espessas do que permitem os processos de gravidade.
+Estão corretas as afirmações
+(A) |, apenas. (B) lell, apenas. (C) Il elll, apenas. (D) Il e Ill, apenas. (E) l, Il elll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 273,184 273,225 1573,225 1573,277 1437,277 1437,381 1573,381 1573,474 1118,474 1118,627 600,627 600,628 81,628 81,629 80,629 80,536 81,536 81,279 79,279 79,225 80,225"/>
+	<TextEquiv conf="0.92913">
+	<Unicode>QUESTÃO 27
+O alumínio é um metal que, em volume de produção, só é superado pelos ferrosos. Analise as afirmações a seguir sobre
+esse material.
+| - Apresenta baixa condutividade térmica e, porisso, é usado como matéria-prima para fabricação de panelas.
+Il - Tem grande aplicação na indústria aeronáutica por possuir baixa relação resistência/peso.
+Ill - Trata-se de um metal com baixo ponto de fusão e, portanto, não é recomendado em aplicações com temperaturas
+superiores a 150 ºC.
+IV - Possui boa resistência à corrosão, com aplicação na construção civil e na indústria automotiva, e pode ser 100% reciclado.
+Estão corretas as afirmações
+(A) lelll, apenas. (B) Il elll, apenas.
+(C) Ill e IV, apenas. (D) |, Il e IV, apenas.
+(E) LI, NM elV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

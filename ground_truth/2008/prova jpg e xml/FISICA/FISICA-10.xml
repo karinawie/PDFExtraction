@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:30:42</Created>
+	<LastChange>2020-10-25T21:44:51</LastChange></Metadata>
+	<Page imageFilename="FISICA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="1227,224 1227,443 1550,443 1227,443 1227,747 1566,747 1566,325 1528,325 1528,224"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,821 273,821 273,862 1573,862 1573,952 1418,952 1418,985 80,985 80,952 79,952 79,862 80,862"/>
+	<TextEquiv conf="0.95639">
+	<Unicode>QUESTÃO 15
+Uma jovem mãe prepara o banho para o seu bebê. Ela sabe que a temperatura da água da torneira é de 20 ºC, e que a
+temperatura ideal da água para o banho é de 36 ºC. Quantos litros de água fervendo a mãe deve misturar com a água da
+torneira para obter 10 litros de água na temperatura ideal para o banho?
+(A) 2,5 (B) 2,0 (C) 1,5 (D) 1,0 (E)O,5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 274,184 274,238 1109,238 1109,400 1239,400 1239,444 460,444 460,551 515,551 515,638 218,638 218,750 78,750 78,444 77,444 77,238 80,238"/>
+	<TextEquiv conf="0.68397">
+	<Unicode>QUESTÃO 14
+Um disco gira livremente, com velocidade angular w , em torno de um eixo vertical
+que passa pelo seu centro. O momento de inércia do disco em relação ao eixo é |..
+Um segundo disco, inicialmente sem rotação, é colocado no mesmo eixo e cai sobre
+o primeiro disco, como mostra a figura. Após algum tempo, o atrito faz com que os dois
+discos girem juntos. Se o momento de inércia do segundo disco é |,, qual é a velocidade |
+angular final de rotação do conjunto? 2
+A B)º
+(A) w 6),
+|
+(O) wu! (O) w
+bz 14
+h
+O is</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,1021 1573,1021 1573,1122 797,1122 797,1862 991,1862 991,1898 1042,1898 1042,1934 1574,1934 1574,1996 1457,1996 1457,2141 80,2141 80,1816 79,1816"/>
+	<ImageRegion id="r4">
+	<Coords points="74,1168 74,1760 1142,1760 1142,1168"/></ImageRegion>
+	<TextEquiv conf="0.96494">
+	<Unicode>QUESTÃO 16
+Cinco sensores foram utilizados para medir a temperatura de um determinado corpo. As curvas de calibração da resistência
+elétrica, em função da temperatura destes sensores, são apresentadas no gráfico abaixo.
+Temperatura (K)
+Analisando-se o gráfico, foram feitas as afirmativas a seguir.
+| - O sensor (2) só deve ser utilizado para temperaturas superiores a 20 K.
+ll - Para temperaturas entre 1 Ke 3 K apenas o sensor (5) pode ser utilizado.
+Ill - Quando a resistência do sensor (1) atingir o valor de cerca de 7 O, o sensor (4) estará com uma resistência um pouco
+superior a 2 kO.
+IV- O sensor (3) é o único a ser empregado para temperaturas na faixa de 20 K a 300 K.
+São verdadeiras APENAS as afirmações
+(A)lell (B)lelV (C)llell (D)llelV (E)IlelV</Unicode></TextEquiv></TextRegion></Page></PcGts>

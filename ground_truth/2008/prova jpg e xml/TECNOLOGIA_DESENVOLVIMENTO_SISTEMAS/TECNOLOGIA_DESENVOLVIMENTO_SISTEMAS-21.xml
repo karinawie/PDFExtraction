@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:33:21</Created>
+	<LastChange>2020-10-26T12:47:37</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-21.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1550,105 1550,159 1288,159 1288,105"/>
+	<TextEquiv conf="0.79097">
+	<Unicode>ENADE:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1552,213 1552,299 104,299 104,213"/>
+	<TextEquiv conf="0.95866">
+	<Unicode>C Identifique e escreva para as classes seus atributos e métodos, utilizando os símbolos de visibilidade proposto na
+UML. Os métodos devem estar com sua assinatura completa e obedecerem as regras de encapsulamento da
+orientação a objetos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

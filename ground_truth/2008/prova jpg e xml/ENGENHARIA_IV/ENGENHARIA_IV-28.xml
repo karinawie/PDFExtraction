@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:28:56</Created>
+	<LastChange>2020-10-25T18:36:59</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-28.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="825,171 825,2134 828,2134 828,171"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="165,571 165,957 725,957 725,571"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="931,534 931,1520 1548,1520 1548,534"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,186 273,186 273,230 802,230 802,546 800,546 800,1050 802,1050 802,1440 80,1440 80,1042 79,1042 79,230 80,230"/>
+	<TextEquiv conf="0.96499">
+	<Unicode>QUESTÃO 49
+Em um processo de produção de uma dada proteína, são
+utilizadas células de Escherichia coli como hospedeiras.
+Estas não suportam mais que 5 g-L* de hidróxido de amônio,
+usado como fonte de nitrogênio, o que leva à produção de
+apenas 10 g de células por L. Para alcançar um rendimento
+apreciável para este processo, deve-se obter, no mínimo, uma
+concentração celular de 50 g.-L"*. O gráfico abaixo representa
+a variação da velocidade específica de crescimento em
+função da concentração de hidróxido de amônio (NH,OH).
+Visando a obter o rendimento e a produtividade adequadas,
+este processo deve ser conduzido de modo
+(A) contínuo para manter a concentração de hidróxido de
+amônio no meio em valores superiores a 5g-L*.
+(B) descontínuo, usando concentrações de hidróxido de
+amônio inferiores a 5g.L*.
+(C) descontínuo, usando concentrações de hidróxido de
+amônio superiores a 5g-L"*.
+(D) descontínuo alimentado para que a concentração de
+hidróxido de amônio no meio se mantenha em valores
+superiores a 5gL.
+(E) descontínuo alimentado, mantendo a concentração de
+hidróxido de amônio próxima a 5g-L*.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="850,186 1044,186 1044,223 1045,223 1045,224 1574,224 1574,494 1441,494 1441,1623 1574,1623 1574,1983 1378,1983 1378,2150 852,2150 852,2048 851,2048 851,517 850,517"/>
+	<TextEquiv conf="0.93940">
+	<Unicode>QUESTÃO 50
+O fluxograma a seguir relaciona-se a um processo de produ-
+ção do etanol no qual será usada amilácea, milho, como ma-
+téria-prima. Como inóculo, serão utilizadas novas linhagens
+de Saccharomyces cerevisiae L36-w4, obtidas a partir da
+alteração genética de leveduras S. cerevisiae, pela clonagem
+do gene da síntese de glicoamilase de Aspergillus awamori e
+do gene da a-amilase de Bacillus subtilis nestas células.
+A nova linhagem apresenta temperatura ótima de atuação em
+torno de 30 ºC.
+Considere o fluxograma e as afirmações a seguir.
+| - A etapa de hidrólise enzimática da matéria-prima é
+desnecessária ao processo.
+ll - Nas etapas de separação da biomassa e destilação do
+meio fermentado para obtenção do etanol haverá per-
+das que refletirão no processo produtivo.
+Ill - Nas etapas de tratamento da matéria-prima com
+lavagem e cominuição dos grãos de milho, separação
+de biomassa e destilação do meio fermentado para
+obtenção do etanol serão produzidos resíduos.
+IV- A operação de esterilização do meio, fermentador e
+propagador da cultura microbiana poderia ser descartada.
+São corretas APENAS as afirmações
+(A) lelll (B)lelV
+(OC) Ile (D) l, Ile IV
+(E) Ill elV</Unicode></TextEquiv></TextRegion></Page></PcGts>

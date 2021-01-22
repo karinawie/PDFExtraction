@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T19:27:37</Created>
+	<LastChange>2020-09-22T19:27:37</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-16.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="76,433 76,856 636,857 636,434"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="76,918 76,1496 417,1497 417,1524 582,1524 582,922 279,921 279,918"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="139,1550 138,2124 581,2124 582,1550"/></ImageRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="81,182 273,182 273,224 1574,224 1574,418 79,418 79,417 78,417 78,391 79,391 79,224 80,224 80,211 81,211"/>
+	<TextEquiv conf="0.96491">
+	<Unicode>QUESTÃO 20
+Na década de 1940, professores e estudantes da Escola Nacional de Arquitetura da Universidade Nacional Autônoma do
+México elaboraram propostas para a construção da Cidade Universitária, programa presente naquele período em várias univer-
+sidades latino-americanas. Para a escolha da proposta vencedora, o júri, em termos de implantação do projeto, privilegiou
+aquele que apresentava uma ocupação livre do espaço, articulada a partir de eixos bem definidos e constituição de uma
+centralidade aberta, com lâminas de edifícios isolados e desenvolvimento sucessivo de paisagens naturais e construídas.
+A proposta vencedora foi</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="862,431 862,848 1454,848 1454,431"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="860,917 860,1522 1331,1522 1331,917"/></ImageRegion></Page></PcGts>

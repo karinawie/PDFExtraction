@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T15:53:23</Created>
+	<LastChange>2020-10-26T13:28:54</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="220,394 220,811 1442,811 1442,394"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="125,1560 125,2157 757,2157 757,1560"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="80,183 246,183 246,184 412,184 412,185 578,185 578,186 744,186 744,187 910,187 910,188 1076,188 1076,189 1242,189 1242,190 1408,190 1408,191 1573,191 1573,291 1574,291 1574,383 1485,383 1485,890 80,890 80,378 79,378 79,377 80,377"/>
+	<TextEquiv conf="0.96495">
+	<Unicode>QUESTÃO 29
+No processo de tratamento de efluentes de uma unidade industrial, parte do programa aplicativo, representando a lógica de
+controle, está apresentado na figura abaixo.
+Os dispositivos de entrada (E0 até E4) são, fisicamente, chaves que estão conectadas a um módulo de entrada do Controlador
+Lógico Programável (CLP). As chaves (El, E2 e E3) são normalmente abertas e as chaves (E0 e E4), normalmente fechadas.
+Ao módulo de saída do CLP está conectada a bobina do contato auxiliar que liga a bomba elétrica dosadora.
+Quais chaves devem ser acionadas para que a bomba dosadora seja ligada?
+(A) ETe E2 (B) E2e E3 (C) EB e E4 (D) E0, ET e E2 (E) E1, E2e E3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,932 246,932 246,933 273,933 273,975 1573,975 1573,1035 689,1035 689,1181 1002,1181 1002,1248 1408,1248 1408,1249 1573,1249 1573,1308 80,1308 80,1035 79,1035 79,975 80,975"/>
+	<TextEquiv conf="0.96513">
+	<Unicode>QUESTÃO 30
+Numa planta fabril automatizada, em que é utilizado o padrão 4-20 mA para envio de informações, será implementada uma nova
+tecnologia de comunicação digital. Os seguintes requisitos devem ser cumpridos:
+* solução econômica;
+* agilidade e facilidade na migração de tecnologias;
+* utilização do cabeamento existente na planta;
+* diagnóstico e manutenção proativa;
+* suporte técnico oferecido pela maioria dos fornecedores de instrumentação.
+Dentre as várias tecnologias de redes industriais abaixo, a que atende a todos os requisitos apresentados é a
+(A) Hart (B) DeviceNet (C) Profibus PA (D) Profibus DP (E) Foundation Fieldbus</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="80,1344 247,1344 247,1345 269,1345 269,1385 1574,1385 1574,1549 1573,1549 1573,1992 1549,1992 1549,2034 833,2034 833,1973 642,1973 642,1972 450,1972 450,1971 449,1971 449,1935 833,1935 833,1709 832,1709 832,1673 831,1673 831,1549 246,1549 246,1548 80,1548 80,1547 79,1547 79,1546 80,1546"/>
+	<TextEquiv conf="0.96325">
+	<Unicode>QUESTÃO 31
+Uma das definições de confiabilidade é “a probabilidade de que um sistema irá operar dentro de níveis predefinidos de
+desempenho por um período específico de tempo, quando submetido a determinadas condições ambientais para as quais foi
+projetado”. Qualquer sistema apresenta uma probabilidade de funcionamento que diminui com o tempo, e essa probabilidade
+é normalmente avaliada pela figura de mérito - MTBF (Tempo Médio entre Falhas -Mean Time Between Failures). O gráfico a
+seguir apresenta resultados que servirão para o estudo de confiabilidade de 3 sistemas automáticos diferentes (1,263).
+Analisando o gráfico, em relação à confiabilidade, conclui-se
+que
+(A) dentre todos os sistemas, o sistema 1, no intervalo de
+tempo de O a 2M, tem confiabilidade intermediária.
+(B) o sistema 2 tem maior confiabilidade, dentre os sistemas
+com tempo de utilização prevista em torno de M/2.
+(C) o sistema 2 é o de maior confiabilidade, dentre os
+sistemas com tempo de vida muito longo (t &gt;&gt; M).
+4 — Curva do Sistema 3 (D) o sistema 2 é o que apresenta a maior confiabilidade
+dentre todos os sistemas.
+(E) o sistema 2 apresenta taxa de confiabilidade constante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

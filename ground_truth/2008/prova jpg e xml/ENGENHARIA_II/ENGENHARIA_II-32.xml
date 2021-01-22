@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:27:26</Created>
+	<LastChange>2020-10-25T17:35:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-32.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="845,245 845,845 1591,845 1591,245"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="820,182 820,2128 828,2128 828,182"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,247 273,247 273,287 802,287 802,613 191,613 191,779 81,779 81,780 80,780 80,515 79,515 79,287 80,287"/>
+	<TextEquiv conf="0.96048">
+	<Unicode>QUESTÃO 53
+Um concerto de um famoso pianista, com duração de 1 hora,
+foi digitalizado e armazenado em um site de músicas
+clássicas. A faixa de áudio considerada para digitalização foi
+de O a 10 kHz, utilizando como taxa de amostragem 5 vezes
+a frequência de Nyquist e amplitude quantizada em
+512 níveis. Para realizar transferências de dados deste site,
+o computador utilizado consegue manter uma taxa constante
+de 4 Mbits/s. Com base nas informações acima, o tempo
+estimado, em segundos, para a completa transferência do
+arquivo para esse computador é
+(A) 1.000
+(B) 810
+(C) 720
+(D) 405
+(E) O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,814 273,814 273,854 803,854 803,1126 561,1126 561,1145 176,1145 176,1255 175,1255 175,1322 80,1322 80,1126 79,1126 79,854 80,854"/>
+	<TextEquiv conf="0.96299">
+	<Unicode>QUESTÃO 54
+Deseja-se estabelecer um enlace, em 3 GHz, cobrindo uma
+distância de 5 km. As antenas transmissora e receptora em-
+pregadas são iguais, possuem ganho de 13 dBi e estão ca-
+sadas. A potência mínima do sinal na entrada do receptor é
+10 nW, e as perdas devido à polarização e a outros
+descasamentos equivalem a 3 dB. Sob condições de propa-
+gação no espaço livre, a potência mínima, em watts, do trans-
+missor deverá ser, aproximadamente,
+(Dados: log 2 = 0,3,log 15= 1,18e Tt =10)
+(A) 5,0
+(B) 10,0
+(C) 12,0
+(D) 20,0
+(E) 30,0</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1355 273,1355 273,1396 751,1396 751,1462 803,1462 803,1555 802,1555 802,1888 546,1888 546,2022 208,2022 208,2128 223,2128 223,2154 90,2154 90,2155 80,2155 80,1962 134,1962 134,1855 81,1855 81,1662 135,1662 135,1464 134,1464 134,1422 80,1422"/>
+	<TextEquiv conf="0.96713">
+	<Unicode>QUESTÃO 55
+Considere as afirmativas a seguir sobre telefonia celular.
+O fator de reúso geralmente empregado em sistemas de
+telefonia celular é K = 7 porque valores maiores de K
+implicam, principalmente, ineficiência espectral.
+A setorização da célula aumenta o efeito da interferência
+co-canal porque diminui a distância de reúso da frequên-
+cia no sistema celular.
+IN - Os multipercursos do sinal e a mobilidade do telefone
+celular são fatores influentes na taxa de transmissão de
+informação em sistemas celulares porque produzem,
+respectivamente, dispersão de tempo e de frequência do
+sinal transmitido.
+IV - Atecnologia celular GSM tem melhor qualidade de sinal
+do que a I1S-136 porque a primeira opera com maior lar-
+gura de faixa por canal.
+Estão corretas APENAS as afirmativas
+(A) le IV
+(B) Ile
+(C) Ile IV
+(D) Lilelll
+(E) LI elV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="851,186 1045,186 1045,862 1573,862 1573,1134 1574,1134 1574,1290 1576,1290 1576,1354 1573,1354 1573,1586 1335,1586 1335,1587 1093,1587 1093,1588 852,1588 852,1589 851,1589 851,1199 850,1199 850,901 852,901 852,283 851,283"/>
+	<TextEquiv conf="0.71191">
+	<Unicode>QUESTÃO 56
+Um tipo de modulação empregada em sistema digital de
+telefonia celular é a modulação DQPSK, que é uma variação
+da QPSK. O gráfico acima fornece a probabilidade de erro
+de bit (P,.) para dois tipos de modulação: DOPSK e QPSK,
+em função da relação SNR/bit média, e de desvanecimento
+(fading) provocado pelo canal de propagação. Para a
+modulação DQPSK estão também apresentadas curvas para
+dois valores de frequência Doppler (f). Analisando o grá-
+fico, conclui-se que a técnica de modulação
+(A) QPSK apresenta maior relação SNR/bit média do que a
+DQPSK, mesmo em ambiente Rayleigh.
+(B) QPSK oferece menores probabilidades de erro de bit
+para canais com fading do que sem fading.
+(C) QPSK se iguala à DOPSK para uma taxa maior de erro
+de bit.
+(D) DQPSK apresenta maior probabilidade de erro de bit do
+que a QPSK, para uma mesma SNR/bit média.
+(E) DQPSK diminui a probabilidade de erro de bit à medida
+que a frequência Doppler aumenta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

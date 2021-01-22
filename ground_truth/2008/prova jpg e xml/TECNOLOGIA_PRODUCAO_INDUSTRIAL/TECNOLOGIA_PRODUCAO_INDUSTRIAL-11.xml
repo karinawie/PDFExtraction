@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T13:42:26</Created>
+	<LastChange>2020-10-26T13:54:57</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_PRODUCAO_INDUSTRIAL-11.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="77,1208 77,1585 805,1585 805,1208"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="845,408 845,1465 1582,1465 1582,408"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="820,174 820,2154 828,2154 828,174"/></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,182 269,182 269,227 802,227 802,359 496,359 496,489 802,489 802,587 801,587 801,752 803,752 803,816 780,816 780,891 499,891 499,928 81,928 81,929 80,929 80,640 79,640 79,489 385,489 385,359 81,359 81,360 80,360"/>
+	<TextEquiv conf="0.96563">
+	<Unicode>QUESTÃO 21
+Se a capacidade efetiva de produção de uma empresa é de
+500 peças/turno de 8 horas/dia, e ela produz somente 50
+peças/hora, o seu grau de ocupação é de aproximadamente
+80%.
+PORQUE
+A capacidade efetiva de produção de uma empresa, quando
+se considera um turno com 8 horas/dia, pode ser obtida em
+um, dois ou três turnos.
+Analisando-se as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,970 273,970 273,1014 802,1014 802,1190 801,1190 801,1676 803,1676 803,1702 801,1702 801,1836 803,1836 803,2142 81,2142 81,2143 80,2143 80,1677 79,1677 79,1676 180,1676 180,1191 77,1191 77,1014 80,1014"/>
+	<TextEquiv conf="0.96407">
+	<Unicode>QUESTÃO 22
+Nos anos 1980, os fabricantes de automóveis americanos e
+europeus perderam mercado em função da concorrência
+de empresas japonesas. Os fabricantes de automóveis
+japoneses apresentavam maior variedade de modelos,
+qualidade e preços competitivos.
+WOMACK, J. P.; Jones, D. T.; Roos, D. A Máquina que Mudou
+o Mundo. Rio de Janeiro: Campus, 1992, p. 71.
+Quais as características dos sistemas de produção utiliza-
+dos nas empresas GM e Toyota apresentados na tabela?
+(A) A programação puxada usada pela GM faz com que ela
+trabalhe com estoque médio maior que a Toyota.
+(B) A programação empurrada usada pela Toyota reduz os
+custos fixos.
+(C) O sistema utilizado pela Toyota sincroniza o fluxo de
+produção para minimizar os estoques em processo.
+(D) O sistema de qualidade da GM é mais eficiente do que o
+da Toyota.
+(E) Os lotes de produção da GM são menores do que os
+processados pela Toyota.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="caption">
+	<Coords points="851,182 1045,182 1045,230 1575,230 1575,383 1573,383 1573,1703 1574,1703 1574,1980 1420,1980 1420,2021 1406,2021 1406,2063 1399,2063 1399,2145 1217,2145 1217,2146 860,2146 860,2147 859,2147 859,2146 852,2146 852,1980 851,1980 851,1913 850,1913 850,1912 851,1912"/>
+	<TextEquiv conf="0.96669">
+	<Unicode>QUESTÃO 23
+Um dos aspectos da produção atual é o conjunto de técnicas
+manufatureiras, denominado tecnologia de grupo, presente
+no arranjo físico celular. O leiaute e a tabela mostram um
+arranjo físico funcional e uma matriz de processos das partes.
+Se as partes de A até H forem agrupadas em famílias, uma
+das reordenações possíveis é:
+* Célula 1: Constituída pelas máquinas 1,2,4,8e10,
+produz as partes ADF;
++ Célula 2: Constituída pelas máquinas 3, 6 e 9, produz
+as partes C e G;
++ Célula 3: Constituída pelas máquinas 5, 7, 8, 11 e 12,
+produz BHE.
+A análise da reordenação proposta mostra que a(s) máquina(s)
+(A) 12 deverá permanecer somente na célula 3.
+(B) 12 deverá permanecer somente na célula 2.
+(OC) 6 deverá permanecer somente na célula 2.
+(D) 6 e 12 devem permanecer na célula 1.
+(E) 6 e 12 não devem estar na mesma célula.</Unicode></TextEquiv></TextRegion></Page></PcGts>

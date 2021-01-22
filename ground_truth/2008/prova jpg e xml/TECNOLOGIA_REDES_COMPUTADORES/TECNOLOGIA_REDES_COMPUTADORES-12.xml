@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:03:05</Created>
+	<LastChange>2020-10-26T14:09:19</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="851,1082 1044,1082 1044,1121 1575,1121 1575,1437 1573,1437 1573,2146 852,2146 852,2147 851,2147 852,2147 852,1437 851,1437"/>
+	<TextEquiv conf="0.96461">
+	<Unicode>QUESTÃO 30
+A Empresa ABC Tecnologia Ltda. está instalada em um pré-
+dio de 5 andares e possui uma estrutura dinâmica de espaço
+físico e pessoal para se adequar às flutuações e demandas
+do mercado. No entanto, a cada nova mudança na estrutura
+física e organizacional, o cabeamento de redes da empresa
+precisa ser modificado, gerando atrasos excessivos, altos
+custos e maior desorganização no cabeamento. Qual das
+seguintes soluções é adequada para prover a empresa de
+maior nível de segurança aos seus dados (primeira priorida-
+de) e flexibilidade na localização de seus equipamentos
+(segunda prioridade)?
+(A) Adotar um padrão de cabeamento baseado em
+concentradores (hubs), para permitir reconfigurações rá-
+pidas nos pontos de rede usando cabos UTP categoria 3.
+(B) Adotar o padrão de cabeamento estruturado EIA/TIA 568,
+para obter flexibilidade e rapidez na reconfiguração da rede,
+uma vez que essa norma recomenda grande densidade
+de pontos de rede, mesmo que eles estejam inicialmente
+desativados.
+(C) Usar o protocolo DHCP para ficar imune às influências de
+mudanças de cabeamento, uma vez que o protocolo IP
+pode ser usado com qualquer tipo de infra-estrutura de
+rede e sistema de cabeamento.
+(D) Usar técnicas para oferecer garantias de qualidade de
+serviço na camada de rede e normas de cabeamento
+estruturado ISO 11801, para oferecer otimizações entre
+as camadas (ou seja, cross-layer) do modelo TCP/IP e os
+meios físicos de transmissão.
+(E) Utilizar uma solução baseada em redes locais sem fio
+padrão IEEE 802.11 que, por não necessitarem de
+cabos, oferecem grande flexibilidade e rapidez em caso
+de mobilidade de equipamentos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 802,183 802,324 803,324 803,644 542,644 542,750 295,750 295,850 213,850 213,883 80,883 80,691 81,691 81,283 80,283"/>
+	<TextEquiv conf="0.85148">
+	<Unicode>QUESTÃO 27
+Em relação aos aspectos de segurança de redes sem fio
+IEEE 802.11 (Wi-Fi), analise as afirmações que se seguem.
+| - WEPé um padrão de segurança para redes IEEE 802.11
+que apresenta várias fraquezas que podem comprometer
+a confidencialidade da informação, apesar de usar TKIP
+como solução de criptografia.
+Il - WPA foi projetado para solucionar problemas de
+segurança com WEP implementando um subconjunto
+das funcionalidades do padrão IEEE 802.11i.
+Ill - WPA2 é o nome do padrão IEEE 802 .11i que substituiu
+o RC4 do WPA pelo AES para obter uma criptografia mais
+forte.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) Il, apenas.
+(B) l el, apenas.
+(C) le Ill, apenas.
+(D) Il e Ill, apenas.
+(E), ll elll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,920 273,920 273,961 803,961 803,1053 801,1053 801,1287 755,1287 755,1463 796,1463 796,1596 800,1596 800,1762 802,1762 802,2113 798,2113 798,2149 80,2149 80,1685 78,1685 78,1463 80,1463 80,1287 79,1287 79,961 80,961"/>
+	<TextEquiv conf="0.96594">
+	<Unicode>QUESTÃO 28
+Considere a seguinte sequência de comandos, executada em
+uma máquina Linux durante a configuração de um servidor
+Web Apache para o site www.meusSite.com.br:
+htpasswd -c /usr/local/apache/passwd/senhas fulano
+(responder a perguntas feitas pelo comando)
+htpasswd /usr/local/apache/passwd/senhas sicrano
+(responder a perguntas feitas pelo comando)
+htpasswd /usr/local/apache/passwd/senhas beltrano
+(responder a perguntas feitas pelo comando)
+cat &gt; /usr/local/apache/passwd/grupos &lt;&lt;!
+admin: sicrano beltrano
+H
+cat &gt; usr/local /apache/htdocs/segredo/.htaccess &lt;&lt;!
+AuthType Basic
+AuthName “Somente com convite”
+AuthBasicProvider file
+AuthUserFile /usr/local/apache/passwd/senhas
+AuthGroupFile /usr/local/apache/passwd/grupos
+Require group admin
+1
+Qual das afirmações a seguir descreve o resultado do acesso
+pelo usuário fulano à URL http:/Wwww.meusSite.com.br/segredo ?
+(A) O acesso não é permitido porque o usuário fulano não
+possui senha no arquivo de senhas.
+(B) O acesso não é permitido porque o usuário fulano não faz
+parte do grupo admin.
+(C) O acesso é permitido desde que fulano forneça sua
+senha.
+(D) O acesso é permitido, desde que fulano forneça a senha
+de qualquer usuário do grupo admin.
+(E) O acesso é permitido, sem que uma senha seja pedida.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="852,180 1045,180 1045,219 1574,219 1574,1050 852,1050 852,1051 851,1051 852,1051 852,470 851,470 851,181 852,181"/>
+	<TextEquiv conf="0.96516">
+	<Unicode>QUESTÃO 29
+Um administrador de rede recebeu a tarefa de instalar numa
+empresa uma rede sem fio infra-estruturada dos padrões IEEE
+802.11a/b/g. Arede sem fio deve cobrir toda a área da em-
+presa com múltiplos pontos de acesso, atendendo seus usu-
+ários móveis. Qual solução deve ser utilizada para oferecer a
+melhor relação entre desempenho, facilidade de configuração
+e mobilidade dos equipamentos (roaming) com a manuten-
+ção das conexões em andamento?
+(A) Uma única sub-rede IP envolvendo todos os pontos de
+acesso, um SSID por ponto de acesso, seleção dinâmica
+de canal, distribuição de endereços IP por DHCP vincula-
+do ao endereço MAC.
+(B) Uma única sub-rede IP envolvendo todos os pontos de
+acesso, SSID único em todos os pontos de acesso, sele-
+ção dinâmica de canal, atribuição de endereços |P estáti-
+Cos.
+(C) Uma única sub-rede IP envolvendo todos os pontos de
+acesso, SSID único em todos os pontos de acesso, sele-
+ção dinâmica de canal, distribuição de endereços IP por
+DHCP vinculado ao endereço MAC.
+(D) Uma sub-rede IP por ponto de acesso, um SSID por pon-
+to de acesso, canal fixo, distribuição de endereços |P por
+DHCP vinculado ao endereço MAC.
+(E) Uma sub-rede IP por ponto de acesso, SSID único em
+todos os pontos de acesso, canal fixo, distribuição de
+endereços |P por DHCP vinculado ao endereço MAC.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="822,180 822,2145 825,2145 825,180"/></SeparatorRegion></Page></PcGts>

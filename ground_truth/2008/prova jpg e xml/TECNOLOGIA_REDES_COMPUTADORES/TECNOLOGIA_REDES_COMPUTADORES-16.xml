@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:02:02</Created>
+	<LastChange>2020-10-26T14:06:37</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="294,980 294,1248 1357,1248 1357,980"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="308,340 308,697 1370,697 1370,340"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,181 486,181 486,222 1574,222 1574,314 1550,314 1550,881 1317,881 1317,1286 1409,1286 1409,1479 1574,1479 1574,1505 80,1505 80,1287 79,1287 79,1286 80,1286 80,723 79,723 79,222 80,222"/>
+	<TextEquiv conf="0.96634">
+	<Unicode>QUESTÃO 38 - DISCURSIVA
+Na figura abaixo, os círculos R1, R2 e R3 são roteadores que interconectam três redes |P, representadas pelas nuvens que
+indicam os seus respectivos endereços de rede. A e B são computadores conectados às redes indicadas. As linhas são
+enlaces, e os números 0, 1 e 2, ao lado dos roteadores, indicam o número da interface à qual cada enlace se conecta.
+As tabelas de rotas dos roteadores, mostradas abaixo, apresentam três problemas que precisam ser corrigidos. São eles:
+* máquinas da rede 20.0.0.0/8 não recebem pacotes enviados por A e B;
+* quando A envia um pacote para B, este segue pelo maior caminho, quando deveria seguir pelo menor;
+* quando B envia um pacote para A, este segue pelo maior caminho, quando deveria seguir pelo menor.
+Apresente uma solução para sanar cada um dos problemas apresentados, atendendo às seguintes condições:
+* apenas uma tabela de rotas deve ser modificada na solução de cada problema;
+* deve existir uma rota default na tabela de rotas apresentada;
+* o número de linhas da tabela original deve ser mantido;
+* a tabela de rotas apresentada deve permitir que pacotes enviados alcancem qualquer outra rede;
+* a tabela de rotas apresentada deve permitir que pacotes sempre sigam pelo menor caminho. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

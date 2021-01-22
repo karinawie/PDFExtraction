@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:03:47</Created>
+	<LastChange>2020-11-17T02:23:47</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-34.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="1435,1166 1435,1320 1434,1320 1434,1470 219,1470 219,1166"/>
+	<TextEquiv conf="0.96283">
+	<Unicode>QUESTÃO 80 - DISCURSIVA
+Durante a análise de um sistema de controle de contas bancárias (SCCB), um analista elaborou
+o diagrama de classes acima, em que são especificados os objetos de negócio da aplicação, por meio
+do qual foram distribuídas as responsabilidades e colaborações entre os elementos do modelo. Foi
+atribuída a outro analista a tarefa de elaborar o diagrama de sequência do caso de uso chamado
+DUPLA CONTA, que apresenta o seguinte comportamento: cria um banco, cria uma agência bancária,
+cria um cliente e duas contas bancárias associadas ao cliente e agência bancária anteriormente
+criados, e, por fim, realiza uma transferência de valores entre essas duas contas bancárias. O
+diagrama de sequência em UML apresentado abaixo foi elaborado com o intuito de corresponder ao
+caso de uso em questão.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="371,265 371,1134 1282,1134 1282,265"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="365,1482 365,2160 1462,2160 1462,1482"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T13:42:13</Created>
+	<LastChange>2020-10-26T13:53:48</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_PRODUCAO_INDUSTRIAL-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="828,180 828,2157 831,2157 831,180"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="71,1294 71,1662 805,1662 805,1294"/></TableRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="851,182 1045,182 1045,227 1573,227 1573,824 1534,824 1534,967 1573,967 1573,1028 996,1028 996,1176 1562,1176 1562,1248 1573,1248 1573,1397 1574,1397 1574,1454 1573,1454 1573,1608 1574,1608 1574,1883 1299,1883 1299,1997 972,1997 972,2115 988,2115 988,2139 861,2139 861,2142 860,2142 860,2141 852,2141 852,1966 851,1966 851,1935 853,1935 853,1811 852,1811 852,1563 851,1563 851,1454 850,1454 850,1321 851,1321 851,1074 852,1074 852,957 851,957"/>
+	<TextEquiv conf="0.96822">
+	<Unicode>QUESTÃO 26
+Uma empresa do ramo de eletrodomésticos adota como
+política de controle de estoque o ponto de recolocação de
+pedido (ROP). Com este sistema é possível acompanhar o
+estoque remanescente de um item cada vez que uma
+retirada é feita, a fim de determinar a necessidade de
+reposição e, a cada revisão, é tomada uma decisão sobre
+a posição do estoque. Para este caso, os gestores dos
+estoques da empresa, ao selecionar o estoque de
+segurança, assumiram que a demanda durante o tempo de
+espera tem uma distribuição normal.
+Durante a última reunião de planejamento, os números
+indicaram a demanda média (d) de 18 unidades por semana,
+com um desvio padrão de 5 unidades e com tempo de espera
+(L) constante e igual a duas semanas. Deseja-se um nível de
+atendimento de 90%, mantendo-se os demais dados de
+planejamento, que são:
+* Demanda anual (D) de 936 peças;
+* Quantidade econômica de pedido (Q) igual a 75 peças;
+* Custo de pedido (S) igual a R$45,00 e
+* Custo unitário de manutenção do estoque (H) igual a
+R$ 15,00.
+São dados:
+oL = ot. e
+Custo Total do Sistema (C) = (Q/2)(H) + (D/Q).(S) + H.z.oL
+Estoque de Segurança = z.oL
+Ponto de recolocação de pedido = d.L + Estoque de
+Segurança
+Tabela da distribuição normal (em anexo no final da prova).
+Adaptado de RITZMAN, L.P. ; KRAJEWSKI, L.J. Administração da Produ-
+ção e Operações. São Paulo: Pearson, Prentice Hall, 2004. p. 304 - 311.
+Sobre o estudo apresentado, considere as afirmações a
+seguir.
+| - O custo total anual é R$ 1.259,10, e o estoque de
+segurança é igual a 9 unidades.
+ll - O estoque de segurança deve ser retirado para aumentar
+o nível de atendimento para 95%.
+Ill - Deve-se avaliar o equilíbrio entre os objetivos conflitantes
+de custos e os níveis de atendimento.
+IV - Quanto maior o valor de z, menores serão os níveis de
+atendimento.
+São corretas APENAS as afirmações
+(A) lell
+(B) le
+(C) Ile
+(D) IN elV
+(E) Ie IV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 273,184 273,226 802,226 802,952 80,952 80,427 79,427 79,226 80,226"/>
+	<TextEquiv conf="0.96876">
+	<Unicode>QUESTÃO 24
+A definição do arranjo físico de uma operação produtiva deve
+levar em conta o posicionamento físico dos recursos em um
+sistema de produção, estabelecendo a localização das má-
+quinas, dos equipamentos e do pessoal da produção. Qual é
+o arranjo físico típico usado em estaleiros na construção de
+grandes navios?
+(A) Posicional, porque os recursos a serem transformados
+ficam estacionários enquanto os recursos transfor-
+madores são movimentados a cada etapa do projeto.
+(B) Posicional, porque os recursos transformadores são
+fixos, característica típica das linhas de montagem
+industrial.
+(C) Celular, porque os trabalhos são realizados em uma
+continuidade de células de produção localizadas de
+forma sequencial na ordem lógica das etapas de trabalho.
+(D) Celular, porque a produção se desenvolve fixando os
+meios de produção e o produto dentro dos limites
+geográficos da unidade de produção.
+(E) Por produto, porque o resultado do processo produtivo é
+unitário e único, decorrente de projeto específico, típico
+de uma produção customizada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,989 273,989 273,1031 803,1031 803,1261 802,1261 802,2146 80,2146 80,1750 79,1750 79,1031 80,1031"/>
+	<TextEquiv conf="0.96870">
+	<Unicode>QUESTÃO 25
+Um componente de grandes proporções é utilizado na
+montagem de um produto de uma empresa e pode ser
+adquirido de dois fornecedores diferentes pelo mesmo preço.
+A empresa necessita de, rigorosamente, 30.000 compo-
+nentes/mês e deseja não manter estoques em suas
+dependências. Os fornecedores têm as seguintes ca-
+racterísticas:
+Considerando 20 dias trabalhados por mês, de qual forne-
+cedor a empresa deve comprar e quanto?
+(A) É indiferente comprar de F1 ou de F2, pois ambos
+têm capacidade de atender a demanda.
+(B) 20% de sua necessidade deve ser comprada de Fl e o
+restante, de F2, pois é a alternativa mais econômica.
+(C) 20% de sua necessidade deve ser comprada de F1 e o
+restante, de F2, pois F2 pode entregar mais rápido e tem
+fator de eficiência maior.
+(D) 80% de sua necessidade deve ser comprada de F1 e o
+restante, de F2, pois F1 está mais próximo e tem índice
+de rejeição menor.
+(E) 80% de sua necessidade deve ser comprada de F1 e o
+restante, de F2, pois o volume de ressuprimento é menor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

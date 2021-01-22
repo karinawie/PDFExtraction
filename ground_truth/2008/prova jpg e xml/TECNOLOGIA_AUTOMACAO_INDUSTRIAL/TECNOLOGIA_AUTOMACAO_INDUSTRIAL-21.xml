@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:52:05</Created>
+	<LastChange>2020-10-26T13:05:42</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="65,277 65,888 1042,888 1042,277"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,187 1574,187 1574,328 1575,328 1575,449 1360,449 1360,660 1576,660 1576,816 1573,816 1573,987 80,987 80,927 704,927 704,694 1055,694 1055,381 1054,381 1054,251 713,251 713,250 81,250 81,249 80,249"/>
+	<TextEquiv conf="0.95914">
+	<Unicode>b) Uma parte do sistema automatizado, ilustrado na figura abaixo, é controlado pelo CLP, utilizando uma rede do tipo
+barramento de campo com um protocolo do tipo mestre-escravo, para o acesso ao meio de comunicação.
+(valor: 5,0 pontos)
+Informações enviadas pelo mestre para cada
+escravo:
+* 6 caracteres de dados
+* 4 caracteres de controle
+mestre:
+* 10 caracteres de dados
+* 4 caracteres de controle
+O CLP (mestre) varre ciclicamente 5 dispo-
+Rede Fieldbus sitivos (escravos) com resposta imediata.
+Sabe-se que a codificação de caractere
+utiliza 16 bits e a taxa de transmissão do
+barramento é 480 kbits/s.
+Com base nas informações, calcule o tempo total de ciclo de varredura do barramento de campo, realizado pelo CLP, e informe
+se esse tempo excede o tempo máximo disponível pelo CLP para comunicação, que é de 6 ms.</Unicode></TextEquiv></TextRegion></Page></PcGts>

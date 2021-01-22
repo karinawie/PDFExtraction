@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T03:39:49</Created>
+	<LastChange>2021-01-19T14:43:32</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="910,207 911,2118 914,2118 913,207"/></SeparatorRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="939,550 1129,550 1129,595 1549,595 1549,667 1551,667 1551,751 1542,751 1542,900 1551,900 1551,953 1534,953 1534,985 1519,985 1519,1014 1257,1014 1257,1075 1144,1075 1144,1252 939,1252 939,866 938,866 938,757 939,757 939,649 938,649 938,596 939,596"/>
+	<TextEquiv conf="0.96831">
+	<Unicode>QUESTÃO 19
+Considere g : R - R uma função com derivada &amp;
+contínua e fa função definida por f(x) = Í Ena para
+o
+todo x e R.
+Nessas condições, avalie as afirmações que se seguem.
+I A função / é integrável em todo intervalo [a, Bb],
+a,beR,a&lt;b.
+Il A função fé derivável e sua derivada é a função g.
+III A função diferença / - g é uma função constante.
+E correto o que se afirma em
+O |, apenas.
+O Il, apenas.
+O Ielll, apenas.
+O Ilelll, apenas.
+O LITE.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="938,215 1438,215 1438,288 1391,288 1391,393 1551,393 1551,442 1418,442 1418,509 990,509 990,510 989,510 989,289 938,289"/>
+	<TextEquiv conf="0.87425">
+	<Unicode>QUESTÃO 18
+No anel dos inteiros módulo 12, R=Z /127Z,
+não há divisores de zero.
+todo elemento não-nulo é inversível.
+o subconjunto dos elementos inversíveis forma um
+subanel de R.
+a multiplicação não é comutativa.
+há exatamente 4 elementos inversíveis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="104,1719 294,1719 294,1787 731,1787 731,1765 849,1765 849,1790 872,1790 872,1808 861,1808 861,1814 124,1814 124,2089 104,2089 104,1814 103,1814 103,1787 104,1787"/>
+	<TextEquiv conf="0.96371">
+	<Unicode>QUESTÃO 17
+nz 37
+i= i=
+No plano complexo, a área do triângulo de vértices 21, e * e e *º é
+o
+60o oo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="104,1256 294,1256 294,1302 899,1302 899,1328 604,1328 604,1405 576,1405 576,1476 231,1476 231,1632 269,1632 269,1684 147,1684 147,1664 104,1664 104,1358 103,1358 103,1302 104,1302"/>
+	<TextEquiv conf="0.96790">
+	<Unicode>QUESTÃO 16
+A concentração de certo fármaco no sangue, / horas após sua
+administração, é dada pela fórmula:
+101
+ESSA
+Em qual intervalo essa função é crescente?
+O) = t&gt;O0.
+t&gt;0
+1&gt;10
+t&gt;1
+0&lt;ri&lt;1
+1 &lt;7&lt;10
+2
+6 oçcoo</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r40">
+	<Coords points="682,251 682,508 905,508 905,251"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,260 683,260 683,551 818,551 818,606 791,606 791,768 425,768 425,886 898,886 898,946 900,946 900,947 901,947 901,972 899,972 899,1161 631,1161 631,1224 154,1224 154,1155 104,1155 104,912 103,912 103,701 105,701 105,539 103,539 103,260 104,260"/>
+	<TextEquiv conf="0.95258">
+	<Unicode>QUESTÃO 15
+Uma professora do ensino fundamental resolveu
+utilizar, em suas aulas, a construção de um avião
+de papel para explorar alguns conceitos
+e propriedades da geometria plana. Utilizando uma
+folha de papel retangular, os estudantes deveriam
+começar fazendo as dobras na folha ao longo dos
+segmentos de reta indicados na figura ao lado.
+As seguintes condições, segundo instruções da
+professora, devem ser satisfeitas:
+&lt; a reta determinada por M e U é a mediatriz do segmento AB;
+&lt; AC, BD e AB são segmentos congruentes;
+&lt; PT e TQ são segmentos congruentes;
+&lt; PD e BD são segmentos congruentes.
+A partir da análise da figura, um estudante afirmou o seguinte:
+O triângulo PQD é obtusângulo
+porque
+o triângulo PQT é equilátero.
+Com relação ao que foi afirmado pelo estudante, assinale a opção correta.
+A As duas asserções são proposições verdadeiras, e a segunda é uma
+justificativa correta da primeira.
+B As duas asserções são proposições verdadeiras, e a segunda não é
+uma justificativa correta da primeira.
+C A primeira asserção é uma proposição verdadeira, e a segunda é
+falsa.
+D A primeira asserção é uma proposição falsa, e a segunda é
+verdadeira.
+E Ambas as asserções são proposições falsas</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T14:01:53</Created>
+	<LastChange>2020-10-25T14:12:35</LastChange></Metadata>
+	<Page imageFilename="prova.TR-15.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="524,321 524,350 107,351 108,588 1559,586 1558,320"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="334,1205 334,1714 932,1713 932,1712 1282,1711 1282,1256 806,1257 806,1204"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="60,1105 1543,1105 1543,1180 802,1180 802,1181 592,1181 592,1792 1337,1792 1337,1834 1395,1834 1395,1959 1555,1959 1555,2069 1210,2069 1210,2041 60,2041 60,2042 59,2042 59,2001 60,2001"/>
+	<TextEquiv conf="0.96289">
+	<Unicode>QUESTÃO 28
+O conhecimento da anatomia do tórax é essencial para a realização adequada do exame de raios X de tórax PA e Perfil.
+Com relação às imagens, é correto afirmar:
+(A) a estrutura assinalada em 1 é a aorta e na técnica correta é possível visualizá-la por transparência.
+(B) os números 5,6 e 7 marcam, respectivamente, o espaço retroesternal, a escápula e o ventrículo direito.
+(C) o átrio esquerdo está projetado em 7 e os ventrículos em 4.
+(D) as veias pulmonares, representadas em 3, devem ser visualizadas bilateralmente na técnica correta.
+(E) a sombra mamária representada em 2 não deve ser visualizada no exame em PA.
+————————————n 15?
+Enade-Téc. Radiologia-2007</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,158 252,158 252,207 1555,207 1555,298 1554,298 1554,1048 808,1048 808,1049 62,1049 62,1050 61,1050 61,669 60,669"/>
+	<TextEquiv conf="0.92835">
+	<Unicode>QUESTÃO 27
+Paciente do sexo feminino, de 31 anos de idade, apresentando cefaléia e amenorréia há 6 meses, com teste para
+gravidez negativo. Foi requisitado exame de RM do crânio com especial atenção para a sela turca. Abaixo temos uma
+imagem de cada sequência realizada.
+No pedido de exame a suspeita diagnóstica era de microadenoma. Com relação ao exame realizado, as sequências
+apresentadas foram
+(A) sagital TSE-T1, sagital TSE-T1 pós-contraste, coronal TSE-T1, coronal TSE-T1 pós-contraste e coronal TSE-T2,
+não tendo sido realizada a sequência dinâmica T1 pós-contraste, necessária para a suspeita diagnóstica.
+(B) sagital TSE-T1, sagital TSE-T2 pós-contraste, coronal TSE-T1, coronal TSE-T2 pós-contraste e coronal TSE-T1,
+não tendo sido realizada a sequência Flair, necessária para a suspeita diagnóstica.
+(C) axial TSE-T1, axial TSE-T1 pós-contraste, coronal TSE-T1, coronal TSE-T1 pós-contraste e coronal TSE-T2. O
+protocolo está completo e correto.
+(D) sagital TSE-T1, sagital TSE-T2 pós-contraste, coronal TSE-T1, coronal TSE-T2 pós-contraste e coronal T1, não
+tendo sido realizadas as sequências Flair e CISS-3D, necessárias para a suspeita diagnóstica.
+(E) coronal TSE-T1, coronal TSE-T1 pós-contraste, sagital TSE-T1, sagital TSE-T1 pós-contraste e sagital TSE-T2. O
+protocolo está completo e correto.</Unicode></TextEquiv></TextRegion></Page></PcGts>

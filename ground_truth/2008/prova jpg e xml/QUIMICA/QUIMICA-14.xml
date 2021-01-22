@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T01:36:29</Created>
+	<LastChange>2020-10-26T12:22:17</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="179,341 178,636 611,637 612,342"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="804,1962 804,1976 795,1976 795,1962"/>
+	<TextEquiv conf="0.95971">
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="804,2075 804,2090 795,2090 795,2075"/>
+	<TextEquiv conf="0.96798">
+	<Unicode>3</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="837,691 837,1080 1565,1080 1565,691"/></TableRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="822,174 822,2151 825,2151 825,174"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="1020,1320 1020,1611 1360,1611 1360,1320"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="125,1302 125,1742 722,1742 722,1302"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="854,183 854,184 1047,184 1047,230 1577,230 1577,584 1576,584 1576,585 1366,585 1366,648 852,648 852,622 853,622 853,230 854,230"/>
+	<TextEquiv conf="0.96113">
+	<Unicode>QUESTÃO 30
+Derivados halogenados são bons substratos para a prepara-
+ção de éteres, em laboratório, através de reação com reagentes
+nucleofílicos fortes como o metóxido de sódio. A velocidade
+dessas reações pode ser drasticamente aumentada pela
+escolha apropriada do solvente.
+Considere os substratos 3-bromo-3-metil-hexano e brometo
+de metila. Qual o tipo de mecanismo e o solvente adequado
+para a reação desses substratos halogenados com o metóxido
+de sódio?
+(Dado: DMSO corresponde a (CH3),S=0O)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="854,1140 855,1140 855,1141 1043,1141 1043,1188 1575,1188 1575,1658 1576,1658 1576,1934 1555,1934 1555,2144 1575,2144 854,2144 854,1809 853,1809 853,1658 854,1658"/>
+	<TextEquiv conf="0.96238">
+	<Unicode>QUESTÃO 31
+Recentemente, a imprensa internacional divulgou informação
+relacionada à contaminação de leite em pó com melamina,
+cuja estrutura está representada abaixo.
+A adulteração do leite tinha como objetivo simular níveis de
+proteínas mais altos do que os que realmente existiam no
+leite. As proteínas mais abundantes do leite são as caseínas
+(fosfoproteínas de massa molecular da ordem de 18 a 25 kDa).
+Comparando a estrutura da melamina com a da caseína, con-
+clui-se que ambas
+(A) possuem ligações peptídicas.
+(B) geram aminoácidos por hidrólise.
+(C) formam polímeros de condensação com o formaldeído.
+(D) apresentam o mesmo teor de nitrogênio.
+(E) podem ser analisadas por cromatografia gasosa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="82,1190 275,1190 275,1235 803,1235 803,1751 805,1751 805,1974 804,1974 804,1975 793,1975 793,2129 792,2129 792,2130 83,2130 83,2129 82,2129 82,2050 81,2050 81,2049 82,2049 82,1340 81,1340 81,1261 80,1261 80,1235 82,1235"/>
+	<TextEquiv conf="0.96705">
+	<Unicode>QUESTÃO 29
+A figura abaixo representa o diagrama de fases do sistema
+água, nitrato de chumbo e nitrato de sódio, a 25 ºC e 1 atm.
+H,O
+R
+Jp ;
+Pb(NO;3), NaNO;
+Analisando o diagrama, conclui-se que
+(A) o sistema representado pelo ponto O é uma solução
+saturada em Pb(NO;),.
+(B) o ponto P representa uma solução duplamente saturada
+em Pb(NO;), e NaNO,.
+(C) o ponto S representa o hidrato formado entre o NANO
+e a água.
+(D) o PP(NO;), é mais solúvel em água do que o NaNO,.
+(E) a adição de Pb(NO;), a soluções aquosas de NaNO
+aumenta a solubilidade do NaNO, em água.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="82,183 82,184 275,184 275,228 803,228 803,330 705,330 705,841 804,841 804,975 803,975 803,976 179,976 179,1075 150,1075 150,1147 82,1147 82,976 81,976 81,841 83,841 83,330 82,330 82,329 81,329 81,228 82,228"/>
+	<TextEquiv conf="0.96668">
+	<Unicode>QUESTÃO 28
+Certa máquina térmica, que opera segundo o Ciclo de Carnot,
+recebe 40 kJ de calor da fonte quente. As etapas do ciclo,
+todas elas reversíveis, estão representadas no gráfico abaixo.
+Etapa | — Il isotérmica a temperatura T, = 1.000 K
+Etapa 11 &gt; Ill adiabática desde 1.000 K até 200 K
+Etapa Ill IV isotérmica a temperatura T, = 200 K
+Etapa IV — | adiabática desde 200 K até 1.000 K
+Qual a variação de entropia, em J/K, na etapa II -&gt;IV?
+(Dado: n=1- (Ta Ta ) onde n é o rendimento do ciclo, T, é a
+temperatura da fonte fria e T, é a temperatura da fonte quente.)
+(A) 40
+(B) 20
+(Cc) oO
+D) - 20
+(E) - 40</Unicode></TextEquiv></TextRegion></Page></PcGts>

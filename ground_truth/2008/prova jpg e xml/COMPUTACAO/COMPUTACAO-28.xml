@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:09:44</Created>
+	<LastChange>2021-01-18T19:42:39</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-28.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="147,417 147,851 761,851 761,417"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="819,207 819,2113 821,2113 821,207"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,220 292,220 292,270 807,270 807,1450 750,1450 750,1516 152,1516 152,1510 101,1510 101,1241 100,1241 100,270 101,270"/>
+	<TextEquiv conf="0.95167">
+	<Unicode>QUESTÃO 64
+Afigura abaixo apresenta uma proposta de classificação de
+sistemas de informação, organizada tanto no que se refere
+ao nível hierárquico, no qual atuam os sistemas no âmbito
+de uma organização, quanto no que se refere às áreas
+funcionais nas quais esses sistemas são aplicados.
+Laudon &amp; Laudon. Sistemas de Informação Gerencial. Pearson, 2004 (com
+adaptações).
+Considere a situação hipotética em que uma rede de
+supermercados deverá tomar uma decisão com relação à
+substituição do sistema de automação de “frente de loja”,
+que apóia as atividades dos caixas nos check-outs.
+A decisão envolve substituir o sistema atual, que emprega
+tecnologia de terminais “burros”, por um que emprega
+computadores pessoais e redes sem fio. Nesse sentido e
+considerando a proposta de classificação apresentada,
+qual das opções a seguir apresenta uma classificação
+adequada de nível hierárquico, área funcional e grupo
+atendido pelo sistema de informações, que oferece apoio
+direto à referida tomada de decisão?
+A estratégico, vendas e marketing, gerentes seniores
+B conhecimento, finanças, trabalhadores do
+conhecimento
+C gerencial, contabilidade, gerentes médios
+D operacional, vendas e marketing, gerentes
+operacionais
+E estratégico, recursos humanos, gerentes médios
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="101,1552 291,1552 291,1602 806,1602 806,2092 153,2092 153,2063 101,2063"/>
+	<TextEquiv conf="0.96161">
+	<Unicode>QUESTÃO 65
+Considere os seguintes itens: (i) características do produto;
+(ii) o modelo de maturidade e capacidade; (iii) o paradigma
+e os métodos de desenvolvimento. A quais níveis de
+abstração de processos esses itens estão,
+respectivamente, associados?
+A processo padrão, processo especializado e processo
+instanciado
+B processo padrão, processo instanciado e processo
+especializado
+C processo instanciado, processo padrão e processo
+especializado
+D processo instanciado, processo especializado e
+processo padrão
+E processo especializado, processo padrão e processo
+instanciado</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="847,220 1037,220 1037,278 1556,278 1556,695 1554,695 1554,875 1552,875 1552,1587 847,1587 847,695 846,695 846,278 847,278"/>
+	<TextEquiv conf="0.96742">
+	<Unicode>QUESTÃO 66
+Segundo o modelo COBIT (control objectives for
+information technology), os processos de TI devem ser
+auditados por meio de um processo composto pelas etapas
+de: (il) COMPREENSÃO dos riscos relacionados aos
+requisitos de negócios e das medidas de controle
+relevantes; (ii) avaliação da ADEQUABILIDADE
+(PROPRIEDADE) dos controles declarados; (iii) avaliação
+de CONFORMIDADE por meio do teste de funcionamento
+consistente e contínuo dos controles, conforme prescritos;
+e (iv) SUBSTANCIAÇÃO do risco dos objetivos de controle
+não serem alcançados por meio de técnicas analíticas
+e(ou) consulta a fontes alternativas. Com relação a essas
+etapas, assinale a opção correta.
+O Duranteaetapade SUBSTANCIAÇÃO, são realizadas
+entrevistas com o gestor e os empregados que
+desempenham o processo de TI, visando identificar
+leis e regulamentos aplicáveis.
+O Durante a etapa de CONFORMIDADE, são
+documentadas as fraquezas dos controles em prática,
+com a indicação das ameaças e vulnerabilidades
+presentes.
+O Durante a etapa de ADEQUABILIDADE, são obtidas
+evidências diretas e indiretas aplicáveis a
+determinados artefatos e períodos de tempo
+diretamente relacionados ao processo de TI, visando-
+se garantir que os procedimentos em prática sejam
+compatíveis com os controles declarados.
+O Durante a etapa de COMPREENSÃO, são
+identificados e documentados impactos reais e
+potenciais para a organização, empregando-se
+análises de causa-raiz.
+O Durante a etapa de ADEQUABILIDADE, é avaliada a
+conveniência das medidas de controle adotadas para
+o processo de TI, por meio da consideração de
+critérios bem definidos, práticas padronizadas da
+indústria, fatores críticos de sucesso para as medidas
+de controle, bem como o julgamento profissional pelo
+auditor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="847,1645 1037,1645 1037,1703 1553,1703 1553,1859 1173,1859 1173,2107 897,2107 897,2101 847,2101 847,1859 846,1859 846,1703 847,1703"/>
+	<TextEquiv conf="0.96639">
+	<Unicode>QUESTÃO 67
+No desenvolvimento e na programação de aplicações em
+redes TCP/IP, qual tipo de protocolo de transporte libera o
+programador da responsabilidade de detectar e corrigir
+erros durante a transmissão, objetivando tornar a
+programação da aplicação mais simples?
+sem conexão
+orientado a conexão
+orientado a bit
+orientado a byte
+datagrama confirmado</Unicode></TextEquiv></TextRegion></Page></PcGts>

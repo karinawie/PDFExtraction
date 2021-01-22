@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:29:41</Created>
+	<LastChange>2020-10-25T21:39:48</LastChange></Metadata>
+	<Page imageFilename="FISICA-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 80,185 453,185 453,186 486,186 486,225 1573,225 1573,459 1574,459 1574,518 1573,518 1573,651 81,651 81,650 80,650 80,318 79,318 79,225 80,225"/>
+	<TextEquiv conf="0.96368">
+	<Unicode>QUESTÃO 30 - DISCURSIVA
+Numa competição entre estudantes de Física de várias instituições, um grupo projeta uma máquina térmica hipotética que
+opera entre somente dois reservatórios de calor, a temperaturas de 250 K e 400 K. Nesse projeto, a máquina hipotética
+produziria, por ciclo, 75 J de trabalho, absorveria 150 J de calor da fonte quente e cederia 75 J de calor para a fonte fria.
+a) Verifique se essa máquina hipotética obedece ou não à Primeira Lei da Termodinâmica, justificando a sua resposta.
+(valor: 3,0 pontos)
+b) Verifique se essa máquina hipotética obedece ou não à Segunda Lei da Termodinâmica, justificando a sua resposta.
+(valor: 3,0 pontos)
+c) Considerando que o menor valor de entropia é 0,1 J/K, e que o trabalho realizado por ciclo é 75 J, esboce um diagrama
+“Temperatura versus Entropia” para um Ciclo de Carnot que opere entre esses dois reservatórios de calor, indicando os
+valores de temperaturas e entropias. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

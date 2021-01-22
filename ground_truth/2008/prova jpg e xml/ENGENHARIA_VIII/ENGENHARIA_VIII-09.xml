@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:35:28</Created>
+	<LastChange>2020-10-25T20:59:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="206,288 207,584 763,584 762,288"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="853,201 854,2097 857,2097 856,201"/></SeparatorRegion>
+	<ImageRegion id="r3">
+	<Coords points="875,514 875,887 1552,887 1552,514"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="104,1275 295,1275 295,1319 837,1319 837,1621 827,1621 827,1683 361,1683 361,1826 370,1826 370,1882 457,1882 457,1908 238,1908 238,2082 104,2082 104,1852 102,1852 102,1826 105,1826 105,1621 103,1621 103,1319 104,1319"/>
+	<TextEquiv conf="0.96562">
+	<Unicode>QUESTÃO 14
+O conjunto de possíveis resultados de determinado
+experimento representa o espaço amostral, e os indivíduos
+retirados de uma população representam uma amostra. À
+retirada de amostras pode seguir determinados
+procedimentos probabilísticos e não probabilísticos. A fim de
+compor uma amostra, considere que, em uma população não
+estratificada e sem subgrupos, em que cada indivíduo
+recebeu um código identificador sem ordenação, foi realizada
+uma amostragem ao acaso. Considere ainda que todos os
+elementos da população tenham igual probabilidade de ser
+escolhidos do Início ao final da coleta.
+Nessa situação, é correto afirmar que ocorreu amostragem
+| probabilística.
+Il simples ao acaso.
+Ill sistemática.
+IV estratificada.
+V por conglomerado.
+Estão certos apenas os itens
+lell.
+lev.
+el.
+WMelv.
+IVevV.
+coocoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="876,1397 1066,1397 1066,1457 1552,1457 1552,1824 939,1824 939,2092 876,2092 876,1824 875,1824 875,1457 876,1457"/>
+	<TextEquiv conf="0.96459">
+	<Unicode>QUESTÃO 16
+Considere que determinada precipitação apresenta
+intensidade variável ao longo do tempo. A função linear
+f(T) =2T + 3 representa o crescimento da intensidade da
+precipitação, em mm/hora, até a terceira hora de
+duração (T é o tempo, em horas). Nessa função, a
+integral definida para T variando de 1 a 3 representa o
+valor correspondente ao total precipitado, em mm, nesse
+intervalo. Nessa situação hipotética, qual a lâmina
+precipitada da primeira à terceira hora, em mm?
+coOoçcgcoeo
+oo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="876,207 1066,207 1066,268 1552,268 1552,269 1553,269 1553,465 1525,465 1525,995 1551,995 1551,1336 877,1336 877,1247 876,1247 876,935 875,935 875,909 876,909"/>
+	<TextEquiv conf="0.96494">
+	<Unicode>QUESTÃO 15
+Funções polinomiais possuem diversas aplicações
+práticas na agricultura, nas ciências ambientais
+e ciências econômicas. A figura a seguir
+no gráfico representativo da função
+polinomial f(x) = xXº — 6x? + 9x + 4.
+consiste
+A respeito dessa função, assinale a opção incorreta.
+O No ponto de abscissa igual a 1, o valor de f'(1) = O
+e f”(1)&lt;O.
+O No ponto de abscissa igual a 3, a derivada primeira
+é nula, e a derivada segunda é positiva.
+O O ponto [2;6] é um ponto de inflexão, pois f"(2) = O.
+O A função é decrescente no intervalo 1 &lt; x &lt;3.
+O A condição de máximo para a função mencionada
+ocorre quando f(x) = 0 e f'() &gt; O.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,207 294,207 294,645 837,645 837,871 838,871 838,953 824,953 824,1010 590,1010 590,1240 104,1240 104,1066 103,1066 103,841 101,841 101,645 104,645"/>
+	<TextEquiv conf="0.89771">
+	<Unicode>QUESTÃO 13
+u
+Considere os dados apresentados na figura acima,
+correspondentes à medida do número de coliformes
+(10º UFC/g) em 41 estações de amostragem, em trechos ao
+longo de um rio. Os dados foram agrupados em tabela de
+distribuição de frequência e representados graficamente por
+meio de histograma de frequência. Acerca desse assunto,
+julgue os itens a seguir.
+| No conjunto de dados, o valor que ocorreu com maior
+frequência está na classe 40 - 50, encontrando-se,
+portanto, nessa classe o valor modal.
+Il A mediana encontra-se na classe 40 - 50.
+Ill A distribuição dos dados apresenta assimetria negativa.
+Assinale a opção correta.
+Apenas o item | está certo.
+Apenas o item || está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+coogoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

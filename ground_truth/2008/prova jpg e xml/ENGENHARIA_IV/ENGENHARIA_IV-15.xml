@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:31:21</Created>
+	<LastChange>2021-01-19T12:52:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-15.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="825,2160 825,177"/></SeparatorRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="851,1037 1045,1037 1045,1077 1573,1077 1573,1469 1574,1469 1574,1583 1573,1583 1573,1880 1322,1880 1322,1994 1007,1994 1007,2006 1001,2006 1001,2120 1007,2120 1007,2144 861,2144 861,2146 852,2146 852,1880 850,1880 850,1816 853,1816 853,1623 905,1623 905,1500 853,1500 853,1417 850,1417 850,1077 851,1077"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>QUESTÃO 23
+A correlação Nu = 2 + 0,6 Re!/?Pr'9, desenvolvida para
+calcular o coeficiente de transferência de calor por convecção,
+h, entre uma partícula esférica e um fluido em escoamento,
+pode também ser utilizada, por analogia, para o cálculo do
+coeficiente de transferência de massa, k.. Sabe-se que o
+Número de Sherwood, Sh, é equivalente ao Número de Nusselt,
+Nu; o Número de Schmidt, Sc, é equivalente ao Número
+de Prandtl, Pr; Re é o Número de Reynolds. Considerando o
+exposto, analise as afirmações a seguir.
+| - Para valores muito baixos de Re, k, pode ser obtido por
+k, = 2D,6:8, onde D,p é o coeficiente de difusão
+molecular de A em uma misturade Ae B, e d, é o diâme-
+tro da partícula esférica.
+ll - Para valores muito altos de Re, Sh = 0,6 Re
+Ill - Sc, que representa a razão entre as difusividades inercial
+(momentum) e molecular (de massa), pode ter unidades
+de cm?.s*.
+IV- hé uma grandeza baseada na teoria da camada limite.
+V - A definição do Número de Prandtl inclui o coeficiente de
+transferência de calor por convecção.
+1V2gç18
+Estão corretas APENAS as afirmações
+(A) Ie IV
+(B) l,eV
+(OC) Il, eV
+(D) Il, IVeV
+(E) Il, IVe V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="851,187 1573,187 1573,349 1574,349 1574,678 1573,678 1573,838 1045,838 1045,993 852,993 852,806 851,806"/>
+	<TextEquiv conf="0.95893">
+	<Unicode>QUESTÃO 22
+Os incêndios são subdivididos nas quatro classes apresenta-
+das a seguir.
+Classe 1 — materiais que queimam em superfície e profundi-
+dade, tais como madeira, papel, tecido, etc.
+Classe 2 — líquidos inflamáveis que queimam em superfície,
+tais como álcool, gasolina e querosene.
+Classe 3 — equipamentos eletroeletrônicos energizados
+como computadores e monitores.
+Classe 4 — materiais que requerem agentes extintores espe-
+cíficos, tais como pó de zinco, sódio, magnésio,
+etc.
+Considerando essa classificação, para qual(is) classe(s) de
+incêndio(s) é indicado o extintor de água pressurizada?
+(A) 1, somente
+(B) 2, somente
+(C) 1 e 2
+(D) 2 e 3
+(E) 3 e 4</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="82,748 82,1020 811,1020 811,748"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,392 269,392 269,434 801,434 801,1081 802,1081 802,2149 80,2149 80,1554 79,1554 79,1416 80,1416 80,747 79,747 79,434 80,434"/>
+	<TextEquiv conf="0.96692">
+	<Unicode>QUESTÃO 21
+Um dos subprodutos resultantes da produção de queijos é o
+soro. Atualmente, o soro está sendo empregado na produção
+de bebidas lácteas, representando um faturamento líquido
+de R$ 200,00 por tonelada de soro. Uma empresa planeja
+usar o soro como substrato em um processo para a produção
+de uma enzima de valor expressivo no mercado: R$ 90,00
+por quilograma de concentrado enzimático. O processo é
+constituído por um reator biológico e uma unidade de
+separação, como mostra a figura.
+massa S (ton/dia) de substrato alimentada ao reator, pode
+ser resumido pelos valores:
+* Matéria-prima (soro): MP = 200.S (R$/dia)
+* Eletricidade: E = 20.8? (R$/dia)
+* Vapor: V =50.S (R$/dia)
+* Custo do capital investido (aquisição da unidade): (20+60.S)
+R$/dia
+Considere que 1,0 tonelada de soro tratado rende 5 kg de
+concentrado enzimático, e que o sistema de separação
+recupera 98% da enzima produzida no reator. A análise dos
+dados permite concluir que
+(A) a implantação do projeto é recomendada, pois resulta
+em um produto de alto valor agregado, a partir de um
+subproduto.
+(B) a implantação da unidade torna-se economicamente
+viável para o tratamento de massas de soro acima de
+12 ton/h, ao se reduzir o consumo de vapor à metade
+(V = 25.8).
+(C) a inovação tecnológica proposta exigirá novos investimen-
+tos para a produção de bens não associados à vocação
+natural da empresa, voltada à produção de alimentos e,
+portanto, não é recomendada.
+(D) o processo torna-se rentável para a produção de concentra-
+do enzimático acima de 50 kg/dia.
+(E) o projeto é inovador e agrega valor a um subproduto, mas
+sua viabilização econômica exige avanços que levem a
+maior produtividade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

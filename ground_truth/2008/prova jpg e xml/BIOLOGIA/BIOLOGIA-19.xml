@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T20:59:16</Created>
+	<LastChange>2020-09-22T20:59:39</LastChange></Metadata>
+	<Page imageFilename="BIOLOGIA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="828,207 829,2119 832,2119 831,207"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,220 294,220 294,274 812,274 812,623 811,623 811,1161 104,1161 104,731 103,731 103,673 378,673 378,551 103,551 103,274 104,274"/>
+	<TextEquiv conf="0.94216">
+	<Unicode>QUESTÃO 35
+A poluição em ambientes aquáticos pode ser
+evidenciada com a utilização de uma linhagem transgênica
+do peixe paulistinha (Danio rerio). Essa linhagem apresenta
+um gene da luciferase, originário de uma água-viva, que é
+ativado em resposta a determinados poluentes. Em
+situação experimental, o peixe vivo muda de cor na
+presença do poluente e depois, ao ser colocado em água
+limpa, volta à coloração original e pode ser reutilizado
+inúmeras vezes.
+CARVAN, M. J. et a/. Transgenic zebrafish as sentinels
+for aquatic pollution. /nº Annals of the New York
+Academy of Sciences, 919133-47, 2000 (com adaptações)
+Com relação ao fenômeno descrito no texto, é correto
+afirmar que a mudança na coloração do peixe
+O decorre de alterações em moléculas de RNA que não
+chegam a afetar os genes do animal.
+O éumfenômeno que ocorre com frequência em animais
+transgênicos, mesmo que estes não tenham o gene da
+luciferase.
+O decorre da ação de genes constitutivos que são
+ativados por fatores ambientais.
+O é um exemplo de como fatores ambientais podem
+regular o funcionamento de um gene.
+O éo resultado de eventos mutacionais, como quebras
+cromossômicas ou alterações gênicas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="104,1209 294,1209 294,1263 811,1263 811,2114 104,2114 104,1492 103,1492 103,1263 104,1263"/>
+	<TextEquiv conf="0.96662">
+	<Unicode>QUESTÃO 36
+Os componentes do sistema imune envolvem, além
+de células, proteínas circulantes, sendo diversos deles
+utilizados para a identificação de tipos celulares e para a
+obtenção de informações genéticas.
+Considerando aspectos gerais da imunologia, é correto
+afirmar que
+O apenas linfócitos e neutrófilos apresentam antígenos
+de superfície e, por esse motivo, são células capazes
+de produzir anticorpos.
+O atipagem sanguínea do sistema ABO envolve reações
+imunológicas e pode ser utilizada para a obtenção de
+informações genéticas sobre indivíduos.
+O diferentes tipos celulares de um mesmo indivíduo não
+podem ser diferenciados por marcadores imunológicos,
+pois os marcadores de superfície dessas células
+ligam-se aos mesmos anticorpos.
+O a região FV (fração variável) de cada anticorpo
+presente em um conjunto de anticorpos, obtidos do
+plasma de um único indivíduo, apresenta a mesma
+sequência de aminoácidos.
+O areação de fixação do complemento permite a análise
+de ligação das fitas complementares de DNA dos
+anticorpos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="851,220 1041,220 1041,268 1553,268 1553,608 1552,608 1552,1139 902,1139 902,1140 901,1140 901,813 850,813 850,765 851,765"/>
+	<TextEquiv conf="0.96692">
+	<Unicode>QUESTÃO 37
+A hemofilia é uma doença hereditária, causada por gene
+localizado no cromossomo X humano. Considere que um homem
+hemofílico teve uma filha não-hemofílica. Essa mulher irá se
+casar com um homem não-hemofílico e está preocupada com a
+possibilidade de ter um filho (ou uma filha) afetado pela doença,
+razão pela qual recorre a um serviço de aconselhamento
+genético.
+Considerando a situação hipotética descrita, avalie as duas
+asserções a seguir.
+No caso descrito, o aconselhamento genético tem como
+objetivo informar o casal sobre o risco de vir a ter
+descendentes portadores ou afetados por uma doença,
+porque
+o aconselhamento genético é um procedimento usado para
+diagnóstico e cura de doenças hereditárias.
+Acerca das asserções apresentadas, assinale a opção
+correta.
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="851,1178 1041,1178 1041,1227 1553,1227 1553,1469 1548,1469 1548,1609 1552,1609 1552,2103 853,2103 853,2104 852,2104 852,1986 851,1986 851,1816 852,1816 852,1711 851,1711 851,1571 850,1571 850,1487 851,1487"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>QUESTÃO 38
+É como se tivesse mil roupas e máscaras. A cada
+dois dias, quando se reproduz no interior das células
+vermelhas do sangue, o protozoário causador da malária
+consegue gerar novas combinações de seu material
+genético e assim produzir proteínas extremamente
+diversificadas que lhe permitem escapar das defesas do
+organismo humano. Também faz com que os sintomas
+possam variar de pessoa para pessoa, dificultando a sua
+detecção num primeiro momento.
+Pesquisa FAPESP, nov./2006, n.º 109, p. 46-9 (com adaptações).
+A partir do texto acima, assinale a opção correta.
+O Aprodução de proteínas muito diversificadas por parte
+do protozoário é o resultado do uso de drogas, para o
+tratamento da doença, que induzem a resistência
+microbiana.
+O A diversidade de sintomas exibidos por pessoas
+infectadas resulta da grande diversidade de tipos de
+células vermelhas encontradas no sangue humano.
+O A grande capacidade de recombinação genética
+demonstrada pelo protozoário dificulta muito o
+desenvolvimento de vacinas contra a malária.
+O Ofatode setero diagnóstico dificultado num primeiro
+momento não representa maior dificuldade devido à
+atual disponibilidade de antibióticos.
+O Apossibilidade de desenvolvimento da doença sem os
+sintomas habituais é um aspecto positivo, pois indica
+que há uma atenuação do parasita e que as pessoas
+estão em melhores condições.</Unicode></TextEquiv></TextRegion></Page></PcGts>

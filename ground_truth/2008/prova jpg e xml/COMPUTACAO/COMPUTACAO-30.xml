@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:07:56</Created>
+	<LastChange>2020-11-17T02:24:50</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-30.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="859,207 860,2124 863,2124 862,207"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="914,260 914,531 1505,531 1505,260"/></ImageRegion>
+	<TableRegion id="r3">
+	<Coords points="168,640 168,862 788,862 788,640"/></TableRegion>
+	<TextRegion id="r58" type="paragraph">
+	<Coords points="889,1597 1079,1597 1079,1655 1539,1655 1539,1806 1537,1806 1537,1899 1451,1899 1451,1994 1341,1994 1341,2117 941,2117 941,2118 940,2118 940,2113 889,2113 889,1807 888,1807 888,1655 889,1655"/>
+	<TextEquiv conf="0.96565">
+	<Unicode>QUESTÃO 72
+Uma empresa de crédito e financiamento
+utiliza um sistema de informação para analisar
+simulações, com base em cenários, e determinar
+como as variações da taxa básica de juros do país
+afetam seus lucros.
+Como deve ser classificado esse sistema de
+informação?
+sistema de processamento de transações
+sistema de controle de processos
+sistema de informação gerencial
+sistema de apoio à decisão
+sistema de informação executivo
+co oçcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="888,549 1539,549 1539,1019 1537,1019 1537,1545 890,1545 890,1546 889,1546 889,1020 888,1020"/>
+	<TextEquiv conf="0.95498">
+	<Unicode>QUESTÃO 71
+Coesão e acoplamento são dois conceitos
+fundamentais para a qualidade do projeto modular de
+um software. A coesão diz respeito à funcionalidade
+dos módulos que compõem o software e é relacionada
+ao conceito de ocultação de informação.
+O acoplamento está relacionado aos dados e
+representa a interconexão entre os módulos. Suponha
+que determinado sistema possa ter a arquitetura de
+seus módulos projetada por meio das duas
+alternativas diferentes mostradas na figura acima,
+sendo a funcionalidade de um módulo a mesma nas
+duas alternativas. Nessa figura, os retângulos
+representam os módulos e as arestas representam
+chamadas a funcionalidades de outros módulos. A
+partir dessas informações, assinale a opção correta.
+O Acoesão e o acoplamento de todos os módulos
+são iguais nas duas alternativas.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é menor, a dos módulos B e
+C é maior e o acoplamento do projeto é maior.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é maior, a dos módulos B e
+C é menor e o acoplamento do projeto é maior.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é maior, a dos módulos B e
+C é maior e o acoplamento do projeto é menor.
+O Em relação à alternativa 1, na alternativa 2, a
+coesão do módulo A é menor, a dos módulos B e
+C é maior e o acoplamento do projeto é menor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="101,1241 291,1241 291,1291 846,1291 846,1503 847,1503 847,2113 102,2113 102,2039 101,2039 101,1810 102,1810 102,1653 101,1653 101,1442 100,1442 100,1291 101,1291"/>
+	<TextEquiv conf="0.96463">
+	<Unicode>QUESTÃO 70
+Ethernet e suas evoluções de 100 Mbps e 1 Gbps são
+tecnologias padronizadas para comunicações em redes locais
+com infra-estrutura de transmissão compartilhada. Acerca das
+transmissões que usam essas tecnologias, assinale a opção
+incorreta.
+O Embora diversos segmentos de uma rede possam ser
+definidos com o uso de equipamentos de comutação
+(switches), transmissões de pacotes com endereço de
+broadcast (difusão) atingem todos os computadores na
+mesma rede.
+O O mecanismo de controle de acesso ao meio utilizado é
+distribuído e, nas redes com concentradores (hubs), cada
+interface de rede deve determinar quando é possível
+realizar uma transmissão.
+O Comutadores (switches) realizam o encaminhamento
+seletivo de quadros com base nos endereços |P de cada
+estação.
+O A escuta do meio durante as transmissões permite
+detectar colisões em segmentos compartilhados e a
+necessidade de retransmissões, mas não há envio de
+quadros (frames) de confirmação de recebimento.
+O Um mecanismo de controle de consistência é usado para
+verificar a integridade de cada quadro (frame) transmitido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="101,220 291,220 291,278 847,278 847,882 862,882 862,957 514,957 514,1189 151,1189 151,1183 101,1183 101,957 88,957 88,882 101,882"/>
+	<TextEquiv conf="0.96606">
+	<Unicode>QUESTÃO 69
+Um ponto crítico para as organizações é a gerência de seus
+sistemas legados. Quanto a esses sistemas, é importante
+decidir se eles devem sofrer uma reengenharia, sendo
+reimplementados, ou não. Essa decisão é tomada após se
+avaliarem os sistemas legados com base em dois parâmetros:
+valor estratégico para a organização, ou seja, o valor que ele
+agrega para os serviços e produtos da organização; e
+qualidade do sistema, ou seja, o custo de manutenção uma
+vez que sistemas de baixa qualidade possuem alto custo de
+manutenção. Essa avaliação classifica esses sistemas de
+acordo com as situações de | a IV indicadas abaixo.
+Apenas na situação |.
+Apenas na situação |V.
+Apenas nas situações | e |l.
+Apenas nas situações || e Ill.
+Apenas nas situações ll e IV.
+cocoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

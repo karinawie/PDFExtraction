@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:45:07</Created>
+	<LastChange>2020-09-23T01:45:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1789 273,1789 273,1832 1573,1832 1573,2146 81,2146 81,2147 80,2147"/>
+	<TextEquiv conf="0.96545">
+	<Unicode>QUESTÃO 24
+Os licenciamentos ambientais de obras visam a evitar que empreendimentos incompatíveis com as exigências ambientais
+sejam implantados, sendo que
+(A) a Licença Prévia (LP) autoriza o empreendedor a iniciar a obra.
+(B) a Licença de Instalação (LI) tem prazo indeterminado e é concedida após análise e aprovação do projeto executivo e de
+outros estudos que especificam os dispositivos de controle ambiental.
+(C) a Licença de Operação (LO) autoriza o início do funcionamento do empreendimento, cumpridas as exigências da LP e da LI.
+(D) a Licença de Meio Ambiente (LMA) substitui as licenças LP, LI e LO.
+(E) as licenças de projetos individuais e a avaliação de impactos ambientais (AIA) são dispensadas com a utilização da
+Avaliação Ambiental Estratégica (AAE).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="488,280 488,940 1211,940 1211,280"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,183 1247,183 1247,966 1573,966 1573,1064 1415,1064 1415,1279 871,1279 871,1685 80,1685 80,1064 79,1064 79,966 80,966"/>
+	<TextEquiv conf="0.96263">
+	<Unicode>QUESTÃO 23
+Na figura a seguir tem-se o extrato de uma folha de carta topográfica digitalizada em um scanner.
+Para executar o georreferenciamento, negligenciando o ajustamento das observações e dos parâmetros, selecionaram-se os
+três cantos C1, C2 e C3 de quadrícula indicados na figura, cujas coordenadas de tela são, respectivamente,
+*xX1=10;y1=0
+*x2=110;y2=0
+*x3=10;y3=100
+Sabe-se que, para o georreferenciamento, utilizou-se a transformação afim geral no plano, cujas equações são:
+*E=ax+tby+c
+*N=dx+tey+f
+Quais os valores dos parâmetros a, b, c, d, e, f, respectivamente?</Unicode></TextEquiv></TextRegion></Page></PcGts>

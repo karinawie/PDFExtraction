@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:25:21</Created>
+	<LastChange>2021-01-18T17:12:42</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-11.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="836,743 836,2122 838,2122 838,743"/></SeparatorRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="864,750 1054,750 1054,807 1553,807 1553,1155 1547,1155 1547,1503 1552,1503 1552,1761 1547,1761 1547,1894 1523,1894 1523,2059 1547,2059 1547,2078 1461,2078 1461,2108 915,2108 915,2075 864,2075 864,1928 915,1928 915,1761 863,1761 863,1677 864,1677 864,1559 863,1559 863,1503 864,1503 864,1365 862,1365 862,1197 863,1197 863,807 864,807"/>
+	<TextEquiv conf="0.96651">
+	<Unicode>QUESTÃO 23
+Considere o esquema de banco de dados relacional
+apresentado a seguir, formado por 4 relações, que
+representa o conjunto de estudantes de uma universidade
+que podem, ou não, morar em repúblicas (moradias
+compartilhadas por estudantes). A relação Estudante foi
+modelada como um subconjunto da relação Pessoa.
+Considere que os atributos grifados correspondam à
+chave primária da respectiva relação e os atributos que
+são seguidos da palavra referencia sejam chaves
+estrangeiras.
+Pessoa(IdPessoa:integer, Nome:varchar(40),
+Endereco:varchar(40))
+FonePessoa(IdPessoa:integer referencia Pessoa,
+DDD:varchar(3), Prefixo:char(4), Nro:char(4))
+Republica(IdRep:integer, Nome:varchar(30),
+Endereco:varchar(40))
+Estudante(RA:integer, Email:varchar(30),
+IdPessoa:integer referencia Pessoa,
+IdRep:integer referencia Republica)
+Suponha que existam as seguintes tuplas no banco de
+dados:
+Pessoa(1, ‘José Silva’, ‘Rua 1, 20’);
+Republica(20, ‘Várzea’, ‘Rua Chaves, 2001’)
+Qual opção apresenta apenas tuplas válidas para esse
+esquema de banco de dados relacional?
+A Estudante(10, ‘jsilva@ig.com.br’, null, 20);
+FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
+B Estudante(10, ‘jsilva@ig.com.br’, 1, null);
+FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
+C Estudante(10, ‘jsilva@ig.com.br’, 1, 20);
+FonePessoa(1, null, ‘3761’, ‘1370’)
+D Estudante(10, ‘jsilva@ig.com.br’, 1, 50);
+FonePessoa(1, ‘019’, ‘3761’, ‘1370’)
+E Estudante(10, ‘jsilva@ig.com.br’, 1, null);
+FonePessoa(1, ‘019’, ‘3761’, ‘1370’)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="104,750 290,750 290,803 824,803 824,1483 411,1483 411,1587 488,1587 488,1623 613,1623 613,1750 104,1750 104,1548 103,1548 103,1522 105,1522 105,1190 104,1190 104,1053 103,1053 103,803 104,803"/>
+	<TextEquiv conf="0.96719">
+	<Unicode>QUESTÃO 21
+Considere a relação EMPREGADO (NumeroEmp, RG, nome,
+sobrenome, salario, endereco), em que o atributo grifado
+corresponde à chave primária da relação. Suponha que se
+deseje realizar as seguintes consultas:
+1 Listar o nome dos empregados com sobrenome Silva;
+2 Listar o nome dos empregados em ordem crescente de
+seus sobrenomes.
+Em relação à definição de um índice sobre o atributo
+sobrenome para melhorar o desempenho das consultas
+acima, julgue os itens a seguir.
+| Um índice que implemente Árvore-B+ será adequado
+para melhorar o desempenho da consulta 1.
+Ill Um índice que implemente Árvore-B+ será adequado
+para melhorar o desempenho da consulta 2.
+Il Um índice que implemente uma função hash será
+adequado para melhorar o desempenho da consulta 1.
+IV Um índice que implemente uma função hash será
+adequado para melhorar o desempenho da consulta 2.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens Ill e IV estão certos.
+Apenas os itens |, 1l e Ill estão certos.
+Todos os itens estão certos.
+cogcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="104,1774 294,1774 294,1823 824,1823 824,1915 339,1915 339,2024 588,2024 588,2122 154,2122 154,2116 104,2116"/>
+	<TextEquiv conf="0.96568">
+	<Unicode>QUESTÃO 22
+Qual tipo de software tradutor deve ser utilizado para
+programas em geral, quando a velocidade de execução é
+uma exigência de alta prioridade?
+compiladores
+interpretadores
+tradutores híbridos
+macroprocessadores
+interpretadores de macroinstruções
+coogcoo</Unicode></TextEquiv></TextRegion></Page></PcGts>

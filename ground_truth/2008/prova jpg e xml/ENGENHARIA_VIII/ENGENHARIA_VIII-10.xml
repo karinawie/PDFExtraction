@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:35:47</Created>
+	<LastChange>2020-10-25T20:54:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="779,201 779,2116 781,2116 781,201"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="1271,1411 1271,1668 1574,1668 1574,1411"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="837,388 837,914 1520,914 1520,388"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="104,207 294,207 294,254 761,254 761,561 762,561 762,649 761,649 761,999 104,999 104,649 103,649 103,254 104,254"/>
+	<TextEquiv conf="0.96142">
+	<Unicode>QUESTÃO 17
+Um experimento foi conduzido para avaliar a
+influência das condições ambientais sobre a
+produtividade de tilápias criadas em tanques-rede. Em
+uma represa, foram colocados 30 tanques-rede com
+densidades de 200, 400 e 600 peixes/m?. Durante seis
+meses, a equipe de pesquisadores coletou informações
+acerca de peso dos indivíduos, consumo de ração,
+temperatura, pH, conteúdo de oxigênio dissolvido e
+transparência da água.
+Com base nessa situação hipotética, assinale a opção
+que apresenta uma hipótese que não pode ser
+formulada a partir das informações fornecidas.
+A produtividade dos peixes é afetada pelo pH da
+água.
+O Existe diferença de produtividade nas diferentes
+densidades de estocagem em função do tempo.
+O A produtividade de tilápia é afetada pelo nível de
+transparência da água durante o tempo.
+O Há correlação entre a transparência da água e a
+quantidade de oxigênio dissolvida na água.
+O Aprecipitação pluviométrica durante o experimento
+afeta a produtividade de tilápia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="104,1034 294,1034 294,1080 761,1080 761,2116 104,2116 104,1613 103,1613 103,1080 104,1080"/>
+	<TextEquiv conf="0.96106">
+	<Unicode>QUESTÃO 18
+No Protocolo de Kyoto, uma das abordagens
+discutidas para a redução da emissão de gases
+poluentes na atmosfera foi o Mecanismo de
+Desenvolvimento Limpo (MDL). Nesse contexto, o
+metano, um gás que contribui para o efeito estufa, vinte
+e uma vezes mais poluente que o dióxido de carbono,
+tem sido alvo de pesquisa em empresas de produção
+de carvão vegetal, com o objetivo de transformá-lo em
+um gás menos poluente, a partir da seguinte reação
+química:
+CH, + O, &gt; CO, + H,0,
+AH = -213 kKkcal/mol, em que AH é a variação de
+energia.
+A partir das informações acima, e considerando o
+balanço estequiométrico da reação apresentada,
+assinale a opção correta.
+O A reação é de redução: cada mol de CH, é
+reduzido por dois mols de O,, produzindo um mol
+de CO, e um mol de H,O, e liberando energia.
+O A reação é de oxidação: cada mol de CH, é
+oxidado por um mol de O,, produzindo dois mois
+de CO, e dois mols de H,O, e consumindo energia.
+O A reação é de combustão: cada mol de CH, é
+oxidado por dois mois de O,, produzindo um mol
+de CO, e dois mols de H,O, e liberando energia.
+O A reação é de combustão: cada mol de CH, é
+reduzido por um mol de O,, produzindo dois mols
+de CO, e um mol de H,O, e consumindo energia.
+O A reação é de redução: cada mol de CH, é
+reduzido por um mol de O,, produzindo um mol de
+CO, e dois mois de H,O, e consumindo energia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="801,207 991,207 991,251 1551,251 1551,387 1541,387 1541,998 1549,998 1549,1056 1551,1056 1551,1339 802,1339 802,1253 801,1253"/>
+	<TextEquiv conf="0.96722">
+	<Unicode>QUESTÃO 19
+Sobre um corpo de massa igual a 5kg atuam duas forças: F,
+e F,, conforme os quatro esquemas apresentados na figura
+que se segue. Determine o módulo de aceleração do corpo
+para cada um dos quatro esquemas de distribuição de forças
+sobre o corpo.
+TF? 6a força resultante,
+Com base nas informações acima, assinale a opção correta.
+O Noesquema 1,o módulo da força resultante é iguala 5 N,
+e o módulo da aceleração é igual a 1 m/s?.
+O No esquema 2, o módulo da força resultante é igual a
+(64cosa) N, e o módulo de aceleração é igual a
+(10cosa) m/s?.
+O Noesquema 3, o módulo da força resultante é igual 2 N,
+e o módulo da aceleração é igual a 1 m/s?.
+O No esquema 4, o módulo da força resultante é igual 5 N,
+e o módulo da aceleração é igual a 2 m/s?.
+O Nos quatro esquemas, o corpo possui a mesma massa, e,
+por isso, os módulos das forças resultantes e os módulos
+da aceleração são os mesmos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="801,1367 991,1367 991,1410 1311,1410 1311,1493 1302,1493 1302,1659 1551,1659 1551,1874 1400,1874 1400,1934 1288,1934 1288,2106 801,2106 801,1934 800,1934 800,1908 840,1908 840,1825 841,1825 841,1713 840,1713 840,1686 802,1686 802,1603 800,1603 800,1410 801,1410"/>
+	<TextEquiv conf="0.96539">
+	<Unicode>QUESTÃO 20
+A figura ao lado mostra um
+reservatório do qual se necessita
+retirar água por meio da utilização de [+
+um sifão. Considerando que a pressão
+atmosférica local equivale a 10 metros =
+de coluna de água, julgue os itens |º
+seguintes.
+| Oreservatório da figura poderá ser .c
+totalmente esvaziado apenas com
+a utilização de um sifão.
+Se a saída do sifão (ponto C) for colocada em uma posição
+mais baixa, mantendo sua entrada (ponto A) na mesma
+posição, a vazão de saída de água aumentará.
+A vazão de água pelo sifão depende de sua seção
+transversal e da velocidade do fluxo.
+Acerca dessa situação, assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

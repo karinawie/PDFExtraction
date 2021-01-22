@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:15:53</Created>
+	<LastChange>2021-01-18T19:28:02</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-20.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="818,207 819,2125 822,2125 821,207"/></SeparatorRegion>
+	<ImageRegion id="r29">
+	<Coords points="234,271 234,557 668,557 668,271"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="847,1136 1037,1136 1037,1191 1552,1191 1552,1382 1553,1382 1553,2106 848,2106 848,2107 847,2107 847,1332 846,1332 846,1191 847,1191"/>
+	<TextEquiv conf="0.96737">
+	<Unicode>QUESTÃO 49
+A segmentação de imagens é uma das partes essenciais
+na área de processamento de imagens. Assinale a opção
+incorreta em relação à detecção de bordas no contexto da
+segmentação de imagens.
+O Adetecção de bordas é a determinação dos limites de
+um objeto em uma imagem, envolvendo a avaliação da
+variação nos níveis de cinza dos pixels em uma
+vizinhança, sendo uma das formas de segmentação de
+imagens.
+O Sobel, Prewitt e Roberts são operadores usados para
+detecção de bordas, todos embasados em gradientes
+calculados sobre os níveis de cinza de uma imagem.
+O Adetecção de bordas é um processo de segmentação
+de imagens, mas com princípio diferente das técnicas
+que agrupam pixels vizinhos que compartilham
+determinado atributo.
+O Crescimento de regiões é um método de detecção de
+bordas embasado em gradientes, usando como critério
+a disparidade de valores entre pixels vizinhos.
+O O operador LoG (laplacian of gaussian) é empregado
+para detecção de bordas, usando os cruzamentos de
+zero na determinação dos pixels que formam o limiar
+entre um objeto e outro em uma imagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="847,215 1037,215 1037,271 1557,271 1557,833 1200,833 1200,1086 898,1086 898,1080 847,1080 847,834 846,834 846,271 847,271"/>
+	<TextEquiv conf="0.96690">
+	<Unicode>QUESTÃO 48
+Considere f(x) = xº + 3x - 1, em que x e R. A fim de que
+sejam obtidas as raízes da função f, vários métodos de
+cálculo numérico podem ser aplicados, sendo a maioria
+deles embasada em processos iterativos, o que exige uma
+primeira aproximação para cada raiz que se deseje
+determinar e para o intervalo em que ela deva ser
+encontrada. Suponha que se esteja aplicando o princípio da
+bissecção para a determinação de uma raiz aproximada
+para a função f descrita acima e que, para isso, seja
+necessária a definição de um intervalo de busca inicial /,
+bem como uma primeira aproximação para a raiz x, de f
+que se encontra em /. Nesse sentido, qual das opções a
+seguir apresenta uma definição correta de / e a
+aproximação x, associada, de acordo com o método da
+bissecção?
+A =[-1, -1], x,=-61/16
+B I=[-%4,0], x,= 1/4
+C I=[-1,0], x,= -1/2
+D 1=[0,%], x,=1/4
+E =[-1,1], x,=1/4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,1301 291,1301 291,1365 807,1365 807,1808 554,1808 554,1919 806,1919 806,1982 784,1982 784,2098 806,2098 806,2124 102,2124 102,2079 101,2079 101,2007 102,2007 102,1897 101,1897 101,1808 100,1808 100,1365 101,1365"/>
+	<TextEquiv conf="0.90452">
+	<Unicode>QUESTÃO 47
+A transmissão em fibra óptica é realizada pelo envio de
+feixes de luz através de um cabo óptico que consiste em
+um filamento de sílica ou plástico. A fibra óptica funciona
+com base nos princípios de refração e reflexão dos feixes
+de luz no interior do filamento condutor. Para controlar a
+direção da propagação dos feixes de luz, o núcleo e a
+casca do filamento condutor são produzidos com diferentes
+índices de refração. Variando-se os índices de refração do
+núcleo e da casca, diferentes categorias de fibras ópticas
+são produzidas. Qual opção apresenta três categorias de
+fibras ópticas?
+O monomodo, bimodo e multimodo
+O monomodo refratário, monomodo reflexivo e
+multimodo
+O monomodo, multimodo degrau e multimodo gradual
+O monomodo, multimodo sílico e multimodo plástico
+O monomodo digital, monomodo analógico e multimodo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="101,215 291,215 291,600 807,600 807,1145 805,1145 805,1233 102,1233 102,1145 101,1145 101,752 100,752 100,600 101,600"/>
+	<TextEquiv conf="0.96602">
+	<Unicode>QUESTÃO 46
+No plano de coordenadas cartesianas xOy acima, está
+representado o gráfico de uma função contínua e derivável
+y=f(x). A partir dessas informações, qual opção apresenta
+características corretas acerca da função y?
+O Afunção y possui derivada de primeira ordem positiva
+em todo o seu domínio.
+O Afunçãoypossuiderivada de segunda ordem positiva
+em todo o seu domínio.
+O A função y possui exatamente dois pontos críticos de
+primeira ordem em todo o seu domínio.
+O Afunçãoy possui exatamente dois pontos de inflexão
+em todo o seu domínio.
+O Afunçãoytem exatamente dois zeros em todo o seu
+domínio.</Unicode></TextEquiv></TextRegion></Page></PcGts>

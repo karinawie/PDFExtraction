@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T22:20:02</Created>
+	<LastChange>2020-09-22T22:20:19</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-17.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="817,207 819,2121 823,2121 821,207"/></SeparatorRegion>
+	<ImageRegion id="r4">
+	<Coords points="242,1494 242,1808 665,1808 665,1494"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,215 514,215 514,218 1553,218 1553,475 807,475 807,921 1552,921 1552,1040 806,1040 806,1826 807,1826 807,2092 102,2092 102,2093 101,2093"/>
+	<TextEquiv conf="0.95791">
+	<Unicode>QUESTÃO 40 — DISCURSIVA
+O banco de dados de um sistema de controle
+bancário implementado por meio de um SGBD relacional
+possui a relação Cliente, com as informações
+apresentadas a seguir, em que a chave primária da
+relação é grifada.
+Cliente (nroCliente,
+data nascimento,
+nome, endereco,
+renda, idade)
+Para essa relação, foram criados dois índices
+secundários: IndiceIdade, para o atributo idade, e
+IndiceRenda, para o atributo renda. Existe um tipo de
+serviço nesse banco cujo alvo são tanto os clientes que
+possuem menos de 40 anos de idade quanto aqueles que
+possuem renda mensal superior a 30.000 reais. Para
+recuperar esses clientes, a seguinte expressão de
+consulta em SQL foi utilizada:
+SELECT nome, endereco
+FROM Cliente
+WHERE idade &lt; 40 OR renda &gt; 30000;
+Com o aumento do número de clientes desse
+banco, essa consulta passou a apresentar problemas de
+desempenho. Verificou-se, então, que o otimizador de
+consultas não considerava os índices existentes para
+idade E renda, E a consulta era realizada mediante
+varredura sequencial na relação Cliente, tornando essa
+consulta onerosa. O plano de execução da consulta,
+usado pelo otimizador, é apresentado na árvore de
+consulta abaixo, na qual 7 e o representam as operações
+de projeção e de seleção, respectivamente.
+Para que o otimizador de consultas passasse a
+utilizar os índices, a solução encontrada foi elaborar a
+consulta em dois blocos separados — um que recupera os
+clientes com idade inferior a 40 anos, e outro que
+recupera os clientes com renda mensal superior a 30.000
+reais — para, então, juntar as tuplas das duas relações
+geradas.
+Considerando a situação apresentada, faça o que se pede
+a seguir.
+A Escreva o código de uma consulta em SQL que
+corresponda à solução proposta.
+(valor: 5,0 pontos)
+RASCUNHO — QUESTÃO 40 - A
+B Desenhe a árvore de consulta para essa solução.
+(valor: 5,0 pontos)
+RASCUNHO — QUESTÃO 40 - B</Unicode></TextEquiv></TextRegion></Page></PcGts>

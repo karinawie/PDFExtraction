@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T01:35:28</Created>
+	<LastChange>2020-10-26T12:18:31</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="176,1365 177,1922 701,1921 700,1364"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="930,1358 932,1902 1579,1900 1577,1356"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="540,291 540,525 1122,525 1122,291"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="81,185 486,185 486,227 1574,227 1574,285 1569,285 1569,860 1573,860 1573,1294 1574,1294 1574,1352 1276,1352 1276,1353 80,1353 80,587 79,587 79,560 80,560 80,186 81,186"/>
+	<TextEquiv conf="0.95384">
+	<Unicode>QUESTÃO 39 - DISCURSIVA
+Para minimizar a ação de enzimas proteolíticas na quebra de ligações peptídicas, como no caso do tripeptídeo imunorregulador
+Imreg (tirosil-glicil-glicina), presente no plasma sanguíneo, foram sintetizados compostos tio-análogos do Imreg.
+a) Explique por que o comprimento da ligação tiocarbonílica é maior que o da ligação carbonílica. (valor: 3,0 pontos)
+b) Por que a substituição do átomo de oxigênio por enxofre na ligação CZ (Z = O ou S) favorece o caráter de dupla na ligação
+peptídica? (valor: 4,0 pontos)
+c) Com base nas formas dos diagramas de contorno dos orbitais moleculares do Tio-Imreg de (1) menor energia e (11) maior
+energia, compare a contribuição relativa dos orbitais atômicos para esses níveis de energia apresentados.</Unicode></TextEquiv></TextRegion></Page></PcGts>

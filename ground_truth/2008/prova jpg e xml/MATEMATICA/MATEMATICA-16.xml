@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T00:38:30</Created>
+	<LastChange>2020-10-26T00:55:00</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-16.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="883,207 886,1683 891,1683 888,207"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="934,408 934,968 1525,968 1525,408"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="320,620 320,840 671,840 671,620"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,263 875,263 875,612 873,612 873,1120 874,1120 874,1393 876,1393 876,1577 874,1577 874,1642 632,1642 632,1682 516,1682 516,1683 155,1683 155,1684 154,1684 154,1677 104,1677 104,1358 103,1358 103,1058 143,1058 143,415 103,415 103,263 104,263"/>
+	<TextEquiv conf="0.83439">
+	<Unicode>QUESTÃO 35
+Algumas civilizações utilizavam diferentes métodos para multiplicar
+dois números inteiros positivos. Por volta de 1400 a.C., os egípcios
+utilizavam uma estratégia para multiplicar dois números que consistia
+em dobrar e somar. Por exemplo, para calcular 47 x 33, o método pode
+ser descrito do seguinte modo:
+* “escolha um dos fatores; por exemplo, 47;
+* nal/”ºlinhade uma tabela, escreva o número | na 1.º coluna e o
+fator escolhido, na 2.º coluna;
+* emcada linha seguinte da tabela, escreva o dobro dos números
+da linha anterior, até encontrar, na 1.º coluna, o menor número
+cujo dobro seja maior ou igual ao outro fator, no caso, 33;
+* selecione os números da 1.º coluna cuja soma seja igual a 33,
+conforme indicado na tabela, ou seja, 1 + 32 =33;
+* —adicione os números correspondentes da 2.º coluna, ou seja,
+47 + 1.504 = 1.551;
+* tome como resultado da multiplicação o valor 1.551.
+Com base nessas informações, analise as asserções a seguir.
+Utilizando o método egípcio, é possível multiplicar quaisquer dois
+números inteiros positivos,
+porque
+todo número inteiro positivo pode ser escrito como uma soma de
+potências de 2.
+A respeito dessa afirmação, assinale a opção correta.
+O Asduasasserções são proposições verdadeiras, e a segunda é uma
+justificativa correta da primeira.
+O Asduasasserções são proposições verdadeiras, mas a segunda não
+é uma justificativa correta da primeira.
+O A primeira asserção é uma proposição verdadeira, e a segunda
+é falsa.
+O A primeira asserção é uma proposição falsa, e a segunda
+é verdadeira.
+O Ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="914,215 1104,215 1104,276 1550,276 1550,344 1549,344 1549,1142 1550,1142 1550,1549 1551,1549 1551,1576 1549,1576 1549,1619 1174,1619 1174,1670 968,1670 968,1620 964,1620 964,1577 914,1577 914,1082 913,1082 913,276 914,276"/>
+	<TextEquiv conf="0.96630">
+	<Unicode>QUESTÃO 36
+A figura abaixo mostra alguns segmentos construídos em
+um geoplano por um estudante, de acordo com a orientação
+dada pela professora.
+Acerca do uso do geoplano retangular nessa atividade,
+assinale a opção incorreta.
+O O geoplano auxilia na compreensão de que
+Va + /b * /a+b.
+O O geoplano auxilia na compreensão de que
+Vab = Va/o.
+O O geoplano auxilia na representação geométrica de
+números irracionais da forma Ja.
+O O geoplano auxilia na obtenção da relação entre o
+comprimento de uma circunferência e seu diâmetro.
+O O geoplano auxilia na simplificação de expressões
+com irracionais algébricos, como, por exemplo,
+/20 + /5 = 3/5.</Unicode></TextEquiv></TextRegion></Page></PcGts>

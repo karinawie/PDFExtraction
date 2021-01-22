@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:41:19</Created>
+	<LastChange>2020-09-23T01:41:30</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="400,1177 400,1777 1580,1777 1580,1177"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="557,328 557,865 1097,865 1097,328"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="80,183 273,183 273,224 1573,224 1573,983 1470,983 1470,1017 80,1017 80,1018 79,1018 79,224 80,224"/>
+	<TextEquiv conf="0.96403">
+	<Unicode>QUESTÃO 33
+Três linhas elevadas de gasodutos serão apoiadas por pórticos simples devidamente espaçados entre eles. Após estudo
+preliminar, decidiu-se que os pórticos receberiam uma padronização para fins de economia de material e rapidez na execução,
+devendo, ainda, apresentar o modelo estrutural da figura a seguir.
+Desprezando o peso próprio do pórtico frente às cargas concentradas P, exercidas pelos dutos, qual a relação que deve
+haver entre as dimensões do vão x e do balanço y do pórtico plano, para que a estrutura, como um todo, seja submetida
+ao menor valor possível de momento fletor, em valor absoluto?
+(A) x=0,5y (B) x=y (C)x=27y D) x=47y (E) x=8y</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="79,1052 1573,1052 1573,2144 81,2144 81,2145 80,2145 80,1186 79,1186"/>
+	<TextEquiv conf="0.96665">
+	<Unicode>QUESTÃO 34
+As propriedades dos materiais compósitos complexos, como o concreto, não precisam ser iguais à soma das propriedades de
+seus componentes. O gráfico a seguir apresenta as curvas tensão x deformação da pasta de cimento, do agregado e
+do concreto endurecido.
+45
+Cc1
+Tensão
+Qual das curvas corresponde à do concreto? Por quê?
+(A) C1-o concreto apresenta módulo de elasticidade superior aos módulos de elasticidade dos seus elementos
+constituintes.
+(B) C2 - ao atingir aproximadamente 50% da tensão última, a fissuração da matriz argamassa se propaga, provocando
+uma diminuição mais acentuada no módulo de elasticidade tangencial.
+(C) C2 - o módulo de elasticidade secante é superior aos módulos de elasticidade dos seus elementos constituintes.
+(D) C3- o concreto apresenta módulo de elasticidade inferior aos módulos de elasticidade dos seus elementos
+constituintes.
+(E) C3 - as microfissuras na zona de transição entre a matriz argamassa e o agregado graúdo induzem a um aumento na
+relação deformação/tensão.</Unicode></TextEquiv></TextRegion></Page></PcGts>

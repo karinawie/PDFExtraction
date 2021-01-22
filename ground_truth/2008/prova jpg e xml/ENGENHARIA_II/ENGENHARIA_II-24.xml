@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:28:50</Created>
+	<LastChange>2020-10-25T17:28:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-24.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="325,125 325,142 1576,142 1576,125"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="78,180 78,182 1577,182 1577,180"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="78,180 78,2146 80,2146 80,180"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="1575,180 1575,2146 1577,2146 1577,180"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="78,2144 78,2146 1577,2146 1577,2144"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="310,79 310,141 81,141 81,79"/>
+	<TextEquiv conf="0.81242">
+	<Unicode>ENADE!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="181,133 181,141 80,141 80,133"/>
+	<TextEquiv conf="0.62801">
+	<Unicode>EXAME NACIONAL DE DI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1575,2192 1575,2248 98,2248 98,2192"/>
+	<TextEquiv conf="0.75632">
+	<Unicode>24 MM
+ENGENHARIA - GRUPO II</Unicode></TextEquiv></TextRegion></Page></PcGts>

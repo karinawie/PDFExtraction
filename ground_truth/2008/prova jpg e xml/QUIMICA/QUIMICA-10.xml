@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T01:37:23</Created>
+	<LastChange>2020-10-26T12:28:22</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="71,1185 71,1494 477,1494 477,1185"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="842,434 842,1591 1574,1591 1574,434"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="825,174 825,2154 828,2154 828,174"/></SeparatorRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="852,187 1045,187 1045,235 1574,235 1574,1679 1575,1679 1575,2133 853,2133 853,2134 852,2134 852,1597 851,1597 851,235 852,235"/>
+	<TextEquiv conf="0.96105">
+	<Unicode>QUESTÃO 17
+A cloração de tolueno pode gerar produtos distintos em fun-
+ção das condições reacionais. Abaixo são apresentados dois
+espectros de RMN de hidrogênio correspondentes aos produ-
+tos isolados de duas reações de cloração de tolueno.
+Analisando os espectros de RMN dos produtos obtidos,
+conclui-se que o
+(Observação: a tabela com as faixas características de deslocamento
+químico encontra-se ao final deste caderno.)
+(A) simpleto na região de 7,4 ppm no espectro de RMN de
+1H do produto P1 corresponde aos hidrogênios do anel
+aromático monossubstituído.
+(B) simpleto na região de 4,5 ppm indica que o produto P1 foi
+obtido via mecanismo de substituição eletrofílica.
+(C) espectro de RMN de *H do produto P2 indica que ele foi
+obtido por cloração em presença de luz ultravioleta.
+(D) produto P1 pode ser isolado do meio reacional por extra-
+ção com solução aquosa de NaOH.
+(E) produto P2 foi obtido via mecanismo de substituição
+nucleofílica aromática.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,188 804,188 804,814 802,814 802,1131 162,1131 162,1534 779,1534 779,1566 778,1566 778,1565 776,1565 776,1564 726,1564 726,1563 720,1563 720,1562 714,1562 714,1561 710,1561 710,1560 81,1560 81,1132 79,1132 79,1032 81,1032 81,189 80,189"/>
+	<TextEquiv conf="0.95486">
+	<Unicode>QUESTÃO 15
+Cada vez mais busca-se desenvolver novos processos
+para obtenção de metais de modo a minimizar o consumo de
+energia, viabilizar a exploração econômica de minérios com
+baixos teores de metal e evitar maiores problemas ambientais
+decorrentes da produção de SO,. Atualmente, minérios de
+cobre — calcopirita (CuFeS,), calcocita (Cu,S) — com baixos
+teores desse metal não são extraídos pela técnica convenci-
+onal de calcinação seguida de redução com carvão
+(pirometalurgia). Emprega-se o processo hidrometalúrgico de
+lixiviação, que consiste no uso de uma solução aquosa
+capaz de dissolver o composto que contém o metal a ser
+extraído. Após a lixiviação do minério com solução diluída de
+ácido sulfúrico, cobre metálico é precipitado pela redução dos
+íons Cu?* com raspas de ferro.
+Considere os seguintes minérios e seus principais constitu-
+intes (escritos entre parentêses):
+galena (PPS)
+wurtizita (ZnS)
+pirita (FeS,)
+pirolusita (MnO,)
+bauxita (AlO,. xH,O)
+Desconsiderando as impurezas que possam estar presen-
+tes, qual dos metais citados pode ser obtido pelo processo
+de lixiviação ácida seguida de redução com raspas de ferro?
+Dados:
+(A) Fe (B) Zn (C) Pb (D) Mn (E) Al</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="710,1563 713,1563 713,1564 719,1564 719,1565 725,1565 725,1566 775,1566 775,1567 777,1567 777,1568 779,1568 779,1640 802,1640 802,1781 680,1781 680,1890 802,1890 802,1953 599,1953 599,1990 521,1990 521,2111 596,2111 596,2137 91,2137 91,2138 90,2138 90,2137 81,2137 81,1782 79,1782 79,1640 80,1640 80,1580 710,1580"/>
+	<TextEquiv conf="0.94489">
+	<Unicode>QUESTÃO 16
+A determinação do teor de CIO*- em amostras comerciais de
+alvejantes à base de hipoclorito de sódio pode ser feita
+por titulometria de oxidação-redução, utilizando um método
+indireto, conduzido em meio ácido e baseado na seguinte
+reação:
+28,0, SO, + 26
+Para proceder a essa análise, é necessária a utilização dos
+reagentes abaixo, EXCETO
+(A) Solução padrão de tiossulfato de sódio.
+(B) Solução padrão de iodo.
+(C) Solução de ácido acético glacial.
+(D) lodeto de potássio.
+(E) Suspensão de amido recém-preparada.</Unicode></TextEquiv></TextRegion></Page></PcGts>

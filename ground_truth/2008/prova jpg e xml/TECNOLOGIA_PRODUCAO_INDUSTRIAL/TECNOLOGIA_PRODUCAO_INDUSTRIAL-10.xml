@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T13:42:38</Created>
+	<LastChange>2020-10-26T13:55:39</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_PRODUCAO_INDUSTRIAL-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,187 922,187 922,255 1578,255 1578,425 1577,425 1577,426 79,426 79,255 80,255"/>
+	<TextEquiv conf="0.94675">
+	<Unicode>Leia o texto a seguir, para responder às questões de nº* 19 e 20.
+A partir do planejamento estratégico da produção, foram elaborados três planos de produção (X, Y e Z) para o próximo ano, com
+períodos bimestrais. A demanda e a Produção com Turno Normal (PTN) são as mesmas para os três planos, conforme mostra
+a Tabela 1. O plano X não usa Subcontratação (S) nem Turno Extra (TE); o plano Y investe em Turno Extra (TE) por três
+bimestres; e o plano Z utiliza Subcontratação (S) em três bimestres. Os custos com produção, estocagem e atrasos na
+entrega da mercadoria são apresentados na Tabela 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,1324 81,1324 81,1325 273,1325 273,1369 1360,1369 1360,1432 243,1432 243,1584 1360,1584 1360,1556 1360,1584 81,1584 81,1583 80,1583"/>
+	<TextEquiv conf="0.96513">
+	<Unicode>QUESTÃO 19
+Considerando os custos com turno normal, estocagem e atraso, qual é o custo total do plano X, em reais?
+(A) 13.500,00
+(B) 14.400,00
+(C) 15.150,00
+(D) 23.200,00
+(E) 23.250,00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="80,1624 81,1624 81,1625 893,1625 893,1744 1035,1744 1035,1781 1458,1781 1458,1883 523,1883 523,1995 338,1995 338,2108 256,2108 256,2145 80,2145 80,2032 81,2032 81,1696 80,1696"/>
+	<TextEquiv conf="0.96523">
+	<Unicode>QUESTÃO 20
+Com base nos dados apresentados, analise as afirmações a seguir.
+| - Atécnica empregada é adequada para decidir sobre a situação mais viável.
+I|l - Nesse caso, pode ser utilizada a técnica informal, de tentativa e erro, para decidir a produção de menor custo.
+Ill - O plano Y apresenta o menor custo total, sem atraso na entrega da mercadoria.
+IV- O plano Z, que optou por subcontratação, tem atraso na entrega da mercadoria.
+É(São) correta(s) a(s) afirmação(ões)
+(A) |, apenas.
+(B) Il, apenas.
+(C) Ile ll, apenas.
+(D) II, Ill e IV, apenas.
+(E) LI, MelV.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r3">
+	<Coords points="268,494 268,871 1394,871 1394,494"/></TableRegion>
+	<TableRegion id="r4">
+	<Coords points="160,951 160,1245 1508,1245 1508,951"/></TableRegion></Page></PcGts>

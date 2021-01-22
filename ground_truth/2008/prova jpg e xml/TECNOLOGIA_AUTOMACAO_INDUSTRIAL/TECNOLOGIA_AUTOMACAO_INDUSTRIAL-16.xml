@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:52:52</Created>
+	<LastChange>2020-10-26T13:09:04</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-16.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="411,894 411,1382 1251,1382 1251,894"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="377,1462 377,2045 1282,2045 1282,1462"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,183 80,184 273,184 273,224 1574,224 1574,317 1572,317 1572,477 1574,477 1574,603 1454,603 1454,689 80,689 80,629 81,629 81,317 80,317 80,316 79,316 79,224 80,224"/>
+	<TextEquiv conf="0.96486">
+	<Unicode>QUESTÃO 35
+Tendo em vista o planejamento e a manutenção de células de manufatura robotizadas, os robôs industriais devem ser
+selecionados em função de suas características particulares, relacionadas às necessidades das atividades a serem por
+eles desenvolvidas. A esse respeito, considere as afirmações a seguir.
+| - Quando o espaço de trabalho é reduzido, e as cargas não necessitam de muita potência para serem movimentadas,
+recomenda-se utilizar um robô com acionamento hidráulico.
+Il - Para movimentar cargas médias, com grande necessidade de precisão de repetibilidade e flexibilidade de posicionamento,
+escolhe-se o acionamento pneumático.
+Ill - Quando se tem grande necessidade de repetibilidade, cargas médias e espaço reduzido, o acionamento escolhido deve
+ser do tipo servomotor AC.
+IV- Quando se tem necessidade de grande potência e precisão de repetibilidade, o tipo de acionamento recomendável é o
+motor de passo.
+SOMENTE é correto o que se afirma em
+(A) Il (B) IV (C) lell D) le IV (E) Ile IV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="80,725 80,726 273,726 273,766 1573,766 1573,892 1020,892 1020,2049 1200,2049 1200,2050 1572,2050 1572,2143 80,2143 80,1491 79,1491 79,766 80,766"/>
+	<TextEquiv conf="0.96313">
+	<Unicode>QUESTÃO 36
+Na Automação Industrial, tem-se uma infinidade de aplicações práticas de Modulação por Largura de Pulso (PWM), que
+envolvem desde o controle de potência de máquinas elétricas de corrente contínua e motores de passo, até fontes chaveadas.
+A Figura 1, a seguir, apresenta um circuito PWM, que pode ser utilizado no controle de velocidade de um motor DC,
+variando-se a largura do pulso gerado pelo circuito sequencial (CI 4093), por meio do potenciômetro de 1 MO.
+A Figura 2, (a) e (b), apresenta as formas de onda geradas pelo circuito PWM.
+1% da largura
+Potência (100%)
+Considerando-se que a potência média máxima aplicada ao motor é 15 W, quais as potências médias do motor, em watts,
+correspondentes às formas de ondas de 2(a) e 2(b), respectivamente?
+(A) 7,5087,5 (B) 406 13 (C) 1,56 13,5 (D) 0,56 14,5 (E) 0,156 14,85</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T22:01:19</Created>
+	<LastChange>2021-01-19T13:07:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-15.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="878,220 879,1328 882,1328 881,220"/></SeparatorRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="901,227 1091,227 1091,275 1562,275 1562,276 1563,276 1563,859 1561,859 1561,1296 952,1296 952,964 902,964 902,898 901,898 901,276 900,276 900,275 901,275"/>
+	<TextEquiv conf="0.96732">
+	<Unicode>QUESTÃO 26
+O Large Hadron Collider (LHC), o maior
+acelerador de partículas do mundo, começou a
+funcionar há algumas semanas. Entre espessas
+paredes de concreto, a 100 m abaixo da superfície,
+encontra-se um anel de 27 quilômetros de
+comprimento, formado por uma sucessão de
+1.624 tubos metálicos, cada um com 14 metros de
+comprimento e 1 metro de diâmetro. Para permitir que
+um feixe de prótons circule no interior dos tubos, sem
+colidir com outros átomos ou moléculas, os tubos
+operam em ultra-alto vácuo. Isso estabelece entre as
+suas superfícies interna e externa um forte gradiente de
+pressão. Se, por essa razão, o metal utilizado for
+afetado pelo fenômeno de difusão no estado de
+equilíbrio, expresso matematicamente pela Lei de Fick,
+então as bombas que mantêm o vácuo no anel devem
+ser dimensionadas para retirar um fluxo de massa
+difundido que
+A é inversamente proporcional ao gradiente da
+concentração dessa massa.
+B não depende do gradiente da concentração dessa
+massa, mas apenas do quadrado da sua
+concentração.
+C é oposto e inversamente proporcional ao gradiente
+concentração, ou seja, vai do valor mais baixo de
+concentração para o mais alto.
+D não depende do gradiente da concentração dessa
+massa, mas apenas da concentração da mesma.
+E é oposto e proporcional ao gradiente concentração,
+ou seja, que vai da região de maior concentração
+para a de menor concentração</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r22">
+	<Coords points="682,1382 682,2025 1588,2025 1588,1382"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,227 586,227 586,331 838,331 838,394 863,394 863,734 861,734 861,1111 559,1111 559,1256 664,1256 664,1316 153,1316 153,1317 152,1317 152,1312 101,1312 101,955 100,955 100,394 101,394"/>
+	<TextEquiv conf="0.93636">
+	<Unicode>QUESTÃO 25
+Chips nacionais
+São Paulo terá a maior fábrica de chips da América Latina.
+A primeira fábrica em larga escala de semicondutores da
+América Latina será na cidade de São Carlos, no interior do
+estado de São Paulo. A produção se dará por meio de uma
+parceria entre a empresa norte-americana Symetrix e o grupo
+nacional Encalso-Damha e contará com um investimento de
+mais de US$ 1 bilhão (cerca de 2,5 bilhões de reais!). A fábrica
+produzirá chips de memória ferroelétrica, capazes de armazenar
+mais informações que os componentes atuais. Pela tecnologia
+que temos hoje, 1 cm? é capaz de armazenar 1 gigabyte. Com a
+ferroelétrica, é possível armazenar, nesse mesmo espaço,
+250 gigabytes.
+Mas tudo começou com os ferromagnetos, um dos
+materiais pioneiros para armazenamento de dados utilizados,
+por exemplo, em fitas cassete de gravação magnética.
+A equação constitutiva do magnetismo, B = 1, (H + M),
+descreve a relação entre a indução magnética, o campo
+magnético aplicado e a magnetização em um material
+magnético típico, como um ferromagneto.
+Revista FAPESP (com adaptações)
+Fazendo-se um paralelo entre materiais ferroelétricos e
+ferromagnéticos, é correto afirmar que a polarização em um
+material ferroelétrico equivale, em um material ferromagnético,
+à indução magnética, B.
+ao campo magnético aplicado, H.
+à soma (H+ M).
+à permeabilidade magnética no vácuo, y,.
+à magnetização, M.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="101,1346 291,1346 291,1394 653,1394 653,1548 651,1548 651,1684 653,1684 653,1751 654,1751 654,1799 727,1799 727,1906 653,1906 653,2048 727,2048 727,2077 806,2077 806,2117 922,2117 922,2142 152,2142 152,2143 151,2143 151,2137 102,2137 102,2069 101,2069 101,2048 152,2048 152,1906 151,1906 151,1772 102,1772 102,1704 101,1704"/>
+	<TextEquiv conf="0.96553">
+	<Unicode>QUESTÃO 27
+O diagrama de fases binário Ferro-Cementita
+(Fe-Fe3C), possui aplicações tecnológicas
+importantes ao permitir a compreensão das
+transformações de fases no resfriamento de
+aços e ferros fundidos.
+Com base nesse diagrama, mostrado ao lado,
+assinale a opção correta.
+A A austenita, estável acima da temperatura
+eutetóide, é magnética.
+B A baixa solubilidade do carbono na ferrita
+pode ser explicada pela forma e pelo
+tamanho das posições intersticiais nas
+estruturas CCC, que dificultam a
+acomodação dos átomos de carbono.
+C O carbono é uma impureza substitucional
+e forma soluções sólidas com as ferritas
+(*) e (") e austenita ((), nos seus
+respectivos campos monofásicos.
+D A perlita é uma estrutura lamelar bifásica
+formada por lamelas de ferrita (*) e cementita (Fe3C).
+E A cementita caracteriza-se pela alta ductilidade e baixa dureza</Unicode></TextEquiv></TextRegion></Page></PcGts>

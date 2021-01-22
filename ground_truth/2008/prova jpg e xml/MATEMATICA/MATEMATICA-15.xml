@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T03:38:44</Created>
+	<LastChange>2021-01-19T14:46:07</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-15.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="911,207 911,2125 913,2125 913,207"/></SeparatorRegion>
+	<TextRegion id="r34" type="heading">
+	<Coords points="939,215 1129,215 1129,264 1549,264 1549,309 1551,309 1551,383 1550,383 1550,501 1551,501 1551,644 1550,644 1550,765 1551,765 1551,863 1550,863 1550,1097 989,1097 989,724 938,724 938,667 970,667 970,290 938,290 938,264 939,264"/>
+	<TextEquiv conf="0.96712">
+	<Unicode>QUESTÃO 34
+Observe a seguinte atividade de construções geométricas.
+O
+* Construir um triângulo ABC qualquer.
+* Traçara bissetriz do ângulo BAC e, em seguida, a
+. . Fm
+bissetriz do ângulo ABC,
+* Marcar o ponto de encontro dessas duas
+bissetrizes.
+OP
+* Traçara bissetriz do ângulo ACB.
+O que você observa?
+Será que, se você recomeçar a construção a partir
+de outro triângulo, chegará à mesma observação?
+O uso de um software de geometria dinâmica na
+execução dessa atividade e de outras similares
+A pode mostrar que o estudo das construções com
+régua e compasso é desnecessário.
+B dispensa a demonstração dos resultados encontrados
+pelos alunos.
+C prejudica o desenvolvimento do raciocínio
+lógico-dedutivo.
+D dificulta o desenvolvimento do pensamento
+geométrico.
+E pode contribuir para a elaboração de conjecturas
+pelos alunos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,260 899,260 899,838 154,838 154,803 104,803 104,511 103,511 103,260 104,260"/>
+	<TextEquiv conf="0.96405">
+	<Unicode>QUESTÃO 32
+A Matemática no ensino médio tem papel formativo — contribui para o
+desenvolvimento de processos de pensamento e para a aquisição de
+atitudes — e caráter instrumental — pode ser aplicada às diversas áreas
+do conhecimento —, mas deve ser vista também como ciência, com suas
+características estruturais específicas.
+OCNEM (com adaptações).
+Ao planejar o estudo de funções no ensino médio, o(a) professor(a) deve
+observar que
+O o objetivo do estudo de exponenciais é encontrar os zeros dessas
+funções.
+as funções logarítmicas podem ser usadas para transformar soma em
+produto.
+as funções trigonométricas devem ser apresentadas após o estudo das
+funções exponenciais.
+a função quadrática é exemplo típico de comportamento de
+fenômenos de crescimento populacional.
+o estudo de funções polinomiais deve contemplar propriedades de
+polinômios e de equações algébricas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="104,868 294,868 294,912 900,912 900,967 737,967 737,1048 490,1048 490,1185 759,1185 759,1211 669,1211 669,1441 899,1441 899,1543 900,1543 900,2125 104,2125 104,1626 103,1626 103,1441 324,1441 324,1211 232,1211 232,1147 231,1147 231,1048 104,1048"/>
+	<TextEquiv conf="0.96519">
+	<Unicode>QUESTÃO 33
+A professora Clara propôs a seus alunos que encontrassem a
+solução da seguinte equação do segundo grau:
+x -l1=(Ex+3)X-1)
+Pedro e João resolveram o exercício da seguinte maneira.
+Resolução de Pedro:
+x -1=(2x+3)x-1)
+x-1=2X+x-3
+2-x=X
+Como | é solução dessa equação, então S = (1)
+Resolução de João:
+x -1=(2x+3)x-1)
+(X- D(x+D=Cx+3)(xX- 1)
+x+1=2x+3
+r=-2
+Portanto, S = (-2)
+Pedro e João perguntaram à professora por que encontraram soluções
+diferentes. A professora observou que outros alunos haviam apresentado
+soluções parecidas com as deles.
+Entre as estratégias apresentadas nas opções a seguir, escolha a mais
+adequada a ser adotada por Clara visando à aprendizagem significativa
+por parte dos alunos.
+O Indicar individualmente, para cada aluno que apresentou uma
+resolução incorreta, onde está o erro e como corrigi-lo, a partir da
+estratégia inicial escolhida pelo aluno.
+O Resolver individualmente o exercício para cada aluno, usando a
+fórmula da resolução da equação do 2.º grau, mostrando que esse é
+o método que fornece a resposta correta.
+O Pedir a Pedro e João que apresentem à classe suas soluções para
+discussão e estimular os alunos a tentarem compreender onde está a
+falha nas soluções apresentadas e como devem fazer para corrigi-las.
+O Escrever a solução do exercício no quadro, usando a fórmula da
+resolução da equação do 2.º grau, para que os alunos percebam que
+esse é o método que fornece a resposta correta.
+O Pedir que cada um deles comunique à classe como resolveu o
+exercício e, em seguida, explicar no quadro para a turma onde está a
+falha na resolução de cada um e como eles devem fazer para
+corrigi-la.</Unicode></TextEquiv></TextRegion></Page></PcGts>

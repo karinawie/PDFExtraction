@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:04:14</Created>
+	<LastChange>2020-10-26T14:12:45</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-08.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="820,257 820,2154 825,2154 825,257"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,344 802,344 802,446 497,446 497,559 802,559 802,620 801,620 801,828 779,828 779,898 498,898 498,932 80,932 80,689 79,689 79,559 385,559 385,446 80,446"/>
+	<TextEquiv conf="0.96132">
+	<Unicode>QUESTÃO 11
+Uma topologia lógica em barramento pode ser obtida usando
+uma topologia física em estrela.
+PORQUE
+Uma topologia física em estrela usa difusão como princípio
+de operação.
+Analisando as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="850,259 1573,259 1573,717 1460,717 1460,901 852,901 852,768 853,768 853,589 907,589 907,471 906,471 906,436 853,436 853,364 850,364"/>
+	<TextEquiv conf="0.96017">
+	<Unicode>QUESTÃO 13
+Considere as afirmativas abaixo, em relação aos tipos de comu-
+tação (circuitos, mensagens e pacotes) utilizados em redes.
+| - Nacomutação de circuitos, é necessário o estabelecimento
+de um caminho fim-a-fim para realizar a comunicação.
+Na comutação de mensagens, não há necessidade de
+realizar armazenamento temporário nos nós intermediá-
+rios da rede.
+Ill - A comutação de pacotes apresenta a vantagem, em
+relação à comutação de mensagens, de permitir que
+várias partes de uma mensagem sejam transmitidas
+simultaneamente.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) |, apenas. (B) le ll, apenas.
+(OC) lelll, apenas. (D) Il e Ill, apenas.
+(E) Ile.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="851,941 1045,941 1045,983 1573,983 1573,1403 1338,1403 1338,1475 967,1475 967,1511 852,1511 852,1403 850,1403 850,983 851,983"/>
+	<TextEquiv conf="0.96153">
+	<Unicode>QUESTÃO 14
+A sonda Phoenix foi enviada ao espaço pela agência espacial
+norte-americana em 4 de agosto de 2007 e, desde que
+pousou em Marte, no dia 25 de maio de 2008, envia fotos
+para a Terra. Uma foto transmitida tinha o tamanho de
+8x 10º bytes e, quando enviada, a distância entre os dois
+planetas era de 60 bilhões de metros (60x10º m). Assumindo
+que o enlace de comunicação entre a sonda e a base
+da missão na Terra é de 128 kbps, que não há elementos
+intermediários, e que a velocidade de propagação do sinal
+é a velocidade da luz (3x108 m/s), quanto tempo, em
+segundos, se passou entre o início do envio da foto até ela
+ser recebida completamente na Terra?
+(A) 62,5 (B) 200
+(C) 500 (D) 700
+(E) 1.200</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,969 273,969 273,1011 803,1011 803,1175 801,1175 801,1392 803,1392 803,1523 801,1523 801,1740 803,1740 803,2148 80,2148 80,1175 79,1175 79,1011 80,1011"/>
+	<TextEquiv conf="0.96141">
+	<Unicode>QUESTÃO 12
+As atuais arquiteturas de redes de computadores são basea-
+das em dois conceitos fundamentais: modelo em camadas e
+protocolos de comunicação. Com relação a esses conceitos,
+qual descrição a seguir aborda de modo consistente um as-
+pecto da relação entre camadas e protocolos?
+(A) O uso de camadas em redes de computadores permite o
+desenvolvimento de protocolos cada vez mais abrangentes
+e complexos, em que cada camada adiciona, de maneira
+transparente, uma nova característica a um protocolo.
+A estruturação de várias funções no mesmo protocolo dá
+origem à expressão “pilha de protocolos”.
+(B) Os protocolos IP e TCP foram padronizados pela ISO para
+as camadas de rede e transporte, respectivamente.
+A estruturação do protocolo IP sobre o TCP dá origem à
+expressão “pilha de protocolos”.
+(C) Os protocolos atuam como um padrão de comunicação
+entre as interfaces das camadas de uma arquitetura de
+redes e se comunicam através da troca de unidades de
+dados chamadas de PDU. O uso de protocolos para a
+comunicação entre camadas sobrepostas dá origem à
+expressão “pilha de protocolos”.
+(D) As camadas das arquiteturas de redes de computadores
+foram concebidas para separar e modularizar a relação
+entre protocolos nas topologias lógica em barramento
+e física em estrela. A estruturação dos protocolos
+lógicos sobre os físicos dá origem à expressão “pilha de
+protocolos”.
+(E) As arquiteturas de redes de computadores são organiza-
+das em camadas para obter modularidade, e as funções
+abstratas dentro de cada camada são implementadas por
+protocolos. A estruturação com vários protocolos usados
+em camadas distintas dá origem à expressão “pilha de
+protocolos”.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="851,1549 1045,1549 1045,1591 1574,1591 1574,2145 852,2145 852,1795 851,1795 851,1617 850,1617 850,1591 851,1591"/>
+	<TextEquiv conf="0.96707">
+	<Unicode>QUESTÃO 15
+A multiplexação de informação em um canal físico é uma téc-
+nica que permite o uso do canal por mais de um usuário,
+levando a uma economia pelo compartilhamento de recur-
+sos. Essa técnica pode ser dividida em duas categorias bá-
+sicas: FOM e TDM. Qual das seguintes representa uma
+desvantagem da técnica FDM?
+(A) Atécnica não pode ser usada em fibras ópticas monomodo
+porque estas adotam uma única frequência.
+(B) A técnica não funciona em sistemas digitais por envolver
+componentes analógicos.
+(C) A técnica é eficiente apenas quando a banda de
+frequência a dividir é suficientemente larga.
+(D) O canal fica subutilizado quando um usuário não tem o
+que transmitir.
+(E) Os canais não podem ser combinados para oferecer
+maior banda a certos usuários.</Unicode></TextEquiv></TextRegion></Page></PcGts>

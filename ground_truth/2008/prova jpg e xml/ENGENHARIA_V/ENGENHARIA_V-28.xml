@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:58:22</Created>
+	<LastChange>2020-10-25T19:22:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-28.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="886,1141 886,1425 1551,1425 1551,1141"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="861,658 861,2133 863,2133 863,658"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,227 291,227 291,270 1552,270 1552,613 413,613 413,641 153,641 153,608 101,608 101,380 100,380 100,270 101,270"/>
+	<TextEquiv conf="0.96507">
+	<Unicode>QUESTÃO 49
+Luma é o nome de um robô que serve para inspeção de represas e do meio ambiente marinho e foi construído para
+operar, no máximo, a 50 metros de profundidade. Pesquisadores agora querem adaptá-lo para mergulhar no continente
+Antártico até a profundidade de 500 metros. Para isso sua estrutura de alumínio foi trocada para poliacetal. O poliacetal
+é um bom substituto de materiais metálicos, como o alumínio usado no robô, por ser ele
+O um polímero termofixo, pesado, com alto coeficiente de atrito, capaz de ser utilizado até temperaturas de trabalho
+próximas à temperatura ambiente.
+resistência ao impacto.
+o ooo
+próximas à ambiente.
+um copolímero, leve, com alta capacidade de absorção de água e com baixa resistência ao impacto.
+um polímero termoplástico, leve, resistente à água e com alta resistência mecânica.
+uma borracha, com alta resistência a ambientes altamente corrosivos, alta capacidade de absorção de água e baixa
+um compósito termofixo, pesado, com alto coeficiente de atrito, capaz de ser utilizado até temperaturas de trabalho</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="101,666 643,666 643,750 784,750 784,817 849,817 849,1539 850,1539 850,2132 102,2132 102,1985 101,1985 101,1767 102,1767 102,1643 101,1643 101,1345 100,1345 100,817 101,817"/>
+	<TextEquiv conf="0.96567">
+	<Unicode>QUESTÃO 50
+Por dentro da embalagem
+Empresa desenvolve equipamento de raios X para
+detectar metais, vidros e pedras em alimentos.
+Provavelmente, a maioria dos consumidores não sabe,
+mas a trajetória de grande parte dos produtos alimentícios
+existentes no supermercado passa por uma máquina que
+detecta metais no local onde são fabricados. Isso acontece
+com o produto já pronto e embalado, para se verificar se há
+pequenos pedaços de peças, parafusos ou outros
+contaminantes metálicos nas matérias-primas. Assim, um
+pacote de pão de fôrma, de biscoitos, de sopa instantânea, ou
+ainda uma caixa de sabão em pó, por exemplo, são
+averiguados quanto à presença de indesejáveis “ingredientes”
+metálicos. Grande parte dessas máquinas, no Brasil, é
+fabricada pela mesma empresa que está prestes a lançar um
+equipamento inovador para esse nicho do mercado industrial
+brasileiro. Ele utiliza raios X para identificar não apenas metais,
+mas também pedras, plásticos e vidros, ou tudo o que saia da
+densidade típica, como a de um pedacinho de osso num
+hambúrguer. Os materiais inconvenientes do tamanho de até
+1 milímetro poderão ser visualizados e o produto retirado de
+circulação antes de sair da fábrica.
+Revista FAPESP (com adaptações)
+Certamente, o que a maioria dos produtos alimentícios tem em
+comum, é a sua embalagem polimérica. Dessa maneira, para
+otimizar a capacidade de detecção do equipamento de raios X
+que a empresa desenvolveu,
+O A relação massa/volume do material polimérico da
+embalagem deve ser alta e constante, de maneira a não
+interferir na detecção dos tipos de materiais espúrios
+mencionados.
+O a relação massa/volume do material polimérico da
+embalagem deve ser a maior possível, de maneira a não
+interferir na detecção dos tipos de materiais espúrios
+mencionados.
+O Aestrutura atômica do material polimérico da embalagem
+deve ser a mais densa possível, de tal maneira que os
+raios X interajam construtivamente com ela, satisfazendo
+a lei de Bragg.
+O a relação massa/volume do material polimérico da
+embalagem deve ser a menor possível, de maneira a não
+interferir na detecção dos tipos de materiais espúrios
+mencionados.
+O O material polimério da embalagem deve ser
+recristalizado para permitir, pela lei de Bragg, que os
+raios X interajam destrutivamente com ele e maximizem,
+portanto, a capacidade de detecção do material espúrio na
+embalagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="889,666 1075,666 1075,711 1548,711 1548,1532 1549,1532 1549,2121 889,2121 889,1118 888,1118 888,711 889,711"/>
+	<TextEquiv conf="0.96555">
+	<Unicode>QUESTÃO 51
+No último mês de setembro foi realizado, em São
+Paulo — SP, o 3.º Encontro Brasileiro de Técnicos em
+Próteses Dentárias. Nesse evento, um dos materiais
+dentários de maior destaque foi a zircônia tetragonal
+estabilizada com ítria, ZrO(3%Y,O0;), um material
+cerâmico que possui alta tenacidade à fratura. Segundo
+os conferencistas, esse material suporta diferentes
+esforços mastigatórios pela alta resistência à
+propagação de trincas, resultante do mecanismo de
+tenacificação por transformação de fase. A figura
+abaixo representa o crescimento de uma trinca e a
+transformação de fase que ocorre ao redor dessa
+trinca, o que causa uma sensível melhoria nas
+propriedades mecânicas desse material.
+Com o auxílio da figura acima, assinale a opção
+correta.
+O A fase tetragonal de ZrO,, ao redor da trinca,
+transforma-se em ZrO, monoclínica. Isso gera uma
+expansão volumétrica que produz tensões
+contrárias ao sentido de propagação da trinca,
+dificultando o seu crescimento.
+O A fase tetragonal de ZrO, sofre retração
+volumétrica de 3 a 5%, transformando-se em ZrO,
+monoclínica.
+O Hásensível diferença de coeficientes de expansão
+térmica entre os grãos de ZrO, tetragonal e os de
+ZrO, monoclínica, gerando campos de tensão que
+dificultam o crescimento da trinca.
+O A transformação de fase promove ramificação
+progressiva de trincas, reduzindo a energia
+necessária para a propagação da trinca.
+O Atransformação de fase promove aquecimento na
+ponta da trinca. Essa energia térmica liberada é
+posteriormente convertida em energia de fratura
+que, somada aos defeitos de empilhamento,
+dificultam o crescimento da trinca.</Unicode></TextEquiv></TextRegion></Page></PcGts>

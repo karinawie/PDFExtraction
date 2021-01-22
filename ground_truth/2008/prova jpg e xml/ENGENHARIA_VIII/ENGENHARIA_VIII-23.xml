@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T20:33:05</Created>
+	<LastChange>2020-10-25T20:46:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="177,1165 177,1377 1462,1377 1462,1165"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="104,521 290,521 290,577 1552,577 1552,759 1176,759 1176,1024 896,1024 896,1434 1049,1434 1049,1512 1553,1512 1553,2121 104,2121 104,1102 103,1102 103,577 104,577"/>
+	<TextEquiv conf="0.96628">
+	<Unicode>QUESTÃO 41
+Um trabalho foi conduzido em um povoamento de Pinus sp para comparar três métodos de amostragem: área fixa
+(parcelas de 20 m x 30 m), relascopia e método de seis árvores, pelo critério da eficiência relativa (tomando como
+referência o método de área fixa), admitindo-se um erro máximo de 10% da média do volume e 95% de probabilidade
+de confiança. Para o cálculo do volume, foi considerado um fator de forma igual a 0,5. O cálculo da eficiência relativa (e)
+foi feito pela expressão
+(S)? th
+(EL)
+em que
+S,., — erro-padrão, em percentagem, para o tamanho da unidade de amostra referência;
+S.2 — erro-padrão, em percentagem, para o outro tamanho da unidade de amostra;
+t, — custo ou tempo para o tamanho e forma de referência;
+t, — custo ou tempo para o outro tamanho ou forma.
+Os dados parciais compilados são expressos na tabela seguinte.
+Considerando as informações apresentadas acima, assinale a opção correta.
+O O método de área fixa, apesar de ter apresentado o menor coeficiente de variação e o menor tempo total, não pode
+ser considerado o mais apropriado para o inventário da população em questão, uma vez que o peso maior para a
+tomada de decisão recai sobre o volume médio, que deve ser o maior, e sobre o erro- padrão relativo, que deve ser
+o menor.
+O O método das seis árvores apresenta o tamanho das unidades de amostra variável em função da distância entre o
+centro da unidade e o centro da sexta árvore mais próxima a este ponto de referência. Para o povoamento estudado,
+esse método apresentou o valor de eficiência relativa intermediário entre os dois métodos.
+O O método da relascopia apresenta tamanho de unidade de amostra variável, em que a seleção das árvores que
+compõem a unidade amostral deve ser realizada pela comparação do diâmetro da árvore com um ângulo de visada
+constante. Para o povoamento estudado, foi o que apresentou maior eficiência relativa.
+O O volume, em metros cúbicos por hectare, pode ser determinado, para o método de área fixa, a partir do volume por
+árvore dado pelo produto entre a área basal, a altura comercial e o fator de forma, extrapolando-se este volume
+individual para volume da parcela.
+O Em povoamentos homogêneos, unidades pequenas produzem coeficientes de variação altos, sendo, portanto,
+preferidas unidades maiores. Por outro lado, em povoamentos heterogêneos, a precisão de amostragem tende a ser
+maior com o emprego de unidades pequenas, devido ao maior número de unidades amostrais independentes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

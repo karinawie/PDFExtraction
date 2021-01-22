@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:23:44</Created>
+	<LastChange>2021-01-18T19:11:28</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="189,252 190,1242 761,1242 760,252"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="860,207 861,2122 864,2122 863,207"/></SeparatorRegion>
+	<ImageRegion id="r19">
+	<Coords points="924,264 924,541 1515,540 1515,263"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="888,808 888,982 1568,982 1568,808"/></TableRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="101,1705 291,1705 291,1743 850,1743 850,1934 596,1934 596,2064 628,2064 628,2122 153,2122 153,2116 101,2116 101,1934 100,1934 100,1743 101,1743"/>
+	<TextEquiv conf="0.90080">
+	<Unicode>QUESTÃO 27
+Em redes locais de computadores, o protocolo de controle de
+acesso ao meio define um conjunto de regras que devem ser
+adotadas pelos múltiplos dispositivos para compartilhar o meio
+físico de transmissão. No caso de uma rede Ethernet IEEE
+802.3 conectada fisicamente a um concentrador (hub), em que
+abordagem se baseia o protocolo de controle de acesso ao
+meio?
+na passagem de permissão em anel
+na ordenação com contenção
+na ordenação sem contenção
+na contenção com detecção de colisão
+na arbitragem centralizada</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords points="889,1633 1079,1633 1079,1678 1552,1678 1552,1935 1243,1935 1243,2120 940,2120 940,2116 889,2116 889,1936 888,1936 888,1678 889,1678"/>
+	<TextEquiv conf="0.96621">
+	<Unicode>QUESTÃO 30
+Na comunicação sem fio, o espectro de radiofrequência
+adotado é um recurso finito e apenas determinada
+banda de frequência está disponível para cada serviço.
+Dessa forma, torna-se crítico explorar técnicas de
+múltiplo acesso que permitam o compartilhamento da
+banda de frequência do serviço entre os usuários. Qual
+opção apresenta apenas técnicas de múltiplo acesso
+para o compartilhamento da banda de frequência
+alocada a um serviço?
+Bluetooth, WiFi e WiMax
+CDMA, GSM, TOMA
+3G, WAP e ZigBee
+CDMA, FDMA e TDOMA
+CCMP, TKIP e WEP</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="889,1170 1079,1170 1079,1215 1562,1215 1562,1322 1535,1322 1535,1451 1541,1451 1541,1515 1553,1515 1553,1570 1352,1570 1352,1601 940,1601 940,1602 940,1596 889,1596"/>
+	<TextEquiv conf="0.96784">
+	<Unicode>QUESTÃO 29
+Considere a gramática G definida pelas
+regras de produção ao lado, em que os
+símbolos não-terminais são s, AEB eOS
+símbolos terminais são a e b.
+Com relação a essa gramática, é correto afirmar que
+a gramática G é ambígua.
+a gramática G é uma gramática livre de contexto.
+a cadeia aabbb é gerada por essa gramática.
+é possível encontrar uma gramática regular
+equivalente a G.
+a gramática G gera a cadeia nula.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="889,215 1079,215 1079,571 1554,571 1554,793 1552,793 1552,1054 1490,1054 1490,1107 1183,1107 1183,1140 889,1140 889,1055 888,1055 888,571 889,571"/>
+	<TextEquiv conf="0.96633">
+	<Unicode>QUESTÃO 28
+A figura acima mostra uma árvore de decisão
+construída por um algoritmo de aprendizado indutivo a
+partir de um conjunto de dados em que os objetos são
+descritos por 4 atributos: X1, X2, X3 e X4. Dado um
+objeto de classe desconhecida, essa árvore classifica
+o objeto na classe 1 ou na classe 2. A tabela a seguir
+apresenta três objetos a serem classificados: O1, O2 e
+O3.
+A que classes corresponderiam, respectivamente, os
+objetos O1, O2 e O3?
+A 1, 1 e 2 B 1, 2 e 1 C 2, 1 e 2
+D 2, 2 e 1 E 1, 1 e 1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="101,215 291,215 291,1292 849,1292 849,1489 413,1489 413,1670 102,1670 102,1633 101,1633 101,1489 100,1489 100,1292 101,1292"/>
+	<TextEquiv conf="0.96585">
+	<Unicode>QUESTÃO 26
+As figuras | e |l apresentam duas imagens, ambas com
+resolução de 246 pixels x 300 pixels, sendo que a figura |
+apresenta 256 níveis de cinza e a figura Il, 4 níveis de cinza.
+Considere que a imagem da figura | seja a original, tendo sido
+manipulada em um único atributo para gerar a imagem da
+figura Il. Nessa situação, em qual atributo se diferenciam as
+imagens | e |l acima?
+O resolução
+O quantização
+O iluminação
+O escala
+O amostragem espacial</Unicode></TextEquiv></TextRegion></Page></PcGts>

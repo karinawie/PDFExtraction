@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:21:06</Created>
+	<LastChange>2020-09-23T01:21:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-54.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="172,450 164,1216 1520,1230 1528,464"/></ImageRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="79,183 173,183 173,184 266,184 266,185 360,185 360,186 453,186 453,187 546,187 546,188 640,188 640,189 733,189 733,190 827,190 827,191 920,191 920,192 1013,192 1013,193 1107,193 1107,194 1200,194 1200,195 1293,195 1293,196 1387,196 1387,197 1480,197 1480,198 1573,198 1573,323 1574,323 1574,350 80,350 80,279 79,279"/>
+	<TextEquiv conf="0.95826">
+	<Unicode>QUESTÃO 80 - DISCURSIVA
+As figuras a seguir apresentam 4 poligonais diferentes projetadas sobre o plano. Os triângulos correspondem a pontos de
+coordenadas conhecidas e os círculos, a pontos medidos. A seta indica o Norte Verdadeiro.
+Em cada figura, qual(is) erro(s) de fechamento pode(m) ser determinado(os)? Por quê? (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

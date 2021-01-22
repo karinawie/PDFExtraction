@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:29:23</Created>
+	<LastChange>2020-09-23T01:29:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-41.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="169,442 173,1194 1550,1187 1546,435"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,183 496,183 496,224 1569,224 1569,350 80,350 80,283 79,283 79,225 80,225"/>
+	<TextEquiv conf="0.94707">
+	<Unicode>QUESTÃO 60 - DISCURSIVA
+As figuras a seguir apresentam 4 poligonais diferentes projetadas sobre o plano. Os triângulos correspondem a pontos de
+coordenadas conhecidas e os círculos, a pontos medidos. A seta indica o Norte Verdadeiro.
+Em cada figura, qual(is) erro(s) de fechamento pode(m) ser determinado(os)? Por quê? (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

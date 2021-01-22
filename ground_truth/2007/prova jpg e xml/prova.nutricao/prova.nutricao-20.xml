@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T19:47:04</Created>
+	<LastChange>2020-10-24T19:51:10</LastChange></Metadata>
+	<Page imageFilename="prova.nutricao-20.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="104,222 517,222 517,289 1432,289 1432,757 1548,757 1548,872 1549,872 1549,1731 104,1731 104,819 103,819 103,757 104,757"/>
+	<TextEquiv conf="0.92621">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Uma fábrica de peças eletrônicas possui uma UAN que serve diariamente almoço com
+cardápio de padrão médio para os seus 100 empregados. O serviço de alimentação é de gestão
+própria, cujo responsável é também o chefe de cozinha, com larga experiência em restaurante
+comercial. Entretanto, em recente auditoria, verificou-se que a UAN apresentava custo elevado.
+Para sanar essa situação, contratou-se nutricionista para, entre outras tarefas, elaborar a
+lista de compras de gêneros alimentícios necessários ao funcionamento dessa UAN. Na elaboração
+dessa lista, vários fatores devem ser considerados, tais como o consumo per capita de cada
+alimento pronto (PC), o peso líquido (PL) e o peso bruto (PB) dos alimentos, o fator de correção
+(FC) e o fator de conversão ou índice de cocção (IC), para o cálculo da quantidade de cada gênero
+alimentício a ser adquirido, visando a uma melhor relação entre custo e benefício.
+A partir dessas informações e na condição de nutricionista contratado para trabalhar na referida UAN, faça o que se pede
+a seguir.
+a) A partir de PC, PL e PB, defina FC e IC e explique a importância e a utilidade desses fatores no planejamento do
+cardápio de uma UAN.
+(valor = 6,0 pontos)
+b) Considere que a referida UAN, da qual você é nutricionista, sirva, uma vez por semana, a preparação de bife de
+alcatra na chapa, com FC = 1,1, IC =0,7 e PC = 100 g. Nesse caso, determine, em quilogramas, a quantidade de
+alcatra a ser adquirida para quatro semanas de funcionamento da UAN. Apresente, necessariamente, o passo a passo
+para a determinação da quantidade solicitada e apresente o seu resultado na forma de inteiro, arredondando para
+cima o valor encontrado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

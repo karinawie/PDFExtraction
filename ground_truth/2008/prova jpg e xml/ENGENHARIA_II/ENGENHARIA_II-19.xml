@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:29:31</Created>
+	<LastChange>2020-10-25T17:46:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="865,251 865,468 1571,468 1571,251"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="48,248 48,1314 797,1314 797,248"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="822,180 822,2162 828,2162 828,180"/></SeparatorRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="851,186 1045,186 1045,498 1574,498 1574,601 1558,601 1558,1040 1574,1040 1574,1246 1551,1246 1551,1319 1270,1319 1270,1354 852,1354 852,1355 852,1102 851,1102 851,1040 866,1040 866,670 851,670"/>
+	<TextEquiv conf="0.96659">
+	<Unicode>QUESTÃO 33
+O circuito representado na figura acima é conhecido como
+conversor Buck-Boost, sendo V, a tensão contínua da
+entrada e V,, a tensão de saída.
+Sobre este circuito, considere as afirmações a seguir.
+A aplicação do conversor Buck-Boost é converter uma
+tensão contínua em alternada.
+PORQUE
+A variação da tensão V, no conversor Buck-Boost ocorrerá
+em função da frequência de chaveamento da chave S.
+Considerando as informações apresentadas e analisando as
+afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(OC) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="80,187 273,187 273,1339 802,1339 802,1554 521,1554 521,1599 330,1599 330,1638 321,1638 321,1716 317,1716 317,1792 80,1792 80,1599 78,1599 78,1573 79,1573 79,1339 80,1339"/>
+	<TextEquiv conf="0.96658">
+	<Unicode>QUESTÃO 32
+Na figura acima encontram-se, à esquerda, os gráficos no
+plano z, contendo as raízes características de três fun-
+ções de transferências de modelos discretos, que estão
+traçadas em relação ao círculo unitário. À direita, são
+mostrados gráficos de sequências temporais de modos
+característicos.
+A correspondência entre os gráficos é
+(A) 1-Y, 2Z e3W
+(B) 1-Y, 2-W e 3Z
+(C) 1X, 2Z e3Y
+(D) 1-W, 2-Y e 3X
+(E) 1-W,2Z e3Xx</Unicode></TextEquiv></TextRegion></Page></PcGts>

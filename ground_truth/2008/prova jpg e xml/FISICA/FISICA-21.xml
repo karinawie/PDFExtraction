@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:28:50</Created>
+	<LastChange>2020-10-25T21:35:37</LastChange></Metadata>
+	<Page imageFilename="FISICA-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="639,273 639,737 1001,737 1001,273"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,184 486,184 486,827 1573,827 1573,1056 1570,1056 1570,1162 80,1162 80,989 79,989 79,827 80,827"/>
+	<TextEquiv conf="0.94627">
+	<Unicode>QUESTÃO 39 - DISCURSIVA
+Uma partícula de massa m desliza sem atrito em um anel de raio R. O anel gira com velocidade angular constante O
+em torno de um eixo vertical, como mostra a figura acima. A aceleração da gravidade é 9.
+a) Encontre a lagrangiana do sistema, usando como coordenada generalizada o ângulo 0 definido na figura.
+(valor: 3,0 pontos)
+b) Escreva a Equação de Euler-Lagrange desse sistema. (valor: 3,0 pontos)
+c) Quantos pontos de equilíbrio (estáveis ou instáveis) existem para 0? &lt;g/R epara 0º &gt;g/R? (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

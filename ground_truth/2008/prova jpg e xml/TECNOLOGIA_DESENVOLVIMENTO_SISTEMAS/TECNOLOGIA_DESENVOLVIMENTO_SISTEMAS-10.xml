@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:35:48</Created>
+	<LastChange>2020-10-26T12:39:26</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="703,207 704,2116 707,2116 706,207"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="726,1090 916,1090 916,1131 1553,1131 1553,1451 1552,1451 1552,1543 818,1543 818,1655 1552,1655 1552,1712 1034,1712 1034,1817 1552,1817 1552,2080 1501,2080 1501,2116 777,2116 777,2117 776,2117 776,2111 726,2111 726,1778 725,1778 725,1752 726,1752 726,1655 727,1655 727,1544 725,1544 725,1491 726,1491"/>
+	<TextEquiv conf="0.96328">
+	<Unicode>QUESTÃO 16
+O rational unified process (RUP) é um processo de engenharia de
+software cujo objetivo é assegurar a produção de software de alta
+qualidade, satisfazendo as necessidades dos usuários no prazo e nos
+custos previstos. O RUP contém uma estrutura que pode ser
+adaptada e estendida, pois é formado por duas estruturas principais,
+denominadas dimensões, que representam os aspectos dinâmicos
+e estáticos do processo. O aspecto dinâmico é expresso em ciclos,
+fases, iterações e marcos. O estático, por sua vez, contém as
+disciplinas, os fluxos, os artefatos e os trabalhadores. Com base na
+iteração do RUP, julgue as asserções a seguir.
+A cada iteração das fases do RUP, geram-se ou não artefatos de
+software
+porque
+os artefatos produzidos dependem da ênfase que é dada a cada
+disciplina.
+Assinale a opção correta.
+O Asduas asserções são proposições verdadeiras, e a segunda é
+uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda
+não é justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda,
+uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma
+proposição verdadeira.
+Tanto a primeira quanto a segunda são proposições falsas.
+o oO Oo o</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="726,215 916,215 916,264 1554,264 1554,549 1466,549 1466,654 1553,654 1553,983 1551,983 1551,1046 727,1046 727,1047 726,1047 726,856 727,856 727,746 726,746 726,550 725,550 725,264 726,264"/>
+	<TextEquiv conf="0.96548">
+	<Unicode>QUESTÃO 15
+O conceito de máquina virtual (MV) foi usado na década de 70
+do século passado no sistema operacional IBM System 370.
+Atualmente, centros de dados (datacenters) usam MVs para migrar
+tarefas entre servidores conectados em rede e, assim, equilibrar
+carga de processamento. Além disso, plataformas atuais de
+desenvolvimento de software empregam MVs (Java, .NET). Uma MV
+pode ser construída para emular um processador ou um computador
+completo. Um código desenvolvido para uma máquina real pode ser
+executado de forma transparente em uma MV.
+Com relação a essas informações, assinale a opção correta.
+O O conceito de transparência mencionado indica que a MV
+permite que um aplicativo acesse diretamente o hardware da
+máquina.
+O Umadas vantagens mais significativas de uma MV é a economia
+de carga de CPU e de memória RAM na execução de um
+aplicativo.
+O Uma MV oferece maior controle de segurança, uma vez que
+aplicativos são executados em um ambiente controlado.
+O Para emular uma CPU dual-core, uma MV deve ser instalada e
+executada em um computador com CPU dual-core.
+O ComoumaMV não é uma máquina real, um sistema operacional
+nela executado fica automaticamente imune a vírus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="104,214 276,214 276,273 485,273 485,419 581,419 581,434 485,434 485,754 664,754 664,847 685,847 685,939 686,939 686,1010 545,1010 545,1056 533,1056 533,1214 686,1214 686,1656 366,1656 366,1770 411,1770 411,1862 582,1862 582,2013 590,2013 590,2039 497,2039 497,2084 104,2084 104,1796 103,1796 103,1770 143,1770 143,1656 142,1656 142,1562 105,1562 105,1122 142,1122 142,1010 105,1010 105,826 104,826"/>
+	<TextEquiv conf="0.96467">
+	<Unicode>QUESTÃO 14
+SUBROTINA xis()
+i=o0o
+ENQUANTO (i &lt; Gn) FACA
+i=si+1l
+SE (calc(i) &lt;= Gn)
+f1(i)
+SENAO
+f2(i)
+FIM SE
+FIM ENQUANTO
+Imprima ("ok")
+FIM SUBROTINA
+ENTAO
+Com relação ao código acima, considere que:
+» avariáveli é local e a variável cn é global;
+» não há nenhum tipo de documentação ou
+código fonte além do mostrado;
+» asubrotinaxis () faz parte de um programa;
+» ocritério de aceitação do teste é: a subrotina
+xis() não entra em laço infinito.
+Na situação apresentada, é correto
+| aplicar testes de caixa branca às rotinas
+calc(), f1() ef2() e, em seguida, usar o
+resultado para fazer um teste de mesa da
+subrotina xis ().
+Il aplicar testes de caixa preta que forcem a
+chamada a xis()
+e depois medir a
+porcentagem de sucesso da subrotinaxis ().
+Ill aplicar testes de caixa preta isoladamente ao
+código objeto das sub-rotinas calc(), f1()
+er2() antes de aplicar um teste que envolva
+a subrotina xis ().
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+6 o0Oogooeo
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

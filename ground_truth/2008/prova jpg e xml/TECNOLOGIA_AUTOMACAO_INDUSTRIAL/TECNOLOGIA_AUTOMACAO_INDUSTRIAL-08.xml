@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T18:54:44</Created>
+	<LastChange>2021-01-19T15:02:59</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-08.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r14">
+	<Coords points="844,244 844,510 1181,510 1181,244"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,264 267,264 267,305 802,305 802,397 801,397 801,511 800,511 800,636 642,636 642,723 173,723 173,830 179,830 179,856 80,856 80,663 81,663 81,511 79,511 79,305 80,305"/>
+	<TextEquiv conf="0.96504">
+	<Unicode>QUESTÃO 11
+O carro de uma fresadora CNC move-se sobre o eixo x, de
+modo que, no instante t, a posição é x = sen 3t, t &gt; O, onde
+x é dado em metros e t, em segundos.
+(Dado: (senat) = acos(at))
+Analise as afirmações abaixo sobre o movimento do carro da
+fresadora.
+| - A posição do carro no instante t = 7/6 é igual a um metro.
+I|l - A aceleração é constante para todo t.
+Ill - A velocidade para t = 1/2 é igual a 3 m/s.
+E(São) correta(s) APENAS a(s) afirmação(Ões)
+(A) |
+(B) Il
+(C) Il
+(D) lell
+(E) lelll</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="79,891 802,891 802,1124 513,1124 513,1186 205,1186 205,1373 80,1373 80,1124 79,1124"/>
+	<TextEquiv conf="0.95962">
+	<Unicode>QUESTÃO 12
+Uma ponte rolante movimenta uma bobina de aço de 6.000 kg
+em sentido descendente, com velocidade constante. Durante
+o processo de frenagem, o sistema de freio do cabo de aço
+provoca uma desaceleração constante de 4 m/s?. Qual a
+força, em N, no cabo de aço, durante a frenagem?
+(Dados: Força = massa x aceleração
+Aceleração = Av/At
+Aceleração da gravidade = 10 m/s?)
+(A) 24.000
+(B) 36.000
+(C) 56.000
+(D) 60.000
+(E) 84.000</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="60,1651 60,1917 808,1917 808,1651"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="848,1540 848,1877 1302,1877 1302,1540"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="822,174 822,2151 825,2151 825,174"/></SeparatorRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="80,1409 273,1409 273,1451 802,1451 802,1982 783,1982 783,2096 291,2096 291,2136 80,2136 80,2061 78,2061 78,1949 79,1949 79,1451 80,1451"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>QUESTÃO 13
+A fonte de alimentação CC representada pelo esquema da
+figura abaixo apresenta defeito. Considere que existe apenas
+um componente elétrico defeituoso (aberto / interrompido), e
+que a fonte está alimentada com tensão alternada da rede elé-
+trica V, (127 Vrms, 60 Hz) e R&gt;&gt; X, (X, =reatância do indutor).
+Analisando o sinal observado na tela do osciloscópio, qual é
+a provável causa do defeito?
+(A) Diodo D, aberto
+(C) Capacitor aberto
+(E) Fusível aberto
+(B) Diodo D, aberto
+(D) Indutor aberto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="caption">
+	<Coords points="851,182 1046,182 1046,242 1575,242 1575,489 1573,489 1573,1051 1464,1051 1464,1164 989,1164 989,1191 920,1191 920,1197 852,1197 852,645 851,645"/>
+	<TextEquiv conf="0.96425">
+	<Unicode>QUESTÃO 14
+Dados:
+* R é uma resistência desconhecida.
+* R,é um potenciômetro.
+* R,eR, são resistores com valores
+conhecidos.
+* Vé um voltímetro usado para medir
+a tensão entre os pontos B e C.
+* Ué a tensão de entrada.
+Em relação ao circuito representado acima, analise as
+afirmações a seguir.
+| - Searazão entre as resistências (RR, ) é igual à razão
+entre as resistências (Ry/R,), a diferença de potencial
+entre os pontos B e C é zero.
+|l - Se a razão entre as resistências (R/R) é igual à razão
+entre as resistências (R/R;), a diferença de potencial
+entre os pontos B e C é zero.
+Ill - Se o produto entre as resistências (R, e R,) é igual ao
+produto entre as resistências (R, e R,), a diferença de
+potencial entre os pontos B e C é zero.
+É(São) correta(s) a(s) afirmação(ões)
+(A) I, apenas. (B) III, apenas.
+(C) I e II, apenas. (D) II e III, apenas.
+(E) I, II e III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="851,1230 1045,1230 1045,1271 1573,1271 1573,1510 1571,1510 1571,1682 1548,1682 1548,1778 1468,1778 1468,1832 1457,1832 1457,1883 1442,1883 1442,2151 850,2151 850,1992 1372,1992 1372,1710 1198,1710 1198,1682 1186,1682 1186,1510 851,1510"/>
+	<TextEquiv conf="0.96421">
+	<Unicode>QUESTÃO 15
+Durante a manutenção de um equipamento eletrônico,
+observou-se que:
+* no circuito apresentado a seguir, quando a chave S era
+colocada na posição 1, o transistor Q, saturava e o LED
+(diodo emissor de luz) acendia;
+* colocando-se a chave S na posição 2, o transistor Q, cortava
+eoLED apagava.
+Dados do transistor:
+Bsa = 10
+Vae = 0,7 V
+Veesar 7 0,3 V
+Dados do LED:
+o VL=1,7V
+T Ve | =20 mA
+Dados de projeto:
+V..212V
+Fórmulas:
+|
+=-e
+Bsat
+Bsat
+Analisando o circuito, conclui-se que R, é igual a
+(A) 5,65 KO (B) 7,65 KO
+(C) 10,50 KO (D) 12,25 KO
+(E) 15,50 KO</Unicode></TextEquiv></TextRegion></Page></PcGts>

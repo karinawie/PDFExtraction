@@ -1,0 +1,624 @@
+QUESTÃO 11
+Uma topologia lógica em barramento pode ser obtida usando
+uma topologia física em estrela.
+PORQUE
+Uma topologia física em estrela usa difusão como princípio
+de operação.
+Analisando as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.
+
+QUESTÃO 13
+Considere as afirmativas abaixo, em relação aos tipos de comu-
+tação (circuitos, mensagens e pacotes) utilizados em redes.
+| - Nacomutação de circuitos, é necessário o estabelecimento
+de um caminho fim-a-fim para realizar a comunicação.
+Na comutação de mensagens, não há necessidade de
+realizar armazenamento temporário nos nós intermediá-
+rios da rede.
+Ill - A comutação de pacotes apresenta a vantagem, em
+relação à comutação de mensagens, de permitir que
+várias partes de uma mensagem sejam transmitidas
+simultaneamente.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) |, apenas. (B) le ll, apenas.
+(OC) lelll, apenas. (D) Il e Ill, apenas.
+(E) Ile.
+
+QUESTÃO 14
+A sonda Phoenix foi enviada ao espaço pela agência espacial
+norte-americana em 4 de agosto de 2007 e, desde que
+pousou em Marte, no dia 25 de maio de 2008, envia fotos
+para a Terra. Uma foto transmitida tinha o tamanho de
+8x 10º bytes e, quando enviada, a distância entre os dois
+planetas era de 60 bilhões de metros (60x10º m). Assumindo
+que o enlace de comunicação entre a sonda e a base
+da missão na Terra é de 128 kbps, que não há elementos
+intermediários, e que a velocidade de propagação do sinal
+é a velocidade da luz (3x108 m/s), quanto tempo, em
+segundos, se passou entre o início do envio da foto até ela
+ser recebida completamente na Terra?
+(A) 62,5 (B) 200
+(C) 500 (D) 700
+(E) 1.200
+
+QUESTÃO 12
+As atuais arquiteturas de redes de computadores são basea-
+das em dois conceitos fundamentais: modelo em camadas e
+protocolos de comunicação. Com relação a esses conceitos,
+qual descrição a seguir aborda de modo consistente um as-
+pecto da relação entre camadas e protocolos?
+(A) O uso de camadas em redes de computadores permite o
+desenvolvimento de protocolos cada vez mais abrangentes
+e complexos, em que cada camada adiciona, de maneira
+transparente, uma nova característica a um protocolo.
+A estruturação de várias funções no mesmo protocolo dá
+origem à expressão “pilha de protocolos”.
+(B) Os protocolos IP e TCP foram padronizados pela ISO para
+as camadas de rede e transporte, respectivamente.
+A estruturação do protocolo IP sobre o TCP dá origem à
+expressão “pilha de protocolos”.
+(C) Os protocolos atuam como um padrão de comunicação
+entre as interfaces das camadas de uma arquitetura de
+redes e se comunicam através da troca de unidades de
+dados chamadas de PDU. O uso de protocolos para a
+comunicação entre camadas sobrepostas dá origem à
+expressão “pilha de protocolos”.
+(D) As camadas das arquiteturas de redes de computadores
+foram concebidas para separar e modularizar a relação
+entre protocolos nas topologias lógica em barramento
+e física em estrela. A estruturação dos protocolos
+lógicos sobre os físicos dá origem à expressão “pilha de
+protocolos”.
+(E) As arquiteturas de redes de computadores são organiza-
+das em camadas para obter modularidade, e as funções
+abstratas dentro de cada camada são implementadas por
+protocolos. A estruturação com vários protocolos usados
+em camadas distintas dá origem à expressão “pilha de
+protocolos”.
+
+QUESTÃO 15
+A multiplexação de informação em um canal físico é uma téc-
+nica que permite o uso do canal por mais de um usuário,
+levando a uma economia pelo compartilhamento de recur-
+sos. Essa técnica pode ser dividida em duas categorias bá-
+sicas: FOM e TDM. Qual das seguintes representa uma
+desvantagem da técnica FDM?
+(A) Atécnica não pode ser usada em fibras ópticas monomodo
+porque estas adotam uma única frequência.
+(B) A técnica não funciona em sistemas digitais por envolver
+componentes analógicos.
+(C) A técnica é eficiente apenas quando a banda de
+frequência a dividir é suficientemente larga.
+(D) O canal fica subutilizado quando um usuário não tem o
+que transmitir.
+(E) Os canais não podem ser combinados para oferecer
+maior banda a certos usuários.
+
+QUESTÃO 16
+A técnica de encapsulamento utilizada em arquiteturas de
+redes tem como objetivo prover a abstração de protocolos e
+serviços e promover a independência entre camadas.
+PORQUE
+O encapsulamento esconde as informações de uma camada
+nos dados da camada superior.
+Analisando as afirmações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifica
+a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(C) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.
+
+QUESTÃO 17
+Considere as afirmações que se seguem, sobre arquitetura
+de redes de computadores.
+| - Um dos motivos que levaram ao conceito de inter-rede
+é o fato de que nenhuma tecnologia de rede satisfaz
+todos os requisitos de alcance geográfico e velocidade
+desejados.
+Il - Uma inter-rede pode juntar redes de quaisquer
+tecnologias, desde que cada uma utilize o mesmo
+esquema de endereçamento físico de hospedeiros e
+roteadores.
+Il - A família de protocolos TCP/IP contém dois protocolos
+de enlace, um baseado em conexão e o outro, sem
+conexão.
+IV - Na família de protocolos TCP/IP, cada hospedeiro tem
+um endereço único de camada de transporte.
+V - O objetivo de uma inter-rede é fazer uma coleção de
+redes parecer uma única rede.
+Estão corretas APENAS as afirmações
+(A)leV (B)llelV
+(C)IVeV (D)l,IleV
+(E), leV
+
+QUESTÃO 18
+Em qual sistema e com que finalidade o mecanismo de
+controle de congestionamento do TCP é implementado?
+(A) No roteador, para controlar a ocupação das filas de saída
+e não saturar a rede.
+(B) No emissor, para prevenir a saturação do receptor com o
+envio de dados e evitar perdas de pacotes.
+(C) No emissor, para estimar a capacidade disponível na rede
+e não saturar a rede.
+(D) No receptor, para calcular o valor do campo Janela
+(Window) presente nos reconhecimentos (ACK) e evitar
+perdas de pacotes.
+(E) No receptor, para controlar o envio de reconhecimentos
+(ACK) e evitar perdas de pacotes.
+
+QUESTÃO 21
+O administrador de uma rede deseja criar cinco redes Ethernet
+isoladas e possui apenas três comutadores (switches) de ní-
+vel 2. Ele precisa garantir que, uma vez configurados os equi-
+pamentos, os usuários dessas cinco redes possam se
+conectar em qualquer outra porta de qualquer um dos três
+comutadores, sem a necessidade de nenhuma reconfiguração.
+Para atender tais requisitos, a solução que deve ser usada
+pelo administrador é a de Múltiplas VLAN baseadas em
+(A) endereço MAC.
+(B) porta com marcação (tagging).
+(C) porta com filtragem de endereços MAC.
+(D) porta com filtragem de endereços |P.
+(E) porta sem marcação (tagging).
+
+QUESTÃO 19
+Numa arquitetura de redes de computadores, qual das
+seguintes explicações expressa uma relação adequada
+entre camadas e suas funções?
+(A) Os roteadores precisam implementar até a camada de
+rede para executar a sua função porque o encaminha-
+mento de pacotes requer conhecimento de cabeçalhos
+dessa camada.
+(B) O controle do direito de fala entre cliente e servidor
+requer a coordenação entre as camadas de sessão e
+apresentação.
+(C) A camada de transporte é fundamental para esconder
+detalhes dos meios físicos de transmissão da camada de
+apresentação.
+(D) A arquitetura TCP/IP executa a função de controle de
+congestionamento na camada de rede, uma vez que a
+experiência com a arquitetura OSI/ISO mostrou as defici-
+ências do uso dessa função na camada de transporte.
+(E) A principal função da camada de enlace de dados é
+utilizar a multiplexação para permitir que o tráfego de
+várias aplicações possa ser transmitido por um único
+canal físico, através de portas lógicas.
+
+QUESTÃO 20
+Quando uma rede de uma grande empresa possui várias sub-
+redes independentes (por exemplo, para vários departamen-
+tos), essas sub-redes podem ser associadas a diferentes VLAN
+e interconectadas utilizando um comutador (switch) de nível 3.
+PORQUE
+Os comutadores de nível 3 realizam o encaminhamento IP, o
+que permite a interconexão de estações de duas VLAN
+distintas.
+Analisando essas afirmações, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifi-
+ca a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(OC) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.
+
+QUESTÃO 22
+A figura abaixo apresenta a captura de um conjunto de pacotes, mostrando dois blocos de informação: um, na parte
+superior, e outro, na parte inferior da figura. O bloco superior mostra uma lista de pacotes capturados, um por linha, com as
+seguintes colunas: numeração do pacote capturado (No.), momento da captura do pacote (Time), endereço de origem (Source),
+endereço de destino (Destination), protocolo (Protocol) e algumas informações adicionais (Info). O bloco inferior mostra o
+detalhamento do pacote nº 7, selecionado na lista de pacotes capturados.
+Considerando que os pacotes capturados são relativos a uma conexão entre um cliente (endereço IP 192.168.1.8) e um
+servidor (endereço IP 209.85.193.104), analise as afirmações que se seguem.
+| - O pacote selecionado faz parte do processo de abertura de uma conexão TCP (three-way handshake).
+ll - A conexão aberta pelo cliente usando a porta 50059, com o servidor usando a porta 80, foi fechada.
+Ill - O servidor aceitou o pedido de conexão do cliente, e o tamanho do cabeçalho do seu segmento de resposta indica a
+presença de opções no cabeçalho TCP.
+IV - O cliente usou a conexão TCP aberta na porta de origem 50059 para buscar um objeto no servidor.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) |, apenas.
+(B) IV, apenas.
+(C) Ill e IV, apenas.
+(D) |, Il e IV, apenas.
+(E), IL, Mel.
+
+QUESTÃO 23
+A família de padrões IEEE 802 define protocolos e serviços
+para redes de computadores. Em relação aos padrões dessa
+família, considere as afirmações a seguir.
+I - O IEEE 802.3, comumente referenciado como Ethernet,
+é a solução mais popular para redes locais cabeadas da
+atualidade.
+II - Os padrões IEEE 802 organizam o nível de enlace do
+modelo de referência OSI em duas sub-camadas: LLC e
+MAC.
+III - O padrão IEEE 802.15.4, comumente referenciado como
+ZigBee, habilita comunicações sem fio em uma área de
+dimensões metropolitanas.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) I, apenas. (B) I e II, apenas.
+(C) I e III, apenas. (D) II e III, apenas.
+(E) I, II e III
+
+QUESTÃO 25
+Considerando estações conectadas aos equipamentos de
+rede indicados, que modo de operação e que mecanismo de
+controle de acesso ao meio são possíveis no padrão IEEE
+802.3z (Gigabit Ethernet)?
+(A) Modo half-duplex, quando as estações estão conectadas
+a um concentrador (hub) e, nesse caso, é adotado o CSMA/
+CA como mecanismo de controle de acesso ao meio.
+(B) Modo half-duplex, quando as estações estão conectadas
+a um comutador (switch) e, nesse caso, é adotado o CSMA/
+CA como mecanismo de controle de acesso ao meio.
+(C) Modo full-duplex, quando as estações estão conectadas
+a um comutador (switch) ou concentrador (hub) e, nesse
+caso, não é necessário qualquer mecanismo de con-
+trole de acesso ao meio.
+(D) Modo full-duplex, quando as estações estão conectadas a
+um concentrador (hub) e, nesse caso, é adotado o CSMA/CD
+como mecanismo de controle de acesso ao meio.
+(E) Modo full-duplex, quando as estações estão conectadas
+a um comutador (switch) e, nesse caso, não é necessá-
+rio qualquer mecanismo de controle de acesso ao meio.
+
+QUESTÃO 26
+Durante a seleção de padrões de redes sem fio para um pro-
+jeto de rede corporativa, a figura abaixo foi encontrada em um
+“Guia de Seleção de Redes Sem Fio”, mostrando a relação
+aproximada entre o alcance espacial e a taxa de transmissão
+de algumas tecnologias de rede sem fio existentes.
+Adaptado de McCCULLAGH, M. J. Wireless Communications:
+Current and Future Technology
+Disponível em: http:/Mww.ria.ie/committees/pdfs/ursi/WirelessTech RIA.pdf.
+Acessado em 6/10/2008.
+Os padrões que se encaixam na figura acima para 1,2,3e4
+são, respectivamente,
+(A) IEEE 802.15.1 (Bluetooth), IEEE 802.15.4 (ZigBee), IEEE
+802.16 (WiMAX), IEEE 802.11 (Wi-Fi)
+(B) IEEE 802.15.4 (ZigBee), IEEE 802.15.1 (Bluetooth), IEEE
+802.11 (Wi-Fi), IEEE 802.16 (WiMAX)
+(C) IEEE 802.15.4 (ZigBee), IEEE 802.15.1 (Bluetooth), IEEE
+802.16 (WiMAX), IEEE 802.11 (Wi-Fi)
+(D) IEEE 802.15.4 (ZigBee), IEEE 802.11n (Wi-Fi MIMO), IEEE
+802.15.1 (Bluetooth), IEEE 802.11 (Wi-Fi)
+(E) IEEE 802.15.4 (ZigBee), IEEE 802.11a (Wi-Fi SGHz), IEEE
+802.16 (WiMAX), IEEE 802.11 (Wi-Fi)
+
+QUESTÃO 24
+A figura abaixo apresenta o diagrama de duas redes locais
+interconectadas por uma ponte.
+Adaptado de STALLINGS, W. Redes e Sistemas de Comunicação
+de Dados. Rio de Janeiro: Campus. 2005. p. 211.
+Examinando o cenário apresentado na figura e considerando
+que não há perda de quadros, verifica-se que
+(A) os quadros que a ESTAÇÃO 1 envia para a ESTAÇÃO 4
+têm seus cabeçalhos MAC modificados ao passar pela
+PONTE.
+(B) os quadros que a ESTAÇÃO 1 envia para a ESTAÇÃO 2,
+em resposta a quadros na direção contrária, são replica-
+dos pela PONTE na LAN B.
+(C) os quadros que a ESTAÇÃO 1 envia para o endereço MAC
+de difusão (broadcast) não são replicados na LAN B.
+(D) a PONTE utiliza o endereço de destino do cabeçalho MAC
+dos quadros para aprender as estações pertencentes à
+LAN Ae à LAN B.
+(E) a PONTE é capaz de aprender quais estações perten-
+cem à LAN A e quais pertencem à LAN B e replicar os
+quadros apenas quando necessário.
+
+QUESTÃO 30
+A Empresa ABC Tecnologia Ltda. está instalada em um pré-
+dio de 5 andares e possui uma estrutura dinâmica de espaço
+físico e pessoal para se adequar às flutuações e demandas
+do mercado. No entanto, a cada nova mudança na estrutura
+física e organizacional, o cabeamento de redes da empresa
+precisa ser modificado, gerando atrasos excessivos, altos
+custos e maior desorganização no cabeamento. Qual das
+seguintes soluções é adequada para prover a empresa de
+maior nível de segurança aos seus dados (primeira priorida-
+de) e flexibilidade na localização de seus equipamentos
+(segunda prioridade)?
+(A) Adotar um padrão de cabeamento baseado em
+concentradores (hubs), para permitir reconfigurações rá-
+pidas nos pontos de rede usando cabos UTP categoria 3.
+(B) Adotar o padrão de cabeamento estruturado EIA/TIA 568,
+para obter flexibilidade e rapidez na reconfiguração da rede,
+uma vez que essa norma recomenda grande densidade
+de pontos de rede, mesmo que eles estejam inicialmente
+desativados.
+(C) Usar o protocolo DHCP para ficar imune às influências de
+mudanças de cabeamento, uma vez que o protocolo IP
+pode ser usado com qualquer tipo de infra-estrutura de
+rede e sistema de cabeamento.
+(D) Usar técnicas para oferecer garantias de qualidade de
+serviço na camada de rede e normas de cabeamento
+estruturado ISO 11801, para oferecer otimizações entre
+as camadas (ou seja, cross-layer) do modelo TCP/IP e os
+meios físicos de transmissão.
+(E) Utilizar uma solução baseada em redes locais sem fio
+padrão IEEE 802.11 que, por não necessitarem de
+cabos, oferecem grande flexibilidade e rapidez em caso
+de mobilidade de equipamentos.
+
+QUESTÃO 27
+Em relação aos aspectos de segurança de redes sem fio
+IEEE 802.11 (Wi-Fi), analise as afirmações que se seguem.
+| - WEPé um padrão de segurança para redes IEEE 802.11
+que apresenta várias fraquezas que podem comprometer
+a confidencialidade da informação, apesar de usar TKIP
+como solução de criptografia.
+Il - WPA foi projetado para solucionar problemas de
+segurança com WEP implementando um subconjunto
+das funcionalidades do padrão IEEE 802.11i.
+Ill - WPA2 é o nome do padrão IEEE 802 .11i que substituiu
+o RC4 do WPA pelo AES para obter uma criptografia mais
+forte.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) Il, apenas.
+(B) l el, apenas.
+(C) le Ill, apenas.
+(D) Il e Ill, apenas.
+(E), ll elll.
+
+QUESTÃO 28
+Considere a seguinte sequência de comandos, executada em
+uma máquina Linux durante a configuração de um servidor
+Web Apache para o site www.meusSite.com.br:
+htpasswd -c /usr/local/apache/passwd/senhas fulano
+(responder a perguntas feitas pelo comando)
+htpasswd /usr/local/apache/passwd/senhas sicrano
+(responder a perguntas feitas pelo comando)
+htpasswd /usr/local/apache/passwd/senhas beltrano
+(responder a perguntas feitas pelo comando)
+cat > /usr/local/apache/passwd/grupos <<!
+admin: sicrano beltrano
+H
+cat > usr/local /apache/htdocs/segredo/.htaccess <<!
+AuthType Basic
+AuthName “Somente com convite”
+AuthBasicProvider file
+AuthUserFile /usr/local/apache/passwd/senhas
+AuthGroupFile /usr/local/apache/passwd/grupos
+Require group admin
+1
+Qual das afirmações a seguir descreve o resultado do acesso
+pelo usuário fulano à URL http:/Wwww.meusSite.com.br/segredo ?
+(A) O acesso não é permitido porque o usuário fulano não
+possui senha no arquivo de senhas.
+(B) O acesso não é permitido porque o usuário fulano não faz
+parte do grupo admin.
+(C) O acesso é permitido desde que fulano forneça sua
+senha.
+(D) O acesso é permitido, desde que fulano forneça a senha
+de qualquer usuário do grupo admin.
+(E) O acesso é permitido, sem que uma senha seja pedida.
+
+QUESTÃO 29
+Um administrador de rede recebeu a tarefa de instalar numa
+empresa uma rede sem fio infra-estruturada dos padrões IEEE
+802.11a/b/g. Arede sem fio deve cobrir toda a área da em-
+presa com múltiplos pontos de acesso, atendendo seus usu-
+ários móveis. Qual solução deve ser utilizada para oferecer a
+melhor relação entre desempenho, facilidade de configuração
+e mobilidade dos equipamentos (roaming) com a manuten-
+ção das conexões em andamento?
+(A) Uma única sub-rede IP envolvendo todos os pontos de
+acesso, um SSID por ponto de acesso, seleção dinâmica
+de canal, distribuição de endereços IP por DHCP vincula-
+do ao endereço MAC.
+(B) Uma única sub-rede IP envolvendo todos os pontos de
+acesso, SSID único em todos os pontos de acesso, sele-
+ção dinâmica de canal, atribuição de endereços |P estáti-
+Cos.
+(C) Uma única sub-rede IP envolvendo todos os pontos de
+acesso, SSID único em todos os pontos de acesso, sele-
+ção dinâmica de canal, distribuição de endereços IP por
+DHCP vinculado ao endereço MAC.
+(D) Uma sub-rede IP por ponto de acesso, um SSID por pon-
+to de acesso, canal fixo, distribuição de endereços |P por
+DHCP vinculado ao endereço MAC.
+(E) Uma sub-rede IP por ponto de acesso, SSID único em
+todos os pontos de acesso, canal fixo, distribuição de
+endereços |P por DHCP vinculado ao endereço MAC.
+
+QUESTÃO 32
+Existem muitas vulnerabilidades nos protocolos e serviços
+da Internet. Boa parte delas existe porque segurança não era
+um requisito quando a Internet foi projetada e desenvolvida,
+nas décadas de 1960 e 1970, como um projeto de pesquisa
+do departamento de defesa norte-americano. Para remediar
+problemas de projeto, novos protocolos e serviços foram
+propostos em adição ou substituição aos originalmente
+concebidos. Sobre vulnerabilidades existentes em protoco-
+los e serviços TCP/IP e soluções propostas, considere as
+afirmações que se seguem.
+| - O envenenamento de cache do DNS (DNS cache
+poisoning) consiste em introduzir dados incorretos no
+servidor DNS para forçar uma resposta errada a uma
+consulta DNS, como forma de induzir o requerente a
+acessar um falso endereço |P, possivelmente de um
+atacante.
+Il - Ataques de negação de serviço não tencionam ganhar
+acesso à rede, mas tornar inacessível ou reduzir a
+qualidade de um serviço pelo esgotamento ou limitação
+de recursos.
+Il - O DNSSEC é uma extensão de segurança projetada para
+proteger o DNS de certos ataques, que provê, entre
+outras funções, autenticação da origem e integridade dos
+dados do DNS, mas não garante a confidencialidade nem
+protege contra ataques de negação de serviço.
+IV - IPSEC é usado para prover segurança, autenticação e
+integridade para aplicações que usam o SSL/TLS.
+Estão corretas APENAS as afirmações
+(A) le!
+B) Ile
+) NelV
+) Lille
+)
+(
+(C
+OD
+(E) IM elV
+
+QUESTÃO 31
+Segundo a norma NBR 14.565, um projeto de cabeamento
+estruturado deve ser elaborado mediante uma sequência
+básica que inclui o projeto de cabeamento interno secundário
+(ou rede interna secundária). Entende-se por rede interna
+secundária
+(A) a rede que conecta uma sala de equipamento e uma sala
+de entrada de telecomunicações de dois prédios ou blo-
+cos de um campus.
+(B) a rede que serve para interconectar o distribuidor geral de
+telecomunicações com o distribuidor intermediário
+e/ou o distribuidor secundário da edificação.
+(C) a rede que conecta a sala de entrada de telecomunica-
+ções e o distribuidor geral de telecomunicações no
+prédio.
+(D) otrecho da rede compreendido entre o ponto de transição
+de cabos instalado na área de trabalho e o dispositivo de
+conexão instalado no armário de telecomunicações do
+andar.
+(E) o trecho da rede compreendido entre o ponto de teleco-
+municações instalado na área de trabalho e o dispositivo
+de conexão instalado no armário de telecomunicações
+do andar.
+
+QUESTÃO 33
+Quando um usuário acessa páginas Web na Internet, a partir
+de um navegador padrão, a resolução do nome das máquinas
+que hospedam as páginas de interesse é realizada tipica-
+mente por meio de
+(A) acesso a um arquivo na máquina do usuário (por exemplo,
+arquivo “hosts”) que contém uma lista dos nomes das
+máquinas da Internet e seus respectivos endereços |P.
+(B) consulta a um proxy HTTP que retorna a página solicitada
+pelo usuário.
+(OC) consulta a um servidor DHCP que possui as informações,
+armazenadas em cache, dos nomes das máquinas da
+Internet e seus respectivos endereços |P.
+(D) consulta a um servidor DNS que, de forma recursiva e/ou
+iterativa, consulta outros servidores DNS da Internet até o
+nome de interesse ser resolvido.
+(E) consulta a um servidor DNS raiz da Internet, que contém
+uma lista dos nomes das máquinas da Internet e seus
+respectivos endereços |P.
+
+QUESTÃO 34
+Na fase de análise dos objetivos e restrições técnicas do
+projeto de uma rede local para o novo escritório de uma
+grande empresa, os seguintes requisitos foram levantados:
+* deseja-se redundância de caminhos entre os comutadores
+(switches);
+* cada setor deverá ter uma sub-rede |P, e a mudança de
+computadores entre setores será frequente;
+* alguns departamentos terão autonomia para definir nomes
+de subdomínios;
+* deseja-se realizar a monitoração de tráfego de enlaces
+locais a partir de um único lugar central;
+* arede precisará de proteção contra ameaças externas;
+* a monitoração de URL externas visitadas será importante
+(mas sem proibições);
+* ataques internos à rede deverão ser monitorados e identifi-
+cados.
+Que conjunto de equipamentos, protocolos e aplicações
+poderá ser empregado para satisfazer todos os requisitos
+acima apresentados?
+(A) Firewall, Proxy, Comutadores com suporte a SNMP, STP,
+DNS com delegação de zona, IDS, DHCP.
+(B) Firewall, Proxy, Comutadores com suporte a SNMP, STP,
+DNS com delegação de zona, VPN, NAT.
+(OC) Firewall, Proxy, Comutadores com suporte a SNMP,
+Comutadores de nível 3, DNS com delegação de zona,
+IPS, Topologia hierárquica.
+(D) Firewall, Proxy, Analisador de protocolos, STP, DNS com
+DNSSEC, IPSEC, DHCP.
+(E) Firewall, Analisador de protocolos, Comutadores de nível 3,
+DNS com DNSSEC, IDS, DHCP.
+
+QUESTÃO 36
+Para um mesmo número de instâncias de objetos de interesse, mensagens GetBulk do SNMPv2, em comparação a mensa-
+gens GetNext, geram um menor número de bytes trocados entre estações de gerenciamento e dispositivos gerenciados.
+Explicam essa redução as razões que se seguem.
+| - Mensagens GetBulk possuem menos campos que mensagens GetNext.
+Il - Um menor número de mensagens de solicitação e resposta é gerado com o uso de mensagens GetBulk do que com
+mensagens GetNext.
+Ill - Mensagens GetBulk são encapsuladas em datagramas UDP, enquanto mensagens GetNext são encapsuladas em
+segmentos TCP.
+Está(ão) correta(s) APENAS a(s) razão(ões)
+(A)| (B)!I! (C) (D)lell (E)Ilelll
+
+QUESTÃO 35
+Analisando a rede ilustrada na figura, verifica-se que
+(A) as máquinas dos setores de Estoque e Vendas estão no mesmo domínio de colisão.
+(B) a Rede Interna não contém roteadores; portanto, para que as diferentes sub-redes IP se comuniquem sem passar pelo
+Firewall/NAT, são recomendados comutadores (switches) de nível 3.
+(C) os endereços |P públicos da sub-rede da Administração permitem que as suas estações acessem a Internet sem o
+auxílio do NAT.
+(D) o enlace de acesso à Internet deve ter uma capacidade C superior a 100 Mbps para evitar que o mesmo se torne um
+gargalo.
+(E) o default gateway das estações da sub-rede da Administração é o Firewall/NAT, quando se adotam comutadores
+(switches) de nível 3 para a Rede Interna.
+
+QUESTÃO 37
+Nas redes Ethernet, define-se domínio de colisão como o conjunto de dispositivos de uma rede que compartilham o acesso
+ao meio. Define-se também domínio de difusão (broadcast) como o conjunto de dispositivos de uma rede que escutam
+as mesmas mensagens de difusão (quadros com endereço de difusão). Segundo essas definições, e considerando os
+equipamentos de rede, analise as afirmações a seguir.
+| - Todas as portas de um comutador (switch) de nível 2 estão no mesmo domínio de colisão.
+Il - Um roteador pode ser utilizado para separar dois domínios de difusão.
+Ill - Quando se interligam dois concentradores (hubs), criam-se dois domínios de colisão distintos.
+IV - Duas estações que estejam no mesmo domínio de colisão também estão no mesmo domínio de difusão.
+Estão corretas APENAS as afirmações
+(A)lell
+(B)lelll
+(C)lelV
+(D)llelV
+(E) elV
+
+QUESTÃO 38 - DISCURSIVA
+Na figura abaixo, os círculos R1, R2 e R3 são roteadores que interconectam três redes |P, representadas pelas nuvens que
+indicam os seus respectivos endereços de rede. A e B são computadores conectados às redes indicadas. As linhas são
+enlaces, e os números 0, 1 e 2, ao lado dos roteadores, indicam o número da interface à qual cada enlace se conecta.
+As tabelas de rotas dos roteadores, mostradas abaixo, apresentam três problemas que precisam ser corrigidos. São eles:
+* máquinas da rede 20.0.0.0/8 não recebem pacotes enviados por A e B;
+* quando A envia um pacote para B, este segue pelo maior caminho, quando deveria seguir pelo menor;
+* quando B envia um pacote para A, este segue pelo maior caminho, quando deveria seguir pelo menor.
+Apresente uma solução para sanar cada um dos problemas apresentados, atendendo às seguintes condições:
+* apenas uma tabela de rotas deve ser modificada na solução de cada problema;
+* deve existir uma rota default na tabela de rotas apresentada;
+* o número de linhas da tabela original deve ser mantido;
+* a tabela de rotas apresentada deve permitir que pacotes enviados alcancem qualquer outra rede;
+* a tabela de rotas apresentada deve permitir que pacotes sempre sigam pelo menor caminho. (valor: 10,0 pontos)
+
+QUESTÃO 39 - DISCURSIVA
+Uma empresa recebeu do seu provedor a faixa de endereços IP, definida pelo prefixo 200.10.10.0/24, para a construção de sua
+rede interna de computadores. Essa empresa é dividida em cinco departamentos (Produção, Compras, Vendas, Pessoal e
+Pesquisa) e cada um terá sua própria sub-rede IP. Considere que cada departamento conta com a seguinte quantidade de
+máquinas: Produção=10, Compras=25, Vendas=40, Pessoal=100 e Pesquisa=8. Determine o prefixo de rede e o
+endereço de difusão (broadcast) de cada departamento para que todas as máquinas recebam um endereço. Os prefixos devem
+ser alocados de tal forma que departamentos com um maior número de máquinas recebam endereços mais próximos do
+início do espaço de endereçamento disponível. Os prefixos devem ser informados usando a notação X.Y.W.Z/Máscara,
+como na representação do prefixo fornecido pelo provedor. (valor: 10,0 pontos)
+
+QUESTÃO 40 - DISCURSIVA
+Ana tem duas mensagens para enviar de forma criptografada para dois amigos: Beto e Carlos. Beto deseja receber a
+mensagem de maneira que apenas ele possa decifrá-la. Carlos não está preocupado com o sigilo da mensagem, mas deseja
+ter certeza de que foi mesmo Ana que a enviou.
+Assuma que todos têm seu par de chaves pública e privada, que todas as chaves públicas são conhecidas e que as
+funções C(K,M) e D(K,M) podem ser usadas para cifrar e decifrar, respectivamente, a mensagem M com a chave K
+(pública ou privada). Visando a atender os requisitos de Beto e Carlos, descreva
+a) como Ana deverá cifrar a mensagem antes de enviar para Beto; (valor: 2,5 pontos)
+b) como Beto deverá decifrar a mensagem de Ana corretamente; (valor: 2,5 pontos)
+c) como Ana deverá cifrar a mensagem antes de enviar para Carlos; (valor: 2,5 pontos)
+d) como Carlos deverá decifrar a mensagem de Ana corretamente. (valor: 2,5 pontos)
+

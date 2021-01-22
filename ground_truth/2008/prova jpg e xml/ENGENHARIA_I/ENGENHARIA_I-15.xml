@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:46:08</Created>
+	<LastChange>2020-09-23T01:46:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="896,297 896,768 1546,769 1546,298"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="328,1214 328,1740 1597,1740 1597,1214"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,270 269,270 269,311 847,311 847,897 1204,897 1204,957 786,957 786,1024 779,1024 779,1090 80,1090 80,704 79,704 79,703 78,703 78,311 80,311"/>
+	<TextEquiv conf="0.96387">
+	<Unicode>QUESTÃO 21
+A fotoelasticidade é uma técnica experimental utilizada para
+a análise de tensões e deformações em peças com formas
+complexas. A passagem de luz polarizada através de um modelo
+de material fotoelástico sob tensão forma franjas luminosas
+escuras e claras. O espaçamento apresentado entre as franjas
+caracteriza a distribuição das tensões: espaçamento regular
+indica distribuição linear de tensões, redução do espaçamento
+indica concentração de tensões. Uma peça curva de seção
+transversal constante, com concordância circular e prolon-
+gamento, é apresentada na figura ao lado. O elemento está
+equilibrado por duas cargas momento M, e tem seu estado de
+tensões apresentado por fotoelasticidade.
+Em relação ao estado de tensões nas seções PQ e RS, o módulo de tensão normal no ponto
+(A) P é maior que o módulo da tensão normal no ponto R.
+(B) Q é maior que o módulo da tensão normal no ponto R.
+(C) Q é menor que o módulo da tensão normal no ponto S.
+(D) R é maior que o módulo da tensão normal no ponto S.
+(E) S é menor que o módulo da tensão normal no ponto P.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,1126 273,1126 273,1167 1272,1167 1272,1773 1572,1773 1572,1808 1574,1808 1574,2146 1573,2146 1573,2147 827,2147 827,2146 80,2146"/>
+	<TextEquiv conf="0.96788">
+	<Unicode>QUESTÃO 22
+Considere que o fator de segurança de uma encosta evolui com o tempo, segundo a figura a seguir.
+Com base no comportamento esquemático apresentado na figura, conclui-se que o Fator de Segurança dessa encosta natural
+(A) diminui naturalmente com o tempo, mas, com o desmatamento, há um aumento da estabilidade a curto prazo, ocorrendo
+uma instabilização mais acelerada da encosta a longo prazo.
+(B) diminui naturalmente com o tempo, mas, com o desmatamento, há uma diminuição do Fator de Segurança a curto prazo,
+ocorrendo a ruptura a longo prazo.
+(C) diminui, mas, com o desmatamento, há uma queda do Fator de Segurança a curto prazo, ocorrendo uma estabilização
+mais acelerada da encosta a longo prazo.
+(D) aumenta naturalmente com o tempo, mas, com o desmatamento, há uma redução do Fator de Segurança a curto prazo,
+e, a longo prazo, há ruptura.
+(E) é constante, mas, com o desmatamento, há um aumento do Fator de Segurança a curto prazo, ocorrendo uma instabilização
+mais acelerada da encosta a longo prazo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

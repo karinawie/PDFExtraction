@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:28:42</Created>
+	<LastChange>2020-10-25T21:35:04</LastChange></Metadata>
+	<Page imageFilename="FISICA-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="405,645 405,1134 1248,1134 1248,645"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,184 80,184 80,185 1571,185 1571,516 1080,516 1080,1162 1570,1162 1570,1262 1572,1262 1572,1390 81,1390 81,1389 80,1389 80,1189 79,1189 79,1162 80,1162 80,516 78,516 78,515 77,515 77,418 79,418"/>
+	<TextEquiv conf="0.62745">
+	<Unicode>QUESTÃO 40 - DISCURSIVA
+A figura abaixo mostra o espectro de absorção de vibração-rotação de uma molécula diatômica heteronuclear na
+temperatura ambiente. Para moléculas desse tipo, as energias vibracionais-rotacionais são dadas por
+Eta feno ma e So js
+(n,j) = (n 7) VY BA iG+1)
+onde
+j é o número quântico rotacional e n é o número quântico vibracional;
+| é o momento de inércia da molécula e v, é a frequência de vibração clássica da molécula. As transições mostradas
+correspondem às transições com N. = 1enNnia70(An=1)e(Aj=+1).
+(Dados: h = 4,0 x 10º eVs; TV = 10; massa reduzida da molécula HU = 1,5 x 10?” kg; (0,360)? = 0,13)
+a) Apresente a expressão da energia das radiações absorvidas em função do momento de inércia. (valor: 4,0 pontos)
+b) Calcule o valor numérico aproximado do momento de inércia da molécula. (valor: 3,0 pontos)
+c) Calcule o valor numérico aproximado da constante elástica da molécula. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

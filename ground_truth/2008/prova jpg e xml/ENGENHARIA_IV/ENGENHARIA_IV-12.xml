@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T21:31:52</Created>
+	<LastChange>2020-11-17T00:23:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="116,812 116,1025 723,1025 723,812"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="177,1198 178,1397 735,1397 734,1198"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="120,1645 120,1877 756,1877 756,1645"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="860,600 860,1457 1545,1457 1545,600"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="822,182 822,2157 828,2157 828,182"/></SeparatorRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,177 273,177 273,217 802,217 802,571 800,571 800,779 290,779 290,1453 801,1453 801,1528 780,1528 780,1909 802,1909 802,1965 247,1965 247,2158 80,2158 80,1637 79,1637 79,1554 80,1554 80,779 79,779 79,217 80,217"/>
+	<TextEquiv conf="0.96420">
+	<Unicode>QUESTÃO 18
+Alguns tipos de balança utilizam, em seu funcionamento, a relação
+entre o peso P e a deformação elástica ô que ele provoca em uma
+mola de constante elástica K, ou seja, P=K x ô (Lei de Hooke). Ao se
+Colocar certa mercadoria no prato de uma balança desse tipo, a defor-
+mação 3 não ocorre instantaneamente. Existe um movimento
+transiente que depende de outro parâmetro: o nível de amortecimento
+no mecanismo da balança, dado pelo parâmetro adimensional É ,
+denominado fator de amortecimento.
+O movimento transiente, a partir do instante em que a mercadoria
+é colocada no prato da balança, pode ser descrito por 3 equações
+diferentes (e tem comportamentos diferentes), conforme ovalorde é .
+P K
+Para 6&lt;1, Os (e ae sen(ot o) em que o
+oq
+2 =
+wg=Ol-0C e=cos da
+Afigura abaixo exemplifica o gráfico da função quando 6 =0,1.
+ilustrado a seguir.
+Para &amp;1, ó(N)=
+que mw, =0, x GC.
+A figura abaixo exemplifica o gráfico da função quando 6=2.
+xl
+Co,
+. (re. fovh 1-2 senh o) em
+o,
+Com base nessas informações, conclui-se que a balança
+indica o valor da massa mais rapidamente quando
+(A)6&lt;O.
+(B)6=0
+(C0)O&lt;c &lt;1.
+(0)e=1.
+(E)ç&gt;1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="852,184 1045,184 1045,239 1574,239 1574,321 1512,321 1512,1492 1574,1492 1574,1803 1352,1803 1352,1916 1329,1916 1329,2027 1133,2027 1133,2082 863,2082 863,2083 853,2083 853,1803 852,1803 852,1612 950,1612 950,642 923,642 923,595 895,595 895,456 892,456 892,376 852,376"/>
+	<TextEquiv conf="0.96764">
+	<Unicode>QUESTÃO 19
+Os gráficos abaixo apresentam informações sobre a área
+plantada e a produtividade das lavouras brasileiras de soja
+com relação às safras de 2000 a 2007.
+A SEMENTE DO AGRONEGÓCIO
+Com o crescimento desta década, o Brasil passou a
+responder por 27% do mercado global de soja. Um
+em cada cinco dólares exportados pelo agronegócio
+vem do complexo soja.
+MW Aárea plantada cresceu 54%, metade
+A proteína do campo. In: Veja, 23 jul. 2008, p. 79. Ministério da
+Agricultura, Pecuária e Abastecimento (com adaptações).
+Considere que as taxas de variação de 2006 para 2007,
+observadas nos dois gráficos, se mantenham para o período
+de 2007 a 2008. Nessa situação, a produção total de soja na
+safra brasileira de 2008 seria, em milhões de toneladas,
+A) menor que 58,8.
+B) maior ou igual a 58,8 e menor que 60.
+(C) maior ou igual a 60 e menor que 61.
+(D) maior ou igual a 61 e menor que 62.
+E) maior ou igual a 62.</Unicode></TextEquiv></TextRegion></Page></PcGts>

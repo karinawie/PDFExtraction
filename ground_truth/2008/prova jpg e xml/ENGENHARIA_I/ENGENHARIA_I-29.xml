@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:36:31</Created>
+	<LastChange>2021-01-18T19:59:58</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-29.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="411,388 411,840 1234,840 1234,388"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,306 624,306 624,374 161,374 161,885 612,885 612,921 1310,921 1310,1014 1216,1014 1216,1588 80,1588 80,1431 79,1431 79,1154 80,1154 80,885 81,885 81,374 80,374"/>
+	<TextEquiv conf="0.94951">
+	<Unicode>QUESTÃO 41
+Considere a figura e as informações a seguir.
+Dados:
+* orendimento do grupo motor-bomba é 0,8;
+* avazão a ser recalcada é 0,5 |/s do reservatório inferior até o reservatório superior, conforme a figura;
+* a perda de carga total para a sucção é 0,85 m;
+* a perda de carga total para o recalque é 2,30 m.
+1.000 QH
+pe Mm
+75n
+onde:
+P = potência (CV)
+Q = vazão (m?/s)
+H,, = altura manométrica (m)
+n = rendimento do grupo motor-bomba
+Qual a menor potência, em CV, do motor comercial que deve ser especificado para este caso?
+(A) 1/4
+(B) 1/3
+(C) 1/2
+(D) 3/4
+(E) 1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1625 80,1626 273,1626 273,1670 1573,1670 1573,2021 1486,2021 1486,2142 81,2142 81,2141 80,2141 80,1779 79,1779 79,1670 80,1670"/>
+	<TextEquiv conf="0.96699">
+	<Unicode>QUESTÃO 42
+O pH (potencial hidrogeniônico) é um dos parâmetros químicos da água e representa a concentração de íons hidrogênio (H*),
+dando uma indicação sobre a condição de acidez, neutralidade ou alcalinidade da água. Em relação ao pH, analise as
+afirmativas a seguir.
+| - Valores de pH afastados da neutralidade afetam os microrganismos responsáveis pelo tratamento biológico dos esgotos.
+Il - O pH baixo ocasiona corrosividade e agressividade nas tubulações e peças dos sistemas de abastecimento de água.
+Ill - O pH elevado possibilita incrustações nas tubulações e peças dos sistemas de abastecimento de água.
+IV- O pH é um nutriente essencial para o crescimento dos microrganismos responsáveis pela estabilização da matéria
+orgânica.
+Estão corretas APENAS as afirmativas
+(A)lell (B)llelll (C)lelV (D)l,Ilelll (E), MelV</Unicode></TextEquiv></TextRegion></Page></PcGts>

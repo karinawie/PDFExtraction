@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:04:50</Created>
+	<LastChange>2021-01-18T19:44:22</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-32.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r16">
+	<Coords points="937,707 939,2114 943,2114 941,707"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="101,215 292,215 292,264 1055,264 1055,374 1365,374 1365,403 1416,403 1416,461 508,461 508,682 80,682 80,474 101,474"/>
+	<ImageRegion id="r1">
+	<Coords points="1068,251 1068,668 1560,668 1560,251"/></ImageRegion>
+	<TextEquiv conf="0.96654">
+	<Unicode>QUESTÃO 75
+Considere que a figura ao lado ilustre o cenário de NAPT em uma empresa
+cujos equipamentos de rede interna (LAN) usam endereços |P privados.
+Considere, ainda, que haja apenas um endereço IP válido nas redes dessa
+empresa, que é atribuído à interface externa do roteador. Considerando que os
+computadores A e B façam acessos simultâneos a um servidor WWW externo 
+(www.inep.gov.br, por exemplo), quais deverão ser os endereços |P de origem 
+contidos nos pacotes de A e B, respectivamente, que chegarão a esse servidor? 
+A 10.0.0.1 e 10.0.0.2
+B 10.0.0.254 e 10.0.0.254
+C 138.76.28.4 e 138.76.28.4
+D 138.76.28.1 e 138.76.28.2
+E 169.254.1.1 e 169.254.1.2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="101,771 921,771 921,858 916,858 916,1048 921,1048 921,1142 923,1142 923,1334 915,1334 915,1466 157,1466 157,1467 156,1467 156,1430 101,1430"/>
+	<TextEquiv conf="0.86090">
+	<Unicode>QUESTÃO 76
+Considere o esquema de relação cliente (CPF, nome, RGemissor,
+RGnro, endereco, loginemail, dominioemail) e as seguintes
+dependências funcionais (DF) válidas sobre o esquema:
+DF1: CPF * nome, RGemissor, RGnro, endereco, loginemail,
+dominioemail
+DF2: RGemissor, RGnro * CPF, nome, endereco, loginemail,
+dominioemail
+DF3: loginemail, dominioemail ? CPF
+Qual é o conjunto completo de chaves candidatas de cliente e em
+que forma normal mais alta essa relação está?
+O ((RGemissor, RGnro), (CPF)),naForma Normal de Boyce-
+Codd (FNBC).
+( (RGemissor, RGnro), (CPF)),na Segunda Forma Normal
+(2FN).
+((loginemail, dominicemail)),naForma Normalde Boyce-
+Codd (FNBC).
+( (RGemissor, RGnro), (loginemail, dominioemail),
+(CPF) ), na Forma Normal de Boyce-Codd (FNBC).
+( (RGemissor, RGnro), (loginemail, dominioemail),
+(CPF) ), na Segunda Forma Normal (2FN).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="101,1510 291,1510 291,1561 922,1561 922,1910 601,1910 601,2070 279,2070 279,2102 153,2102 153,2103 101,2103"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 77
+Considere que você trabalhe em uma empresa de desenvolvimento
+de software e que a empresa tenha decidido desenvolver um novo
+editor de texto para colocar no mercado. Esse editor deve ser um
+software que forneça recursos adicionais de apoio à autoria,
+embasado no estilo de escrita do usuário, o que o torna um software
+de funcionalidade mais complexa. Considere que a empresa deseje
+disponibilizar o produto no mercado em versões que agreguem esse
+suporte de forma gradativa, fazendo análise de risco para avaliar a
+viabilidade de desenvolvimento de uma nova versão. Tendo de
+escolher um modelo de processo para desenvolver esse editor, e
+conhecendo as características dos modelos existentes, entre os
+modelos abaixo, qual é o modelo apropriado para esse caso?
+cascata
+espiral
+RAD (rapid application development)
+prototipação
+cleanroom</Unicode></TextEquiv></TextRegion></Page></PcGts>

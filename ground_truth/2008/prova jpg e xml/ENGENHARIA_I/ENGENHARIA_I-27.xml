@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:37:09</Created>
+	<LastChange>2020-09-23T01:37:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-27.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="290,272 290,1354 1370,1353 1370,271"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="79,187 1365,187 1365,1487 1574,1487 1574,1545 1573,1545 1573,1980 80,1980 80,1981 79,1981 79,1587 80,1587 80,214 79,214"/>
+	<TextEquiv conf="0.96421">
+	<Unicode>A espessura total do pavimento, acima de cada camada, deve ser determinada por meio do gráfico, abaixo.
+O Índice de Suporte Califórnia - CBR do subleito é igual a 10%.
+Considerando que, por especificação, as espessuras da base e da sub-base não podem ser, individualmente, inferiores a
+15 cm, determine, apresentando os cálculos, a espessura mínima:
+a) do revestimento; (valor: 4,0 pontos)
+b) da base; (valor: 3,0 pontos)
+c) da sub-base. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

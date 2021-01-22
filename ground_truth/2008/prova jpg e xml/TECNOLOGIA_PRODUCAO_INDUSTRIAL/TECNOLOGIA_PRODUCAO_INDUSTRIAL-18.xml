@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T13:40:54</Created>
+	<LastChange>2020-10-26T13:48:42</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_PRODUCAO_INDUSTRIAL-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="251,364 247,939 1422,947 1426,372"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,182 80,182 80,183 229,183 229,184 379,184 379,185 528,185 528,186 678,186 678,187 827,187 827,188 977,188 977,189 1126,189 1126,190 1276,190 1276,191 1425,191 1425,192 1574,192 1574,283 456,283 456,1240 483,1240 483,1307 684,1307 684,1440 1570,1440 1570,1467 80,1467 80,1466 79,1466 79,1360 80,1360 80,283 79,283"/>
+	<TextEquiv conf="0.89159">
+	<Unicode>QUESTÃO 39 - DISCURSIVA
+A rede PERT representada a seguir foi concebida para implementar o projeto de desenvolvimento de uma máquina para coletar
+cana-de-açúcar. Nela, os números referentes às atividades correspondem a semanas.
+Legenda:
+PDI — primeira data de início
+UDI — últimadata de início
+PDT — primeira data de término
+UDT — últimadatade término
+Tempo - tempo gasto para realização da atividade
+ATV — atividade
+a) Determine o caminho crítico da rede. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

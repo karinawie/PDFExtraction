@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T19:55:12</Created>
+	<LastChange>2020-09-08T20:01:18</LastChange></Metadata>
+	<Page imageFilename="prova.farmacia-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="80,694 80,1200 794,1200 794,694"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="845,805 845,1317 1571,1317 1571,805"/></ImageRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="820,260 820,2091 834,2091 834,260"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,258 273,258 273,296 802,296 802,1251 803,1251 803,1567 804,1567 804,2065 803,2065 803,2066 79,2066 80,2066 80,1404 79,1404 79,689 78,689 78,296 80,296"/>
+	<TextEquiv conf="0.95793">
+	<Unicode>QUESTÃO 33
+O gráfico apresenta a correlação entre concentração
+plasmática (ug/mL) e dose prescrita de lamotrigina (mg/kg/dia),
+medicamento antiepiléptico de segunda geração utilizado para
+o tratamento de crises convulsivas em pacientes portadores
+de epilepsia refratária. Por apresentar intervalo terapêutico
+estreito, situado entre 1 e 4 ug/mL, os indivíduos que utilizam
+esse fármaco devem ser monitorados constantemente, para
+impedir possíveis episódios de reações adversas e intoxica-
+ções que interferem negativamente no controle da patologia.
+Atualmente, alguns hospitais da rede pública desenvolvem a
+monitorização terapêutica de usuários que utilizam essa
+classe de medicamentos, obtendo resultados como os do
+gráfico.
+Observando tais dados, qual a conclusão correta?
+(A) Só um indivíduo usa dose de lamotrigina inferior a 1,0 mg/
+kg/dia, no qual a concentração plasmática do fármaco
+também é a menor, situando-se abaixo do intervalo
+terapêutico, o que deve levar o Farmacêutico a sugerir
+aumento de dose para racionalizar a terapêutica.
+(B) Três pacientes usam doses situadas entre 3,5 e 4,0 mo/
+kg/dia, nos quais a concentração plasmática do fármaco
+apresenta diferença significativa, o que pode ser expli-
+cado pelo fato de a meia-vida de eliminação da lamotrigina
+ser menor em indivíduos obesos e idosos.
+(C) Quatro usuários têm concentração plasmática de
+lamotrigina abaixo do intervalo terapêutico, o que faz crer
+que não são aderentes ou são pessoas idosas, com
+alterações fisiológicas que modificam a metabolização e
+a eliminação dos fármacos.
+(D) Alguns pacientes que recebem doses bastante
+próximas (entre 3,5 e 4,0 mg/kg/dia) têm concentrações
+plasmáticas distintas, o que pode ser explicado por
+problemas de adesão ao tratamento ou variações
+fisiopatológicas individuais, como a obesidade, que
+aumenta a meia-vida de eliminação da lamotrigina.
+(E) Os nove pacientes apresentam linearidade, quando
+observada a correlação entre concentração plasmática e
+dose do medicamento, demonstrando que, quanto maior
+a dose prescrita de lamotrigina, maior a concentração
+plasmática do fármaco.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="851,260 851,261 1045,261 1045,301 1574,301 1574,795 1573,795 1573,1416 1574,1416 1574,1915 1573,1915 1573,1916 1503,1916 1503,2035 1030,2035 1030,2067 852,2067 852,1393 851,1393 851,794 850,794 850,301 851,301"/>
+	<TextEquiv conf="0.96740">
+	<Unicode>QUESTÃO 34
+Em termos epidemiológicos, a ingestão inadequada de alimen-
+tos que são fonte de vitamina A é o principal fator etiológico
+de hipovitaminose A, causando lesões oculares (xeroftalmia)
+e cegueira, baixa resistência às infecções e esterilidade
+masculina. Este tem sido um problema de saúde em muitas
+áreas endêmicas no mundo, principalmente em populações
+carentes de países em desenvolvimento, como o Brasil. Cerca
+de 50% da ingestão média total de vitamina A na América do
+Sul provêm de fontes vegetais (provitamina A, carotenóides).
+A vitamina A, também conhecida como retinol, é um álcool
+primário, polietilênico e lipossolúvel, que apresenta grande
+capacidade reativa. O seu precursor comum, o fitoeno, é um
+hidrocarboneto de 40 carbonos, que é convertido em
+compostos mais insaturados a, B, y e ô carotenos.
+A esse respeito, analise as figuras a seguir.
+Com relação às estruturas acima, considere as seguintes
+afirmações:
+| — são precursores da vitamina A os carotenóides que
+contêm o anel de beta-ionona, sendo que o beta caroteno
+é o que exibe maior atividade de vitamina A;
+Il — todos os carotenóides são precursores da vitamina A,
+sendo que os três carotenos representados acima são
+os que exibem maior atividade de vitamina A;
+Ill — os carotenóides acima estão presentes em frutas e hor-
+taliças e sua separação pode-se dar por cromatografia
+líquida-sólida em coluna aberta, ocorrendo em função da
+polaridade da fase estacionária, que geralmente é mais
+polar (óxido de magnésio:hiflosupercel) do que a fase
+móvel (éter etílico e acetona);
+IV- carotenóides compostos somente de carbono e hidrogê-
+nio são chamados de carotenos e os carotenóides
+oxidados, as xantofilas, apresentam grupos substituintes
+com oxigênio, como hidroxilas, grupos ceto e epóxi.
+Estão corretas as afirmações
+(A) Ile IV, apenas.
+(OC) Il, Ill e IV, apenas.
+(E) LI, NM elV.
+(B) |, Il e Ill, apenas.
+(D) Il, Ill e IV, apenas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T14:01:29</Created>
+	<LastChange>2020-10-25T14:11:11</LastChange></Metadata>
+	<Page imageFilename="prova.TR-17.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="444,1076 444,1528 1181,1528 1181,1076"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,158 251,158 251,159 252,159 252,212 1554,212 1554,453 1555,453 1555,633 1554,633 1554,812 1555,812 1555,872 809,872 809,873 62,873 62,874 61,874 61,267 60,267"/>
+	<TextEquiv conf="0.89960">
+	<Unicode>QUESTÃO 32
+Com relação aos meios de contraste utilizados em Radiologia e Diagnóstico por Imagem, as associações entre o meio
+de contraste e o exame a ser realizado é:
+(A) Contraste iodado não-iônico -— AngioRM dos membros inferiores; Sulfato de bário — Trânsito duplo contraste;
+Contraste iodado iônico — Sialografia; Gadolínio — RM das órbitas.
+(B) Contraste iodado não-iônico — Dacriocistografia; Sulfato de bário — E.E.D.; Contraste iodado iônico — Cisternografia
+cerebral; Gadolínio — RM de crânio.
+(C) Contraste iodado não-iônico — AngioRM torácica; Sulfato de bário — Fistulografia óssea; Contraste iodado iônico —
+Mielografia; Gadolínio — TC de crânio em paciente alérgico a lodo.
+(D) Contraste iodado não-iônico — Cisternografia cerebral; Sulfato de bário — transito intestinal; Contraste iodado iônico
+— Mielografia; Gadolínio — RM de crânio.
+(E) Contraste iodado não-iônico — Mielografia; Sulfato de bário — Enema opaco; Contraste iodado iônico —
+Dacriocistografia; Gadolínio — AngioRM renal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="60,973 1420,973 1420,1054 1369,1054 1369,1782 1554,1782 1554,1840 1247,1840 1247,1988 655,1988 655,1989 62,1989 62,1990 61,1990 61,1054 60,1054"/>
+	<TextEquiv conf="0.95393">
+	<Unicode>QUESTÃO 33
+O gráfico abaixo apresenta três curvas H&amp;D hipotéticas de três diferentes sistemas para imagens radiológicas.
+Logaritmo da exposição relativa
+Pela análise destas curvas pode-se concluir que
+(A) o sistema 1 proporciona um contraste radiográfico menor que o sistema 2.
+(B) imagens obtidas com o sistema 3 terão seu contraste reduzido devido ao alto valor de base mais véu.
+(C) existe uma relação linear entre a densidade óptica e a exposição relativa no caso do sistema 3, enquanto para os
+sistemas 1 e 2 esta relação é logarítmica.
+(D) somente a curva 1 corresponde a uma resposta típica de sistemas tela-filme convencionais.
+(E) a curva 3 corresponde a resposta típica de sistemas radiológicos digitais.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:00:30</Created>
+	<LastChange>2020-11-23T02:05:35</LastChange></Metadata>
+	<Page imageFilename="prova.TR-23.jpg" imageWidth="1614" imageHeight="2167">
+	<ImageRegion id="r1">
+	<Coords points="234,261 234,776 1382,777 1382,262"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="60,161 475,161 475,814 1554,814 1554,1211 61,1211 61,1210 60,1210 60,914 61,914 61,231 60,231"/>
+	<TextEquiv conf="0.93457">
+	<Unicode>QUESTÃO 40 - DISCURSIVA
+Considere as imagens abaixo.
+Em relação às aquisições de imagens de TC acima, em paciente de 86 anos, diabético e com suspeita de tumor cerebral
+responda:
+a. Que cuidados devem ser tomados em relação a interações medicamentosas, antes da realização do exame de TC?
+(valor: 2,0 pontos)
+b. A aquisição de imagem na fossa posterior foi realizada de forma correta quanto ao posicionamento e espessura de
+corte? Justifique. (valor: 4,0 pontos)
+c. Para análise do encéfalo, as janelas de documentação de imagem, com relação à largura e centro, foram realizadas
+corretamente na fossa posterior e nos cortes supratentoriais? Justifique. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

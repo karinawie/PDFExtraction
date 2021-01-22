@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:20:42</Created>
+	<LastChange>2020-11-17T02:27:16</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="102,215 1434,215 1434,284 1436,284 1436,784 1552,784 1552,1495 1553,1495 1553,1555 1070,1555 1070,1556 587,1556 587,1557 104,1557 104,1558 103,1558 103,1498 102,1498 102,843 100,843 100,784 101,784 101,711 102,711"/>
+	<TextEquiv conf="0.33422">
+	<Unicode>QUESTÃO 39 — DISCURSIVA
+Qualquer expressão aritmética binária pode ser convertida em uma expressão totalmente
+parentizada, bastando reescrever cada subexpressão binária a &amp; b como (a &amp; b), em que e denota
+um operador binário. Expressões nesse formato podem ser definidas por regras de uma gramática
+livre de contexto, conforme apresentado a seguir. Nessa gramática, os símbolos não-terminais E,
+S, O e L representam expressões, subexpressões, operadores e literais, respectivamente, e os
+demais símbolos das regras são terminais.
+E? (SOS)
+SS? LIE
+OoP+ | = |*|/
+L al blcl|dl|e
+Tendo como referência as informações acima, faça o que se pede a seguir.
+A Mostre que a expressão (a * (b / c)) pode ser obtida por derivações das regras acima. Para isso, desenhe a
+árvore de análise sintática correspondente.
+B Existem diferentes derivações para a expressão (((a + b) * c) + (d * e)). É correto, então, afirmar que a
+gramática acima é ambígua? Justifique sua resposta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

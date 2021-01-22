@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T17:42:57</Created>
+	<LastChange>2021-01-18T13:56:07</LastChange></Metadata>
+	<Page imageFilename="prova.zootecnia-14.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="886,208 886,2117 888,2117 888,208"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="891,208 891,2118 893,2118 893,208"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="948,277 948,651 1551,651 1551,277"/></ImageRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="913,215 1104,215 1104,679 1532,679 1532,1246 1549,1246 1549,1372 1551,1372 1551,2110 915,2110 915,1900 914,1900 914,1811 913,1811 913,1246 971,1246 971,244 913,244"/>
+	<TextEquiv conf="0.96465">
+	<Unicode>QUESTÃO 32
+Uma empresa avícola apresenta
+problemas na linha de abate e processamento
+de frango de corte, principalmente na etapa
+de evisceração automática, em decorrência
+da desuniformidade entre os animais. O
+gerente do abatedouro observou que oO
+formato da curva de frequência de
+distribuição de peso vivo dos animais,
+mostrada na figura acima, é o principal fator
+que compromete a eficiência da evisceração
+automática e aumenta a incidência de cortes
+nos intestinos, com a consequente
+contaminação da carcaça.
+Acerca dessa situação hipotética, assinale a opção
+correta.
+A O peso vivo dos pintinhos de um dia pode variar
+em até 13 g sem interferir na uniformidade de
+peso dos frangos no abate.
+B A quantidade de comedouros e bebedouros, que
+devem ser distribuídos uniformemente dentro do
+círculo de proteção, deve ser proporcional ao
+número de pintinhos.
+C Frangos oriundos de lotes de diferentes matrizes
+ou de diferentes linhagens são uniformes quanto
+ao peso desde que apresentem a mesma idade
+no abate.
+D Machos e fêmeas criados no mesmo galpão
+apresentam o mesmo peso médio no abate.
+E Nos primeiros dias de vida, variações na
+temperatura de aquecimento de pintinhos podem
+acarretar aumento de taxa de mortalidade destes,
+porém não interferem na uniformidade dos
+frangos no abate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,271 855,271 855,613 872,613 872,677 874,677 874,1115 141,1115 141,1046 105,1046 105,887 104,887 104,868 105,868 105,705 103,705 103,677 104,677 104,613 162,613 162,244 104,244"/>
+	<TextEquiv conf="0.96015">
+	<Unicode>QUESTÃO 30
+Para realizar a muda forçada ou a muda induzida
+em poedeiras comerciais, o proprietário de uma granja
+interrompeu o fornecimento de luz artificial e deixou as
+aves em jejum alimentar durante 17 dias. Ao final desse
+período, as aves estavam pesando 42% menos em
+relação ao peso vivo inicial. A mortalidade entre o
+período de jejum e o período de retorno à alimentação
+foi de 10%. O proprietário forneceu uma fonte de cálcio
+para coletar os ovos que estavam em formação nos três
+primeiros dias de jejum.
+Com base nessa situação hipotética, é correto afirmar que o(a)
+A proprietário da granja deveria continuar fornecendo luz
+artificial para as poedeiras, para coletar mais ovos nos
+primeiros dias do período de jejum.
+B período de jejum foi superior ao recomendado, o que
+acarretou uma excessiva redução do peso vivo e uma
+mortalidade acima da esperada.
+C ciclo de produção, após a muda forçada, deve ser idêntico ao
+primeiro, devendo apresentar os mesmos parâmetros produtivos.
+D fornecimento de fonte de cálcio nos primeiros dias do período de
+jejum aumenta o número de dias necessários para que a
+postura chegue a zero, o que força um período maior de jejum.
+E metodologia utilizada é a mais adequada para o caso, e o peso
+médio de ovo durante o segundo ciclo de postura pode atingir
+90% do peso médio de ovo observado no primeiro ciclo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="104,1148 290,1148 290,1204 854,1204 854,1512 784,1512 784,1616 872,1616 872,1711 874,1711 874,2022 872,2022 872,2117 142,2117 142,2048 105,2048 105,1858 104,1858 104,1838 143,1838 143,1826 142,1826 142,1730 105,1730 105,1644 103,1644 103,1616 104,1616 104,1552 163,1552 163,1178 104,1178"/>
+	<TextEquiv conf="0.96223">
+	<Unicode>QUESTÃO 31
+Para estimar a exigência de energia metabolizável
+(EM) para galinhas poedeiras leves, em kcal / ave / dia,
+existem várias equações, como, por exemplo,
+EM = 144,5 P*7* + 3,84 G + 1,92 0vo + 2P (21-77),
+em que P representa o peso corporal médio das aves,
+em kg, G, o ganho de peso médio das aves, em
+g / ave / dia, ovo, o peso médio dos ovos,
+em g / ave / dia, e T, a temperatura ambiente média,
+em ºC.
+ROSTAGNO, H. S. Tabelas brasileiras para aves e suínos. 2005.
+Com base na equação acima, assinale a opção correta.
+A Na estimativa da exigência de energia metabolizável de
+galinhas poedeiras, o peso do ovo tem maior influência que
+o ganho de peso vivo.
+B A temperatura ambiente acima de 21 ºC afeta de forma
+inversa a energia metabolizável de galinhas poedeiras, ou
+seja, com o aumento da temperatura, a exigência de energia
+metabolizável diminui.
+C Uma linhagem de galinha poedeira que apresenta tamanho
+e peso dos ovos maiores que a de outra lihhagem tem menor
+exigência de energia metabolizável.
+D Com o avanço da idade, a concentração da energia
+metabolizável da dieta deve aumentar, em função do
+aumento do ganho de peso.
+E A temperatura ambiente de 21 ºC provoca estresse térmico
+na galinha poedeira, além de aumentar a exigência de
+energia metabolizável.</Unicode></TextEquiv></TextRegion></Page></PcGts>

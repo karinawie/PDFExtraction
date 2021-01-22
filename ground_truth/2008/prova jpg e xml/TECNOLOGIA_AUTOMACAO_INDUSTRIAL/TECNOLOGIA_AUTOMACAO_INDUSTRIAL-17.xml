@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:52:40</Created>
+	<LastChange>2020-10-26T13:08:13</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_AUTOMACAO_INDUSTRIAL-17.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="145,182 273,182 273,224 1574,224 1574,381 702,381 702,461 657,461 657,547 598,547 598,677 533,677 533,921 1472,921 1472,978 1399,978 1399,979 1326,979 1326,980 80,980 80,921 89,921 89,682 87,682 87,408 80,408 80,347 79,347 79,224 80,224 80,184 81,184 81,183 145,183"/>
+	<TextEquiv conf="0.77460">
+	<Unicode>QUESTÃO 37
+Num motor de indução, a corrente alternada é fornecida diretamente ao estator, ao passo que o rotor recebe a corrente por
+indução, a partir do estator, como em um transformador. Analisando-se o funcionamento de um motor de indução trifásico de
+dois pólos, 60 Hz, observa-se que o rotor está girando na velocidade constante de 3.502 rpm, no mesmo sentido que o campo
+girante do estator, com uma potência de entrada de 15,7 kW e uma corrente de terminal de 22,6 A. Aresistência de enrolamento
+do estator é de 0,20 (/fase.
+Dados:
+Postator = 31 ?R (Potência dissipada no enrolamento do estator)
+Pq = Pentrada — Pestator (Potência dissipada no entreferro)
+120
+ns “| ã Je (Velocidade síncrona do estator)
+pólos
+Ns -n
+s= (Escorregamento)
+Potor = SxPg (Potência dissipada no rotor)
+Qual é, aproximadamente, a potência dissipada no rotor ?
+(A) 420 W (B) 820 W (C) 15 kW (D) 30 kW (E) 47 KW</Unicode></TextEquiv></TextRegion></Page></PcGts>

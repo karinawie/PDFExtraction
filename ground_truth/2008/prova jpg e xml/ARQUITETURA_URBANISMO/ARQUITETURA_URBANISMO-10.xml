@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T19:22:08</Created>
+	<LastChange>2020-09-22T19:23:45</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA_URBANISMO-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="86,1179 86,1474 854,1472 854,1178"/>
+	<ImageRegion id="r5">
+	<Coords points="902,1180 902,1474 1545,1474 1545,1180"/></ImageRegion></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="328,254 328,760 1354,760 1354,254"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,184 1017,184 1017,797 1482,797 1482,864 1418,864 1418,907 872,907 872,1030 83,1030 83,1031 82,1031 82,251 81,251"/>
+	<TextEquiv conf="0.96212">
+	<Unicode>QUESTÃO 13
+Na ilustração abaixo, a mesma folha de papel é mostrada em duas situações.
+Por que a folha de papel, na Situação 2, não apenas vence um vão em balanço, como suporta a carga de um lápis?
+(A) Porque, na segunda situação, o pesquisador segurou a folha mais rigidamente, criando um engaste.
+(B) Porque, com a curvatura, a matéria se distancia do centro de gravidade, obtendo mais inércia e resistência.
+(C) Porque o papel da primeira situação flambou.
+(D) Porque o papel da segunda situação cisalhou.
+(E) Porque o momento fletor no apoio da primeira situação é nulo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="81,1070 1573,1070 1573,1818 1183,1818 1183,1860 1133,1860 1133,1901 82,1901 82,1609 80,1609 80,1583 81,1583"/>
+	<TextEquiv conf="0.95034">
+	<Unicode>QUESTÃO 14
+Observe, a seguir, as imagens do Aeroporto Internacional Dulles (Virgínia, EUA, 11958-62), concebido pelo arquiteto Eero
+Saarinen.
+Analisando o comportamento estrutural do edifício, conclui-se:
+(A) se os pilares fossem verticais, os momentos aplicados a eles, advindos da força do empuxo, seriam muito maiores do que
+na solução proposta pelo arquiteto.
+(B) se os pilares fossem verticais, eles seriam mais aptos a transmitir as cargas da cobertura ao solo.
+(C) com a inclinação dos pilares, a totalidade dos momentos do empuxo é absorvida pelos momentos contrários aplicados
+pelas cargas verticais.
+(D) a forma arquitetônica adotada pouco colabora com as dimensões estruturais do edifício.
+(E) a inclinação dos pilares não tem importância, pois trata-se de um vão insignificante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

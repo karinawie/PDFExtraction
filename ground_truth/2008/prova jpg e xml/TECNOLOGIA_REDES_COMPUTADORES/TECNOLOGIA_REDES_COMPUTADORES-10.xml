@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T14:03:38</Created>
+	<LastChange>2020-10-26T14:10:43</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_REDES_COMPUTADORES-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="228,417 228,1394 1594,1394 1594,417"/></ImageRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="80,182 273,182 273,224 1575,224 1575,381 1573,381 1573,1617 1574,1617 1574,1676 1319,1676 1319,1709 1201,1709 1201,1710 542,1710 542,1828 322,1828 322,1928 254,1928 254,1960 81,1960 81,1961 80,1961 80,383 79,383 79,224 80,224"/>
+	<TextEquiv conf="0.96606">
+	<Unicode>QUESTÃO 22
+A figura abaixo apresenta a captura de um conjunto de pacotes, mostrando dois blocos de informação: um, na parte
+superior, e outro, na parte inferior da figura. O bloco superior mostra uma lista de pacotes capturados, um por linha, com as
+seguintes colunas: numeração do pacote capturado (No.), momento da captura do pacote (Time), endereço de origem (Source),
+endereço de destino (Destination), protocolo (Protocol) e algumas informações adicionais (Info). O bloco inferior mostra o
+detalhamento do pacote nº 7, selecionado na lista de pacotes capturados.
+Considerando que os pacotes capturados são relativos a uma conexão entre um cliente (endereço IP 192.168.1.8) e um
+servidor (endereço IP 209.85.193.104), analise as afirmações que se seguem.
+| - O pacote selecionado faz parte do processo de abertura de uma conexão TCP (three-way handshake).
+ll - A conexão aberta pelo cliente usando a porta 50059, com o servidor usando a porta 80, foi fechada.
+Ill - O servidor aceitou o pedido de conexão do cliente, e o tamanho do cabeçalho do seu segmento de resposta indica a
+presença de opções no cabeçalho TCP.
+IV - O cliente usou a conexão TCP aberta na porta de origem 50059 para buscar um objeto no servidor.
+Está(ão) correta(s) a(s) afirmação(ões)
+(A) |, apenas.
+(B) IV, apenas.
+(C) Ill e IV, apenas.
+(D) |, Il e IV, apenas.
+(E), IL, Mel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

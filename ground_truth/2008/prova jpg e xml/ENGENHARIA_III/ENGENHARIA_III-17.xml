@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:05:24</Created>
+	<LastChange>2020-10-25T18:15:16</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="1140,81 1140,532 1574,531 1574,80"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="933,671 934,952 1577,951 1576,670"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="1072,1357 1072,1650 1574,1649 1574,1356"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1575,972 1575,1135 80,1135 80,1136 79,1136 79,972"/>
+	<TextEquiv conf="0.88646">
+	<Unicode>MERIAM, J.L. e KRAIGE, L.G., Engineering Mechanics -
+QUESTÃO 31 Dynamics, 5a. edição, John Wiley, 2002. (Adaptado).
+No instante mostrado, a relação entre a velocidade do pistão e a velocidade angular da manivela, expressa pela função f(0),
+é definida por
+(A) R/sen O (B) R/cos 9 (C) Rcos A (D) L/sen À (E) Lsen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="1533,1170 1533,1269 81,1269 81,1270 80,1270 80,1170"/>
+	<TextEquiv conf="0.93036">
+	<Unicode>QUESTÃO 32
+Considerando f(6) = 1,25 g(0), a eficiência do sistema, que é a razão entre a potência de saída e a potência de entrada, é
+(A) 70% (B) 75% (C) 80% (D) 85% (E) 90%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1888 273,1888 273,1932 1021,1932 1021,1995 806,1995 806,2114 819,2114 819,2140 80,2140"/>
+	<TextEquiv conf="0.96703">
+	<Unicode>QUESTÃO 34
+Os gases usados na soldagem a arco com proteção gasosa têm como função
+(A) transferir o metal de adição para a solda.
+(B) evitar intoxicação do soldador.
+(C) fornecer facilmente elétrons e íons para formar o plasma.
+(D) esfriar a peça e o eletrodo.
+(E) limpar a região para evitar contaminação e formar escória.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="80,1306 273,1306 273,1350 1046,1350 1046,1745 1227,1745 1227,1813 1115,1813 1115,1849 80,1849 80,1667 79,1667 79,1350 80,1350"/>
+	<TextEquiv conf="0.96748">
+	<Unicode>QUESTÃO 33
+Um Engenheiro de uma grande fábrica do setor automobilístico foi designado para
+acompanhar um grupo de alunos do curso de Engenharia de uma universidade local
+para uma visita técnica a algumas dependências da fábrica. O grupo visitará o setor
+de usinagem das peças do câmbio e da suspensão (galpão 3) e o setor de
+estampagem (galpão 4). Apesar da recomendação de não poder tocar em peças e
+equipamentos, os alunos poderão se aproximar das máquinas para observar de
+perto as operações. Além de recomendar que todos compareçam usando calças
+compridas, sapatos fechados e cabelos presos, o Engenheiro deverá disponibilizar
+os seguintes itens de segurança:
+(A) óculos contra impactos de partículas volantes; luvas de couro e jaleco.
+(B) óculos contra impactos de partículas volantes; capacete e protetor auricular.
+(C) óculos contra impactos de partículas volantes; máscara de proteção facial e luvas de couro.
+(D) óculos contra radiação infravermelha; capacete e protetor auricular.
+(E) óculos contra radiação ultravioleta; protetor auricular e máscara de proteção facial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,640 916,640 916,666 898,666 898,947 79,947 79,685 80,685"/>
+	<TextEquiv conf="0.91054">
+	<Unicode>Leia o texto a seguir para responder às questões de nºº 31 e 32.
+O mecanismo manivela-biela-pistão de um motor a combustão
+interna, ilustrado na figura ao lado, apresenta, em um determinado
+instante, a configuração geométrica na qual a biela e a manivela estão
+perpendiculares entre si. Os comprimentos da biela e da manivela
+são L e R, respectivamente. Considere a relação V = f(9) é&amp; entre a
+velocidade V do pistão e a velocidade angular 6 da manivela, e a
+relação T = g(9) F entre o torque T disponível na manivela e a força F
+exercida sobre o pistão, proveniente da queima da mistura ar-combustível.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,179 273,179 273,229 1097,229 1097,536 1148,536 1148,547 1575,547 1575,584 1576,584 1576,614 128,614 128,615 127,615 127,586 80,586 80,255 78,255 78,229 80,229"/>
+	<TextEquiv conf="0.90235">
+	<Unicode>QUESTÃO 30
+Após a fundição, a sequência usual de fabricação de um molde de aço AISI P20 para
+injeção de plásticos é:
+(A) forjamento, polimento, usinagem de desbaste, tratamento térmico e usinagem de
+acabamento.
+(B) forjamento, usinagem de desbaste, usinagem de acabamento, tratamento térmico e
+polimento.
+(C) laminação, usinagem de desbaste, usinagem de acabamento, polimento e
+tratamento térmico.
+(D) trefilação, usinagem de desbaste, tratamento térmico, usinagem de acabamento e
+polimento. 4
+(E) usinagem de desbaste, forjamento, tratamento térmico, usinagem de acabamento e Disponível em: http: ww mbrasilferramentaria.
+polimento. com.br/fotos/15.jpg</Unicode></TextEquiv></TextRegion></Page></PcGts>

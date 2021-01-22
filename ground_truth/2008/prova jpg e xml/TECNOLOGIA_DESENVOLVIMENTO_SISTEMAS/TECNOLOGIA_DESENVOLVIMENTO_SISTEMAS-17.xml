@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-26T12:34:03</Created>
+	<LastChange>2020-10-26T12:46:16</LastChange></Metadata>
+	<Page imageFilename="TECNOLOGIA_DESENVOLVIMENTO_SISTEMAS-17.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="710,207 711,2114 714,2114 713,207"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="97,860 97,1180 691,1180 691,860"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="731,680 731,905 1557,905 1557,680"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,215 294,215 294,283 700,283 700,284 701,284 701,768 700,768 700,1267 699,1267 699,1995 700,1995 700,2067 263,2067 263,2112 155,2112 155,2022 104,2022 104,1313 103,1313 103,283 104,283"/>
+	<TextEquiv conf="0.79326">
+	<Unicode>QUESTÃO 34
+Um mercado que comercializa alimentos
+hortifrutigranjeiros faz compras diárias de diversas
+fazendas e enfrenta prejuízos decorrentes da falta
+de controle relacionada ao prazo de validade de
+seus produtos. Para resolver esse problema, o
+proprietário resolve investir em informatização,
+que proporcionará o controle do prazo de validade
+a partir da data da compra do produto. A
+modelagem de dados proposta pelo profissional
+contratado apresenta três tabelas, ilustradas a
+seguir, sendo que o atributo código nas tabelas
+Produto E Fazenda São UNnÍvocos.
+A partir das informações acima, é correto concluir
+que
+O orelacionamento entre as tabelas Produto e
+Estoque É do tipo um-para-muitos.
+O o campo Produto na tabela Estoque não
+pode fazer parte da chave nesta tabela e
+corresponde ao campo Descrição na tabela
+Produto.
+O ocampo razenda na tabela Estoque deverá
+ser a chave primária nesta tabela e
+corresponde ao campo código na tabela
+Fazenda.
+O ocampo código é chave primária na tabela
+Produto e identifica a fazenda fornecedora do
+produto.
+O a tupla (produto, fazenda) deverá ser
+usada como a chave primária da tabela
+Estoque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="739,215 929,215 929,278 1553,278 1553,638 1552,638 1552,1746 1225,1746 1225,2051 1088,2051 1088,2092 739,2092 739,1829 738,1829 738,1803 740,1803 740,1330 739,1330 739,1241 738,1241 738,278 739,278"/>
+	<TextEquiv conf="0.96379">
+	<Unicode>QUESTÃO 35
+Uma livraria usa um sistema informatizado para realizar
+vendas pela Internet. Optou-se por um sistema gerenciador de
+banco de dados, no qual aplicaram-se regras de corretude e
+integridade. Cada cliente se cadastra, faz login no sistema e escolhe
+títulos. Os livros são colocados em um carrinho de compras até que
+o cliente confirme ou descarte o pedido. As tabelas do sistema são:
+clientes, livros, carrinho, vendas. Dois clientes acessam o
+sítio no mesmo horário e escolhem alguns livros. O estado do
+sistema nesse instante é representado na tabela seguir.
+A livraria possui um único exemplar do livro Estatística
+básica. O computador usado por Alice sofre uma pane de energia
+antes que ela confirme o pedido. No mesmo instante também ocorre
+uma pane de energia no computador da loja. Em seguida, o
+computador de Alice e o computador da loja voltam a ter energia e
+a funcionar. Ela volta ao sistema e retoma seu carrinho de compras
+intacto.
+Com relação a essa situação, julgue os itens seguintes.
+| A consistência de uma tabela do banco de dados foi violada
+temporariamente, para disponibilizar dois exemplares do livro
+Estatística básica.
+Il Como o pedido de Alice continuou válido apesar da interrupção,
+o sistema gerenciador de banco de dados não emprega
+atomicidade.
+Ill Todas as transações devem ser fechadas depois do retorno da
+energia, para que os clientes possam recuperar seus carrinhos
+de compras.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+cogoeo
+Nenhum item está certo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

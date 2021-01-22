@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:22:25</Created>
+	<LastChange>2020-09-23T01:22:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-51.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="488,260 488,700 1185,700 1185,260"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="234,951 234,1685 1231,1685 1231,951"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="81,182 1144,182 1144,722 1513,722 1513,782 80,782 80,183 81,183"/>
+	<TextEquiv conf="0.96580">
+	<Unicode>QUESTÃO 75
+Considere a figura a seguir, que contém uma representação do relevo em curvas de nível.
+Qual é a forma do terreno representada na figura?
+(A) Tergo (B) Vale (C) Colo (D) Colina (E) Depressão</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="81,818 273,818 273,859 1573,859 1573,920 1275,920 1275,921 1211,921 1211,1885 1040,1885 1040,1915 929,1915 929,1916 646,1916 646,1917 363,1917 363,1918 81,1918 81,1919 80,1919 80,1726 79,1726 79,859 80,859 80,819 81,819"/>
+	<TextEquiv conf="0.95799">
+	<Unicode>QUESTÃO 76
+A figura a seguir representa a poligonal de projeto de uma estrada, passando pelos pontos A, B, C e D. O ângulo central da
+curva 1 é menor do que o da curva 2. O raio R, é menor do que R,. Ambas são curvas circulares simples.
+Analisando a figura, conclui-se que a(o)
+(A) tangente externa da curva 1 é maior do que a da curva 2.
+(B) rampa do terreno natural entre os pontos B e C é menor do que entre os pontos Ce D.
+(C) ângulo central das duas curvas aumenta, deslocando-se o ponto B na direção do ponto A .
+(D) desenvolvimento da curva 2 é maior do que o da curva 1.
+(E) comprimento total da estrada aumenta, aumentando-se os raios das curvas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="80,1956 273,1956 273,2003 1446,2003 1446,2042 1573,2042 1573,2108 1430,2108 1430,2148 80,2148 80,2108 79,2108 79,2003 80,2003"/>
+	<TextEquiv conf="0.96374">
+	<Unicode>QUESTÃO 77
+A Constituição Federal coloca, em seu Art. 20, que os terrenos de marinha e seus acrescidos são bens da União.
+Terrenos de marinha são os que se encontram até uma determinada distância, em metros medidos horizontalmente, para a
+parte da terra, da posição da linha do preamar médio. Qual é essa distância?
+(A) 300 (B) 175 (C) 102 (D) 50 (E) 33</Unicode></TextEquiv></TextRegion></Page></PcGts>

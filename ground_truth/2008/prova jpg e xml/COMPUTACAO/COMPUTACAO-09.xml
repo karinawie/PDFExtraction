@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T01:28:10</Created>
+	<LastChange>2020-11-17T02:33:08</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-09.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r42">
+	<Coords points="811,200 811,2128 831,2128 831,200"/></SeparatorRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="497,218 497,239 408,239 408,240 402,240 402,241 386,241 386,242 382,242 382,243 378,243 378,244 363,244 363,245 359,245 359,246 355,246 355,247 352,247 352,248 348,248 348,249 344,249 344,250 227,250 227,249 223,249 223,248 219,248 219,247 215,247 215,246 210,246 210,245 205,245 205,244 156,244 156,243 152,243 152,242 148,242 148,241 104,241 104,218"/>
+	<TextEquiv conf="0.89848">
+	<Unicode>E Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="103,300 808,300 808,563 581,563 581,754 659,754 659,780 154,780 154,774 104,774 104,563 103,563"/>
+	<TextEquiv conf="0.96298">
+	<Unicode>QUESTÃO 15
+Além do acesso a páginas html, a Internet tem sido usada
+cada vez mais para a cópia e troca de arquivos de
+músicas, filmes, jogos e programas. Muitos desses
+arquivos possuem direitos autorais e restrições de uso.
+Considerando o uso das redes ponto-a-ponto para a troca
+de arquivos de músicas, filmes, jogos e programas na
+Internet, a quem cabe a identificação e o cumprimento das
+restrições de uso associados a esses arquivos?
+O aos programas de troca de arquivo
+O aos usuários
+O aosistema operacional
+O aos produtores dos arquivos
+O aos equipamentos roteadores da Internet</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,821 294,821 294,872 808,872 808,1406 195,1406 195,1509 808,1509 808,1705 740,1705 740,1814 808,1814 808,2088 682,2088 682,2124 154,2124 154,2119 104,2119 104,1773 103,1773 103,1509 104,1509 104,1406 103,1406 103,872 104,872"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>QUESTÃO 16
+O gerenciamento de configuração de software (GCS) é
+uma atividade que deve ser realizada para identificar,
+controlar, auditar e relatar as modificações que ocorrem
+durante todo o desenvolvimento ou mesmo durante a fase
+de manutenção, depois que o software for entregue ao
+cliente. O GCS é embasado nos chamados itens de
+configuração, que são produzidos como resultado das
+atividades de engenharia de software e que ficam
+armazenados em um repositório. Com relação ao GCS,
+analise as duas asserções apresentadas a seguir.
+No GCS, o processo de controle das modificações
+obedece ao seguinte fluxo: começa com um pedido de
+modificação de um item de configuração, que leva à
+aceitação ou não desse pedido e termina com a
+atualização controlada desse item no repositório
+porque
+o controle das modificações dos itens de configuração
+baseia-se nos processos de check-in e check-out que
+fazem, respectivamente, a inserção de um item de
+configuração no repositório e a retirada de itens de
+configuração do repositório para efeito de realização das
+modificações.
+Acerca dessas asserções, assinale a opção correta.
+O As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+O As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+O Aprimeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+O As duas asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="848,215 1038,215 1038,264 1552,264 1552,391 1508,391 1508,514 1552,514 1552,640 1550,640 1550,746 1552,746 1552,1014 1427,1014 1427,1050 898,1050 898,1045 848,1045 848,706 847,706 847,419 848,419"/>
+	<TextEquiv conf="0.96679">
+	<Unicode>QUESTÃO 17
+Uma fórmula bem formada da lógica de predicados é válida
+se ela é verdadeira para todas as interpretações possíveis.
+Considerando essa informação, analise as duas asserções
+apresentadas a seguir.
+A fórmula bem formada (3x) P(x) = (vx) P(x) é válida
+porque,
+em qualquer interpretação de uma fórmula da lógica de
+predicados, se todo elemento do conjunto universo tem a
+propriedade P, então existe um elemento do conjunto que
+tem essa propriedade.
+Assinale a opção correta com relação a essas asserções.
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+As duas asserções são proposições falsas.
+o O O O O</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="848,1091 1038,1091 1038,1140 1552,1140 1552,1393 1444,1393 1444,1549 1551,1549 1551,1631 1338,1631 1338,1750 1552,1750 1552,1872 1414,1872 1414,1905 928,1905 928,2109 848,2109 848,1791 968,1791 968,1631 848,1631 848,1549 965,1549 965,1393 847,1393 847,1140 848,1140"/>
+	<TextEquiv conf="0.96220">
+	<Unicode>QUESTÃO 18
+Os números de Fibonacci constituem uma sequência
+de números na qual os dois primeiros elementos são 0 e 1
+e os demais, a soma dos dois elementos imediatamente
+anteriores na sequência. Como exemplo, a sequência
+formada pelos 10 primeiros números de Fibonacci é: 0, 1,
+1, 2, 3, 5, 8, 13, 21, 34. Mais precisamente, é possível
+definir os números de Fibonacci pela seguinte relação de
+recorrência:
+,sen=o0
+,sen=1
+b (n - 1) +fib(n- 2), sen &gt;1
+fib(n)= O
+fib (n)=1
+fib (n) = fi
+Abaixo, apresenta-se uma implementação em
+linguagem funcional para essa relação de recorrência:
+fib ::
+fib O
+fib 1
+fibn
+Integer -&gt; Integer
+o
+1
+fib
+(n - 1) + fib (n - 2)
+Considerando que o programa acima não reutilize
+resultados previamente computados, quantas chamadas
+são feitas à função fib para computar fib 5?
+11
+12
+15
+24
+25
+cocos</Unicode></TextEquiv></TextRegion></Page></PcGts>

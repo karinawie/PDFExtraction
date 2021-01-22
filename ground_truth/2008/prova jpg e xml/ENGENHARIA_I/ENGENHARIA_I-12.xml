@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:47:17</Created>
+	<LastChange>2021-01-18T19:52:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="74,560 74,1048 825,1048 825,560"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="68,1054 68,1451 820,1451 820,1054"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="54,1465 54,1897 820,1897 820,1465"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="862,588 862,980 1545,980 1545,588"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="851,1031 851,1471 1548,1471 1548,1031"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="82,175 275,175 275,215 804,215 804,569 803,569 803,1962 249,1962 249,2083 193,2083 193,2156 92,2156 92,2153 82,2153 82,569 81,569 81,215 82,215"/>
+	<TextEquiv conf="0.96627">
+	<Unicode>QUESTÃO 18
+Alguns tipos de balança utilizam, em seu funcionamento, a relação
+entre o peso P e a deformação elástica 8 que ele provoca em uma
+mola de constante elástica K, ou seja, P=K x 5 (Lei de Hooke). Ao se
+colocar certa mercadoria no prato de uma balança desse tipo, a defor-
+mação 3 não ocorre instantaneamente. Existe um movimento
+transiente que depende de outro parâmetro: o nível de amortecimento
+no mecanismo da balança, dado pelo parâmetro adimensional É ,
+denominado fator de amortecimento.
+O movimento transiente, a partir do instante em que a mercadoria
+é colocada no prato da balança, pode ser descrito por 3 equações
+diferentes (etem comportamentos diferentes), conforme o valorde &amp; .
+Com base nessas informações, conclui-se que a balança
+indica o valor da massa mais rapidamente quando
+(A) &lt;O.
+(B)6=O0.
+(C)O&lt;c6 &lt;1.
+(D)6=1
+(E)ç&gt;1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="856,179 1049,179 1049,234 1577,234 1577,316 1485,316 1485,1496 1578,1496 1578,1911 1333,1911 1333,2022 1137,2022 1137,2078 856,2078 856,1911 855,1911 855,1496 888,1496 888,371 856,371"/>
+	<TextEquiv conf="0.96870">
+	<Unicode>QUESTÃO 19
+Os gráficos abaixo apresentam informações sobre a área
+plantada e a produtividade das lavouras brasileiras de soja
+com relação às safras de 2000 a 2007.
+A SEMENTE DO AGRONEGÓCIO
+A proteína do campo. /n: Veja, 23 jul. 2008, p. 79. Ministério da
+Agricultura, Pecuária e Abastecimento (com adaptações).
+Considere que as taxas de variação de 2006 para 2007,
+observadas nos dois gráficos, se mantenham para o período
+de 2007 a 2008. Nessa situação, a produção total de soja na
+safra brasileira de 2008 seria, em milhões de toneladas,
+(A) menor que 58,8.
+(B) maior ou igual a 58,8 e menor que 60.
+(C) maior ou igual a 60 e menor que 61.
+(D) maior ou igual a 61 e menor que 62.
+(E) maior ou igual a 62.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="817,174 817,2145 828,2145 828,174"/></SeparatorRegion></Page></PcGts>

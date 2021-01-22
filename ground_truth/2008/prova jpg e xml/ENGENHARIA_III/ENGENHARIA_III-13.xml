@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T18:06:09</Created>
+	<LastChange>2020-10-25T18:18:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="448,1025 448,1628 1582,1628 1582,1025"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="80,312 80,313 269,313 269,373 1574,373 1574,618 1007,618 1007,769 1418,769 1418,847 80,847 80,769 87,769 87,618 79,618 79,373 80,373"/>
+	<TextEquiv conf="0.96575">
+	<Unicode>QUESTÃO 21
+A água que escoa em uma tubulação é aquecida por um fluxo de calor de 0,1 Wem?. O escoamento é hidrodinâmica
+e termicamente desenvolvido. A vazão mássica é 57 g/s e o diâmetro (D) do tubo é 2 cm. A viscosidade dinâmica e o
+coeficiente de condutividade térmica (k) da água são, respectivamente, 0,01 g/em.s e 4,55 x 10 3 W/cm.K. Considere para
+escoamento laminar Nu, = 4,4 e para escoamento turbulento, Nu, = 0,04 Re, sendo o Número de Nusselt expresso por
+h.D 4 io An =
+Nu, = — , onde h é o coeficiente de transferência de calor por convecção.
+k
+Nessas condições, a diferença de temperatura, em ºC, entre a parede do tubo e o ambiente é
+(A) 10 (B) 15 (C) 17 (D) 25 (E) 76</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,900 80,900 80,901 826,901 826,902 1572,902 1572,1659 1574,1659 1574,1776 1573,1776 1573,1967 1572,1967 1572,1968 1424,1968 1424,2126 80,2126 80,2039 79,2039"/>
+	<TextEquiv conf="0.94033">
+	<Unicode>QUESTÃO 22
+A figura mostra, esquematicamente, uma turbina de alta rotação que aciona um gerador através de um redutor com
+engrenagens helicoidais.
+O gerador opera com rotação de 50 rad/s (478 rom) a uma potência de 280 kW. O diâmetro do eixo de acionamento do gerador
+deve ser dimensionado pelo Critério de Tresca (mais conservativo), utilizando um fator de segurança igual a nx. O material
+do eixo é o aço de alta resistência ASTM-A242 cuja resistência ao escoamento medida no ensaio de tração vale 350 MPa.
+TR TR
+Considerando o eixo sujeito a torção pura ( Tmáx 7 To na qual J= a ) e desprezando qualquer perda no sistema
+de transmissão, seu diâmetro mínimo, em mm, deve ser
+(A) 20 (B) 40 (C) 60 (D) 80 (E) 100</Unicode></TextEquiv></TextRegion></Page></PcGts>

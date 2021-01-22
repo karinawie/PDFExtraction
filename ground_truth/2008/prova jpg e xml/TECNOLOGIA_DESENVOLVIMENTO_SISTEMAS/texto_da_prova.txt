@@ -1,0 +1,871 @@
+QUESTÃO 11
+Um analista foi contratado para desenvolver um
+sistema de pesquisa de DVDs em lojas virtuais. O sistema
+deverá solicitar ao usuário um título de DVD, que será
+usado para realizar a pesquisa nas bases de dados das
+lojas conveniadas. Ao detectar a disponibilidade do DVD
+solicitado, o sistema armazenará temporariamente os
+dados das lojas (nome, preço, data prevista para entrega
+do produto) e exibirá as informações ordenadas por preço.
+Após analisar as informações, o cliente poderá efetuar a
+compra. O contratante deverátestar algumas operações do
+sistema antes de ele ser finalizado. Há tempo suficiente
+para que o analista atenda a essa solicitação e efetue
+eventuais modificações exigidas pelo contratante.
+Com relação a essa situação, julgue os itens a seguir
+quanto ao modelo de ciclo de vida.
+| Oentendimento do sistema como um todo e a execução
+sequencial das fases sem retorno produzem um sistema
+que pode ser validado pelo contratante.
+Il A elaboração do protótipo pode ser utilizada para
+resolver dúvidas de comunicação, o que aumenta os
+riscos de inclusão de novas funcionalidades não-
+prioritárias.
+Ill A definição das restrições deve ser a segunda fase a
+ser realizada no desenvolvimento do projeto,
+correspondendo à etapa de engenharia.
+Um processo iterativo permite que versões progressivas
+mais completas do sistema sejam construídas e
+avaliadas.
+Estão certos apenas os itens
+lell.
+lei,
+lei.
+INelv.
+Melv
+cogçcoo
+
+QUESTÃO 12
+Uma pizzaria fez uma ampliação de suas
+instalações e o gerente aproveitou para melhorar o sistema
+informatizado, que era limitado e não atendia a todas as
+funções necessárias. O gerente, então, contratou uma
+empresa para ampliar o software. No desenvolvimento do
+novo sistema, a empresa aproveitou partes do sistema
+antigo e estendeu os componentes de maneira a usar
+código validado, acrescentando as novas funções
+solicitadas.
+Que conceito de orientação a objetos está descrito na
+situação hipotética acima?
+sobrecarga
+herança
+sobreposição
+abstração
+mensagem
+cogcgoo
+
+QUESTÃO 13
+Com relação ao diagrama acima, assinale a opção correta.
+O Paraeconomizartempo e memória, as mensagens de
+retorno 7: dados €& 15: dados poderiam ser
+mescladas em uma única mensagem.
+O objeto controlador Acesso Utiliza uma estrutura
+de repetição para verificar os atributos de acesso a um
+arquivo.
+Amensagem5: obteraACL( ) podelevaràrepetição
+da chamada 4: lerPermissao( ).
+Sempre que um aplicativo fizer uma leitura, será
+construído e destruído um objeto Controlador
+Acesso.
+A mensagem 3: preparar ( ) ocorre
+simultaneamente (em paralelo) à mensagem 4:
+lerpermissao( ).
+o
+
+QUESTÃO 16
+O rational unified process (RUP) é um processo de engenharia de
+software cujo objetivo é assegurar a produção de software de alta
+qualidade, satisfazendo as necessidades dos usuários no prazo e nos
+custos previstos. O RUP contém uma estrutura que pode ser
+adaptada e estendida, pois é formado por duas estruturas principais,
+denominadas dimensões, que representam os aspectos dinâmicos
+e estáticos do processo. O aspecto dinâmico é expresso em ciclos,
+fases, iterações e marcos. O estático, por sua vez, contém as
+disciplinas, os fluxos, os artefatos e os trabalhadores. Com base na
+iteração do RUP, julgue as asserções a seguir.
+A cada iteração das fases do RUP, geram-se ou não artefatos de
+software
+porque
+os artefatos produzidos dependem da ênfase que é dada a cada
+disciplina.
+Assinale a opção correta.
+O Asduas asserções são proposições verdadeiras, e a segunda é
+uma justificativa correta da primeira.
+As duas asserções são proposições verdadeiras, mas a segunda
+não é justificativa correta da primeira.
+A primeira asserção é uma proposição verdadeira, e a segunda,
+uma proposição falsa.
+A primeira asserção é uma proposição falsa, e a segunda, uma
+proposição verdadeira.
+Tanto a primeira quanto a segunda são proposições falsas.
+o oO Oo o
+
+QUESTÃO 15
+O conceito de máquina virtual (MV) foi usado na década de 70
+do século passado no sistema operacional IBM System 370.
+Atualmente, centros de dados (datacenters) usam MVs para migrar
+tarefas entre servidores conectados em rede e, assim, equilibrar
+carga de processamento. Além disso, plataformas atuais de
+desenvolvimento de software empregam MVs (Java, .NET). Uma MV
+pode ser construída para emular um processador ou um computador
+completo. Um código desenvolvido para uma máquina real pode ser
+executado de forma transparente em uma MV.
+Com relação a essas informações, assinale a opção correta.
+O O conceito de transparência mencionado indica que a MV
+permite que um aplicativo acesse diretamente o hardware da
+máquina.
+O Umadas vantagens mais significativas de uma MV é a economia
+de carga de CPU e de memória RAM na execução de um
+aplicativo.
+O Uma MV oferece maior controle de segurança, uma vez que
+aplicativos são executados em um ambiente controlado.
+O Para emular uma CPU dual-core, uma MV deve ser instalada e
+executada em um computador com CPU dual-core.
+O ComoumaMV não é uma máquina real, um sistema operacional
+nela executado fica automaticamente imune a vírus.
+
+QUESTÃO 14
+SUBROTINA xis()
+i=o0o
+ENQUANTO (i < Gn) FACA
+i=si+1l
+SE (calc(i) <= Gn)
+f1(i)
+SENAO
+f2(i)
+FIM SE
+FIM ENQUANTO
+Imprima ("ok")
+FIM SUBROTINA
+ENTAO
+Com relação ao código acima, considere que:
+» avariáveli é local e a variável cn é global;
+» não há nenhum tipo de documentação ou
+código fonte além do mostrado;
+» asubrotinaxis () faz parte de um programa;
+» ocritério de aceitação do teste é: a subrotina
+xis() não entra em laço infinito.
+Na situação apresentada, é correto
+| aplicar testes de caixa branca às rotinas
+calc(), f1() ef2() e, em seguida, usar o
+resultado para fazer um teste de mesa da
+subrotina xis ().
+Il aplicar testes de caixa preta que forcem a
+chamada a xis()
+e depois medir a
+porcentagem de sucesso da subrotinaxis ().
+Ill aplicar testes de caixa preta isoladamente ao
+código objeto das sub-rotinas calc(), f1()
+er2() antes de aplicar um teste que envolva
+a subrotina xis ().
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+6 o0Oogooeo
+Todos os itens estão certos.
+
+QUESTÃO 17
+Os alunos de uma disciplina deveriam
+escolher um sistema de média complexidade,
+contendo no mínimo 100 funcionalidades, para
+ser modelado em UML e codificado em uma
+linguagem orientada a objetos. Um dos grupos
+de alunos estabeleceu a seguinte estratégia para
+identificação e seleção do sistema.
+| Cada integrante do grupo deveria criar um
+nickname (apelido) em um software de chat.
+Il O grupo deveria se reunir em um horário
+predeterminado.
+Ill Durante o chat, os seguintes procedimentos
+deveriam ser realizados:
+* cada integrante deveria sugerir um ou
+mais sistemas e justificar sua escolha, e
+não poderia criticar as idéias dos outros;
+* —àmedidaqueas idéias fossem digitadas,
+o líder deveria copiá-las para um editor de
+texto e controlar o tempo de sugestão;
+* —quandoolimite de tempo fosse atingido,
+o líder disponibilizaria todas as sugestões
+para serem analisadas pelo grupo;
+* as5melhores idéias seriam selecionadas
+e colocadas em votação para a escolha
+da melhor idéia,
+predefinidos.
+segundo critérios
+Nessa situação, a estratégia utilizada pelo grupo
+de alunos é uma adaptação da técnica de
+levantamento e elicitaçção de requisitos
+denominada
+O joint application design.
+O PIECES
+economia controle eficiência e serviços).
+O facilitaded
+techniques.
+(perfomance informação/dados
+application — specification
+O entrevista.
+O brainstorming.
+
+QUESTÃO 18
+Uma indústria de alimentos compra sementes de vários
+fornecedores. No recebimento das cargas, as sementes passam por
+uma operação de classificação por cor, em uma esteira adquirida do
+fabricante MAQ,
+processamento de imagens. Na etapa seguinte do processo, as
+equipada com sensores e sofiware de
+sementes são separadas em lotes, pelo critério de tamanho, e são,
+então, empacotadas. A separação dos lotes é realizada por um
+mecanismo robótico, controlado por computador e que, pelo fato de
+sofrer contínuo desgaste, necessita ser substituído a cada
+1.000 horas de uso. Durante a última troca, em razão da
+indisponibilidade do equipamento produzido pela empresa MAQ, a
+indústria instalou, com sucesso, um equipamento robótico similar.
+Considerando o processo descrito, julgue os itens a seguir,
+relacionados aos fatores de qualidade.
+| Asoperações de classificação e separação de sementes se inter-
+relacionam e não podem falhar, pois essa falha acarretaria
+prejuízos. O atributo de qualidade correspondente a essas
+operações, e que deve ser observado pelo software, é a
+interoperabilidade.
+Ill Caso o responsável pela instalação do sistema robotizado não
+tenha encontrado dificuldade em fazê-lo comunicar-se com o
+equipamento de outra marca, é correto concluir que o sistema que
+controla o robô é portável.
+UU
+A maneira como ocorre a interação com o sistema computacional
+sugere que alguns requisitos, como ergonomia, sejam observados
+na interface. Por isso, é correto concluir que o software utilizado
+pela indústria contempla o fator denominado usabilidade.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+o ocecooeo
+Todos os itens estão certos.
+
+QUESTÃO 19
+Uma instituição de auxílio a desabrigados tem a preocupação
+de fornecer uma alimentação equilibrada a seus pensionistas. Para
+atingir esse objetivo, decidiu empregar um sistema informatizado e
+contratou um analista para projetá-lo. O analista, que deveria
+empregar UML na modelagem do sistema, recebeu as informações
+a seguir acerca das refeições.
+» Café da manhã: dois tipos de carboidrato, duas vitaminas e duas
+proteínas.
+» "Almoço: dois tipos de carboidrato e de proteínas, quatro tipos de
+vitamina e um tipo de lipídio.
+» Jantar: um tipo de carboidrato, uma proteína e uma vitamina.
+Cada tipo de alimento deve ser acompanhado por seu nome,
+sua porção recomendável, por refeição, e seu valor calórico, por
+porção. O cálculo para descobrir a quantidade de calorias para cada
+pensionista é dado pelo produto do fator de atividade (FA) pela taxa
+de metabolismo basal (TMB). Esses dois valores são obtidos nas
+tabelas | e |l a seguir.
+O cardápio de cada pensionista deve ser
+gerado, a cada dia, com base no cálculo da
+quantidade de calorias recomendada para cada
+um deles e, depois, deve ser encaminhado para
+a cozinheira.
+Considerando as necessidades da instituição no
+que se refere ao cardápio diário e a aspectos da
+modelagem conceitual com UML, julgue os itens
+a seguir, acerca da classe Refeição.
+| Para o cálculo do TMB, são precondições
+que a idade seja um valor maior do que 30
+anos e que seja relacionada uma das
+descrições da tabela || para o valor de FA.
+Ill Essa classe tem um método denominado
+montarCardápioDiário() que será
+sobrescrito nas subclasses.
+Ill Suas subclasses não implementam o método
+para calcular a quantidade de calorias,
+utilizando a implementação já definida na
+classe pai.
+IV Essa classe possui associações um-para-um
+Com aclassePensionista e agregação com
+a classe Alimento.
+V O conceito de acoplamento é um critério
+importante durante a modelagem da classe
+Refeição, pois diminui a quantidade de seus
+relacionamentos, o que contribui para o seu
+reúso.
+Estão certos apenas os itens
+lell.
+lelv.
+lei.
+WMev.
+IWVev.
+6 0o0coeo
+
+QUESTÃO 20
+Algoritmo ENADE2008
+variaveis
+V[0..4] € (2,0,4,3,1): inteiro
+I1,I,A inteiro
+inicio
+para I € O ate 3 passo 1 faca
+para J € O ate 3-I passo 1 faca
+se (V[J] > V[J+1] ) entao
+9 A € VII)
+10 VvIJ] € VII+1]
+11 VIJ+1] € A
+12 fim se
+13 escreva V[0],V[1],V[2],V[3],V[4]
+14 fim para
+15 fim para
+16 fim algoritmo
+Com relação ao algoritmo acima, que manipula um vetor de
+inteiros, julgue os itens a seguir.
+| Quando as variáveis | e J valerem, respectivamente, 0 e
+1, alinha 13 apresentará a sequência de valores 0,2,4,3,1.
+Il Quando as variáveis | e J valerem, respectivamente, 1 e
+O, a linha 13 apresentará a sequência de valores 0,2,3,1,4.
+Ill Quando as variáveis | e J valerem, respectivamente, 1 e
+2, alinha 13 apresentará a sequência de valores 0,2,1,3,4.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+Todos os itens estão certos.
+coçcoo
+
+QUESTÃO 21
+1 Algoritmo ENADEZ2008
+variaveis
+VarA, varB,
+varF : real
+2
+3 inteiro
+4
+5 vars literal
+6
+T
+8
+9
+varC:
+varL logico
+inicio
+varS € “1000”
+vara € 4
+10 varF € 3.5
+11 varc € O
+12 varL € VERDADEIRO
+13 se ((varC < varA) E varL OU (varS > varC)) entao
+14 varB € varF/varA
+15 senao
+16 varB € varA/varC
+17 fim se
+18 fim algoritmo
+O código acima
+O não apresenta erros de nenhum tipo.
+O apresenta erros de atribuição de tipo inválido, divisão por
+zero e expressão relacional inválida.
+O apresenta erros de atribuição de tipo inválido, divisão por
+zero e estrutura condicional.
+O apresenta erros de estrutura condicional e expressão
+relacional inválida.
+O apresenta somente erro de divisão por zero.
+
+QUESTÃO 22
+1 funcao busca (V[0..9]
+2 variaveis
+: inteiro, K : inteiro): inteiro
+3 C, F, K, M : inteiro
+4 inicio
+5 F€S
+6 LA
+7 enquanto((V[M] <> K) ou (F > C))
+8 Lo]
+9 se(K < V[M]) entao
+10 F€M-1;
+11 senao
+12 Ue———-—
+13 fim enquanto
+14 se(vV[M] <> K)
+15 retorne (0)
+16 senao
+17 retorne (M)
+18 fim se
+19 fim
+entao
+O algoritmo representado pelo pseudocódigo
+acima está incompleto, pois faltam 3 linhas de código. À
+função busca desse algoritmo recebe um vetor ordenado
+de forma crescente e um valor a ser pesquisado. A partir
+disso, essa função verificará se o número armazenado
+no ponto mediano do vetor é o número procurado. Se for
+o número procurado, retornará o índice da posição do
+elemento no vetor e encerrará a busca. Se não for, a
+função segmentará o vetor em duas partes a partir do
+ponto mediano, escolherá o segmento no qual o valor
+procurado está inserido, e o processo se repetirá.
+A partir dessas informações, assinale a opção que
+contém os comandos que completam, respectivamente,
+as linhas 6, 8 e 12 do algoritmo.
+
+QUESTÃO 25
+Durante as eleições o eleitor deverá
+comparecer à sua seção e zona, munido de um
+documento válido. Ao chegar ao local, apresenta o
+documento ao mesário, que verifica se o eleitor
+está apto a votar. Caso afirmativo, o mesário
+informa ao sistema o número do título de eleitor. O
+sistema valida o título e habilita o voto eletrônico
+para o eleitor. O eleitor informa os números de seus
+candidatos, podendo anular ou confirmar seu voto.
+Ao final do dia, termina o processo eleitoral da
+seção, o mesário finaliza o sistema, que gera os
+dados em tela ou em papel do resultado da urna,
+listando os votos para cada candidato. A totalização
+das urnas ocorre em um processo distinto em que
+o resultado final da eleição é apresentado à
+população.
+Partindo dessa descrição, assinale a opção correta
+que corresponde à modelagem conceitual,
+utilizando diagrama de caso de uso com UML.
+O verificar o Documento do eleitor e
+Habilitar o Voto Eletrônico Sãocasosde
+uso.
+O No processo eleitoral da seção, os atores são:
+Eleitor, Mesário E População.
+O O caso de uso Informar Título tem uma
+associação do tipo <<extends>> Com O Caso
+de uso Validar Título.
+O Ocasode uso Informar Número Candidato
+tem uma associação do tipo <<extends>>
+com os casos de uso Anular Voto e
+Confirmar Voto.
+O Gerar Dados em Tela E Gerar Dados em
+Papel têm uma associação do tipo
+<<implements>> Com O caso de uso Gerar
+Dados.
+
+QUESTÃO 23
+Com relação à forma como o RUP trata a análise de requisitos,
+assinale a opção correta.
+o
+A análise de requisitos ocorre na fase de construção, quando
+são descritos todos os casos de uso, e em seguida modelados
+por meio de diagramas de casos de uso UML.
+A análise de requisitos ocorre na fase de elaboração, em que
+são feitas entrevistas com usuários e definição do escopo do
+projeto.
+A maior parte da análise de requisitos ocorre durante a fase de
+elaboração.
+Por se tratar de um processo iterativo e evolutivo, a análise de
+requisitos ocorre na fase de construção juntamente com a
+programação, o que permite que os requisitos sejam revistos.
+A análise de requisitos deve acontecer antes da programação
+e testes do sistema, não podendo sofrer alterações a partir do
+momento que estejam definidos.
+
+QUESTÃO 24
+A figura acima mostra um diagrama de
+o
+o
+comunicação, pois modela o comportamento do sistema e
+ilustra as interações entre atores e objetos.
+estados, pois apresenta os possíveis estados do objeto urna
+eletrônica, além dos eventos que dão início à transição de
+um estado para outro.
+estados, pois, a partir de um estado inicial, descreve a
+sequência de possíveis estados que todos os objetos podem
+assumir.
+atividades, pois as ações ilustram a forma como o ator
+Eleitor interage com os objetos em um caso de uso.
+atividades, pois modela o fluxo de controle de um processo
+composto por ações sequencias e paralelas partindo de um
+estado inicial.
+
+QUESTÃO 29
+Considere a sentença a seguir.
+Se Maria for ao aniversário, João irá e ficará feliz,
+mas Maria ficará infeliz, ou, se João não for ao
+aniversário, Maria irá e ficará feliz, mas João ficará
+infeliz.
+Considere as seguintes proposições: P: João vai ao
+aniversário; Q: Maria vai ao aniversário; R: João
+feliz; e S: Maria feliz. Assinale a opção que contém
+fórmula de lógica proposicional com uma
+representação válida para a sentença proposta.
+Quanto à notação dos operadores, considere:
+junção = A; disjunção = V; negação = =;
+implica = >.
+((Q>(PAR)) >7S) V(P>(QAS))>R)
+((PQ>(PAR))>S)V((P>(QAS))>-R)
+((Q>(PAR)) >78S) V((7P>(QAS)) > R)
+(PQ (PAR)) >7S) V((7P>(QAS)) > R)
+(Q> (PAR) >S) V((P>(QNAS))>R)
+(
+(
+cogcoo
+
+QUESTÃO 28
+A B
+A figura acima mostra 3 conjuntos — A, B e C —
+em que cada conjunto é representado, no diagrama
+de Venn, por um círculo no plano. Com relação aos
+conjuntos A, B e C, julgue os seguintes itens.
+| AUB=O
+Il A-(Bn C)=(A-B)n(A-C)
+MAN(BUC)=(AnB)U(AnC)
+IVANA=O
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e || estão certos.
+Apenas os itens || e Ill estão certos.
+Apenas os itens Ill e IV estão certos.
+Apenas os itens Il, Ill e IV estão certos.
+cocos
+
+QUESTÃO 26
+Os métodos de projeto e análise de algoritmos são necessários
+para o desenvolvimento de algoritmos eficientes, pois eles
+permitem que se resolva problemas computacionais, reduzindo
+complexidade e tempo de execução. Acerca desses métodos,
+assinale a opção incorreta.
+o
+A abordagem de Divisão e Conquista propõe dividir o
+problema em vários subproblemas, resolvendo-os e
+combinando suas soluções para criar a solução final do
+problema original.
+AProgramação Dinâmica é umatécnicatipicamente aplicada
+a problemas de otimização em que pode haver várias soluções
+possíveis.
+O método Guloso nem sempre encontra a solução ótima,
+mas faz sempre a melhor escolha momentânea.
+A Programação Dinâmica € O Método Guloso têm em
+comum o fato de que se aplicam a problemas em que se
+observa a existência de sobreposição de subproblemas, ou
+seja, subproblemas que se repetem.
+Os métodos de Divisão e Conquista & Programação
+Dinâmica apresentam a mesma eficiência quando resolvem
+problemas “combinando soluções de subproblemas
+dependentes uns dos outros.
+
+QUESTÃO 27
+Os termos da sequência de Fibonacci são definidos por:
+Fibonacci (0)
+Fibonacci (1)
+Fibonacci (n)
+Uma solução
+o
+1
+Fi
+WA
+bonacci (n-1) + Fibonacci (n-2)
+recursiva para o cálculo do jésimo termo da
+sequência é dada pela função a seguir.
+JOUsQNHE
+funcao fibonacci (inteiro longo n)
+se((n=0) OU (n=1)) entao
+retorne n
+senao
+retorne fibonacci(n-l1) + fibonacci (n-2)
+fim se
+fim
+Acerca da execução recursiva dessa função, assinale a opção
+incorreta.
+o
+o
+À medida que o valor de n cresce, há um aumento no número
+de chamadas recursivas.
+Na linha 4, a ordem de execução é calcular o valor para
+fibonacci(n-1) e somente depois calcular o valor para
+fibonacci (n-2)
+O método recursivo é o mais eficiente para o cálculo do
+i-ésimo termo da sequência de Fibonacci, pois realiza duas
+chamadas por passo da recursão, cada uma mais simples do
+que a chamada original.
+As condições de parada da recursão são: o valor de n é O ou
+o valor de né 1.
+O uso da recursão para o problema da série de Fibonacci não
+é indicado, pois ele gera rapidamente uma explosão de
+chamadas do método.
+
+QUESTÃO 33
+Após atuar como programador em uma
+empresa de desenvolvimento de software por
+aproximadamente 10 anos, um funcionário que se
+destacou por nunca atrasar um cronograma foi
+nomeado gerente de projetos. Ao assumir o
+primeiro projeto, o funcionário foi informado que
+sua principal responsabilidade era a realização da
+entrega conforme o cronograma estabelecido no
+contrato. Para o gerenciamento de tempo, o
+gerente de projetos irá utilizar o PMBOK.
+Considerando essa situação, é correto afirmar que
+o gerente de projetos deverá coordenar processos
+de
+A planejamento, garantia e controle da
+qualidade.
+B definição e seqüenciamento de atividades,
+estimativa de recursos e duração da atividade,
+desenvolvimento e controle do cronograma.
+C planejamento, definição, verificação e controle
+do escopo.
+D estimativa de custos, realização do orçamento
+e controle de custos.
+E planejamento de compra e contratações,
+seleção de fornecedores e encerramento do
+contrato
+
+QUESTÃO 32
+Com relação a conceitos de orientação a objetos,
+julgue os seguintes itens.
+| As variáveis ou métodos declarados com
+modificador de acesso private só são
+acessíveis a métodos da classe em que são
+declarados.
+Il Uma classe deve possuir
+declaração de método construtor.
+Ill Uma instância de uma classe abstrata herda
+atributos e métodos de sua superclasse direta.
+IV O polimorfismo permite substituir a lógica
+condicional múltipla (lógica switch ou faça
+caso).
+uma única
+Estão certos apenas os itens
+lell.
+le.
+lelv.
+Nell.
+Ielv.
+
+QUESTÃO 30
+CREATE TABLE JOGADOR
+NOME VARCHAR (25)
+SENHA VARCHAR (6)
+PRIMARY KEY
+(PSEUDONIMO VARCHAR (10)
+NOT NULL,
+NOT NULL,
+(PSEUDONIMO) ) ;
+NOT NULL,
+CREATE TABLE NIVEL (NIVEL NUMERIC (3)
+NOMEPSEUD VARCHAR (10) NOT NULL,
+PONTOS NUMERIC(5) NOT NULL,
+BONUS NUMERIC(5) NOT NULL,
+PRIMARY KEY (NIVEL, NOMEPSEUD),
+FOREING KEY (NOMEPSEUD) REFERENCES PSEUDONIMO);
+NOT NULL,
+A partir do script SQL de criação de um banco de dados acima,
+assinale a opção que apresenta comando SQL que permite obter
+uma lista em ordem decrescente de quantidade de bônus e que
+contenha somente o pseudônimo do jogador e seu bônus.
+O SELECT NOME BONUS,
+NIVEL .BONUS DESC
+O sELECT * FROM
+JOGADOR. PSEUDONIMO =
+NIVEL .BONUS DESC
+O SELECT NOME, BONUS
+JOGADOR.PSEUDONIMO =
+NIVEL .BONUS DESC
+O SELECT NOME, PONTOS FROM JOGADOR,
+JOGADOR. PSEUDONIMO =NIVEL.NOMEPSEUD
+NIVEL .BONUS DESC
+O SELECT DISTINCT NOME, PONTOS FROM JOGADOR, NIVEL
+WHERE JOGADOR.PSEUDONIMO = NIVEL.NOMEJOGADOR ORDER
+BY NIVEL.BONUS DESC
+FROM JOGADOR, NIVEL ORDER BY
+JOGADOR, NIVEL
+NIVEL .NOMEPSEUD
+WHERE
+ORDER BY
+FROM JOGADOR,
+NIVEL .NOMEPSEUD
+NIVEL WHERE
+ORDER BY
+NIVEL WHERE
+ORDEY BY
+
+QUESTÃO 31
+O plano de negócios, mais do que um documento de elaboração
+das ações de implementação de um novo empreendimento, serve
+como documento que estabelece o relacionamento entre
+empreendedores e investidores. O conhecimento de características
+dos atores envolvidos nessa relação interfere diretamente na
+elaboração do plano de negócios. Considerando os papéis do
+empreendedor, do investidor e de conceitos de fatores envolvidos
+na elaboração do plano de negócios, assinale a opção correta.
+O O verdadeiro empreendedor cria um negócio diante de uma
+oportunidade e procura, o mais breve possível, vendê-lo para
+um grupo de investidores.
+O Investidores inteligentes consideram, ao analisar onde investir,
+que projeções financeiras mês a mês para um período maior
+que um ano constituem um dos fatores que garante o sucesso
+de um novo empreendimento.
+O Oempreendedor é uma pessoa à procura de riscos, que diante
+de uma nova oportunidade de empreendimento transfere todos
+OS riscos para si.
+O As pessoas, as oportunidades, o contexto e as possibilidades
+de riscos e recompensas são quatro fatores fundamentais, que
+devem ser considerados para o sucesso de um novo
+empreendimento.
+O Um plano de negócios deve ser criado seguindo uma fórmula
+de sucesso preestabelecida apresentada em livros da área
+administração e implementada em aplicativos.
+
+QUESTÃO 34
+Um mercado que comercializa alimentos
+hortifrutigranjeiros faz compras diárias de diversas
+fazendas e enfrenta prejuízos decorrentes da falta
+de controle relacionada ao prazo de validade de
+seus produtos. Para resolver esse problema, o
+proprietário resolve investir em informatização,
+que proporcionará o controle do prazo de validade
+a partir da data da compra do produto. A
+modelagem de dados proposta pelo profissional
+contratado apresenta três tabelas, ilustradas a
+seguir, sendo que o atributo código nas tabelas
+Produto E Fazenda São UNnÍvocos.
+A partir das informações acima, é correto concluir
+que
+O orelacionamento entre as tabelas Produto e
+Estoque É do tipo um-para-muitos.
+O o campo Produto na tabela Estoque não
+pode fazer parte da chave nesta tabela e
+corresponde ao campo Descrição na tabela
+Produto.
+O ocampo razenda na tabela Estoque deverá
+ser a chave primária nesta tabela e
+corresponde ao campo código na tabela
+Fazenda.
+O ocampo código é chave primária na tabela
+Produto e identifica a fazenda fornecedora do
+produto.
+O a tupla (produto, fazenda) deverá ser
+usada como a chave primária da tabela
+Estoque.
+
+QUESTÃO 35
+Uma livraria usa um sistema informatizado para realizar
+vendas pela Internet. Optou-se por um sistema gerenciador de
+banco de dados, no qual aplicaram-se regras de corretude e
+integridade. Cada cliente se cadastra, faz login no sistema e escolhe
+títulos. Os livros são colocados em um carrinho de compras até que
+o cliente confirme ou descarte o pedido. As tabelas do sistema são:
+clientes, livros, carrinho, vendas. Dois clientes acessam o
+sítio no mesmo horário e escolhem alguns livros. O estado do
+sistema nesse instante é representado na tabela seguir.
+A livraria possui um único exemplar do livro Estatística
+básica. O computador usado por Alice sofre uma pane de energia
+antes que ela confirme o pedido. No mesmo instante também ocorre
+uma pane de energia no computador da loja. Em seguida, o
+computador de Alice e o computador da loja voltam a ter energia e
+a funcionar. Ela volta ao sistema e retoma seu carrinho de compras
+intacto.
+Com relação a essa situação, julgue os itens seguintes.
+| A consistência de uma tabela do banco de dados foi violada
+temporariamente, para disponibilizar dois exemplares do livro
+Estatística básica.
+Il Como o pedido de Alice continuou válido apesar da interrupção,
+o sistema gerenciador de banco de dados não emprega
+atomicidade.
+Ill Todas as transações devem ser fechadas depois do retorno da
+energia, para que os clientes possam recuperar seus carrinhos
+de compras.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens | e |l estão certos.
+Apenas os itens | e Ill estão certos.
+Apenas os itens || e Ill estão certos.
+cogoeo
+Nenhum item está certo.
+
+QUESTÃO 36
+Após realizar uma análise de mercado em busca de soluções para aprimorar o seu negócio, uma empresa adquiriu
+um sistema de ERP (enterprise resource planning) contendo um conjunto de módulos que integra todos os departamentos
+existentes. Após um ano de utilização, houve uma mudança na legislação e, para atender as novas exigências, foi
+necessária uma manutenção no sistema ERP.
+Considerando essa situação hipotética, é correto afirmar que a empresa irá realizar uma manutenção
+corretiva.
+adaptativa.
+o
+o
+O aperfeiçoadora.
+O preventiva.
+e
+perfectiva.
+
+QUESTÃO 37
+As comunicações de um software cliente com o respectivo servidor instalado em um equipamento em uma LAN
+(local area network) apresentam lentidão. Após várias reclamações dos usuários, o responsável pelo software e o gerente
+de redes foram convocados para analisar o problema. A partir de uma análise da topologia da rede, foi identificado que
+o departamento possuía 45 microcomputadores clientes na mesma LAN, interligados ao servidor por meio de um único
+hub, conforme ilustrado na figura a seguir. Concluiu-se que o problema de lentidão estava relacionado ao elevado número
+de colisões na LAN.
+servidor
+A solução correta para esse problema hipotético é a substituição do hub por
+O outros4 hubs interligados contendo, cada um, menos portas de conexão, o que resultaria na diminuição do volume
+de colisões na LAN e aumentaria o desempenho da rede.
+o
+um switch, que permitiria a diminuição do volume de colisões e uma melhoria no desempenho da rede.
+O um switch, que traria benefícios relacionados ao desempenho da rede, uma vez que o número de colisões
+permaneceria inalterado.
+o
+um switch, que diminuiria o desempenho da rede, uma vez que aumentaria o volume de colisões.
+O um switch, que aumentaria o volume de colisões e melhoraria o desempenho da rede.
+
+QUESTÃO 38 — DISCURSIVA
+Uma montadora de automóveis produz carros de luxo e esportivos. Um carro é formado de
+várias partes e cada parte pode ser fabricada por diferentes fornecedores. Um gerente ou um
+operador possui permissão para cadastrar partes do carro, desde que ainda inexistentes no
+sistema, e consultar a sua disponibilidade para a fabricação dos carros. Se o estoque dessas partes
+está abaixo do limite mínimo estipulado, o sistema envia um pedido ao respectivo fornecedor.
+Considerando a situação acima, faça o que se pede a seguir.
+A desenhe o diagrama de caso de uso correspondente a situação apresentada. (valor: 5,0 pontos)
+B escolha um caso de uso no diagrama elaborado e descreva-o em termos de ator e fluxo principal. (valor: 2,0 pontos)
+C descreva um tratamento de exceção para cada caso de uso do diagrama elaborado. (valor: 3,0 pontos)
+
+QUESTÃO 39 — DISCURSIVA
+Uma montadora de automóveis produz carros de luxo e esportivos. Um carro tem marca,
+modelo, chassi e ano de fabricação. As partes de um carro possuem características como: nome,
+quantidade, cor e preço. Um fornecedor da montadora tem CNPJ e razão social. O carro de luxo
+possui sistema GPS; o carro esporte não possui sistema GPS e somente pode ser fabricado na cor
+vermelha.
+Com base nessa situação, faça o que se pede a seguir.
+A Identifique e escreva o nome das classes correspondentes à situação apresentada. (valor: 2,0 pontos)
+B Desenhe o diagrama de classes, contendo somente os nomes das classes e seus relacionamentos.
+(valor: 3,0 pontos)
+RASCUNHO — QUESTÃO 39-B
+
+
+ENADE:
+
+C Identifique e escreva para as classes seus atributos e métodos, utilizando os símbolos de visibilidade proposto na
+UML. Os métodos devem estar com sua assinatura completa e obedecerem as regras de encapsulamento da
+orientação a objetos.
+
+QUESTÃO 40 — DISCURSIVA
+Algoritmo MatrizENADE2008
+variaveis
+MIO..2][0..3], 1, SJ, C : inteiro
+inicio
+c€o
+para I <c O ate 2 passo 1 faca
+inicio
+para J <c€ O ate 3 passo 1 faca
+inicio
+10 c€ cr
+11 MII)IS)] € c
+12 fim para
+13 fim para
+14 para L CC oate2 passo 1 faca
+15 inicio
+16 para J € o0oatéi passo 1 faca
+17 inicio
+18 c € mí2-1] [3-0]
+19 MITO] € c
+20 fim para
+21 fim para
+22 fim algoritmo
+Considerando a execução do algoritmo apresentada acima, faça o que se pede a seguir.
+A Apresente os dados da matriz M ao término da execução da linha 12. (valor: 4,0 pontos)
+
+B Apresente os dados da matriz M ao término da execução da linha 19. (valor: 6,0 pontos)
+

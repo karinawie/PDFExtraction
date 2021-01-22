@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-25T22:01:46</Created>
+	<LastChange>2021-01-19T13:06:13</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="125,343 126,720 813,719 812,342"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="114,1214 114,1478 835,1477 835,1213"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="886,276 1076,276 1076,332 1553,332 1553,862 1552,862 1552,1118 1553,1118 1553,1372 1552,1372 1552,1819 1553,1819 1553,2119 937,2119 937,2120 936,2120 936,1840 886,1840 886,1819 936,1819 936,1606 886,1606 886,1398 936,1398 936,1139 886,1139 886,863 885,863 885,332 886,332"/>
+	<TextEquiv conf="0.96756">
+	<Unicode>QUESTÃO 22
+A literatura que trata dos efeitos da microestrutura sobre
+as propriedades mecânicas dos materiais metálicos
+policristalinos estabelece uma relação entre o tamanho
+médio de grão e o limite de escoamento (Fy) — relação
+de Hall-Petch. Com base nesses conceitos, foram
+desenvolvidas técnicas de processamentos
+termomecânicos, como, por exemplo, a laminação
+controlada, que visam o refino de grão de aços
+estruturais, em que os requisitos de resistência
+mecânica e tenacidade são essenciais na especificação
+desses produtos. Acerca dessa relação, assinale a
+opção correta.
+A Nos materiais monofásicos, o limite de escoamento
+(Fy) cresce com a raiz quadrada do tamanho médio
+de grão.
+B Quando o material apresenta grãos de fases
+diferentes, com características microestruturais
+muito distintas, é possível adotar uma expressão do
+tipo “regra das misturas”, utilizando a equação de
+Hall-Petch para cada uma das fases na proporção
+da fração em volume de cada fase.
+C A equação de Hall-Petch aplica-se apenas aos
+materiais com grãos completamente recristalizados
+e que apresentem distribuição uniforme de
+tamanhos.
+D É possível adotar um tamanho de grão equivalente
+na equação de Hall-Petch, desde que uma fração
+dos grãos de uma mesma fase não apresente
+subestrutura de discordâncias para formação de
+subgrãos.
+E O tamanho médio dos grãos na relação de HallPetch representa o efeito dos contornos dos grãos
+como barreira à movimentação das discordâncias.
+Portanto, quanto maior é o tamanho médio de grão,
+maior é o número de contornos por unidade de
+volume e, assim, maior é o número de barreiras à
+movimentação das discordâncias</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="101,276 288,276 288,725 813,725 813,759 846,759 846,1099 703,1099 703,1523 846,1523 846,1675 353,1675 353,1732 331,1732 331,2138 153,2138 153,2133 101,2133 101,1732 100,1732 100,1711 101,1711"/>
+	<TextEquiv conf="0.95805">
+	<Unicode>QUESTÃO 21
+Aero Magazine, ano 13, n.º 145, junho de 2006.
+Durante uma turbulência, um trecho da superfície externa da
+parte superior da asa de um avião, indicado na figura, estará
+sujeito a solicitações mecânicas de tração e de compressão
+na direção ortogonal ao eixo principal da aeronave. Tais
+solicitações ocasionam fadiga cíclica no elemento de
+superfície considerado. Considere os três tipos de diagramas
+de solicitações a seguir (tensão normal x tempo).
+Considerando que a tensão na região indicada na figura seja
+nula no caso de um vôo sem turbulência, qual(is) dos
+diagramas acima descreveria(m) melhor a situação em um
+vôo sob turbulência?
+A A, apenas.
+B B, apenas.
+C C, apenas.
+D A e B, apenas.
+E B e C, apenas</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10">
+	<Coords points="857,262 857,2142 868,2142 868,262"/></SeparatorRegion></Page></PcGts>

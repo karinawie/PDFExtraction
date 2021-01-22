@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T02:40:08</Created>
+	<LastChange>2020-09-22T02:40:45</LastChange></Metadata>
+	<Page imageFilename="prova.agronomia-12.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="821,257 821,2077 834,2077 834,257"/></SeparatorRegion>
+	<TableRegion id="r1">
+	<Coords points="154,1182 154,1371 731,1371 731,1182"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="848,922 848,1354 1582,1354 1582,922"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,260 273,260 273,300 802,300 802,896 80,896 80,548 79,548 79,522 80,522"/>
+	<TextEquiv conf="0.96846">
+	<Unicode>QUESTÃO 24
+Com a utilização de imagens de satélite é possível realizar o
+imageamento sinótico e periódico da superfície terrestre e,
+consequentemente, o levantamento e monitoramento de
+recursos naturais, inclusive dos solos, aliando rapidez e
+precisão a um custo relativamente baixo. Vários pesquisado-
+res já demonstraram ser possível o estudo do uso da terra,
+cobertura vegetal e classificação de solo, com respectiva área
+de mapeamento, em diferentes locais do país.
+O uso destas técnicas é possível porque
+(A) cada forma de relevo apresenta um esboço geomorfológico
+elaborado porém não diferenciável.
+(B) os teores de matéria orgânica dos solos causam um
+aumento expressivo na sua capacidade de refletir.
+(C) nos solos, a textura e a quantidade de partículas diferen-
+tes têm influência na resposta espectral.
+(D) tais técnicas fornecem informações acerca da espessura
+dos horizontes diagnósticos.
+(E) permitem realizar a classificação dos solos sem a neces-
+sidade de descrição do perfil no local.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="80,927 273,927 273,965 802,965 802,1380 803,1380 803,2068 80,2068 80,1671 79,1671 79,965 80,965"/>
+	<TextEquiv conf="0.96571">
+	<Unicode>QUESTÃO 25
+Adisponibilidade total de água de um solo (DTA), em mm/cm
+de solo, é dada pela expressão: DTA = Da (Cc — Pm)/10,
+em que Cc é a capacidade de campo, Pm é o ponto de
+murchamento, ambos em % do peso do solo, e Da é a
+densidade aparente do solo, em g/cm?. A DTA geralmente
+aumenta à medida que a textura do solo diminui, conforme
+pode ser visto no quadro a seguir.
+Para se chegar ao valor da irrigação total necessária (ITN),
+o valor da DTA deve ser multiplicado pela profundidade do
+sistema radicular, em cm (Z), e por um fator de disponibilidade
+(f), e dividido pela “eficiência de aplicação da irrigação” (Ea).
+O fator de disponibilidade varia conforme a sensibilidade de
+cada cultura e a demanda evapotranspirométrica, sendo, em
+geral, baixo para olerícolas (0,2 a 0,6), médio para fruteiras e
+forrageiras (0,3 a 0,7), e alto para grãos (0,4 a 0,8). Sendo
+assim, afirma-se que
+(A) em solos arenosos e com cultivos de olerícolas, a
+irrigação total necessária será maior.
+(B) em um solo onde Cc = 25%, Pm = 15%, Da = 1,2, com
+uma cultura com profundidade de raízes Z= 50 cm e fator
+f=0,6, e considerando um equipamento com uma eficiên-
+cia de 60% (0,6), a irrigação total necessária será 70 mm.
+(C) solos argilosos e culturas com maiores profundidades de
+raízes exigirão maiores ITN.
+(D) quanto maior a eficiência de aplicação de irrigação,
+menor deverá ser a profundidade média das raízes.
+(E) quanto maior a eficiência de aplicação de irrigação maior
+deverá ser a profundidade média das raízes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="851,262 1045,262 1045,308 1573,308 1573,452 1470,452 1470,623 1520,623 1520,649 862,649 862,650 861,650 861,649 852,649 852,452 851,452"/>
+	<TextEquiv conf="0.96468">
+	<Unicode>QUESTÃO 26
+De acordo com a Instrução Normativa Nº 007/99 do MAPA,
+na produção orgânica de espécies olerícolas, que produtos
+são passíveis de uso como fertilizantes orgânicos, sem
+necessitar de autorização da certificadora?
+(A) Vermicomposto, biofertilizante, FTE-BR12.
+(B) Vermicomposto, biofertilizante, adubação verde.
+(C) Adubação verde, pó de osso, FTE-BR12.
+(D) Biofertilizante, resíduos industriais, pó de osso.
+(E) Biofertilizante, adubação verde, resíduos industriais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r50" type="paragraph">
+	<Coords points="851,696 1045,696 1045,742 1574,742 1574,886 1572,886 1572,1412 1574,1412 1574,2069 852,2069 852,2070 851,2070 852,2070 852,1397 851,1397"/>
+	<TextEquiv conf="0.96738">
+	<Unicode>QUESTÃO 27
+Para a produção comercial de hortênsias utilizou-se a multipli-
+cação de estacas de diferentes posições no ramo, com o uso
+de diferentes substratos, obtendo-se diferentes porcentagens
+de enraizamento, como apresentado na tabela a seguir.
+Considerando os dados acima, assinale a afirmativa correta.
+(A) Estacas das partes mediana e apical da planta diferiram
+estatisticamente entre si quanto ao enraizamento porque
+as primeiras apresentam maior facilidade de absorção de
+umidade.
+(B) Estacas da parte basal da planta obtiveram enraizamento
+estatisticamente superior em relação às demais, sendo
+este o tipo de estaca mais indicado pela sua facilidade de
+absorção de umidade.
+(C) O enraizamento foi influenciado pela posição da estaca
+nos ramos em associação com o tipo de substrato.
+(D) A areia foi o substrato que proporcionou maior porcenta-
+gem de enraizamento das estacas em relação aos
+demais, sendo um material vantajoso pela boa drenagem
+e aeração das raízes.
+(E) A terra foi inferior à vermiculita com relação à porcenta-
+gem de enraizamento das estacas, em virtude de propor-
+cionar menor drenagem e aeração de raízes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

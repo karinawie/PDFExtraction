@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-23T04:50:53</Created>
+	<LastChange>2020-11-17T00:26:39</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="110,754 110,1151 792,1150 792,753"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="120,1198 120,1685 798,1684 798,1197"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="845,1214 845,1591 1591,1591 1591,1214"/></ImageRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="81,190 541,190 541,261 805,261 805,686 82,686 82,687 81,687"/>
+	<TextEquiv conf="0.96630">
+	<Unicode>Texto para as questões 13 e 14.
+As duas figuras abaixo mostram uma representação da
+Terra iluminada pelo Sol. As duas figuras correspondem ao
+1º dia do verão no hemisfério sul. A primeira foi obtida
+às 9h da manhã com relação ao meridiano de Greenwich
+(GMT — Greenwich Mean Time). A segunda imagem foi
+obtida três horas depois, ou seja, ao meio-dia (GMT).
+As imagens podem ser usadas para se determinar o horário
+do amanhecer e do pôr-do-sol em qualquer cidade do mundo.
+Nas figuras, foi introduzido um sistema de coordenadas
+cartesianas, no qual a linha do Equador é representada
+pelo eixo dos x (dado em graus) e o meridiano de Greenwich,
+pelo eixo dos y (também dado em graus), de modo que
+y = +90 no pólo norte e y = -90 no pólo sul.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="82,1753 276,1753 276,1796 804,1796 804,1963 363,1963 363,2104 360,2104 360,2139 91,2139 91,2140 90,2140 90,2139 83,2139 83,1963 82,1963"/>
+	<TextEquiv conf="0.96611">
+	<Unicode>QUESTÃO 13
+Considere que t seja o tempo, em horas, de modo que t = O
+corresponda ao meio-dia (GMT). Escolha a opção que des-
+creve um modelo mais preciso do deslocamento da curva que
+separa a área iluminada da região de sombra na Terra, no
+dia representado nas figuras.
+(A) y=75 cos(x + 154)
+(B) y=75 sen(x— 24 1)
+(C) y=75 sen(x+ 151)
+(D) y = 90 cos(x + 24 f)
+(E) y= 90 sen(x— 24 t)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="854,180 1048,180 1048,221 1577,221 1577,280 1575,280 1575,388 1577,388 1577,1114 854,1114 854,480 853,480 853,221 854,221"/>
+	<TextEquiv conf="0.96543">
+	<Unicode>QUESTÃO 14
+As figuras podem ser utilizadas para se explicar o horário de
+verão. De fato, durante o verão no hemisfério sul, a duração
+do dia é maior que a duração da noite. O Operador Nacional
+do Sistema (ONS) relatou que, no verão de 2007 para 2008,
+houve uma redução da carga máxima da região Sul do Brasil
+da ordem de 4% e uma redução do consumo de energia da
+ordem de 1%. Considerando essas informações, é correto
+afirmar que
+(A) as maiores vantagens econômicas do horário de verão
+ocorrem nos países cortados pela linha do Equador, onde
+os dias de verão têm aproximadamente a mesma dura-
+ção que os dias de inverno.
+(B) os ganhos econômicos proporcionados pelo horário de
+verão são menores nos países do hemisfério norte por-
+que, naquela região, o número de horas dos dias de verão
+é inferior ao do hemisfério sul.
+(OC) o Sol, durante o horário de verão no Brasil, nasce mais
+cedo, sendo reduzido o consumo de energia no período
+matinal, o que acarreta significativa economia de energia
+para o país.
+(D) os dados do ONS apontam para uma redução de cerca
+de 5% da conta mensal de eletricidade dos consumido-
+res da região Sul do Brasil durante o horário de verão.
+(E) o Sol, no verão, nasce aproximadamente no mesmo mo-
+mento em Natal-RN e em Porto Alegre-RS; no entanto,
+ele se põe primeiro na região Nordeste, o que motiva a
+aplicação do horário de verão nos estados do sul do Brasil.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="817,171 817,2157 825,2157 825,171"/></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="854,1151 1048,1151 1048,1611 1576,1611 1576,1612 1577,1612 1577,2137 854,2137 854,1698 853,1698 853,1611 854,1611"/>
+	<TextEquiv conf="0.95923">
+	<Unicode>QUESTÃO 15
+Paralelamente à mensagem jocosa, existe, na charge
+acima, outra mensagem subjacente, que remete ao
+fenômeno conhecido como
+(A) efeito estufa, observado a partir da Revolução Industrial, o
+qual corresponde ao aumento da temperatura global da
+Terra.
+(B) aquecimento global, que pode causar secas, inundações,
+furacões, desertificação e elevação dos níveis dos
+oceanos.
+(C) escurecimento global, que é causado pela presença, na
+atmosfera, de material particulado oriundo da poluição.
+(D) mudança sazonal no trajeto das correntes marinhas, que
+altera o ciclo migratório dos pinguins.
+(E) aumento do buraco na camada de ozônio, causado pela
+presença, na estratosfera, de gases utilizados em
+sistemas de refrigeração.</Unicode></TextEquiv></TextRegion></Page></PcGts>
