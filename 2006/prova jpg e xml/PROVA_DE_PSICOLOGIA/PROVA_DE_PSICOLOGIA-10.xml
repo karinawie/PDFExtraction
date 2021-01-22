@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T13:32:17</Created>
+	<LastChange>2020-10-21T13:39:42</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_PSICOLOGIA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="80,1696 80,1697 271,1697 271,1737 1573,1737 1573,1795 1236,1795 1236,1902 1444,1902 1444,1929 1573,1929 1573,1902 1573,1929 1407,1929 1407,2035 1574,2035 1574,2094 1192,2094 1192,2161 81,2161 81,2160 80,2160 80,1795 79,1795 79,1737 80,1737"/>
+	<TextEquiv conf="0.96524">
+	<Unicode>QUESTÃO 18
+Considerando-se dados da literatura que mostram correlações positivas entre obesidade infantil e aspectos psicológicos,
+tais como depressão, ansiedade e déficits de competência social, é correto afirmar:
+(A) obesidade infantil em alto grau pode predizer elevados graus de depressão ou ansiedade.
+(B) depressão, ansiedade e déficits de competência social são aspectos psicológicos de natureza semelhante.
+(C) competência social desenvolve-se apenas após a infância, quando passa a caracterizar o obeso adulto.
+(D) ansiedade é a causa da obesidade infantil porque a ingestão de alimentos, nesse caso, deixa de ser determinada
+pela saciedade.
+(E) quadros depressivos acompanhados de falta de apetite diminuem a obesidade infantil.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="411,397 411,954 1234,954 1234,397"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,240 80,241 271,241 271,281 1574,281 1574,371 1573,371 1573,372 971,372 971,1061 1574,1061 1574,1120 1481,1120 1481,1319 563,1319 563,1385 158,1385 158,1517 207,1517 207,1642 80,1642 80,1354 81,1354 81,1022 80,1022 80,1021 79,1021 79,281 80,281"/>
+	<TextEquiv conf="0.96538">
+	<Unicode>QUESTÃO 17
+Um psicólogo pesquisador expôs um de seus pacientes com quadro clínico depressivo a um novo tratamento. Registrou
+afrequência com que ocorriam os comportamentos depressivos em três momentos: antes de iniciar o tratamento, durante
+e após interrompê-lo. O gráfico abaixo representa hipoteticamente os resultados obtidos.
+Dias de Tratamento
+A partir desses resultados, o tratamento aplicado mostra-se:
+| - seguramente eficaz, pois a redução constante dos comportamentos depressivos ao longo do tratamento é clara e
+inequívoca.
+|l - possivelmente eficaz, pois a redução dos comportamentos depressivos já ocorria antes mesmo do seu início.
+Ill - provavelmente eficaz, pois os comportamentos depressivos reduziram-se durante o tratamento.
+IV - certamente eficaz, pois os comportamentos mantiveram-se baixos mesmo após a sua interrupção.
+É correto APENAS o que se afirma em:
+(A) 1.
+(B) II.
+(C) lelv.
+(D) Nell.
+(E) Nelv.</Unicode></TextEquiv></TextRegion></Page></PcGts>

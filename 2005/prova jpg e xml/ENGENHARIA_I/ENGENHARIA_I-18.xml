@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:05:43</Created>
+	<LastChange>2020-11-13T12:48:07</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="68,731 68,1077 814,1077 814,731"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="940,371 940,814 1600,814 1600,371"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,263 111,263 111,302 791,302 791,483 792,483 792,705 791,705 791,1207 554,1207 554,1208 392,1208 392,1733 81,1733 81,1734 80,1734 80,1208 79,1208 79,1149 80,1149 80,486 79,486"/>
+	<TextEquiv conf="0.95408">
+	<Unicode>30
+Afigura abaixo representa uma ponte de emergência, de peso
+próprio, uniformemente distribuído, igual a q, e comprimento
+igual a L, que deve ser lançada, rolando sobre os roletes fixos
+em Ae C, no vão AB, de modo que se mantenha em nível até
+alcançar a margem B. Para isso, quando a sua seção média
+atingir o rolete A, uma carga concentrada P se deslocará em
+sentido contrário, servindo de contrapeso, até o ponto D, sen-
+do A'D uma extensão da ponte, de peso desprezível, que
+permite o deslocamento da carga móvel P. Se a extremidade
+B'da ponte estiver a uma distância x de A, a carga Pestará
+a uma distância y de A.
+Nessa condição, a distância y, variável em função de x, e a
+distância z (fixa), da extensão, respectivamente, são:
+(A) aL(2Xx-L) ,2P
+(B) q.L(2L-x)2Pe
+(C) ql (2x-L)2P
+(D) qaÉCL-X),2P
+(E) q.L (2Xx-L)2P
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="863,262 1574,262 1574,357 1573,357 1573,1147 1219,1147 1219,1150 864,1150 864,1153 863,1153"/>
+	<TextEquiv conf="0.95523">
+	<Unicode>31
+Considere a Terra como sendo esférica, com raio igual a
+6.400 km, conforme mostra a figura abaixo.
+Nessa situação, conclui-se que um arco de 1º de amplitude,
+sobre um paralelo de latitude igual a 45º, mede, aproximada-
+mente, em km,
+(A) 25(B) 55(C) 78(D) 91(E) 448</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="863,1230 1573,1230 1573,1414 1187,1414 1187,1453 1116,1453 1116,1531 1020,1531 1020,1570 1008,1570 1008,1603 865,1603 865,1604 864,1604 864,1414 863,1414"/>
+	<TextEquiv conf="0.96031">
+	<Unicode>32
+O estudo geológico de uma região indicou que abaixo do
+nível freático estão presentes vários tipos litológicos. Ao de-
+cidir em que local será realizada a perfuração de um poço
+d'água, visando à maior vazão, deve-se optar pela região em
+que há
+(A) granitos não fraturados.
+(B) folhelhos.
+(C) argilitos e siltitos.
+(D) gnaisses.
+(E) arenitos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

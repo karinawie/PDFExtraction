@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:27:52</Created>
+	<LastChange>2020-11-13T11:50:46</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-18.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="180,197 180,437 708,437 708,197"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="854,182 854,585 1508,585 1508,182"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="94,445 94,731 791,731 791,445"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 58
+Considerando   o   diagrama   de   Hasse   apresentado   acima,assinale  a  opção  que  apresenta  uma  lista  ordenada,  daesquerda para a direita, que preserva a ordem do diagrama.AMarcos, José Roberto, Emerson, Ronaldo, AdrianoBEmerson, Marcos, Ronaldo, Adriano, José RobertoCAdriano, Ronaldo, José Roberto, Marcos, EmersonDRonaldo, Marcos, Emerson, Adriano, José RobertoEMarcos, Adriano, Emerson, José Roberto, Ronaldo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="94,791 94,1508 785,1508 785,791"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 49
+Para   o   desenvolvimento   de   um   projeto,determinada organização precisa definir dois grupos detrabalho,  um  com  trêsmembrose  outro  com  quatromembros. Para o grupo de três elementos, o primeiroindivíduo  nomeado  será  o  presidente,  o  segundo,  orelator, e o terceiro será o auxiliar, enquanto que, parao  de  quatro  elementos,  a  ordem  de  nomeação  não  érelevante.  Essa  organização  conta  com  um  quadro  dequatorze funcionários, todos igualmente aptos a comporqualquer  um  dos  grupos  de  trabalho,  em  qualquerfunção, sendo que cadaum deles integrará, no máximo,um desses grupos.
+Nessa situação, representando por C(m, p) a combinação dem  elementos  p a p  e  por  A(m, p) o arranjo de m elementosp a p, conclui-se que a quantidade de maneiras distintas que aorganização citada dispõe para compor osseusdoisgrupos detrabalho é igual a 
+AA(14, 4) × A(14, 3).BA(14, 4) × C(14, 3).CC(14, 4) × A(10, 3).DC(10, 3) × A(14, 4).EC(14, 4) × C(10, 3)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="96,1555 96,2166 787,2166 787,1555"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 50
+Acerca de paradigmas de linguagens de programação, julgueos itens a seguir.
+ILinguagens   procedurais   facilitam   a   legibilidade   e   adocumentação do software.
+IILinguagens declarativas facilitam o desenvolvimento desistemas de apoio à decisão.
+IIILinguagens funcionaisfacilitam a definição de requisitose a decomposição funcional.
+IVLinguagens estruturadas promovem o forte acoplamentoentre dados e funções.
+VLinguagens orientadas a objeto permitem reduzir custos dedesenvolvimento e manutenção.
+Estão certos apenas os itens
+AI e II.
+BI e IV.
+CII e III.
+DIII e V.
+EIV e V </Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="805,600 805,1371 1574,1371 1574,600"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 51
+No famoso jogo da TorredeHanoi,é dada uma torrecom  discos  de  raios  diferentes,  empilhados  por  tamanhodecrescente em um dostrêspinosdados, como ilustra a figuraacima. O objetivo do jogo é transportar-se toda a torre paraumdos  outros  pinos,  de  acordo  com  as  seguintes  regras:apenas  um  disco  pode  ser  deslocado  por  vez,  e,  em  todoinstante, todos os discos precisam estar em um dos três pinos;além disso, em nenhum momento,um disco pode ser colocadosobre  um  disco  de  raio  menor  que  o  dele;  é  claro  que  oterceiro pino pode ser usado como local temporário para osdiscos
+Imaginando que se tenha uma situação em que a torre inicial tenhaum conjunto de 5 discos,qualo número mínimo de movimentaçõesde discos que deverão ser realizadas para se atingir o objetivo dojogo?
+A 25
+B 28
+C 31
+D 34
+E 38</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="805,1431 805,2151 1560,2151 1560,1431"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 52
+O   método   de   alocação   de   espaço   de   disco   utilizado   paraarmazenamento   de   informações   em   um   sistema   de   arquivosdetermina o desempenho desse sistema.Com relação a esse assunto,julgue os itens seguintes
+IA alocação contígua é um método adequado para sistemas emque inserções e remoções de arquivos são freqüentes.IINa  alocação  indexada,  o  tamanho  máximo  de  um  arquivodepende do número de bits utilizados para representar um índicee do tamanho dos blocos de índices.IIINa  alocação  encadeada,  o  tamanho  máximo  de  um  arquivodepende do tamanho dos blocos de dados
+Assinale a opção correta.AApenas um item está certo.BApenas os itens I e II estão certos.CApenas os itens I e III estão certos.DApenas os itens II e III estão certos.ETodos os itens estão certos.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

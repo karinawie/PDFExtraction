@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:16:05</Created>
+	<LastChange>2020-10-20T23:20:36</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-27.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="305,600 305,1025 1337,1025 1337,600"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,411 80,412 110,412 110,447 1571,447 1571,574 960,574 960,1328 1570,1328 1570,1661 1571,1661 1571,1788 1570,1788 1570,1954 825,1954 825,1953 80,1953 80,1952 79,1952 79,447 80,447"/>
+	<TextEquiv conf="0.96567">
+	<Unicode>QUESTÃO 10
+Atendência atual de mercado exige que as empresas estabeleçam e mantenham um sistema de gestão ambiental. Para isto,
+deve-se estar ciente das características relacionadas à unidade produtiva, levando-se em conta aspectos de risco ambiental e
+a capacidade de gerenciamento global da unidade (recursos financeiros, de pessoal e tecnologias disponíveis). A figura abaixo
+apresenta o fluxograma de um processo ou de uma atividade para identificação dos aspectos ambientais.
+Considere que as atividades desenvolvidas em um posto de gasolina são:
+1) lavagem de veículos;
+2) recebimento, estocagem e fornecimento de inflamáveis.
+Com base nestas informações, resolva os itens a seguir.
+a) Identifique dois componentes de entrada e dois de saída para cada atividade desenvolvida.
+(valor: 2 pontos)
+b) Identifique dois impactos ambientais que podem surgir de cada uma das atividades desenvolvidas.
+(valor: 2 pontos)
+Cc) Na etapa do projeto de um sistema de gestão ambiental, um plano de ação começa a ser delineado e os riscos ambientais
+podem ser reduzidos. Suponha que a atividade lavagem de veículos foi considerada crítica do ponto de vista ambiental.
+Cite dois processos que poderiam ser adotados para minimizar o risco ambiental desta atividade.
+(valor: 3 pontos)
+d) Construa um diagrama de blocos simplificado para um dos processos citados no item (c).
+(valor: 3 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

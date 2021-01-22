@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:29:20</Created>
+	<LastChange>2021-01-18T02:10:16</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-27.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r13">
+	<Coords points="766,201 766,2144 768,2144 768,201"/></SeparatorRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords points="103,268 748,268 748,850 142,850 142,509 104,509 104,363 103,363"/>
+	<TextEquiv conf="0.96317">
+	<Unicode>QUESTÃO 66
+As fibras têxteis são classificadas conforme a sua origem e
+sua composição química. A respeito desse assunto, assinale
+a opção correta.
+A Lã e rami são fibras protéicas, enquanto algodão é uma
+fibra celulósica. As três são fibras naturais.
+B Viscose, modal e liocel são fibras artificiais compostas
+pelo polímero celulose.
+C Acetato e elastano são fibras sintéticas, a primeira com
+celulose acetilada na composição e a segunda com pelo
+menos 85% de poliuretano.
+D Fibras de carbono e de amianto são fibras naturais com
+alta resistência à temperatura.
+E Mohair e angorá são fibras protéicas de origem vegetal,
+enquanto as fibras acrílicas, contendo pelo menos 85%
+de acrilonitrila em massa, são sintéticas.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="97,934 97,1168 734,1168 734,934"/></TableRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords points="102,874 750,874 750,914 748,914 748,1376 605,1376 605,1407 283,1407 283,1651 143,1651 143,1645 104,1645 104,1407 103,1407 103,1246 104,1246 104,914 102,914"/>
+	<TextEquiv conf="0.34437">
+	<Unicode>QUESTÃO 67
+Para o tingimento ou a coloração de materiais têxteis, as
+matérias corantes devem ser escolhidas em função da
+composição da fibra. Considerando os processos usuais de
+coloração de materiais têxteis e com referência ao quadro
+acima, assinale a opção que mostra a correspondência
+correta entre a matéria corante e a fibra têxtil.
+C/F, e CyF;
+C/F,e CyF,
+CJF, e CYF;
+CyF; e CYF,
+Cy/F, e CyYF,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="heading">
+	<Coords points="102,1662 261,1662 261,1718 748,1718 748,1905 749,1905 749,2080 669,2080 669,2118 143,2118 143,2113 104,2113 104,1830 103,1830 103,1701 102,1701"/>
+	<TextEquiv conf="0.72413">
+	<Unicode>QUESTÃO 68
+Precisa-se de um fio fino de Ne60 de algodão para a
+fabricação de um tecido de camisaria. Assinale a opção que
+contém a matéria-prima e o respectivo processo de fiação
+adequados para esse caso.
+fibra de algodão curta — fiação OE (open end)
+fibra de algodão longa — fiação convencional de anel
+(filatório de anel) — fio cardado
+fibra de algodão curta — fio penteado — fiação
+convencional
+fibra de algodão longa — fio penteado — fiação
+convencional
+fibra de algodão longa — fiação OE (open end)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords points="801,1447 1551,1447 1551,1477 1550,1477 1550,1644 1549,1644 1549,1801 1550,1801 1550,1878 1548,1878 1548,2074 1550,2074 1550,2127 789,2127 789,1731 788,1731 788,1489 801,1489"/>
+	<TextEquiv conf="0.84067">
+	<Unicode>QUESTÃO 70
+Uma empresa têxtil recebeu como matéria-prima 50 fardos de
+algodão e 50 fardos de poliéster. Ela utiliza um processo de fiação
+convencional com sala de abertura, carda, passador 1, passador 2,
+maçaroqueira, filatório de anel e conicaleira. A empresa recebeu
+encomenda de um fio singelo de mistura íntima com 50% de fibra de
+poliéster e 50% de fibra de algodão.
+Nessa situação, o processo que danifica menos as fibras e que produz
+a mistura mais homogênea consiste em
+O adicionar a fibra de poliéster à de algodão na sala de abertura.
+O fazer a abertura do poliéster em separado e juntar as fibras de
+poliéster em forma de flocos e as fibras de algodão antes de entrar
+na carda.
+O fazer a abertura do poliéster e a cardação (ou cardagem) em
+separado e juntar as fitas (mechas) de poliéster e as fitas de algodão
+na entrada do primeiro passador.
+O adicionar a metade das fibras de poliéster ao algodão na sala de
+abertura e adicionar a segunda metade depois da abertura e da
+cardação, em separado, em forma de fita no primeiro passador.
+O fazer a abertura do poliéster e a cardação em separado e juntar as
+fitas de poliéster e as fitas de algodão no passador 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords points="801,217 928,217 928,258 1550,258 1550,356 1549,356 1549,1417 789,1417 789,504 788,504 788,258 801,258"/>
+	<TextEquiv conf="0.96528">
+	<Unicode>QUESTÃO 69
+Uma empresa de beneficiamento recebeu 200 m de um tecido
+de malha simples (jersey), tubular, com 100% de algodão cru, que deve
+ser tingido na cor marrom escuro e que deve receber acabamento com
+amaciante.
+Considerando viabilidade técnica, custo, tempo de produção e
+consumo de água na situação descrita, bem como a qualidade do
+produto final, assinale a opção que apresenta o processo mais
+adequado para o caso.
+O Processo descontínuo em máquina jet com relação de banho 1:10
+e com a seguinte sequência: purga alcalina à fervura; alvejamento
+com peróxido de hidrogênio; lavagem do tecido com redutor para
+remover o peróxido residual; tingimento a 85 ºC; lavagem para
+remover corante hidrolisado e acabamento com amaciante
+catiônico.
+O Processo semicontínuo ou contínuo, com a seguinte seqiiência:
+alvejamento com peróxido de hidrogênio e branqueador óptico por
+impregnação do tecido em foulard e repouso a frio; lavagem em
+contínuo a quente; impregnação do tecido em foulard com corante
+reativo e repouso a frio; lavagem em contínuo e aplicação do
+amaciante por impregnação em foulard.
+O Processo contínuo, com a seguinte sequência: impregnação do
+tecido com banho de alvejamento com peróxido de hidrogênio e
+hidróxido de sódio; passagem pelo vaporizador; lavagem em
+contínuo à quente; secagem em rama; impregnação do tecido em
+Joulard com o corante, secagem com infravermelho e vaporização;
+lavagem em contínuo e aplicação do amaciante por impregnação
+em foulard.
+O Processo descontínuo em barca (RB = 1:30) e jigger (RB = 1:3),
+com a seguinte seqiiência: purga alcalina à fervura em barca;
+alvejamento com peróxido de hidrogênio em barca; lavagem do
+tecido em barca com redutor para remover o peróxido residual;
+tingimento a 85 ºC em jigger; lavagem para remover corante
+hidrolisado em barca e acabamento com amaciante catiônico em
+barca.
+O Processo descontínuo em máquina jet com relação de banho 1:10
+e com a seguinte seqiiência: purga alcalina à fervura; lavagem do
+tecido à quente; tingimento a 85 ºC; lavagem para remover corante
+hidrolisado e acabamento com amaciante catiônico.</Unicode></TextEquiv></TextRegion></Page></PcGts>

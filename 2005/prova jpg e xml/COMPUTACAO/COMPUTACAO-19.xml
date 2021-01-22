@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:33:12</Created>
+	<LastChange>2020-11-13T11:50:03</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-19.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="800,106 804,2128 810,2128 806,106"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="826,185 1550,185 1550,390 1324,390 1324,438 1016,438 1016,659 865,659 865,439 826,439"/>
+	<TextEquiv conf="0.86194">
+	<Unicode>QUESTÃO 54
+Considere que, durante a análise de um problema de programação,
+tenha sido obtida a seguinte fórmula recursiva que descreve a
+solução para o problema.
+o se i=0 ouj=0
+C(i)=11+C(i-1,j-1) se 0&lt;i&lt;M,0&lt;j&lt;Nei=j
+max (C(i,j- 1),C(i-1,))) se 0O&lt;i&lt;M,0&lt;j&lt;Neit]
+Qual a complexidade da solução encontrada?
+O (n x logn)
+O (1)
+O (nº x log n)
+O (2")
+O (n)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="120,800 120,1208 771,1208 771,800"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="182,174 785,174 785,222 786,222 786,592 788,592 788,762 787,762 787,1467 785,1467 785,2070 625,2070 625,2109 145,2109 145,2110 144,2110 144,2072 104,2072 104,1505 103,1505 103,222 182,222"/>
+	<TextEquiv conf="0.95050">
+	<Unicode>QUESTÃO 53
+O problema do buffer limitado de tamanho N é um
+problema clássico de sincronização de processos: um grupo de
+processos utiliza um buffer de tamanho N para armazenar
+temporariamente itens produzidos; processos produtores
+produzem os itens, um a um, e os armazenam no buffer;
+processos consumidores retiram os itens do buffer, um a um,
+para processamento. O problema do buffer limitado de tamanho
+N pode ser resolvido com a utilização de semáforos, que são
+mecanismos de software para controle de concorrência entre
+processos. Duas operações são definidas para um semáforo
+s: wait(s) esignal(s).
+Considere o problema do buffer limitado de tamanho N
+cujos pseudocódigos dos processos produtor e consumidor
+estão mostrados na tabela abaixo. Pode-se resolver esse
+problema com a utilização dos semáforos mutex, cheio e vazio,
+inicializados, respectivamente, com 1,0 e N.
+A partir dessas informações, para que o problema do buffer
+limitado de tamanho N cujos pseudocódigos foram
+apresentados possa ser resolvido a partir do uso dos semáforos
+mutex, cheio e vazio, é necessário que comando a,
+comando b, comando c, comando d, comando e,
+comando £f, comando g e comando h correspondam,
+respectivamente, às operações
+O wait(vazio), wait (mutex), signal (mutex),
+signal (cheio), wait(cheio), wait(mutex),
+signal (mutex) e signal (vazio).
+O wait (cheio), wait (mutex), signal (mutex),
+signal (vazio), wait (vazio), signal (mutex),
+signal (mutex) e wait(cheio).
+O wait (mutex), wait (vazio), signal (cheio),
+signal (mutex), wait (mutex), wait(vazio),
+signal (cheio) e signal (mutex).
+O wait (mutex), wait (vazio), signal (cheio),
+signal (mutex), wait (mutex), wait(cheio),
+signal (vazio) e signal (mutex).
+Ô wait (vazio), signal (mutex), signal (cheio),
+wait (mutex), wait (cheio), signal (mutex),
+signal (vazio) e signal (mutex).</Unicode></TextEquiv></TextRegion></Page></PcGts>

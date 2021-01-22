@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:11:40</Created>
+	<LastChange>2020-11-13T12:56:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-26.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,805 111,805 111,841 1574,841 1574,968 931,968 931,1001 613,1001 613,1107 729,1107 729,1141 928,1141 928,1168 80,1168 80,968 79,968"/>
+	<TextEquiv conf="0.96876">
+	<Unicode>34
+Uma firma de consultoria foi contratada por uma grande empresa de exploração de petróleo para analisar um sistema de
+computação pertencente a uma das suas divisões. O sistema é composto de um servidor, que emprega memória virtual,
+conectado a várias estações clientes. Nesse servidor, verifica-se que as taxas de utilização da Unidade Central de Processamento
+(UCP) e do disco, na realização de paginação, são, respectivamente, iguais a 10 % e 96,7 %.
+Para possibilitar um aumento na taxa de utilização desta UCP, deve-se
+(A) instalar uma UCP mais rápida.
+(B) instalar mais memória principal.
+(C) aumentar o tamanho de página utilizado.
+(D) aumentar o nível de multiprogramação do sistema.
+(E) aumentar a capacidade de armazenamento do disco de paginação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,262 1427,262 1427,324 1050,324 1050,437 1264,437 1264,497 950,497 950,604 960,604 960,637 984,637 984,671 1080,671 1080,704 1151,704 1151,730 616,730 616,731 80,731 80,732 79,732 80,732 80,564 79,564 79,537 80,537 80,263 79,263"/>
+	<TextEquiv conf="0.96403">
+	<Unicode>33
+Numa organização existem sistemas de informação correspondentes a cada nível. A organização tem sistemas:
+* de apoio ao executivo (SAE), no nível estratégico;
+* de informações gerenciais (SIG) e de apoio à decisão (SAD), no nível gerencial;
+* de trabalhadores do conhecimento (STC) e de automação de escritório no nível do conhecimento;
+* de processamento de transações (SPT) no nível operacional.
+Quais sistemas são exemplos de SPT?
+(A) Planejamento de pessoal - Contas a pagar - Análise de lucratividade.
+(B) Folha de pagamento - Processamento de pedidos - Contas a receber.
+(C) Controle de estoque - Planejamento de lucros - Programação industrial.
+(D) Análise de custo - Previsão quinquenal de orçamento - Tratamento de imagens.
+(E) Programação da produção - Análise de custo de contratos - Gerenciamento do caixa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

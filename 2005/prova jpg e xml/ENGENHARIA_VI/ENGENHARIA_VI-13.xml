@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:32:38</Created>
+	<LastChange>2021-01-18T02:14:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-13.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="824,102 824,2163 826,2163 826,102"/></SeparatorRegion>
+	<ImageRegion id="r7">
+	<Coords points="922,1065 922,1485 1475,1485 1475,1065"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="171,160 171,634 794,634 794,160"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="116,130 807,130 807,652 808,652 808,864 806,864 806,1038 724,1038 724,1235 142,1235 142,1231 104,1231 104,1038 103,1038 103,161 102,161 116,161"/>
+	<TextEquiv conf="0.73413">
+	<Unicode>QUESTÃO 27
+Uma empresa elaborou o diagrama acima para representar
+a rede de atividades do Projeto X. Nesse diagrama, são utilizadas
+setas para denotar as precedências entre atividades, com as
+seguintes convenções: o evento inicial “O” ocorre no instante zero;
+os números separados por uma barra adjacente a cada uma das
+setas representam, respectivamente, a duração normal da atividade
+(em meses) e o custo adicional (em R$ mil) para a redução de um
+mês na duração normal da atividade correspondente à seta.
+Considerando-se que a duração normal de cada uma das
+atividades que compõem o diagrama pode ser reduzida em pelo
+menos um mês, é correto concluir que a opção de menor custo
+para diminuir a duração normal do Projeto X, em um mês, é
+reduzir, também em um mês,
+A a duração das atividades 0-1 e 0-2, simultaneamente.
+B apenas a duração da atividade 1-4.
+C a duração das atividades 0-1 e 0-3, simultaneamente.
+D apenas a duração da atividade 0-1.
+E a duração das atividades 0-2 e 1-4, simultaneamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="149,1261 807,1261 807,1621 806,1621 806,2137 104,2137 104,1710 103,1710 103,1304 149,1304"/>
+	<TextEquiv conf="0.92076">
+	<Unicode>QUESTÃO 28
+O serviço de atendimento a clientes (SAC) de uma empresa
+M registrou, em seus indicadores de qualidade, um grande número
+de reclamações sobre ruídos em seus produtos, dentro do prazo de
+garantia. Os técnicos da empresa M constataram que tais ruídos
+eram ocasionados por um mecanismo fabricado pelo fornecedor X.
+Tendo em vista que a maioria dos mecanismos retornados com
+problemas de ruídos estava dentro das especificações técnicas, o
+fornecedor X argumentou que as queixas não tinham fundamento.
+Além disso, solicitou que o indicador de qualidade sobre ruídos
+fosse corrigido pela empresa M e que os clientes fossem
+esclarecidos, pois desconheciam as especificações técnicas e os
+níveis aceitáveis de ruídos para os produtos.
+Com base nos conceitos de gestão de qualidade total, assinale a
+opção correta.
+O O fornecedor X está correto ao afirmar que as queixas dos
+clientes não tinham fundamento.
+O A empresa M deve alterar os seus indicadores de qualidade
+sobre ruídos em seus produtos.
+O A empresa M deve alterar as especificações técnicas do
+mecanismo do fornecedor X.
+O Os clientes estão sendo muito exigentes, demonstrando
+desconhecer as especificações técnicas do mecanismo do
+fornecedor X.
+O A empresa M deve melhorar os seus procedimentos de
+controle de qualidade na recepção do mecanismo do
+fornecedor X, mantendo as atuais especificações técnicas
+desse mecanismo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="901,130 1551,130 1551,161 1550,161 1550,959 1549,959 1549,2084 1346,2084 1346,2128 885,2128 885,2084 846,2084 846,1004 845,1004 845,981 846,981 846,161 845,161 901,161"/>
+	<TextEquiv conf="0.82409">
+	<Unicode>QUESTÃO 29
+Uma empresa está estudando a viabilidade econômica de
+duas tecnologias, conhecidas como X e Y, para a fabricação de
+um novo produto. O custo total de produção anual pode ser
+corretamente representado por uma função de custo da forma
+CT;(q) = F;+v;iq,
+em que
+» CT; é o custo total de produção anual, usando-se a
+tecnologia i;
+» fFjéocusto fixo (constante independentemente da quantidade
+produzida);
+» vjéocusto variável unitário (constante independentemente da
+quantidade produzida);
+» qéa quantidade anual a ser produzida.
+Ao vender o produto, a empresa recebe um valor p por
+unidade vendida. O gráfico abaixo mostra a função de custo total
+anual de cada uma das tecnologias e a função de receita total,
+R(q)=q*p.
+Com base unicamente nas informações acima, assinale a opção
+correta.
+O Seg &lt;q, então apenas a tecnologia X é economicamente
+inviável.
+O Se q&gt;q, então apenas a tecnologia Y é economicamente
+viável.
+O Seqg&gt;q, então a tecnologia Y deve ser utilizada.
+O Seg,&lt;q&lt;q&gt; então apenas a tecnologia X é economicamente
+viável.
+O Seg=q, então ambas as tecnologias são inviáveis, mas o
+prejuízo anual que se teria com a fabricação do produto seria
+maior se a tecnologia X fosse a escolhida.</Unicode></TextEquiv></TextRegion></Page></PcGts>

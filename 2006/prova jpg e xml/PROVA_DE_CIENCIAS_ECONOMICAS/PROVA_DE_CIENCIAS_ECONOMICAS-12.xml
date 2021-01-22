@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T00:44:59</Created>
+	<LastChange>2020-10-21T00:50:26</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_CIENCIAS_ECONOMICAS-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="85,1317 85,1671 791,1671 791,1317"/></TableRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="851,229 1465,229 1465,297 1304,297 1304,410 1574,410 1574,491 1483,491 1483,606 1349,606 1349,713 1532,713 1532,758 1572,758 1572,817 1573,817 1573,975 853,975 853,976 852,976 852,491 851,491 851,410 1118,410 1118,297 852,297 852,298 851,298"/>
+	<TextEquiv conf="0.95173">
+	<Unicode>QUESTÃO 37
+Considere o modelo autoregressivo AR(1) dado por:
+Yt=P'YVt1+tTVt
+onde E(v,)) = O, var(v;)= o e E(vy)=0, vszt eE()a
+esperança incondicional.
+É correto afirmar que
+(A) se -1&lt;p&lt;1,o processo y é não estacionário.
+(B) se |o|&gt; 1, o processo é estacionário.
+2
+(O) a variância incondicional de y é dada por os = =
+2º
+se |P| &lt;1.
+(D) o processo não é auto-regressivo, mas de média móvel.
+(E) um P negativo significa que y, guarda pouca relação com
+o seu passado.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="817,225 817,2145 831,2145 831,225"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,229 801,229 801,336 697,336 697,566 803,566 803,991 80,991 80,529 158,529 158,336 79,336"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 35
+Segundo dados recentes do Banco Mundial, o Brasil ocupou
+as seguintes posições em termos de ordenamento internacional:
+8º PNB
+31º PNB per capita
+72º IDH (Índice de Desenvolvimento Humano)
+Considerando esses dados, conclui-se que
+(A) eles refletem melhor desempenho em termos de desen-
+volvimento do que de crescimento econômico.
+(B) o Brasil poderia ter uma situação pior na classificação,
+em termos de Produto per capita, caso fosse considerado
+o PIB e não o PNB.
+(OC) o IDH é melhor indicador que o PNB per capita para
+avaliar a qualidade do desenvolvimento de um país.
+(D) o Índice de Gini, relativo à distribuição de renda, coloca o
+Brasil numa posição, entre os demais países, similar à
+de seu PNB.
+(E) dos três indicadores, o IDH é o que menos reflete a
+realidade socioeconômica brasileira.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,1035 802,1035 802,1143 506,1143 506,1703 777,1703 777,1740 802,1740 802,2148 80,2148 80,1284 79,1284 79,1190 80,1190"/>
+	<TextEquiv conf="0.93824">
+	<Unicode>QUESTÃO 36
+Considere a tabela abaixo, advinda de uma análise de
+regressão associada à função de consumo Kkeynesiana.
+AC;=a+B-AR,+e,
+onde C é o consumo e R é a renda.
+Uma possível conclusão desta análise de regressão é que
+(A) deve ser rejeitada a hipótese nula de que o intercepto da
+reta de regressão seja igual a zero.
+(B) deve ser rejeitada a hipótese nula de que o coeficiente
+angular da reta de regressão seja igual a 0.45.
+(O) a estimativa de B não é significantemente diferente de
+zero a um nível de confiança de 90%.
+(D) a estatística de Durbin Watson deveria ser mais distante
+de 2 para que a não-correlação dos resíduos ficasse
+caracterizada.
+(E) o modelo proposto explicou 27,93% das flutuações da
+variação do consumo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:38:49</Created>
+	<LastChange>2020-11-13T11:47:15</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-24.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r29">
+	<Coords points="841,102 840,2158 843,2158 844,102"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="91,171 91,480 828,480 828,171"/></TableRegion>
+	<TableRegion id="r1">
+	<Coords points="105,740 105,822 814,822 814,740"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="102,982 102,1322 820,1322 820,982"/></TableRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="101,515 824,515 824,836 825,836 825,955 824,955 824,956 101,956"/>
+	<TextEquiv conf="0.94553">
+	<Unicode>QUESTÃO 63
+Na tabela acima, estão descritas as ações correspondentes a cada
+um dos quatro estados (início, O, 1, parada) de uma máquina de
+Turing, que começa a operar no estado “início” processando
+símbolos do alfabeto (0,1,%, O), em que “O” representa o espaço
+em branco. Considere que, no estado “início”, a fita a ser
+processada esteja com a cabeça de leitura/gravação na posição |,
+conforme ilustrado a seguir.
+Considerando essa situação, assinale a opção que indica
+corretamente a posição da cabeça de leitura/gravação e o conteúdo
+da fita após o término da operação, ou seja, após a máquina atingir
+o estado “parada”.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords points="100,1396 824,1396 824,1646 823,1646 823,1937 644,1937 644,2075 654,2075 654,2129 101,2129 101,1646 100,1646"/>
+	<TextEquiv conf="0.96131">
+	<Unicode>QUESTÃO 64
+Considere a necessidade de se implementar um componente de
+software que realiza cálculos de expressões matemáticas simples
+para as operações básicas (soma, subtração, multiplicação, divisão
+e exponenciação). O software reproduz na tela do computador a
+entrada, os resultados parciais e o resultado final da expressão e,
+ainda, trata os operadores de exponenciação, multiplicação e
+divisão com precedência sobre os operadores de soma e subtração.
+Para obter o referido software, é correto que o projetista
+I definauma cadeia de caracteres para armazenar e imprimir toda
+a expressão de entrada.
+1 defina uma gramática regular para identificar as expressões
+aritméticas válidas.
+II defina um reconhecedor de linguagem regular com autômato
+finito determinístico.
+IV especifique a ordem de precedência dos operadores com uma
+notação de gramática livre de contexto.
+Estão certos apenas os itens
+O Ie. O LIMelV.
+O IMelV. O IIL,HIelV.
+O LIelV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r80" type="paragraph">
+	<Coords points="863,1019 1549,1019 1549,1875 1196,1875 1196,1941 1022,1941 1022,2123 903,2123 903,1941 863,1941 863,1918 864,1918 864,1701 899,1701 899,1533 864,1533 864,1516 899,1516 899,1356 864,1356 864,1161 863,1161"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>QUESTÃO 66
+Considere que, em uma empresa que desenvolve aplicações
+distribuídas, tenha sido elaborado um manual destinado ao
+treinamento de empregados e que o responsável por elaborar o
+manual tenha cometido alguns erros. Analise os seguintes
+trechos do referido manual.
+I Uma aplicação que usa o User Datagram Protocol (UDP)
+para transporte dos dados pode ter de tratar os problemas
+decorrentes de perdas de mensagens, mensagens recebidas
+fora de ordem e duplicações de mensagens.
+1l Um mecanismo de chamada a procedimento remoto (remote
+procedure call) ou de invocação a método remoto (remote
+method invocation) possibilita que programas chamem
+procedimentos ou métodos em diferentes computadores e
+que se abstraiam de todos os detalhes relacionados à
+distribuição.
+Em um sistema de comunicação embasado na chamada a
+procedimento remoto ou na invocação de método remoto, os
+serviços remotos são definidos por meio de interfaces. Uma
+interface é tipicamente processada por um compilador que
+gera códigos (stubs), que, nos clientes, se fazem passar pelos
+códigos remotos que são chamados.
+IV Sistemas de chamada a procedimentos remotos ou de
+invocação a métodos remotos tipicamente implementam as
+semânticas at-most-once ou at-least-once, pois é mais difícil
+implementar a semântica exactly-once, segundo a qual quem
+chama o procedimento sabe que ele é executado exatamente
+uma vez.
+1
+Estão certos apenas os trechos
+Tell.
+MelvV.
+Le.
+LHIelV.
+1, elV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords points="862,181 1549,181 1549,696 1168,696 1168,762 1057,762 1057,944 1056,944 1056,945 903,945 903,762 864,762 864,695 863,695 863,328 862,328"/>
+	<TextEquiv conf="0.96243">
+	<Unicode>QUESTÃO 65
+A análise de complexidade provê critérios para a classificação
+de problemas com base na computabilidade de suas soluções,
+utilizando-se a máquina de Turing como modelo referencial e
+possibilitando o agrupamento de problemas em classes. Nesse
+contexto, julgue os itens a seguir.
+1 É possível demonstrar que PC NPeNPceP.
+1 É possível demonstrar que se P * NP, então
+P nl NP-Completo = 2.
+1 Se um problema Q é NP-difícil e Q Ee NP, então Q é
+NP-completo.
+IV O problema da satisfatibilidade de uma fórmula booleana F
+(uma fórmula é satisfatível, se é verdadeira em algum
+modelo) foi provado ser NP-difícil e NP-Completo.
+V Encontrar o caminho mais curto entre dois vértices dados
+em um grafo de N vértices e M arestas não é um problema
+da classe P.
+Estão certos apenas os itens
+LHIelV.
+1, MM, elV.
+ML,IVeEeV.
+LH,ML,elV.
+IN, ,IVeV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T09:23:38</Created>
+	<LastChange>2021-01-18T01:45:24</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-09.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="915,102 916,2157 919,2157 918,102"/></SeparatorRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="938,115 1551,115 1551,153 1549,153 1549,412 1211,412 1211,518 1484,518 1484,611 1498,611 1498,681 1295,681 1295,729 978,729 978,682 938,682 938,413 935,413 935,183 937,183 937,116 938,116"/>
+	<TextEquiv conf="0.05006">
+	<Unicode>QUESTÃO 15
+A energia anual produzida na usina de Itaipu é da ordem
+de 90.000 GWh. Considere que o custo aproximado para
+a construção dessa usina tenha sido de 30 bilhões de
+reais e que o capital esteja sendo remunerado à taxa de
+juros de 10% ao ano. Nessas condições, a parcela do
+custo da energia produzida referente à remuneração
+anual do capital deve ser
+inferior a R$ 10 por MWh.
+superior a R$ 10 e inferior a R$ 30 por MWh.
+superior a R$ 30 e inferior a R$ 50 por MWh.
+superior a R$ 50 e inferior a R$ 100 por MWh.
+superior a R$ 100 por MWh.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="97,214 97,894 888,894 888,214"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="103,114 465,114 465,944 898,944 898,1008 264,1008 264,1044 103,1044"/>
+	<TextEquiv conf="0.96260">
+	<Unicode>Texto para as questões 14 e 15.
+A figura acima ilustra um corte longitudinal da região mais
+profunda do reservatório da usina hidrelétrica de Itaipu e sua localização
+no Rio Paraná.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="heading">
+	<Coords points="116,1086 900,1086 900,1117 721,1117 721,1228 899,1228 899,1250 898,1250 898,1390 899,1390 899,1744 689,1744 689,1786 379,1786 379,1933 439,1933 439,1980 536,1980 536,2097 444,2097 444,2139 104,2139 104,1869 103,1869 103,1846 142,1846 142,1615 104,1615 104,1598 142,1598 142,1490 104,1490 104,1473 142,1473 142,1245 104,1245 104,1168 103,1168 103,1145 116,1145"/>
+	<TextEquiv conf="0.69753">
+	<Unicode>QUESTÃO 14
+A partir das informações acima, julgue os itens a seguir.
+I
+n
+Mm
+Considerando-se o sistema xOy inserido na figura, é correto afirmar
+que a função 109 E +2x +55, para O &lt;x&lt;170km e y em
+metros, constitui um modelo adequado para o corte longitudinal do
+fundo do reservatório ilustrado.
+Sabendo-se que a superfície da lâmina d'água do reservatório da usina
+tem área igual a 1.350 km?, conclui-se que a capacidade desse
+reservatório é inferior a 270 km”.
+Considerando-se que o reservatório tenha largura constante e que a
+força total exercida pela água sobre a barragem da usina seja
+produzida por uma pressão hidrostática que cresce linearmente com a
+profundidade, conclui-se que a variação do módulo dessa força total
+é uma função quadrática do nível do reservatório.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens 1 e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

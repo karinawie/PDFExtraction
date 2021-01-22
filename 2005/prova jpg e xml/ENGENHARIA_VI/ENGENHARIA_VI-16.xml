@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T04:31:54</Created>
+	<LastChange>2020-10-24T05:08:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-16.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="417,182 417,602 1251,602 1251,182"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="115,124 388,124 388,627 1549,627 1549,975 827,975 827,976 104,976 104,977 103,977 103,627 115,627"/>
+	<TextEquiv conf="0.74767">
+	<Unicode>QUESTÃO 34 — DISCURSIVA
+A figura acima representa o resultado de um estudo de capabilidade (capability) de um processo, com base em uma amostra de
+50 peças não-seqienciais, colhida durante um período de produção contínua de uma semana.
+Considerando as informações acima, responda objetivamente os questionamentos a seguir.
+a) O processo é capaz de atender a tolerância especificada? Justifique a sua resposta com base nas informações apresentadas acerca
+da dispersão e da tolerância. (valor: 4,0 pontos)
+b) Considere que o setor de qualidade planeja instalar uma inspeção 100% nessa variável, para garantir que sejam utilizadas somente
+peças de acordo com a especificação definida. Que outra ação poderia garantir a utilização de peças que atendam a essa
+especificação? Justifique. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

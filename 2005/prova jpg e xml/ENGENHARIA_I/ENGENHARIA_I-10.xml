@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T14:49:29</Created>
+	<LastChange>2020-11-23T13:24:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1325,211 1572,211 1572,486 1573,486 1573,546 80,546 80,407 79,407 79,346 85,346 85,217 86,217 86,216 333,216 333,215 581,215 581,214 829,214 829,213 1077,213 1077,212 1325,212"/>
+	<TextEquiv conf="0.60863">
+	<Unicode>Texto para as questões 13 e 14. A taxa de evaporação de água em um reservatório depende da condição climática. Em um modelo simplificado, essa taxa, E,
+pode ser descrita por
+E= av(100- UR),
+em que a é uma constante, vé a velocidade do vento, em m/s, e UR é a umidade relativa do ar, em porcentagem. Nas figuras
+lell, abaixo, são apresentados dados climáticos em determinado reservatório de água, em 12 semanas de observação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="80,1169 111,1169 111,1209 1567,1209 1567,1269 136,1269 136,1439 150,1439 150,1466 80,1466 80,1269 79,1269 79,1209 80,1209"/>
+	<TextEquiv conf="0.96546">
+	<Unicode>13
+As informações acima permitem concluir que a taxa de evaporação de água no reservatório, nas 12 semanas observadas, foi
+maior na semana
+(A) 1
+(B) 4
+(C)6
+(D)9
+(E) 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="80,1515 111,1515 111,1554 1569,1554 1569,1582 1570,1582 1570,1691 270,1691 270,1902 82,1902 82,1910 80,1910"/>
+	<TextEquiv conf="0.96758">
+	<Unicode>14
+Para estimar a taxa de evaporação de água no reservatório, na 24º semana, considere que a umidade relativa do ar seja
+aproximada pelo valor médio dos dados da figura | e que a velocidade do vento seja aproximada por uma função periódica, com
+período igual a 6 semanas, obtida a partir dos dados da figura Il. Qual das opções abaixo melhor estima essa taxa na
+24º semana?
+(A) 3a
+(B) 80a
+(C) 210a
+(D) 480a
+(E) 1.080a</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="102,577 102,1148 845,1148 845,577"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="845,571 845,1154 1531,1154 1531,571"/></ImageRegion></Page></PcGts>

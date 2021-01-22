@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T05:20:40</Created>
+	<LastChange>2021-01-18T02:39:18</LastChange></Metadata>
+	<Page imageFilename="FILOSOFIA-08.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="825,170 825,2160 827,2160 827,170"/></SeparatorRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords points="847,1619 1456,1619 1456,1641 1233,1641 1233,1772 1290,1772 1290,1810 1450,1810 1450,1909 1170,1909 1170,2061 1162,2061 1162,2100 1016,2100 1016,2133 847,2133"/>
+	<TextEquiv conf="0.96620">
+	<Unicode>QUESTÃO 15
+Considerando-se conhecimentos de lógica e de his
+filosofia, analise os itens seguintes.
+(i) Todos os médicos são mortais.
+(ii) Platão, autor da República, é mortal.
+(iii) Platão é um médico.
+E correto afirmar que o item (iii), no contexto acima, é
+uma proposição falsa.
+um argumento silogístico.
+um argumento válido.
+uma proposição inválida.
+um sofisma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="116,1169 808,1169 808,1194 806,1194 806,1242 769,1242 769,1287 443,1287 443,1426 807,1426 807,1490 806,1490 806,1752 807,1752 807,2103 209,2103 209,2138 143,2138 143,2103 104,2103 104,1694 103,1694 103,1223 116,1223"/>
+	<TextEquiv conf="0.88548">
+	<Unicode>QUESTÃO 12
+é verdade que algum páss
+A partir da premissa aro não voa”,
+obtém-se, por inferência imediata, a conclusão que se segue.
+“É falso que todo pássaro voc”
+porque
+a premissa afirma a verdade de uma proposição particular
+negativa, e a conclusão expressa que a respectiva contrária é
+falsa, o que está de acordo com as leis do quadro de oposições.
+Considerando as leis do quadro de oposição entre proposições
+categóricas e as inferências imediatas autorizadas por esse
+quadro, assinale a opção correta a respeito dessas asserções.
+O As duas asserções são verdadeiras, sendo a segunda uma
+justificativa da primeira.
+O As duas asserções são verdadeiras, e a segunda não é
+Justificativa da primeira.
+O A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+O A primeira asserção é uma proposição falsa, e a segunda, uma
+proposição verdadeira.
+O Tanto a primeira asserção quanto a segunda são proposições
+falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="152,200 243,200 243,253 807,253 807,399 806,399 806,521 614,521 614,684 551,684 551,888 230,888 230,1128 104,1128 104,888 103,888 103,779 104,779 104,562 101,562 101,539 103,539 103,253 152,253"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 11
+Suponha que um jornalista econômico tenha escrito o seguinte
+comentário: “O ministro afirma que a economia vai bem, apesar
+da crise política. Mas ele não é um economista e, além do mais,
+tem interesse em apresentar uma imagem positiva do país aos
+investidores. Logo, não é verdade que a economia vai bem”.
+Julgue os itens abaixo, relativos ao raciocínio apresentado pelo
+jornalista.
+I Éum exemplo de generalização apressada.
+II É um argumento inválido.
+III É uma falácia, não um argumento.
+IV É um argumento ad hominem.
+V Éum exemplo de apelo à autoridade.
+Estão certos apenas os itens
+Tel.
+Nelv.
+Nev.
+NMelV.
+IVevV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="846,185 1552,185 1552,225 1550,225 1550,356 1549,356 1549,489 1550,489 1550,703 1213,703 1213,741 1169,741 1169,774 847,774 847,275 846,275"/>
+	<TextEquiv conf="0.30492">
+	<Unicode>QUESTÃO 13
+Nas opções abaixo, “&gt; representa o condicional material
+(se...então...), “v* representa a disjunção (ou um, ou outro, ou
+ambos) e “—* representa a negação (não). Com o auxílio de
+tabelas veritativas, examine a seguinte fórmula:
+(p&gt;q)v(-qvp)' e,a seguir, assinale a opção correta.
+O A fórmula é uma contingência, e “q v p' só é falsa na
+3.º linha, de cima para baixo.
+O A fórmula é uma tautologia, e “p &gt; q* só é falsa na 2.º linha,
+de cima para baixo.
+O A fórmula é uma disjunção tautológica cujos membros são
+ambos tautológicos.
+O A fórmula é uma contradição.
+O A fórmula é mal formada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="877,813 1552,813 1552,838 1550,838 1550,1072 1407,1072 1407,1153 1353,1153 1353,1230 1152,1230 1152,1306 964,1306 964,1530 847,1530 847,1359 848,1359 848,1230 847,1230 847,1093 848,1093 848,963 847,963 847,838 846,838 877,838"/>
+	<TextEquiv conf="0.86507">
+	<Unicode>QUESTÃO 14
+Considerando-se que, no cálculo de predicados, as funções
+proposicionais não têm valor de verdade, uma função
+proposicional pode ser transformada em proposição por meio de
+I tradução da função proposicional em linguagem de primeira
+ordem.
+II substituição das variáveis livres por constantes.
+III substituição das constantes por variáveis livres.
+IV quantificação das variáveis livres.
+V eliminação dos quantificadores universais.
+Estão certos apenas os itens
+Tell.
+Tell.
+Nem.
+Nelv.
+NMev.</Unicode></TextEquiv></TextRegion></Page></PcGts>

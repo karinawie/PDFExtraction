@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:11:37</Created>
+	<LastChange>2020-11-13T11:55:34</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-09.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="841,102 840,2162 843,2162 844,102"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="143,202 787,202 787,693 823,693 823,885 370,885 370,1088 137,1088 137,885 103,885 103,693 142,693 142,646 143,646"/>
+	<TextEquiv conf="0.94922">
+	<Unicode>QUESTÃO 14
+Os proprietários de um teatro necessitam de uma
+ferramenta de software para reserva de lugares.
+O desenvolvedor contratado verificou que as poltronas
+disponíveis para reserva são referenciadas pelo número da fila
+(a partir do n.º 1) e pelo número da cadeira (a partir do n.º
+1) em cada fila, em uma representação matricial em que as
+linhas e colunas da matriz correspondem, respectivamente, às
+filas e às colunas de cadeiras. Embora o contexto seja o da
+organização matricial — N filas de cadeiras (linhas), cada uma
+contendo M cadeiras (colunas) —, a solução a ser
+implementada utilizará uma estrutura linear unidimensional
+(vetor), sendo, portanto, necessária uma conversão entre o
+lugar referenciado (número f da fila, número c da cadeira) e
+a posição real na estrutura de armazenamento (posição p no
+vetor).
+Na situação apresentada, considere que a referida matriz seja
+armazenada no vetor segundo sua sequência de linhas, da primeira
+para a última, e, em cada linha, da primeira coluna para a última,
+e que a primeira posição no vetor tenha índice O. Nessa situação,
+a posição p da poltrona do teatro localizada à fila de número f e
+à coluna de número c, é igual a
+cCc+fxM.
+f+texM.
+Mx(f-DN+(c-)D.
+M*x(c-D+(f-D).
+Mx(cC-DIMXS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="822,1126 825,1126 825,1389 209,1389 209,1535 321,1535 321,1592 143,1592 143,1587 104,1587 104,1389 103,1389 103,1152 822,1152"/>
+	<TextEquiv conf="0.95856">
+	<Unicode>QUESTÃO 15
+Considere o algoritmo que implementa o seguinte processo: uma
+coleção desordenada de elementos é dividida em duas metades e
+cada metade é utilizada como argumento para a reaplicação
+recursiva do procedimento. Os resultados das duas reaplicações
+são, então, combinados pela intercalação dos elementos de ambas,
+resultando em uma coleção ordenada. Qual é a complexidade desse
+algoritmo?
+AO(n)2BO(n)2nCO(2)nDO(log n × log n)EO(n × log n)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="102,1667 823,1667 823,1927 315,1927 315,2130 142,2130 142,2125 104,2125 104,1927 102,1927"/>
+	<TextEquiv conf="0.96167">
+	<Unicode>QUESTÃO 16
+No processo unificado, cinco workflows acompanham o conjunto
+das fases de desenvolvimento de software. Cada workflow é um
+conjunto de atividades executadas por vários membros do projeto.
+Considerando o desenvolvimento de um sistema integrado de
+gestão (ERP), o empacotamento em componentes de software dos
+elementos do modelo de projeto — tais como arquivo de código-
+fonte, biblioteca de ligação dinâmica e componentes executáveis
+— é descrito pelo workflow de
+A teste.
+B análise.
+C projeto.
+D implementação.
+E requisito.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="902,172 1512,172 1512,746 1549,746 1549,828 1370,828 1370,916 1329,916 1329,946 1193,946 1193,976 1151,976 1151,1001 863,1001 863,746 902,746"/>
+	<TextEquiv conf="0.96059">
+	<Unicode>QUESTÃO 17
+No processo de desenvolvimento de um sistema de
+controle de materiais (matérias-primas) para uma
+metalúrgica, a equipe de projeto, responsável pelo
+mapeamento dos requisitos, desenvolveu seus trabalhos
+seguindo os quatro subprocessos da engenharia de
+requisitos. Inicialmente, foram feitas a análise e a avaliação
+para se verificar se o sistema seria útil ao negócio. Em um
+segundo momento, os requisitos foram identificados e
+analisados e, logo em seguida, foram documentados.
+Finalmente, foi verificado se os requisitos identificados
+atendiam às demandas dos usuários. Tendo sido executado
+esse procedimento, uma empresa independente de
+auditoria, após análise, identificou dois problemas no
+processo: a documentação dos requisitos (formulários e
+padrões utilizados) estava inadequada e não possibilitava
+o entendimento correto dos requisitos; o processo de
+checagem entre as demandas dos usuários e as
+especificações relatadas não foi bem conduzido e seus
+resultados eram insatisfatórios.
+Considerando o relatório da auditoria independente, quais foram
+as duas fases do processo de engenharia de requisitos que
+apresentaram problemas?
+A Entendimento do domínio e especificação.
+B Elicitação e validação.
+C Validação e entendimento do domínio.
+D Especificação e validação.
+E Validação e elicitação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="902,1073 1512,1073 1512,1590 1549,1590 1549,1674 1550,1674 1550,1909 1198,1909 1198,2035 1296,2035 1296,2142 863,2142 863,1946 864,1946 864,1643 863,1643 863,1590 902,1590"/>
+	<TextEquiv conf="0.96053">
+	<Unicode>QUESTÃO 18
+No processo de desenvolvimento de um sistema de
+tomada de decisões a ser implementado por uma
+instituição financeira de natureza privada, um profissional
+de sistemas de informações, contratado por prestação de
+serviços, recebeu a incumbência de garantir que o novo
+sistema operasse com uma função de concessão de crédito
+para clientes com maior probabilidade de honrar
+compromissos e que representassem menor risco para a
+instituição. Para a análise do perfil de cada cliente, o
+projetista definiu uma função de pesquisa e cruzamento
+de informações obtidas de terceiros e referentes a dados
+bancários, pessoais, comerciais, de previdência e saúde, e
+gastos com cartão de crédito. Em pouco tempo de
+operação, o novo sistema elevou os indicadores de
+desempenho da instituição financeira, apesar de ter
+diminuído o número de pessoas atendidas com o
+programa de concessão de créditos.
+Quanto às questões éticas associadas à prática profissional, no
+contexto da situação apresentada, julgue os itens abaixo.
+1 É direito da empresa utilizar qualquer informação
+disponível, desde que seja para benefício corporativo.
+1 A empresa deve controlar, notificar e solicitar
+consentimento para armazenar e usar informações dos
+clientes.
+II A responsabilidade pelo uso correto de informações é de
+quem as fornece, de quem as adquire e dos profissionais que
+as utilizam na construção de sistemas.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens [ e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

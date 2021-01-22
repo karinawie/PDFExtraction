@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:03:59</Created>
+	<LastChange>2020-11-13T12:43:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="138,1283 134,1666 1481,1679 1485,1296"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="602,362 602,874 1077,874 1077,362"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="79,263 80,263 80,264 186,264 186,265 293,265 293,266 400,266 400,267 507,267 507,268 613,268 613,269 720,269 720,270 827,270 827,271 934,271 934,272 1041,272 1041,273 1147,273 1147,274 1254,274 1254,275 1361,275 1361,276 1468,276 1468,277 1574,277 1574,358 1341,358 1341,965 1574,965 1574,1025 294,1025 294,1024 187,1024 187,1023 81,1023 81,1022 80,1022 80,358 79,358"/>
+	<TextEquiv conf="0.94817">
+	<Unicode>5
+A figura abaixo representa uma sapata isolada de concreto armado, de dimensões 2,40 m x 1,20 m e altura igual a 0,45 m, que
+recebe a carga centrada de 500 kN, de um pilar retangular de dimensões 0,80 m x 0,40 m. O aço a ser utilizado é o CA-50 A.
+Calcule a área das armaduras de tração nas duas direções, utilizando o método das bielas comprimidas.
+[Adote um coeficiente de ponderação (antigo coeficiente de segurança) total (para majoração dos esforços e minoração da
+resistência característica) igual a 1,6.] (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1099 80,1099 80,1100 186,1100 186,1101 293,1101 293,1102 400,1102 400,1103 506,1103 506,1104 613,1104 613,1105 720,1105 720,1106 827,1106 827,1107 933,1107 933,1108 1040,1108 1040,1109 1147,1109 1147,1110 1253,1110 1253,1111 1360,1111 1360,1112 1467,1112 1467,1113 1573,1113 1573,1228 778,1228 778,1798 418,1798 418,1926 362,1926 362,1993 361,1993 361,1994 260,1994 260,1993 158,1993 158,1926 79,1926"/>
+	<TextEquiv conf="0.94714">
+	<Unicode>6
+Um automóvel percorre uma curva circular de raio R de uma rodovia, a uma velocidade de 100 km/h. A taxa de superelevação
+transversal da pista é de 10% (tg a ). Calcule o menor valor do raio R (em metros) para que não ocorra deslizamento lateral do
+veículo. (valor: 10,0 pontos)
+(Adote aceleração da gravidade g = 10 m/s?)
+Dados:
+- peso do veículo: W
+- coeficiente de atrito entre os pneus e o pavimento f = 0,52
+-força centrífuga F = FR
+onde m = massa do veículo
+v = velocidade
+R = raio da curva</Unicode></TextEquiv></TextRegion></Page></PcGts>

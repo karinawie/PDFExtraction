@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:40:27</Created>
+	<LastChange>2021-01-18T02:54:44</LastChange></Metadata>
+	<Page imageFilename="FISICA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="99,96 816,96 816,378 814,378 814,743 163,743 163,378 162,378 162,115 99,115"/>
+	<TextEquiv conf="0.92018">
+	<Unicode>QUESTÃO 20
+Um observador monta uma experiência com o propósito de
+medir a amplitude do campo elétrico da radiação emitida por
+uma lâmpada incandescente. Lâmpadas de diferentes
+potências P são analisadas. Para cada lâmpada, medidas
+com diferentes distâncias (L) são efetuadas. As distâncias do
+observador para a lâmpada são suficientemente grandes de
+tal maneira que a mesma pode ser considerada como um
+emissor pontual de ondas eletromagnéticas em todas as
+direções do espaço. Pode-se afirmar que o observador
+medirá a amplitude do campo elétrico
+(A) diretamente proporcional a P e inversamente pro-
+porcional a L.
+(B) diretamente proporcional a P? e inversamente pro-
+porcional a L?.
+(C) diretamente proporcional a P? e inversamente pro-
+porcional a L.
+(D) diretamente proporcional a JP e inversamente pro-
+porcional a L.
+(E) inversamente proporcional a P e diretamente pro-
+porcional a L.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="840,80 840,2251 854,2251 854,80"/></SeparatorRegion>
+	<ImageRegion id="r2">
+	<Coords points="137,1374 137,2008 811,2008 811,1374"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="162,795 814,795 814,1356 640,1356 640,2055 321,2055 321,2224 163,2224 163,2055 162,2055 162,814 99,814 99,796 162,796"/>
+	<TextEquiv conf="0.96152">
+	<Unicode>QUESTÃO 21
+Ao incidir em uma superfície metálica, a radiação eletro-
+magnética pode produzir a emissão de elétrons. Esse
+fenômeno, conhecido como efeito fotoelétrico, foi expli-
+cado por Einstein, em 1905. A equação por ele proposta
+para esse efeito pode ser escrita como:
+A partir de uma experiência, obteve-se o valor do potencial
+de freamento, Vz, em função da frequência v da radiação
+que incide sobre a superfície de um determinado metal,
+como representado no gráfico abaixo.
+A partir do gráfico, o valor de W, em eV, é
+(A) 1,001
+(B) 21+0,2
+(C) 3501
+(D) 4,8+0,5
+(E) 601,0</Unicode></TextEquiv></TextRegion></Page></PcGts>

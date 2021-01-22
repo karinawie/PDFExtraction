@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:17:01</Created>
+	<LastChange>2020-10-20T23:17:41</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-22.jpg" imageWidth="1653" imageHeight="2167">
+	<ImageRegion id="r0">
+	<Coords points="71,928 71,1215 1581,1215 1581,928"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="57,1394 57,1900 805,1900 805,1394"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="157,557 157,900 1513,900 1513,557"/></TableRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,298 81,298 81,299 95,299 95,334 1575,334 1575,501 1574,501 1574,1394 1584,1394 1584,1971 831,1971 831,1363 80,1363"/>
+	<TextEquiv conf="0.95466">
+	<Unicode>QUESTÃO 6
+Os parâmetros físico-químicos massa molar (M), coeficiente de partição n-butanol-água (LogP), variação de entalpia de com-
+bustão (A com, H), calor de formação (A;H), momento de dipolo elétrico (Dip), número de níveis eletrônicos preenchidos (NNEP),
+energia de ionização (El), volume de van der Waals (vdW), superfície acessível ao solvente total (Stot), superfície acessível a
+solventes hidrofóbicos (Sphob), superfície acessível a solventes hidrofílicos (Sphil), foram avaliados para as bases purínicas
+Guanina (G) e Adenina (A) e para as bases pirimidínicas Citosina (C), Timina (T) e Uracila (U), e encontram-se listados abaixo.
+Em função do grande número de dados, foi realizada uma Análise de Componentes Principais (ACP) utilizando dados
+autoescalonados. A figura abaixo apresenta o gráfico dos escores da primeira e da segunda componentes principais, PC1 e
+PC2, com suas correspondentes variâncias.
+A partir do gráfico dos escores de PC1 versus PC2 e das estruturas das bases nitrogenadas, responda às perguntas abaixo.
+a) Que informação PC1 traz?
+(valor: 3,0 pontos)
+b) Sabendo que no DNA ocorrem as bases A, C, G e T, como
+é possível identificar os pares de bases complementares
+no gráfico apresentado?
+(valor: 3,0 pontos)
+c) Por que, nesta análise, os dados devem ser
+autoescalonados?
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

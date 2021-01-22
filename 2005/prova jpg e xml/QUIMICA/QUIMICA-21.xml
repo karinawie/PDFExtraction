@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:17:11</Created>
+	<LastChange>2020-10-20T23:17:13</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-21.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,266 80,266 80,267 1574,267 1574,396 954,396 954,562 1574,562 1574,529 1574,660 937,660 937,850 1008,850 1008,895 1067,895 1067,928 408,928 408,1029 361,1029 361,1129 292,1129 292,1160 86,1160 86,1162 80,1162 80,895 81,895 81,660 80,660 80,659 79,659 79,595 80,595 80,562 716,562 716,396 79,396"/>
+	<TextEquiv conf="0.94097">
+	<Unicode>QUESTÃO 30
+Muitas cores que se observam na vegetação são devidas a transições eletrônicas em sistemas de elétrons 7t conjugados. O
+protótipo destes sistemas é a molécula de butadieno. Os quatro orbitais moleculares 77 desta molécula (em ordem crescente
+de energia) podem ser descritos qualitativamente por
+TP d, d+ d+ d,
+P=0,+0,- d- &amp;d,
+P=0- 0,- d+,
+t= d- d+ d- da
+onde cada Qd; é um orbital atômico 2p,, centrado em cada átomo de carbono i. Considere as afirmações abaixo, a respeito da
+estrutura eletrônica Tt do butadieno.
+I - O orbital 1  é o de maior superposição entre os orbitais atômicos.
+II - O orbital 4 é o de menor superposição entre os orbitais atômicos.
+III - Há dois elétrons no orbital 1 e dois elétrons no orbital 2
+IV - O orbital 2 é o orbital molecular ocupado de mais alta energia (HOMO).
+V - O orbital 3 é o orbital molecular desocupado de mais baixa energia (LUMO).
+São corretas as afirmações
+(A) I e II, apenas.
+(B) I, II e III, apenas.
+(C) III, IV e V, apenas.
+(D) I, II, IV e V, apenas.
+(E) I, II, III, IV e V.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r24">
+	<Coords points="491,1328 491,1794 1131,1794 1131,1328"/></ImageRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="79,1203 80,1203 80,1204 1574,1204 1574,1300 1573,1300 1573,1866 194,1866 194,2037 71,2037 71,1868 79,1868"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 31
+O gráfico a seguir representa modelos de comportamento da tensão superficial Y de soluções aquosas em função da
+concentração.
+Que curvas representam a variação de V com o aumento da concentração de soluções de cloreto de sódio e dodecilsulfato de
+sódio, respectivamente?
+(A) I e II
+(B) I e III
+(C) I e IV
+(D) II e III
+(E) II e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

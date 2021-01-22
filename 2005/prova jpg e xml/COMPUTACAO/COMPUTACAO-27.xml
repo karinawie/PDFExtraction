@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T07:41:39</Created>
+	<LastChange>2021-01-18T01:26:15</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-27.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="1028,151 1028,546 1498,546 1498,151"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="148,511 148,811 1534,811 1534,511"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="160,164 971,164 971,906 1548,906 1548,936 1550,936 1550,1502 1574,1502 1574,1628 88,1628 88,1502 101,1502 101,847 160,847"/>
+	<TextEquiv conf="0.93761">
+	<Unicode>QUESTÃO 70
+A máquina finita de estados (MFE) cujo diagrama é visto ao lado
+reconhece sequências de caracteres compostos pelas letras 1, V e X, que
+representam, em notação romana, números correspondentes ao intervalo de
+1 a 9, na notação arábica. Considere que todas as sentenças de entrada da
+MFE representam números romanos válidos, ou seja, a MFE não tem
+mecanismo de tratamento de erros. Observe a correspondência da
+representação dos alfabetos romano e arábito fornecida pela tabela abaixo.
+Considerando essas informações, estenda a MFE apresentada acima para:
+a) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.
+(valor: 5,0 pontos)
+RASCUNHO
+b) reconhecer números no alfabeto romano correspondentes aos números de 1 a 500 no alfabeto arábico, com no máximo oito
+estados. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

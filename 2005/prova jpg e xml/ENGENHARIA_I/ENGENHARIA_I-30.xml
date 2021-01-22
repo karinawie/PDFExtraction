@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:59:38</Created>
+	<LastChange>2020-11-13T12:43:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-30.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,262 111,262 111,298 1573,298 1573,658 1392,658 1392,724 1326,724 1326,725 80,725 80,358 79,358"/>
+	<TextEquiv conf="0.96992">
+	<Unicode>40
+Na superfície terrestre, o valor médio da gravidade é de aproximadamente 9,8 m/s?. A diferença entre o valor medido (por um
+gravímetro) e o valor previsto é chamada de anomalia de gravidade. Anomalias de gravidade resultam de variações de densidade
+nos diferentes materiais que constituem o interior da Terra. Nas anomalias negativas, os valores medidos são menores que os
+previstos, enquanto que nas anomalias positivas ocorre o inverso.
+Dentre as seguintes relações entre anomalia de gravidade e materiais/densidade, qual é a que está de acordo com essas
+informações?
+(A) Anomalias positivas de gravidade denotam a presença de sedimentos de baixa densidade localizados em superfície.
+(B) Anomalias positivas de gravidade são geradas, por exemplo, por domos de sal e podem indicar áreas potencialmente
+favoráveis à prospecção de petróleo.
+(C) Anomalias negativas de gravidade são geradas, por exemplo, por domos de sal e podem indicar áreas potencialmente
+favoráveis à prospecção de petróleo.
+(D) Anomalias negativas de gravidade denotam a presença de rochas básicas em subsuperfície.
+(E) Anomalias negativas de gravidade denotam a presença de rochas de densidade elevada em profundidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

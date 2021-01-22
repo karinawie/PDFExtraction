@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:12:40</Created>
+	<LastChange>2020-11-13T12:57:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="482,771 482,962 1165,962 1165,771"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="79,262 111,262 111,298 1574,298 1574,436 1171,436 1171,639 81,639 81,642 80,642 80,436 79,436"/>
+	<TextEquiv conf="0.97005">
+	<Unicode>28
+Em um laboratório de Máquinas Elétricas de 20 m? de área, a tensão máxima disponível é 440 V. Para prevenir o risco de
+choques elétricos, emprega-se um tapete eletricamente isolante, que cobre todo o chão da sala. A espessura deste tapete foi
+calculada por um especialista considerando a corrente máxima permitida igual a 1 mA . A resistência do homem é desprezada
+e a área de contato do usuário com o tapete foi arbitrada em 1000 cm?. O isolante empregado apresenta resistividade igual
+a 4,4 x 10º Q.cm e massa específica igual a 29/cmº?. Qual a massa, em kg, deste tapete?
+(A) 4000
+(B) 400
+(C) 44
+(D) 40
+(E) 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,716 1135,716 1135,743 560,743 560,1075 642,1075 642,1108 827,1108 827,1201 81,1201 81,1202 80,1202 80,744 79,744"/>
+	<TextEquiv conf="0.91036">
+	<Unicode>29
+A figura abaixo apresenta um circuito básico para construção de máquinas sequenciais.
+Com relação a este circuito, tem-se que
+(A) se S = 1, então Q = 1.
+(B) se R=1eS=1,então Q é indeterminado.
+(C) na transição de SR = 11 para SR = 10, Q é indeterminado.
+(D) na transição de SR = 11 para SR = 00, Q é indeterminado.
+(E) na transição de SR = 00 para SR = 11, Q é indeterminado.</Unicode></TextEquiv></TextRegion></Page></PcGts>

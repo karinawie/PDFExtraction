@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:13:43</Created>
+	<LastChange>2020-11-13T12:59:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="68,414 68,600 460,600 460,414"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="84,632 84,818 476,818 476,632"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="75,835 75,1021 467,1021 467,835"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="72,1078 72,1264 464,1264 464,1078"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="66,1298 66,1484 458,1484 458,1298"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="80,259 111,259 111,297 1573,297 1573,390 1076,390 1076,391 578,391 578,392 81,392 81,393 80,393"/>
+	<TextEquiv conf="0.93983">
+	<Unicode>17
+Considere que 0) = 5sen(1004 seja a solução particular da equação diferencial que representa o comportamento dinâmico do
+sistema cuja resposta livre está apresentada no texto. Assinale a opção que melhor esboça o gráfico da resposta completa do
+referido sistema, após transcorrido um minuto (t&gt; 60 s).</Unicode></TextEquiv></TextRegion></Page></PcGts>

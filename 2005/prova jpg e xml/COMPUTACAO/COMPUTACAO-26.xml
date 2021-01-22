@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T07:40:50</Created>
+	<LastChange>2021-01-18T01:24:53</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-26.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="829,105 829,2135 831,2135 831,105"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="862,171 862,562 1557,562 1557,171"/></ImageRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords points="102,187 810,187 810,236 811,236 811,259 810,259 810,399 708,399 708,405 616,405 616,528 811,528 811,1488 810,1488 810,1621 667,1621 667,1744 810,1744 810,1767 444,1767 444,1816 260,1816 260,2106 141,2106 141,1816 101,1816 101,1744 140,1744 140,1421 101,1421 101,1404 140,1404 140,1129 101,1129 101,1112 140,1112 140,453 101,453 101,236 102,236"/>
+	<TextEquiv conf="0.96457">
+	<Unicode>QUESTÃO 68
+Suponha que uma empresa esteja projetando um protocolo de
+transporte orientado a conexão. Suponha, ainda, que os projetistas
+tenham pouca experiência e que alguns requisitos originalmente
+listados não sejam típicos de um protocolo de transporte
+orientado a conexão. À
+seguir, apresenta-se a lista dos
+requisitos propostos pela equipe de projetistas.
+mM
+IV
+O protocolo deve controlar a transmissão por meio de
+mecanismo de janela deslizante (sliding window). Vários
+pacotes poderão ser enviados antes de a origem aguardar uma
+confirmação de recepção. O número máximo de pacotes
+transmitidos antes de uma confirmação ser recebida será
+variável, o que possibilitará o controle do fluxo dos dados.
+O protocolo deve rotear os pacotes entre redes interligadas.
+O roteamento deve ser realizado a partir das informações em
+tabelas de roteamento. Em uma tabela de roteamento, cada
+entrada deve conter o endereço de um destino e o endereço da
+próxima máquina para a qual os pacotes devem ser enviados,
+de modo a serem encaminhados para o destino.
+Uma comunicação passará por três fases: estabelecimento da
+conexão, transferência dos dados e término da conexão. O
+protocolo manterá informações sobre uma conexão em uma
+estrutura de dados. Uma instância dessa estrutura será alocada
+quando uma conexão for estabelecida e será liberada quando
+a conexão for terminada.
+O protocolo deve calcular dinamicamente o tempo (timeout)
+que a origem de um pacote deve aguardar até retransmitir a
+informação caso a recepção não seja confirmada,
+possibilitando que atrasos variáveis sejam acomodados. Isso
+deverá ser feito por meio de um algoritmo de retransmissão
+adaptativo que periodicamente ajuste o timeout.
+Para um protocolo de transporte orientado a conexão, são
+adequados apenas os requisitos
+Tell.
+ITelV.
+Nem.
+LHIelV.
+1, elV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="890,610 1512,610 1512,954 1549,954 1549,1767 1192,1767 1192,1886 1129,1886 1129,2020 1169,2020 1169,2121 851,2121 851,954 890,954"/>
+	<TextEquiv conf="0.94970">
+	<Unicode>QUESTÃO 69
+A rede de uma empresa cujo esquema está ilustrado
+acima é composta por 4 redes TCP/IP locais. Essas redes
+TCP/IP são interligadas por uma rede X.25, que opera
+como túnel para as 4 redes. As placas dos computadores
+pertencentes a essas redes são numeradas com endereços IP
+das redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a
+rede no acesso à Internet, sendo que, a partir de qualquer
+máquina na rede, pode-se acessar a Internet.
+A partir dessas informações, julgue os itens a seguir, relativos à
+rede da referida empresa, considerando o seu correto
+funcionamento.
+I É correto utilizar a máscara 255.255.0.0 para segmentar a
+rede.
+II Os endereços de E1 a E9 podem ser endereços na rede
+10.0.0.0.
+III Os endereços E2, E4, E5 e E7 devem estar em uma mesma
+sub-rede.
+IV O endereço E10 deve ser um endereço na rede 164.41.0.0.
+V O firewall deve traduzir entre os endereços na rede 10.0.0.0
+e os endereços na rede 164.41.0.0.
+VI Os pacotes X.25 são transferidos dentro de pacotes IP.
+VII Não devem ter sido atribuídos endereços X.25 aos
+roteadores 1, 2, 3 e 4.
+VIII A rota default nas tabelas de roteamento dos roteadores
+1, 3 e 4 é o endereço E4.
+IX A rota default na tabela de roteamento do roteador 2 é o
+endereço E10.
+X Os endereços na rede 10.0.0.0 são visíveis pelas máquinas
+que estiverem na Internet.
+Estão certos apenas os itens
+A I, II, III, V, VIII e X.
+B I, II, III, IV, V e VIII.
+C II, IV, V, VIII, IX e X.
+D III, V, VI, VII, VIII e IX.
+E III, IV, V, VII, VIII e IX</Unicode></TextEquiv></TextRegion></Page></PcGts>

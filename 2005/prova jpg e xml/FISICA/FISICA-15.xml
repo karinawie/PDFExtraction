@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:40:08</Created>
+	<LastChange>2021-01-18T02:53:25</LastChange></Metadata>
+	<Page imageFilename="FISICA-15.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="162,1375 815,1375 815,1620 814,1620 814,2224 163,2224 163,1620 162,1620 162,1394 99,1394 99,1376 162,1376"/>
+	<TextEquiv conf="0.95378">
+	<Unicode>QUESTÃO 24
+A introdução da constante h por Planck, para interpretar o
+espectro de radiação de um corpo negro em função de
+sua frequência e temperatura, era de início uma hipótese
+provisória, segundo ele próprio, mas que acabou por
+tornar-se definitiva e dar origem a uma nova física. Entre
+as muitas razões para que o caráter provisório dessa
+constante se tornasse definitivo, foi a sua utilização como
+apoio teórico para a
+(A) obtenção da expressão empírica da posição das
+linhas do espectro do hidrogênio (fórmula de Balmer)
+e a proposta do modelo atômico do “pudim de
+passas”, de Thomson.
+(B) obtenção da razão carga/massa do elétron e a
+proposta do modelo atômico de Rutherford.
+(C) proposta do modelo atômico de Bohr e a dualidade
+onda-partícula de Broglie.
+(D) postulação da constância da velocidade da luz e a
+proposta relativística da deformação do espaço-
+tempo.
+(E) descoberta da radioatividade artificial e a descoberta
+da equivalência massa-energia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="162,95 815,95 815,402 557,402 557,535 814,535 814,918 653,918 653,1067 255,1067 255,1169 272,1169 272,1232 300,1232 300,1295 333,1295 333,1318 163,1318 163,918 154,918 154,835 236,835 236,722 171,722 171,698 187,698 187,484 163,484 163,402 162,402 162,115 99,115 99,96 162,96"/>
+	<TextEquiv conf="0.40616">
+	<Unicode>QUESTÃO 23
+Em 1935, Yukawa postulou a existência de um novo tipo
+de partícula com uma vida média, em repouso, da ordem
+de 108 s e cuja massa de repouso seria 200 vezes maior
+do que a massa de repouso do elétron. Essa partícula,
+batizada posteriormente de múon, foi observada experi-
+mentalmente, em 1947, pela equipe de Frank Powell, da
+qual fazia parte o físico brasileiro César Lattes. Suponha
+que os múons sejam produzidos por raios cósmicos, a
+21 km da superfície da Terra com velocidades próximas à
+velocidade da luz.
+Considere as seguintes afirmações:
+I. A observação dos múons foi feita em balões a
+grandes altitudes, pois seu tempo de viagem à
+superfície da Terra é muitas vezes superior à sua
+vida média.
+II. Os múons podem ser observados na superfície da
+Terra, pois a distância de 21 km no referencial do
+múon é contraída pelo fator 7 de Lorentz.
+III. A energia do múon, medida por um observador na
+Terra, é da ordem de 200 vezes a energia de
+repouso do elétron.
+É verdadeiro SOMENTE o que se afirma em
+(A) I
+(B) IT
+(C) III
+(D) IeII
+(E) ITeIII</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="842,74 842,2237 851,2237 851,74"/></SeparatorRegion></Page></PcGts>

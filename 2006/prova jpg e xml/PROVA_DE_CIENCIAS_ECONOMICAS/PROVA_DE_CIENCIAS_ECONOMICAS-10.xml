@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T03:45:30</Created>
+	<LastChange>2020-11-23T03:23:08</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_CIENCIAS_ECONOMICAS-10.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="823,232 821,2150 825,2150 827,232"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="833,232 831,2150 834,2150 836,232"/></SeparatorRegion>
+	<ImageRegion id="r4">
+	<Coords points="903,355 902,688 1516,688 1517,355"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="1018,1014 1018,1305 1358,1305 1358,1014"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="100,348 100,634 780,634 780,348"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,229 81,229 81,230 802,230 802,332 329,332 329,675 578,675 578,755 622,755 622,835 688,835 688,868 90,868 90,867 89,867 89,811 80,811 80,675 81,675 81,331 80,331"/>
+	<TextEquiv conf="0.96188">
+	<Unicode>QUESTÃO 22
+Considere os dois gráficos abaixo que contêm curvas de
+indiferença.
+É correto afirmar que
+(A) os bens x, e x, são complementares.
+(B) os bens x, e x, são bens inferiores.
+(O) os bens x, e x, são substitutos perfeitos.
+(D) os bens x, e x, são bens inferiores.
+(E) os bens x, e x, são complementares perfeitos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="851,1582 1045,1582 1045,1628 1572,1628 1572,1664 1575,1664 1575,1691 1573,1691 1573,1897 1575,1897 1575,1957 1573,1957 1573,2097 1575,2097 1575,2156 1574,2156 1574,2157 852,2157 852,1824 851,1824"/>
+	<TextEquiv conf="0.96428">
+	<Unicode>QUESTÃO 28
+Seja a função de produção da economia dada por Y, = AKk,
+onde Yé o produto, A é a tecnologia (constante) e K é uma
+medida ampla do estoque de capital (inclui capital físico e
+humano). Nesta economia, a taxa de poupança é igual a
+20% ao ano, a população é constante, e o nível de tecnologia é
+A=0,4.A esse respeito, qual afirmativa é verdadeira?
+(A) As taxas de crescimento do capital e do produto são iguais
+a8%aa.
+(B) As taxas de crescimento do capital e do produto são iguais
+a 6% e 8% a.a., respectivamente.
+(C) A produtividade é crescente.
+(D) O modelo prevê a convergência da renda per capita entre
+países com parâmetros idênticos e diferentes níveis
+iniciais de renda per capita.
+(E) Um aumento da taxa de poupança elevaria, temporaria-
+mente, a taxa de crescimento do produto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="850,232 1573,232 1573,739 1460,739 1460,835 1020,835 1020,868 852,868 852,802 851,802 851,335 850,335"/>
+	<TextEquiv conf="0.96541">
+	<Unicode>QUESTÃO 26
+A Curva de Philips, representada no quadro abaixo pela linha
+cheia, varia de posição com as expectativas de inflação.
+Em particular, no caso de maior expectativa de inflação,
+a Curva de Philips passaria a ser
+(A) AB.
+(C) CD.
+(E) horizontal.
+(B) AD.
+(D) vertical.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,899 80,900 273,900 273,941 803,941 803,1398 80,1398 80,1000 79,1000 79,975 80,975"/>
+	<TextEquiv conf="0.96753">
+	<Unicode>QUESTÃO 23
+No caso de um jogo com dois participantes, pode-se afirmar
+corretamente que
+(A) uma estratégia dominante para um jogador é superior às
+demais estratégias independente do que o outro jogador
+faça.
+(B) um equilíbrio com estratégias mistas implica a escolha
+de uma única distribuição de probabilidade para ambos
+os jogadores.
+(C) nos jogos de soma zero, os participantes podem colabo-
+rar para aumentar seu ganho conjunto.
+(D) no Equilíbrio de Nash, as estratégias escolhidas pelos
+jogadores não são dominantes.
+(E) o Equilíbrio de Nash de um jogo, quando existir, é
+sempre eficiente no sentido de Pareto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="80,1429 80,1430 273,1430 273,1468 802,1468 802,1693 784,1693 784,1861 801,1861 79,1861 80,1861 80,1693 79,1693 79,1468 80,1468"/>
+	<TextEquiv conf="0.96555">
+	<Unicode>QUESTÃO 24
+Um consumidor ganha R$ 1000,00/mês de renda e gasta
+R$ 200,00 mensalmente com alimentos, R$ 300,00 com
+aluguel, R$ 100,00 com transporte e R$ 100,00 com saúde
+(remédios, seguro e médicos). Se o preço dos alimentos cai
+10%, o aluguel cai 15%, o preço do transporte aumenta 5%,
+os serviços de saúde encarecem 10%, e os demais preços
+não se alteram, então a renda real desse consumidor
+(A) aumenta, no máximo, 5%.
+(B) aumenta, no mínimo, 5%.
+(C) não se altera, havendo compensação entre os preços .
+(D) diminui, aproximadamente, 5%.
+(E) diminui, no mínimo, 5%.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="80,1897 273,1897 273,1932 801,1932 801,1987 653,1987 653,2097 699,2097 699,2158 801,2158 801,2130 801,2158 81,2158 81,2157 80,2157"/>
+	<TextEquiv conf="0.91368">
+	<Unicode>QUESTÃO 25
+Uma política monetária expansionista no modelo IS/LM
+levará a um aumento
+(A) da demanda agregada e das taxas de juros.
+(B) da oferta agregada e das exportações.
+(C) da produção e a uma queda dos preços.
+(D) da produção e a uma queda das taxas de juros.
+(E) dos gastos do governo e das importações.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="851,898 1574,898 1574,992 1573,992 1573,1381 1368,1381 1368,1480 1299,1480 1299,1514 1277,1514 1277,1547 852,1547 852,1381 851,1381"/>
+	<TextEquiv conf="0.95017">
+	<Unicode>QUESTÃO 27
+A figura abaixo mostra uma representação gráfica do modelo
+IS/LM, onde y é o produto e r, a taxa de juros.
+O efeito crowding-out, de deslocamento total dos gastos
+privados pelos gastos públicos,
+(A) leva ao deslocamento da curva LM.
+(B) leva ao deslocamento da curva IS.
+(O) leva ao deslocamento das duas curvas.
+(D) evita o deslocamento da curva IS.
+(E) aumenta a produção e os juros.</Unicode></TextEquiv></TextRegion></Page></PcGts>

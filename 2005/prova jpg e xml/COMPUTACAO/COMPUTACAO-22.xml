@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:35:31</Created>
+	<LastChange>2020-11-13T11:49:12</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-22.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="101,175 1308,175 1308,262 1333,262 1333,408 1550,408 1550,567 1013,567 1013,611 944,611 944,739 1180,739 1180,790 959,790 959,955 1549,955 1549,993 944,993 944,1039 101,1039 101,954 102,954 102,955 547,955 547,790 534,790 534,739 535,739 535,611 101,611 101,408 179,408 179,199 102,199 102,198 101,198"/>
+	<TextEquiv conf="0.96237">
+	<Unicode>QUESTÃO 59
+Considere o seguinte esquema relacional para o banco de dados de um grande banco com cobertura nacional.
+AGENCIAS (NOME AGENCIA, CIDADE AGENCIA, FUNDOS);
+CONTAS (NOME AGENCIA, NUMERO CONTA, SALDO) NOME AGENCIA REFERENCIA AGENCIAS;
+CLIENTES (NOME CLIENTE, CIDADE NASCIMENTO, NUMERO CONTA) NUMERO CONTA REFERENCIA CONTAS;
+Considere, ainda, que os atributos sublinhados correspondam às chaves primárias das respectivas relações e, após as definições das
+relações CONTAS e CLIENTES, sejam descritas as regras de integridade referenciais. Suponha que o banco de dados armazene
+informações de 500 agências, de 1.000.000 de contas e de 1.500.000 clientes, sendo que 200.000 contas são de agências da cidade
+de São Paulo e 100.000 clientes nasceram em Recife. Considere, finalmente, que esse sistema de banco de dados tenha um otimizador
+de consultas embasado em heurísticas e que se precise realizar a seguinte consulta.
+SELECT *
+FROM AGENCIAS, CONTAS, CLIENTES
+WHERE CONTAS.NOME AGENCIA = AGENCIAS.NOME AGENCIA
+AND CLIENTES .NUMERO CONTA = CONTAS.NUMERO CONTA
+AND CIDADE AGENCIA = “SAO PAULO
+AND CIDADE NASCIMENTO = “RECIFE”
+AND SALDO &gt; 1000;
+A partir dessas informações e considerando &lt;lo operador de junção natural e O o operador de seleção, assinale a opção que apresenta
+o melhor plano de avaliação de consultas para a consulta apresentada acima.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="80,1080 80,1362 617,1362 617,1080"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="814,1111 814,1348 1568,1348 1568,1111"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="82,1494 82,1720 817,1720 817,1494"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="840,1502 840,1725 1342,1725 1342,1502"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="82,1834 82,2057 814,2057 814,1834"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:17:22</Created>
+	<LastChange>2020-10-20T23:16:01</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-20.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="302,528 302,1117 1231,1117 1231,528"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="79,376 111,376 111,411 1575,411 1575,502 1574,502 1574,1183 1573,1183 1573,1354 1458,1354 1458,1510 1114,1510 1114,1511 80,1511 80,1187 79,1187"/>
+	<TextEquiv conf="0.96154">
+	<Unicode>QUESTÃO 28
+Um químico necessita desenvolver um método para quantificar o aminoácido leucina presente em amostras de plasma,
+utilizando a cromatografia gasosa de alta resolução acoplada à espectrometria de massas (CG-EM) com ionização por impac-
+to de elétrons. Para isto, foi obtido o espectro de massas da leucina mostrado abaixo, utilizando o sistema CG-EM.
+A respeito da análise efetuada para o desenvolvimento do método de quantificação da leucina, foram feitas as seguintes
+afirmações:
+| — o pico base da leucina corresponde ao íon DD NT ;
+— . 2
+ll — a análise foi efetuada com varredura linear por ser uma técnica mais sensível que o monitoramento seletivo de íons;
+Ill — para validar este método de análise, devem ser determinados o limite de detecção e a faixa de linearidade, dentre outros parâmetros;
+IV — no espectro de massas da leucina, o pico do íon molecular apresenta m/z = 86.
+E(São) correta(s) apenas a(s) afirmação(ões):
+(A) I. (B) II. (C) III. (D) I e III. (E) II e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="79,1553 893,1553 893,1643 1574,1643 1574,1923 1454,1923 1454,2031 1111,2031 1111,2032 80,2032 80,1965 81,1965 81,1618 79,1618"/>
+	<TextEquiv conf="0.96311">
+	<Unicode>QUESTÃO 29
+Considere as afirmações abaixo, a respeito dos métodos analíticos.
+| - Ospicos associados às transições eletrônicas na espectroscopia de absorção atômica são, em geral, mais largos que os
+picos na espectroscopia molecular devido à ausência de ligação química e, portanto, de movimentos de rotação e vibração
+molecular.
+ll - Aseparação de duas amostras distintas de hidrocarbonetos aromáticos por cromatografia líquida de alta eficiência (HPLC)
+deve ser realizada em uma coluna de fase normal.
+MM - O tempo de aquisição do espectro de Carbono-13 (RMN-"ºC) é maior que o tempo de aquisição do espectro de
+Hidrogênio-1 (RMN-'H), pois além do "ºC ocorrer na natureza em menor abundância , sua sensibilidade relativa também é
+menor que a do '*H.
+É(São) correta(s) apenas a(s) afirmação(ões):
+(A) I. (B) II. (C) III. (D) I e III. (E) II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

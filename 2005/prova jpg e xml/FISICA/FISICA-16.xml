@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:39:57</Created>
+	<LastChange>2021-01-18T02:53:06</LastChange></Metadata>
+	<Page imageFilename="FISICA-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="123,245 775,245 775,656 776,656 776,708 775,708 775,1118 124,1118 124,470 123,470 123,264 60,264 60,246 123,246"/>
+	<TextEquiv conf="0.93476">
+	<Unicode>QUESTÃO 25
+Vários resultados recentes da cosmologia observacional
+indicam a existência de buracos negros no núcleo ativo de
+galáxias. A densidade de um buraco negro pode ser
+estimada, de acordo com a Lei da Gravitação Universal de
+Newton, calculando-se a velocidade de escape de uma
+“partícula” deslocando-se com a velocidade da luz, no
+campo gravitacional do buraco negro. Pode-se afirmar que
+a existência de buracos negros
+(A) é inteiramente previsível a partir da Teoria da Gravi-
+tação de Newton.
+(B) poderia ter sido inferida a partir das leis de Kepler
+para o movimento de corpos celestes.
+(C) somente se tornou previsível a partir da formulação
+da Teoria da Relatividade Restrita, com a imposição
+da constância da velocidade da luz.
+(D) somente se tornou previsível a partir da formulação
+da Teoria da Relatividade Restrita, acrescentada da
+Teoria Quântica para emissão de corpos negros.
+(E) somente se tornou previsível a partir da formulação
+da Teoria da Relatividade Geral.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="123,1178 775,1178 775,1802 717,1802 717,1893 261,1893 261,2197 294,2197 294,2221 124,2221 124,1893 123,1893 123,1802 115,1802 115,1747 132,1747 132,1431 123,1431 123,1197 60,1197 60,1179 123,1179"/>
+	<TextEquiv conf="0.95911">
+	<Unicode>QUESTÃO 26
+A Teoria da Relatividade de Einstein é considerada como
+um conhecimento físico com pequeno impacto na tecno-
+logia. No entanto, o GPS (Global Position System), um
+dos equipamentos mais modernos da tecnologia atual,
+considera os conteúdos desta teoria.
+Analise os itens abaixo relacionados à Teoria da Relativi-
+dade.
+I. A contração dos comprimentos e a inexistência do
+éter.
+II. A deformação do espaço-tempo decorrente da
+massa da Terra.
+III. A constância da velocidade da luz como seu prin-
+cípio básico.
+São considerados na construção do GPS, SOMENTE
+(A) I
+(B) II
+(C) III
+(D) IeII
+(E) IIeIII</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="800,82 800,2237 811,2237 811,82"/></SeparatorRegion></Page></PcGts>

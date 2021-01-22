@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:10:07</Created>
+	<LastChange>2020-11-13T12:53:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-36.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="400,485 400,1288 1254,1288 1254,485"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="1201,170 1575,170 1575,366 1573,366 1573,433 1387,433 1387,434 1200,434 1200,435 1180,435 1180,1405 466,1405 466,1505 439,1505 439,1536 264,1536 264,1537 81,1537 81,1538 80,1538 80,1346 79,1346 79,177 80,177 80,176 266,176 266,175 453,175 453,174 640,174 640,173 827,173 827,172 1014,172 1014,171 1201,171"/>
+	<TextEquiv conf="0.90446">
+	<Unicode>49
+Deseja-se fazer uma instalação elétrica em um imóvel que possui um grande corredor de circulação, conforme ilustra a figura
+abaixo. A instalação elétrica desejada consiste em permitir que os dois pontos de luz (L, e L,) possam ser ligados ou
+desligados simultaneamente, a partir de qualquer um dos dois interruptores disponíveis (1, e |,). As conexões através de fios
+elétricos A-F e F-H já estão indicadas no diagrama.
+O conjunto das demais conexões para completar a instalação elétrica desejada é dado por:
+(A) B-G ; G-1; F-C ; I-J ; D-K e E-L
+(B) B-C ; C-J ; J-|; -G e D-K
+(C) B-C ; C-J ; EL; D-G e K-l
+(D) B-C ; C-G ; H-J ; D-K e E-L
+(E) B-C ; D-K; E-L ; J-|l e IG</Unicode></TextEquiv></TextRegion></Page></PcGts>

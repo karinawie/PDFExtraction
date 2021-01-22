@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T01:38:23</Created>
+	<LastChange>2020-09-22T01:39:30</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-08.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,318 81,318 81,319 828,319 828,320 1574,320 1574,679 472,679 472,734 334,734 334,919 333,919 333,920 80,920 80,708 81,708 81,416 80,416"/>
+	<TextEquiv conf="0.87094">
+	<Unicode>QUESTÃO 11
+O progresso dos conhecimentos humanos, notadamente os referentes à biologia e à medicina, tiveram um grande
+impulso por meio de estudos utilizando-se animais de experimentação. Analise as proposições abaixo.
+| - Os animais criados em biotérios são selecionados previamente pela comunidade e o pesquisador não tem escolha
+sobre o modelo a ser utilizado.
+|l - Os animais selecionados para um experimento devem ser de espécie e qualidade apropriadas e apresentar boas
+condições de saúde, usando-se o número mínimo necessário para se obterem resultados válidos.
+Ill - Nenhum procedimento com animais silvestres poderá ser aprovado pelas comissões de ética em experimentação
+animal, sem autorização prévia fornecida pelo IBAMA.
+Está correto o que se afirma em
+(B) lell, somente.
+(C) lelll, somente.
+(D) lIlelll, somente.
+(E) Lilelll.
+(A) Il, somente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,970 80,971 271,971 271,1010 1574,1010 1574,1165 1500,1165 1500,1252 1349,1252 1349,1351 141,1351 141,1350 108,1350 108,1344 88,1344 88,1164 80,1164 80,1163 79,1163 79,1010 80,1010"/>
+	<TextEquiv conf="0.96882">
+	<Unicode>QUESTÃO 12
+Células-tronco adultas podem originar diferentes tecidos, inclusive neurônios e células cardíacas, com grande potencial
+terapêutico. Recentemente verificou-se que pacientes portadores de doenças cardíacas recuperaram parcialmente o
+funcionamento do coração quando inoculados com células-tronco mesenquimais. Da mesma forma, 61% de pacientes
+com mal de Parkinson tratados com células-tronco adultas melhoraram sua capacidade de realizar as tarefas diárias.
+Tendo em vista esses resultados, pode-se afirmar que
+a clonagem reprodutiva é necessária para o desenvolvimento de terapias celulares por meio de células-tronco.
+células-tronco adultas são obtidas a partir de embriões.
+o uso dessas células-tronco não é permitido do ponto de vista legal.
+em qualquer experimento realizado com seres humanos, há falta de ética.
+(A)a clonagem reprodutiva é necessária para o desenvolvimento de terapias celulares por meio de células-tronco.
+(B)células-tronco adultas são obtidas a partir de embriões.
+(C)o uso dessas células-tronco não é permitido do ponto de vista legal.
+(D)em qualquer experimento realizado com seres humanos, há falta de ética.
+(E)pesquisas com células-tronco podem apontar caminhos para novas técnicas de terapias celulares.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,1404 81,1404 81,1405 271,1405 271,1445 1574,1445 1574,1603 279,1603 279,1789 80,1789"/>
+	<TextEquiv conf="0.96460">
+	<Unicode>QUESTÃO 13
+O tecnécio-99m (Tc-99m) é um radioisótopo utilizado para a realização de imagens cintilográficas da glândula tireóide,
+possuindo uma meia-vida de 6 horas. De acordo com as normas de biossegurança vigentes, o limite máximo permissível
+para liberação de rejeitos radioativos é, no caso do Tc-99m, de uma atividade total máxima de 4 x 106 becqueréis (Bq).
+Se uma amostra residual de Tc-99m possui uma atividade total inicial de 1,28 x 108 Ba, o tempo mínimo aproximado de
+armazenagem desse resíduo antes de ser descartado em segurança é de
+(A) 30 minutos.
+(B) 3horas.
+(C) 30 horas.
+(D) 3dias.
+(E) 3O dias.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1844 81,1844 81,1845 272,1845 272,1884 1575,1884 1575,1969 1316,1969 1316,2161 81,2161 81,2160 80,2160 80,1969 79,1969 79,1968 80,1968"/>
+	<TextEquiv conf="0.96619">
+	<Unicode>QUESTÃO 14
+O radionuclídeo lodo-131, comumente utilizado em medicina nuclear, emite radiação gama e beta. Para manipulação
+desse radioisótopo há necessidade de proteção, sendo para isso empregadas barreiras de chumbo. Por que há
+necessidade dessas barreiras?
+(A) A radiação gama (eletromagnética) tem alto poder de penetração em diversos materiais.
+(B) A radiação gama (constituída por elétrons) tem alto poder de penetração em diversos materiais.
+(C) A radiação beta (eletromagnética) tem alto poder de penetração em diversos materiais.
+(D) A radiação beta (constituída por elétrons) tem alto poder de penetração em diversos materiais.
+(E) A emissão de radiação gama aumenta muito o poder de penetração da radiação beta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T04:44:52</Created>
+	<LastChange>2021-01-18T11:46:09</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="182,440 182,1231 1594,1231 1594,440"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,240 271,240 271,282 1574,282 1574,411 530,411 530,1330 1108,1330 1108,1457 1267,1457 1267,1524 91,1524 91,1525 90,1525 90,1524 80,1524 80,412 79,412 79,282 80,282"/>
+	<TextEquiv conf="0.96692">
+	<Unicode>QUESTÃO 30
+A figura abaixo mostra resultados obtidos em 1987 por Picard e Yamamoto. Células de mamífero em cultura foram
+transfectadas com vetor de expressão contendo as proteínas indicadas: (a) B-galactosidase; (b) proteína de fusão
+contendo receptor de glicocorticóide e B-galactosidase. Adicionou-se às células transfectadas um anticorpo contra
+B-galactosidase (marcado com indicador fluorescente) e dexametasona foi adicionada às células “+Dex”.
+Os resultados permitem concluir que
+A) ambas as proteínas só foram expressas em presença de dexametasona.
+B) B-galactosidase só foi expressa no citoplasma em presença de dexametasona.
+C) a proteína de fusão só foi expressa em presença de dexametasona.
+D) dexametasona inibiu a síntese da proteína de fusão, mas não a de B-galactosidase.
+E) em presença de dexametasona, a proteína de fusão deslocou-se para o núcleo das células.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,1588 267,1588 267,1631 1575,1631 1575,1781 1416,1781 1416,2032 1574,2032 1574,2089 1509,2089 1509,2158 81,2158 81,2159 80,2159 80,1782 79,1782 79,1631 80,1631"/>
+	<TextEquiv conf="0.96713">
+	<Unicode>QUESTÃO 31
+A leishmaniose constitui um problema de saúde extremamente grave e estima-se que 350 milhões de pessoas estejam
+infectadas em mais de 80 países. No Brasil, um dos países em que a situação é mais grave, duas formas de
+leishmaniose são observadas: a cutânea e a visceral. Em um posto de saúde, houve diagnóstico clínico de uma úlcera
+causada por infecção por Leishmania, que foi reportada imediatamente ao Ministério da Saúde. Conhecendo-se o ciclo
+de vida da Leishmania, deve-se
+(A) determinar o antibiótico ao qual essa bactéria é sensível, para estabelecer o tratamento do paciente.
+(B) buscar possíveis focos de mosquitos flebotomíneos, inseto transmissor dessa bactéria, para prevenção.
+(C) buscar possíveis focos de mosquitos Aedes, inseto transmissor desse protozoário, para prevenção.
+(D) averiguar, na comunidade, possíveis cães contaminados, uma vez que esses animais podem ser hospedeiros
+intermediários desse protozoário.
+(E) combater a forma epimastigota, intracelular, desse organismo para evitar sua propagação para outras pessoas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

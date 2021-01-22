@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T04:39:48</Created>
+	<LastChange>2020-11-23T03:24:43</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="80,1893 271,1893 271,1933 1457,1933 1457,2000 839,2000 839,2115 801,2115 801,2152 631,2152 631,2153 356,2153 356,2154 81,2154 81,2155 80,2155"/>
+	<TextEquiv conf="0.96481">
+	<Unicode>QUESTÃO 16
+Em relação à quantidade de O, transportada pela Hb em uma mesma pO, pode-se afirmar que a Hb transporta
+(A) mais O, quando a T é mais baixa ou o pH mais ácido.
+(B) menos O, quando a T é mais baixa ou o pH mais básico.
+(C) mais O, quando a T é mais baixa ou o pH é mais básico.
+(D) menos O, quando a T é mais alta ou o pH é mais básico.
+(E) mais O, quando a T é mais alta ou o pH é mais ácido.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="520,317 520,751 1108,751 1108,317"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="562,1411 562,1894 1105,1894 1105,1411"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,783 1574,783 1574,991 1276,991 1276,992 1086,992 1086,1151 929,1151 929,1268 1448,1268 1448,1319 1574,1319 1574,1414 1276,1414 1276,1415 977,1415 977,1416 678,1416 678,1417 379,1417 379,1418 80,1418 80,1419 79,1419 79,1268 80,1268 80,1039 78,1039 78,1013 79,1013 79,849 80,849"/>
+	<TextEquiv conf="0.96059">
+	<Unicode>QUESTÃO 15
+O gráfico resulta de um experimento realizado para verificar a eficácia de uma nova droga hipotensora em reduzir a
+pressão arterial média (PA média) de um grupo de pacientes hipertensos (Experimental). O resultado obtido
+(média + erro padrão da média) foi comparado à PA média de um grupo de pacientes hipertensos que não receberam a
+droga em questão (Controle).
+Utilizando-se o tratamento estatístico adequado e adotando-se um nível de significância de 5% (a =0,05), verificou-se
+que a probabilidade de a diferença observada entre os dois grupos ser devida ao acaso é de 9% (P = 0,09).
+A conclusão desses resultados é que
+(A) a droga tem um efeito significativamente hipotensor.
+(B) a droga deve ter um efeito hipotensor, que não foi detectado no experimento.
+(C) a droga tem um efeito significativamente hipertensor.
+(D) se pode afirmar que a droga não tem qualquer efeito hipotensor.
+(E) não se pode afirmar que esta droga tenha efeito hipotensor.
+Atenção: Para responder às questões de números 16 e 17 considere as informações e o gráfico que seguem.
+O gráfico representa a curva de dissociação da hemoglobina (Hb) em função da pressão parcial de oxigênio (pO,). Esta
+Curva desloca-se para a direita com o aumento da temperatura (T) ou diminuição do pH e para esquerda nos casos
+contrários (1T e TpH).</Unicode></TextEquiv></TextRegion></Page></PcGts>

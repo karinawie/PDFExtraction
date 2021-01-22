@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:12:19</Created>
+	<LastChange>2020-10-24T03:38:54</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="105,1480 105,1982 751,1982 751,1480"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="245,400 245,948 1585,948 1585,400"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="79,262 106,262 106,295 1567,295 1567,355 1078,355 1078,388 1028,388 1028,1032 903,1032 903,1132 613,1132 613,1164 82,1164 82,1165 80,1165 80,973 79,973"/>
+	<TextEquiv conf="0.93756">
+	<Unicode>QUESTÃO 23
+Um delineamento experimental com 4 repetições foi conduzido para avaliar o efeito da presença dos macro-nutrientes (nitrogê-
+nio, fósforo e potássio) na produtividade de uma certa cultura (ton/ha).
+Atabela de Análise de Variância relativa a esse experimento é apresentada a seguir.
+Analisando-se a tabela conclui-se que apresentou(aram) resultado significativo:
+(A) a interação (Nx P).
+(B) afonte de variação fósforo.
+(O) as fontes de variação nitrogênio e potássio.
+(D) as fontes de variação nitrogênio e potássio e a interação (P x K).
+(E) todas as interações e o efeito do fósforo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,1206 111,1206 111,1242 1566,1242 1566,1457 1588,1457 1588,1934 771,1934 771,1435 80,1435 80,1436 79,1436"/>
+	<TextEquiv conf="0.96861">
+	<Unicode>QUESTÃO 24
+A regressão linear simples apresenta uma relação entre uma variável dependente (Y) e uma variável independente (X) que
+mantêm estreito relacionamento. O coeficiente angular é o parâmetro da equação relacionado com a taxa de variação da
+variável Y em função de X. O coeficiente de correlação linear de Pearson serve como um indicador da relação linear entre as
+duas variáveis medindo o grau deste relacionamento.
+No exemplo hipotético abaixo, da relação entre a idade e o peso total, em gramas, de três espécies de peixes (A, Be C),
+foram encontradas a seguintes regressões:
+Analisando as três retas de regressão ajustadas, conclui-se que:
+(A) A apresenta maior coeficiente angular e maior coeficiente de
+correlação.
+(B) B apresenta menor coeficiente angular e coeficiente de correlação intermediário.
+(C) B apresenta coeficiente angular intermediário e maior coeficiente de correlação.
+(D) C apresenta menor coeficiente angular e maior coeficiente de
+correlação.
+(E) C apresenta coeficiente angular e coeficiente de correlação intermediários.</Unicode></TextEquiv></TextRegion></Page></PcGts>

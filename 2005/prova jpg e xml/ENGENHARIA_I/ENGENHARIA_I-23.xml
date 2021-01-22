@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:03:21</Created>
+	<LastChange>2020-11-13T12:43:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="79,439 368,439 368,566 1550,566 1550,802 1117,802 1117,1055 885,1055 885,1095 89,1095 89,1098 80,1098 81,1098 81,1095 88,1095 88,937 87,937 87,887 80,887 80,860 102,860 102,509 79,509"/>
+	<TextEquiv conf="0.96086">
+	<Unicode>35
+Analise o texto a seguir.
+A remoção de matéria orgânica originária dos esgotos ocorre através dos processos de desassimilação ou catabolismo.
+Os dois tipos de catabolismo de interesse no tratamento dos esgotos são: catabolismo oxidativo (oxidação da matéria
+orgânica) e catabolismo fermentativo (fermentação da matéria orgânica). O estado de oxidação do composto determina a
+quantidade de energia máxima disponível através dele. A energia máxima disponível por meio de oxidação de um substrato
+é a diferença entre o seu conteúdo energético (dado pelo seu estado de oxidação) e o conteúdo energético dos produtos
+finais da reação (dado pelo seu estado de oxidação ao final da reação).
+Nesse contexto, qual a relação entre estado de oxidação e liberação de energia?
+(A) Quanto menor o estado de oxidação do produto final, maior a liberação de energia.
+(B) Quanto menor o estado de oxidação do substrato, maior a liberação de energia.
+(C) Quanto maior o estado de oxidação do produto final, menor a liberação de energia.
+(D) Quanto maior o estado de oxidação do substrato, maior a liberação de energia.
+(E) Em uma reação de oxidação não ocorre a liberação de energia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1152 110,1152 110,1195 1573,1195 1573,1264 1371,1264 1371,1405 1513,1405 1513,1489 1573,1489 1573,1514 827,1514 827,1515 80,1515 80,1516 80,1264 79,1264"/>
+	<TextEquiv conf="0.96497">
+	<Unicode>36
+Com base na Constituição Federal de 1988 e principalmente na Lei 9 433/97, foi instituído o novo arcabouço legal para a gestão
+dos recursos hídricos no Brasil. Esta legislação teve inspiração na política francesa de gestão de recursos hídricos.
+Qual dos seguintes aspectos está previsto nesta nova base legal?
+(A) As águas brasileiras são de domínio exclusivo da União.
+(B) A Auditoria Ambiental é um dos instrumentos introduzidos pela Política Nacional de Recursos Hídricos.
+(C) A Cobrança pelo Uso dos Recursos Hídricos visa a arrecadar recursos para alavancar o desenvolvimento do estado.
+(D) Em situações de escassez, um dos usos prioritários dos recursos hídricos é a dessedentação de animais.
+(E) Agestão dos recursos hídricos é centralizada no Poder Público, mas este deve ouvir os usuários da bacia antes de decidir.</Unicode></TextEquiv></TextRegion></Page></PcGts>

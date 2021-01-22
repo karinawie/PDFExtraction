@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T14:22:09</Created>
+	<LastChange>2021-01-18T02:33:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-12.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="825,202 823,2158 827,2158 829,202"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="860,232 910,232 910,285 1550,285 1550,309 1549,309 1549,486 1550,486 1550,752 1408,752 1408,790 886,790 886,745 847,745 847,726 886,726 886,504 847,504 847,285 860,285"/>
+	<TextEquiv conf="0.91366">
+	<Unicode>QUESTÃO 23
+Com base nas informações apresentadas no texto, assinale a
+opção correta.
+A Para taxas de descontos maiores que Td, e menores que Td;,
+somente o projeto C é viável economicamente.
+B Para taxas de desconto menores que Td,, todos os projetos
+são viáveis economicamente.
+C Para taxas de desconto maiores que Td;, somente o projeto B
+é viável economicamente.
+D Para taxas de desconto maiores que Td, e menores que Td,,
+somente o projeto B é viável economicamente.
+E Para taxas de desconto maiores que Td, e menores que Td;,
+nenhum dos projetos é viável economicamente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="116,232 240,232 240,268 806,268 806,244 808,244 808,465 770,465 770,572 807,572 807,721 408,721 408,790 231,790 231,980 230,980 230,981 104,981 104,464 103,464 103,267 116,267"/>
+	<TextEquiv conf="0.94038">
+	<Unicode>QUESTÃO 21
+Uma equipe técnica decidiu realizar um estudo sobre a evolução
+temporal das áreas queimadas e desmatadas da Amazônia. Para
+tanto, a equipe optou pela utilização de técnicas de sensoriamento
+remoto, com base no processamento de imagens digitais de
+satélites de observação da Terra. Nessa situação, o uso de
+imagens digitais de sensoriamento remoto
+I proporciona visão simultânea de toda a área de interesse.
+II dispensa a realização de trabalhos em campo.
+III não elimina o uso de imagens já existentes no mercado e cujas
+resoluções espacial e temporal sejam compatíveis com as
+necessidades do estudo.
+IV permite que se realize o levantamento em qualquer época
+do ano.
+Estão certos apenas os itens
+Tell.
+Tel.
+Nell.
+Nelv.
+MelV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="116,1742 808,1742 808,1770 807,1770 807,1821 806,1821 806,1860 805,1860 805,1861 445,1861 445,1897 231,1897 231,2140 142,2140 142,2136 104,2136 104,1897 103,1897 103,1770 116,1770"/>
+	<TextEquiv conf="0.88411">
+	<Unicode>QUESTÃO 22
+A hierarquização correta, em ordem decrescente, dos três
+empreendimentos mencionados no texto, com relação ao mérito
+econômico de cada um deles, é
+A,B,C.
+B,C,A.
+C,A,B.
+A,C,B.
+C,B,A.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="139,1347 139,1704 780,1704 780,1347"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="103,1019 465,1019 465,1081 769,1081 769,1325 143,1325 143,1324 142,1324 142,1041 103,1041"/>
+	<TextEquiv conf="0.95981">
+	<Unicode>Texto para as questões 22 e 23.
+A Taxa Interna de Retorno (TIR) é um critério
+muito utilizado e recomendado pelo Banco Mundial na
+avaliação da viabilidade econômica de projetos. A TIR é um
+valor singular da taxa de desconto (Td), na qual benefícios
+e custos descontados de um projeto se equivalem. A figura
+a seguir mostra a variação do Valor Presente dos Benefícios
+Líquidos (VPBL), em função da Td, para três
+empreendimentos diferentes, identificados como A, Be C.</Unicode></TextEquiv></TextRegion></Page></PcGts>

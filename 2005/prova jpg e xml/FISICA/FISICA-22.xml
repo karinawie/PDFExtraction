@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:38:54</Created>
+	<LastChange>2021-01-18T02:50:34</LastChange></Metadata>
+	<Page imageFilename="FISICA-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="205,557 205,1440 742,1440 742,557"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="123,116 775,116 775,473 600,473 600,1477 775,1477 775,1879 776,1879 776,2218 187,2218 187,2219 186,2219 186,2160 124,2160 124,1609 123,1609 123,1477 124,1477 124,474 123,474 123,307 122,307 122,135 60,135 60,117 123,117"/>
+	<TextEquiv conf="0.91836">
+	<Unicode>QUESTÃO 27
+A ionosfera é uma camada de gás ionizado localizada a
+uma altitude em torno de 100 km. A relação de dispersão
+mw = f(k) para a ionosfera está representada no gráfico da
+figura 1. Quando k= 0, tem-se &amp; = m,, onde a frequência
+de plasma or é proporcional à raiz quadrada da densidade
+eletrônica da ionosfera. Considere uma onda eletromag-
+nética emitida verticalmente da superfície da Terra para a
+ionosfera como esquematizado na figura 2.
+Representando a velocidade de fase por V, a velocidade
+de grupo por Vg a velocidade da luz por c, e sabendo que
+Vg é a velocidade com a qual a onda eletromagnética
+propaga energia, pode-se afirmar que
+(A) a onda só atravessará a ionosfera se à&gt; O; no
+entanto dentro da ionosfera V;&gt;c e Vg &lt;c.
+(B) aonda sempre atravessará a ionosfera e tanto V; &lt;c
+como Vg &lt;c.
+(C) parte da onda sempre atravessará a ionosfera e
+parte sempre será refletida; a parte que atravessar
+terá V; menor do que a da parte refletida.
+(D) a onda só atravessará a ionosfera se &amp; &lt; QD; Vs será
+real enquanto V, será imaginária.
+(E) a onda só atravessará a ionosfera quando &amp; &lt; o, se
+sua direção de propagação não for vertical, mas fizer
+um ângulo 6 com a normal à ionosfera.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="802,85 802,2242 811,2242 811,85"/></SeparatorRegion></Page></PcGts>

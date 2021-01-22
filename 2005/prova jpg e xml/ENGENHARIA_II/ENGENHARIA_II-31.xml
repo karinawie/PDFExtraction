@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:10:53</Created>
+	<LastChange>2020-11-13T12:54:40</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-31.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="180,1468 180,1640 1485,1640 1485,1468"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="551,554 551,777 1168,777 1168,554"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="740,1265 740,1402 905,1402 905,1265"/></TableRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="79,409 110,409 110,445 1574,445 1574,543 1402,543 1402,947 999,947 999,1059 771,1059 771,1088 106,1088 106,1146 80,1146 80,1001 79,1001 79,974 249,974 249,544 79,544"/>
+	<TextEquiv conf="0.96974">
+	<Unicode>40
+Um voltímetro com duas escalas pode ser construído empregando-se um mostrador com bobina móvel, um amplificador
+operacional e dois resistores, como apresentado na figura. O mostrador de bobina móvel é modelado por um indutor de 11H
+em série com um resistor de 10 O e atinge o fundo de escala com uma corrente de 101 A.
+Os valores de R, e R, são, respectivamente, iguais a 1 MO e 100 ko.
+PORQUE
+A resistência interna do mostrador é desprezível, quando comparada com os valores de R, e R,.
+Analisando-se essas informações relativas à figura, conclui-se que
+(A) as duas afirmações são verdadeiras e a segunda justifica a primeira.
+(B) as duas afirmações são verdadeiras e a segunda não justifica a primeira.
+(C) a primeira afirmação é verdadeira e a segunda é falsa.
+(D) a primeira afirmação é falsa e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="79,1186 106,1186 106,1221 1390,1221 1390,1421 1572,1421 1572,1721 1573,1721 1573,1775 831,1775 831,2035 81,2035 81,2036 80,2036 80,1776 79,1776"/>
+	<TextEquiv conf="0.63622">
+	<Unicode>41
+O flip-flop T, cuja tabela funcional está apresentada abaixo, é muito empregado na construção de contadores.
+Afigura apresenta um circuito contador serial síncrono de n+1 bits, construído com flip-flops T , portas E e entrada habilitadora HAB.
+Considere que o único parâmetro temporal relevante é o tempo de propagação ou tempo de atraso e que os atrasos são de M
+segundos para cada flip-flop e de N segundos para cada porta E.
+Qual a expressão da maior frequência, em Hz, da onda quadrada a ser aplicada na entrada CLK para que o circuito funcione
+convenientemente?
+(A) (MIN) (B) M+nN1 to
+(n+1) (M+N) (PD) M+ (n+1) N1
+(E) (n+1) M+n N
+(C)</Unicode></TextEquiv></TextRegion></Page></PcGts>

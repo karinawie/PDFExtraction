@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:33:07</Created>
+	<LastChange>2021-01-18T02:12:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-11.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r7">
+	<Coords points="833,102 835,2132 839,2132 837,102"/></SeparatorRegion>
+	<ImageRegion id="r9">
+	<Coords points="851,417 851,663 1311,663 1311,417"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="845,757 845,1048 1388,1048 1388,757"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="845,1108 845,1417 1340,1417 1340,1108"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="845,1460 845,1774 1340,1774 1340,1460"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="851,1820 851,2102 1357,2102 1357,1820"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="863,120 1551,120 1551,150 1549,150 1549,320 1473,320 1473,361 851,361 851,177 863,177"/>
+	<TextEquiv conf="0.87596">
+	<Unicode>QUESTÃO 20
+Considere que y,(t) = 5Ssen(100r) seja a solução particular da
+equação diferencial que representa o comportamento dinâmico
+do sistema cuja resposta livre está apresentada no texto. Assinale
+a opção que melhor esboça o gráfico da resposta completa do
+referido sistema, após transcorrido um minuto (1 &gt; 60 s).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="148,702 148,1128 791,1128 791,702"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="103,114 465,114 465,180 824,180 824,567 593,567 593,665 104,665 104,666 103,666"/>
+	<TextEquiv conf="0.96153">
+	<Unicode>Texto para as questões 19 e 20.
+Diversos sistemas físicos amortecidos encontrados em
+engenharia podem ter seu comportamento expresso por meio de
+equações diferenciais ordinárias não-homogêneas de segunda
+ordem. A resolução desse tipo de equação envolve a obtenção da
+resposta y,(1) da equação diferencial homogênea associada, que
+expressa o comportamento do sistema livre de excitações externas,
+e a obtenção de uma solução particular y,(!) da equação
+não-homogênea. A soma de y,(1!) e y,(!) fornece a solução geral da
+equação não-homogênea. A resposta livre permite identificar a
+frequência das oscilações amortecidas (/) e a constante de
+amortecimento (k) do sistema. Considere que a resposta livre de
+um sistema seja dada pela função
+10 = Se“ cos(2Tf?),
+cujo gráfico está ilustrado na figura a seguir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="116,1179 825,1179 825,1209 823,1209 823,1285 235,1285 235,1500 104,1500 104,1229 116,1229"/>
+	<TextEquiv conf="0.84976">
+	<Unicode>QUESTÃO 19
+A frequência das oscilações amortecidas do sistema cuja resposta
+livre está apresentada no texto é igual a
+0,1 Hz.
+0,15 Hz.
+T rad/s.
+10 rad/s.
+10 Hz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

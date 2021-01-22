@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:01:36</Created>
+	<LastChange>2020-11-13T12:43:13</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-27.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,437 368,437 368,556 1543,556 1543,622 1541,622 1541,740 731,740 731,948 1417,948 1417,1014 1374,1014 1374,1053 80,1053 89,1053 89,896 88,896 88,857 80,857 80,830 112,830 112,622 110,622 110,505 79,505"/>
+	<TextEquiv conf="0.96503">
+	<Unicode>37
+Analise o texto a seguir.
+As projeções equivalentes conservam as relações de superfícies. Nestas projeções, cada uma das malhas da quadrícula
+equivale, na escala, à malha correspondente da esfera.
+As projeções conformes respeitam a relação de formas entre as figuras da superfície de projeção e as da esfera.
+Nas projeções conformes, qualquer área não muito extensa tem a mesma configuração na esfera ou no plano, isto é, um
+retângulo sobre a esfera será representado por um retângulo no plano.
+Considerando as informações do texto, conclui-se que
+(A) todas as projeções equivalentes são conformes.
+(B) todas as projeções conformes são equivalentes.
+(C) a escala dos comprimentos é constante em cada ponto, em todas as direções, nas projeções equivalentes.
+(D) não existe projeção que seja, ao mesmo tempo, equivalente e conforme.
+(E) as projeções equivalentes são convenientes para as aplicações em que se devem conservar os ângulos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,1103 111,1103 111,1138 1573,1138 1573,1249 1544,1249 1544,1327 1021,1327 1021,1366 719,1366 719,1406 594,1406 594,1445 80,1445 80,1249 79,1249"/>
+	<TextEquiv conf="0.96494">
+	<Unicode>38
+É muito importante entender a natureza dos erros em dados espaciais e o efeito que eles podem ter na qualidade da análise
+feita com Sistemas de Informações Geográficas. Considerando os fatores que afetam a qualidade dos dados espaciais, qual o
+significado estatístico atribuído à precisão?
+(A) Medida de dispersão de um conjunto de observações acerca de uma média, usualmente em termos do desvio padrão.
+(B) Distância entre duas entidades gráficas em um mapa digitalizado, usualmente linhas.
+(C) Grau com que uma média estimada difere do valor verdadeiro da grandeza.
+(D) Menor tamanho de feição que pode ser mapeado.
+(E) Menor unidade de informação espacial.</Unicode></TextEquiv></TextRegion></Page></PcGts>

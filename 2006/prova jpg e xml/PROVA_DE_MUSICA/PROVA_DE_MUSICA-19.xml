@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T02:40:54</Created>
+	<LastChange>2020-10-21T02:54:47</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="80,1345 495,1345 495,1396 1574,1396 1574,1630 80,1630 80,1629 79,1629 79,1396 80,1396"/>
+	<TextEquiv conf="0.92227">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Em recente entrevista concedida à revista Violão PRO (2006, nº 3), o violonista Fábio Zanon compara a formação do
+músico com o design de uma cadeira. Segundo ele, se as quatro pernas não são do mesmo tamanho, a cadeira fica
+desequilibrada. As quatro pernas, para ele, são: leitura musical, técnica ergonômica, cultura musical e instrução
+geral.
+Partindo do pressuposto de que esses quatro aspectos são, de fato, suficientes, estabeleça duas relações (por exemplo,
+entre leitura musical e técnica ergonômica), explicando de que maneira o desequilíbrio entre eles pode prejudicar a
+formação do músico. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="140,357 140,725 1497,725 1497,357"/></ImageRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="79,242 495,242 495,753 1574,753 1574,810 1573,810 1573,811 80,811 80,810 79,810"/>
+	<TextEquiv conf="0.94401">
+	<Unicode>QUESTÃO 37 — DISCURSIVA
+Analise o fragmento abaixo.
+Identifique o estilo e justifique sua resposta considerando os seguintes aspectos: textura, imitação, ornamentação e
+cifras. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

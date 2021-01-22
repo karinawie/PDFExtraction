@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:16:38</Created>
+	<LastChange>2020-10-20T23:19:10</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-24.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="191,440 191,1097 1434,1097 1434,440"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="65,1588 65,2022 637,2022 637,1588"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,261 94,261 94,297 1574,297 1574,423 1573,423 1573,1264 1574,1264 1574,1324 1573,1324 1573,1457 80,1457 80,1458 79,1458"/>
+	<TextEquiv conf="0.89445">
+	<Unicode>QUESTÃO 9
+A astaxantina é um composto carotenóide responsável pela cor do salmão. Em alguns crustáceos, como a lagosta e os
+camarões, ela encontra-se envolta em uma proteína presente em suas carapaças. Quando esses crustáceos são fervidos, a
+cadeia protéica se desnatura, liberando a astaxantina e conferindo uma cor rosa aos mesmos. A molécula do caroteno possui
+uma estrutura similar à da astaxantina, sendo o caroteno o responsável pela cor laranja de cenouras, mangas e caquis.
+a) Dentre os compostos, qual apresentará uma transição eletrônica n — 77 *? Justifique a sua resposta.
+(valor: 3,0 pontos)
+b) Que tipo de transição eletrônica é responsável pelas cores observadas nesses compostos?
+(valor: 3,0 pontos)
+c) Qualé arelação entre as estruturas e as cores apresentadas por estes compostos? Justifique a sua resposta com base
+nateoria dos orbitais moleculares.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

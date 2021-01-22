@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:20:59</Created>
+	<LastChange>2020-11-13T11:53:35</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-12.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="841,102 841,2150 843,2150 843,102"/></SeparatorRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="141,168 786,168 786,543 824,543 824,599 588,599 588,721 709,721 709,750 799,750 799,803 142,803 142,624 103,624 103,543 141,543"/>
+	<TextEquiv conf="0.96203">
+	<Unicode>QUESTÃO 30
+O desenvolvimento global de software GSD — global
+software development — tem-se firmado como uma das
+grandes tendências na área de sistemas de informação nas
+organizações. Considere que uma organização da área de
+varejo e distribuição sediada na Europa tenha implantado três
+unidades de desenvolvimento de software espalhadas no
+mundo: uma no Brasil, uma na Índia e outra na China.
+Considere ainda que nenhuma dessas unidades possua
+qualquer tipo de certificação e que o principal problema da
+organização esteja relacionado ao desenvolvimento de
+sistemas que atendam às necessidades da organização e que
+reflitam as expectativas dos clientes globais.
+Nessa situação, o nível do modelo SW-CMM e a KPA (área chave
+de processo) mais adequados para a situação apresentada são,
+respectivamente,
+nível 2, KPA RM - gestão de requisitos.
+nível 2, KPA SPP — planejamento.
+nível 2, KPA SPTO - acompanhamento de projeto.
+nível 3, KPA OPD - definição do processo da organização.
+nível 3, KPA SPE - engenharia de produtos de sofiware.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="142,869 785,869 785,1244 823,1244 823,1300 450,1300 450,1504 142,1504 142,1326 103,1326 103,1245 142,1245"/>
+	<TextEquiv conf="0.96681">
+	<Unicode>QUESTÃO 31
+O modelo de gerenciamento de projetos do PMI
+(Project Management Institute), descrito no PMBOK, envolve
+um conjunto de nove áreas de conhecimento a serem
+consideradas com vistas a melhorar o processo de gestão de
+um projeto, ampliando-se, consegitentemente, suas chances
+de sucesso. Considere que, no desenvolvimento de um
+sistema de vendas de uma empresa que atua no segmento
+industrial, o orçamento inicial tenha sido extrapolado em
+120% e que à equipe da área de sistemas tenha concluído o
+sistema com mais de quatro meses de atraso. Nas reuniões
+com os usuários para a entrega do sistema, foi constatado que
+este não atendia às especificações esperadas pelos usuários.
+Nessa situação,
+evidenciam-se áreas de conhecimento que
+compõem a chamada tripla restrição, que são as áreas de
+gerenciamento de
+escopo, contratação e custo.
+tempo, contratação e risco.
+custo, tempo e escopo.
+contratação, custo e tempo.
+risco, tempo e escopo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords points="103,1574 824,1574 824,1686 823,1686 823,1990 824,1990 824,2013 823,2013 823,2102 535,2102 535,2126 142,2126 142,1745 103,1745"/>
+	<TextEquiv conf="0.96211">
+	<Unicode>QUESTÃO 32
+O planejamento estratégico de sistemas de informação pode ser
+entendido como o processo de identificação de um porta-fólio
+computadorizado de aplicações que dá suporte ao plano de
+negócios das organizações e auxilia na concretização dos objetivos
+organizacionais.
+Os principais objetivos do
+processo de
+planejamento estratégico de sistemas de informação não incluem
+o alinhamento das estratégias da área de SI com as estratégias
+do negócio.
+o comprometimento da alta administração, pela alocação dos
+recursos e resultados intermediários e incrementais.
+a melhoria do desempenho da área de SI, seja pela alocação
+mais eficaz de recursos, seja pelo aumento de produtividade
+dos profissionais.
+a antecipação de tendências, envolvendo inovação tecnológica
+contínua.
+a identificação, a avaliação e a validação dos controles
+relacionados aos
+de vista de sua eficiência e eficácia.
+temas de informação existentes, do ponto</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="heading">
+	<Coords points="863,171 1549,171 1549,838 1551,838 1551,1121 1417,1121 1417,1265 1257,1265 1257,1179 1013,1179 1013,1294 903,1294 903,1179 863,1179 863,1157 902,1157 902,338 863,338"/>
+	<TextEquiv conf="0.96272">
+	<Unicode>QUESTÃO 33
+Considere que a rede de uma empresa usará os protocolos
+TCP/IP para facilitar o acesso do público às informações dessa
+empresa a partir de máquinas conectadas à Internet. Considere
+ainda que, ao serem descritos os protocolos que serão usados na
+rede, alguns erros foram cometidos. As descrições estão
+apresentadas nos itens a seguir.
+O Internet Protocol (IP) provê serviço não-orientado a
+conexão, e garante a entrega dos datagramas enviados. Além
+de garantir a entrega dos datagramas enviados, outra
+importante responsabilidade do IP é rotear os datagramas
+por meio de redes interligadas. O roteamento é feito usando-
+se endereços IP.
+O Internet Control Message Protocol (ICMP) possibilita
+que mensagens de erro e de controle sejam trocadas entre
+máquinas. As mensagens ICMP são transferidas como dados
+em datagramas do IP.
+O Transmission Control Protocol (TCP) provê um serviço
+orientado a conexão. Os dados são transferidos por meio de
+uma conexão em unidades conhecidas como segmentos.
+O TCP espera que a recepção dos segmentos transmitidos
+seja confirmada pelo destino e retransmite segmentos cuja
+recepção não seja confirmada.
+O User Datagram Protocol (UDP) provê um mecanismo
+para que aplicações possam comunicar-se usando
+datagramas. O UDP provê um protocolo de transporte
+orientado a conexão e não garante a entrega dos datagramas.
+A emulação de terminal usará o protocolo TELNET, e a
+transferência de arquivos, o File Transfer Protocol (FTP).
+O correio eletrônico será provido pelo Simple Mail Transfer
+Protocol (SMTP) e as mensagens serão transferidas dos
+servidores de correio eletrônico para as máquinas dos
+usuários via Internet Mail Access Protocol (IMAP).
+Estão corretas apenas as descrições
+LHelV.
+LUHevV.
+LUelV.
+O MN,IMevV.
+O ML, IVeV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r58" type="heading">
+	<Coords points="863,1364 1467,1364 1467,1423 1549,1423 1549,1904 1198,1904 1198,2032 1296,2032 1296,2136 902,2136 902,1967 862,1967 862,1945 902,1945 902,1387 863,1387"/>
+	<TextEquiv conf="0.96015">
+	<Unicode>QUESTÃO 34
+Julgue os seguintes itens referentes a teste de software.
+A técnica de teste funcional, que estabelece os requisitos de
+teste com base em determinada implementação, permite
+verificar se são atendidos os detalhes do código e solicita a
+execução de partes ou de componentes elementares do
+programa; a técnica de teste estrutural aborda o software de
+um ponto de vista macroscópico e estabelece os requisitos
+de teste, com base em determinada implementação.
+Na fase de teste de unidade, o objetivo é explorar-se a
+menor unidade de projeto, procurando-se identificar erros de
+lógica e de implementação de cada módulo; na fase de teste
+de integração, o objetivo é descobrir erros associados às
+interfaces entre os módulos quando esses são integrados,
+para se construir a estrutura do software, estabelecida na
+fase de projeto.
+Critérios com base na complexidade, em fluxo de controle
+eem fluxo de dados, são utilizados pela técnica estrutural de
+teste.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

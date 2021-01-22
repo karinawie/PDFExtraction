@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T04:31:45</Created>
+	<LastChange>2020-10-24T05:08:59</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-17.jpg" imageWidth="1656" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="442,448 442,654 1208,654 1208,448"/></TableRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="103,114 1551,114 1551,153 1433,153 1433,914 1426,914 1426,1070 1330,1070 1330,1215 105,1215 105,1216 104,1216 104,1168 103,1168 103,1047 221,1047 221,154 102,154 102,115 103,115"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 35
+Uma pequena empresa fabrica apenas os produtos X e Y, em uma única máquina, que funciona durante 40
+horas por semana. O gerente da empresa decidiu rever seu mix de produção (quantidade fabricada de cada produto)
+porque tinha a sensação de estar fazendo algo errado e achava que poderia, de alguma maneira, aumentar seu lucro.
+Para isso, pediu ajuda a um engenheiro de produção, que fez diversas entrevistas e resumiu todos os dados
+adicionais, relevantes para o problema, na tabela abaixo.
+O gerente explicou ao engenheiro que havia adotado o mix de produção atual porque acreditava ser mais
+interessante fabricar e vender o máximo possível do produto de maior margem de contribuição para o lucro e usar
+o resto da capacidade para produzir e vender o máximo possível do outro produto de menor margem. O
+engenheiro explicou ao gerente que essa hipótese poderia levar a um mau resultado e que seria necessário examinar
+melhor os "gargalos de lucro", ou seja, as restrições que poderiam efetivamente estar limitando o lucro.
+Com base exclusivamente na situação acima, faça o que se pede nos itens a seguir, explicitando os cálculos necessários.
+a) Quais são as restrições ou gargalos que limitam o lucro total semanal? (valor: 4,0 pontos)
+b) Formule o problema de otimização do lucro usando um modelo de programação linear. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

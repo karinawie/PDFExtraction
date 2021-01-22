@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:34:51</Created>
+	<LastChange>2020-11-13T11:49:36</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-21.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="510,279 510,668 787,668 787,279"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="816,183 816,2149 818,2149 818,183"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="871,254 871,591 1551,591 1551,254"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="101,262 489,262 489,715 619,715 619,752 799,752 799,1130 376,1130 376,1243 436,1243 436,1276 534,1276 534,1391 140,1391 140,1200 100,1200 100,1178 101,1178"/>
+	<TextEquiv conf="0.94887">
+	<Unicode>QUESTÃO 56
+Considere um sistema bancário
+simplificado e uma transação TI,
+que, por meio das 6 operações
+apresentadas na tabela ao lado,
+transfere R$ 100,00 da conta X
+para a conta Y. A partir dessas
+informações, julgue os itens que se
+seguem.
+I Se, durante a execução de TI,
+ocorrer uma falha depois da
+operação 3 e antes da operação
+6,6 o sistema de banco de dados
+restabelecer o valor original
+de X, estará garantida a atomicidade de T1.
+1 Se ocorrer uma falha de sistema após a transação T1 ser
+completada com sucesso, mas, ao ser reiniciado o sistema, o
+usuário que a tiver disparado for notificado da transferência
+de fundos e o sistema de banco de dados reconstruir as
+atualizações feitas pela transação, estará garantida a
+durabilidade de T1.
+1 Se outra transação, T2, que estiver sendo executada
+simultaneamente a Tl, operação
+escrita(Y) depois de T1 ter executado a operação 4 e
+ainda não ter executado a operação 6, e o sistema de banco
+de dados impedir essa escrita, estará garantida a consistência
+de TI.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="101,1469 798,1469 798,1620 799,1620 799,2129 101,2129"/>
+	<TextEquiv conf="0.96454">
+	<Unicode>QUESTÃO 57
+A escolha de uma boa representação de conhecimento é tarefa
+fundamental na resolução de problemas que envolvem
+inteligência artificial. Acerca desse assunto, assinale a opção
+correta.
+O O encadeamento regressivo, por utilizar busca em largura
+para resolução de conflitos, é menos usado que o progressivo.
+O O encadeamento progressivo utiliza busca gulosa para fazer
+a comparação entre os fatos armazenados na memória de
+trabalho do sistema e os antecedentes das regras a disparar.
+O As redes semânticas, mecanismo mais expressivo que a
+lógica de primeira ordem, foram desenvolvidas para se
+superar uma dificuldade dos sistemas embasados em lógica
+de representar categorias.
+O A representação de conhecimento frames é uma boa
+alternativa para esse tipo de problema, por incluir, além de
+um mecanismo de inferência semanticamente bem definido,
+mecanismos de encapsulamento e componentes, comuns ao
+paradigma orientado a objeto.
+O Tanto redes semânticas quanto frames representam
+facilmente conhecimento estrutural, comportamental e
+procedural.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r5">
+	<Coords points="908,1037 908,1228 1434,1228 1434,1037"/></TableRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="838,608 1549,608 1549,1457 1550,1457 1550,1815 1143,1815 1143,1896 1004,1896 1004,2121 878,2121 878,1896 838,1896"/>
+	<TextEquiv conf="0.96049">
+	<Unicode>QUESTÃO 58
+Uma forma de analisar e comparar o desempenho de algoritmos
+de busca heurística é utilizar um problema bem conhecido como
+referência. Um exemplo desse tipo de problema é o cálculo de
+rotas entre diferentes cidades. No grafo ilustrado acima, cada nó
+representa uma cidade distinta, e cada ramo, uma rodovia que
+interliga as cidades representadas pelos nós que ele une, cujo peso
+indica a distância, em km, entre essas cidades pela rodovia.
+Suponha que se deseje encontrar a melhor rota entre as cidades À
+e M, indicadas nesse grafo. Considere, ainda, os valores indicados
+na tabela abaixo como distância em linha reta, em km, de cada
+cidade para a cidade M.
+A partir dessas informações, julgue os itens seguintes, relativos a
+algoritmos de busca.
+I Utilizando-se o algoritmo A*, a rota ente A e M encontrada no
+problema acima é ACDFLM e o custo do caminho é 56,18.
+1 Utilizando-se a busca gulosa, a rota encontrada no problema
+acima é ACDFLM.
+III Para utilizar algoritmos de busca heurística, deve-se definir
+uma heurística que superestime o custo da solução.
+IV O A* é um algoritmo ótimo e completo quando heurísticas
+admissíveis são utilizadas.
+V Nosimulatedannealing, é possível haver movimentos para um
+estado com avaliação pior do que a do estado corrente,
+dependendo da temperatura do processo e da probabilidade
+de escolha.
+Estão certos apenas os itens
+LH em.
+LIVeV.
+LUL,evV.
+11, II, e IV.
+I,IVeV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

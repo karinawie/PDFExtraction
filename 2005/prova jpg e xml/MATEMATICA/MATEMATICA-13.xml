@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:58:38</Created>
+	<LastChange>2021-01-18T03:23:36</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-13.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="102,320 103,674 1186,670 1185,317"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="116,125 1551,125 1551,152 1431,152 1431,213 923,213 923,716 1470,716 1470,773 1321,773 1321,992 916,992 916,993 105,993 105,855 103,855 103,718 104,718 104,717 221,717 221,152 116,152"/>
+	<TextEquiv conf="0.93449">
+	<Unicode>QUESTÃO 29
+Em um paralelogramo ABCD, considere M o ponto da base AB tal que MB =
+do segmento CM com a diagonal BD, conforme figura a seguir.
+Prove, detalhadamente e de forma organizada, que a área do triângulo BME é igual a = da área do paralelogramo ABCD.
+No desenvolvimento de sua demonstração, utilize os seguintes fatos, justificando-os:
+» ostriângulos BME e DCE são semelhantes;
+» aalturado triângulo BME, relativa à base BM, é igual a i da altura do triângulo DCE relativa à base DC.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

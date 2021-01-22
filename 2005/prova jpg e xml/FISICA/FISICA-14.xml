@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:40:16</Created>
+	<LastChange>2021-01-18T02:54:02</LastChange></Metadata>
+	<Page imageFilename="FISICA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="60,96 777,96 777,306 776,306 776,479 775,479 775,723 774,723 774,1174 775,1174 775,1416 598,1416 598,1551 216,1551 216,1925 233,1925 233,2055 261,2055 261,2185 294,2185 294,2209 293,2209 293,2210 125,2210 125,2209 124,2209 124,1416 116,1416 116,1415 115,1415 115,1350 132,1350 132,1173 148,1173 148,892 123,892 123,891 122,891 122,591 123,591 123,114 60,114"/>
+	<TextEquiv conf="0.88099">
+	<Unicode>QUESTÃO 22
+Em uma carta à revista American Joumal of Physics (Am. J.
+Phys. v. 63, janeiro/1995), Roy Glauber, Prêmio Nobel de
+Física deste ano, discute a interpretação de resultados de
+experiências sobre interferência de fótons, que visam contra-
+dizer a seguinte afirmação de Paul Dirac, também Prêmio
+Nobel de Física, sobre a experiência de Michelson:
+“Cada fóton só interfere consigo mesmo. A interferência
+entre dois fótons não pode ocorrer nunca”.
+Numa das experiências comentadas por Glauber, cientis-
+tas franceses obtiveram franjas de interferência entre dois
+lasers distintos, mas bem sintonizados entre si, e interpre-
+taram o resultado como interferência entre fótons.
+Tendo em vista esses resultados experimentais, considere
+as seguintes ponderações.
+I. A afirmação de Dirac está incorreta, pois seu
+argumento só se aplica à interferência quântica.
+II. Em relação aos fótons, a interferência quântica e a
+interferência clássica são fenômenos idênticos.
+III. A afirmação de Dirac está correta contrariando a
+interpretação dos cientistas franceses.
+Estão corretas SOMENTE as ponderações
+(A) I
+(B) II
+(C) III
+(D) IeII
+(E) ITeIII</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="800,74 800,2242 811,2242 811,74"/></SeparatorRegion></Page></PcGts>

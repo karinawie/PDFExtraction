@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:38:32</Created>
+	<LastChange>2021-01-18T02:49:38</LastChange></Metadata>
+	<Page imageFilename="FISICA-24.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="123,95 776,95 776,143 775,143 775,429 776,429 776,507 478,507 478,603 370,603 370,738 387,738 387,788 453,788 453,837 470,837 470,860 124,860 124,508 115,508 115,429 131,429 131,308 148,308 148,144 123,144 123,115 60,115 60,96 123,96"/>
+	<TextEquiv conf="0.17691">
+	<Unicode>QUESTÃO 30
+Considere as seguintes proposições no contexto da Teoria
+da Relatividade Restrita:
+I. A magnitude da velocidade da luz independe do movimento relativo entre a fonte emissora e o observador.
+II. Um evento simultâneo em um referencial S será
+sempre simultâneo em um referencial S’, que se
+move com velocidade constante em relação a S.
+III. Uma partícula que possui energia e momento linear
+não nulos possui, necessariamente, massa de repouso não nula.
+Pode-se afirmar que SOMENTE
+(A) I é verdadeira.
+(B) II é verdadeira.
+(C) III é verdadeira.
+(D) I e II são verdadeiras.
+(E) I e III são verdadeiras.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="122,940 776,940 776,1464 755,1464 755,1726 774,1726 774,1880 776,1880 776,1932 775,1932 775,2023 774,2023 774,2218 125,2218 125,2219 124,2219 124,1465 122,1465 122,959 60,959 60,941 122,941"/>
+	<TextEquiv conf="0.95491">
+	<Unicode>QUESTÃO 31
+O uso da técnica PET (Positron Emission Tomography)
+permite obter imagens do corpo humano com um nível de
+detalhamento que não pode ser obtido com técnicas
+tomográficas convencionais. A base deste método é a
+utilização de um composto marcado com um elemento
+radioativo. O elemento radioativo decai por emissão B*
+(pósitron). Quando praticamente em repouso, o pósitron
+captura um elétron, decaindo através da emissão de dois
+raios y (processo de aniquilação). Para a obtenção de
+imagens do cérebro, utiliza-se a fluorodeoxiglicose (FDG),
+marcada com átomos de !ºF. O tempo de meia vida
+(tin) do *8F é de 110 minutos. Suponha que numa
+tomografia PET, nq moléculas de FDG marcadas sejam
+administradas a um paciente. O tempo de duração do
+exame é de 55 minutos.
+Dado:
+In2
+n(t) = nge Mt; 1 =="
+1/2
+É correto afirmar que
+(A) o decaimento do !8F pode ser representado por:
+1872 7 + a
+F&gt; F+n+bB + v, onde n representa o nêutron
+e v, o neutrino.
+(B) no decaimento B* um próton do núcleo emissor
+decai unicamente em um nêutron e um pósitron.
+(C) os dois raios 7, produzidos na aniquilação, são
+emitidos na mesma direção e sentido.
+(D) o número de átomos !8F que decaem durante o exa-
+me é aproximadamente 0,29 n,.
+(E) o número de átomos de !8F restantes no paciente,
+385 minutos após o final do exame será 0,25 n,.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="802,82 802,2245 811,2245 811,82"/></SeparatorRegion></Page></PcGts>

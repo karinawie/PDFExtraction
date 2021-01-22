@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:03:07</Created>
+	<LastChange>2020-11-13T12:43:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-24.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="305,940 305,1902 1360,1902 1360,940"/></ImageRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="80,257 1077,257 1077,258 1575,258 1575,815 1570,815 1570,881 79,881 79,814 80,814"/>
+	<TextEquiv conf="0.93170">
+	<Unicode>7
+Deseja-se dimensionar uma bomba centrífuga para uma instalação predial. A população estimada para efeito de projeto é de
+750 pessoas e o consumo diário por pessoa é de 200L/dia de água. A altura estática de aspiração (altura de sucção) é de
+2,5 me a altura estática de recalque é de 40,0 m. Considere que a perda de carga na aspiração (sucção) mais a altura
+representativa da velocidade são equivalentes a 60% da altura de sucção e que a perda de carga no recalque é equivalente a
+40% da altura de recalque. Considere ainda que a bomba deve funcionar 6 horas por dia.
+Utilizando as Figs. 1 e 2, determine:
+a) o modelo da bomba padronizado pelo fabricante; (valor: 5,0 pontos)
+b) a potência do motor; (valor: 3,0 pontos)
+c) entre que valores está o rendimento da bomba. (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

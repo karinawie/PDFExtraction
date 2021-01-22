@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:11:31</Created>
+	<LastChange>2020-10-24T03:39:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="811,537 812,1022 1555,1021 1554,536"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="135,537 136,1270 693,1269 692,536"/></ImageRegion>
+	<TextRegion id="r5" type="caption">
+	<Coords points="1519,1038 1519,1059 838,1059 838,1060 837,1060 837,1038"/>
+	<TextEquiv conf="0.91748">
+	<Unicode>(Disponível em http://www.levelcontrol.com.br/Calha Parshall2.jpg)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="712,1287 712,1309 120,1309 120,1310 119,1310 119,1287"/>
+	<TextEquiv conf="0.92053">
+	<Unicode>(Disponível em http://www.agr.feis.unesp.br/vertp43.JPG)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,259 110,259 110,295 1573,295 1573,488 1190,488 1190,1528 1573,1528 1573,1589 903,1589 903,1621 827,1621 827,1622 81,1622 81,1623 80,1623 80,490 79,490"/>
+	<TextEquiv conf="0.96216">
+	<Unicode>QUESTÃO 29
+Na avaliação de um canal destinado ao abastecimento de água de um perímetro irrigado é necessário determinar a vazão
+escoada nesse canal a cada instante. Para tal, podem ser utilizados vários métodos de medição ou de estimativa da vazão.
+Para a estimativa podem ser utilizadas equações experimentais, como as de Manning e Chezy, ou, ainda, estruturas de
+controle como os vertedouros e calhas Parshall. No caso da medição da vazão podem ser usados métodos diretos de deter-
+minação de volume e tempo ou de determinação da velocidade e da seção e, com isso, construir-se a curva chave do canal,
+representando a vazão a diferentes alturas da lâmina d'água.
+Em relação aos métodos de determinação da vazão do canal, tem-se que:
+(A) A forma mais precisa de estimativa de vazões é a que utiliza equações experimentais.
+(B) A qualquer momento a vazão de um canal pode ser medida pela altura da lâmina d'água.
+(C) Nas estruturas de controle o que se mede é a velocidade de escoamento.
+(D) As calhas tipo Parshall são utilizadas para estimativa da vazão, pois produzem condições específicas de escoamento em
+determinados pontos de observação.
+(E) Os vertedouros são a forma mais precisa de medição de vazões.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:26:24</Created>
+	<LastChange>2020-10-24T04:08:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-20.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="116,215 243,215 243,280 602,280 602,373 790,373 790,953 363,953 363,1076 809,1076 809,1099 688,1099 688,1232 808,1232 808,1233 809,1233 809,2057 521,2057 521,2108 141,2108 141,2057 101,2057 101,1076 120,1076 120,232 116,232"/>
+	<TextEquiv conf="0.96243">
+	<Unicode>QUESTÃO 36
+Uma boa idéia se perpetua
+O policloreto de vinila PVC foi sintetizado em 1912,
+mas só começou à ser comercializado a partir de 1926, quando
+W. Semon descobriu sua plastificação. Sua utilização em larga
+escala já é comum na construção civil há mais de duas décadas.
+A produção de tubos de PVC emprega o processo de extrusão.
+Inicialmente, o PVC em pó é misturado a vários outros aditivos
+em um misturador de pó, produzindo uma formulação. Esta é
+introduzida no funil de alimentação da extrusora, bombeada
+para frente, plastificada e forçada a passar por uma matriz
+anular. o Diâmetro externo do tubo é definido por um sistema
+de calibração ao mesmo tempo em que é resfriado e cortado
+em comprimento padronizado. Para identificação e divulgação
+da marca, alguns dados são estampados ao longo do
+comprimento do tubo.
+Para reduzir o custo de produção e melhorar a qualidade e a
+produtividade dos tubos de PVC, seria recomendável
+O reduzir o custo da formulação, eliminando-se o estabilizante
+térmico, que, além de ser caro, é tóxico e tem papel
+secundário.
+O substituir-se o estabilizante térmico por pigmento marrom —
+que esconde a coloração escura que aparece com a degradação
+— , o que reduz o custo da formulação.
+O aumentar-se a concentração do plastificante usado, pois este
+reduz a viscosidade do fundido, o que facilita a extrusão sem
+afetar as propriedades mecânicas do tubo.
+O utilizar-se, na formulação, uma mistura de resinas de PVC
+obtidas por emulsão e por suspensão, pois isso permite
+aumentar o empacotamento das partículas, o que facilita a
+extrusão.
+O adicionar-se soda cáustica (hidróxido de sódio) na formulação,
+para neutralizar o ácido clorídrico gerado pela degradação
+térmica do PVC. Essa base é barata, eficiente e pode ser
+usada em pequenas concentrações.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="848,205 1549,205 1549,244 1484,244 1484,427 1529,427 1529,1250 1546,1250 1546,1272 1117,1272 1117,1381 1548,1381 1548,1623 1546,1623 1546,2075 1456,2075 1456,2119 889,2119 889,2120 888,2120 888,2076 849,2076 849,1317 848,1317 848,1250 867,1250 867,777 868,777 868,427 911,427 911,245 847,245 847,206 848,206"/>
+	<TextEquiv conf="0.05326">
+	<Unicode>QUESTÃO 37
+Magnus magnes ipsum est globus terrestris
+(O nosso planeta é um grande ímã, William Gilbert)
+O jornal Folha de S. Paulo noticiou recentemente que
+a grafite deve ganhar novas aplicações comerciais sob a forma
+de um novo material fortemente magnético (ferromagneto). À
+grafite comercial é um material formado por planos de grafenos
+— hexágonos de átomos de carbono ligados covalentemente —
+ligados entre si por forças fracas do tipo Van der Waals.
+A substituição de elementos como ferro, cobalto e
+níquel por grafite magnética teria enorme impacto em diversas
+áreas.
+Na transformação química da grafite comercial em um
+material magnético, são introduzidas pequenas cavidades na
+estrutura do mineral pelas quais passam correntes eletrônicas
+que geram um momento magnético resultante não-nulo
+semelhante ao produzido por um solenóide. Não se pode
+imputar esse comportamento à presença de impurezas
+magnéticas no material, que é da ordem de algumas dezenas de
+partes por milhão (ppm). Assim, o efeito parece ser
+genuinamente intrínseco ao processo aplicado à grafite
+comercial, ou seja, à existência de cavidades na estrutura do
+material.
+Tendo como referência o texto acima e sabendo que Z(C) = 6,
+assinale a opção correta.
+O Um material orgânico é formado essencialmente por carbono
+e, portanto, é ferromagnético, independentemente de qualquer
+transformação fíisico-química.
+O O comportamento ferromagnético do novo material
+desenvolvido, grafite magnética, tem como origem os
+elétrons 3d da estrutura eletrônica do carbono.
+O A grafite comercial, como conseqiiência de sua estrutura,
+apresenta propriedades elétricas fortemente anisotrópicas,
+que permitem o aparecimento do ferromagnetismo por meio
+da introdução de defeitos colunares nos planos de grafenos.
+O As impurezas magnéticas presentes na grafite comercial
+formam agrupamentos magnéticos localizados, chamados de
+clusters, que dão origem ao comportamento ferromagnético
+observado na grafite magnética.
+O A grafite magnética é um novo compósito biocompatível que
+pode ser utilizado em medicina visando-se à obtenção de
+novos medicamentos e de elementos de engenharia.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="820,174 820,2142 828,2142 828,174"/></SeparatorRegion></Page></PcGts>

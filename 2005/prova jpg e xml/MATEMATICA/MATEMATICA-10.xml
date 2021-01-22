@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-22T23:59:10</Created>
+	<LastChange>2020-11-13T21:48:07</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-10.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r10">
+	<Coords points="828,103 829,2163 832,2163 831,103"/></SeparatorRegion>
+	<TextRegion id="r60" type="heading">
+	<Coords points="864,136 1552,136 1552,160 1550,160 1550,274 1239,274 1239,415 1550,415 1550,513 1551,513 1551,536 1550,536 1550,859 1359,859 1359,897 891,897 891,898 890,898 890,892 853,892 853,808 890,808 890,629 851,629 851,513 890,513 890,306 851,306 851,183 864,183"/>
+	<TextEquiv conf="0.90023">
+	<Unicode>QUESTÃO 22
+No espaço R , considere os planos P1 e P2 de equações 3
+P1: 5x + y + 4z = 2 e P2: 15x + 3y + 12z = 7.
+Um estudante de cálculo, ao deparar-se com essa situação,
+escreveu o seguinte:
+Os planos A1 e A2 são paralelos
+porque
+o vetor de coordenadas (10, 2, 8) é um vetor não-nulo e
+normal a ambos os planos.
+Com relação ao que foi escrito pelo estudante, é correto afirmar
+que
+A as duas asserções são proposições verdadeiras, e a segunda é
+uma justificativa da primeira.
+B as duas asserções são proposições verdadeiras, mas a segunda
+não é uma justificativa da primeira.
+C a primeira asserção é uma proposição verdadeira, e a segunda
+é falsa.
+D a primeira asserção é uma proposição falsa, e a segunda é
+verdadeira.
+E ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords points="116,136 812,136 812,161 810,161 810,433 811,433 811,598 414,598 414,633 142,633 142,459 151,459 151,379 103,379 103,161 102,161 116,161"/>
+	<TextEquiv conf="0.86329">
+	<Unicode>QUESTÃO 18
+As equações x2 + y2 + 4x – 4y + 4 = 0 e x2 + y2 – 2x + 2y + 1 = 0
+representam, no plano cartesiano xOy, as circunferências C1 e C2,
+respectivamente. Nesse caso,
+A as duas circunferências têm exatamente 2 pontos em comum.
+B a equação da reta que passa pelos centros de C1 e C2 é
+expressa por y = !x + 1.
+C os eixos coordenados são tangentes comuns às duas
+circunferências.
+D o raio da circunferência C1 é o triplo do raio da circunferência
+C2.
+E as duas circunferências estão contidas no primeiro quadrante
+do plano cartesiano xOy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="812,648 812,688 810,688 810,806 523,806 523,839 296,839 296,1060 294,1060 294,1061 290,1061 290,1062 274,1062 274,1063 268,1063 268,1064 235,1064 235,1065 229,1065 229,1066 222,1066 222,1067 216,1067 216,1068 195,1068 195,1069 185,1069 185,1070 176,1070 176,1071 170,1071 170,1072 135,1072 135,1071 126,1071 126,1070 110,1070 110,1069 108,1069 108,1068 106,1068 106,1067 104,1067 104,1048 103,1048 103,688 102,688 102,648"/>
+	<TextEquiv conf="0.36208">
+	<Unicode>QUESTÃO 19
+O mandato do reitor de uma universidade começará no dia 15 de
+novembro de 2005 e terá duração de exatamente quatro anos,
+sendo um deles bissexto. Nessa situação, conclui-se que o último
+dia do mandato desse reitor será no(a)
+A sexta-feira.
+B sábado.
+C domingo.
+D segunda-feira.
+E terça-feira.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="296,1062 296,1081 763,1081 763,1152 810,1152 810,1282 666,1282 666,1318 104,1318 104,1282 103,1282 103,1188 104,1188 104,1069 105,1069 105,1070 107,1070 107,1071 109,1071 109,1072 125,1072 125,1073 134,1073 134,1074 171,1074 171,1073 177,1073 177,1072 186,1072 186,1071 196,1071 196,1070 217,1070 217,1069 223,1069 223,1068 230,1068 230,1067 236,1067 236,1066 269,1066 269,1065 275,1065 275,1064 291,1064 291,1063 295,1063 295,1062"/>
+	<TextEquiv conf="0.36208">
+	<Unicode>Leia o texto a seguir para responder às questões 20 e 21.
+Desenha-se no plano complexo o triângulo T com vértices
+nos pontos correspondentes aos números complexos z,, 27 e Z3, que
+são raízes cúbicas da unidade. Desenha-se também o triângulo S,
+com vértices nos pontos correspondentes aos números complexos
+W, W, E W3, que são raízes cúbicas complexas de 8.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="heading">
+	<Coords points="116,1348 812,1348 812,1372 665,1372 665,1488 671,1488 671,1529 618,1529 618,1715 649,1715 649,1738 387,1738 387,1739 143,1739 143,1733 105,1733 105,1686 104,1686 104,1506 103,1506 103,1395 116,1395"/>
+	<TextEquiv conf="0.85903">
+	<Unicode>QUESTÃO 20
+Com base no texto acima, assinale a opção correta.
+A é um dos vértices do triângulo T.
+B é um dos vértices do triângulo S.
+C w1z1 é raiz da equação x – 1 = 0. 6
+D Se w1 = 2, então .
+E z1 = 1, então z2 é o conjugado complexo de z3.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="182,1778 240,1778 240,1827 810,1827 810,1851 269,1851 269,2072 227,2072 227,2105 103,2105 103,1827 116,1827 116,1781 182,1781"/>
+	<TextEquiv conf="0.05808">
+	<Unicode>QUESTÃO 21
+Na situação descrita no texto, se a é a área de T e se aN é a área de
+S, então
+A aN = 8a.
+B aN = 6a.
+C aN = 4a.
+D aN = .
+E aN = 2a.</Unicode></TextEquiv></TextRegion></Page></PcGts>

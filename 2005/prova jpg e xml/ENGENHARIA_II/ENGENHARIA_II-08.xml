@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:14:34</Created>
+	<LastChange>2020-11-13T13:01:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-08.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="920,908 920,1477 1577,1477 1577,908"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,402 98,402 98,437 1577,437 1577,649 1458,649 1458,810 1533,810 1533,841 1577,841 1577,893 111,893 111,894 110,894 110,868 84,868 84,650 83,650"/>
+	<TextEquiv conf="0.96129">
+	<Unicode>8
+O gás ozônio (O,) e os clorofluorcarbonos (CFCs) são exemplos da dificuldade de se classificar uma substância como
+poluente, pois podem trazer benefícios ou prejuízos à sociedade e aos seres vivos. O ozônio, nas camadas mais baixas da
+atmosfera, é tóxico, mas, na estratosfera, absorve radiação ultravioleta (UV) proveniente do Sol, evitando os efeitos nocivos do
+excesso dessa radiação nos seres vivos.
+Os CFCs apresentam baixa toxicidade e são inertes na baixa atmosfera. Entretanto, quando atingem a estratosfera, são
+decompostos pela radiação UV, liberando átomos e compostos que destroem moléculas de ozônio, sendo, portanto, conside-
+rados os principais responsáveis pela destruição do ozônio na estratosfera.
+De acordo com as idéias do texto acima,
+(A) os CFCs são nocivos ao seres vivos, pois impedem a incidência da radiação ultravioleta na superfície terrestre.
+B) a camada de ozônio é responsável pela maior incidência da radiação ultravioleta na superfície terrestre.
+) o ozônio e os CFCs são os principais responsáveis pelas mudanças climáticas observadas nos últimos anos.
+) a camada de ozônio na estratosfera tem sido recuperada devido às interações da radiação ultravioleta com os CFCs.
+) a camada de ozônio protege os seres vivos do excesso de radiação ultravioleta e pode ser destruída pela ação dos CFCs
+na estratosfera.
+(
+(C
+(D)
+(E</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="83,1492 1578,1492 1578,1666 1577,1666 1577,2036 84,2036 84,2037 84,1742 83,1742"/>
+	<TextEquiv conf="0.96164">
+	<Unicode>10
+O supercomputador T-Rex (Tiranossauro Rex) e o software Harpia são as mais novas armas da Receita Federal do Brasil para
+combater a sonegação fiscal. Esse hardware, que realiza 2.860 milhões de instruções por segundo, é capaz de cruzar informa-
+ções, com rapidez e precisão, de um número de contribuintes equivalente ao de contribuintes do Brasil, dos EUA e da
+Alemanha juntos. O novo software vai permitir que, a partir de técnicas de inteligência artificial, sejam identificadas operações
+de risco para o fisco. A novidade do sistema é a capacidade que ele terá de aprender com o comportamento dos contribuintes
+e com isso detectar irregularidades.
+Folha de S.Paulo, p. B1, 16 out. 2005 (com adaptações).
+Considerando o texto acima, assinale a opção correta, relativa a informática.
+(A) A capacidade do T-Rex é equivalente à de 2.860 computadores pessoais de 1 GB de memória RAM, desde que suas
+capacidades possam ser adicionadas.
+(B) Para “cruzar informações, com rapidez e precisão”, o T-Rex poderá usar a Internet, que constitui meio inviolável de trans-
+missão de informação entre bancos de dados.
+(OC) E possível que a capacidade de “aprender com o comportamento dos contribuintes”, mencionada no texto, seja decorrente
+do uso de redes neurais como ferramenta de inteligência artificial.
+(D) Embora os computadores sejam indispensáveis a diversos ramos da engenharia, o estágio atual do desenvolvimento
+de sistemas operacionais restringe o uso de redes de computadores a grandes empresas.
+(E) O sistema de informação descrito no texto deve ter sido desenvolvido em Linux ou Unix, que constituem linguagens de
+programação avançadas usadas na implementação de sistemas de informação complexos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="83,933 760,933 760,934 761,934 761,1009 818,1009 818,1323 80,1323 80,1009 83,1009"/>
+	<TextEquiv conf="0.95788">
+	<Unicode>9
+De acordo com a fala do personagem na charge ao lado,
+(A) meio ambiente e produção industrial são fatores igualmen-
+te relevantes na discussão sobre ética e desenvolvimento.
+(B) a defesa da ética sobrepõe-se ao poder industrial, repre-
+sentado, na discussão, por Joana.
+(OC) os estragos na camada de ozônio têm retardado a
+implementação de tecnologias voltadas para o desenvolvi-
+mento sustentável.
+(D) a camada de ozônio ameaça a indústria dos CFCs porque o
+gás O, reage com o cloro prejudicando a formação dos CFCs.
+(E) o discurso em defesa da ética na utilização de tecnologias</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:18:01</Created>
+	<LastChange>2020-10-20T23:28:53</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1572,170 1572,171 1573,171 1573,656 1200,656 1200,658 827,658 827,660 453,660 453,662 80,662 80,664 79,664 79,175 452,175 452,173 826,173 826,171 1199,171 1199,170"/>
+	<TextEquiv conf="0.80161">
+	<Unicode>QUESTÃO 25
+Qual a solubilidade do carbonato de cálcio, em mol.L*!, presente em uma solução aquosa de CaCl, cuja concentração é de
+0,2 mol.L!?
+Dados: K,,do CaCO,=8,7x1 o”?
+(A) 8,7 x 10−9
+(B) 8,7 x 10−8
+(C) 4,4 x 10−8
+(D) 1,8 x 10−9
+(E) 1,8 x 10−8</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="380,917 380,1428 1097,1428 1097,917"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,731 1574,731 1574,873 1320,873 1320,1696 1045,1696 1045,1735 724,1735 724,1736 512,1736 512,2004 81,2004 81,2012 80,2012 80,875 79,875 79,732 80,732"/>
+	<TextEquiv conf="0.96561">
+	<Unicode>QUESTÃO 26
+A densidade dos fluidos supercríticos é da mesma ordem de grandeza da densidade dos líquidos, enquanto que sua viscosida-
+de e difusibilidade são maiores que a dos gases, porém menores que a dos líquidos. É bastante promissora a substituição de
+solventes orgânicos por CO, supercrítico em extrações. O ponto triplo no diagrama de fases do CO,, bem como sua região
+supercrítica, são apresentados no diagrama mostrado a seguir.
+T
+Te 31
+T/ºC
+Considerando as informações contidas no diagrama de fases do CO,, analise as afirmações abaixo.
+| - Asfases sólida, líquida e gasosa encontram-se em equilíbrio no ponto triplo.
+ll - Asfases líquida e gasosa encontram-se em equilíbrio na região supercrítica.
+III - Em temperaturas acima de 31 ºC, não será possível liquefazer o CO, supercrítico por compressão.
+IV- Em pressões acima de 73 atm, o CO, só será encontrado no estado sólido.
+São corretas apenas as afirmações:
+(A) I e II.
+(B) I e III.
+(C) I e IV.
+(D) II e III.
+(E) II e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

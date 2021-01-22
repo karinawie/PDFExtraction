@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:13:46</Created>
+	<LastChange>2020-10-24T03:37:48</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="60,402 60,780 811,780 811,402"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="851,394 851,774 1588,774 1588,394"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="85,1288 85,1771 757,1771 757,1288"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="880,1294 880,1777 1574,1777 1574,1294"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,263 81,263 81,264 104,264 104,298 1576,298 1576,358 1027,358 1027,871 1077,871 1077,872 1574,872 1574,932 1508,932 1508,1092 80,1092"/>
+	<TextEquiv conf="0.96107">
+	<Unicode>QUESTÃO 11
+Os gráficos a seguir foram construídos a partir de um conjunto de 25 comprimentos de fêmur de um estoque de pulgões afídeos
+(Pemphigus populitransversus).
+Medidas em mm x 107)
+Em relação às distribuições apresentadas, são feitas as seguintes afirmações:
+| - a distribuição com 15 classes de frequências do comprimento do fêmur se transformou em uma distribuição bi-modal
+quando se reduziu o número de classes para 5;
+ll - quanto maior o intervalo de classe, mais compactos ficam os dados, porém pode-se perder precisão;
+Ill - a mudança do número de intervalos de classe altera a localização da moda.
+É (São) correta(a)s as afirmação(ões):
+(A) |, apenas. (B) 1l, apenas. (C) lell, apenas. (D) Ile Ill, apenas. (E) l,Ilelll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="80,1157 81,1157 81,1158 110,1158 110,1193 1574,1193 1574,1287 1204,1287 1204,1894 635,1894 635,1960 620,1960 620,2027 473,2027 473,2026 107,2026 107,2025 106,2025 106,1894 80,1894"/>
+	<TextEquiv conf="0.96888">
+	<Unicode>QUESTÃO 12
+Para atender a uma determinada atividade produtiva, foi projetado um recipiente para água, conforme a Fig.1.
+Considerando-se que a água dentro do recipiente altera a sua altura com o passar do tempo, em função do consumo e do
+reabastecimento, foi elaborado o gráfico que representa o volume armazenado em função da altura (Fig.2).
+Nessas condições e com base na função parabólica V = ahº + bh + c, seus coeficientes são:
+(A) a= 0,90 b= 0,30 c= 1,0
+) a= 0,90 b= 0,30 c= O
+) a= 0,90 =- 0,30 Cc =-0,30
+) a =- 0,90 b= 0,30 c= O
+) a =-0,90 b =- 0,30 c= 1,0</Unicode></TextEquiv></TextRegion></Page></PcGts>

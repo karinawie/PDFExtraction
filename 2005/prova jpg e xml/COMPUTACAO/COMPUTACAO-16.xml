@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:24:52</Created>
+	<LastChange>2020-11-13T11:51:37</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-16.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r10">
+	<Coords points="791,694 791,2150 793,2150 793,694"/></SeparatorRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="103,788 773,788 773,951 468,951 468,1069 774,1069 774,1575 773,1575 773,2077 415,2077 415,2127 143,2127 143,2077 104,2077 104,999 103,999"/>
+	<TextEquiv conf="0.96263">
+	<Unicode>QUESTÃO 46
+Processadores atuais incluem mecanismos para o tratamento
+de situações especiais, conhecidas como interrupções. Em uma
+interrupção, o fluxo normal de instruções é interrompido para
+que a causa da interrupção seja tratada. Com relação a esse
+assunto, assinale a opção correta.
+O Controladores de entrada e saída geram interrupções de
+forma síncrona à execução do processador, para que
+nenhuma instrução fique incompleta devido à ocorrência
+da interrupção.
+O Quando uma interrupção ocorre, o próprio processador
+salva todo o seu contexto atual, tais como registradores de
+dados e endereço e códigos de condição, para que esse
+mesmo contexto possa ser restaurado pela rotina de
+atendimento da interrupção.
+O O processador pode auto-interromper-se para tratar
+exceções de execução, tais como um erro em uma
+operação aritmética, uma tentativa de execução de
+instrução ilegal ou uma falha de página em memória
+virtual.
+O Rotinas de tratamento de interrupção devem ser executadas
+com o mecanismo de interrupção inibido, pois esse tipo de
+rotina não permite aninhamento.
+O O uso de interrupção para realizar entrada ou saída de
+dados somente é eficiente quando o periférico trata
+grandes quantidades de dados, como é o caso de discos
+magnéticos e discos ópticos. Para periféricos com pouco
+volume de dados, como teclados e mouses, o uso de
+interrupção é ineficiente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="813,786 1550,786 1550,1076 1551,1076 1551,2008 1550,2008 1550,2088 1327,2088 1327,2134 852,2134 852,2042 814,2042 814,992 813,992"/>
+	<TextEquiv conf="0.96271">
+	<Unicode>QUESTÃO 47
+Duas possibilidades para a construção de sistemas com múltiplos
+processadores são: processadores idênticos com um único espaço de
+endereçamento interligados por um barramento único (SMP); e
+máquinas monoprocessadas conectadas por uma rede (cluster). Com
+relação a esses sistemas, assinale a opção correta.
+O A comunicação entre processadores de um cluster é,
+potencialmente, muito mais rápida que a comunicação entre
+processadores de um sistema SMP, pois redes atuais possuem
+taxa de transmissão da ordem de gigabits/s, enquanto as
+melhores memórias operam somente com frequências da ordem
+de centenas de megahertz.
+O Comunicação entre processos pode ser implementada de forma
+muito mais eficiente em um cluster que em um sistema SMP,
+pois, nesse último, todos os processos precisam compartilhar os
+mesmos dispositivos de entrada e saída.
+O Em um sistema SMP, é mais simples substituir um processador
+defeituoso, pois, em um cluster, toda a rede de comunicação
+deve ser desabilitada para que a troca seja efetuada sem
+prejudicar a troca de mensagens entre os processos.
+O Alocação de memória para processos é muito mais simples em
+um cluster, pois cada processador executa um único processo na
+sua memória exclusiva e, dessa forma, não existe o problema de
+distribuição de processos no espaço de endereçamento único da
+máquina SMP.
+O Em um cluster, o custo da escalabilidade é muito menor, pois,
+para a interconexão entre as máquinas, podem ser utilizados
+equipamentos comuns usados em uma rede local de
+computadores, ao passo que um sistema SMP exige conexões
+extras no barramento e gabinetes especiais.</Unicode></TextEquiv></TextRegion></Page></PcGts>

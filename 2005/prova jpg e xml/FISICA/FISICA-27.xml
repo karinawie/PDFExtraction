@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T01:37:58</Created>
+	<LastChange>2020-10-23T02:12:20</LastChange></Metadata>
+	<Page imageFilename="FISICA-27.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="99,213 1594,213 1594,266 1588,266 1588,524 162,524 162,266 99,266"/>
+	<TextEquiv conf="0.95567">
+	<Unicode>QUESTÃO 7
+"Durante muitos anos, a aplicação exclusiva de longas listas de exercícios foi considerada uma boa estratégia para ensinar Física
+no ensino médio. Hoje, sabe-se que as longas listas têm eficiência limitada.
+a) Comente as principais limitações dessa estratégia. (valor: 4,0 pontos)
+b) Proponha atividades complementares a essa estratégia. (valor: 3,0 pontos)
+c) Justifique as atividades propostas anteriormente. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r9">
+	<Coords points="497,865 497,1125 1211,1125 1211,865"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="99,637 1594,637 1594,638 1595,638 1595,764 1594,764 1594,1810 162,1810 162,764 100,764 100,638 99,638"/>
+	<TextEquiv conf="0.91690">
+	<Unicode>QUESTÃO 8
+Afigurarepresenta o esquema de uma montagem experimental didática em que E representa a fem (1,5 V) de uma pilha grande
+e R a sua resistência interna. L,, L,., Lg e L, são quatro lâmpadas idênticas de lanterna, de tensão nominal 1,2 V, e C,, C,, Cg e
+C, são chaves inicialmente desligadas. A resistência dos fios de ligação é muito pequena quando comparada com as demais
+resistências presentes nos circuitos.
+A atividade consiste, de início, em pedir aos alunos que discutam o que ocorreria com o acendimento e o brilho das lâmpadas se
+eles ligassem sequencialmente essas chaves, uma a uma. A seguir os alunos, em grupos, realizam a experiência e comparam o
+que observam com as discussões realizadas previamente. A respeito dessa atividade responda:
+a) As“lânpadas para uma pilha” como costumam ser vendidas no comércio, têm tensão nominal de 1,2 V, inferior à fem das
+pilhas que é de 1,5V. Por que elas não queimam? (valor: 3,0 pontos)
+b) O que vai acontecer com o brilho da lâmpada L, à medida que se fecham as chaves C,, C; e C,, em relação ao brilho
+dessa lâmpada quando apenas C, está fechada? Justifique. (valor: 4,0 pontos)
+c) Essa experiência pode ajudar seus alunos a perceberem que a corrente elétrica não se “desgasta” no percurso ao longo do
+circuito, uma das concepções alternativas comuns em relação à eletricidade. Explique porquê. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

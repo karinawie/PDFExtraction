@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-08T02:39:05</Created>
+	<LastChange>2020-11-13T03:47:04</LastChange></Metadata>
+	<Page imageFilename="BIOLOGIA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="l61">
+	<Coords points="55,991 1560,991 1560,999 55,999"/>
+	<TextEquiv conf="0.95000">
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="232,1146 1381,1146 1381,1169 232,1169"/>
+	<TextEquiv conf="0.95000">
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l157">
+	<Coords points="55,1843 1560,1843 1560,1851 55,1851"/>
+	<TextEquiv conf="0.95000">
+	<Unicode></Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="123,215 444,215 444,243 1398,243 1398,293 1286,293 1286,774 1194,774 1194,989 119,989 119,998 114,998 114,234 60,234 60,216 123,216"/>
+	<TextEquiv conf="0.96778">
+	<Unicode>QUESTÃO 26
+Considere a seguinte poesia:
+A Ciência em si
+(Gilberto Gil e Arnaldo Antunes)
+Se toda coincidência
+Tende a que se entenda
+E toda lenda
+Quer chegar aqui
+A ciência não se aprende
+A ciência apreende
+A ciência em si
+Se toda estrela cadente
+Cai pra fazer sentido
+E todo mito
+Quer ter carne aqui
+A ciência não se ensina
+A ciência insemina
+A ciência em si
+Se o que pode ver, ouvir, pegar, medir,
+pesar
+Do avião a jato ao jaboti
+Desperta o que ainda não, não se pôde
+pensar
+Do sono eterno ao eterno devir
+Como a órbita da Terra abraça o
+vácuo devagar
+Para alcançar o que já estava aqui
+Se a crença quer se materializar
+Tanto quanto a experiência quer se
+abstrair
+A ciência não avança
+A ciência alcança
+A ciência em si
+A poesia explora</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r47">
+	<Coords points="211,1077 211,1611 1400,1611 1400,1077"/></ImageRegion>
+	<TextRegion id="r16" type="heading">
+	<Coords points="123,1018 1555,1018 1555,1646 1252,1646 1252,1835 682,1835 682,1841 112,1841 112,1849 111,1849 111,1685 119,1685 119,1037 60,1037 60,1019 123,1019"/>
+	<TextEquiv conf="0.96573">
+	<Unicode>QUESTÃO 27
+O esquema abaixo foi extraído de uma revista destinada a adolescentes. A reportagem parte da torcida do público por duas
+mulheres, personagens de uma novela, que se amam.
+No esquema, o tratamento dado ao tema homossexualidade difere das formas como os temas de sexualidade humana são
+geralmente trabalhados nas escolas, pois
+(A) é apresentada a saúde em seu contexto individual e não social.
+(B) são desconsiderados os interferentes ou condicionantes culturais.
+(C) são abordados os aspectos pessoais, das experiências e da intimidade.
+(D) buscam-se padronizar as relações entre hábitos saudáveis e comportamentos.
+(E) reforçam-se noções de comportamentos desejáveis ou não a partir de mitos do Bem e do Mal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="124,1870 1555,1870 1555,1984 1598,1984 1598,2225 112,2225 112,1984 123,1984 123,1889 60,1889 60,1871 124,1871"/>
+	<TextEquiv conf="0.96642">
+	<Unicode>QUESTÃO 28
+Definir ser vivo, seja no âmbito da Biologia, seja no contexto escolar, não é tarefa simples. Uma definição muito comum, pre-
+sente em materiais didáticos, é aquela que afirma que todo ser vivo “nasce, cresce, se reproduz e morre”. Mesmo apresentando
+problemas, ainda é muito utilizada nas aulas de ciências, em especial no ensino fundamental. Sobre a utilização de definições
+científicas complexas no ensino fundamental de ciências, pode-se afirmar que essa definição de ser vivo é
+(A) inadmissível, pois deve ser considerado somente o conceito correto cientificamente, independente do seu grau de
+complexidade.
+(B) inadmissível, pois as aproximações do conceito buscando sua simplificação são consideradas incorretas, nos diferentes
+níveis de escolaridade.
+(C) admissível, pois devem ser consideradas somente as idéias prévias dos alunos, mesmo que elas possuam erros conceituais.
+(D) inadmissível, pois os alunos devem alcançar a complexidade do conceito dominando-o em sua totalidade.
+(E) admissível, mostrando aos alunos os limites das simplificações e considerando-se aproximações do conceito.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T08:18:54</Created>
+	<LastChange>2020-11-13T19:09:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-29.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="122,883 122,1267 816,1267 816,883"/></ImageRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="823,178 824,2143 827,2143 826,178"/></SeparatorRegion>
+	<ImageRegion id="r7">
+	<Coords points="879,316 879,735 1528,735 1528,316"/></ImageRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="845,198 1551,198 1551,238 1511,238 1511,1252 1549,1252 1549,1434 1550,1434 1550,2003 1548,2003 1548,2058 1267,2058 1267,2119 886,2119 886,2058 847,2058 847,1335 846,1335 846,1252 885,1252 885,238 845,238"/>
+	<TextEquiv conf="0.85201">
+	<Unicode>QUESTÃO 57
+No processo de usinagem da madeira, a velocidade
+e os ângulos característicos das ferramentas de corte são
+fatores importantes para o melhor acabamento da peça.
+Assim, o conhecimento dos ângulos de folga (o), de cunha
+(B) e de ataque (y) de uma serra circular, como mostra a
+figura acima, auxilia no controle da qualidade da superfície
+usinada.
+Quanto a fatores relacionados à usinagem de madeira mediante
+o uso de serra circular, assinale a opção correta.
+O A melhoria de qualidade de acabamento pode ser alcançada
+com o aumento da velocidade de avanço da madeira.
+O A melhoria de qualidade de acabamento pode ser alcançada
+com a diminuição do número de gumes de corte.
+O Se o ângulo de ataque variar de —2º a 2º, haverá forte
+compressão das fibras, o que implica altos esforços de
+usinagem e superfície de boa qualidade.
+O Quanto menor for o valor do ângulo de cunha (BD), menor será
+o esforço de usinagem e maior a possibilidade de ocorrência
+de pré-clivagem.
+O O uso da serra circular é mais eficiente em cortes feitos em
+madeira com alto teor de umidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="102,198 807,198 807,237 768,237 768,709 305,709 305,1336 805,1336 805,1541 806,1541 806,2043 237,2043 237,2112 143,2112 143,2044 104,2044 104,1422 103,1422 103,1336 142,1336 142,238 102,238"/>
+	<TextEquiv conf="0.86355">
+	<Unicode>QUESTÃO 56
+O fenômeno da pré-clivagem, ou pré-rachamento,
+ocorre pela separação que a madeira sofre devido à sua
+estrutura interna, que tende a acompanhar as forças
+impostas pelos gumes após o início do corte. Nas figuras
+abaixo, são apresentados dois esquemas de corte: corte
+longitudinal (a) e corte no topo (b), em que V, é à
+velocidade de avanço da madeira e Vc é a velocidade de
+corte das facas.
+Considerando as informações e as figuras acima, assinale a opção
+correta.
+O Em relação à madeira, a velocidade com que o gume avança
+durante o corte é dada por (V. - Vy.
+O A pré-clivagem está demonstrada na figura A.
+O Um corte transversal às fibras impede a pré-clivagem.
+O O fenômeno de pré-clivagem não influencia o acabamento
+obtido no corte.
+O A força necessária para o avanço do gume durante o corte é
+maior na situação representada na figura A que na da
+figura B.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:10:45</Created>
+	<LastChange>2020-10-24T03:39:47</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-23.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="200,424 200,1058 1468,1060 1468,426"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="83,260 84,260 84,261 831,261 831,262 1578,262 1578,356 1576,356 1576,1162 1577,1162 1577,1223 204,1223 204,1387 131,1387 131,1389 84,1389 84,1223 83,1223 83,1162 344,1162 344,356 83,356"/>
+	<TextEquiv conf="0.96095">
+	<Unicode>QUESTÃO 34
+Em uma sistema de aproveitamento de energia solar para iluminação através de painéis fotovoltáicos (foto), deve-se dimensionar
+a corrente a ser gerada pelo painel, de modo a alimentar três lâmpadas fluorescentes de 9W durante doze horas diárias.
+Fonte: http:///www.shell.com/static/br-pt/downloads/shell for businesses/shell solar/shellsolar catalogo agosto2005.pdf
+Se a média de insolação diária é de 5 horas e for considerada uma carga adicional nas baterias (12 volts) de 10%, de quanto
+deve ser a corrente que será gerada no painel?
+(A) 2,56A
+(B) 3,45A
+) 5,94A
+) 6,25A
+)
+(C
+OD
+(E) 7,48A</Unicode></TextEquiv></TextRegion></Page></PcGts>

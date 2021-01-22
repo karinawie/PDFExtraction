@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T14:22:30</Created>
+	<LastChange>2021-01-18T02:33:46</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-10.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r47">
+	<Coords points="832,102 835,2152 840,2152 837,102"/></SeparatorRegion>
+	<TextRegion id="r84" type="paragraph">
+	<Coords points="851,1137 1550,1137 1550,1346 1386,1346 1386,1463 1549,1463 1549,1683 1229,1683 1229,1920 1274,1920 1274,2060 1284,2060 1284,2082 1191,2082 1191,2124 891,2124 891,2125 890,2125 890,2124 851,2124 851,1849 850,1849 850,1715 851,1715"/>
+	<TextEquiv conf="0.94759">
+	<Unicode>QUESTÃO 18
+No mecanismo ilustrado na figura acima, uma placa metálica gira
+em torno de um eixo devido à aplicação de uma força F, que
+provoca o aparecimento de um torque. Com relação a esse
+mecanismo e sabendo que o momento de inércia de massa é
+definido pela integral sº dm, em que r é a distância do eixo ao
+elemento de massa dm, julgue os itens seguintes.
+I Quanto menor for o valor da distância d, maior deverá ser a
+força F necessária para vencer o atrito no eixo.
+II O momento de inércia de massa da placa metálica independe
+do valor da distância d.
+III O tempo necessário para se girar a placa do ponto OD ao
+ponto &amp; independe do torque.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="863,123 1551,123 1551,150 1549,150 1549,440 992,440 992,482 870,482 870,605 932,605 932,651 946,651 946,745 967,745 967,762 851,762 851,185 863,185"/>
+	<TextEquiv conf="0.78425">
+	<Unicode>QUESTÃO 17
+Para estimar a taxa de evaporação de água no reservatório, na
+24. semana, considere a que a umidade relativa do ar seja
+aproximada pelo valor médio dos dados da figura I e que a
+velocidade do vento seja aproximada por uma função periódica,
+com período igual a 6 semanas, obtida a partir dos dados da
+figura II. Qual das opções abaixo melhor estima essa taxa na
+24.ª semana?
+A 3"
+B 80"
+C 210"
+D 480"
+E 1.080"</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="874,840 874,1102 1537,1102 1537,840"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="134,700 134,1228 791,1228 791,700"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="117,1254 117,1774 794,1774 794,1254"/></ImageRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="103,120 465,120 465,229 824,229 824,581 680,581 680,635 104,635 104,636 103,636"/>
+	<TextEquiv conf="0.96473">
+	<Unicode>Texto para as questões 16 e 17.
+A taxa de evaporação de água em um reservatório depende
+da condição climática. Em um modelo simplificado, essa taxa, E,
+pode ser descrita por
+E=av(100-UR),
+em que &amp;« é uma constante, v é a velocidade do vento, em m/s, e
+UR é a umidade relativa do ar, em porcentagem. Nas figuras IL e II
+abaixo, são apresentados dados climáticos em determinado
+reservatório de água, em 12 semanas de observação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords points="149,1819 825,1819 825,1846 823,1846 823,1964 325,1964 325,2015 104,2015 104,1926 103,1926 103,1925 104,1925 104,1889 149,1889"/>
+	<TextEquiv conf="0.85487">
+	<Unicode>QUESTÃO 16
+As informações acima permitem concluir que a taxa de
+evaporação de água no reservatório, nas 12 semanas observadas,
+foi maior na semana
+A 1. B 4. C 6. D 9. E 12.</Unicode></TextEquiv></TextRegion></Page></PcGts>

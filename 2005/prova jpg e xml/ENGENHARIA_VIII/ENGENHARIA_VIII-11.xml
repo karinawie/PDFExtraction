@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:13:15</Created>
+	<LastChange>2020-10-24T03:38:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="575,1130 577,1510 1033,1508 1031,1128"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="81,1032 110,1032 110,1068 1572,1068 1572,1120 1386,1120 1386,1121 1199,1121 1199,1122 1013,1122 1013,1123 826,1123 826,1124 705,1124 705,1635 1514,1635 1514,1669 1573,1669 1573,1724 1102,1724 1102,1763 743,1763 743,1795 641,1795 641,1796 455,1796 455,1797 416,1797 416,1898 322,1898 322,1931 89,1931 89,2032 80,2032 80,1898 79,1898 79,1837 80,1837 80,1128 79,1128 79,1069 80,1069 80,1033 81,1033"/>
+	<TextEquiv conf="0.95909">
+	<Unicode>QUESTÃO 16
+Em um sistema de êmbolos duplos em comunicação, uma carga P deve ser sustentada através da ação de uma força F,
+aplicada no outro êmbolo.
+Nessas condições, são feitas as afirmações abaixo.
+| - Aforça Faplicada será muito maior do que a carga P, pois o diâmetro do seu êmbolo é menor do que o da carga P.
+ll - Aforça Fserá menor do que a carga Pe pode ser determinada pelo produto da carga vezes o quadrado da razão entre os
+diâmetros do êmbolo menor e do êmbolo maior.
+Ill - Sistemas desse tipo são usados cotidianamente para multiplicação de esforços.
+IV - Esse é o princípio básico de um cilindro hidráulico.
+São corretas as afirmações:
+(A) Il, Il e Ill, apenas.
+(B) 1, Il e IV, apenas.
+(C) l, Ill e IV, apenas.
+(D) II, Ill e IV, apenas.
+(E) LI, MelV.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="588,334 588,777 1102,777 1102,334"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1386,211 1572,211 1572,322 1386,322 1386,323 1200,323 1200,324 1057,324 1057,858 437,858 437,992 80,992 80,858 79,858 79,798 80,798 80,219 81,219 81,218 267,218 267,217 454,217 454,216 640,216 640,215 827,215 827,214 1013,214 1013,213 1200,213 1200,212 1386,212"/>
+	<TextEquiv conf="0.93780">
+	<Unicode>QUESTÃO 15
+Num corpo móvel A existem duas forças atuantes, que são G e F, como mostra a figura abaixo.
+O valor da força resultante e o deslocamento do corpo A, respectivamente, serão:
+(A) 25 kN e 4º quadrante.
+(B) 25 kN e 1º quadrante.
+(C) 22,36 kN e 4º quadrante.
+(D) 22,386 kN e 3º quadrante.
+(E) 22,36 kN e 1º quadrante.</Unicode></TextEquiv></TextRegion></Page></PcGts>

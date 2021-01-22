@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:58:59</Created>
+	<LastChange>2020-11-13T12:43:19</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-31.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="600,526 597,1454 1132,1456 1135,528"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,1877 80,1878 378,1878 378,1879 677,1879 677,1880 976,1880 976,1881 1275,1881 1275,1882 1573,1882 1573,2040 1275,2040 1275,2039 976,2039 976,2038 677,2038 677,2037 378,2037 378,2036 80,2036 80,2035 79,2035 79,1877"/>
+	<TextEquiv conf="0.95402">
+	<Unicode>15
+O registro estratigráfico raramente indica uma sucessão contínua de eventos geológicos. Geralmente, a sedimentação ocorre
+por eventos episódicos consecutivos.
+Cite e explique quatro evidências sedimentológicas de deposição episódica observadas no registro estratigráfico.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="79,436 80,436 80,437 378,437 378,438 677,438 677,439 976,439 976,440 1275,440 1275,441 1573,441 1573,532 1133,532 1133,1498 891,1498 891,1497 649,1497 649,1496 648,1496 648,532 79,532"/>
+	<TextEquiv conf="0.96062">
+	<Unicode>13
+Analise e descreva as condicionantes estruturais de acúmulo de óleo para cada uma das situações apresentadas nas ilustra-
+ções abaixo. (valor: 10,0 pontos)
+Teixeira et al. 2000. Decifrando a Terra. p. 477.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="80,1540 81,1540 81,1541 111,1541 111,1575 1573,1575 1573,1636 1570,1636 1570,1776 1574,1776 1574,1836 79,1836 79,1775 80,1775 80,1669 79,1669 79,1668 80,1668"/>
+	<TextEquiv conf="0.96475">
+	<Unicode>14
+Considere a seguinte informação: as rochas podem ser classificadas e identificadas através de atributos químicos, texturais ou
+genéticos.
+a) De que maneira as rochas magmáticas podem ser identificadas quanto ao seu teor em sílica? (valor: 4,0 pontos)
+b) Explique como a textura é indicativa da gênese das rochas magmáticas. (valor: 2,0 pontos)
+c) Asrochas sedimentares são classificadas, principalmente, quanto à origem de seus constituintes. Explique esta organi-
+zação genética das rochas sedimentares. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

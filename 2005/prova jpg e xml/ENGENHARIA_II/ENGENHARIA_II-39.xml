@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:09:39</Created>
+	<LastChange>2020-11-13T12:52:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-39.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="451,448 451,948 1171,948 1171,448"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="79,263 1573,263 1573,356 1200,356 1200,357 827,357 827,358 443,358 443,998 1573,998 1573,1058 294,1058 294,1224 81,1224 81,1225 80,1225 80,1058 79,1058 79,998 80,998 80,358 79,358"/>
+	<TextEquiv conf="0.95894">
+	<Unicode>54
+Um sistema móvel de telefonia celular, que comporta 104 000 assinantes, é formado por uma Central de Comutação e Controle
+(CCC) e 40 Estações Rádio-Base (ERB). Cada ERB é composta de três setores.
+Considere os dados da tabela.
+Se o tráfego por assinante é igual a 0,015 erlangs e a probabilidade de bloqueio é de 2%, a sequência formada por: número de
+canais por célula, número de assinantes por canal e total de canais do sistema é
+(A) 58 ; 58 e 1800
+(B) 50 ; 58 e 1960
+(C) 49 ; 53 e 1960
+(D) 20 ; 48 e 2400
+(E) 20 ; 13 e 8000</Unicode></TextEquiv></TextRegion></Page></PcGts>

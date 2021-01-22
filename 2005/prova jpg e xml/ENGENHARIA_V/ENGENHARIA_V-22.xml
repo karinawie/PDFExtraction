@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:25:50</Created>
+	<LastChange>2021-01-18T01:55:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-22.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r21">
+	<Coords points="152,347 152,872 787,872 787,347"/></ImageRegion>
+	<ImageRegion id="r23">
+	<Coords points="132,1641 132,1895 807,1895 807,1641"/></ImageRegion>
+	<ImageRegion id="r25">
+	<Coords points="1010,480 1010,764 1412,764 1412,480"/></ImageRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="101,200 514,200 514,256 833,256 833,333 101,333"/>
+	<TextEquiv conf="0.96017">
+	<Unicode>Diagrama para as questões 41 e 42.
+O diagrama de fases Fe-Fe;C (Ferro — Cementita) está ilustrado a
+seguir. Este diagrama é base para os estudos de tratamento térmico
+da maioria dos aços.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="114,898 835,898 835,928 830,928 830,1032 835,1032 835,1344 101,1344 101,943 114,943"/>
+	<TextEquiv conf="0.89323">
+	<Unicode>QUESTÃO 41
+Com base no diagrama de fases Fe-Fe,C, assinale a opção correta.
+O A região | corresponde a um sistema monofásico.
+O O diagrama apresenta uma transformação de fases denominada
+eutetóide em 727 “ºC (1.340 ºF), com um sólido (y)
+decompondo-se em dois outros sólidos (a + Fe;C), no
+resfriamento.
+O A região II corresponde a um sistema bifásico composto por
+ferrita + cementita.
+O A solubilidade máxima de carbono é superior na fase ferrita
+(CCC) em relação à fase austenita (CFC).
+O O tratamento térmico de aquecimento do ferro metálico puro, da
+temperatura ambiente até 1.600 ºC, promoverá as seguintes
+transformações: Fe(a)&gt; Fe(Ô) e Fe(Ôô) &gt;Fe(y).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="114,1367 240,1367 240,1411 835,1411 835,1628 833,1628 833,1959 614,1959 614,2143 141,2143 141,2139 101,2139 101,1628 100,1628 100,1411 114,1411"/>
+	<TextEquiv conf="0.96709">
+	<Unicode>QUESTÃO 42
+Suponha que, acidentalmente, você apagou a identificação de 3
+amostras de aço-carbono, SAE1030, SAE1045 e SAE1080. Para
+separá-los, você irá utilizar seus conhecimentos de metalurgia, por
+meio da análise metalográfica, do tratamento térmico e utilizando o
+diagrama de fases Fe-Fe;C fornecido. Após realizar tratamento
+térmico de austenitização a uma mesma temperatura e mesmo
+período de tempo em todas as amostras e deixá-las resfriando
+lentamente no forno, foram obtidas as seguintes microestruturas.
+Com base nas microestruturas obtidas, é correto concluir que as
+amostras de aço identificadas são
+A I - aço 1080, 11 - aço 1030 e III - aço 1045.
+B I - aço 1030, 11 - aço 1080 e III - aço 1045.
+C I - aço 1045, II - aço 1030 e III - aço 1080.
+D I - aço 1030, II - aço 1045 e III - aço 1080.
+E I - aço 1080, II - aço 1045 e III - aço 1030.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="848,182 848,2171 854,2171 854,182"/></SeparatorRegion>
+	<ImageRegion id="r5">
+	<Coords points="871,988 871,1551 1542,1551 1542,988"/></ImageRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="872,197 1549,197 1549,237 1547,237 1547,440 1546,440 1546,903 1463,903 1463,1657 1546,1657 1546,1739 1548,1739 1548,2046 1546,2046 1546,2088 1424,2088 1424,2128 913,2128 913,2088 874,2088 874,1600 873,1600 873,237 872,237"/>
+	<TextEquiv conf="0.56954">
+	<Unicode>QUESTÃO 43
+Os limites de resistência dos metais são extremamente
+importantes no dimensionamento de projetos estruturais nas
+áreas de construção civil e de equipamentos mecânicos. À
+figura a seguir ilustra um exemplo de ponte em que foi
+utilizado projeto de estrutura metálica.
+Para a obtenção de parâmetros de projetos, é necessário
+realizar ensaios de avaliação de propriedades mecânicas. Um
+diagrama de tensão-deformação obtido em um ensaio de tração
+para uma liga metálica está mostrado a seguir.
+Em relação a esse diagrama, assinale a opção correta.
+O O limite de escoamento é o ponto que define o início do
+regime de deformação elástica (II).
+O O módulo de elasticidade pode ser obtido por meio da
+inclinação da curva no regime plástico de deformação.
+O A tenacidade do material é a energia total, plástica ou
+elástica, que o material absorve até a ruptura, podendo ser
+obtida pela área abaixo da curva tensão-deformação.
+O A resiliência, também denominada de fluência, é a
+capacidade de absorção de energia por deformação no
+regime plástico.
+O A ductilidade pode ser expressa como a capacidade de
+deformação no regime elástico (1) do material.</Unicode></TextEquiv></TextRegion></Page></PcGts>

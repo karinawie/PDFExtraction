@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T02:42:33</Created>
+	<LastChange>2020-10-21T03:06:32</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="1574,240 1574,348 1201,348 1201,349 828,349 828,350 454,350 454,351 81,351 81,352 80,352 80,240"/>
+	<TextEquiv conf="0.96361">
+	<Unicode>QUESTÃO 16
+Dança nordestina, difundida por todo o Brasil pelo sanfoneiro, cantor e compositor Luiz Gonzaga, o Baião é reconhecido
+por qual das figuras rítmicas?</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="131,1360 131,1842 1500,1842 1500,1360"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="120,385 120,491 860,491 860,385"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="127,515 127,621 867,621 867,515"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="124,647 124,753 864,753 864,647"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="107,792 107,898 847,898 847,792"/></ImageRegion>
+	<ImageRegion id="r9">
+	<Coords points="124,924 124,1030 864,1030 864,924"/></ImageRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="79,1117 1575,1117 1575,1332 1202,1332 1202,1333 828,1333 828,1334 695,1334 695,1888 614,1888 614,1995 592,1995 592,1996 541,1996 541,2093 500,2093 500,2140 91,2140 91,2141 80,2141 80,1890 79,1890 79,1863 80,1863 80,1118 79,1118"/>
+	<TextEquiv conf="0.96009">
+	<Unicode>Questão 17
+Entre as diversas aplicações do termo “estilo”, em música, há uma que se refere à organização de seus componentes.
+Uso frequente de ritmo desprovido de rigidez métrica, nuances timbrísticas, formas diluídas, escalas com inflexões
+modais ou exóticas, em relação às tradicionais maior e menor do sistema tonal, deram uma certa placidez à ambiência
+sonora criada por C. Debussy. Aparentemente, foi essa característica que gerou, mesmo a contragosto dele, a
+associação de sua música a um estilo predominante em artes plásticas a partir da segunda metade do século XIX.
+Considere o seguinte fragmento:
+Trata-se de qual estilo e qual é a escala utilizada?
+(A) Impressionista; escala de tons inteiros.
+(B)Expressionista; escala dodecafônica.
+(C)Dadaísta; escala heterofônica.
+(D)Minimalista; escala fragmentada.
+(E)Neoclassicista; escala modal.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:09:59</Created>
+	<LastChange>2020-11-13T12:53:08</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-37.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="337,671 337,1385 1314,1385 1314,671"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,255 80,255 80,256 1574,256 1574,514 1575,514 1575,576 1544,576 1544,651 1352,651 1352,1626 992,1626 992,1723 162,1723 162,1856 80,1856 80,1723 79,1723 79,1662 80,1662 80,650 79,650"/>
+	<TextEquiv conf="0.79152">
+	<Unicode>50
+Um enlace ionosférico é empregado para transmitir um sinal de radiodifusão em ondas curtas, na frequência de 20 MHz, entre
+uma estação transmissora e outra receptora, distantes 1000 km uma da outra. Para cobrir tal enlace, emprega-se uma antena
+dipolo de meia-onda horizontal, que fica perpendicular ao eixo do enlace, a uma altura 41 do solo. Considere o solo um condutor
+perfeito.
+A figura abaixo mostra as curvas de altura da camada ionosférica versus distância entre estações, para diversos ângulos
+de elevação.
+Considere que a altura da ionosfera é igual a 340 km e que o fator de ganho do dipolo pode ser obtido por:
+(ara d]
+g(h)=2sen | 2 son )
+NA)
+Qual deverá ser a altura mínima, em metros, da antena em relação ao solo?
+(A) 4,3
+B) 7,5
+(C) 8,6
+(D) 15,0
+(E) 30,0</Unicode></TextEquiv></TextRegion></Page></PcGts>

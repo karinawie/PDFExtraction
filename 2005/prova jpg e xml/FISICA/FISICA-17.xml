@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:39:48</Created>
+	<LastChange>2021-01-18T02:52:31</LastChange></Metadata>
+	<Page imageFilename="FISICA-17.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="842,77 842,2240 848,2240 848,77"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="145,251 145,471 802,471 802,251"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="99,96 813,96 813,124 814,124 814,504 815,504 815,1145 814,1145 814,1263 163,1263 163,667 162,667 162,119 99,119"/>
+	<TextEquiv conf="0.95675">
+	<Unicode>QUESTÃO 27
+A figura representa o esquema de uma montagem
+experimental didática, na qual F simboliza uma fonte de
+luz (uma lâmpada fluorescente pequena), L uma lente
+convergente (lupa) apoiada em um suporte e A um
+anteparo de cartolina branca.
+A atividade consiste em procurar posições de F, L e A de
+tal forma que seja possível observar a imagem nítida da
+fonte F projetada sobre o anteparo A por meio da lente L.
+Sabendo que a lente tem distância focal de 20 cm, pode-
+se afirmar que uma dessas situações ocorre quando a
+distância da fonte à lente é de
+(A) 10cm, e a distância da lente ao anteparo é de
+20 cm; nesse caso a imagem aparece direita e
+menor do que a lâmpada.
+(B) 20cm, e a distância da lente ao anteparo é de
+40 cm; nesse caso a imagem aparece invertida e
+menor do que a lâmpada.
+(C) 3Ocm, e a distância da lente ao anteparo é de
+60 cm; nesse caso a imagem aparece invertida e
+maior do que a lâmpada.
+(D) 40cm, e a distância da lente ao anteparo é de
+80 cm; nesse caso a imagem aparece direita e maior
+do que a lâmpada.
+(E) 50cm, e a distância da lente ao anteparo é de
+100 cm; nesse caso a imagem aparece direita e
+menor do que a lâmpada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="162,1320 815,1320 815,1835 814,1835 814,2223 163,2223 163,1545 162,1545 162,1339 99,1339 99,1321 162,1321"/>
+	<TextEquiv conf="0.96518">
+	<Unicode>QUESTÃO 28
+Um professor de Física do ensino médio pretende iniciar
+um novo assunto e gostaria de despertar o interesse de
+seus alunos utilizando uma atividade experimental
+didática. Ele discute com seus colegas e recebe
+sugestões de como encaminhar essa apresentação na
+aula. A sugestão que está de acordo com as tendências
+atuais no ensino de Física em relação à atividade
+experimental é o de
+(A) buscar os equipamentos mais precisos e
+sofisticados e com isso montar uma experiência
+semelhante àquelas desenvolvidas em laboratórios
+de pesquisa.
+(B) montar uma atividade experimental demonstrativa
+que apresente resultados inesperados na
+perspectiva dos estudantes e com isso promover
+uma discussão sobre a atividade.
+(C) apresentar unicamente atividades experimentais
+passíveis de verificação numérica com a respectiva
+avaliação de incertezas.
+(D) trazer uma série de manuais de equipamentos de
+laboratório e pedir aos alunos que descrevam o
+funcionamento de cada um.
+(E) marcar uma visita aos laboratórios de uma
+instituição de pesquisa, pois é inútil a apresentação
+de atividades experimentais fora de um laboratório
+de pesquisa.</Unicode></TextEquiv></TextRegion></Page></PcGts>

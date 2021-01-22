@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:53:19</Created>
+	<LastChange>2020-10-23T03:14:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="540,960 540,1474 1094,1474 1094,960"/></ImageRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="79,262 80,262 80,263 1411,263 1411,326 883,326 883,431 1573,431 1573,493 946,493 946,604 998,604 998,732 80,732 80,562 79,562 79,536 80,536 80,431 771,431 771,326 80,326 80,325 79,325"/>
+	<TextEquiv conf="0.94853">
+	<Unicode>QUESTÃO 27
+Os aços inoxidáveis ferríticos e austeníticos não permitem o endurecimento por meio de têmpera.
+PORQUE
+Nos aços inoxidáveis ferríticos, independentemente da velocidade de resfriamento, a estrutura é sempre ferrítica e, nos aços
+inoxidáveis austeníticos, a presença do níquel como elemento de liga estabiliza a austenita.
+Analisando essas afirmações, conclui-se que
+(A) as duas afirmações são verdadeiras e a segunda justifica a primeira.
+(B) as duas afirmações são verdadeiras e a segunda não justifica a primeira.
+(OC) a primeira afirmação é verdadeira e a segunda é falsa.
+(D) a primeira afirmação é falsa e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r54" type="paragraph">
+	<Coords points="79,771 80,771 80,772 1573,772 1573,878 1575,878 1575,915 1556,915 1556,1511 1385,1511 1385,1614 1384,1614 1384,1748 88,1748 88,1681 87,1681 87,1614 80,1614 80,867 79,867"/>
+	<TextEquiv conf="0.96247">
+	<Unicode>QUESTÃO 28
+O nível de conforto do motorista de um caminhão está diretamente relacionado à segurança na execução do seu trabalho
+e depende fundamentalmente das acelerações às quais este motorista está submetido. O gráfico apresenta os níveis de
+sensibilidade de um ser humano, segundo a norma ISO 2631, relacionados às amplitudes ponderadas das acelerações a,
+(longitudinal), a, (lateral) e a, (vertical).
+Página http://www.ocp.tudelft.nl/tt/vehicle/Home.html
+De modo a minimizar os efeitos das imperfeições do solo, as suspensões da cabine de um caminhão devem
+(A) filtrar sinais de baixa frequência entre 1 e 2 Hz.
+B) filtrar sinais de baixa frequência entre 4 e 8 Hz.
+O) filtrar sinais de alta fregúência acima dos 15 Hz.
+D) amplificar sinais de baixa frequência entre 1 e 2 Hz.
+E) amplificar sinais de baixa frequência entre 4 e 8 Hz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

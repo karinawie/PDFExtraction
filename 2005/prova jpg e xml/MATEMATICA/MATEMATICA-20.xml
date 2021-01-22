@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:57:23</Created>
+	<LastChange>2021-01-18T03:21:16</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-20.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r7">
+	<Coords points="854,186 856,2142 860,2142 858,186"/></SeparatorRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="103,1636 840,1636 840,1675 837,1675 837,1739 339,1739 339,1876 504,1876 504,2087 521,2087 521,2108 143,2108 143,2109 142,2109 142,2104 104,2104 104,1676 102,1676 102,1637 103,1637"/>
+	<TextEquiv conf="0.44240">
+	<Unicode>QUESTÃO 43
+Se G é um grupo multiplicativo de ordem n e H é um subgrupo de
+G, de ordem m, então
+A mdce(m,n)=1.
+B H tem um gerador de ordem m.
+C o Índice de H em G é igual a mn.
+D m é divisor de n.
+E o grupo quociente G/H é abeliano.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="116,984 839,984 839,1011 838,1011 838,1233 404,1233 404,1368 488,1368 488,1474 614,1474 614,1580 706,1580 706,1602 106,1602 106,1603 105,1603 105,1550 104,1550 104,1392 103,1392 103,1052 116,1052"/>
+	<TextEquiv conf="0.88451">
+	<Unicode>QUESTÃO 42
+Considere a e b dois números inteiros positivos primos entre si e
+f:Z*ZlaZ x ZIbZ
+xXx (XX),
+em que x, = x (mod a) e x, = x (mod b). Com relação a essa função,
+assinale a opção incorreta.
+A fé um homomorfismo de anéis.
+B fé uma função sobrejetora.
+C O núcleo de fé o ideal de Z gerado por ab.
+D fé um isomorfismo de anéis.
+E finduz um isomorfismo entre Z/abZ e Z/aZ x Z/IbZ.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="149,214 839,214 839,241 838,241 838,516 371,516 371,651 838,651 838,727 757,727 757,781 575,781 575,916 643,916 643,938 143,938 143,939 142,939 142,933 104,933 104,691 103,691 103,277 149,277"/>
+	<TextEquiv conf="0.85044">
+	<Unicode>QUESTÃO 41
+Considerando p(x) = x +2X+2X+2, qg(x) = xº — 16 e definindo
+os anéis quocientes
+A,=Q[x]/&lt;p(x)&gt; e Az=Q[x]/&lt;g(x)&gt;,
+em que Q[x] denota o anel de polinômios sobre Q na variável x
+e &lt;f(x)&gt; representa o ideal de Q[x] gerado pelo polinômio f(x),
+assinale a opção correta.
+A De acordo com o critério de Eisenstein, os polinômios p(x) e
+q(x) são irredutíveis.
+B O ideal &lt;q(x)&gt;, gerado pelo polinômio g(x), é maximal.
+C Os anéis quocientes A, e A, são corpos.
+D Somente o anel quociente A, é corpo.
+E O anel quociente A, admite divisores de zero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="878,214 1554,214 1554,294 1553,294 1553,326 1552,326 1552,604 1553,604 1553,974 879,974 879,975 878,975 878,679 879,679 879,531 878,531"/>
+	<TextEquiv conf="0.93827">
+	<Unicode>QUESTÃO 44
+O que é correto afirmar a respeito de um operador linear
+3
+T:R
+autovalores?
+3 4 A
+&gt; Rº que possua os números 2 e 3 como únicos
+A Pode existir uma base de R? na qual a matriz desse
+300
+operador é da forma jO 2 Ol.
+001
+B Existe base de Rº na qual a matriz desse operador tem uma
+linha nula.
+C Existe uma base de Rº na qual a matriz desse operador é da
+3 00
+forma |O 2 1|.
+o-12
+D É possível que o auto-espaço associado a algum dos
+autovalores de T tenha dimensão 2.
+E O polinômio cterístico de 7 é igual a (4-2) (4-3).</Unicode></TextEquiv></TextRegion></Page></PcGts>

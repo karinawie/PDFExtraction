@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:11:58</Created>
+	<LastChange>2020-11-13T12:56:42</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-24.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="451,557 451,1602 1188,1602 1188,557"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,428 80,428 80,429 1572,429 1572,525 1556,525 1556,1874 80,1874 80,1866 79,1866"/>
+	<TextEquiv conf="0.92774">
+	<Unicode>30
+Considere a estrutura de dados PILHA, denominada P ENADE, inicialmente vazia, suportando três operações básicas,
+conforme definidas no Quadro |, e a sequência de operações descritas no Quadro Il.
+Após a execução da última operação Push(P ENADE, Top(P ENADE)), qual será o elemento de topo da pilha P ENADE?
+(A) RJ
+(B) SP
+(C) MG
+(D) PR
+(E) DF</Unicode></TextEquiv></TextRegion></Page></PcGts>

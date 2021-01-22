@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:00:40</Created>
+	<LastChange>2020-11-13T12:43:14</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-28.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,437 1437,437 1437,500 872,500 872,613 1045,613 1045,746 1573,746 1573,811 1572,811 1572,913 368,913 368,1026 412,1026 412,1057 381,1057 381,1160 1570,1160 1570,1253 80,1253 80,913 79,913 79,853 80,853 80,707 79,707 79,613 781,613 781,500 80,500"/>
+	<TextEquiv conf="0.88770">
+	<Unicode>10
+Na determinação expedita da latitude por distâncias zenitais meridianas do sol, tem-se, na passagem meridiana:
+Q=8tz
+Q=8 +2z, quando o astro culmina ao sul do zênite;
+Q=8 —z, quando o astro culmina ao norte do zênite, em que:
+representa a latitude do local, ô, a declinação do astro e z, a distância zenital.
+Um observador, no hemisfério sul, para determinar a latitude de um ponto, calcula a declinação do sol no mês de julho e obtém:
+&amp; = 22º 45". Após suas medições utilizando teodolito, calcula a distância zenital e obtém: z = 45º 40.
+a) Esboce a esfera celeste que corresponde à situação descrita no enunciado, em uma projeção sobre o meridiano do lugar,
+indicando os seguintes elementos:
+-linha zênite-nadir (ZN);
+- eixo do mundo (PP);
+- plano do horizonte (HH);
+- plano do equador (QQ');
+- distância zenital (z);
+- declinação do astro (3);
+- latitude do lugar (4). (valor: 5,0 pontos)
+b) Calcule a latitude do lugar. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,1328 1573,1328 1573,1423 1570,1423 1570,1623 80,1623 80,1557 79,1557 79,1463 80,1463"/>
+	<TextEquiv conf="0.95496">
+	<Unicode>11
+Na produção de um mapa a partir da compilação de mapas em escalas maiores, o gerente do projeto deve optar por diversos
+operadores de generalização cartográfica.
+Esboce e explique, nas formas gráfica e escrita, o uso das seguintes técnicas:
+a) deslocamento (valor: 5,0 pontos)
+b) exagero (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,1697 111,1697 111,1733 1574,1733 1574,1893 80,1893 80,1860 79,1860 79,1733 80,1733"/>
+	<TextEquiv conf="0.95722">
+	<Unicode>12
+Uma fotografia aérea perfeitamente vertical foi obtida a uma altitude de 964,0 m acima do nível do mar, com uma câmara
+fotogramétrica aérea cuja distância focal é igual a 150,0 mm. Nesta fotografia existe uma torre cujo deslocamento, devido ao
+relevo, é de 2,0 mm. Sabe-se que a distância radial do ponto principal da fotografia à imagem do topo desta torre é igual a
+45,0 mm e que a altura de vôo acima da base da torre é igual a 900,0 m.
+Calcule a altura da torre. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

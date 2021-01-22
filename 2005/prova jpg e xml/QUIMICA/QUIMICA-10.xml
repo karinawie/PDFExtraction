@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:19:09</Created>
+	<LastChange>2020-10-20T23:07:43</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,1008 111,1008 111,1047 1573,1047 1573,1200 1574,1200 1574,1609 1076,1609 1076,1610 578,1610 578,1611 517,1611 517,1852 1361,1852 1361,1929 1407,1929 1407,1994 1361,1994 1361,2029 965,2029 965,2030 523,2030 523,2031 90,2031 90,2032 80,2032 81,2032 81,2031 90,2031 90,1917 89,1917 89,1879 88,1879 88,1841 79,1841 79,1814 95,1814 95,1612 79,1612 79,1545 80,1545 80,1112 79,1112 79,1047 80,1047"/>
+	<TextEquiv conf="0.96301">
+	<Unicode>QUESTÃO 14
+Resíduos sólidos resultam de atividades de origem industrial ou doméstica, podendo incluir lodos provenientes de sistemas de
+tratamento de água e outros, gerados em equipamentos e instalações de controle de poluição.
+Eles podem ser classificados em:
+Classel: Resíduos perigosos - aqueles que, em função das suas características (inflamabilidade, patogenicidade, reatividade,
+toxicidade, corrosividade), podem apresentar risco à saúde pública ou ao meio ambiente, quando manuseados, ou
+dispostos, de maneira inadequada.
+Classell: Resíduos não-inertes - aqueles que não se enquadram nas classificações de resíduos classe | ou classe Ill, mas
+podem ter características tais como: combustibilidade e biodegradabilidade.
+Classe Ill: Resíduos inertes - aqueles que, quando submetidos a teste de solubilidade, não têm nenhum de seus constituin-
+tes solubilizados em concentrações superiores aos padrões de potabilidade da água, exceto quanto à cor, à
+turbidez e ao sabor.
+Um químico foi convidado para realizar uma palestra a respeito de descarte de resíduos sólidos, tendo sido indagado sobre a
+classificação dos seguintes rejeitos:
+- fragmentos de tubulação de PVC;
+- bagaço de cana-de-açúcar;
+- lama de tanque de galvanoplastia.
+Qual deveria ter sido a resposta?
+(A) Resíduo inerte (Classe III), resíduo não-inerte (Classe II) e resíduo perigoso (Classe I), respectivamente.
+(B) Resíduo inerte (Classe III), resíduo inerte (Classe III) e resíduo não-inerte (Classe II), respectivamente.
+(C) Resíduo perigoso (Classe I), resíduo não-inerte (Classe II) e resíduo não-inerte (Classe II), respectivamente.
+(D) Resíduo não-inerte (Classe II), resíduo perigoso (Classe I) e resíduo inerte (Classe III), respectivamente.
+(E) Resíduo não-inerte (Classe II), resíduo inerte (Classe III) e resíduo perigoso (Classe I), respectivamente.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="628,340 628,642 1142,642 1142,340"/></ImageRegion>
+	<TableRegion id="r6">
+	<Coords points="65,720 65,954 571,954 571,720"/></TableRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="80,261 890,261 890,667 1250,667 1250,699 79,699 79,668 80,668"/>
+	<TextEquiv conf="0.94945">
+	<Unicode>QUESTÃO 13
+Na figura abaixo, está representada a célula unitária do rutilo (TiO,).
+Quais são os números de coordenação (N.C.) dos íons Ti** e O?” na célula unitária apresentada?</Unicode></TextEquiv></TextRegion></Page></PcGts>

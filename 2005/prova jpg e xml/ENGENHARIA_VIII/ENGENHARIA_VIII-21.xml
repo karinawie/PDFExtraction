@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:11:08</Created>
+	<LastChange>2020-10-24T03:39:35</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="543,408 543,703 1108,703 1108,408"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="633,1126 633,1418 991,1418 991,1126"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="83,1030 1020,1030 1020,1463 1577,1463 1577,1556 1576,1556 1576,1710 1003,1710 1003,1880 761,1880 761,1913 503,1913 503,1946 84,1946 84,1780 83,1780"/>
+	<TextEquiv conf="0.96385">
+	<Unicode>QUESTÃO 32
+Considere o sistema de sustentação de carga representado na figura a seguir.
+O sistema de sustentação de carga é composto de duas barras ligadas entre si, através de uma articulação, e ligadas em duas
+paredes, através de articulações. Para o dimensionamento das seções das barras devem ser consideradas: a carga, o compri-
+mento das barras e a distância entre as paredes.
+PORQUE
+É possível determinar as tensões ao longo das barras e estabelecer, através da tensão admissível máxima, a seção adequada.
+Analisando essas afirmações, conclui-se que
+(A) as duas afirmações são verdadeiras e a segunda justifica a primeira.
+(B) as duas afirmações são verdadeiras e a segunda não justifica a primeira.
+(C) a primeira afirmação é verdadeira e a segunda é falsa.
+(D) aprimeira afirmação é falsa e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,260 1576,260 1576,763 1578,763 1578,823 1302,823 1302,857 1042,857 1042,890 873,890 873,923 767,923 767,957 709,957 709,990 84,990 84,823 83,823"/>
+	<TextEquiv conf="0.95992">
+	<Unicode>QUESTÃO 31
+Uma das formas mais utilizadas de transferência de movimentos entre dois eixos é o uso de engrenagens. Considere um
+sistema de transferência que utiliza duas engrenagens planas, conforme aiilustração.
+Conhecidas as características de uma das engrenagens, o que deverá ser determinado para a segunda engrenagem de forma
+a dimensioná-la adequadamente?
+(A) Arotação em que irá trabalhar, o número de dentes que deverá ter e o torque produzido sobre ela.
+(B) O torque que será produzido sobre ela e o número de dentes que deverá ter.
+(C) O torque produzido sobre ela e a rotação em que irá trabalhar.
+(D) O seu diâmetro e o número de dentes que deverá ter.
+(E) A rotação em que irá trabalhar e o seu diâmetro.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:24:02</Created>
+	<LastChange>2020-11-13T11:51:56</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-14.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="562,151 562,557 997,557 997,151"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="103,619 888,619 888,685 1459,685 1459,717 1549,717 1549,872 103,872"/>
+	<TextEquiv conf="0.96490">
+	<Unicode>QUESTÃO 39
+Tendo como base a árvore acima, faça o que se pede nos itens a seguir.
+a) Descreva uma ordem de visita dos nós para uma busca em profundidade a partir do nó de valor 41. (valor: 3,0 pontos)
+b) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem de visita para uma varredura em pré-ordem
+(r-e-d, ou pré-fixado à esquerda) na árvore. (valor: 3,0 pontos)
+c) Considerando que a árvore cuja raiz é o nó de valor 33 represente uma árvore de busca binária, desenhe a nova árvore que será
+obtida após a realização das seguintes operações: inserir um nó de valor 21; remover o nó de valor 47; inserir um nó de valor 48.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

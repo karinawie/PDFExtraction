@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:37:46</Created>
+	<LastChange>2021-01-18T02:59:51</LastChange></Metadata>
+	<Page imageFilename="FISICA-28.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="280,1180 280,1708 597,1708 597,1180"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="705,1185 705,1700 1402,1700 1402,1185"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="123,247 1295,247 1295,271 936,271 936,512 1505,512 1505,697 1550,697 1550,817 1555,817 1555,869 176,869 176,870 175,870 175,780 123,780 123,697 730,697 730,399 678,399 678,271 343,271 343,473 123,473 123,266 60,266 60,248 123,248"/>
+	<TextEquiv conf="0.92048">
+	<Unicode>QUESTÃO 9
+Considere a equação de Schrôdinger independente do tempo para uma partícula em um potencial degrau
+Vo, Se x&gt;O,
+Vvix)=
+O , se x&lt;o,
+com energia E &lt; V,.
+Dado:
+Equação de Schródinger, independente do tempo, em uma dimensão:
+2
+hn qd
+Em vo) + Vw) = Ev(x)
+a) Determine a função de onda para x &lt;O. (valor: 2,0 pontos)
+b) Determine a função de onda para x &gt; O. (valor: 4,0 pontos)
+c) Estime a probabilidade de encontrar a partícula em uma posição x = a (a &gt; 0), supondo que a mesma incida sobre a barreira
+da esquerda para a direita. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="123,937 1555,937 1555,1167 1128,1167 1128,1814 1549,1814 1549,1887 1555,1887 1555,1941 1554,1941 1554,2042 749,2042 749,2161 662,2161 662,2220 125,2220 125,2221 124,2221 124,2161 119,2161 119,1990 120,1990 120,1740 122,1740 122,957 61,957 61,938 123,938"/>
+	<TextEquiv conf="0.95272">
+	<Unicode>QUESTÃO 10
+Uma das formas de estudar a composição de elementos numa amostra de material desconhecido é através de sua emissão de
+raios — X. Num determinado arranjo experimental, uma fonte de amerício é utilizada para bombardear a amostra com raios - y de
+5,6 MeV. Um fóton de raios — 7, ao colidir com um elétron de uma camada interna de um átomo, o faz ser ejetado, deixando uma
+vacância na camada. Então um elétron de uma camada mais externa pode decair para a camada com a vacância, emitindo uma
+linha característica de raios — X. As linhas emitidas são representadas por uma letra maiúscula, indicando o número quântico
+principal n da camada para a qual houve a transição (K: n= 1; Lkn= 2;M: n=3;...), com um índice que indica o sub-nível para
+o qual o elétron decaiu, conforme exemplificado na Fig. 1. O espectro do elemento érbio, obtido dessa forma, está representado
+na Fig. 2.
+Em todas as linhas são observados dois picos, embora não bem distinguíveis nas linhas A.
+a) Determine a massa mo e o momento p dos raios - y incidentes. (valor: 3,0 pontos)
+b) Reproduza na folha de prova o esquema de níveis representado na Fig. 1, indicando a que transições devem corresponder
+as linhas Ay1, Aco, Bo1, Bu2, Co1 E Cruz. (valor: 3,0 pontos)
+c) Quais são os valores do número quântico j, correspondente ao momento angular total, nos cinco sub — níveis da camada M
+indicada na Fig. 1? (valor: 4,0 pontos)
+Dados:
+c=3x10ºm/s; E=/p?c?+môci; E=-ho; Penk
+1ev=1,6x10"ºm/s; (mo CP) ejétron = 0.5 MeV</Unicode></TextEquiv></TextRegion></Page></PcGts>

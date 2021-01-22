@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T08:21:43</Created>
+	<LastChange>2020-11-13T19:33:22</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-14.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="122,196 122,675 807,675 807,196"/></ImageRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="823,102 824,2153 827,2153 826,102"/></SeparatorRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords points="846,1521 1548,1521 1548,1556 1549,1556 1549,1870 1550,1870 1550,2135 886,2135 886,2136 885,2136 885,1887 846,1887"/>
+	<TextEquiv conf="0.95159">
+	<Unicode>QUESTÃO 29
+Determinadas empresas, em função das atividades que
+desenvolvem, ocasionam impactos sobre o meio ambiente,
+motivo pelo qual essas empresas potencialmente poluidoras estão
+sujeitas a legislações específicas, que visam atenuar esses
+impactos. Um termo muito utilizado quando se discute a
+responsabilidade e as obrigações de uma empresa, no que diz
+respeito à recuperação da qualidade do meio ambiente, é “passivo
+ambiental”, que representa
+os danos causados pela empresa ao meio ambiente.
+os custos dos projetos destinados à amenização dos danos
+ambientais.
+os custos dos equipamentos da empresa deteriorados por
+causa do seu funcionamento.
+os danos causados ao meio ambiente e os investimentos
+necessários para a recuperação ambiental.
+os decréscimos de produtividade da empresa por causa dos
+impactos ambientais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords points="859,133 1551,133 1551,160 1512,160 1512,1073 1550,1073 1550,1443 886,1443 886,1444 885,1444 885,1404 846,1404 846,1004 884,1004 884,160 859,160"/>
+	<ImageRegion id="r6">
+	<Coords points="873,586 873,995 1532,995 1532,586"/></ImageRegion>
+	<TextEquiv conf="0.87047">
+	<Unicode>QUESTÃO 28
+Pesquisas têm mostrado que existe forte relação
+entre o consumo de energia, principalmente aquela
+relacionada com atividade comercial, e indicadores de bem-
+estar social. Com base em dados do PNUD e do World
+Resources Institute relativos a diversos países e obtidos no
+ano de 1995, foi possível montar o gráfico seguinte, que
+relaciona consumo de energia comercial per capita, em kW
+per capita, ao Índice de Desenvolvimento Humano (IDH).
+Esse índice é um indicador que varia de O a 1, com valores
+maiores indicando países com melhor desenvolvimento
+humano. Considere que, nesse período, o IDH do Brasil era
+de 0,739.
+Considerando essas informações, assinale a opção correta.
+O consumo de energia comercial per capita brasileiro está
+entre 3 e 5 kW per capita.
+Países com melhor desenvolvimento humano têm maior
+consumo de energia comercial per capita.
+Para aumentar o IDH, basta aumentar o consumo de energia
+do país.
+O investimento em tecnologia garante que países com
+diferentes consumos de energia comercial per capita tenham
+desenvolvimento humano semelhante.
+Entre os países avaliados na pesquisa, aquele com maior
+consumo de energia per capita é o que possui o maior IDH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="116,133 807,133 807,161 805,161 805,974 806,974 806,975 807,975 807,2069 805,2069 805,2128 143,2128 143,2069 104,2069 104,874 103,874 103,161 102,161 116,161"/>
+	<TextEquiv conf="0.80327">
+	<Unicode>QUESTÃO 27
+Acerca do gráfico de tensão (0) x deformação (£) acima, que
+apresenta o resultado de um ensaio de tração, assinale a opção
+correta.
+O O gráfico representa um diagrama de tensão-deformação de
+um material cujo comportamento, até certo grau de tensão
+aplicada, segue a lei de Hooke. A partir dessa tensão, ocorre
+escoamento, encruamento e ruptura.
+O O diagrama representa o comportamento da madeira e do aço
+diante da aplicação de carga. No ponto f do gráfico, tem-se a
+resistência máxima do material e, no intervalo de deformação
+de e a g, ocorre o encruamento.
+O Ovalormáximo da tensão de ruptura, denominado resistência
+à ruptura do material, é calculado dividindo-se a carga
+máxima que o material suporta pela área da seção transversal
+inicial do corpo.
+O Entre os valores de deformação a e c, tem-se o regime de
+deformações plásticas, em que o comportamento do material
+diante da aplicação de carga é regido pela lei de Hooke, e, de
+c até e, tem-se regime de deformações elásticas ou patamar de
+escoamento.
+O Asletras a e d limitam a faixa de elasticidade do material, que
+é definida como a capacidade do material de voltar à sua
+forma original em ciclo de carregamento e descarregamento.</Unicode></TextEquiv></TextRegion></Page></PcGts>

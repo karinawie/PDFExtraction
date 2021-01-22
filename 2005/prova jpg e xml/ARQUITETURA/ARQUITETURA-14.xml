@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T02:58:04</Created>
+	<LastChange>2020-11-13T03:38:36</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="136,354 136,758 1402,758 1402,354"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="74,988 74,1662 1578,1662 1578,988"/></ImageRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="79,259 1574,259 1574,351 1553,351 1553,862 80,862 80,351 79,351"/>
+	<TextEquiv conf="0.96584">
+	<Unicode>QUESTÃO 15
+A imagem abaixo mostra a Igreja de São Francisco localizada no bairro da Pampulha, em Belo Horizonte, projetada pelo
+arquiteto Oscar Niemeyer.
+Como a solução formal dada na cobertura do templo é a de um arco parabólico, o som propagado no interior da capela
+(A) forma ponto surdo. (B) é difratado. (C) não produz eco. (D) é absorvido. (E) é transmitido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="79,901 432,901 432,1704 1573,1704 1573,1764 1496,1764 1496,2031 80,2031 80,1764 79,1764"/>
+	<TextEquiv conf="0.94307">
+	<Unicode>QUESTÃO 16
+Observe os exemplos abaixo.
+O correto aproveitamento da luz natural possibilita a redução do consumo de energia. Para que este objetivo seja atingido em
+edificações situadas nos trópicos, pode-se afirmar que
+|- aclarabóia permite boa iluminação natural, com baixo consumo;
+ll- ouso de cobertura em shed é eficiente nas altas, médias e baixas latitudes;
+Ill- bandejas de luz (light-shelves) reduzem o uso de luz artificial em ambientes de grande profundidade;
+IV — o lanternim é uma opção eficiente para a entrada de luz natural e ventilação;
+V — a adoção de fachada de vidro é justificável somente em cidades de altas latitudes.
+São corretas apenas as afirmações
+(A), el. (B) , Il e IV. (C)I, IV, e V. (D) Il, IM elV. (E) II, IVeV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

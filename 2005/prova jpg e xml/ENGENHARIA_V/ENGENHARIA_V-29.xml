@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:23:52</Created>
+	<LastChange>2021-01-18T01:50:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-29.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r33">
+	<Coords points="879,103 874,2161 881,2161 886,103"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="948,822 948,1325 1497,1325 1497,822"/></ImageRegion>
+	<TextRegion id="r102" type="caption">
+	<Coords points="901,1328 1294,1328 1294,1331 1476,1331 1476,1333 1547,1333 1547,1549 1546,1549 1546,1978 1440,1978 1440,2143 1439,2143 1439,2144 940,2144 940,1978 902,1978 902,1977 901,1977 901,1953 940,1953 940,1784 902,1784 902,1783 901,1783"/>
+	<TextEquiv conf="0.96519">
+	<Unicode>QUESTÃO 60
+Considerando as figuras acima, que mostram uma
+importante etapa do processo de fabricação do aço, assinale
+a opção incorreta.
+O A transformação do ferro-gusa em aço requer
+diminuição dos teores dos elementos carbono, silício e
+fósforo, tipicamente por meio de reações químicas de
+oxidação.
+O A transformação do ferro-gusa em aço requer uma
+elevação dos teores de nitrogênio e enxofre, geralmente
+por meio da redução da basicidade da escória,
+temperatura e agitação do banho.
+O Pode-se promover a adição de elementos de liga e o
+ajuste de teores de manganês e silício nos fornos
+conversores tipo LD.
+O O processo de fabricação de aço por sopro a oxigênio
+baseia-se na oxidação de elementos como, por exemplo,
+Si (Si + O, &gt; SiO,) e Mn (Mn + 4 O2 &gt; MnO).
+A oxidação do Fe (Fe + 4º O, &gt; FeO) também ocorre,
+mas tem uma fração revertida pela presença dos
+elementos Si, C, P (Si, C, P + FeO &gt; Fe + óxidos).
+O Uma seqiiência típica de operação de um conversor LD
+para a fabricação de aço ilustrada na figura é:
+(1) carregamento de sucata;
+(2) carregamento de gusa;
+(3) sopro de oxigênio;
+(4) vazamento do aço líquido;
+(5) retirada da escória.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r83" type="heading">
+	<Coords points="900,111 1056,111 1056,151 1549,151 1549,111 1549,151 1546,151 1546,276 1547,276 1547,522 1378,522 1378,757 1377,757 1377,758 940,758 940,578 902,578 902,577 901,577 901,150 900,150"/>
+	<TextEquiv conf="0.46986">
+	<Unicode>QUESTÃO 59
+Julgue os itens abaixo.
+I A viscosidade da escória de alto-forno independe da sua
+composição química de óxidos.
+II Quanto maior o índice da basicidade da escória, maior
+será a eficiência teórica na dessulfuração do ferro-gusa
+produzido.
+III A temperatura liquidus da escória deve ser próxima da
+temperatura de vazamento do gusa, para otimização de
+viscosidade e energia envolvidas no processo.
+IV No processo de produção de ferro-gusa, deve-se buscar
+um volume mínimo de escória com máximo de
+rendimento térmico, por tonelada de metal produzido.
+Assinale a opção correta.
+A Apenas os itens I, II e III estão certos.
+B Apenas os itens I, II e IV estão certos.
+C Apenas os itens I, III e IV estão certos.
+D Apenas os itens II, III e IV estão certos.
+E Todos os itens estão certos</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r36">
+	<Coords points="120,151 120,674 842,674 842,151"/></TableRegion>
+	<TableRegion id="r37">
+	<Coords points="111,702 111,1231 854,1231 854,702"/></TableRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="101,1268 697,1268 697,1328 861,1328 861,1951 685,1951 685,2105 684,2105 684,2106 534,2106 534,1951 406,1951 406,2011 251,2011 251,2141 250,2141 250,2142 101,2142 101,1689 140,1689 140,1556 101,1556"/>
+	<TextEquiv conf="0.96347">
+	<Unicode>QUESTÃO 58
+Com base nas tabelas acima, julgue os seguintes itens.
+I O teor de cinzas do coque é superior ao do carvão vegetal,
+conseqiientemente, ele provoca menor geração de escória por
+tonelada de ferro-gusa produzido.
+II A dessulfuração eficiente do ferro-gusa em alto-forno a coque
+requer a operação com escória básica (CaO/SiO,&gt;1), enquanto a
+retenção eficiente de fósforo no alto-forno a carvão vegetal requer
+escória ácida (CaO/SiO,&lt; 1).
+III Com relação à composição química, o alto-forno a coque produz
+ferro-gusa com teor de enxofre superior ao que produz o alto-forno
+a carvão vegetal. Do mesmo modo, um alto-forno a carvão vegetal
+produz ferro-gusa com teor inferior de fósforo ao produzido em
+alto-forno a coque.
+IV No perfil térmico de operação de um alto-forno, encontra-se uma
+zona intermediária denominada de “Zona de Reserva Térmica”,
+que está associada à reação endotérmica C(s) + CO,(g) * 2CO(g).
+V Considerando os conceitos de sustentabilidade e de
+responsabilidade social, os investimentos em gestão e política
+ambiental devem ser contemplados em todo projeto siderúrgico. À
+geração de rejeitos sólidos situa-se na faixa de 250-500
+Kg/tonelada de ferro-gusa produzido, necessitando-se, portanto, de
+uma política de eliminação, minimização e reciclagem de rejeitos.
+Estão certos apenas os itens
+O LIM.
+O LIIMelV.
+O LIVeV.
+O M,IevV.
+O MN, IVeV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

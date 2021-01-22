@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T11:20:31</Created>
+	<LastChange>2020-11-23T12:43:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-19.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="115,965 387,965 387,1010 908,1010 908,1215 946,1215 946,1307 666,1307 666,1308 103,1308 103,1216 104,1216 104,1215 142,1215 142,982 115,982"/>
+	<TextEquiv conf="0.72703">
+	<Unicode>QUESTÃO 39 — DISCURSIVA
+A maior parte da energia elétrica total produzida no Brasil é
+gerada por usinas hidrelétricas (UHE). A figura ao lado mostra um
+esquema com os componentes típicos de uma UHE: uma barragem, para
+represar as águas de um rio e, assim, criar um reservatório de água; uma
+tomada de água; uma turbina e um gerador de eletricidade.
+Com base nessas informações, descreva, sucintamente, três dos processos de
+conversão de energia mais importantes que ocorrem nessa instalação e
+identifique o local onde eles ocorrem. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="968,1014 968,1325 1565,1325 1565,1014"/></ImageRegion></Page></PcGts>

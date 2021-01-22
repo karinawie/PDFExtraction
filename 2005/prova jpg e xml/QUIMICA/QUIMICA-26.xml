@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:16:15</Created>
+	<LastChange>2020-10-20T23:20:17</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-26.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="391,968 391,1611 1217,1611 1217,968"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="131,1728 131,2037 551,2037 551,1728"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="82,261 113,261 113,298 1576,298 1576,551 1385,551 1385,584 813,584 813,811 82,811 82,617 84,617 84,391 82,391"/>
+	<TextEquiv conf="0.96172">
+	<Unicode>QUESTÃO 34
+Em muitos bioprocessos, a presença de microorganismos estranhos, genericamente chamados de contaminantes, pode levar
+a prejuízos consideráveis. O grau de eliminação de contaminantes varia de acordo com o objetivo a ser alcançado em cada
+caso. As seguintes definições são utilizadas para identificar os mais variados níveis de eliminação de contaminantes:
+| - processo que destrói ou inativa todas as formas de vida presentes em um determinado material, através de agentes
+físicos;
+ll - processo que objetiva a eliminação dos microorganismos patogênicos presentes, envolvendo normalmente o uso de um
+agente químico, à temperatura ambiente ou moderada;
+III - conjunto de medidas adotadas para evitar a entrada de microorganismos em local que não os contenha.
+Como são denominados, respectivamente, os níveis |, Il e III?
+(A) Desinfeção, esterilização e assepsia.
+(B) Desinfeção, assepsia e esterilização.
+(C) Esterilização, assepsia e desinfeção.
+(D) Esterilização, desinfeção e assepsia.
+(E) Assepsia, desinfeção e esterilização.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="82,861 1575,861 1575,1655 1576,1655 1576,1717 82,1717"/>
+	<TextEquiv conf="0.95553">
+	<Unicode>QUESTÃO 35
+Uma mistura binária contendo 50% molar de A e 50% molar de B é separada por destilação em flash a 300 K e 1 atm.
+Considere o diagrama de equilíbrio de fases desta mistura a 1 atm, mostrado abaixo.
+Quais são as frações molares de A na corrente líquida e na corrente vapor (x, e y,, respectivamente) e qual a razão entre a taxa
+da corrente de vapor e a taxa da corrente de alimentação (V/F)?</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:52:06</Created>
+	<LastChange>2020-11-13T12:42:51</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="80,270 111,270 111,308 1573,308 1573,400 1076,400 1076,401 578,401 578,402 81,402 81,403 80,403"/>
+	<TextEquiv conf="0.94388">
+	<Unicode>17
+Considere que 0) = 5sen(1004 seja a solução particular da equação diferencial que representa o comportamento dinâmico do
+sistema cuja resposta livre está apresentada no texto. Assinale a opção que melhor esboça o gráfico da resposta completa do
+referido sistema, após transcorrido um minuto (t&gt; 60 s).</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="71,442 71,1534 477,1534 477,442"/></ImageRegion></Page></PcGts>

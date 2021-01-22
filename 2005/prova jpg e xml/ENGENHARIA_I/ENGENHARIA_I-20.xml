@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:04:57</Created>
+	<LastChange>2020-11-13T12:43:01</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-20.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="514,612 514,946 1122,946 1122,612"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="81,440 1573,440 1573,540 1241,540 1241,1227 1373,1227 1373,1271 1573,1271 1573,1298 729,1298 729,1343 128,1343 128,1298 82,1298 82,1075 81,1075"/>
+	<TextEquiv conf="0.94745">
+	<Unicode>33
+O muro de contenção mostrado na figura deve garantir a estabilidade de um talude de solo não coesivo, cuja envoltória de
+resistência ao cisalhamento é definida pelo ângulo de atrito 6.
+A partir da análise da figura e das informações fornecidas, conclui-se que
+(A) quanto maior for o ângulo de atrito é, maior será o empuxo do solo no muro.
+(B) quanto maior for o ângulo OL, menor será a tensão de compressão máxima na base do muro.
+(C) aumentando-se a largura B, diminui-se o fator de segurança quanto ao deslizamento.
+(D) no caso de OL = O, a direção da resultante do empuxo do solo é horizontal e dista H/3 da base do muro.
+(E) para que o muro seja estável quanto ao tombamento, é necessário que a direção da resultante do empuxo passe pelo
+centro de gravidade da seção transversal do muro.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,1404 113,1404 113,1448 1175,1448 1175,1491 1575,1491 1575,1604 1573,1604 1573,1706 1575,1706 1575,2035 82,2035 82,1475 81,1475"/>
+	<TextEquiv conf="0.96775">
+	<Unicode>34
+Qual das situações abaixo mostra a influência dos agregados na qualidade dos concretos?
+(A) Aforma dos grãos do agregado graúdo (cubóide, alongada ou lamelar) tem pouca influência na trabalhabilidade do concreto, não
+afetando, consequentemente, o bombeamento, o lançamento e nem o adensamento; entretanto, exerce grande influência na
+retração do concreto.
+(B) Fragmentos macios e friáveis, presentes no agregado, são benéficos ao concreto, pois, alterando a distribuição
+granulométrica e introduzindo material de alta absorção de água, melhoram a trabalhabilidade e a resistência do concreto.
+(C) Os agregados produzidos de rochas sãs, como o granito, o gnaisse e o basalto, têm resistência à compressão inferior à
+da argamassa de concreto de composição usual (fck até 30 MPa) e devem, portanto, ter sua resistência previamente
+verificada, uma vez que podem provocar o rompimento do concreto por fratura dos grãos.
+(D) Concretos utilizados em pistas de aeroportos, em vertedouros de barragens e em pistas rodoviárias devem ser confeccio-
+nados com agregados de baixa resistência à abrasão.
+(E) Adistribuição granulométrica dos agregados influencia na trabalhabilidade do concreto fresco. Agregados muito finos, por
+exemplo, necessitam de mais água de amassamento para atingir a trabalhabilidade desejada e, a fim de manter o fator
+água-cimento, exigem o acréscimo de cimento, encarecendo o custo final do produto.</Unicode></TextEquiv></TextRegion></Page></PcGts>

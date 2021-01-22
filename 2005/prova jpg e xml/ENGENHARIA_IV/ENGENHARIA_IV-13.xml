@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T03:22:51</Created>
+	<LastChange>2020-10-23T22:04:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-13.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r4">
+	<Coords points="452,184 452,476 841,476 841,184"/></ImageRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="854,105 854,2147 856,2147 856,105"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="116,130 837,130 837,161 446,161 446,492 780,492 780,559 835,559 835,983 104,983 104,614 103,614 103,161 102,161 116,161"/>
+	<TextEquiv conf="0.94969">
+	<Unicode>QUESTÃO 25
+Na preparação de etóxido de
+sódio em regime Dbatelada,
+ilustrada na figura ao lado,
+etanol e hidróxido de sódio são
+agitados adiabaticamente até
+atingirem o equilíbrio, como
+evidenciado na equação (III).
+Nesse caso, obtém-se os
+produtos dissolvidos em etanol
+hidratado, a uma temperatura,
+em média, 40 ºC superior à temperatura inicial dos reagentes.
+Considerando ainda as informações do texto, assinale a opção
+correta, acerca do processo acima descrito.
+O A densidade da mistura é constante ao longo do tempo de
+reação.
+O A energia total dos reagentes é inferior à energia contida na
+corrente de saída.
+O A reação é endotérmica, uma vez que a variação de entalpia é
+menor que zero.
+O A temperatura superior dos produtos indica que sua energia total
+é superior à dos reagentes.
+O Quanto maior for a agitação do reator, maior será a variação de
+entalpia da reação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="116,1013 243,1013 243,1060 835,1060 835,1186 836,1186 836,1431 835,1431 835,1569 836,1569 836,2117 104,2117 104,1520 103,1520 103,1471 104,1471 104,1060 116,1060"/>
+	<TextEquiv conf="0.96917">
+	<Unicode>QUESTÃO 26
+Determinar o diâmetro de tubulações é tarefa comum do engenheiro,
+fundamentada na mecânica dos fluidos. Nessa tarefa, três situações
+são possíveis:
+I a tubulação não é fator determinante no dimensionamento de
+bombas ou compressores, como ocorre no escoamento por
+gravidade;
+II a queda de pressão na tubulação determina toda ou parte da
+carga de bombas ou compressores, como na transferência de
+água para um reservatório superior;
+III a queda de pressão contribui para a elevação de tanques ou
+torres, como ocorre na transferência de fluidos aquecidos.
+Considerando as três situações mencionadas acima, assinale a opção
+correta.
+O Paraotransporte de líquidos, deve-se escolher, em qualquer uma
+das situações, sempre a tubulação de menor diâmetro, desde que
+não se exceda o limite de velocidade recomendado que é de
+3,0 m/s.
+O Em todos os casos, o critério de seleção deve ter como base a
+análise econômica, escolhendo-se o diâmetro que minimize a
+soma dos custos de tubulação e de bombeamento.
+O Apesar de ser possível estimar o diâmetro da tubulação por meio
+de programas de simulação, a dificuldade de correlacionar o
+fator de atrito com os parâmetros do sistema de bombeamento
+torna imperativa a consulta ao gráfico de Moody.
+O Para a situação 1, há uma decisão simples e direta quanto ao
+diâmetro da tubulação, embora o cálculo exija a aplicação de
+método iterativo.
+O A possibilidade de cavitação na tubulação deve ser considerada
+em todos os casos, uma vez que esse fenômeno pode levar ao
+desgaste acelerado do sistema de bombeamento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords points="932,725 1015,725 1015,770 1550,770 1550,882 1549,882 1549,996 1469,996 1469,1029 1417,1029 1417,1157 1446,1157 1446,1193 1550,1193 1550,1926 1146,1926 1146,2120 876,2120 876,1844 877,1844 877,1686 876,1686 876,1537 875,1537 875,1515 876,1515 876,770 932,770"/>
+	<TextEquiv conf="0.94009">
+	<Unicode>QUESTÃO 28
+Uma rota alternativa para a produção industrial de álcool
+combustível envolve amido de mandioca como matéria-prima.
+O protocolo geral de produção dessa rota pode ser resumido na
+seguinte seqiiência de etapas:
+a) aquecimento do amido a temperaturas na faixa de 100 C
+ o
+a 175 ºC;
+b) resfriamento lento até temperaturas na faixa de 60 C
+ o
+a 90 C; o
+c) adição de "-amilase bacteriana extremofílica;
+d) ajuste do pH;
+e) adição de "-amilase e pululanase;
+f) resfriamento a 30 C; o
+g) adição da levedura Saccharomyces cerevisae;
+h) manutenção do processo fermentativo até que a
+concentração de álcool seja igual a 10%.
+Cada uma dessas etapas deve ser associada a um dos
+comentários identificados abaixo por números de 1 a 8.
+1) A levedura Saccharomyces cerevisae converte glicose em
+etanol.
+2) O aquecimento solubiliza o amido em suspensão.
+3) Condições de pH na faixa de 4 a 5 favorecem a ação de
+"-amilases e pululanases.
+4) Enzimas catalisam a hidrólise de ligações glicosídicas
+"-1,4 e "-1,6.
+5) O resfriamento lento evita a solidificação do amido.
+6) A levedura Saccharomyces cerevisae não tolera
+concentrações de etanol maiores que 10%.
+7) O metabolismo da levedura Saccharomyces cerevisae é
+favorecido em temperaturas abaixo de 35 C. o
+8) Em temperaturas elevadas, a "-amilase bacteriana
+extremofílica catalisa a hidrólise de ligações "-1,4 no
+amido solubilizado.
+Assinale a opção que apresenta a seqüência correta de
+comentários associados, respectivamente, à seqüência de
+etapas do processo industrial identificadas de a a h.
+A 7, 1, 6, 5, 2, 3, 8, 4
+B 5, 2, 3, 8, 4, 7, 1, 6
+C 2, 5, 8, 3, 4, 7, 1, 6
+D 2, 5, 8, 4, 7, 1, 3, 6
+E 4, 7, 2, 6, 1, 3, 5, 8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="heading">
+	<Coords points="932,133 1552,133 1552,161 1550,161 1550,360 1551,360 1551,692 915,692 915,629 914,629 914,551 915,551 915,318 876,318 876,161 875,161 932,161"/>
+	<TextEquiv conf="0.80381">
+	<Unicode>QUESTÃO 27
+Em uma indústria de panificação, a massa de bolo é colocada
+em formas retangulares de alumínio e levada para assar em
+fornos contínuos a 185 ºC, com aquecimento somente na base
+inferior do forno e ventilação forçada. Nesse sistema de
+assamento, a transferência de calor
+ocorre principalmente por radiação das ondas de calor
+geradas pelas paredes das formas de alumínio.
+realizada por convecção é insignificante, pois não há
+agitação da massa do bolo durante o assamento.
+ocorre principalmente por condução pelo material das
+formas e pela convecção do ar no forno.
+realizada pelo ar quente em movimento é insignificante,
+porque a fonte de aquecimento está na base inferior do
+forno.
+ocorre principalmente pelo contato direto da massa do bolo
+com a fonte de calor.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:11:50</Created>
+	<LastChange>2020-10-24T03:11:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-17.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="85,224 1572,211"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="94,364 94,379 1531,366 1531,351"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="275,540 275,551 1358,542 1358,531"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="275,613 275,624 1355,615 1355,604"/></SeparatorRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="275,670 275,681 1358,672 1358,661"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="275,721 275,732 1355,723 1355,712"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="275,773 275,783 1355,774 1355,764"/></SeparatorRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="273,540 275,824 278,824 276,540"/></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="767,540 769,821 772,821 770,540"/></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="1354,540 1356,824 1360,824 1358,540"/></SeparatorRegion>
+	<SeparatorRegion id="r10">
+	<Coords points="1089,613 1091,821 1095,821 1093,613"/></SeparatorRegion>
+	<SeparatorRegion id="r11">
+	<Coords points="275,822 275,833 1358,824 1358,813"/></SeparatorRegion>
+	<SeparatorRegion id="r12">
+	<Coords points="85,364 94,1404 104,1404 95,364"/></SeparatorRegion>
+	<ImageRegion id="r13">
+	<Coords points="108,1411 108,1428 1556,1415 1555,1398"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="1514,171 1514,196 1296,196 1296,171"/>
+	<TextEquiv conf="0.94264">
+	<Unicode>ENADE - 2005</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="948,271 948,327 865,327 865,328 697,328 697,272 780,272 780,271"/>
+	<TextEquiv conf="0.96761">
+	<Unicode>ATENÇÃO!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="1489,386 1489,507 1385,507 1385,508 1281,508 1281,509 1177,509 1177,510 1073,510 1073,511 968,511 968,512 864,512 864,513 760,513 760,514 656,514 656,515 551,515 551,516 447,516 447,517 343,517 343,518 134,518 134,386"/>
+	<TextEquiv conf="0.95322">
+	<Unicode>1-A seguir serão apresentadas questões de Múltipla Escolha e Discursivas relativas ao Núcleo
+de Conteúdos Profissionalizantes Específicos dos cursos do Grupo VIII, distribuídas de acordo
+com os seguintes cursos:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="1313,573 1313,689 1314,689 1314,808 1201,808 1201,809 1088,809 1088,810 975,810 975,811 861,811 861,812 748,812 748,813 635,813 635,814 521,814 521,815 294,815 294,719 293,719 293,619 412,619 412,618 531,618 531,617 650,617 650,616 769,616 769,615 887,615 887,573"/>
+	<TextEquiv conf="0.84017">
+	<Unicode>Número das Questões
+Cursos / Módulos Múltipla Escolha Discursivas
+Engenharia Agrícola: 28 a 34 4ab6
+Engenharia de Pesca: 35 a 41 7a9
+Engenharia Florestal: 42 a 48 10a12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="1488,886 1488,1010 1384,1010 1384,1011 1280,1011 1280,1012 1176,1012 1176,1013 1072,1013 1072,1014 968,1014 968,1015 864,1015 864,1016 759,1016 759,1017 655,1017 655,1018 134,1018 134,886"/>
+	<TextEquiv conf="0.93857">
+	<Unicode>2 - Deste conjunto, você deve responder APENAS às 10 (dez) questões - 7 (sete) de Múltipla
+Escolha e 3 (três) Discursivas - referentes ao módulo do Curso para o qual você está inscrito,
+conforme consta no Cartão-Resposta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="1488,1086 1488,1164 1384,1164 1384,1165 1280,1165 1280,1166 1176,1166 1176,1167 1072,1167 1072,1168 134,1168 134,1087 135,1087 135,1086"/>
+	<TextEquiv conf="0.95577">
+	<Unicode>3 - Observe atentamente os números das questões de Múltipla Escolha correspondentes ao
+curso para o qual você está inscrito para assinalar no Cartão-Resposta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="caption">
+	<Coords points="1490,1236 1490,1351 1386,1351 1386,1352 1282,1352 1282,1353 1178,1353 1178,1354 1073,1354 1073,1355 969,1355 969,1356 865,1356 865,1357 760,1357 760,1358 656,1358 656,1359 552,1359 552,1360 447,1360 447,1361 343,1361 343,1362 134,1362 134,1236"/>
+	<TextEquiv conf="0.95886">
+	<Unicode>4 - Assinale no Caderno de Respostas das Questões Discursivas o módulo do curso para o
+qual você está inscrito e indique, no local próprio, os números das questões correspondentes a
+este módulo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="1569,2119 1569,2139 1256,2139 1256,2120 1257,2120 1257,2119"/>
+	<TextEquiv conf="0.95884">
+	<Unicode>ENGENHARIA GRUPO VIII</Unicode></TextEquiv></TextRegion></Page></PcGts>

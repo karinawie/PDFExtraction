@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:12:22</Created>
+	<LastChange>2020-11-13T12:57:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="305,585 305,937 1331,937 1331,585"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="79,261 80,261 80,262 94,262 94,296 1574,296 1574,537 1573,537 1573,1303 576,1303 576,1478 79,1478"/>
+	<TextEquiv conf="0.96937">
+	<Unicode>5
+Um processo industrial precisa manter água em um reservatório de 2 m? à temperatura de 40 ºC. A água é captada de um rio
+próximo por uma bomba de vazão Q e escoa naturalmente para o processo, mantendo o nível constante no reservatório,
+conforme ilustra a figura abaixo. Antes de entrar no reservatório, a água captada passa por um filtro industrial que realiza sua
+limpeza. Para elevar a temperatura da água, utiliza-se um sistema de aquecimento alimentado por uma tensão eficaz V,; de
+220 V, com rendimento de 90%, composto por quatro resistências de 10 O em paralelo.
+Dentro do reservatório, existe um sistema misturador que facilita a troca de calor entre a água recém-captada e aquela
+armazenada no reservatório, mantendo a homogeneidade da temperatura da água.
+Sabendo-se que a temperatura da água no rio é de 20 ºC, determine:
+a) a energia elétrica, em joules, efetivamente convertida em calorem 1 s; (valor: 3,0 pontos)
+b) a vazão Q da bomba, em L/s, para que a temperatura de saída da água do processo atinja o equilíbrio em 40 ºC.
+(valor: 7,0 pontos)
+OBS: despreze as perdas de calor do reservatório para o meio ambiente.
+Dados:
+* calor específico da água (c) = 1 cal/(g ºC
+* massa específica da água = 1 g/om?
+*Ícal=4)</Unicode></TextEquiv></TextRegion></Page></PcGts>

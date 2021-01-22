@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T09:27:25</Created>
+	<LastChange>2021-01-18T01:57:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-16.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="103,106 465,106 465,199 1096,199 1096,286 1550,286 1550,573 736,573 736,752 182,752 182,573 104,573 104,480 103,480"/>
+	<TextEquiv conf="0.96583">
+	<Unicode>Texto para as questões 30 e 31.
+Tanques de combustível e mapeamento ambiental
+Em uma cidade de médio porte, pesquisadores avaliaram os riscos de contaminação do solo e das águas superficiais e subterrâneas
+decorrentes de vazamentos dos tanques de armazenamento subterrâneo de combustível existentes na cidade. Desses tanques, 40%
+funcionam há mais de 15 anos. Todos os tanques mais antigos estão em terrenos geológicos com risco potencial de contaminação da água.
+Na maioria dos casos, esses tanques foram fabricados com ferro fundido, diferentemente dos mais modernos, feitos em aço inox, para
+se reduzir o efeito de corrosão.
+Os potenciais-padrão de redução do At**, do Znº* e do Fe?* são dados abaixo, sendo que, no catodo, acontece a reação de
+redução e, no anodo, a reação de oxidação.
+Al *(aq) + Je = Al(s) Eº = -1,66 V
+Znº* (aq) + 2e = Zn(s) Eº = -0,76 V
+Fe?* (aq) + 2e = Fe(s) Eº = -0,41 V</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="85,765 85,2125 814,2125 814,765"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 30
+Considerando as informações do texto, assinale a opção correta.
+A Todos os tanques de ferro devem ser trocados por tanques de
+alumínio, que é um metal com resistências mecânica e à
+corrosão maiores que as do ferro.
+B Os processos de oxidação do ferro independem da
+agressividade do meio em que este se encontra. Portanto, não
+há riscos de que tanques feitos desse metal possam sofrer
+processos de corrosão que provoquem vazamento de
+combustível para o meio ambiente.
+C Uma maneira de evitar a corrosão do tanque é por meio de um
+processo físico-químico, envolvendo um metal extra que atue
+como catodo e fazendo que o ferro atue como anodo.
+D O tanque feito de ferro fundido sofre processo continuado de
+corrosão através de oxidação pelo fato de o ferro possuir
+densidade aproximadamente três vezes maior que a do óxido
+de ferro (FeO). Dessa maneira, a nova camada de óxido
+formada desprende-se constantemente na forma de escamas,
+deixando expostas novas superfícies de Fe metálico.
+E No processo de oxidação do ferro, este atua como catodo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="837,768 837,2137 1568,2137 1568,768"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 31
+A galvanização é um processo eletroquímico de recobrimento de
+superfícies metálicas com uma camada de zinco para protegê-las
+do processo de corrosão por oxidação. Considerando as
+informações do texto, assinale a opção incorreta.
+A Na reação de corrosão, a variação da energia livre de Gibbs
+()G) pode ser estimada por meio da variação do potencial
+eletroquímico ()E).
+B No tanque galvanizado, o ferro atua como catodo, e o zinco,
+como anodo.
+C Se o recobrimento de zinco do tanque galvanizado sofrer um
+dano que venha a expor a superfície de ferro, o processo de
+oxidação do ferro começará imediatamente e o tanque será
+totalmente corroído.
+D Uma forma de proteção do tanque de ferro é o
+encapsulamento — também denominado de enjaquetamento
+— com um tanque externo de poliéster insaturado reforçado
+com fibra de vidro.
+E Na reação de corrosão, a energia livre de Gibbs ()G)
+independe das concentrações das espécies químicas
+envolvidas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="817,765 817,2140 820,2140 820,765"/></SeparatorRegion></Page></PcGts>

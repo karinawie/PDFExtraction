@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:14:44</Created>
+	<LastChange>2020-10-20T23:24:21</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-34.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r12" type="heading">
+	<Coords points="80,1343 81,1343 81,1344 1573,1344 1573,1434 1546,1434 1546,1650 1574,1650 1574,1743 1573,1743 1573,1894 1574,1894 1574,1967 1573,1967 1573,2035 128,2035 128,2034 127,2034 127,1925 79,1925 79,1898 80,1898 80,1676 79,1676 79,1650 126,1650 126,1649 128,1649 128,1434 81,1434 81,1433 80,1433"/>
+	<TextEquiv conf="0.95808">
+	<Unicode>QUESTÃO 17
+Em livros-texto para o ensino médio, observa-se que o conceito de pH pode ser interpretado e representado em diferentes
+níveis.
+a) Ao classificar esses três níveis do conceito de pH, seguindo do nível mais concreto para o mais abstrato, em qual
+seqüência eles apareceriam?
+(valor: 2,0 pontos)
+b) Elabore uma explicação, acessível a um estudante do ensino médio, que mostre como os três níveis do conceito de pH
+estão articulados entre si.
+(valor:4,0 pontos)
+c) Considere a seguinte questão: “Qual o pH da solução resultante da mistura entre 20,0 mL de solução de HCl 0,5 mol.L−1
+e 10,0 mL de solução de NaOH 0,8 mol.L−1
+ ?” A qual ou quais dos três níveis do conceito de pH o aluno precisará recorrer
+para resolver essa questão? Justifique sua resposta.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="80,263 876,263 876,368 1575,368 1575,689 1573,689 1573,869 1574,869 1574,962 1573,962 1573,1269 1342,1269 1342,1239 127,1239 127,1162 79,1162 79,1136 127,1136 127,1028 80,1028 80,1002 127,1002 127,895 79,895 79,894 80,894 80,835 111,835 111,689 109,689 109,688 108,688 108,325 80,325"/>
+	<TextEquiv conf="0.96270">
+	<Unicode>QUESTÃO 16
+Leia o texto a seguir, que trata do ensino de Química nas escolas.
+A repetição acrítica de fórmulas didáticas, que dão resultado, acaba por criar uma química escolar que se
+distancia cada vez mais da ciência química e de suas aplicações na sociedade. Essa química escolar se alimenta
+principalmente da tradição, o que explica, por exemplo, que se encontrem conceitos e sistemas de classificação
+semelhantes em livros de 1830 e nos atuais. Um exemplo é a classificação das reações (ou equações?) químicas
+em dupla troca, simples troca ou deslocamento, etc. Esse sistema se baseia no dualismo eletroquímico de Berzelius
+(1812), que propunha que as substâncias resultavam da combinação entre pares de espécies em que uma é
+eletricamente positiva e a outra, negativa. As reações de dupla troca (AB + CD = AD + CB) e de deslocamento
+(AB + C= CB + A) ocorreriam porque um radical mais eletropositivo deslocaria o radical menos eletropositivo.
+Já a partir da teoria de dissociação eletroquímica de Arrhenius (1883), as reações em meio aquoso não poderiam
+mais ser pensadas como dupla troca ou deslocamento, já que todas as espécies em solução estariam dissociadas...
+MACHADO, A. H. et al., Pressupostos Gerais e Objetivos da Proposta Curricular de Química.
+Belo Horizonte: Secretaria da Educação do Estado de Minas Gerais, p. 10 — 11.
+Considerando a concepção de ensino subjacente neste texto, apresente:
+a) uma justificativa de natureza pedagógica para não introduzir a classificação de reações em simples troca / dupla troca no
+ensino de química.
+(valor: 3,0 pontos)
+b) uma justificativa de natureza científica, com base na teoria de Arrhenius, para não introduzir a classificação de reações em
+simples troca / dupla troca no ensino de química.
+(valor: 3,0 pontos)
+c) uma atividade prática, fundamentada no conceito de condutividade elétrica de soluções, que permita a um aluno do ensino
+médio justificar, sem recorrer a “trocas” ou “deslocamentos”, a transformação que ocorre quando se misturam soluções
+aquosas de Pb(NO3)2 e KI.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

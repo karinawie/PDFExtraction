@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:10:56</Created>
+	<LastChange>2020-10-24T03:39:41</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="80,562 80,1011 711,1011 711,562"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="837,540 837,1237 1591,1237 1591,540"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="83,259 114,259 114,296 1578,296 1578,487 1085,487 1085,1395 1453,1395 1453,1429 1569,1429 1569,1462 1578,1462 1578,1520 832,1520 832,1521 420,1521 420,1622 339,1622 339,1722 257,1722 257,1753 84,1753 84,1622 83,1622"/>
+	<TextEquiv conf="0.96425">
+	<Unicode>QUESTÃO 33
+Em sistemas de beneficiamento de grãos, o transporte, a secagem e o armazenamento são operações elementares, quando
+os grãos chegam com teor de umidade acima do recomendado para a sua conservação durante a estocagem. Durante essas
+etapas é necessário dimensionar adequadamente os dispositivos para adequá-los às propriedades físicas de cada tipo de
+grão. O ângulo de repouso da massa ou ângulo de atrito interno é uma das propriedades físicas mais importantes. No esquema
+abaixo, ocorre um exemplo em que o ângulo de trabalho dos dispositivos está condicionado ao ângulo de repouso da massa
+de grãos.
+A respeito do ângulo de repouso, considere as afirmações a seguir
+|- Quanto maior o ângulo de repouso, maior deve ser o diâmetro médio dos grãos.
+Il- Quanto menor o ângulo de repouso, menor será o atrito entre os grãos e mais facilmente serão transportados.
+Ill- Quanto maior o ângulo de repouso, maior será o atrito entre os grãos e maior será a energia gasta durante o transporte.
+IV - Embora o ângulo de repouso varie para cada tipo de grão, não há diferença de energia no transporte, se a densidade da
+massa de grãos for a mesma.
+São corretas as afirmações:
+(A) Il e IV, apenas.
+(B) Ill e IV, apenas.
+(C), Il e Ill, apenas.
+(D) Il, Ill e IV, apenas.
+(E), 1, MelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

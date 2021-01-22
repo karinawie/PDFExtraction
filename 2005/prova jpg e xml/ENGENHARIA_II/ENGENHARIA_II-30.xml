@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:11:02</Created>
+	<LastChange>2020-11-13T12:54:53</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-30.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="654,348 654,705 1008,705 1008,348"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="305,928 305,1351 1308,1351 1308,928"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="79,262 1013,262 1013,765 1573,765 1573,1458 1410,1458 1410,1657 1409,1657 1409,1658 80,1658 80,1399 79,1399"/>
+	<TextEquiv conf="0.96610">
+	<Unicode>39
+Um sistema de controle via rede pode ser representado pelo diagrama abaixo.
+Este sistema é composto por: um nó — que representa um sensor que envia dados para o controlador através da rede; um
+controlador — que recebe os sinais do sensor, processa-os e envia um sinal de controle para o atuador que interage com o
+processo. O nó do distúrbio representa outro processo que compartilha a rede.
+Para um sistema com essa configuração, foram obtidas as seguintes curvas de acesso à rede:
+Os gráficos C, S e D representam o acesso do controlador, do sensor e do distúrbio, respectivamente. Nestes gráficos, o nível
+alto representa o acesso à rede e o intermediário, o tempo de espera.
+Analisando-se estes gráficos, conclui-se que
+(A) o acesso do controlador à rede é ativado periodicamente.
+(B) o acesso do sensor à rede é ativado por evento.
+(C) o tempo de espera para o envio das mensagens é variável.
+(D) o decréscimo da taxa de amostragem do sensor melhora o desempenho do controlador.
+(E) o aumento da taxa de amostragem do sensor implica diretamente a melhoria do desempenho do processo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

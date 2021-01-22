@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:52:42</Created>
+	<LastChange>2020-10-23T03:15:18</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-20.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,666 111,666 111,701 1572,701 1572,735 1574,735 1574,795 1423,795 1423,901 1444,901 1444,935 1572,935 1572,969 1574,969 1574,1027 828,1027 828,1028 82,1028 82,1029 81,1029 81,962 80,962 80,762 79,762"/>
+	<TextEquiv conf="0.96345">
+	<Unicode>QUESTÃO 34
+O produto final de uma empresa siderúrgica é, frequentemente, a matéria-prima para a fabricação de diversos produtos.
+As análises da composição química e da microestrutura são ensaios fundamentais para o controle de qualidade de uma liga
+Fe-C. Para que uma empresa siderúrgica obtenha a certificação de que o sistema de qualidade implantado está de acordo com
+as normas da série ISO 9000, é necessário e suficiente que
+(A) um órgão credenciado realize uma auditoria na empresa e forneça um certificado.
+(B) o departamento de controle de qualidade tenha condições para realizar o maior número possível de ensaios.
+(O) o controle estatístico do processo seja aplicado utilizando, como atributo, as tolerâncias dimensionais do material.
+(D) o controle estatístico do processo seja aplicado utilizando, como atributo, as tolerâncias para a composição química da liga.
+(E) a microestrutura final do produto, dependente de uma combinação de fatores, entre eles a velocidade de resfriamento e a
+composição química da liga, seja a mais refinada possível.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,262 111,262 111,298 1574,298 1574,458 1119,458 1119,599 1294,599 1294,624 828,624 828,625 81,625 81,626 80,626 80,599 81,599 81,492 80,492 80,458 79,458"/>
+	<TextEquiv conf="0.96814">
+	<Unicode>QUESTÃO 33
+Atualmente a evolução da tecnologia proporciona excelentes níveis de qualidade nos processos de fabricação na indústria
+metal-mecânica, sobretudo com utilização de máquinas CNC. Nesse sentido, no processo de fabricação de eixos de aço
+ABNT 1045, são utilizadas, em geral, operações de torneamento de desbaste e, em seguida, acabamento para atingir os
+baixos níveis de rugosidade exigidos pela indústria. Nesse contexto, os parâmetros de corte usados nas operações supracitadas
+são fundamentais para atingir o resultado de trabalho desejado. Assim sendo, conclui-se que no torneamento de
+(A) desbaste deve-se aplicar, em geral, baixo avanço e baixa velocidade de corte.
+(B) acabamento deve-se aplicar, em geral, elevado avanço e baixa velocidade de corte.
+(C) acabamento deve-se aplicar, em geral, baixo avanço e elevada velocidade de corte.
+(D) desbaste deve-se aplicar, em geral, baixo avanço e grande profundidade de corte.
+(E) desbaste deve-se aplicar, em geral, pequena profundidade de corte e elevada velocidade de corte.</Unicode></TextEquiv></TextRegion></Page></PcGts>

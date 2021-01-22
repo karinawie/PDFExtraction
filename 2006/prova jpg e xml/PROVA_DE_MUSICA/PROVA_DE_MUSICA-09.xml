@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T02:42:41</Created>
+	<LastChange>2020-10-21T03:07:32</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1574,240 1574,350 81,350 81,351 80,351 80,240"/>
+	<TextEquiv conf="0.96380">
+	<Unicode>QUESTÃO 14
+Para que um trecho musical tocado por um saxofone em Mi bemol soe em Dó maior, a partitura deve apresentar a
+seguinte armadura:</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="300,1257 300,1794 1354,1794 1354,1257"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="54,377 54,511 425,511 425,377"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="35,547 35,681 406,681 406,547"/></ImageRegion>
+	<ImageRegion id="r7">
+	<Coords points="72,701 72,835 443,835 443,701"/></ImageRegion>
+	<ImageRegion id="r10">
+	<Coords points="46,841 46,975 417,975 417,841"/></ImageRegion>
+	<ImageRegion id="r12">
+	<Coords points="46,995 46,1129 417,1129 417,995"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,1154 1177,1154 1177,1821 1575,1821 1575,1885 359,1885 359,2138 80,2138 80,1885 79,1885 79,1821 80,1821"/>
+	<TextEquiv conf="0.95673">
+	<Unicode>QUESTÃO 15
+O fragmento abaixo mostra os compassos iniciais da Balada em Sol menor de F. Chopin.
+Existe uma relação harmônica entre o arpejo de Lá bemol inicial e a tônica Sol menor que aparece no compasso 9. Por
+qual nome é conhecido o arpejo de Lá bemol dentro dessa relação harmônica?
+(A) enarmonia
+(B) terça picarda
+(C) sexta aumentada
+(D) sexta napolitana
+(E) quinta aumentada</Unicode></TextEquiv></TextRegion></Page></PcGts>

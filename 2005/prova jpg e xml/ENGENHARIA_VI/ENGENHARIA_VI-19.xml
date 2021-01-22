@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:31:27</Created>
+	<LastChange>2021-01-18T02:18:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-19.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="822,201 824,2147 828,2147 826,201"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="105,265 105,854 805,854 805,265"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="860,894 860,1342 1557,1342 1557,894"/></ImageRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords points="846,260 1549,260 1549,491 1550,491 1550,835 886,835 886,569 847,569 847,453 846,453"/>
+	<TextEquiv conf="0.96162">
+	<Unicode>QUESTÃO 38
+Com o acirramento da competição mundial, as empresas
+procuram ganhar tempo no lançamento de novos produtos,
+abreviando o tempo de desenvolvimento dos mesmos. Desse
+modo, procuram introduzi-los, o mais rapidamente possível, na
+fase de produção industrial. Assinale a opção que apresenta a
+ação mais eficaz para acelerar o processo de desenvolvimento de
+novos produtos.
+A Adquirir máquinas modernas, robotizadas e que apliquem os
+últimos avanços da informática.
+B Manter uma lista de fornecedores e providenciar um estoque
+de peças prontas para serem introduzidas na produção.
+C Aplicar o conceito da engenharia simultânea, para melhorar
+as comunicações entre a equipe de desenvolvimento do
+produto e a de produção.
+D Aplicar o método QFD (quality function deployment) para
+incorporar os requisitos do consumidor aos produtos.
+E Aplicar a técnica do benchmarking para incorporar aspectos
+positivos, encontrados em outros produtos ou serviços
+similares.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="paragraph">
+	<Coords points="925,1363 1549,1363 1549,1676 1550,1676 1550,1726 1549,1726 1549,2108 886,2108 886,1781 847,1781 847,1726 846,1726 846,1391 925,1391"/>
+	<TextEquiv conf="0.96567">
+	<Unicode>QUESTÃO 39
+Um engenheiro de produção deseja posicionar as ações
+estratégicas de produção em quatro zonas de prioridade de
+melhoramento, denotadas por Z1, Z2, Z3 e Z4, cujos pontos
+delimitadores são Z1: C-X-D, Z2: O-C-D-B-A, Z3: A-B-W-F-E
+e Z4: E-F-Y, conforme mostrado na matriz acima. O eixo
+horizontal representa a pontuação dada pelos clientes a cada um
+dos critérios identificados como competitivos pela empresa.
+O eixo vertical representa o desempenho da empresa frente aos
+seus concorrentes e também em relação a cada um desses
+critérios.
+Com relação às zonas de posicionamento de critérios na matriz
+acima, assinale a opção correta.
+A A linha AB separa os critérios com desempenho aceitável
+daqueles com desempenho não-aceitável, ou seja, abaixo
+dessa linha estão os aceitáveis e acima, os não-aceitáveis.
+B Critérios localizados em Z1 demandam ações urgentes de
+melhoramento.
+C Critérios localizados em Z2 apresentam posicionamento
+muito bom.
+D A linha EF representa uma fronteira entre critérios com
+posicionamento muito ruim e aqueles com posicionamento
+muito bom.
+E Critérios localizados em Z4 apresentam posicionamento
+muito ruim.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="182,877 806,877 806,1151 419,1151 419,1186 160,1186 160,1256 158,1256 158,1297 122,1297 122,1419 104,1419 104,1186 103,1186 103,1115 98,1115 98,1092 103,1092 103,913 182,913"/>
+	<TextEquiv conf="0.96361">
+	<Unicode>QUESTÃO 36
+Um órgão do governo quer desestimular a produção de um
+produto poluidor do ambiente. Para tanto, passará a cobrar uma
+taxa f para cada unidade vendida desse produto poluidor. O
+gráfico acima mostra o ponto a, que representa a situação de
+equilíbrio entre oferta (O) e demanda (D), referente ao produto
+poluidor, antes da cobrança da taxa t. Entre os pontos b, c, d, e,
+/, apresentados no gráfico, o único que pode representar a nova
+situação de equilíbrio entre oferta e demanda, após o início da
+cobrança da taxa 4, é o ponto
+A b.
+B c.
+C d.
+D e.
+E f</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="heading">
+	<Coords points="103,1509 806,1509 806,1581 807,1581 807,1829 806,1829 806,2093 457,2093 457,2130 142,2130 142,1710 104,1710 104,1635 103,1635"/>
+	<TextEquiv conf="0.96351">
+	<Unicode>QUESTÃO 37
+Acidentes industriais ocorrem, muitas vezes, devido às interações
+inadequadas entre o trabalhador e sua tarefa, máquina e ambiente.
+Sob o enfoque ergonômico, a ação realmente eficaz para reduzir
+o número de acidentes consiste em
+A selecionar cuidadosamente os trabalhadores, para cada tipo de
+tarefa, de acordo com as suas habilidades individuais.
+B manter o ambiente sempre limpo e bem arejado, removendo
+todos os obstáculos existentes no piso.
+C programar pausas para a redução da fadiga, sendo
+obrigatórios pelo menos 5 minutos de descanso a cada 30
+minutos de trabalho contínuo.
+D dimensionar as tarefas, colocando-as dentro dos limites e
+capacidades da maioria dos trabalhadores.
+E colocar música no ambiente de trabalho, a fim de reduzir a
+fadiga e a monotonia e, conseqiientemente, aumentar a
+vigilância dos trabalhadores.</Unicode></TextEquiv></TextRegion></Page></PcGts>

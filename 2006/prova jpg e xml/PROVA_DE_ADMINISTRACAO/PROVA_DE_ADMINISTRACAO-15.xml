@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T16:02:46</Created>
+	<LastChange>2020-09-21T16:02:58</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_ADMINISTRACAO-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="314,280 314,685 1291,685 1291,280"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="148,1320 148,1811 1517,1811 1517,1320"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="83,224 376,224 376,686 576,686 576,700 1578,700 1578,1087 1576,1087 1576,1176 83,1176"/>
+	<TextEquiv conf="0.96299">
+	<Unicode>QUESTÃO 33
+Analise a figura a seguir.
+Oferta&lt;1.000 Demanda = 500
+A Cia. de Produtos Vegetais — CPV possui duas fábricas que abastecem três depósitos. As fábricas têm um nível máximo de
+produção baseado nas suas dimensões e nas safras previstas. Os custos em R$/t estão anotados em cada rota (ligação entre
+as fábricas e depósitos). José de Almeida, estudante de Administração, foi contratado pelo Departamento de Logística com a
+finalidade de atender a demanda dos depósitos sem exceder a capacidade das fábricas, minimizando o custo total do transpor-
+te. Em sua decisão ele considerou as seguintes situações:
+| - 1.000 unidades devem ser transportadas da Fábrica 2 para o Depósito 1. A demanda restante deve ser suprida a partir da
+Fábrica 1;
+Il - 2.500 unidades devem ser transportadas da Fábrica 1 para os Depósitos 1 e 2. Ademanda restante deve ser suprida a
+partir da Fábrica 2;
+Ill - 1.000 unidades devem ser transportadas da Fábrica 2 para o Depósito 2. A demanda restante deve ser suprida a partir da
+Fábrica 1.
+Apresenta(m) o(s) menor(es) custo(s) apenas a(s) situação(ões)
+(A) |. (B) Il. (OC) Il. (D) lelll. (E) Ilelll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="83,1210 1577,1210 1577,2035 210,2035 210,2161 84,2161 84,2035 83,2035"/>
+	<TextEquiv conf="0.92369">
+	<Unicode>QUESTÃO 34
+ACia. Goiás Velho S.A., fabricante de conectores, recebeu uma encomenda de 1.200 conjuntos extensão-tomada, cuja árvore
+de estrutura é a seguinte:
+Conjunto
+Extensão-Tomada
+Os números entre parênteses referem-se às quantidades utilizadas na produção de cada conjunto. A Goiás Velho possui em
+estoque: extensão-tomada = 200; tomada = 100; extensão = 500; fio = 2.000. A nova política de estoques da empresa é a de
+não manter saldos em estoque, quer em conjuntos, quer em componentes.
+A partir das informações apresentadas, pode-se concluir que a quantidade do componente fio (especificação 2 x 16 AWG) que
+precisa ser adquirido para atender a encomenda de 1.200 conjuntos extensão-tomada (utilizando todo o estoque existente) é
+(A) 25.600
+(B) 21.000
+(C) 12.700
+(D) 11.000
+(E) 10.700</Unicode></TextEquiv></TextRegion></Page></PcGts>

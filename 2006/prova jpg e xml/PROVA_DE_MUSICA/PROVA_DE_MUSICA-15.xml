@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T05:41:38</Created>
+	<LastChange>2020-11-23T03:17:46</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="165,1180 165,1394 1245,1394 1245,1180"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="160,1407 160,1621 1240,1621 1240,1407"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="171,1624 171,1838 1251,1838 1251,1624"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="80,1080 436,1080 436,1873 834,1873 834,1899 560,1899 560,2136 90,2136 90,2046 80,2046 80,1899 79,1899 79,1873 80,1873"/>
+	<TextEquiv conf="0.96532">
+	<Unicode>QUESTÃO 28
+Considere os trechos abaixo:
+As melodias |, Il e Ill pertencem, respectivamente, a obras de
+A) Handel, Mozart e Ravel.
+(B) Bach, Haydn e Tchaikovsky.
+(C) Brahms, Mozart e Beethoven.
+(D) Bach, Berlioz e Mozart.
+(
+E) Mozart, Tchaikovsky e Beethoven.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r7">
+	<Coords points="408,457 408,765 1260,765 1260,457"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,245 271,245 271,287 1576,287 1576,443 437,443 437,811 263,811 263,1048 80,1048"/>
+	<TextEquiv conf="0.95841">
+	<Unicode>QUESTÃO 27
+O uso do termo “forma” em análise musical é controverso por sugerir a existência de um molde pré-fixado. Mais
+apropriado seria falar dos princípios que orientam a construção de uma determinada peça — princípio sonata, princípio de
+variação e assim por diante. Nuances conceituais à parte, o que se pode observar é uma frequente presença de padrões
+estruturais. Entre esses padrões, que são tratados como formas e convencionalmente aceitos como tal, considere o
+seguinte:
+O padrão acima corresponde
+(A) ao Rondó.
+(B) ao Blues.
+(C) à Canção.
+(D) ao Choro.
+(E) à Sonata.</Unicode></TextEquiv></TextRegion></Page></PcGts>

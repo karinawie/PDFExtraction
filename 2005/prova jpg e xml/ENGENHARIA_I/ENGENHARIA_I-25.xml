@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:02:41</Created>
+	<LastChange>2020-11-23T13:21:03</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-25.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r213" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.49069">
+	<Unicode>4a
+ao</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r214" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.50174">
+	<Unicode>s7
+= 58%</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r217" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.55705">
+	<Unicode>57</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r245" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.96089">
+	<Unicode>28</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r248" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.40508">
+	<Unicode>55,5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r249" type="paragraph">
+	<Coords points="5,5 10,5 10,10 5,10"/>
+	<TextEquiv conf="0.61997">
+	<Unicode>53
+50,5</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="242,251 242,2057 1434,2057 1434,251"/></ImageRegion></Page></PcGts>

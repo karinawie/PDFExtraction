@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:18:40</Created>
+	<LastChange>2020-11-13T11:54:17</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-11.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r9">
+	<Coords points="804,103 804,2146 806,2146 806,103"/></SeparatorRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords points="103,173 785,173 785,276 786,276 786,368 785,368 785,402 379,402 379,552 439,552 439,587 536,587 536,708 104,708 104,506 103,506 103,483 104,483 104,380 142,380 142,229 103,229"/>
+	<TextEquiv conf="0.96344">
+	<Unicode>QUESTÃO 25
+Entre os aspectos importantes relativos à segurança de sistemas
+de informação, inclui-se
+a proteção de dados por meio de senhas e criptografia forte.
+a existência de um plano de recuperação de desastres
+associado a backups frequentes.
+Ma utilização de firewalls associada a mecanismos de
+detecção de intrusão.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens [ e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="94,945 94,1565 748,1565 748,945"/></ImageRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="166,790 722,790 722,858 785,858 785,916 103,916 103,858 166,858"/>
+	<TextEquiv conf="0.96171">
+	<Unicode>QUESTÃO 26
+Todo jogador deve pertencer a um único clube.
+Assinale a opção que representa corretamente, no modelo
+entidade-relacionamento, a especificação apresentada acima.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r36" type="heading">
+	<Coords points="103,1660 786,1660 786,1746 785,1746 785,2126 142,2126 142,1746 103,1746"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 27
+Na etapa de projeto orientado a objetos, no contexto de um
+processo de desenvolvimento de software, são desenvolvidas as
+atividades de
+definição da arquitetura do sistema e conversão das bases de
+dados do sistema.
+identificação dos objetos do sistema e definição da
+arquitetura do sistema.
+conversão das bases de dados do sistema e teste de
+integração do sistema.
+teste de integração do sistema e análise de requisitos do
+sistema.
+análise de requisitos do sistema e definição da arquitetura
+do sistema.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="1065,1374 1065,1614 1308,1614 1308,1374"/></TableRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="864,169 1512,169 1512,522 1473,522 1473,636 1549,636 1549,1000 1101,1000 1101,1149 1161,1149 1161,1182 1259,1182 1259,1303 826,1303 826,1080 864,1080 864,978 865,978 865,927 826,927 826,910 865,910 865,790 826,790 826,773 865,773 865,590 826,590 826,568 864,568"/>
+	<TextEquiv conf="0.95708">
+	<Unicode>QUESTÃO 28
+O gerente de tecnologia de uma empresa de TI
+recebeu a incumbência de especificar a arquitetura de um
+sistema de informação para atender a um cliente na área de
+diagnóstico por imagem (raio X, tomografia computadorizada
+e ressonância magnética). O cliente está interessado em
+agilizar o diagnóstico por armazenamento e recuperação de
+imagens digitalizadas e em se manter na vanguarda do
+mercado, dada a melhoria contínua de sua solução em TI.
+O cliente pretende iniciar digitalizando 1.000 imagens por
+mês, cada imagem com tamanho médio de 20 Kkilobytes, até
+chegar, em 12 meses, a 20.000 imagens por mês.
+Considerando essas informações, julgue os seguintes itens.
+I Um SBD orientado a objeto é adequado para a arquitetura do SI
+do cliente porque é voltado justamente para aplicações que
+tratam objetos complexos e tem alta integração com linguagens
+de programação orientadas a objetos.
+II Um SBD relacional não é adequado para a arquitetura do SI do
+cliente porque não constitui ainda uma tecnologia bem
+estabelecida e bem testada, apesar de ser uma linguagem de
+consulta poderosa.
+III Um SBD objeto-relacional é adequado para a arquitetura do SI
+do cliente porque alia estruturas não-normalizadas, capazes de
+representar objetos complexos, a uma linguagem de consulta
+poderosa.
+Assinale a opção correta.
+coo0coo
+Apenas um item está certo.
+Apenas os itens 1 e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="heading">
+	<Coords points="826,1657 1549,1657 1549,1891 1115,1891 1115,1914 1048,1914 1048,2119 864,2119 864,1914 826,1914"/>
+	<TextEquiv conf="0.93596">
+	<Unicode>QUESTÃO 29
+Considere um sistema bancário simplificado e uma transação T1,
+que transfira R$ 100,00 da conta X para a conta Y e é definida
+pelas operações listadas acima. Considere ainda que uma transação
+T2 esteja sendo executada simultaneamente com T1. Caso a
+transação T2 realize a operação Escrita (Y) depois da execução
+da operação 4 e antes da execução da operação 6 por T1, qual
+propriedade de transações será violada no banco de dados do
+referido sistema bancário?
+Atomicidade.
+Isolamento.
+Distributividade.
+Consistência.
+Durabilidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

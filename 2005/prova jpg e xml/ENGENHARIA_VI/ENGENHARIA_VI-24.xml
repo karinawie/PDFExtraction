@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:30:05</Created>
+	<LastChange>2021-01-18T02:23:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-24.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r11">
+	<Coords points="824,208 825,2162 828,2162 827,208"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="885,260 885,717 1554,717 1554,260"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="148,868 148,1302 765,1302 765,868"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="94,220 94,794 814,794 814,220"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 56
+As ligas ferro-carbono compõem a classe de materiais metálicos
+mais usados na construção mecânica. São materiais relativamente
+baratos e muito versáteis, havendo sempre um tipo adequado a
+uma certa aplicação estrutural ou não-estrutural. Acerca dessa
+classe de materiais, assinale a opção correta.
+A Os ferros-fundidos são ligas ferro-carbono, qualquer que seja
+o teor de carbono, produzidas exclusivamente por fundição
+em fornos do tipo Siemens-Martin.
+B Os elevados teores de carbono proporcionam aos aços
+inoxidáveis a alta resistência à corrosão de que são
+característicos.
+C Os aços-carbono são compostos exclusivamente por ferro e
+carbono.
+D As ligas ferro-carbono com até 2% de teor de carbono são
+classificadas como aços.
+E Os ferros-fundidos brancos são materiais de elevada
+ductilidade.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="842,742 842,1471 1571,1471 1571,742"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 59
+Em uma instalação de bombeamento, cujo esquema está
+mostrado acima, formada por uma tubulação de diâmetro D e
+comprimento L, uma turbobomba faz o bombeamento, a uma
+vazão volumétrica Q, de um fluido incompressível com massa
+específica D e viscosidade : de um tanque A para um tanque B.
+Considerando que o escoamento nessa instalação é isotérmico,
+assinale a opção correta.
+A A escolha da turbobomba necessária deve ser feita somente
+em função do diâmetro e do comprimento da tubulação e da
+diferença de altura entre os tanques de armazenamento.
+B A perda de carga é independente do perfil de velocidade do
+escoamento, porém depende da diferença de altura entre os
+tanques.
+C Se os dois tanques tiverem a mesma altura (H = 0), a potência
+da turbobomba depende somente da vazão necessária.
+D A perda de carga na tubulação, medida pela queda de pressão
+entre as extremidades da tubulação, depende da vazão, da
+rugosidade e dimensões da tubulação e das propriedades do
+fluido.
+E A vazão volumétrica na saída é menor que na entrada da
+tubulação, devido à perda de carga ao longo da tubulação.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="837,1477 837,2148 1574,2148 1574,1477"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 60
+Nos processos para fabricação de peças metálicas, são largamente
+utilizadas as operações de usinagem, em que uma porção do
+material é retirada pela ação de uma ferramenta de corte. As
+operações de usinagem incluem o fresamento, que consiste na
+obtenção de
+A filetes, por meio de ferramenta que produz sulcos helicoidais
+de passo uniforme, em superfícies cilíndricas ou cônicas de
+revolução.
+B superfícies planas, pela ação de uma ferramenta dotada de um
+único gume cortante que arranca o material com movimento
+linear.
+C superfícies lisas, pela ação de uma ferramenta abrasiva de
+revolução.
+D superfícies de revolução, mediante a ação de uma ferramenta
+que se desloca linearmente em relação à peça enquanto esta
+gira em torno do eixo principal da máquina operatriz.
+E superfícies mediante a ação de uma ferramenta giratória de
+múltiplos gumes cortantes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="88,1314 88,1771 811,1771 811,1314"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 57
+A figura acima mostra o esquema de uma transmissão formada
+por duas polias e correias em V com as seguintes características:
+Polia A: 250 mm de diâmetro
+Polia B: 300 mm de diâmetro
+Árvore de transmissão: &lt; material: aço carbono
+&lt; velocidade: 1.100 rpm
+&lt; diâmetro: 25 mm em toda a
+extensão, exceto nos mancais
+Na situação descrita, o torque transmitido entre as polias é
+A 7,5 N. m.
+B 15 N. m.
+C 33 N. m.
+D 40 N. m.
+E 142 N. m.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="88,1768 88,2157 814,2157 814,1768"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 58
+Em um compressor alternativo de um único estágio, o gás é
+comprimido pela ação de um pistão acionado por um motor
+elétrico. Assumindo que o gás é submetido a um processo
+adiabático reversível, em razão da compressão, é correto afirmar
+que
+A a variação na entropia do gás é nula.
+B a pressão do gás aumenta, porém sua temperatura diminui.
+C a energia interna do gás não muda.
+D não deve haver alteração na temperatura do gás.
+E o trabalho realizado sobre o gás é nulo.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T19:30:49</Created>
+	<LastChange>2020-11-12T03:23:58</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_ADMINISTRACAO-03.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="819,232 822,2150 827,2150 824,232"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="829,232 832,2150 837,2150 834,232"/></SeparatorRegion>
+	<ImageRegion id="r4">
+	<Coords points="867,279 868,765 1553,764 1552,278"/></ImageRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="851,853 1574,853 1574,2157 853,2157 853,2158 852,2158 852,854 851,854"/>
+	<TextEquiv conf="0.95277">
+	<Unicode>QUESTÃO 2
+O tema que domina os fragmentos poéticos abaixo é o mar.
+Identifique, entre eles, aquele que mais se aproxima do qua-
+dro de Pancetti.
+(A) Os homens e as mulheres
+adormecidos na praia
+que nuvens procuram
+agarrar?
+(MELO NETO, João Cabral de. Marinha. Os
+melhores poemas. São Paulo: Global, 1985. p. 14.)
+(B) Um barco singra o peito
+rosado do mar.
+A manhã sacode as ondas
+e os coqueiros.
+(ESPÍNOLA, Adriano. Pesca. Beira-sol. Rio de
+Janeiro: TopBooks, 1997. p. 13.)
+(C) Na melancolia de teus olhos
+Eu sinto a noite se inclinar
+E ouço as cantigas antigas
+Do mar.
+(MORAES, Vinícius de. Mar. Antologia
+poética. 25 ed. Rio de Janeiro: José Olympio, 1984. p. 93.)
+(D) E olhamos a ilha assinalada
+pelo gosto de abril que o mar trazia
+e galgamos nosso sono sobre a areia
+num barco só de vento e maresia.
+(SECCHIN, Antônio Carlos. A ilha. Todos os
+ventos. Rio de Janeiro: Nova Fronteira, 2002. p. 148.)
+(E) As ondas vêm deitar-se no estertor da praia larga...
+No vento a vir do mar ouvem-se avisos naufragados...
+Cabeças coroadas de algas magras e de estrados...
+Gargantas engolindo grossos goles de água amarga...
+(BUENO, Alexei. Maresia. Poesia reunida. Rio
+de Janeiro: Nova Fronteira, 2003. p. 19.)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="74,360 74,1605 808,1605 808,360"/></TableRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="79,1629 746,1629 746,1679 803,1679 803,2155 81,2155 81,2156 80,2156 80,1630 79,1630"/>
+	<TextEquiv conf="0.96357">
+	<Unicode>QUESTÃO 1
+Observando os dados fornecidos no quadro, percebe-se
+(A) um avanço nos índices gerais da educação no País, gra-
+ças ao investimento aplicado nas escolas.
+(B) um crescimento do Ensino Médio, com índices superio-
+res aos de países com desenvolvimento semelhante.
+(C) um aumento da evasão escolar, devido à necessidade de
+inserção profissional no mercado de trabalho.
+(D) um incremento do tempo médio de formação, sustentado
+pelo índice de aprovação no Ensino Fundamental.
+(E) uma melhoria na qualificação da força de trabalho, incen-
+tivada pelo aumento da escolaridade média.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:15:44</Created>
+	<LastChange>2020-10-20T23:28:55</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-29.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="474,945 474,1477 1114,1477 1114,945"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="80,267 110,267 110,303 1573,303 1573,803 1575,803 1575,930 1573,930 1573,1596 79,1596 79,930 78,930 78,803 79,803 79,303 80,303"/>
+	<TextEquiv conf="0.95816">
+	<Unicode>QUESTÃO 12
+O objetivo principal da biotecnologia é a obtenção de produtos metabólicos úteis por meio do processamento biológico.
+Denominam-se processos fermentativos os processos biológicos que têm aplicação industrial. Em geral, um processo fermentativo
+envolve várias etapas até a obtenção do produto final. Estas etapas compreendem: desenvolvimento do inóculo, esterilização
+do meio de cultura, formulação do meio de cultura, tratamento de efluentes, extração e purificação dos produtos e promoção
+do crescimento da população de células no biorreator.
+a) Ordene as etapas apresentadas acima de modo que a sequência represente corretamente um processo fermentativo.
+(valor: 3,0 pontos)
+b) Citeduas medidas que poderiam ser adotadas para aumentar a eficiência de um processo fermentativo.
+(valor: 3,0 pontos)
+O estudo cinético de um processo fermentativo consiste, inicialmente, na análise da evolução dos valores de concentração de
+um ou mais componentes do sistema. Em um cultivo descontínuo são observadas diferentes fases na curva de crescimento
+celular. Estas fases são bem visíveis quando se desenha o gráfico semilogarítmico da concentração de células viáveis versus
+tempo, conforme mostrado na figura abaixo.
+c) Identifique e descreva cada uma das fases assinaladas na curva de crescimento celular.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

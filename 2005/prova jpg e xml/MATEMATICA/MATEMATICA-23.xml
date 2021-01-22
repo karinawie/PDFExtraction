@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-22T23:56:52</Created>
+	<LastChange>2020-11-13T21:26:07</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-23.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r5">
+	<Coords points="1167,172 1168,596 1551,596 1550,172"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="116,621 386,621 386,679 943,679 943,766 1549,766 1549,886 1509,886 1509,933 1349,933 1349,941 1309,941 1309,933 103,933 103,679 116,679"/>
+	<TextEquiv conf="0.83517">
+	<Unicode>QUESTÃO 50 - DISCURSIVA
+A respeito de funções de variável complexa, resolva os itens que se seguem.
+a) Escreva a função complexa f(z) = f(x + iy) = 7º -3z +5 na forma f(2) = u(x, y) + iv(x, y) e verifique as equações de Cauchy-
+Riemann para essa função. (valor: 4,0 pontos)
+1 1 1 1 1 z?
+b) Sabendo queg(s)=- =- =- =" + , calcule a integral complexa: ————————
+5 [E +Uie+) 42-11) 427) 2(2+1)?) 2G+1) /Í Z+DE+I
+[a|=2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="116,115 243,115 243,174 1104,174 1104,242 904,242 904,570 151,570 151,289 103,289 103,174 116,174"/>
+	<TextEquiv conf="0.16302">
+	<Unicode>QUESTÃO 49
+A figura ao lado representa, no plano cartesiano xOy, uma conjunto fechado R, limitado por
+uma curva fechada. A figura é simétrica em relação aos eixos Ox e Oy. Acerca desse
+conjunto, assinale a opção incorreta.
+A O conjunto R é conexo por caminhos.
+B R está contido no conjunto M1 = {(x, y) Î R ; max [*x*, *y*] # 3}. 2
+C O conjunto dos pontos de acumulação de R é um subconjunto de R.
+D R é simplesmente conexo.
+E O conjunto M = {(x, y) Î R2; *x* + *y* # 3} é um subconjunto de R.</Unicode></TextEquiv></TextRegion></Page></PcGts>

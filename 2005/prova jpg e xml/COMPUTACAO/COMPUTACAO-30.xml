@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:51:36</Created>
+	<LastChange>2020-11-13T11:44:27</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-30.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r6">
+	<Coords points="461,915 461,1231 838,1231 838,915"/></ImageRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="854,105 854,2141 856,2141 856,105"/></SeparatorRegion>
+	<ImageRegion id="r9">
+	<Coords points="1010,170 1010,529 1450,529 1450,170"/></ImageRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="915,562 1512,562 1512,769 1507,769 1507,876 1548,876 1548,931 1093,931 1093,1042 1549,1042 1549,1315 1151,1315 1151,1425 1211,1425 1211,1457 1309,1457 1309,1571 915,1571 915,1384 876,1384 876,1042 915,1042 915,931 876,931 876,812 915,812"/>
+	<TextEquiv conf="0.93625">
+	<Unicode>QUESTÃO 82
+Considere que, em uma rede WLAN, a função de
+densidade de probabilidade (PDF) de erro de bit na
+transmissão entre um computador conectado à rede e o
+ponto de acesso (access point) — p.,,(d) — seja dada
+pela função cujo gráfico está mostrado acima, em que d
+&gt; O é a distância entre o ponto de acesso e Oo
+computador.
+Considerando essas informações, julgue os itens a seguir.
+I A probabilidade de erro de bit na transmissão no caso de o
+computador estar localizado à distância d, é dada
+do
+por Íf Perro()AS .
+o
+Il Sabendo-se que a média da distribuição correspondente
+à PDF acima mencionada é igual a x, conclui-se que é de
+0,5 a probabilidade de erro de bit na transmissão no caso
+de o computador estar localizado à distância d =x.
+III Supondo-se que o sistema de transmissão seja binário, as
+informações apresentadas são suficientes para se
+concluir que a probabilidade de erro dado que foi enviado
+um bit | é igual à probabilidade de erro dado que foi
+enviado um bit O.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="103,162 837,162 837,294 835,294 835,591 376,591 376,699 436,699 436,731 534,731 534,848 101,848 101,656 100,656 100,634 101,634 101,338 103,338"/>
+	<TextEquiv conf="0.83999">
+	<Unicode>QUESTÃO 79
+zpto( X, [X|Y] ).
+zpto( X, [Y|Z] ) :- zpto( X, 2 ).
+Com relação aos predicados escritos em Prolog acima, julgue os
+itens a seguir.
+1 A execução de xpto([1,2,3],] ], F) conclui com sucesso
+instanciando F para [1,2,3].
+1 A execução de zpto(5,[1,2,3] ) conclui sem sucesso.
+IN A execução de zpto(X,[1,2,3]) conclui com sucesso,
+instanciando X para |.
+Assinale a opção correta.
+O Apenas um item está certo.
+O Apenas os itens I e II estão certos.
+O Apenas os itens I e III estão certos.
+O Apenas os itens II e III estão certos.
+O Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="101,926 449,926 449,1015 263,1015 263,1207 140,1207 140,1015 101,1015"/>
+	<TextEquiv conf="0.95776">
+	<Unicode>QUESTÃO 80
+Que cadeia é reconhecida pelo
+autômato representado pelo
+diagrama de estados ao lado?
+101010
+111011000
+11111000
+10100
+00110011</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="101,1285 836,1285 836,1702 835,1702 835,2123 101,2123 101,1973 140,1973 140,1767 101,1767"/>
+	<TextEquiv conf="0.95721">
+	<Unicode>QUESTÃO 81
+O estudo de dimensionamento e de desempenho de redes de
+comunicação é uma ciência que usa constantemente os resultados da
+teoria de filas. Nesse tipo de aná é comum a adoção de modelos
+de filas M/M/lI para a análise de enlaces de roteadores e
+comutadores. Nesse tipo de modelo, a chegada de pacotes para
+transmissão e a transmissão deles são processos de Poisson. Assim,
+as características da fila que se forma em cada enlace podem ser
+determinadas em função da taxa de chegada (tempo médio decorrido
+entre a chegada de pacotes sucessivos encaminhados para
+transmissão pelo enlace) e da taxa de serviço (tempo médio para
+transmissão de um pacote). Acerca do modelo M/M/1 aplicado ao
+estudo de capacidade e desempenho de enlaces de redes, por
+comutação de pacotes, assinale a opção correta.
+O Caso a taxa de chegada seja maior que a taxa de serviço (taxa de
+saída), conclui-se que o enlace está subdimensionado e haverá
+perda de pacotes.
+A taxa de serviço é independente do tamanho do pacote.
+Em um roteador com múltiplos enlaces, a taxa de chegada para
+cada enlace é igual ao somatório das capacidades de todos os
+enlaces dividido pelo número de enlaces do roteador.
+O O modelo M/M/1I apresenta instabilidade numérica sempre que
+a taxa de chegada for próxima de zero.
+O Quando a taxa de chegada é menor que a taxa de serviço,
+pode-se esperar que o número médio de pacotes na fila seja igual
+a zero.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="876,1648 1549,1648 1549,2119 876,2119"/>
+	<TextEquiv conf="0.95847">
+	<Unicode>QUESTÃO 83
+Com relação à tecnologia bluetooth, que possibilita a
+comunicação sem fios entre dispositivos, assinale a opção
+correta.
+O Essatecnologia utiliza a transmissão em enlace via rádio na
+banda de frequência VHF.
+O Essa tecnologia possibilita a transmissão de voz e dados a
+curtas distâncias.
+O Um dispositivo pode assumir, simultaneamente, o papel de
+mestre e de escravo em uma mesma piconet que utiliza essa
+tecnologia.
+O Uma piconet pode ser formada por até 255 mestres e
+255 escravos.
+O Um dispositivo pode participar, simultaneamente, de duas
+piconets, desde que ele seja mestre em ambas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

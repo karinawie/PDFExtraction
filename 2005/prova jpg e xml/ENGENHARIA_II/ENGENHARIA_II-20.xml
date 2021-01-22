@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:12:31</Created>
+	<LastChange>2020-11-13T12:57:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-20.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r11">
+	<Coords points="337,625 335,1410 1314,1414 1316,628"/></ImageRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="79,429 80,429 80,430 378,430 378,431 677,431 677,432 976,432 976,433 1275,433 1275,434 1573,434 1573,525 1572,525 1572,1479 1573,1479 1573,2016 1345,2016 1345,2035 397,2035 397,2034 81,2034 81,2033 80,2033 80,1949 79,1949 79,1520 80,1520 80,1438 81,1438 81,525 79,525"/>
+	<TextEquiv conf="0.95956">
+	<Unicode>Questão 4
+A figura apresenta o circuito de um amplificador transistorizado na configuração emissor comum. O modelo para pequenos
+sinais em baixa frequência deste circuito está representado abaixo, onde os parâmetros têm os seguintes valores:
+R,=1k9, Rph=2 kO, re2 ka, r=10 kO, R2=5 kO, R,=5 kO e g,=100mAV.
+Calcule:
+v
+a) aresistência de entrada da base: R;, = — (valor: 1,0 ponto)
+b) aresistência de entrada do amplificador: R; = (valor: 1,0 ponto)
+v,
+c) aresistência de saída do coletor: R,, = a (valor: 1,0 ponto)
+Cc
+V,
+d) aresistência de saída do amplificador: R= — (valor: 1,0 ponto)
+Ry = (valor: 2,0 pontos)
+Vo
+e) o ganho de tensão a circuito aberto: A,,= Tv
+f) oganho de corrente em curto-circuito: A;.= To | R=0 (valor: 2,0 pontos)
+Ss L
+V
+g) o ganho de tensão global: A, = Ne (valor: 2,0 pontos)
+f</Unicode></TextEquiv></TextRegion></Page></PcGts>

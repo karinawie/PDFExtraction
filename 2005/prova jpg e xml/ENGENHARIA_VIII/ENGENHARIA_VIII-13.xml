@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:12:53</Created>
+	<LastChange>2020-10-24T03:38:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="328,1232 327,1785 1336,1786 1337,1233"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,1049 80,1049 80,1050 110,1050 110,1085 1573,1085 1573,1213 1473,1213 1473,2046 81,2046 81,2045 80,2045 80,1212 79,1212"/>
+	<TextEquiv conf="0.96906">
+	<Unicode>QUESTÃO 20
+Estão disponíveis, hoje, diversas tecnologias para levantamentos topográficos planialtimétricos, tais como as tecnologias
+óticas tradicionais e as atuais, que envolvem a utilização de radar, raios laser ou transmissões de satélites como o GPS.
+Mesmo com as tecnologias mais modernas, é necessário estabelecer uma atividade de campo para apoio ou calibração das
+tecnologias utilizadas. O esquema abaixo representa um levantamento altimétrico.
+Considerando esse esquema, a diferença de nível entre dois pontos A e B quaisquer pode ser obtida conhecendo-se
+(A) a leitura das réguas nos pontos A e B.
+(B) a leitura da régua no ponto Be a cotado ponto A.
+(C) a leitura no ponto B, a cota do ponto A e a altura do aparelho.
+(D) a altura do aparelho e a leitura da régua no ponto A.
+(E) a distância horizontal entre os pontos e a leitura das réguas nos pontos A e B.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,262 377,262 377,374 1535,374 1535,588 1574,588 1574,1009 1573,1009 1573,1010 81,1010 81,1009 80,1009 80,1008 81,1008 81,616 117,616 117,325 79,325"/>
+	<TextEquiv conf="0.96193">
+	<Unicode>QUESTÃO 19
+Analise o seguinte texto:
+A extensão rural vai um pouco além da simples instrução, constituindo-se em um processo de desenvolvimento da
+capacidade física, intelectual e moral do ser humano, visando à sua melhor formação como indivíduo e como membro
+integrado à sociedade. Extensão educa. Pode-se dizer que a educação tem por finalidade o aperfeiçoamento integral de
+todas as faculdades humanas e é nesta premissa que se assenta a filosofia da extensão rural. Pode-se dizer ainda que
+a extensão transmite, difunde, vulgariza conhecimentos por meios e métodos educativos.
+(OLINGER, Glauco. Métodos de extensão rural. Florianópolis: EPAGRI, 2001, p.23)
+Nesse contexto, entende-se que:
+(A) extensão rural é um processo similar ao de assistência técnica, visto que esta se preocupa com o aprendizado e objetiva,
+sobretudo, a solução dos problemas técnicos.
+(B) extensão é também um processo de comunicação e, consequentemente, métodos de extensão e meios de comunicação
+são equivalentes.
+(C) a execução de extensão rural não é uma prerrogativa exclusiva dos serviços estatais de ATER (Assistência Técnica e
+Extensão Rural) pois instituições como organizações não governamentais, prefeituras, sindicatos, cooperativas e mesmo
+empresas agroindustriais podem executar extensão rural.
+(D) dentre os métodos educativos grupais utilizados pela extensão rural, encontram-se o contato, a visita e unidades de observa-
+ção.
+(E) a extensão rural deve atuar isolada e individualmente junto a cada indivíduo, uma vez que métodos educativos grupais e de
+massa são pouco eficientes e, por isso, pouco utilizados na busca de um maior alcance de resultados.</Unicode></TextEquiv></TextRegion></Page></PcGts>

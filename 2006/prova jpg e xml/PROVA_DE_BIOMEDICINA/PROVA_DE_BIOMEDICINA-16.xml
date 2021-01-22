@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T01:46:26</Created>
+	<LastChange>2020-09-22T01:47:12</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-16.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="300,408 300,922 1580,922 1580,408"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="78,245 1350,245 1350,293 1574,293 1574,350 1348,350 1348,404 81,404 81,405 80,405 80,272 78,272"/>
+	<TextEquiv conf="0.96294">
+	<Unicode>Atenção: Para responder às questões de números 34 e 35, considere o texto e o gráfico que seguem.
+Hoje em dia mais de 40 milhões de indivíduos estão infectados com HIV, causador da AIDS (síndrome da
+imunodeficiência adquirida).
+Esquema da evolução temporal dos estágios da AIDS após a infecção de um indivíduo, no tempo zero.
+A B c</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="79,932 1574,932 1574,1133 1466,1133 1466,1235 1574,1235 1574,1292 1314,1292 1314,1395 1574,1395 1574,1446 81,1446 81,1447 80,1447 80,1039 79,1039"/>
+	<TextEquiv conf="0.95334">
+	<Unicode>(Adaptado de R. R. Redfield e D. S. Burke. HIV infection: the clinical picture. Scientific American. v. 259, n. 4, p. 90-98, 1988)
+QUESTÃO 34
+Um teste normalmente empregado para o diagnóstico do indivíduo soropositivo é realizado pelo imunoensaio qualitativo
+conhecido como ELISA. Tendo em vista a progressão da doença apresentada no gráfico,
+(A) o teste detecta diretamente a presença do RNA viral e, portanto, deve ser mais eficiente durante os períodos
+indicados por A e C na figura.
+(B) não há como detectar se um indivíduo está contaminado, exceto se ele já estiver com os sintomas da AIDS.
+(C) o teste detecta diretamente a presença do vírus e, portanto, o resultado deve ser positivo durante toda a progressão
+da doença.
+(D) oteste detecta a presença de transcriptase reversa, que é a enzima que replica o genoma viral.
+(E) o resultado do teste pode ser negativo se for realizado logo após a infecção, pois a quantidade de anticorpos contra
+HIV ainda é baixa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="78,1507 445,1507 445,1611 1576,1611 1576,1668 1469,1668 1469,1770 1574,1770 1574,1825 256,1825 256,1988 334,1988 334,2014 318,2014 318,2110 280,2110 280,2158 80,2158 80,2110 90,2110 90,1966 88,1966 88,1887 80,1887 80,1866 81,1866 81,1573 78,1573"/>
+	<TextEquiv conf="0.96670">
+	<Unicode>QUESTÃO 35
+Analise as afirmações abaixo.
+| - Os sintomas de imunodeficiência da AIDS ocorrem quando a carga viral é muito alta, o que corresponde às fases À
+e C da figura.
+Il - Após a redução do sistema imunológico, fase C, pode ocorrer infecção por agentes biológicos oportunistas.
+Il - O vírus HIV permanece com alta taxa de replicação todo o tempo após a infecção, mas é controlado pelo sistema
+imune, exceto na fase C.
+Estão corretas
+(A)I, II e III.
+(B)II e III, somente.
+(C)I e II, somente.
+(D)III, somente.
+(E)II, somente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

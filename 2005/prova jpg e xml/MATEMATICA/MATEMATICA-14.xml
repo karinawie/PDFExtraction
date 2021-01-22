@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-22T23:58:31</Created>
+	<LastChange>2020-11-13T21:39:15</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-14.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r4">
+	<Coords points="105,219 103,746 1256,750 1258,222"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="314,957 314,1062 1548,1062 1548,957"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="397,1634 397,2142 1251,2142 1251,1634"/></ImageRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="116,112 386,112 386,160 1026,160 1026,161 1430,161 1430,216 1354,216 1354,855 1548,855 1548,878 1118,878 1118,1596 1258,1596 1258,1619 104,1619 104,1618 103,1618 103,766 217,766 217,128 116,128"/>
+	<TextEquiv conf="0.86127">
+	<Unicode>QUESTÃO 30
+Considere f: R * R uma função derivável até a ordem 2, pelo menos, tal que f(-2) = 0, f(-1) = -1,/(0) = -2,
+f1)=1ef2)=2.0 gráfico da derivada de primeira ordem, f /, tem o aspecto apresentado abaixo.
+7
+Com base nos valores dados para a função fe no gráfico de sua derivada f', faça o que se pede nos itens a seguir.
+a) Na reta abaixo, represente com setas 7 ou Y% os intervalos em que a função f é crescente ou descrescente, respectivamente.
+(valor: 2,0 pontos)
+b) Calcule: lim FO = lim Fix) = (valor: 1,0 ponto)
+4 : +
+NF Ro
+c) Quais são os pontos de máximo e de mínimo relativos (locais) de f/? (valor: 2,0 pontos)
+d) Quais são os pontos de inflexão de f ? (valor: 1,0 ponto)
+e) No sistema de eixos coordenados abaixo, faça um esboço do gráfico da função f. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

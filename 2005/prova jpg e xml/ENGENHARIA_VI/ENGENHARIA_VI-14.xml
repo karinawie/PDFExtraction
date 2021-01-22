@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:32:22</Created>
+	<LastChange>2021-01-18T02:15:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-14.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r8">
+	<Coords points="823,102 824,2147 827,2147 826,102"/></SeparatorRegion>
+	<TableRegion id="r0">
+	<Coords points="94,674 94,865 805,865 805,674"/></TableRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="876,133 1551,133 1551,160 1470,160 1470,221 1309,221 1309,342 1511,342 1511,846 1549,846 1549,1171 1440,1171 1440,1302 1548,1302 1548,1357 1550,1357 1550,2009 1549,2009 1549,2063 953,2063 953,2109 885,2109 885,2010 846,2010 846,1172 845,1172 845,847 846,847 846,846 885,846 885,387 964,387 964,342 1077,342 1077,221 918,221 918,222 917,222 917,160 876,160"/>
+	<TextEquiv conf="0.81775">
+	<Unicode>QUESTÃO 32
+EBay deve pagar pelo menos US$ 2,6 bilhões
+para adquirir Skype
+O site de leilões eBay anunciou que vai comprar a
+empresa de telefonia VoIP (voz sobre IP) Skype
+Technologies por US$ 2,6 bilhões. A tecnologia oferecida
+pelo programa Skype permite que os internautas façam
+ligações via redes de dados. O foco do eBay são os leilões
+online, um mercado que se aproxima de sua saturação.
+A iniciativa de aliar um serviço de telefonia à
+compra e venda de itens online deve turbinar os negócios do
+eBay. A idéia da compradora é juntar os serviços já
+oferecidos pela página à tecnologia VoIP para facilitar o
+processo de negociações entre os internautas.
+Internet: &lt;http://www1.folha.uol.com.br/folha/informatica/
+ult124u18953.shtmL&gt;. Acesso em7/10/2005 (comadaptações).
+A iniciativa do eBay ao comprar a Skype, descrita no texto acima,
+tem por finalidade estabelecer um novo modelo de negócios para
+o recém-criado modelo de e-marketplace. A idéia desse modelo
+é diminuir a assimetria de informação de modo a reduzir os
+custos de transação entre os participantes da negociação. Nesse
+sentido, esse modelo deve ser realizado mediante o(a)
+A aumento da riqueza de informação (profundidade e grau de
+detalhamento) e redução do número de compradores
+potenciais.
+B aumento do alcance da informação (quantidade de pessoas
+que podem ser conectadas e quantidade de produtos que se
+pode oferecer) e redução do nível de detalhamento sobre o
+produto.
+C diminuição do risco de se fazerem negócios pela Internet, uma
+vez que os participantes da negociação poderão interagir
+entre si.
+D aumento da riqueza de informação envolvida na negociação
+e o aumento do alcance da informação pelas pessoas
+interessadas no produto.
+E diminuição do risco de se fazer negócios pela Internet, uma
+vez que será eliminada a proliferação de vírus nas redes de
+dados.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="149,1429 807,1429 807,1459 728,1459 728,1689 794,1689 794,1712 769,1712 769,1814 806,1814 806,1963 805,1963 805,2089 273,2089 273,2124 142,2124 142,2084 104,2084 104,1712 103,1712 103,1689 182,1689 182,1459 149,1459"/>
+	<TextEquiv conf="0.91735">
+	<Unicode>QUESTÃO 31
+Considere que determinada empresa vem
+reduzindo anualmente a quantidade de água utilizada
+no processo de produção de cerveja, sem alterar a
+quantidade produzida, porém, mantendo a
+qualidade dos efluentes.
+Com relação à situação hipotética acima, é correto afirmar que
+A o teor alcóolico da cerveja vem aumentando anualmente.
+B a empresa está operando de forma mais harmoniosa com o
+ecossistema.
+C a qualidade da cerveja está sendo comprometida pela não
+melhoria da qualidade dos efluentes.
+D os custos de produção da cerveja estão aumentando
+anualmente.
+E os custos de produção da cerveja estão diminuindo
+anualmente</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="116,133 243,133 243,147 807,147 807,627 769,627 769,954 807,954 807,1353 230,1353 230,1389 142,1389 142,1353 104,1353 104,1016 103,1016 103,219 116,219"/>
+	<TextEquiv conf="0.96262">
+	<Unicode>QUESTÃO 30
+Uma equipe de engenheiros está desenvolvendo o
+anteprojeto de uma planta química para produzir um material em
+um processo de fluxo contínuo. O produto, gerado no reator em
+forma fluida, é bombeado para um concentrador que, eliminando
+parte da água, reduz o volume da mistura à metade. Da saída do
+concentrador, o produto é bombeado para a linha de enchimento,
+onde é embalado em vasos de 5 litros. O processo é muito estável
+e de fácil controle, de forma que o rendimento em cada etapa
+pode ser considerado 100%. Na faixa da capacidade de projeto
+definida pelo cliente, o custo unitário de capacidade de cada
+unidade dos equipamentos (ou seja, o custo do equipamento
+dividido pela sua capacidade) pode ser considerado constante e é
+dado na tabela abaixo.
+Observação: Os custos acima referem-se à vazão de saída do equipamento.
+De acordo com as informações acima, a equipe deve dimensionar
+os equipamentos de forma que o gargalo de produção seja
+O o concentrador, porque ele é equipamento intermediário no
+processo.
+O o reator, porque ele é a primeira fase do processo.
+O alinha de enchimento, porque ela é a última fase do processo.
+O o concentrador, por ser o equipamento de menor custo
+unitário de capacidade.
+O alinha de enchimento, porque o custo unitário de capacidade
+é maior.</Unicode></TextEquiv></TextRegion></Page></PcGts>

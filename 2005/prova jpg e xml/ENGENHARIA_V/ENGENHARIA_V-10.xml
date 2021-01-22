@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T09:28:42</Created>
+	<LastChange>2021-01-18T02:02:37</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-10.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r43">
+	<Coords points="832,102 835,2137 840,2137 837,102"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="868,865 868,1120 1528,1120 1528,865"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="140,688 140,1197 791,1197 791,688"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="137,1242 137,1765 785,1765 785,1242"/></ImageRegion>
+	<TextRegion id="r72" type="paragraph">
+	<Coords points="116,1812 825,1812 825,1878 823,1878 823,2002 822,2002 822,2129 325,2129 325,2235 104,2235 104,2131 103,2131 103,1965 116,1965"/>
+	<TextEquiv conf="0.93066">
+	<Unicode>QUESTÃO 16
+As informações acima permitem concluir que a taxa de
+evaporação de água no reservatório, nas 12 semanas observadas,
+foi maior na semana
+A 1. B 4. C 6. D 9. E 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="103,114 465,114 465,218 823,218 823,293 569,293 569,442 823,442 823,567 680,567 680,620 104,620 104,621 103,621 103,442 104,442 104,294 103,294 103,270 182,270 182,136 103,136"/>
+	<TextEquiv conf="0.96373">
+	<Unicode>Texto para as questões 16 e 17.
+A taxa de evaporação de água em um reservatório depende
+da condição climática. Em um modelo simplificado, essa taxa, E,
+pode ser descrita por
+E=av(100-UR),
+em que a é uma constante, v é a velocidade do vento, em m/s, e
+UR é a umidade relativa do ar, em porcentagem. Nas figuras IL e II
+abaixo, são apresentados dados climáticos em determinado
+reservatório de água, em 12 semanas de observação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="850,111 1551,111 1551,183 1549,183 1549,702 992,702 992,777 851,777 851,185 850,185"/>
+	<TextEquiv conf="0.74400">
+	<Unicode>QUESTÃO 17
+Para estimar a taxa de evaporação de água no reservatório, na
+24.º semana, considere que a umidade relativa do ar seja
+aproximada pelo valor médio dos dados da figura | e que a
+velocidade do vento seja aproximada por uma função periódica,
+com período igual a 6 semanas, obtida a partir dos dados da
+figura II. Qual das opções abaixo melhor estima essa taxa na
+24.º semana?
+A 3"
+B 80"
+C 210"
+D 480"
+E 1.080"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords points="850,1136 1550,1136 1550,1339 1386,1339 1386,1450 1549,1450 1549,1662 1229,1662 1229,1725 1126,1725 1126,1895 1284,1895 1284,2071 1191,2071 1191,2118 891,2118 891,2119 890,2119 890,2072 851,2072 851,1802 890,1802 890,1663 851,1663 851,1137 850,1137"/>
+	<TextEquiv conf="0.94694">
+	<Unicode>QUESTÃO 18
+No mecanismo ilustrado na figura acima, uma placa metálica gira
+em torno de um eixo devido à aplicação de uma força F, que
+provoca o aparecimento de um torque. Com relação a esse
+mecanismo e sabendo que o momento de inércia de massa é
+definido pela integral [7º dm, em que r é a distância do eixo ao
+elemento de massa dm, julgue os itens seguintes.
+I Quanto menor for o valor da distância d, maior deverá ser a
+força F necessária para vencer o atrito no eixo.
+II O momento de inércia de massa da placa metálica independe
+do valor da distância d.
+III O tempo necessário para se girar a placa do ponto OD ao
+ponto &amp; independe do torque.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+O Apenas os itens I e III estão certos.
+O Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

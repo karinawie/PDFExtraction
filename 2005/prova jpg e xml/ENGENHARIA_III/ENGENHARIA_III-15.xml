@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:53:41</Created>
+	<LastChange>2020-10-23T03:13:36</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="616,1298 614,1703 1034,1705 1036,1300"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,1099 110,1099 110,1138 1573,1138 1573,1248 1510,1248 1510,1910 1358,1910 1358,1982 80,1982 80,1788 79,1788 79,1244 78,1244 78,1243 79,1243"/>
+	<TextEquiv conf="0.96905">
+	<Unicode>QUESTÃO 23
+No estado plano de tensões, as tensões principais 0, e o, podem ser utilizadas para efeito de dimensionamento e análise de
+falhas em componentes estruturais. No gráfico, estão representados os eixos relativos a essas tensões principais e as curvas de
+limite de resistência, segundo os critérios de Tresca e de Von Mises, onde 6, representa a tensão de escoamento do material.
+A análise do gráfico permite concluir que, segundo
+(A) o critério de Von Mises, um ponto sujeito às tensões 0, = 0,/2€ 0,=-0 /2 não falhará.
+(B) o critério de Von Mises, um ponto fora do polígono de seis lados e da elipse representa uma condição de falha.
+(C) o critério de Von Mises, as maiores tensões normais não podem ultrapassar a tensão de escoamento O,.
+(D) o critério de Tresca, um ponto sujeito às tensões 0, =0, e O0,=- o, não falhará.
+(E) os dois critérios, um ponto entre o polígono de seis lados e a elipse representa uma condição de falha.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="465,348 465,800 1177,800 1177,348"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,264 80,264 80,265 273,265 273,266 467,266 467,267 661,267 661,268 854,268 854,269 1048,269 1048,270 1242,270 1242,271 1435,271 1435,331 542,331 542,868 725,868 725,869 898,869 898,946 1119,946 1119,973 1032,973 1032,1051 80,1051 80,331 79,331"/>
+	<TextEquiv conf="0.94930">
+	<Unicode>QUESTÃO 22
+O gráfico abaixo representa a curva tensão x deformação de um determinado aço, obtida em um teste de tração.
+Pela análise do gráfico, conclui-se que
+(A) atensão no ponto C corresponde ao limite de proporcionalidade.
+(B) afratura ocorre no ponto D.
+(C) o módulo de elasticidade do material pode ser obtido pela inclinação do trecho AB.
+(D) o limite elástico do material ocorre no ponto E.
+(E) o limite de escoamento do material é dado pelo valor da tensão no ponto D.</Unicode></TextEquiv></TextRegion></Page></PcGts>

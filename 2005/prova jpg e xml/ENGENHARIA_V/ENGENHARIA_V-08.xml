@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:29:09</Created>
+	<LastChange>2021-01-18T02:06:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-08.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r8">
+	<Coords points="904,192 904,2145 906,2145 906,192"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="162,1091 162,1680 802,1680 802,1091"/></ImageRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="925,197 1551,197 1551,237 1550,237 1550,547 1549,547 1549,653 1548,653 1548,780 1550,780 1550,1230 926,1230 926,547 925,547"/>
+	<TextEquiv conf="0.16697">
+	<Unicode>QUESTÃO 13
+O supercomputador T-Rex (Tiranossauro Rex) e o
+software Harpia são as mais novas armas da Receita Federal
+do Brasil para combater a sonegação fiscal. Esse hardware,
+que realiza 2.860 milhões de instruções por segundo, é
+capaz de cruzar informações, com rapidez e precisão, de um
+número de contribuintes equivalente ao de contribuintes do
+Brasil, dos EUA e da Alemanha juntos. O novo software vai
+permitir que, a partir de técnicas de inteligência artificial,
+sejam identificadas operações de risco para o fisco.
+A novidade do sistema é a capacidade que ele terá de
+aprender com o comportamento dos contribuintes e com
+isso detectar irregularidades.
+Folha de S.Paulo, p. B1, 16/10/2005 (com adaptações).
+Considerando o texto acima, assinale a opção correta,
+relativa a informática.
+O A capacidade do T-Rex é equivalente à de 2.860
+computadores pessoais de 1 GB de memória RAM,
+desde que suas capacidades possam ser adicionadas.
+O Para “cruzar informações, com rapidez e precisão”, o
+T-Rex poderá usar a Internet, que constitui meio
+inviolável de transmissão de informação entre bancos
+de dados.
+O É possível que a capacidade de “aprender com o
+comportamento dos contribuintes”, mencionada no
+texto, seja decorrente do uso de redes neurais como
+ferramenta de inteligência artificial.
+O Embora os computadores sejam indispensáveis a
+diversos ramos da engenharia, o estágio atual do
+desenvolvimento de sistemas operacionais restringe o
+uso de redes de computadores a grandes empresas.
+O O sistema de informação descrito no texto deve ter
+sido desenvolvido em Linux ou Unix, que constituem
+linguagens de programação avançadas usadas na
+implementação de sistemas de informação complexos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="116,1040 887,1040 887,1071 886,1071 886,2091 104,2091 104,1071 102,1071 116,1071"/>
+	<TextEquiv conf="0.83989">
+	<Unicode>QUESTÃO 12
+De acordo com a fala do personagem na charge acima,
+O meio ambiente e produção industrial são fatores igualmente
+relevantes na discussão sobre ética e desenvolvimento.
+O a defesa da ética sobrepõe-se ao poder industrial, representado, na
+discussão, por Joana.
+O os estragos na camada de ozônio têm retardado a implementação de
+tecnologias voltadas para o desenvolvimento sustentável.
+O a camada de ozônio ameaça a indústria dos CFCs porque o gás O;
+reage com o cloro prejudicando a formação dos CFCs.
+O odiscurso em defesa da ética na utilização de tecnologias estimula o
+avanço industrial.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="102,201 887,201 887,574 548,574 548,681 885,681 885,1013 104,1013 104,574 103,574 103,241 102,241"/>
+	<TextEquiv conf="0.04142">
+	<Unicode>QUESTÃO 11
+O gás ozônio (O;) e os clorofluorcarbonos (CFCs) são: exemplos
+da dificuldade de se classificar uma substância como poluente, pois podem
+trazer benefícios ou prejuízos à sociedade e aos seres vivos. O ozônio, nas
+camadas mais baixas da atmosfera, é tóxico, mas, na estratosfera, absorve
+radiação ultravioleta (UV) proveniente do Sol, evitando os efeitos nocivos
+do excesso dessa radiação nos seres vivos.
+Os CFCs apresentam baixa toxicidade e são inertes na baixa
+atmosfera. Entretanto, quando atingem a estratosfera, são decompostos
+pela radiação UV, liberando átomos e compostos que destroem moléculas
+de ozônio, sendo, portanto, considerados os principais responsáveis pela
+destruição do ozônio na estratosfera.
+De acordo com as idéias do texto acima,
+O os CFCs são nocivos ao seres vivos, pois impedem a incidência da
+radiação ultravioleta na superfície terrestre.
+O acamada de ozônio é responsável pela maior incidência da radiação
+ultravioleta na superfície terrestre.
+O o ozônio e os CFCs são os principais responsáveis pelas mudanças
+climáticas observadas nos últimos anos.
+O a camada de ozônio na estratosfera tem sido recuperada devido às
+interações da radiação ultravioleta com os CFCs.
+O a camada de ozônio protege os seres vivos do excesso de radiação
+ultravioleta e pode ser destruída pela ação dos CFCs na estratosfera.</Unicode></TextEquiv></TextRegion></Page></PcGts>

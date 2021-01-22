@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:37:03</Created>
+	<LastChange>2020-11-13T11:48:39</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-23.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r10">
+	<Coords points="96,838 96,1343 827,1343 827,838"/></ImageRegion>
+	<SeparatorRegion id="r12">
+	<Coords points="841,102 841,2155 843,2155 843,102"/></SeparatorRegion>
+	<ImageRegion id="r14">
+	<Coords points="926,192 926,1324 1488,1324 1488,192"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="100,180 100,445 802,445 802,180"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="101,498 823,498 823,584 385,584 385,688 440,688 440,742 180,742 180,715 158,715 158,688 180,688 180,584 101,584"/>
+	<TextEquiv conf="0.94808">
+	<Unicode>QUESTÃO 60
+Considere o circuito combinacional ilustrado acima, que apresenta
+a, b e c como sinais de entrada e s como sinal de saída. A equação
+booleana mínima que descreve a função desse circuito é igual a
+a or not(b) or c.
+a and not(b) and c.
+= not(a) or b or not(c).
+not(a) and b and not(c).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="862,1384 1548,1384 1548,1663 1233,1663 1233,1727 1108,1727 1108,1983 1088,1983 1088,2047 1037,2047 1037,2111 902,2111 902,1727 863,1727 863,1663 862,1663"/>
+	<TextEquiv conf="0.94258">
+	<Unicode>QUESTÃO 62
+Considere que um colega seu tenha ganhado uma máquina
+fotográfica digital e tenha tirado a foto identificada por I acima.
+Na seqiiência, a partir da imagem 1, considere que ele tenha
+gerado a imagem II acima. Nessa situação, o processamento
+realizado sobre a imagem I que melhor explica a geração da
+imagem II envolve a aplicação de
+filtro passa-baixas.
+quantizador.
+reamostragem.
+filtro passa-altas.
+compressão.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="99,1384 824,1384 824,1819 822,1819 822,1882 406,1882 406,1946 227,1946 227,2130 141,2130 141,1946 101,1946 101,1597 99,1597"/>
+	<TextEquiv conf="0.93892">
+	<Unicode>QUESTÃO 61
+Considere o volume de visualização e os objetos identificados
+como OD, &amp; e É na figura acima. Considere, ainda, que todos os
+objetos têm o mesmo tamanho, que o objeto OD está localizado fora
+do volume de visualização e que os objetos &amp; e &amp; estão dentro
+dele. A partir desses dados, no que concerne à execução do
+pipeline de visualização na situação acima representada, é correto
+inferir que
+I o objeto O está na linha de visão do observador, mas não
+aparece na imagem final.
+II é suficiente, para a determinação das faces visíveis, realizar o
+recorte contra o volume canônico.
+III a remoção de faces traseiras (back face culling) utiliza
+informação de posição e orientação do observador.
+IV o processo de visualização garante que os objetos &amp; e &amp; sejam
+totalmente visíveis na imagem final.
+Estão certos apenas os itens
+Tell.
+Tell.
+Nem.
+MelvV.
+NMelV.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

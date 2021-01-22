@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T01:45:37</Created>
+	<LastChange>2020-09-22T01:45:50</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="560,1151 560,1654 1125,1654 1125,1151"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,240 267,240 267,241 271,241 271,281 1575,281 1575,591 1573,591 1573,726 472,726 472,776 335,776 335,954 80,954 80,749 81,749 81,589 82,589 82,482 80,482 80,481 79,481 79,281 80,281"/>
+	<TextEquiv conf="0.93253">
+	<Unicode>QUESTÃO 32
+A gripe aviária, provocada pelo vírus influenza do tipo HSN1, tem sido alvo de preocupação mundial. Apesar de infectar
+principalmente aves, já foi detectada, em alguns países da Ásia, infecção em humanos, levando a uma alta taxa de
+mortalidade. Sabe-se que os vírus influenza são envelopados e têm o genoma composto por moléculas de RNA simples
+fita, negativa, segmentado, sendo que esse tipo de genoma pode contribuir para o estabelecimento de uma pandemia
+em seres humanos, além de dificultar o desenvolvimento de uma vacina.
+Analise as afirmações abaixo.
+| - A coinfecção em um mesmo paciente por um vírus da gripe comum (H1IN1) e o vírus da gripe aviária possibilita a
+troca de segmentos dos dois genomas, ampliando as chances de surgir uma cepa altamente patogênica no
+homem.
+|l - Vacinas para vírus da gripe comum (H1N1) não devem ser eficientes para proteger contra o vírus da gripe aviária.
+Ill - Os vírus com genomas de RNA são conhecidos como retrovírus e, por se integrarem ao genoma da célula
+hospedeira, não há como controlá-los.
+Está correto o que se afirma em
+(A) Il, somente.
+(B) lell, somente.
+(C) lelll, somente.
+(D) lIlelll, somente.
+(E) Lilelll.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,991 267,991 267,992 271,992 271,1032 1575,1032 1575,1154 445,1154 445,1705 1574,1705 1574,1864 1575,1864 1575,1919 472,1919 472,1983 335,1983 335,2160 80,2160 80,1665 79,1665 79,1032 80,1032"/>
+	<TextEquiv conf="0.96582">
+	<Unicode>QUESTÃO 33
+Testes de DNA para determinação de paternidade são hoje em dia realizados por meio da tecnologia de PCR
+(polymerase chain reaction, ou reação de polimerase em cadeia). Estes testes distinguem /oci conhecidos como
+microssatélites. Em um desses testes foram observados os resultados ilustrados no esquema abaixo, que representa a
+migração eletroforética de uma análise de paternidade de uma criança (F), sua mãe (M) e o suposto pai (SP).
+Analise as afirmações abaixo.
+| - PCR pode ser feito a partir de amostras com pouco DNA dos indivíduos, já que a técnica possibilita a amplificação
+de sequências específicas de DNA.
+|l - O resultado revela que SP não deve ser o pai da criança, já que uma das bandas de DNA deste não é encontrada
+no DNA da criança.
+Ill - Microssatélites são regiões do genoma nas quais ocorrem repetições de sequências nucleotídicas e por isso cada
+locus pode resultar em variações de tamanho nos indivíduos testados.
+Está correto o que se afirma em
+(A) Il, somente.
+(B) lell, somente.
+(C) lelll, somente.
+(D) Il elll, somente.
+(E) Lilelll.</Unicode></TextEquiv></TextRegion></Page></PcGts>

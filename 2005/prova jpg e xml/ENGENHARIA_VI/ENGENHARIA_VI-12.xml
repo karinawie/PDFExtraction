@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:32:58</Created>
+	<LastChange>2021-01-18T02:13:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-12.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="779,211 779,2146 781,2146 781,211"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="100,1260 100,1682 768,1682 768,1260"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="102,230 762,230 762,270 761,270 761,654 594,654 594,680 142,680 142,648 104,648 104,416 103,416 103,270 102,270"/>
+	<TextEquiv conf="0.24789">
+	<Unicode>QUESTÃO 21
+Existem três tipos básicos de arranjo físico (leiaute) de
+fábricas: posicional (ou por posição fixada); funcional (ou
+por processo); e linear (ou por produto). É correto afirmar
+que, em uma fábrica que produz cinco tipos de diferentes
+produtos,
+O podem coexistir os três tipos de leiautes.
+O oleiaute linear exige que o prédio tenha forma alongada.
+O o leiaute linear é melhor para o setor de montagem de
+peças.
+O oleiaute funcional é melhor para o setor de fabricação de
+peças.
+O o leiaute posicional deve ser usado quando há uma
+máquina difícil de ser removida do local.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="102,694 762,694 762,734 761,734 761,1194 142,1194 142,1167 104,1167 104,907 103,907 103,734 102,734"/>
+	<TextEquiv conf="0.04269">
+	<Unicode>QUESTÃO 22
+O enfoque científico do trabalho teve início com os trabalhos
+de Frederick W. Taylor, que publicou, em 1912, a obra
+Princípios de Administração Científica. A aplicação desses
+princípios produziu a organização taylorista do trabalho ou
+taylorismo, que sofre críticas de pesquisadores em ergonomia
+por
+A padronizar salários, sem considerar as diferenças
+individuais entre os trabalhadores.
+B medir a eficiência do trabalho pelo desempenho em
+tempo, desconsiderando-se outros fatores importantes.
+C exigir a implantação de onerosos procedimentos de
+controle coletivo dos trabalhadores.
+D prever pouco tempo para o descanso dos trabalhadores.
+E ser recomendado para os países onde se encontram os
+trabalhadores mais instruídos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="116,1222 762,1222 762,1252 760,1252 760,2128 104,2128 104,1836 103,1836 103,1704 116,1704"/>
+	<TextEquiv conf="0.85467">
+	<Unicode>QUESTÃO 23
+Os gráficos acima mostram a evolução do ciclo de vida de
+um produto no mercado, dividido em 4 etapas: introdução
+(market development); crescimento (growth), maturidade
+(maturity) e declínio (decline). Com base apenas na análise
+desses gráficos, assinale a opção correta.
+O O pico do volume de vendas ocorre na etapa de
+crescimento.
+O O produto começa a dar lucro para a empresa no início da
+etapa de maturidade.
+O O lucro total com o produto é crescente na primeira
+metade da etapa de crescimento.
+O O pico do lucro unitário ocorre na etapa de maturidade.
+O O produto começa a dar prejuízo para a empresa no início
+da etapa de declínio.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="814,1552 1552,1552 1552,1582 1551,1582 1551,1756 1550,1756 1550,1908 1549,1908 1549,2007 1414,2007 1414,2110 840,2110 840,2104 801,2104 801,1908 800,1908 800,1794 801,1794 801,1596 814,1596"/>
+	<TextEquiv conf="0.92413">
+	<Unicode>QUESTÃO 26
+Uma empresa possui uma linha de produção em que são
+fabricados produtos acabados para estoque, e utiliza duas máquinas, M1
+e M2, em série, com o processamento em M1, precedendo sempre o
+processamento em M2. Nessa linha, não existe a possibilidade de
+armazenamento de produtos intermediários resultantes do
+processamento em M1.
+Sabendo que T, e T, são os valores das taxas de produção,
+respectivamente, das máquinas Ml e M2 (produção média/hora),
+assinale a opção correta a respeito do valor da taxa média do sistema
+de máquinas em conjunto (TLP).
+O ParaT,=T,=TeT,eT,determinísticos, TLP = 2T.
+O ParaT,=T,=TeT, probabilístico e T, determinístico, TLP&gt;T.
+O ParaT,=T,=TeT, determinístico e T, probabilístico, TLP&gt;T.
+Para Ty =T,=TeT,eT,probabilísticos, TLP&gt;T.
+Para Ty, &gt; T, e T, e T, determinísticos, TLP = T,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="800,941 1552,941 1552,981 1551,981 1551,1173 1549,1173 1549,1278 1551,1278 1551,1461 1549,1461 1549,1526 801,1526 801,1173 800,1173"/>
+	<TextEquiv conf="0.65855">
+	<Unicode>QUESTÃO 25
+Uma microempresa com uma única máquina fabrica produtos
+sob encomenda. Para essa situação, assinale a opção que contém a
+regra ou a combinação de regras de priorização com melhor
+desempenho para a alocação dos pedidos de produtos à referida
+máquina, considerando como medida de desempenho o menor tempo
+médio de fluxo (permanência) de pedidos na empresa.
+O Ordem de chegada: primeiro a chegar, primeiro a ser atendido
+(FCFS: first come first served).
+O Ordem inversa de chegada: último a chegar, primeiro a ser
+atendido (LCF'S: last come first served).
+O Menortempo de processamento: atendimento em ordem crescente
+de tempo de processamento (SPT: shortest processing time).
+O Prazo de entrega: atendimento em ordem crescente de prazo até
+entrega (EDD: earliest due date).
+O Ordem de chegada (FCFS) para o primeiro pedido e ordem
+inversa de chegada (LCFS) para os demais pedidos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="846,239 941,239 941,272 1552,272 1552,480 1550,480 1550,925 801,925 801,272 846,272"/>
+	<TextEquiv conf="0.96564">
+	<Unicode>QUESTÃO 24
+Uma empresa de manufatura está avaliando uma proposta de
+parceria para expandir-se no mercado internacional. Na avaliação da
+proposta, o engenheiro de produção da empresa ficou responsável pela
+análise da nova cadeia de suprimento (supply chain) que se formaria.
+Tendo a situação hipotética acima como referência, é correto o
+engenheiro de produção afirmar que
+O produtos semi-acabados vindos de outras unidades de fabricação
+própria fazem parte dos fluxos diretos de logística.
+O a importância dos fluxos reversos para a reciclagem de produtos
+é irrelevante no mercado internacional de produtos
+manufaturados.
+O uma característica básica a ser respeitada é a exigência de que os
+membros de cadeias de suprimento internacional tenham suas
+atividades gerenciadas como se fossem entidades separadas.
+O a contratação de um operador logístico (third party logistics) com
+base em ativos é livre de riscos para o empreendimento.
+O o modal dutoviário de transporte é o mais indicado para a
+distribuição dos produtos aos clientes, pois se trata de um
+empreendimento de manufatura</Unicode></TextEquiv></TextRegion></Page></PcGts>

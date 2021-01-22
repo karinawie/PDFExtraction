@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T00:39:29</Created>
+	<LastChange>2020-10-23T01:20:26</LastChange></Metadata>
+	<Page imageFilename="GEOGRAFIA-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r5">
+	<Coords points="56,388 56,1078 714,1078 714,388"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="742,400 742,1068 1551,1068 1551,400"/></ImageRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="60,123 660,123 660,283 975,283 975,1206 1544,1206 1544,1264 1554,1264 1554,1317 60,1317 60,1206 213,1206 213,191 60,191"/>
+	<TextEquiv conf="0.96428">
+	<Unicode>Questão 5
+Considere os dados abaixo para responder à questão.
+Eu, tatu
+Garimpeiros na Serra Pelada
+(Folha de S.Paulo, jun. 2004)
+a. Identifique e conceitue o processo geomorfológico assunto da matéria que envolve a foto e o gráfico. (Valor: 4,0 pontos)
+b. Explique porque as sociedades humanas ampliaram seu poder de remanejar solos e rochas a partir da época
+evidenciada no gráfico. Utilize ao menos dois exemplos, descartando a mineração. (Valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

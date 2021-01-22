@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:30:18</Created>
+	<LastChange>2021-01-18T02:22:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-23.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r11">
+	<Coords points="823,201 824,2155 827,2155 826,201"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="848,282 848,860 1540,860 1540,282"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="854,1362 854,1694 1562,1694 1562,1362"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="97,825 97,1134 811,1134 811,825"/></TableRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="116,230 807,230 807,258 806,258 806,543 227,543 227,751 143,751 143,750 104,750 104,543 103,543 103,258 102,258 116,258"/>
+	<TextEquiv conf="0.72878">
+	<Unicode>QUESTÃO 51
+Um consumidor residencial de energia elétrica tem, em sua casa,
+dez lâmpadas incandescentes de 100 W que ficam acesas
+cinco horas por dia, durante 300 dias por ano. Ele pretende trocá-
+las por lâmpadas fluorescentes compactas, de 20 W, que
+consomem menos energia e produzem intensidade luminosa
+equivalente à das lâmpadas de 100 W. Sabendo-se que o
+consumidor paga quarenta centavos por kWh consumido, a
+economia anual em sua conta de energia que resultará da referida
+troca deverá ser de
+R$ 120.
+R$ 240.
+R$ 360.
+R$ 480.
+R$ 600.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="116,782 243,782 243,1145 806,1145 806,1407 805,1407 805,1470 270,1470 270,1674 142,1674 142,1672 104,1672 104,1470 103,1470 103,1145 116,1145"/>
+	<TextEquiv conf="0.96621">
+	<Unicode>QUESTÃO 52
+Existem diversos indicadores para caracterizar a qualidade do
+fornecimento de energia elétrica residencial pelas empresas
+concessionárias. As concessionárias devem enviar anualmente
+esses indicadores à ANEEL, incluindo DEC (duração equivalente
+de interrupção por unidade consumidora) e FEC (frequência
+equivalente de interrupção por unidade consumidora). A tabela
+acima apresenta o registro anual de ocorrências de determinada
+concessionária, que serve a uma comunidade de dez mil
+habitantes. Nessa situação, os valores de DEC e FEC que deverão
+ser enviados à ANEEL são, respectivamente,
+3,85 e 2,60.
+4,03 e 2,98.
+4,85 e 3,20.
+5,15 63,58.
+5,64 e 4,36.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="116,1704 242,1704 242,1743 805,1743 805,1721 807,1721 807,1930 274,1930 274,2063 268,2063 268,2133 104,2133 104,1930 103,1930 103,1743 116,1743"/>
+	<TextEquiv conf="0.96707">
+	<Unicode>QUESTÃO 53
+Uma linha de transmissão de energia elétrica em 500 kV interliga
+duas subestações defasadas de 30 graus elétricos. Devido a certas
+condições operativas, essa defasagem é alterada para 45 graus
+elétricos, com as tensões terminais nas subestações mantidas
+inalteradas. Nessa nova condição operativa, a potência
+transmitida entre as duas subestações deverá ser
+A 15% menor.
+B 15% maior.
+C 27% maior.
+D 36% maior.
+E 41% maior.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r55" type="paragraph">
+	<Coords points="859,1324 1551,1324 1551,1354 1549,1354 1549,1923 1082,1923 1082,2092 1077,2092 1077,2127 847,2127 847,1924 846,1924 846,1746 859,1746"/>
+	<TextEquiv conf="0.91795">
+	<Unicode>QUESTÃO 55
+Uma empresa fabricante de motores elétricos apresenta o custo
+total de produção (CT) e o preço de venda do produto (P),
+fornecidos em determinada unidade monetária (uum.),
+representados nos gráficos acima. Se essa empresa vender o
+produto a um preço igual ao seu custo marginal de produção
+(CM), ela terá
+A perda de 100 u.m.
+B perda de 200 u.m.
+C lucro de 220 u.m.
+D lucro de 250 u.m.
+E lucro de 300 u.m.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="caption">
+	<Coords points="846,899 1550,899 1550,1077 1233,1077 1233,1174 1124,1174 1124,1284 886,1284 886,1280 847,1280 847,1078 846,1078"/>
+	<TextEquiv conf="0.96472">
+	<Unicode>QUESTÃO 54
+A máquina síncrona de pólos salientes é usada na geração de
+energia hidrelétrica. Diferentemente da máquina síncrona de rotor
+cilíndrico, ela possui um componente de potência conhecido
+como potência devido à saliência, conforme o gráfico da curva
+potência (P,) — ângulo de carga Ô, apresentado acima. O valor
+desse componente de potência é proporcional
+ao escorregamento da máquina.
+ao seno de 28.
+ao cosseno de 28.
+ao seno de 8.
+à tensão de excitação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

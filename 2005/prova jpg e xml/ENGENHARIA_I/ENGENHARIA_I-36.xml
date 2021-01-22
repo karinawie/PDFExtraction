@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:55:42</Created>
+	<LastChange>2020-11-13T12:43:26</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-36.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="649,641 649,949 1582,950 1582,642"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="79,477 1574,477 1574,1101 80,1101 80,1100 79,1100"/>
+	<TextEquiv conf="0.94455">
+	<Unicode>19
+A poligonal de uma rodovia tem início no ponto A e passa pelos pontos B e C mostrados na figura. A distância entre os pontos À
+e Bé de 760 m e entre os pontos B e C é de 960 m. No ponto D tem início uma curva circular simples com ângulo central de 90º
+e raio de 360 m, terminando no ponto E.
+Após a concordância da curva, calcule as estacas dos pontos D, Ee C. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="79,1151 80,1151 80,1152 1573,1152 1573,1260 1242,1260 1242,1387 1573,1387 1573,1414 1570,1414 1570,1481 81,1481 81,1480 80,1480 80,1413 79,1413 79,1387 81,1387 81,1260 80,1260 80,1259 79,1259"/>
+	<TextEquiv conf="0.96457">
+	<Unicode>20
+Na produção de um mapa a partir da compilação de mapas em escalas maiores, o gerente do projeto deve optar por diversos
+operadores de generalização cartográfica.
+Esboce e explique, nas formas gráfica e escrita, respectivamente, o uso das seguintes técnicas:
+a) deslocamento (valor: 5,0 pontos)
+b) exagero (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1569 80,1569 80,1570 107,1570 107,1610 1574,1610 1574,1796 80,1796 80,1756 79,1756"/>
+	<TextEquiv conf="0.96875">
+	<Unicode>21
+Uma fotografia aérea perfeitamente vertical foi obtida a uma altitude de 964,0 m acima do nível do mar, com uma câmara
+fotogramétrica aérea cuja distância focal é igual a 150,0 mm. Nesta fotografia existe uma torre cujo deslocamento, devido ao
+relevo, é de 2,0 mm. Sabe-se que a distância radial do ponto principal da fotografia à imagem do topo desta torre é igual a 45,0 mm
+e que a altura de vôo acima da base da torre é igual a 900,0 m.
+Calcule a altura da torre. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

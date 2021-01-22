@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-22T23:59:22</Created>
+	<LastChange>2020-11-13T21:50:24</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-09.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r14">
+	<Coords points="824,103 829,2141 836,2141 831,103"/></SeparatorRegion>
+	<ImageRegion id="r16">
+	<Coords points="1288,178 1288,463 1523,463 1523,178"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="116,134 812,134 812,160 810,160 810,210 774,210 774,731 810,731 810,754 594,754 594,1029 143,1029 143,1030 142,1030 142,1025 104,1025 104,794 103,794 103,731 142,731 142,245 103,245 103,228 104,228 104,188 116,188"/>
+	<ImageRegion id="r1">
+	<Coords points="291,228 291,474 631,474 631,228"/></ImageRegion>
+	<TextEquiv conf="0.88162">
+	<Unicode>QUESTÃO 15
+Um professor propôs a seguinte situação-problema em sala de
+aula:
+Considere que a figura acima represente um terreno
+retangular MOVT e que R e Q sejam, respectivamente, os
+pontos médios dos lados MT e OV. Estabeleça as condições
+necessárias e suficientes para que o terreno esteja dividido
+em quatro áreas iguais.
+Qual das opções abaixo responde corretamente à indagação do
+professor?
+A Os segmentos NP e SU são paralelos.
+B MN=UV.
+C MN=RS=PQeNPe SU são paralelos.
+D NPUS é um paralelogramo e RS = PQ.
+E M=N;P=Q;U=VeR=S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="116,1065 243,1065 243,1354 811,1354 811,1653 527,1653 527,2060 536,2060 536,2081 444,2081 444,2117 143,2117 143,2118 142,2118 142,2117 103,2117 103,1354 116,1354"/>
+	<TextEquiv conf="0.67942">
+	<Unicode>QUESTÃO 16
+Considere o retângulo Q0, ilustrado acima e a partir dele, construa
+a seqüência de quadriláteros Q1, Q2, Q3, ..., de tal modo que, para
+i $ 1, os vértices de Qi são os pontos médios dos lados de Qi ! 1.
+Representando por a(Qi) a área do quadrilátero Qi, julgue os itens
+que se seguem.
+I A subseqüência de quadriláteros Q1, Q3, Q5, ...,
+correspondente aos índices ímpares, é formada somente por
+paralelogramos.
+II O quadrilátero Q6 é um retângulo.
+III Para i $ 1,
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="864,136 1552,136 1552,160 1257,160 1257,465 1550,465 1550,581 1552,581 1552,653 1381,653 1381,769 1231,769 1231,885 1550,885 1550,1003 1551,1003 1551,1218 1549,1218 1549,1296 1359,1296 1359,1342 854,1342 854,1343 853,1343 853,1218 851,1218 851,885 890,885 890,688 891,688 891,582 890,582 890,567 851,567 851,188 864,188"/>
+	<TextEquiv conf="0.90590">
+	<Unicode>QUESTÃO 17
+Considere a pirâmide OABCD de
+altura OA e cuja base é o
+paralelogramo ABCD. Considere
+também o prisma apoiado sobre a
+base da pirâmide e cujos vértices
+superiores são os pontos médios das
+arestas concorrentes no vértice O.
+Represente por V1 o volume da
+pirâmide OABCD e por V2 o volume do prisma. A respeito dessa
+situação, um estudante do ensino médio escreveu o seguinte:
+A razão independe de a base da pirâmide OABCD ser
+um retângulo ou um paralelogramo qualquer
+porque
+OAB é um triângulo retângulo.
+Com relação ao que foi escrito pelo estudante, é correto afirmar
+que
+A as duas asserções são proposições verdadeiras, e a segunda é
+uma justificativa correta da primeira.
+B as duas asserções são proposições verdadeiras, mas a segunda
+não é uma justificativa da primeira.
+C a primeira asserção é uma proposição verdadeira, e a segunda
+é falsa.
+D a primeira asserção é uma proposição falsa, e a segunda é
+verdadeira.
+E ambas as asserções são proposições falsas.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r4">
+	<Coords points="268,1088 268,1334 640,1334 640,1088"/></ImageRegion></Page></PcGts>

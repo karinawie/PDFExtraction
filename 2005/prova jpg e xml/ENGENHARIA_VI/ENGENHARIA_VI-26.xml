@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:29:37</Created>
+	<LastChange>2021-01-18T02:25:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-26.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="824,102 824,2155 826,2155 826,102"/></SeparatorRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="116,120 807,120 807,150 806,150 806,320 807,320 807,525 805,525 805,648 806,648 806,761 807,761 807,1057 806,1057 806,1167 805,1167 805,1334 807,1334 807,1346 806,1346 806,1420 481,1420 481,1425 302,1425 302,1456 142,1456 142,779 104,779 104,708 103,708 103,648 104,648 104,430 142,430 142,270 103,270 103,210 104,210 104,174 116,174"/>
+	<TextEquiv conf="0.80497">
+	<Unicode>QUESTÃO 62
+Determinar o diâmetro de tubulações é tarefa comum do
+engenheiro, fundamentada na mecânica dos fluidos. Nessa tarefa,
+três situações são possíveis:
+I a tubulação não é fator determinante no dimensionamento de
+bombas ou compressores, como ocorre no escoamento por
+gravidade;
+II a queda de pressão na tubulação determina toda ou parte da
+carga de bombas ou compressores, como na transferência de
+água para um reservatório superior;
+III a queda de pressão contribui para a elevação de tanques ou
+torres, como ocorre na transferência de fluidos aquecidos.
+Considerando as três situações mencionadas acima, assinale a
+opção correta.
+A Para o transporte de líquidos, deve-se escolher, em qualquer
+uma das situações, sempre a tubulação de menor diâmetro,
+desde que não se exceda o limite de velocidade recomendado
+que é de 3,0 m/s.
+B Em todos os casos, o critério de seleção deve ter como base
+a análise econômica, escolhendo-se o diâmetro que minimize
+a soma dos custos de tubulação e de bombeamento.
+C Apesar de ser possível estimar o diâmetro da tubulação
+por meio de programas de simulação, a dificuldade de
+correlacionar o fator de atrito com os parâmetros do sistema
+de bombeamento torna imperativa a consulta ao gráfico de
+Moody.
+D Para a situação 1, há uma decisão simples e direta quanto ao
+diâmetro da tubulação, embora o cálculo exija a aplicação d
+método iterativo.
+E A possibilidade de cavitação na tubulação deve ser
+considerada em todos os casos, uma vez que esse fenômeno
+pode levar ao desgaste acelerado sistema "de
+bombeamento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="102,1484 808,1484 808,1524 806,1524 806,1770 807,1770 807,2136 142,2136 142,1865 104,1865 104,1711 103,1711 103,1524 102,1524"/>
+	<TextEquiv conf="0.46930">
+	<Unicode>QUESTÃO 63
+Em uma indústria de panificação, a massa de bolo é colocada
+em formas retangulares de alumínio e levada para assar em fornos
+contínuos a 185 ºC, com aquecimento somente na base inferior do
+forno e ventilação forçada. Nesse sistema de assamento, a
+transferência de calor
+A ocorre principalmente por radiação das ondas de calor
+geradas pelas paredes das formas de alumínio.
+B realizada por convecção é insignificante, pois não há agitação
+da massa do bolo durante o assamento.
+C ocorre principalmente por condução pelo material das formas
+e pela convecção do ar no forno.
+D realizada pelo ar quente em movimento é insignificante,
+porque a fonte de aquecimento está na base inferior do forno.
+E ocorre principalmente pelo contato direto da massa do bolo
+com a fonte de calor.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="heading">
+	<Coords points="859,1050 1551,1050 1551,1119 1550,1119 1550,1326 1551,1326 1551,1349 1177,1349 1177,1462 1469,1462 1469,1561 1550,1561 1550,1681 1548,1681 1548,1811 1550,1811 1550,2087 1178,2087 1178,2134 886,2134 886,1579 847,1579 847,1485 846,1485 846,1462 847,1462 847,1349 846,1349 846,1081 845,1081 859,1081"/>
+	<TextEquiv conf="0.76491">
+	<Unicode>QUESTÃO 65
+A operação de secagem de sementes deve ser
+cuidadosamente planejada para garantir a manutenção da
+viabilidade das mesmas. Considere um lote de sementes de arroz
+com umidade inicial de 22%, que deve ser reduzida a cerca de
+13%, em temperaturas ao redor de 50 ºC. É sabido que essas
+sementes não podem ser submetidas a temperaturas muito elevadas
+por longos períodos de tempo.
+Com referência a essa situação, assinale a opção correta.
+A secagem pode ser feita com ar ambiente não aquecido,
+forçando-se o fluxo de ar através das sementes para aumentar
+a taxa de secagem.
+O emprego de ar aquecido a temperatura acima de 50 ºC
+reduz a viabilidade das sementes.
+A umidade de equilíbrio da semente com o ar não tem efeito
+sobre as condições de secagem.
+É possível atender às condições descritas utilizando-se ar a
+60 ºC, com temperatura de bulbo úmido de 45 “ºC.
+A vazão do ar pode controlar a temperatura da semente
+abaixo de 50 ºC, independentemente da temperatura e da
+umidade do ar empregado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="926,170 1550,170 1550,195 1549,195 1549,310 1550,310 1550,335 1260,335 1260,442 1372,442 1372,533 1551,533 1551,965 1406,965 1406,1011 886,1011 886,919 885,919 885,808 886,808 886,551 847,551 847,464 846,464 846,442 847,442 847,335 846,335 846,267 847,267 847,224 926,224"/>
+	<TextEquiv conf="0.96503">
+	<Unicode>QUESTÃO 64
+Uma indústria processa raízes de mandioca para fabricação
+de amido (polvilho doce). Animado com o aumento da demanda,
+o proprietário resolve adquirir centrífugas modernas para a
+separação do polvilho da suspensão, em substituição ao tradicional
+processo de sedimentação em tanques.
+Acerca dessa situação, assinale a opção correta.
+A A modernização de equipamentos é imprescindível para a melhora
+da qualidade do polvilho.
+B A ação da força centrífuga sobre as partículas diminui o efeito da
+diferença de densidade sobre a eficiência da separação.
+C Apesar da demora na obtenção do produto, a separação lenta por
+sedimentação permite a obtenção de polvilho mais puro.
+D A maior velocidade de separação obtida pelo processo de
+centrifugação é o único critério que compensa o custo elevado dos
+equipamentos.
+E Essa substituição, que assegura mais eficiência e capacidade de
+produção, é indicada para produção em larga escala.</Unicode></TextEquiv></TextRegion></Page></PcGts>

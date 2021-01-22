@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:53:08</Created>
+	<LastChange>2020-10-23T03:14:49</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="541,902 543,1731 1095,1730 1093,901"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,766 111,766 111,801 1573,801 1573,828 1572,828 1572,1849 1523,1849 1523,1886 1502,1886 1502,1923 1475,1923 1475,2033 1013,2033 1013,2034 88,2034 88,1923 81,1923 81,1886 80,1886 80,1849 79,1849"/>
+	<TextEquiv conf="0.96615">
+	<Unicode>QUESTÃO 30
+Com relação aos processos de conformação, os esforços preponderantes que agem no sentido de deformar o material são:
+compressão direta, tração, flexão, compressão indireta e cisalhamento, ilustrados no quadro abaixo.
+Relacionando os esforços preponderantes com os processos de calandragem, corte, estiramento, laminação e trefilação,
+conclui-se que
+(A) a compressão direta corresponde ao processo de calandragem e o cisalhamento corresponde ao processo de corte.
+(B) a compressão indireta corresponde ao processo de trefilação e a flexão corresponde ao processo de calandragem.
+D) atração corresponde ao processo de laminação e a compressão indireta corresponde ao processo de trefilação.
+E) aflexão corresponde ao processo de estiramento e a compressão indireta corresponde ao processo de corte.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,262 111,262 111,298 1574,298 1574,586 1481,586 1481,658 1440,658 1440,725 80,725 80,525 79,525 79,465 80,465 80,358 79,358"/>
+	<TextEquiv conf="0.95232">
+	<Unicode>QUESTÃO 29
+A norma regulamentadora NR 17 visa a estabelecer parâmetros que permitam a adaptação das condições de trabalho às
+características psicofisiológicas dos trabalhadores, de modo a proporcionar o máximo de conforto, segurança e desempenho
+eficiente. A norma estabelece que, nos locais de trabalho onde são executadas atividades que exijam solicitação intelectual e
+atenção constantes, sejam recomendadas as seguintes condições de conforto: níveis de ruído de acordo com o estabelecido
+na NBR 10152, índice de temperatura efetiva entre 20 ºC e 23 ºC, velocidade do ar não superior a 0,75 m/s e umidade relativa
+do ar não inferior a 40%.
+A regulamentação estabelecida pela NR 17, citada no texto, se deve ao fato de que
+(A) em salas de desenvolvimento ou análise de projetos, as condições ambientais podem afetar o desempenho dos trabalha-
+dores.
+(B) em locais fechados, a velocidade de circulação do ar depende das condições de temperatura e umidade do ar.
+(C) os homens e as mulheres podem exercer as mesmas funções, desde que respeitadas as condições ambientais.
+(D) o empregador é responsável pela contratação de trabalhadores compatíveis com as condições de trabalho.
+(E) a remuneração do trabalhador deve ser compatível com as condições ambientais oferecidas pelo empregador.</Unicode></TextEquiv></TextRegion></Page></PcGts>

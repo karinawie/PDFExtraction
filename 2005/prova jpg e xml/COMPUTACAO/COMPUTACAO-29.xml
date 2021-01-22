@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:50:23</Created>
+	<LastChange>2020-11-13T11:44:56</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-29.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="779,106 779,2157 781,2157 781,106"/></SeparatorRegion>
+	<ImageRegion id="r6">
+	<Coords points="821,164 821,499 1492,499 1492,164"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="140,171 722,171 722,476 712,476 712,594 761,594 761,725 314,725 314,939 140,939 140,725 101,725 101,594 140,594"/>
+	<TextEquiv conf="0.94779">
+	<Unicode>QUESTÃO 75
+Um engenheiro de uma companhia fabricante de
+memórias semicondutoras estudou o comportamento
+do custo em função do número de bits da fabricação de
+um chip de memória RAM com determinada
+tecnologia. Ele chegou à conclusão de que,
+considerando-se a evolução tecnológica, o custo C(x),
+expresso em determinada unidade monetária, de um
+chip de memória RAM com x bits, na data de conclusão
+do processo de fabricação, seria determinado pela
+equação
+25x103
+CW) =
+&amp;) Toa
+[x?- (2.048 * 1069) x + 2(1.024 x 106)º].
+Considerando-se que o modelo desenvolvido pelo engenheiro
+esteja correto, caso a empresa decida pelo chip de menor
+custo, ela deverá optar por um chip com memória de
+capacidade de
+256 megabits.
+512 megabits.
+1.024 megabits.
+2.048 megabits.
+4.096 megabits.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="140,1015 723,1015 723,1535 761,1535 761,2095 101,2095 101,1535 140,1535"/>
+	<TextEquiv conf="0.93537">
+	<Unicode>QUESTÃO 76
+O termo imagem designa uma função
+intensidade luminosa bidimensional f, em que um valor
+de intensidade é associado a coordenadas espaciais
+(x, y). Uma imagem digital é obtida pela digitalização
+das coordenadas espaciais por meio de um processo
+conhecido como amostragem da imagem. Dessa
+forma, uma imagem contínua monocromática f(x, y) é
+aproximada por amostras igualmente espaçadas,
+arranjadas na forma de uma matriz Nx M, em que cada
+elemento é um valor inteiro g. O intervalo [G,, Gr.l,
+do menor ao maior valor de intensidade g, é
+denominado escala de cinza. Normalmente, G,, = O
+corresponde a preto, e G,,, = G corresponde ao
+branco.
+Considerando os conceitos apresentados acima, assinale a
+opção correta.
+O O processo de digitalização da imagem requer que as
+dimensões N e M da matriz mencionada acima sejam
+múltiplas do número de tons de cinza na imagem.
+O Para imagens binárias, se L for o número de tons de cinza
+representáveis, e L = 24, então k=2.
+O Os métodos para realce de imagens que operam no
+domínio espacial fazem uso do conceito de vizinhança de
+pixel.
+O Métodos de filtragem normalmente usam máscaras para
+impedir a transformação dos níveis de cinza dos pixels da
+imagem.
+O Limiarização é um tipo de processamento de imagens que
+amplia o número de níveis de cinza da imagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="801,539 1284,539 1284,544 1430,544 1430,539 1549,539 1549,751 1550,751 1550,990 1549,990 1549,1139 839,1139 839,713 801,713"/>
+	<TextEquiv conf="0.88977">
+	<Unicode>QUESTÃO 77
+Observe a
+situação representada acima, em que o triângulo
+identificado por A sofre transformações geométricas que o levam para
+a situação identificada por A. Considerando-se dx e dy parâmetros
+de translação e s, parâmetro fator de escala, então o triângulo A* pode
+ser obtido a partir da aplicação da
+seguinte sequência de
+transformações aos vértices do triângulo A:
+rotação em torno do ponto (x., y.); escala com fator uniforme
+s=2.
+rotação em torno do ponto (x,, y.); escala com fator uniforme
+s=0,5.
+rotação em torno do ponto (x', y'); escala com fator
+uniforme s = 0,5; translação com parâmetros de deslocamento
+dx=-x edy=-y,.
+escala com fator uniforme s = 0,5; translação com parâmetros de
+deslocamento dx = x', e dy = y'; rotação em torno do
+ponto (x., Y.).
+tanslação com parâmetros de deslocamento dx = -x, e dy
+rotação em torno do ponto (x., y.); translação com parâmetros
+de deslocamento dx = x, e dy = y.; escala com fator uniforme
+s=0,5.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="heading">
+	<Coords points="801,1238 1549,1238 1549,1893 1076,1893 1076,1997 1141,1997 1141,2027 1150,2027 1150,2058 1234,2058 1234,2141 840,2141 840,1959 801,1959 801,1936 840,1936 840,1352 801,1352"/>
+	<TextEquiv conf="0.95196">
+	<Unicode>QUESTÃO 78
+Dispositivos Lógicos Programáveis (DLP, ou PLD — programmable
+logic devices) são muito utilizados hoje em dia para o projeto de
+circuitos digitais especiais. Com relação a esse assunto, julgue os
+itens a seguir.
+Como um PLA (programmable logic array) somente implementa
+equações booleanas descritas na forma de soma de termos-
+produto, e não implementa portas lógicas multinível, então nem
+todas as funções booleanas podem ser implementadas em um
+PLA.
+Em uma PROM (programmable ROM), o arranjo de portas AND
+é fixo, e somente o arranjo de portas OR pode ser programado; em
+um PAL (programmable array logic), o arranjo de portas OR é
+fixo, e somente o array de portas AND é programável; e, em um
+PLA (programmable logic array), tanto o arranjo de portas AND
+como o de portas OR são programáveis.
+Um circuito digital implementado por meio de um dispositivo
+lógico programável ocupa mais área e consome mais potência do
+que um circuito integrado dedicado, mas, em compensação, ele
+pode operar em frequências maiores, pois seus transistores e
+portas lógicas são projetados de forma a otimizar o chaveamento
+de estados.
+Assinale a opção correta.
+Apenas o item II está certo.
+Apenas o item III está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

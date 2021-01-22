@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T02:06:11</Created>
+	<LastChange>2020-09-22T02:17:27</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_CIENCIAS_CONTABEIS-10.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r1">
+	<Coords points="465,380 465,760 1191,760 1191,380"/></TableRegion>
+	<TableRegion id="r2">
+	<Coords points="460,897 460,1280 1188,1280 1188,897"/></TableRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="80,240 271,240 271,286 1574,286 1574,861 894,861 894,1349 597,1349 597,1575 536,1575 536,1627 80,1627 80,862 79,862 79,804 80,804"/>
+	<TextEquiv conf="0.96303">
+	<Unicode>QUESTÃO 19
+Por ocasião da aprovação da LOA -— Lei de Orçamento Anual, a previsão das Receitas e a fixação das Despesas de
+uma determinada entidade governamental foram as seguintes:
+Ao final do período orçamentário aprovado, os saldos contábeis indicavam um total executado de Receitas e Despesas
+conforme os valores a seguir:
+Com base nessas informações, qual foi o resultado orçamentário?
+(A) Superávit corrente de R$ 99.000,00
+(B) Superávit de capital de R$ 89.000,00
+(C) Déficit orçamentário de R$ 71.000,00
+(D) Déficit corrente de R$ 81.000,00
+(E) Déficit corrente de R$ 10.000,00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r48" type="paragraph">
+	<Coords points="80,1704 271,1704 271,1748 1574,1748 1574,1868 299,1868 299,2115 319,2115 319,2141 80,2141 80,1869 79,1869 79,1748 80,1748"/>
+	<TextEquiv conf="0.96465">
+	<Unicode>QUESTÃO 20
+Um auditor externo, em procedimento para confirmação dos passivos tributários e trabalhistas, solicita à empresa
+auditada que envie carta aos escritórios de advocacia contratados para confirmar a existência de processos,
+classificando-os de acordo com o risco e a probabilidade de êxito em “possíveis, prováveis e remotos”. Qual a
+denominação desse procedimento?
+(A) Constituição.
+(B) Certificação.
+(C) Constatação.
+(D) Conciliação.
+(E) Circularização.</Unicode></TextEquiv></TextRegion></Page></PcGts>

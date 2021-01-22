@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:11:22</Created>
+	<LastChange>2020-11-13T12:55:32</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-28.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="432,343 432,540 1220,541 1220,344"/></ImageRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="79,263 80,263 80,264 1050,264 1050,602 1097,602 1097,684 1162,684 1162,696 1205,696 1205,835 1096,835 1096,1014 1095,1014 1095,1015 442,1015 442,1056 80,1056 80,325 79,325"/>
+	<TextEquiv conf="0.65484">
+	<Unicode>36
+Considere o sistema multivariável representado no seguinte diagrama em blocos:
+no qual:
+dy dy,
+* o sistema C é representado por sua equação diferencial
+de Pa PMSÍ 2 1 1= x+ v
+* o sistema H é representado por seu modelo em espaço de estado * É - | [1
+Y2 =| 7 1 *
+Uma representação desse sistema multivariável em espaço de estados na forma
+[4a Byu
+onde un=[r P, PV
+| Y=Cyw+Dyu '
+pode ser dada pelas matrizes:</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="54,1091 54,1388 774,1388 774,1091"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="62,1420 62,1717 782,1717 782,1420"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="60,1763 60,2060 780,2060 780,1763"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="842,1086 842,1383 1562,1383 1562,1086"/></ImageRegion>
+	<ImageRegion id="r11">
+	<Coords points="851,1432 851,1729 1571,1729 1571,1432"/></ImageRegion></Page></PcGts>

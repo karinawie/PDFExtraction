@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:10:36</Created>
+	<LastChange>2020-11-13T12:54:09</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-33.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="614,1205 614,1631 1011,1631 1011,1205"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="182,334 182,571 1502,571 1502,334"/></ImageRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="79,262 1030,262 1030,324 891,324 891,893 984,893 984,925 1572,925 1572,983 1121,983 1121,1014 427,1014 427,1044 126,1044 126,1047 87,1047 87,1046 80,1046 80,863 79,863"/>
+	<TextEquiv conf="0.96495">
+	<Unicode>43
+O diagrama de blocos ilustra um sistema para processamento digital de sinais.
+FPB = Filtro passa-baixa
+SH =Retentor ou amostrador de ordem zero (“sample and holder”)
+ADC = Conversor analógico-digital
+H(z) = Processamento digital
+DAC = Conversor digital-analógico
+FR = Filtro dereconstrução
+Analisando esse sistema conclui-se que
+(A) o FPB é necessário para garantir o correto funcionamento do bloco SH.
+(B) o FPB pode ser omitido nos casos em que o espectro do Sinal 1 está contido dentro da faixa de frequências de interesse.
+(C) FR é um filtro rejeita-faixa, usado para atenuar a potência do sinal no entorno da frequência do relógio.
+(D) o período de amostragem do SH deve ser superior ao tempo de conversão do ADC.
+(E) FR é um filtro passa-alta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="paragraph">
+	<Coords points="79,1086 110,1086 110,1121 1573,1121 1573,1655 1574,1655 1574,1838 310,1838 310,1868 283,1868 283,2034 80,2034 80,2035 80,1838 79,1838"/>
+	<TextEquiv conf="0.15567">
+	<Unicode>44
+Em receptores de comunicação ótica, são empregados fotodetetores do tipo PIN, que fornecem uma corrente elétrica propor-
+cional à potência luminosa incidente. A figura mostra um circuito básico para sua utilização, onde um resistor de 200 ko é
+ligado em série ao diodo.
+O modelo do PIN consiste em uma capacitância de 20 pF em paralelo com uma fonte de corrente i. Esta corrente é determi-
+nada por meio da expressão i = K .P, onde K=0,5 AM e P, é a potência ótica incidente, em W.
+Considere, como condição inicial, que o PIN recebe uma potência luminosa constante, de modo que a tensão sobre o resistor
+é de 0,1volt. A fonte de luz é desligada em t = O e, após um tempo t, a tensão medida sobre o resistor é de 0,1e? volt.
+Quais são os valores da potência da fonte luminosa e do tempo t,, respectivamente?
+(Dado: e = 2,7183)
+(A) tuWe4us
+(B 1tuWe8us
+(C) 2uWe8us
+(D) 1 mWe4us
+(E) tImMWe8us</Unicode></TextEquiv></TextRegion></Page></PcGts>

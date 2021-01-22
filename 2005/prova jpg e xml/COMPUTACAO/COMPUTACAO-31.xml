@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:52:54</Created>
+	<LastChange>2020-11-13T11:43:41</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-31.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="101,163 1549,163 1549,605 1511,605 1511,724 102,724 102,725 101,725"/>
+	<TextEquiv conf="0.96353">
+	<Unicode>QUESTÃO 84
+Considere que uma empresa esteja projetando um protocolo da camada de rede. Considere, ainda, que a equipe de projeto tenha
+proposto o seguinte conjunto de requisitos.
+I O protocolo deve prover um serviço de comunicação não-orientado a conexão e sem garantia da entrega. O protocolo não é
+responsável por ordenar os datagramas que, embora recebidos com sucesso, estejam fora da ordem em que foram transmitidos.
+II Os datagramas devem conter, além dos endereços de rede das máquinas, números que identifiquem as entidades nas máquinas de
+origem e destino para distinguirem as entidades nas máquinas envolvidas em uma comunicação.
+IM O protocolo deve evitar que as aplicações tenham de definir os formatos usados para representar os dados nas máquinas. Na
+transmissão, o protocolo deve converter os dados de um formato específico de máquina para um formato independente de máquina.
+Na recepção, deve converter de um formato independente de máquina para um formato específico de máquina.
+IV O protocolo poderá fragmentar um datagrama na origem e remontá-lo no destino, para que dados sejam transmitidos por meio de
+redes cujas camadas físicas tenham tamanhos variados para as unidades máximas de transferência (maximum transfer unit).
+V O protocolo deve implementar o controle de acesso ao meio de transmissão. Antes de transmitir, deve aguardar o meio de
+transmissão ficar livre. Se outras máquinas tentarem transmitir ao mesmo tempo, ele deve enviar um sinal para garantir que as
+máquinas detectem a colisão. Em seguida, deve aguardar e novamente tentar transmitir.
+Entre os requisitos propostos pela equipe de projeto, estão adequados para um um protocolo da camada de rede os requisitos
+O LIIelV. O LUIevV. O LIVeV. O IL,HIelV. O M,IVeV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="160,793 1492,793 1492,844 954,844 954,962 1549,962 1549,1074 105,1074 105,1075 104,1075 104,989 101,989 101,902 160,902"/>
+	<TextEquiv conf="0.96546">
+	<Unicode>QUESTÃO 85
+Em sistemas distribuídos, é necessário, muitas vezes, resolver problemas decorrentes do fato de diferentes plataformas
+poderem adotar diferentes formas para representar os dados.
+A respeito de sistemas distribuídos heterogêneos, faça o que se pede a seguir.
+a) Apresente exemplos das diferenças nas formas de representação dos dados que podem causar problemas em sistemas distribuídos.
+(valor: 5,0 pontos)
+b) Explique o que é eXternal Data Representation (XDR) e como uma biblioteca XDR pode ser usada em chamadas a procedimentos
+remotos. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

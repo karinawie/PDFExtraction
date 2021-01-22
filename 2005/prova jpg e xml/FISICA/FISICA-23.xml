@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:38:44</Created>
+	<LastChange>2021-01-18T02:50:16</LastChange></Metadata>
+	<Page imageFilename="FISICA-23.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="162,1384 163,1384 163,1385 814,1385 814,1650 815,1650 815,1842 814,1842 814,1975 646,1975 646,2038 272,2038 272,2167 317,2167 317,2222 163,2222 163,1975 155,1975 155,1974 154,1974 154,1864 171,1864 171,1757 188,1757 188,1616 163,1616 163,1615 162,1615 162,1404 99,1404 99,1385 162,1385"/>
+	<TextEquiv conf="0.94389">
+	<Unicode>QUESTÃO 29
+O elemento hélio pode apresentar-se na forma de dois
+isótopos estáveis: átomos He, com spin total O (bósons),
+e átomos He%, com spin total 1/2 (férmions). A baixas
+temperaturas (menores que 5K), notam-se diferenças
+significativas em diversas propriedades termodinâmicas,
+medidas em sistemas constituídos por um dos dois isó-
+topos acima, como por exemplo, temperatura de liquefa-
+ção e viscosidade. Considere as seguintes afirmativas:
+I. As diferenças fundamentais entre os dois sistemas
+acima são consequência direta do princípio de
+exclusão de Pauli se aplicar apenas para o Heº.
+II. O princípio de exclusão de Pauli vale para ambos
+He? e He? e as diferenças acima são consequência
+das diferentes massas destes isótopos.
+III. As diferenças entre as propriedades termodinâ-
+micas do He e He? tornam-se irrelevantes à medi-
+da que a temperatura for aumentada gradativa-
+mente.
+Está correto SOMENTE o que se afirma em
+(A) I
+(B) II
+(C) III
+(D) IeII
+(E) IeIIlI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="162,95 163,95 163,96 815,96 815,509 813,509 813,574 515,574 515,761 711,761 711,877 814,877 814,926 564,926 564,1050 814,1050 814,1252 815,1252 815,1334 164,1334 164,1333 163,1333 163,925 162,925 162,877 167,877 167,760 168,760 168,627 164,627 164,574 163,574 163,573 162,573 162,115 99,115 99,96 162,96"/>
+	<TextEquiv conf="0.96122">
+	<Unicode>QUESTÃO 28
+Um sólido cristalino pode ser descrito, de uma maneira
+simplificada, por um conjunto de partículas independentes,
+vibrando todas com a mesma frequência angular é, em
+torno de suas posições de equilíbrio, como osciladores
+harmônicos, em cada uma das direções. Embora o
+tratamento do sistema em um espaço tridimensional não
+acarrete maiores complicações, nos restringiremos aqui a
+uma abordagem do problema unidimensional. Para
+temperaturas muito baixas, a maioria dos átomos se
+encontra na posição de equilíbrio, no estado de menor
+energia y, (x), com energia EQ = hw/2. À medida que a
+temperatura aumenta, vibrações harmônicas surgem, de
+tal forma que as partículas passam a ocupar estados
+excitados y, (x) com energia E, =(n+1/2)oh. Considere
+uma partícula deslocada de sua posição de equilíbrio com
+x=[h/(mo)]'?, onde m representa a massa da partícula.
+Fórmulas relevantes:
+() =| DO o exp| -. Ma 2
+e Th Por
+02 mo 14 ox (5%) (2),
+vi) = Nel a Por h
+Pode-se afirmar que a probabilidade de que esta partícula
+se encontre no
+(A) estado fundamental é zero.
+(B) primeiro estado excitado é um.
+(C) estado fundamental é diferente de zero, sendo duas
+vezes menor do que a probabilidade de que a
+mesma se encontre no primeiro estado excitado.
+(D) estado fundamental é diferente de zero, sendo duas
+vezes maior do que a probabilidade de que a mesma
+se encontre no primeiro estado excitado.
+(E) estado fundamental é diferente de zero, sendo igual
+à probabilidade de que a mesma se encontre no
+primeiro estado excitado.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="842,82 842,2234 851,2234 851,82"/></SeparatorRegion></Page></PcGts>

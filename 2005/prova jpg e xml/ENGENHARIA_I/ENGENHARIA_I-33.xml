@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:57:32</Created>
+	<LastChange>2020-11-13T12:43:21</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-33.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="460,805 460,1208 1188,1208 1188,805"/></TableRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="80,414 110,414 110,450 1575,450 1575,624 80,624 80,560 79,560 79,450 80,450"/>
+	<TextEquiv conf="0.96567">
+	<Unicode>16
+No anteprojeto de um sistema de esgotos está previsto o lançamento de 4 000 L/s de esgotos com uma concentração de DBO
+de 200 mg/L em um rio de classe 3, com vazão de 16 mê/s e concentração de DBO de 5 mg/L. O limite previsto para DBO 5
+dias 20 ºC de um curso d'água de classe 3, segundo Resolução Conama 357/05, é 10 mg/L de O,.
+Indique se há necessidade de tratamento deste esgoto antes do seu lançamento no rio, de modo a não desobedecer ao
+enquadramento previsto. Justifique a sua resposta. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="79,665 111,665 111,694 1575,694 1575,730 1163,730 1163,808 402,808 402,1310 550,1310 550,1410 612,1410 612,1444 768,1444 768,1567 1570,1567 1570,1699 1319,1699 1319,2037 79,2037 79,1567 88,1567 88,771 79,771"/>
+	<TextEquiv conf="0.96182">
+	<Unicode>17
+No Relatório de Impacto Ambiental (RIMA) de uma usina hidrelétrica, estão identificados 40 impactos ambientais diretos, dos
+quais seis estão enumerados, com seus respectivos códigos, no quadro a seguir.
+Impactos Ambientais
+nformações sobre a usina:
+- unidades geradoras = 4
+- potência total instalada = 1 260 MW
+- altura de queda de projeto = 70 m
+- condutos forçados = 4
+- diâmetro dos condutos forçados = 10,0 m
+- rendimento do conjunto turbina + gerador, acrescido da
+perda de carga na tubulação forçada = 90 %
+Nestas condições, determine:
+a) avelocidade da água na tubulação forçada; (valor: 6,0 pontos)
+b) osimpactos negativos constantes do Quadro 1, indicando-os através de seus códigos. (valor: 4,0 pontos)
+Dados:
+Potência Instalada de um Aproveitamento Hidrelétrico
+P=7.Q.H.nm
+onde:
+P = potência (W)
+7 = peso específico da água, considerar 10 kN/m?
+Q = vazão de projeto (m?/s)
+H = queda de projeto (m)
+nn =rendimento do conjunto turbina + gerador, acrescido da perda de carga na tubulação forçada</Unicode></TextEquiv></TextRegion></Page></PcGts>

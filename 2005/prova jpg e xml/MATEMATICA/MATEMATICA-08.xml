@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:59:34</Created>
+	<LastChange>2021-01-18T03:25:08</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-08.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="146,276 146,758 764,758 764,276"/></ImageRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="1548,1086 1552,1086 1552,1286 1107,1286 1107,1477 847,1477 847,1115 1548,1115"/>
+	<TextEquiv conf="0.85071">
+	<Unicode>QUESTÃO 14
+Considere P(x) = (m – 4)(m2 + 4)x5 + x2 + kx + 1 um polinômio
+na variável x, em que m e k são constantes reais. Assinale a opção
+que apresenta condições a serem satisfeitas pelas constantes
+m e k para que P(x) não admita raiz real.
+A m = 4 e !2 &lt; k &lt; 2
+B m = !4 e k &gt; 2
+C m = !2 e !2 &lt; k &lt; 2
+D m = 4 e k &lt; 2
+E m = !2 e k &gt; !2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="846,607 1552,607 1552,647 1551,647 1551,842 1522,842 1522,1091 847,1091 847,789 846,789"/>
+	<TextEquiv conf="0.04913">
+	<Unicode>QUESTÃO 13
+Considere a progressão geométrica 1, , , ... , , ..., e denote
+por Sn a soma de seus n primeiros termos. Ao se levar em conta
+que, para x  1, , conclui-se que o maior
+número inteiro positivo n para o qual *Sn ! 2* &gt; é igual a
+A 3.
+B 4.
+C 5.
+D 6.
+E 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="846,188 1550,188 1550,399 932,399 932,589 847,589 847,399 846,399"/>
+	<TextEquiv conf="0.96313">
+	<Unicode>QUESTÃO 12
+Um restaurante do tipo self-service oferece 3 opções de entrada,
+5 de prato principal e 4 de sobremesa. Um cliente desse
+restaurante deseja compor sua refeição com exatamente | entrada,
+2 pratos principais e 2 sobremesas. De quantas maneiras
+diferentes esse cliente poderá compor a sua refeição?
+A 4
+B 5.
+C 12.
+D 60.
+E 180.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="103,829 807,829 807,1160 806,1160 806,1390 736,1390 736,1429 533,1429 533,1681 716,1681 716,1757 807,1757 807,2089 671,2089 671,2127 142,2127 142,2089 105,2089 105,2006 104,2006 104,1819 103,1819 103,1681 352,1681 352,1429 103,1429"/>
+	<TextEquiv conf="0.94878">
+	<Unicode>QUESTÃO 11
+A transposição do rio São Francisco é um assunto que
+desperta grande interesse. Questionam-se, entre outros aspectos,
+os efeitos no meio ambiente, o elevado custo do empreendimento
+relativamente à população beneficiada e à quantidade de água a
+ser retirada — o que poderia prejudicar a vazão do rio, que hoje
+é de 1.850 m*/s.
+Visando promover em sala de aula um debate acerca desse
+assunto, um professor de matemática propôs a seus alunos o
+problema seguinte, baseando-se em dados obtidos do Ministério
+da Integração Nacional.
+Considere que o projeto prevê a retirada de x m/s de água.
+Denote por y o custo total estimado da obra, em bilhões de reais,
+e por z o número, em milhões, de habitantes que serão
+beneficiados pelo projeto. Relacionando-se essas quantidades,
+obtém-se o sistema de equações lineares AX = B, em que
+Com base nessas informações, assinale a opção correta.
+A O sistema linear proposto pelo professor é indeterminado,
+uma vez que det(A) = O.
+B A transposição proposta vai beneficiar menos de 11 milhões
+de habitantes.
+C Mais de 2% da vazão do rio São Francisco serão retirados
+com a transposição, o que pode provocar sérios danos
+ambientais.
+D O custo total estimado da obra é superior a 4 bilhões de reais.
+E A matriz linha reduzida à forma escalonada, que é linha
+equivalente à matriz A, possui uma coluna nula.</Unicode></TextEquiv></TextRegion></Page></PcGts>

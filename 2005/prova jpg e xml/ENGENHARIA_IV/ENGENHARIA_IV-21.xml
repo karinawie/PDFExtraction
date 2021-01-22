@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T03:21:10</Created>
+	<LastChange>2020-10-23T22:00:24</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-21.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r7">
+	<Coords points="828,202 827,1111 830,1111 831,202"/></SeparatorRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="115,1149 298,1149 298,1181 1556,1181 1556,1163 1559,1163 1559,1206 1150,1206 1150,1327 103,1327 103,1221 115,1221"/>
+	<TextEquiv conf="0.87175">
+	<Unicode>QUESTÃO 43 
+Proteínas são biomoléculas funcionais ou estruturais constituídas por unidades básicas. Acerca desses polímeros, descreva
+sucintamente:
+a) a estrutura das unidades básicas; (valor: 2,0 pontos)
+b) as estruturas primária, secundária, terciária e quaternária das proteínas. (valor: 8,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="205,694 205,1060 722,1060 722,694"/></ImageRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="100,211 100,688 797,688 797,211"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="837,205 837,511 1580,511 1580,205"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 41
+O texto permite concluir que
+A nenhum dos microrganismos citados é celulolítico.
+B A. fumigatus produz enzimas celulolíticas.
+C S. cerevisae produz celulases apenas em presença de glicose.
+D a celulose não é utilizada por fungos como fonte de carbono.
+E a levedura não assimila glicose do meio.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="837,517 837,1105 1577,1105 1577,517"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 42
+Considerando as informações apresentadas no texto, assinale a
+opção que caracteriza corretamente os segmentos da curva sólida
+no que se refere ao metabolismo das células presentes na cultura.
+A O segmento A representa a fase logarítmica de crescimento
+em condição de falta de nutrientes no meio.
+B O segmento B representa o período em que as células
+apresentam metabolismo ativo e taxa de divisão celular maior
+que a taxa de mortalidade.
+C O segmento C representa a fase de adaptação do
+microrganismo ao meio de crescimento, etapa em que não
+ocorre divisão celular.
+D O segmento D representa a fase de crescimento em que todas
+as células do microrganismo são metabolicamente viáveis.
+E Após a fase logarítmica, não ocorre mais desaceleração do
+metabolismo.
+</Unicode></TextEquiv></TextRegion></Page></PcGts>

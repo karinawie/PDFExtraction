@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:07:10</Created>
+	<LastChange>2020-11-13T12:42:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-17.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="948,1494 948,2054 1585,2054 1585,1494"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="488,888 488,1200 1171,1200 1171,888"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="611,385 611,691 982,691 982,385"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="79,262 111,262 111,298 1574,298 1574,392 1410,392 1410,758 79,758"/>
+	<TextEquiv conf="0.96320">
+	<Unicode>27
+Afigura abaixo mostra o croqui de um trecho de uma planta topográfica. Nela se encontram representadas duas curvas de nível,
+cujos valores de altitude estão expressos em metros. A escala da planta topográfica é de 1:1.000 e a distância “x”, medida em
+planta, tem o valor de 2 cm.
+O ângulo vertical entre os pontos A e B tem o seguinte valor, em graus:
+(A) 1 (B) 4,5 (0) 10 (D) 20 (E) 45</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="79,799 246,799 246,800 412,800 412,801 578,801 578,802 744,802 744,803 910,803 910,804 1076,804 1076,805 1242,805 1242,806 1408,806 1408,807 1573,807 1573,862 1467,862 1467,1262 79,1262"/>
+	<TextEquiv conf="0.95381">
+	<Unicode>28
+Uma estrutura plana em arco articulado e atirantado é submetida a uma carga uniformemente distribuída de 10 kN/m, como
+mostra a figura abaixo.
+A tração a que o tirante está submetido é igual a:
+(A) O (nula) (B) 50 kN (C) 100 kN (D) 150 kN (E) 200 kN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="79,1302 110,1302 110,1338 1575,1338 1575,1465 857,1465 857,1596 858,1596 858,1784 627,1784 627,1865 325,1865 325,2032 80,2032 80,1872 81,1872 81,1555 80,1555 80,1461 79,1461"/>
+	<TextEquiv conf="0.96918">
+	<Unicode>29
+Os registros dos terremotos em uma rede de estações sismográficas permitem conhecer as velocidades sísmicas no interior
+da Terra e estudar a estrutura, a composição e a evolução atual do nosso planeta. As ondas longitudinais (ondas P) têm maior
+velocidade de propagação que as ondas transversais (ondas S— que não se propagam em meio líquido). Em geral, quanto
+maior a densidade de uma rocha, maior será a velocidade de propagação das ondas sísmicas.
+Considerando o texto e o gráfico apresentados, pode-se afirmar que
+|- onúcleo terrestre é mais denso que o manto terrestre, sendo
+este mais denso que a crosta;
+Il- no núcleo externo, a velocidade de propagação das ondas Pé
+bem menor do que a do manto, por ser o núcleo menos denso;
+Ill- as ondas Se Pse propagam na crosta, no manto e no núcleo
+terrestre.
+E(São) correta(s) apenas a(s) afirmação(ões):
+(A) I.(B) II.(C) III.(D) I e II.(E) II e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

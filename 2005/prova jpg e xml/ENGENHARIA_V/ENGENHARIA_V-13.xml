@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:28:03</Created>
+	<LastChange>2021-01-18T01:59:29</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-13.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r17">
+	<Coords points="306,1783 306,1788 324,1788 324,1783"/></ImageRegion>
+	<SeparatorRegion id="r18">
+	<Coords points="815,102 816,2151 819,2151 818,102"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="825,174 825,768 1540,768 1540,174"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="140,162 140,671 765,671 765,162"/></ImageRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords points="116,120 800,120 800,150 798,150 798,979 780,979 780,1163 104,1163 104,766 103,766 103,683 116,683"/>
+	<TextEquiv conf="0.73078">
+	<Unicode>QUESTÃO 24
+A figura acima mostra o diagrama de equilíbrio de fases binário
+do sistema chumbo-estanho. Com base nesse diagrama, julgue os
+itens seguintes.
+I As regiões | e II do diagrama apresentam, ambas, uma única
+fase, ou seja, são monofásicas.
+II A temperatura de fusão do estanho é superior à do chumbo.
+III O ponto T;, chamado eutético, corresponde à transformação
+da fase líquida em duas fases sólidas: a + BB.
+IV O ponto T, indica uma composição bifásica com quantidade
+relativa da fase a inferior à quantidade relativa da fase B.
+Estão certos apenas os itens
+O Iell. O Nel. O INMelV.
+O Ie. O NelV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="heading">
+	<Coords points="116,1194 800,1194 800,1224 799,1224 799,2128 142,2128 142,1601 104,1601 104,1532 103,1532 103,1241 116,1241"/>
+	<TextEquiv conf="0.92733">
+	<Unicode>QUESTÃO 25
+O tempo de vida útil e o comportamento de um componente ou
+de um dispositivo dependem das condições ambientais a que este
+está exposto em serviço, tais como a temperatura de trabalho e
+o meio com o qual um componente ou dispositivo está em
+contato. As características de metais, cerâmicas e polímeros, que
+dependem das condições ambientais, podem ser determinantes
+na escolha de um material desses grupos para uma dada
+aplicação. Considerando o efeito das condições ambientais sobre
+o comportamento dos diversos materiais, assinale a opção
+correta.
+A Metais mantêm suas propriedades mecânicas mesmo em
+temperaturas elevadas — superiores à metade da temperatura
+de fusão —, o que torna esses materiais os mais indicados
+para uso em alta temperatura.
+B Degradação em meio líquido ocorre somente com materiais
+metálicos, pois cerâmicas e polímeros são resistentes à
+corrosão.
+C Quando materiais metálicos e cerâmicos são submetidos à
+solicitação mecânica constante em temperaturas acima da
+metade de sua temperatura de fusão, verifica-se o mecanismo
+de deformação conhecido como fadiga.
+D A temperatura pode afetar a estabilidade química e as
+propriedades mecânicas de materiais, mas não tem efeito
+sobre as propriedades elétricas, ópticas e magnéticas.
+E O aumento de temperatura provoca contínua redução do
+módulo de elasticidade dos materiais. Na faixa da
+temperatura de transição vítrea para polímeros e vidros, esse
+efeito é muito mais acentuado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="851,120 1551,120 1551,150 1532,150 1532,1418 1550,1418 1550,2075 1012,2075 1012,2117 877,2117 877,2076 838,2076 838,1334 877,1334 877,150 851,150"/>
+	<TextEquiv conf="0.78840">
+	<Unicode>QUESTÃO 26
+Transformações de fase podem ser usadas para controle
+de microestrutura e, portanto, de propriedades de materiais.
+Grande parte das transformações de fase nos materiais ocorre
+por nucleação e crescimento de cristais a partir de uma fase
+metaestável, como no exemplo acima, que ilustra a
+cristalização a partir de um vidro e a precipitação a partir de
+uma solução sólida. Esse processo pode ser representado em
+um diagrama tempo-temperatura-transformação, ilustrado na
+figura acima. Dependendo do tratamento térmico a que o
+material metaestável inicial for submetido, diferentes
+microestruturas podem ser obtidas. Os ciclos térmicos
+identificados em azul (R,) e em vermelho (R,) representam
+dois diferentes tratamentos térmicos.
+Considerando essas informações, assinale a opção correta.
+O As fases existentes antes da transformação indicada no
+diagrama, vidro ou solução sólida supersaturada, são fases de
+equilíbrio.
+O AcurvaR, representa um tratamento térmico utilizado quando
+se deseja obter um material em que a segunda fase formada
+apresenta tamanho de partícula menor que o apresentado pelo
+tratamento Ry.
+O Partindo-se do vidro, o produto resultante do ratamento
+térmico representado pelo ciclo térmico R, apresentará maior
+limite de resistência mecânica que o obtido pelo tratamento R,,.
+O A vitrocerâmica obtida por meio do tratamento térmico do
+vidro pelo ciclo térmico R, tem menor tenacidade que o vidro
+inicial.
+O Assumindo-se que o custo do processo depende
+exclusivamente da temperatura de tratamento térmico, o
+processo R, é financeiramente mais vantajoso que O
+processo R,.</Unicode></TextEquiv></TextRegion></Page></PcGts>

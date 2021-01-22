@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:02:13</Created>
+	<LastChange>2020-11-13T12:43:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-26.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="477,1228 477,1600 1185,1600 1185,1228"/></ImageRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="79,1019 94,1019 94,1055 1574,1055 1574,1178 1325,1178 1325,1179 1120,1179 1120,1721 1570,1721 1570,1954 1573,1954 1573,2014 1325,2014 1325,2015 79,2015"/>
+	<TextEquiv conf="0.96836">
+	<Unicode>9
+As alterações sofridas no meio ambiente, após o estresse provocado por um agente poluidor, podem ser verificadas com o
+monitoramento de determinados indicadores. O oxigênio dissolvido e a demanda bioquímica de oxigênio são bons indicadores
+para o monitoramento da qualidade da água. A figura abaixo mostra o comportamento de um curso d'água após o lançamento
+de uma carga de esgoto doméstico numa zona de águas limpas.
+Arespeito das zonas de degradação e de recuperação, responda às perguntas abaixo.
+a) Qualo comportamento do oxigênio dissolvido nessas duas zonas? (valor: 4,0 pontos)
+b) Acomunidade aquática nelas predominante é de bactérias decompositoras aeróbias ou algas? Devido a quê?
+(valor: 4,0 pontos)
+c) Aforma de composto nitrogenado predominante em cada uma delas é de nitrogênio na forma complexa, amônia ou nitratos
+e nitritos? (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,262 95,262 95,298 1573,298 1573,429 1325,429 1325,430 1076,430 1076,431 827,431 827,432 578,432 578,433 398,433 398,541 1475,541 1475,640 1197,640 1197,641 1116,641 1116,748 1574,748 1574,958 1328,958 1328,959 343,959 343,867 135,867 135,868 134,868 134,783 133,783 133,782 80,782 80,749 81,749 81,642 80,642 80,433 79,433"/>
+	<TextEquiv conf="0.96928">
+	<Unicode>8
+Um pequeno rio recebe o lançamento de uma bacia contribuinte através de uma Estação de Tratamento de Esgoto (ETE) e
+de uma indústria cujos despejos são tratados em um reator anaeróbio de fluxo ascendente. A bacia contribuinte tem 5000
+habitantes e apresenta uma vazão correspondente de esgoto doméstico de 1000 mº/dia. Os despejos da indústria apresen-
+tam vazão de 200 mº/dia e DBO de 1000 mg/L.
+Considere as informações:
+* otratamento dos despejos industriais reduz em 90% a poluição orgânica;
+* orio, antes de receber as contribuições poluentes da bacia e da indústria, tem vazão de 1 m?/s e DBO de 1 mg/L;
+* aconcentração de DBO da mistura não deve ultrapassar 3,0 mg/L.
+Determine a máxima concentração de DBO do esgoto doméstico a ser lançada no rio.
+Dados / Informações técnicas
+C;xQ; sendo:
+Sr C = concentração do parâmetro na mistura
+1 C, = concentrações no esgoto lançado e no curso de água antes do lançamento de esgotos
+Q; = vazões do esgoto lançado e do curso de água antes do lançamento de esgotos
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

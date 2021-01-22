@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T01:47:45</Created>
+	<LastChange>2020-09-22T01:47:52</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-17.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="511,540 511,720 1191,720 1191,540"/></TableRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="79,240 1574,240 1574,481 1289,481 1289,846 1574,846 1574,1079 81,1079 81,1080 80,1080 80,482 79,482"/>
+	<TextEquiv conf="0.96500">
+	<Unicode>QUESTÃO 36
+Um laboratório de controle de qualidade recebeu duas amostras de soro, do mesmo paciente, porém de diferentes fases
+da doença com um intervalo de 6 meses entre as coletas.
+As amostras foram submetidas a dois ensaios imunoenzimáticos (ELISA) para captura de antígeno viral circulante.
+Ambos os kits estão dentro da validade, com todos os reagentes em perfeita ordem e a única diferença entre eles é que
+o teste ELISA 1 utiliza anticorpos monoclonais para a captura de antígeno, enquanto o ELISA 2 utiliza anticorpos
+policlonais.
+Na tabela abaixo encontram-se os resultados obtidos.
+O ensaio de ELISA 1 não detectou o antígeno viral na 2º amostra porque anticorpos monoclonais
+(A) são produzidos a partir da imunização de coelhos, gerando anticorpos de baixa sensibilidade.
+(B) têm menor especificidade quando comparados com os anticorpos policlonais, o que produz um maior número de
+falsos positivos.
+(C) são altamente específicos e qualquer mutação no antígeno pode levar ao não-reconhecimento deste.
+(D) utilizados nos testes imunoenzimáticos de captura são geralmente da classe IgD, que têm menor sensibilidade.
+(E) são gerados a partir da imunização de macacos com os vírus humanos, não tendo boa sensibilidade mas alta
+especificidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="79,1153 1574,1153 1574,1353 1570,1353 1570,1424 80,1424 80,1425 79,1425"/>
+	<TextEquiv conf="0.94200">
+	<Unicode>QUESTÃO 37 — DISCURSIVA
+Indivíduos tratados com hormônio de crescimento humano antes de 1985 têm risco de desenvolver doença de
+Creutzfeld-Jacob, que se acredita seja transmitida por agentes patogênicos chamados príons. O hormônio era então
+produzido a partir de hipófise de cadáveres e, em 1985, foi introduzido o hormônio de crescimento recombinante,
+produzido em laboratório por bactérias.
+a) Como a aplicação de hormônio de crescimento de hipófise pode estar relacionada com essa doença?
+(valor:5,0 pontos)
+b) Por que a proteína recombinante não apresenta risco do desenvolvimento dessa doença? (valor:5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

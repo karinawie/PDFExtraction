@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T07:25:33</Created>
+	<LastChange>2021-01-18T01:22:43</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-17.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r11">
+	<Coords points="790,102 791,2160 794,2160 793,102"/></SeparatorRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="103,184 773,184 773,312 298,312 298,522 142,522 142,312 103,312"/>
+	<TextEquiv conf="0.96590">
+	<Unicode>QUESTÃO 43
+No processo de pesquisa binária em um vetor ordenado, os
+números máximos de comparações necessárias para se
+determinar se um elemento faz parte de vetores com tamanhos
+50, 1.000 e 300 são, respectivamente, iguais a
+5,100 e 30.
+6,10e9.
+8,31 e 18.
+10, 100 e 30.
+25,500 e 150.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="140,1091 140,1334 740,1334 740,1091"/></TableRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="142,634 735,634 735,1379 774,1379 774,1437 773,1437 773,1926 584,1926 584,2138 104,2138 104,1437 103,1437 103,1379 142,1379"/>
+	<TextEquiv conf="0.95116">
+	<Unicode>QUESTÃO 44
+de dados de um conjunto de empresas. Cada empresa
+tem a sua própria rede, que é independente das redes
+das outras empresas e é constituída de ramos de fibra
+óptica. Cada ramo conecta duas filiais distintas (ponto-a-
+ponto) da empresa. Há, no máximo, um ramo de fibra
+interligando diretamente um mesmo par de filiais.
+A comunicação entre duas filials pode ser feita
+diretamente por um ramo de fibra que as interliga, se
+este existir, ou, indiretamente, por meio de uma
+sequência de ramos e filiais. A rede de cada empresa
+permite a comunicação entre todas as suas filiais.
+A tabela abaixo apresenta algumas informações acerca
+das redes dessas empresas.
+Com relação à situação apresentada acima, é correto deduzir
+que,
+I no caso da empresa El, a falha de um ramo de rede
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se diretamente com todas as outras filiais da
+empresa.
+Il na rede da empresa E2, a introdução de um novo ramo de
+rede certamente violará a informação de que há somente
+um par de fibras entre duas filiais.
+III no caso da empresa E3, a falha de um único ramo de rede
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se, direta ou indiretamente, com todas as outras
+filiais da empresa.
+IV na rede da empresa E4, todas as filiais da empresa
+comunicam-se entre si diretamente.
+Estão certos apenas os itens
+O Ie. O IINelV.
+O IelV. O IIMelV.
+O Nem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="813,184 1550,184 1550,206 1549,206 1549,324 1550,324 1550,733 815,733 815,734 814,734 814,207 813,207"/>
+	<TextEquiv conf="0.96268">
+	<Unicode>QUESTÃO 45
+Requisitos de um sistema são frequentemente classificados como
+funcionais, não-funcionais e de domínio. Qual a definição que
+melhor descreve requisitos não-funcionais?
+O São ferramentas automatizadas de apoio ao processo de
+desenvolvimento de sistemas.
+O São requisitos que descrevem o que o sistema deve fazer, como
+deve reagir a determinadas entradas e como deve comportar-se
+em situações particulares.
+O São requisitos que derivam do domínio da aplicação e que
+refletem características e restrições desse domínio.
+O São requisitos que não estão diretamente relacionados com as
+funções específicas do sistema.
+O São requisitos que especificam como deve ser testada uma parte
+do sistema, incluindo-se as entradas, os resultados esperados e as
+condições sob as quais os testes devem ocorrer.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="813,812 1550,812 1550,940 1349,940 1349,1129 1350,1129 1350,1151 853,1151 853,1152 852,1152 852,941 813,941"/>
+	<TextEquiv conf="0.94975">
+	<Unicode>QUESTÃO 46
+O Processo Unificado (RUP - rational unified process) é um
+moderno processo de desenvolvimento de software constituído de
+quatro fases. Assinale a opção que apresenta as quatro fases do RUP,
+na ordem em que elas devem ser executadas.
+concepção, elaboração, construção, teste
+elaboração, transição, concepção, construção
+elaboração, concepção, teste, transição
+elaboração, concepção, transição, construção
+concepção, elaboração, construção, transição</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="813,1229 1550,1229 1550,1815 1118,1815 1118,1920 939,1920 939,2126 853,2126 853,1920 814,1920 814,1392 813,1392"/>
+	<TextEquiv conf="0.96122">
+	<Unicode>QUESTÃO 47
+Um estudo recente realizado pela Associação Brasileira das
+Empresas de Software (ABES) e a Business Software Alliance
+(BSA) mostra uma redução na pirataria de software no mundo e no
+Brasil, de 1994 a 2002. Com relação a esse assunto, julgue os itens
+a seguir.
+I A redução da pirataria de software no contexto brasileiro traz
+benefícios para a criação de empregos, aumento da arrecadação
+de impostos e aumento no faturamento da economia.
+II A reprodução de software original ou autorizado para fins de
+segurança ou backup é também considerada pirataria de
+software.
+III As iniciativas antipirataria devem incluir ações de
+conscientização, educação e atuação direta sobre os
+contraventores.
+IV A pirataria de software é uma atividade criminosa, contudo não
+há no Brasil, ainda, legislação específica que regulamente essa
+questão.
+Estão certos apenas os itens
+A I e II.
+B I e III.
+C II e III.
+D II e IV.
+E III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

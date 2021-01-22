@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:14:03</Created>
+	<LastChange>2020-11-13T13:01:54</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="117,574 117,1154 831,1154 831,574"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="857,564 857,1144 1571,1144 1571,564"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,343 1572,343 1572,483 1573,483 1573,543 79,543 79,344 80,344"/>
+	<TextEquiv conf="0.86731">
+	<Unicode>A taxa de evaporação de água em um reservatório depende da condição climática. Em um modelo simplificado, essa taxa, E,
+pode ser descrita por
+E= av(100- UR),
+em que a. é uma constante, vé a velocidade do vento, em m/s, e UR é a umidade relativa do ar, em porcentagem. Nas figuras
+lell, abaixo, são apresentados dados climáticos em determinado reservatório de água, em 12 semanas de observação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,1166 111,1166 111,1206 1573,1206 1573,1263 1200,1263 1200,1264 827,1264 827,1265 453,1265 453,1266 107,1266 107,1463 80,1463 80,1267 79,1267 79,1206 80,1206"/>
+	<TextEquiv conf="0.93265">
+	<Unicode>13
+As informações acima permitem concluir que a taxa de evaporação de água no reservatório, nas 12 semanas observadas,
+foi maior na semana
+(A) 1
+(B) 4
+(C) 6
+(D) 9
+(E) 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="80,1551 1575,1551 1575,1688 192,1688 192,1858 215,1858 215,1884 81,1884 81,1885 80,1885 80,1553 79,1553 79,1552 80,1552"/>
+	<TextEquiv conf="0.96148">
+	<Unicode>14
+Para estimar a taxa de evaporação de água no reservatório, na 24º semana, considere que a umidade relativa do ar seja
+aproximada pelo valor médio dos dados da figura | e que a velocidade do vento seja aproximada por uma função periódica, com
+período igual a 6 semanas, obtida a partir dos dados da figura Il. Qual das opções abaixo melhor estima essa taxa na
+24º semana?
+(A)3a
+(B)80 a
+(0)210 0a
+(D) 480 a.
+(E) 1.080 a</Unicode></TextEquiv></TextRegion></Page></PcGts>

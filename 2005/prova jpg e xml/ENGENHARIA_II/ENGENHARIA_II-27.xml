@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:11:30</Created>
+	<LastChange>2020-11-13T12:56:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-27.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="462,531 462,749 1194,750 1194,532"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="428,1134 428,1705 1217,1705 1217,1134"/></ImageRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="79,436 80,436 80,437 1356,437 1356,1045 1574,1045 1574,1106 846,1106 846,1878 1153,1878 1153,1912 1280,1912 1280,1939 123,1939 123,1938 80,1938 80,1105 79,1105"/>
+	<TextEquiv conf="0.96548">
+	<Unicode>35
+Considere uma planta industrial cujo modelo pode ser representado pelo seguinte diagrama em blocos:
+onde os símbolos representam:
+r: sinal de referência a ser seguido pela saída (referência)
+p: perturbação não mensurável
+y: sinal de saída
+c: sinal de controle gerado pelo controlador PID (controle)
+S,: processo controlado
+Os engenheiros de processo verificaram que, em determinadas situações, a saída não seguia a referência, como pode ser
+constatado nos gráficos abaixo, obtidos para uma janela de tempo de 200 segundos.
+De acordo com estes dados, é possível resolver este problema?
+(A) Sim, aumentando o ganho proporcional do controlador.
+(B) Sim, aumentando a ação integral do controlador.
+(C) Sim, adicionando uma pré-filtragem do sinal de referência.
+(D) Sim, aplicando uma técnica do tipo feed-forward para eliminar o efeito da perturbação.
+(E) Não é possível resolver este problema com o controlador atual, devido ao seu nível de saturação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

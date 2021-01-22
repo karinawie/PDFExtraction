@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T12:00:15</Created>
+	<LastChange>2020-11-13T12:43:16</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-29.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="79,437 80,437 80,438 730,438 730,1711 1029,1711 1029,1779 480,1779 480,1938 81,1938 81,1937 80,1937 80,500 79,500"/>
+	<TextEquiv conf="0.95506">
+	<Unicode>39
+O quadro a seguir apresenta um conjunto de minerais.
+Esses minerais são encontrados, tipicamente, no seguinte contexto geológico:
+(A) rochas graníticas.
+(B) rochas metamórticas.
+(C) ambientes glaciais.
+(D) depósitos evaporíticos.
+(E) intrusões de rochas alcalinas.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r0">
+	<Coords points="474,520 1194,520 1194,1651 474,1651"/></TableRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:10:25</Created>
+	<LastChange>2020-11-13T12:53:54</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-34.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="79,1556 111,1556 111,1592 1572,1592 1572,1652 191,1652 191,1825 80,1825 80,1652 79,1652"/>
+	<TextEquiv conf="0.96921">
+	<Unicode>46
+O escorregamento de um Motor de Indução de quatro pólos, alimentado por uma fonte de tensão de 60 Hz, é de 1%.
+Qual é a velocidade de rotação, em rpm, deste motor?
+(A) 3600
+(B) 3 564
+(C) 1 818
+(D) 1 800
+(E) 1 782</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="465,611 465,1191 1217,1191 1217,611"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,409 1573,409 1573,596 1302,596 1302,1277 1042,1277 1042,1316 973,1316 973,1349 702,1349 702,1516 80,1516 80,1349 79,1349 79,1322 81,1322 81,596 79,596"/>
+	<TextEquiv conf="0.95975">
+	<Unicode>45
+Sejam v(t) = 2v sen(omt) e i(t) = 2 | sen(om t — O), respectivamente, a tensão (volts) e a corrente (ampêres) fornecidas
+por um gerador CA (Corrente Alternada) em regime permanente.
+Denomina-se Potência Ativa P o valor médio da potência instantânea ao longo do tempo e é dada por:
+P=Vlcoso.
+Denomina-se Potência Reativa Q o valor calculado pela expressão Q = Vl sen.
+Analisando a figura, qual o valor aproximado da Potência Reativa, em var ?
+(A) 1 000
+(B) 870
+(C) 500
+(D) 290
+(E) Impossível determinar com os dados fornecidos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

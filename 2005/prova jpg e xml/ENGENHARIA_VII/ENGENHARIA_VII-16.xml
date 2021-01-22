@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T11:21:14</Created>
+	<LastChange>2021-01-18T02:31:38</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-16.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="74,77 74,2262 76,2262 76,77"/></SeparatorRegion>
+	<SeparatorRegion id="r9">
+	<Coords points="824,102 824,2142 826,2142 826,102"/></SeparatorRegion>
+	<ImageRegion id="r19">
+	<Coords points="1005,1241 1005,1302 924,1302 924,1544 1493,1544 1493,1241"/></ImageRegion>
+	<TextRegion id="r65" type="paragraph">
+	<Coords points="876,1165 1551,1165 1551,1252 1549,1252 1549,2081 1415,2081 1415,2125 846,2125 846,1602 876,1602"/>
+	<TextEquiv conf="0.87948">
+	<Unicode>QUESTÃO 31
+O movimento de um corpo pode ser descrito pelas acelerações a
+que está sujeito. O gráfico acima ilustra a variação da velocidade
+de um corpo no decorrer do tempo em um movimento
+unidimensional. Assinale a opção correta acerca do movimento
+dessse corpo.
+O A aceleração é máxima nos instantes 0, 2 e 4.
+O O corpo movimenta-se com aceleração positiva nos instantes
+1c3.
+O O corpo percorre um espaço maior entre os instantes de 0 a 2
+do que entre os instantes de 5 a 8.
+O No instante 4, o corpo encontra-se próximo ao ponto em que
+se encontrava no instante O.
+O Entre os instantes 2 e 4, a aceleração é negativa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="876,136 1551,136 1551,161 1549,161 1549,1094 1103,1094 1103,1127 885,1127 885,1094 846,1094 846,161 845,161 876,161"/>
+	<TableRegion id="r11">
+	<Coords points="850,176 850,519 1552,519 1552,176"/></TableRegion>
+	<TextEquiv conf="0.11443">
+	<Unicode>QUESTÃO 34
+Suponha que, em uma oficina mecânica, os operários ficam
+expostos aos níveis de ruído medidos, apresentados na tabela
+acima, durante 8 horas diárias. De acordo com a NR-15, para a
+verificação do limite de tolerância aceitável, deve-se considerar
+O os efeitos combinados de níveis de ruído e tempo de
+exposição permissível.
+O a fração de tempo com exposição superior a 20% da máxima
+exposição admissível.
+O arelação entre nível máximo medido de ruído e nível de ruído
+aceitável.
+O os níveis de ruído medido que tenham exposição superior à
+máxima permitida.
+O asoma dos níveis de ruído medido com valores superiores ao
+máximo admissível.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="116,1494 242,1494 242,1505 807,1505 807,1518 806,1518 806,2126 104,2126 104,1678 103,1678 103,1539 116,1539"/>
+	<TextEquiv conf="0.56836">
+	<Unicode>QUESTÃO 33
+Em qualquer atividade profissional, o trabalhador está exposto a
+situações de risco. A NR-9 trata da obrigatoriedade do Programa
+de Prevenção de Riscos Ambientais por parte de empregadores
+e instituições que admitam trabalhadores como empregados.
+De acordo com essa norma,
+O os riscos ambientais são divididos em grupos de
+periculosidade e de insalubridade existentes no ambiente de
+trabalho.
+O osriscos ambientais agrupam-se em agentes ergonômicos e
+mecânicos existentes no ambiente de trabalho, que são
+capazes de causar danos à saúde do trabalhador.
+O consideram-se riscos ambientais os agentes físicos, químicos
+e biológicos existentes no ambiente de trabalho, que são
+capazes de causar danos à saúde do trabalhador.
+O consideram-se agentes físicos os compostos ou produtos que
+possam penetrar no organismo pela via respiratória, na forma
+de poeiras, fumos ou vapores.
+O ostrabalhadores devem ser submetidos a um controle médico
+mensal de saúde ocupacional.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="116,136 807,136 807,161 806,161 806,382 697,382 697,1002 806,1002 806,1232 408,1232 408,1291 230,1291 230,1464 104,1464 104,965 103,965 103,161 102,161 116,161"/>
+	<TableRegion id="r14">
+	<Coords points="104,404 104,908 823,908 823,404"/></TableRegion>
+	<TextEquiv conf="0.04486">
+	<Unicode>QUESTÃO 32
+Entre as leis e as normas de competência do Ministério do
+Trabalho e Emprego relativas a saúde e segurança no trabalho,
+estão as normas regulamentadoras (NR). A NR-15 trata de
+atividades e operações insalubres, incluindo-se o trabalho sob
+condições hiperbáricas. Em determinadas situações, está previsto
+procedimento para descompressão, conforme apresentado na
+tabela seguinte.
+A partir dessas informações, julgue os itens seguintes.
+I O estágio de descompressão é feito com pressão inferior à de
+trabalho.
+II O período de trabalho abrange atividades produtiva e
+não-produtiva.
+III Cumprido o estágio de descompressão, deve-se diminuir a
+pressão o mais rápido possível.
+IV Consideram-se condições hiperbáricas somente aquelas em
+que a pressão de trabalho é superior a 1 kegf/emº.
+Estão certos apenas os itens
+O Ie.
+O Ie.
+O Nell.
+O Nelv.
+O IIMelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

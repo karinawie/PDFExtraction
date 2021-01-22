@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T02:41:59</Created>
+	<LastChange>2020-10-21T03:02:50</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="260,328 260,514 1402,514 1402,328"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="285,1214 285,1574 1371,1574 1371,1214"/></ImageRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="80,240 1243,240 1243,541 1445,541 1445,650 1574,650 1574,708 1517,708 1517,816 212,816 212,871 204,871 204,925 197,925 197,980 158,980 158,1034 151,1034 151,1088 80,1088"/>
+	<TextEquiv conf="0.96195">
+	<Unicode>QUESTÃO 23
+O fragmento abaixo foi extraído do samba Tempo Feliz, de Baden Powell e Vinicius de Morais.
+Considere:
+| - Observa-se, na melodia, a utilização recorrente da síncopa, recurso rítmico característico desse gênero.
+Il - A notação, na forma de melodia cifrada, indica que a montagem dos acordes, incluindo a escolha do registro e a
+distribuição das vozes, fica a critério do intérprete.
+Ill - A ausência da notação de dinâmica determina que a intensidade deva ser constante durante toda a execução.
+Está correto o que se afirma SOMENTE em
+(A) lleilll.
+(B) lelll.
+(C) lell.
+(D) Il.
+(E) |.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="80,1121 995,1121 995,1684 1007,1684 1007,1738 1387,1738 1387,1819 472,1819 472,1873 327,1873 327,2010 334,2010 334,2036 288,2036 288,2090 235,2090 235,2144 80,2144 80,1847 81,1847 81,1656 80,1656"/>
+	<TextEquiv conf="0.96564">
+	<Unicode>QUESTÃO 24
+O fragmento abaixo é uma frase composta sobre a escala de tons inteiros.
+Há um repouso no final do 4º compasso porque
+| - aconclusão ocorre na nota Fátt, nota que é enfatizada no fragmento.
+ll - adivisão da frase ocorre em dois grupos de dois compassos que terminam com a mesma nota Fá.
+Ill - a conclusão por trítono reforça a idéia conclusiva presente no 2º compasso.
+Está correto o que se afirma em
+(A) lelll, somente.
+(B) Il, somente.
+(C) lIlelll, somente.
+(D) Ill, somente.
+(E) Ie.</Unicode></TextEquiv></TextRegion></Page></PcGts>

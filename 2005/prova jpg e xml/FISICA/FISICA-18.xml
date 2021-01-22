@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T01:39:37</Created>
+	<LastChange>2020-10-23T02:10:08</LastChange></Metadata>
+	<Page imageFilename="FISICA-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="211,189 210,1000 623,1000 624,189"/></ImageRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="800,77 800,2237 808,2237 808,77"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="123,1554 775,1554 775,1634 776,1634 776,1801 775,1801 775,2219 123,2219 123,1573 60,1573 60,1555 123,1555"/>
+	<TextEquiv conf="0.95788">
+	<Unicode>QUESTÃO 30
+Um professor propõe aos seus alunos o seguinte
+problema:
+Um automóvel de passeio tem velocidade constante de
+72 km/h em uma estrada retilínea e horizontal. Sabendo
+que o módulo da resultante das forças de resistência ao
+movimento do automóvel é, em média, de 2x 10º N,
+determine a potência média desenvolvida pelo motor
+desse automóvel.
+Esse problema é
+(A) adequado PORQUE o valor da potência obtido é
+típico de um automóvel.
+(B) adequado PORQUE essa situação faz parte do
+cotidiano do aluno.
+(C) inadequado PORQUE um automóvel nunca atinge
+essa velocidade.
+(D) inadequado PORQUE essa situação não faz parte
+do cotidiano do aluno.
+(E) inadequado PORQUE o resultado obtido está fora
+da realidade.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="122,95 775,95 775,1357 594,1357 594,1522 124,1522 124,1357 122,1357 122,115 59,115 59,96 122,96"/>
+	<TextEquiv conf="0.95879">
+	<Unicode>QUESTÃO 29
+Suponha que um professor leve à sala de aula as duas
+fotos abaixo que representam uma bexiga antes e depois
+de ser imersa em nitrogênio líquido.
+(www.physics.Isa.umich.edu/ demolab/demo.asp?id=852)
+Em seguida, com a participação dos alunos, ele elabora o
+enunciado de um problema a respeito dessas fotos
+procurando orientá-los para que levem em consideração
+todos os aspectos que julga relevantes em função do
+conteúdo que pretende trabalhar. Essa metodologia é
+recomendada pelos pesquisadores em ensino de ciências,
+entre outras razões, por garantir o envolvimento do aluno
+na resolução do problema, além de desenvolver a
+habilidade de levantar hipóteses. Neste exemplo, o
+professor pretende trabalhar o seguinte conteúdo:
+(A) teoria cinética dos gases.
+(B) mudança de fase.
+(C) calor específico de líquidos e gases.
+(D) relação entre escalas termométricas.
+(E) rendimento em um ciclo de Carnot.</Unicode></TextEquiv></TextRegion></Page></PcGts>

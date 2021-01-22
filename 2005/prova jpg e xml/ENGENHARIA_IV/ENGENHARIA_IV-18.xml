@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T03:21:43</Created>
+	<LastChange>2020-10-23T22:01:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-18.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="729,219 729,1239 731,1239 731,219"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="1134,271 1134,802 1577,802 1577,271"/></ImageRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="764,234 890,234 890,285 1121,285 1121,510 1056,510 1056,676 1120,676 1120,881 1558,881 1558,910 1557,910 1557,1197 1420,1197 1420,1226 752,1226 752,1225 751,1225 751,833 750,833 750,676 810,676 810,510 752,510 752,509 751,509 751,285 764,285"/>
+	<TextEquiv conf="0.96460">
+	<Unicode>QUESTÃO 37
+Uma das rotas mais usuais para a
+produção de biodísel é a rota
+alcalina. O etóxido de sódio, um
+dos catalisadores mais
+empregados, é preparado a partir
+de etanol e hidróxido de sódio,
+conforme representado abaixo.
+CH;CH,OH+Na0H=P&gt;
+CH;CH,O Na' + H,O
+A figura ao lado apresenta o
+diagrama de equilíbrio de fases
+para o sistema etanol-água. À
+partir dessas informações, assinale
+a opção incorreta.
+O Parte de excesso de etanol da reação citada pode ser recuperada por
+destilação, como etanol hidratado.
+O Segundo o diagrama de equilíbrio mostrado na figura, o sistema etanol-
+água forma azeótropo de mínimo.
+O A destilação do excesso de etanol úmido produz somente etanol
+hidratado, uma vez que o sistema forma azeótropo.
+O Pode-se recuperar o etanol anidro adsorvendo-se a água em um material
+secante, com posterior filtração.
+O O etanol anidro pode ser obtido por destilação, deslocando-se o ponto
+de azeotropia por meio do controle da pressão na coluna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="102,225 261,225 261,290 711,290 711,1186 545,1186 545,1227 142,1227 142,1186 104,1186 104,544 103,544 103,264 102,264"/>
+	<TextEquiv conf="0.56134">
+	<Unicode>QUESTÃO 36
+Há muitos anos o homem tem desenvolvido e
+aperfeiçoado processos para conversão entre calor e
+trabalho. Entre os mais destacados exemplos, podem ser
+citadas as máquinas a vapor e as máquinas frigoríficas,
+com as quais foi possível desenvolver motores a vapor,
+usinas termelétricas e refrigeradores. Acerca de calor e
+trabalho, assinale a opção correta.
+O Em uma máquina frigorífica, transfere-se calor de
+uma fonte fria para uma fonte quente, o que viola o
+primeiro princípio da termodinâmica.
+O Em uma máquina frigorífica, o calor é retirado de
+uma fonte fria utilizando-se um fluido com baixo
+ponto de ebulição.
+O A troca de calor por radiação entre uma superfície
+aquecida em contato com um fluido resfriado ocorre
+por meio do transporte de energia entre moléculas
+adjacentes.
+O O trabalho de expansão e o calor são as únicas
+formas possíveis de fazer a energia interna de um
+sistema variar.
+O Uma máquina térmica é um dispositivo que permite
+conversão contínua de trabalho em calor, em
+transformações cíclicas e sucessivas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="147,1568 387,1568 387,1626 1093,1626 1093,1707 1557,1707 1557,1733 104,1733 104,1732 103,1732 103,1626 147,1626"/>
+	<TextEquiv conf="0.91030">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Com base na situação descrita no texto, sugira um processo de separação por membranas:
+a) para o leite, indicando a composição do permeato e do retido; (valor: 5,0 pontos)
+b) para o soro de leite proveniente do processo convencional, utilizando-se pelo menos três métodos em seqiiência. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r42" type="paragraph">
+	<Coords points="103,1260 466,1260 466,1301 1499,1301 1499,1512 777,1512 777,1536 776,1536 776,1537 162,1537 162,1282 103,1282"/>
+	<TextEquiv conf="0.95798">
+	<Unicode>Texto para as questões 38 e 39.
+O desenvolvimento da tecnologia de separação por membranas tem proporcionado o aparecimento de alternativas nos
+processos industriais, atendendo aspectos econômicos, humanísticos e ambientais. De acordo com o tamanho do material retido,
+o processo é classificado como microfiltração (MF, partículas em suspensão), ultrafiltração (UF, macromoléculas), nanofiltração
+(NF, açúcares e sais bivalentes) e osmose reversa (OR, sais monovalentes). Em todos os casos, a água flui através da membrana,
+carregando o material não-retido e formando o permeato. Um caso típico da aplicação de tecnologia de membranas é o
+processamento de leite. Esse produto é uma suspensão de partículas (proteína e gordura) em solução de proteínas solúveis, sais
+e lactose. No processo convencional, 100 kg de leite resultam em 10-15 kg de queijo e 85-90 kg de soro, que contêm
+partículas de gordura e caseína e é tratado como resíduo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

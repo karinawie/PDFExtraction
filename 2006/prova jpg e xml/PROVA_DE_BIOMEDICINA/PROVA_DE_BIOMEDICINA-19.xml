@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T01:48:46</Created>
+	<LastChange>2020-09-22T01:48:46</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="305,448 305,977 1600,977 1600,448"/></ImageRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="80,242 495,242 495,316 1575,316 1575,430 1574,430 1574,1262 1455,1262 1455,1376 768,1376 768,1377 81,1377 81,1378 80,1378 80,1166 79,1166 79,1107 80,1107 80,432 79,432 79,316 80,316"/>
+	<TextEquiv conf="0.88552">
+	<Unicode>QUESTÃO 40 — DISCURSIVA
+O cDNA (cópia complementar do RNAm) do gene da ovoalbumina de galinha tem 1872 pares de base. Um pesquisador
+analisou o DNA genômico de dois tipos de células diferentes (oviduto e eritrócitos), após digestão com a enzima de
+restrição EcoRI. Após migração desse DNA em gel de agarose e hidratação com o cDNA do gene da albumina obteve-
+se o resultado abaixo.
+Sabendo-se que o gene da ovoalbumina é cópia única, e que o cCDNA possui 1872 nucleotídeos e não tem sítio sensível
+para a enzima EcoRl, responda:
+a) Conhecendo a estrutura do gene eucarionte, como pode ser explicada a presença de diferentes bandas de DNA?
+(valor:5,0 pontos)
+b) O gene da albumina é bastante expresso nas células do oviduto, mas não expresso nos eritrócitos. Considerando
+esta informação, explique porque o padrão de bandas nos dois tipos de células é o mesmo.
+c) Citeuma etapa do processamento do RNA mensageiro de eucariontes e indique onde ela ocorre na célula.</Unicode></TextEquiv></TextRegion></Page></PcGts>

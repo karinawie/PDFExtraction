@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:08:13</Created>
+	<LastChange>2020-10-24T03:41:55</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-35.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="79,435 80,435 80,436 1572,436 1572,765 1326,765 1326,731 79,731"/>
+	<TextEquiv conf="0.96209">
+	<Unicode>QUESTÃO 10
+A Silvicultura e o Manejo Florestal não são conceitos paralelos, mas sim complementares e interdependentes.
+As espécies dos gêneros Pinus e Eucalyptus são amplamente utilizadas em reflorestamentos, no Brasil, devido, principalmen-
+te, ao seu rápido crescimento. A madeira do pinus e do eucalipto é usada em construções leves ou pesadas, na produção de
+laminados, compensados, chapas de fibras e de partículas, na produção de celulose e papel, entre outros.
+Tendo como objetivo o planejamento da produção florestal até o corte final, no sistema de silvicultura por sementes para
+produção de celulose, cite as etapas necessárias e as técnicas a serem aplicadas para a elaboração de um plano de manejo,
+para Pinus ou Eucalyptus.
+Escolha somente um gênero.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,1349 81,1349 81,1350 1571,1350 1571,1601 1572,1601 1572,1695 80,1695 80,1694 79,1694 79,1601 80,1601"/>
+	<TextEquiv conf="0.95927">
+	<Unicode>QUESTÃO 12
+Há dois anos, a indústria de base florestal está em alerta devido ao descompasso entre a demanda e a oferta de
+madeira, o que ficou conhecido como “apagão florestal”. A expectativa é de que nos próximos anos faltará matéria-
+prima para atender a cadeia produtiva da madeira.
+(Adaptado de: http://www.agropauta.com.br/miudos.asp?todo=id&amp;id=62)
+Cite quatro fatores que poderão contribuir para o “apagão florestal” no Brasil e quatro medidas a serem adotadas para evitar que
+ele aconteça.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="80,812 80,813 104,813 104,848 1573,848 1573,1009 1572,1009 1572,1207 1571,1207 1571,1208 679,1208 679,1275 80,1275 80,1107 79,1107 79,848 80,848"/>
+	<TextEquiv conf="0.68093">
+	<Unicode>QUESTÃO 11
+Vinte metros cúbicos de madeira de jatobá e vinte metros cúbicos de madeira de pinus foram secados em estufa. As árvores,
+logo depois de abatidas, foram imediatamente serradas e os teores de umidade inicial encontrados foram 50% para jatobá e
+120% para pinus. As respectivas densidades básicas foram 0,88 g/cm? e 0,44 g/emº?. Sabendo-se que teor de umidade é a
+razão entre o peso da água existente na madeira e o seu peso quando absolutamente seca, e que a densidade básica é a
+razão entre o peso da madeira absolutamente seca e seu volume quando verde, calcule para a madeira de jatobá e pinus:
+a) a quantidade de água a ser retirada (litros) até o ponto de saturação das fibras (psf);
+(valor: 5,0 pontos)
+b) a quantidade de água a ser retida (litros) do ponto de saturação das fibras até o teor de umidade final de 12%.
+(valor: 5,0 pontos)
+[Considere o teor de umidade no psf igual a 30%.]</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:30:53</Created>
+	<LastChange>2021-01-18T02:20:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-21.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r41" type="heading">
+	<Coords points="149,1491 1551,1491 1551,1521 1549,1521 1549,2064 483,2064 483,2105 142,2105 142,1835 143,1835 143,1732 142,1732 142,1686 104,1686 104,1609 103,1609 103,1586 104,1586 104,1547 149,1547"/>
+	<TextEquiv conf="0.91747">
+	<Unicode>QUESTÃO 46
+Materiais são constituídos por átomos que, no estado sólido, mantêm-se unidos por ligações químicas primárias e secundárias. O tipo
+de ligação afeta as propriedades químicas e físicas do material. Acerca desse assunto, assinale a opção incorreta.
+A Diferentemente dos materiais metálicos e cerâmicos, nos polímeros, a temperatura de fusão é determinada pelas ligações primárias
+covalentes e não pelas ligações secundárias fracas, que incluem ligações de Van der Waals e pontes de hidrogênio.
+B Sabendo que os elementos químicos cálcio e oxigênio têm números atômicos 20 e 8, respectivamente, é correto afirmar que a
+ligação química formada entre átomos desses dois elementos é predominantemente do tipo iônica.
+C A ligação carbono-cloro tem energia mais baixa que as ligações carbono-carbono e carbono-hidrogênio. Por essa razão, durante
+a degradação do policloreto de vinila (PVC), ocorre a liberação de ácido clorídrico (HC) devido à quebra da ligação
+carbono-cloro.
+D O módulo de elasticidade do silício metálico (Si) é menor que o da sílica (SiO2), devido à mais alta energia das ligações presentes
+no composto.
+E O elemento químico cobre ocorre na natureza na forma de óxido de cobre, devido ao fato de a ligação química iônica ser mais
+estável que a ligação metálica.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="865,151 865,502 1525,502 1525,151"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="154,180 154,771 782,771 782,180"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="842,505 842,1328 1565,1328 1565,505"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 45
+Para garantir a estabilização de um deslizamento ativo, como o
+representado na figura acima, uma empresa propôs a utilização de
+um contrapeso em rocha. Acerca das características e formas de
+construção dessa obra de contenção, assinale a opção correta.
+A O contrapeso é viável somente se a pista da rodovia for
+pavimentada.
+B Para funcionar corretamente, o contrapeso não pode ser
+cimentado.
+C O uso do contrapeso é recomendado devido à existência de
+água no pé do deslizamento.
+D O contrapeso produz um momento em sentido contrário ao do
+deslizamento.
+E O contrapeso deve ser construído com material de
+granulometria igual ou inferior à da brita.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="88,794 88,1342 808,1342 808,794"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 44
+A figura acima mostra os componentes de uma instalação típica
+de uma bomba. Com relação a essa instalação, assinale a opção
+correta.
+A A finalidade da válvula de pé com crivo é evitar a cavitação
+e o ingresso de sedimentos na tubulação de sucção.
+B A finalidade da válvula de retenção é evitar o golpe de aríete
+na tubulação de recalque.
+C Trata-se de uma bomba de sucção negativa (afogada).
+D Para evitar cavitação na tubulação de sucção, o NPSH
+disponível na instalação deve ser menor que o NPSH
+requerido pela bomba.
+E O registro instalado na tubulação de recalque permite reduzir
+a vazão bombeada, mas não gera perda de carga.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="822,100 822,1362 828,1362 828,100"/></SeparatorRegion></Page></PcGts>

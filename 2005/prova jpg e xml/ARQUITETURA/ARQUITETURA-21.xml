@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T02:51:50</Created>
+	<LastChange>2020-11-13T03:36:14</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="551,528 551,868 1086,868 1086,528"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="569,1010 569,1332 1106,1332 1106,1010"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="85,211 1572,211 1572,332 1574,332 1574,426 1572,426 1572,895 1574,895 1574,1362 1575,1362 1575,1556 80,1556 80,1356 79,1356 79,895 80,895 80,426 79,426 79,332 85,332"/>
+	<TextEquiv conf="0.80783">
+	<Unicode>Os textos e as imagens abaixo devem ser utilizados para responder às questões de 25 a 27.
+Le Corbusier dedicou grande parte de sua carreira ao estudo de questões estruturais, explorando novas possibilidades para
+o diálogo entre técnica e forma. Concebeu, primeiramente, o sistema de estrutura independente denominado por ele Dom-ino,
+o que, por sua vez, permitiria que, nos anos 20, formulasse os seus famosos 5 pontos da nova arquitetura:
+1. pilotis, 2. planta livre, 3. fachada livre, 4. janelas horizontais e 5. teto-jardim. A aplicação dos cinco pontos da arquitetura moderna,
+postulados por Le Corbusier, foi demonstrada por ele mesmo na obra Ville Savoye, 1929, ilustrada abaixo durante a obra.
+Oito décadas separam aquela obra da descrição sobre a Favela da Maré, por Drauzio Varella em 2002, reproduzida a seguir.
+Nela o autor destaca uma característica marcante a partir de um elemento construtivo presente nas casas daquela parte da
+cidade do Rio de Janeiro.
+ALaje
+Quem pensa em ir às favelas ou à periferia das cidades brasileiras atrás daquelas casinhas tradicionais com telhado de duas
+águas e calhas metálicas para escoar a chuva, fica decepcionado. Até onde a vista alcança só vai encontrar lajes na cober-
+tura. A laje é uma instituição nas casas pobres das cidades brasileiras. (...) Além de secar roupa nos dias de sol, servir para
+as crianças — e muitos marmanjos barbados — empinarem pipa longe dos fios dos postes, as lajes são o lugar ideal para
+comemorações de aniversário, churrascadas e para manter o bronzeado sem pegar ônibus para ir à praia. Por isso, os
+adolescentes da Maré respondem quando lhes perguntam onde pegaram essa cor: Na Barra Laje.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1599 110,1599 110,1637 1244,1637 1244,1710 1574,1710 1574,1919 1572,1919 1572,2028 80,2028 80,2001 81,2001 81,1664 80,1664 80,1622 79,1622"/>
+	<TextEquiv conf="0.95523">
+	<Unicode>QUESTÃO 25
+Considere os paralelos a seguir entre “a laje” da Favela da Maré e o “teto-jardim” de Le Corbusier.
+|- Osconstrutores da Favela da Maré conhecem e seguem os preceitos de Le Corbusier.
+Il- As mesmas possibilidades técnicas que ampararam os cinco pontos postulados por Le Corbusier estão presentes, em
+boa medida, nos materiais e técnicas que fazem as construções da Favela da Maré.
+Ill- Aquelas mesmas possibilidades técnicas que chamaram a atenção do arquiteto francês no início do século XX tornaram-
+se acessíveis, ao menos em parte, aos pobres das grandes cidades.
+IV- O concreto armado é o material de construção que representava perfeitamente aquelas “novas” possibilidades técnicas
+notadas por Le Corbusier, material este também presente nas casas da Favela da Maré.
+É(São) válido(s) o(s) paralelo(s):
+(A) |, apenas. (B) IV, apenas. (OC) Il e Ill, apenas. (D) II, Ill e IV, apenas. (E), 1, elV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

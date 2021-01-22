@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-11-23T03:47:14</Created>
+	<LastChange>2020-11-23T03:47:31</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-08.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="79,915 229,915 229,916 379,916 379,917 528,917 528,918 678,918 678,919 827,919 827,920 977,920 977,921 1126,921 1126,922 1276,922 1276,923 1425,923 1425,924 1574,924 1574,983 1573,983 1573,1139 751,1139 751,1943 969,1943 969,1976 984,1976 984,2010 1200,2010 1200,2037 80,2037 80,1139 79,1139"/>
+	<TextEquiv conf="0.96077">
+	<Unicode>QUESTÃO 9
+Os carbonatos de metais alcalinos e alcalino-terrosos podem ser obtidos a partir de seus óxidos, conforme a equação abaixo:
+M,O(s) + CO,(g) 2—&gt; M,COz(s), = para M = Na, K, Ca e Mg
+O diagrama a seguir apresenta os valores da energia de Gibbs padrão, A.C, para a formação de alguns destes carbonatos,
+em função da temperatura.
+Com base neste diagrama, é correto afirmar que
+(A) a entropia de formação dos carbonatos é constante.
+(B) a entropia de formação dos carbonatos é positiva.
+(C) a formação dos carbonatos é favorecida pelo aumento de temperatura.
+(D) o carbonato de cálcio se decompõe espontaneamente acima de 400ºC.
+(E) os carbonatos de metais alcalinos são mais instáveis que os de metais alcalino-terrosos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,385 229,385 229,386 378,386 378,387 528,387 528,388 677,388 677,389 827,389 827,390 976,390 976,391 1125,391 1125,392 1275,392 1275,393 1424,393 1424,394 1573,394 1573,732 1465,732 1465,880 80,880 80,816 81,816 81,488 80,488 80,487 79,487"/>
+	<TextEquiv conf="0.93936">
+	<Unicode>QUESTÃO 8
+O dióxido de enxofre, SO, e o diclorodifluorometano, CFC, são poluentes da atmosfera. Sobre a estrutura e as propriedades
+destes compostos, afirma-se:
+| - O SO, pode ser descrito por um híbrido de ressonância de duas estruturas de Lewis.
+|| - Ageometria do SO, é linear e a do CF,CI, é tetraédrica.
+IIl - Em fase condensada, as forças responsáveis pelas ligações entre as moléculas, em ambas as espécies, são forças de
+London.
+IV - Os modos normais de vibração no SO, são: o estiramento simétrico, o estiramento assimétrico e a deformação angular no
+plano.
+São corretas apenas as afirmações:
+(A) lell. (B) lelv. (C) Ile. D) Ile Iv. (E) MelV.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="448,1122 448,1800 1580,1800 1580,1122"/></ImageRegion></Page></PcGts>

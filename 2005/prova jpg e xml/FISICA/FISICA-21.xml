@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T01:39:05</Created>
+	<LastChange>2020-10-23T02:14:28</LastChange></Metadata>
+	<Page imageFilename="FISICA-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="171,302 171,702 762,702 762,302"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="162,185 815,185 815,296 814,296 814,1277 815,1277 815,1278 816,1278 816,1330 815,1330 815,1473 408,1473 408,1524 232,1524 232,1473 163,1473 163,296 162,296 162,205 99,205 99,186 162,186"/>
+	<TextEquiv conf="0.94180">
+	<Unicode>QUESTÃO 25
+Um pêndulo de massa m suspenso num pivô de massa M
+pode se deslocar, sem atrito, numa barra horizontal. A
+haste do pêndulo tem comprimento L e sua massa pode
+ser desprezada em comparação com m e M.
+Denotando a posição do pivô X, as coordenadas de m no
+referencial do pivô por x e y e a derivada parcial por ponto,
+pode-se afirmar corretamente que
+(A) X, x, e y são as coordenadas generalizadas do
+problema e a hamiltoniana do sistema depende
+somente de x, x, y eL.
+(B) Xey são as coordenadas generalizadas do proble-
+ma e a hamiltoniana do sistema depende somente
+de X,yeL
+(C) a única coordenada generalizada do problema é o
+ângulo 0 e a hamiltoniana do sistema depende
+somente de 8, sen 9, cos O.
+(D) Xeoângulo6 são as coordenadas generalizadas do
+problema e a hamiltoniana do sistema depende de
+X,6eL.
+(E) Xeoângulo 6 são as coordenadas generalizadas do
+problema e a hamiltoniana do sistema depende de
+x, O,cosbeL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="162,1584 814,1584 814,2144 813,2144 813,2221 163,2221 163,1749 162,1749 162,1603 99,1603 99,1585 162,1585"/>
+	<TextEquiv conf="0.95463">
+	<Unicode>QUESTÃO 26
+Dispõe-se de duas bolas maciças, isoladas, de mesmo
+raio, uma de cobre e outra de vidro. As bolas têm cargas
+positivas iguais e encontram-se em equilíbrio eletrostático.
+Supondo-se que a distribuição de cargas na esfera de
+vidro seja uniforme, pode-se afirmar que, para pontos no
+interior das esferas,
+(A) o potencial eletrostático aumenta com a distância ao
+centro, em ambas as esferas.
+(B) o potencial eletrostático é constante na esfera de
+cobre e aumenta com a distância ao centro na
+esfera de vidro.
+(C) a intensidade do vetor campo elétrico é constante e
+não nula na esfera de cobre e aumenta com a
+distância ao centro na esfera de vidro.
+(D) a intensidade do vetor campo elétrico é nula na
+esfera de cobre e diminui com a distância ao centro
+na esfera de vidro.
+(E) a intensidade do vetor campo elétrico aumenta com
+a distância ao centro, em ambas as esferas.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="840,77 840,2240 851,2240 851,77"/></SeparatorRegion></Page></PcGts>

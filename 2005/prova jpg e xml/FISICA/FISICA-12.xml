@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T01:40:36</Created>
+	<LastChange>2020-10-23T02:08:56</LastChange></Metadata>
+	<Page imageFilename="FISICA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="125,740 125,925 800,925 800,740"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="125,928 125,1113 800,1113 800,928"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="122,1108 122,1348 805,1348 805,1108"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="80,1365 80,1677 797,1677 797,1365"/></ImageRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="800,80 800,2231 814,2231 814,80"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="61,96 776,96 776,720 775,720 775,2223 124,2223 124,720 122,720 122,115 61,115"/>
+	<TextEquiv conf="0.96305">
+	<Unicode>QUESTÃO 19
+No olho humano, o conjunto córnea-cristalino se comporta
+como uma lente convergente, cujo foco pode ser ajustado
+pelos músculos oculares. Num olho normal, quando os
+raios de luz vêm de uma fonte distante, ou seja,
+praticamente paralelos, a imagem é focalizada na retina R,
+conforme a figura 1. Se vierem de uma fonte muito próxima,
+isto é, como raios divergentes, a imagem se forma além da
+retina (figura 2). Mas, nesse caso, os músculos oculares
+conseguem alterar a forma da lente da córnea, de forma a
+fazer com que uma imagem nítida seja novamente formada
+na retina. No entanto, se os raios de luz já incidirem
+convergentes sobre a córnea, eles serão ainda mais
+focalizados pela sua lente, e a imagem se forma entre a
+córnea e a retina (figura 3). Neste último caso, não há como
+os músculos oculares modificarem a curvatura da córnea
+para focalizar a imagem na retina. Com esta informação,
+considere uma montagem (figura 4) na qual um observador
+vê uma laranja através de uma lente convergente e que a
+córnea do olho do observador esteja posicionado a uma
+distância da lente menor que sua distância focal f.
+Neste caso, pode-se afirmar que o observador vê a
+imagem nítida da laranja
+(A) em qualquer posição que ela esteja com relação à
+lente.
+(B) somente se ela estiver posicionada exatamente no
+foco da lente.
+(C) somente se ela estiver a uma distância da lente
+maior que a distância focal.
+(D) somente se ela estiver a uma distância infinita da
+lente.
+(E) somente se ela estiver posicionada a uma distância
+da lente menor ou igual a sua distância focal.</Unicode></TextEquiv></TextRegion></Page></PcGts>

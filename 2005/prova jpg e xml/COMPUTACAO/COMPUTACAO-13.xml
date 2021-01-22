@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:22:57</Created>
+	<LastChange>2020-11-13T11:52:35</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-13.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="841,102 841,2157 843,2157 843,102"/></SeparatorRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="103,168 824,168 824,315 825,315 825,426 824,426 824,608 825,608 825,749 824,749 824,931 825,931 825,1042 822,1042 822,1135 773,1135 773,1265 824,1265 824,1380 647,1380 647,1510 657,1510 657,1562 104,1562 104,1380 103,1380 103,1327 104,1327 104,1135 103,1135 103,461 104,461 104,279 103,279"/>
+	<TextEquiv conf="0.95824">
+	<Unicode>QUESTÃO 35
+Uma empresa tem a sua sede em Natal e filiais em Brasília e
+Florianópolis. Em cada cidade, a empresa possui computadores que
+serão interligados. A seguir, encontram-se os requisitos que devem
+ser observados no projeto da rede.
+Requisito A: Em Natal, existem dois prédios. Para interligá-los,
+devem ser usados dispositivos que dividam o tráfego entre os prédios.
+Os dispositivos devem atuar na camada de enlace e a presença dos
+mesmos deve ser transparente às máquinas na rede.
+Requisito B: Em Brasília, há computadores em vários departamentos.
+Para interligar os departamentos, devem ser usados dispositivos que
+dividam o tráfego entre os departamentos e que possibilitem a
+comunicação simultânea entre esses departamentos.
+Requisito C: As redes em Natal, Brasília e Florianópolis devem ser
+interligadas por dispositivos que dividam o tráfego e que possibilitem
+a interligação de redes com diferentes protocolos da camada física.
+Para decidir os destinos dos dados, devem ser usados endereços de
+rede. Os dispositivos devem possibilitar que o tráfego seja filtrado.
+Requisito D: A rede deve usar TCP/IP. O endereço da rede será da
+classe B e um dos bytes identificará o segmento da rede localizado em
+cada cidade. Em cada segmento, servidores distribuirão
+automaticamente os endereços IP entre as máquinas.
+Requisito E: Os nomes das máquinas serão traduzidos em endereços
+IP por servidores em cada cidade. Esses servidores estarão
+organizados em uma hierarquia. Cada servidor será responsável por
+um ou por vários subdomínios.
+A seguir, encontram-se as decisões que foram tomadas para cada
+requisito.
+I Usar repetidores para atender ao requisito A.
+1 Usar comutadores (switches) para atender ao requisito B.
+III Usar roteadores para atender ao requisito C.
+IV Usar o endereço de rede 164.41.0.0, a máscara 255.255.0.0 e
+servidores DHCP para atender ao requisito D.
+V Configurar servidores Domain Name System (DNS) para
+atender ao requisito E.
+Estão corretas apenas as decisões
+O LIIelV. O M,IevV.
+O LHev. O NMLIVeV.
+O LINMelV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="103,1635 824,1635 824,1872 823,1872 823,1965 342,1965 342,2088 281,2088 281,2148 104,2148 104,1965 103,1965"/>
+	<TextEquiv conf="0.91204">
+	<Unicode>QUESTÃO 36
+João, ao tentar consertar o módulo eletrônico de um
+carrinho de brinquedos, levantou as características de um pequeno
+circuito digital incluso no módulo. Verificou que o circuito tinha
+dois bits de entrada, x, e x, e um bit de saída. Os bits xy e x,
+eram utilizados para representar valores de inteiros de O a 3
+(xo, o bit menos significativo e x, o bit mais significativo).
+Após testes, João verificou que a saída do circuito é O para
+todos os valores de entrada, exceto para o valor 2.
+Qual das expressões a seguir representa adequadamente o circuito
+analisado por João?
+O x and (notx,)
+O (not x,) or (not x)
+O (notx)andx,
+O x7andx,
+O x,or (not x)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="880,277 880,482 1534,482 1534,277"/></TableRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="902,168 1511,168 1511,514 1549,514 1549,831 1168,831 1168,895 989,895 989,1086 863,1086 863,514 902,514"/>
+	<TextEquiv conf="0.96390">
+	<Unicode>QUESTÃO 37
+O gerente de desenvolvimento de uma empresa de
+TI examinou a seguinte planilha sobre andamento de
+projetos.
+Com base nessa planilha e com relação aos conceitos de dado,
+informação e conhecimento, julgue os itens que se seguem.
+I O número 65, na célula inferior direita, é um dado.
+1 Associar o número 80 (célula inferior central) ao percentual
+completado (em %) e a P2, e concluir que o projeto P2 está
+80% completado é um conhecimento.
+III Dizer que P1 está adiantado ou atrasado é uma informação.
+IV Dizer o quanto Pl vai precisar a mais do que foi
+inicialmente previsto no orçamento é um conhecimento.
+Estão certos apenas os itens
+Tell.
+ITelV.
+Nem.
+NelVv.
+MelV.
+coçcoo</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="862,1164 1549,1164 1549,1873 1168,1873 1168,1939 989,1939 989,2129 903,2129 903,1939 863,1939 863,1514 862,1514"/>
+	<TextEquiv conf="0.96231">
+	<Unicode>QUESTÃO 38
+O objetivo da Teoria Geral dos Sistemas (TGS) é a formulação
+dos princípios válidos para os sistemas em geral, qualquer que
+seja a natureza dos elementos que os compõem e as relações ou
+forças existentes entre eles. Na área de sistemas de informação,
+diversos problemas requerem abordagem multidisciplinar para
+serem resolvidos. Por exemplo, na área de desenvolvimento de
+software, a especificação de requisitos apresenta vários desafios
+desse tipo, tais como aspectos de relacionamento interpessoal,
+conhecimento do negócio, resolução de conflitos, diferenças
+culturais etc. Os propósitos da TGS que podem contribuir para
+a resolução desses problemas incluem
+I o incentivo à especialização total das áreas do
+conhecimento.
+O o desenvolvimento dos princípios unificadores que
+transcendem o universo das ciências individuais.
+III a integração de contribuições de várias ciências na busca de
+solução dos problemas.
+IV o desenvolvimento de princípios únicos para cada área do
+conhecimento.
+V o desenvolvimento de estudos que visem à ampliação da
+separação entre as ciências naturais e sociais.
+Estão certos apenas os itens
+Tell.
+IeV.
+Nem.
+MelvV.
+IVevV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

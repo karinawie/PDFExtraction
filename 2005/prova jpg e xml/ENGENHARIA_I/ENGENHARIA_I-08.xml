@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T11:46:30</Created>
+	<LastChange>2020-11-13T12:42:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-08.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="931,854 931,1448 1588,1448 1588,854"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,386 1578,386 1578,599 1458,599 1458,760 1533,760 1533,791 1577,791 1577,842 132,842 132,843 131,843 131,724 93,724 93,693 85,693 85,600 83,600 83,511 84,511"/>
+	<TextEquiv conf="0.96253">
+	<Unicode>8
+O gás ozônio (O,) e os clorofluorcarbonos (CFCs) são exemplos da dificuldade de se classificar uma substância como
+poluente, pois podem trazer benefícios ou prejuízos à sociedade e aos seres vivos. O ozônio, nas camadas mais baixas da
+atmosfera, é tóxico, mas, na estratosfera, absorve radiação ultravioleta (UV) proveniente do Sol, evitando os efeitos nocivos do
+excesso dessa radiação nos seres vivos.
+Os CFCs apresentam baixa toxicidade e são inertes na baixa atmosfera. Entretanto, quando atingem a estratosfera, são
+decompostos pela radiação UV, liberando átomos e compostos que destroem moléculas de ozônio, sendo, portanto, conside-
+rados os principais responsáveis pela destruição do ozônio na estratosfera.
+De acordo com as idéias do texto acima,
+(A) os CFCs são nocivos ao seres vivos, pois impedem a incidência da radiação ultravioleta na superfície terrestre.
+B) a camada de ozônio é responsável pela maior incidência da radiação ultravioleta na superfície terrestre.
+o ozônio e os CFCs são os principais responsáveis pelas mudanças climáticas observadas nos últimos anos.
+a camada de ozônio na estratosfera tem sido recuperada devido às interações da radiação ultravioleta com os CFCs.
+a camada de ozônio protege os seres vivos do excesso de radiação ultravioleta e pode ser destruída pela ação dos CFCs
+na estratosfera.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="83,883 761,883 761,992 818,992 818,1268 849,1268 849,1314 709,1314 709,1359 127,1359 127,1361 127,1316 80,1316 80,1055 81,1055 81,992 83,992"/>
+	<TextEquiv conf="0.96467">
+	<Unicode>9
+De acordo com a fala do personagem na charge ao lado,
+(A) meio ambiente e produção industrial são fatores igualmen-
+te relevantes na discussão sobre ética e desenvolvimento.
+(B) a defesa da ética sobrepõe-se ao poder industrial, repre-
+sentado, na discussão, por Joana.
+(C) os estragos na camada de ozônio têm retardado a
+implementação de tecnologias voltadas para o desenvolvi-
+mento sustentável.
+(D) a camada de ozônio ameaça a indústria dos CFCs porque o
+gás O, reage com o cloro prejudicando a formação dos CFCs.
+(E) o discurso em defesa da ética na utilização de tecnologias “É verdade, Joana, a ameaça dos clorofluorcarbonos à camada de
+estimula o avanço industrial. ozônio pode ser séria, mas a ameaça da camada de ozônio à
+indústria dos clorofluorcarbonos é igualmente séria.”</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="83,1450 1578,1450 1578,1451 1579,1451 1579,1685 1577,1685 1577,2041 85,2041 85,2042 84,2042 85,2042 85,1804 84,1804 84,1686 83,1686"/>
+	<TextEquiv conf="0.95731">
+	<Unicode>10
+O supercomputador T-Rex (Tiranossauro Rex) e o software Harpia são as mais novas armas da Receita Federal do Brasil para
+combater a sonegação fiscal. Esse hardware, que realiza 2.860 milhões de instruções por segundo, é capaz de cruzar informa-
+ções, com rapidez e precisão, de um número de contribuintes equivalente ao de contribuintes do Brasil, dos EUA e da
+Alemanha juntos. O novo software vai permitir que, a partir de técnicas de inteligência artificial, sejam identificadas operações
+de risco para o fisco. A novidade do sistema é a capacidade que ele terá de aprender com o comportamento dos contribuintes
+e com isso detectar irregularidades.
+Folha de S.Paulo, p. B1, 16 out. 2005 (com adaptações).
+Considerando o texto acima, assinale a opção correta, relativa a informática.
+(A) A capacidade do T-Rex é equivalente à de 2.860 computadores pessoais de 1 GB de memória RAM, desde que suas
+capacidades possam ser adicionadas.
+(B) Para “cruzar informações, com rapidez e precisão”, o T-Rex poderá usar a Internet, que constitui meio inviolável de trans-
+missão de informação entre bancos de dados.
+(C) E possível que a capacidade de “aprender com o comportamento dos contribuintes”, mencionada no texto, seja decorrente
+do uso de redes neurais como ferramenta de inteligência artificial.
+(D) Embora os computadores sejam indispensáveis a diversos ramos da engenharia, o estágio atual do desenvolvimento
+de sistemas operacionais restringe o uso de redes de computadores a grandes empresas.
+(E) O sistema de informação descrito no texto deve ter sido desenvolvido em Linux ou Unix, que constituem linguagens de
+programação avançadas usadas na implementação de sistemas de informação complexos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

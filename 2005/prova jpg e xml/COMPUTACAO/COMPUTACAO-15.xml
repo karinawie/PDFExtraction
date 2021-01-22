@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:24:30</Created>
+	<LastChange>2020-11-13T11:55:52</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-15.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="162,171 1491,171 1491,249 827,249 827,250 418,250 418,366 1203,366 1203,396 1426,396 1426,426 1549,426 1549,477 827,477 827,478 104,478 104,479 103,479 103,307 162,307"/>
+	<TextEquiv conf="0.96460">
+	<Unicode>QUESTÃO 40
+Considere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se
+identificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do
+valor do aluguel a ser pago.
+Com relação a essa situação,
+a) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos)
+b) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos)
+c) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme
+reservado para outro cliente (filme não pode ser alugado ao cliente). (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

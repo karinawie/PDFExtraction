@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T11:20:17</Created>
+	<LastChange>2020-11-23T12:34:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-21.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r10">
+	<Coords points="824,188 824,2139 826,2139 826,188"/></SeparatorRegion>
+	<TextRegion id="r46" type="heading">
+	<Coords points="859,221 1551,221 1551,248 1550,248 1550,298 1549,298 1549,545 1550,545 1550,925 1109,925 1109,964 886,964 886,886 885,886 885,706 886,706 886,567 847,567 847,415 846,415 846,275 859,275"/>
+	<TextEquiv conf="0.89010">
+	<Unicode>QUESTÃO 42
+Um dos preceitos constitucionais estabelece como dever do poder
+público exigir, na forma da lei, estudo prévio de impacto
+ambiental para instalação de obra ou atividade potencialmente
+causadora de significativa degradação do meio ambiente. Nesse
+sentido, assinale a opção correta em relação ao Estudo de
+Impactos Ambientais (EIA).
+É um relatório técnico, elaborado por equipe multidisciplinar
+composta por membros do corpo técnico do empreendedor.
+Identifica e avalia os impactos ambientais gerados na fase de
+manutenção do projeto.
+Contempla todas as alternativas tecnológicas e de localização
+para execução do projeto, confrontando-as entre si.
+Contempla área geográfica a ser direta ou indiretamente
+afetada pelos impactos, denominada área de influência do
+projeto.
+O EIA é elaborado a partir das informações contidas na
+licença de operação.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="222,270 768,270 768,404 600,404 600,1011 768,1011 768,1491 772,1491 772,1592 806,1592 806,2068 320,2068 320,2120 143,2120 143,2068 142,2068 142,1514 103,1514 103,1491 142,1491 142,1045 143,1045 143,404 142,404 142,331 222,331"/>
+	<TableRegion id="r2">
+	<Coords points="97,511 97,948 811,948 811,511"/></TableRegion>
+	<TextEquiv conf="0.96552">
+	<Unicode>QUESTÃO 41
+Na tabela abaixo, são apresentados indicadores
+socioeconômicos dos estados a serem atendidos pela
+transposição das águas do rio São Francisco e a proporção
+de água a ser recebida com a transposição.
+Para avaliar a influência dos indicadores
+socioeconômicos na proporção de água a ser recebida, foi
+construído o modelo de regressão linear múltipla seguinte
+PAR = 0,0027 x PIB - 0,287 x MI + 25,46,
+em que PAR é a proporção de água a ser recebida, PIB é o
+produto interno bruto per capita e MI é a mortalidade
+infantil.
+Com relação às informações acima, assinale a opção correta.
+Quanto pior o indicador social, maior é a proporção de água
+a ser recebida.
+A influência dos indicadores socioeconômicos na distribuição
+de água a ser recebida é altamente significante.
+Os valores relativamente pequenos dos coeficientes das
+variáveis PIB e MI no modelo de regressão indicam que o
+coeficiente de regressão obtido é inaceitável.
+A água a ser recebida pelos estados é proporcional ao
+respectivo PIB.
+O modelo leva em conta a variação da mortalidade infantil ao
+longo do tempo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

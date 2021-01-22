@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T10:33:19</Created>
+	<LastChange>2021-01-18T02:12:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-10.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r36">
+	<Coords points="832,102 835,2150 840,2150 837,102"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="880,860 880,1128 1531,1128 1531,860"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="134,577 134,1100 797,1100 797,577"/></ImageRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="116,1680 825,1680 825,1710 823,1710 823,1802 325,1802 325,1839 153,1839 153,2114 104,2114 104,1803 103,1803 103,1739 116,1739"/>
+	<TextEquiv conf="0.89031">
+	<Unicode>QUESTÃO 16
+As informações acima permitem concluir que a taxa de
+evaporação de água no reservatório, nas 12 semanas observadas,
+foi maior na semana
+A 1.
+B 4.
+C 6.
+D 9.
+E 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords points="850,1143 1550,1143 1550,1348 1386,1348 1386,1460 1549,1460 1549,1672 1229,1672 1229,1736 1126,1736 1126,1907 1284,1907 1284,2084 1191,2084 1191,2131 891,2131 891,2132 890,2132 890,2085 851,2085 851,1814 889,1814 889,1673 851,1673 851,1144 850,1144"/>
+	<TextEquiv conf="0.94441">
+	<Unicode>QUESTÃO 18
+No mecanismo ilustrado na figura acima, uma placa metálica gira
+em torno de um eixo devido à aplicação de uma força F, que
+provoca o aparecimento de um torque. Com relação a esse
+mecanismo e sabendo que o momento de inércia de massa é
+definido pela integral sº dm, em que r é a distância do eixo ao
+elemento de massa dm, julgue os itens seguintes.
+I Quanto menor for o valor da distância d, maior deverá ser a
+força F necessária para vencer o atrito no eixo.
+II O momento de inércia de massa da placa metálica independe
+do valor da distância d.
+III O tempo necessário para se girar a placa do ponto OD ao
+ponto &amp; independe do torque.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+O Apenas os itens I e III estão certos.
+O Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords points="850,111 1551,111 1551,150 1549,150 1549,432 992,432 992,784 851,784 851,151 850,151"/>
+	<TextEquiv conf="0.74345">
+	<Unicode>QUESTÃO 17
+Para estimar a taxa de evaporação de água no reservatório, na
+24.º semana, considere que a umidade relativa do ar seja
+aproximada pelo valor médio dos dados da figura I e que a
+velocidade do vento seja aproximada por uma função periódica,
+com período igual a 6 semanas, obtida a partir dos dados da
+figura II. Qual das opções abaixo melhor estima essa taxa na
+24.º semana?
+A 3"
+B 80"
+C 210"
+D 480"
+E 1.080"</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="131,1127 131,1650 794,1650 794,1127"/></ImageRegion></Page></PcGts>

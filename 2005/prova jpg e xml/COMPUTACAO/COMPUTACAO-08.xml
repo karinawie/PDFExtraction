@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:10:17</Created>
+	<LastChange>2020-11-12T03:11:05</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-08.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r9">
+	<Coords points="840,697 841,2159 844,2159 843,697"/></SeparatorRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="103,770 823,770 823,1061 824,1061 824,2107 570,2107 570,2143 142,2143 142,2107 104,2107 104,975 103,975"/>
+	<TextEquiv conf="0.96382">
+	<Unicode>QUESTÃO 11
+Apesar de todo o desenvolvimento, a construção de computadores
+e processadores continua, basicamente, seguindo a arquitetura
+clássica de von Neumann. As exceções a essa regra encontram-se
+em computadores de propósitos específicos e nos desenvolvidos
+em centros de pesquisa. Assinale a opção em que estão
+corretamente apresentadas características da operação básica de
+um processador clássico.
+A Instruções e dados estão em uma memória física única; um
+programa é constituído de uma seqiiência de instruções de
+máquina; uma instrução é lida da memória de acordo com a
+ordem dessa sequência e, quando é executada, passa-se, então,
+para a próxima instrução na seqiiência.
+B Instruções e dados estão em memórias físicas distintas; um
+programa é constituído de um conjunto de instruções de
+máquina; uma instrução é lida da memória quando o seu
+operando-destino necessita ser recalculado; essa instrução é
+executada e o resultado é escrito no operando de destino,
+passando-se, então, para o próximo operando a ser recalculado.
+C Instruções e dados estão em uma memória física única; um
+programa é constituído de um conjunto de instruções de
+máquina; uma instrução é lida da memória quando todos os
+seus operandos-fonte estiverem prontos e disponíveis; essa
+instrução é executada e o resultado é escrito no operando de
+destino, passando-se, então, para a instrução seguinte que tiver
+todos seus operandos disponíveis.
+D Instruções e dados estão em memórias físicas distintas; um
+programa é constituído de um conjunto de instruções de
+máquina; uma instrução é lida da memória quando todos os
+seus operandos-fonte estiverem prontos e disponíveis; essa
+instrução é executada e o resultado é escrito no operando de
+destino, passando-se, então, para a instrução seguinte que
+estiver com todos os seus operandos disponíveis.
+E Instruções e dados estão em memórias físicas distintas; um
+programa é constituído de uma seqiiência de instruções de
+máquina; uma instrução é lida da memória de acordo com a
+ordem dessa seqiiência e, quando é executada, passa-se, então,
+para a próxima instrução na seqiiência.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="863,766 1549,766 1549,918 1550,918 1550,1258 1139,1258 1139,1361 1198,1361 1198,1392 1296,1392 1296,1503 903,1503 903,1504 863,1504 863,1017 864,1017 864,882 863,882"/>
+	<TextEquiv conf="0.95503">
+	<Unicode>QUESTÃO 12
+Um elemento imprescindível em um computador é o sistema de
+memória, componente que apresenta grande variedade de tipos,
+tecnologias e organizações. Com relação a esse assunto, julgue
+os itens seguintes.
+I Para endereçar um máximo de 2º palavras distintas, uma
+memória semicondutora necessita de, no mínimo, E bits de
+endereço.
+II Em memórias constituídas por discos
+magnéticos, as palavras estão organizadas em blocos, e cada
+bloco possui um endereço único, com base na sua
+localização física no disco.
+III A tecnologia de memória dinâmica indica que o conteúdo
+dessa memória pode ser alterado (lido e escrito), ao
+contrário da tecnologia de memória estática, cujo conteúdo
+pode apenas ser lido, mas não pode ser alterado.
+secundárias
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="863,1581 1543,1581 1543,1643 1549,1643 1549,1886 1168,1886 1168,1948 1022,1948 1022,2133 903,2133 903,2131 863,2131 863,1768 864,1768 864,1605 863,1605"/>
+	<TextEquiv conf="0.96116">
+	<Unicode>QUESTÃO 13
+Julgue os itens a seguir, acerca de algoritmos para ordenação.
+I O algoritmo de ordenação por inserção tem complexidade
+O(n x logn).
+1 Um algoritmo de ordenação é dito estável caso ele não altere
+a posição relativa de elementos de mesmo valor.
+IM No algoritmo quicksort, a escolha do elemento pivô
+influencia o desempenho do algoritmo.
+IV O bubble-sort e o algoritmo de ordenação por inserção
+fazem, em média, o mesmo número de comparações.
+Estão certos apenas os itens
+AI e II.BI e III.CII e IV.DI, III e IV.EII, III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

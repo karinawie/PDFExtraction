@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:15:35</Created>
+	<LastChange>2020-10-20T23:28:55</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-30.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,262 79,263 110,263 110,298 1573,298 1573,467 1574,467 1574,525 1573,525 1573,526 1572,526 1572,799 1574,799 1574,925 1573,925 1573,959 1274,959 1274,925 535,925 535,1379 78,1379 78,1378 79,1378 79,925 78,925 78,798 79,798 79,521 78,521 78,298 79,298"/>
+	<TextEquiv conf="0.96839">
+	<Unicode>QUESTÃO 13
+Em sistemas de refrigeração ou de geração de vapor, devem ser consideradas as possibilidades de corrosão dos equipamen-
+tos. As perdas econômicas decorrentes da corrosão podem representar milhões de reais. Um químico industrial foi solicitado
+a identificar possíveis causas de corrosão e propor soluções para os problemas identificados no sistema de refrigeração da
+indústria.
+a) Citeduas consequências da corrosão que caracterizam perdas econômicas.
+(valor: 3,0 pontos)
+b) Citeduas ações que servem para identificar se está ou não ocorrendo corrosão no sistema de refrigeração da indústria.
+(valor: 3,0 pontos)
+c) Umatubulação de ferro galvanizado, com diâmetro interno de 10 cm e comprimento de 1 m, apresenta sérios problemas de
+corrosão. A água está escoando com velocidade de 10 m/s e o fator de atrito foi estimado em 0,22. Considerando que o
+fator de atrito do tubo novo, com as mesmas especificações que o tubo corroído, é igual a 0,08, determine a razão entre a
+perda de carga do tubo corroído e a perda de carga do tubo novo.
+(valor: 4,0 pontos)
+Dados:
+2
+-sL V
+Me=1D&gt;2
+onde: ha = perda de carga
+V =velocidade de escoamento
+f =fatorde atrito
+L =comprimento do tubo
+D =diâmetro do tubo</Unicode></TextEquiv></TextRegion></Page></PcGts>

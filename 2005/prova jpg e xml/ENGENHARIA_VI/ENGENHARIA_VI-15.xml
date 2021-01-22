@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T04:32:06</Created>
+	<LastChange>2020-10-24T04:55:19</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-15.jpg" imageWidth="1656" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="465,280 465,434 1180,434 1180,280"/></TableRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="115,124 388,124 388,173 1491,173 1491,241 1461,241 1461,546 1491,546 1491,547 1492,547 1492,1059 1549,1059 1549,1224 103,1224 103,987 162,987 162,141 115,141"/>
+	<TextEquiv conf="0.87032">
+	<Unicode>QUESTÃO 33 — DISCURSIVA
+Uma empresa está refazendo seus planos de produção para o item X durante os próximos três meses. As quantidades
+a serem produzidas e os dias de trabalho propostos pela empresa são os seguintes:
+A jornada diária de trabalho atual é de 8 horas e são necessários 10 homens-hora para produzir uma unidade do item X.
+Com o objetivo de atender a quantidade total de produção por períodos de três meses, a empresa pratica atualmente
+a política de contratar e dispensar empregados de acordo com a variação das necessidades de produção, fabricando exatamente
+as quantidades necessárias em cada mês (política atual). A pedido dos empregados, a empresa está alterando a política atual
+para uma nova política, que é manter um número constante de empregados, que fabricariam a média das quantidades
+necessárias durante os três meses. Como parte da implantação da nova política, no início do mês 1, a empresa está negociando
+um plano de contingência com os atuais 220 empregados da linha de produção do item X, a fim de evitar a demissão da
+parcela dos empregados atuais que excede as necessidades mínimas para fabricar a média das quantidades propostas. As duas
+opções em estudo são:
+(1) aumentar as quantidades a produzir propostas pela empresa, ficando com os empregados a obrigação de
+participar do esforço de viabilizar a comercialização dos excedentes de produção;
+(2) manter as quantidades a produzir propostas pela empresa, diminuindo-se a jornada diária de trabalho atual.
+Com base nas informações acima, determine;
+a) oaumento de produção, durante os três meses, em relação ao total das quantidades a produzir propostas pela empresa, que evitaria
+as dispensas necessárias, no início do mês 1, com a nova política; (valor: 6,0 pontos)
+b) a nova jornada diária de trabalho, durante os três meses, que evitaria as dispensas necessárias, no início do mês 1, com a nova
+política, mantendo-se os 220 empregados atuais fabricando o item X nas quantidades a produzir propostas pela empresa.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:39:27</Created>
+	<LastChange>2021-01-18T02:52:09</LastChange></Metadata>
+	<Page imageFilename="FISICA-19.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r1" type="heading">
+	<Coords points="99,95 815,95 815,351 816,351 816,651 738,651 738,787 805,787 805,865 816,865 816,957 798,957 798,1070 815,1070 815,1094 813,1094 813,1161 587,1161 587,1232 412,1232 412,1354 417,1354 417,1428 476,1428 476,1541 814,1541 814,1918 815,1918 815,2099 814,2099 814,2222 225,2222 225,2193 163,2193 163,2170 225,2170 225,2068 163,2068 163,2044 225,2044 225,1942 163,1942 163,1918 225,1918 225,1815 163,1815 163,1792 225,1792 225,1689 163,1689 163,1594 162,1594 162,1541 163,1541 163,1232 162,1232 162,1127 163,1127 163,1070 474,1070 474,957 198,957 198,865 199,865 199,651 163,651 163,375 152,375 152,292 99,292"/>
+	<TextEquiv conf="0.96033">
+	<Unicode>QUESTÃO 31
+O Programa Nacional do Livro do Ensino Médio (PNLEM),
+recém lançado pelo Governo Federal, faz a avaliação dos
+livros didáticos e os recomenda, ou não, para a adoção
+pelas escolas públicas. No edital de convocação para
+aquisição de livros no ano de 2007 estão expostos alguns
+critérios eliminatórios, entre eles, o seguinte:
+“Respeitando as conquistas e o modo próprio de construção
+do conhecimento de cada uma das ciências de referência,
+assim como as demandas próprias da escola, a obra
+didática deve mostrar-se atualizada em suas informações
+básicas, e, respeitadas as condições da transposição
+didática, em conformidade conceitual com essas mesmas
+ciências. Em decorrência, sob pena de descaracterizar o
+objeto de ensino-aprendizagem e, portanto, descumprir sua
+função didático-pedagógica, será excluída a obra que:
+formular erroneamente os conceitos que veicule;
+fomecer informações básicas erradas e/ou desatualizadas;
+mobilizar de forma inadequada esses conceitos e informa-
+ções, levando o aluno a construir erroneamente conceitos e
+procedimentos.”
+(PNLEM, Anexo IX, p. 35-36, 2005).
+Suponha que três livros didáticos de física apresentem a
+expressão da relação da força de atrito cinético (Fat ) com
+a força normal (N ) da seguinte forma:
+Livro 1:Fy=-nN
+2 = =
+Livro IT: Fa =WN
+= =
+Livro III: | Fat | =u | N |
+Analisando essas expressões e baseados nos critérios
+apresentados, pode-se afirmar que
+(A) O livro I expressa a relação erroneamente PORQUE
+não assinala o caráter vetorial das forças envolvidas.
+(B)O livro II expressa a relação erroneamente PORQUE
+os vetores têm mesma direção, mas sentidos opostos.
+(C)O livro III expressa a relação erroneamente PORQUE
+não destaca o caráter vetorial das forças envolvidas.
+(D)O livro III expressa a relação corretamente PORQUE
+utiliza os módulos das forças sem atribuir-lhes sinal.
+(E)OS livros estão corretos PORQUE todas as expres-
+sões dadas são equivalentes.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20">
+	<Coords points="842,80 842,2228 851,2228 851,80"/></SeparatorRegion></Page></PcGts>

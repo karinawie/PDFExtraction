@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:34:06</Created>
+	<LastChange>2020-11-13T11:49:46</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-20.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="345,345 345,494 1337,494 1337,345"/></ImageRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="142,181 1511,181 1511,547 1512,547 1512,822 1549,822 1549,929 1118,929 1118,972 142,972 142,929 103,929 103,736 143,736 143,329 142,329"/>
+	<TextEquiv conf="0.96474">
+	<Unicode>QUESTÃO 55
+O grande desejo de todos os desenvolvedores de programas é utilizar quantidades ilimitadas de memória que, por sua vez,
+seja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve
+uma hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de
+informação e o tempo típico de acesso à informação armazenada.
+Como pode ser visto no diagrama acima, registradores do processador e memória cache operam com tempos distintos, o
+mesmo ocorrendo com a memória principal com relação à memória cache, e com a memória secundária com relação à memória
+principal.
+Considerando as informações acima apresentadas, responda às seguintes perguntas.
+a) Que características um programa deve ter para que o uso de memória cache seja muito vantajoso? (valor: 4,0 pontos)
+b) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se
+utilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria
+vantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

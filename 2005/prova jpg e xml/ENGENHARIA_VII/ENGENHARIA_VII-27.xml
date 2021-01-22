@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T08:19:17</Created>
+	<LastChange>2020-11-13T19:14:04</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-27.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="824,188 824,775 826,775 826,188"/></SeparatorRegion>
+	<ImageRegion id="r8">
+	<Coords points="1388,890 1388,922 1446,922 1446,890"/></ImageRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="94,191 94,757 811,757 811,191"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 51
+Com relação à produção em reservatórios de petróleo, a queda
+acentuada da pressão
+A é característica do mecanismo de produção de capa de gás.
+B é característica do mecanismo de produção de influxo ativo de
+água.
+C é característica do mecanismo de produção de gás em
+solução.
+D ocorre em uma taxa que independe do volume do
+reservatório.
+E revela a existência de problemas técnicos intrínsecos ao
+método de produção que independem das características do
+reservatório.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="840,188 840,760 1568,760 1568,188"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 52
+Levando em conta os conceitos apresentados na literatura
+especializada, referente à classificação de campos petrolíferos,
+assinale a opção correta.
+A Campos marginais são aqueles que não entraram em produção
+porque ainda não são economicamente viáveis.
+B Campos marginais são também considerados aqueles que têm
+baixa produção de óleo e vida útil muito curta.
+C Campos maduros são aqueles que, já tendo produzido grandes
+quantidades de óleo, estão à beira da exaustão.
+D Campos marginais são aqueles em que a fração de óleo
+recuperado aproxima-se do fator de recuperação final.
+E Campos marginais são aqueles reservatórios que circundam
+os campos principais.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="85,777 85,1351 994,1351 994,777"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 53 – DISCURSIVA
+Uma empresa adquiriu, em licitação, um campo de
+petróleo onde havia um poço como o mostrado na figura ao lado.
+Esse poço, que está equipado com árvore de natal e abandonado, tem
+650 m de profundidade, está completamente revestido e sua
+produção de gás e água é desprezível.
+Para que esse poço volte a ser produtivo, descreva:
+a) as principais autorizações governamentais necessárias para a reentrada no
+poço; (valor: 2,0 pontos)
+b) o tipo de intervenção necessária para a reentrada; (valor: 4,0 pontos)
+c) os tipos de elevação artificial que podem ser usados nesse tipo de poço.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r3">
+	<Coords points="994,820 994,1317 1554,1317 1554,820"/></ImageRegion></Page></PcGts>

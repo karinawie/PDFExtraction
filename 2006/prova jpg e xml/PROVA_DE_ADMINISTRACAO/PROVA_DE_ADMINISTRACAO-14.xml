@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T16:03:55</Created>
+	<LastChange>2020-09-21T16:04:41</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_ADMINISTRACAO-14.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="822,232 823,2150 826,2150 825,232"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="832,232 833,2150 835,2150 834,232"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="854,448 854,1040 1594,1040 1594,448"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="54,1688 54,1957 811,1957 811,1688"/></ImageRegion>
+	<TableRegion id="r2">
+	<Coords points="80,688 80,1057 800,1057 800,688"/></TableRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="84,231 277,231 277,275 809,275 809,671 808,671 808,1149 584,1149 584,1245 275,1245 275,1278 83,1278 83,275 84,275"/>
+	<TextEquiv conf="0.96730">
+	<Unicode>QUESTÃO 30
+A Cia. Alonso de Auto Peças Lida. distribui peças para ofici-
+nas de reparo de automóveis localizadas em grande área
+metropolitana. Embora se trate de um mercado competitivo,
+a Cia. Alonso gostaria de oferecer níveis de estoque adequa-
+dos às oficinas atendidas, ao mesmo tempo em que deseja
+maximizar seus lucros. Ela é sabedora de que, à medida que
+aumenta a percentagem média de atendimentos aos clientes
+(nível de serviço), maior é seu custo de estoques.
+A fim de determinar a influência dos níveis de estoque no
+percentual de atendimento aos clientes, a Alonso fez um
+levantamento dos principais itens de seu estoque nos últimos
+seis meses. A seguinte tabela foi preparada:
+A partir dos dados apresentados nessa tabela, pode-se
+concluir que o maior lucro ocorrerá quando o nível de serviço
+for equivalente a
+(A) 80%.
+(B) 85%.
+(C) 90%.
+(D) 95%.
+(E) 98%.
+
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,1316 273,1316 273,1362 808,1362 808,1680 807,1680 807,2041 601,2041 601,2113 215,2113 215,2150 84,2150 84,2041 83,2041 83,1362 84,1362"/>
+	<TextEquiv conf="0.96884">
+	<Unicode>QUESTÃO 31
+Observe a figura que se segue, onde a capacidade de produ-
+ção de cada operação está representada em unidades por
+hora (un/h). MP A representa a matéria-prima A, que recebe
+seguidamente as operações A1, A2 e A3. MP B representa a
+matéria-prima B, que recebe seguidamente as operações
+B1 e B2. C1 representa a operação de montagem dos com-
+ponentes produzidos a partir de 3 unidades da matéria-prima
+A e 2 da matéria-prima B. C2 representa a operação que dá o
+acabamento final ao produto.
+Sabendo que a demanda do mercado é de 12 un/h, de
+quanto é a produção máxima de produtos acabados?
+(A) 12 un/h 
+(B) 10 un/h
+(C) 9un/h 
+(D) 5un/h
+(E) 3un/h</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="855,235 1048,235 1048,290 1577,290 1577,411 1502,411 1502,1211 1577,1211 1577,1797 1578,1797 1578,1986 1556,1986 1556,2093 1279,2093 1279,2147 856,2147 856,1770 855,1770 855,1388 854,1388 854,1211 855,1211 855,411 854,411 854,290 855,290"/>
+	<TextEquiv conf="0.96820">
+	<Unicode>QUESTÃO 32
+A figura abaixo representa os custos de diferentes formas de
+processos de produção (celular, automatizada e intermitente),
+e a receita de vendas de um determinado produto.
+Considerando a figura, analise as afirmações a seguir.
+Se for esperado um volume de produção abaixo de 10.000, a
+manufatura intermitente é a preferível; entre 10.000 e 43.000,
+a manufatura celular é a preferível; acima de 43.000, a manu-
+fatura automatizada é a preferível.
+PORQUE
+Os pontos de equilíbrio (quantidade/valor para os quais as
+receitas igualam os custos) são de 27.000, 30.000 e 40.000,
+respectivamente, para as manufaturas celular, automatizada
+eintermitente.
+A respeito das informações acima, conclui-se que
+(A) as duas afirmações são verdadeiras, e a segunda justifi-
+ca a primeira.
+(B) as duas afirmações são verdadeiras, e a segunda não
+justifica a primeira.
+(O) a primeira afirmação é verdadeira, e a segunda é falsa.
+(D) a primeira afirmação é falsa, e a segunda é verdadeira.
+(E) as duas afirmações são falsas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

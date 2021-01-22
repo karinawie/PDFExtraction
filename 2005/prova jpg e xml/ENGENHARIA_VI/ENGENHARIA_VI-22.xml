@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T07:30:37</Created>
+	<LastChange>2021-01-18T02:21:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-22.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="824,102 824,2157 826,2157 826,102"/></SeparatorRegion>
+	<TextRegion id="r26" type="heading">
+	<Coords points="859,122 1551,122 1551,150 1549,150 1549,259 1523,259 1523,388 1549,388 1549,1232 1115,1232 1115,1276 886,1276 886,406 847,406 847,309 846,309 846,187 859,187"/>
+	<TextEquiv conf="0.88116">
+	<Unicode>QUESTÃO 49
+O comportamento e o tempo de vida útil de metais, cerâmicas e
+polímeros dependem das condições ambientais a que estão
+expostos. No tocante a esse assunto, assinale a opção correta.
+A Metais mantêm suas propriedades mecânicas mesmo sob
+temperaturas acima da metade da temperatura de seu ponto de
+fusão, o que torna esses materiais os mais indicados para uso
+em altas temperaturas.
+B A degradação em meio líquido ocorre somente em materiais
+metálicos, uma vez que cerâmicas e polímeros são resistentes
+à corrosão.
+C Quando materiais metálicos e cerâmicos são submetidos a
+solicitação mecânica constante, em temperaturas acima da
+metade de sua temperatura de fusão, ocorre o mecanismo de
+deformação conhecido como fadiga.
+D A temperatura pode afetar a estabilidade química e as
+propriedades mecânicas de materiais, mas não tem efeito
+sobre propriedades elétricas, ópticas e magnéticas.
+E O aumento de temperatura provoca uma contínua redução do
+módulo de elasticidade dos materiais. Na faixa da temperatura
+de transição vítrea (Tg) para polímeros e vidros, esse efeito é
+bem mais acentuado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords points="859,1326 1551,1326 1551,1357 1549,1357 1549,1812 1429,1812 1429,1970 1420,1970 1420,2082 1310,2082 1310,2138 886,2138 886,2133 847,2133 847,1812 846,1812 846,1357 845,1357 859,1357"/>
+	<TextEquiv conf="0.48212">
+	<Unicode>QUESTÃO 50
+Considere que um engenheiro de produção de materiais recebeu
+como tarefa supervisionar a fabricação de um espelho semelhante
+ao utilizado no telescópio espacial Hubble, mas com a finalidade
+de ser instalado no deserto de Atacama, no Chile. Nessa região,
+a diferença de temperatura entre o dia e a noite pode chegar a
+100 ºC. Após o espelho ter sido produzido e instalado no local,
+ocorreu uma ruptura no mesmo em razão de um processo de
+choque térmico. O engenheiro responsável apontou,
+corretamente, que esta ruptura esteve associada aos fenômenos de
+A expansão/contração térmica e resistência elétrica.
+B fadiga e condução elétrica.
+C expansão/contração térmica e condução elétrica.
+D expansão/contração térmica e condução térmica.
+E deformação viscosa com fratura frágil.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="103,170 806,170 806,405 807,405 807,1077 104,1077 104,359 103,359"/>
+	<TextEquiv conf="0.96493">
+	<Unicode>QUESTÃO 47
+Na obtenção de produtos úteis ao homem, é fundamental a
+relação existente entre os três elementos básicos da ciência dos
+materiais: estrutura, propriedade e processamento. Cada uma das
+opções abaixo contém duas asserções ligadas pela palavra
+porque. Assinale a opção em que as duas asserções são
+verdadeiras, e a segunda é uma justificativa correta da primeira.
+O Produtos cerâmicos não podem ser fabricados por processos
+que dependem da ocorrência de deformação plástica no
+material porque as matérias-primas utilizadas para fabricação
+de cerâmicas convencionais são naturais.
+O Conhecido como encruamento, a laminação a frio de metais
+aumenta a sua dureza porque ocorre diminuição do tamanho
+de grão do metal durante a laminação a frio.
+O A consolidação dimensional de produtos cerâmicos obtidos
+por prensagem ocorre durante a queima porque a diminuição
+de porosidade advinda da sinterização leva a um aumento da
+resistência mecânica de cerâmicas.
+O O controle da temperatura e da concentração do iniciador
+durante a síntese de polímeros influencia o limite de
+resistência à tração desse tipo de material porque o controle
+desses parâmetros afeta a massa molar média do polímero
+obtido.
+O Peças metálicas obtidas por fundição apresentam tamanho de
+grão menor do que peças do mesmo componente processado
+por forjamento porque a solidificação de metais acarreta a
+formação de um material policristalino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="102,1108 808,1108 808,1148 806,1148 806,2141 104,2141 104,1423 103,1423 103,1148 102,1148"/>
+	<TextEquiv conf="0.46899">
+	<Unicode>QUESTÃO 48
+No campo da ciência de materiais, defeito ou imperfeição
+estrutural indica a ocorrência de interrupção, irregularidade ou
+desarranjo na estrutura do material. A presença de imperfeições
+não implica necessariamente efeito negativo sobre as suas
+propriedades. Pelo contrário, defeitos podem ser introduzidos,
+intencionalmente, para produzir determinado conjunto de
+propriedades. A respeito de imperfeições estruturais e seus efeitos
+sobre o comportamento de materiais, assinale a opção incorreta.
+O Lacunas são imperfeições no arranjo atômico, geralmente
+presentes em materiais metálicos e cerâmicos, que
+possibilitam a ocorrência do mecanismo de difusão atômica,
+necessário para a maioria dos processos de transformação de
+fase.
+O O contorno de grão — imperfeição estrutural tipicamente
+presente em materiais monocristalinos — permite o controle
+de propriedades mecânicas. Reduzindo o tamanho de grão, é
+possível diminuir o limite de resistência de materiais.
+O A deformação plástica de metais, por meio da qual realizam-
+se diversos processos de conformação mecânica, como a
+laminação, por exemplo, ocorre por meio do movimento de
+discordâncias ou deslocações.
+O A presença de poros pode ser desejável, dependendo da
+aplicação do material. Poros podem ser introduzidos
+intencionalmente, por exemplo, para reduzir a condutividade
+térmica de materiais.
+O A adição intencional de impurezas em um material, mesmo
+em pequenas quantidades, pode afetar significativamente suas
+propriedades ópticas e elétricas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

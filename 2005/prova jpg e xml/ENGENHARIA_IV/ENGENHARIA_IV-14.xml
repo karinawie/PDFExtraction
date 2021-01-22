@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T03:22:34</Created>
+	<LastChange>2020-10-23T22:03:10</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-14.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r8">
+	<Coords points="853,102 854,2148 857,2148 856,102"/></SeparatorRegion>
+	<TextRegion id="r49" type="paragraph">
+	<Coords points="921,877 1015,877 1015,902 1513,902 1513,1136 1499,1136 1499,1238 1551,1238 1551,1611 915,1611 915,1545 876,1545 876,1174 914,1174 914,949 921,949"/>
+	<TextEquiv conf="0.96179">
+	<Unicode>QUESTÃO 32
+A operação de secagem de sementes deve ser
+cuidadosamente planejada para garantir a manutenção da
+viabilidade das mesmas. Considere um lote de sementes
+de arroz com umidade inicial de 22%, que deve ser
+reduzida a cerca de 13%, em temperaturas ao redor de
+50 “ºC. E sabido que essas sementes não podem ser
+submetidas a temperaturas muito elevadas por longos
+períodos de tempo.
+Com referência a essa situação, assinale a opção correta.
+A secagem pode ser feita com ar ambiente não aquecido,
+forçando-se o fluxo de ar através das sementes para
+aumentar a taxa de secagem.
+O emprego de ar aquecido a temperatura acima de 50 ºC
+reduz a viabilidade das sementes.
+A umidade de equilíbrio da semente com o ar não tem
+efeito sobre as condições de secagem.
+É possível atender às condições descritas utilizando-se ar
+a 60 ºC, com temperatura de bulbo úmido de 45 ºC.
+A vazão do ar pode controlar a temperatura da semente
+abaixo de 50 ºC, independentemente da temperatura e da
+umidade do ar empregado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="921,130 1002,130 1002,155 1512,155 1512,428 1550,428 1550,851 915,851 915,759 914,759 914,676 915,676 915,574 914,574 914,508 876,508 876,369 914,369 914,202 921,202"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>QUESTÃO 31
+Uma indústria processa raízes de mandioca para
+fabricação de amido (polvilho doce). Animado com o
+aumento da demanda, o proprietário resolve adquirir
+centrífugas modernas para a separação do polvilho da
+suspensão, em substituição ao tradicional processo de
+sedimentação em tanques.
+Acerca dessa situação, assinale a opção correta.
+A modernização de equipamentos é imprescindível para a
+melhora da qualidade do polvilho.
+A ação da força centrífuga sobre as partículas diminui o
+efeito da diferença de densidade sobre a eficiência da
+separação.
+Apesar da demora na obtenção do produto, a separação
+lenta por sedimentação permite a obtenção de polvilho
+mais puro.
+A maior velocidade de separação obtida pelo processo de
+centrifugação é o único critério que compensa o custo
+elevado dos equipamentos.
+Essa substituição, que assegura mais eficiência e
+capacidade de produção, é indicada para produção em
+larga escala.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="97,171 97,380 837,380 837,171"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="116,130 837,130 837,590 836,590 836,1035 104,1035 104,590 103,590 103,161 102,161 116,161"/>
+	<TextEquiv conf="0.85309">
+	<Unicode>QUESTÃO 29
+A tabela acima mostra dados relacionados à produção de biodísel a
+partir de duas espécies oleaginosas. Considerando que o biodísel
+seja produzido por transesterificação com 100% de rendimento, e
+admitindo-se que os custos operacionais e de venda do biodísel
+sejam, para ambos os tipos de matéria-prima, de US$ 0,10
+por quilograma, é correto afirmar que
+O oteorde óleo na mamona é o fator que torna essa matéria-prima
+mais lucrativa que a soja na produção e na comercialização de
+biodísel e seus co-produtos.
+O o6óleode mamona é economicamente mais viável que o de soja
+na produção de biodísel.
+O o ganho obtido com o farelo de mamona é mais significativo
+para a viabilidade econômica do processo que o ganho obtido
+com o farelo de soja.
+O o biodísel de óleo de soja tem forte apelo social uma vez que
+esta, ao contrário da mamona, é uma cultura que emprega muita
+mão-de-obra.
+O a produção a partir de óleo de soja só é viável se o preço de
+venda do biodísel for superior a US$ 0,35 por quilograma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="116,1060 837,1060 837,1090 835,1090 835,1259 836,1259 836,1495 835,1495 835,2115 104,2115 104,1495 103,1495 103,1107 116,1107"/>
+	<TextEquiv conf="0.88365">
+	<Unicode>QUESTÃO 30
+Para uma mistura gasosa binária A+B, o fluxo molar do componente
+A na direção z (N,, mol * s '- m?) pode ser calculado pela expressão
+N+N;
+Cc
+o A
+N, - Dz + de +Ce,
+Nessa equação, o primeiro termo do lado direito do sinal de
+igualdade representa a contribuição da transferência de massa por
+difusão (molecular e turbulenta), e o segundo, o fluxo convectivo
+total em relação a um ponto estacionário. No caso de contradifusão
+equimolar, N, = -Nrp. Assim, a equação pode ser simplificada para
+N,=k(c1,)-C12), sendo k!. o coeficiente de transferência de massa
+experimental. Para difusão de A através de B estagnante, não
+difundindo, N; = O. Nesse contexto, assinale a opção incorreta.
+O Os coeficientes de transferência de massa para contradifusão
+equimolar e através de B estagnante são diferentes na equação
+Na = ke Cn):
+O As equações de transferência de massa para gases e líquidos são
+as mesmas, expressando-se os coeficientes em unidades
+apropriadas para cada caso.
+O O coeficiente de transferência de massa a partir de um sólido
+pouco solúvel pode ser determinado submetendo-se esse
+material a um fluxo de solvente por determinado período de
+tempo, medindo-se a massa perdida e aplicando-se a equação
+simplificada de N,.
+O A velocidade de agitação, ou de escoamento, tem pouco efeito
+sobre o coeficiente de transferência de massa, o que justifica o
+fato de não haver parâmetros relacionados a ela nas equações
+apresentadas.
+O No caso de acidente ambiental localizado que envolva
+contaminação em um ponto das margens de um lago com resíduo
+sólido, o conhecimento do equilíbrio de solubilidade é um dos
+elementos necessários para avaliação do impacto ambiental.</Unicode></TextEquiv></TextRegion></Page></PcGts>

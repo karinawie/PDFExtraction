@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T02:42:10</Created>
+	<LastChange>2020-10-21T03:03:24</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r20">
+	<Coords points="90,1078 91,1741 1227,1740 1226,1077"/></ImageRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="80,953 641,953 641,1777 1181,1777 1181,1897 1279,1897 1279,1963 357,1963 357,2092 376,2092 376,2118 277,2118 277,2156 81,2156 81,2157 80,2157 80,1897 81,1897 81,1020 80,1020"/>
+	<TextEquiv conf="0.95650">
+	<Unicode>QUESTÃO 22
+Considere os cinco trechos melódicos abaixo.
+Pelo menos três deles correspondem a melodias populares da música de concerto.
+Il - Pelomenos dois deles correspondem a clássicos da música popular.
+Il - Em pelo menos três deles a tonalidade implícita é certamente maior.
+IV - Em pelo menos três deles não é possível inferir se a tonalidade implícita é maior ou menor.
+Está correto o que consta em
+(A) L,Ilelll, somente.
+(B) lelll, somente.
+(C) IlelV, somente.
+(D) Il, Ill e IV, somente.
+(E) LI, NM elV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="80,240 1068,240 1068,338 1574,338 1574,670 472,670 472,722 319,722 319,926 80,926 80,696 81,696 81,313 80,313"/>
+	<TextEquiv conf="0.96521">
+	<Unicode>QUESTÃO 21
+Considere a primeira estrofe do Hino Nacional Brasileiro e as afirmativas abaixo:
+Ouviram do Ipiranga as margens plácidas
+De um povo heróico o brado retumbante
+E o sol da liberdade em raios fúlgidos
+Brilhou no céu da pátria nesse instante
+| - As notas da melodia correspondentes às sílabas sublinhadas são aproximações por semitom ascendente,
+respectivamente, em relação ao quinto e ao terceiro graus da tonalidade.
+Il - Aterceira sílaba da palavra “Ipiranga” coincide com o quarto tempo do compasso quaternário.
+Ill - As duas primeiras notas da melodia formam um intervalo de quarta justa entre o primeiro e o quarto graus da
+tonalidade.
+Está correto o que se afirma em
+(A) |, somente.
+(B) Il, somente.
+(C) Ill, somente.
+(D) lell, somente.
+(E) Lilelll.</Unicode></TextEquiv></TextRegion></Page></PcGts>

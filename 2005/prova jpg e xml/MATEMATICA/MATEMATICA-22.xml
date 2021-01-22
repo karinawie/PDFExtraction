@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:57:01</Created>
+	<LastChange>2021-01-18T03:20:04</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-22.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="814,103 816,2135 820,2135 818,103"/></SeparatorRegion>
+	<ImageRegion id="r7">
+	<Coords points="957,196 958,586 1445,586 1444,196"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="992,1104 992,1550 1412,1550 1412,1104"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="954,620 954,1077 1437,1077 1437,620"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="91,517 91,848 651,848 651,517"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="85,857 85,1154 648,1154 648,857"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="82,1160 82,1494 662,1494 662,1160"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="85,1494 85,1777 660,1777 660,1494"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="82,1782 82,2102 645,2102 645,1782"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="884,131 1552,131 1552,158 1550,158 1550,1703 1551,1703 1551,1727 1550,1727 1550,1773 1515,1773 1515,2014 1388,2014 1388,2063 1383,2063 1383,2111 877,2111 877,2105 838,2105 838,1586 884,1586"/>
+	<TextEquiv conf="0.83691">
+	<Unicode>QUESTÃO 48
+As figuras 1, II e III ilustram, respectivamente, os gráficos das
+8x, y) =X +) ehlx,y)= (x? +y?
+(com (x, y) * (0, O0)). Para as superfícies regulares S,, S, e S;
+funções f (x, y) =
+determinadas pelos gráficos de /, g e h, respectivamente, é correto
+afirmar que
+S, tem curvatura gaussiana nula em p = (0,0,0).
+S, tem um ponto em que a curvatura gaussiana é negativa.
+S, tem curvatura gaussiana nula em todos os pontos.
+S, tem curvatura gaussiana constante negativa.
+S, tem curvatura gaussiana constante positiva.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="116,134 144,134 144,179 798,179 798,443 799,443 799,497 104,497 104,498 103,498 103,179 116,179"/>
+	<TextEquiv conf="0.08265">
+	<Unicode>QUESTÃO 47
+Considere um circuito elétrico composto por uma fonte com
+tensão constante de E volts em série com um resistor de
+resistência igual a R ohms e uma bobina de indutância de valor L
+henrys. O comportamento do sistema pode ser descrito pela
+seguinte equação diferencial:
+E = Ri(l) + 1 20,
+dt
+em que i(1) é a corrente do circuito em função do tempo s1. Nessas
+condições, sabendo que i(0) = O, assinale a opção que melhor
+esboça o comportamento da corrente i(f).</Unicode></TextEquiv></TextRegion></Page></PcGts>

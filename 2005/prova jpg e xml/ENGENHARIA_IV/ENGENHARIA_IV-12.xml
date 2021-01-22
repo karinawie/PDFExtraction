@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T09:23:08</Created>
+	<LastChange>2021-01-18T01:43:06</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-12.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r4">
+	<Coords points="854,191 854,2152 856,2152 856,191"/></SeparatorRegion>
+	<TextRegion id="r11" type="heading">
+	<Coords points="103,210 502,210 502,308 798,308 798,703 639,703 639,805 707,805 707,923 798,923 798,1133 757,1133 757,1250 845,1250 845,1271 816,1271 816,1269 676,1269 676,1386 798,1386 798,1549 832,1549 832,1577 104,1577 104,1549 142,1549 142,1235 101,1235 101,1202 142,1202 142,923 240,923 240,749 142,749 142,232 103,232"/>
+	<TextEquiv conf="0.96463">
+	<Unicode>Texto para as questões de 21 a 25.
+O Brasil se destaca por possuir o maior percentual de
+energia renovável na matriz energética (acima de 40%). Cabe
+ressaltar a perspectiva concreta de ampliar ainda mais esse
+percentual em curto prazo, com o aumento da participação de
+biocombustíveis. O maior programa de uso de biocombustíveis
+em nível mundial foi o PRO-ÁLCOOL, criado em 1975 com
+o intuito de encontrar uma alternativa energética ao petróleo.
+Desde então, diversas usinas foram instaladas no país para a
+produção de álcool etílico a partir da fermentação de açúcares,
+conforme a equação | abaixo, não-balanceada.
+C HO, 22H2ÉD CHOH+CO, — (D
+a
+Atualmente, o Brasil se prepara para introduzir um
+novo combustível em sua matriz energética: o biodísel. Este
+pode ser obtido pela reação de transesterificação de óleos
+vegetais ou esterificação de ácidos graxos com etanol, de
+acordo com as equações abaixo, não-balanceadas.
+O
+o
+CHE OE o
+CHCHOH o
+anliado — RÉ oC, :
+E "OR
+O.
+o caalicado
+=
+EK
+RE A a o a ii
+Na fabricação de biodísel, um dos catalisadores usuais
+é o etóxido de sódio, preparado a partir de etanol e hidróxido
+de sódio, conforme a equação abaixo.
+CH,CH,OH + NaOH ===&gt; CH,CHO-Ná+ HO, 4H&lt;0 (UM)
+mm</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="heading">
+	<Coords points="116,1609 837,1609 837,1640 836,1640 836,2091 458,2091 458,2126 143,2126 143,2043 142,2043 142,1836 104,1836 104,1675 103,1675 103,1653 116,1653"/>
+	<TextEquiv conf="0.81175">
+	<Unicode>QUESTÃO 21
+Considerando a reação de formação do etóxido de sódio e as
+informações do texto, assinale a opção incorreta.
+A reação (III) envolve uma reação de neutralização ácido-base.
+A presença de água nas matérias-primas é indesejável, pois
+diminui a concentração de catalisador no reator.
+A passagem de um fluido refrigerante na camisa do reator
+ocasiona a diminuição da concentração de hidróxido de sódio.
+Após atingido o equilíbrio, cessam as reações nos sentidos direto
+e inverso.
+É possível incrementar a concentração de catalisador no reator,
+utilizando excesso de etanol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="932,215 1552,215 1552,246 1550,246 1550,399 1308,399 1308,503 1550,503 1550,650 1549,650 1549,837 1550,837 1550,1130 1472,1130 1472,1163 876,1163 876,630 875,630 875,437 876,437 876,246 875,246 932,246"/>
+	<TextEquiv conf="0.74749">
+	<Unicode>QUESTÃO 22
+A fermentação alcoólica, usada para a produção de etanol a
+partir de glicose, pode ser realizada pela ação catalítica de
+enzimas conhecidas como zimases. Como na maioria dos
+processos catalíticos enzimáticos, a cinética dessa reação pode
+ser descrita pela equação de Michaelis-Menten:
+d[P
+72 dm)
+dt
+em que v é a velocidade da reação, [P] e [E] são,
+respectivamente, as concentrações do produto e da enzima, e
+k é uma constante cujo valor pode ser calculado pela expressão
+k, IS]
+= . Nesta expressão, &amp;, e À,, são as constantes
+CRS]
+cinéticas da reação e [S] é a concentração do substrato.
+=ÁK[El,
+Considerando essas informações, bem como aquelas do texto,
+assinale a opção correta, acerca de fermentação alcoólica.
+O Microrganismos produtores de zimases são preferíveis a
+enzimas puras para esse tipo de aplicação, porque eles
+acarretam menores custos à produção de etanol.
+O De acordo com a equação de Michaelis-Menten, a
+velocidade da enzimólise varia linearmente com a
+concentração do substrato no meio.
+O À medida que a concentração de glicose diminui, a
+velocidade da reação se aproxima de um valor constante.
+O As zimases afetam a constante de equilíbrio da reação de
+transformação de glicose em álcool.
+O A velocidade da reação independe da temperatura.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r46" type="paragraph">
+	<Coords points="888,1187 1552,1187 1552,1217 1550,1217 1550,1485 1508,1485 1508,1587 1550,1587 1550,1634 1508,1634 1508,1704 876,1704 876,1485 875,1485 875,1232 888,1232"/>
+	<TextEquiv conf="0.92551">
+	<Unicode>QUESTÃO 23
+A reação de transesterificação do óleo de soja com etanol
+utilizando-se etóxido de sódio como catalisador homogêneo é
+empregada para obtenção de biodísel. Em uma reação típica
+realizada em processo batelada, a 80 ºC e sob agitação,
+obtêm-se, em 2 horas de reação, conversões de 95% a 100%.
+Considerando essas informações, bem como aquelas fornecidas
+no texto, a configuração de planta industrial mais adequada
+para a produção de 24 m /dia de biodísel, admitindo-se um
+rendimento de 100%, é aquela com reator do tipo
+O tubular, encamisado, com tempo de residência de 1 h.
+O tanque agitado, encamisado, com capacidade de 2 m?.
+O tanque contínuo agitado, encamisado, com capacidade de
+4m.
+O leito fixo, encamisado, com capacidade de 4 mº.
+O tanque agitado, encamisado, com capacidade de 3 m”.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="888,1728 1016,1728 1016,1774 1550,1774 1550,1941 961,1941 961,2126 876,2126 876,1941 875,1941 875,1774 888,1774"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>QUESTÃO 24
+Considere a reação de fermentação da glicose apresentada no
+texto. Considere também que a corrente de entrada em um
+fermentador possui apenas glicose como fonte de carbono.
+Nessa situação, se o rendimento global da reação for de 50%,
+a relação entre a massa de carbono na corrente de entrada e a
+massa de carbono no etanol produzido será de
+A 1 : 3
+B 1 : 6
+C 2 : 1
+D 3 : 1
+E 6 : 1</Unicode></TextEquiv></TextRegion></Page></PcGts>

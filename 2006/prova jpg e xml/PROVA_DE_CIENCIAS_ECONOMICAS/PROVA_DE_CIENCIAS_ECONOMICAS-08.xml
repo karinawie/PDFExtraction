@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T00:46:02</Created>
+	<LastChange>2020-10-21T00:56:14</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_CIENCIAS_ECONOMICAS-08.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="823,232 821,2150 825,2150 827,232"/></SeparatorRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="833,232 831,2150 834,2150 836,232"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="85,982 85,1368 791,1368 791,982"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,308 80,309 267,309 267,352 803,352 803,595 707,595 707,722 713,722 713,750 802,750 79,750 80,750 80,527 79,527 79,426 80,426"/>
+	<TextEquiv conf="0.94553">
+	<Unicode>QUESTÃO 11
+No Brasil, o Banco Central procura alcançar uma meta de
+inflação com um valor central, por exemplo, de 4% a.a. em
+torno da qual se define uma faixa tolerável de + 2%a.a.
+Setal intervalo ocorrer de fato e as probabilidades puderem ser
+aproximadas pela distribuição uniforme entre + 2% e + 6%,
+(A) a probabilidade de que a inflação venha a se situar entre
+2e2.5% a.a. será de 10%.
+(B) a mediana da distribuição será 3.5% a.a.
+(C) a distribuição será bimodal.
+(D) a amplitude total da distribuição será de 2% a.a.
+(E) o quartil inferior da distribuição irá de 2a 3% a.a.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="850,231 1044,231 1044,299 1574,299 1574,602 1573,602 1573,672 1549,672 1549,783 1014,783 1014,890 1573,890 1573,917 1153,917 1153,952 939,952 939,1081 1233,1081 1233,1047 1329,1047 1329,1206 1332,1206 1332,1304 1573,1304 1573,1448 1109,1448 1109,1499 898,1499 898,1448 851,1448 851,1009 850,1009 850,849 857,849 857,672 850,672"/>
+	<TextEquiv conf="0.96481">
+	<Unicode>QUESTÃO 14
+Um economista deseja verificar se as variações do consumo
+(C) são determinadas pelas variações da renda (R), segundo
+a fórmula AC; = a +B-ARy+ e, . Para tal, coloca as varia-
+ções do consumo no vetor y, e as variações da renda na
+segunda coluna da matriz X, abaixo, e implementa mínimos
+quadrados ordinários para estimar os coeficientes
+É) =(XX)Xy ,ondeo apóstrofo denota transposição.
+13
+Se X=|15 , então a seguinte proposição está
+186
+correta:
+(A) o produto matricial XXx=
+Oo =-=o
+-— Os
+O 2 O
+' 1. O
+B dut tricial Xy= .
+(B) o produto matricial y G 1)
+(OC) o determinante de xXx é iguala 14.
+(D) XX não é inversível.
+(E) dadas as dimensões de X ey, Xy não é um produto
+matricial possível.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="850,1565 1044,1565 1044,1622 1574,1622 1574,1699 1572,1699 1572,1924 1574,1924 1574,2002 1572,2002 1572,2104 1405,2104 1405,2155 898,2155 898,2104 851,2104 851,1748 850,1748"/>
+	<TextEquiv conf="0.96779">
+	<Unicode>QUESTÃO 15
+O balanço patrimonial de uma empresa é um documento
+composto de duas listas: a do Ativo e a do Passivo. Qual a
+afirmação correta sobre elas?
+(A) O Ativo contém os haveres da empresa, e o Passivo,
+os direitos da empresa.
+(B) O Ativo é maior do que o Passivo se a empresa der lucro.
+(O) O Ativo é igual ao Passivo quando a empresa está
+equilibrada.
+(D) O Passivo descreve os gastos financeiros da empresa.
+(E) No Passivo aparece a origem dos recursos da empresa,
+e no Ativo, as aplicações destes recursos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="79,1749 80,1749 80,1750 803,1750 803,1819 801,1819 801,1881 722,1881 722,2010 803,2010 803,2072 801,2072 801,2111 742,2111 742,2153 81,2153 81,2152 80,2152 80,1818 79,1818"/>
+	<TextEquiv conf="0.96287">
+	<Unicode>QUESTÃO 13
+A função utilidade de um consumidor é dada por
+ulx,x2)= 1º xo” . Os preços e a renda são p,, p, e m,
+respectivamente. Logo, m
+(A) a curva de demanda por x, é dada por x, = Er
+(B) a função utilidade não é homogênea. 1
+(O) a elasticidade próprio preço da demanda, por qualquer
+dos bens, é — 0.5.
+(D) aelasticidade renda da demanda por qualquer dos bens é 0.5.
+(E) no ponto que maximiza a utilidade teremos p, = p,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,788 80,789 273,789 273,832 802,832 802,1710 80,1710 80,1451 79,1451 79,906 80,906"/>
+	<TextEquiv conf="0.96310">
+	<Unicode>QUESTÃO 12
+Numa economia há apenas duas pessoas, uma delas aufere
+10% da renda, e a outra, os 90% restantes.
+Neste caso, a Curva de Lorenz desta economia será repre-
+sentada por OAB no gráfico abaixo.
+Considerando o gráfico e as informações acima, é correto
+afirmar que:
+(A) o Coeficiente de Gini é igual a 40%.
+(B) a concentração de renda vai reduzir a demanda a 50%.
+(O) se a renda fosse distribuída equalitariamente, a Curva de
+Lorenz seria OCB.
+(D) se a renda fosse distribuída equalitariamente, o Coeficiente
+de Gini seria igual a 100%.
+(E) nãoé possível calcular o Coeficiente de Gini para duas pessoas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

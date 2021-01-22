@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:54:15</Created>
+	<LastChange>2020-10-23T03:12:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1570,1146 1570,1460 76,1460 76,1459 75,1459 75,1146"/>
+	<TextEquiv conf="0.92883">
+	<Unicode>Texto para as questões 16 e 17.
+Diversos sistemas físicos amortecidos encontrados em engenharia podem ter seu comportamento expresso por meio de
+equações diferenciais ordinárias não-homogêneas de segunda ordem. A resolução desse tipo de equação envolve a obtenção
+da resposta y ,(t) da equação diferencial homogênea associada, que expressa o comportamento do sistema livre de excitações
+externas, e a obtenção de uma solução particular PA) da equação não-homogênea. A soma de A) e y,(t) fornece a solução
+geral da equação não-homogênea. A resposta livre permite identificar a frequência das oscilações amortecidas (f) e a constan-
+te de amortecimento (k) do sistema. Considere que a resposta livre de um sistema seja dada pela função
+Y,() = 56" cos(2 Tt fl),
+cujo gráfico está ilustrado na figura a seguir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="76,1900 76,1901 1456,1901 1456,1997 76,1997 76,1996 75,1996 75,1900"/>
+	<TextEquiv conf="0.90600">
+	<Unicode>QUESTÃO 16
+A frequência das oscilações amortecidas do sistema cuja resposta livre está apresentada no texto é igual a
+(A) 0,1 Hz. (B) 0,15 Hz. (OC) Tt rad/s. (D) 10 rad/s. (E) 10 Hz.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="462,1477 462,1894 1137,1894 1137,1477"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="471,242 471,560 1185,560 1185,242"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="76,565 1569,565 1569,626 1460,626 1460,698 1408,698 1408,797 1181,797 1181,840 449,840 449,946 535,946 535,980 547,980 547,1067 85,1067 85,1072 76,1072 76,906 75,906 75,880 77,880 77,698 76,698 76,697 75,697 75,637 76,637"/>
+	<TextEquiv conf="0.92049">
+	<Unicode>QUESTÃO 15
+No mecanismo ilustrado na figura acima, uma placa metálica gira em torno de um eixo devido à aplicação de uma força F, que
+provoca o aparecimento de um torque. Com relação a esse mecanismo e sabendo que o momento de inércia de massa é
+definido pela integral Í r?º dm, em que ré a distância do eixo ao elemento de massa dm, julgue os itens seguintes:
+|- "Quanto menor for o valor da distância d, maior deverá ser a força F necessária para vencer o atrito no eixo.
+Il- Omomento de inércia de massa da placa metálica independe do valor da distância ad.
+Ill- O tempo necessário para se girar a placa do ponto (Dao ponto 2 independe do torque.
+Assinale a opção correta.
+(A) Apenas um item está certo.
+(B) Apenas os itens I e II estão certos.
+(C) Apenas os itens I e III estão certos.
+(D) Apenas os itens II e III estão certos.
+(E) Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

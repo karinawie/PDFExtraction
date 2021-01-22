@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T03:09:25</Created>
+	<LastChange>2020-11-12T03:20:06</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA-03.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r4">
+	<Coords points="935,855 934,1422 1497,1423 1498,856"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="82,383 82,384 92,384 92,418 1577,418 1577,545 1477,545 1477,612 1074,612 1074,751 1149,751 1149,778 82,778 82,772 90,772 90,665 82,665 82,612 81,612 81,545 80,545 80,544 81,544 81,418 82,418"/>
+	<TextEquiv conf="0.95612">
+	<Unicode>QUESTÃO 1
+Está em discussão, na sociedade brasileira, a possibilidade de uma reforma política e eleitoral. Fala-se, entre outras propos-
+tas, em financiamento público de campanhas, fidelidade partidária, lista eleitoral fechada e voto distrital. Os dispositivos
+ligados à obrigatoriedade de os candidatos fazerem declaração pública de bens e prestarem contas dos gastos devem ser
+aperfeiçoados, os órgãos públicos de fiscalização e controle podem ser equipados e reforçados.
+Com base no exposto, mudanças na legislação eleitoral poderão representar, como principal aspecto, um reforço da
+(A) política, porque garantirão a seleção de políticos experientes e idôneos.
+(B) economia, porque incentivarão gastos das empresas públicas e privadas.
+(C) moralidade, porque inviabilizarão candidaturas despreparadas intelectualmente.
+(D) ética, porque facilitarão o combate à corrupção e o estímulo à transparência.
+(E) cidadania, porque permitirão a ampliação do número de cidadãos com direito ao voto.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="81,819 506,819 506,1070 760,1070 760,1226 783,1226 783,1561 885,1561 885,1594 928,1594 928,1627 980,1627 980,1660 991,1660 991,1694 1008,1694 1008,1727 1045,1727 1045,1754 90,1754 90,1687 89,1687 89,1621 80,1621 80,1560 223,1560 223,1192 118,1192 118,892 81,892"/>
+	<TextEquiv conf="0.97010">
+	<Unicode>QUESTÃO 2
+O Governo Federal deve promover a inclusão digital,
+pois a falta de acesso às tecnologias digitais acaba
+por excluir socialmente o cidadão, em especial a ju-
+ventude.
+(Projeto Casa Brasil de inclusão digital começa em 2004.
+Ih: MAZZA, Mariana. JB online.)
+Comparando a proposta acima com a charge, pode-se concluir que
+(A) o conhecimento da tecnologia digital está democratizado no Brasil.
+B) a preocupação social é preparar quadros para o domínio da informática.
+C) o apelo à inclusão digital atrai os jovens para o universo da computação.
+D) o acesso à tecnologia digital está perdido para as comunidades carentes.
+E) a dificuldade de acesso ao mundo digital torna o cidadão um excluído social.</Unicode></TextEquiv></TextRegion></Page></PcGts>

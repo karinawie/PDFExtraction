@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:28:21</Created>
+	<LastChange>2021-01-18T02:01:15</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-12.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="825,767 825,2159 826,2159 826,767"/></SeparatorRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="102,189 1551,189 1551,229 1549,229 1549,400 1550,400 1550,423 1549,423 1549,696 393,696 393,733 142,733 142,478 143,478 143,418 104,418 104,347 103,347 103,229 102,229"/>
+	<TextEquiv conf="0.87080">
+	<Unicode>QUESTÃO 21
+Materiais são constituídos por átomos que, no estado sólido, mantêm-se unidos por ligações químicas primárias e secundárias. O tipo
+de ligação afeta as propriedades químicas e físicas do material. Acerca desse assunto e sabendo que Z(H) = 1; Z(C) = 6; Z(0) = 8;
+Z(C0) = 17; Z(Ca) = 20, assinale a opção incorreta.
+A Diferentemente do que ocorre com materiais metálicos e cerâmicos, a temperatura de fusão dos polímeros é determinada por
+ligações primárias covalentes e não por ligações secundárias fracas, como ligações de Van der Waals e pontes de hidrogênio.
+B A ligação química formada entre átomos de cálcio e oxigênio é predominantemente iônica.
+C A ligação carbono-cloro tem energia menor que as ligações carbono-carbono e carbono-hidrogênio. Por essa razão, durante a
+degradação do policloreto de vinila (PVC), ocorre a liberação de ácido clorídrico (HCR) devido à quebra da ligação carbono-cloro.
+D O módulo de elasticidade do silício metálico (Si) é menor que o da sílica (SiO2), devido à mais alta energia das ligações presentes
+neste composto.
+E O elemento químico cobre é encontrado na natureza na forma de óxido de cobre, dado que a ligação química iônica é mais estável
+que a ligação metálica</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="heading">
+	<Coords points="102,759 808,759 808,799 768,799 768,1122 806,1122 806,1417 807,1417 807,2117 142,2117 142,1435 104,1435 104,1363 103,1363 103,1290 101,1290 101,1267 103,1267 103,1122 142,1122 142,799 102,799"/>
+	<TextEquiv conf="0.45444">
+	<Unicode>QUESTÃO 22
+Nosso entendimento da relação entre estrutura e
+propriedade de materiais provê a base para a seleção de
+materiais existentes e o desenvolvimento de novos materiais.
+Nós dependemos também desse conhecimento científico
+para utilizar materiais na obtenção de produtos úteis, uma
+vez que o processamento desses materiais depende da
+estrutura e das propriedades dos materiais que usamos e
+também as influencia.
+O parágrafo acima retrata a inter-relação existente entre os três
+elementos básicos da ciência dos materiais: estrutura, propriedade
+e processamento. As opções abaixo contêm, cada uma, duas
+assertivas relativas a essa correlação, sendo que a segunda é uma
+justificativa da primeira. Assinale a opção em que as duas
+assertivas são verdadeiras e a segunda é uma justificativa correta
+para a primeira.
+A Produtos cerâmicos não podem ser fabricados por processos
+que dependam de deformação plástica no material porque as
+matérias-primas utilizadas para fabricação de cerâmicas
+convencionais são naturais.
+B A laminação a frio de metais causa aumento de sua dureza,
+mecanismo conhecido como encruamento, porque o tamanho
+do grão de metal diminui durante a laminação a frio.
+C A consolidação dimensional de produtos cerâmicos obtidos
+por prensagem ocorre durante a queima porque a diminuição
+de porosidade advinda da sinterização acarreta aumento da
+resistência mecânica de cerâmicas.
+D O controle da temperatura e da concentração do iniciador
+durante a síntese de polímeros influencia o limite de
+resistência à tração desses materiais porque tais parâmetros
+afetam a massa molar média do polímero obtido.
+E Peças metálicas obtidas por fundição apresentam grão menor
+que o de peças do mesmo componente processadas por
+forjamento porque a solidificação de metais leva à formação
+de um material policristalino.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="845,759 1551,759 1551,799 1549,799 1549,1046 1147,1046 1147,1168 1550,1168 1550,2075 1237,2075 1237,2123 886,2123 886,2075 847,2075 847,1094 846,1094 846,799 845,799"/>
+	<TextEquiv conf="0.43845">
+	<Unicode>QUESTÃO 23
+No campo da ciência de materiais, defeito ou imperfeição
+estrutural significa que ocorre uma interrupção, uma
+irregularidade ou um desarranjo na estrutura do material.
+A presença de imperfeições não implica, necessariamente, em um
+efeito negativo sobre as propriedades. A respeito desse tema,
+assinale a opção incorreta.
+O Lacunas são imperfeições no arranjo atômico que,
+geralmente, estão presentes em materiais metálicos e
+cerâmicos, o que possibilita a difusão atômica, necessária
+para a maioria dos processos de transformação de fase.
+O O contorno de grão, imperfeição estrutural tipicamente
+presente em materiais monocristalinos, influencia as
+propriedades mecânicas do material. Reduzindo-se o tamanho
+do grão, é possível diminuir o limite de resistência do
+material.
+O A deformação plástica de metais, por meio da qual são
+possíveis diversos processos de conformação mecânica,
+como, por exemplo, a laminação, ocorre por meio do
+movimento de discordâncias ou de deslocações.
+O A presença de poros pode — ou não — ser desejável,
+dependendo da aplicação do material. Poros podem ser
+introduzidos intencionalmente, por exemplo, para reduzir a
+condutividade térmica de materiais.
+O A adição intencional de impurezas em um material, mesmo
+em pequenas quantidades, pode afetar significativamente suas
+propriedades ópticas e elétricas.</Unicode></TextEquiv></TextRegion></Page></PcGts>

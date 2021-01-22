@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T08:08:15</Created>
+	<LastChange>2021-01-18T11:48:48</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_CIENCIAS_CONTABEIS-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r1">
+	<Coords points="474,985 474,1165 1174,1165 1174,985"/></TableRegion>
+	<ImageRegion id="r2">
+	<Coords points="482,345 482,474 1177,474 1177,345"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="79,240 1574,240 1574,614 947,614 947,790 81,790 81,789 80,789 80,549 79,549"/>
+	<TextEquiv conf="0.80132">
+	<Unicode>QUESTÃO 24
+A Empresa Comercial Aurora Ltda. negociou, em 31.12.2005, uma operação de Desconto de Duplicatas no valor total de
+R$ 1.500.000,00 distribuídos conforme o fluxo de vencimento das duplicatas a seguir:
+| -
+o ' ' '
+30 dias 60 dias 90 dias
+R$400.000,00 R$600.000,00 R$ 500.000,00
+Nessa operação, a instituição financeira cobrou e recebeu juros antecipados no valor de R$ 155.000,00, calculados à
+taxa de 5% ao mês (juros simples), e taxas de serviços de R$ 500,00.
+Se a empresa encerra o seu exercício contábil ao final de dezembro, qual foi o efeito do registro dessa operação nas
+Demonstrações Contábeis da empresa?
+) Diminuição no Resultado do Exercício no valor de R$ 155.500,00.
+(B) Diminuição no Ativo no valor de R$ 155.500,00.
+(C) Diminuição no Ativo Circulante no valor de R$ 500,00.
+(D) Aumento de Despesas Financeiras no valor de R$ 155.000,00.
+(E) Aumento do Passivo Circulante no valor de R$ 500,00.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="80,825 80,826 271,826 271,865 1574,865 1574,982 1538,982 1538,1212 303,1212 303,1385 88,1385 88,1212 81,1212 81,1211 80,1211 80,981 79,981 79,865 80,865"/>
+	<TextEquiv conf="0.96855">
+	<Unicode>QUESTÃO 25
+A Cia. Manufatura Guaracy adquiriu um equipamento, em outubro de 2005, colocando-o em funcionamento em 01.12.2005.
+Do custo de aquisição desse bem, no valor de R$ 63.000,00, foi paga uma parcela de R$ 30.000,00 e o restante financiado
+com incidência de juros de 12% ao ano. Além desse valor, no mês de novembro, a empresa incorreu nos seguintes
+desembolsos:
+Qual é o valor a ser contabilizado no Ativo Permanente da empresa, em 30.11.2005, em relação a esse equipamento?
+A) R$63.000,00
+B) R$65.500,00
+C) R$69.500,00
+D) R$71.500,00
+E) R$71.830,00</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="79,1429 1574,1429 1574,1523 1308,1523 1308,1698 1575,1698 1575,1852 1574,1852 1574,1853 1522,1853 1522,1973 1574,1973 1574,2154 81,2154 81,2153 80,2153 80,1698 128,1698 128,1523 80,1523 80,1522 79,1522"/>
+	<TextEquiv conf="0.95425">
+	<Unicode>QUESTÃO 26
+A empresa ltaici Indústria e Comércio Ltda. vem acumulando prejuízos constantes nos últimos 4 anos. Após várias
+reuniões, a direção identificou algumas razões que justificavam esses resultados, tais como:
+As decisões de preços são tomadas erroneamente em função de falha no fluxo de informações.
+Produção de itens gerando alto grau de rejeitos no processo.
+A Diretoria toma decisões baseadas em informações não atualizadas.
+Itens de Despesas com valores altamente crescentes e sem controle.
+Em vista dos fatos, a direção da empresa decidiu investir em uma reorganização nas áreas de vendas, produção e
+financeira. Para isso, contratou profissionais que propuseram, além de uma completa modificação no fluxo de
+informações da empresa, alterações no processo produtivo.
+Que tipo de tratamento contábil devem receber os gastos incorridos com esta assessoria e os advindos das alterações
+propostas pelos consultores no fluxo de informações?
+(A) Lançar para Resultado no momento em que ocorrerem, em virtude de a empresa já estar em funcionamento
+(B) Registrar no Patrimônio Líquido na conta Lucros/ Prejuízos Acumulados, como Ajustes de Exercícios Anteriores.
+Lançar para Resultado no momento em que ocorrerem, em virtude de a empresa já estar em funcionamento.
+(C) Contabilizar no grupo Ativo Permanente Diferido e amortizá-los segundo a expectativa de geração dos benefícios
+futuros.
+(D) Apropriar como Resultado de Exercícios Futuros e transferi-los para o resultado em 10 anos.
+(E) Registrar como gastos antecipados e amortizá-los como Custos dos Produtos Vendidos no exercício em que
+ocorrerem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

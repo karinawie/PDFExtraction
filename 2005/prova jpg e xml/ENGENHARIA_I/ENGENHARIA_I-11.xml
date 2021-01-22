@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T17:51:20</Created>
+	<LastChange>2020-11-24T18:10:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-11.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,576 1573,576 1573,637 1464,637 1464,709 1412,709 1412,807 1185,807 1185,851 453,851 453,958 551,958 551,1079 106,1079 106,1084 80,1084 80,917 79,917 79,891 81,891 81,709 79,709"/>
+	<TextEquiv conf="0.96440">
+	<Unicode>15
+No mecanismo ilustrado na figura acima, uma placa metálica gira em torno de um eixo devido à aplicação de uma força F, que
+provoca o aparecimento de um torque. Com relação a esse mecanismo e sabendo que o momento de inércia de massa é
+definido pela integral Í rº dm, em que ré a distância do eixo ao elemento de massa am, julgue os itens seguintes:
+|- "Quanto menor for o valor da distância d, maior deverá ser a força F necessária para vencer o atrito no eixo.
+Il- Omomento de inércia de massa da placa metálica independe do valor da distância d.
+Ill- Otempo necessário para se girar a placa do ponto Dao ponto 2) independe do torque.
+Assinale a opção correta.
+(A) Apenas um item está certo.
+(B) Apenas os itens | e |l estão certos.
+(C) Apenas os itens | e Ill estão certos.
+(D) Apenas os itens || e Ill estão certos.
+(E) Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="494,1497 494,1900 1142,1900 1142,1497"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="460,240 460,562 1174,562 1174,240"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="79,1157 1574,1157 1574,1471 1459,1471 1459,2008 79,2008"/>
+	<TextEquiv conf="0.91548">
+	<Unicode>Texto para as questões 16 e 17.
+Diversos sistemas físicos amortecidos encontrados em engenharia podem ter seu comportamento expresso por meio de
+equações diferenciais ordinárias não-homogêneas de segunda ordem. A resolução desse tipo de equação envolve a obtenção
+da resposta y ,(t) da equação diferencial homogênea associada, que expressa o comportamento do sistema livre de excitações
+externas, e a obtenção de uma solução particular A da equação não-homogênea. A soma de JoL) e y,(t) fornece a solução
+geral da equação não-homogênea. A resposta livre permite identificar a freqúência das oscilações amortecidas (f) e a constan-
+te de amortecimento (k) do sistema. Considere que a resposta livre de um sistema seja dada pela função
+y,() = 56" cos(2 Tt fi),
+cujo gráfico está ilustrado na figura a seguir.
+
+16
+A frequência das oscilações amortecidas do sistema cuja resposta livre está apresentada no texto é igual a
+(A) 0,1 Hz. (B) 0,15 Hz. (C) TU rad/s. (D) 10 rad/s. (E) 10 Hz.</Unicode></TextEquiv></TextRegion></Page></PcGts>

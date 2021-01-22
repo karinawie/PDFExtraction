@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T11:48:04</Created>
+	<LastChange>2020-11-13T12:42:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="622,271 1030,271 1030,326 1574,326 1574,385 80,385 80,386 79,386 79,326 621,326 621,272 622,272"/>
+	<TextEquiv conf="0.96022">
+	<Unicode>Texto para as questões 11 e 12.
+A figura abaixo ilustra um corte longitudinal da região mais profunda do reservatório da usina hidrelétrica de Itaipu e sua
+localização no Rio Paraná.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="462,428 462,1022 1197,1022 1197,428"/></ImageRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,1059 104,1059 104,1099 1189,1099 1189,1133 1574,1133 1574,1390 558,1390 558,1657 80,1657 80,1473 79,1473 79,1441 81,1441 81,1142 79,1142 79,1099 80,1099"/>
+	<TextEquiv conf="0.69948">
+	<Unicode>11
+A partir das informações acima, julgue os itens a seguir. 2
+|- "Considerando-se o sistema xO y inserido na figura, é correto afirmar que a função y(x)=- 770 + 2x + 55 ,para 0 &lt; x &lt;170 km
+e y em metros, constitui um modelo adequado para o corte longitudinal do fundo do reservatório ilustrado.
+Il- Sabendo-se que a superfície da lâmina d'água do reservatório da usina tem área igual a 1.350 km?, conclui-se que a
+capacidade desse reservatório é inferior a 270 km?.
+Ill- Considerando-se que o reservatório tenha largura constante e que a força total exercida pela água sobre a barragem da
+usina seja produzida por uma pressão hidrostática que cresce linearmente com a profundidade, conclui-se que a variação
+do módulo dessa força total é uma função quadrática do nível do reservatório.
+Assinale a opção correta.(A) Apenas um item está certo.(B) Apenas os itens I e II estão certos.(C) Apenas os itens I e III estão certos.(D) Apenas os itens II e III estão certos.(E) Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="80,1705 110,1705 110,1745 1573,1745 1573,1848 658,1848 658,1973 672,1973 672,2000 460,2000 460,2037 91,2037 91,2038 80,2038 80,1848 79,1848 79,1745 80,1745"/>
+	<TextEquiv conf="0.96917">
+	<Unicode>12
+A energia anual produzida na usina de Itaipu é da ordem de 90.000 GWh. Considere que o custo aproximado para a construção
+dessa usina tenha sido de 30 bilhões de reais e que o capital esteja sendo remunerado à taxa de juros de 10% ao ano. Nessas
+condições, a parcela do custo da energia produzida referente à remuneração anual do capital deve ser
+(A) inferior a R$ 10 por MWh.
+(B) superior a R$ 10 e inferior a R$ 30 por MWh.
+(C) superior a R$ 30 e inferior a R$ 50 por MWh.
+(D) superior a R$ 50 e inferior a R$ 100 por MWh.
+(E) superior a R$ 100 por MWh.</Unicode></TextEquiv></TextRegion></Page></PcGts>

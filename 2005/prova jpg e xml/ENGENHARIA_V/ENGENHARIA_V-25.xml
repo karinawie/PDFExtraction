@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:24:56</Created>
+	<LastChange>2021-01-18T01:53:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-25.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="914,802 913,2147 916,2147 917,802"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="182,854 182,1240 820,1240 820,854"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="440,154 440,425 1280,425 1280,154"/></ImageRegion>
+	<TextRegion id="r17" type="heading">
+	<Coords points="101,447 1549,447 1549,711 1548,711 1548,765 736,765 736,790 141,790 141,789 140,789 140,758 101,758"/>
+	<TextEquiv conf="0.95574">
+	<Unicode>QUESTÃO 48
+Com relação aos processos de conformação utilizados para obtenção dos produtos cerâmicos comuns ilustrados acima, assinale a opção
+correta.
+Do ponto de vista técnico e econômico, os processos de conformação mais indicados para obtenção dos produtos A, B e C são,
+respectivamente, prensagem, extrusão e colagem.
+Na fabricação de tubos por extrusão, um ligante deve obrigatoriamente ser adicionado durante a preparação da massa, para que
+ela apresente a consistência adequada ao processamento.
+Os processos de conformação plástica devem ser usados exclusivamente para produtos cerâmicos à base de argila, que confere a
+propriedade de plasticidade à massa.
+Para se reduzir o tempo de obtenção da peça C, utilizando-se o método de colagem, devem ser usadas suspensões cerâmicas com
+alta fração de sólidos e suspensões parcialmente floculadas.
+Aumentando-se a pressão utilizada na prensagem de massas cerâmicas, aumentam-se o grau de compactação e a densidade a verde,
+evitando-se o aparecimento de defeitos de prensagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="935,812 1549,812 1549,851 1547,851 1547,1341 1546,1341 1546,1446 1547,1446 1547,1510 1548,1510 1548,1847 1547,1847 1547,1848 1241,1848 1241,1917 1096,1917 1096,2126 975,2126 975,2125 936,2125 936,1702 975,1702 975,1592 936,1592 936,1575 975,1575 975,1464 936,1464 936,1447 975,1447 975,1309 936,1309 936,851 935,851"/>
+	<TextEquiv conf="0.55342">
+	<Unicode>QUESTÃO 50
+A tenacidade à fratura é uma característica do material
+relacionada à resistência à propagação de trincas. Uma
+limitação do uso de cerâmicas em aplicações estruturais
+é a sua baixa tenacidade à fratura. Entretanto, nas últimas
+décadas, cerâmicas avançadas de alta tenacidade têm
+sido desenvolvidas e utilizadas em aplicações antes
+restritas ao grupo de materiais metálicos. Acerca desse
+assunto, julgue os itens abaixo.
+I A tenacidade à fratura de cerâmicas pode ser
+aumentada por meio da introdução de elementos
+microestruturais que geram mecanismos para inibir a
+propagação de trincas.
+II Por meio do controle das técnicas de processamento,
+é possível a obtenção de cerâmicas de alta densidade
+e com tamanho de grão excepcionalmente pequeno,
+fatores que aumentam a resistência mecânica de
+cerâmicas.
+III Partículas ou fibras cerâmicas adicionadas a uma
+matriz cerâmica acarretam aumento da tenacidade à
+fratura, mas não afetam o limite de resistência à
+tração.
+IV A introdução de tensões residuais de compressão na
+superfície, onde há maior probabilidade de trincar, é
+um mecanismo de aumento de tenacidade à fratura
+usado para materiais vítreos.
+V Aumento de tenacidade por transformação de fase é
+um mecanismo utilizado em cerâmicas à base de
+carbeto de silício, ou em situações em que se
+adicionam partículas desse material a outras
+cerâmicas.
+Estão certos apenas os itens
+A I e III.
+B I, II e IV.
+C II, III e V.
+D II, IV e V.
+E III, IV e V
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="heading">
+	<Coords points="114,817 897,817 897,848 896,848 896,2127 141,2127 141,2126 140,2126 140,1717 101,1717 101,848 114,848"/>
+	<TextEquiv conf="0.80484">
+	<Unicode>QUESTÃO 49
+As curvas acima representam o processo de queima de uma cerâmica em
+diferentes temperaturas. Cada curva correspondente ao corpo verde obtido
+em condições diferentes, especificadas a seguir:
+F1: prensagem uniaxial de um sistema de partículas de tamanho médio de
+0,1 :m;
+F2: prensagem uniaxial de um sistema de partículas de tamanho médio de
+20 :m;
+F3: prensagem isostática a quente (HIP) de um sistema de partículas de
+tamanho médio de 0,1 :m
+Com base nessas informações, assinale a opção correta acerca de
+mecanismos de sinterização.
+A As curvas I, II e III correspondem à sinterização do corpo verde
+obtido nas condições F1, F3 e F2, respectivamente.
+B As curvas I e III correspondem à sinterização do sistema de partículas
+mais finas, que apresentam menor sinterabilidade.
+C O método HIP, correspondente à curva de sinterização II, permite,
+quando comparado à prensagem uniaxial, a obtenção de produtos
+cerâmicos com menor densidade final.
+D Para sinterização desse sistema, é necessária temperatura acima de
+1400ºC, a partir da qual começará a ocorrer difusão.
+E Considerando que a queima seja realizada a 1600ºC, o crescimento de
+grão que ocorrerá nesse sistema será mais acentuado para o corpo
+verde obtido com a condição F2</Unicode></TextEquiv></TextRegion></Page></PcGts>

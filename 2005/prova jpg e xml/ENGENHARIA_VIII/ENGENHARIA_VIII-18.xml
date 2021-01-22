@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:11:40</Created>
+	<LastChange>2020-10-24T03:39:15</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-18.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="117,531 117,1308 1605,1308 1605,531"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="75,437 107,437 107,438 108,438 108,473 1569,473 1569,526 1511,526 1511,1466 1387,1466 1387,1599 1290,1599 1290,1600 76,1600 76,1466 75,1466"/>
+	<TextEquiv conf="0.96337">
+	<Unicode>QUESTÃO 28
+Uma das formas de aproveitamento da energia solar é a utilização de coletores solares para o aquecimento do ar de secagem
+de grãos armazenados. A esse respeito, observe o esquema a seguir.
+Analisando o esquema, em relação à temperatura e à umidade relativa do ar em cada ponto do sistema, conclui-se que
+(A) a temperatura vai crescendo de A para B, de B para C, de C para De de D para E.
+(B) a umidade relativa do ar não se altera, embora ocorra variação de temperatura no sistema.
+(
+(
+(
+a umidade relativa do ar vai reduzindo de A para B, de B para C, de C para De de D para E.
+a umidade relativa do ar em E é maior do que em C assim como a temperatura.
+Cc
+D
+E) a umidade relativa do ar em E é maior do que em C, enquanto a temperatura em E é menor do que em C.</Unicode></TextEquiv></TextRegion></Page></PcGts>

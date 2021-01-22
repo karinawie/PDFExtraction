@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:58:17</Created>
+	<LastChange>2021-01-18T03:23:10</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-16.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="825,184 825,2152 827,2152 827,184"/></SeparatorRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="860,215 1552,215 1552,239 1551,239 1551,575 1550,575 1550,798 1506,798 1506,800 1500,800 1500,905 1550,905 1550,983 1257,983 1257,1121 1550,1121 1550,1231 1551,1231 1551,1595 1550,1595 1550,2066 1456,2066 1456,2120 886,2120 886,2011 849,2011 849,1957 848,1957 848,1632 847,1632 847,1550 848,1550 848,1307 847,1307 847,575 846,575 846,270 860,270"/>
+	<TextEquiv conf="0.22414">
+	<Unicode>QUESTÃO 32
+Na aprendizagem da equação quadrática, a escola básica
+tende a trabalhar exclusivamente com a fórmula conhecida no
+Brasil como fórmula de Bhaskara. Entretanto, existem outras
+formulações desde a antiguidade, quando já se podiam identificar
+problemas e propostas de soluções para tais tipos de equação. Há
+mais de 4.000 anos, na Babilônia, adotavam-se procedimentos
+; à z 2
+que hoje equivalem a expressar uma solução de x“ - br = c como
+2
+x - + 6 + Cc. Euclides (séc. I a.C.), no livro X de sua
+obra Os Elementos, já propunha uma resolução geométrica que
+permite resolver uma equação quadrática do tipo ax - x = b,
+utilizando exclusivamente compasso e régua não-graduada.
+A respeito de uma proposta de ensino de resolução de equação
+quadrática com o enfoque em procedimentos historicamente
+construídos, assinale a opção correta.
+A Tal proposta desvia a atenção da aprendizagem do foco
+central do conteúdo, fazendo que o aluno confunda as
+formulações, e, por consequência, não desenvolva
+competências na resolução de equações quadráticas.
+B É adequada a inserção dessa perspectiva, associada à
+manipulação de recorte e colagem pela complementação de
+quadrados, buscando sempre alternativas para as situações
+que esse procedimento não consegue resolver.
+C É mais adequado trabalhar o desenvolvimento da resolução de
+equações incompletas e, posteriormente, por meio da
+formulação de Bhaskara, manipular as equações completas,
+para somente no ensino médio ampliar tal conhecimento com
+o enfoque histórico.
+D É adequado utilizar tal proposta no ensino, uma vez que ela
+permite explicar a resolução de qualquer tipo de equação
+quadrática.
+E Talproposta é inexeqiiível pelo tempo excessivo que exige do
+professor e por retardar a aprendizagem de alunos com
+dificuldades tanto em álgebra quanto em geometria.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="359,590 359,791 560,791 560,590"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="183,215 240,215 240,274 806,274 806,344 768,344 768,831 767,831 767,1183 768,1183 768,1483 806,1483 806,1833 536,1833 536,2066 444,2066 444,2107 103,2107 103,1390 142,1390 142,390 103,390 103,274 183,274"/>
+	<TextEquiv conf="0.16686">
+	<Unicode>QUESTÃO 31
+Uma das fontes da história da matemática egípcia é o
+papiro Rhind, ou papiro Ahmes (1650 a.C.). Constam desse
+documento os problemas a seguir.
+Problema 1: Comparar a área de um círculo com a área de
+um quadrado a ele circunscrito. A seguinte figura faz parte
+da resolução desse problema.
+Problema 2: “Exemplo de um corpo redondo de
+diâmetro 9. Qual é a área?”
+A solução apresentada pelo escriba pode ser descrita como:
+» remover 7 do diâmetro; o restante é 8;
+» multiplicar 8 por 8; perfaz 64. Portanto, a área é 64;
+O procedimento do escriba permite calcular a área A de um
+círculo de diâmetro d aplicando a fórmula 4 | a .
+Com base nessas informações, julgue os itens a seguir.
+I Afigurado problema | sugere aproximar a área de um círculo
+à área de um octógono.
+Il O procedimento, no problema 2, fornece uma aproximação
+para Tr, por excesso, correta até a 2.º casa decimal.
+III De acordo com o procedimento, no problema 2, a área do
+círculo de diâmetro d é igual à de um quadrado de lado a
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

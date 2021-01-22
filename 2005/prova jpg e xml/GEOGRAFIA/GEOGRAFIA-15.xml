@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T00:40:02</Created>
+	<LastChange>2020-10-23T01:33:12</LastChange></Metadata>
+	<Page imageFilename="GEOGRAFIA-15.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="563,1283 562,2020 1141,2021 1142,1284"/></ImageRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="162,1235 1379,1235 1379,2046 1594,2046 1594,2104 1154,2104 1154,2213 163,2213 163,2212 162,2212 162,2189 163,2189 163,1259 162,1259 162,1254 99,1254 99,1236 162,1236"/>
+	<TextEquiv conf="0.95992">
+	<Unicode>QUESTÃO 30
+A interpretação da imagem permite verificar que a região Sul do Brasil está sendo atingida por uma frente fria.
+É possível também inferir que há ocorrência de chuvas ao longo do deslocamento da frente e queda de temperatura. Na região
+pré-frontal, no entanto, ocorre elevação da temperatura
+PORQUE
+o ar frio dessa massa, ao se deslocar, comprime o ar quente, provocando o aquecimento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="99,944 1594,944 1594,1169 163,1169 163,1168 162,1168 162,963 99,963"/>
+	<TextEquiv conf="0.95147">
+	<Unicode>QUESTÃO 29
+No processo de alfabetização cartográfica, recursos como o croqui e a maquete são explorados, respectivamente, como
+representação bidimensional e tridimensional. Embora, pares estereoscópicos de fotografias e, recentemente, imagens de
+satélite permitam a visão tridimensional da superfície terrestre, a maquete continua sendo um recurso material e visual poderoso
+PORQUE
+ela facilita o entendimento pelo aluno da representação tridimensional, embora dificulte o entendimento de correlações entre o
+espaço físico e o uso antrópico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="162,577 1594,577 1594,878 163,878 163,877 162,877 162,596 99,596 99,578 162,578"/>
+	<TextEquiv conf="0.96586">
+	<Unicode>QUESTÃO 28
+A vegetação dos ambientes de mangue é característica de áreas litorâneas tropicais, periodicamente alagadas pelas águas de
+rios e marés, e adaptada às condições de salinidade. Sem os manguezais a vida dos oceanos, que a cada ano fornece ao
+homem duzentos milhões de toneladas de alimentos, estaria ameaçada. Esse ecossistema tem uma importância muito grande
+na cadeia alimentar, pois muitos peixes e moluscos reproduzidos nesses ambientes servem de alimento para outros seres vivos
+que habitam os mares e oceanos. Apesar da sua importância, os manguezais estão entre os ecossistemas mais devastados do
+Brasil,
+PORQUE
+embora existam vários programas de educação ambiental para essas áreas litorâneas, não são utilizadas as geotecnologias no
+mapeamento e monitoramento desses ecossistemas, além de não serem protegidos pelo Código Florestal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="163,383 1442,383 1442,454 1382,454 1382,511 163,511 163,510 162,510 162,487 163,487 163,402 99,402 99,384 163,384"/>
+	<TextEquiv conf="0.94901">
+	<Unicode>QUESTÃO 27
+Embora existam diferenças entre interdisciplinaridade e transversalidade, na prática pedagógica elas se aproximam
+PORQUE
+ambas consideram a necessidade de estabelecer inter-relações entre os diferentes campos do conhecimento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords points="101,96 1200,96 1200,121 1048,121 1048,247 1047,247 1047,317 163,317 163,121 99,121 101,121"/>
+	<TextEquiv conf="0.96626">
+	<Unicode>Instruções: Para responder às questões de números 27 a 34 utilize a chave de alternativas abaixo.
+(A) aasserção e a razão estão corretas e a razão justifica a asserção.
+(B) aasserçãoe a razão estão corretas, mas a razão não justifica a asserção.
+(C) aasserçãoe a razão estão erradas.
+(D) a asserção está correta e a razão está errada.
+(E) aasserção está errada e a razão está correta.</Unicode></TextEquiv></TextRegion></Page></PcGts>

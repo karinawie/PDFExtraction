@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:38:21</Created>
+	<LastChange>2021-01-18T02:48:25</LastChange></Metadata>
+	<Page imageFilename="FISICA-25.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="120,640 120,1228 791,1228 791,640"/></ImageRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="99,95 635,95 635,96 813,96 813,139 814,139 814,428 816,428 816,452 815,452 815,496 522,496 522,1300 557,1300 557,1398 622,1398 622,1399 814,1399 814,1533 815,1533 815,1593 814,1593 814,1783 646,1783 646,1880 317,1880 317,2211 193,2211 193,2216 163,2216 163,1715 154,1715 154,1699 163,1699 163,495 162,495 162,119 100,119 100,118 99,118"/>
+	<TextEquiv conf="0.96394">
+	<Unicode>QUESTÃO 32
+Uma partícula carregada, ao penetrar num meio material,
+interage, via interação eletromagnética, com os núcleos e
+elétrons atômicos do meio, transferindo energia aos mes-
+mos. Embora este processo de transferência de energia
+seja bastante complexo, a ele pode-se associar uma força
+média, chamada poder de freamento, õS. , que agindo na
+partícula tem como efeito a sua gradual diminuição de
+velocidade. Na figura abaixo representa-se a curva do poder
+de freamento, em MeV/mm, de partículas a (Z=2) no Au e
+no A/ como função da energia E,.
+Considere as seguintes afirmações:
+I. Para uma folha de Au de espessura Ax=1 um, a
+perda de energia para uma partícula o, de energia
+E, =4 MeV, é aproximadamente igual a 0,5 MeV.
+II. Para uma dada energia En, a perda de energia das
+partículas a no Au é sempre maior que perda de
+energia no A/, independentemente da espessura
+do absorvedor.
+III. Para qualquer material, o poder de freamento de
+prótons (Z=1) deve ser menor que o poder de
+freamento de partículas a, para qualquer energia.
+Está correto o que se afirma SOMENTE em
+(A) I
+(B) II
+(C) III
+(D) I e II
+(E) I e III</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="842,74 842,2240 854,2240 854,74"/></SeparatorRegion></Page></PcGts>

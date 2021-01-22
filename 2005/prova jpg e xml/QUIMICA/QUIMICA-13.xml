@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:18:31</Created>
+	<LastChange>2020-10-20T23:09:57</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-13.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="371,368 371,551 1240,551 1240,368"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="705,591 705,951 1134,951 1134,591"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="48,1488 48,1954 908,1954 908,1488"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,264 1573,264 1573,360 1114,360 1114,591 498,591 498,830 566,830 566,966 972,966 972,1060 1357,1060 1357,1186 1460,1186 1460,1247 79,1247"/>
+	<TextEquiv conf="0.93670">
+	<Unicode>QUESTÃO 20
+Uma mistura dos compostos X e Y, mostrados abaixo, foi analisada por cromatografia gasosa de alta resolução com detecção
+por ionização em chama, utilizando uma coluna de fase estacionária polar.
+(X) (Y)
+O cromatograma mostrado a seguir foi obtido nas seguintes condições experimentais:
+Solvente
+- temperatura do injetor: 250ºC
+- temperatura do detetor: 280ºC
+- temperatura inicial do forno: 50ºC
+- temperatura final do forno: 250ºC
+- taxa de aquecimento do forno: 5ºC/min
+Considerando os resultados do experimento descrito, pode-se afirmar que:
+| - Y corresponde ao composto que apresenta maior tempo de retenção;
+ll - para melhorar a resolução da separação, devem ser aumentadas as temperaturas do injetor e detetor;
+Ill - o aumento da taxa de aquecimento do forno deve aumentar a resolução;
+IV - adiminuição do tamanho da coluna deverá piorar a resolução.
+São corretas apenas as afirmações:
+(A) I e II. (B) I e IV. (C) II e III. (D) II e IV. (E) III e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="79,1287 1575,1287 1575,1431 1591,1431 1591,2051 937,2051 937,1433 79,1433"/>
+	<TextEquiv conf="0.91880">
+	<Unicode>QUESTÃO 21
+Reações de formação de hidrazonas são usualmente empregadas na caracterização de aldeídos e cetonas. A acetona e a
+acetofenona, cujas carbonilas absorvem no infravermelho em 1715 cm” e 1685 cm”!, respectivamente, reagem com
+2 4-dinitrofenil-hidrazina, conforme o esquema abaixo.
+Com relação às reações de formação das hidrazonas,
+pode-se afirmar que
+I - as reações se processam segundo um mecanismo de substituição nucleofílica;
+II - a acetofenona reage mais rapidamente do que
+a acetona;
+III - a conjugação do anel aromático com a carbonila
+na acetofenona acarreta a diminuição da densidade eletrônica da ligação C=O.
+É(São) correta(s) apenas a(s) afirmação(ões):
+(A) I.
+(B) II.
+(C) III.
+(D) I e II.
+(E) I e III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

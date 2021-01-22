@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:14:04</Created>
+	<LastChange>2020-10-24T03:37:34</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-08.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="863,357 1309,357 1309,440 1574,440 1574,759 1573,759 1573,821 1572,821 1572,951 1575,951 1575,1303 865,1303 865,1304 864,1304 864,795 863,795"/>
+	<TextEquiv conf="0.94776">
+	<Unicode>QUESTÃO 9
+Analise o texto abaixo, sobre o ICZN.
+O Código Internacional de Nomenclatura Zoológica (ICZN,
+1985) visa a promover a estabilidade e a universalidade dos
+nomes científicos dos animais, assim como a unicidade e a
+distinção.
+Por estabilidade entende-se que o nome correto de um táxon
+não deve ser alterado injustificadamente; por universalidade, que
+o nome correto é válido em qualquer parte; por unicidade, que é
+um e um só; por distinção, que é distinto de qualquer outro.
+(PAPAVERO, N. Fundamentos práticos da taxonomia
+zoológica. São Paulo: UNESP, 1994.)
+Qual das seguintes normas está em DESACORDO com o
+ICZN?
+(A) Os nomes de táxons são: Animalia, Chordata, Vertebrata,
+Homo etc, enquanto os nomes de categorias são: reino,
+filo, coorte, classe, ordem etc.
+(B) Asregras de nomenclatura não devem interferir no julgamen-
+to zoológico e sim, na aplicação de nomes, isto é, a zoolo-
+gia se ocupa dos animais e a nomenclatura, dos nomes.
+(C) O código proíbe homônimos dentro de família e de gêne-
+ros, e no grupo de espécies é proibida a homonímia den-
+tro de cada gênero.
+(D) Uma espécie pode ser transferida de um gênero para
+outro em obediência a novos conceitos e arranjos
+taxonômicos.
+(E) Quando o nome de uma espécie originalmente descrita
+é transferido para outro nome, o nome do autor e a data
+devem vir entre parênteses.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r11">
+	<Coords points="880,1497 880,1728 1265,1728 1265,1497"/></ImageRegion>
+	<ImageRegion id="r15">
+	<Coords points="97,722 97,1145 771,1145 771,722"/></ImageRegion>
+	<TableRegion id="r16">
+	<Coords points="1288,1522 1288,1691 1534,1691 1534,1522"/></TableRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="79,359 95,359 95,397 790,397 790,1272 791,1272 791,2058 79,2058 79,1557 80,1557 80,714 79,714"/>
+	<TextEquiv conf="0.96885">
+	<Unicode>QUESTÃO 8
+Durante os anos 60, Robert MacArthur e E. O. Wilson desen-
+volveram a Teoria de Equilíbrio de Biogeografia de Ilhas, base-
+ada na proximidade de ilhas do continente (patrimônio de es-
+pécies colonizadoras potenciais) e no tamanho das ilhas.
+Segundo esta teoria, o número de espécies numaiilha equili-
+bra os processos regionais - que controlam a imigração - com
+Os processos locais - que governam a extinção.
+Afigura a seguir mostra uma representação gráfica da Teoria
+de Equilíbrio de Biogeografia de ilhas.
+No local onde as curvas de imigração e extinção se cruzam, o
+número correspondente de espécies na ilha atinge um estado
+estacionário, em que
+S1 = Número estacionário de espécies de uma ilha distante
+e pequena.
+S2 = Número estacionário de espécies de uma ilha distante
+e grande.
+S3 = Número estacionário de espécies de uma ilha próxima
+e pequena.
+S4 = Número estacionário de espécies de uma ilha próxima
+e grande.
+Com base nestes pontos estacionários e sabendo-se que a
+competição entre as espécies, provavelmente, aumenta a
+probabilidade de extinção pela redução do tamanho
+populacional das espécies individuais, tem-se que a riqueza
+das espécies
+(A) diminui com o aumento do tamanho da ilha e diminui
+com o aumento da distância da fonte de colonização.
+(B) diminui com a diminuição do tamanho da ilha e aumenta
+com o aumento da distância da fonte de colonização.
+(C) aumenta com a diminuição do tamanho da ilha e diminui
+com o aumento da distância da fonte de colonização.
+(D) aumenta com o aumento do tamanho da ilha e aumenta
+com o aumento da distância da fonte de colonização.
+(E) aumenta com o aumento do tamanho da ilha e diminui
+com o aumento da distância da fonte de colonização.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="854,1325 1582,1325 1582,1494 1574,1494 1574,1993 1572,1993 1572,2053 864,2053 864,2054 864,1770 863,1770 863,1494 854,1494"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 10
+Analisando os dados, conclui-se que
+(A) a amostra 1 foi retirada da população B e sua média é
+iguala 10.
+(B) a amostra 2 foi retirada da população A e sua média é 20.
+(O) a variância da população B é menor que a variância da
+população A.
+(D) a média e a variância da população A são maiores que a
+da população B.
+(E) as médias das populações A e B são, respectivamente,
+10e 20.</Unicode></TextEquiv></TextRegion></Page></PcGts>

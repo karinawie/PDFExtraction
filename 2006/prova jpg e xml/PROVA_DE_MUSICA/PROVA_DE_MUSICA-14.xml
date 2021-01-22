@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T05:41:49</Created>
+	<LastChange>2021-01-18T12:20:01</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="200,1431 200,1822 1482,1822 1482,1431"/></ImageRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="80,240 562,240 562,346 1575,346 1575,675 1574,675 1574,969 472,969 472,1040 334,1040 334,1302 80,1302 80,1014 81,1014 81,731 79,731 79,707 375,707 375,568 127,568 127,521 126,521 126,313 80,313"/>
+	<TextEquiv conf="0.95890">
+	<Unicode>QUESTÃO 25
+Considere o fragmento de texto abaixo.
+Incentivar o desenvolvimento da audição interior é uma das atribuições do educador musical. É ela que possibilita a
+prática tradicionalmente conhecida como solfejo e é este que, por sua vez, auxilia o músico a idealizar sua
+performance. Em torno desse assunto, educadores musicais desenvolveram o conceito de “audiação”, que consiste
+na “habilidade de ouvir internamente e compreender música cujo som não está ou pode jamais ter estado
+fisicamente presente”,
+(Adaptado de SANTIAGO, Diana. Proporções nos Ponteios para Piano de Camargo Guarnieri: Um estudo sobre
+representações mentais em performance musical. Tese de Doutorado em Música. Salvador: Universidade Federal da
+Bahia, 2002, p.89)
+Tendo o texto como base, considere:
+| - Pode-se inferir que incentivar o desenvolvimento da audição interior é incumbência também dos professores de
+instrumento e canto.
+III - Ouvir internamente possibilita a compreensão de música cujo som esteja fisicamente ausente.
+II - Educadores musicais têm direcionado seu pensar a assuntos relacionados ao desenvolvimento da audição
+interior.
+Está correto o que se afirma em
+A) I, somente.
+B) II, somente.
+C) IeIII, somente.
+D) I,IIeIII somente.
+E) IIeIII, somente.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="80,1334 271,1334 271,1834 1469,1834 1469,1879 282,1879 282,2093 242,2093 242,2141 80,2141"/>
+	<TextEquiv conf="0.96674">
+	<Unicode>QUESTÃO 26
+Considere:
+Gon! gon! gon! gon! gon - di - lá!
+Esta melodia, extraída de uma partitura para coral a 5 vozes de H. Villa-Lobos, faz referência à cultura de origem
+(A) asiática.
+(B) ameríndia.
+(C) caribenha.
+(D) portuguesa.
+(E) africana.</Unicode></TextEquiv></TextRegion></Page></PcGts>

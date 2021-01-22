@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:54:25</Created>
+	<LastChange>2020-10-23T03:11:50</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-11.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="1567,1168 1567,1465 1320,1465 1320,1468 1072,1468 1072,1471 824,1471 824,1474 576,1474 576,1477 328,1477 328,1480 80,1480 80,1483 79,1483 79,1168"/>
+	<TextEquiv conf="0.96174">
+	<Unicode>QUESTÃO 13
+As informações acima permitem concluir que a taxa de evaporação de água no reservatório, nas 12 semanas observadas, foi
+maior na semana
+(A) 1
+(B) 4
+(C) 6
+(D) 9
+(E) 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="1568,1553 1568,1892 1320,1892 1320,1895 1072,1895 1072,1898 824,1898 824,1900 576,1900 576,1903 328,1903 328,1905 80,1905 80,1908 79,1908 79,1553"/>
+	<TextEquiv conf="0.96271">
+	<Unicode>QUESTÃO 14
+Para estimar a taxa de evaporação de água no reservatório, na 24a
+ semana, considere que a umidade relativa do ar seja
+aproximada pelo valor médio dos dados da figura I e que a velocidade do vento seja aproximada por uma função periódica, com
+período igual a 6 semanas, obtida a partir dos dados da figura II. Qual das opções abaixo melhor estima essa taxa na
+24a
+ semana?
+(A) 3
+(B) 80
+(C) 210
+(D) 480
+(E) 1.080</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="621,261 1031,261 1031,345 1573,345 1573,545 80,545 80,406 79,406 79,345 620,345 620,262 621,262"/>
+	<TextEquiv conf="0.94305">
+	<Unicode>Texto para as questões 13 e 14.
+A taxa de evaporação de água em um reservatório depende da condição climática. Em um modelo simplificado, essa taxa, E,
+pode ser descrita por
+E= av(100- UA),
+em que a é uma constante, v é a velocidade do vento, em m/s, e UR é a umidade relativa do ar, em porcentagem. Nas figuras
+lell, abaixo, são apresentados dados climáticos em determinado reservatório de água, em 12 semanas de observação.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="120,588 120,1160 845,1160 845,588"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="854,571 854,1148 1560,1148 1560,571"/></ImageRegion></Page></PcGts>

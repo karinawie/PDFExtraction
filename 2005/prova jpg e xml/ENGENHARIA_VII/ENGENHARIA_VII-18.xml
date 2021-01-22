@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T11:20:49</Created>
+	<LastChange>2021-01-18T02:31:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-18.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="115,1434 387,1434 387,1531 862,1531 862,1711 488,1711 488,1863 939,1863 939,2037 434,2037 434,2112 103,2112 103,2089 104,2089 104,1962 103,1962 103,1863 181,1863 181,1759 182,1759 182,1615 301,1615 301,1452 115,1452"/>
+	<TextEquiv conf="0.93301">
+	<Unicode>QUESTÃO 38 — DISCURSIVA
+Um dos principais problemas das grandes cidades
+brasileiras é a urbanização desordenada, que provoca impactos
+negativos diretos sobre o sistema de drenagem urbana, como
+sintetizado na figura ao lado.
+Considerando esse problema, apresente e descreva duas medidas do tipo
+estrutural e uma medida do tipo não-estrutural que possam ser implementadas
+para evitar ou amenizar o problema das enchentes nos grandes centros
+urbanos. (valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="948,1482 948,2151 1560,2151 1560,1482"/></ImageRegion>
+	<TextRegion id="r36" type="paragraph">
+	<Coords points="102,887 1551,887 1551,927 1549,927 1549,1094 1537,1094 1537,1306 1550,1306 1550,1368 847,1368 847,1407 104,1407 104,1133 103,1133 103,927 102,927"/>
+	<TextEquiv conf="0.37514">
+	<Unicode>QUESTÃO 37
+Na pavimentação das vias urbanas, é possível optar por pavimento em concreto betuminoso usinado a quente (CBUQ), pavimento em
+concreto permeável (CP) ou pavimento em bloco intertravado (BI). O CBUQ é constituído de concreto betuminoso e agregados de
+pequena dimensão; o CP é constituído de concreto de cimento Portland ou concreto betuminoso e agregados de grande dimensão; o
+pavimento em BI é construído de blocos pré-moldados em concreto, instalados sobre uma camada de areia. Julgue os itens abaixo,
+a respeito de características desses pavimentos.
+O pavimento em BI contribui para o aumento da lâmina de água que se acumula na sua superfície em dias de chuva.
+O pavimento em CP oferece melhores condições de visibilidade e frenagem em dias chuvosos do que o pavimento em CBUQ.
+O pavimento em CP apresenta porcentagens de vazios menores que as do pavimento em CBUQ.
+O pavimento em BI tem maior capacidade de suporte que o pavimento em CBUQ, o que permite o tráfego de veículos de maior
+peso.
+O Para o intertravamento do BI, emprega-se concreto betuminoso.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="103,262 828,262 828,285 675,285 675,418 828,418 828,496 829,496 829,515 838,515 838,871 99,871 99,515 104,515 104,363 103,363"/>
+	<TextEquiv conf="0.96118">
+	<Unicode>QUESTÃO 36
+Na tabela ao lado, são apresentados dados referentes à
+disponibilidade de água nas regiões hidrográficas brasileiras.
+Considerando esses dados, assinale a opção correta.
+A Dado que sua área é maior, a vazão específica na região do
+Amazonas é maior que na região do Tocantins.
+B A região do Parnaíba apresenta a situação mais favorável
+quanto à disponibilidade hídrica, pois a ela corresponde o maior
+valor da relação ETr/P.
+C A região com maior disponibilidade hídrica é a Costeira do
+Norte, por ser a que registra a maior precipitação média.
+D A região Uruguai tem maior capacidade de geração de
+escoamento superficial que a região Tocantins, porque
+apresenta maior vazão específica.
+E A região do São Francisco não é afetada pela seca, pois sua ETr
+é baixa.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r2">
+	<Coords points="845,263 845,850 1560,850 1560,263"/></TableRegion></Page></PcGts>

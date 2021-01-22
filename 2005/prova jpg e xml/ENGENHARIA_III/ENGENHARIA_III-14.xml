@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:53:57</Created>
+	<LastChange>2020-10-23T03:13:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-14.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,423 111,423 111,457 1574,457 1574,616 1575,616 1575,716 1413,716 1413,782 958,782 958,815 81,815 81,782 80,782 80,722 81,722 81,583 79,583 79,491 80,491"/>
+	<TextEquiv conf="0.91169">
+	<Unicode>QUESTÃO 18
+Medições de temperatura através de termopares foram executadas em vários pontos de uma peça que era resfriada por uma
+corrente de ar. Ao serem examinados estes dados experimentais, constatou-se que as variações de temperatura eram muito
+pequenas ao longo da profundidade e da largura da peça. Todos os termopares acusaram uma sensível variação de tempera-
+tura ao longo do tempo. Uma possível conclusão dessa análise é:
+(A) uma análise bidimensional em regime permanente é uma modelagem adequada para a distribuição de temperatura na
+peça.
+(B) uma análise unidimensional transiente da equação geral da condução de calor é uma modelagem adequada para a distri-
+buição de temperatura na peça.
+(C) a distribuição de temperatura depende fortemente das três direções espaciais.
+(D) o conceito de resistência térmica de condução é suficiente para a modelagem do problema acima descrito.
+(E) o modo de transferência de calor preponderante é a radiação térmica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,853 111,853 111,887 1574,887 1574,1013 208,1013 208,1046 206,1046 206,1183 89,1183 89,1188 89,1046 88,1046 88,1013 79,1013 79,887 80,887"/>
+	<TextEquiv conf="0.96899">
+	<Unicode>QUESTÃO 19
+Gases de exaustão de uma caldeira, com temperatura de 230 ºC, podem ser utilizados para preaquecer o ar ambiente, com
+temperatura de 30 ºC. O ar aquecido é fornecido para o queimador da caldeira através de um trocador de calor, com 70% de
+eficiência. Igualando a vazão do ar a ser aquecido à dos gases de exaustão e considerando que os calores específicos são
+aproximadamente iguais, qual será a temperatura do ar aquecido?
+A) 70ºC
+B) 100ºC</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="79,1679 107,1679 107,1714 395,1714 395,1747 1574,1747 1574,1840 977,1840 977,1906 685,1906 685,1939 600,1939 600,1972 529,1972 529,2005 300,2005 300,2031 81,2031 81,2038 80,2038 80,2039 80,1680 79,1680"/>
+	<TextEquiv conf="0.96875">
+	<Unicode>QUESTÃO 21
+Analise a situação abaixo.
+Um veranista sente bastante calor ao chegar a sua casa de praia e se irrita ao constatar que o sistema de ar condicionado do
+seu quarto não está funcionando. Tentando solucionar o problema e resfriar o quarto, ele teve a idéia de ligar o frigobar que se
+encontra no interior do quarto, deixando sua porta aberta. As portas e janelas do quarto foram mantidas fechadas.
+Pela decisão do veranista, conclui-se que, ao longo do tempo, o quarto
+(A) será resfriado, se o COP (coeficiente de eficácia) for maior do que 1,0.
+(B) será resfriado, se o COP for menor do que 1,0.
+(C) será resfriado, se o COP for igual a 1,0.
+(D) ficará com a mesma temperatura.
+(E) será aquecido.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="1276,1246 1574,1246 1574,1247 1575,1247 1575,1377 1138,1377 1138,1410 639,1410 639,1452 309,1452 309,1639 149,1639 149,1640 91,1640 91,1641 90,1641 90,1504 89,1504 89,1503 88,1503 88,1410 80,1410 80,1349 79,1349 79,1317 81,1317 81,1251 82,1251 82,1250 380,1250 380,1249 679,1249 679,1248 977,1248 977,1247 1276,1247"/>
+	<TextEquiv conf="0.95303">
+	<Unicode>QUESTÃO 20
+Em uma comunidade rural, necessita-se elevar a água a uma altura manométrica de 10 m e vazão de 0,1 mê/s. Para esta
+inalidade, foi recebida, como doação da comunidade européia, uma bomba centrífuga selecionada para este objetivo, porém
+com motor síncrono que opera a 3000 rom em 50 Hz, diferente da frequência da rede local, que é de 60 Hz. Para resolver este
+problema, mantendo a mesma altura e vazão, deve-se reduzir o diâmetro do rotor, que originalmente tem 1,2m.
+Quais serão, respectivamente, o novo diâmetro do rotor e a potência fornecida ao fluido?
+Considere g = 10 m/s? e Paágua = 1000 kg/m?)
+A) 1,5m e 30 kW
+B) 1,8 m e 10 kW
+C) 1,1 me10kW
+D) 1,0 m e 20 kW
+E) 1,0m e 10 kW</Unicode></TextEquiv></TextRegion></Page></PcGts>

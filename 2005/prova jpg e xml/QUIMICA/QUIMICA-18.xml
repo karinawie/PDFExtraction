@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:17:43</Created>
+	<LastChange>2020-10-20T23:15:08</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,1338 82,1338 82,1339 580,1339 580,1340 1078,1340 1078,1341 1575,1341 1575,1395 1574,1395 1574,1628 1037,1628 1037,1835 1093,1835 1093,1836 1574,1836 1574,2028 1077,2028 1077,2027 579,2027 579,2026 82,2026 82,2025 81,2025 81,1934 130,1934 130,1789 128,1789 128,1628 82,1628 82,1627 81,1627"/>
+	<TextEquiv conf="0.96496">
+	<Unicode>QUESTÃO 5
+O ácido sulfúrico é um líquido denso e incolor de grande importância na indústria e no laboratório. E um dos produtos químicos
+mais fabricados e consumidos no mundo e a sua produção tem sido utilizada para avaliar a força da atividade industrial de um
+país. Cerca de dois terços de sua produção são usados na indústria de fertilizantes para a preparação de superfosfatos.
+a) Cite outras três aplicações do ácido sulfúrico na indústria.
+(valor: 3,0 pontos)
+b) Paraorientar os funcionários de uma indústria sobre os cuidados com o manuseio do ácido sulfúrico concentrado, foram
+feitas as recomendações a seguir.
+* Ao diluir o ácido, deve-se verter a água lentamente sobre o ácido.
+* Ao eliminar efluentes residuais, o ácido deve ser previamente neutralizado.
+* Armazenar o ácido longe de cloratos e cromatos.
+* Evitar o contato com metais.
+Indique se essas recomendações estão corretas, justificando cada uma delas.
+(valor: 4,0 pontos)
+c) Otratamento de uma rocha fosfática com ácido sulfúrico produz uma mistura de sulfato e fosfatos denominada superfosfato.
+Escreva uma equação química balanceada para este processo.
+(valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="81,368 82,368 82,369 96,369 96,398 1576,398 1576,597 1575,597 1575,737 1574,737 1574,888 1575,888 1575,920 1574,920 1574,983 1088,983 1088,982 615,982 615,1196 651,1196 651,1197 1219,1197 1219,1271 81,1271 81,1057 113,1057 113,920 82,920 82,919 81,919"/>
+	<TextEquiv conf="0.96112">
+	<Unicode>QUESTÃO 4
+É importante relacionar a estrutura molecular com propriedades observáveis de um sistema. Há dois modelos principais para
+descrever a estrutura eletrônica em sistemas moleculares: a teoria da ligação de valência (LV) e a teoria dos orbitais
+moleculares (OM). A primeira é uma extensão da teoria de Lewis, levando-se em conta os seguintes princípios da mecânica
+quântica: os orbitais atômicos contendo elétrons desemparelhados se superpõem e os elétrons emparelham-se, formando as
+ligações. A segunda é uma extensão do princípio da estruturação: os elétrons ocupam os orbitais moleculares em ordem
+crescente de energia, obedecendo ao princípio da exclusão de Pauli e à regra de Hund da máxima multiplicidade.
+a) Descreva a formação da molécula de O, pela teoria LV, indicando que multiplicidade (singleto ou tripleto) este modelo prevê
+para esta molécula.
+(valor: 3,0 pontos)
+b) Como a teoria OM descreve a molécula de O,? Que multiplicidade esse modelo prevê?
+(valor: 3,0 pontos)
+c) Sabe-se que a molécula de O, é paramagnética e que não absorve na região do infravermelho. Explique estas duas propri-
+edades.
+(valor: 4,0 pontos)
+Dados:
+* Considere o eixo z como o eixo da ligação.
+* Ordenamento dos OM por ordem crescente de energia
+o,1s &lt;o ls&lt; o,2s &lt;o 28 &lt; 9,2P, &lt;T ,2p,=1T u2P,&lt; Tn2P, -= 1 2P,&lt; 0 /2p,&lt;-.</Unicode></TextEquiv></TextRegion></Page></PcGts>

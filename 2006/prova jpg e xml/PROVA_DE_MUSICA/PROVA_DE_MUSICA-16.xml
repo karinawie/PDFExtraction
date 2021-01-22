@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T02:41:28</Created>
+	<LastChange>2020-10-21T02:59:51</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_MUSICA-16.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="163,566 163,652 1186,652 1186,566"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,1418 271,1418 271,1466 1574,1466 1574,1683 1573,1683 1573,1817 1251,1817 1251,2021 1574,2021 1574,2074 1567,2074 1567,2156 80,2156"/>
+	<TextEquiv conf="0.96272">
+	<Unicode>QUESTÃO 30
+Em contraposição à chamada educação tradicional, centrada na atividade de ensino e na figura do professor como
+principal detentor do saber, as tendências pedagógicas construtivistas caracterizam-se por considerar a importância da
+aprendizagem como atividade do aluno, em seu processo pessoal e contínuo de construção de conhecimento.
+Entre as propostas que durante o século XX marcaram presença na educação musical brasileira, qual delas
+caracterizou-se principalmente por mudança de foco semelhante à que se descreveu acima?
+(A) As propostas pedagógicas de escolas livres surgidas no Brasil principalmente a partir da década de 1960, em
+resposta a uma demanda que tinha a canção popular como principal referência cultural.
+(B) As propostas brasileiras inspiradas nas pedagogias das escolas de jazz norte-americanas.
+(C) As propostas dos conservatórios que se inspiraram no Conservatório de Paris.
+(D) As propostas inspiradas nas chamadas pedagogias ativas, surgidas na Europa a partir das idéias de Jacques
+Dalcroze.
+(E) As propostas pedagógicas inspiradas na música de compositores que elevaram o ruído à categoria de som musical.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="80,240 631,240 631,370 1345,370 1345,450 1574,450 1574,508 79,508 79,450 311,450 311,313 80,313"/>
+	<TextEquiv conf="0.96764">
+	<Unicode>QUESTÃO 29
+Considere a seguinte progressão harmônica:
+Ré menor com 72º menor — Sol maior com 72 menor — Dó maior com 7º maior
+A melodia que, quando tocada por um instrumento solista e sem nenhum tipo de acompanhamento, melhor expressa a
+progressão harmônica acima é:</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="174,737 174,823 1197,823 1197,737"/></ImageRegion>
+	<ImageRegion id="r8">
+	<Coords points="166,905 166,991 1189,991 1189,905"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="145,1062 145,1197 1214,1197 1214,1062"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="146,1253 146,1388 1215,1388 1215,1253"/></ImageRegion></Page></PcGts>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T09:26:07</Created>
+	<LastChange>2021-01-18T01:56:22</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-21.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r2">
+	<Coords points="823,1019 822,2154 825,2154 826,1019"/></SeparatorRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords points="845,1502 1548,1502 1548,1587 1549,1587 1549,1892 1180,1892 1180,2017 1289,2017 1289,2135 884,2135 884,2130 845,2130 845,1925 884,1925 884,1802 845,1802"/>
+	<TextEquiv conf="0.96204">
+	<Unicode>QUESTÃO 40
+Para que o aparecimento da fase líquida do carbono seja viável
+energeticamente, é necessário que
+I o diagrama de fases do carbono grafite apresente um ponto
+eutéctico.
+II a sublimação do carbono grafite sólido seja acompanhada da
+absorção de calor de vaporização (entalpia), para serem
+vencidas as forças de ligação entre as partículas do sólido.
+III o calor de fusão (entalpia) seja menor que o de sublimação, na
+temperatura de fusão.
+IV a curva de equilíbrio de fases em um diagrama pressão versus
+temperatura, que mostra as regiões de equilíbrio sólido-vapor,
+sólido-líquido e líquido-vapor, apresente o ponto triplo a uma
+pressão bem abaixo da pressão atmosférica.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e IV estão certos.
+E Apenas os itens III e IV estão certos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="heading">
+	<Coords points="114,116 240,116 240,243 661,243 661,170 990,170 990,243 1492,243 1492,541 1549,541 1549,950 723,950 723,990 140,990 140,950 102,950 102,949 101,949 101,541 159,541 159,133 114,133"/>
+	<TextEquiv conf="0.96052">
+	<Unicode>QUESTÃO 38
+Na era dos lasers de terawatts
+Um instituto de pesquisa tecnológica de São Paulo inaugurou uma estação experimental que dispõe de um novo laser
+de | terawatt de potência, que permite pesquisas com aplicações práticas nas áreas de saúde, meio ambiente e nanotecnologia.
+Dez multiplicado por dez doze vezes. Essa conta, que chega à casa do trilhão, oferece a real dimensão do que representa 1
+terawatt de potência. O sistema montado atingirá esse gigantesco valor em um tempo de pulsação que pode chegar a um
+segundo dividido por mil trilhões. Essa unidade é conhecida pelos especialistas como femtossegundo. Segundo os engenheiros
+envolvidos no projeto, uma das aplicações será a leitura dos componentes químicos que poluem a atmosfera. Outra aplicação
+será a de um processo de abrasão em tecidos biológicos, por exemplo, nos dentes.
+Considere que o dente seja formado exclusivamente por esmalte com comportamento de um material cerâmico típico. Nesse caso, o
+uso de laser sobre o dente a ser tratado é viável porque
+O oesmalte é altamente condutor de eletricidade, o que torna a ação do laser efetiva na abrasão do material.
+O o esmalte é altamente condutor de calor, razão pela qual a ação do laser é efetiva na abrasão do material.
+O olaser atua de maneira bem seletiva com mínima transmissão de calor lateral, sendo possível agir sobre o tecido a ser tratado sem
+destruir o que está em volta.
+O olaser na potência de | terawatt gera 106 Joules de calor numa área mínima de foco do laser de 3 cm?, o que permite ação de
+abrasão bem seletiva.
+O o tempo de exposição do laser é curto, o que aumenta a efetividade da abrasão sobre o material cerâmico do dente, já que a
+potência dissipada não depende da área a ser tratada.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="101,1027 463,1027 463,1113 574,1113 574,1193 788,1193 788,2135 787,2135 787,2136 120,2136 120,1193 333,1193 333,1050 101,1050"/>
+	<TextEquiv conf="0.96393">
+	<Unicode>Texto para as questões 39 e 40.
+Salto nanotecnológico
+Destaca-se, na atuação de engenheiros da área de
+materiais, a busca de novas estruturas que possam ser aplicadas
+na fabricação de micro e nanoelementos para a indústria
+eletrônica. Nesse sentido, o uso de peças de metal, para se
+controlar o fluxo elétrico em dispositivos bastante específicos
+poderá, em breve, ser desnecessário.
+Pesquisa desenvolvida pela Universidade da Califórnia,
+nos Estados Unidos, mostra que o nanotubo de carbono
+(diâmetro típico de | nm) poderá também desempenhar o
+papel de controlador elétrico. Um nanotubo de carbono é uma
+monocamada de átomos de carbono na forma de rolo de
+dimensões nanométricas, caracterizado por um certo diâmetro
+e um certo ângulo de helicidade, características que o definem
+completamente. Aparentemente, os nanotubos de carbono são
+gerados a partir de gotas de carbono que aparecem a
+temperaturas de alguns milhares de graus Celsius quando
+utilizado o método do arco elétrico. Não há provas da
+existência da fase líquida do carbono. Como a temperatura de
+fusão do carbono, em pressão atmosférica, é da ordem de
+5.000ºC, alguns cientistas acreditam que o carbono evapora
+antes de fundir. Entretanto, os nanotubos de carbono
+observados através de microscopia eletrônica revelaram a
+ocorrência de bolhas que lembram as gotas de orvalho que se
+formam sobre os fios de uma teia de aranha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="heading">
+	<Coords points="858,1037 1551,1037 1551,1068 1549,1068 1549,1213 1401,1213 1401,1217 1100,1217 1100,1347 1285,1347 1285,1434 884,1434 884,1246 845,1246 845,1068 844,1068 858,1068"/>
+	<TextEquiv conf="0.73093">
+	<Unicode>QUESTÃO 39
+O primeiro passo para se viabilizar essa nova tecnologia na
+fabricação de dispositivos semicondutores (chips) é a
+caracterização estrutural dos nanotubos de carbono. Para
+corretamente se caracterizar a estrutura de um nanotubo de
+carbono isolado (diâmetro e helicidade), a técnica mais
+apropriada é
+A difração de raios X.
+B cromatografia.
+C análise térmica diferencial.
+D microscopia eletrônica.
+E espectrometria de absorção atômica.</Unicode></TextEquiv></TextRegion></Page></PcGts>

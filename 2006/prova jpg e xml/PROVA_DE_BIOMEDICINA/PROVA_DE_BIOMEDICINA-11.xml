@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T04:42:03</Created>
+	<LastChange>2021-01-18T11:44:43</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="142,834 142,1665 1625,1665 1625,834"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="81,240 267,240 267,281 1574,281 1574,370 1325,370 1325,371 918,371 918,481 903,481 903,571 885,571 885,617 687,617 687,618 90,618 90,575 80,575 80,371 79,371 79,281 80,281 80,241 81,241"/>
+	<TextEquiv conf="0.94833">
+	<Unicode>QUESTÃO 21
+A pressão arterial é regulada por diversos mecanismos, sendo um dos mais importantes o que inclui os
+pressorreceptores arteriais e suas conexões com os circuitos que regulam a atividade cardíaca e vascular. Na
+hemorragia aguda, os pressorreceptores desencadeiam uma resposta que se caracteriza por
+A) aumento da atividade cardíaca e vasodilatação periférica.
+B) diminuição da atividade cardíaca e vasoconstrição coronariana.
+(C) aumento da atividade cardíaca e vasoconstrição periférica.
+(D) diminuição da atividade cardíaca e vasodilatação coronariana.
+(E) diminuição da atividade cardíaca e vasoconstrição periférica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="80,685 271,685 271,726 1574,726 1574,813 1325,813 1325,814 1240,814 1240,1810 1574,1810 1574,2155 1326,2155 1326,2156 1077,2156 1077,2157 828,2157 828,2158 579,2158 579,2159 330,2159 330,2160 81,2160 81,2161 80,2161 80,815 79,815 79,726 80,726"/>
+	<TextEquiv conf="0.96807">
+	<Unicode>QUESTÃO 22
+A proteína Ey de Drosophila regula a expressão gênica e desencadeia a diferenciação de todos os tipos celulares
+necessários à formação do olho da mosca. Em 1995, Halder et all inseriram um vetor contendo o gene ey em um grupo
+de células que dá origem à perna do embrião de Drosophila e surgiu um olho na perna.
+Este resultado sugere que
+(A) a proteína Ey exerce diferentes funções, dependendo da posição das células no embrião.
+(B) a proteína Ey é uma proteína de superfície celular, capaz de receber sinais que indicam a localização da célula no
+embrião.
+(C) o gene ey inserido nas células que dariam origem à perna induziu apoptose destas células e substituição por células
+diferenciadas.
+(D) a proteína Ey é capaz de desencadear todos os mecanismos necessários à diferenciação celular, para formar todas
+as complexas estruturas do olho da mosca.
+(E) na mosca normal só existe o gene ey nas células que darão origem ao olho e esta distribuição seletiva de genes é a
+base da diferenciação celular durante o desenvolvimento embrionário.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:40:56</Created>
+	<LastChange>2021-01-18T02:57:10</LastChange></Metadata>
+	<Page imageFilename="FISICA-10.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r2">
+	<Coords points="77,914 77,1245 788,1245 788,914"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="797,80 797,2231 811,2231 811,80"/></SeparatorRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="123,95 124,95 124,96 776,96 776,120 775,120 775,179 774,179 774,180 440,180 440,280 439,280 439,382 408,382 408,559 503,559 503,660 568,660 568,686 187,686 187,685 186,685 186,683 124,683 124,660 186,660 186,457 187,457 187,378 124,378 124,179 123,179 123,115 61,115 61,96 123,96"/>
+	<TextEquiv conf="0.95885">
+	<Unicode>QUESTÃO 15
+Sabendo que a energia armazenada na bobina é dada por
+E = LI?/2, pode-se afirmar que a potência dissipada na
+bobina é nula
+(A) somente no instante to-
+(B) nos instantes t,, t, e t,.
+(C) nos instantes t, e t;.
+(D) nos instantes t,, t., t., tz et,
+(E) em todos os instantes entre t, e t,.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="61,763 775,763 775,834 679,834 679,876 422,876 422,1408 776,1408 776,1661 775,1661 775,2187 748,2187 748,2218 187,2218 187,2217 186,2217 186,2157 124,2157 124,2133 186,2133 186,1629 124,1629 124,875 123,875 123,782 61,782"/>
+	<TextEquiv conf="0.96448">
+	<Unicode>QUESTÃO 16
+Considere as seguintes possibilidades para o sentido da
+corrente induzida no anel, IT. E para a direção do
+campo magnético B resultante que atua sobre ele.
+Pode-se afirmar que o anel
+(A) só salta quando a corrente na bobina atinge o valor
+máximo positivo, no instante t,, e os sentidos de
+Tan E B são como indicados em a.
+(B) só salta quando a corrente na bobina atinge o valor
+máximo negativo, no instante tz, e os sentidos de
+Tonel E B são como indicados em b.
+(C) salta num instante anterior a t, e os sentidos de I
+e B são como indicados em c.
+(D) salta num instante posterior a t, e os sentidos de
+Tanei E B são como indicados em d.
+(E) só saltaria se o sentido da corrente na bobina fosse
+oposto ao indicado na figura | e, neste caso, os
+sentidos de I,,,, e B seriam como indicados em a.</Unicode></TextEquiv></TextRegion></Page></PcGts>

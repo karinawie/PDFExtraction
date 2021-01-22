@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:14:53</Created>
+	<LastChange>2020-11-13T11:54:48</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-10.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="803,106 804,2154 807,2154 806,106"/></SeparatorRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="103,174 379,174 379,246 785,246 785,247 786,247 786,567 379,567 379,689 527,689 527,797 536,797 536,820 444,820 444,851 142,851 142,639 103,639 103,616 104,616 104,197 103,197"/>
+	<TextEquiv conf="0.95084">
+	<Unicode>QUESTÃO 19
+Julgue os itens seguintes.
+1 (Vx P(xX))V(Vx -P(x)) é uma sentença válida porque existe
+uma interpretação que a torna verdadeira.
+Il A frase “Se um carro é mais caro que todos os carros
+nacionais, ele deve ser alemão” pode ser traduzida pela
+seguinte sentença: Vx carro(x) AVy [carro(y) Afabricado(y,
+Brasil) A (preco(x) &gt; preco(y)) = fabricado(x, Alemanha).
+III A frase “Existe um aluno que gosta de todas as disciplinas
+difíceis” pode ser traduzida por: 3x aluno(x) À Vy
+[disciplina(y) A difícil(y)] À gosta(x, y).
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens [ e II estão certos.
+Apenas os itens [ e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="103,936 785,936 785,1031 775,1031 775,1189 784,1189 784,1225 785,1225 785,1356 142,1356 142,1068 104,1068 104,1031 103,1031"/>
+	<TextEquiv conf="0.96533">
+	<Unicode>QUESTÃO 20
+A orientação a objetos é uma forma abstrata de pensar um
+problema utilizando-se conceitos do mundo real e não, apenas,
+conceitos computacionais. Nessa perspectiva, a adoção do
+paradigma orientado a objetos implica necessariamente que
+os usuários utilizem as aplicações de forma mais simples.
+os sistemas sejam encapsulados por outros sistemas.
+os programadores de aplicações sejam mais especializados.
+os objetos sejam implementados de maneira eficiente e
+simples.
+a computação seja acionada por troca de mensagens entre
+objetos.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="103,1433 785,1433 785,1589 786,1589 786,1892 408,1892 408,1954 254,1954 254,2139 143,2139 143,1954 104,1954 104,1892 103,1892 103,1838 104,1838 104,1549 103,1549"/>
+	<TextEquiv conf="0.95711">
+	<Unicode>QUESTÃO 21
+No modo recursivo de representação, a descrição de um
+conceito faz referência ao próprio conceito. Julgue os itens
+abaixo, com relação à recursividade como paradigma de
+programação.
+I São elementos fundamentais de uma definição recursiva:
+o caso-base (base da recursão) e a reaplicação da definição.
+1 O uso da recursão não é possível em linguagens com
+estruturas para orientação a objetos.
+III As linguagens de programação funcionais têm, na recursão,
+seu principal elemento de repetição.
+IV No que diz respeito ao poder computacional, as estruturas
+iterativas e recursivas são equivalentes.
+V Estruturas iterativas e recursivas não podem ser misturadas
+em um mesmo programa.
+Estão certos apenas os itens
+IelV.
+Nel.
+LHTelV.
+Lev.
+I,IVeV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="heading">
+	<Coords points="826,171 1549,171 1549,263 1550,263 1550,408 1549,408 1549,562 1548,562 1548,654 1033,654 1033,685 865,685 865,562 826,562"/>
+	<TextEquiv conf="0.96370">
+	<Unicode>QUESTÃO 22
+Com relação ao gerenciamento de memória com paginação em
+sistemas operacionais, assinale a opção correta.
+O As páginas utilizadas por um processo, sejam de código ou de
+dados, devem ser obrigatoriamente armazenadas na partição de
+swap do disco, quando o processo não estiver sendo executado.
+O Todas as páginas de um processo em execução devem ser
+mantidas na memória física enquanto o processo não tiver
+terminado.
+O Um processo somente pode ser iniciado se o sistema
+operacional conseguir alocar um bloco contíguo de páginas do
+tamanho da memória necessária para execução do processo.
+O Oespaço de endereçamento virtual disponível para os processos
+pode ser maior que a memória física disponível.
+Um processo somente pode ser iniciado se o sistema
+operacional conseguir alocar todas as páginas de código
+desse processo.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r56" type="heading">
+	<Coords points="826,755 1550,755 1550,843 1548,843 1548,1001 1550,1001 1550,1023 1549,1023 1549,1146 1528,1146 1528,1238 1220,1238 1220,1422 865,1422 865,1238 846,1238 846,1233 826,1233 826,1216 846,1216 846,1215 865,1215 865,1089 864,1089 864,1079 826,1079 826,1001 865,1001 865,932 864,932 864,869 826,869"/>
+	<TextEquiv conf="0.96156">
+	<Unicode>QUESTÃO 23
+Em uma perspectiva instrumental clássica, é possível considerar
+que uma organização empresarial esteja dividida em funções e em
+veis hierárquicos ou decisórios. Considere as seguintes
+definições.
+I Nível   responsável   pelas   decisões   mais   abrangentes   daorganização que possuem impacto no longo prazo e permitemdirecionar e caracterizar o futuro da organização.
+IINível  da  rotina  diária  da  organização,  caracterizado  pordecisões de impacto a curto prazo.
+IIINível  responsável  pelas  decisões  setoriais  da  organização,focado    na    concretização    das    estratégias    a    partir    doacompanhamento   e   do   controle   das   atividades   que   irãoconcretizar os objetivos estabelecidos.
+As definições acima correspondem, respectivamente, aos níveis
+A estratégico, operacional e tático.
+B tático, operacional e estratégico.
+C operacional, estratégico e tático.
+D estratégico, tático e operacional.
+E tático, estratégico e operacional.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="865,1489 1511,1489 1511,1895 1392,1895 1392,1957 1148,1957 1148,2141 865,2141 865,1957 826,1957 826,1934 865,1934"/>
+	<TextEquiv conf="0.96193">
+	<Unicode>QUESTÃO 24
+Na definição da aquisição de um novo software de
+banco de dados (SGBD) para uma empresa da área de
+transporte coletivo urbano, a direção da área de Informática
+conduziu o processo de decisão da seguinte forma: foi
+designado um profissional da área de banco de dados (aquele
+com maior experiência na área) e atribuída a ele a tarefa de
+decidir qual seria o melhor SGBD a ser adquirido. Esse
+profissional desenvolveu uma série de estudos sobre as opções
+disponíveis utilizando técnicas de simulação e testes específicos
+para cada SGBD analisado. Ao final, apresentou ao diretor
+um relatório em que indicava claramente qual o melhor SGBD
+(solução ótima) disponível no mercado. Com base nessa
+informação, o diretor da empresa disparou o processo de
+compra do software (SGBD) indicado.
+Esse processo decisório classifica-se na abordagem
+A racional.
+B de racionalidade limitada.
+C política.
+D do incrementalismo.
+E do componente subjetivo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

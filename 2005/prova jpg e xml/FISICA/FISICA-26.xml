@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:38:12</Created>
+	<LastChange>2021-01-18T02:47:30</LastChange></Metadata>
+	<Page imageFilename="FISICA-26.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="123,1463 1555,1463 1555,1697 1037,1697 1037,1759 727,1759 727,1822 677,1822 677,1982 840,1982 840,1983 1555,1983 1555,2037 1554,2037 1554,2134 1549,2134 1549,2193 123,2193 123,1982 124,1982 124,1889 131,1889 131,1759 115,1759 115,1735 132,1735 132,1573 123,1573"/>
+	<TextEquiv conf="0.96336">
+	<Unicode>QUESTÃO 6
+Um professor ouve falar na mídia que o aquecimento global vai derreter a calota polar no hemisfério norte e isso vai provocar a
+subida do nível do mar alagando e destruindo cidades litorâneas de todo o mundo. Decide trazer esse problema como tema de
+aula e para tornar essa idéia mais concreta, orienta os seus alunos para realizarem em sala de aula a seguinte atividade
+experimental de demonstração:
+I. colocarum bloco de gelo flutuando em um recipiente com água;
+II. assinalar o nível inicial da água;
+III. aguardar o derretimento do bloco para verificar a variação do nível da água;
+IV. repetir o procedimento dissolvendo sal na água.
+Baseado nos seus conhecimentos de hidrostática:
+a) Demonstre que na 1º etapa da experiência (itens T, IT e ITI) o nível da água no recipiente não se altera.
+(valor: 4,0 pontos)
+b) Demonstre que na 2º etapa da experiência (item IV) o nível da água no recipiente sobe ligeiramente.
+(valor: 4,0 pontos)
+c) O que essa atividade permite concluir sobre as previsões da mídia? (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="488,677 488,1057 1131,1057 1131,677"/></ImageRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="123,552 1554,552 1554,650 1549,650 1549,1181 1554,1181 1554,1331 1549,1331 1549,1392 123,1392"/>
+	<TextEquiv conf="0.94924">
+	<Unicode>QUESTÃO 5
+No circuito representado no esquema abaixo, a chave S, está inicialmente fechada, há muito tempo, e a chave S, está aberta.
+No instante t = O, a chave S, é fechada e a chave S, aberta, simultaneamente. Considere dados os valores da resistência R,
+capacitância C, indutância L e tensão V.
+a) Determine a corrente I no circuito, antes do instante t = O. (valor: 2,0 pontos)
+b) Supondo que o valor de R seja muito menor que aL, onde o é a frequência angular, faça um gráfico qualitativo da corrente
+máxima no circuito, após o instante t = O, em função de o. (valor: 2,0 pontos)
+c) Nestamesma condição, determine o máximo valor possível da energia armazenada no capacitor, após o instante t = O.
+(valor: 4,0 pontos)
+d) Determine a energia total dissipada no resistor entre t = 0 e t—-. (valor: 2,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="123,215 1555,215 1555,298 1549,298 1549,482 123,482"/>
+	<TextEquiv conf="0.95822">
+	<Unicode>QUESTÃO 4
+Uma caixa cúbica de lado L, contendo um mol de hélio em seu interior, encontra-se a uma temperatura T. A caixa é colocada
+sobre a superfície da Terra. O efeito do campo gravitacional uniforme da Terra sobre os átomos de hélio deve ser considerado,
+com a aceleração da gravidade, g , e a massa dos átomos deste gás, m.
+a) Determine a energia cinética média de um átomo. (valor: 3,0 pontos)
+b) Calculeo momento linear médio transferido para as paredes da caixa devido à colisão de um átomo. * (valor: 3,0 pontos)
+c) Calcule a energia potencial gravitacional média de um átomo. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

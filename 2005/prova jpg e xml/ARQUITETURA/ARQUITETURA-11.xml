@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T03:00:46</Created>
+	<LastChange>2020-11-13T03:39:07</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="351,435 350,830 1303,833 1304,438"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,264 80,265 110,265 110,301 1574,301 1574,397 1531,397 1531,953 757,953 757,1057 659,1057 659,1093 395,1093 395,1092 130,1092 130,1091 81,1091 81,922 79,922 79,301 80,301"/>
+	<TextEquiv conf="0.94127">
+	<Unicode>QUESTÃO 10
+A Escola do Conjunto Pedregulho, projetada por Affonso Eduardo Reidy, pertence à rede municipal de edifícios escolares do
+Rio de Janeiro e é utilizada da 1º à 4º série do ensino fundamental. Sabe-se que usuários nesta faixa etária precisam de maior
+concentração nas tarefas desenvolvidas e que, por isso, o nível de ruído de fundo das salas tem de atender à NBR 10 151.
+A partir da observação da figura, pode-se concluir que a escola atende às exigências da norma citada porque o arquiteto:
+utilizou vegetação nas áreas externas.
+utilizou cobogó na circulação.
+trabalhou com superfícies paralelas.
+hierarquizou as atividades sonoras pela setorização.
+(A)  utilizou vegetação nas áreas externas.(B)  utilizou cobogó na circulação.(C)  trabalhou com superfícies paralelas.(D)  hierarquizou as atividades sonoras pela setorização.(E)  utilizou pátio descoberto anexo ao auditório.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r2">
+	<Coords points="365,1502 365,1991 1262,1991 1262,1502"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,1134 80,1135 104,1135 104,1170 1573,1170 1573,1230 723,1230 723,1336 1024,1336 1024,1370 1030,1370 1030,1397 976,1397 976,1431 386,1431 386,1430 90,1430 90,1363 89,1363 89,1296 81,1296 81,1263 80,1263 80,1230 79,1230 79,1170 80,1170"/>
+	<TextEquiv conf="0.74599">
+	<Unicode>QUESTÃO 11
+Analise, abaixo, a secção da estrutura da Galeria de Exposição do Museu de Arte Moderna do Rio de Janeiro, também
+projetado por A. E. Reidy.
+Com relação aos vínculos A, B, C e D, conclui-se que
+(A) todos os vínculos são articulados fixos.
+B) todos os vínculos são engastes.
+C) os vínculos A, C e D são articulados fixos e o vínculo B é articulado móvel.
+D) os vínculos C e D são articulados móveis e os vínculos Ae B são engastes.
+E) os vínculos A, B e C são engastes e o vínculo D é um articulado móvel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

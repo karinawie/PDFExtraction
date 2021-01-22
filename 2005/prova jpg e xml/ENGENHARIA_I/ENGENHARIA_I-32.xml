@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:58:16</Created>
+	<LastChange>2020-11-13T12:43:20</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-32.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,437 107,437 107,479 1573,479 1573,640 1575,640 1575,667 1573,667 1573,922 1575,922 1575,989 1573,989 1573,1149 81,1149 81,1150 80,1150 80,438 79,438"/>
+	<TextEquiv conf="0.91404">
+	<Unicode>41
+No arranjo geral dos portos, normalmente se podem distinguir três partes componentes: o canal de acesso, o ante-porto e o
+porto propriamente dito, com sua bacia de evolução e instalações de acostagem. O canal de acesso liga as profundidades
+existentes em alto mar às profundidades dos berços de atracação dos portos, permitindo a entrada dos navios nas instalações
+aquaviárias dos portos. O ante-porto é área marítima onde os navios fundeiam quando entram no porto, aguardando a permis-
+são para atracação. O porto é onde se encontram as instalações de acostagem dos navios, próximo às quais se estende a
+bacia de evolução das embarcações que atracam no porto. Essa última área serve às manobras dos navios na atracação e
+desatracação.
+Considerando as informações acima, tem-se como correta a afirmação:
+(A) Instalações de acostagem são estruturalmente dimensionadas, considerando-se a velocidade de atracação de navios em
+condições de carregamento máximo.
+(B) O regime de ventos não é considerado na definição da orientação ideal para canais de acesso portuário.
+(C) A dimensão ótima de uma bacia de evolução consiste numa área circular cujo diâmetro é igual ao comprimento da
+embarcação tipo.
+(D) Paratrafegar no canal de acesso e nas bacias e atracar no cais, o navio conta com o trabalho do prático, que é um membro
+da tripulação especializado nesse tipo de manobra.
+(E) O cálculo das dimensões da largura de fundo do canal de acesso é função do calado da embarcação tipo e dos tipos de
+cargas transportadas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,1202 111,1202 111,1244 1574,1244 1574,1311 1214,1311 1214,1351 963,1351 963,1446 746,1446 746,1489 737,1489 737,1599 1575,1599 1575,1828 624,1828 624,1949 611,1949 611,2028 90,2028 90,2029 80,2029 81,2029 81,2028 90,2028 90,1868 89,1868 89,1828 79,1828 79,1599 80,1599 80,1352 79,1352"/>
+	<TextEquiv conf="0.96872">
+	<Unicode>42
+Uma pequena cidade, com problemas de abastecimento de água, necessita desenvolver um estudo para implantação de uma
+adutora de recalque.
+O projeto deverá ter um tempo de alcance até o ano 2005 e considerar os seguintes aspectos:
+* aprevisão populacional da cidade, para esta data, é de 8 640 habitantes;
+* a adutora deverá funcionar continuamente;
+* osistema será provido de reservatório de distribuição;
+* o consumo diário por pessoa (q) é de 100L/hab/dia;
+* o coeficiente de máximo consumo diário (K1) = 1,25.
+Após a instalação da adutora, toda tubulação de recalque deve ser testada quanto à pressão, lavada para remover toda a
+sujeira e materiais estranhos e desinfetada. Para a desinfecção da tubulação de água nova será usada uma solução aquosa de
+hipoclorito de sódio que apresenta 12% de cloro ativo. Considere que a demanda de cloro medida é de 0,7 pom = 0,7 mg/L e
+que se deve manter um residual de cloro de 0,5 mg/L após a desinfecção.
+Nestas condições, qual a vazão da adutora e qual a quantidade de hipoclorito de sódio que deve ser aplicada para a sua
+desinfecção?
+(A) 12,50 L/s e 0,90 g/min, respectivamente.
+(B) 12,50 L/s e 7,50 g/min, respectivamente.
+(C) 12,50 L/s e 11,25 gímin, respectivamente.
+(D) 15,00 L/s e 0,90 g/min, respectivamente.
+(E) 15,00 L/s e 7,50 g/min, respectivamente.</Unicode></TextEquiv></TextRegion></Page></PcGts>

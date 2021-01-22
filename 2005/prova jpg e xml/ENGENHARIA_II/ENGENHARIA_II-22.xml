@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:12:13</Created>
+	<LastChange>2020-11-13T12:56:54</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="525,376 525,542 1132,541 1132,375"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,261 993,261 993,568 1316,568 1316,600 849,600 849,1067 1573,1067 1573,1161 1574,1161 1574,1271 1573,1271 1573,1438 79,1438 79,1019 80,1019 80,600 79,600 79,568 80,568 80,262 79,262"/>
+	<TextEquiv conf="0.53603">
+	<Unicode>6
+Considere o sistema linear representado pelo seguinte diagrama em blocos:
+onde u, (t) e u,(t) representam duas entradas, y(t), a saída do sistema e S, e S, são assim modelados:
+* função de transferência de S,: G,(s)= Us) = s132
+* equação diferencial que representa S,: qe +3 a + 2y=U
+Determine:
+Y(s)
+VU (s)
+a) afunção de transferência G,,, =
+(valor: 2,0 pontos)
+b) a saída y(t) para u,(t) = D(t) eu,(t) = O, onde D(t) representa a função degrau unitário
+(Considere as condições iniciais nulas.)
+(valor: 3,0 pontos)
+c) a saída y(t) para u (t) = D(t) eu,(t) = D(t) - D(t-2)
+(Considere as condições iniciais nulas.)
+(valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

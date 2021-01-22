@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T08:21:27</Created>
+	<LastChange>2020-11-13T19:31:41</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-15.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="113,387 114,912 805,911 804,386"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="119,991 120,1516 791,1514 790,990"/></ImageRegion>
+	<ImageRegion id="r6">
+	<Coords points="95,1592 96,2089 811,2087 810,1591"/></ImageRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="821,102 824,2141 829,2141 826,102"/></SeparatorRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords points="846,1407 1551,1407 1551,1446 1549,1446 1549,1632 1395,1632 1395,1739 1550,1739 1550,2069 1094,2069 1094,2112 885,2112 885,2070 846,2070 846,1633 845,1633 845,1408 846,1408"/>
+	<TextEquiv conf="0.13827">
+	<Unicode>QUESTÃO 31
+Uma das soluções tecnológicas com boa aplicação no caso do
+tratamento das águas residuárias é o reator anaeróbio de manta de
+lodo. Esse reator tem fluxo ascendente e contém zonas de reação,
+de sedimentação e de coleta de gases. Acerca desse reator e de
+suas partes constituintes, assinale a opção correta.
+O O separador de fases é responsável pela separação de sólidos,
+líquido e gases.
+O O rendimento do reator é tanto maior quanto menos
+concentrada estiver a biomassa ativa na zona de reação.
+O A zona de sedimentação antecede a zona de reação.
+O A zona de coleta de gases evita que o oxigênio oxide a
+biomassa ativa.
+O O reator é muito utilizado para remoção de coliformes fecais
+em pós-tratamento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="116,136 807,136 807,160 806,160 806,266 672,266 672,313 105,313 105,314 104,314 104,267 103,267 103,196 116,196"/>
+	<TextEquiv conf="0.28505">
+	<Unicode>QUESTÃO 30
+As fotos I e II apresentam sistemas de coleta da energia solar para
+ser convertida em outros tipos de energia, e os esquemas 1 e II
+ilustram, respectivamente, detalhes desses sistemas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="paragraph">
+	<Coords points="845,662 1516,662 1516,748 1549,748 1549,880 1551,880 1551,1121 1549,1121 1549,1340 1281,1340 1281,1384 886,1384 886,1385 885,1385 885,1341 846,1341 846,686 845,686"/>
+	<TextEquiv conf="0.96365">
+	<Unicode>Assinale a opção correta, a respeito dessas fotos e esquemas.
+O O coletor solar da foto 1 é constituído por células solares
+como a mostrada no esquema 1, cuja função primária é
+converter energia solar em energia térmica.
+O A constituição do coletor solar da foto II é apresentada no
+esquema II, e a função desse coletor é converter energia solar
+em energia elétrica.
+O O coletor solar da foto I é constituído por células solares
+como a mostrada no esquema |, utilizadas para converter
+energia solar em energia elétrica.
+O Ao coletor solar da foto II aplica-se o mesmo princípio de
+funcionamento do coletor fotovoltaico, cuja função primária
+é converter energia solar em energia térmica.
+O No esquema |, são apresentados os constituintes de uma
+unidade de um coletor solar cujas funções são aquecimento de
+água e produção de energia elétrica.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r0">
+	<Coords points="863,113 863,634 1560,634 1560,113"/></ImageRegion></Page></PcGts>

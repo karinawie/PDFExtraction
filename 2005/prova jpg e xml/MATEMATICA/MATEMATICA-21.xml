@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-22T23:57:13</Created>
+	<LastChange>2020-11-13T21:58:07</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-21.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r7">
+	<Coords points="928,104 929,2154 932,2154 931,104"/></SeparatorRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="102,1434 912,1434 912,1474 910,1474 910,1705 911,1705 911,1796 229,1796 229,1909 911,1909 911,2035 727,2035 727,2104 491,2104 491,2138 105,2138 105,2070 104,2070 104,1967 103,1967 103,1842 104,1842 104,1553 99,1553 99,1496 102,1496"/>
+	<TextEquiv conf="0.27037">
+	<Unicode>QUESTÃO 46
+Analise as proposições abaixo a respeito de duas funções analíticas
+feg:C&gt;C.
+I Se E = 0, para todo número natural n, então f (2) = O, para todo
+n
+número complexo z.
+Il Se g(z) = O para todo número complexo z em algum subconjunto de C
+que possui ponto de acumulação, então g(z) = O, para todo número
+complexo z.
+Nesse caso,
+A as proposições Ie ll são verdadeiras, sendo que a segunda pode ser
+usada para justificar a primeira.
+B asproposições I e II são verdadeiras, mas a segunda não pode ser usada
+para justificar a primeira.
+C a proposição I é verdadeira, e a proposição II é falsa.
+D a propos
+E as proposições I e II são falsas.
+o 1 é falsa, e a proposição II é verdadeira.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="116,134 231,134 231,179 911,179 911,272 649,272 649,409 910,409 910,554 783,554 783,835 912,835 912,836 913,836 913,851 704,851 704,987 911,987 911,1420 105,1420 105,1244 104,1244 104,1157 105,1157 105,1045 103,1045 103,631 104,631 104,363 103,363 103,272 99,272 99,179 116,179"/>
+	<TextEquiv conf="0.14800">
+	<Unicode>QUESTÃO 45
+Uma função f : R" &gt; R é chamada homogênea de grau k se
+fix) =t1f(O), para todo número real s e para todo vetor x de R". Se uma
+função diferenciável fé homogênea de grau k, então é possível mostrar que
+kf (x) = Vf(x) «x, Vx E R".
+Essa igualdade é chamada identidade de Euler.
+Sabendo que, em cada ponto da superfície da esfera unitária, o
+vetor normal unitário exterior é o próprio vetor posição, analise os
+seguintes passos utilizados na obtenção da integral de
+superfície [fa tz? das.
+2
+xº+7?+2?=1
+passo I: A integral de superfície pode ser reescrita como
+fes 2y+x,22): (x,y, 2)dS.
+x249?4+72=]
+passo II: A integral obtida no passo I é igual a 31 dxdydz.
+xº+y 2422]
+Calculando-se essa última integral, obtém-se 47 como resultado.
+passo III:
+Assinale a opção correta acerca desses procedimentos.
+A No passo |, utilizou-se a identidade de Euler indevidamente, já que a
+função que se quer integrar não é homogênea.
+B No passo II, o integrando é o produto interno do gradiente da função
+f(x, y, 2)
+plano tangente à superfície da esfera unitária.
+C Na passagem de I para II, utilizou-se o teorema de Stokes, e, para isso,
+n = (x,y, z) foi tomado como vetor normal à superfície da esfera
+unitária.
+2 2 2 ;
+X + +Z + xy comum vetor unitário pertencente ao
+D Para se obter a expressão do passo II, utilizou-se a relação V:Vf = Aff,
+isto é, o divergente do gradiente de uma função é o laplaciano dessa
+função.
+E No passo III, considerou-se que a integral tripla do passo II é igual à
+área da superfície da esfera unitária.</Unicode></TextEquiv></TextRegion></Page></PcGts>

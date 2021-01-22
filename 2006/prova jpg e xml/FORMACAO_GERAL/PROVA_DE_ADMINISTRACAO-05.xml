@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T19:25:16</Created>
+	<LastChange>2021-01-18T12:17:24</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_ADMINISTRACAO-05.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="73,403 73,1068 829,1068 829,403"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,229 257,229 257,270 1573,270 1573,364 1252,364 1252,471 1572,471 1572,731 1279,731 1279,864 1070,864 1070,964 989,964 989,1002 853,1002 853,964 852,964 852,431 851,431 851,364 79,364 79,270 80,270"/>
+	<TextEquiv conf="0.95024">
+	<Unicode>QUESTÃO 6
+A legislação de trânsito brasileira considera que o condutor de um veículo está dirigindo alcoolizado quando o teor alcoólico de
+seu sangue excede 0,6 gramas de álcool por litro de sangue. O gráfico abaixo mostra o processo de absorção e eliminação do
+álcool quando um indivíduo bebe, em um curto espaço de tempo, de 1 a 4 latas de cerveja.
+Considere as afirmativas a seguir.
+| - O álcool é absorvido pelo organismo muito mais lenta-
+mente do que é eliminado.
+Il - Uma pessoa que vá dirigir imediatamente após a ingestão
+da bebida pode consumir, no máximo, duas latas de cer-
+veja.
+Ill - Se uma pessoa toma rapidamente quatro latas de cerve-
+ja, o álcool contido na bebida só é completamente elimi-
+nado após se passarem cerca de 7 horas da ingestão.
+Está(ão) correta(s) a(s) afirmativa(s)
+(A) Il, apenas.
+(B) lell, apenas.
+(O) lelll, apenas.
+(D) Il e1ll, apenas.
+(E) Ile.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="100,1248 100,1897 1591,1897 1591,1248"/></TableRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="79,1132 1574,1132 1574,1234 1573,1234 1573,1976 315,1976 315,2046 257,2046 257,2150 80,2150 80,1976 79,1976"/>
+	<TextEquiv conf="0.96509">
+	<Unicode>QUESTÃO 7
+A tabela abaixo mostra como se distribui o tipo de ocupação dos jovens de 16 a 24 anos que trabalham em 5 Regiões
+Metropolitanas e no Distrito Federal.
+Das regiões estudadas, aquela que apresenta o maior percentual de jovens sem carteira assinada, dentre os jovens que são
+assalariados do setor privado, é
+(A) Belo Horizonte.
+(B) Distrito Federal.
+(C) Recife.
+(D) Salvador.
+(E) São Paulo.</Unicode></TextEquiv></TextRegion></Page></PcGts>

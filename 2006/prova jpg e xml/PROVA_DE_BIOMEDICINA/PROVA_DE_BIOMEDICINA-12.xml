@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-22T01:42:56</Created>
+	<LastChange>2020-09-22T01:43:11</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_BIOMEDICINA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="514,1377 514,1860 1134,1860 1134,1377"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="74,1934 74,2134 777,2134 777,1934"/></TableRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="80,240 271,240 271,280 1574,280 1574,434 1573,434 1573,497 995,497 995,603 835,603 835,645 552,645 552,686 501,686 501,728 80,728 80,434 79,434 79,280 80,280"/>
+	<TextEquiv conf="0.96849">
+	<Unicode>QUESTÃO 23
+Na década de 1960, demonstrou-se que a transcrição é regulada por proteínas que se ligam a sequências específicas do
+DNA. Em 1983, Dynan e Tjian mostraram que uma proteína de núcleo de células humanas, chamada Sp1, era capaz de se
+ligar a uma destas sequências e promover transcrição in vitro. Para prosseguir os estudos e determinar o mecanismo de
+ação de Sp1, era necessário obter esta proteína em estado puro. O problema é que Sp1 representa cerca de 0,001% do
+total de proteínas celulares. Para purificar a proteína Sp1 pela primeira vez um procedimento adequado seria
+(Adaptado de W. S. Dynan e R. Tjian. The promoter-specific transcription factor Sp 1 binds to upstream sequences in the SV40 early promoter.
+Cell. v.35, n. 1, p. 79-87, 1983)
+(A) cromatografia de afinidade com a sequência de DNA correspondente.
+(B) immunoblotting usando anticorpo primário contra Sp1.
+(C) cromatografia de afinidade usando anticorpo contra Sp1.
+(D) PCR (polymerase chain reaction).
+(E) cromatografia de troca iônica.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="80,791 272,791 272,831 508,831 508,879 884,879 884,920 977,920 977,962 1221,962 1221,1071 80,1071"/>
+	<TextEquiv conf="0.96615">
+	<Unicode>QUESTÃO 24
+Genes de resistência a antibióticos
+(A) ocorrem devido à ação mutagênica dos próprios antibióticos.
+(B) ocorrem sempre que se aplica o antibiótico no hospedeiro infectado.
+(C) são transferidos diretamente da mitocôndria das células dos hospedeiros infectados.
+(D) destroem as bactérias sensíveis ao antibiótico, o que permite o domínio das resistentes.
+(E) são transferidos entre bactérias por meio de plasmídeos ou transposons.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="80,1134 271,1134 271,1174 1575,1174 1575,1296 1225,1296 1225,1360 1071,1360 1071,1925 80,1925"/>
+	<TextEquiv conf="0.96826">
+	<Unicode>QUESTÃO 25
+Deseja-se saber qual a distribuição nas diferentes fases do ciclo celular das células de uma cultura. O corante Hoechst
+33258, que não é fluorescente em solução, mas é fortemente fluorescente quando ligado ao DNA, é capaz de atravessar as
+membranas celulares e se intercalar na dupla-hélice do DNA, estabelecendo ligação específica. Por citometria de fluxo, é
+possível quantificar a fluorescência (e, portanto, o DNA) de cada célula da população.
+O gráfico abaixo mostra o número de células versus a quantidade relativa de DNA por célula.
+Em que fase da interfase as células das áreas a, b e c do gráfico se encontram?</Unicode></TextEquiv></TextRegion></Page></PcGts>

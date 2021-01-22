@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T01:41:36</Created>
+	<LastChange>2020-10-23T02:07:25</LastChange></Metadata>
+	<Page imageFilename="FISICA-06.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r3">
+	<Coords points="800,80 800,2242 811,2242 811,80"/></SeparatorRegion>
+	<ImageRegion id="r4">
+	<Coords points="91,1140 91,1951 734,1951 734,1140"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="123,212 776,212 776,493 775,493 775,957 450,957 450,958 125,958 125,959 124,959 124,495 123,495"/>
+	<TextEquiv conf="0.89330">
+	<Unicode>QUESTÃO 8
+Um caminhão de 6 toneladas colidiu frontalmente com um
+automóvel de 0,8 toneladas. Na investigação sobre o
+acidente, o motorista do caminhão disse que estava com
+velocidade constante de 20 km/h e pisou no freio a certa
+distância do automóvel. Já o motorista do automóvel disse
+que estava com velocidade constante de 30 km/h no
+momento da colisão. A perícia constatou que o carro
+realmente colidiu com a velocidade mencionada e os
+veículos pararam instantaneamente, ou seja, não se
+deslocaram após o choque.
+Pode-se afirmar que o motorista do caminhão
+(A) certamente mentiu, pois se chocou com velocidade
+constante inicial.
+(B) certamente mentiu, pois acelerou antes do choque.
+(C) pode ter falado a verdade, pois a sua velocidade era
+nula no momento do choque.
+(D) pode ter falado a verdade, pois a sua velocidade era
+4 km/h no momento do choque.
+(E) pode ter falado a verdade, pois a sua velocidade era
+15 km/h no momento do choque.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="124,1010 775,1010 775,2031 690,2031 690,2193 664,2193 664,2223 408,2223 408,2224 125,2224 125,2225 124,2225 124,2033 122,2033 122,1984 123,1984 123,1011 124,1011"/>
+	<TextEquiv conf="0.96630">
+	<Unicode>QUESTÃO 9
+Os pontos representados no gráfico abaixo foram obtidos
+através da análise de uma fita de papel que registrou, em
+intervalos de tempos iguais, a posição de um carrinho em
+movimento sobre um trilho de ar.
+Pode-se concluir da análise desse gráfico que o carrinho
+tem movimento retilíneo
+(A) acelerado com aceleração (1,4 + 0,3) m/s?.
+(B) acelerado com aceleração (2,88 + 0,02) m/s?.
+(C) acelerado com aceleração (7,56 + 0,05) m/s?.
+(D) uniforme com velocidade (1,2 + 0,2) m/s.
+(E) uniforme com velocidade (2,59 + 0,03) m/s.</Unicode></TextEquiv></TextRegion></Page></PcGts>

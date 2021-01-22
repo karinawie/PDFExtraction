@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T11:19:49</Created>
+	<LastChange>2020-11-23T12:42:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-24.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r1">
+	<Coords points="823,183 824,838 827,838 826,183"/></SeparatorRegion>
+	<TextRegion id="r33" type="heading">
+	<Coords points="845,188 1551,188 1551,228 1549,228 1549,780 1423,780 1423,777 1164,777 1164,814 886,814 886,504 847,504 847,441 846,441 846,228 845,228"/>
+	<TextEquiv conf="0.06095">
+	<Unicode>QUESTÃO 47
+A mineração é uma atividade de uso temporário da área, de
+localização restrita à ocorrência de um bem mineral e, em geral,
+engloba 5 fases distintas, porém não necessariamente de
+seqüência cronológica definida em seu ciclo de vida. A seqüência
+correta das fases que contemplam, do início ao fim, o ciclo de
+vida de um empreendimento mineiro é
+A exploração, estudo de viabilidade, desenvolvimento,
+explotação e fechamento.
+B exploração, desenvolvimento, explotação, estudo de
+viabilidade e fechamento.
+C estudo de viabilidade, exploração, explotação,
+desenvolvimento e fechamento.
+D estudo de viabilidade, desenvolvimento, exploração,
+explotação e fechamento.
+E desenvolvimento, estudo de viabilidade, exploração,
+explotação e fechamento.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r45" type="heading">
+	<Coords points="148,867 387,867 387,912 1471,912 1471,1092 792,1092 792,1219 1511,1219 1511,1275 103,1275 103,1153 182,1153 182,882 148,882"/>
+	<TextEquiv conf="0.91754">
+	<Unicode>QUESTÃO 48 — DISCURSIVA
+Uma das maiores causas de contaminação de água em mineração é a geração de drenagem ácida decorrente da
+oxidação de minérios sulfetados. Isso ocorre quando sulfetos minerais reagem com água e oxigênio, na presença de
+bactérias, produzindo ácido sulfúrico e hidróxido de ferro ou sulfato férrico. O baixo valor do pH (alta acidez) resulta na
+dissolução de minerais e na liberação de metais tóxicos nos cursos d'água. Este fenômeno acontece na superfície de pilhas
+de estéril, em minas subterrâneas em que águas subterrâneas infiltram-se nas aberturas e em minas a céu aberto, por meio
+de águas subterrâneas ou água de chuva. O baixo pH e a toxidez dos metais afetam bastante a biota aquática.
+Considerando o tema abordado no fragmento acima, descreva:
+a) um método apropriado para disposição de estéril de mina com potencial de geração de drenagem ácida; (valor: 5,0 pontos)
+b) o modo de gerenciar a drenagem ácida em uma pilha de estéril, caso ela ocorra. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="heading">
+	<Coords points="103,252 806,252 806,823 142,823 142,525 104,525 104,348 103,348"/>
+	<TextEquiv conf="0.95163">
+	<Unicode>QUESTÃO 46
+A maioria dos minérios é constituída de várias partículas minerais
+e, pelo menos, uma partícula tem valor econômico, compondo as
+outras a ganga ou as denominadas partículas não-valiosas. Para
+um dado tamanho de partícula mineral, é correto afirmar que
+A a liberação de partícula de mineral valioso é usualmente
+maior que a da ganga.
+B o grau de liberação depende somente do tamanho da partícula
+e do corpo de minério.
+C o tamanho da partícula de mineral valioso é usualmente
+menor que o da partícula de ganga.
+D significante liberação ocorre quando os tamanhos das
+partículas de mineral valioso e de ganga são
+aproximadamente iguais.
+E a eficiência da separação e da concentração de minérios
+independe do grau de liberação.</Unicode></TextEquiv></TextRegion></Page></PcGts>

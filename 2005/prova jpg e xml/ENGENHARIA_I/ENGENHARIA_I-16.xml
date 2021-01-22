@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:08:37</Created>
+	<LastChange>2020-11-13T12:42:55</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-16.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="640,408 640,665 1005,665 1005,408"/></TableRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="827,246 1574,246 1574,405 1573,405 1573,792 521,792 521,985 81,985 81,792 80,792 80,407 79,407 79,248 80,248 80,247 827,247"/>
+	<TextEquiv conf="0.95289">
+	<Unicode>24
+Um projeto de R$ 1.000.000,00 (um milhão de reais) será realizado em 5 meses. Serão executadas quatro atividades com
+custos que apresentam os seguintes percentuais em relação ao total: Al = 20%; A2 = 30%; A3 = 40% e A4 = 10%. Cada
+atividade está distribuída, linearmente, nos seguintes meses:
+Num cronograma financeiro montado com base nesses dados, qual é o faturamento percentual no mês 2 e, no mês 4, quais
+são os valores, em reais, das atividades A2 e A4, respectivamente?
+(A) VPL = R$ 2.500.000,00e  IL = 0,80(B) VPL = R$ 2.500.000,00e  IL = 1,25(C) VPL = R$ 12.500.000,00   e  IL = 0,80(D) VPL = R$ 12.500.000,00   e  IL = 1,25(E) VPL = R$ 22.500.000,00   e  IL = 1,80</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="79,1034 111,1034 111,1074 1575,1074 1575,1564 828,1564 828,1565 81,1565 81,1566 80,1566 80,1035 79,1035"/>
+	<TextEquiv conf="0.97015">
+	<Unicode>25
+O que é necessário para que um engenheiro tenha legitimidade e fé pública da autoria, dos limites da responsabilidade e da
+participação técnica na execução de obras ou serviços profissionais por ele realizados, de acordo com a Resolução nº 425 do
+CONFEA (Conselho Federal de Engenharia, Arquitetura e Agronomia), de 18 de dezembro de 1998?
+(A) Alvará autorizando o início da execução da obra ou serviço, emitido pela prefeitura do município onde a atividade será
+exercida.
+(B) ART (Anotação de Responsabilidade Técnica) de alguma obra ou serviço similar, devidamente registrada no Crea (Conse-
+lho Regional de Engenharia, Arquitetura e Agronomia) da jurisdição onde o engenheiro se formou e está registrado.
+(C) ART (Anotação de Responsabilidade Técnica) de alguma obra ou serviço similar, devidamente registrada no Crea (Conse-
+lho Regional de Engenharia, Arquitetura e Agronomia) da jurisdição onde a atividade será exercida.
+(D) ART (Anotação de Responsabilidade Técnica) específica para cada obra ou serviço, devidamente registrada no Crea
+(Conselho Regional de Engenharia, Arquitetura e Agronomia) da jurisdição onde será exercida a atividade.
+(E) Registro, na prefeitura do local da obra ou serviço a ser executado, caso seja desenvolvido em jurisdição diferente daquela
+na qual o engenheiro se formou e está registrado.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="79,1614 111,1614 111,1654 1575,1654 1575,1835 577,1835 577,2026 91,2026 91,2028 80,2028 80,1615 79,1615"/>
+	<TextEquiv conf="0.96961">
+	<Unicode>26
+Para a avaliação econômica do projeto de implantação de uma indústria, levantou-se que o investimento inicial, no ano zero,
+foi de R$ 10.000.000,00 e o valor presente dos benefícios líquidos anuais do fluxo de caixa futuro do projeto era equivalente a
+R$ 12.500.000,00. Os indicadores utilizados para a avaliação do projeto foram o Valor Presente Líquido — VPL e o Índice de
+Lucratividade — IL. Este último indicador é adimensional e representa a quantidade de benefícios líquidos por unidade monetária
+investida. Com base nestas informações, quais são os indicadores do VPL e do IL?
+(A) VPL = R$2.500.000,00/ e IL=0,80
+(B) VPL = R$ 2.500.000,00 IL =1,25
+(C) VPL = R$ 12.500.000,00 e |IL=0,80
+(D) VPL = R$ 12.500.000,00 e IL=1,25
+(E) VPL = R$ 22.500.000,00 IL =1,80</Unicode></TextEquiv></TextRegion></Page></PcGts>

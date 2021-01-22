@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T02:50:58</Created>
+	<LastChange>2020-11-13T03:36:04</LastChange></Metadata>
+	<Page imageFilename="ARQUITETURA-22.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="197,471 197,662 1462,662 1462,471"/></ImageRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,262 80,262 80,263 216,263 216,264 352,264 352,265 488,265 488,266 624,266 624,267 760,267 760,268 896,268 896,269 1032,269 1032,270 1168,270 1168,271 1304,271 1304,272 1440,272 1440,273 1575,273 1575,363 511,363 511,779 935,779 935,915 651,915 651,1174 65,1174 65,937 80,937 80,399 79,399"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 26
+Considere os dois tipos de trincas estruturais representadas nas vigas A e B abaixo, frequentes em construções realizadas
+sem a devida orientação técnica, seja na Favela da Maré seja nas periferias das grandes cidades brasileiras, malgrado o saber
+construtivo popular.
+Nessa situação pode-se afirmar que
+|- abarraB sofreu preponderantemente os efeitos da força cortante.
+Il- abarraA sofreu preponderantemente os efeitos do momento fletor.
+Ill- abarra B sofreu preponderantemente os efeitos do momento fletor.
+IV- abarra Asofreu preponderantemente os efeitos da força cortante.
+(A) I.(B) II.(C) I e II.(D) I e III.(E) III e IV</Unicode></TextEquiv></TextRegion></Page></PcGts>

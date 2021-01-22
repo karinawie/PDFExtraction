@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:13:30</Created>
+	<LastChange>2020-11-13T12:59:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_II-14.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="451,488 451,740 1197,740 1197,488"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="362,1131 362,1454 731,1454 731,1131"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="914,1131 914,1417 1300,1417 1300,1131"/></ImageRegion>
+	<ImageRegion id="r3">
+	<Coords points="665,1482 665,1814 1025,1814 1025,1482"/></ImageRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="80,419 81,419 81,420 540,420 540,421 999,421 999,422 1457,422 1457,478 1379,478 1379,814 302,814 302,936 80,936"/>
+	<TextEquiv conf="0.94683">
+	<Unicode>18
+Na figura, a chave S foi mantida aberta por um tempo suficiente para o circuito alcançar o regime permanente.
+Imediatamente após fechar a chave S, os valores em ampêres das correntes |, e la, respectivamente, serão:
+(A) 0,75 e 0,80
+(B) 0,256 -0,10
+(0) 0,17 e —-0,17
+(D) 0,17 e 1,00
+(E) -0,75e6-0,10</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="80,969 80,970 111,970 111,1001 726,1001 726,1031 1574,1031 1574,2040 80,2040 80,1118 79,1118 79,1031 80,1031"/>
+	<TextEquiv conf="0.96804">
+	<Unicode>19
+Considere o texto e os objetos apresentados a seguir.
+Os circuitos lógicos podem ser classificados como combinacionais ou sequenciais. Nos circuitos combinacionais, a saída é
+uma mera combinação lógica dos sinais de entrada. Nos circuitos sequenciais, a sequência dos sinais de entrada influencia
+a saída. Em outras palavras, os circuitos sequenciais guardam uma memória do passado e os combinacionais, não.
+Identificando a Lógica Combinacional pela letra C e a Lógica Sequencial pela letra S, as lógicas utilizadas pelos objetos acima
+representados seriam modeladas, respectivamente, como:
+(A) C - C - C
+(B) C - S - S
+(C) S - C - C
+(D) S - C - S
+(E) S - S - S</Unicode></TextEquiv></TextRegion></Page></PcGts>

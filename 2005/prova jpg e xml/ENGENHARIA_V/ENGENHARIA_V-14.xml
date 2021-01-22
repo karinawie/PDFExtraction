@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:27:47</Created>
+	<LastChange>2020-10-24T04:07:43</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-14.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="542,831 542,1205 1057,1205 1057,831"/></ImageRegion>
+	<TableRegion id="r1">
+	<Coords points="157,162 157,411 1505,411 1505,162"/></TableRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="158,112 388,112 388,463 1511,463 1511,620 1549,620 1549,726 1547,726 1547,1242 1549,1242 1549,1737 1417,1737 1417,1778 144,1778 144,1779 143,1779 143,1738 103,1738 103,1242 142,1242 142,727 103,727 103,620 142,620 142,463 158,463"/>
+	<TextEquiv conf="0.72034">
+	<Unicode>QUESTÃO 27
+Um empresário está planejando criar uma pequena empresa para fabricar pranchas de surf utilizando materiais compósitos.
+Suponha que a fase matriz a ser utilizada seja uma resina epóxi e as opções de fase-reforço sejam fibras de carbono ou fibras de
+vidro. Propriedades físicas e mecânicas desses materiais, fornecidas pelos fabricantes, são mostradas na tabela acima.
+Considerando essa situação hipotética, faça o que se pede nos itens a seguir.
+a) Esboce, no diagrama abaixo, as curvas tensão versus deformação do polímero e da fibra de vidro. No mesmo diagrama, esboce
+também a curva de tração para o compósito epóxi/fibra de vidro, quando utilizada uma fração em peso de 50% de fibra. (valor:
+4,0 pontos)
+b) Considerando que a seleção do material de reforço seja embasada apenas na otimização da resistência específica do produto (limite
+de resistência/densidade) e no custo das matérias-primas, indique o material de reforço mais recomendável para ser utilizado nesse
+caso. Justifique sua resposta. (valor: 3,0 pontos)
+c) Considere que o empresário decida diversificar sua linha de produtos, incluindo placas de alto desempenho para utilização na
+indústria aeronáutica. Nesse caso, indique, justificando, a melhor opção de material de reforço. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:27:04</Created>
+	<LastChange>2020-10-24T04:08:12</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-17.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r5">
+	<Coords points="277,452 276,855 1359,856 1360,453"/></ImageRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="538,155 1115,155 1115,209 1491,209 1491,901 1549,901 1549,1167 104,1167 104,1166 103,1166 103,901 163,901 163,341 162,341 162,209 538,209"/>
+	<TextEquiv conf="0.96370">
+	<Unicode>QUESTÃO 32
+A parafina da vela não serve para fazer saco plástico
+É bastante conhecida a fragilidade da parafina, material constituído de longas moléculas olefínicas com a unidade
+etilênica (-CH, -CH,-) repetindo-se muitas vezes.
+O polietileno também é uma parafina, pois tem a mesma fórmula estrutural, mas apresenta maior resistência mecânica
+devido às ligações interlamelares, ou seja, entre segmentos de cadeia que unem duas regiões cristalinas. Tais ligações podem
+envolver muitas cadeias alinhadas lado a lado, formando uma estrutura fibrilar cristalina, também chamada de fibrila.
+A partir de experimentos, determinou-se que o polietileno só adquire as propriedades mecânicas desejadas quando tem
+massa molar superior a 28.000 g/mol. Os diagramas abaixo mostram duas vistas da célula unitária do polietileno e suas
+dimensões.
+Com base nessas informações, considere os parâmetros de rede a = 7 Á, b=5Á,c=3 Á, massa atômica M(H) = 1 gumol e
+M(C) = 12 g/mol e responda ao que se pede a seguir.
+a) Assumindo que a parafina tenha fórmula estrutural média n-C,(Hi34, em que n representa a palavra normal, que significa uma
+seqiência linear de CH,, calcule, em À, o comprimento médio da molécula de parafina. (valor: 3,0 pontos)
+b) Sabendo-se que o número de meros de uma cadeia polimérica é igual à sua massa molar dividida pela massa da unidade
+monomérica, calcule o comprimento de uma cadeia estendida de polietileno com massa molar de 28.000 g/mol. (valor: 3,0 pontos)
+c) Observando, na figura acima, que cada célula unitária do polietileno contém quatro unidades CH, e considerando o número de
+Avogadro igual a 6 x 10”, calcule a densidade, em g/em?, da fase cristalina do polietileno. (valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

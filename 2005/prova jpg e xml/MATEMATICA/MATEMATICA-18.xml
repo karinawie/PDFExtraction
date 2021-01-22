@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T05:57:48</Created>
+	<LastChange>2021-01-18T03:22:32</LastChange></Metadata>
+	<Page imageFilename="MATEMATICA-18.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r7">
+	<Coords points="325,1288 325,1472 663,1472 663,1288"/></ImageRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="879,103 879,2163 881,2163 881,103"/></SeparatorRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="901,1343 1550,1343 1550,1433 1161,1433 1161,1643 1452,1643 1452,1709 1550,1709 1550,2133 903,2133 903,1966 901,1966 901,1875 902,1875 902,1766 901,1766 901,1643 1071,1643 1071,1433 901,1433"/>
+	<TextEquiv conf="0.87832">
+	<Unicode>QUESTÃO 39
+Um aluno de 5.º série, ao fazer a operação 63787 +3 na
+resolução de um problema, foi considerado em “situação de
+dificuldade”, ao apresentar o seguinte registro:
+A análise do procedimento desse aluno revela que
+A ele não sabe o algoritmo da divisão, o que indica
+problemas de aprendizagem oriundos das séries iniciais.
+B o procedimento aplicado não traz contribuições para o
+desenvolvimento matemático do aluno, uma vez que ele
+não poderá realizá-lo em outras situações matemáticas.
+C o aluno terá dificuldade de compreender os processos
+operatórios dos colegas e os feitos pelo professor ou
+apresentados no livro didático.
+D oaluno compreendeu tanto a estrutura do número quanto
+o conceito da operação de divisão.
+E deverá ser incentivada a utilização de tal procedimento
+somente em produções individualizadas, como em
+atividades para casa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="914,134 1040,134 1040,180 1551,180 1551,303 1119,303 1119,513 1550,513 1550,546 1551,546 1551,592 1549,592 1549,745 1550,745 1550,845 1551,845 1551,1269 903,1269 903,1169 902,1169 902,1069 901,1069 901,978 902,978 902,802 901,802 901,513 979,513 979,303 901,303 901,180 914,180"/>
+	<TextEquiv conf="0.95181">
+	<Unicode>QUESTÃO 38
+Um grupo de alunos de 7.º série resolveu “brincar” de fazer
+cálculos utilizando uma calculadora não-científica. Em
+determinado momento, eles realizaram a seguinte seqiiência
+de procedimentos:
+1.º tecla “3”
+2.º tecla “/”
+3.º tecla “x”
+4.º tecla “=
+Os alunos ficaram surpresos com o número que apareceu no
+visor: “2.9999999996” e resolveram questionar o professor
+?
+sobre o acontecido. Afinal, a resposta não deveria ser 3
+Assinale a opção que mais adequadamente descreve um
+procedimento a ser adotado pelo professor.
+A Confrontar a resposta obtida com a de uma calculadora
+científica, discutindo a diferença entre os conceitos de
+números ões e números irracionais.
+B Dizer que a calculadora não-científica comete erros, por
+isso, não deve ser utilizada na escola, mas apenas no
+comércio, para se fazer conta simples, que não envolva
+cálculos aproximados.
+C Montar a expressão numérica que representa a situação,
+mostrando que, na verdade, há erros procedimentais por
+parte dos alunos ao operarem com a calculadora.
+D Provar que, se a calculadora não-científica tivesse o
+dobro de casas decimais, ao final, ela arredondaria para
+3, dando a resposta esperada.
+E Dizer que a calculadora científica faz os devidos
+arredondamentos para que a resposta seja algebricamente
+correta; por isso, é considerada “científica”.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="116,134 243,134 243,143 862,143 862,206 860,206 860,568 567,568 567,607 408,607 408,680 253,680 253,897 142,897 142,894 103,894 103,729 104,729 104,242 103,242 103,145 116,145"/>
+	<TextEquiv conf="0.10960">
+	<Unicode>QUESTÃO 36
+Julgue os itens a seguir, relativos ao ensino e à aprendizagem de
+porcentagens.
+I O ensino de porcentagem deve ter o contexto sociocultural como
+motivação de aprendizagem.
+II O primeiro contato dos estudantes com o cálculo percentual deve
+ocorrer quando se estudam juros compostos.
+IM O ensino de frações centesimais e o de frações de quantidade
+devem ser articulados com o ensino de porcentagens.
+IV O conteúdo de porcentagens favorece um trabalho integrado entre
+diferentes blocos de conteúdos, tais como números, medidas,
+geometria e tratamento da informação.
+Estão certos apenas os itens
+Tell.
+Nem.
+MelV.
+IL, IT el.
+LHINelV</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="116,931 211,931 211,975 861,975 861,1149 860,1149 860,1222 501,1222 501,1527 860,1527 860,1637 861,1637 861,1769 860,1769 860,1806 536,1806 536,2098 444,2098 444,2129 103,2129 103,975 116,975"/>
+	<TextEquiv conf="0.95558">
+	<Unicode>QUESTÃO 37
+É comum alunos do ensino médio conhecerem a demonstração do
+teorema de Pitágoras feita no livro I de Os Elementos de Euclides.
+Nela, usa-se o fato de que todo triângulo retângulo ABC, de catetos a
+e b e hipotenusa c, está inscrito em um semicírculo. Demonstra-se que
+as projeções m e n de AB e AC sobre a hipotenusa satisfazem à
+relação mn = hº, em que h é a altura do triângulo. Por meio das
+relações de proporcionalidade entre os lados dos triângulos ABD,
+CAD e CBA, prova-se que a + bº =
+Além de demonstrar o teorema de Pitágoras, o professor pode, ainda,
+com essa estratégia, demonstrar que
+I é possível construir, com régua e compasso, a média geométrica
+entre dois números reais m e n.
+O é possível construir, com régua e compasso, um quadrado de
+mesma área que a de um retângulo de lados m e n.
+II todos os triângulos retângulos que aparecem na figura são
+semelhantes.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.</Unicode></TextEquiv></TextRegion></Page></PcGts>

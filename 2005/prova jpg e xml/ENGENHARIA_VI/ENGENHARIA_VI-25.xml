@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T04:29:47</Created>
+	<LastChange>2020-10-24T05:12:57</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VI-25.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r6">
+	<Coords points="824,201 819,2132 826,2132 831,201"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="97,280 97,817 811,817 811,280"/></ImageRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="103,871 807,871 807,1204 806,1204 806,1331 265,1331 265,1439 456,1439 456,1440 807,1440 807,2043 705,2043 705,2087 143,2087 143,2043 104,2043 104,1373 103,1373"/>
+	<TextEquiv conf="0.96041">
+	<Unicode>QUESTÃO 61
+Como colaborador de uma empresa de projetos, você foi
+chamado para avaliar a emissão de um efluente gasoso. A empresa
+tem como subproduto uma corrente gasosa que contém vapor de
+acetona. Esse gás é tratado em uma coluna de recheio, o que
+resulta em uma solução aquosa de acetona e uma corrente gasosa,
+de acordo com os dados apresentados na figura acima, que mostra
+as linhas de operação e de equilíbrio da torre de absorção. Em
+razão da política de redução de emissão de poluentes, o teor de
+acetona no gás deve ser reduzido, pelo menos, à metade.
+Considerando que os subscritos | e 2 correspondem à base e ao
+topo da coluna, respectivamente, assinale a opção correta, acerca
+dessa situação.
+O Uma possível solução para o problema é aumentar a altura da
+torre de recheio, mantendo-se as vazões, o que implicaria
+mudanças mínimas em outros pontos do processo.
+O É possível reduzir a concentração de acetona no gás até o teor
+solicitado, aumentando a vazão de água na coluna, sem
+modificar sua altura, considerando que esta tenha capacidade
+para isso.
+O Uma alternativa possível para reduzir o teor de acetona no gás
+consiste em leve aquecimento da água de lavagem, o que
+modifica a linha de equilíbrio em favor de absorção.
+O A acetona, na forma de vapor e nas baixas concentrações
+consideradas, não representa risco ambiental ou à saúde
+humana.
+O Qualquer solução adotada resultirá em mudanças
+significativas na concentração da água de lavagem.</Unicode></TextEquiv></TextRegion></Page></PcGts>

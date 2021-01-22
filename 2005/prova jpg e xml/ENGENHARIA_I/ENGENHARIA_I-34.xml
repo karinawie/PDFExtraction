@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T08:56:49</Created>
+	<LastChange>2020-11-13T12:43:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-34.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="434,354 434,774 1251,774 1251,354"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,262 703,262 703,325 206,325 206,860 420,860 420,893 593,893 593,1065 1571,1065 1571,1192 80,1192 80,1092 79,1092 79,1065 80,1065 80,325 79,325"/>
+	<TextEquiv conf="0.87375">
+	<Unicode>18
+A figura a seguir apresenta o esquema de um canal.
+Considere:
+* seção do canal constante;
+* mesma declividade nos trechos 1-3 e 4-6;
+* alturas normais (h ) nas seções 2 e 5.
+a) Esboce o perfil da linha de água. (valor: 5,0 pontos)
+b) Classifique os regimes de escoamento em cada trecho. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

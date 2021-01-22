@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T03:40:47</Created>
+	<LastChange>2021-01-18T03:03:58</LastChange></Metadata>
+	<Page imageFilename="GEOGRAFIA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="411,197 411,1174 1402,1174 1402,197"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="60,95 706,95 706,1258 1555,1258 1555,1398 1088,1398 1088,1707 124,1707 124,1398 123,1398 123,1397 122,1397 122,119 60,119"/>
+	<TextEquiv conf="0.96936">
+	<Unicode>QUESTÃO 20
+Considere a figura abaixo para responder à questão.
+Nos Estudos de Impacto Ambiental (EIA-RIMA), com relação ao tema geomorfologia, diversos aspectos do relevo são
+analisados. Variáveis morfométricas como declividade, amplitude altimétrica e comprimento de vertentes, entre outras, são
+analisadas para avaliar o impacto ambiental causado por diversas intervenções antrópicas. Interpretando o fragmento da carta
+topográfica, na escala de 1:50.000, pode-se afirmar, com relação a essas variáveis, que a vertente do perfil A apresenta, em
+relação ao perfil B:
+(A)maior declividade, menor amplitude altimétrica e maior comprimento de vertente.
+(B)maior declividade, maior amplitude altimétrica e menor comprimento de vertente.
+(C)menor declividade, maior amplitude altimétrica e maior comprimento de vertente.
+(D)menor declividade, menor amplitude altimétrica e maior comprimento de vertente.
+(E)maior declividade, menor amplitude altimétrica e menor comprimento de vertente.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="123,1774 1230,1774 1230,1832 1555,1832 1555,2213 1554,2213 1554,2274 1318,2274 1318,2273 1317,2273 1317,2213 86,2213 86,2267 61,2267 61,1793 60,1793 60,1775 123,1775"/>
+	<TextEquiv conf="0.95662">
+	<Unicode>QUESTÃO 21
+As seguintes afirmações constituem tratamento transversal dado ao tema meio ambiente, EXCETO:
+(A) Não existe apenas uma crise ambiental, mas uma crise civilizatória, sendo necessária uma profunda mudança na
+concepção de mundo, de natureza, de poder.
+(B)A problemática ambiental implica, no âmbito social, em mudanças no comportamento, na construção de formas de pensar
+e agir na relação com a natureza.
+(C)A questão ambiental diz respeito sobretudo à preservação dos ambientes naturais intocados e ao controle da poluição.
+(D)É preciso criar e aplicar formas cada vez mais sustentáveis de interação sociedade/natureza na perspectiva de buscar
+soluções para os problemas ambientais.
+(E)O crescimento econômico deve estar subordinado a uma exploração racional e responsável dos recursos naturais para
+garantir a vida das gerações futuras.</Unicode></TextEquiv></TextRegion></Page></PcGts>

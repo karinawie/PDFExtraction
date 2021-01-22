@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T06:22:18</Created>
+	<LastChange>2020-11-13T18:27:17</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-15.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r5">
+	<Coords points="854,105 849,2157 856,2157 861,105"/></SeparatorRegion>
+	<ImageRegion id="r0">
+	<Coords points="894,657 894,1160 1528,1160 1528,657"/></ImageRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="921,130 1552,130 1552,160 1513,160 1513,1248 1551,1248 1551,2093 1477,2093 1477,2139 915,2139 915,2093 876,2093 876,1248 915,1248 915,188 921,188"/>
+	<TextEquiv conf="0.82128">
+	<Unicode>QUESTÃO 34
+Como colaborador de uma empresa de projetos,
+você foi chamado para avaliar a emissão de um efluente
+gasoso. A empresa tem como subproduto uma corrente
+gasosa que contém vapor de acetona. Esse gás é tratado
+em uma coluna de recheio, o que resulta em uma solução
+aquosa de acetona e uma corrente gasosa, de acordo
+com os dados apresentados na figura abaixo, que mostra
+as linhas de operação e de equilíbrio da torre de
+absorção. Em razão da política de redução de emissão de
+poluentes, o teor de acetona no gás deve ser reduzido,
+pelo menos, à metade.
+Considerando que os subscritos | e 2 correspondem à base e
+ao topo da coluna, respectivamente, assinale a opção correta,
+acerca dessa situação hipotética.
+O Uma possível solução para o problema é aumentar a altura
+da torre de recheio, mantendo-se as vazões, o que
+implicaria mudanças mínimas em outros pontos do
+processo.
+O É possível reduzir a concentração de acetona no gás até o
+teor solicitado, aumentando a vazão de água na coluna, sem
+modificar sua altura, considerando que esta tenha
+capacidade para isso.
+O Uma alternativa possível para reduzir o teor de acetona no
+gás consiste em aquecer levemente a água de lavagem, o
+que modifica a linha de equilíbrio em favor de absorção.
+O A acetona, na forma de vapor e nas baixas concentrações
+consideradas, não representa risco ambiental ou à saúde
+humana.
+O Qualquer solução adotada resultará em mudanças
+significativas na concentração da água de lavagem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="116,133 242,133 242,188 836,188 836,293 835,293 835,403 837,403 837,556 835,556 835,1192 837,1192 837,1419 835,1419 835,1559 837,1559 837,1673 836,1673 836,1674 835,1674 835,1746 408,1746 408,1868 230,1868 230,2133 229,2133 229,2134 143,2134 143,2133 104,2133 104,1845 142,1845 142,1705 104,1705 104,1134 102,1134 102,1133 101,1133 101,1110 103,1110 103,703 104,703 104,406 103,406 103,188 116,188"/>
+	<TextEquiv conf="0.66974">
+	<Unicode>QUESTÃO 33
+A filtração em meio poroso é utilizada para reter partículas
+suspensas em uma solução. Por meio da equação para queda de
+pressão em leitos porosos associada ao balanço de massas, pode-se
+; 2 dy -AP SA
+chegar à equação geral — — = —————— , em que À é a área
+A d ac, V
+up
+A m
+do filtro, 1 é a viscosidade do líquido, a é a resistência específica da
+torta, V, o volume do filtrado, c, a concentração de sólidos e R,, a
+resistência do meio filtrante.
+Suponha que você, como colaborador de uma empresa, tenha
+sido convidado a acompanhar o ensaio de filtração de uma
+suspensão de cristais, feito por um técnico da empresa fornecedora
+de filtros. O técnico utiliza um dispositivo em formato de funil, com
+a parte mais larga fechada por tecido filtrante. Liga a saída do funil
+a um kitasato e submete o sistema a vácuo. Depois disso, imerge o
+funil na suspensão de cristais, sob agitação, e espera determinado
+tempo, observando o vacuômetro. Passado um período
+cronometrado, retira o funil da suspensão, mede a espessura e pesa
+o sólido, assim como o volume de líquido do coletado. O técnico
+repete essa operação algumas vezes.
+Com base na situação apresentada e acerca de processos de filtração,
+julgue os itens a seguir.
+I Otécnicorealizou procedimento-padrão exclusivo do fornecedor
+de filtros, sem relação com a equação geral de filtração
+apresentada no texto.
+Il Segundo o procedimento adotado, é correto concluir que o
+técnico realizou uma filtração a vazão constante, que pode ser
+representada por -AP = KV +C.
+III A partir dos dados coletados e das propriedades do fluido, é
+possível calcular os parâmetros &amp; e R,, utilizados para
+dimensionar os principais tipos de filtro.
+IV Um tipo de filtração de interesse industrial é a centrífuga, em
+que a diferença de pressão é gerada pela força centrífuga. Nesse
+caso, mesmo sendo a torta incompressível, devem-se realizar
+experimentos específicos para avaliar &amp; e R,,, uma vez que a área
+de escoamento e a aceleração variam com a distância do centro
+do eixo.
+Estão certos apenas os itens
+Tell.
+Tel.
+Nell.
+Nelv.
+MelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

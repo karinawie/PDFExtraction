@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T11:19:35</Created>
+	<LastChange>2020-11-23T12:40:44</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-25.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="115,127 387,127 387,179 1471,179 1471,541 476,541 476,1017 1541,1017 1541,1080 889,1080 889,1122 103,1122 103,935 182,935 182,321 181,321 181,144 115,144"/>
+	<TextEquiv conf="0.91808">
+	<Unicode>QUESTÃO 49 — DISCURSIVA
+A definição dos limites de uma cava requer o estabelecimento da relação estéril/minério econômica (R; 1). Essa
+relação determina o quanto de estéril pode ser removido para permitir a extração de uma tonelada de minério. É aplicada
+somente para o limite final da cava e não deve ser confundida com a relação estéril/minério global, que é sempre menor,
+visto que, de outra maneira, não haveria lucro na operação de uma mina. A R,,,, é determinada pela equação:
+RR. = valor recuperado por tonelada de minério — custo de produção por tonelada de minério
+EM custo de remoção por tonelada de estéril
+O custo de produção equivale ao total dos custos envolvidos na produção do metal, não se considerando o custo
+de remoção de estéril. Para a definição dos limites da cava, a R,,h, precisa ser calculada para as variações de teores do
+minério e preço de mercado do produto final, conforme mostrado na tabela abaixo.
+Com base nas informações acima,
+a) cite os três elementos-chave para a definição dos limites finais de uma cava; (valor: 3,0 pontos)
+b) enumere, de modo justificado, os efeitos da variação do preço de mercado do produto nos limites da cava; (valor: 2,0 pontos)
+c) calcule o teor de corte para o exemplo descrito. (valor: 5,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r1">
+	<Coords points="191,571 191,891 1442,891 1442,571"/></TableRegion></Page></PcGts>

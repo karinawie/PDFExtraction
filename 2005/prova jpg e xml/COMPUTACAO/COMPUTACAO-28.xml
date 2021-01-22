@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T04:48:38</Created>
+	<LastChange>2020-11-13T11:46:10</LastChange></Metadata>
+	<Page imageFilename="COMPUTACAO-28.jpg" imageWidth="1656" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="97,977 97,1271 814,1271 814,977"/></TableRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="85,254 85,925 822,925 822,254"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 71
+Sistemas operacionais de tempo real são utilizados em controlede  processos  automatizados,  em  que  o  tempo  de  resposta  adeterminados  eventos  é  um  fator  crítico.  Com  relação  a  esseassunto, julgue os itens seguintes.
+ISistemas de tempo real estritos (hard real-time) não utilizamdispositivos de memória secundária (como discos),pois estesnão  oferecem  garantia  de  término  das  operações  dentro  deuma quantidade máxima de tempo.
+IIUm   sistema   operacional   de   propósito   geral   pode   sermodificado para ser de tempo real atribuindo-se prioridadesfixas para cada um dos processos.
+IIIO escalonamento mais utilizado por sistemas operacionais detempo real é o shortest-job-first(tarefa mais curta primeiro
+Assinale a opção correta.
+AApenas um item está certo.
+BApenas os itens I e II estão certos.
+CApenas os itens I e III estão certos.
+DApenas os itens II e III estão certos.
+ETodos os itens estão certos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="82,1288 82,2154 817,2154 817,1288"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 72
+Aexecuçãode duas transações, Te T, emumbancode dados,é serializável se produz o mesmo resultado para a execução serialde   qualquerintercalação   de   operaçõesdessas   transaçõesijji(Tseguida de T ou T seguida de T). O uso de bloqueios (locks)é uma maneira de se garantir que transações concorrentes sejamserializáveis. A tabela acima mostra informações relativas a três123transações,   T,   T   e   T,   que   operam   sobre   dois   dadoscompartilhados,  A  e  B,  e  utilizam  bloqueios  para  controle  de123concorrência. Com relação às transações T, T e T, julgue ositens seguintes
+IO  conjunto(T,T)nãoéserializável,eháoperigo  deocorrer  deadlock  durante  a  execução  concorrente  dessastransações.13IIO conjunto (T, T) não é serializável, mas não há o perigo deocorrer deadlock durante  a  execução  concorrente  dessastransações.23IIIO  conjunto  (T,  T)  é  serializável,  e  não  há  o  perigo  deocorrer  deadlock  durante  a  execução  concorrente  dessastransações
+Assinale a opção correta.AApenas um item está certo.BApenas os itens I e II estão certos.CApenas os itens I e III estão certos.DApenas os itens II e III estão certos.ETodos os itens estão certos</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="834,254 834,1597 1571,1597 1571,254"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 73
+Considere  o  seguinte  script  SQL  de  criação  de  um  banco  dedados.CREATE TABLE PECAS (CODIGO NUMERIC(5) NOT NULL, DESCRICAO VARCHAR(20) NOT NULL, ESTOQUE NUMERIC(5) NOT NULL, PRIMARY KEY(CODIGO));CREATE TABLE FORNECEDORES(COD_FORN NUMERIC(3) NOT NULL, NOME VARCHAR(30) NOT NULL, PRIMARY KEY(COD_FORN));CREATE TABLE FORNECIMENTOS(COD_PECA NUMERIC(5) NOT NULL, COD_FORN NUMERIC(3) NOT NULL, QUANTIDADE NUMERIC(4) NOT NULL, PRIMARY KEY(COD_PECA, COD_FORN), FOREIGN KEY (COD_PECA) REFERENCES PECAS, FOREIGN KEY (COD_FORN) REFERENCES FORNECEDORES);
+A partir desse script, assinale a opção que apresenta comandoSQL que permite obter uma lista que contenha o nome de cadafornecedor que tenha fornecido alguma peça, o código da peçafornecida,  a  descrição  dessa  peça  e  a  quantidade  fornecida  dareferida peça.
+ASELECT * FROM PECAS, FORNECEDORES,FORNECIMENTOS;BSELECT * FROM PECAS, FORNECEDORES,FORNECIMENTOS WHERE PECAS.CODIGO =FORNECIMENTOS.COD_PECA ANDFORNECEDORES.COD_FORN =FORNECIMENTOS.COD_FORN;CSELECT NOME, CODIGO, DESCRICAO, QUANTIDADEFROM PECAS, FORNECEDORES, FORNECIMENTOS;DSELECT NOME, CODIGO, DESCRICAO, QUANTIDADEFROM PECAS, FORNECEDORES, FORNECIMENTOSWHERE PECAS.CODIGO = FORNECIMENTOS.COD_PECAANDFORNECEDORES.COD_FORN =FORNECIMENTOS.COD_FORN;ESELECTDISTINCT  NOME,  CODIGO,  DESCRICAO,QUANTIDADE  FROM PECAS, FORNECEDORES, FORNECIMENTOSWHERE CODIGO = COD_PECA;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="837,1645 837,2157 1577,2157 1577,1645"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 74
+No que diz respeito às redes neurais, assinale a opção correta.AO treinamento de uma rede neural tem tempo determinado deexecução.BNão há problemas em realizar o teste de desempenho de umarede neural com o mesmo conjunto de dados usado para otreinamento.CO  número  depesosdeumaredeneuralnão  influencia  arapidez com que ela processa dados.DO aprendizado supervisionado é o paradigma de treinamentomais utilizado para desenvolver aplicações de redes neuraispara classificação e predição.EO número de camadas ocultas de uma rede de alimentaçãodireta é inversamente proporcional ao aumento do espaço dehipóteses que ela pode representar.</Unicode></TextEquiv></TextRegion></Page></PcGts>

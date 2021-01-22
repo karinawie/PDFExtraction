@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T01:41:06</Created>
+	<LastChange>2020-10-23T02:08:19</LastChange></Metadata>
+	<Page imageFilename="FISICA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r1">
+	<Coords points="197,1240 197,1640 716,1640 716,1240"/></ImageRegion>
+	<ImageRegion id="r4">
+	<Coords points="126,1729 126,2131 720,2131 720,1729"/></ImageRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="842,80 842,2245 854,2245 854,80"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,96 814,96 814,160 815,160 815,256 719,256 719,376 803,376 803,545 677,545 677,603 667,603 667,661 163,661 163,256 162,256 162,151 101,151"/>
+	<TextEquiv conf="0.93569">
+	<Unicode>QUESTÃO 14
+Suponha que um motor funcione como uma máquina
+térmica em um ciclo de Carnot, entre a temperatura T,
+(fonte fria) e a temperatura T, (fonte quente). Nessas
+condições, o seu rendimento é de 40%. Se T, aumentar
+20%, pode-se afirmar que
+Dado:
+-W 7h
+AQ GL
+e
+(A) orendimento do motor também aumentará 20%.
+(B) avariação de energia interna no ciclo aumentará.
+(C) aquantidade de calor retirada da fonte quente diminuirá.
+(D) avariação de entropia no ciclo diminuirá.
+(E) otrabalho realizado no ciclo aumentará.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="101,713 814,713 814,829 815,829 815,1198 99,1198 99,829 101,829"/>
+	<TextEquiv conf="0.95801">
+	<Unicode>Instruções: Para responder às questões de números 15 e 16 con-
+sidere o texto e as figuras que seguem.
+Uma experiência para demonstrar a força eletromotriz
+induzida é a do anel saltador. Um anel metálico é colocado em
+um dos braços de um ferro U. No outro braço é colocada uma
+bobina com grande número de espiras. Quando uma corrente
+variável circula pela bobina, o anel salta. Na situação da figu-
+ra 1, a bobina é energizada por um capacitor de capacitância C,
+carregado a uma tensão V. A figura 2 representa o gráfico da
+corrente que circula na bobina, quando a chave S é fechada,
+segundo o sentido indicado na fig. 1.</Unicode></TextEquiv></TextRegion></Page></PcGts>

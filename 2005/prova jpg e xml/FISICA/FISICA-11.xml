@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:40:47</Created>
+	<LastChange>2021-01-18T02:55:12</LastChange></Metadata>
+	<Page imageFilename="FISICA-11.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="101,1348 814,1348 814,1909 739,1909 739,2163 705,2163 705,2223 435,2223 435,2224 164,2224 164,2225 163,2225 163,1911 162,1911 162,1858 163,1858 163,1857 217,1857 217,1429 162,1429 162,1366 101,1366"/>
+	<ImageRegion id="r16">
+	<Coords points="102,1437 102,1760 837,1760 837,1437"/></ImageRegion>
+	<TextEquiv conf="0.96132">
+	<Unicode>QUESTÃO 18
+A figura abaixo apresenta a imagem da tela de um
+osciloscópio quando nele são inseridos os sinais da
+mesma nota dó tocada por um piano e por uma clarineta.
+(Paul G. Hewitt. Física conceitual. Porto Alegre: Bookman,
+2002. p. 363)
+Sabendo que a altura é a frequência fundamental do ins-
+trumento, pode-se afirmar que os dois sons têm
+(A) mesma altura e diferentes timbres.
+(B) mesma altura e mesmo timbre.
+(C) diferentes alturas e intensidades semelhantes.
+(D) diferentes timbres e diferentes intensidades.
+(E) mesmo timbre e intensidades semelhantes.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="840,80 840,2231 848,2231 848,80"/></SeparatorRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="101,96 814,96 814,227 817,227 817,560 813,560 813,648 539,648 539,760 814,760 814,843 815,843 815,1033 698,1033 698,1097 431,1097 431,1098 409,1098 409,1201 426,1201 426,1234 509,1234 509,1291 164,1291 164,1292 163,1292 163,1099 162,1099 162,1035 154,1035 154,956 155,956 155,955 171,955 171,844 172,844 172,843 188,843 188,725 163,725 163,701 164,701 164,700 217,700 217,562 163,562 163,178 162,178 162,114 101,114"/>
+	<TextEquiv conf="0.96277">
+	<Unicode>QUESTÃO 17
+O trecho abaixo, extraído de um texto de Ampêre de 1820,
+é considerado por muitos historiadores como um dos
+trabalhos seminais do eletromagnetismo.
+Reduzi os fenômenos observados pelo Sr. Oersted a dois
+fatos gerais. Mostrei que a corrente que está na pilha age
+sobre a agulha imantada como a do fio conjuntivo [fio que
+reúne, no exterior, os pólos da pilhal. Descrevi os
+instrumentos que me propus construir, entre outros,
+espirais e hélices galvânicas [solenóides]. Anunciei que as
+últimas produziram, em todos os casos, os mesmos
+efeitos que os ímãs. Entrei depois em alguns detalhes
+sobre a maneira como concebo os ímãs, que devem as
+suas propriedades unicamente a correntes elétricas...
+(apud Michel Rival. Os grandes experimentos científicos.
+Jorge Zahar editor, 1996. p. 58)
+Considere as afirmações a seguir:
+I. Ampêre apenas refez a famosa experiência de
+Oersted com novos equipamentos.
+II. Ampêre apresenta argumentos sobre a equiva-
+lência entre ímãs e equipamentos percorridos por
+corrente elétrica.
+III. Ampêre apresenta resultados experimentais que
+contradizem as experiências realizadas por
+Oersted.
+A partir do texto pode-se afirmar que SOMENTE
+(A) Ié verdadeira.
+(B) II é verdadeira.
+(C) III é verdadeira.
+(D) IerII são verdadeiras.
+(E) IeIII são verdadeiras.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T02:52:31</Created>
+	<LastChange>2020-10-23T03:15:31</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_III-21.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1573,393 1573,698 80,698 80,699 79,699 79,393"/>
+	<TextEquiv conf="0.95231">
+	<Unicode>QUESTÃO 4
+Deseja-se utilizar coletores solares para aquecimento de água em um hospital.
+Devem ser aquecidos 1800 litros de água de 25 ºC para 45 ºC em duas horas.
+Determine quantos coletores de 2,0 m? de área devem ser instalados, supondo que 50% da energia solar seja efetivamente
+empregada para o aquecimento.
+(valor: 10,0 pontos)
+Considere:
+calor específico da água: 4000 J/kg ºC
+energia incidente: 800 W/m?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="79,1122 94,1122 94,1158 1573,1158 1573,1491 1574,1491 1574,1585 80,1585 80,1586 79,1586 79,1492 80,1492 80,1353 79,1353 79,1291 80,1291 80,1145 79,1145"/>
+	<TextEquiv conf="0.96993">
+	<Unicode>QUESTÃO 6
+Os processos de soldagem podem ser divididos em três grandes grupos: processos de soldagem por fusão, por pressão e
+brasagem. Entre os processos de soldagem por fusão, destaca-se, pela grande utilização, o processo de soldagem a arco
+elétrico com eletrodo revestido.
+a) Qualotipo de eletrodo utilizado no processo de soldagem a arco elétrico com eletrodo revestido?
+(valor: 2,0 pontos)
+b) Citeuma função do revestimento do eletrodo.
+(valor: 2,0 pontos)
+c) Nos processos de soldagem por fusão, a região da solda é composta por três zonas bem distintas. Descreva cada uma
+das zonas que compõem a região da solda.
+(valor: 6,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="79,849 1574,849 1574,1012 1328,1012 1328,978 79,978"/>
+	<TextEquiv conf="0.96428">
+	<Unicode>QUESTÃO 5
+Uma transmissão, formada por duas engrenagens e utilizada para aumentar a velocidade angular, tem seu eixo de entrada
+conectado a um motor que gira a 300 rpm e fornece 31,4 kW de potência mecânica. Considerando que as engrenagens
+possuem 50 e 10 dentes e que a eficiência da transmissão é 0,8, calcule o torque na engrenagem menor.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

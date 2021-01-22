@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T01:18:45</Created>
+	<LastChange>2020-11-13T22:14:07</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,1272 1560,1272 1560,1823 1573,1823 1573,2044 80,2044"/>
+	<TextEquiv conf="0.94076">
+	<Unicode>QUESTÃO 19
+Researchers in Minnesota have shown that olefins can be produced from vegetable-oil-derived biodiesel using methods that are
+more environmentally friendly than conventional methods.
+The researchers have shown that soy-based biodiesel can be oxidized to valuable olefins efficiently and fairly selectively. The
+reaction is conducted in an autothermal catalytic reactor, in which heat is supplied by oxidation reactions, not by external
+heaters.
+To carry out the oxidation process, the Minnesota group uses an automotive fuel injector to spray droplets of biodiesel, which
+consists of methyl oleate, methy1 linoleate, and related compounds, onto the walls of the reactor where the droplets vaporize.
+A mixture of the organic material and air is then passed over a catalyst that contains a few percent of rhodium and cerium
+supported on alumina.
+By adjusting the ratio of biodiesel to oxygen (C/O) in the feed stream, the team is able to control the oxidation process and
+reactor conditions, such as catalyst temperature, and thereby tune the product distribution. For example, at a C/O ratio of
+roughly 1.3, the reaction yields about 25% ethylene and smaller concentrations of propylene, 1-butene, and 1-pentene. In
+contrast, at a C/O ratio of 0.9, the product stream consists mainly of hydrogen and CO.
+The researchers report that at all C/O ratios, the process yields less than 13% CO, (an unwanted product). They add that the
+catalyst remains stable and resists deactivation by carbon buildup even under extreme conditions.
+(Adapted from Chemical and Engeneering News, 83(1),10, 2005)
+De acordo com o texto acima, é possível concluir:
+(A) Atransformação do biodiesel em olefinas se passa na ausência de calor.
+(B) Combustíveis automotivos foram utilizados na produção de biodiesel.
+(C) A umidade do ar desativa o catalisador de ródio e cério suportado em alumínio.
+(D) A composição final da mistura de olefinas é dependente da proporção biodiesel/oxigênio usada como material de partida.
+(E) Ao aumentar a proporção de biodiesel em relação ao oxigênio, o produto da reação consiste basicamente de hidrogênio e CO.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="80,263 1573,263 1573,365 1151,365 1151,479 938,479 938,512 377,512 377,760 1458,760 1458,821 80,821 80,737 79,737 79,385 80,385"/>
+	<TextEquiv conf="0.89178">
+	<Unicode>QUESTÃO 17
+Uma indústria necessita estocar solução de cloreto de níquel 1mol/L, a 25 ºC, e dispõe dos tanques X, Y, Z e W, relacionados
+a seguir.
+Tanque X: construído em ferro e revestido internamente com borracha a base de ebonite.
+Tanque Y: construído em aço inoxidável tipo 304 (liga: ferro 74%, cromo 18%, níquel 8%).
+Tanque Z: construído em ferro galvanizado.
+Tanque W: construído em ferro revestido com estanho eletrodepositado.
+Dados:
+Ni? /NIº Eº=-0,25V
+Zn'?/Znº Eº=-0,76V
+Fe*?/Feº Eº=-0,44 V
+Sn*º/Snº Eº =- 0,14 V
+Cr /Cr Eº=-0,74V
+Dentre esses tanques, quais são adequados para estocar a solução em questão?
+(A) XeZ (B) Xe W (C) YeZz (D) Ye W (E) Ze W</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,865 111,865 111,900 1573,900 1573,994 707,994 707,1170 1490,1170 1490,1238 80,1238 80,1170 81,1170 81,994 79,994 79,900 80,900"/>
+	<TextEquiv conf="0.73770">
+	<Unicode>QUESTÃO 18
+O alumínio é o terceiro elemento mais abundante na crosta terrestre depois do oxigênio e do silício. Tem grande aplicação
+industrial, sendo utilizado na fabricação de recipientes, embalagens, na construção civil e na indústria aeroespacial, entre
+outros usos. Com relação às propriedades do alumínio, pode-se afirmar que:
+I - formao íon AIº* que é paramagnético;
+II - seuíon Alº* tem forte efeito polarizante;
+III - pode ser obtido pela eletrólise ígnea da bauxita;
+IV - seus haletos agem como Ácidos de Lewis.
+São corretas apenas as afirmações:
+(A) II e IV. (B) III e IV. (C) I, II e III. (D) I, II e IV. (E) II, III e IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

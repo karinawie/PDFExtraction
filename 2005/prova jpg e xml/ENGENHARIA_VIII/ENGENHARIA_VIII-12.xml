@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:13:05</Created>
+	<LastChange>2020-10-24T03:38:23</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-12.jpg" imageWidth="1653" imageHeight="2339">
+	<TableRegion id="r0">
+	<Coords points="445,377 445,645 1228,645 1228,377"/></TableRegion>
+	<ImageRegion id="r1">
+	<Coords points="88,1177 88,1702 820,1702 820,1177"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="868,1171 868,1837 1417,1837 1417,1171"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="80,263 81,263 81,264 1570,264 1570,946 81,946 81,945 80,945 80,778 79,778 79,685 80,685"/>
+	<TextEquiv conf="0.91017">
+	<Unicode>QUESTÃO 17
+Em um levantamento da produção associada a uma determinada atividade, foi feito o seguinte registro em uma planilha
+eletrônica:
+Para obter mais informações sobre a atividade é necessário estabelecer a produtividade média. Para tal, deve-se complemen-
+tar a planilha com uma célula que estabeleça esta produtividade média em toneladas por hectare. Esta célula deverá ter o
+seguinte conteúdo:
+(A)= SOMA(C2:C5)/SOMA(B2:B5)
+(B)= SOMA(B2:B5/C2:C5)
+(C)= MEDIA(B2:B5;C2:C5)
+(D)= MEDIA(B2:B5)/MEDIA(C2:C5)
+(E)= MEDIA(B2:B5/C2:C5)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="80,986 80,987 111,987 111,1021 1571,1021 1571,1116 1082,1116 1082,1151 758,1151 758,1863 999,1863 999,1929 1196,1929 1196,1963 1299,1963 1299,1991 88,1991 88,1990 80,1990 80,1151 79,1151 79,1021 80,1021"/>
+	<TextEquiv conf="0.96781">
+	<Unicode>QUESTÃO 18
+As figuras abaixo representam dois mapas temáticos de uma área em torno do rio Paraíba do Sul, confeccionados por
+observação de campo com atualização dos mapas do IBGE (escala 1:50 000), em dois municípios do trecho médio inferior
+(Projeto Paraíba, 2003 UFRRJ/CNPqa/CTHIDRO). Uma área de 8 km? foi utilizada em torno de um percurso de 5 km do rio.
+a - Barra Mansa b - Volta Redonda
+Nessa situação, conclui-se que:
+(A) a área b é mais propícia para atividade agropecuária.
+B) a área b apresenta maior contribuição de esgotos domésticos para o rio.
+C) a área a apresenta pior estado de preservação do que a área b.
+D) a área a apresenta menor possibilidade de recuperação por revegetação do que a área b.
+E)
+não existem diferenças no uso da terra entre as duas áreas.
+(
+(
+(
+(</Unicode></TextEquiv></TextRegion></Page></PcGts>

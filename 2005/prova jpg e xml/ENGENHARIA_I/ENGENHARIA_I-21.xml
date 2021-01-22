@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-21T09:04:39</Created>
+	<LastChange>2020-11-13T12:43:02</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_I-21.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="374,840 374,1725 1311,1725 1311,840"/></ImageRegion>
+	<TextRegion id="r100" type="paragraph">
+	<Coords points="79,479 1573,479 1573,659 1571,659 1571,843 1570,843 1570,844 1074,844 1074,1844 1065,1844 1065,1959 651,1959 651,2002 166,2002 166,2001 165,2001 165,1958 80,1958 80,1957 79,1957"/>
+	<TextEquiv conf="0.90768">
+	<Unicode>4
+Os sanitários de uma fábrica, localizada em local desprovido de rede pública coletora de esgoto, atendem 50 pessoas através
+de fossa séptica de câmara única e de sistemas de disposição de seus efluentes. Ensaios realizados de acordo com a NBR
+13969 em 3 pontos do terreno próximos à edificação, para determinação da capacidade de absorção do solo, indicaram um
+tempo de infiltração de 4 minutos. A contribuição diária, por pessoa, de despejos domésticos da fábrica é de 70 L.
+Considerando a situação descrita, determine:
+a) osistema de disposição de efluente indicado para a fossa séptica, explicando a razão da escolha; (valor: 4,0 pontos)
+b) aárea de absorção do sistema de disposição indicado para atender a fossa séptica. (valor: 6,0 pontos)
+Área de infiltração do sistema de disposição do efluente de fossa séptica A = o
+C,
+sendo: A = área de infiltração (m?) '
+Q = vazão afluente (L/dia)
+C, = coeficiente de infiltração (L/m? / dia)</Unicode></TextEquiv></TextRegion></Page></PcGts>

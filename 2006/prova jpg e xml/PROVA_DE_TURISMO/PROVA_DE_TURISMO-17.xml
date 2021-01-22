@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T12:27:59</Created>
+	<LastChange>2020-10-21T12:34:41</LastChange></Metadata>
+	<Page imageFilename="PROVA_DE_TURISMO-18.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="104,1219 515,1219 515,1271 1550,1271 1550,1421 1323,1421 1323,1358 104,1358 104,1359 103,1359 103,1271 104,1271"/>
+	<TextEquiv conf="0.85596">
+	<Unicode>QUESTÃO 40 - DISCURSIVA
+Para ser turística, uma cidade precisa oferecer hospitalidade, além de dispor de um conjunto de empresas que forneçam serviços e
+produtos turísticos de qualidade. Nessa perspectiva, redija um texto que discuta a relação existente entre hospitalidade, qualidade dos
+produtos e serviços turísticos, e participação da comunidade receptora no processo de desenvolvimento turístico.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="104,241 515,241 515,312 1550,312 1550,525 1323,525 1323,492 104,492 104,493 103,493 103,312 104,312"/>
+	<TextEquiv conf="0.91884">
+	<Unicode>QUESTÃO 39 — DISCURSIVA
+Segundo o conceito da responsabilidade social, os responsáveis pelas políticas públicas de turismo devem proporcionar às
+comunidades receptoras o máximo de benefícios decorrentes do desenvolvimento da atividade turística da região, sempre buscando
+maximizar os impactos positivos e minimizar os impactos negativos.
+A partir das idéias acima, redija um texto que destaque o papel das políticas públicas de turismo no que se refere à responsabilidade
+social junto às comunidades receptoras de turismo.
+(valor: 10,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

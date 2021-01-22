@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:25:14</Created>
+	<LastChange>2021-01-18T01:54:11</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-24.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="91,320 91,694 711,694 711,320"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="822,308 822,831 1460,831 1460,308"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="1117,862 1117,1542 1545,1542 1545,862"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="737,248 737,2160 742,2160 742,248"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="85,742 85,2131 728,2131 728,742"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 46
+O diagrama acima mostra curvas de distribuição de
+tamanho de partículas de alumina vendida por
+determinado fornecedor. A curva indicada por “como
+recebida” refere-se ao material recebido do fornecedor.
+As outras curvas mostram a distribuição de tamanho de
+partícula desse material após diferentes tempos de
+moagem. Considere que se deseje fabricar um produto
+cerâmico a partir dessa matéria-prima, que tenha alta
+densidade (&gt; 99%) e resistência mecânica. Devem ser
+produzidos grânulos a partir desse material, os quais serão
+utilizados na prensagem do produto desejado. Com
+relação a essa situação, assinale a opção correta.
+A O maior tempo de moagem gera alumina com menor
+tamanho médio de partículas e menor desvio-padrão,
+o que acarretará maior empacotamento das partículas
+durante a prensagem.
+B Para serem obtidos grânulos de prensagem com maior
+densidade e com maior plasticidade, deve-se adicionar
+defloculante e ligante ao sistema , o que pode ser feito
+durante o processo de moagem.
+C Grânulos obtidos por secagem a spray (spray drying)
+utilizando-se alumina moída por 72 horas têm mais
+porosidade do que os fabricados com o material
+“como recebido”.
+D Não se deve realizar a moagem da alumina como
+recebida porque esse processo pode introduzir
+impurezas indesejadas na matéria-prima.
+E A moagem da alumina recebida vai acarretar a
+obtenção de um produto final com maior densidade e
+resistência mecânica.
+</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="754,860 1111,860 1111,1568 1554,1568 1554,2131 745,2131 745,1568 754,1568"/>
+	<TextEquiv>
+	<Unicode>QUESTÃO 47
+A figura I, acima, mostra a
+variação do potencial zeta e da
+viscosidade de suspensões que
+contêm 50% em volume de
+a lum ina em fu n ç ão da
+concentração de poliacrilato de
+amônio. A figura II, ao lado,
+mostra curvas de viscosidade de
+suspensões desse mesmo
+material, com e sem adição de
+hidroximetil celulose, em
+função do pH do meio.
+Com base nesses diagramas,
+assinale a opção correta.
+A Suspensões dispersas de
+alumina serão obtidas
+para concentrações de poliacrilato abaixo de 0,1%.
+B Com base apenas nos parâmetros mostrados nos diagramas, verificase que, se adicionado o hidroximetil celulose, as suspensões terão o
+maior grau de dispersão quando o pH do meio for 5.
+C Se uma suspensão for preparada com uma fração de sólidos maior
+que a utilizada nas suspensões mostradas nas figuras, mantendo-se o
+pH igual a 10 e com adição do ligante, a viscosidade da suspensão
+não será alterada.
+D Uma suspensão preparada nas condições indicadas pelo ponto X
+(pH igual a 5 e com adição de ligante) apresentará provavelmente um
+comportamento reológico pseudoplástico.
+E Usando-se uma suspensão preparada nas condições indicadas pelo
+ponto X, para obtenção de uma peça por colagem, serão obtidos
+compactos com baixa porosidade.</Unicode></TextEquiv></TextRegion></Page></PcGts>

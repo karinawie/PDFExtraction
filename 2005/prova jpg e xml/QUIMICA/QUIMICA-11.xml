@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:18:57</Created>
+	<LastChange>2020-10-20T23:08:10</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-11.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="122,465 122,760 1505,760 1505,465"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="222,1414 222,1702 1502,1702 1502,1414"/></ImageRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="84,264 114,264 114,300 1578,300 1578,327 1579,327 1579,400 1577,400 1577,455 1453,455 1453,456 1329,456 1329,457 1204,457 1204,458 1080,458 1080,459 955,459 955,460 831,460 831,461 707,461 707,462 687,462 687,864 820,864 820,931 846,931 846,1014 889,1014 889,1050 1261,1050 1261,1122 1386,1122 1386,1185 95,1185 95,1221 84,1221 84,1040 83,1040 83,1014 90,1014 90,467 84,467 84,339 83,339 83,300 84,300"/>
+	<TextEquiv conf="0.96915">
+	<Unicode>QUESTÃO 15
+A cafeína, que é um alcalóide presente nas folhas de chá preto, pode ser isolada através de um processo que envolve duas
+extrações. Na primeira etapa, as folhas de chá preto são extraídas com solução aquosa de Na,CO,, com o objetivo de hidrolisar
+o conjugado cafeína-tanino presente no substrato. Nesta reação, o tanino passível de hidrólise gera glicose e sal de ácido gálico.
+Na segunda etapa, é feita uma extração líquido-líquido do meio reacional com diclorometano. Abaixo estão apresentadas as
+espécies de interesse.
+Cc
+Dados: K= To onde K = coeficiente de partição
+C,= concentração do soluto em água
+C, = concentração do soluto em CH,CI,
+A respeito dos processos de extração descritos acima, tem-se que
+(A) a extração sólido-líquido deve ser efetuada a frio, de modo a evitar a decomposição da cafeína.
+(B) a extração com diclorometano remove a cafeína e o sal de ácido gálico.
+(C) o Na,CO, favorece a transferência da glicose para a fase orgânica, através de um processo de salting out.
+(D) a cafeína é extraída para a fase orgânica sob a forma protonada.
+(E) o coeficiente de distribuição da cafeína no sistema água-diclorometano é maior que 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r33" type="paragraph">
+	<Coords points="84,1265 114,1265 114,1303 1578,1303 1578,1356 1576,1356 1576,1740 1168,1740 1168,1877 837,1877 837,2040 808,2040 808,2041 85,2041 85,1918 84,1918 84,1811 83,1811 83,1810 84,1810 84,1809 511,1809 511,1402 85,1402 85,1366 83,1366 83,1303 84,1303"/>
+	<TextEquiv conf="0.95916">
+	<Unicode>QUESTÃO 16
+A qualidade da água bruta, extraída de águas superficiais ou subterrâneas, varia amplamente, assim como também variam os
+tipos e as quantidades de poluentes nela contidos.
+Um dos processos de tratamento para obtenção de água potável está esquematizado na figura abaixo.
+(Adaptado de BAIRD, C. Environmental Chemistry. Nova York: W. H. Freeman and Company, 1999, p. 466)
+Analisando a figura, pode-se concluir que a função do fon fosfato no processo consiste em
+(A) remover a dureza da água.
+(B) promover a biorremediação da água.
+(C) precipitar colóides presentes na água.
+(D) eliminar microorganismos patogênicos.
+(E) remover gases dissolvidos responsáveis pelo odor da água.</Unicode></TextEquiv></TextRegion></Page></PcGts>

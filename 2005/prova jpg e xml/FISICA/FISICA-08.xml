@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T04:41:16</Created>
+	<LastChange>2021-01-18T02:58:25</LastChange></Metadata>
+	<Page imageFilename="FISICA-08.jpg" imageWidth="1653" imageHeight="2339">
+	<SeparatorRegion id="r0">
+	<Coords points="805,80 805,2245 811,2245 811,80"/></SeparatorRegion>
+	<ImageRegion id="r1">
+	<Coords points="131,817 131,1297 705,1297 705,817"/></ImageRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="62,96 776,96 776,295 754,295 754,419 286,419 286,634 186,634 186,636 124,636 124,295 123,295 123,114 62,114"/>
+	<TextEquiv conf="0.96205">
+	<Unicode>QUESTÃO 12
+Em um dia de inverno, uma estudante correu durante
+1,0 hora, inspirando ar, à temperatura de 12ºC e expi-
+rando-o à 37 ºC. Suponha que ela respire 40 vezes por
+minuto e que o volume médio de ar em cada respiração
+seja de 0,20 mê. A quantidade estimada de calor cedida
+pela estudante ao ar inalado durante o período do
+exercício, em joules, é de
+Dados:
+densidade do ar = 1,3 kg/m?
+calor específico do ar = 1,0-108º J/kgºC
+(A) 5,0 x 106
+(B) 6,0 x 106
+(C) 1,6x107
+(D) 2,8x107
+(E) 9,8x107</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="123,670 775,670 775,1522 776,1522 776,1601 775,1601 775,1839 774,1839 774,1952 477,1952 477,2037 411,2037 411,2185 332,2185 332,2218 187,2218 187,2220 124,2220 124,1710 115,1710 115,1632 123,1632 123,689 61,689 61,671 123,671"/>
+	<TextEquiv conf="0.94073">
+	<Unicode>QUESTÃO 13
+Um certo número de moles de argônio é submetido a uma
+expansão isotérmica A — B, absorvendo uma quantidade
+de calor de 66 J. O sistema retorna ao estado inicial A,
+passando pelo estado C, conforme representado no
+diagrama abaixo.
+Considere o argônio como um gás ideal monoatômico e as
+afirmações que seguem.
+I. Na transformação AB o gás realiza uma
+quantidade de trabalho 40 J e a sua energia interna
+diminui 66 J.
+II. Natransformação B — C o gás cede 100 J de calor
+para a vizinhança e a sua energia interna diminui
+60 J.
+III. Na transformação C—»A o gás absorve 60 J de
+calor, enquanto que a sua energia interna aumenta
+60 J.
+Fórmulas relevantes:
+Equação de estado de um gás ideal: py = nRT
+Energia interna de um gás ideal monoatômico:
+U= z nRT
+Está correto o que se afirma em
+(A) I, somente.
+(B) II, somente.
+(C) III, somente.
+(D) IIelIIT, somente.
+(E) LI IIeIIMT.</Unicode></TextEquiv></TextRegion></Page></PcGts>

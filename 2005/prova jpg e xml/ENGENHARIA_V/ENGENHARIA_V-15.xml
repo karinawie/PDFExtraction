@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T06:27:37</Created>
+	<LastChange>2020-11-23T13:07:56</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-15.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r3">
+	<Coords points="1200,845 1199,942 1170,942 1170,1185 1470,1185 1470,1149 1551,1150 1551,889 1335,888 1336,845"/></ImageRegion>
+	<ImageRegion id="r5">
+	<Coords points="1509,1149 1509,1185 1551,1185 1551,1149"/></ImageRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="115,814 1551,814 1551,845 1199,845 1199,935 1156,935 1156,1622 1550,1622 1550,1673 104,1673 104,1672 103,1672 103,845 115,845"/>
+	<TextEquiv conf="0.81540">
+	<Unicode>QUESTÃO 29 - DISCURSIVA 1
+Na figura ao lado, está representado o diagrama tensão versus deformação para o
+material do espelho do telescópio Hubble. Suponha que, em razão das desvantagens
+mecânicas mencionadas no texto, tenha sido proposto, após um processo de seleção de o
+materiais, que o espelho fosse manufaturado com um material metálico polido de alta
+ductilidade. Considerando essa situação, faça o que se pede nos itens a seguir.
+a) Esboce,no diagrama ao lado, a curva tensão versus deformação relativa ao material proposto.
+(valor: 3,0 pontos)
+b) Descreva as vantagens mecânicas e térmicas da substituição das peças vítreas monolíticas por
+material metálico polido de alta ductilidade. (valor: 4,0 pontos)
+c) Suponha que, para a avaliação da falha mecânica do material após o choque térmico, se disponha de um ensaio de campo por
+líquido penetrante. Descreva brevemente esse ensaio e o tipo de avaliação que ele aponta. (valor: 3,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="103,114 465,114 465,220 608,220 608,167 1037,167 1037,220 1491,220 1491,473 1551,473 1551,504 1549,504 1549,600 686,600 686,757 677,757 677,790 142,790 142,785 104,785 104,599 103,599 103,504 116,504 116,473 162,473 162,136 103,136"/>
+	<TextEquiv conf="0.96003">
+	<Unicode>Texto para as questões 28 e 29.
+Telescópio Hubble detecta estranha luz
+Com ajuda do telescópio espacial Hubble, cientistas da NASA conseguiram identificar o responsável pela estranha luz
+azul em volta de um buraco negro na galáxia de Andrômeda. Tamanho progresso na capacidade de observação astronômica
+deve-se, em grande parte, aos novos materiais cerâmicos empregados na construção do telescópio espacial Hubble, que
+permitem a obtenção de espelhos de altíssima qualidade. Tradicionalmente, espelhos para telescópios têm sido construídos a
+partir de peças vítreas monolíticas. Normalmente, são escolhidos vidros com baixo coeficiente de expansão térmica, para se
+reduzir a probabilidade de fratura por choque térmico. A utilização de peças monolíticas com diâmetros acima de 6,5 m, como
+a utilizada no Hubble, não é recomendada porque essas peças têm massas superiores a 60 toneladas. Nessas dimensões, espelhos
+monolíticos são extremamente caros, difíceis de serem manufaturados e transportados e, ainda, mantêm a limitação de serem
+suscetíveis a fratura prematura por choque térmico.
+
+QUESTÃO 28
+Considerando o assunto abordado no texto, suponha que um espelho semelhante ao utilizado no Hubble foi instalado no deserto de
+Atacama, no Chile, onde a diferença de temperatura entre o dia e a noite pode chegar a 100 ºC. Suponha, ainda, que um processo de
+choque térmico resultou na ruptura desse espelho. Essa ruptura deveria estar associada aos fenômenos de
+fadiga e condução elétrica.
+O expansão/contração térmica e resistência elétrica.
+O expansão/contração térmica e condução elétrica.
+O deformação viscosa e fratura frágil.
+O expansão/contração térmica e condução térmica.</Unicode></TextEquiv></TextRegion></Page></PcGts>

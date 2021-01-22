@@ -1,0 +1,1540 @@
+QUESTÃO 11
+Apesar de todo o desenvolvimento, a construção de computadores
+e processadores continua, basicamente, seguindo a arquitetura
+clássica de von Neumann. As exceções a essa regra encontram-se
+em computadores de propósitos específicos e nos desenvolvidos
+em centros de pesquisa. Assinale a opção em que estão
+corretamente apresentadas características da operação básica de
+um processador clássico.
+A Instruções e dados estão em uma memória física única; um
+programa é constituído de uma seqiiência de instruções de
+máquina; uma instrução é lida da memória de acordo com a
+ordem dessa sequência e, quando é executada, passa-se, então,
+para a próxima instrução na seqiiência.
+B Instruções e dados estão em memórias físicas distintas; um
+programa é constituído de um conjunto de instruções de
+máquina; uma instrução é lida da memória quando o seu
+operando-destino necessita ser recalculado; essa instrução é
+executada e o resultado é escrito no operando de destino,
+passando-se, então, para o próximo operando a ser recalculado.
+C Instruções e dados estão em uma memória física única; um
+programa é constituído de um conjunto de instruções de
+máquina; uma instrução é lida da memória quando todos os
+seus operandos-fonte estiverem prontos e disponíveis; essa
+instrução é executada e o resultado é escrito no operando de
+destino, passando-se, então, para a instrução seguinte que tiver
+todos seus operandos disponíveis.
+D Instruções e dados estão em memórias físicas distintas; um
+programa é constituído de um conjunto de instruções de
+máquina; uma instrução é lida da memória quando todos os
+seus operandos-fonte estiverem prontos e disponíveis; essa
+instrução é executada e o resultado é escrito no operando de
+destino, passando-se, então, para a instrução seguinte que
+estiver com todos os seus operandos disponíveis.
+E Instruções e dados estão em memórias físicas distintas; um
+programa é constituído de uma seqiiência de instruções de
+máquina; uma instrução é lida da memória de acordo com a
+ordem dessa seqiiência e, quando é executada, passa-se, então,
+para a próxima instrução na seqiiência.
+
+QUESTÃO 12
+Um elemento imprescindível em um computador é o sistema de
+memória, componente que apresenta grande variedade de tipos,
+tecnologias e organizações. Com relação a esse assunto, julgue
+os itens seguintes.
+I Para endereçar um máximo de 2º palavras distintas, uma
+memória semicondutora necessita de, no mínimo, E bits de
+endereço.
+II Em memórias constituídas por discos
+magnéticos, as palavras estão organizadas em blocos, e cada
+bloco possui um endereço único, com base na sua
+localização física no disco.
+III A tecnologia de memória dinâmica indica que o conteúdo
+dessa memória pode ser alterado (lido e escrito), ao
+contrário da tecnologia de memória estática, cujo conteúdo
+pode apenas ser lido, mas não pode ser alterado.
+secundárias
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 13
+Julgue os itens a seguir, acerca de algoritmos para ordenação.
+I O algoritmo de ordenação por inserção tem complexidade
+O(n x logn).
+1 Um algoritmo de ordenação é dito estável caso ele não altere
+a posição relativa de elementos de mesmo valor.
+IM No algoritmo quicksort, a escolha do elemento pivô
+influencia o desempenho do algoritmo.
+IV O bubble-sort e o algoritmo de ordenação por inserção
+fazem, em média, o mesmo número de comparações.
+Estão certos apenas os itens
+AI e II.BI e III.CII e IV.DI, III e IV.EII, III e IV
+
+QUESTÃO 14
+Os proprietários de um teatro necessitam de uma
+ferramenta de software para reserva de lugares.
+O desenvolvedor contratado verificou que as poltronas
+disponíveis para reserva são referenciadas pelo número da fila
+(a partir do n.º 1) e pelo número da cadeira (a partir do n.º
+1) em cada fila, em uma representação matricial em que as
+linhas e colunas da matriz correspondem, respectivamente, às
+filas e às colunas de cadeiras. Embora o contexto seja o da
+organização matricial — N filas de cadeiras (linhas), cada uma
+contendo M cadeiras (colunas) —, a solução a ser
+implementada utilizará uma estrutura linear unidimensional
+(vetor), sendo, portanto, necessária uma conversão entre o
+lugar referenciado (número f da fila, número c da cadeira) e
+a posição real na estrutura de armazenamento (posição p no
+vetor).
+Na situação apresentada, considere que a referida matriz seja
+armazenada no vetor segundo sua sequência de linhas, da primeira
+para a última, e, em cada linha, da primeira coluna para a última,
+e que a primeira posição no vetor tenha índice O. Nessa situação,
+a posição p da poltrona do teatro localizada à fila de número f e
+à coluna de número c, é igual a
+cCc+fxM.
+f+texM.
+Mx(f-DN+(c-)D.
+M*x(c-D+(f-D).
+Mx(cC-DIMXS
+
+QUESTÃO 15
+Considere o algoritmo que implementa o seguinte processo: uma
+coleção desordenada de elementos é dividida em duas metades e
+cada metade é utilizada como argumento para a reaplicação
+recursiva do procedimento. Os resultados das duas reaplicações
+são, então, combinados pela intercalação dos elementos de ambas,
+resultando em uma coleção ordenada. Qual é a complexidade desse
+algoritmo?
+AO(n)2BO(n)2nCO(2)nDO(log n × log n)EO(n × log n)
+
+QUESTÃO 16
+No processo unificado, cinco workflows acompanham o conjunto
+das fases de desenvolvimento de software. Cada workflow é um
+conjunto de atividades executadas por vários membros do projeto.
+Considerando o desenvolvimento de um sistema integrado de
+gestão (ERP), o empacotamento em componentes de software dos
+elementos do modelo de projeto — tais como arquivo de código-
+fonte, biblioteca de ligação dinâmica e componentes executáveis
+— é descrito pelo workflow de
+A teste.
+B análise.
+C projeto.
+D implementação.
+E requisito.
+
+
+QUESTÃO 17
+No processo de desenvolvimento de um sistema de
+controle de materiais (matérias-primas) para uma
+metalúrgica, a equipe de projeto, responsável pelo
+mapeamento dos requisitos, desenvolveu seus trabalhos
+seguindo os quatro subprocessos da engenharia de
+requisitos. Inicialmente, foram feitas a análise e a avaliação
+para se verificar se o sistema seria útil ao negócio. Em um
+segundo momento, os requisitos foram identificados e
+analisados e, logo em seguida, foram documentados.
+Finalmente, foi verificado se os requisitos identificados
+atendiam às demandas dos usuários. Tendo sido executado
+esse procedimento, uma empresa independente de
+auditoria, após análise, identificou dois problemas no
+processo: a documentação dos requisitos (formulários e
+padrões utilizados) estava inadequada e não possibilitava
+o entendimento correto dos requisitos; o processo de
+checagem entre as demandas dos usuários e as
+especificações relatadas não foi bem conduzido e seus
+resultados eram insatisfatórios.
+Considerando o relatório da auditoria independente, quais foram
+as duas fases do processo de engenharia de requisitos que
+apresentaram problemas?
+A Entendimento do domínio e especificação.
+B Elicitação e validação.
+C Validação e entendimento do domínio.
+D Especificação e validação.
+E Validação e elicitação.
+
+QUESTÃO 18
+No processo de desenvolvimento de um sistema de
+tomada de decisões a ser implementado por uma
+instituição financeira de natureza privada, um profissional
+de sistemas de informações, contratado por prestação de
+serviços, recebeu a incumbência de garantir que o novo
+sistema operasse com uma função de concessão de crédito
+para clientes com maior probabilidade de honrar
+compromissos e que representassem menor risco para a
+instituição. Para a análise do perfil de cada cliente, o
+projetista definiu uma função de pesquisa e cruzamento
+de informações obtidas de terceiros e referentes a dados
+bancários, pessoais, comerciais, de previdência e saúde, e
+gastos com cartão de crédito. Em pouco tempo de
+operação, o novo sistema elevou os indicadores de
+desempenho da instituição financeira, apesar de ter
+diminuído o número de pessoas atendidas com o
+programa de concessão de créditos.
+Quanto às questões éticas associadas à prática profissional, no
+contexto da situação apresentada, julgue os itens abaixo.
+1 É direito da empresa utilizar qualquer informação
+disponível, desde que seja para benefício corporativo.
+1 A empresa deve controlar, notificar e solicitar
+consentimento para armazenar e usar informações dos
+clientes.
+II A responsabilidade pelo uso correto de informações é de
+quem as fornece, de quem as adquire e dos profissionais que
+as utilizam na construção de sistemas.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens [ e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+
+QUESTÃO 19
+Julgue os itens seguintes.
+1 (Vx P(xX))V(Vx -P(x)) é uma sentença válida porque existe
+uma interpretação que a torna verdadeira.
+Il A frase “Se um carro é mais caro que todos os carros
+nacionais, ele deve ser alemão” pode ser traduzida pela
+seguinte sentença: Vx carro(x) AVy [carro(y) Afabricado(y,
+Brasil) A (preco(x) > preco(y)) = fabricado(x, Alemanha).
+III A frase “Existe um aluno que gosta de todas as disciplinas
+difíceis” pode ser traduzida por: 3x aluno(x) À Vy
+[disciplina(y) A difícil(y)] À gosta(x, y).
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens [ e II estão certos.
+Apenas os itens [ e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 20
+A orientação a objetos é uma forma abstrata de pensar um
+problema utilizando-se conceitos do mundo real e não, apenas,
+conceitos computacionais. Nessa perspectiva, a adoção do
+paradigma orientado a objetos implica necessariamente que
+os usuários utilizem as aplicações de forma mais simples.
+os sistemas sejam encapsulados por outros sistemas.
+os programadores de aplicações sejam mais especializados.
+os objetos sejam implementados de maneira eficiente e
+simples.
+a computação seja acionada por troca de mensagens entre
+objetos.
+
+QUESTÃO 21
+No modo recursivo de representação, a descrição de um
+conceito faz referência ao próprio conceito. Julgue os itens
+abaixo, com relação à recursividade como paradigma de
+programação.
+I São elementos fundamentais de uma definição recursiva:
+o caso-base (base da recursão) e a reaplicação da definição.
+1 O uso da recursão não é possível em linguagens com
+estruturas para orientação a objetos.
+III As linguagens de programação funcionais têm, na recursão,
+seu principal elemento de repetição.
+IV No que diz respeito ao poder computacional, as estruturas
+iterativas e recursivas são equivalentes.
+V Estruturas iterativas e recursivas não podem ser misturadas
+em um mesmo programa.
+Estão certos apenas os itens
+IelV.
+Nel.
+LHTelV.
+Lev.
+I,IVeV.
+
+QUESTÃO 22
+Com relação ao gerenciamento de memória com paginação em
+sistemas operacionais, assinale a opção correta.
+O As páginas utilizadas por um processo, sejam de código ou de
+dados, devem ser obrigatoriamente armazenadas na partição de
+swap do disco, quando o processo não estiver sendo executado.
+O Todas as páginas de um processo em execução devem ser
+mantidas na memória física enquanto o processo não tiver
+terminado.
+O Um processo somente pode ser iniciado se o sistema
+operacional conseguir alocar um bloco contíguo de páginas do
+tamanho da memória necessária para execução do processo.
+O Oespaço de endereçamento virtual disponível para os processos
+pode ser maior que a memória física disponível.
+Um processo somente pode ser iniciado se o sistema
+operacional conseguir alocar todas as páginas de código
+desse processo.
+
+QUESTÃO 23
+Em uma perspectiva instrumental clássica, é possível considerar
+que uma organização empresarial esteja dividida em funções e em
+veis hierárquicos ou decisórios. Considere as seguintes
+definições.
+I Nível   responsável   pelas   decisões   mais   abrangentes   daorganização que possuem impacto no longo prazo e permitemdirecionar e caracterizar o futuro da organização.
+IINível  da  rotina  diária  da  organização,  caracterizado  pordecisões de impacto a curto prazo.
+IIINível  responsável  pelas  decisões  setoriais  da  organização,focado    na    concretização    das    estratégias    a    partir    doacompanhamento   e   do   controle   das   atividades   que   irãoconcretizar os objetivos estabelecidos.
+As definições acima correspondem, respectivamente, aos níveis
+A estratégico, operacional e tático.
+B tático, operacional e estratégico.
+C operacional, estratégico e tático.
+D estratégico, tático e operacional.
+E tático, estratégico e operacional.
+
+
+QUESTÃO 24
+Na definição da aquisição de um novo software de
+banco de dados (SGBD) para uma empresa da área de
+transporte coletivo urbano, a direção da área de Informática
+conduziu o processo de decisão da seguinte forma: foi
+designado um profissional da área de banco de dados (aquele
+com maior experiência na área) e atribuída a ele a tarefa de
+decidir qual seria o melhor SGBD a ser adquirido. Esse
+profissional desenvolveu uma série de estudos sobre as opções
+disponíveis utilizando técnicas de simulação e testes específicos
+para cada SGBD analisado. Ao final, apresentou ao diretor
+um relatório em que indicava claramente qual o melhor SGBD
+(solução ótima) disponível no mercado. Com base nessa
+informação, o diretor da empresa disparou o processo de
+compra do software (SGBD) indicado.
+Esse processo decisório classifica-se na abordagem
+A racional.
+B de racionalidade limitada.
+C política.
+D do incrementalismo.
+E do componente subjetivo.
+
+QUESTÃO 25
+Entre os aspectos importantes relativos à segurança de sistemas
+de informação, inclui-se
+a proteção de dados por meio de senhas e criptografia forte.
+a existência de um plano de recuperação de desastres
+associado a backups frequentes.
+Ma utilização de firewalls associada a mecanismos de
+detecção de intrusão.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens [ e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 26
+Todo jogador deve pertencer a um único clube.
+Assinale a opção que representa corretamente, no modelo
+entidade-relacionamento, a especificação apresentada acima.
+
+QUESTÃO 27
+Na etapa de projeto orientado a objetos, no contexto de um
+processo de desenvolvimento de software, são desenvolvidas as
+atividades de
+definição da arquitetura do sistema e conversão das bases de
+dados do sistema.
+identificação dos objetos do sistema e definição da
+arquitetura do sistema.
+conversão das bases de dados do sistema e teste de
+integração do sistema.
+teste de integração do sistema e análise de requisitos do
+sistema.
+análise de requisitos do sistema e definição da arquitetura
+do sistema.
+
+QUESTÃO 28
+O gerente de tecnologia de uma empresa de TI
+recebeu a incumbência de especificar a arquitetura de um
+sistema de informação para atender a um cliente na área de
+diagnóstico por imagem (raio X, tomografia computadorizada
+e ressonância magnética). O cliente está interessado em
+agilizar o diagnóstico por armazenamento e recuperação de
+imagens digitalizadas e em se manter na vanguarda do
+mercado, dada a melhoria contínua de sua solução em TI.
+O cliente pretende iniciar digitalizando 1.000 imagens por
+mês, cada imagem com tamanho médio de 20 Kkilobytes, até
+chegar, em 12 meses, a 20.000 imagens por mês.
+Considerando essas informações, julgue os seguintes itens.
+I Um SBD orientado a objeto é adequado para a arquitetura do SI
+do cliente porque é voltado justamente para aplicações que
+tratam objetos complexos e tem alta integração com linguagens
+de programação orientadas a objetos.
+II Um SBD relacional não é adequado para a arquitetura do SI do
+cliente porque não constitui ainda uma tecnologia bem
+estabelecida e bem testada, apesar de ser uma linguagem de
+consulta poderosa.
+III Um SBD objeto-relacional é adequado para a arquitetura do SI
+do cliente porque alia estruturas não-normalizadas, capazes de
+representar objetos complexos, a uma linguagem de consulta
+poderosa.
+Assinale a opção correta.
+coo0coo
+Apenas um item está certo.
+Apenas os itens 1 e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 29
+Considere um sistema bancário simplificado e uma transação T1,
+que transfira R$ 100,00 da conta X para a conta Y e é definida
+pelas operações listadas acima. Considere ainda que uma transação
+T2 esteja sendo executada simultaneamente com T1. Caso a
+transação T2 realize a operação Escrita (Y) depois da execução
+da operação 4 e antes da execução da operação 6 por T1, qual
+propriedade de transações será violada no banco de dados do
+referido sistema bancário?
+Atomicidade.
+Isolamento.
+Distributividade.
+Consistência.
+Durabilidade.
+
+QUESTÃO 30
+O desenvolvimento global de software GSD — global
+software development — tem-se firmado como uma das
+grandes tendências na área de sistemas de informação nas
+organizações. Considere que uma organização da área de
+varejo e distribuição sediada na Europa tenha implantado três
+unidades de desenvolvimento de software espalhadas no
+mundo: uma no Brasil, uma na Índia e outra na China.
+Considere ainda que nenhuma dessas unidades possua
+qualquer tipo de certificação e que o principal problema da
+organização esteja relacionado ao desenvolvimento de
+sistemas que atendam às necessidades da organização e que
+reflitam as expectativas dos clientes globais.
+Nessa situação, o nível do modelo SW-CMM e a KPA (área chave
+de processo) mais adequados para a situação apresentada são,
+respectivamente,
+nível 2, KPA RM - gestão de requisitos.
+nível 2, KPA SPP — planejamento.
+nível 2, KPA SPTO - acompanhamento de projeto.
+nível 3, KPA OPD - definição do processo da organização.
+nível 3, KPA SPE - engenharia de produtos de sofiware.
+
+QUESTÃO 31
+O modelo de gerenciamento de projetos do PMI
+(Project Management Institute), descrito no PMBOK, envolve
+um conjunto de nove áreas de conhecimento a serem
+consideradas com vistas a melhorar o processo de gestão de
+um projeto, ampliando-se, consegitentemente, suas chances
+de sucesso. Considere que, no desenvolvimento de um
+sistema de vendas de uma empresa que atua no segmento
+industrial, o orçamento inicial tenha sido extrapolado em
+120% e que à equipe da área de sistemas tenha concluído o
+sistema com mais de quatro meses de atraso. Nas reuniões
+com os usuários para a entrega do sistema, foi constatado que
+este não atendia às especificações esperadas pelos usuários.
+Nessa situação,
+evidenciam-se áreas de conhecimento que
+compõem a chamada tripla restrição, que são as áreas de
+gerenciamento de
+escopo, contratação e custo.
+tempo, contratação e risco.
+custo, tempo e escopo.
+contratação, custo e tempo.
+risco, tempo e escopo.
+
+QUESTÃO 32
+O planejamento estratégico de sistemas de informação pode ser
+entendido como o processo de identificação de um porta-fólio
+computadorizado de aplicações que dá suporte ao plano de
+negócios das organizações e auxilia na concretização dos objetivos
+organizacionais.
+Os principais objetivos do
+processo de
+planejamento estratégico de sistemas de informação não incluem
+o alinhamento das estratégias da área de SI com as estratégias
+do negócio.
+o comprometimento da alta administração, pela alocação dos
+recursos e resultados intermediários e incrementais.
+a melhoria do desempenho da área de SI, seja pela alocação
+mais eficaz de recursos, seja pelo aumento de produtividade
+dos profissionais.
+a antecipação de tendências, envolvendo inovação tecnológica
+contínua.
+a identificação, a avaliação e a validação dos controles
+relacionados aos
+de vista de sua eficiência e eficácia.
+temas de informação existentes, do ponto
+
+QUESTÃO 33
+Considere que a rede de uma empresa usará os protocolos
+TCP/IP para facilitar o acesso do público às informações dessa
+empresa a partir de máquinas conectadas à Internet. Considere
+ainda que, ao serem descritos os protocolos que serão usados na
+rede, alguns erros foram cometidos. As descrições estão
+apresentadas nos itens a seguir.
+O Internet Protocol (IP) provê serviço não-orientado a
+conexão, e garante a entrega dos datagramas enviados. Além
+de garantir a entrega dos datagramas enviados, outra
+importante responsabilidade do IP é rotear os datagramas
+por meio de redes interligadas. O roteamento é feito usando-
+se endereços IP.
+O Internet Control Message Protocol (ICMP) possibilita
+que mensagens de erro e de controle sejam trocadas entre
+máquinas. As mensagens ICMP são transferidas como dados
+em datagramas do IP.
+O Transmission Control Protocol (TCP) provê um serviço
+orientado a conexão. Os dados são transferidos por meio de
+uma conexão em unidades conhecidas como segmentos.
+O TCP espera que a recepção dos segmentos transmitidos
+seja confirmada pelo destino e retransmite segmentos cuja
+recepção não seja confirmada.
+O User Datagram Protocol (UDP) provê um mecanismo
+para que aplicações possam comunicar-se usando
+datagramas. O UDP provê um protocolo de transporte
+orientado a conexão e não garante a entrega dos datagramas.
+A emulação de terminal usará o protocolo TELNET, e a
+transferência de arquivos, o File Transfer Protocol (FTP).
+O correio eletrônico será provido pelo Simple Mail Transfer
+Protocol (SMTP) e as mensagens serão transferidas dos
+servidores de correio eletrônico para as máquinas dos
+usuários via Internet Mail Access Protocol (IMAP).
+Estão corretas apenas as descrições
+LHelV.
+LUHevV.
+LUelV.
+O MN,IMevV.
+O ML, IVeV.
+
+QUESTÃO 34
+Julgue os seguintes itens referentes a teste de software.
+A técnica de teste funcional, que estabelece os requisitos de
+teste com base em determinada implementação, permite
+verificar se são atendidos os detalhes do código e solicita a
+execução de partes ou de componentes elementares do
+programa; a técnica de teste estrutural aborda o software de
+um ponto de vista macroscópico e estabelece os requisitos
+de teste, com base em determinada implementação.
+Na fase de teste de unidade, o objetivo é explorar-se a
+menor unidade de projeto, procurando-se identificar erros de
+lógica e de implementação de cada módulo; na fase de teste
+de integração, o objetivo é descobrir erros associados às
+interfaces entre os módulos quando esses são integrados,
+para se construir a estrutura do software, estabelecida na
+fase de projeto.
+Critérios com base na complexidade, em fluxo de controle
+eem fluxo de dados, são utilizados pela técnica estrutural de
+teste.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 35
+Uma empresa tem a sua sede em Natal e filiais em Brasília e
+Florianópolis. Em cada cidade, a empresa possui computadores que
+serão interligados. A seguir, encontram-se os requisitos que devem
+ser observados no projeto da rede.
+Requisito A: Em Natal, existem dois prédios. Para interligá-los,
+devem ser usados dispositivos que dividam o tráfego entre os prédios.
+Os dispositivos devem atuar na camada de enlace e a presença dos
+mesmos deve ser transparente às máquinas na rede.
+Requisito B: Em Brasília, há computadores em vários departamentos.
+Para interligar os departamentos, devem ser usados dispositivos que
+dividam o tráfego entre os departamentos e que possibilitem a
+comunicação simultânea entre esses departamentos.
+Requisito C: As redes em Natal, Brasília e Florianópolis devem ser
+interligadas por dispositivos que dividam o tráfego e que possibilitem
+a interligação de redes com diferentes protocolos da camada física.
+Para decidir os destinos dos dados, devem ser usados endereços de
+rede. Os dispositivos devem possibilitar que o tráfego seja filtrado.
+Requisito D: A rede deve usar TCP/IP. O endereço da rede será da
+classe B e um dos bytes identificará o segmento da rede localizado em
+cada cidade. Em cada segmento, servidores distribuirão
+automaticamente os endereços IP entre as máquinas.
+Requisito E: Os nomes das máquinas serão traduzidos em endereços
+IP por servidores em cada cidade. Esses servidores estarão
+organizados em uma hierarquia. Cada servidor será responsável por
+um ou por vários subdomínios.
+A seguir, encontram-se as decisões que foram tomadas para cada
+requisito.
+I Usar repetidores para atender ao requisito A.
+1 Usar comutadores (switches) para atender ao requisito B.
+III Usar roteadores para atender ao requisito C.
+IV Usar o endereço de rede 164.41.0.0, a máscara 255.255.0.0 e
+servidores DHCP para atender ao requisito D.
+V Configurar servidores Domain Name System (DNS) para
+atender ao requisito E.
+Estão corretas apenas as decisões
+O LIIelV. O M,IevV.
+O LHev. O NMLIVeV.
+O LINMelV.
+
+QUESTÃO 36
+João, ao tentar consertar o módulo eletrônico de um
+carrinho de brinquedos, levantou as características de um pequeno
+circuito digital incluso no módulo. Verificou que o circuito tinha
+dois bits de entrada, x, e x, e um bit de saída. Os bits xy e x,
+eram utilizados para representar valores de inteiros de O a 3
+(xo, o bit menos significativo e x, o bit mais significativo).
+Após testes, João verificou que a saída do circuito é O para
+todos os valores de entrada, exceto para o valor 2.
+Qual das expressões a seguir representa adequadamente o circuito
+analisado por João?
+O x and (notx,)
+O (not x,) or (not x)
+O (notx)andx,
+O x7andx,
+O x,or (not x)
+
+QUESTÃO 37
+O gerente de desenvolvimento de uma empresa de
+TI examinou a seguinte planilha sobre andamento de
+projetos.
+Com base nessa planilha e com relação aos conceitos de dado,
+informação e conhecimento, julgue os itens que se seguem.
+I O número 65, na célula inferior direita, é um dado.
+1 Associar o número 80 (célula inferior central) ao percentual
+completado (em %) e a P2, e concluir que o projeto P2 está
+80% completado é um conhecimento.
+III Dizer que P1 está adiantado ou atrasado é uma informação.
+IV Dizer o quanto Pl vai precisar a mais do que foi
+inicialmente previsto no orçamento é um conhecimento.
+Estão certos apenas os itens
+Tell.
+ITelV.
+Nem.
+NelVv.
+MelV.
+coçcoo
+
+QUESTÃO 38
+O objetivo da Teoria Geral dos Sistemas (TGS) é a formulação
+dos princípios válidos para os sistemas em geral, qualquer que
+seja a natureza dos elementos que os compõem e as relações ou
+forças existentes entre eles. Na área de sistemas de informação,
+diversos problemas requerem abordagem multidisciplinar para
+serem resolvidos. Por exemplo, na área de desenvolvimento de
+software, a especificação de requisitos apresenta vários desafios
+desse tipo, tais como aspectos de relacionamento interpessoal,
+conhecimento do negócio, resolução de conflitos, diferenças
+culturais etc. Os propósitos da TGS que podem contribuir para
+a resolução desses problemas incluem
+I o incentivo à especialização total das áreas do
+conhecimento.
+O o desenvolvimento dos princípios unificadores que
+transcendem o universo das ciências individuais.
+III a integração de contribuições de várias ciências na busca de
+solução dos problemas.
+IV o desenvolvimento de princípios únicos para cada área do
+conhecimento.
+V o desenvolvimento de estudos que visem à ampliação da
+separação entre as ciências naturais e sociais.
+Estão certos apenas os itens
+Tell.
+IeV.
+Nem.
+MelvV.
+IVevV.
+
+QUESTÃO 39
+Tendo como base a árvore acima, faça o que se pede nos itens a seguir.
+a) Descreva uma ordem de visita dos nós para uma busca em profundidade a partir do nó de valor 41. (valor: 3,0 pontos)
+b) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem de visita para uma varredura em pré-ordem
+(r-e-d, ou pré-fixado à esquerda) na árvore. (valor: 3,0 pontos)
+c) Considerando que a árvore cuja raiz é o nó de valor 33 represente uma árvore de busca binária, desenhe a nova árvore que será
+obtida após a realização das seguintes operações: inserir um nó de valor 21; remover o nó de valor 47; inserir um nó de valor 48.
+(valor: 4,0 pontos)
+
+QUESTÃO 40
+Considere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se
+identificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do
+valor do aluguel a ser pago.
+Com relação a essa situação,
+a) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos)
+b) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos)
+c) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme
+reservado para outro cliente (filme não pode ser alugado ao cliente). (valor: 3,0 pontos)
+
+QUESTÃO 46
+Processadores atuais incluem mecanismos para o tratamento
+de situações especiais, conhecidas como interrupções. Em uma
+interrupção, o fluxo normal de instruções é interrompido para
+que a causa da interrupção seja tratada. Com relação a esse
+assunto, assinale a opção correta.
+O Controladores de entrada e saída geram interrupções de
+forma síncrona à execução do processador, para que
+nenhuma instrução fique incompleta devido à ocorrência
+da interrupção.
+O Quando uma interrupção ocorre, o próprio processador
+salva todo o seu contexto atual, tais como registradores de
+dados e endereço e códigos de condição, para que esse
+mesmo contexto possa ser restaurado pela rotina de
+atendimento da interrupção.
+O O processador pode auto-interromper-se para tratar
+exceções de execução, tais como um erro em uma
+operação aritmética, uma tentativa de execução de
+instrução ilegal ou uma falha de página em memória
+virtual.
+O Rotinas de tratamento de interrupção devem ser executadas
+com o mecanismo de interrupção inibido, pois esse tipo de
+rotina não permite aninhamento.
+O O uso de interrupção para realizar entrada ou saída de
+dados somente é eficiente quando o periférico trata
+grandes quantidades de dados, como é o caso de discos
+magnéticos e discos ópticos. Para periféricos com pouco
+volume de dados, como teclados e mouses, o uso de
+interrupção é ineficiente.
+
+QUESTÃO 47
+Duas possibilidades para a construção de sistemas com múltiplos
+processadores são: processadores idênticos com um único espaço de
+endereçamento interligados por um barramento único (SMP); e
+máquinas monoprocessadas conectadas por uma rede (cluster). Com
+relação a esses sistemas, assinale a opção correta.
+O A comunicação entre processadores de um cluster é,
+potencialmente, muito mais rápida que a comunicação entre
+processadores de um sistema SMP, pois redes atuais possuem
+taxa de transmissão da ordem de gigabits/s, enquanto as
+melhores memórias operam somente com frequências da ordem
+de centenas de megahertz.
+O Comunicação entre processos pode ser implementada de forma
+muito mais eficiente em um cluster que em um sistema SMP,
+pois, nesse último, todos os processos precisam compartilhar os
+mesmos dispositivos de entrada e saída.
+O Em um sistema SMP, é mais simples substituir um processador
+defeituoso, pois, em um cluster, toda a rede de comunicação
+deve ser desabilitada para que a troca seja efetuada sem
+prejudicar a troca de mensagens entre os processos.
+O Alocação de memória para processos é muito mais simples em
+um cluster, pois cada processador executa um único processo na
+sua memória exclusiva e, dessa forma, não existe o problema de
+distribuição de processos no espaço de endereçamento único da
+máquina SMP.
+O Em um cluster, o custo da escalabilidade é muito menor, pois,
+para a interconexão entre as máquinas, podem ser utilizados
+equipamentos comuns usados em uma rede local de
+computadores, ao passo que um sistema SMP exige conexões
+extras no barramento e gabinetes especiais.
+
+QUESTÃO 43
+No processo de pesquisa binária em um vetor ordenado, os
+números máximos de comparações necessárias para se
+determinar se um elemento faz parte de vetores com tamanhos
+50, 1.000 e 300 são, respectivamente, iguais a
+5,100 e 30.
+6,10e9.
+8,31 e 18.
+10, 100 e 30.
+25,500 e 150.
+
+QUESTÃO 44
+de dados de um conjunto de empresas. Cada empresa
+tem a sua própria rede, que é independente das redes
+das outras empresas e é constituída de ramos de fibra
+óptica. Cada ramo conecta duas filiais distintas (ponto-a-
+ponto) da empresa. Há, no máximo, um ramo de fibra
+interligando diretamente um mesmo par de filiais.
+A comunicação entre duas filials pode ser feita
+diretamente por um ramo de fibra que as interliga, se
+este existir, ou, indiretamente, por meio de uma
+sequência de ramos e filiais. A rede de cada empresa
+permite a comunicação entre todas as suas filiais.
+A tabela abaixo apresenta algumas informações acerca
+das redes dessas empresas.
+Com relação à situação apresentada acima, é correto deduzir
+que,
+I no caso da empresa El, a falha de um ramo de rede
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se diretamente com todas as outras filiais da
+empresa.
+Il na rede da empresa E2, a introdução de um novo ramo de
+rede certamente violará a informação de que há somente
+um par de fibras entre duas filiais.
+III no caso da empresa E3, a falha de um único ramo de rede
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se, direta ou indiretamente, com todas as outras
+filiais da empresa.
+IV na rede da empresa E4, todas as filiais da empresa
+comunicam-se entre si diretamente.
+Estão certos apenas os itens
+O Ie. O IINelV.
+O IelV. O IIMelV.
+O Nem.
+
+QUESTÃO 45
+Requisitos de um sistema são frequentemente classificados como
+funcionais, não-funcionais e de domínio. Qual a definição que
+melhor descreve requisitos não-funcionais?
+O São ferramentas automatizadas de apoio ao processo de
+desenvolvimento de sistemas.
+O São requisitos que descrevem o que o sistema deve fazer, como
+deve reagir a determinadas entradas e como deve comportar-se
+em situações particulares.
+O São requisitos que derivam do domínio da aplicação e que
+refletem características e restrições desse domínio.
+O São requisitos que não estão diretamente relacionados com as
+funções específicas do sistema.
+O São requisitos que especificam como deve ser testada uma parte
+do sistema, incluindo-se as entradas, os resultados esperados e as
+condições sob as quais os testes devem ocorrer.
+
+QUESTÃO 46
+O Processo Unificado (RUP - rational unified process) é um
+moderno processo de desenvolvimento de software constituído de
+quatro fases. Assinale a opção que apresenta as quatro fases do RUP,
+na ordem em que elas devem ser executadas.
+concepção, elaboração, construção, teste
+elaboração, transição, concepção, construção
+elaboração, concepção, teste, transição
+elaboração, concepção, transição, construção
+concepção, elaboração, construção, transição
+
+QUESTÃO 47
+Um estudo recente realizado pela Associação Brasileira das
+Empresas de Software (ABES) e a Business Software Alliance
+(BSA) mostra uma redução na pirataria de software no mundo e no
+Brasil, de 1994 a 2002. Com relação a esse assunto, julgue os itens
+a seguir.
+I A redução da pirataria de software no contexto brasileiro traz
+benefícios para a criação de empregos, aumento da arrecadação
+de impostos e aumento no faturamento da economia.
+II A reprodução de software original ou autorizado para fins de
+segurança ou backup é também considerada pirataria de
+software.
+III As iniciativas antipirataria devem incluir ações de
+conscientização, educação e atuação direta sobre os
+contraventores.
+IV A pirataria de software é uma atividade criminosa, contudo não
+há no Brasil, ainda, legislação específica que regulamente essa
+questão.
+Estão certos apenas os itens
+A I e II.
+B I e III.
+C II e III.
+D II e IV.
+E III e IV
+
+QUESTÃO 58
+Considerando   o   diagrama   de   Hasse   apresentado   acima,assinale  a  opção  que  apresenta  uma  lista  ordenada,  daesquerda para a direita, que preserva a ordem do diagrama.AMarcos, José Roberto, Emerson, Ronaldo, AdrianoBEmerson, Marcos, Ronaldo, Adriano, José RobertoCAdriano, Ronaldo, José Roberto, Marcos, EmersonDRonaldo, Marcos, Emerson, Adriano, José RobertoEMarcos, Adriano, Emerson, José Roberto, Ronaldo
+
+QUESTÃO 49
+Para   o   desenvolvimento   de   um   projeto,determinada organização precisa definir dois grupos detrabalho,  um  com  trêsmembrose  outro  com  quatromembros. Para o grupo de três elementos, o primeiroindivíduo  nomeado  será  o  presidente,  o  segundo,  orelator, e o terceiro será o auxiliar, enquanto que, parao  de  quatro  elementos,  a  ordem  de  nomeação  não  érelevante.  Essa  organização  conta  com  um  quadro  dequatorze funcionários, todos igualmente aptos a comporqualquer  um  dos  grupos  de  trabalho,  em  qualquerfunção, sendo que cadaum deles integrará, no máximo,um desses grupos.
+Nessa situação, representando por C(m, p) a combinação dem  elementos  p a p  e  por  A(m, p) o arranjo de m elementosp a p, conclui-se que a quantidade de maneiras distintas que aorganização citada dispõe para compor osseusdoisgrupos detrabalho é igual a 
+AA(14, 4) × A(14, 3).BA(14, 4) × C(14, 3).CC(14, 4) × A(10, 3).DC(10, 3) × A(14, 4).EC(14, 4) × C(10, 3)
+
+QUESTÃO 50
+Acerca de paradigmas de linguagens de programação, julgueos itens a seguir.
+ILinguagens   procedurais   facilitam   a   legibilidade   e   adocumentação do software.
+IILinguagens declarativas facilitam o desenvolvimento desistemas de apoio à decisão.
+IIILinguagens funcionaisfacilitam a definição de requisitose a decomposição funcional.
+IVLinguagens estruturadas promovem o forte acoplamentoentre dados e funções.
+VLinguagens orientadas a objeto permitem reduzir custos dedesenvolvimento e manutenção.
+Estão certos apenas os itens
+AI e II.
+BI e IV.
+CII e III.
+DIII e V.
+EIV e V 
+
+QUESTÃO 51
+No famoso jogo da TorredeHanoi,é dada uma torrecom  discos  de  raios  diferentes,  empilhados  por  tamanhodecrescente em um dostrêspinosdados, como ilustra a figuraacima. O objetivo do jogo é transportar-se toda a torre paraumdos  outros  pinos,  de  acordo  com  as  seguintes  regras:apenas  um  disco  pode  ser  deslocado  por  vez,  e,  em  todoinstante, todos os discos precisam estar em um dos três pinos;além disso, em nenhum momento,um disco pode ser colocadosobre  um  disco  de  raio  menor  que  o  dele;  é  claro  que  oterceiro pino pode ser usado como local temporário para osdiscos
+Imaginando que se tenha uma situação em que a torre inicial tenhaum conjunto de 5 discos,qualo número mínimo de movimentaçõesde discos que deverão ser realizadas para se atingir o objetivo dojogo?
+A 25
+B 28
+C 31
+D 34
+E 38
+
+QUESTÃO 52
+O   método   de   alocação   de   espaço   de   disco   utilizado   paraarmazenamento   de   informações   em   um   sistema   de   arquivosdetermina o desempenho desse sistema.Com relação a esse assunto,julgue os itens seguintes
+IA alocação contígua é um método adequado para sistemas emque inserções e remoções de arquivos são freqüentes.IINa  alocação  indexada,  o  tamanho  máximo  de  um  arquivodepende do número de bits utilizados para representar um índicee do tamanho dos blocos de índices.IIINa  alocação  encadeada,  o  tamanho  máximo  de  um  arquivodepende do tamanho dos blocos de dados
+Assinale a opção correta.AApenas um item está certo.BApenas os itens I e II estão certos.CApenas os itens I e III estão certos.DApenas os itens II e III estão certos.ETodos os itens estão certos.
+
+
+QUESTÃO 54
+Considere que, durante a análise de um problema de programação,
+tenha sido obtida a seguinte fórmula recursiva que descreve a
+solução para o problema.
+o se i=0 ouj=0
+C(i)=11+C(i-1,j-1) se 0<i<M,0<j<Nei=j
+max (C(i,j- 1),C(i-1,))) se 0O<i<M,0<j<Neit]
+Qual a complexidade da solução encontrada?
+O (n x logn)
+O (1)
+O (nº x log n)
+O (2")
+O (n)
+
+QUESTÃO 53
+O problema do buffer limitado de tamanho N é um
+problema clássico de sincronização de processos: um grupo de
+processos utiliza um buffer de tamanho N para armazenar
+temporariamente itens produzidos; processos produtores
+produzem os itens, um a um, e os armazenam no buffer;
+processos consumidores retiram os itens do buffer, um a um,
+para processamento. O problema do buffer limitado de tamanho
+N pode ser resolvido com a utilização de semáforos, que são
+mecanismos de software para controle de concorrência entre
+processos. Duas operações são definidas para um semáforo
+s: wait(s) esignal(s).
+Considere o problema do buffer limitado de tamanho N
+cujos pseudocódigos dos processos produtor e consumidor
+estão mostrados na tabela abaixo. Pode-se resolver esse
+problema com a utilização dos semáforos mutex, cheio e vazio,
+inicializados, respectivamente, com 1,0 e N.
+A partir dessas informações, para que o problema do buffer
+limitado de tamanho N cujos pseudocódigos foram
+apresentados possa ser resolvido a partir do uso dos semáforos
+mutex, cheio e vazio, é necessário que comando a,
+comando b, comando c, comando d, comando e,
+comando £f, comando g e comando h correspondam,
+respectivamente, às operações
+O wait(vazio), wait (mutex), signal (mutex),
+signal (cheio), wait(cheio), wait(mutex),
+signal (mutex) e signal (vazio).
+O wait (cheio), wait (mutex), signal (mutex),
+signal (vazio), wait (vazio), signal (mutex),
+signal (mutex) e wait(cheio).
+O wait (mutex), wait (vazio), signal (cheio),
+signal (mutex), wait (mutex), wait(vazio),
+signal (cheio) e signal (mutex).
+O wait (mutex), wait (vazio), signal (cheio),
+signal (mutex), wait (mutex), wait(cheio),
+signal (vazio) e signal (mutex).
+Ô wait (vazio), signal (mutex), signal (cheio),
+wait (mutex), wait (cheio), signal (mutex),
+signal (vazio) e signal (mutex).
+
+QUESTÃO 55
+O grande desejo de todos os desenvolvedores de programas é utilizar quantidades ilimitadas de memória que, por sua vez,
+seja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve
+uma hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de
+informação e o tempo típico de acesso à informação armazenada.
+Como pode ser visto no diagrama acima, registradores do processador e memória cache operam com tempos distintos, o
+mesmo ocorrendo com a memória principal com relação à memória cache, e com a memória secundária com relação à memória
+principal.
+Considerando as informações acima apresentadas, responda às seguintes perguntas.
+a) Que características um programa deve ter para que o uso de memória cache seja muito vantajoso? (valor: 4,0 pontos)
+b) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se
+utilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria
+vantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)
+
+QUESTÃO 56
+Considere um sistema bancário
+simplificado e uma transação TI,
+que, por meio das 6 operações
+apresentadas na tabela ao lado,
+transfere R$ 100,00 da conta X
+para a conta Y. A partir dessas
+informações, julgue os itens que se
+seguem.
+I Se, durante a execução de TI,
+ocorrer uma falha depois da
+operação 3 e antes da operação
+6,6 o sistema de banco de dados
+restabelecer o valor original
+de X, estará garantida a atomicidade de T1.
+1 Se ocorrer uma falha de sistema após a transação T1 ser
+completada com sucesso, mas, ao ser reiniciado o sistema, o
+usuário que a tiver disparado for notificado da transferência
+de fundos e o sistema de banco de dados reconstruir as
+atualizações feitas pela transação, estará garantida a
+durabilidade de T1.
+1 Se outra transação, T2, que estiver sendo executada
+simultaneamente a Tl, operação
+escrita(Y) depois de T1 ter executado a operação 4 e
+ainda não ter executado a operação 6, e o sistema de banco
+de dados impedir essa escrita, estará garantida a consistência
+de TI.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 57
+A escolha de uma boa representação de conhecimento é tarefa
+fundamental na resolução de problemas que envolvem
+inteligência artificial. Acerca desse assunto, assinale a opção
+correta.
+O O encadeamento regressivo, por utilizar busca em largura
+para resolução de conflitos, é menos usado que o progressivo.
+O O encadeamento progressivo utiliza busca gulosa para fazer
+a comparação entre os fatos armazenados na memória de
+trabalho do sistema e os antecedentes das regras a disparar.
+O As redes semânticas, mecanismo mais expressivo que a
+lógica de primeira ordem, foram desenvolvidas para se
+superar uma dificuldade dos sistemas embasados em lógica
+de representar categorias.
+O A representação de conhecimento frames é uma boa
+alternativa para esse tipo de problema, por incluir, além de
+um mecanismo de inferência semanticamente bem definido,
+mecanismos de encapsulamento e componentes, comuns ao
+paradigma orientado a objeto.
+O Tanto redes semânticas quanto frames representam
+facilmente conhecimento estrutural, comportamental e
+procedural.
+
+QUESTÃO 58
+Uma forma de analisar e comparar o desempenho de algoritmos
+de busca heurística é utilizar um problema bem conhecido como
+referência. Um exemplo desse tipo de problema é o cálculo de
+rotas entre diferentes cidades. No grafo ilustrado acima, cada nó
+representa uma cidade distinta, e cada ramo, uma rodovia que
+interliga as cidades representadas pelos nós que ele une, cujo peso
+indica a distância, em km, entre essas cidades pela rodovia.
+Suponha que se deseje encontrar a melhor rota entre as cidades À
+e M, indicadas nesse grafo. Considere, ainda, os valores indicados
+na tabela abaixo como distância em linha reta, em km, de cada
+cidade para a cidade M.
+A partir dessas informações, julgue os itens seguintes, relativos a
+algoritmos de busca.
+I Utilizando-se o algoritmo A*, a rota ente A e M encontrada no
+problema acima é ACDFLM e o custo do caminho é 56,18.
+1 Utilizando-se a busca gulosa, a rota encontrada no problema
+acima é ACDFLM.
+III Para utilizar algoritmos de busca heurística, deve-se definir
+uma heurística que superestime o custo da solução.
+IV O A* é um algoritmo ótimo e completo quando heurísticas
+admissíveis são utilizadas.
+V Nosimulatedannealing, é possível haver movimentos para um
+estado com avaliação pior do que a do estado corrente,
+dependendo da temperatura do processo e da probabilidade
+de escolha.
+Estão certos apenas os itens
+LH em.
+LIVeV.
+LUL,evV.
+11, II, e IV.
+I,IVeV.
+
+QUESTÃO 59
+Considere o seguinte esquema relacional para o banco de dados de um grande banco com cobertura nacional.
+AGENCIAS (NOME AGENCIA, CIDADE AGENCIA, FUNDOS);
+CONTAS (NOME AGENCIA, NUMERO CONTA, SALDO) NOME AGENCIA REFERENCIA AGENCIAS;
+CLIENTES (NOME CLIENTE, CIDADE NASCIMENTO, NUMERO CONTA) NUMERO CONTA REFERENCIA CONTAS;
+Considere, ainda, que os atributos sublinhados correspondam às chaves primárias das respectivas relações e, após as definições das
+relações CONTAS e CLIENTES, sejam descritas as regras de integridade referenciais. Suponha que o banco de dados armazene
+informações de 500 agências, de 1.000.000 de contas e de 1.500.000 clientes, sendo que 200.000 contas são de agências da cidade
+de São Paulo e 100.000 clientes nasceram em Recife. Considere, finalmente, que esse sistema de banco de dados tenha um otimizador
+de consultas embasado em heurísticas e que se precise realizar a seguinte consulta.
+SELECT *
+FROM AGENCIAS, CONTAS, CLIENTES
+WHERE CONTAS.NOME AGENCIA = AGENCIAS.NOME AGENCIA
+AND CLIENTES .NUMERO CONTA = CONTAS.NUMERO CONTA
+AND CIDADE AGENCIA = “SAO PAULO
+AND CIDADE NASCIMENTO = “RECIFE”
+AND SALDO > 1000;
+A partir dessas informações e considerando <lo operador de junção natural e O o operador de seleção, assinale a opção que apresenta
+o melhor plano de avaliação de consultas para a consulta apresentada acima.
+
+QUESTÃO 60
+Considere o circuito combinacional ilustrado acima, que apresenta
+a, b e c como sinais de entrada e s como sinal de saída. A equação
+booleana mínima que descreve a função desse circuito é igual a
+a or not(b) or c.
+a and not(b) and c.
+= not(a) or b or not(c).
+not(a) and b and not(c).
+
+QUESTÃO 62
+Considere que um colega seu tenha ganhado uma máquina
+fotográfica digital e tenha tirado a foto identificada por I acima.
+Na seqiiência, a partir da imagem 1, considere que ele tenha
+gerado a imagem II acima. Nessa situação, o processamento
+realizado sobre a imagem I que melhor explica a geração da
+imagem II envolve a aplicação de
+filtro passa-baixas.
+quantizador.
+reamostragem.
+filtro passa-altas.
+compressão.
+
+QUESTÃO 61
+Considere o volume de visualização e os objetos identificados
+como OD, & e É na figura acima. Considere, ainda, que todos os
+objetos têm o mesmo tamanho, que o objeto OD está localizado fora
+do volume de visualização e que os objetos & e & estão dentro
+dele. A partir desses dados, no que concerne à execução do
+pipeline de visualização na situação acima representada, é correto
+inferir que
+I o objeto O está na linha de visão do observador, mas não
+aparece na imagem final.
+II é suficiente, para a determinação das faces visíveis, realizar o
+recorte contra o volume canônico.
+III a remoção de faces traseiras (back face culling) utiliza
+informação de posição e orientação do observador.
+IV o processo de visualização garante que os objetos & e & sejam
+totalmente visíveis na imagem final.
+Estão certos apenas os itens
+Tell.
+Tell.
+Nem.
+MelvV.
+NMelV.
+
+
+QUESTÃO 63
+Na tabela acima, estão descritas as ações correspondentes a cada
+um dos quatro estados (início, O, 1, parada) de uma máquina de
+Turing, que começa a operar no estado “início” processando
+símbolos do alfabeto (0,1,%, O), em que “O” representa o espaço
+em branco. Considere que, no estado “início”, a fita a ser
+processada esteja com a cabeça de leitura/gravação na posição |,
+conforme ilustrado a seguir.
+Considerando essa situação, assinale a opção que indica
+corretamente a posição da cabeça de leitura/gravação e o conteúdo
+da fita após o término da operação, ou seja, após a máquina atingir
+o estado “parada”.
+
+QUESTÃO 64
+Considere a necessidade de se implementar um componente de
+software que realiza cálculos de expressões matemáticas simples
+para as operações básicas (soma, subtração, multiplicação, divisão
+e exponenciação). O software reproduz na tela do computador a
+entrada, os resultados parciais e o resultado final da expressão e,
+ainda, trata os operadores de exponenciação, multiplicação e
+divisão com precedência sobre os operadores de soma e subtração.
+Para obter o referido software, é correto que o projetista
+I definauma cadeia de caracteres para armazenar e imprimir toda
+a expressão de entrada.
+1 defina uma gramática regular para identificar as expressões
+aritméticas válidas.
+II defina um reconhecedor de linguagem regular com autômato
+finito determinístico.
+IV especifique a ordem de precedência dos operadores com uma
+notação de gramática livre de contexto.
+Estão certos apenas os itens
+O Ie. O LIMelV.
+O IMelV. O IIL,HIelV.
+O LIelV.
+
+QUESTÃO 66
+Considere que, em uma empresa que desenvolve aplicações
+distribuídas, tenha sido elaborado um manual destinado ao
+treinamento de empregados e que o responsável por elaborar o
+manual tenha cometido alguns erros. Analise os seguintes
+trechos do referido manual.
+I Uma aplicação que usa o User Datagram Protocol (UDP)
+para transporte dos dados pode ter de tratar os problemas
+decorrentes de perdas de mensagens, mensagens recebidas
+fora de ordem e duplicações de mensagens.
+1l Um mecanismo de chamada a procedimento remoto (remote
+procedure call) ou de invocação a método remoto (remote
+method invocation) possibilita que programas chamem
+procedimentos ou métodos em diferentes computadores e
+que se abstraiam de todos os detalhes relacionados à
+distribuição.
+Em um sistema de comunicação embasado na chamada a
+procedimento remoto ou na invocação de método remoto, os
+serviços remotos são definidos por meio de interfaces. Uma
+interface é tipicamente processada por um compilador que
+gera códigos (stubs), que, nos clientes, se fazem passar pelos
+códigos remotos que são chamados.
+IV Sistemas de chamada a procedimentos remotos ou de
+invocação a métodos remotos tipicamente implementam as
+semânticas at-most-once ou at-least-once, pois é mais difícil
+implementar a semântica exactly-once, segundo a qual quem
+chama o procedimento sabe que ele é executado exatamente
+uma vez.
+1
+Estão certos apenas os trechos
+Tell.
+MelvV.
+Le.
+LHIelV.
+1, elV.
+
+QUESTÃO 65
+A análise de complexidade provê critérios para a classificação
+de problemas com base na computabilidade de suas soluções,
+utilizando-se a máquina de Turing como modelo referencial e
+possibilitando o agrupamento de problemas em classes. Nesse
+contexto, julgue os itens a seguir.
+1 É possível demonstrar que PC NPeNPceP.
+1 É possível demonstrar que se P * NP, então
+P nl NP-Completo = 2.
+1 Se um problema Q é NP-difícil e Q Ee NP, então Q é
+NP-completo.
+IV O problema da satisfatibilidade de uma fórmula booleana F
+(uma fórmula é satisfatível, se é verdadeira em algum
+modelo) foi provado ser NP-difícil e NP-Completo.
+V Encontrar o caminho mais curto entre dois vértices dados
+em um grafo de N vértices e M arestas não é um problema
+da classe P.
+Estão certos apenas os itens
+LHIelV.
+1, MM, elV.
+ML,IVeEeV.
+LH,ML,elV.
+IN, ,IVeV.
+
+QUESTÃO 67
+A redução da pirataria de software no Brasil e no mundo
+é resultado de esforços advindos da iniciativa privada e das
+entidades representativas do setor. Um estudo objetivando
+mensurar o índice de pirataria no mundo e os benefícios de sua
+redução apresentou os gráficos acima, obtidos de uma amostra
+de 57 países, incluindo-se o Brasil.
+Com base nas informações apresentadas, é correto afirmar que
+I ataxade redução do índice de pirataria de software no mundo
+manteve-se constante ano após ano no período mostrado.
+1 o Brasil reduziu em torno de 25% seu índice de pirataria de
+software, comparando os anos de 1994 e 2002.
+IM o Brasil foi, entre os países mostrados, o que apresentou a maior
+redução do índice de pirataria no período estudado.
+IV países com maior participação do setor de TI no PIB apresentam,
+normalmente, menores índices de pirataria.
+V o Brasil apresentou aumento de faturamento no período de 2000
+a 2002, apesar do aumento de pirataria.
+Estão certos apenas os itens
+O Iell. O NMev.
+O Iem. O IVevVv.
+O IIelV.
+
+QUESTÃO 68
+Suponha que uma empresa esteja projetando um protocolo de
+transporte orientado a conexão. Suponha, ainda, que os projetistas
+tenham pouca experiência e que alguns requisitos originalmente
+listados não sejam típicos de um protocolo de transporte
+orientado a conexão. À
+seguir, apresenta-se a lista dos
+requisitos propostos pela equipe de projetistas.
+mM
+IV
+O protocolo deve controlar a transmissão por meio de
+mecanismo de janela deslizante (sliding window). Vários
+pacotes poderão ser enviados antes de a origem aguardar uma
+confirmação de recepção. O número máximo de pacotes
+transmitidos antes de uma confirmação ser recebida será
+variável, o que possibilitará o controle do fluxo dos dados.
+O protocolo deve rotear os pacotes entre redes interligadas.
+O roteamento deve ser realizado a partir das informações em
+tabelas de roteamento. Em uma tabela de roteamento, cada
+entrada deve conter o endereço de um destino e o endereço da
+próxima máquina para a qual os pacotes devem ser enviados,
+de modo a serem encaminhados para o destino.
+Uma comunicação passará por três fases: estabelecimento da
+conexão, transferência dos dados e término da conexão. O
+protocolo manterá informações sobre uma conexão em uma
+estrutura de dados. Uma instância dessa estrutura será alocada
+quando uma conexão for estabelecida e será liberada quando
+a conexão for terminada.
+O protocolo deve calcular dinamicamente o tempo (timeout)
+que a origem de um pacote deve aguardar até retransmitir a
+informação caso a recepção não seja confirmada,
+possibilitando que atrasos variáveis sejam acomodados. Isso
+deverá ser feito por meio de um algoritmo de retransmissão
+adaptativo que periodicamente ajuste o timeout.
+Para um protocolo de transporte orientado a conexão, são
+adequados apenas os requisitos
+Tell.
+ITelV.
+Nem.
+LHIelV.
+1, elV.
+
+QUESTÃO 69
+A rede de uma empresa cujo esquema está ilustrado
+acima é composta por 4 redes TCP/IP locais. Essas redes
+TCP/IP são interligadas por uma rede X.25, que opera
+como túnel para as 4 redes. As placas dos computadores
+pertencentes a essas redes são numeradas com endereços IP
+das redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a
+rede no acesso à Internet, sendo que, a partir de qualquer
+máquina na rede, pode-se acessar a Internet.
+A partir dessas informações, julgue os itens a seguir, relativos à
+rede da referida empresa, considerando o seu correto
+funcionamento.
+I É correto utilizar a máscara 255.255.0.0 para segmentar a
+rede.
+II Os endereços de E1 a E9 podem ser endereços na rede
+10.0.0.0.
+III Os endereços E2, E4, E5 e E7 devem estar em uma mesma
+sub-rede.
+IV O endereço E10 deve ser um endereço na rede 164.41.0.0.
+V O firewall deve traduzir entre os endereços na rede 10.0.0.0
+e os endereços na rede 164.41.0.0.
+VI Os pacotes X.25 são transferidos dentro de pacotes IP.
+VII Não devem ter sido atribuídos endereços X.25 aos
+roteadores 1, 2, 3 e 4.
+VIII A rota default nas tabelas de roteamento dos roteadores
+1, 3 e 4 é o endereço E4.
+IX A rota default na tabela de roteamento do roteador 2 é o
+endereço E10.
+X Os endereços na rede 10.0.0.0 são visíveis pelas máquinas
+que estiverem na Internet.
+Estão certos apenas os itens
+A I, II, III, V, VIII e X.
+B I, II, III, IV, V e VIII.
+C II, IV, V, VIII, IX e X.
+D III, V, VI, VII, VIII e IX.
+E III, IV, V, VII, VIII e IX
+
+QUESTÃO 70
+A máquina finita de estados (MFE) cujo diagrama é visto ao lado
+reconhece sequências de caracteres compostos pelas letras 1, V e X, que
+representam, em notação romana, números correspondentes ao intervalo de
+1 a 9, na notação arábica. Considere que todas as sentenças de entrada da
+MFE representam números romanos válidos, ou seja, a MFE não tem
+mecanismo de tratamento de erros. Observe a correspondência da
+representação dos alfabetos romano e arábito fornecida pela tabela abaixo.
+Considerando essas informações, estenda a MFE apresentada acima para:
+a) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.
+(valor: 5,0 pontos)
+RASCUNHO
+b) reconhecer números no alfabeto romano correspondentes aos números de 1 a 500 no alfabeto arábico, com no máximo oito
+estados. (valor: 5,0 pontos)
+
+QUESTÃO 71
+Sistemas operacionais de tempo real são utilizados em controlede  processos  automatizados,  em  que  o  tempo  de  resposta  adeterminados  eventos  é  um  fator  crítico.  Com  relação  a  esseassunto, julgue os itens seguintes.
+ISistemas de tempo real estritos (hard real-time) não utilizamdispositivos de memória secundária (como discos),pois estesnão  oferecem  garantia  de  término  das  operações  dentro  deuma quantidade máxima de tempo.
+IIUm   sistema   operacional   de   propósito   geral   pode   sermodificado para ser de tempo real atribuindo-se prioridadesfixas para cada um dos processos.
+IIIO escalonamento mais utilizado por sistemas operacionais detempo real é o shortest-job-first(tarefa mais curta primeiro
+Assinale a opção correta.
+AApenas um item está certo.
+BApenas os itens I e II estão certos.
+CApenas os itens I e III estão certos.
+DApenas os itens II e III estão certos.
+ETodos os itens estão certos
+
+QUESTÃO 72
+Aexecuçãode duas transações, Te T, emumbancode dados,é serializável se produz o mesmo resultado para a execução serialde   qualquerintercalação   de   operaçõesdessas   transaçõesijji(Tseguida de T ou T seguida de T). O uso de bloqueios (locks)é uma maneira de se garantir que transações concorrentes sejamserializáveis. A tabela acima mostra informações relativas a três123transações,   T,   T   e   T,   que   operam   sobre   dois   dadoscompartilhados,  A  e  B,  e  utilizam  bloqueios  para  controle  de123concorrência. Com relação às transações T, T e T, julgue ositens seguintes
+IO  conjunto(T,T)nãoéserializável,eháoperigo  deocorrer  deadlock  durante  a  execução  concorrente  dessastransações.13IIO conjunto (T, T) não é serializável, mas não há o perigo deocorrer deadlock durante  a  execução  concorrente  dessastransações.23IIIO  conjunto  (T,  T)  é  serializável,  e  não  há  o  perigo  deocorrer  deadlock  durante  a  execução  concorrente  dessastransações
+Assinale a opção correta.AApenas um item está certo.BApenas os itens I e II estão certos.CApenas os itens I e III estão certos.DApenas os itens II e III estão certos.ETodos os itens estão certos
+
+QUESTÃO 73
+Considere  o  seguinte  script  SQL  de  criação  de  um  banco  dedados.CREATE TABLE PECAS (CODIGO NUMERIC(5) NOT NULL, DESCRICAO VARCHAR(20) NOT NULL, ESTOQUE NUMERIC(5) NOT NULL, PRIMARY KEY(CODIGO));CREATE TABLE FORNECEDORES(COD_FORN NUMERIC(3) NOT NULL, NOME VARCHAR(30) NOT NULL, PRIMARY KEY(COD_FORN));CREATE TABLE FORNECIMENTOS(COD_PECA NUMERIC(5) NOT NULL, COD_FORN NUMERIC(3) NOT NULL, QUANTIDADE NUMERIC(4) NOT NULL, PRIMARY KEY(COD_PECA, COD_FORN), FOREIGN KEY (COD_PECA) REFERENCES PECAS, FOREIGN KEY (COD_FORN) REFERENCES FORNECEDORES);
+A partir desse script, assinale a opção que apresenta comandoSQL que permite obter uma lista que contenha o nome de cadafornecedor que tenha fornecido alguma peça, o código da peçafornecida,  a  descrição  dessa  peça  e  a  quantidade  fornecida  dareferida peça.
+ASELECT * FROM PECAS, FORNECEDORES,FORNECIMENTOS;BSELECT * FROM PECAS, FORNECEDORES,FORNECIMENTOS WHERE PECAS.CODIGO =FORNECIMENTOS.COD_PECA ANDFORNECEDORES.COD_FORN =FORNECIMENTOS.COD_FORN;CSELECT NOME, CODIGO, DESCRICAO, QUANTIDADEFROM PECAS, FORNECEDORES, FORNECIMENTOS;DSELECT NOME, CODIGO, DESCRICAO, QUANTIDADEFROM PECAS, FORNECEDORES, FORNECIMENTOSWHERE PECAS.CODIGO = FORNECIMENTOS.COD_PECAANDFORNECEDORES.COD_FORN =FORNECIMENTOS.COD_FORN;ESELECTDISTINCT  NOME,  CODIGO,  DESCRICAO,QUANTIDADE  FROM PECAS, FORNECEDORES, FORNECIMENTOSWHERE CODIGO = COD_PECA;
+
+QUESTÃO 74
+No que diz respeito às redes neurais, assinale a opção correta.AO treinamento de uma rede neural tem tempo determinado deexecução.BNão há problemas em realizar o teste de desempenho de umarede neural com o mesmo conjunto de dados usado para otreinamento.CO  número  depesosdeumaredeneuralnão  influencia  arapidez com que ela processa dados.DO aprendizado supervisionado é o paradigma de treinamentomais utilizado para desenvolver aplicações de redes neuraispara classificação e predição.EO número de camadas ocultas de uma rede de alimentaçãodireta é inversamente proporcional ao aumento do espaço dehipóteses que ela pode representar.
+
+QUESTÃO 75
+Um engenheiro de uma companhia fabricante de
+memórias semicondutoras estudou o comportamento
+do custo em função do número de bits da fabricação de
+um chip de memória RAM com determinada
+tecnologia. Ele chegou à conclusão de que,
+considerando-se a evolução tecnológica, o custo C(x),
+expresso em determinada unidade monetária, de um
+chip de memória RAM com x bits, na data de conclusão
+do processo de fabricação, seria determinado pela
+equação
+25x103
+CW) =
+&) Toa
+[x?- (2.048 * 1069) x + 2(1.024 x 106)º].
+Considerando-se que o modelo desenvolvido pelo engenheiro
+esteja correto, caso a empresa decida pelo chip de menor
+custo, ela deverá optar por um chip com memória de
+capacidade de
+256 megabits.
+512 megabits.
+1.024 megabits.
+2.048 megabits.
+4.096 megabits.
+
+QUESTÃO 76
+O termo imagem designa uma função
+intensidade luminosa bidimensional f, em que um valor
+de intensidade é associado a coordenadas espaciais
+(x, y). Uma imagem digital é obtida pela digitalização
+das coordenadas espaciais por meio de um processo
+conhecido como amostragem da imagem. Dessa
+forma, uma imagem contínua monocromática f(x, y) é
+aproximada por amostras igualmente espaçadas,
+arranjadas na forma de uma matriz Nx M, em que cada
+elemento é um valor inteiro g. O intervalo [G,, Gr.l,
+do menor ao maior valor de intensidade g, é
+denominado escala de cinza. Normalmente, G,, = O
+corresponde a preto, e G,,, = G corresponde ao
+branco.
+Considerando os conceitos apresentados acima, assinale a
+opção correta.
+O O processo de digitalização da imagem requer que as
+dimensões N e M da matriz mencionada acima sejam
+múltiplas do número de tons de cinza na imagem.
+O Para imagens binárias, se L for o número de tons de cinza
+representáveis, e L = 24, então k=2.
+O Os métodos para realce de imagens que operam no
+domínio espacial fazem uso do conceito de vizinhança de
+pixel.
+O Métodos de filtragem normalmente usam máscaras para
+impedir a transformação dos níveis de cinza dos pixels da
+imagem.
+O Limiarização é um tipo de processamento de imagens que
+amplia o número de níveis de cinza da imagem.
+
+QUESTÃO 77
+Observe a
+situação representada acima, em que o triângulo
+identificado por A sofre transformações geométricas que o levam para
+a situação identificada por A. Considerando-se dx e dy parâmetros
+de translação e s, parâmetro fator de escala, então o triângulo A* pode
+ser obtido a partir da aplicação da
+seguinte sequência de
+transformações aos vértices do triângulo A:
+rotação em torno do ponto (x., y.); escala com fator uniforme
+s=2.
+rotação em torno do ponto (x,, y.); escala com fator uniforme
+s=0,5.
+rotação em torno do ponto (x', y'); escala com fator
+uniforme s = 0,5; translação com parâmetros de deslocamento
+dx=-x edy=-y,.
+escala com fator uniforme s = 0,5; translação com parâmetros de
+deslocamento dx = x', e dy = y'; rotação em torno do
+ponto (x., Y.).
+tanslação com parâmetros de deslocamento dx = -x, e dy
+rotação em torno do ponto (x., y.); translação com parâmetros
+de deslocamento dx = x, e dy = y.; escala com fator uniforme
+s=0,5.
+
+QUESTÃO 78
+Dispositivos Lógicos Programáveis (DLP, ou PLD — programmable
+logic devices) são muito utilizados hoje em dia para o projeto de
+circuitos digitais especiais. Com relação a esse assunto, julgue os
+itens a seguir.
+Como um PLA (programmable logic array) somente implementa
+equações booleanas descritas na forma de soma de termos-
+produto, e não implementa portas lógicas multinível, então nem
+todas as funções booleanas podem ser implementadas em um
+PLA.
+Em uma PROM (programmable ROM), o arranjo de portas AND
+é fixo, e somente o arranjo de portas OR pode ser programado; em
+um PAL (programmable array logic), o arranjo de portas OR é
+fixo, e somente o array de portas AND é programável; e, em um
+PLA (programmable logic array), tanto o arranjo de portas AND
+como o de portas OR são programáveis.
+Um circuito digital implementado por meio de um dispositivo
+lógico programável ocupa mais área e consome mais potência do
+que um circuito integrado dedicado, mas, em compensação, ele
+pode operar em frequências maiores, pois seus transistores e
+portas lógicas são projetados de forma a otimizar o chaveamento
+de estados.
+Assinale a opção correta.
+Apenas o item II está certo.
+Apenas o item III está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+
+QUESTÃO 82
+Considere que, em uma rede WLAN, a função de
+densidade de probabilidade (PDF) de erro de bit na
+transmissão entre um computador conectado à rede e o
+ponto de acesso (access point) — p.,,(d) — seja dada
+pela função cujo gráfico está mostrado acima, em que d
+> O é a distância entre o ponto de acesso e Oo
+computador.
+Considerando essas informações, julgue os itens a seguir.
+I A probabilidade de erro de bit na transmissão no caso de o
+computador estar localizado à distância d, é dada
+do
+por Íf Perro()AS .
+o
+Il Sabendo-se que a média da distribuição correspondente
+à PDF acima mencionada é igual a x, conclui-se que é de
+0,5 a probabilidade de erro de bit na transmissão no caso
+de o computador estar localizado à distância d =x.
+III Supondo-se que o sistema de transmissão seja binário, as
+informações apresentadas são suficientes para se
+concluir que a probabilidade de erro dado que foi enviado
+um bit | é igual à probabilidade de erro dado que foi
+enviado um bit O.
+Assinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens 1 e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.
+
+QUESTÃO 79
+zpto( X, [X|Y] ).
+zpto( X, [Y|Z] ) :- zpto( X, 2 ).
+Com relação aos predicados escritos em Prolog acima, julgue os
+itens a seguir.
+1 A execução de xpto([1,2,3],] ], F) conclui com sucesso
+instanciando F para [1,2,3].
+1 A execução de zpto(5,[1,2,3] ) conclui sem sucesso.
+IN A execução de zpto(X,[1,2,3]) conclui com sucesso,
+instanciando X para |.
+Assinale a opção correta.
+O Apenas um item está certo.
+O Apenas os itens I e II estão certos.
+O Apenas os itens I e III estão certos.
+O Apenas os itens II e III estão certos.
+O Todos os itens estão certos.
+
+QUESTÃO 80
+Que cadeia é reconhecida pelo
+autômato representado pelo
+diagrama de estados ao lado?
+101010
+111011000
+11111000
+10100
+00110011
+
+QUESTÃO 81
+O estudo de dimensionamento e de desempenho de redes de
+comunicação é uma ciência que usa constantemente os resultados da
+teoria de filas. Nesse tipo de aná é comum a adoção de modelos
+de filas M/M/lI para a análise de enlaces de roteadores e
+comutadores. Nesse tipo de modelo, a chegada de pacotes para
+transmissão e a transmissão deles são processos de Poisson. Assim,
+as características da fila que se forma em cada enlace podem ser
+determinadas em função da taxa de chegada (tempo médio decorrido
+entre a chegada de pacotes sucessivos encaminhados para
+transmissão pelo enlace) e da taxa de serviço (tempo médio para
+transmissão de um pacote). Acerca do modelo M/M/1 aplicado ao
+estudo de capacidade e desempenho de enlaces de redes, por
+comutação de pacotes, assinale a opção correta.
+O Caso a taxa de chegada seja maior que a taxa de serviço (taxa de
+saída), conclui-se que o enlace está subdimensionado e haverá
+perda de pacotes.
+A taxa de serviço é independente do tamanho do pacote.
+Em um roteador com múltiplos enlaces, a taxa de chegada para
+cada enlace é igual ao somatório das capacidades de todos os
+enlaces dividido pelo número de enlaces do roteador.
+O O modelo M/M/1I apresenta instabilidade numérica sempre que
+a taxa de chegada for próxima de zero.
+O Quando a taxa de chegada é menor que a taxa de serviço,
+pode-se esperar que o número médio de pacotes na fila seja igual
+a zero.
+
+QUESTÃO 83
+Com relação à tecnologia bluetooth, que possibilita a
+comunicação sem fios entre dispositivos, assinale a opção
+correta.
+O Essatecnologia utiliza a transmissão em enlace via rádio na
+banda de frequência VHF.
+O Essa tecnologia possibilita a transmissão de voz e dados a
+curtas distâncias.
+O Um dispositivo pode assumir, simultaneamente, o papel de
+mestre e de escravo em uma mesma piconet que utiliza essa
+tecnologia.
+O Uma piconet pode ser formada por até 255 mestres e
+255 escravos.
+O Um dispositivo pode participar, simultaneamente, de duas
+piconets, desde que ele seja mestre em ambas.
+
+QUESTÃO 84
+Considere que uma empresa esteja projetando um protocolo da camada de rede. Considere, ainda, que a equipe de projeto tenha
+proposto o seguinte conjunto de requisitos.
+I O protocolo deve prover um serviço de comunicação não-orientado a conexão e sem garantia da entrega. O protocolo não é
+responsável por ordenar os datagramas que, embora recebidos com sucesso, estejam fora da ordem em que foram transmitidos.
+II Os datagramas devem conter, além dos endereços de rede das máquinas, números que identifiquem as entidades nas máquinas de
+origem e destino para distinguirem as entidades nas máquinas envolvidas em uma comunicação.
+IM O protocolo deve evitar que as aplicações tenham de definir os formatos usados para representar os dados nas máquinas. Na
+transmissão, o protocolo deve converter os dados de um formato específico de máquina para um formato independente de máquina.
+Na recepção, deve converter de um formato independente de máquina para um formato específico de máquina.
+IV O protocolo poderá fragmentar um datagrama na origem e remontá-lo no destino, para que dados sejam transmitidos por meio de
+redes cujas camadas físicas tenham tamanhos variados para as unidades máximas de transferência (maximum transfer unit).
+V O protocolo deve implementar o controle de acesso ao meio de transmissão. Antes de transmitir, deve aguardar o meio de
+transmissão ficar livre. Se outras máquinas tentarem transmitir ao mesmo tempo, ele deve enviar um sinal para garantir que as
+máquinas detectem a colisão. Em seguida, deve aguardar e novamente tentar transmitir.
+Entre os requisitos propostos pela equipe de projeto, estão adequados para um um protocolo da camada de rede os requisitos
+O LIIelV. O LUIevV. O LIVeV. O IL,HIelV. O M,IVeV.
+
+QUESTÃO 85
+Em sistemas distribuídos, é necessário, muitas vezes, resolver problemas decorrentes do fato de diferentes plataformas
+poderem adotar diferentes formas para representar os dados.
+A respeito de sistemas distribuídos heterogêneos, faça o que se pede a seguir.
+a) Apresente exemplos das diferenças nas formas de representação dos dados que podem causar problemas em sistemas distribuídos.
+(valor: 5,0 pontos)
+b) Explique o que é eXternal Data Representation (XDR) e como uma biblioteca XDR pode ser usada em chamadas a procedimentos
+remotos. (valor: 5,0 pontos)
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T08:21:57</Created>
+	<LastChange>2020-11-13T19:35:27</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VII-13.jpg" imageWidth="1656" imageHeight="2339">
+	<SeparatorRegion id="r12">
+	<Coords points="916,102 916,2147 918,2147 918,102"/></SeparatorRegion>
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="951,832 1079,832 1079,882 1275,882 1275,885 1394,885 1394,882 1550,882 1550,1081 1262,1081 1262,1111 1175,1111 1175,1324 980,1324 980,1322 938,1322 938,1081 937,1081 937,907 938,907 938,882 951,882"/>
+	<TextEquiv conf="0.93361">
+	<Unicode>QUESTÃO 26
+Determinada liga de cobre tem um módulo de
+elasticidade de 118.000 N/mmº?. Considere um tubo que,
+constituído dessa liga de cobre com 4 m de comprimento,
+40 mm de diâmetro externo e 38 mm de diâmetro
+interno, esteja sendo solicitado por uma carga de tração
+de 4.000 N. Nesse caso, o aumento total no comprimento
+inicial desse tubo estará entre
+1,5 mm e 1,6 mm.
+1,4 mm e 1,5 mm.
+1,3 mm e 1,4 mm.
+1,2 mm e 1,3 mm.
+1,0 mm e 1,2 mm.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r38" type="paragraph">
+	<Coords points="937,121 1552,121 1552,161 1550,161 1550,805 938,805 938,161 937,161"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>QUESTÃO 25
+Com base nas informações apresentadas no texto,
+assinale a opção correta.
+O A redução da vazão de transposição prevista pelo
+projeto de 2000, em relação à previsão do projeto de
+1985, deve-se ao aumento do número de canais de
+captação e de distribuição de água.
+O A variação entre a vazão de transposição apresentada
+no projeto de 2000 e a apresentada no projeto de
+2005 deve-se ao consumo de água necessário à
+revitalização do rio.
+O No projeto de 2005, a vazão de transposição
+representa 30% das perdas por evaporação.
+O A disponibilidade de água por habitante prevista nos
+projetos duplicou em 20 anos.
+O No projeto de 2005, a vazão de transposição
+representa menos de 2% da vazão média de longo
+período na foz do rio.</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r4">
+	<Coords points="145,391 145,793 900,793 900,391"/></TableRegion>
+	<TableRegion id="r5">
+	<Coords points="145,967 145,1221 863,1221 863,967"/></TableRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="103,131 465,131 465,191 860,191 860,936 142,936 142,153 103,153"/>
+	<TextEquiv conf="0.96224">
+	<Unicode>Texto para as questões 24 e 25.
+A transposição do rio São Francisco é uma idéia que tem sido
+discutida há bastante tempo, sendo apontado o ano de 1847 como
+marco para a primeira proposta. Recentemente, o projeto ganhou
+contornos mais técnicos, com propostas objetivas para a quantidade
+de água a ser captada. Informações sobre quatro versões do projeto
+são apresentadas na tabela | a seguir.
+Em função da população atendida, diferente para cada
+período considerado, foi estimada a vazão per capita disponível,
+conforme indicado na tabela 2. A vazão média de longo período na
+foz do rio é de aproximadamente 1.800 m/s.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="103,1296 898,1296 898,1846 408,1846 408,1917 230,1917 230,2123 104,2123 104,1354 103,1354"/>
+	<TextEquiv conf="0.96436">
+	<Unicode>QUESTÃO 24
+Com base nas informações apresentadas no texto e considerando a idéia
+de usos múltiplos dos recursos hídricos, julgue os itens seguintes.
+I Coma disponibilidade de água assegurada pelo projeto de 1985, uma
+família de agricultores com cinco pessoas teria atendido o seu
+consumo doméstico e poderia irrigar uma área de 30.000 mº.
+II Para irrigar uma gleba de 180 ha cuja cultura consuma 10 mm/dia de
+água, seria necessária uma quantidade de água equivalente à
+disponibilidade de água para 100 mil habitantes, considerando-se o
+projeto de 2005.
+III A disponibilidade de água contemplada no projeto de 2005 garantiria
+o atendimento pleno da demanda da população de um povoado, se a
+distribuição dispusesse de micromedição.
+IV Para um povoado de 2.000 habitantes, a disponibilidade de água
+garantida pelo projeto de 2000 seria suficiente para atender o consumo
+humano e manter uma cultura irrigada comunitária de 30 ha.
+Estão certos apenas os itens
+O Ie.
+O Ie.
+O Nem.
+O NelV.
+O IIMelV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-23T03:22:02</Created>
+	<LastChange>2020-10-23T22:11:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_IV-16.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r40" type="paragraph">
+	<Coords points="103,1516 1376,1516 1376,1517 1557,1517 1557,1629 467,1629 467,1628 267,1628 267,1739 1375,1739 1375,1740 1556,1740 1556,1832 1558,1832 1558,1902 1045,1902 1045,2028 1054,2028 1054,2052 991,2052 991,2103 104,2103 104,1938 105,1938 105,1760 104,1760 104,1759 103,1759"/>
+	<TextEquiv conf="0.94950">
+	<Unicode>QUESTÃO 35
+Quando submetidos a temperatura e pressão acima de seus valores críticos, os fluidos são chamados supercríticos. Um processo
+típico com fluido supercrítico está esquematizado na figura I acima. Separações com fluidos supercríticos têm sido usadas
+comercialmente em alimentos e produtos farmacêuticos. Um exemplo clássico é a descafeinação do café usando-se CO, supercrítico
+como solvente.
+Com base nessas informações e no diagrama pressão-entalpia para o dióxido de carbono mostrado na figura II, assinale a opção correta.
+O O processo de extração com CO, supercrítico explora as vantagens das propriedades do fluido, mas sofre restrições devido à
+geração de resíduos em maior escala do que nos processos convencionais de extração.
+O O volume específico do CO, no ponto crítico é de aproximadamente 0,002 m*/kg.
+O O ponto P no diagrama pressão-entalpia representa CO, no estado supercrítico.
+O Acima da temperatura crítica, um gás pode ser liquefeito pelo aumento de pressão.
+OQ À pressão de | atm e à temperatura de 20 ºC, o CO, é um gás, não um vapor.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="380,157 380,560 1242,560 1242,157"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="214,560 214,1494 1445,1494 1445,560"/></ImageRegion></Page></PcGts>

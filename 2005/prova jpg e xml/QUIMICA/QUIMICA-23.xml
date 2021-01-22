@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-20T22:16:48</Created>
+	<LastChange>2020-10-20T23:18:47</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-23.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="457,391 457,925 1240,925 1240,391"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="79,263 1574,263 1574,369 1573,369 1573,1365 79,1365"/>
+	<TextEquiv conf="0.94520">
+	<Unicode>QUESTÃO 7
+O método de análise térmica diferencial (ATD) foi aplicado para a análise do oxalato de cálcio monohidratado, CaC,O,.H,O, na
+presença de oxigênio, numa taxa de aquecimento de 8º C/minuto. O termograma diferencial é apresentado na figura a seguir:
+a) Identifique as transformações exotérmicas e endotérmicas neste gráfico.
+(valor: 2,0 pontos)
+b) Aquetransformação está associado o pico | apresentado no gráfico?
+(valor: 2,0 pontos)
+c) Que grandeza termodinâmica pode ser calculada a partir da integração da área de cada um desses picos?
+(valor: 2,0 pontos)
+d) Considerando que um dos produtos formados na transformação associada ao pico Il é o CaCO,, escreva as equações
+químicas correspondentes às reações associadas aos picos Il e Ill.
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,1482 95,1482 95,1518 1573,1518 1573,2018 79,2018 79,1958 80,1958 80,1818 79,1818"/>
+	<TextEquiv conf="0.96954">
+	<Unicode>QUESTÃO 8
+Uma mistura de proteínas pode ser separada em função de suas massas através da técnica de eletroforese em gel
+(em geral, gel de poliacrilamida), em condições de desnaturação, utilizando-se uma solução de dodecilsulfato de sódio
+(HCACH,), -CH,OSO," Na*, SDS — sodium dodecy! sulfate) e 2-mercaptoetanol (ou 2-tivetanol, HOCH,-CH,SH). Este
+último agente visa à redução das ligações dissulfetos entre cadeias de polipeptídeos da mesma proteína e/ou de proteínas
+diferentes da mistura. Por outro lado, os ânions dodecilsulfato se ligam na proporção de um ânion para cada dois resíduos de
+aminoácido, conferindo um caráter negativo às proteínas desnaturadas.
+a) Qualéo grupo funcional gerado pela redução das ligações dissulfetos?
+(valor: 2,0 pontos)
+b) Explique o princípio da separação de proteínas por eletroforese.
+(valor: 4,0 pontos)
+c) Qualaimportância da formação do complexo proteína-ânion dodecilsulfato para esta separação?
+(valor: 4,0 pontos)</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:25:34</Created>
+	<LastChange>2020-10-24T04:09:28</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-23.jpg" imageWidth="1656" imageHeight="2339">
+	<ImageRegion id="r4">
+	<Coords points="155,1081 156,1546 787,1546 786,1081"/></ImageRegion>
+	<ImageRegion id="r0">
+	<Coords points="160,502 160,685 774,685 774,502"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="1008,725 1008,828 1402,828 1402,725"/></ImageRegion>
+	<ImageRegion id="r2">
+	<Coords points="877,400 877,634 1560,634 1560,400"/></ImageRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="846,102 846,2154 851,2154 851,102"/></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="114,120 835,120 835,150 834,150 834,845 833,845 833,1023 758,1023 758,1704 834,1704 834,2136 101,2136 101,478 100,478 100,172 114,172"/>
+	<TextEquiv conf="0.88807">
+	<Unicode>QUESTÃO 44
+A solidificação é, sem dúvida, uma das rotas mais importantes de
+processamento de metais e ligas. Como exemplos em processos de
+solidificação tem-se a fundição em moldes, o lingotamento contínuo
+e a soldagem. O diagrama termodinâmico de nucleação e do
+crescimento de uma fase sólida a partir de um líquido está ilustrado
+a seguir. A partir desse diagrama termodinâmico, considerando-se
+a nucleação homogênea de um metal puro, com a formação de
+embriões esféricos de raio (R), o valor total de energia livre (AG)
+pode ser expresso pela equação 1, a seguir.
+em que AG é a energia livre total; R é o raio de nucleação; AG, é a
+energia livre de volume e o é a energia livre de superfície. A partir
+da equação 1, pode-se obter o valor para o raio crítico (R*) para
+nucleação homogênea, conforme mostra a equação, a seguir.
+R*=20Tm/(AH;* AT) (eq.2),
+em que R* é o raio crítico de nucleação; AH; é a entalpia de fusão;
+Tm é a temperatura de fusão e AT é o superesfriamento.
+FR (dimensão núcleo)
+Embasado nas informações acima, assinale a opção correta.
+O Para valores de R inferiores a R*, o termo de energia livre de
+volume é maior que o valor de energia livre de superfície (O).
+O Impurezas, precipitados e paredes de recipientes podem atuar
+como “sementes” ou iniciadores da nucleação homogênea.
+O A barreira de ativação para nucleação homogênea é geralmente
+inferior à barreira para a nucleação heterogênea.
+O Nucleação homogênea é favorecida pela contribuição de
+energia livre associada ao volume e desfavorecida pela energia
+livre associada à superfície.
+O Quanto maior o valor do superesfriamento, maior será a
+dimensão do núcleo crítico em um processo de solidificação
+com nucleação homogênea.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="886,120 1548,120 1548,150 1547,150 1547,381 1546,381 1546,857 1547,857 1547,1217 1548,1217 1548,2142 875,2142 875,2143 874,2143 874,1432 873,1432 873,165 886,165"/>
+	<TextEquiv conf="0.81477">
+	<Unicode>QUESTÃO 45
+A difusão em sólidos é importante em diversos tratamentos
+térmicos de materiais. A revolução científica e tecnológica
+ocorrida nos últimos 50 anos está diretamente associada à
+indústria microeletrônica. Nessas indústrias, o processo de
+fabricação de dispositivos semicondutores à base de silício está
+intimamente ligado à introdução por difusão “controlada” de
+impurezas de elementos químicos como Boro (B), Arsênio
+(As) e Fósforo (P), conforme ilustrado a seguir.
+O diagrama abaixo ilustra uma interface de dois materiais,
+A e B, puros, colocados em contato.
+O mecanismo de difusão intersticial pode ser estudado por
+meio da lei de Fick, mostrada na equação | a seguir.
+1.º Lei de Fick — Difusão
+Jr= Dy . (ACy/Ax) (eq. 1),
+em que Jp é o fluxo de átomos de B, na interface; Dy é a
+difusividade (ou coeficiente de difusão do elemento B no
+sólido A) e (ACZ/Ax) é o gradiente de concentração de B.
+A difusividade D pode ser expressa pela equação 2 a seguir.
+Dy =D, exp (-Q/RT) (eq. 2),
+em que D, é o fator de frequência de salto; Q é a barreira de
+ativação para difusão; R é a constante universal dos gases; T
+é a Temperatura K.
+Com base nos diagramas e equações apresentados, assinale a
+opção correta.
+O Os valores de difusividade de átomos de um mesmo
+elemento em materiais sólidos para o volume (Dy),
+contorno de grão (Deg) e superfície (Ds) a uma mesma
+temperatura apresentam a seguinte ordem crescente:
+Dy&gt; DeG&gt; Ds.
+O O valor de difusividade D para difusão intersticial do
+carbono, nitrogênio e hidrogênio em ferro na fase austenita
+(Fe-y, CFC) deve ser superior ao valor de difusão em
+ferrita (Fe-a, CCC).
+O O gradiente de concentração é a força motriz para o
+processo de difusão em sólidos. Quanto maior a diferença
+de potencial químico, menor será o fluxo de átomos no
+processo de difusão.
+O Considerando-se que 2 chapas de aço idênticas são
+utilizadas como trocadores de calor em sistema de
+aquecimento com nitrogênio e que uma chapa está
+submetida à temperatura interna de 1.000 ºC, e a outra, de
+1.400 ºC, é correto afirmar que a chapa submetida à maior
+temperatura interna apresentará menor profundidade de
+penetração de nitrogênio no metal.
+O Medidas de difusividade de um mesmo sistema em
+diferentes temperaturas permitem que sejam obtidos os
+valores da energia de ativação para esse sistema e o fator
+pré-exponencial.</Unicode></TextEquiv></TextRegion></Page></PcGts>

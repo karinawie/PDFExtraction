@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:23:37</Created>
+	<LastChange>2020-10-24T04:11:16</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_V-30.jpg" imageWidth="1656" imageHeight="2339">
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="989,286 1395,286 1395,379 1530,379 1530,380 1531,380 1531,960 1513,960 1513,1083 1548,1083 1548,1100 1308,1100 1308,1239 1547,1239 1547,1509 1548,1509 1548,1851 1547,1851 1547,1989 1548,1989 1548,2063 1376,2063 1376,2114 884,2114 884,1958 845,1958 845,1934 884,1934 884,1744 845,1744 845,1721 884,1721 884,1532 845,1532 845,1509 884,1509 884,1372 845,1372 845,1100 844,1100 844,1083 864,1083 864,960 863,960 863,379 989,379"/>
+	<TextEquiv conf="0.96669">
+	<Unicode>QUESTÃO 62
+Trem que levita é sucesso em Brasília
+Um miniprotótipo de trem que levita e transita a
+400 km/h na presença de campo magnético foi um dos
+sucessos de público na 8.º Expociência, realizada em julho de
+2005, em Brasília. Ele levita a alguns centímetros de distância
+de um trilho de ferrita. As rodas do trem foram substituídas por
+pastilhas supercondutoras, baseados em um composto de ítrio
+(Y), bário (Ba) e cobre (Cu), refrigeradas por nitrogênio líquido
+a uma temperatura de - 196 ºC. Esse tipo de tecnologia é mais
+avançado que outros experimentados por países como Japão e
+Alemanha, que têm protótipos em tamanho real prontos para
+entrar em operação comercial. A aplicação de materiais
+supercondutores será certamente importante na área de
+transportes, além de áreas como medicina, desenvolvimento de
+novos dispositivos, transmissão e armazenamento de energia.
+Considerando o texto acima e as características dos materiais
+supercondutores, assinale a opção correta.
+O As aplicações dos materiais supercondutores baseiam-se no
+fato de esses materiais serem condutores perfeitos.
+O As duas propriedades fundamentais dos supercondutores —
+resistência elétrica praticamente nula e efeito Meissner — são
+as responsáveis pela levitação do trem.
+O O efeito de levitação do trem sobre os trilhos deve-se à
+repulsão típica que ocorre entre dois ímãs quando seus pólos
+iguais são aproximados, e não ao diamagnetismo dos
+materiais supercondutores.
+O O fenômeno de levitação do trem deve-se exclusivamente à
+ausência de resistência elétrica, a qual é decorrente das
+propriedades dos portadores supercondutores denominados
+férmions.
+O Do ponto de vista da viabilidade técnica e comercial do
+projeto, seria mais vantajoso se os trilhos fossem feitos de
+material supercondutor e as pastilhas que substituem as rodas
+do trem fossem feitas de material magnético.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="820,191 820,2148 828,2148 828,191"/></SeparatorRegion>
+	<TextRegion id="r10" type="caption">
+	<Coords points="100,212 806,212 806,252 740,252 740,405 806,405 806,406 807,406 807,637 805,637 805,1127 774,1127 774,1221 369,1221 369,1338 805,1338 805,2077 675,2077 675,2122 140,2122 140,2077 101,2077 101,1127 100,1127 100,736 101,736 101,405 166,405 166,252 100,252"/>
+	<TextEquiv conf="0.90579">
+	<Unicode>QUESTÃO 61
+Magnus magnes ipsum est globus terrestris
+(O nosso planeta é um grande ímã, William Gilbert)
+O jornal Folha de S. Paulo noticiou recentemente que a
+grafite deve ganhar novas aplicações comerciais sob a forma de um
+novo material fortemente magnético (ferromagneto). A grafite
+comercial é um material formado por planos de grafenos —
+hexágonos de átomos de carbono ligados covalentemente — ligados
+entre si por forças fracas do tipo Van der Waals.
+A substituição de elementos como ferro, cobalto e níquel
+por grafite magnética teria enorme impacto em diversas áreas.
+Na transformação química da grafite comercial em um
+material magnético, são introduzidas pequenas cavidades na
+estrutura do mineral pelas quais passam correntes eletrônicas que
+geram um momento magnético resultante não-nulo semelhante ao
+produzido por um solenóide. Não se pode imputar esse
+comportamento à presença de impurezas magnéticas no material,
+que é da ordem de algumas dezenas de partes por milhão (ppm).
+Assim, o efeito parece ser genuinamente intrínseco ao processo
+aplicado à grafite comercial, ou seja, à existência de cavidades na
+estrutura do material.
+Tendo como referência o texto acima e sabendo que Z(C) =
+assinale a opção correta.
+O Um material orgânico é formado essencialmente por carbono
+e, portanto, é ferromagnético, independentemente de qualquer
+transformação físico-química.
+O O comportamento ferromagnético do novo material
+desenvolvido, grafite magnética, tem como origem os elétrons
+3d da estrutura eletrônica do carbono.
+O A grafite comercial, como conseqiiência de sua estrutura,
+apresenta propriedades elétricas fortemente anisotrópicas, que
+permitem o aparecimento do ferromagnetismo por meio da
+introdução de defeitos colunares nos planos de grafenos.
+O As impurezas magnéticas presentes na grafite comercial
+formam agrupamentos magnéticos localizados, chamados de
+clusters, que dão origem ao comportamento ferromagnético
+observado na grafite magnética.
+O A grafite magnética é um novo compósito biocompatível que
+pode ser utilizado em medicina visando-se à obtenção de
+novos medicamentos e elementos de engenharia.</Unicode></TextEquiv></TextRegion></Page></PcGts>

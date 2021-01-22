@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-24T03:09:23</Created>
+	<LastChange>2020-10-24T03:40:49</LastChange></Metadata>
+	<Page imageFilename="ENGENHARIA_VIII-30.jpg" imageWidth="1653" imageHeight="2339">
+	<ImageRegion id="r0">
+	<Coords points="408,425 408,1174 1197,1174 1197,425"/></ImageRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,262 1151,262 1151,325 633,325 633,1331 764,1331 764,1364 870,1364 870,1398 1128,1398 1128,1431 1200,1431 1200,1458 80,1458 80,325 79,325"/>
+	<TextEquiv conf="0.96038">
+	<Unicode>QUESTÃO 41
+A figura abaixo mostra um detalhe de uma carta náutica utilizada em navegação costeira.
+Com base no desenho pode-se afirmar que
+(A) a área azul indica temperatura mais baixa.
+(B) alinha, na parte inferior da figura, indica a termoclina.
+(C) a linha próxima da área azul indica valores de igual salinidade.
+(D) a área amarela da figura representa a zona costeira e sua respectiva linha de costa.
+(E) os números, na parte inferior do gráfico, são a correção da declividade magnética pontual.</Unicode></TextEquiv></TextRegion></Page></PcGts>

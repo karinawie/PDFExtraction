@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-10-21T01:19:20</Created>
+	<LastChange>2020-11-23T03:44:13</LastChange></Metadata>
+	<Page imageFilename="QUIMICA-09.jpg" imageWidth="1653" imageHeight="2339">
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="80,1564 110,1564 110,1597 714,1597 714,1624 466,1624 466,1747 224,1747 224,1851 1574,1851 1574,1908 204,1908 204,1969 198,1969 198,2051 128,2051 128,2056 80,2056 80,1908 79,1908 79,1851 80,1851 80,1792 81,1792 81,1587 80,1587"/>
+	<TextEquiv conf="0.96852">
+	<Unicode>QUESTÃO 12
+Dispõe-se de cada um dos líquidos listados a seguir:
+I - Água
+II - Ácido sulfúrico concentrado
+III - Benzeno
+IV - Etanol
+V - Tolueno
+Ao misturar volumes iguais de dois desses líquidos, qual é o par que forma uma solução cujo volume final mais se aproxima da
+soma dos volumes individuais dos líquidos misturados?
+(A) I e II.
+(B) I e III.
+(C) II e IV.
+(D) III e IV.
+(E) III e V.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="79,881 1427,881 1427,944 1307,944 1307,1027 782,1027 782,1157 1158,1157 1158,1268 1168,1268 1168,1300 512,1300 512,1390 194,1390 194,1457 88,1457 88,1523 80,1523 80,1390 79,1390 79,1330 81,1330 81,1097 347,1097 347,944 79,944"/>
+	<TextEquiv conf="0.92703">
+	<Unicode>QUESTÃO 11
+A pilha formada pelos eletrodos que compõem a bateria de chumbo utilizada em automóveis é representada por:
+Pb(s)| PPSO,(s) | H*(aqg), HSO, (aq) | PPO,(s) | PPSO,(s) | Pb(s) — (Eº=2V)
+Em relação a esta pilha, considere as afirmações a seguir.
+I - Os eletrodos são de metal/metal insolúvel em contato com solução de íons do metal.
+II - A reação anódica é Pb(s) + HSO4
+−
+(aq) PbSO4
+(s) + H+(aq) + 2e−.
+III - Trata-se de uma pilha primária, pois pode ser recarregada.
+IV - O Pb contido em baterias gastas não pode ser reciclado devido à presença de H2
+SO4
+.
+São corretas apenas as afirmações:
+(A) I e II.
+(B) I e III.
+(C) II e III.
+(D) III e IV.
+(E) I, II e IV.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="79,264 1573,264 1573,360 970,360 970,580 1573,580 1573,640 879,640 879,771 896,771 896,844 89,844 89,838 80,838 80,580 552,580 552,360 79,360"/>
+	<TextEquiv conf="0.95628">
+	<Unicode>QUESTÃO 10
+O ozônio tem grande importância nos processos que ocorrem na troposfera. Um mecanismo proposto para a sua decomposi-
+ção na atmosfera, na ausência de poluentes, é apresentado a seguir.
+k
+O; = O,+O (etapa 1)
+1
+k,
+O+O; º*rO,+O, (etapa2)
+Considerando que a etapa lenta do processo é a 2, qual é a relação de dependência existente entre a velocidade de decomposição do ozônio e as concentrações das espécies envolvidas?
+(A) A velocidade não depende da concentração de O2
+.
+(B) A velocidade é diretamente proporcional à concentração de O2
+.
+(C) A velocidade é diretamente proporcional à concentração de O3
+.
+(D) A velocidade é inversamente proporcional à concentração de O2
+.
+(E) A velocidade é inversamente proporcional à concentração de O3</Unicode></TextEquiv></TextRegion></Page></PcGts>
